@@ -35,18 +35,18 @@
 }
 
 [data-theme="pink"] {
-  --bg: #ffffff;
-  --bg2: #fdf2f8;
-  --surface: #ffffff;
-  --border: #f9a8d4;
-  --text: #1a0a12;
-  --text2: #9d174d;
+  --bg: #000000;
+  --bg2: #111111;
+  --surface: #111111;
+  --border: #3d0a22;
+  --text: #f9e8f0;
+  --text2: #c084a0;
   --accent: #db2777;
   --accent-hover: #be185d;
   --accent-text: #ffffff;
-  --card: #ffffff;
-  --shadow: 0 1px 3px rgba(219,39,119,0.08);
-  --come-color: #1a0a12;
+  --card: #111111;
+  --shadow: 0 1px 3px rgba(219,39,119,0.2);
+  --come-color: #f472b6;
 }
 
 body {
@@ -76,6 +76,14 @@ body {
 [data-theme="howcome"] .card:hover,
 [data-theme="black"] .card:hover {
   box-shadow: 0 4px 16px rgba(26,157,142,0.15), 0 16px 40px rgba(0,0,0,0.35);
+}
+
+[data-theme="pink"] .card {
+  box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
+}
+
+[data-theme="pink"] .card:hover {
+  box-shadow: 0 4px 16px rgba(219,39,119,0.2), 0 16px 40px rgba(0,0,0,0.35);
 }
 
 .btn-primary {

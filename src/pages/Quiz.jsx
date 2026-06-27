@@ -425,13 +425,13 @@ export default function Quiz() {
     if (isBrowse && quizState === 'quiz') setRevealed(true)
   }, [current, isBrowse, quizState])
 
-  // Fix 3: Timer — no setRevealed in timed mode
+  // Timer — stops when answer is selected or timed out
   useEffect(() => {
-    if (quizState !== 'quiz' || !isTimed || timedOut) return
-    if (timeLeft <= 0) { setTimedOut(true); return }  // removed setRevealed(true)
+    if (quizState !== 'quiz' || !isTimed || timedOut || selected !== null) return
+    if (timeLeft <= 0) { setTimedOut(true); return }
     const id = setTimeout(() => setTimeLeft(t => t - 1), 1000)
     return () => clearTimeout(id)
-  }, [quizState, isTimed, timeLeft, timedOut])
+  }, [quizState, isTimed, timeLeft, timedOut, selected])
 
   function handleStart({ questions, mode, secsPerQ }) {
     setQuizData({ questions, mode, secsPerQ })
@@ -460,7 +460,13 @@ export default function Quiz() {
     }
   }
 
-  function handleCheck() { setRevealed(true) }
+  function handleCheck() {
+    setRevealed(true)
+    if (q?.correctAnswer && selected === q.correctAnswer) {
+      setShowConfetti(true)
+      setTimeout(() => setShowConfetti(false), 3000)
+    }
+  }
 
   function handleNext() {
     if (current + 1 >= quizData.questions.length) {
@@ -554,16 +560,11 @@ export default function Quiz() {
           const isSelected = selected === letter
           const isCorrect = q.correctAnswer && letter === q.correctAnswer
           let style = {}
-          if (revealed) {
-            // Practice mode reveal: full color fill
-            if (isCorrect) style = { background: '#16a34a', color: 'white', borderColor: '#16a34a' }
-            else if (isSelected && !isCorrect) style = { background: '#dc2626', color: 'white', borderColor: '#dc2626' }
-            else style = { background: 'var(--bg2)', color: 'var(--text2)', borderColor: 'var(--border)' }
-          } else if (isTimed && selected !== null) {
-            // Timed mode after selection: border only
+          if (revealed || (isTimed && selected !== null)) {
+            // Border-only feedback — both practice (after Check) and timed (after selection)
             if (isCorrect) style = { background: 'var(--surface)', color: 'var(--text)', borderColor: '#16a34a', borderWidth: '3px' }
-            else if (isSelected) style = { background: 'var(--surface)', color: 'var(--text)', borderColor: '#dc2626', borderWidth: '3px' }
-            else style = { background: 'var(--surface)', color: 'var(--text2)', borderColor: 'var(--border)' }
+            else if (isSelected && !isCorrect) style = { background: 'var(--surface)', color: 'var(--text)', borderColor: '#dc2626', borderWidth: '3px' }
+            else style = { background: 'var(--bg2)', color: 'var(--text2)', borderColor: 'var(--border)' }
           } else if (timedOut) {
             if (isCorrect) style = { background: 'var(--surface)', color: 'var(--text)', borderColor: '#16a34a', borderWidth: '3px' }
             else style = { background: 'var(--surface)', color: 'var(--text2)', borderColor: 'var(--border)' }

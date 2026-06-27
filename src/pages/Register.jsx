@@ -101,7 +101,7 @@ export default function Register() {
                     background: form.gender === g ? 'var(--bg2)' : 'var(--surface)',
                     color: form.gender === g ? 'var(--text)' : 'var(--text2)',
                   }}>
-                  {g === 'male' ? '⬛ Male' : '🌸 Female'}
+                  {g === 'male' ? 'Male' : 'Female'}
                 </button>
               ))}
             </div>
