@@ -1,8 +1,10 @@
 import { useState, useEffect, useMemo } from 'react'
-import { useSearchParams } from 'react-router-dom'
+import { useSearchParams, Link } from 'react-router-dom'
 import questions from '../data/questions.json'
 import papers from '../data/papers.json'
 import Confetti from '../components/Confetti'
+import { useResults } from '../hooks/useResults'
+import { useAuth } from '../contexts/AuthContext'
 
 function formatQuestion(text) {
   if (!text) return text
@@ -288,10 +290,11 @@ function QuizSetup({ onStart }) {
   )
 }
 
-// Fix 2: Result icons for 5 score bands
+// Result icons for 5 score bands
 function QuizResult({ questions, answers, onRetry, onHome }) {
   const [reviewIdx, setReviewIdx] = useState(0)
   const [showConfetti, setShowConfetti] = useState(false)
+  const { user } = useAuth()
 
   const score = answers.filter((a, i) =>
     questions[i].correctAnswer && a === questions[i].correctAnswer
@@ -308,6 +311,23 @@ function QuizResult({ questions, answers, onRetry, onHome }) {
     }
   }, [pct])
 
+  // Topic breakdown for this quiz
+  const topicStats = useMemo(() => {
+    const stats = {}
+    questions.forEach((q, i) => {
+      const topic = q.topic || 'General'
+      if (!stats[topic]) stats[topic] = { correct: 0, total: 0 }
+      stats[topic].total++
+      if (answers[i] === q.correctAnswer) stats[topic].correct++
+    })
+    return Object.entries(stats)
+      .map(([topic, { correct, total }]) => ({ topic, correct, total, pct: Math.round((correct / total) * 100) }))
+      .sort((a, b) => a.pct - b.pct)
+  }, [questions, answers])
+
+  const weakTopics = topicStats.filter(t => t.pct < 60 && t.total >= 1)
+  const strongTopics = topicStats.filter(t => t.pct >= 80 && t.total >= 1)
+
   // 5-band icon
   const icon = pct > 90 ? '🏆' : pct >= 71 ? '🎉' : pct >= 51 ? '📚' : pct >= 31 ? '💪' : '😓'
   const message = pct > 90 ? 'Outstanding! Excellent work!' : pct >= 71 ? 'Great job! Keep it up.' : pct >= 51 ? 'Good effort — keep practising!' : pct >= 31 ? 'You\'re getting there — keep going!' : 'Don\'t give up — practice more!'
@@ -322,8 +342,9 @@ function QuizResult({ questions, answers, onRetry, onHome }) {
   return (
     <div className="max-w-2xl mx-auto px-4 py-8">
       <Confetti active={showConfetti} />
+
       {/* Score card */}
-      <div className="card rounded-2xl p-6 text-center mb-6">
+      <div className="card rounded-2xl p-6 text-center mb-4">
         <div className="text-5xl mb-3">{icon}</div>
         <h2 className="text-2xl font-bold mb-1">
           {questions[0]?.correctAnswer ? `${score} / ${questions.length}` : `${answered} answered`}
@@ -343,6 +364,53 @@ function QuizResult({ questions, answers, onRetry, onHome }) {
           </button>
         </div>
       </div>
+
+      {/* Topic breakdown */}
+      {topicStats.length > 0 && (
+        <div className="card rounded-2xl p-4 mb-4">
+          <h3 className="font-bold text-sm mb-3">Topic Breakdown</h3>
+          <div className="space-y-2">
+            {topicStats.map(({ topic, correct, total, pct: tPct }) => (
+              <div key={topic}>
+                <div className="flex justify-between text-xs mb-1">
+                  <span style={{ color: 'var(--text)' }} className="truncate pr-2">{topic}</span>
+                  <span className="shrink-0 font-semibold" style={{ color: tPct >= 80 ? '#16a34a' : tPct >= 50 ? '#f59e0b' : '#ef4444' }}>
+                    {correct}/{total}
+                  </span>
+                </div>
+                <div className="w-full rounded-full h-1.5" style={{ background: 'var(--bg2)' }}>
+                  <div className="h-1.5 rounded-full transition-all"
+                    style={{
+                      width: `${tPct}%`,
+                      background: tPct >= 80 ? '#16a34a' : tPct >= 50 ? '#f59e0b' : '#ef4444'
+                    }} />
+                </div>
+              </div>
+            ))}
+          </div>
+
+          {weakTopics.length > 0 && (
+            <div className="mt-3 p-3 rounded-xl text-xs" style={{ background: 'rgba(239,68,68,0.1)', border: '1px solid rgba(239,68,68,0.2)' }}>
+              🔴 Focus on: {weakTopics.map(t => t.topic).join(', ')}
+            </div>
+          )}
+        </div>
+      )}
+
+      {/* Guest signup prompt */}
+      {!user && (
+        <div className="card rounded-2xl p-4 mb-4" style={{ border: '1px solid var(--accent)' }}>
+          <p className="text-sm font-semibold mb-1">Track your progress permanently</p>
+          <p className="text-xs mb-3" style={{ color: 'var(--text2)' }}>
+            Sign up to save your weak topics across all quizzes and see your improvement over time.
+          </p>
+          <Link to="/register"
+            className="block text-center py-2 rounded-lg text-sm font-semibold"
+            style={{ background: 'var(--accent)', color: 'var(--accent-text)' }}>
+            Sign Up Free →
+          </Link>
+        </div>
+      )}
 
       {/* Fix 6: Single question review with Prev/Next */}
       <div className="mb-3 flex items-center justify-between">
@@ -416,6 +484,7 @@ export default function Quiz() {
   const [timedOut, setTimedOut] = useState(false)
   const [showConfetti, setShowConfetti] = useState(false)
   const [vibratingOption, setVibratingOption] = useState(null)
+  const { saveResult } = useResults()
 
   const isTimed = quizData?.mode === 'timed'
   const isBrowse = quizData?.mode === 'browse'
@@ -473,6 +542,10 @@ export default function Quiz() {
   function handleNext() {
     if (current + 1 >= quizData.questions.length) {
       if (isBrowse) return // Browse mode doesn't go to result
+      // Save results before showing result screen
+      const finalAnswers = [...answers]
+      finalAnswers[current] = selected ?? answers[current]
+      saveResult(quizData.questions, finalAnswers, quizData.mode)
       setQuizState('result')
       return
     }

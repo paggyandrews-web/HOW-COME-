@@ -10,6 +10,7 @@ import Topics from './pages/Topics'
 import Exams from './pages/Exams'
 import Login from './pages/Login'
 import Register from './pages/Register'
+import Profile from './pages/Profile'
 
 /* Triggers page-enter animation on every route change */
 function AnimatedRoutes() {
@@ -24,6 +25,7 @@ function AnimatedRoutes() {
         <Route path="/exams" element={<Exams />} />
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
+        <Route path="/profile" element={<Profile />} />
       </Routes>
     </div>
   )
