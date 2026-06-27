@@ -36,7 +36,8 @@ export default function Login() {
         <p className="text-sm mb-5" style={{ color: 'var(--text2)' }}>
           Welcome back to{' '}
           <span style={{ color: 'var(--accent)', fontWeight: 700 }}>HOW </span>
-          <span style={{ color: 'var(--come-color)', fontWeight: 700 }}>COME?</span>
+          <span style={{ color: 'var(--come-color)', fontWeight: 700 }}>COME</span>
+          <span style={{ color: 'var(--accent)', fontWeight: 700 }}>?</span>
         </p>
 
         {error && (

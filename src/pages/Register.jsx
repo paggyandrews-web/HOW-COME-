@@ -44,7 +44,8 @@ export default function Register() {
         <p className="text-sm mb-5" style={{ color: 'var(--text2)' }}>
           Join{' '}
           <span style={{ color: 'var(--accent)', fontWeight: 700 }}>HOW </span>
-          <span style={{ color: 'var(--come-color)', fontWeight: 700 }}>COME?</span>
+          <span style={{ color: 'var(--come-color)', fontWeight: 700 }}>COME</span>
+          <span style={{ color: 'var(--accent)', fontWeight: 700 }}>?</span>
           {' '}to track progress and join the district leaderboard
         </p>
 

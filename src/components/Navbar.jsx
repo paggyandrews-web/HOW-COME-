@@ -41,7 +41,8 @@ export default function Navbar() {
           <img src="/logo.png" alt="HOW COME?" className="h-10 w-10 rounded-full object-contain" />
           <span className="font-extrabold text-xl tracking-tight">
             <span style={{ color: '#1a9d8e' }}>HOW </span>
-            <span style={{ color: '#ffffff' }}>COME?</span>
+            <span style={{ color: '#ffffff' }}>COME</span>
+            <span style={{ color: '#1a9d8e' }}>?</span>
           </span>
         </Link>
 
