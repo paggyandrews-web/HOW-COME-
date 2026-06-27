@@ -4498,5 +4498,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) you will pass — 'Unless you study well, you will pass' — ഇതിന്റെ meaning: 'നന്നായി പഠിക്കുന്നില്ലെങ്കിൽ, pass ആകും' — ഇത് logically wrong! പഠിക്കാതെ pass ആകും എന്ന് പറഞ്ഞാൽ ആർക്കും ബോധ്യം ആകില്ല. Unless = if not — so correct result should be negative. 🪤 PSC Trap: ഏറ്റവും easy-ആ തോന്നുന്ന option ആണ് ഇത്, students trap ആകും.\n\n❌ (C) you could pass — 'Could' = past ability / possibility (ഒരുപക്ഷേ pass ആകാം). 'Unless' conditional-ൽ future real situation ആണ്. First Conditional-ൽ 'will' ആണ് standard. 'Could' uncertain possibility കാണിക്കുന്നു — ഇവിടെ certain consequence ആണ് expected. 🪤 PSC Trap: 'Could' softer ആണ്, polite ആണ് എന്ന് തോന്നും — but grammar-ൽ wrong.\n\n❌ (D) you could have passed — 'Could have passed' = Past possibility that didn't happen (Third Conditional idea). 'Unless you study well' = future/present condition ആണ്. Past unreal situation ആകില്ല. 'Could have passed' = ഭൂതകാലത്ത് pass ആകാമായിരുന്നു (but didn't) — ഇവിടെ ആ meaning relevant അല്ല.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'UNLESS = U N LESS = You (do) NOT (the) LESS!' — 'Unless' = 'If not'. 'Unless you study' = 'If you don't study'. Result negative ആകണം — 'will NOT pass'!\n• Word family: unless | if not | provided that | as long as | on condition that — ഇവ ഒരേ conditional meaning ഉള്ള words. ഒരുമിച്ച് learn ചെയ്യുക.\n• PSC exam strategy: 'Unless' ഉള്ള sentence-ൽ result logically think ചെയ്യുക. 'Unless you study' = 'If you don't study' → result = 'you will NOT pass'. Logic ശരിക്ക് follow ചെയ്ത് answer select ചെയ്യുക. Logic + grammar = guaranteed mark!"
     }
+  },
+  {
+    "id": "097-2025-M-Q81",
+    "paperId": "097-2025-M",
+    "questionNumber": 81,
+    "topic": "Infinitive and Gerunds",
+    "questionText": "Teacher could not help ______________ at the criticism.",
+    "optionA": "laughs",
+    "optionB": "to laugh",
+    "optionC": "laughing",
+    "optionD": "laugh",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) laughing\n\n• \"cannot help + V-ing\" = English-ലെ ഒരു fixed expression ആണ് — \"അടക്കാൻ കഴിഞ്ഞില്ല\" എന്നർഥം.\n• \"Teacher could not help laughing at the criticism\" = വിമർശനം കേട്ട് teacher-ന് ചിരി അടക്കാൻ കഴിഞ്ഞില്ല.\n• \"cannot/could not help\" ന് ശേഷം എപ്പോഴും gerund (-ing form) വരും — infinitive (to laugh) അല്ല.\n• ഇത് PSC-ൽ classic gerund question ആണ് — \"cannot help\" കണ്ടാൽ -ing form ഉടൻ choose ചെയ്യൂ!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: cannot/could not help + V-ing (gerund) — ഒരിക്കലും infinitive (to+V) അല്ല!\n• \"Cannot help\" = \"avoid ചെയ്യാൻ കഴിഞ്ഞില്ല / അടക്കാൻ കഴിഞ്ഞില്ല\" — gerund-only expression.\n• Gerund-only expressions (fixed phrases):\n  - cannot help + V-ing: \"I can't help smiling.\" (ചിരി അടക്കാൻ കഴിയില്ല)\n  - it's no use + V-ing: \"It's no use crying.\" (കരഞ്ഞിട്ട് കാര്യമില്ല)\n  - it's worth + V-ing: \"It's worth trying.\" (try ചെയ്യേണ്ടതുണ്ട്)\n  - have difficulty + V-ing: \"I have difficulty sleeping.\" (ഉറക്കം വരാൻ ബുദ്ധിമുട്ടുണ്ട്)\n• ⭐ PSC ആവർത്തനം: \"cannot help\" + gerund PSC-ൽ repeatedly ചോദിക്കും — guaranteed mark!\n• ഉദാഹരണ sentences:\n  1. She could not help laughing at the joke. (ചിരി അടക്കാൻ കഴിഞ്ഞില്ല)\n  2. I cannot help feeling sorry for him. (സഹതാപം തോന്നാതിരിക്കാൻ കഴിയില്ല)\n  3. He could not help admiring her talent. (കഴിവ് കണ്ട് അത്ഭുതപ്പെടാതിരിക്കാൻ കഴിഞ്ഞില്ല)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) laughs\n• 'laughs' = Simple Present tense verb (third person singular) — ഇത് blank-ൽ fit ആകില്ല.\n• \"could not help laughs\" = grammatically completely wrong.\n• 🪤 PSC Trap: 'laugh' verb ആണ് — 's' add ചെയ്‌താൽ correct ആകും എന്ന് feel ഉണ്ടാകും.\n\n❌ (B) to laugh\n• \"cannot help to laugh\" = wrong — 'help' verb-ന് ശേഷം infinitive വരുമ്പോൾ different meaning: \"help someone to do something\" (സഹായിക്കുക).\n• \"cannot help + to laugh\" = not standard expression for \"unable to stop.\"\n• 🪤 PSC Trap: Infinitive (to + verb) everywhere fit ആകും എന്ന് students assume ചെയ്യും — ഇത് classic trap!\n\n❌ (D) laugh\n• 'laugh' = bare infinitive — \"cannot help laugh\" = not correct English.\n• Bare infinitive modal verbs-ന് (can, will, shall) ശേഷം വരും — \"cannot help\" ഒരു modal അല്ല.\n• 🪤 PSC Trap: 'laugh' simple ആണ്, correct ആണ് എന്ന് feel — പക്ഷേ -ing form വേണം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Cannot HELP = cannot STOP = need -ING! Stop running, Stop laughing — STOP + ING pattern ഓർക്കൂ. Cannot help = cannot stop = -ing!\" ഒരിക്കൽ ഇത് ഓർത്തിരുന്നാൽ മറക്കില്ല!\n• Gerund-only fixed expressions:\n  - cannot help + ing | it's no use + ing | it's worth + ing | mind + ing | avoid + ing.\n• PSC exam strategy: \"cannot help\" blank-ൽ കണ്ടാൽ options-ൽ -ing form ഉടൻ mark ചെയ്യൂ — \"laughing\" = C = done!"
+    }
+  },
+  {
+    "id": "097-2025-M-Q82",
+    "paperId": "097-2025-M",
+    "questionNumber": 82,
+    "topic": "Tenses in Conditional Sentences",
+    "questionText": "If I have the money, I ______________ a new dress for you.",
+    "optionA": "will buy",
+    "optionB": "would buy",
+    "optionC": "would have bought",
+    "optionD": "will have bought",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) will buy\n\n• \"If I have the money\" = If-clause-ൽ Simple Present tense → Type 1 Conditional (Real/Possible).\n• Type 1 formula: If + Simple Present → will + V1.\n• \"If I have the money, I will buy a new dress for you\" = പണം ഉണ്ടെങ്കിൽ (possible future) നിനക്ക് ഒരു dress വാങ്ങും.\n• \"have\" = present tense → future possibility → \"will buy\" ✓",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: If-clause tense നോക്കൂ → main clause decide ചെയ്യൂ:\n  - Type 1: If + Present → will + V1 (possible/real future)\n  - Type 2: If + Past → would + V1 (unreal present/future)\n  - Type 3: If + Past Perfect → would have + V3 (unreal past)\n• \"If I have\" = present → Type 1 → \"will buy.\"\n• Type 1 = real possibility — പണം കിട്ടുമെന്ന് possible ആണ്, so will ആണ് ഉപയോഗിക്കുന്നത്.\n• ⭐ PSC ആവർത്തനം: Conditionals PSC-ൽ very frequent — 3 types clearly ഓർക്കൂ.\n• ഉദാഹരണ sentences:\n  1. If it rains, we will cancel the match. (Type 1 - possible)\n  2. If I were rich, I would travel the world. (Type 2 - unreal present)\n  3. If she had studied, she would have passed. (Type 3 - unreal past)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) would buy\n• \"would buy\" = Type 2 Conditional — If + Past → would.\n• ഇവിടെ if-clause-ൽ \"have\" (present) ആണ്, past അല്ല → Type 2 wrong.\n• 🪤 PSC Trap: \"would buy\" = more polite/formal feel → students prefer it — പക്ഷേ if-clause present ആണ്!\n\n❌ (C) would have bought\n• \"would have bought\" = Type 3 Conditional — if-clause-ൽ past perfect ഉള്ളപ്പോൾ.\n• \"If I have\" = present → Type 3 ആകില്ല — completely wrong tense combination.\n• 🪤 PSC Trap: \"would have bought\" = sounds complex/correct — complexity = right ആണ് എന്ന് feel.\n\n❌ (D) will have bought\n• \"will have bought\" = Future Perfect — specific future time ആകുമ്പോൾ complete ആകുന്ന action-ന്.\n• Conditional sentence structure-ൽ Future Perfect ഉപയോഗിക്കില്ല.\n• 🪤 PSC Trap: \"will\" = future + \"have bought\" = complete feel → both sounds logical but wrong.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"If-clause = ROAD SIGN, Main clause = DESTINATION. Present road → will destination. Past road → would destination. Past perfect road → would have destination!\"\n• 3-type table:\n  - Present → will | Past → would | Past Perfect → would have.\n• PSC exam strategy: \"If I have\" = present tense in if-clause = Type 1 → ഉടൻ \"will buy\" choose ചെയ്യൂ. If-clause tense = answer key!"
+    }
+  },
+  {
+    "id": "097-2025-M-Q83",
+    "paperId": "097-2025-M",
+    "questionNumber": 83,
+    "topic": "Tenses",
+    "questionText": "My mother ______________ in this house for ten years.",
+    "optionA": "was living",
+    "optionB": "had been living",
+    "optionC": "has been living",
+    "optionD": "had lived",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) has been living\n\n• \"for ten years\" + present context (still living now) → Present Perfect Continuous tense.\n• \"My mother has been living in this house for ten years\" = അമ്മ പത്ത് വർഷമായി ഈ വീട്ടിൽ താമസിക്കുന്നു — ഇപ്പോഴും തുടരുന്നു.\n• Present Perfect Continuous = past-ൽ start ചെയ്‌ത് ഇപ്പോഴും ongoing ആയ action + \"for/since\" signal words.\n• \"for ten years\" = duration → Present Perfect Continuous (has been + V-ing) ✓",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: for/since + still ongoing action = Present Perfect Continuous (has/have been + V-ing).\n• Signal words:\n  - \"for + duration\" (for ten years, for two hours) → Present Perfect Continuous.\n  - \"since + starting point\" (since 2020, since morning) → Present Perfect Continuous.\n• Tense comparison:\n  - has been living = still living NOW (ongoing) ✓\n  - had been living = was living before, but stopped (past) ✗\n  - was living = simple past continuous, no \"for\" connection ✗\n  - had lived = past perfect, completed action ✗\n• ⭐ PSC ആവർത്തനം: \"for/since\" signal words = PSC-ൽ very common — Present Perfect / Present Perfect Continuous ഓർക്കൂ.\n• ഉദാഹരണ sentences:\n  1. She has been working here for five years. (still working)\n  2. It has been raining since morning. (still raining)\n  3. He has been studying for three hours. (still studying)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) was living\n• \"was living\" = Past Continuous — past-ൽ ongoing action, ഇപ്പോൾ continue ചെയ്യുന്നില്ല.\n• \"for ten years\" present context ഉള്ളതുകൊണ്ട് past tense wrong — ഇപ്പോഴും living ആണ്.\n• 🪤 PSC Trap: \"living\" = continuous feel → \"was living\" ശരിയാണ് എന്ന് feel ഉണ്ടാകും.\n\n❌ (B) had been living\n• \"had been living\" = Past Perfect Continuous — past-ൽ start ചെയ്‌ത്, another past point-ൽ stop ചെയ്‌ത action.\n• Mother ഇപ്പോഴും living ആണ്, stop ചെയ്‌തിട്ടില്ല → had been living wrong.\n• 🪤 PSC Trap: \"had been\" = sounds more complete/accurate → choose ചെയ്യും, പക്ഷേ mother still lives there!\n\n❌ (D) had lived\n• \"had lived\" = Past Perfect — past-ൽ complete ആയ action.\n• ഇവിടെ action ഇപ്പോഴും continuing ആണ് → past perfect wrong.\n• 🪤 PSC Trap: \"for ten years\" = long time = past feeling → had lived choose ചെയ്യും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"FOR + STILL DOING = HAS BEEN doing! For ten years + still living = HAS BEEN LIVING. FOR = duration clue → Present Perfect Continuous!\"\n• Signal word shortcut:\n  - for/since + still ongoing → has/have been + V-ing\n  - for/since + stopped → had been + V-ing (past)\n  - yesterday/last year → Simple Past\n• PSC exam strategy: \"for ten years\" കണ്ടാൽ ആദ്യം \"is she still living?\" check ചെയ്യൂ. Yes → \"has been living.\" ഒരു question, ഒരു answer!"
+    }
+  },
+  {
+    "id": "097-2025-M-Q84",
+    "paperId": "097-2025-M",
+    "questionNumber": 84,
+    "topic": "Prepositions",
+    "questionText": "The poem tempts the readers to ponder ______________ the beauty of nature.",
+    "optionA": "in",
+    "optionB": "after",
+    "optionC": "into",
+    "optionD": "over",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) over\n\n• \"ponder over\" = fixed verb-preposition collocation — \"ആഴത്തിൽ ചിന്തിക്കുക, ഗൗരവമായി ആലോചിക്കുക\" എന്നർഥം.\n• \"The poem tempts the readers to ponder over the beauty of nature\" = കവിത വായനക്കാരെ പ്രകൃതി സൗന്ദര്യത്തെക്കുറിച്ച് ആഴത്തിൽ ചിന്തിക്കാൻ പ്രേരിപ്പിക്കുന്നു.\n• \"ponder over\" = \"reflect on, think deeply about\" — standard English collocation.\n• PSC-ൽ verb + preposition fixed pairs ഇടയ്ക്ക് ചോദിക്കും — \"ponder over\" ഓർക്കൂ!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Verb + Preposition = fixed collocations — literal meaning ആകില്ല, memorize ചെയ്യണം.\n• \"ponder\" collocations:\n  - ponder over = think deeply about (ആഴത്തിൽ ആലോചിക്കുക) ✓\n  - ponder on = also acceptable but less common\n• PSC-ൽ important verb + preposition pairs:\n  - ponder over | brood over | mull over (all = think deeply)\n  - insist on | depend on | rely on\n  - congratulate on | comment on\n  - interfere in | participate in\n  - search for | look for | wait for\n• ⭐ PSC ആവർത്തനം: Prepositions PSC-ൽ regular — fixed collocations list ഓർക്കൂ.\n• ഉദാഹരണ sentences:\n  1. She pondered over the difficult decision for hours.\n  2. He brooded over his failure for weeks.\n  3. The students mulled over the question carefully.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) in\n• \"ponder in\" = not a standard collocation — \"in\" = inside a space, not suitable here.\n• 🪤 PSC Trap: \"in nature\" = common phrase → \"ponder in the beauty\" feel ഉണ്ടാകും.\n\n❌ (B) after\n• \"ponder after\" = not standard English collocation — \"after\" = time/sequence meaning.\n• 🪤 PSC Trap: \"look after\" common phrase → \"after\" works with many verbs feel ഉണ്ടാകും.\n\n❌ (C) into\n• \"ponder into\" = not standard — \"into\" = movement/deeper entry.\n• \"look into\" = investigate ആണ്, \"ponder into\" = not used.\n• 🪤 PSC Trap: \"delve into, look into\" = ആഴമുള്ള ചിന്ത → \"ponder into\" ഉം ആഴമുള്ളതാണ് feel ഉണ്ടാകും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"PONDER OVER = think OVER and OVER — ആഴത്തിൽ repeatedly ചിന്തിക്കുന്നു! Over = again and again = deep thought!\" OVER = deep repeated thinking.\n• \"Over\" collocations for PSC: ponder over | brood over | mull over | preside over | gloss over.\n• PSC exam strategy: \"ponder\" കണ്ടാൽ options-ൽ \"over\" ഉണ്ടോ നോക്കൂ — ഉണ്ടെങ്കിൽ guaranteed answer!"
+    }
+  },
+  {
+    "id": "097-2025-M-Q85",
+    "paperId": "097-2025-M",
+    "questionNumber": 85,
+    "topic": "One Word Substitutes",
+    "questionText": "Give a one word substitute for 'a person who loves books':",
+    "optionA": "Bibliophile",
+    "optionB": "Omniscient",
+    "optionC": "Polyglot",
+    "optionD": "Omnipotent",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Bibliophile\n\n• \"a person who loves books\" = Bibliophile — \"പുസ്‌തകപ്രേമി\" എന്നർഥം.\n• Greek roots: \"biblion\" (book) + \"philos\" (loving) = bibliophile.\n• Bibliophile = books-നോട് deep love ഉള്ള ആൾ — collect ചെയ്യുകയും read ചെയ്യുകയും ചെയ്യുന്ന book lover.\n• PSC-ൽ \"-phile\" suffix ഉള്ള words ഇടയ്ക്ക് ചോദിക്കും — root ഓർത്തിരുന്നാൽ guess ചെയ്യാം!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: \"-phile\" suffix = lover of something (Greek \"philos\" = loving).\n• \"-phile\" words:\n  - bibliophile = lover of books (biblion = book)\n  - cinephile = lover of cinema\n  - audiophile = lover of sound/music\n  - francophile = lover of France/French culture\n  - technophile = lover of technology\n• Other important roots for One Word Substitutes:\n  - omni = all: omniscient (knows everything), omnipotent (all powerful), omnivore (eats everything)\n  - poly = many: polyglot (speaks many languages), polygamy (many marriages)\n  - biblio = book: bibliography, bibliophile, bibliophobia\n• ⭐ PSC ആവർത്തനം: One Word Substitutes PSC-ൽ regular — person-related substitutes most common.\n• ഉദാഹരണ sentences:\n  1. The bibliophile spent hours at the bookstore. (book lover)\n  2. He is a polyglot who speaks five languages. (many languages)\n  3. The omniscient narrator knows everything. (all knowing)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) Omniscient\n• 'omniscient' = \"സർവ്വജ്ഞൻ — എല്ലാം അറിയുന്ന ആൾ\" (omni = all + scire = know).\n• \"loves books\" ≠ \"knows everything\" — ബന്ധം ഇല്ല.\n• 🪤 PSC Trap: Omniscient = smart/knowledgeable feel → book lover = knowledgeable → omniscient ആണ് answer എന്ന് logic ഉണ്ടാകും.\n\n❌ (C) Polyglot\n• 'polyglot' = \"പല ഭാഷകൾ സംസാരിക്കുന്ന ആൾ\" (poly = many + glotta = tongue/language).\n• \"loves books\" ≠ \"speaks many languages.\"\n• 🪤 PSC Trap: Polyglot sounds educated/scholarly → book lover = scholarly → polyglot feel ഉണ്ടാകും.\n\n❌ (D) Omnipotent\n• 'omnipotent' = \"സർവ്വശക്‌തൻ — unlimited power ഉള്ള ആൾ\" (omni = all + potens = powerful).\n• \"loves books\" ≠ \"all powerful\" — completely different meaning.\n• 🪤 PSC Trap: \"omni\" words sound impressive → any \"omni\" option = correct feel ഉണ്ടാകും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"BIBLIO = BIBLE = BOOK! BIBLIOphile = BOOK lover. Bible is a book, biblio = book — ഒരിക്കലും മറക്കില്ല!\"\n• \"-phile\" family: bibliophile (books) | cinephile (cinema) | audiophile (audio) | technophile (tech).\n• PSC exam strategy: \"person who loves ___\" = \"___ + phile\" pattern. Books = biblio + phile = bibliophile. Root words ഓർത്തിരുന്നാൽ One Word Substitutes = easy marks!"
+    }
+  },
+  {
+    "id": "097-2025-M-Q86",
+    "paperId": "097-2025-M",
+    "questionNumber": 86,
+    "topic": "Spelling Test",
+    "questionText": "The correctly spelt word is:",
+    "optionA": "vacum",
+    "optionB": "vaccum",
+    "optionC": "vacuum",
+    "optionD": "vaccuum",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) vacuum\n\n• \"vacuum\" = ശൂന്യാകാശം, വായു ഇല്ലാത്ത space — ഇതാണ് correct spelling.\n• Latin \"vacuus\" = empty/void — ശൂന്യം എന്നർഥം.\n• Common confusion: 'c' ഒന്ന് മാത്രം, 'u' ഒന്ന് — \"vacuum\" = v-a-c-u-u-m (double 'u', single 'c').\n• PSC spelling questions-ൽ \"vacuum\" ഒരു classic tricky word ആണ്!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: vacuum = 1 'c' + 2 'u' — \"vac-u-um\" = single c, double u.\n• Why tricky: 'c' double ആണോ single ആണോ എന്ന confusion — single 'c' ആണ് correct.\n• Latin root: \"vacuus\" (empty) → vacuum → vacancy → vacate → evacuate.\n• Related word family:\n  - vacuum (n) = ശൂന്യത, vacuum cleaner\n  - vacuous (adj) = empty, meaningless\n  - evacuate (v) = ഒഴിപ്പിക്കുക (e + vacuate)\n  - vacancy (n) = ഒഴിവ്\n• ⭐ PSC ആവർത്തനം: Spelling Test topic-ൽ Latin-origin words with double letters frequent ആണ്.\n• ഉദാഹരണ sentences:\n  1. A vacuum cleaner removes dust effectively. (ശൂന്യാകാശ ക്ലീനർ)\n  2. There is a complete vacuum of leadership. (നേതൃത്വ ശൂന്യത)\n  3. The tube was sealed in a vacuum. (ശൂന്യാകാശത്തിൽ)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) vacum\n• 'vacum' = 'u' ഒന്ന് മാത്രം — double 'u' missing. \"vac-um\" = incomplete spelling.\n• 🪤 PSC Trap: Sound-ൽ \"vac-yum\" ആണ്, ഒരു 'u' മാത്രം കേൾക്കും — double 'u' ഓർക്കണം.\n\n❌ (B) vaccum\n• 'vaccum' = double 'c' + single 'u' — 'c' double ആണ് mistake, 'u' single ആണ് mistake.\n• രണ്ടും wrong — double 'c' ഇല്ല, double 'u' ഉണ്ട്.\n• 🪤 PSC Trap: \"occasion, occasion\" ഒക്കെ double 'c' ഉള്ളതുകൊണ്ട് vacuum-ഉം double 'c' ആണ് feel ഉണ്ടാകും.\n\n❌ (D) vaccuum\n• 'vaccuum' = double 'c' + triple 'u' — doubly wrong!\n• \"vacc-uum\" = 'c' double, 'u' triple — ഇത് exist ചെയ്യുന്ന word-ഇ അല്ല.\n• 🪤 PSC Trap: More letters = more correct feel — spelling questions-ൽ overthink ചെയ്യും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"VACUUM = VAC + UU + M — 'UU' = two U's like a vacuum cleaner's two wheels! ഒരു vacuum cleaner-ന്റെ 2 wheels = 2 U's!\" vac-UU-m — double U ഓർക്കൂ!\n• Tricky double-letter words for PSC: vacuum (uu) | millennium (ll+nn) | occurrence (cc+rr) | necessary (one c, double s) | committee (mm+tt+ee).\n• PSC exam strategy: Spelling question-ൽ options compare ചെയ്‌ത് different letters identify ചെയ്യൂ — ഇവിടെ 'c' count ഉം 'u' count ഉം different ആണ്. vacuum = 1c + 2u = (C) ✓"
+    }
+  },
+  {
+    "id": "097-2025-M-Q87",
+    "paperId": "097-2025-M",
+    "questionNumber": 87,
+    "topic": "Foreign Words and Phrases",
+    "questionText": "What does the foreign phrase 'vis a vis' mean?",
+    "optionA": "in addition to",
+    "optionB": "in relation to",
+    "optionC": "in contact with",
+    "optionD": "in charge of",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) in relation to\n\n• \"vis-à-vis\" = French phrase = \"in relation to, compared with, face to face with\" എന്നർഥം.\n• French-ൽ literally \"face to face\" എന്നാണ് — \"vis\" = face (Latin \"visus\" = sight/face).\n• English-ൽ \"in relation to / compared with / regarding\" sense-ൽ ഉപയോഗിക്കുന്നു.\n• Example: \"Discuss the policy vis-à-vis its impact on students\" = students-മായുള്ള ബന്ധത്തിൽ policy discuss ചെയ്യൂ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: vis-à-vis = \"in relation to / face to face / compared with\" — French origin.\n• Foreign phrases PSC list:\n  - vis-à-vis = in relation to / face to face (French)\n  - vox populi = voice of the people (Latin)\n  - status quo = existing state of affairs (Latin)\n  - bona fide = genuine, in good faith (Latin)\n  - alma mater = one's old school/college (Latin)\n  - per capita = per head/person (Latin)\n  - carte blanche = complete freedom/authority (French)\n  - faux pas = social blunder/mistake (French)\n  - déjà vu = feeling of having seen before (French)\n  - c'est la vie = that's life (French)\n• ⭐ PSC ആവർത്തനം: Foreign phrases PSC-ൽ regular — French + Latin phrases most common.\n• ഉദാഹരണ sentences:\n  1. The new law was discussed vis-à-vis its economic impact.\n  2. His performance vis-à-vis last year has improved greatly.\n  3. They sat vis-à-vis each other at the table. (face to face)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) in addition to\n• \"in addition to\" = \"കൂടാതെ, അതിനു പുറമേ\" — vis-à-vis-ന്റെ meaning അല്ല.\n• 🪤 PSC Trap: \"vis-à-vis\" sounds like \"besides/additionally\" feel — formal word = addition feel.\n\n❌ (C) in contact with\n• \"in contact with\" = \"ബന്ധത്തിൽ ഇരിക്കുക\" — physical/communication contact.\n• vis-à-vis = face to face → contact ആണ് feeling, പക്ഷേ \"in relation to\" ആണ് exact meaning.\n• 🪤 PSC Trap: \"face to face\" = contact feel → \"in contact with\" choose ചെയ്യും.\n\n❌ (D) in charge of\n• \"in charge of\" = \"ചുമതലപ്പെട്ട, ഉത്തരവാദിത്തമുള്ള\" — completely different meaning.\n• 🪤 PSC Trap: \"vis\" sounds like \"vision/supervisor\" → in charge feel ഉണ്ടാകും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"VIS-À-VIS = VISAGE to VISAGE = FACE to FACE! Visage = face (French). Face to face = in relation to each other!\" VIS = face = see = vision — same root!\n• French phrases cluster: vis-à-vis (face to face/relation) | faux pas (mistake) | carte blanche (free hand) | déjà vu (seen before) | c'est la vie (that's life).\n• PSC exam strategy: \"vis-à-vis\" കണ്ടാൽ \"in relation to\" ഉടൻ choose ചെയ്യൂ — options-ൽ \"relation\" keyword ഉള്ളത് = answer!"
+    }
+  },
+  {
+    "id": "097-2025-M-Q88",
+    "paperId": "097-2025-M",
+    "questionNumber": 88,
+    "topic": "Singular & Plural, Change of Gender, Collective Nouns",
+    "questionText": "Sheep : Flock, Fish : ?",
+    "optionA": "Cluster",
+    "optionB": "Colony",
+    "optionC": "Pod",
+    "optionD": "School",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) School\n\n• Fish-ന്റെ collective noun = \"a school of fish\" — ഇതൊരു fixed expression ആണ്.\n• \"School\" ഇവിടെ \"school of learning\" അല്ല — fish-ന്റെ group-നെ \"school\" എന്ന് വിളിക്കുന്നു.\n• Analogy pattern: Sheep : Flock :: Fish : School — same structure, collective nouns.\n• PSC-ൽ analogy + collective noun combination question — both ഒരുമിച്ച് test ചെയ്യുന്നു!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ഓരോ animal/group-നും specific collective noun ഉണ്ട് — memorize list!\n• Important collective nouns for PSC:\n  - Fish → school / shoal\n  - Sheep → flock\n  - Lions → pride\n  - Wolves → pack\n  - Birds → flock\n  - Elephants → herd\n  - Cattle → herd\n  - Crows → murder\n  - Bees → swarm\n  - Ants → colony\n  - Monkeys → troop\n  - Soldiers → troop\n  - Sailors → crew\n  - Whales → pod\n  - Dolphins → pod\n• ⭐ PSC ആവർത്തനം: Collective nouns PSC-ൽ regular — analogy format-ൽ ഇടയ്ക്ക് ചോദിക്കും.\n• ഉദാഹരണ sentences:\n  1. A school of fish swam past the boat.\n  2. A flock of sheep grazed on the hill.\n  3. A swarm of bees attacked the tree.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Cluster\n• 'cluster' = grapes, stars, computers-ന്റെ group — fish-ന് ഉപയോഗിക്കില്ല.\n• 🪤 PSC Trap: \"cluster\" = group feel → any group = cluster ആകും എന്ന് students assume ചെയ്യും.\n\n❌ (B) Colony\n• 'colony' = ants, bats, penguins-ന്റെ group — fish-ന് \"colony\" standard അല്ല.\n• 🪤 PSC Trap: Colony = organized group feel → fish ഒരുമിച്ച് swim ചെയ്യുന്നു = organized = colony feel.\n\n❌ (C) Pod\n• 'pod' = whales, dolphins, seals-ന്റെ group — fish-ന് \"pod\" ഉപയോഗിക്കില്ല.\n• 🪤 PSC Trap: Pod = water animals group → fish ഉം water animal → pod choose ചെയ്യും. പക്ഷേ pod = marine mammals, not fish!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Fish go to SCHOOL! Fish-ന്റെ group swim together = like students in a school going together — a SCHOOL of fish!\" Fish + School = school-ൽ കൂടി പോകുന്നത് ഓർക്കൂ!\n• Water animal collective nouns:\n  - Fish → school/shoal | Whales → pod | Dolphins → pod | Sharks → shiver.\n• PSC exam strategy: Analogy question-ൽ first pair-ന്റെ relationship identify ചെയ്യൂ: Sheep:Flock = animal:collective noun. Fish-ന്റെ collective noun = school. Options-ൽ \"School\" = D = answer!"
+    }
+  },
+  {
+    "id": "097-2025-M-Q89",
+    "paperId": "097-2025-M",
+    "questionNumber": 89,
+    "topic": "Direct and Indirect Speech",
+    "questionText": "Change into reported speech:\nHis father asked, \"Do you think you know the lesson better than your teacher?\"",
+    "optionA": "His father asked whether he thought he knew the lesson better than his teacher",
+    "optionB": "His father asked whether he thinks he knew the lesson better than his teacher",
+    "optionC": "His father asked whether he thought he know the lesson better than his teacher",
+    "optionD": "His father asked whether he think he did know the lesson better than his teacher",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) His father asked whether he thought he knew the lesson better than his teacher.\n\n• Direct speech = \"Do you think you know the lesson better than your teacher?\" — Yes/No question.\n• Indirect speech rules applied:\n  1. Reporting verb \"asked\" + \"whether\" (Yes/No question → whether/if).\n  2. Pronoun: \"you\" → \"he\" (father is asking son).\n  3. Tense backshift: \"Do you think\" → \"he thought\" | \"you know\" → \"he knew\".\n  4. \"your teacher\" → \"his teacher\".\n• All 4 changes correctly applied in option A ✓",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Yes/No question → whether/if + statement order (no inversion) + tense backshift.\n• Tense backshift rules:\n  - Simple Present → Simple Past (do/does → did | think → thought | know → knew)\n  - Simple Past → Past Perfect (went → had gone)\n  - will → would | can → could | may → might\n• Pronoun changes:\n  - you (person spoken to) → he/she/they\n  - I (speaker) → he/she\n  - your → his/her\n• Question → Indirect: \"Do you...?\" → \"whether he...\" (remove question mark, normal sentence order)\n• ⭐ PSC ആവർത്തനം: Direct/Indirect Speech PSC-ൽ ഇടയ്ക്ക് ചോദിക്കും — Yes/No questions ഏറ്റവും tricky.\n• ഉദാഹരണ sentences:\n  1. He asked, \"Are you ready?\" → He asked whether I was ready.\n  2. She said, \"I know the answer.\" → She said that she knew the answer.\n  3. They asked, \"Will you come?\" → They asked whether I would come.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) ...whether he thinks he knew...\n• \"thinks\" = present tense — backshift ചെയ്‌തില്ല. \"think\" → \"thought\" ആകണം.\n• 🪤 PSC Trap: \"thinks\" = logical present feel (still true now) → students tense change ചെയ്യില്ല.\n\n❌ (C) ...whether he thought he know...\n• \"know\" = present tense — \"know\" → \"knew\" ആകണം (backshift).\n• ഒന്ന് backshift ചെയ്‌തു (thought ✓), മറ്റൊന്ന് ചെയ്‌തില്ല (know ✗).\n• 🪤 PSC Trap: Half backshift — \"thought\" change ചെയ്‌തതുകൊണ്ട് correct feel ഉണ്ടാകും.\n\n❌ (D) ...whether he think he did know...\n• \"think\" = present (not backshifted) | \"did know\" = wrong form — multiple errors.\n• 🪤 PSC Trap: \"did know\" = emphasis feel → more correct sound ഉണ്ടാകും, പക്ഷേ indirect speech-ൽ \"knew\" ആണ് standard.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Indirect speech = TIME MACHINE — everything shifts ONE step to the PAST! Present → Past, Past → Past Perfect. ടൈം മെഷീനിൽ ഇട്ടാൽ ഒരു step back ആകും!\"\n• 3-step checklist for indirect speech:\n  1. Reporting verb + whether/if (Yes/No) or that (statement).\n  2. Pronoun change (you→he/she, I→he/she, your→his/her).\n  3. Tense backshift (think→thought, know→knew, do→did).\n• PSC exam strategy: All 3 steps correctly ചെയ്‌ത option = answer. Option A-ൽ thought ✓ + knew ✓ + his teacher ✓ = all correct = A!"
+    }
+  },
+  {
+    "id": "097-2025-M-Q90",
+    "paperId": "097-2025-M",
+    "questionNumber": 90,
+    "topic": "Expansion and Meaning of Common Abbreviations",
+    "questionText": "Expand 'RDX':",
+    "optionA": "Research Department for Explosives",
+    "optionB": "Royal Defense Explosives",
+    "optionC": "Royal Demolition Explosive",
+    "optionD": "None of the above",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശரിയുത്തരം: (C) Royal Demolition Explosive\n\n• RDX = Royal Demolition Explosive — ഒരു powerful military explosive ആണ്.\n• RDX = Research Department Explosive / Royal Demolition Explosive — ഇവ രണ്ടും acceptable expansions, പക്ഷേ PSC answer key-ൽ (C) ആണ്.\n• RDX = cyclotrimethylenetrinitramine — ഒരു high-power explosive compound.\n• Option (A) \"Research Department for Explosives\" = wrong expansion — 'for' extra ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: RDX = Royal Demolition Explosive (PSC standard answer).\n• Important military/science abbreviations for PSC:\n  - RDX = Royal Demolition Explosive\n  - TNT = Trinitrotoluene\n  - DNA = Deoxyribonucleic Acid\n  - RNA = Ribonucleic Acid\n  - LASER = Light Amplification by Stimulated Emission of Radiation\n  - RADAR = Radio Detection And Ranging\n  - SONAR = Sound Navigation And Ranging\n• Important organization abbreviations:\n  - UNESCO = United Nations Educational, Scientific and Cultural Organization\n  - UNICEF = United Nations International Children's Emergency Fund\n  - NATO = North Atlantic Treaty Organization\n  - INTERPOL = International Criminal Police Organization\n• ⭐ PSC ആവർത്തനം: Abbreviations PSC-ൽ regular — military, science, international organizations list ഓർക്കൂ.\n• ഉദാഹരണ sentences:\n  1. RDX is used in military operations and demolitions.\n  2. The bomb squad discovered RDX at the site.\n  3. RDX is more powerful than TNT.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Research Department for Explosives\n• \"Research Department for Explosives\" = common misconception — \"for\" extra ആണ്, correct expansion അല്ല.\n• \"Research Department Explosive\" (without 'for') = alternate version, പക്ഷേ PSC answer = \"Royal Demolition Explosive.\"\n• 🪤 PSC Trap: \"Research\" = scientific/lab feel → correct ആണ് feel ഉണ്ടാകും.\n\n❌ (B) Royal Defense Explosives\n• \"Defense\" = wrong — \"Demolition\" ആണ് correct. Defense ≠ Demolition.\n• 🪤 PSC Trap: Military explosive = defense feel → \"Royal Defense\" logical feel ഉണ്ടാകും.\n\n❌ (D) None of the above\n• Option C = correct expansion — \"None of the above\" wrong.\n• 🪤 PSC Trap: RDX-ന്റെ exact expansion confusing ആണ്, students \"None of the above\" safe option ആയി choose ചെയ്യും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"RDX = Royal Demolition Explosive — ROYAL DEMOLITION = king-level destruction! RDX is the king of explosives!\" Royal = powerful king = powerful explosive = RDX!\n• Abbreviation cluster — explosives/military:\n  - RDX (Royal Demolition Explosive) | TNT (Trinitrotoluene) | IED (Improvised Explosive Device).\n• PSC exam strategy: RDX question-ൽ \"Royal Demolition Explosive\" ഉള്ള option ആണ് answer — \"Demolition\" keyword ഓർക്കൂ, \"Defense\" അല്ല!"
+    }
   }
 ]
