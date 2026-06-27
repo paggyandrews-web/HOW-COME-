@@ -19,6 +19,7 @@ export default function Navbar() {
     { to: '/topics', label: 'Topics' },
     { to: '/quiz', label: 'Quiz' },
     { to: '/exams', label: '📅 Exams' },
+    ...(user ? [{ to: '/profile', label: '👤 Profile' }] : []),
   ]
 
   function isActive(path) {

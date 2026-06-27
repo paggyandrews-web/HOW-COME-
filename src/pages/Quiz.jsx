@@ -559,6 +559,7 @@ export default function Quiz() {
       saveResult(quizData.questions, finalAnswers, quizData.mode)
       updateStreak()
       setQuizState('result')
+      window.scrollTo({ top: 0, behavior: 'smooth' })
       return
     }
     setCurrent(i => i + 1)
