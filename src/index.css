@@ -1,0 +1,137 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Theme variables ── */
+:root,
+[data-theme="dark"] {
+  --bg: #0f172a;
+  --bg2: #1e293b;
+  --surface: #1e293b;
+  --border: #334155;
+  --text: #f1f5f9;
+  --text2: #94a3b8;
+  --accent: #3b82f6;
+  --accent-hover: #2563eb;
+  --accent-text: #ffffff;
+  --card: #1e293b;
+  --shadow: 0 1px 3px rgba(0,0,0,0.4);
+}
+
+[data-theme="howcome"] {
+  --bg: #0d1626;
+  --bg2: #132033;
+  --surface: #162035;
+  --border: #1e3a50;
+  --text: #e8f0f0;
+  --text2: #7bb5b0;
+  --accent: #1a9d8e;
+  --accent-hover: #15877a;
+  --accent-text: #ffffff;
+  --card: #162035;
+  --shadow: 0 1px 3px rgba(26,157,142,0.2);
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  transition: background-color 0.2s, color 0.2s;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06), 0 4px 16px rgba(0,0,0,0.04);
+  transition: box-shadow 0.25s ease, transform 0.25s ease;
+}
+
+.card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.1), 0 16px 40px rgba(0,0,0,0.07);
+  transform: translateY(-2px);
+}
+
+[data-theme="dark"] .card,
+[data-theme="howcome"] .card {
+  box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
+}
+
+[data-theme="dark"] .card:hover,
+[data-theme="howcome"] .card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.5), 0 16px 40px rgba(0,0,0,0.35);
+}
+
+[data-theme="howcome"] .card:hover {
+  box-shadow: 0 4px 16px rgba(26,157,142,0.15), 0 16px 40px rgba(0,0,0,0.35);
+}
+
+.btn-primary {
+  background: var(--accent);
+  color: var(--accent-text);
+  transition: background 0.18s, transform 0.15s, box-shadow 0.18s;
+}
+.btn-primary:hover {
+  background: var(--accent-hover);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(37,99,235,0.35);
+}
+.btn-primary:active { transform: translateY(0); }
+
+.text-muted { color: var(--text2); }
+.bg-surface { background: var(--surface); }
+.bg-bg2 { background: var(--bg2); }
+.border-theme { border-color: var(--border); }
+.text-accent { color: var(--accent); }
+.bg-accent { background: var(--accent); }
+
+/* ── Page transition ── */
+@keyframes pageEnter {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.page-enter {
+  animation: pageEnter 0.28s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+/* ── Flip clock ── */
+@keyframes flipTop {
+  from { transform: rotateX(0deg); }
+  to   { transform: rotateX(-90deg); }
+}
+@keyframes flipBottom {
+  from { transform: rotateX(90deg); }
+  to   { transform: rotateX(0deg); }
+}
+
+/* ── Skeleton shimmer ── */
+@keyframes shimmer {
+  0%   { background-position: -200% 0; }
+  100% { background-position:  200% 0; }
+}
+.skeleton {
+  background: linear-gradient(90deg,
+    var(--bg2) 25%, var(--border) 50%, var(--bg2) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.4s infinite;
+  border-radius: 6px;
+}
+
+/* ── Confetti canvas ── */
+#confetti-canvas {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+}
+
+/* ── Mobile: disable card hover-lift on touch devices ── */
+@media (hover: none) {
+  .card:hover {
+    transform: none;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.06), 0 4px 16px rgba(0,0,0,0.04);
+  }
+  [data-theme="dark"] .card:hover,
+  [data-theme="howcome"] .card:hover {
+    box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
+  }
+}
