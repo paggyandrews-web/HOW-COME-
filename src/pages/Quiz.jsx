@@ -5,6 +5,8 @@ import papers from '../data/papers.json'
 import Confetti from '../components/Confetti'
 import { useResults } from '../hooks/useResults'
 import { useAuth } from '../contexts/AuthContext'
+import { useBookmarks } from '../hooks/useBookmarks'
+import { useStreak } from '../hooks/useStreak'
 
 function formatQuestion(text) {
   if (!text) return text
@@ -157,6 +159,7 @@ function QuizSetup({ onStart }) {
   const [topicId, setTopicId] = useState(initTopic)
   const [count, setCount] = useState(10)
   const [secsPerQ, setSecsPerQ] = useState(30)
+  const { bookmarks } = useBookmarks()
 
   const years = [...new Set(papers.map(p => p.year))].sort().reverse()
   const [year, setYear] = useState('')
@@ -170,19 +173,23 @@ function QuizSetup({ onStart }) {
   const filteredPapers = useMemo(() =>
     papers.filter(p => !year || p.year === year), [year])
 
-  const availableQs = useMemo(() =>
-    questions.filter(q =>
+  const availableQs = useMemo(() => {
+    if (mode === 'saved') {
+      return questions.filter(q => bookmarks.includes(q.id))
+    }
+    return questions.filter(q =>
       (!paperId || q.paperId === paperId) &&
       (!topicId || q.topic === topicId)
-    ), [paperId, topicId])
+    )
+  }, [paperId, topicId, mode, bookmarks])
 
   function handleStart() {
     let pool = [...availableQs]
-    if (!paperId && mode !== 'browse') {
+    if (!paperId && mode !== 'browse' && mode !== 'saved') {
       pool = shuffle(pool)
       pool = pool.slice(0, Math.min(count, pool.length))
     }
-    onStart({ questions: pool, mode, secsPerQ })
+    onStart({ questions: pool, mode: mode === 'saved' ? 'practice' : mode, secsPerQ })
   }
 
   const isBrowse = mode === 'browse'
@@ -194,16 +201,18 @@ function QuizSetup({ onStart }) {
       {/* Mode */}
       <div className="mb-5">
         <div className="text-sm font-medium mb-2">Quiz Mode</div>
-        <div className="grid grid-cols-2 gap-2">
+        <div className="grid grid-cols-3 gap-2">
           {[
             { id: 'practice', label: '📖 Practice', sub: 'No timer · Explanations' },
             { id: 'timed', label: '⏱ Timed', sub: 'Timer per question' },
+            { id: 'saved', label: '🔖 Saved', sub: bookmarks.length > 0 ? `${bookmarks.length} bookmarked` : 'No bookmarks yet' },
           ].map(m => (
             <button key={m.id} onClick={() => setMode(m.id)}
               className="p-3 rounded-xl text-left border-2 transition-all"
               style={{
                 borderColor: mode === m.id ? 'var(--accent)' : 'var(--border)',
                 background: mode === m.id ? 'var(--bg2)' : 'var(--surface)',
+                opacity: m.id === 'saved' && bookmarks.length === 0 ? 0.5 : 1,
               }}>
               <div className="font-medium text-sm">{m.label}</div>
               <div className="text-xs mt-0.5" style={{ color: 'var(--text2)' }}>{m.sub}</div>
@@ -485,6 +494,8 @@ export default function Quiz() {
   const [showConfetti, setShowConfetti] = useState(false)
   const [vibratingOption, setVibratingOption] = useState(null)
   const { saveResult } = useResults()
+  const { toggle: toggleBookmark, isBookmarked } = useBookmarks()
+  const { updateStreak } = useStreak()
 
   const isTimed = quizData?.mode === 'timed'
   const isBrowse = quizData?.mode === 'browse'
@@ -542,10 +553,11 @@ export default function Quiz() {
   function handleNext() {
     if (current + 1 >= quizData.questions.length) {
       if (isBrowse) return // Browse mode doesn't go to result
-      // Save results before showing result screen
+      // Save results + update streak before showing result screen
       const finalAnswers = [...answers]
       finalAnswers[current] = selected ?? answers[current]
       saveResult(quizData.questions, finalAnswers, quizData.mode)
+      updateStreak()
       setQuizState('result')
       return
     }
@@ -620,12 +632,20 @@ export default function Quiz() {
 
       {/* Question */}
       <div className="card rounded-2xl p-5 mb-4">
-        {q.topic && (
-          <div className="flex items-center gap-1.5 text-xs font-semibold mb-3"
-            style={{ color: 'var(--text2)' }}>
-            {q.questionNumber || (current + 1)} • {q.topic}
-          </div>
-        )}
+        <div className="flex items-start justify-between gap-2 mb-3">
+          {q.topic && (
+            <div className="text-xs font-semibold" style={{ color: 'var(--text2)' }}>
+              {q.questionNumber || (current + 1)} • {q.topic}
+            </div>
+          )}
+          <button
+            onClick={() => toggleBookmark(q.id)}
+            title={isBookmarked(q.id) ? 'Remove bookmark' : 'Bookmark this question'}
+            className="shrink-0 text-lg transition-transform active:scale-125"
+            style={{ lineHeight: 1, marginLeft: 'auto' }}>
+            {isBookmarked(q.id) ? '🔖' : '🏷️'}
+          </button>
+        </div>
         <QuestionText num={!q.topic ? (q.questionNumber || current + 1) : null} text={q.questionText} />
       </div>
 

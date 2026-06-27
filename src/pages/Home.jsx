@@ -5,6 +5,7 @@ import questions from '../data/questions.json'
 import papers from '../data/papers.json'
 import exams from '../data/exams.json'
 import FlipClock from '../components/FlipClock'
+import { useStreak } from '../hooks/useStreak'
 
 const MAX_PINS = 5
 
@@ -188,6 +189,12 @@ export default function Home() {
   )
   const [unpinTarget, setUnpinTarget] = useState(null)
   const didLoadFromFirebase = useRef(false)
+  const [streak, setStreak] = useState(0)
+  const { getStreak } = useStreak()
+
+  useEffect(() => {
+    getStreak().then(s => setStreak(s.currentStreak || 0))
+  }, [user])
 
   // Only apply Firebase pinned state ONCE on initial load.
   // Never overwrite local state after that — prevents race conditions
@@ -256,11 +263,19 @@ export default function Home() {
           background: 'rgba(255,255,255,0.05)', pointerEvents: 'none',
         }} />
         <div style={{ position: 'relative', zIndex: 1 }}>
-          <h1 className="text-2xl sm:text-3xl font-bold mb-1">
-            <span style={{ color: 'rgba(255,255,255,0.7)' }}>HOW </span>
-            <span style={{ color: '#ffffff', fontWeight: 800 }}>COME</span>
-            <span style={{ color: '#14b8a6', fontWeight: 800 }}>?</span>
-          </h1>
+          <div className="flex items-center justify-between mb-1">
+            <h1 className="text-2xl sm:text-3xl font-bold">
+              <span style={{ color: 'rgba(255,255,255,0.7)' }}>HOW </span>
+              <span style={{ color: '#ffffff', fontWeight: 800 }}>COME</span>
+              <span style={{ color: '#14b8a6', fontWeight: 800 }}>?</span>
+            </h1>
+            {streak > 0 && (
+              <div className="flex items-center gap-1 px-3 py-1 rounded-full text-sm font-bold"
+                style={{ background: 'rgba(255,255,255,0.2)', color: 'white' }}>
+                🔥 {streak} {streak === 1 ? 'day' : 'days'}
+              </div>
+            )}
+          </div>
           <p style={{ color: 'rgba(255,255,255,0.8)' }} className="mb-5">
             Foundation to PSC English — {questions.length} grammar questions from {papers.length} previous papers
           </p>
