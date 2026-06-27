@@ -230,36 +230,34 @@ function QuizSetup({ onStart }) {
         </div>
       )}
 
-      {/* Compact filter row */}
+      {/* Compact filter row — Topic / Year / Paper in one line */}
       <div className="mb-5">
         <div className="text-sm font-medium mb-2">Filter (optional)</div>
-        <div className="flex flex-col gap-2">
+        <div className="grid grid-cols-3 gap-2">
           <select value={topicId} onChange={e => { setTopicId(e.target.value); setPaperId(''); setYear('') }}
-            className="w-full rounded-lg px-3 py-2 text-sm"
+            className="rounded-lg px-2 py-2 text-xs"
             style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)' }}>
-            <option value="">All Topics</option>
+            <option value="">Topic</option>
             {allTopics.map(([t, c]) => (
               <option key={t} value={t}>{t} ({c})</option>
             ))}
           </select>
-          <div className="flex gap-2">
-            <select value={year} onChange={e => { setYear(e.target.value); setPaperId(''); setTopicId('') }}
-              className="flex-1 rounded-lg px-3 py-2 text-sm"
-              style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)' }}>
-              <option value="">All Years</option>
-              {years.map(y => <option key={y} value={y}>{y}</option>)}
-            </select>
-            <select value={paperId} onChange={e => { setPaperId(e.target.value); setTopicId('') }}
-              className="flex-1 rounded-lg px-3 py-2 text-sm"
-              style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)' }}>
-              <option value="">All Papers</option>
-              {filteredPapers.map(p => (
-                <option key={p.id} value={p.id}>
-                  {p.post || p.id} ({p.year})
-                </option>
-              ))}
-            </select>
-          </div>
+          <select value={year} onChange={e => { setYear(e.target.value); setPaperId(''); setTopicId('') }}
+            className="rounded-lg px-2 py-2 text-xs"
+            style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)' }}>
+            <option value="">Year</option>
+            {years.map(y => <option key={y} value={y}>{y}</option>)}
+          </select>
+          <select value={paperId} onChange={e => { setPaperId(e.target.value); setTopicId('') }}
+            className="rounded-lg px-2 py-2 text-xs"
+            style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)' }}>
+            <option value="">Paper</option>
+            {filteredPapers.map(p => (
+              <option key={p.id} value={p.id}>
+                {p.post || p.id} ({p.year})
+              </option>
+            ))}
+          </select>
         </div>
       </div>
 
@@ -415,6 +413,7 @@ export default function Quiz() {
   const [timeLeft, setTimeLeft] = useState(30)
   const [timedOut, setTimedOut] = useState(false)
   const [showConfetti, setShowConfetti] = useState(false)
+  const [vibratingOption, setVibratingOption] = useState(null)
 
   const isTimed = quizData?.mode === 'timed'
   const isBrowse = quizData?.mode === 'browse'
@@ -450,8 +449,12 @@ export default function Quiz() {
     if (revealed || timedOut) return
     setSelected(letter)
     setAnswers(prev => { const next = [...prev]; next[current] = letter; return next })
-    // Confetti on correct answer in practice mode
-    if (!isTimed && q?.correctAnswer && letter === q.correctAnswer) {
+    // Vibration feedback (haptic + CSS)
+    if (navigator.vibrate) navigator.vibrate(30)
+    setVibratingOption(letter)
+    setTimeout(() => setVibratingOption(null), 350)
+    // Confetti only in timed mode when correct
+    if (isTimed && q?.correctAnswer && letter === q.correctAnswer) {
       setShowConfetti(true)
       setTimeout(() => setShowConfetti(false), 3000)
     }
@@ -552,11 +555,19 @@ export default function Quiz() {
           const isCorrect = q.correctAnswer && letter === q.correctAnswer
           let style = {}
           if (revealed) {
+            // Practice mode reveal: full color fill
             if (isCorrect) style = { background: '#16a34a', color: 'white', borderColor: '#16a34a' }
             else if (isSelected && !isCorrect) style = { background: '#dc2626', color: 'white', borderColor: '#dc2626' }
             else style = { background: 'var(--bg2)', color: 'var(--text2)', borderColor: 'var(--border)' }
+          } else if (isTimed && selected !== null) {
+            // Timed mode after selection: border only
+            if (isCorrect) style = { background: 'var(--surface)', color: 'var(--text)', borderColor: '#16a34a', borderWidth: '3px' }
+            else if (isSelected) style = { background: 'var(--surface)', color: 'var(--text)', borderColor: '#dc2626', borderWidth: '3px' }
+            else style = { background: 'var(--surface)', color: 'var(--text2)', borderColor: 'var(--border)' }
+          } else if (timedOut) {
+            if (isCorrect) style = { background: 'var(--surface)', color: 'var(--text)', borderColor: '#16a34a', borderWidth: '3px' }
+            else style = { background: 'var(--surface)', color: 'var(--text2)', borderColor: 'var(--border)' }
           } else {
-            // Fix 3: No color reveal — only accent highlight for selected
             style = isSelected
               ? { background: 'var(--bg2)', color: 'var(--text)', borderColor: 'var(--accent)' }
               : { background: 'var(--surface)', color: 'var(--text)', borderColor: 'var(--border)' }
@@ -564,8 +575,8 @@ export default function Quiz() {
           return (
             <button key={letter}
               onClick={() => handleSelect(letter)}
-              disabled={revealed || timedOut || isBrowse}
-              className="w-full text-left px-4 py-3 rounded-xl text-sm border-2 transition-all"
+              disabled={revealed || (isTimed && selected !== null) || timedOut || isBrowse}
+              className={`w-full text-left px-4 py-3 rounded-xl text-sm border-2 transition-all${vibratingOption === letter ? ' vibrate' : ''}`}
               style={style}>
               <span className="font-semibold mr-2">({letter})</span>{text}
             </button>

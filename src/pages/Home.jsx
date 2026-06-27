@@ -257,7 +257,8 @@ export default function Home() {
         }} />
         <div style={{ position: 'relative', zIndex: 1 }}>
           <h1 className="text-2xl sm:text-3xl font-bold mb-1">
-            HOW <span style={{ color: 'white' }}>COME?</span>
+            <span style={{ color: 'rgba(255,255,255,0.7)' }}>HOW </span>
+            <span style={{ color: '#ffffff', fontWeight: 800 }}>COME?</span>
           </h1>
           <p style={{ color: 'rgba(255,255,255,0.8)' }} className="mb-5">
             Foundation to PSC English — {questions.length} grammar questions from {papers.length} previous papers

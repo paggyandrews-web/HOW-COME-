@@ -2,6 +2,14 @@ import { useState, useMemo, useRef } from 'react'
 import exams from '../data/exams.json'
 import FlipClock from '../components/FlipClock'
 
+function formatTime12h(timeStr) {
+  if (!timeStr) return timeStr
+  const [h, m] = timeStr.split(':').map(Number)
+  const period = h >= 12 ? 'PM' : 'AM'
+  const hour = h % 12 || 12
+  return `${String(hour).padStart(2, '0')}:${String(m).padStart(2, '0')} ${period}`
+}
+
 const MAX_PINS = 5
 
 function UnpinDialog({ exam, onConfirm, onCancel }) {
@@ -139,7 +147,7 @@ function ExamRow({ exam, pinned, onPin, onRequestUnpin, pinCount }) {
         </div>
         <div>
           <span style={{ color: 'var(--text2)' }}>Exam Time: </span>
-          <span className="font-medium">{exam.time}</span>
+          <span className="font-medium">{formatTime12h(exam.time)}</span>
         </div>
         <div>
           <span style={{ color: 'var(--text2)' }}>Mode: </span>

@@ -3,9 +3,8 @@ import { useTheme } from '../contexts/ThemeContext'
 import { useAuth } from '../contexts/AuthContext'
 
 const themes = [
-  { id: 'howcome', label: 'HC', title: 'HOW COME' },
   { id: 'black', label: '⬛', title: 'Black' },
-  { id: 'pink', label: '🌸', title: 'Light Pink' },
+  { id: 'pink', label: '🌸', title: 'Pink' },
 ]
 
 export default function Navbar() {
@@ -40,8 +39,9 @@ export default function Navbar() {
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2">
           <img src="/logo.png" alt="HOW COME?" className="h-10 w-10 rounded-full object-contain" />
-          <span className="font-extrabold text-xl tracking-tight" style={{ color: 'var(--accent)' }}>
-            HOW COME<span style={{ color: 'var(--accent)' }}>?</span>
+          <span className="font-extrabold text-xl tracking-tight">
+            <span style={{ color: 'var(--accent)' }}>HOW </span>
+            <span style={{ color: 'var(--come-color)' }}>COME?</span>
           </span>
         </Link>
 

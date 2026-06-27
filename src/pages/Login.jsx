@@ -34,7 +34,9 @@ export default function Login() {
       <div className="card rounded-2xl p-6">
         <h1 className="font-bold text-xl mb-1">Sign In</h1>
         <p className="text-sm mb-5" style={{ color: 'var(--text2)' }}>
-          Welcome back to Cornerstone
+          Welcome back to{' '}
+          <span style={{ color: 'var(--accent)', fontWeight: 700 }}>HOW </span>
+          <span style={{ color: 'var(--come-color)', fontWeight: 700 }}>COME?</span>
         </p>
 
         {error && (

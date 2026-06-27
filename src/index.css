@@ -4,20 +4,6 @@
 
 /* ── Theme variables ── */
 :root,
-[data-theme="howcome"] {
-  --bg: #0d1626;
-  --bg2: #132033;
-  --surface: #162035;
-  --border: #1e3a50;
-  --text: #e8f0f0;
-  --text2: #7bb5b0;
-  --accent: #1a9d8e;
-  --accent-hover: #15877a;
-  --accent-text: #ffffff;
-  --card: #162035;
-  --shadow: 0 1px 3px rgba(26,157,142,0.2);
-}
-
 [data-theme="black"] {
   --bg: #000000;
   --bg2: #111111;
@@ -30,20 +16,37 @@
   --accent-text: #ffffff;
   --card: #111111;
   --shadow: 0 1px 3px rgba(0,0,0,0.8);
+  --come-color: #ffffff;
+}
+
+[data-theme="howcome"] {
+  --bg: #0d1626;
+  --bg2: #132033;
+  --surface: #162035;
+  --border: #1e3a50;
+  --text: #e8f0f0;
+  --text2: #7bb5b0;
+  --accent: #1a9d8e;
+  --accent-hover: #15877a;
+  --accent-text: #ffffff;
+  --card: #162035;
+  --shadow: 0 1px 3px rgba(26,157,142,0.2);
+  --come-color: #ffffff;
 }
 
 [data-theme="pink"] {
-  --bg: #fff0f5;
-  --bg2: #ffe4ee;
+  --bg: #ffffff;
+  --bg2: #fdf2f8;
   --surface: #ffffff;
-  --border: #f9a8c9;
-  --text: #3d1a28;
-  --text2: #a0526e;
-  --accent: #e91e8c;
-  --accent-hover: #c5166f;
+  --border: #f9a8d4;
+  --text: #1a0a12;
+  --text2: #9d174d;
+  --accent: #db2777;
+  --accent-hover: #be185d;
   --accent-text: #ffffff;
   --card: #ffffff;
-  --shadow: 0 1px 3px rgba(233,30,140,0.1);
+  --shadow: 0 1px 3px rgba(219,39,119,0.08);
+  --come-color: #1a0a12;
 }
 
 body {
@@ -133,6 +136,18 @@ body {
   pointer-events: none;
   z-index: 9999;
 }
+
+/* ── Vibrate animation ── */
+@keyframes vibrate {
+  0%, 100% { transform: translateX(0); }
+  15%  { transform: translateX(-4px); }
+  30%  { transform: translateX(4px); }
+  45%  { transform: translateX(-3px); }
+  60%  { transform: translateX(3px); }
+  75%  { transform: translateX(-1px); }
+  90%  { transform: translateX(1px); }
+}
+.vibrate { animation: vibrate 0.35s ease; }
 
 /* ── Mobile: disable card hover-lift on touch devices ── */
 @media (hover: none) {

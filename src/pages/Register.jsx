@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { useNavigate, Link } from 'react-router-dom'
 import { useAuth } from '../contexts/AuthContext'
+import { useTheme } from '../contexts/ThemeContext'
 
 const KERALA_DISTRICTS = [
   'Thiruvananthapuram','Kollam','Pathanamthitta','Alappuzha','Kottayam',
@@ -10,8 +11,9 @@ const KERALA_DISTRICTS = [
 
 export default function Register() {
   const { signup } = useAuth()
+  const { setTheme } = useTheme()
   const navigate = useNavigate()
-  const [form, setForm] = useState({ name: '', email: '', mobile: '', password: '', district: '' })
+  const [form, setForm] = useState({ name: '', email: '', mobile: '', password: '', district: '', gender: '' })
   const [error, setError] = useState('')
   const [loading, setLoading] = useState(false)
 
@@ -27,6 +29,7 @@ export default function Register() {
     setLoading(true)
     try {
       await signup(form.email, form.password, form.name, form.district, form.mobile)
+      setTheme(form.gender === 'female' ? 'pink' : 'black')
       navigate('/')
     } catch (err) {
       setError(err.message || 'Registration failed. Try again.')
@@ -39,7 +42,10 @@ export default function Register() {
       <div className="card rounded-2xl p-6">
         <h1 className="font-bold text-xl mb-1">Create Account</h1>
         <p className="text-sm mb-5" style={{ color: 'var(--text2)' }}>
-          Join <span style={{ color: 'var(--accent)', fontWeight: 600 }}>HOW COME?</span> to track progress and join the district leaderboard
+          Join{' '}
+          <span style={{ color: 'var(--accent)', fontWeight: 700 }}>HOW </span>
+          <span style={{ color: 'var(--come-color)', fontWeight: 700 }}>COME?</span>
+          {' '}to track progress and join the district leaderboard
         </p>
 
         {error && (
@@ -82,6 +88,23 @@ export default function Register() {
               <option value="">Select your district</option>
               {KERALA_DISTRICTS.map(d => <option key={d} value={d}>{d}</option>)}
             </select>
+          </div>
+          <div>
+            <label className="block text-sm font-medium mb-1">Gender</label>
+            <div className="flex gap-2">
+              {['male', 'female'].map(g => (
+                <button type="button" key={g}
+                  onClick={() => setForm(f => ({ ...f, gender: g }))}
+                  className="flex-1 py-2 rounded-lg text-sm font-medium capitalize border-2 transition-all"
+                  style={{
+                    borderColor: form.gender === g ? 'var(--accent)' : 'var(--border)',
+                    background: form.gender === g ? 'var(--bg2)' : 'var(--surface)',
+                    color: form.gender === g ? 'var(--text)' : 'var(--text2)',
+                  }}>
+                  {g === 'male' ? '⬛ Male' : '🌸 Female'}
+                </button>
+              ))}
+            </div>
           </div>
           <button type="submit" disabled={loading}
             className="w-full py-2.5 rounded-xl font-semibold text-sm mt-2"

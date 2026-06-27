@@ -5,7 +5,7 @@ const ThemeContext = createContext()
 export function ThemeProvider({ children }) {
   const [theme, setTheme] = useState(() => {
     const saved = localStorage.getItem('cs-theme')
-    if (!saved || saved === 'light' || saved === 'paper' || saved === 'dark') return 'howcome'
+    if (!saved || saved === 'light' || saved === 'paper' || saved === 'dark' || saved === 'howcome') return 'black'
     return saved
   })
 
