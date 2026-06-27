@@ -32,16 +32,16 @@ export default function Navbar() {
 
   return (
     <nav
-      style={{ background: 'var(--surface)', borderBottom: '1px solid var(--border)' }}
+      style={{ background: '#000000', borderBottom: '1px solid #222222' }}
       className="sticky top-0 z-50"
     >
       <div className="max-w-5xl mx-auto px-4 h-14 flex items-center justify-between">
-        {/* Logo */}
+        {/* Logo — always default brand colors */}
         <Link to="/" className="flex items-center gap-2">
           <img src="/logo.png" alt="HOW COME?" className="h-10 w-10 rounded-full object-contain" />
           <span className="font-extrabold text-xl tracking-tight">
-            <span style={{ color: 'var(--accent)' }}>HOW </span>
-            <span style={{ color: 'var(--come-color)' }}>COME?</span>
+            <span style={{ color: '#1a9d8e' }}>HOW </span>
+            <span style={{ color: '#ffffff' }}>COME?</span>
           </span>
         </Link>
 
@@ -53,8 +53,8 @@ export default function Navbar() {
               to={link.to}
               className="px-2 sm:px-3 py-1 rounded text-sm font-medium transition-colors"
               style={{
-                color: isActive(link.to) ? 'var(--accent)' : 'var(--text2)',
-                background: isActive(link.to) ? 'var(--bg2)' : 'transparent',
+                color: isActive(link.to) ? '#1a9d8e' : '#888888',
+                background: isActive(link.to) ? '#111111' : 'transparent',
               }}
             >
               {link.label}
@@ -65,7 +65,7 @@ export default function Navbar() {
         {/* Right side */}
         <div className="flex items-center gap-2">
           {/* Theme switcher */}
-          <div className="flex rounded-lg overflow-hidden" style={{ border: '1px solid var(--border)' }}>
+          <div className="flex rounded-lg overflow-hidden" style={{ border: '1px solid #222222' }}>
             {themes.map(t => (
               <button
                 key={t.id}
@@ -73,8 +73,8 @@ export default function Navbar() {
                 onClick={() => setTheme(t.id)}
                 className="px-2 py-1 text-sm transition-colors"
                 style={{
-                  background: theme === t.id ? 'var(--accent)' : 'var(--surface)',
-                  color: theme === t.id ? 'var(--accent-text)' : 'var(--text2)',
+                  background: theme === t.id ? '#1a9d8e' : '#111111',
+                  color: theme === t.id ? '#ffffff' : '#888888',
                 }}
               >
                 {t.label}
@@ -87,7 +87,7 @@ export default function Navbar() {
             <button
               onClick={handleLogout}
               className="text-sm px-3 py-1 rounded"
-              style={{ color: 'var(--text2)', border: '1px solid var(--border)' }}
+              style={{ color: '#888888', border: '1px solid #222222' }}
             >
               Sign out
             </button>
@@ -95,7 +95,7 @@ export default function Navbar() {
             <Link
               to="/login"
               className="text-sm px-3 py-1 rounded font-medium"
-              style={{ background: 'var(--accent)', color: 'var(--accent-text)' }}
+              style={{ background: '#1a9d8e', color: '#ffffff' }}
             >
               Sign in
             </Link>
