@@ -4678,5 +4678,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Research Department for Explosives\n• \"Research Department for Explosives\" = common misconception — \"for\" extra ആണ്, correct expansion അല്ല.\n• \"Research Department Explosive\" (without 'for') = alternate version, പക്ഷേ PSC answer = \"Royal Demolition Explosive.\"\n• 🪤 PSC Trap: \"Research\" = scientific/lab feel → correct ആണ് feel ഉണ്ടാകും.\n\n❌ (B) Royal Defense Explosives\n• \"Defense\" = wrong — \"Demolition\" ആണ് correct. Defense ≠ Demolition.\n• 🪤 PSC Trap: Military explosive = defense feel → \"Royal Defense\" logical feel ഉണ്ടാകും.\n\n❌ (D) None of the above\n• Option C = correct expansion — \"None of the above\" wrong.\n• 🪤 PSC Trap: RDX-ന്റെ exact expansion confusing ആണ്, students \"None of the above\" safe option ആയി choose ചെയ്യും.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"RDX = Royal Demolition Explosive — ROYAL DEMOLITION = king-level destruction! RDX is the king of explosives!\" Royal = powerful king = powerful explosive = RDX!\n• Abbreviation cluster — explosives/military:\n  - RDX (Royal Demolition Explosive) | TNT (Trinitrotoluene) | IED (Improvised Explosive Device).\n• PSC exam strategy: RDX question-ൽ \"Royal Demolition Explosive\" ഉള്ള option ആണ് answer — \"Demolition\" keyword ഓർക്കൂ, \"Defense\" അല്ല!"
     }
+  },
+  {
+    "id": "88-2025-M-Q91",
+    "paperId": "88-2025-M",
+    "questionNumber": 91,
+    "topic": "Direct and Indirect Speech",
+    "questionText": "Change the following into Indirect Speech:\nThe teacher said, \"The Earth revolves around the Sun.\"",
+    "optionA": "The teacher said that the Earth revolved around the Sun.",
+    "optionB": "The teacher said that the Earth had revolved around the Sun.",
+    "optionC": "The teacher said that the Earth revolves around the Sun.",
+    "optionD": "The teacher said that the Earth is revolving around the Sun.",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) The teacher said that the Earth revolves around the Sun.\n\n• \"The Earth revolves around the Sun\" — ഇത് ഒരു scientific fact / universal truth ആണ്. ഭൂമി സൂര്യനെ ചുറ്റുന്നു — ഇത് എല്ലാ കാലത്തും ശരിയാണ്.\n• Indirect Speech-ൽ reporting verb past tense ആണെങ്കിലും (said), universal truth-ന്റെ tense മാറില്ല — present tense-ൽ തന്നെ നിൽക്കും.\n• \"revolves\" → \"revolves\" (മാറ്റമില്ല) — ഇതാണ് ഈ question-ന്റെ core rule.\n• PSC-ൽ ഈ exception (universal truth) ഇടയ്ക്ക് ചോദിക്കും — ഈ rule ഓർത്തിരുന്നാൽ guaranteed mark!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Reporting verb = past, but Universal Truth/Scientific Fact = NO tense change!\n• സാധാരണ Indirect Speech-ൽ: present → past ആകും (says → said, revolves → revolved).\n• Exception: Universal Truths, Scientific Facts, Proverbs — tense മാറില്ല.\n• ⭐ PSC ആവർത്തനം: Direct/Indirect Speech PSC-ൽ ഇടയ്ക്ക് വരും, especially exceptions.\n• ഉദാഹരണ sentences:\n  1. He said, \"The sun rises in the east.\" → He said that the sun rises in the east. ✓\n  2. She said, \"Water boils at 100°C.\" → She said that water boils at 100°C. ✓\n  3. He said, \"Honesty is the best policy.\" → He said that honesty is the best policy. ✓",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) revolved\n• \"revolved\" = past tense — സാധാരണ rule apply ചെയ്താൽ കിട്ടുന്ന answer ആണ്.\n• പക്ഷേ ഇത് universal truth ആണ് — tense മാറ്റേണ്ടതില്ല.\n• 🪤 PSC Trap: Most students mechanically change present → past in indirect speech, ഈ exception അറിയാതെ A choose ചെയ്യും.\n\n❌ (B) had revolved\n• \"had revolved\" = past perfect — ഇത് വളരെ പഴയ കാലത്തെ indicate ചെയ്യും.\n• Universal truth-ന് past perfect ഒരിക്കലും ഉപയോഗിക്കില്ല.\n• 🪤 PSC Trap: \"said\" കണ്ടാൽ backshift ചെയ്യണം എന്ന് feel ആകും, had revolved choose ചെയ്യും.\n\n❌ (D) is revolving\n• \"is revolving\" = present continuous — ongoing action indicate ചെയ്യും.\n• Scientific fact-ന് continuous tense ഉപയോഗിക്കില്ല — simple present ആണ് ശരി.\n• 🪤 PSC Trap: \"revolves around\" = action ആണ് എന്ന് feel ആകും, continuous choose ചെയ്യും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"SCIENCE NEVER CHANGES!\" — Scientific fact Indirect Speech-ൽ tense മാറ്റില്ല. \"Earth revolves\" — billions of years ആയിട്ടും revolves; grammar-ലും മാറില്ല!\n• Universal Truth family: Scientific facts, geographical facts, proverbs, mathematical truths — all stay in present tense.\n• PSC exam strategy: Question-ൽ \"The Earth...\", \"Water...\", \"The Sun...\" കണ്ടാൽ — universal truth check ചെയ്യൂ. tense മാറ്റാതെ present tense-ൽ ഉള്ള option choose ചെയ്യൂ."
+    }
+  },
+  {
+    "id": "88-2025-M-Q92",
+    "paperId": "88-2025-M",
+    "questionNumber": 92,
+    "topic": "Tenses",
+    "questionText": "Find the error and write the correct sentence:",
+    "optionA": "I am working here since 2019.",
+    "optionB": "I have been working here since 2019.",
+    "optionC": "I was working here since 2019.",
+    "optionD": "I had worked here since 2019.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) I have been working here since 2019.\n\n• \"since 2019\" = 2019 മുതൽ ഇപ്പോഴും തുടരുന്ന action — Present Perfect Continuous tense ആണ് വേണ്ടത്.\n• \"I have been working\" = 2019 മുതൽ ഇപ്പോഴും work ചെയ്യുന്നു — ഇതാണ് correct.\n• \"since\" = specific point in time (2019, Monday, January...) → Present Perfect Continuous signal word.\n• PSC-ൽ \"since/for\" questions വളരെ common — ഈ rule ഓർത്തിരുന്നാൽ miss ആകില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: since/for + ongoing action = have/has been + V-ing (Present Perfect Continuous)\n• \"since\" = specific start point (since 2019, since Monday, since childhood)\n• \"for\" = duration (for 5 years, for two hours, for a long time)\n• Both \"since\" and \"for\" with ongoing actions → Present Perfect Continuous.\n• ⭐ PSC ആവർത്തനം: since/for tense questions PSC-ൽ ഏറ്റവും കൂടുതൽ വരുന്ന topic.\n• ഉദാഹരണ sentences:\n  1. She has been studying since morning. ✓\n  2. They have been playing for two hours. ✓\n  3. He has been working here since 2015. ✓",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) I am working here since 2019.\n• \"am working\" = Present Continuous — ഇത് ഇപ്പോൾ നടക്കുന്ന action ആണ്, past-ൽ നിന്ന് continue ചെയ്യുന്നതല്ല.\n• Present Continuous-ൽ \"since\" ഉപയോഗിക്കില്ല — ഇതാണ് question-ലെ error.\n• 🪤 PSC Trap: \"ഇപ്പോൾ working\" = present continuous എന്ന് feel ആകും.\n\n❌ (C) I was working here since 2019.\n• \"was working\" = Past Continuous — കഴിഞ്ഞ കാലത്ത് ഒരു specific time-ൽ നടന്ന action.\n• \"since 2019\" ഉള്ളപ്പോൾ past continuous ഉപയോഗിക്കില്ല — action ഇപ്പോഴും continue ചെയ്യുന്നതിനാൽ.\n• 🪤 PSC Trap: 2019 = past ആണ് എന്ന് feel ആകും, past tense choose ചെയ്യും.\n\n❌ (D) I had worked here since 2019.\n• \"had worked\" = Past Perfect — ഇത് ഭൂതകാലത്തിൽ complete ആയ action ആണ്.\n• ഇവിടെ action ഇപ്പോഴും continue ചെയ്യുന്നു, Past Perfect ആകില്ല.\n• 🪤 PSC Trap: \"had\" + worked = formal/correct sound ആണ് എന്ന് feel ആകും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"SINCE = START POINT → HAVE BEEN!\" — since കണ്ടാൽ ഉടൻ \"have/has been + V-ing\" എഴുതൂ. 2019 = start point, ഇപ്പോഴും continue = have been working!\n• Signal word family: since, for, how long, all day, all morning → Present Perfect Continuous.\n• PSC exam strategy: \"since\" or \"for\" കണ്ടാൽ → have/has been + V-ing option ആണ് answer. ഒരിക്കലും simple present/past choose ചെയ്യരുത്."
+    }
+  },
+  {
+    "id": "88-2025-M-Q93",
+    "paperId": "88-2025-M",
+    "questionNumber": 93,
+    "topic": "Degrees of Comparison",
+    "questionText": "Pick the correct comparative degree sentence:",
+    "optionA": "My car is more fast than yours.",
+    "optionB": "My car is fastest than yours.",
+    "optionC": "My car is as faster as yours.",
+    "optionD": "My car is faster than yours.",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) My car is faster than yours.\n\n• \"faster\" = \"fast\"-ന്റെ correct comparative form — one-syllable adjective ആണ്, അതുകൊണ്ട് \"-er\" suffix ചേർക്കണം.\n• \"than\" = comparative degree-ന്റെ signal word — രണ്ട് things compare ചെയ്യുമ്പോൾ \"than\" ഉപയോഗിക്കണം.\n• \"My car is faster than yours\" = ശരിയായ structure: adjective + -er + than.\n• Short adjectives (1 syllable): fast→faster, tall→taller, big→bigger, hot→hotter.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 1 syllable adjective → add -er + than | 2+ syllables → more + adjective + than\n• One-syllable: fast→faster, tall→taller, old→older, cold→colder\n• Two+ syllables: beautiful→more beautiful, expensive→more expensive, difficult→more difficult\n• Exceptions: good→better, bad→worse, far→farther/further, little→less\n• ⭐ PSC ആവർത്തനം: Degrees of comparison PSC-ൽ regular ആയി വരും.\n• ഉദാഹരണ sentences:\n  1. She is taller than her sister. ✓\n  2. This book is more interesting than that one. ✓\n  3. He runs faster than me. ✓",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) more fast\n• \"more fast\" = wrong — \"fast\" is one syllable, \"more\" ഉപയോഗിക്കില്ല.\n• One-syllable adjectives-ന് \"-er\" suffix മാത്രം — \"more\" + one-syllable = always wrong.\n• 🪤 PSC Trap: \"more\" = comparative ആണ് എന്ന് feel ആകും, \"more fast\" correct ആണ് എന്ന് തോന്നും.\n\n❌ (B) fastest\n• \"fastest\" = superlative degree — 3 or more things compare ചെയ്യുമ്പോൾ ഉപയോഗിക്കുന്നത്.\n• ഇവിടെ \"than yours\" ഉള്ളതുകൊണ്ട് 2 things compare ആണ് → comparative degree വേണം.\n• 🪤 PSC Trap: \"fastest\" sounds strong and correct, but \"than\" = comparative signal.\n\n❌ (C) as faster as\n• \"as...as\" = positive degree structure — equal comparison-ന് ഉപയോഗിക്കുന്നത് (as fast as).\n• \"as faster as\" = grammatically impossible — \"as...as\"-ൽ comparative form ഒരിക്കലും വരില്ല.\n• 🪤 PSC Trap: \"as...as\" structure familiar ആണ്, \"faster\" correct ആണ് എന്ന് know ചെയ്യും, combine ചെയ്ത് choose ചെയ്യും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"SHORT = -ER, LONG = MORE!\" — Short word (1 syllable) = add -er. Long word (2+ syllables) = add more. Fast is SHORT → faster ✓. Beautiful is LONG → more beautiful ✓.\n• Degree family: fast→faster→fastest | good→better→best | bad→worse→worst.\n• PSC exam strategy: \"than\" കണ്ടാൽ = comparative. \"-er\" or \"more\" check ചെയ്യൂ. \"more + 1-syllable\" = always wrong. \"-est + than\" = always wrong."
+    }
+  },
+  {
+    "id": "88-2025-M-Q94",
+    "paperId": "88-2025-M",
+    "questionNumber": 94,
+    "topic": "Question Tags",
+    "questionText": "Add suitable question tag to the following sentence:\nLet's go for a walk, __________?",
+    "optionA": "will we?",
+    "optionB": "won't you?",
+    "optionC": "shall we?",
+    "optionD": "shall you?",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) shall we?\n\n• \"Let's go for a walk\" = \"Let us go for a walk\" — suggestion/invitation ആണ്.\n• \"Let's\" ന്റെ question tag = always \"shall we?\" — ഇത് ഒരു fixed rule ആണ്.\n• \"Let's\" = positive statement → positive tag \"shall we?\" — ഇത് exception rule ആണ്.\n• PSC-ൽ \"Let's\" question tag ഇടയ്ക്ക് ചോദിക്കും — guaranteed mark ഇത് ഓർത്തിരുന്നാൽ!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Let's → shall we? (always! no exceptions!)\n• Positive statement → Negative tag (He is tall, isn't he?)\n• Negative statement → Positive tag (She isn't here, is she?)\n• Special cases (must memorize for PSC):\n  - Let's → shall we?\n  - Imperative (Go!) → will you? / won't you?\n  - I am → aren't I?\n  - Nothing → is there?\n• ⭐ PSC ആവർത്തനം: Question tags PSC-ൽ ഏറ്റവും കൂടുതൽ വരുന്ന grammar topic.\n• ഉദാഹരണ sentences:\n  1. Let's play cricket, shall we? ✓\n  2. Let's have dinner, shall we? ✓\n  3. Let's go home, shall we? ✓",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) will we?\n• \"will we?\" = future tense tag — imperative sentences-ന് (Go!, Come!) ഉപയോഗിക്കും.\n• \"Let's\" = \"shall we?\" — \"will we?\" ഒരിക്കലും Let's-ന്റെ tag അല്ല.\n• 🪤 PSC Trap: \"will\" = future ആണ്, \"going for a walk\" = future action ആണ് എന്ന് feel ആകും.\n\n❌ (B) won't you?\n• \"won't you?\" = negative imperative tag — \"Don't do that, will you?\" type sentences-ന്.\n• \"Let's\" = \"shall we?\" — \"you\" tag ഒരിക്കലും Let's-ന് വരില്ല.\n• 🪤 PSC Trap: Question tag-ൽ \"you\" common ആണ് എന്ന് feel ആകും.\n\n❌ (D) shall you?\n• \"shall you?\" = grammatically incorrect — English-ൽ \"shall you?\" ഒരു standard tag അല്ല.\n• \"shall we?\" ആണ് ശരി, \"shall you?\" wrong.\n• 🪤 PSC Trap: \"shall we?\" ഓർമ്മയിൽ നിന്ന് \"we\" മറന്ന് \"you\" write ചെയ്യും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"LET'S = SHALL WE? — ഒരുമിച്ച് പോകാം, SHALL WE?\" — Let's = let us = we together → shall WE? Always!\n• PSC Special Tag List (ഈ 4 ഓർക്കൂ): Let's → shall we? | Go! (imperative) → will you? | I am → aren't I? | Nobody → are they?\n• PSC exam strategy: \"Let's\" കണ്ടാൽ — ഉടൻ \"shall we?\" — മറ്റ് options നോക്കേണ്ടതില്ല!"
+    }
+  },
+  {
+    "id": "88-2025-M-Q95",
+    "paperId": "88-2025-M",
+    "questionNumber": 95,
+    "topic": "Conditionals",
+    "questionText": "Complete the sentence by adding a suitable word given below:\nIf she had studied harder, she __________ passed the exam.",
+    "optionA": "would",
+    "optionB": "will",
+    "optionC": "would have",
+    "optionD": "had",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) would have\n\n• \"If she had studied harder, she _____ passed the exam.\" — ഇത് Third Conditional ആണ്.\n• If clause-ൽ \"had studied\" (had + V3) ഉള്ളതിനാൽ main clause-ൽ \"would have + V3\" വേണം.\n• \"would have passed\" = ഭൂതകാലത്ത് നടക്കാതിരുന്ന ഒരു കാര്യം — \"അവൾ കൂടുതൽ പഠിച്ചിരുന്നെങ്കിൽ pass ആയേനേ\" — പക്ഷേ പഠിച്ചില്ല, pass ആയില്ല.\n• Third Conditional = ഭൂതകാലത്തിലെ unreal / imaginary situation.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: If + had + V3 → would have + V3 (Third Conditional)\n• Three types:\n  - Type 1 (Real future): If + present → will + V1\n  - Type 2 (Unreal present): If + past → would + V1\n  - Type 3 (Unreal past): If + had + V3 → would have + V3\n• ⭐ PSC ആവർത്തനം: Conditional sentences, especially Type 3, PSC-ൽ frequent ആണ്.\n• ഉദാഹരണ sentences:\n  1. If I had known, I would have helped. ✓\n  2. If they had left early, they would have caught the train. ✓\n  3. If he had tried harder, he would have succeeded. ✓",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) would\n• \"would\" alone = Type 2 conditional (If + past → would + V1).\n• ഇവിടെ \"had studied\" = past perfect ആണ്, Type 3 ആണ് → \"would have\" വേണം, \"would\" മാത്രം പോരാ.\n• 🪤 PSC Trap: \"would\" = conditional ആണ് എന്ന് know ഉണ്ടാകും, \"would\" alone choose ചെയ്യും.\n\n❌ (B) will\n• \"will\" = Type 1 conditional (future real) — if + present → will.\n• ഇവിടെ \"had studied\" = past perfect → Type 3, \"will\" ഒരിക്കലും Type 3-ൽ വരില്ല.\n• 🪤 PSC Trap: \"pass the exam\" = future result ആണ് എന്ന് feel ആകും, \"will\" choose ചെയ്യും.\n\n❌ (D) had\n• \"had\" = past perfect — conditional main clause-ൽ \"had\" alone ഉപയോഗിക്കില്ല.\n• conditional main clause requires \"would have + V3\", not \"had\".\n• 🪤 PSC Trap: \"had studied\" കണ്ടതുകൊണ്ട് \"had\" pattern continue ചെയ്യണം എന്ന് feel ആകും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"HAD = WOULD HAVE!\" — If clause-ൽ \"had\" കണ്ടാൽ main clause-ൽ \"would have\" — ഇത് ഒരു pair ആണ്. had → would have, always together!\n• Conditional pair chart: will↔if+present | would↔if+past | would have↔if+had+V3\n• PSC exam strategy: If clause-ൽ \"had + V3\" കണ്ടാൽ — ഉടൻ \"would have\" ഉള്ള option choose ചെയ്യൂ. 3 seconds-ൽ answer!"
+    }
+  },
+  {
+    "id": "88-2025-M-Q96",
+    "paperId": "88-2025-M",
+    "questionNumber": 96,
+    "topic": "Parts of Speech",
+    "questionText": "Choose the correct collective noun:",
+    "optionA": "A pride of lions",
+    "optionB": "A flock of lions",
+    "optionC": "A herd of lions",
+    "optionD": "A pack of lions",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) A pride of lions\n\n• \"A pride of lions\" — lions-ന്റെ ഒരു കൂട്ടത്തെ \"pride\" എന്നാണ് വിളിക്കുന്നത്. ഇത് ഇംഗ്ലീഷ് ഭാഷയിലെ ഒരു fixed collective noun ആണ്.\n• \"Pride\" = അഭിമാനം എന്ന് general meaning, പക്ഷേ lions-ന്റെ കൂട്ടം = a pride — ഇത് specific collocation ആണ്.\n• PSC-ൽ collective nouns of animals ഇടയ്ക്ക് ചോദിക്കും — \"a pride of lions\" ഏറ്റവും common ആയ question ആണ്.\n• ഈ ഒരു answer ഓർത്തിരിക്കൂ: Lions = Pride, Sheep = Flock, Cattle = Herd, Wolves = Pack.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Collective Noun + of + Animal = Group name — ഓരോ animal-നും specific collective noun ഉണ്ട്.\n• Animals-ന്റെ collective nouns (PSC most common):\n  - Lions → a pride\n  - Sheep/Birds → a flock\n  - Cattle/Elephants → a herd\n  - Wolves/Dogs → a pack\n  - Fish → a school/shoal\n  - Bees → a swarm\n  - Crows → a murder\n  - Ants → a colony\n• ⭐ PSC ആവർത്തനം: Animal collective nouns PSC-ൽ ഇടയ്ക്ക് വരും. Lions = pride ഏറ്റവും popular question.\n• ഉദാഹരണ sentences:\n  1. A pride of lions was resting under the tree. ✓\n  2. A flock of birds flew over the lake. ✓\n  3. A herd of cattle grazed in the field. ✓",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) A flock of lions\n• \"Flock\" = sheep, birds, goats-ന്റെ കൂട്ടം — lions-ന് ഉപയോഗിക്കില്ല.\n• \"A flock of sheep\", \"a flock of birds\" — ഇതാണ് ശരി.\n• 🪤 PSC Trap: \"flock\" = animals-ന്റെ കൂട്ടം എന്ന് general feel ആകും, lions-ന് apply ചെയ്യും.\n\n❌ (C) A herd of lions\n• \"Herd\" = cattle, elephants, horses-ന്റെ കൂട്ടം — lions-ന് ഉപയോഗിക്കില്ല.\n• \"A herd of elephants\", \"a herd of cattle\" — ഇതാണ് ശരി.\n• 🪤 PSC Trap: \"herd\" = large animals-ന്റെ കൂട്ടം, lions = large animal ആണ് എന്ന് feel ആകും.\n\n❌ (D) A pack of lions\n• \"Pack\" = wolves, dogs, foxes-ന്റെ കൂട്ടം — lions-ന് ഉപയോഗിക്കില്ല.\n• \"A pack of wolves\", \"a pack of dogs\" — ഇതാണ് ശരി.\n• 🪤 PSC Trap: lions = powerful hunters ആണ്, wolves-ഉം powerful hunters ആണ്, അതിനാൽ same collective noun ഉണ്ടാകും എന്ന് feel ആകും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"LIONS HAVE PRIDE! — Lions = A Pride!\" — Lion is the king of animals, they have pride (അഭിമാനം), just like the word! Pride of lions = king's group. ഒരിക്കലും മറക്കില്ല!\n• PSC Collective Noun family (ഈ 4 ഓർക്കൂ): Lions=Pride | Sheep/Birds=Flock | Cattle=Herd | Wolves=Pack.\n• PSC exam strategy: collective noun question-ൽ \"lions\" കണ്ടാൽ ഉടൻ \"pride\" ഉള്ള option choose ചെയ്യൂ. Flock/Herd/Pack = lions-ന് never!"
+    }
+  },
+  {
+    "id": "88-2025-M-Q97",
+    "paperId": "88-2025-M",
+    "questionNumber": 97,
+    "topic": "One Word Substitutes",
+    "questionText": "Choose the one-word substitute for the phrase given below:\nOne who does not believe in the existence of God",
+    "optionA": "Agnostic",
+    "optionB": "Theist",
+    "optionC": "Atheist",
+    "optionD": "Monotheist",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Atheist\n\n• \"Atheist\" = ദൈവത്തിന്റെ അസ്തിത്വത്തിൽ വിശ്വസിക്കാത്ത ആൾ — \"One who does not believe in the existence of God\".\n• Greek root: \"a\" = without/not + \"theos\" = God → Atheist = ദൈവം ഇല്ല എന്ന് believe ചെയ്യുന്ന ആൾ.\n• \"Atheism\" = atheist-ന്റെ belief system — ദൈവം ഇല്ല എന്ന philosophy.\n• PSC-ൽ \"theist\"/\"atheist\"/\"agnostic\" confusion create ചെയ്യുന്ന question ഇടയ്ക്ക് വരും — ഈ 3 words ഒരുമിച്ച് ഓർക്കൂ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: \"a-\" prefix = not/without — Atheist = not + God-believer.\n• God-related one word substitutes (PSC important):\n  - Atheist = ദൈവത്തിൽ വിശ്വസിക്കാത്ത ആൾ (does NOT believe)\n  - Theist = ദൈവത്തിൽ വിശ്വസിക്കുന്ന ആൾ (believes in God)\n  - Agnostic = ദൈവം ഉണ്ടോ ഇല്ലയോ എന്ന് അറിയില്ല എന്ന് പറയുന്ന ആൾ (uncertain)\n  - Monotheist = ഒരു ദൈവം മാത്രം believe ചെയ്യുന്ന ആൾ (one God)\n  - Polytheist = ഒന്നിലധികം ദൈവങ്ങളിൽ believe ചെയ്യുന്ന ആൾ (many Gods)\n• ⭐ PSC ആവർത്തനം: One word substitutes PSC-ൽ ഇടയ്ക്ക് വരും. Atheist/Agnostic confusion popular question.\n• ഉദാഹരണ sentences:\n  1. He is an atheist who believes religion is a myth. ✓\n  2. Most scientists in the survey identified as agnostic. ✓\n  3. A theist prays to God every day. ✓",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Agnostic\n• \"Agnostic\" = ദൈവം ഉണ്ടോ ഇല്ലയോ എന്ന് അറിയില്ല എന്ന് പറയുന്ന ആൾ — \"uncertain about God\".\n• Atheist = believes God does NOT exist. Agnostic = doesn't know if God exists. വ്യത്യാസം ഓർക്കൂ!\n• 🪤 PSC Trap: \"agnostic\" sounds like \"not believing\" — \"a-\" prefix = not, ആണ് ഇവിടെ ALSO ഉണ്ട് (Greek: agnostos = unknown). Atheist vs Agnostic confusion popular PSC trap.\n\n❌ (B) Theist\n• \"Theist\" = ദൈവത്തിൽ വിശ്വസിക്കുന്ന ആൾ — question-ൽ ദൈവത്തിൽ വിശ്വസിക്കാത്ത ആൾ ആണ് ചോദിക്കുന്നത്.\n• Theist = believes in God (positive). Atheist = does NOT believe (negative). Opposite meanings!\n• 🪤 PSC Trap: \"theist\" = God-related word ആണ് എന്ന് feel ആകും, correct ആണ് എന്ന് തോന്നും.\n\n❌ (D) Monotheist\n• \"Monotheist\" = ഒരു ദൈവം മാത്രം believe ചെയ്യുന്ന ആൾ — \"mono\" = one.\n• Question-ൽ ദൈവം exist ചെയ്യുന്നില്ല എന്ന് believe ചെയ്യുന്ന ആൾ ആണ് ചോദിക്കുന്നത്, ഒരു ദൈവം believe ചെയ്യുന്നവൻ അല്ല.\n• 🪤 PSC Trap: \"mono\" + \"theist\" = complex word ആണ്, formal/educated sound ആകും, correct ആണ് എന്ന് feel ആകും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"A for ABSENT — Atheist = God is ABSENT from their belief!\" — 'A' = Absent, 'Atheist' = God is absent. Agnostic = 'A' for 'Ask me later, I don't know!'\n• God belief family (ഈ 3 pair ഓർക്കൂ): Theist↔Atheist (believe↔not believe) | Agnostic (don't know) | Mono-↔Poly- (one↔many).\n• PSC exam strategy: \"does not believe in God\" = ATHEIST. \"uncertain about God\" = AGNOSTIC. Question-ൽ \"does NOT\" കണ്ടാൽ ഉടൻ \"A-\" prefix ഉള്ള word choose ചെയ്യൂ."
+    }
+  },
+  {
+    "id": "88-2025-M-Q98",
+    "paperId": "88-2025-M",
+    "questionNumber": 98,
+    "topic": "Antonyms",
+    "questionText": "Choose the correct antonym of the word: ABUNDANT",
+    "optionA": "Plentiful",
+    "optionB": "Sufficient",
+    "optionC": "Scanty",
+    "optionD": "Ample",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Scanty\n\n• \"Abundant\" = വളരെ ധാരാളം ഉള്ള, plenty of something — \"ഐശ്വര്യം ഉള്ള, സമൃദ്ധമായ\".\n• \"Scanty\" = വളരെ കുറഞ്ഞ, barely enough — \"ദൗർലഭ്യം, കുറഞ്ഞ\".\n• Abundant ↔ Scanty = exact opposites — \"ധാരാളം\" ↔ \"വളരെ കുറഞ്ഞ\".\n• PSC-ൽ antonym questions-ൽ synonyms-നെ options-ആയി ഇടും — ഈ trap ഓർക്കൂ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Antonym = OPPOSITE meaning word — Abundant = plenty → Antonym = shortage/lack.\n• Abundance word family:\n  - Abundant (adj) → Abundantly (adv) → Abundance (noun)\n  - Synonyms: plentiful, ample, sufficient, copious, profuse, lavish\n  - Antonyms: scanty, scarce, meager, sparse, insufficient, deficient\n• ⭐ PSC ആവർത്തനം: Synonyms/Antonyms PSC-ൽ ഏറ്റവും common vocabulary questions.\n• ഉദാഹരണ sentences:\n  1. Rainfall was abundant this monsoon. ✓ (Antonym: The rainfall was scanty this year.)\n  2. The region has abundant natural resources. ✓\n  3. Scanty evidence led to the case being dismissed. ✓",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Plentiful\n• \"Plentiful\" = ധാരാളം ഉള്ള — ഇത് \"abundant\"-ന്റെ SYNONYM ആണ്, antonym അല്ല.\n• Plentiful = abundant = same meaning. Question antonym ചോദിക്കുന്നു.\n• 🪤 PSC Trap: Antonym question-ൽ synonyms ഇടും — ഇതാണ് ഏറ്റവും common PSC trap! \"Plentiful\" sounds like correct answer.\n\n❌ (B) Sufficient\n• \"Sufficient\" = ആവശ്യത്തിന് ഉള്ള — ഇതും \"abundant\"-ന് close in meaning, opposite അല്ല.\n• Sufficient = enough (neutral). Abundant = more than enough (positive). Scanty = not enough (negative).\n• 🪤 PSC Trap: \"sufficient\" = neutral, \"abundant\" = positive, feel-ൽ opposite ആണ് എന്ന് തോന്നും.\n\n❌ (D) Ample\n• \"Ample\" = ധാരാളം, more than enough — ഇതും \"abundant\"-ന്റെ SYNONYM ആണ്.\n• Ample = abundant = plentiful = all synonyms. Antonym question-ൽ ഇവ ഒന്നും correct ആകില്ല.\n• 🪤 PSC Trap: \"Ample\" = uncommon word ആണ്, students-ന് meaning അറിയില്ലെങ്കിൽ correct ആണ് എന്ന് feel ആകും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ABUNDANT = ABUNDANT food at a feast. SCANTY = Scanty food in a drought. Feast ↔ Drought = Abundant ↔ Scanty!\"\n• PSC Antonym Trap Alert: ഈ question-ൽ 3 options (A, B, D) = synonyms ആണ്! PSC ഇങ്ങനെ ചെയ്യും — ഒരു correct antonym + 3 synonyms. Always find the OPPOSITE, not the similar.\n• PSC exam strategy: Antonym question-ൽ question word-ന്റെ meaning ആദ്യം മനസ്സിലാക്കൂ → ഏറ്റവും opposite meaning ഉള്ള option choose ചെയ്യൂ. Synonyms eliminate ചെയ്യൂ."
+    }
+  },
+  {
+    "id": "88-2025-M-Q99",
+    "paperId": "88-2025-M",
+    "questionNumber": 99,
+    "topic": "Spelling",
+    "questionText": "Choose the correctly spelt word:",
+    "optionA": "Miscellaneous",
+    "optionB": "Miscelaneous",
+    "optionC": "Miscellanneous",
+    "optionD": "Miscellanious",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Miscellaneous\n\n• \"Miscellaneous\" = വിവിധ തരം, mixed variety — \"പലതരം കാര്യങ്ങൾ ഉൾക്കൊള്ളുന്ന\".\n• Correct spelling: M-I-S-C-E-L-L-A-N-E-O-U-S — 13 letters.\n• Key points to remember: double \"ll\" (misceLLaneous), \"eous\" ending (not \"ious\" or \"ious\").\n• PSC-ൽ long difficult words-ന്റെ spelling ഇടയ്ക്ക് ചോദിക്കും — \"miscellaneous\" popular choice ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: mis-cel-la-ne-ous — 5 syllables ആയി break ചെയ്ത് ഓർക്കൂ.\n• Spelling breakdown:\n  - mis + cell + an + eous\n  - \"misCELLaneous\" — CELL ഓർക്കൂ (like a cell phone!)\n  - Double L: miscel-L-L-aneous ✓ (ഒരു L മാത്രം = WRONG)\n  - Ending: -eous (eous, not -ious, not -ious)\n• ⭐ PSC ആവർത്തനം: Spelling questions PSC-ൽ regular ആണ്. Long words with double letters frequently tested.\n• ഉദാഹരണ sentences:\n  1. He sold miscellaneous items at the market. ✓\n  2. The box contained miscellaneous tools. ✓\n  3. There were miscellaneous charges on the bill. ✓",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) Miscelaneous\n• ഇവിടെ \"ll\" ഇല്ല, ഒരു \"l\" മാത്രം — ഇതാണ് error.\n• Correct: misceLLaneous (double L). Wrong: miscelaneous (single L).\n• 🪤 PSC Trap: Quick reading-ൽ correct ആണ് എന്ന് feel ആകും — double letter miss ചെയ്യും.\n\n❌ (C) Miscellanneous\n• ഇവിടെ \"nn\" ഉണ്ട് — extra \"n\" ആണ് error.\n• Correct: miscellanEous (one n). Wrong: miscellaNNeous (double n — wrong!).\n• 🪤 PSC Trap: Double L ഓർത്ത്, double N-ഉം ചേർക്കും, over-correction ആണ് ഇത്.\n\n❌ (D) Miscellanious\n• Ending \"ious\" ആണ് — correct ending \"eous\" ആണ്.\n• Correct: miscellane-OUS (eous). Wrong: miscellani-OUS (ious).\n• 🪤 PSC Trap: \"-ious\" suffix common ആണ് (various, serious, curious) — same pattern apply ചെയ്യും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"mis-CELL-aneous — ഒരു CELL-ൽ miscellaneous items ഉണ്ട്!\" — CELL (mobile phone cell) = double L. mis + CELL + aneous. CELL ഓർത്താൽ double L ഓർക്കും!\n• Spelling check list: (1) Double L? YES — misceLLaneous ✓ (2) Ending -eous? YES — miscellaneOUS ✓ (3) Single N? YES — miscellanEous ✓\n• PSC exam strategy: Spelling question-ൽ options carefully compare ചെയ്യൂ. Double letters, endings (-eous/-ious), silent letters — ഇവ ഒന്നൊന്നായി check ചെയ്യൂ. \"CELL\" trick ഉപയോഗിക്കൂ."
+    }
+  },
+  {
+    "id": "88-2025-M-Q100",
+    "paperId": "88-2025-M",
+    "questionNumber": 100,
+    "topic": "Prepositions",
+    "questionText": "Fill in the blank with a suitable preposition:\nThe minister presided __________ the meeting.",
+    "optionA": "over",
+    "optionB": "at",
+    "optionC": "on",
+    "optionD": "in",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) over\n\n• \"Preside over\" = ഒരു meeting/function-ന്റെ chairman/president ആയി ഇരിക്കുക — \"അധ്യക്ഷം വഹിക്കുക\".\n• \"The minister presided over the meeting\" = മന്ത്രി meeting-ന് അധ്യക്ഷത വഹിച്ചു.\n• \"Preside over\" = fixed collocation ആണ് — ഇത് മാറ്റാൻ കഴിയില്ല. Verb + Preposition pair ആണ്.\n• PSC-ൽ \"preside over\" ഒരു common question ആണ് — ഈ collocation ഓർത്തിരുന്നാൽ guaranteed mark!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Preside + OVER (always!) — preside-ന്റെ only correct preposition is 'over'.\n• Verb + Preposition fixed collocations (PSC most important):\n  - Preside OVER (meeting/function)\n  - Insist ON (something)\n  - Consist OF (elements)\n  - Depend ON (person/thing)\n  - Congratulate ON (achievement)\n  - Apologize FOR (mistake)\n  - Arrive AT (place — small) / IN (city/country)\n  - Interfere IN/WITH\n• ⭐ PSC ആവർത്തനം: Verb+Preposition collocations PSC-ൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന preposition type.\n• ഉദാഹരണ sentences:\n  1. The chairman presided over the board meeting. ✓\n  2. She presided over the ceremony with grace. ✓\n  3. He presided over the committee for 5 years. ✓",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) at\n• \"Preside at\" = incorrect collocation — \"preside\"-ന്റെ correct preposition \"over\" ആണ്.\n• \"At\" = location/place-ന് ഉപയോഗിക്കുന്ന preposition — \"at the meeting\" (attend the meeting-ന്) ശരി, പക്ഷേ \"preside at\" wrong.\n• 🪤 PSC Trap: \"at the meeting\" pattern familiar ആണ്, \"presided at\" correct ആണ് എന്ന് feel ആകും.\n\n❌ (C) on\n• \"Preside on\" = incorrect — \"on\" ഒരിക്കലും \"preside\"-ന്റെ preposition അല്ല.\n• \"On\" = surface/day-ന് ഉപയോഗിക്കും (on the table, on Monday).\n• 🪤 PSC Trap: \"focused on\", \"concentrated on\" patterns familiar ആണ്, same pattern apply ചെയ്യും.\n\n❌ (D) in\n• \"Preside in\" = incorrect — \"in\" ഒരിക്കലും \"preside\"-ന്റെ preposition അല്ല.\n• \"In\" = enclosed space/large place-ന് ഉപയോഗിക്കും (in the room, in India).\n• 🪤 PSC Trap: \"in the meeting\" = ഒരു meeting-ൽ ഉണ്ടായിരുന്നു എന്ന് feel ആകും, \"presided in\" ആണ് correct എന്ന് തോന്നും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Minister PRESIDES OVER all — OVER everyone in the meeting!\" — Presiding = having authority OVER everyone. Authority = OVER. Preside OVER — authority OVER — ഒന്നിച്ച് ഓർക്കൂ!\n• Preposition collocation family: Preside OVER | Chair OVER | Reign OVER — authority/control = OVER.\n• PSC exam strategy: \"preside\" കണ്ടാൽ ഉടൻ \"over\" choose ചെയ്യൂ. at/on/in = never with preside. ഈ question 3 seconds-ൽ answer ചെയ്യാം!"
+    }
   }
 ]
