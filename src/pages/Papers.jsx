@@ -3,13 +3,11 @@ import { useSearchParams, Link } from 'react-router-dom'
 import papers from '../data/papers.json'
 import questions from '../data/questions.json'
 
-const MEDIUMS = { E: 'English', M: 'Malayalam', T: 'Tamil' }
 const YEARS = [...new Set(papers.map(p => p.year))].sort().reverse()
 
 export default function Papers() {
   const [search] = useSearchParams()
   const [year, setYear] = useState(search.get('year') || '')
-  const [medium, setMedium] = useState('')
   const [query, setQuery] = useState('')
 
   const qCountByPaper = useMemo(() => {
@@ -30,11 +28,10 @@ export default function Papers() {
     papers
       .filter(p =>
         (!year || p.year === year) &&
-        (!medium || p.medium === medium) &&
         (!query || (p.post || p.filename || '').toLowerCase().includes(query.toLowerCase()))
       )
       .sort((a, b) => parseDate(b.date) - parseDate(a.date)),
-    [year, medium, query])
+    [year, query])
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-6">
@@ -61,15 +58,6 @@ export default function Papers() {
         >
           <option value="">All Years</option>
           {YEARS.map(y => <option key={y} value={y}>{y}</option>)}
-        </select>
-        <select
-          value={medium}
-          onChange={e => setMedium(e.target.value)}
-          className="rounded-lg px-3 py-2 text-sm"
-          style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)' }}
-        >
-          <option value="">All Mediums</option>
-          {Object.entries(MEDIUMS).map(([k, v]) => <option key={k} value={k}>{v}</option>)}
         </select>
       </div>
 

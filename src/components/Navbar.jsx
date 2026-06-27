@@ -3,8 +3,9 @@ import { useTheme } from '../contexts/ThemeContext'
 import { useAuth } from '../contexts/AuthContext'
 
 const themes = [
-  { id: 'dark', label: '🌙', title: 'Dark' },
   { id: 'howcome', label: 'HC', title: 'HOW COME' },
+  { id: 'black', label: '⬛', title: 'Black' },
+  { id: 'pink', label: '🌸', title: 'Light Pink' },
 ]
 
 export default function Navbar() {

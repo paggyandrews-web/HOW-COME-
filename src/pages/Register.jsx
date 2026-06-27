@@ -11,7 +11,7 @@ const KERALA_DISTRICTS = [
 export default function Register() {
   const { signup } = useAuth()
   const navigate = useNavigate()
-  const [form, setForm] = useState({ name: '', email: '', password: '', district: '' })
+  const [form, setForm] = useState({ name: '', email: '', mobile: '', password: '', district: '' })
   const [error, setError] = useState('')
   const [loading, setLoading] = useState(false)
 
@@ -26,7 +26,7 @@ export default function Register() {
     setError('')
     setLoading(true)
     try {
-      await signup(form.email, form.password, form.name, form.district)
+      await signup(form.email, form.password, form.name, form.district, form.mobile)
       navigate('/')
     } catch (err) {
       setError(err.message || 'Registration failed. Try again.')
@@ -39,7 +39,7 @@ export default function Register() {
       <div className="card rounded-2xl p-6">
         <h1 className="font-bold text-xl mb-1">Create Account</h1>
         <p className="text-sm mb-5" style={{ color: 'var(--text2)' }}>
-          Join Cornerstone to track progress and join the district leaderboard
+          Join <span style={{ color: 'var(--accent)', fontWeight: 600 }}>HOW COME?</span> to track progress and join the district leaderboard
         </p>
 
         {error && (
@@ -58,6 +58,13 @@ export default function Register() {
           <div>
             <label className="block text-sm font-medium mb-1">Email</label>
             <input type="email" name="email" required value={form.email} onChange={handleChange}
+              className="w-full rounded-lg px-3 py-2 text-sm"
+              style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)' }} />
+          </div>
+          <div>
+            <label className="block text-sm font-medium mb-1">Mobile Number</label>
+            <input type="tel" name="mobile" value={form.mobile} onChange={handleChange}
+              placeholder="+91 XXXXXXXXXX"
               className="w-full rounded-lg px-3 py-2 text-sm"
               style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)' }} />
           </div>

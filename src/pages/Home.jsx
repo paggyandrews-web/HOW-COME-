@@ -8,11 +8,19 @@ import FlipClock from '../components/FlipClock'
 
 const MAX_PINS = 5
 
+function formatTime12h(timeStr) {
+  if (!timeStr) return timeStr
+  const [h, m] = timeStr.split(':').map(Number)
+  const period = h >= 12 ? 'PM' : 'AM'
+  const hour = h % 12 || 12
+  return `${String(hour).padStart(2, '0')}:${String(m).padStart(2, '0')} ${period}`
+}
+
 function UnpinDialog({ exam, onConfirm, onCancel }) {
   if (!exam) return null
   return (
     <div
-      className="fixed inset-0 z-50 flex items-end sm:items-center justify-center"
+      className="fixed inset-0 z-50 flex items-center justify-center"
       style={{ background: 'rgba(0,0,0,0.55)', cursor: 'pointer' }}
       onClick={onCancel}
     >
@@ -136,7 +144,7 @@ function ExamCard({ exam, pinned, onPin, onRequestUnpin, pinCount }) {
         </div>
         <div>
           <span style={{ color: 'var(--text2)' }}>Exam Time: </span>
-          <span className="font-medium">{exam.time}</span>
+          <span className="font-medium">{formatTime12h(exam.time)}</span>
         </div>
         <div>
           <span style={{ color: 'var(--text2)' }}>Mode: </span>
@@ -224,8 +232,6 @@ export default function Home() {
     .sort((a, b) => new Date(a.date) - new Date(b.date))
 
   const pinnedExams = exams.filter(e => pinned.includes(e.id))
-  const nearestUnpinned = upcoming.filter(e => !pinned.includes(e.id)).slice(0, 5 - pinnedExams.length)
-  const homeExams = [...pinnedExams, ...nearestUnpinned]
 
   const years = [...new Set(papers.map(p => p.year))].sort().reverse()
   const unpinExamData = unpinTarget ? exams.find(e => e.id === unpinTarget) : null
@@ -250,7 +256,9 @@ export default function Home() {
           background: 'rgba(255,255,255,0.05)', pointerEvents: 'none',
         }} />
         <div style={{ position: 'relative', zIndex: 1 }}>
-          <h1 className="text-2xl sm:text-3xl font-bold mb-1">HOW COME</h1>
+          <h1 className="text-2xl sm:text-3xl font-bold mb-1">
+            HOW <span style={{ color: 'white' }}>COME?</span>
+          </h1>
           <p style={{ color: 'rgba(255,255,255,0.8)' }} className="mb-5">
             Foundation to PSC English — {questions.length} grammar questions from {papers.length} previous papers
           </p>
@@ -258,10 +266,6 @@ export default function Home() {
             <Link to="/quiz" className="px-5 py-2 rounded-lg font-semibold text-sm"
               style={{ background: 'white', color: 'var(--accent)' }}>
               Start Quiz →
-            </Link>
-            <Link to="/papers" className="px-5 py-2 rounded-lg font-medium text-sm"
-              style={{ background: 'rgba(255,255,255,0.15)', color: 'white', border: '1px solid rgba(255,255,255,0.3)' }}>
-              Browse Papers
             </Link>
             <Link to="/exams" className="px-5 py-2 rounded-lg font-medium text-sm"
               style={{ background: 'rgba(255,255,255,0.15)', color: 'white', border: '1px solid rgba(255,255,255,0.3)' }}>
@@ -287,49 +291,42 @@ export default function Home() {
         ))}
       </div>
 
-      {/* Exam countdown section */}
-      <div>
-        <div className="flex items-center justify-between mb-3">
-          <h2 className="font-bold text-lg">📅 Upcoming Exams</h2>
+      {/* Pinned Exams */}
+      {pinnedExams.length > 0 && (
+        <div>
+          <div className="flex items-center justify-between mb-3">
+            <h2 className="font-bold text-lg">📌 Pinned Exams</h2>
+            <Link to="/exams" className="text-sm font-medium" style={{ color: 'var(--accent)' }}>
+              View all →
+            </Link>
+          </div>
+          <div className="space-y-3">
+            {pinnedExams.map(e => (
+              <ExamCard
+                key={e.id}
+                exam={e}
+                pinned={true}
+                onPin={pinExam}
+                onRequestUnpin={setUnpinTarget}
+                pinCount={pinned.length}
+              />
+            ))}
+          </div>
+        </div>
+      )}
+
+      {pinnedExams.length === 0 && (
+        <div className="card rounded-xl p-5 text-center">
+          <div className="text-2xl mb-2">📌</div>
+          <p className="text-sm font-medium mb-1">No exams pinned yet</p>
+          <p className="text-xs mb-3" style={{ color: 'var(--text2)' }}>
+            Pin upcoming exams to track their countdowns here.
+          </p>
           <Link to="/exams" className="text-sm font-medium" style={{ color: 'var(--accent)' }}>
-            View all →
+            Browse Upcoming Exams →
           </Link>
         </div>
-        <p className="text-xs mb-3" style={{ color: 'var(--text2)' }}>
-          Tap 📌 to pin up to {MAX_PINS} exams to this page.
-        </p>
-        <div className="space-y-3">
-          {homeExams.map(e => (
-            <ExamCard
-              key={e.id}
-              exam={e}
-              pinned={pinned.includes(e.id)}
-              onPin={pinExam}
-              onRequestUnpin={setUnpinTarget}
-              pinCount={pinned.length}
-            />
-          ))}
-          {homeExams.length === 0 && (
-            <div className="text-center py-8" style={{ color: 'var(--text2)' }}>
-              No upcoming exams found.
-            </div>
-          )}
-        </div>
-      </div>
-
-      {/* Papers by year */}
-      <div>
-        <h2 className="font-bold text-lg mb-3">📚 Papers by Year</h2>
-        <div className="flex flex-wrap gap-2">
-          {years.map(yr => (
-            <Link key={yr} to={`/papers?year=${yr}`}
-              className="px-4 py-2 rounded-lg text-sm font-medium"
-              style={{ background: 'var(--bg2)', color: 'var(--text)', border: '1px solid var(--border)' }}>
-              {yr} ({papers.filter(p => p.year === yr).length} papers)
-            </Link>
-          ))}
-        </div>
-      </div>
+      )}
 
       {/* Unpin confirmation dialog */}
       <UnpinDialog

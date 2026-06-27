@@ -230,48 +230,38 @@ function QuizSetup({ onStart }) {
         </div>
       )}
 
-      {/* Topic filter */}
-      <div className="mb-4">
-        <div className="text-sm font-medium mb-2">Practice by Topic (optional)</div>
-        <select value={topicId} onChange={e => { setTopicId(e.target.value); setPaperId('') }}
-          className="w-full rounded-lg px-3 py-2 text-sm"
-          style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)' }}>
-          <option value="">All Topics</option>
-          {allTopics.map(([t, c]) => (
-            <option key={t} value={t}>{t} ({c})</option>
-          ))}
-        </select>
-      </div>
-
-      {/* Year filter */}
-      {!topicId && (
-        <div className="mb-4">
-          <div className="text-sm font-medium mb-2">Filter by Year (optional)</div>
-          <select value={year} onChange={e => { setYear(e.target.value); setPaperId('') }}
+      {/* Compact filter row */}
+      <div className="mb-5">
+        <div className="text-sm font-medium mb-2">Filter (optional)</div>
+        <div className="flex flex-col gap-2">
+          <select value={topicId} onChange={e => { setTopicId(e.target.value); setPaperId(''); setYear('') }}
             className="w-full rounded-lg px-3 py-2 text-sm"
             style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)' }}>
-            <option value="">All Years</option>
-            {years.map(y => <option key={y} value={y}>{y}</option>)}
-          </select>
-        </div>
-      )}
-
-      {/* Paper select */}
-      {!topicId && (
-        <div className="mb-4">
-          <div className="text-sm font-medium mb-2">Select Paper (optional)</div>
-          <select value={paperId} onChange={e => { setPaperId(e.target.value); setTopicId('') }}
-            className="w-full rounded-lg px-3 py-2 text-sm"
-            style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)' }}>
-            <option value="">Random from all papers</option>
-            {filteredPapers.map(p => (
-              <option key={p.id} value={p.id}>
-                {p.post || p.filename?.replace('.pdf', '') || p.id} ({p.year})
-              </option>
+            <option value="">All Topics</option>
+            {allTopics.map(([t, c]) => (
+              <option key={t} value={t}>{t} ({c})</option>
             ))}
           </select>
+          <div className="flex gap-2">
+            <select value={year} onChange={e => { setYear(e.target.value); setPaperId(''); setTopicId('') }}
+              className="flex-1 rounded-lg px-3 py-2 text-sm"
+              style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)' }}>
+              <option value="">All Years</option>
+              {years.map(y => <option key={y} value={y}>{y}</option>)}
+            </select>
+            <select value={paperId} onChange={e => { setPaperId(e.target.value); setTopicId('') }}
+              className="flex-1 rounded-lg px-3 py-2 text-sm"
+              style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)' }}>
+              <option value="">All Papers</option>
+              {filteredPapers.map(p => (
+                <option key={p.id} value={p.id}>
+                  {p.post || p.id} ({p.year})
+                </option>
+              ))}
+            </select>
+          </div>
         </div>
-      )}
+      </div>
 
       {/* Count slider — only when no specific paper and not browse */}
       {!paperId && !isBrowse && (
@@ -424,6 +414,7 @@ export default function Quiz() {
   const [revealed, setRevealed] = useState(false)
   const [timeLeft, setTimeLeft] = useState(30)
   const [timedOut, setTimedOut] = useState(false)
+  const [showConfetti, setShowConfetti] = useState(false)
 
   const isTimed = quizData?.mode === 'timed'
   const isBrowse = quizData?.mode === 'browse'
@@ -459,7 +450,11 @@ export default function Quiz() {
     if (revealed || timedOut) return
     setSelected(letter)
     setAnswers(prev => { const next = [...prev]; next[current] = letter; return next })
-    // Removed: if (isTimed) setRevealed(true)
+    // Confetti on correct answer in practice mode
+    if (!isTimed && q?.correctAnswer && letter === q.correctAnswer) {
+      setShowConfetti(true)
+      setTimeout(() => setShowConfetti(false), 3000)
+    }
   }
 
   function handleCheck() { setRevealed(true) }
@@ -515,6 +510,7 @@ export default function Quiz() {
 
   return (
     <div className="max-w-2xl mx-auto px-4 py-6">
+      <Confetti active={showConfetti} />
       {/* Header */}
       <div className="flex items-center justify-between mb-3 text-sm" style={{ color: 'var(--text2)' }}>
         <span>Question {current + 1} of {quizData.questions.length}</span>
