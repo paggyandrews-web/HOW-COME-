@@ -35,18 +35,18 @@
 }
 
 [data-theme="pink"] {
-  --bg: #000000;
-  --bg2: #111111;
-  --surface: #111111;
-  --border: #3d0a22;
-  --text: #f9e8f0;
-  --text2: #c084a0;
+  --bg: #fff0f7;
+  --bg2: #fce7f3;
+  --surface: #ffffff;
+  --border: #f9a8d4;
+  --text: #4a0728;
+  --text2: #9d174d;
   --accent: #db2777;
   --accent-hover: #be185d;
   --accent-text: #ffffff;
-  --card: #111111;
-  --shadow: 0 1px 3px rgba(219,39,119,0.2);
-  --come-color: #f472b6;
+  --card: #ffffff;
+  --shadow: 0 1px 3px rgba(219,39,119,0.08);
+  --come-color: #9d174d;
 }
 
 body {
@@ -78,12 +78,8 @@ body {
   box-shadow: 0 4px 16px rgba(26,157,142,0.15), 0 16px 40px rgba(0,0,0,0.35);
 }
 
-[data-theme="pink"] .card {
-  box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
-}
-
 [data-theme="pink"] .card:hover {
-  box-shadow: 0 4px 16px rgba(219,39,119,0.2), 0 16px 40px rgba(0,0,0,0.35);
+  box-shadow: 0 4px 16px rgba(219,39,119,0.15), 0 16px 40px rgba(219,39,119,0.08);
 }
 
 .btn-primary {
