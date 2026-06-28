@@ -1,6 +1,7 @@
 import { useState, useMemo } from 'react'
 import exams from '../data/exams.json'
 import FlipClock from '../components/FlipClock'
+import { useAuth } from '../contexts/AuthContext'
 
 function formatTime12h(timeStr) {
   if (!timeStr) return timeStr
@@ -167,28 +168,13 @@ function ExamRow({ exam, saved, onSave, onRequestRemove, savedCount }) {
 }
 
 export default function Exams() {
-  const [saved, setSaved] = useState(() =>
-    JSON.parse(localStorage.getItem('cs-pinned') || '[]')
-  )
+  const { pinnedExams: saved, pinExam, unpinExam } = useAuth()
   const [query, setQuery] = useState('')
   const [showPast, setShowPast] = useState(false)
   const [removeTarget, setRemoveTarget] = useState(null)
 
-  function saveExam(id) {
-    setSaved(prev => {
-      if (prev.includes(id) || prev.length >= MAX_PINS) return prev
-      const next = [...prev, id]
-      localStorage.setItem('cs-pinned', JSON.stringify(next))
-      return next
-    })
-  }
-
-  function removeExam(id) {
-    setSaved(prev => {
-      const next = prev.filter(p => p !== id)
-      localStorage.setItem('cs-pinned', JSON.stringify(next))
-      return next
-    })
+  function handleRemove(id) {
+    unpinExam(id)
     setRemoveTarget(null)
   }
 
@@ -289,7 +275,7 @@ export default function Exams() {
             key={e.id}
             exam={e}
             saved={saved.includes(e.id)}
-            onSave={saveExam}
+            onSave={pinExam}
             onRequestRemove={setRemoveTarget}
             savedCount={saved.length}
           />
@@ -304,7 +290,7 @@ export default function Exams() {
       {/* Remove confirmation dialog */}
       <RemoveDialog
         exam={removeExamData}
-        onConfirm={() => removeExam(removeTarget)}
+        onConfirm={() => handleRemove(removeTarget)}
         onCancel={() => setRemoveTarget(null)}
       />
     </div>

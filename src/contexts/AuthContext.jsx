@@ -1,4 +1,4 @@
-import { createContext, useContext, useEffect, useState } from 'react'
+import { createContext, useContext, useEffect, useRef, useState } from 'react'
 import {
   createUserWithEmailAndPassword,
   signInWithEmailAndPassword,
@@ -9,12 +9,19 @@ import {
 import { doc, setDoc, getDoc } from 'firebase/firestore'
 import { auth, db } from '../firebase/config'
 
+const MAX_PINS = 5
 const AuthContext = createContext()
 
 export function AuthProvider({ children }) {
   const [user, setUser] = useState(null)
   const [profile, setProfile] = useState(null)
   const [loading, setLoading] = useState(true)
+
+  // Pinned exams live here — shared across ALL pages, survives navigation
+  const [pinnedExams, setPinnedExams] = useState(() =>
+    JSON.parse(localStorage.getItem('cs-pinned') || '[]')
+  )
+  const didSyncPinned = useRef(false)
 
   useEffect(() => {
     const unsub = onAuthStateChanged(auth, async (u) => {
@@ -24,11 +31,43 @@ export function AuthProvider({ children }) {
         if (snap.exists()) setProfile(snap.data())
       } else {
         setProfile(null)
+        didSyncPinned.current = false
       }
       setLoading(false)
     })
     return unsub
   }, [])
+
+  // ONE-TIME sync from Firebase on login — union with local so nothing is lost
+  useEffect(() => {
+    if (profile?.pinnedExams && !didSyncPinned.current) {
+      didSyncPinned.current = true
+      const local = JSON.parse(localStorage.getItem('cs-pinned') || '[]')
+      const fb = profile.pinnedExams
+      const merged = [...new Set([...local, ...fb])]
+      setPinnedExams(merged)
+      localStorage.setItem('cs-pinned', JSON.stringify(merged))
+    }
+  }, [profile])
+
+  function pinExam(id) {
+    setPinnedExams(prev => {
+      if (prev.includes(id) || prev.length >= MAX_PINS) return prev
+      const next = [...prev, id]
+      localStorage.setItem('cs-pinned', JSON.stringify(next))
+      if (user) setDoc(doc(db, 'users', user.uid), { pinnedExams: next }, { merge: true })
+      return next
+    })
+  }
+
+  function unpinExam(id) {
+    setPinnedExams(prev => {
+      const next = prev.filter(p => p !== id)
+      localStorage.setItem('cs-pinned', JSON.stringify(next))
+      if (user) setDoc(doc(db, 'users', user.uid), { pinnedExams: next }, { merge: true })
+      return next
+    })
+  }
 
   async function signup(email, password, name, district) {
     const cred = await createUserWithEmailAndPassword(auth, email, password)
@@ -48,18 +87,8 @@ export function AuthProvider({ children }) {
     setProfile(null)
   }
 
-  async function updatePinnedExams(pinnedExams) {
-    if (!user) return
-    // Fire-and-forget — do NOT call setProfile here.
-    // Calling setProfile after each Firestore write causes a race condition on mobile:
-    // if two rapid pins complete out of order, the earlier write's setProfile fires last
-    // and resets the UI back to fewer pins. Local state in Home.jsx manages pinned state
-    // during the session; Firebase is just the backup store.
-    setDoc(doc(db, 'users', user.uid), { pinnedExams }, { merge: true })
-  }
-
   return (
-    <AuthContext.Provider value={{ user, profile, loading, signup, login, logout, updatePinnedExams }}>
+    <AuthContext.Provider value={{ user, profile, loading, signup, login, logout, pinnedExams, pinExam, unpinExam }}>
       {!loading && children}
     </AuthContext.Provider>
   )

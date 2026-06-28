@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react'
+import { useState, useEffect } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { useAuth } from '../contexts/AuthContext'
 import questions from '../data/questions.json'
@@ -162,14 +162,10 @@ function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
 }
 
 export default function Home() {
-  const { user, profile, updatePinnedExams } = useAuth()
+  const { user, pinnedExams: pinnedIds, pinExam, unpinExam } = useAuth()
   const navigate = useNavigate()
-  const [pinned, setPinned] = useState(() =>
-    JSON.parse(localStorage.getItem('cs-pinned') || '[]')
-  )
   const [removeTarget, setRemoveTarget] = useState(null)
   const [searchQuery, setSearchQuery] = useState('')
-  const didLoadFromFirebase = useRef(false)
   const [streak, setStreak] = useState(0)
   const { getStreak } = useStreak()
 
@@ -177,38 +173,8 @@ export default function Home() {
     getStreak().then(s => setStreak(s.currentStreak || 0))
   }, [user])
 
-  // Only apply Firebase pinned state ONCE on initial load.
-  // Never overwrite local state after that — prevents race conditions
-  // when multiple updatePinnedExams() calls complete out of order on slow networks.
-  useEffect(() => {
-    if (profile?.pinnedExams && !didLoadFromFirebase.current) {
-      didLoadFromFirebase.current = true
-      const local = JSON.parse(localStorage.getItem('cs-pinned') || '[]')
-      const fb = profile.pinnedExams
-      // Use whichever has more pins (handles offline edits)
-      const merged = local.length >= fb.length ? local : fb
-      setPinned(merged)
-      localStorage.setItem('cs-pinned', JSON.stringify(merged))
-    }
-  }, [profile])
-
-  function pinExam(id) {
-    setPinned(prev => {
-      if (prev.includes(id) || prev.length >= MAX_PINS) return prev
-      const next = [...prev, id]
-      localStorage.setItem('cs-pinned', JSON.stringify(next))
-      if (user) updatePinnedExams?.(next)
-      return next
-    })
-  }
-
-  function unpinExam(id) {
-    setPinned(prev => {
-      const next = prev.filter(p => p !== id)
-      localStorage.setItem('cs-pinned', JSON.stringify(next))
-      if (user) updatePinnedExams?.(next)
-      return next
-    })
+  function handleUnpin(id) {
+    unpinExam(id)
     setRemoveTarget(null)
   }
 
@@ -219,7 +185,7 @@ export default function Home() {
     .filter(e => new Date(e.date) >= today)
     .sort((a, b) => new Date(a.date) - new Date(b.date))
 
-  const pinnedExams = exams.filter(e => pinned.includes(e.id))
+  const pinnedExams = exams.filter(e => pinnedIds.includes(e.id))
 
   const years = [...new Set(papers.map(p => p.year))].sort().reverse()
   const removeExamData = removeTarget ? exams.find(e => e.id === removeTarget) : null
@@ -362,7 +328,7 @@ export default function Home() {
                 saved={true}
                 onSave={pinExam}
                 onRequestRemove={setRemoveTarget}
-                savedCount={pinned.length}
+                savedCount={pinnedIds.length}
               />
             ))}
           </div>
@@ -385,7 +351,7 @@ export default function Home() {
       {/* Remove confirmation dialog */}
       <RemoveDialog
         exam={removeExamData}
-        onConfirm={() => unpinExam(removeTarget)}
+        onConfirm={() => handleUnpin(removeTarget)}
         onCancel={() => setRemoveTarget(null)}
       />
     </div>
