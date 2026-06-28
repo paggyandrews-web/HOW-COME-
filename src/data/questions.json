@@ -5218,5 +5218,365 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) SQPR → 'If you do your work, people will know, with dedication and honesty, how hard you have tried.' — 'with dedication and honesty' (P) main clause-ന്റെ നടുവിൽ വരുന്നത് grammatically awkward ആണ്. P = 'work'-ന്റെ adverb, main clause-ൽ ചേർക്കുന്നത് തെറ്റ്.\n\n❌ (B) RPSQ → 'How hard you have tried with dedication and honesty if you do your work people will know.' — ഈ order-ൽ sentence-ന്റെ meaning chaotic ആകുന്നു. 'How hard' ആദ്യം വരുന്നത് wrong — ഇത് noun clause ആണ്, main clause-ന്റെ ഭാഗമായി മാത്രം വരും.\n\n❌ (D) SRPQ → 'If you do your work, how hard you have tried, people will know, with dedication and honesty.' — ഇതും completely disordered sentence ആണ്. Conditional clause, result, object, adverb — ഈ order logic-ഇല്ലാത്തതാണ്.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'If' കണ്ടാൽ → ആ part ആദ്യം! 'If' ഉള്ള part conditional-ന്റെ beginning ആണ്. S-ൽ 'if' ഉണ്ട് → S ആദ്യം. S-ന്റെ adverb P → second. Result Q → third. Q-ന്റെ object R → fourth. = SPQR!\n• Sentence rearrangement strategy: (1) 'If' / 'When' ഉള്ള part ആദ്യം, (2) 'so' / 'then' / result ഉള്ള part second half, (3) Adverb phrases (with, by, in) — അത് modify ചെയ്യുന്ന word-ന്റെ തൊട്ടുപിന്നാലെ.\n• Historical note: 'SPQR' = 'Senatus Populusque Romanus' (Roman Empire-ന്റെ motto!) — ഈ answer option coincidentally Rome-ന്റെ abbreviation ആണ് 😄 ഒരിക്കലും forget ആകില്ല!"
     }
+  },
+  {
+    "id": "72-2025-M-Q71",
+    "paperId": "72-2025-M",
+    "questionNumber": 71,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Seventy kilograms _________ more than anyone can lift easily.",
+    "optionA": "are",
+    "optionB": "is",
+    "optionC": "will",
+    "optionD": "shall",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) is\n\n• 'Seventy kilograms' — ഇത് ഒരു specific amount / weight ആണ്. Amount, weight, distance, time, money — ഇവ sentence-ൽ ഒരു unit ആയി refer ചെയ്യുമ്പോൾ singular verb ആണ് ഉപയോഗിക്കേണ്ടത്.\n• 'Seventy kilograms is more than anyone can lift easily' = 70 കിലോ ഭാരം ഒരാൾക്ക് എളുപ്പത്തിൽ ഉയർത്താൻ കഴിയുന്നതിലും കൂടുതലാണ് — ഇവിടെ 70 kg ഒരൊറ്റ amount ആകയാൽ singular 'is' ഉപയോഗിക്കുന്നു.\n• 'Are' ഉപയോഗിക്കുന്നത് 'seventy individual kilograms (items)' ആയി treat ചെയ്യുമ്പോൾ ആണ് — ഇത് ഇവിടെ ശരിയല്ല, കാരണം ഇത് ഒരു measurement ആണ്.\n• 'Will / shall' — ഇവ auxiliary verbs ആണ്, main verb ആകില്ല — ഈ context-ൽ ചേരില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Amount / Weight / Distance / Time / Money → ഒരു UNIT ആയി reference ചെയ്യുമ്പോൾ → SINGULAR VERB\n• ⭐ PSC ആവർത്തനം: ഇത്തരം Subject-Verb Agreement questions PSC-യിൽ വളരെ ഇടയ്ക്ക് ചോദ്യങ്ങൾ ആകും — especially measurements!\n\nഉദാഹരണ sentences:\n1. Twenty kilometres is a long distance to walk.\n   (20 കിലോമീറ്റർ നടക്കാൻ ദൂരമേറെ ആണ്)\n2. Five hundred rupees is not enough for groceries.\n   (500 രൂപ groceries-ന് തികയില്ല)\n3. Three hours is too long to wait.\n   (3 മണിക്കൂർ കാക്കാൻ വളരെ നേരം ആണ്)\n4. Two litres of milk is sufficient for the recipe.\n   (Recipe-ന് 2 ലിറ്റർ പാൽ മതിയാകും)\n\nNote: ഒരേ noun plural ആയാലും measurement unit ആയി ഉപയോഗിക്കുമ്പോൾ singular verb ആണ്.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) are — 'Are' plural verb ആണ്. 'Seventy kilograms' plural number ആകയാൽ 'are' ആണ് ശരി എന്ന് തോന്നും — ഇതാണ് PSC-ന്റെ 🪤 Trap! പക്ഷേ ഒരു specific measurement unit ആയി refer ചെയ്യുമ്പോൾ plural noun-ഉം singular verb ആണ്.\n\n❌ (C) will — 'Will' ഒരു modal auxiliary verb ആണ്, linking verb (be verb) ആകില്ല. 'Seventy kilograms will more than...' — ഇത് grammatically incomplete ആണ്; 'is / are' പോലെ predicate ആകാൻ 'will' alone കഴിയില്ല.\n\n❌ (D) shall — 'Shall' -ഉം modal auxiliary verb ആണ്, main verb ആകില്ല. ഇവിടെ subject complement-ന് linking verb 'is' വേണം, modal verb 'shall' അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Measurement questions-ൽ number plural ആണോ? Check ചെയ്യ്. But ask: 'ഇത് ഒരൊറ്റ amount/unit ആണോ?' — YES ആണെങ്കിൽ singular verb! '70 kg is one measurement' — ഒന്ന് = singular!\n• Rule family ഒരുമിച്ച് ഓർക്കൂ: 70 kg is | 20 km is | ₹500 is | 3 hours is | 2 litres is — ഇവ മൊത്തം singular!\n• PSC exam strategy: Amount / weight / distance / money / time ആണ് subject-ൽ ഉള്ളതെങ്കിൽ — singular verb ആണ് ഉത്തരം. Number-ൽ confuse ആകരുത് — unit ആയി use ചെയ്യുന്ന plural noun-ഉം singular verb!"
+    }
+  },
+  {
+    "id": "72-2025-M-Q72",
+    "paperId": "72-2025-M",
+    "questionNumber": 72,
+    "topic": "Prepositions",
+    "questionText": "She is elder _________ her youngest sister by 4 years.",
+    "optionA": "than",
+    "optionB": "of",
+    "optionC": "to",
+    "optionD": "by",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) to\n\n• 'Elder' ഒരു special comparative adjective ആണ്. 'Elder' adjective-ന് ശേഷം 'to' ആണ് ഉപയോഗിക്കേണ്ടത് — 'than' അല്ല!\n• 'She is elder to her youngest sister' = 'അവൾ അവളുടെ ഏറ്റവും ഇളയ സഹോദരിയേക്കാൾ 4 വയസ്സ് മൂത്തതാണ്'\n• ഇത് ഒരു special group of comparative adjectives: senior, junior, elder, inferior, superior, prior, posterior — ഇവ എല്ലാം 'than' അല്ല 'to' ആണ് ഉപയോഗിക്കേണ്ടത്.\n• 'Older than' ഉപയോഗിക്കാം, പക്ഷേ 'elder than' തെറ്റ് — 'elder to' ആണ് ശരി.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Senior / Junior / Elder / Superior / Inferior / Prior → ALWAYS use 'TO', never 'than'\n• ⭐ PSC ആവർത്തനം: ഈ rule PSC-യിൽ ഏറ്റവും കൂടുതൽ ചോദ്യങ്ങൾ ആകുന്ന ഒന്നാണ്! Guaranteed mark!\n• Note: 'Older than' = correct (ordinary comparative). 'Elder to' = correct (special Latin-origin comparative). 'Elder than' = WRONG!\n\nഉദാഹരണ sentences:\n1. He is senior to me in the office.\n   (ഓഫീസിൽ അദ്ദേഹം എന്നേക്കാൾ senior ആണ്)\n2. Gold is superior to silver in value.\n   (മൂല്യത്തിൽ gold, silver-നേക്കാൾ superior ആണ്)\n3. This product is inferior to the other one.\n   (ഈ product മറ്റേതിനേക്കാൾ inferior ആണ്)\n4. She is junior to him by two years.\n   (അവൾ 2 വർഷം junior ആണ്)\n5. Prior to the exam, read the notes carefully.\n   (Exam-ന് മുൻപ് notes ശ്രദ്ധയോടെ വായിക്കൂ)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) than — ഇതാണ് ഏറ്റവും വലിയ 🪤 Trap! 'Older than', 'taller than', 'smarter than' — ഇവ ശരിയാണ്. പക്ഷേ 'elder' ഒരു Latin-origin special adjective ആണ്; ഇതിന് 'to' ആണ് required. 'Elder than' എഴുതുന്നത് grammatically incorrect.\n\n❌ (B) of — 'Elder of' — ഇത് 'the elder of the two' പോലുള്ള specific construction-ൽ ഉപയോഗിക്കും (comparison between two persons). ഇവിടെ 'by 4 years' ഉള്ളതിനാൽ direct comparison ആണ്; 'of' ഇവിടെ ചേരില്ല.\n\n❌ (D) by — 'By' distance / margin indicate ചെയ്യാൻ ഉപയോഗിക്കും (ഉദാ: 'elder by 4 years' — sentence-ന്റെ end-ൽ already 'by 4 years' ഉണ്ട്). Blank-ൽ verb-ന് ശേഷം 'by' ഉപയോഗിക്കുന്നത് ഇവിടെ grammatically fit ആകില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'SJEIPS TO' — Senior, Junior, Elder, Inferior, Prior, Superior → TO! ഈ 6 words-ഉം Latin-origin ആണ്, Latin-ൽ 'quam' (than) ഉപയോഗിക്കില്ല, 'ad' (to) ആണ് ഉപയോഗിക്കുന്നത് → English-ലും 'to'!\n• ഇനി ഒരിക്കലും 'elder than' / 'senior than' / 'superior than' എഴുതരുത് — ഇവ common errors ആണ്.\n• PSC exam strategy: Question-ൽ 'elder / senior / junior / superior / inferior' കണ്ടാൽ — blank-ൽ ഉത്തരം 'to' ആണ്, look no further!"
+    }
+  },
+  {
+    "id": "72-2025-M-Q73",
+    "paperId": "72-2025-M",
+    "questionNumber": 73,
+    "topic": "Question Tags",
+    "questionText": "I am good at grammar, _______?",
+    "optionA": "am I",
+    "optionB": "amn't I",
+    "optionC": "aren't I",
+    "optionD": "are I",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) aren't I\n\n• 'I am...' positive statement ആണ്, അതിനാൽ negative question tag വേണം. Negative tag = aren't I?\n• 'I am'-ന്റെ question tag ഒരു special case ആണ്! Grammatically expected tag 'am I not?' ആണ്, പക്ഷേ informal/colloquial English-ൽ 'aren't I?' ആണ് accepted form.\n• 'Aren't I?' = 'Am I not?' — ഇവ രണ്ടും correct, പക്ഷേ PSC-ൽ 'aren't I' ആണ് standard answer.\n• 'Am I not?' formal, 'Aren't I?' informal — PSC exams-ൽ 'aren't I' ആണ് ഏറ്റവും commonly accepted.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: I am + positive → aren't I? (NOT 'am I not' in most PSC questions)\n• Question tag rule: Positive statement → Negative tag | Negative statement → Positive tag\n• Special cases in Question Tags:\n  - I am → aren't I? (exception!)\n  - Let's → shall we?\n  - Don't → do they/he/she etc.\n  - I hope/think → tag on the main clause subject\n• ⭐ PSC ആവർത്തനം: 'I am → aren't I?' ഒരു guaranteed PSC question! ഇത് ഓർത്തിരിക്കൂ.\n\nഉദാഹരണ sentences:\n1. I am your friend, aren't I?\n   (ഞാൻ നിന്റെ കൂട്ടുകാരനല്ലേ?)\n2. I am late, aren't I?\n   (ഞാൻ late ആണ്, അല്ലേ?)\n3. I am the best candidate, aren't I?\n   (ഞാൻ best candidate ആണ്, അല്ലേ?)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) am I — 'Am I' positive tag ആണ്. Statement positive ആണെങ്കിൽ tag negative ആകണം. 'Am I' ഉപയോഗിക്കുന്നത് 'I am not...' negative statement-ന് ശേഷം മാത്രമാണ്. ഉദാ: 'I am not wrong, am I?' — ഇവിടെ statement negative ആകയാൽ positive tag.\n\n❌ (B) amn't I — 'Amn't' എന്ന form technically ഉണ്ടെങ്കിലും (Scottish English-ൽ ഉപയോഗിക്കും) standard British/Indian English-ൽ accepted അല്ല. PSC-ൽ 'aren't I' ആണ് ഏകോപനം ഉള്ള correct answer. 'Amn't' ഒരു non-standard contracted form ആണ്.\n\n❌ (D) are I — ഇത് grammatically incorrect ആണ്. Subject 'I'-ന് ഒരിക്കലും 'are' ഉപയോഗിക്കില്ല — present tense-ൽ 'I am' ആണ്, 'I are' ഇല്ലേ ഇല്ല. ഈ option confusion create ചെയ്യാനുള്ള 🪤 Trap ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'I AM special!' — 'I am'-ന്റെ question tag ഒരു exception ആണ്. 'Aren't I' — 'are' + 'not' + 'I' = 'aren't I'. Singular ആയ 'am'-ന്റെ tag-ൽ 'are' ഉപയോഗിക്കുന്നത് irregular ആണ്, ഒരൊറ്റ exception ആണ് ഇത്!\n• ഈ special cases card ആയി ഓർക്കൂ: I am → aren't I | Let's → shall we | Don't push → do you\n• PSC exam strategy: 'I am' ഉള്ള statement-ന്റെ question tag ചോദിച്ചാൽ — directly 'aren't I' mark ചെയ്യൂ. ഇത് 100% correct!"
+    }
+  },
+  {
+    "id": "72-2025-M-Q74",
+    "paperId": "72-2025-M",
+    "questionNumber": 74,
+    "topic": "Direct and Indirect Speech",
+    "questionText": "Change into indirect speech:\nHe said, \"I will return this book tomorrow\".",
+    "optionA": "He promised that he would return that book the next day",
+    "optionB": "He said he will return the book tomorrow",
+    "optionC": "He offered to return the book tomorrow",
+    "optionD": "He promised he would return the book next day",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) He promised that he would return that book the next day\n\n• Direct speech-ൽ 'He said, \"I will return this book tomorrow\"' — ഇത് report ചെയ്യുമ്പോൾ ഈ changes ആണ് ആകേണ്ടത്:\n  - 'will' → 'would' (tense backshift: present → past)\n  - 'I' → 'he' (pronoun change)\n  - 'this book' → 'that book' (this → that: pronoun of proximity)\n  - 'tomorrow' → 'the next day' (time expression change)\n• Option A-ൽ ഈ changes എല്ലാം ശരിയാണ്: would ✓, that book ✓, the next day ✓\n• 'Promised' reporting verb change ആണ് — 'said' → 'promised' acceptable ആണ് context-ൽ, 'I will return' = a promise ആയി interpret ചെയ്യാം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula for Indirect Speech Changes:\n  1. Tense backshift: will → would | can → could | may → might | shall → should\n  2. Pronoun: I → he/she | we → they | you → he/she/they\n  3. This → that | these → those\n  4. Time: tomorrow → the next day | today → that day | yesterday → the day before | now → then\n• ⭐ PSC ആവർത്തനം: Direct/Indirect speech PSC-യിൽ frequent ആണ്.\n\nഉദാഹരണ sentences:\n1. She said, 'I am happy.' → She said that she was happy.\n   (Present → Past backshift)\n2. He said, 'I will come tomorrow.' → He said that he would come the next day.\n   (will → would, tomorrow → the next day)\n3. They said, 'We can help you.' → They said that they could help me.\n   (can → could, pronoun change)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) He said he will return the book tomorrow — രണ്ട് errors: (1) 'will' → 'would' backshift ആകേണ്ടതിടത്ത് 'will' remain ചെയ്തു — wrong. (2) 'tomorrow' → 'the next day' ആകേണ്ടതിടത്ത് 'tomorrow' remain ചെയ്തു — wrong. Tense backshift-ഉം time expression change-ഉം miss ആയി.\n\n❌ (C) He offered to return the book tomorrow — 'Offered' reporting verb incorrect ആണ്. 'Offer' = ഒരു service/thing freely give ചെയ്യാൻ തയ്യാറാകുക. 'I will return the book' = ഒരു promise / statement — ഇത് 'offered' ആകില്ല. 'Tomorrow' → 'the next day' ആകേണ്ടതും miss ആയി.\n\n❌ (D) He promised he would return the book next day — 'The next day' ആകേണ്ടതിടത്ത് 'next day' ആണ് — 'the' article miss ആയി. 'This book' → 'that book' ആകേണ്ടത് 'the book' ആയതും incomplete. Correct option A-ൽ ഈ details ശരിയാകയാൽ A-ആണ് best answer.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'TTTP Rule' for Indirect Speech: Tense backshift + Time change + This→That + Pronoun change — ഈ 4 steps check ചെയ്താൽ Indirect speech correct ആകും!\n• Time words table card ആയി ഓർക്കൂ:\n  tomorrow → the next day | today → that day | yesterday → the day before | now → then | here → there\n• PSC exam strategy: Indirect speech option-കൾ check ചെയ്യുമ്പോൾ: first 'will/can/may' → 'would/could/might' ആയോ? Second 'tomorrow/today/now' → correct form-ൽ ആയോ? ഈ രണ്ട് checks-ഉം wrong options eliminate ചെയ്യും!"
+    }
+  },
+  {
+    "id": "72-2025-M-Q75",
+    "paperId": "72-2025-M",
+    "questionNumber": 75,
+    "topic": "Spelling",
+    "questionText": "Identify the correct spelling",
+    "optionA": "Phoenix",
+    "optionB": "Pheenix",
+    "optionC": "Phinix",
+    "optionD": "Phoenex",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Phoenix\n\n• 'Phoenix' — ഇതാണ് correct spelling. P-H-O-E-N-I-X.\n• 'Phoenix' = ഗ്രീക്ക് mythology-ൽ പ്രസിദ്ധമായ ഒരു magical bird — ഇത് തീയിൽ കത്തിനശിക്കും, വീണ്ടും ചാരത്തിൽ നിന്ന് ജനിക്കും. 'Rise like a phoenix' = പരാജയത്തിൽ നിന്ന് ഉയർന്നെഴുന്നേൽക്കുക.\n• ഗ്രീക്ക് origin: 'Phoinix' (φοῖνιξ) → English: Phoenix. 'oe' combination ഒരു Greek borrowing-ന്റെ signature ആണ്.\n• Arizona, USA-ൽ ഒരു city-ഉം 'Phoenix' എന്ന് പേരുണ്ട് — ഈ name-ഉം PSC-ൽ ഇടയ്ക്ക് ചോദ്യങ്ങൾ ആകും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• ഇത് Spelling — oe/oe combination category-ൽ പെടുന്നു.\n• 🔑 Quick Formula: 'Ph-oe-n-ix' — ഓരോ syllable ആയി break ചെയ്യൂ: Ph + oe + nix → Phoenix!\n• Greek-origin words-ൽ 'oe' combination common ആണ്: phoenix, amoeba, foetus, oestrogen.\n• ⭐ PSC ആവർത്തനം: Greek/Latin origin words-ന്റെ spelling PSC-ൽ ഇടയ്ക്ക് ചോദ്യം ആകും.\n\nഉദാഹരണ sentences:\n1. The phoenix rose from its own ashes.\n   (Phoenix സ്വന്തം ചാരത്തിൽ നിന്ന് ഉയർന്നു)\n2. She is like a phoenix — she always bounces back from failure.\n   (അവൾ phoenix-ഇനെ പോലെ ആണ് — failure-ൽ നിന്ന് എപ്പോഴും തിരിച്ചുവരും)\n3. Phoenix is the capital city of Arizona.\n   (Phoenix, Arizona-ന്റെ capital city ആണ്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) Pheenix — 'ee' combination ഉണ്ടാക്കി 'oe'-ക്ക് പകരം 'ee' ഉപയോഗിച്ചിരിക്കുന്നു. 'oe' sound-ന് 'ee' substitute ചെയ്തത് wrong. Phoenix-ൽ 'oe' = /iː/ sound ആണ്, പക്ഷേ spelling 'oe' ആണ്, 'ee' അല്ല.\n\n❌ (C) Phinix — 'oe' combination completely drop ആക്കി 'i' മാത്രം ഉപയോഗിച്ചിരിക്കുന്നു. 'Ph-oe' → 'Ph-i' ആക്കിയത് wrong. 'oe' ഒഴിവാക്കിയതോടെ Greek origin-ന്റെ signature spelling lose ആകുന്നു.\n\n❌ (D) Phoenex — 'i' → 'e' ആക്കിയ error ആണ്. 'Phoenix'-ൽ last part 'n-i-x' ആണ്; 'n-e-x' അല്ല. 'oe' correct ആണ്, പക്ഷേ 'ix' → 'ex' ആക്കിയത് wrong spelling ആക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'PHO-ENI-X' — 'PHO' = Pho (Vietnamese soup famous ആണ്!), 'ENI' = any, 'X' = cross. 'PhoPho any cross = Phoenix!' 😄 അഥവാ: 'Ph-oe-nix' — 'Ph' + 'oe' (ഗ്രീക്ക്) + 'nix' (nothing = ഒന്നുമില്ലായ്മ, ചാരം) = ചാരത്തിൽ നിന്ന് ഉയരുന്ന bird!\n• Greek-origin 'oe' words list: phoenix, amoeba, oestrogen, foetus — ഇവ spelling mistakes common ആകും.\n• PSC exam strategy: Spelling question-ൽ 'oe' combination ഉള്ള option-കൾ ഗ്രീക്ക്/Latin origin words-ൽ commonly correct ആകും — eliminate by eliminating options with 'ee' or 'i' instead of 'oe'."
+    }
+  },
+  {
+    "id": "72-2025-M-Q76",
+    "paperId": "72-2025-M",
+    "questionNumber": 76,
+    "topic": "Conditionals",
+    "questionText": "If you had studied well, you _________ the examination.",
+    "optionA": "will have passed",
+    "optionB": "would pass",
+    "optionC": "would be passing",
+    "optionD": "would have passed",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) would have passed\n\n• ഇത് Third Conditional (Type 3) ആണ് — ഭൂതകാലത്ത് സംഭവിക്കാതിരുന്ന ഒരു situation imagine ചെയ്യുന്നു.\n• If-clause-ൽ 'had studied' (Past Perfect) ഉള്ളതിനാൽ main clause-ൽ 'would have + past participle' ആണ് വേണ്ടത്.\n• 'If you had studied well, you would have passed' = 'നിങ്ങൾ നന്നായി പഠിച്ചിരുന്നെങ്കിൽ, exam pass ആയേനേ' — യഥാർത്ഥത്തിൽ നന്നായി പഠിക്കുകയും pass ആകുകയും ചെയ്തില്ല.\n• Third Conditional = Unreal Past — ഭൂതകാലത്തിൽ നടക്കാതിരുന്ന condition-ന്റെ imaginary result.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula:\n  Type 1 (Real future): If + Present Simple → will + V1\n  Type 2 (Unreal present): If + Past Simple → would + V1\n  Type 3 (Unreal past): If + Past Perfect (had+V3) → would have + V3\n• ⭐ PSC ആവർത്തനം: Conditional sentences — especially Type 3 — PSC-ൽ ഏറ്റവും കൂടുതൽ ചോദ്യങ്ങൾ ആകുന്ന grammar topic-കളിൽ ഒന്ന്!\n• Signal: If-clause-ൽ 'had' കണ്ടാൽ → main clause-ൽ 'would have' — ഇത് brain-ൽ direct link ആക്കൂ.\n\nഉദാഹരണ sentences:\n1. If I had woken up early, I would have caught the train.\n   (നേരത്തെ ഉണർന്നിരുന്നെങ്കിൽ train കിട്ടിയേനേ)\n2. If she had applied, she would have got the job.\n   (അവൾ apply ചെയ്തിരുന്നെങ്കിൽ job കിട്ടിയേനേ)\n3. If they had left earlier, they would have avoided traffic.\n   (അവർ നേരത്തെ ഇറങ്ങിയിരുന്നെങ്കിൽ traffic avoid ചെയ്യാമായിരുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) will have passed — 'Will have passed' = Future Perfect tense. ഇത് future-ൽ complete ആകുന്ന action-ന് ഉപയോഗിക്കും (ഉദാ: 'By tomorrow, I will have finished'). Conditional Type 3-ൽ 'will' ഒരിക്കലും ഉപയോഗിക്കില്ല — 'would' ആണ് conditional-ൽ.\n\n❌ (B) would pass — ഇത് Type 2 Conditional (Unreal Present)-ന്റെ main clause form ആണ്. Type 2: 'If + Past Simple → would + V1'. ഇവിടെ if-clause-ൽ 'had studied' (Past Perfect) ഉള്ളതിനാൽ Type 3 ആണ് — Type 2 ആകില്ല.\n\n❌ (C) would be passing — 'Would be passing' = Conditional Continuous. ഇത് 'continuous action in a hypothetical situation'-ന് ഉപയോഗിക്കും. ഇവിടെ 'passing an exam' ഒരു point action ആണ്, continuous action ഇല്ല. Type 3-ൽ 'would have passed' ആണ് correct form.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HAD → WOULD HAVE' — If-clause-ൽ 'HAD' കണ്ടാൽ main clause-ൽ 'WOULD HAVE' — ഇത് ഒരൊറ്റ rule! 'Had → Would Have' — 2 words ഇൻ, 2 words ഔട്ട്!\n• 3 Conditional types ഒരൊറ്റ rhyme ആയി ഓർക്കൂ:\n  Type 1: Will ← Present (Real future)\n  Type 2: Would ← Past (Unreal present)\n  Type 3: Would Have ← Had (Unreal past)\n• PSC exam strategy: If-clause-ൽ tense identify ചെയ്യൂ first: 'had studied' → Past Perfect → Type 3 → 'would have passed'. ഒരിക്കൽ type identify ആകുന്നത് correct option immediate ആകും!"
+    }
+  },
+  {
+    "id": "72-2025-M-Q77",
+    "paperId": "72-2025-M",
+    "questionNumber": 77,
+    "topic": "Prepositions",
+    "questionText": "Kids are fond _________ games.",
+    "optionA": "about",
+    "optionB": "of",
+    "optionC": "in",
+    "optionD": "by",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) of\n\n• 'Fond of' ഒരു fixed adjective + preposition collocation ആണ്. 'Fond' adjective-ന് ശേഷം എപ്പോഴും 'of' ആണ് ഉപയോഗിക്കേണ്ടത്.\n• 'Kids are fond of games' = 'കുട്ടികൾക്ക് games-ൽ ഇഷ്ടമാണ്' / 'കുട്ടികൾ games-ൽ ആഗ്രഹം ഉള്ളവരാണ്'.\n• ഇത് ഒരു collocation ആണ് — adjective-preposition fixed pair. ഒരു word-ന്റെ ശേഷം ഏത് preposition വരും എന്നത് memorize ചെയ്യേണ്ടതാണ്.\n• 'Fond of' = ഇഷ്ടമുള്ള, ആഗ്രഹമുള്ള — English-ൽ ഉപയോഗ-സ്ഥൈര്യം ഉള്ള expression.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Adjective + Preposition fixed collocations — memorize ചെയ്യുക!\n• ⭐ PSC ആവർത്തനം: Adjective+Preposition collocations PSC-ൽ ഇടയ്ക്കിടെ ചോദ്യങ്ങൾ ആകും.\n\nImportant Adjective + Preposition pairs:\n• Fond OF (ഇഷ്ടമുള്ള)\n• Afraid OF (ഭയം)\n• Proud OF (അഭിമാനം)\n• Guilty OF (കുറ്റം ചെയ്ത)\n• Capable OF (കഴിവുള്ള)\n• Interested IN (ആഗ്രഹം)\n• Engaged IN (ഏർപ്പെട്ടിരിക്കുന്ന)\n• Angry WITH (person-ന് നേരെ), Angry AT (situation-ന് നേരെ)\n• Good AT (grammar, sports)\n• Full OF\n• Satisfied WITH\n• Responsible FOR\n• Addicted TO\n\nഉദാഹരണ sentences:\n1. She is fond of reading novels.\n   (അവൾക്ക് novels വായിക്കാൻ ഇഷ്ടമാണ്)\n2. He is afraid of dogs.\n   (അദ്ദേഹത്തിന് നായ്ക്കളെ ഭയമാണ്)\n3. They are proud of their achievement.\n   (അവർ സ്വന്തം achievement-ൽ അഭിമാനം ഉള്ളവരാണ്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) about — 'About' general topics-ഉം approximate numbers-ഉം indicate ചെയ്യും (ഉദാ: 'talk about', 'about 10 people'). 'Fond about' ഒരു recognized collocation അല്ല — 'fond of' മാത്രമേ correct ആകൂ.\n\n❌ (C) in — 'In' place, time, state indicate ചെയ്യും. 'Fond in' ഒരു valid expression ഇല്ല. 'Interested in' correct ആണ്, പക്ഷേ 'fond in' incorrect. ഇവ confuse ആകാൻ PSC 🪤 Trap ആക്കും.\n\n❌ (D) by — 'By' means (by bus, by train), agent in passive voice (written by), deadline (by Monday) indicate ചെയ്യും. 'Fond by' ഒരു collocation അല്ലേ അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Fond OF' — 'OF' = 'Ownership' feeling! ഞാൻ games-ന്റെ fan ആണ്, games 'of' me ആണ് — Fond OF!\n• Top PSC adjective+preposition pairs card ആക്കൂ: fond of | afraid of | proud of | good at | interested in | responsible for | addicted to — ഇവ 7 ഏറ്റവും commonly tested ആണ്.\n• PSC exam strategy: 'Fond ___' blank കണ്ടാൽ — directly 'of' mark ചെയ്യൂ. No second thought needed!"
+    }
+  },
+  {
+    "id": "72-2025-M-Q78",
+    "paperId": "72-2025-M",
+    "questionNumber": 78,
+    "topic": "Idioms",
+    "questionText": "The idiom '__a red-letter day__' means.",
+    "optionA": "a day of bloodshed",
+    "optionB": "a very important day",
+    "optionC": "a day of martyrs",
+    "optionD": "an unhappy occasion",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) a very important day\n\n• 'A red-letter day' = ഒരു special, memorable, important day (ഒരു special ദിവസം / അത്യന്തം പ്രധാനമായ ദിവസം).\n• ഈ idiom-ന്റെ origin: Middle Ages-ൽ church calendars-ൽ saints' days / holidays / important religious festivals — ഇവ RED ink-ൽ print ചെയ്യിരുന്നു. Ordinary days black ink-ൽ ആയിരുന്നു. Red = important day.\n• ഇന്നും 'red-letter day' = a day of special significance — ഉദ്ദേശം positive ആണ്, negative (bloodshed / sadness) ഒന്നും ഉദ്ദേശിക്കുന്നില്ല.\n• ഉദാ: 'My graduation day was a red-letter day in my life' = 'എന്റെ graduation day ജീവിതത്തിലെ ഒരു special ദിവസമായിരുന്നു'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• ഇത് Idioms — Colors category-ൽ പെടുന്നു.\n• 🔑 Quick Formula: Red Letter = Important / Special / Memorable Day\n• ⭐ PSC ആവർത്തനം: Color idioms PSC-ൽ ഏറ്റവും ഇടയ്ക്ക് ചോദ്യങ്ങൾ ആകുന്ന idiom category ആണ്!\n\nMost important Color Idioms for PSC:\n• A red-letter day = a very important/memorable day\n• In black and white = in written/printed form\n• Once in a blue moon = very rarely\n• Green with envy = very jealous\n• Red tape = excessive bureaucratic rules\n• Tickled pink = very pleased/delighted\n• Caught red-handed = caught in the act of doing wrong\n• Black sheep = the odd one out / disgrace in a group\n\nഉദാഹരണ sentences:\n1. The day I got my job offer was a red-letter day for me.\n   (Job offer കിട്ടിയ ദിവസം എനിക്ക് ഒരു special ദിവസമായിരുന്നു)\n2. Our wedding anniversary is a red-letter day in our lives.\n   (Wedding anniversary ജീവിതത്തിലെ ഒരു red-letter day ആണ്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) a day of bloodshed — 'Red' color blood-നെ remind ചെയ്യിക്കും. ഇതാണ് PSC-ന്റെ classic 🪤 Trap! 'Red letter day'-ൽ red = importance / celebration, bloodshed-ഉം violence-ഉം ഉദ്ദേശിക്കില്ല. Literal meaning-ൽ deceive ആകരുത്!\n\n❌ (C) a day of martyrs — 'Martyrs' = sacrifice ചെയ്തവർ. 'Red'-ന്റെ blood association-ൽ നിന്ന് ഈ option trap ആക്കിയിരിക്കുന്നു. 'Red letter day' = special/important day, martyrdom-ഉമായി ബന്ധമില്ല.\n\n❌ (D) an unhappy occasion — 'Red-letter day' positive meaning ആണ്! 'Red' = danger/sadness ആകും എന്ന് literal ആയി think ചെയ്ത് unhappy occasion ആകും എന്ന് ചിന്തിക്കും — ഇത് 🪤 Trap ആണ്. Calendars-ൽ red = celebration, not sadness.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'RED LETTER = BIG LETTER!' — Calendars-ൽ important days bold/red color-ൽ mark ചെയ്യുന്ന habit ഓർക്കൂ. 'Red = Highlight = Important = Special!' School diary-ൽ holidays red-ൽ ആണ്, പക്ഷേ ഒരു sad day ആണോ? NO! Holidays = happy important days!\n• Color idiom shortcuts: Red-letter = Important | Red-handed = Caught doing wrong | Red tape = Bureaucracy — ഈ 3 'red' idioms confuse ആകരുത്!\n• PSC exam strategy: 'Red-letter day' = POSITIVE/IMPORTANT meaning. Bloodshed / martyrs / unhappy — ഇവ confuse ആക്കാനുള്ള options ആണ്. Positive option ആയ 'a very important day' ഒറ്റ look-ൽ mark ചെയ്യൂ."
+    }
+  },
+  {
+    "id": "72-2025-M-Q79",
+    "paperId": "72-2025-M",
+    "questionNumber": 79,
+    "topic": "Compound Words",
+    "questionText": "I came across a _________ of girls in the park.",
+    "optionA": "pack",
+    "optionB": "pride",
+    "optionC": "bevy",
+    "optionD": "gaggle",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) bevy\n\n• 'A bevy of girls' = a group of girls (പെൺകുട്ടികളുടെ ഒരു കൂട്ടം).\n• 'Bevy' ഒരു collective noun ആണ് — specifically girls / women / quails / deer-ന്റെ group-നെ refer ചെയ്യും.\n• Origin: Old French 'bevée' = a drink, a brood. 'Bevy' originally means a group drinking together → later generalized to a group of women.\n• PSC-യിൽ collective nouns — especially for people — ഒരു popular topic ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• ഇത് Collective Nouns — People category-ൽ പെടുന്നു.\n• 🔑 Quick Formula: Girls/Women group → BEVY | Lions group → PRIDE | Geese group → GAGGLE | Wolves group → PACK\n• ⭐ PSC ആവർത്തനം: Collective nouns — animals-ഉം people-ഉം — PSC-ൽ ഇടയ്ക്കിടെ ചോദ്യങ്ങൾ ആകും.\n\nMost important Collective Nouns for PSC:\nPeople:\n• A bevy of girls/women\n• A crew of sailors\n• A troupe of actors\n• A gang of thieves/workers\n• A board of directors\n• A panel of judges\n\nAnimals:\n• A pride of lions\n• A pack of wolves\n• A gaggle of geese (on land) / a skein of geese (in flight)\n• A flock of birds/sheep\n• A herd of cattle/elephants\n• A school of fish\n• A swarm of bees",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) pack — 'A pack of' = wolves, dogs, lies, cards-ന്റെ collective noun ആണ്. 'Pack of girls' ഒരു recognized collective noun expression ഇല്ല. PSC ഈ option 🪤 Trap ആക്കി — 'pack' common word ആകയാൽ students confuse ആകും.\n\n❌ (B) pride — 'A pride of lions' — ഇതാണ് 'pride'-ന്റെ collective noun usage. 'Pride of girls' ഇല്ല. Lions-ന്റേതാണ് pride — girls-ന്റേതല്ല. ഈ option 'pride' = honour / self-respect എന്ന meaning-ൽ confuse ആക്കാൻ PSC ഉൾപ്പെടുത്തിയതാണ്.\n\n❌ (D) gaggle — 'A gaggle of geese' — geese (താറാവ്/Indian geese) കരയിൽ ഉള്ളപ്പോഴുള്ള collective noun ആണ് 'gaggle'. Girls-ന്റെ collective noun ഇല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BEVY = BEVVY = Beverages party!' — ഒരു group of girls ഒരുമിച്ച് drinks/party enjoy ചെയ്യുന്ന image ഓർക്കൂ — 'BEVY of girls!' French origin 'bevée' = drinks group → girls' group!\n• Animal-specific tricks: PRIDE → Lions (king-like pride!) | GAGGLE → Geese (noisy, 'ga-ga-ga' sound!) | PACK → Wolves/dogs (hunting pack!)\n• PSC exam strategy: 'A ___ of girls' blank കണ്ടാൽ → 'bevy' ഒറ്റ ഉത്തരം! Other options animals / wrong groups-ന്റേതാണ് — eliminate ചെയ്യൂ."
+    }
+  },
+  {
+    "id": "72-2025-M-Q80",
+    "paperId": "72-2025-M",
+    "questionNumber": 80,
+    "topic": "One Word Substitutes",
+    "questionText": "The word '__scapegoat__' means.",
+    "optionA": "an escaped goat",
+    "optionB": "a goat which is sick",
+    "optionC": "a goat kept as prey for a wild animal",
+    "optionD": "a person blamed for someone else's wrongs",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) a person blamed for someone else's wrongs\n\n• 'Scapegoat' = ഒരാളുടെ തെറ്റിന് മറ്റൊരാൾ blame ഏൽക്കുക / കുറ്റം ഇല്ലാതിരുന്നിട്ടും ശിക്ഷ ഏൽക്കുന്ന ആൾ.\n• Origin: Bible (Leviticus) — Ancient Jewish ritual-ൽ ജനതയുടെ പാപങ്ങൾ ഒരു goat-ന്റെ മേൽ symbolically load ആക്കി ആ goat-ഇനെ wilderness-ൽ ('escape') വിടും (ഒരു escape ആകും). ഇതാണ് 'scapegoat' — 'escape' + 'goat'.\n• ഉദാ: 'The junior employee was made a scapegoat for the manager's mistake' = manager-ന്റെ തെറ്റിന് junior employee blame ഏൽക്കേണ്ടി വന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• ഇത് Vocabulary — Word Meanings / Idioms category-ൽ പെടുന്നു.\n• 🔑 Quick Formula: Scapegoat = Blame-carrier for others' mistakes (കുറ്റം ഏൽക്കുന്ന ആൾ)\n• Etymology: 'Scape' (escape) + 'Goat' → Biblical origin → person who takes blame and is 'sent away'\n• ⭐ PSC ആവർത്തനം: Word meanings — especially compound words with interesting origins — PSC-ൽ ഇടയ്ക്ക് ചോദ്യങ്ങൾ ആകും.\n\nSimilar compound words with interesting origins:\n• Drawback = a disadvantage (draw back = pull back)\n• Deadline = a time limit (originally a line in a prison — cross it and be shot)\n• Bankrupt = financially ruined (Italian 'banca rotta' = broken bench)\n\nഉദാഹരണ sentences:\n1. He was made a scapegoat for the company's failure.\n   (Company failure-ന് അദ്ദേഹത്തെ scapegoat ആക്കി)\n2. Politicians often make the poor a scapegoat for economic problems.\n   (Politicians economic problems-ന് ദരിദ്രരെ scapegoat ആക്കുന്നു)\n3. Don't make me a scapegoat; I did nothing wrong.\n   (എന്നെ scapegoat ആക്കരുത്; ഞാൻ ഒന്നും ചെയ്തില്ല)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) an escaped goat — 'Scapegoat'-ൽ 'goat' ഉള്ളതിനാൽ literal ആയി 'escaped goat' ആണ് meaning എന്ന് തോന്നും — ഇതാണ് PSC-ന്റെ ഏറ്റവും clever 🪤 Trap! 'Scape' = escape-ൽ നിന്ന് വന്ന word, പക്ഷേ 'scapegoat' ഒരു figurative/idiomatic expression ആണ്, literal goat-ഉമായി ബന്ധമില്ല.\n\n❌ (B) a goat which is sick — 'Sick goat'-ഉമായി ഒരു ബന്ധവുമില്ല. 'Goat' കണ്ടതിനാൽ goat-related meaning ആണ് ഉദ്ദേശം എന്ന് literal ആകുന്ന 🪤 Trap.\n\n❌ (C) a goat kept as prey for a wild animal — ഇതും goat-ഉമായി literal ആകുന്ന trap ആണ്. 'Scapegoat' idiomatically use ചെയ്യുന്ന word — ഒരിക്കലും actual goat-ഇനെ refer ചെയ്യില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'SCAPE + GOAT' — ഒരു goat-ഇനെ imagine ചെയ്യൂ, അതിന്റെ മുതുകിൽ everyone's sins/mistakes load ചെയ്ത് desert-ലേക്ക് 'escape' ആക്കി വിടുന്നു — that goat = scapegoat = blame carrier! ആ image ഒരിക്കലും forget ആകില്ല!\n• Word origin awareness PSC-ൽ help ചെയ്യും: 'Dead + line = Deadline' / 'Scape + goat = Scapegoat' / 'Draw + back = Drawback' — compound words-ന്റെ literal parts ഉണ്ടെങ്കിലും idiomatic meaning ആണ് test ചെയ്യുന്നത്.\n• PSC exam strategy: 'Literal goat' options (A, B, C) — ഇവ traps ആണ്. 'Scapegoat' = person who takes blame — human meaning ആണ് correct!"
+    }
+  },
+  {
+    "id": "72-2025-M-Q81",
+    "paperId": "72-2025-M",
+    "questionNumber": 81,
+    "topic": "Antonyms",
+    "questionText": "Opposite of '__extravagant__'",
+    "optionA": "intelligent",
+    "optionB": "thrifty",
+    "optionC": "lavish",
+    "optionD": "foolish",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) thrifty\n\n• 'Extravagant' = needlessly wasteful with money / spending more than necessary (ആവശ്യത്തിലധികം ചെലവഴിക്കുന്ന, israf ചെയ്യുന്ന).\n• 'Thrifty' = careful with money, avoiding waste, economical (ലാഭശ്ശീലം ഉള്ള, money carefully save ചെയ്യുന്ന).\n• 'Extravagant' ↔ 'Thrifty' — ഇവ perfect antonyms ആണ്: ഒരാൾ money waste ചെയ്യുന്നു, മറ്റൊരാൾ money save ചെയ്യുന്നു.\n• 'Thrifty' = 'thrift' (economical use of resources) + '-y' suffix. 'Thrift shop' = second-hand / budget shop — ഈ word family ഉം ഓർക്കൂ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• ഇത് Antonyms — Adjectives category-ൽ പെടുന്നു.\n• 🔑 Quick Formula: Extravagant (waste money) ↔ Thrifty (save money)\n• Word family:\n  - Extravagant (adj) → extravagance (noun) → extravagantly (adv)\n  - Thrifty (adj) → thrift (noun) → thriftily (adv)\n• ⭐ PSC ആവർത്തനം: Antonym questions — especially money/character-related adjectives — PSC-ൽ frequent ആണ്.\n• Related words spectrum (wasteful → economical):\n  Prodigal → Extravagant → Spendthrift → Wasteful → Economical → Frugal → Thrifty → Miserly → Stingy\n\nഉദാഹരണ sentences:\n1. She is extravagant with her salary — spends on luxuries.\n   (അവൾ salary-യിൽ extravagant ആണ് — luxuries-ൽ ചെലവഴിക്കും)\n2. He is thrifty — he saves half his income every month.\n   (അദ്ദേഹം thrifty ആണ് — income-ന്റെ പകുതി save ചെയ്യും)\n3. Be thrifty in youth so you can enjoy old age comfortably.\n   (Youth-ൽ thrifty ആകൂ — old age comfortable ആകും)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) intelligent — 'Extravagant'-ന്റെ antonym intelligence-ഉമായി ബന്ധമില്ല. 'Extravagant' = spending habit, 'intelligent' = mental ability. ഇവ different dimensions ആണ്. Money management-ഉം intelligence-ഉം same ആകില്ല.\n\n❌ (C) lavish — 'Lavish' = 'extravagant'-ന്റെ SYNONYM ആണ്! (Lavish = generous to an excessive degree). PSC-ന്റെ ഒരു classic 🪤 Trap: antonym ചോദിക്കുമ്പോൾ synonym option-ൽ കൊടുക്കും! 'Lavish' = ആഡംബരമായ, 'extravagant' = ആഡംബരമായ — ഇവ similar, opposite ആകില്ല.\n\n❌ (D) foolish — 'Foolish' = ബുദ്ധിഹീനത. 'Extravagant'-ന്റെ antonym ആകില്ല. 'Foolish spending' ഒരു phrase ആണ് — 'foolish' 'extravagant'-ന്റെ antonym ആകില്ല. ഈ option spending-ഉമായി indirect connection ഉള്ളതിനാൽ confuse ആക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Extra + vagant' = 'Extra wandering (of money)' — money extra ആയി wander ആകുന്നു / ആർക്കും control ഇല്ല = extravagant! Opposite = 'THRIFT-y' — 'Thrift' ഓർത്തിരിക്കൂ: 'Three Fifty' — ₹350 save ചെയ്യുന്ന ആൾ = thrifty! 😄\n• ⚠️ Antonym trap warning: PSC synonym-ഇനെ antonym ആയി കൊടുക്കും. 'Lavish' = extravagant = SAME. 'Thrifty' = OPPOSITE. 'Lavish' option കണ്ടാൽ — antonym question-ൽ reject ചെയ്യൂ!\n• Word pairs ഒരുമിച്ച് ഓർക്കൂ: Extravagant ↔ Thrifty | Prodigal ↔ Frugal | Generous ↔ Miserly"
+    }
+  },
+  {
+    "id": "72-2025-M-Q82",
+    "paperId": "72-2025-M",
+    "questionNumber": 82,
+    "topic": "Foreign Words and Phrases",
+    "questionText": "The expression '__sine qua non__' means.",
+    "optionA": "an essential condition",
+    "optionB": "none is qualified",
+    "optionC": "do not sin",
+    "optionD": "none of the above",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) an essential condition\n\n• 'Sine qua non' (Latin) = 'without which not' — അതില്ലാതെ ആകില്ല / ഇല്ലാതെ ഇരിക്കാൻ കഴിയാത്ത essential condition.\n• Literal Latin meaning: 'sine' = without, 'qua' = which, 'non' = not → 'without which not' = absolutely essential, indispensable condition.\n• ഉദാ: 'Honesty is a sine qua non for public service' = 'Public service-ൽ honesty ഒരു essential/absolute condition ആണ്'.\n• Law-ൽ, philosophy-ൽ, academic writing-ൽ — ഈ phrase frequently use ചെയ്യും. PSC-ൽ Latin phrases ഇടയ്ക്ക് ചോദ്യങ്ങൾ ആകും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• ഇത് Foreign Words and Phrases — Latin Phrases category-ൽ പെടുന്നു.\n• 🔑 Quick Formula: Sine qua non = Without which not = Absolute necessity / Essential condition\n• ⭐ PSC ആവർത്തനം: Latin/French phrases PSC-ൽ ഇടയ്ക്ക് ചോദ്യം ആകും.\n\nMost important Latin Phrases for PSC:\n• Sine qua non = an essential condition / without which not\n• Status quo = the existing state of affairs (നിലവിലെ അവസ്ഥ)\n• Bona fide = genuine, in good faith (genuine ആയ)\n• Viva voce = oral examination (വൈവ)\n• Per capita = per person (ആളൊന്നിന്)\n• Vice versa = the other way around (നേരെ തിരിച്ചും)\n• Et cetera (etc.) = and so on (മുതലായവ)\n• Post mortem = after death examination (ശവ പരിശോധന)\n• Alma mater = one's school/university (പഠിച്ച college)\n• Modus operandi = method of working",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) none is qualified — 'None is qualified'-ഉം 'sine qua non'-ഉമായി ഒരു ബന്ധവുമില്ല. 'Qua' word 'who' പോലെ sound ആകും, 'non' = none sound ആകും — ഇത് acoustic confusion create ചെയ്ത 🪤 Trap ആണ്. Latin word sound-ൽ deceive ആകരുത്.\n\n❌ (C) do not sin — 'Sine' ഉം 'sin' ഉം sound similar — 'sine' Latin for 'without', 'sin' English for 'transgression'. 'Qua non' = don't sin ആണ് എന്ന് sound-based guess ചെയ്ത് confuse ആകും — ഇത് PSC-ന്റെ clever 🪤 Trap!\n\n❌ (D) none of the above — ഈ option 'ഒന്നും correct ആകില്ല' എന്ന് uncertanity create ചെയ്യാൻ കൊടുത്തിരിക്കുന്നു. 'Sine qua non' = essential condition — ഇത് clear definition ഉള്ള Latin phrase ആണ്; 'none of the above' ഒരിക്കലും correct ആകില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'SINE QUA NON = SIN-E + QUA + NON' — 'Without (sine) which (qua) not (non)' — imagine: 'Water is a sine qua non for life' — ജലം ഇല്ലാതെ ജീവൻ ഇല്ല! That is SINE QUA NON — can't live without it!\n• Latin phrases short list for PSC: SQ Non = Essential | Status Quo = Current State | Bona Fide = Genuine | Viva Voce = Oral Exam | Per Capita = Per Person\n• PSC exam strategy: Latin/French phrase questions-ൽ sound-based options ഉണ്ടാകും ('do not sin', 'none is qualified' etc.). ഇവ trap ആണ്. Actual Latin meaning ആണ് ഓർക്കേണ്ടത്."
+    }
+  },
+  {
+    "id": "72-2025-M-Q83",
+    "paperId": "72-2025-M",
+    "questionNumber": 83,
+    "topic": "Tenses",
+    "questionText": "Choose the correct sentence",
+    "optionA": "He is writing for two hours",
+    "optionB": "He has been writing for two hours",
+    "optionC": "He writes since two hours",
+    "optionD": "He has been writing since two hours",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) He has been writing for two hours\n\n• ഒരു action ഭൂതകാലത്ത് ആരംഭിച്ച് ഇപ്പോഴും continue ചെയ്യുന്നു — duration ഉണ്ടെങ്കിൽ Present Perfect Continuous tense ഉപയോഗിക്കണം.\n• 'For two hours' = ഒരു duration / period of time. 'For' = duration (2 hours, 3 days, many years).\n• Present Perfect Continuous formula: Subject + have/has + been + V-ing\n• 'He has been writing for two hours' = 'അദ്ദേഹം 2 മണിക്കൂർ ആയി writing ചെയ്തുകൊണ്ടിരിക്കുന്നു' — ഇപ്പോഴും writing continue ആകുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula:\n  FOR + duration → Present Perfect Continuous (have/has been + V-ing)\n  SINCE + point of time → Present Perfect Continuous (have/has been + V-ing)\n  \n• Critical distinction:\n  FOR = period/duration (for 2 hours, for 3 days, for many years)\n  SINCE = starting point (since 2020, since morning, since Monday)\n\n• ⭐ PSC ആവർത്തനം: 'For' vs 'Since' + correct tense — PSC-ൽ ഏറ്റവും popular tense question type!\n\nഉദാഹരണ sentences:\n1. She has been working here for five years.\n   (5 വർഷം ആയി ഇവിടെ work ചെയ്തുകൊണ്ടിരിക്കുന്നു)\n2. They have been playing since morning.\n   (രാവിലെ മുതൽ കളിച്ചുകൊണ്ടിരിക്കുന്നു)\n3. I have been waiting for three hours.\n   (3 മണിക്കൂർ ആയി കാത്തിരിക്കുന്നു)\n4. He has been reading since 7 o'clock.\n   (7 മണി മുതൽ വായിച്ചുകൊണ്ടിരിക്കുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) He is writing for two hours — 'Is writing' = Present Continuous — ഇത് NOW happening action-ന് ഉള്ള tense ആണ്, duration indicate ചെയ്യുന്നില്ല. 'For two hours' duration ഉള്ളതിനാൽ Present Perfect Continuous ആണ് വേണ്ടത്. 'Is writing for two hours' = duration-ഉള്ള continuous action-ന് incorrect.\n\n❌ (C) He writes since two hours — രണ്ട് errors: (1) 'Writes' = Simple Present — ഇത് habitual actions-ന് ആണ്, ongoing duration-ന് ഇല്ല. (2) 'Since two hours' = wrong! 'Since' ഒരു point of time-ന് ഉപയോഗിക്കണം (since Monday, since 5 o'clock). Duration (two hours) = 'for'. 'Since two hours' = grammatically incorrect.\n\n❌ (D) He has been writing since two hours — 'Since' + duration = wrong! 'Two hours' ഒരു period ആണ്, point of time ഇല്ല. 'Since' = point in time (since 2 o'clock, since morning). Duration → 'for'. 'Since two hours' = incorrect collocation. ഇതൊരു common mistake ആണ്!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'FOR = FOUR walls (a period/room of time)' | 'SINCE = SINCE the SIGNAL (a starting point)'. 'I have been studying FOR 4 hours' (period) vs 'I have been studying SINCE 4 o'clock' (starting point)!\n• Rule card: FOR + number + hours/days/years = 'for two hours', 'for three days' ✓ | SINCE + clock time / day name / year = 'since Monday', 'since 2020' ✓\n• Never: 'Since two hours' ❌ | 'For Monday' ❌\n• PSC exam strategy: 'For' ഉണ്ടോ? → Perfect Continuous. 'Since' ഉണ്ടോ? → Perfect Continuous. ഏത് option-ൽ 'has/have been + V-ing' ഉണ്ടോ — ആ option-ൽ 'for' ആണ് correct-ൽ ഉണ്ടായിരിക്കേണ്ടത്."
+    }
+  },
+  {
+    "id": "72-2025-M-Q84",
+    "paperId": "72-2025-M",
+    "questionNumber": 84,
+    "topic": "Active and Passive Voice",
+    "questionText": "Find the passive voice of 'When did you buy the boat?'",
+    "optionA": "When the boat was bought?",
+    "optionB": "When was the boat bought?",
+    "optionC": "When did the boat bought?",
+    "optionD": "When did bought the boat?",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) When was the boat bought?\n\n• Active voice: 'When did you buy the boat?' — Simple Past interrogative (did + V1)\n• Passive ആക്കുമ്പോൾ: Object (the boat) → Subject | Verb 'buy' → 'was bought' | Subject (you) → dropped\n• Question-ൽ auxiliary verb 'did' → 'was' (past tense passive auxiliary)\n• Passive interrogative: When + was + the boat + bought? = 'When was the boat bought?'\n• Simple Past Active interrogative → Simple Past Passive: did + V1 → was/were + V3",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula for Question Passive:\n  Active: When did + subject + V1 + object?\n  Passive: When + was/were + object (as subject) + V3?\n\n• Passive Voice tense chart:\n  Simple Present: is/are + V3\n  Simple Past: was/were + V3\n  Present Perfect: has/have been + V3\n  Simple Future: will be + V3\n  Present Continuous: is/am/are being + V3\n  Past Continuous: was/were being + V3\n\n• ⭐ PSC ആവർത്തനം: Active-Passive conversion PSC-ൽ frequent ആണ், especially questions!\n\nഉദാഹരണ sentences:\n1. Active: When did she paint the house?\n   Passive: When was the house painted?\n2. Active: Who wrote this letter?\n   Passive: By whom was this letter written?\n3. Active: Why did they cancel the meeting?\n   Passive: Why was the meeting cancelled?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) When the boat was bought? — Passive voice correct ആണ് ('was bought') പക്ഷേ question structure wrong ആണ്! Question-ൽ auxiliary verb subject-ന് മുൻപ് inverted ആകണം: 'When was the boat bought?' — 'was' subject-ന് (the boat) ശേഷം ഉള്ളതിനാൽ question structure incorrect.\n\n❌ (C) When did the boat bought? — 'Did' + past participle = grammatically incorrect. 'Did' → V1 (base form) ആണ് follow ആകേണ്ടത്. Passive-ൽ 'did' ഉപയോഗിക്കില്ല — 'was/were' ആണ് passive auxiliary. 'Did ... bought' double error.\n\n❌ (D) When did bought the boat? — 'Did bought' = incorrect ('did' + past form = wrong). Passive-ൽ 'did' ഉപയോഗിക്കില്ല. Subject (boat) ശേഷം verb ആണ് — word order-ഉം wrong.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Active question: DID → Passive question: WAS/WERE' — DID vanishes in passive! 'When DID you BUY?' → DID disappears → 'When WAS the boat BOUGHT?' — Active-ൽ 'did+V1', Passive-ൽ 'was+V3'!\n• Passive question formula: WH-word + was/were + new subject + V3?\n• PSC exam strategy: Passive question-ൽ 'did' ഉള്ള options eliminate ചെയ്യൂ — passive-ൽ 'did' ഒരിക്കലും ഉണ്ടാകില്ല. 'Was/were' ഉള്ള option correct ആകും. Subject-verb inversion check ചെയ്യൂ: 'was the boat' — 'was' first, 'the boat' second."
+    }
+  },
+  {
+    "id": "72-2025-M-Q85",
+    "paperId": "72-2025-M",
+    "questionNumber": 85,
+    "topic": "Singular and Plural",
+    "questionText": "Choose the singular of 'data'.",
+    "optionA": "datem",
+    "optionB": "datam",
+    "optionC": "datum",
+    "optionD": "datim",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) datum\n\n• 'Data' ഒരു Latin plural ആണ്. 'Datum' (singular) → 'data' (plural).\n• Latin-ൽ 'datum' = 'something given' (past participle of 'dare' = to give).\n• ഇന്ന് 'data' = information / facts (information-ന്റെ plural) — everyday English-ൽ often singular ആയി treat ചെയ്യും, പക്ഷേ technically 'data' plural, 'datum' singular.\n• PSC-ൽ singular form ചോദിക്കുമ്പോൾ 'datum' ആണ് expected answer.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Data (plural) → Datum (singular) — Latin origin!\n• Latin/Greek plurals — PSC important list:\n  datum → data\n  criterion → criteria\n  phenomenon → phenomena\n  curriculum → curricula\n  medium → media\n  bacterium → bacteria\n  fungus → fungi\n  cactus → cacti\n  syllabus → syllabi (or syllabuses)\n  appendix → appendices\n  analysis → analyses\n  thesis → theses\n  crisis → crises\n  basis → bases\n\n• ⭐ PSC ആവർത്തനം: Latin/Greek irregular plurals PSC-ൽ ഇടയ്ക്ക് ചോദ്യം ആകും.\n\nഉദാഹരണ sentences:\n1. Each datum must be verified before publishing.\n   (Publish ചെയ്യുന്നതിന് മുൻപ് ഓരോ datum-ഉം verify ചെയ്യണം)\n2. The data show a clear trend. (formal/technical usage)\n   (Data ഒരു clear trend കാണിക്കുന്നു)\n3. This single datum is insufficient for a conclusion.\n   (ഈ ഒറ്റ datum ഒരു conclusion-ന് മതിയാകില്ല)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) datem — 'Datem' ഒരു English word ഇല്ല. Latin-ൽ '-em' suffix dative/accusative case-ൽ ചേർക്കും, പക്ഷേ 'datem' standard English-ൽ ഇല്ല. PSC created this as a 🪤 confusing option — Latin sound similar ആകും.\n\n❌ (B) datam — 'Datam' -ഉം English-ൽ ഇല്ലാത്ത word ആണ്. 'Datum'-ന്റേ ending 'um' → 'am' ആക്കി confuse ചെയ്യിക്കുന്ന 🪤 Trap option ആണ്. 'Datum' ആണ് correct, 'datam' ഇല്ല.\n\n❌ (D) datim — 'Datim' -ഉം incorrect. 'Datum'-ൽ 'u' → 'i' ആക്കി confuse ചെയ്യിക്കുന്ന 🪤 Trap. മൂന്ന് wrong options-ഉം 'datum'-ന്റെ ending syllable change ചെയ്ത് ഉണ്ടാക്കിയ fakes ആണ് — 'datum' ആണ് ഒരേ ഒരു real Latin singular.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'DATA = many DATES! (ഡേറ്റ്/information)' — ഒരൊറ്റ date/information = 'DATUM'. Many dates/information = 'DATA'. DATUM → DATA (like 'medium → media', 'bacterium → bacteria')!\n• Latin '-um → a' pattern: datum→data, medium→media, bacterium→bacteria, curriculum→curricula — ഇവ ഒരൊറ്റ pattern ആണ്! '-um' singular, '-a' plural.\n• PSC exam strategy: data/datum, criteria/criterion, phenomena/phenomenon — ഇവ PSC favourites ആണ്. Singular ചോദിച്ചാൽ '-um'/'-on'/'-on' form, Plural ചോദിച്ചാൽ '-a'/'-a'/'-a' form."
+    }
+  },
+  {
+    "id": "72-2025-M-Q86",
+    "paperId": "72-2025-M",
+    "questionNumber": 86,
+    "topic": "Parts of Speech",
+    "questionText": "'There is little water in the glass' means.",
+    "optionA": "There is some water in the glass",
+    "optionB": "There is very little water in the glass",
+    "optionC": "There is no water in the glass",
+    "optionD": "There is enough water in the glass",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) There is very little water in the glass\n\n• 'Little' (article ഇല്ലാതെ) = very small amount, almost nothing — negative connotation (ആവശ്യത്തിന് ഇല്ലാ, വളരെ കുറച്ച് മാത്രം).\n• 'A little' (article 'a' ഉള്ളത്) = some, a small but sufficient amount — positive connotation (കുറച്ചൊക്കെ ഉണ്ട്).\n• 'Little' = ഏതാണ്ട് ഒന്നുമില്ല (not enough, very less) — 'very little water' ആണ് meaning.\n• ഉദാ: 'There is a little milk left' (കുറച്ച് milk ഉണ്ട് — positive) vs 'There is little milk left' (milk ഏതാണ്ട് തീർന്നു — negative/insufficient).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula:\n  'a little' = some (positive) — enough to use\n  'little' = very little (negative) — almost nothing\n  'a few' = some (positive) — countable nouns\n  'few' = very few (negative) — almost none\n\n• ⭐ PSC ആവർത്തനം: 'Little vs a little' / 'Few vs a few' PSC-ൽ ഒരു popular question type!\n\nഉദാഹരണ sentences:\n1. There is a little sugar in the bowl — enough for tea.\n   (Bowl-ൽ കുറച്ച് sugar ഉണ്ട് — tea-ന് മതി)\n2. There is little sugar in the bowl — we need to buy more.\n   (Bowl-ൽ sugar ഏതാണ്ട് ഇല്ല — കൂടുതൽ വാങ്ങണം)\n3. A few students passed the exam — some passed.\n   (കുറച്ച് students pass ആയി)\n4. Few students passed the exam — hardly any passed.\n   (വളരെ കുറച്ച് students മാത്രം pass ആയി — nearly all failed)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) There is some water in the glass — 'Some' = moderate/sufficient amount. 'Little' = insufficient/very small. 'Some' positive meaning ആണ്, 'little' negative meaning ആണ്. 'Little' = 'a little' ആണ് meaning ആകുമെന്ന് തോന്നും — 🪤 Trap! 'Little' (without 'a') = very less.\n\n❌ (C) There is no water in the glass — 'Little' = very little (almost none), literally zero ആകില്ല. 'No water' = zero water. 'Little water' = very little but some water still exists. 'No' ഉം 'little' ഉം different — 'little' means measurable but insufficient amount.\n\n❌ (D) There is enough water in the glass — 'Enough' = sufficient. 'Little' = insufficient. ഇവ opposite meanings ആണ്! 'Little' negative connotation ആണ്, 'enough' positive connotation ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'A LITTLE = A LITTLE POSITIVE! LITTLE alone = LITTLE HOPE!' — 'a' (article) ഉണ്ടെങ്കിൽ positive (some exists), 'a' ഇല്ലെങ്കിൽ negative (almost none). Same rule: 'a FEW = positive FEW' | 'FEW = negative FEW'.\n• Easy test: Glass-ൽ water 10% ഉണ്ടെങ്കിൽ → 'There is little water' (almost empty — negative). Glass-ൽ water 30% ഉണ്ടെങ്കിൽ → 'There is a little water' (some — positive).\n• PSC exam strategy: 'Little/few' meaning question-ൽ: negative (almost none, very little, insufficient) = ഉത്തരം. Positive (some, enough) options = wrong."
+    }
+  },
+  {
+    "id": "72-2025-M-Q87",
+    "paperId": "72-2025-M",
+    "questionNumber": 87,
+    "topic": "Phrasal Verbs",
+    "questionText": "The phrasal verb '__put off__' means.",
+    "optionA": "To put something outside",
+    "optionB": "To put something away",
+    "optionC": "To extinguish something like fire",
+    "optionD": "To postpone something",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) To postpone something\n\n• 'Put off' = to delay or postpone something to a later time (ഒരു കാര്യം later-ൽ ആക്കുക / delay ചെയ്യുക).\n• 'Put off' = 'postpone' ഇവ synonyms ആണ്. PSC exam-ൽ ഈ phrasal verb ഒരു common question ആണ്.\n• ഉദാ: 'Don't put off your work until tomorrow' = 'നാളേക്ക് work ഇടണ്ട' / 'Delay ചെയ്യരുത്'.\n• 'Put' ഒരു versatile verb ആണ് — different particles (off, out, on, up, away) ഉണ്ടാകുമ്പോൾ meaning complete ആയി മാറും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Put OFF = Postpone/Delay\n• ⭐ PSC ആവർത്തനം: 'Put' phrasal verbs PSC-ൽ ഇടയ്ക്ക് ചോദ്യം ആകും.\n\n'PUT' Phrasal Verbs — PSC Complete List:\n• Put off = to postpone (delay ചെയ്യുക)\n• Put out = to extinguish (fire കെടുക്കുക) / to inconvenience\n• Put on = to wear / to stage a show\n• Put up = to accommodate / to tolerate / to build\n• Put away = to store/tidy (properly place ചെയ്യുക)\n• Put across = to communicate/explain clearly\n• Put down = to write down / to criticize / to put to sleep (animal)\n• Put forward = to propose / to suggest\n\nഉദാഹരണ sentences:\n1. The meeting was put off due to rain.\n   (Rain കാരണം meeting postpone ചെയ്തു)\n2. Never put off till tomorrow what you can do today.\n   (ഇന്ന് ചെയ്യാൻ കഴിയുന്നത് നാളേക്ക് delay ചെയ്യരുത്)\n3. They put off the wedding by a month.\n   (Wedding ഒരു മാസം postpone ചെയ്തു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) To put something outside — 'Outside' = 'put out' meaning ആണ് literally suggest ചെയ്യുന്നത്. 'Put off' ≠ 'put outside'. 'Off' = not = switch off / delay — 'outside' ഇല്ല. Literal 'off' = outside ആണ് meaning ആകും എന്ന 🪤 Trap!\n\n❌ (C) To extinguish something like fire — 'PUT OUT' = extinguish (fire കെടുക്കുക) — ഇത് 'put OFF' അല്ല, 'put OUT' ആണ്. ഇതാണ് ഏറ്റവും common 🪤 Trap! 'off' ഉം 'out' ഉം students confuse ചെയ്യും. PUT OFF = postpone, PUT OUT = extinguish!\n\n❌ (B) To put something away — 'PUT AWAY' = to store or tidy something properly. 'Put away' = properly place ചെയ്യുക. 'Put off' = postpone. ഇവ different phrasal verbs ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'PUT OFF = SWITCH OFF the plan!' — ഒരു meeting plan ആക്കി, switch OFF ആക്കി = off date-ൽ postpone ചെയ്തു! 'OFF' = switch off = stop now = delay!\n• ⚠️ Put OFF vs Put OUT confusion: 'Fire PUT OUT' (fire-ഇനെ out ആക്കി = കെടുക്കി) | 'Plan PUT OFF' (plan-ഇനെ off ആക്കി = postpone ചെയ്തു). 'Out' = something leaves | 'Off' = something stops.\n• PSC exam strategy: 'Put off' = postpone — direct answer. 'Extinguish' option കണ്ടാൽ — അത് 'PUT OUT' ആണ്, 'PUT OFF' അല്ല."
+    }
+  },
+  {
+    "id": "72-2025-M-Q88",
+    "paperId": "72-2025-M",
+    "questionNumber": 88,
+    "topic": "Words Often Confused",
+    "questionText": "It may take time to _________ to new situations.",
+    "optionA": "adopt",
+    "optionB": "adept",
+    "optionC": "adapt",
+    "optionD": "accept",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) adapt\n\n• 'Adapt to' = to adjust or become used to a new situation (പുതിയ situation-ൽ adjust ആകുക / സ്വയം മാറ്റുക).\n• 'Adapt to new situations' = 'പുതിയ situations-ൽ adjust ആകാൻ' — ഇതാണ് correct meaning.\n• 'Adapt' = Latin 'adaptare' (ad = to + aptare = to fit) → 'to make fit for a new situation'.\n• ഇത് 'adapt' + 'to' preposition — always 'adapt TO' ആണ് usage: 'adapt to changes', 'adapt to climate', 'adapt to new rules'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• ഇത് Words Often Confused category — (adopt / adept / adapt / accept) — PSC-ൽ frequent ആണ്!\n• 🔑 Quick Formula:\n  ADAPT = adjust to new situation (adapt to)\n  ADOPT = to take as one's own (adopt a child, adopt a policy)\n  ADEPT = highly skilled (adjective) (adept at)\n  ACCEPT = to receive/agree to (accept an offer)\n\n• ⭐ PSC ആവർത്തനം: Confusable words — especially adapt/adopt — PSC-ൽ ഏറ്റവും ഇടയ്ക്ക് ചോദ്യം ആകുന്ന word confusion topics ആണ്!\n\nഉദാഹരണ sentences:\n1. She adapted to life in the city very quickly.\n   (City-യിലെ ജീവിതത്തിൽ അവൾ വേഗം adapt ആകി)\n2. They adopted a child from the orphanage.\n   (Orphanage-ൽ നിന്ന് ഒരു കുട്ടിയെ adopt ചെയ്തു)\n3. He is adept at playing the guitar.\n   (Guitar വായിക്കുന്നതിൽ അദ്ദേഹം adept ആണ്)\n4. She accepted the job offer.\n   (Job offer accept ചെയ്തു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) adopt — 'Adopt' = to take something/someone as your own (ഉദാ: adopt a child, adopt a new policy). 'Adopt to new situations' ഒരു valid expression ഇല്ല. 'Adopt' ഒരിക്കലും 'to' preposition-ൽ 'new situations' follow ചെയ്യില്ല — 🪤 Trap! 'Adapt' ↔ 'Adopt' most commonly confused pair!\n\n❌ (B) adept — 'Adept' ഒരു ADJECTIVE ആണ്, verb ഇല്ല! 'Adept at something' = ഒരു skill-ൽ expert ആയ. Sentence-ൽ blank-ൽ verb ആണ് വേണ്ടത് ('take time to ___'), adjective ആകില്ല. 'Adept to' ഒരു valid construction ഇല്ല.\n\n❌ (D) accept — 'Accept' = to receive or agree to something (ഒരു offer, gift, decision accept ചെയ്യുക). 'Accept to new situations' ഒരു recognized expression ഇല്ല. 'Accept' = receive/agree, 'adapt' = adjust — ഇവ different meanings.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ADaPT = AD + PAT the back! New situation-ൽ settle ആകുമ്പോൾ someone gives you a PAT — you've ADAPTED!' | 'ADoPT = AD + POT — you bring a POT (child/thing) home as your own!'\n• Quick distinction card:\n  ADAPT TO (adjust) — 'T' for Transform/Tune yourself\n  ADOPT (take as own) — 'O' for Own/Ownership\n  ADEPT AT (skilled) — adjective only, 'E' for Expert\n  ACCEPT (agree) — 'C' for Consent/Confirm\n• PSC exam strategy: 'new situations' ഉള്ള blank → 'adapt to' ആണ്. 'Adopt / adept / accept' — ഇവ confuse ആകരുത്: adjust = adapt, adopt = ownership, adept = skilled (adj)."
+    }
+  },
+  {
+    "id": "72-2025-M-Q89",
+    "paperId": "72-2025-M",
+    "questionNumber": 89,
+    "topic": "Degrees of Comparison",
+    "questionText": "Kiran's pen was _________ than that of Arun.",
+    "optionA": "bad",
+    "optionB": "worse",
+    "optionC": "worst",
+    "optionD": "worsest",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) worse\n\n• 'Than' ഉള്ള sentence-ൽ comparative degree ആണ് ഉപയോഗിക്കേണ്ടത്.\n• 'Bad'-ന്റെ degrees: bad (positive) → worse (comparative) → worst (superlative).\n• 'Kiran's pen was worse than that of Arun' = 'Arun-ന്റേതിനേക്കാൾ Kiran-ന്റെ pen bad ആണ്'.\n• 'Worse' = irregular comparative form of 'bad' — 'more bad' ആകില്ല, 'worse' ആണ്.\n• 'Than' = always comparative degree-ന്റെ signal!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'than' keyword → Comparative Degree!\n• Irregular Degrees — PSC most important:\n  bad → worse → worst\n  good → better → best\n  many/much → more → most\n  little → less → least\n  far → farther/further → farthest/furthest\n  old → older/elder → oldest/eldest\n  late → later/latter → latest/last\n\n• ⭐ PSC ആവർത്തനം: Irregular degrees of comparison PSC-ൽ ഏറ്റവും ഇടയ്ക്ക് ചോദ്യം ആകും!\n\nഉദാഹരണ sentences:\n1. This road is worse than the other one.\n   (ഈ road മറ്റേതിനേക്കാൾ bad ആണ്)\n2. He is the worst player in the team.\n   (Team-ൽ ഏറ്റവും bad player അദ്ദേഹമാണ്)\n3. His health is getting worse every day.\n   (അദ്ദേഹത്തിന്റെ ആരോഗ്യം ദിവസം ദിവസം worse ആകുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) bad — 'Bad' positive degree ആണ്. 'Than' ഉള്ള sentence-ൽ positive degree ഉപയോഗിക്കില്ല — comparative degree വേണം. 'Kiran's pen was bad than Arun's' = grammatically incorrect.\n\n❌ (C) worst — 'Worst' superlative degree ആണ്. Superlative = 'the' + 'worst' — 'the worst in the group'. 'Than' keyword superlative-ന്റേതല്ല, comparative-ന്റേതാണ്. 'Worst than' = grammatically incorrect — 🪤 Trap! Students 'bad → worst' incorrectly jump ആകും.\n\n❌ (D) worsest — 'Worsest' ഒരു real English word ഇല്ല! 'Worse' ഒരു irregular comparative ആണ് — 'worser' ഇല്ല, 'worsest' ഇല്ല. Regular comparison suffix '-est' ഇതിന് apply ആകില്ല. ഇത് nonsense option ആണ് — easily eliminate ചെയ്യാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'THAN = COMPARATIVE = WORSE!' — 'than' കണ്ടാൽ → comparative! bad-ന്റെ irregular comparative = 'WORSE' (not 'more bad'!). Worst = superlative = 'the worst'. 'THAN → Comparative → WORSE'.\n• Irregular degrees card (PSC top 6):\n  good-better-best | bad-worse-worst | many-more-most |\n  little-less-least | far-farther-farthest | old-elder-eldest\n• PSC exam strategy: 'than' keyword = comparative. 'The ___est/most' = superlative. 'Bad → worse (not worst!)' when 'than' ഉണ്ടെങ്കിൽ. 'Worst' ഉം 'worsest' ഉം — 'than' ഉള്ളപ്പോൾ eliminate!"
+    }
+  },
+  {
+    "id": "72-2025-M-Q90",
+    "paperId": "72-2025-M",
+    "questionNumber": 90,
+    "topic": "Tenses",
+    "questionText": "The train _________ when he reached the railway station.",
+    "optionA": "is leaving",
+    "optionB": "has left",
+    "optionC": "had left",
+    "optionD": "will leave",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) had left\n\n• ഈ sentence-ൽ രണ്ട് past actions ഉണ്ട്:\n  1. Train leave ആകി (earlier action)\n  2. He reached the station (later action)\n• ഭൂതകാലത്ത് ഒരു action-ന് മുൻപ് നടന്ന action = Past Perfect (had + V3)\n• 'The train had left when he reached the station' = 'അദ്ദേഹം station-ൽ എത്തുന്നതിന് മുൻപേ train പോയിരുന്നു'.\n• 'Reached' = Simple Past. Train-ന്റെ action (leave) 'reached'-ന് BEFORE ആയതിനാൽ → Past Perfect 'had left'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ഭൂതകാലത്ത് two actions → Earlier action = Past Perfect (had + V3) | Later action = Simple Past\n• Signal words for Past Perfect: before, after, when, already, by the time, no sooner...than\n\n• ⭐ PSC ആവർത്തനം: Past Perfect tense — 'had + V3' — PSC-ൽ ഏറ്റവും ഇടയ്ക്ക് ചോദ്യം ആകുന്ന tense!\n\nSentence structure:\n[Earlier action — Past Perfect] + when/before/after + [Later action — Simple Past]\nOR\n[Later action — Simple Past] + when + [Earlier action — Past Perfect]\n\nഉദാഹരണ sentences:\n1. The students had left before the teacher arrived.\n   (Teacher വരുന്നതിന് മുൻപ് students പോയിരുന്നു)\n2. She had finished her work when I called her.\n   (ഞാൻ call ചെയ്തപ്പോൾ അവൾ work finish ചെയ്തിരുന്നു)\n3. By the time we arrived, the movie had started.\n   (ഞങ്ങൾ എത്തിയപ്പോഴേക്കും movie start ആയിരുന്നു)\n4. He had eaten his dinner before she came home.\n   (അവൾ home-ൽ വരുന്നതിന് മുൻപ് അദ്ദേഹം dinner കഴിച്ചിരുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) is leaving — 'Is leaving' = Present Continuous — ഇത് NOW happening action-ന് ആണ്. Sentence-ൽ 'reached' = Simple Past ആണ്; ഒരേ sentence-ൽ Present Continuous + Simple Past = tense conflict. ഇവ past events ആണ്, present tense ഇല്ല.\n\n❌ (B) has left — 'Has left' = Present Perfect — past action-ൽ connection to present ആണ് indicate ചെയ്യുന്നത്. 'Reached' Simple Past ആണ്; present perfect + simple past combination ഈ context-ൽ incorrect. Past Perfect 'had left' ആണ് sequence ഓഫ് past events-ന് ശരി.\n\n❌ (D) will leave — 'Will leave' = Future tense. 'Reached' past ആണ്; future tense ഒരു completed past scenario-ൽ grammatically impossible. Train future-ൽ leave ആകും — 'reached' already complete ആകിയ ഒരു past event-ൽ future tense ഉപയോഗിക്കില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'EARLIER HAD, LATER DID!' — Two past actions: EARLIER action → HAD + V3 (Past Perfect) | LATER action → V2 (Simple Past). 'Train LEFT first (earlier) → Train HAD LEFT. He REACHED later → reached (simple past).'\n• Timeline image: ←Train left——He reached→ (Past Perfect comes before Simple Past on the timeline)\n• PSC exam strategy: 'When he reached' (simple past) ഉള്ള sentence-ൽ — 'reached'-ന് BEFORE-ൽ ആണ് train action → Past Perfect 'had left'. Two past events → Earlier one = had + V3. Guaranteed mark!"
+    }
   }
 ]
