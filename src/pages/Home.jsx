@@ -67,16 +67,14 @@ function RemoveDialog({ exam, onConfirm, onCancel }) {
 
 function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
   const isPast = new Date(exam.date) < new Date(new Date().toDateString())
-  const canSave = saved || savedCount < MAX_PINS
+  const atMax = !saved && savedCount >= MAX_PINS
   const examDate = new Date(exam.date)
 
-  function handleBookmark() {
-    if (!canSave) return
-    if (saved) {
-      onRequestRemove(exam.id)
-    } else {
-      onSave(exam.id)
-    }
+  function handleBookmark(e) {
+    e.stopPropagation()
+    if (atMax) return
+    if (saved) onRequestRemove(exam.id)
+    else onSave(exam.id)
   }
 
   return (
@@ -95,12 +93,13 @@ function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
           <div className="font-semibold text-sm leading-snug">{exam.name}</div>
         </div>
         <button
+          type="button"
           onClick={handleBookmark}
-          title={saved ? 'Remove from Home' : canSave ? 'Save to Home' : 'Max 5 saved'}
+          title={saved ? 'Remove from Home' : atMax ? 'Max 5 saved' : 'Save to Home'}
           className="shrink-0 transition-transform active:scale-110"
           style={{
-            opacity: saved ? 1 : canSave ? 0.4 : 0.15,
-            cursor: canSave ? 'pointer' : 'not-allowed',
+            opacity: saved ? 1 : atMax ? 0.2 : 0.7,
+            pointerEvents: atMax ? 'none' : 'auto',
             padding: '6px 8px',
             minWidth: '44px',
             minHeight: '44px',
@@ -111,6 +110,7 @@ function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
             WebkitTapHighlightColor: 'transparent',
             background: 'none',
             border: 'none',
+            cursor: 'pointer',
           }}>
           <BookmarkIcon saved={saved} />
         </button>

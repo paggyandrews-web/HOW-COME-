@@ -61,20 +61,18 @@ function RemoveDialog({ exam, onConfirm, onCancel }) {
 }
 
 function ExamRow({ exam, saved, onSave, onRequestRemove, savedCount }) {
-  const canSave = saved || savedCount < MAX_PINS
+  const atMax = !saved && savedCount >= MAX_PINS
   const examDate = new Date(exam.date)
   const now = new Date()
   const today = new Date(now.toDateString())
   const isPast = examDate < today
   const isToday = examDate.toDateString() === now.toDateString()
 
-  function handleBookmark() {
-    if (!canSave) return
-    if (saved) {
-      onRequestRemove(exam.id)
-    } else {
-      onSave(exam.id)
-    }
+  function handleBookmark(e) {
+    e.stopPropagation()
+    if (atMax) return
+    if (saved) onRequestRemove(exam.id)
+    else onSave(exam.id)
   }
 
   return (
@@ -94,12 +92,13 @@ function ExamRow({ exam, saved, onSave, onRequestRemove, savedCount }) {
           <div className="text-xs" style={{ color: 'var(--text2)' }}>{exam.dept}</div>
         </div>
         <button
+          type="button"
           onClick={handleBookmark}
-          title={saved ? 'Remove from Home' : canSave ? 'Save to Home' : 'Max 5 saved'}
+          title={saved ? 'Remove from Home' : atMax ? 'Max 5 saved' : 'Save to Home'}
           className="shrink-0 mt-0.5 transition-transform active:scale-110"
           style={{
-            opacity: saved ? 1 : canSave ? 0.4 : 0.15,
-            cursor: canSave ? 'pointer' : 'not-allowed',
+            opacity: saved ? 1 : atMax ? 0.2 : 0.7,
+            pointerEvents: atMax ? 'none' : 'auto',
             padding: '6px 8px',
             minWidth: '44px',
             minHeight: '44px',
@@ -110,6 +109,7 @@ function ExamRow({ exam, saved, onSave, onRequestRemove, savedCount }) {
             WebkitTapHighlightColor: 'transparent',
             background: 'none',
             border: 'none',
+            cursor: 'pointer',
           }}>
           <BookmarkIcon saved={saved} />
         </button>
