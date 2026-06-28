@@ -276,7 +276,7 @@ function QuizSetup({ onStart }) {
       {!paperId && !isBrowse && (
         <div className="mb-6">
           <div className="text-sm font-medium mb-2">Number of Questions: {count}</div>
-          <input type="range" min={5} max={50} step={5}
+          <input type="range" min={5} max={50} step={1}
             value={count} onChange={e => setCount(+e.target.value)}
             className="w-full quiz-range-slider"
             style={{ '--slider-pct': `${((count - 5) / (50 - 5)) * 100}%` }} />

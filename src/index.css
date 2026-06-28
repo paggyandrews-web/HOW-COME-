@@ -152,6 +152,8 @@ body {
   height: 6px;
   border-radius: 3px;
   outline: none;
+  cursor: pointer;
+  transition: background 0.05s ease;
   background: linear-gradient(
     to right,
     var(--accent) 0%,
@@ -163,13 +165,17 @@ body {
 .quiz-range-slider::-webkit-slider-thumb {
   -webkit-appearance: none;
   appearance: none;
-  width: 20px;
-  height: 20px;
+  width: 24px;
+  height: 24px;
   border-radius: 50%;
   background: var(--accent);
   cursor: pointer;
   border: 2px solid var(--bg);
   box-shadow: 0 0 0 2px var(--accent);
+  transition: transform 0.1s ease;
+}
+.quiz-range-slider::-webkit-slider-thumb:active {
+  transform: scale(1.2);
 }
 .quiz-range-slider::-moz-range-thumb {
   width: 20px;
