@@ -33,7 +33,7 @@ const DISTRICT_VIBES = {
   'Kozhikode': "🌶️ City of Spices & scholars! Calicut University land — add some spice to your English!",
   'Wayanad': "🌿 Misty hills and tiger trails! Nature's paradise — let your preparation be wild and free!",
   'Kannur': "🎭 Land of Looms & Lores! Theyyam's sacred home — weave your success story here!",
-  'Kasaragod': "🗣️ Land of 7 languages! The northernmost gem of Kerala — if you can handle 7 languages, English is easy!",
+  'Kasaragod': "🗣️ Land of 7 languages! The northernmost gem — if you handle 7 languages, English is easy!",
 }
 
 function getPasswordStrength(pwd) {
@@ -44,10 +44,17 @@ function getPasswordStrength(pwd) {
   return { label: 'Fortress-level security! 🏰', color: '#1a9d8e', pct: 100 }
 }
 
-function Vibe({ message, key: k }) {
+// Scroll the focused field above the keyboard
+function scrollUp(e) {
+  setTimeout(() => {
+    e.target.scrollIntoView({ behavior: 'smooth', block: 'center' })
+  }, 320)
+}
+
+function Vibe({ message, id }) {
   if (!message) return null
   return (
-    <div key={k} className="vibe-in flex items-start gap-1.5 mt-2 px-3 py-2 rounded-lg"
+    <div key={id} className="vibe-in flex items-start gap-1.5 mt-2 px-3 py-2 rounded-lg"
       style={{ background: 'rgba(26,157,142,0.1)', border: '1px solid rgba(26,157,142,0.25)' }}>
       <span className="text-xs font-semibold leading-relaxed" style={{ color: 'var(--accent)' }}>
         {message}
@@ -108,43 +115,33 @@ export default function Register() {
       {/* Hero header */}
       <div className="rounded-2xl p-6 mb-4 text-center relative overflow-hidden"
         style={{ background: 'linear-gradient(135deg, var(--accent) 0%, var(--accent-hover) 100%)', color: 'white' }}>
-        {/* decorative circles */}
         <div style={{ position: 'absolute', right: -30, top: -30, width: 120, height: 120, borderRadius: '50%', background: 'rgba(255,255,255,0.08)', pointerEvents: 'none' }} />
         <div style={{ position: 'absolute', left: -20, bottom: -20, width: 80, height: 80, borderRadius: '50%', background: 'rgba(255,255,255,0.06)', pointerEvents: 'none' }} />
         <div style={{ position: 'relative', zIndex: 1 }}>
           <div style={{ fontSize: 40, marginBottom: 8 }}>🎯</div>
-          <div style={{ fontWeight: 900, fontSize: 22, letterSpacing: '-0.5px' }}>
-            Join HOW COME?
-          </div>
-          <div style={{ fontSize: 13, opacity: 0.88, marginTop: 5 }}>
-            Your PSC English journey starts here
-          </div>
+          <div style={{ fontWeight: 900, fontSize: 22, letterSpacing: '-0.5px' }}>Join HOW COME?</div>
+          <div style={{ fontSize: 13, opacity: 0.88, marginTop: 5 }}>Your PSC English journey starts here</div>
         </div>
       </div>
 
       <div className="card rounded-2xl p-5">
 
-        {/* Progress */}
+        {/* Progress bar */}
         <div className="mb-5">
           <div className="flex justify-between text-xs mb-1.5" style={{ color: 'var(--text2)' }}>
             <span>Profile completion</span>
             <span style={{ color: progressPct === 100 ? '#22c55e' : 'var(--accent)', fontWeight: 700 }}>
-              {progressPct === 100 ? 'Ready! 🎉' : `${filledCount}/6 fields`}
+              {progressPct === 100 ? 'Ready! 🎉' : filledCount + '/6 fields'}
             </span>
           </div>
           <div className="w-full rounded-full h-2" style={{ background: 'var(--bg2)' }}>
             <div className="h-2 rounded-full transition-all duration-500"
-              style={{
-                width: progressPct + '%',
-                background: progressPct === 100 ? '#22c55e' : 'var(--accent)',
-              }} />
+              style={{ width: progressPct + '%', background: progressPct === 100 ? '#22c55e' : 'var(--accent)' }} />
           </div>
         </div>
 
         {error && (
-          <div className="mb-4 p-3 rounded-lg text-sm" style={{ background: '#fef2f2', color: '#dc2626' }}>
-            {error}
-          </div>
+          <div className="mb-4 p-3 rounded-lg text-sm" style={{ background: '#fef2f2', color: '#dc2626' }}>{error}</div>
         )}
 
         <form onSubmit={handleSubmit} className="space-y-4">
@@ -153,23 +150,23 @@ export default function Register() {
           <div>
             <label className="block text-sm font-medium mb-1">Full Name</label>
             <input type="text" name="name" required value={form.name}
-              onChange={handleChange} onBlur={handleNameBlur}
+              onChange={handleChange} onBlur={handleNameBlur} onFocus={scrollUp}
               placeholder="Your full name"
               className="w-full rounded-lg px-3 py-2.5 text-sm"
               style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)', outline: 'none' }} />
-            {nameVibe && <Vibe key={nameVibe} message={nameVibe} />}
+            {nameVibe && <Vibe id={nameVibe} message={nameVibe} />}
           </div>
 
           {/* Email */}
           <div>
             <label className="block text-sm font-medium mb-1">Email</label>
             <input type="email" name="email" required value={form.email}
-              onChange={handleChange}
+              onChange={handleChange} onFocus={scrollUp}
               placeholder="your@email.com"
               className="w-full rounded-lg px-3 py-2.5 text-sm"
               style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)', outline: 'none' }} />
             {form.email.includes('@') && form.email.includes('.') && (
-              <Vibe key="email" message="Got it! Your email is safe with us 🔒" />
+              <Vibe id="email" message="Got it! Your email is safe with us 🔒" />
             )}
           </div>
 
@@ -177,20 +174,18 @@ export default function Register() {
           <div>
             <label className="block text-sm font-medium mb-1">Mobile Number</label>
             <input type="tel" name="mobile" value={form.mobile}
-              onChange={handleChange}
+              onChange={handleChange} onFocus={scrollUp}
               placeholder="+91 XXXXXXXXXX"
               className="w-full rounded-lg px-3 py-2.5 text-sm"
               style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)', outline: 'none' }} />
-            {mobileVibe && (
-              <Vibe key="mobile" message="Safe with us 🔐 We'll never spam or share your number!" />
-            )}
+            {mobileVibe && <Vibe id="mobile" message="Safe with us 🔐 We'll never spam or share your number!" />}
           </div>
 
           {/* Password */}
           <div>
             <label className="block text-sm font-medium mb-1">Password</label>
             <input type="password" name="password" required value={form.password}
-              onChange={handleChange}
+              onChange={handleChange} onFocus={scrollUp}
               placeholder="Min. 6 characters"
               className="w-full rounded-lg px-3 py-2.5 text-sm"
               style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)', outline: 'none' }} />
@@ -200,9 +195,7 @@ export default function Register() {
                   <div className="h-1.5 rounded-full transition-all duration-300"
                     style={{ width: pwStrength.pct + '%', background: pwStrength.color }} />
                 </div>
-                <span className="text-xs font-semibold" style={{ color: pwStrength.color }}>
-                  {pwStrength.label}
-                </span>
+                <span className="text-xs font-semibold" style={{ color: pwStrength.color }}>{pwStrength.label}</span>
               </div>
             )}
           </div>
@@ -210,13 +203,14 @@ export default function Register() {
           {/* District */}
           <div>
             <label className="block text-sm font-medium mb-1">District</label>
-            <select name="district" required value={form.district} onChange={handleChange}
+            <select name="district" required value={form.district}
+              onChange={handleChange} onFocus={scrollUp}
               className="w-full rounded-lg px-3 py-2.5 text-sm"
               style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: form.district ? 'var(--text)' : 'var(--text2)', outline: 'none' }}>
               <option value="">Select your district</option>
               {KERALA_DISTRICTS.map(d => <option key={d} value={d}>{d}</option>)}
             </select>
-            {districtVibe && <Vibe key={form.district} message={districtVibe} />}
+            {districtVibe && <Vibe id={form.district} message={districtVibe} />}
           </div>
 
           {/* Gender */}
@@ -224,8 +218,8 @@ export default function Register() {
             <label className="block text-sm font-medium mb-2">I am a...</label>
             <div className="grid grid-cols-2 gap-2">
               {[
-                { val: 'male',   label: '👨 Male',   vibe: '💙 Dark theme activated — sleek & sharp!', theme: '🌑 Black' },
-                { val: 'female', label: '👩 Female', vibe: '💜 Pink theme activated — elegant & powerful!', theme: '🌸 Pink' },
+                { val: 'male',   label: '👨 Male' },
+                { val: 'female', label: '👩 Female' },
               ].map(g => (
                 <button type="button" key={g.val}
                   onClick={() => setForm(f => ({ ...f, gender: g.val }))}
@@ -241,21 +235,21 @@ export default function Register() {
               ))}
             </div>
             {form.gender === 'male' && (
-              <Vibe key="male" message="💙 Dark theme activated for you — sleek, sharp & ready to rank!" />
+              <Vibe id="male" message="💼 Welcome bro! Time to make your family proud with that government job!" />
             )}
             {form.gender === 'female' && (
-              <Vibe key="female" message="🌸 Pink theme activated for you — elegant, powerful & unstoppable!" />
+              <Vibe id="female" message="👑 Future officer alert! Kerala PSC needs more women toppers — you're next!" />
             )}
           </div>
 
           {/* Submit */}
           <button type="submit" disabled={loading}
-            className="w-full py-3 rounded-xl font-bold text-sm mt-1 transition-all"
+            className="w-full py-3 rounded-xl font-bold transition-all"
             style={{
               background: 'var(--accent)',
               color: 'var(--accent-text)',
-              opacity: loading ? 0.7 : 1,
               fontSize: 15,
+              opacity: loading ? 0.7 : 1,
             }}>
             {loading ? '✨ Creating your account...' : progressPct === 100 ? '🚀 Join HOW COME? Now!' : 'Create Account →'}
           </button>
