@@ -192,6 +192,13 @@ body {
   background: var(--border);
 }
 
+/* ── Vibe message animation ── */
+@keyframes vibeIn {
+  from { opacity: 0; transform: translateY(-5px) scale(0.97); }
+  to   { opacity: 1; transform: translateY(0) scale(1); }
+}
+.vibe-in { animation: vibeIn 0.25s cubic-bezier(0.22, 1, 0.36, 1); }
+
 /* ── Vibrate animation ── */
 @keyframes vibrate {
   0%, 100% { transform: translateX(0); }
