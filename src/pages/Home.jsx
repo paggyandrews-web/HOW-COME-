@@ -1,5 +1,5 @@
-import { useState, useEffect } from 'react'
-import { Link } from 'react-router-dom'
+import { useState, useEffect, useRef } from 'react'
+import { Link, useNavigate } from 'react-router-dom'
 import { useAuth } from '../contexts/AuthContext'
 import questions from '../data/questions.json'
 import papers from '../data/papers.json'
@@ -163,10 +163,12 @@ function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
 
 export default function Home() {
   const { user, profile, updatePinnedExams } = useAuth()
+  const navigate = useNavigate()
   const [pinned, setPinned] = useState(() =>
     JSON.parse(localStorage.getItem('cs-pinned') || '[]')
   )
   const [removeTarget, setRemoveTarget] = useState(null)
+  const [searchQuery, setSearchQuery] = useState('')
   const didLoadFromFirebase = useRef(false)
   const [streak, setStreak] = useState(0)
   const { getStreak } = useStreak()
@@ -242,22 +244,48 @@ export default function Home() {
           background: 'rgba(255,255,255,0.05)', pointerEvents: 'none',
         }} />
         <div style={{ position: 'relative', zIndex: 1 }}>
-          <div className="flex items-center justify-between mb-1">
-            <h1 className="text-2xl sm:text-3xl font-bold">
-              <span style={{ color: 'rgba(255,255,255,0.7)' }}>HOW </span>
-              <span style={{ color: '#ffffff', fontWeight: 800 }}>COME</span>
-              <span style={{ color: '#14b8a6', fontWeight: 800 }}>?</span>
-            </h1>
-            {streak > 0 && (
-              <div className="flex items-center gap-1 px-3 py-1 rounded-full text-sm font-bold"
-                style={{ background: 'rgba(255,255,255,0.2)', color: 'white' }}>
-                🔥 {streak} {streak === 1 ? 'day' : 'days'}
-              </div>
-            )}
-          </div>
-          <p style={{ color: 'rgba(255,255,255,0.8)' }} className="mb-5">
+          <h1 className="text-2xl sm:text-3xl font-bold mb-1">
+            <span style={{ color: 'rgba(255,255,255,0.7)' }}>HOW </span>
+            <span style={{ color: '#ffffff', fontWeight: 800 }}>COME</span>
+            <span style={{ color: '#14b8a6', fontWeight: 800 }}>?</span>
+          </h1>
+          <p style={{ color: 'rgba(255,255,255,0.8)' }} className="mb-4">
             Foundation to PSC English — {questions.length} grammar questions from {papers.length} previous papers
           </p>
+
+          {/* Streak — big and motivational */}
+          {streak > 0 && (
+            <div
+              className="flex items-center gap-3 mb-4 px-4 py-3 rounded-2xl"
+              style={{
+                background: 'rgba(255,255,255,0.15)',
+                border: '1px solid rgba(255,255,255,0.25)',
+              }}
+            >
+              <span style={{ fontSize: 42, lineHeight: 1 }}>🔥</span>
+              <div style={{ flex: 1 }}>
+                <div style={{ fontSize: 30, fontWeight: 900, lineHeight: 1, color: 'white' }}>
+                  {streak} {streak === 1 ? 'Day' : 'Days'}
+                </div>
+                <div style={{ fontSize: 13, fontWeight: 600, color: 'rgba(255,255,255,0.85)', marginTop: 3 }}>
+                  {streak >= 30
+                    ? 'Unstoppable! You are a legend 🏆'
+                    : streak >= 14
+                    ? 'Two weeks of dedication! ⚡'
+                    : streak >= 7
+                    ? 'One full week! Keep it up! 💪'
+                    : streak >= 3
+                    ? "Building momentum! Don't stop!"
+                    : 'Great start! Keep the streak alive!'}
+                </div>
+              </div>
+              <div style={{ textAlign: 'right', opacity: 0.8 }}>
+                <div style={{ fontSize: 11, fontWeight: 700, color: 'white', letterSpacing: '0.05em' }}>STUDY STREAK</div>
+                <div style={{ fontSize: 11, color: 'rgba(255,255,255,0.65)', marginTop: 2 }}>Don't break it!</div>
+              </div>
+            </div>
+          )}
+
           <div className="flex flex-wrap gap-3">
             <Link to="/quiz" className="px-5 py-2 rounded-lg font-semibold text-sm"
               style={{ background: 'white', color: 'var(--accent)' }}>
@@ -285,6 +313,36 @@ export default function Home() {
             <div className="text-xs" style={{ color: 'var(--text2)' }}>{label}</div>
           </div>
         ))}
+      </div>
+
+      {/* Search bar */}
+      <div className="relative">
+        <input
+          value={searchQuery}
+          onChange={e => setSearchQuery(e.target.value)}
+          onKeyDown={e => {
+            if (e.key === 'Enter' && searchQuery.trim().length >= 2) {
+              navigate(`/search?q=${encodeURIComponent(searchQuery.trim())}`)
+            }
+          }}
+          placeholder="🔍  Search questions by keyword, topic, grammar rule..."
+          className="w-full rounded-xl px-4 py-3.5 text-sm"
+          style={{
+            background: 'var(--surface)',
+            border: '1px solid var(--border)',
+            color: 'var(--text)',
+            outline: 'none',
+          }}
+        />
+        {searchQuery.trim().length >= 2 && (
+          <button
+            onClick={() => navigate(`/search?q=${encodeURIComponent(searchQuery.trim())}`)}
+            className="absolute right-3 top-1/2 -translate-y-1/2 px-3 py-1.5 rounded-lg text-xs font-semibold"
+            style={{ background: 'var(--accent)', color: 'var(--accent-text)', touchAction: 'manipulation' }}
+          >
+            Search
+          </button>
+        )}
       </div>
 
       {/* Pinned Exams */}

@@ -127,6 +127,172 @@ function ExplanationBlock({ explanation }) {
   )
 }
 
+/* ── Share Result ─────────────────────────────────── */
+
+function drawRoundRect(ctx, x, y, w, h, r) {
+  ctx.beginPath()
+  ctx.moveTo(x + r, y)
+  ctx.lineTo(x + w - r, y)
+  ctx.arcTo(x + w, y, x + w, y + r, r)
+  ctx.lineTo(x + w, y + h - r)
+  ctx.arcTo(x + w, y + h, x + w - r, y + h, r)
+  ctx.lineTo(x + r, y + h)
+  ctx.arcTo(x, y + h, x, y + h - r, r)
+  ctx.lineTo(x, y + r)
+  ctx.arcTo(x, y, x + r, y, r)
+  ctx.closePath()
+}
+
+function generateShareCanvas({ score, total, pct, icon, topicStats }) {
+  const W = 800, H = 800
+  const canvas = document.createElement('canvas')
+  canvas.width = W
+  canvas.height = H
+  const ctx = canvas.getContext('2d')
+
+  // Background
+  ctx.fillStyle = '#071524'
+  ctx.fillRect(0, 0, W, H)
+
+  // Decorative circles
+  ;[
+    [W - 60, 60, 180, 'rgba(26,157,142,0.08)'],
+    [60, H - 60, 130, 'rgba(26,157,142,0.06)'],
+    [W / 2, H / 2, 220, 'rgba(26,157,142,0.03)'],
+  ].forEach(([cx, cy, r, c]) => {
+    ctx.fillStyle = c
+    ctx.beginPath()
+    ctx.arc(cx, cy, r, 0, Math.PI * 2)
+    ctx.fill()
+  })
+
+  // Top teal accent bar
+  ctx.fillStyle = '#1a9d8e'
+  ctx.fillRect(0, 0, W, 8)
+
+  // HOW COME? branding
+  ctx.textAlign = 'center'
+  ctx.fillStyle = '#ffffff'
+  ctx.font = 'bold 54px system-ui, -apple-system, Arial, sans-serif'
+  ctx.fillText('HOW COME?', W / 2, 78)
+
+  ctx.fillStyle = '#1a9d8e'
+  ctx.font = '18px system-ui, -apple-system, Arial, sans-serif'
+  ctx.fillText('Kerala PSC English Practice', W / 2, 110)
+
+  // Divider
+  ctx.strokeStyle = 'rgba(255,255,255,0.1)'
+  ctx.lineWidth = 1
+  ctx.beginPath()
+  ctx.moveTo(60, 132)
+  ctx.lineTo(W - 60, 132)
+  ctx.stroke()
+
+  // Big emoji icon
+  ctx.font = '80px serif'
+  ctx.textAlign = 'center'
+  ctx.fillText(icon, W / 2, 235)
+
+  // Score "X / Y"
+  ctx.fillStyle = '#ffffff'
+  ctx.font = 'bold 86px system-ui, -apple-system, Arial, sans-serif'
+  ctx.fillText(`${score} / ${total}`, W / 2, 340)
+
+  // Percentage
+  ctx.fillStyle = '#1a9d8e'
+  ctx.font = 'bold 42px system-ui, -apple-system, Arial, sans-serif'
+  ctx.fillText(`${pct}% Correct`, W / 2, 398)
+
+  // Motivation
+  const msg =
+    pct > 90 ? "Outstanding! You're PSC ready!"
+    : pct >= 71 ? 'Excellent work! Keep it up!'
+    : pct >= 51 ? 'Good effort! Keep practising!'
+    : 'Every attempt makes you better!'
+  ctx.fillStyle = 'rgba(255,255,255,0.55)'
+  ctx.font = '20px system-ui, -apple-system, Arial, sans-serif'
+  ctx.fillText(msg, W / 2, 445)
+
+  // Topic performance
+  const showTopics = topicStats.slice(0, 4)
+  if (showTopics.length > 0) {
+    ctx.fillStyle = 'rgba(255,255,255,0.35)'
+    ctx.font = '13px system-ui, -apple-system, Arial, sans-serif'
+    ctx.textAlign = 'left'
+    ctx.fillText('TOPIC PERFORMANCE', 80, 490)
+
+    const barX = 80, barW = W - 160, barH = 36, barGap = 12
+    showTopics.forEach((t, i) => {
+      const y = 508 + i * (barH + barGap)
+      // BG
+      ctx.fillStyle = 'rgba(255,255,255,0.07)'
+      drawRoundRect(ctx, barX, y, barW, barH, 8)
+      ctx.fill()
+      // Fill
+      const fillW = Math.max(barW * Math.max(t.pct / 100, 0.02), 16)
+      ctx.fillStyle = t.pct >= 80 ? '#16a34a' : t.pct >= 50 ? '#f59e0b' : '#ef4444'
+      drawRoundRect(ctx, barX, y, fillW, barH, 8)
+      ctx.fill()
+      // Label
+      ctx.fillStyle = '#ffffff'
+      ctx.font = '14px system-ui, -apple-system, Arial, sans-serif'
+      ctx.textAlign = 'left'
+      const label = t.topic.length > 30 ? t.topic.slice(0, 30) + '…' : t.topic
+      ctx.fillText(label, barX + 12, y + barH / 2 + 5)
+      ctx.textAlign = 'right'
+      ctx.fillText(`${t.correct}/${t.total}`, barX + barW - 12, y + barH / 2 + 5)
+    })
+  }
+
+  // Bottom bar
+  ctx.fillStyle = '#0a2e28'
+  ctx.fillRect(0, H - 75, W, 75)
+
+  ctx.fillStyle = '#1a9d8e'
+  ctx.font = 'bold 22px system-ui, -apple-system, Arial, sans-serif'
+  ctx.textAlign = 'center'
+  ctx.fillText('how-come.vercel.app', W / 2, H - 38)
+
+  ctx.fillStyle = 'rgba(255,255,255,0.45)'
+  ctx.font = '13px system-ui, -apple-system, Arial, sans-serif'
+  ctx.fillText('Free Kerala PSC English Practice App', W / 2, H - 14)
+
+  return canvas
+}
+
+async function shareResult({ score, total, pct, icon, topicStats }) {
+  const canvas = generateShareCanvas({ score, total, pct, icon, topicStats })
+  return new Promise((resolve) => {
+    canvas.toBlob(async (blob) => {
+      const file = new File([blob], 'howcome-score.png', { type: 'image/png' })
+      if (navigator.share && navigator.canShare?.({ files: [file] })) {
+        try {
+          await navigator.share({
+            files: [file],
+            title: `HOW COME? Score: ${score}/${total}`,
+            text: `I scored ${pct}% on HOW COME! Kerala PSC English Practice\nPractice free at: how-come.vercel.app`,
+          })
+        } catch (e) {
+          if (e.name !== 'AbortError') {
+            // fallback download
+            const url = URL.createObjectURL(blob)
+            const a = document.createElement('a')
+            a.href = url; a.download = 'howcome-score.png'; a.click()
+            URL.revokeObjectURL(url)
+          }
+        }
+      } else {
+        // Desktop fallback — download the image
+        const url = URL.createObjectURL(blob)
+        const a = document.createElement('a')
+        a.href = url; a.download = 'howcome-score.png'; a.click()
+        URL.revokeObjectURL(url)
+      }
+      resolve()
+    }, 'image/png')
+  })
+}
+
 function shuffle(arr) {
   const a = [...arr]
   for (let i = a.length - 1; i > 0; i--) {
@@ -303,6 +469,7 @@ function QuizSetup({ onStart }) {
 function QuizResult({ questions, answers, onRetry, onHome }) {
   const [reviewIdx, setReviewIdx] = useState(0)
   const [showConfetti, setShowConfetti] = useState(false)
+  const [sharing, setSharing] = useState(false)
   const { user } = useAuth()
 
   const score = answers.filter((a, i) =>
@@ -362,7 +529,7 @@ function QuizResult({ questions, answers, onRetry, onHome }) {
           <div className="text-4xl font-bold mb-3" style={{ color: 'var(--accent)' }}>{pct}%</div>
         )}
         <p style={{ color: 'var(--text2)' }} className="text-sm">{message}</p>
-        <div className="flex gap-3 mt-5 justify-center">
+        <div className="flex gap-3 mt-5 justify-center flex-wrap">
           <button onClick={onRetry} className="px-4 py-2 rounded-lg text-sm font-medium"
             style={{ background: 'var(--accent)', color: 'var(--accent-text)' }}>
             Try Again
@@ -371,6 +538,26 @@ function QuizResult({ questions, answers, onRetry, onHome }) {
             style={{ background: 'var(--bg2)', color: 'var(--text)', border: '1px solid var(--border)' }}>
             New Quiz
           </button>
+          {questions[0]?.correctAnswer && (
+            <button
+              onClick={async () => {
+                setSharing(true)
+                await shareResult({ score, total: questions.length, pct, icon, topicStats })
+                setSharing(false)
+              }}
+              disabled={sharing}
+              className="px-4 py-2 rounded-lg text-sm font-medium flex items-center gap-1.5"
+              style={{
+                background: 'rgba(26,157,142,0.15)',
+                color: 'var(--accent)',
+                border: '1px solid var(--accent)',
+                opacity: sharing ? 0.65 : 1,
+                touchAction: 'manipulation',
+              }}
+            >
+              {sharing ? '⏳ Preparing…' : '📤 Share Result'}
+            </button>
+          )}
         </div>
       </div>
 
