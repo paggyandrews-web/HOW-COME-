@@ -2,85 +2,149 @@ import { useMemo } from 'react'
 import { Link } from 'react-router-dom'
 import questions from '../data/questions.json'
 
-const TOPIC_EMOJI = {
-  'ACTIVE AND PASSIVE VOICE': '🔄',
-  'AGREEMENT OF SUBJECT AND VERB': '🤝',
-  'ANTONYMS': '↔️',
-  'ARTICLES': '📰',
-  'CONDITIONALS': '🔀',
-  'CONJUNCTIONS': '🔗',
-  'CORRECTION OF SENTENCES': '✏️',
-  'CORRELATIVE CONJUNCTIONS': '🔗',
-  'DEGREES OF COMPARISON': '📊',
-  'DIFFERENT PARTS OF SPEECH': '🏷️',
-  'ERROR IDENTIFICATION': '🔍',
-  'EXPANSION OF COMMON ABBREVIATIONS': '🔤',
-  'FOREIGN WORDS AND PHRASES': '🌍',
-  'GENDER': '⚧️',
-  'GERUNDS AND INFINITIVES': '📝',
-  'IDIOMS AND PHRASES': '💬',
-  'KINDS OF SENTENCES': '📋',
-  'ONE WORD SUBSTITUTES': '💡',
-  'ONE WORD SUBSTITUTION': '💡',
-  'PHRASAL VERBS': '🔧',
-  'PREPOSITIONS': '📍',
-  'PRONOUNS': '👤',
-  'QUESTION TAGS': '❓',
-  'SINGULAR & PLURAL, COLLECTIVE NOUNS': '👥',
-  'SPELLING TEST': '🔡',
-  'SYNONYMS': '🟰',
-  'TENSES': '⏰',
-  'TYPES OF SENTENCES': '📋',
-  'VOCABULARY': '📚',
-  'WORD FORMATION (PREFIX/SUFFIX)': '🧩',
+// Official Kerala PSC English Syllabus — in order
+const GRAMMAR_TOPICS = [
+  { name: 'Types of Sentences and Interchange of Sentences', emoji: '📋' },
+  { name: 'Different Parts of Speech',                        emoji: '🏷️' },
+  { name: 'Agreement of Subject and Verb',                    emoji: '🤝' },
+  { name: 'Articles – Definite and Indefinite Articles',      emoji: '📰' },
+  { name: 'Uses of Primary and Modal Auxiliary Verbs',        emoji: '⚙️' },
+  { name: 'Question Tags',                                    emoji: '❓' },
+  { name: 'Infinitive and Gerunds',                           emoji: '📝' },
+  { name: 'Tenses',                                           emoji: '⏰' },
+  { name: 'Tenses in Conditional Sentences',                  emoji: '🔀' },
+  { name: 'Prepositions',                                     emoji: '📍' },
+  { name: 'The Use of Correlatives',                          emoji: '🔗' },
+  { name: 'Direct and Indirect Speech',                       emoji: '💬' },
+  { name: 'Active and Passive Voice',                         emoji: '🔄' },
+  { name: 'Correction of Sentences',                          emoji: '✏️' },
+  { name: 'Degrees of Comparison',                            emoji: '📊' },
+]
+
+const VOCABULARY_TOPICS = [
+  { name: 'Singular & Plural, Change of Gender, Collective Nouns', emoji: '👥' },
+  { name: 'Word Formation – Prefix and Suffix',                     emoji: '🧩' },
+  { name: 'Compound Words',                                          emoji: '🔤' },
+  { name: 'Synonyms',                                                emoji: '🟰' },
+  { name: 'Antonyms',                                                emoji: '↔️' },
+  { name: 'Phrasal Verbs',                                           emoji: '🔧' },
+  { name: 'Foreign Words and Phrases',                               emoji: '🌍' },
+  { name: 'One Word Substitutes',                                    emoji: '💡' },
+  { name: 'Words Often Confused',                                    emoji: '🤔' },
+  { name: 'Spelling Test',                                           emoji: '🔡' },
+  { name: 'Idioms and their Meanings',                               emoji: '🗣️' },
+  { name: 'Expansion and Meaning of Common Abbreviations',           emoji: '🔠' },
+]
+
+function TopicCard({ topic, count }) {
+  const barPct = Math.min(100, Math.round((count / 25) * 100))
+  return (
+    <div className="card rounded-xl p-4 flex flex-col gap-3">
+      <div>
+        <div className="text-xl mb-1">{topic.emoji}</div>
+        <div className="font-semibold text-sm leading-snug mb-1.5">{topic.name}</div>
+        <div className="flex items-center gap-2">
+          <div className="flex-1 rounded-full h-1.5" style={{ background: 'var(--bg2)' }}>
+            <div
+              className="h-1.5 rounded-full"
+              style={{ width: barPct + '%', background: 'var(--accent)', transition: 'width 0.4s ease' }}
+            />
+          </div>
+          <span className="text-xs font-semibold shrink-0" style={{ color: 'var(--accent)', minWidth: 28 }}>
+            {count}
+          </span>
+        </div>
+      </div>
+      <div className="flex gap-2">
+        <Link
+          to={'/quiz?topic=' + encodeURIComponent(topic.name) + '&mode=practice'}
+          className="flex-1 text-center py-1.5 rounded-lg text-xs font-semibold"
+          style={{ background: 'var(--accent)', color: 'var(--accent-text)', touchAction: 'manipulation' }}
+        >
+          Practice
+        </Link>
+        <Link
+          to={'/quiz?topic=' + encodeURIComponent(topic.name) + '&mode=timed'}
+          className="flex-1 text-center py-1.5 rounded-lg text-xs font-medium"
+          style={{ background: 'var(--bg2)', color: 'var(--text)', border: '1px solid var(--border)', touchAction: 'manipulation' }}
+        >
+          Timed
+        </Link>
+      </div>
+    </div>
+  )
+}
+
+function SectionHeader({ title, subtitle, color }) {
+  return (
+    <div className="flex items-center gap-3 mb-4">
+      <div
+        className="px-3 py-1 rounded-full text-xs font-bold shrink-0"
+        style={{ background: color, color: 'white' }}
+      >
+        {title}
+      </div>
+      <div className="text-xs shrink-0" style={{ color: 'var(--text2)' }}>{subtitle}</div>
+      <div className="flex-1 h-px" style={{ background: 'var(--border)' }} />
+    </div>
+  )
 }
 
 export default function Topics() {
-  const topicStats = useMemo(() => {
+  const countMap = useMemo(() => {
     const map = {}
-    questions.forEach(q => {
-      const t = q.topic || 'Other'
-      if (!map[t]) map[t] = 0
-      map[t]++
+    questions.forEach(function(q) {
+      if (q.topic) map[q.topic] = (map[q.topic] || 0) + 1
     })
-    return Object.entries(map).sort((a, b) => b[1] - a[1])
+    return map
   }, [])
+
+  const grammarTotal = GRAMMAR_TOPICS.reduce(function(s, t) { return s + (countMap[t.name] || 0) }, 0)
+  const vocabTotal   = VOCABULARY_TOPICS.reduce(function(s, t) { return s + (countMap[t.name] || 0) }, 0)
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-6">
       <h1 className="font-bold text-2xl mb-1">Practice by Topic</h1>
-      <p className="text-sm mb-6" style={{ color: 'var(--text2)' }}>
-        {topicStats.length} topics · {questions.length} questions across all papers
+      <p className="text-sm mb-7" style={{ color: 'var(--text2)' }}>
+        27 topics · {questions.length} questions · Official Kerala PSC English Syllabus
       </p>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-        {topicStats.map(([topic, count]) => (
-          <div key={topic} className="card rounded-xl p-4 flex flex-col gap-3">
-            <div>
-              <div className="text-lg mb-1">{TOPIC_EMOJI[topic] || '📌'}</div>
-              <div className="font-semibold text-sm leading-snug">{topic}</div>
-              <div className="text-xs mt-1.5" style={{ color: 'var(--text2)' }}>
-                {count} question{count !== 1 ? 's' : ''}
-              </div>
-            </div>
-            <div className="flex gap-2">
-              <Link
-                to={`/quiz?topic=${encodeURIComponent(topic)}&mode=practice`}
-                className="flex-1 text-center py-1.5 rounded-lg text-xs font-medium"
-                style={{ background: 'var(--accent)', color: 'var(--accent-text)' }}
-              >
-                Practice
-              </Link>
-              <Link
-                to={`/quiz?topic=${encodeURIComponent(topic)}&mode=timed`}
-                className="flex-1 text-center py-1.5 rounded-lg text-xs font-medium"
-                style={{ background: 'var(--bg2)', color: 'var(--text)', border: '1px solid var(--border)' }}
-              >
-                Timed
-              </Link>
-            </div>
-          </div>
-        ))}
+      <div className="mb-8">
+        <SectionHeader
+          title="I. English Grammar"
+          subtitle={'15 topics · ' + grammarTotal + ' questions'}
+          color="#1a9d8e"
+        />
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+          {GRAMMAR_TOPICS.map(function(topic) {
+            return (
+              <TopicCard
+                key={topic.name}
+                topic={topic}
+                count={countMap[topic.name] || 0}
+              />
+            )
+          })}
+        </div>
+      </div>
+
+      <div>
+        <SectionHeader
+          title="II. Vocabulary"
+          subtitle={'12 topics · ' + vocabTotal + ' questions'}
+          color="#7c3aed"
+        />
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+          {VOCABULARY_TOPICS.map(function(topic) {
+            return (
+              <TopicCard
+                key={topic.name}
+                topic={topic}
+                count={countMap[topic.name] || 0}
+              />
+            )
+          })}
+        </div>
       </div>
     </div>
   )
