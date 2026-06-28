@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react'
+import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { useAuth } from '../contexts/AuthContext'
 import questions from '../data/questions.json'
@@ -17,7 +17,18 @@ function formatTime12h(timeStr) {
   return `${String(hour).padStart(2, '0')}:${String(m).padStart(2, '0')} ${period}`
 }
 
-function UnpinDialog({ exam, onConfirm, onCancel }) {
+function BookmarkIcon({ saved }) {
+  return (
+    <svg width="22" height="22" viewBox="0 0 24 24"
+      fill={saved ? 'var(--accent)' : 'none'}
+      stroke="var(--accent)" strokeWidth="2"
+      strokeLinecap="round" strokeLinejoin="round">
+      <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>
+    </svg>
+  )
+}
+
+function RemoveDialog({ exam, onConfirm, onCancel }) {
   if (!exam) return null
   return (
     <div
@@ -29,7 +40,7 @@ function UnpinDialog({ exam, onConfirm, onCancel }) {
         className="card rounded-2xl p-5 w-full max-w-sm mx-4 mb-4 sm:mb-0"
         onClick={e => e.stopPropagation()}
       >
-        <div className="text-base font-semibold mb-1">Unpin this exam?</div>
+        <div className="text-base font-semibold mb-1">Remove from Home?</div>
         <div className="text-sm mb-4" style={{ color: 'var(--text2)' }}>
           {exam.name.split(' / ')[0]}
         </div>
@@ -39,7 +50,7 @@ function UnpinDialog({ exam, onConfirm, onCancel }) {
             className="flex-1 py-2 rounded-lg text-sm font-semibold"
             style={{ background: 'var(--accent)', color: 'var(--accent-text)' }}
           >
-            Unpin
+            Remove
           </button>
           <button
             onClick={onCancel}
@@ -54,61 +65,28 @@ function UnpinDialog({ exam, onConfirm, onCancel }) {
   )
 }
 
-function ExamCard({ exam, pinned, onPin, onRequestUnpin, pinCount }) {
+function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
   const isPast = new Date(exam.date) < new Date(new Date().toDateString())
-  const canPin = pinned || pinCount < MAX_PINS
+  const canSave = saved || savedCount < MAX_PINS
   const examDate = new Date(exam.date)
-  const lastTap = useRef(0)
 
-  // Chrome fires a ghost click after every touch. onTouchEnd can't prevent it
-  // (Chrome ignores preventDefault on passive touch listeners). onPointerUp is
-  // non-passive and fires before the ghost click, so we set ignoreNextClick here
-  // to block the ghost click in onClick.
-  const ignoreNextClick = useRef(false)
-
-  function doPin() {
-    const now = Date.now()
-    if (now - lastTap.current < 400) return
-    lastTap.current = now
-    if (!canPin) return
-    if (pinned) {
-      // Delay dialog 150ms so ghost click fires before backdrop appears.
-      // Without this, the ghost click hits the backdrop and instantly closes the dialog.
-      setTimeout(() => onRequestUnpin(exam.id), 150)
+  function handleBookmark() {
+    if (!canSave) return
+    if (saved) {
+      onRequestRemove(exam.id)
     } else {
-      onPin(exam.id)
+      onSave(exam.id)
     }
-  }
-
-  // onPointerUp handles touch in Chrome — pointer events are NOT passive,
-  // unlike touchend. pointerType check prevents double-fire on desktop mouse.
-  function handlePinPointerUp(e) {
-    if (e.pointerType !== 'touch') return
-    e.stopPropagation()
-    ignoreNextClick.current = true
-    setTimeout(() => { ignoreNextClick.current = false }, 600)
-    doPin()
-  }
-
-  // Handles desktop mouse clicks. Also receives ghost click after touch —
-  // caught and blocked by ignoreNextClick flag.
-  function handlePinClick(e) {
-    e.stopPropagation()
-    if (ignoreNextClick.current) {
-      ignoreNextClick.current = false
-      return
-    }
-    doPin()
   }
 
   return (
     <div className="card rounded-xl p-4"
       style={{
         opacity: isPast ? 0.55 : 1,
-        borderLeft: pinned ? '4px solid var(--accent)' : '4px solid transparent',
+        borderLeft: saved ? '4px solid var(--accent)' : '4px solid transparent',
         transition: 'border-color 0.3s ease',
       }}>
-      {/* Name + pin button */}
+      {/* Name + bookmark button */}
       <div className="flex items-start justify-between gap-2 mb-2">
         <div className="flex-1 min-w-0">
           <div className="text-xs font-bold mb-0.5" style={{ color: 'var(--accent)' }}>
@@ -117,14 +95,13 @@ function ExamCard({ exam, pinned, onPin, onRequestUnpin, pinCount }) {
           <div className="font-semibold text-sm leading-snug">{exam.name}</div>
         </div>
         <button
-          onPointerUp={handlePinPointerUp}
-          onClick={handlePinClick}
-          title={pinned ? 'Unpin' : canPin ? 'Pin to home' : 'Max 5 pins reached'}
-          className="text-xl shrink-0 transition-transform active:scale-110"
+          onClick={handleBookmark}
+          title={saved ? 'Remove from Home' : canSave ? 'Save to Home' : 'Max 5 saved'}
+          className="shrink-0 transition-transform active:scale-110"
           style={{
-            opacity: pinned ? 1 : canPin ? 0.3 : 0.1,
-            cursor: canPin ? 'pointer' : 'default',
-            padding: '4px 8px',
+            opacity: saved ? 1 : canSave ? 0.4 : 0.15,
+            cursor: canSave ? 'pointer' : 'not-allowed',
+            padding: '6px 8px',
             minWidth: '44px',
             minHeight: '44px',
             display: 'flex',
@@ -132,8 +109,10 @@ function ExamCard({ exam, pinned, onPin, onRequestUnpin, pinCount }) {
             justifyContent: 'center',
             touchAction: 'manipulation',
             WebkitTapHighlightColor: 'transparent',
+            background: 'none',
+            border: 'none',
           }}>
-          📌
+          <BookmarkIcon saved={saved} />
         </button>
       </div>
 
@@ -187,7 +166,7 @@ export default function Home() {
   const [pinned, setPinned] = useState(() =>
     JSON.parse(localStorage.getItem('cs-pinned') || '[]')
   )
-  const [unpinTarget, setUnpinTarget] = useState(null)
+  const [removeTarget, setRemoveTarget] = useState(null)
   const didLoadFromFirebase = useRef(false)
   const [streak, setStreak] = useState(0)
   const { getStreak } = useStreak()
@@ -228,7 +207,7 @@ export default function Home() {
       if (user) updatePinnedExams?.(next)
       return next
     })
-    setUnpinTarget(null)
+    setRemoveTarget(null)
   }
 
   const now = new Date()
@@ -241,7 +220,7 @@ export default function Home() {
   const pinnedExams = exams.filter(e => pinned.includes(e.id))
 
   const years = [...new Set(papers.map(p => p.year))].sort().reverse()
-  const unpinExamData = unpinTarget ? exams.find(e => e.id === unpinTarget) : null
+  const removeExamData = removeTarget ? exams.find(e => e.id === removeTarget) : null
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-6 space-y-8">
@@ -312,7 +291,7 @@ export default function Home() {
       {pinnedExams.length > 0 && (
         <div>
           <div className="flex items-center justify-between mb-3">
-            <h2 className="font-bold text-lg">📌 Pinned Exams</h2>
+            <h2 className="font-bold text-lg">🔖 Saved Exams</h2>
             <Link to="/exams" className="text-sm font-medium" style={{ color: 'var(--accent)' }}>
               View all →
             </Link>
@@ -322,10 +301,10 @@ export default function Home() {
               <ExamCard
                 key={e.id}
                 exam={e}
-                pinned={true}
-                onPin={pinExam}
-                onRequestUnpin={setUnpinTarget}
-                pinCount={pinned.length}
+                saved={true}
+                onSave={pinExam}
+                onRequestRemove={setRemoveTarget}
+                savedCount={pinned.length}
               />
             ))}
           </div>
@@ -334,10 +313,10 @@ export default function Home() {
 
       {pinnedExams.length === 0 && (
         <div className="card rounded-xl p-5 text-center">
-          <div className="text-2xl mb-2">📌</div>
-          <p className="text-sm font-medium mb-1">No exams pinned yet</p>
+          <div className="text-2xl mb-2">🔖</div>
+          <p className="text-sm font-medium mb-1">No exams saved yet</p>
           <p className="text-xs mb-3" style={{ color: 'var(--text2)' }}>
-            Pin upcoming exams to track their countdowns here.
+            Bookmark upcoming exams to track their countdowns here.
           </p>
           <Link to="/exams" className="text-sm font-medium" style={{ color: 'var(--accent)' }}>
             Browse Upcoming Exams →
@@ -345,11 +324,11 @@ export default function Home() {
         </div>
       )}
 
-      {/* Unpin confirmation dialog */}
-      <UnpinDialog
-        exam={unpinExamData}
-        onConfirm={() => unpinExam(unpinTarget)}
-        onCancel={() => setUnpinTarget(null)}
+      {/* Remove confirmation dialog */}
+      <RemoveDialog
+        exam={removeExamData}
+        onConfirm={() => unpinExam(removeTarget)}
+        onCancel={() => setRemoveTarget(null)}
       />
     </div>
   )

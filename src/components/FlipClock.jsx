@@ -199,7 +199,7 @@ export default function FlipClock({ dateStr, timeStr, compact = false }) {
 
   if (compact) {
     // Compact inline version (no flip animation, just numbers)
-    const color = urgent ? '#ef4444' : 'var(--accent)'
+    const color = 'var(--accent)'
     return (
       <div style={{ display: 'flex', gap: 8, alignItems: 'center' }}>
         {[['D', days], ['H', hours], ['M', mins], ['S', secs]].map(([l, v]) => (
