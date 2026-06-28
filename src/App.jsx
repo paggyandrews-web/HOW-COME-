@@ -1,4 +1,5 @@
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
+import { useState, useEffect } from 'react'
 import { ThemeProvider } from './contexts/ThemeContext'
 import { AuthProvider } from './contexts/AuthContext'
 import Navbar from './components/Navbar'
@@ -12,6 +13,64 @@ import Login from './pages/Login'
 import Register from './pages/Register'
 import Profile from './pages/Profile'
 import Search from './pages/Search'
+
+/* Floating scroll button — appears after scrolling 250px */
+function ScrollButton() {
+  const [visible, setVisible] = useState(false)
+  const [atBottom, setAtBottom] = useState(false)
+
+  useEffect(() => {
+    function onScroll() {
+      const scrolled = window.scrollY
+      const maxScroll = document.documentElement.scrollHeight - window.innerHeight
+      setVisible(scrolled > 250)
+      setAtBottom(maxScroll > 0 && scrolled >= maxScroll - 40)
+    }
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [])
+
+  if (!visible) return null
+
+  function handleClick() {
+    if (atBottom) {
+      window.scrollTo({ top: 0, behavior: 'smooth' })
+    } else {
+      window.scrollTo({ top: document.documentElement.scrollHeight, behavior: 'smooth' })
+    }
+  }
+
+  return (
+    <button
+      onClick={handleClick}
+      aria-label={atBottom ? 'Scroll to top' : 'Scroll to bottom'}
+      style={{
+        position: 'fixed',
+        right: 16,
+        bottom: 'calc(72px + env(safe-area-inset-bottom))',
+        width: 40,
+        height: 40,
+        borderRadius: '50%',
+        background: 'var(--surface)',
+        border: '1px solid var(--border)',
+        color: 'var(--text2)',
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+        boxShadow: '0 2px 8px rgba(0,0,0,0.25)',
+        cursor: 'pointer',
+        zIndex: 40,
+        transition: 'opacity 0.2s, transform 0.2s',
+        touchAction: 'manipulation',
+      }}
+    >
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"
+        style={{ transform: atBottom ? 'rotate(180deg)' : 'none', transition: 'transform 0.25s' }}>
+        <polyline points="18 15 12 9 6 15" />
+      </svg>
+    </button>
+  )
+}
 
 /* Triggers page-enter animation on every route change */
 function AnimatedRoutes() {
@@ -44,6 +103,7 @@ export default function App() {
               <AnimatedRoutes />
             </div>
             <BottomNav />
+            <ScrollButton />
           </div>
         </BrowserRouter>
       </AuthProvider>
