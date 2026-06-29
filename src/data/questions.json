@@ -5578,5 +5578,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) is leaving — 'Is leaving' = Present Continuous — ഇത് NOW happening action-ന് ആണ്. Sentence-ൽ 'reached' = Simple Past ആണ്; ഒരേ sentence-ൽ Present Continuous + Simple Past = tense conflict. ഇവ past events ആണ്, present tense ഇല്ല.\n\n❌ (B) has left — 'Has left' = Present Perfect — past action-ൽ connection to present ആണ് indicate ചെയ്യുന്നത്. 'Reached' Simple Past ആണ്; present perfect + simple past combination ഈ context-ൽ incorrect. Past Perfect 'had left' ആണ് sequence ഓഫ് past events-ന് ശരി.\n\n❌ (D) will leave — 'Will leave' = Future tense. 'Reached' past ആണ്; future tense ഒരു completed past scenario-ൽ grammatically impossible. Train future-ൽ leave ആകും — 'reached' already complete ആകിയ ഒരു past event-ൽ future tense ഉപയോഗിക്കില്ല.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'EARLIER HAD, LATER DID!' — Two past actions: EARLIER action → HAD + V3 (Past Perfect) | LATER action → V2 (Simple Past). 'Train LEFT first (earlier) → Train HAD LEFT. He REACHED later → reached (simple past).'\n• Timeline image: ←Train left——He reached→ (Past Perfect comes before Simple Past on the timeline)\n• PSC exam strategy: 'When he reached' (simple past) ഉള്ള sentence-ൽ — 'reached'-ന് BEFORE-ൽ ആണ് train action → Past Perfect 'had left'. Two past events → Earlier one = had + V3. Guaranteed mark!"
     }
+  },
+  {
+    "id": "068-2025-M_q81",
+    "paperId": "068-2025-M",
+    "questionNumber": 81,
+    "topic": "Question Tags",
+    "questionText": "Choose the correct answer:\nChristians go to church every Sunday, ______ they?",
+    "optionA": "didn't",
+    "optionB": "don't",
+    "optionC": "won't",
+    "optionD": "shouldn't",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) don't\n\n• \"Christians go to church every Sunday\" — ഇത് positive sentence ആണ്, Simple Present tense-ൽ.\n• Positive sentence → negative question tag — ഇതാണ് question tag-ന്റെ golden rule.\n• \"Go\" = Simple Present tense → auxiliary verb \"do\" → negative form \"don't\"\n• \"Christians\" = third person plural → tag-ൽ pronoun \"they\" വേണം.\n• Final tag: \"don't they?\" — \"Christians ഓരോ Sunday-ഉം church-ൽ പോകുന്നുണ്ടല്ലോ, അല്ലേ?\" എന്ന് ചോദിക്കുന്ന form ആണ് ഇത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Positive sentence → Negative tag | Negative sentence → Positive tag\n• Simple Present tense + third person plural → auxiliary \"do\" → tag \"don't they?\"\n• Tag formula: [auxiliary + n't] + [pronoun]?\n• ⭐ PSC ആവർത്തനം: Question tags ഓരോ paper-ലും guaranteed topic!\n• Subject → Pronoun mapping: Christians → they | He → he | She → she | I → I\n• ഉദാഹരണ sentences:\n  1. They play cricket every day, don't they? (positive → don't they?)\n  2. She goes to school, doesn't she? (singular → doesn't she?)\n  3. We work hard, don't we? (we → don't we?)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) didn't\n• \"Didn't\" = Simple Past negative — sentence-ൽ \"last Sunday\" അല്ല, \"every Sunday\" ആണ് — present habit describe ചെയ്യുന്നു.\n• Simple Present sentence-ന് Past tense tag match ആകില്ല — tense mismatch!\n• 🪤 PSC Trap: \"didn't\" familiar ആണ്, students automatically select ചെയ്യും — tense match ആദ്യം check ചെയ്യുക!\n\n❌ (C) won't\n• \"Won't\" = will + not → future tense tag — sentence present tense ആണ്.\n• Future tag future sentence-നാണ് — \"She will come, won't she?\" ഇതുപോലെ.\n• 🪤 PSC Trap: \"every Sunday\" future-ൽ ആകും എന്ന് confuse ആകും — \"every Sunday\" = present habit, not future!\n\n❌ (D) shouldn't\n• \"Shouldn't\" = should + not → modal verb tag — sentence-ൽ modal verb ഇല്ല.\n• Tag-ൽ main sentence-ൻ്റെ auxiliary verb match ആകണം — \"should\" ഇവിടെ match ആകില്ല.\n• 🪤 PSC Trap: Sunday church duty \"should\" ആണെന്ന് morally confuse ആകും — grammar-ൽ \"should\" ഇല്ല, \"do\" ആണ്!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"POSITIVE → NEGATIVE\" — see-saw ആണ് question tag! Positive sentence ഉണ്ടെങ്കിൽ tag negative, negative ഉണ്ടെങ്കിൽ tag positive. ഒരിക്കലും forget ആകില്ല!\n• Simple Present tag family: go/goes/play/works കണ്ടാൽ → don't/doesn't they/he/she?\n• PSC exam strategy: ആദ്യം auxiliary verb identify ചെയ്യുക → negative form → correct pronoun. 3 steps, 3 seconds, guaranteed mark!"
+    }
+  },
+  {
+    "id": "068-2025-M_q82",
+    "paperId": "068-2025-M",
+    "questionNumber": 82,
+    "topic": "Prepositions",
+    "questionText": "My brother is interested _____ reading science fictions.",
+    "optionA": "on",
+    "optionB": "at",
+    "optionC": "from",
+    "optionD": "in",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) in\n\n• \"Interested in\" — ഇത് ഒരു fixed adjective-preposition collocation ആണ്, \"ഒരു കാര്യത്തിൽ താൽപ്പര്യം ഉണ്ട്\" എന്ന് express ചെയ്യുന്നതിന്.\n• \"My brother is interested in reading science fictions\" — \"എന്റെ ജ്യേഷ്ഠൻ science fiction വായിക്കുന്നതിൽ interest ഉണ്ട്\" എന്നാണ് meaning.\n• 'Interested' adjective-ന് ശേഷം 'in' മാത്രം — ഇത് English-ൽ fixed rule ആണ്, മാറ്റം ഇല്ല.\n• PSC-ൽ \"interested in\", \"good at\", \"afraid of\" ഇത്തരം adjective+preposition collocations ആവർത്തിച്ച് ചോദിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Interested + IN = always! ഒരിക്കലും other prepositions ഇടരുത്.\n• Adjective + Preposition fixed collocations — ഇവ memorize ചെയ്യണം, rules derive ചെയ്യാനാകില്ല:\n  - Interested IN | Good AT | Afraid OF | Fond OF | Proud OF\n  - Angry WITH (person) / AT (thing) | Pleased WITH | Keen ON\n• ⭐ PSC ആവർത്തനം: Adjective+Preposition collocations ഓരോ paper-ലും frequent!\n• ഉദാഹരണ sentences:\n  1. She is interested in painting. (painting-ൽ interest ഉണ്ട്)\n  2. He is good at mathematics. (maths-ൽ talent ഉണ്ട്)\n  3. They are proud of their achievements. (achievements-ൽ അഭിമാനം ഉണ്ട്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) on\n• 'On' = surface/topic preposition — \"interested on\" English-ൽ exist ചെയ്യുന്നില്ല.\n• \"On\" commonly topic indicate ചെയ്യുന്നു: \"a lecture on science\" — പക്ഷേ \"interested\" adjective-നൊപ്പം \"on\" ഒരിക്കലും ചേരില്ല.\n• 🪤 PSC Trap: \"On\" most common preposition ആണ്, students familiar ആയതിനാൽ select ചെയ്യും!\n\n❌ (B) at\n• 'At' = location or specific point — \"good at\" collocation ഉണ്ട്, പക്ഷേ \"interested at\" ഇല്ല.\n• \"At\" ഉള്ള collocations: good at, bad at, surprised at — ഇവ different adjectives ആണ്.\n• 🪤 PSC Trap: \"good at\" familiar ആണ്, \"interested at\" ആണ് correct ആണെന്ന് confuse ആകും — \"at\" ≠ \"in\" ഇവിടെ!\n\n❌ (C) from\n• 'From' = origin or source — \"interested from\" English-ൽ ഒരിക്കലും ഇല്ല.\n• \"From\" ഉള്ള collocations: different from, absent from, free from — entirely different context.\n• 🪤 PSC Trap: interest-ന്റെ \"source\" from ആണെന്ന് students wrong ആയി think ചെയ്യും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"I am INterested\" — \"IN\" is already hiding inside the word \"INterested\"! 'INTER-ested' → 'IN'-terested → always uses 'IN'! ഈ trick ഓർത്താൽ ഒരിക്കലും forget ആകില്ല!\n• Collocation family: interested IN, good AT, afraid OF, fond OF, proud OF — 5 most common PSC adjective+preposition pairs.\n• PSC exam strategy: Adjective+Preposition questions-ൽ adjective identify ചെയ്യുക → memorized collocation recall ചെയ്യുക. \"Interested\" = always \"in\"!"
+    }
+  },
+  {
+    "id": "068-2025-M_q83",
+    "paperId": "068-2025-M",
+    "questionNumber": 83,
+    "topic": "Prepositions",
+    "questionText": "I have been living in this house _____ the last ten years.",
+    "optionA": "since",
+    "optionB": "from",
+    "optionC": "for",
+    "optionD": "to",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) for\n\n• \"For\" = duration of time — \"ഒരു കാലയളവ്\" indicate ചെയ്യുന്നു (\"the last ten years\" = 10 years duration).\n• \"I have been living in this house for the last ten years\" — \"ഞാൻ ഈ വീട്ടിൽ കഴിഞ്ഞ പത്ത് വർഷമായി താമസിക്കുന്നു\" — period of time = \"for\".\n• \"The last ten years\" = a span/duration of time → \"for\" is the only correct preposition here.\n• ⭐ PSC-ൽ \"for vs since\" combination most commonly asked Preposition topic!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: FOR = duration (period of time) | SINCE = point in time (specific moment)\n• FOR ഉപയോഗിക്കുന്നത്: number + time unit (for 10 years, for 3 hours, for a month)\n• SINCE ഉപയോഗിക്കുന്നത്: specific point in time (since 2015, since Monday, since morning)\n• ⭐ PSC ആവർത്തനം: for/since distinction PSC-ൽ ഏറ്റവും ആവർത്തിക്കുന്ന preposition question!\n• ഉദാഹരണ sentences:\n  1. I have worked here for five years. (five years = duration → for)\n  2. She has lived here since 2018. (2018 = point in time → since)\n  3. He has been waiting for three hours. (three hours = duration → for)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) since\n• \"Since\" = point in time — \"since 2015\", \"since Monday\", \"since morning\" ഇതുപോലെ specific moment indicate ചെയ്യുന്നു.\n• \"The last ten years\" = duration (period), specific point in time അല്ല → \"since\" match ആകില്ല.\n• 🪤 PSC Trap: \"last ten years\" കേൾക്കുമ്പോൾ \"since\" use ചെയ്യണം എന്ന് students confuse ആകും — \"since ten years\" wrong, \"for ten years\" correct!\n\n❌ (B) from\n• \"From\" = starting point of journey/time — \"from 9 to 5\", \"from here to there\" ഇതുപോലെ.\n• Perfect tense-ൽ \"from\" ഉപയോഗിക്കില്ല — \"have been living from\" grammatically incorrect.\n• 🪤 PSC Trap: \"from last ten years\" spoken English-ൽ കേൾക്കാം, പക്ഷേ standard grammar-ൽ \"for\" ആണ് correct.\n\n❌ (D) to\n• \"To\" = direction or destination — \"I am going to school\", \"from here to there\" ഇതുപോലെ.\n• Duration express ചെയ്യാൻ \"to\" ഒരിക്കലും ഉപയോഗിക്കില്ല.\n• 🪤 PSC Trap: \"10 to 20 years\" range sense-ൽ confuse ആകും — ഇവിടെ range അല്ല, single duration ആണ്!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"FOR = FOUR walls = PERIOD of time\" — FOR has 3 letters, period has length. SINCE = Single point in time! FOR/SINCE test: number + years/months/days → FOR | specific year/day/morning → SINCE.\n• Formula: 'for two hours' ✓ | 'for 2015' ✗ | 'since morning' ✓ | 'since three hours' ✗\n• PSC exam strategy: Time expression കണ്ടാൽ check ചെയ്യുക — number + unit ആണോ? → FOR. Specific moment ആണോ? → SINCE. 2 seconds-ൽ answer!"
+    }
+  },
+  {
+    "id": "068-2025-M_q84",
+    "paperId": "068-2025-M",
+    "questionNumber": 84,
+    "topic": "Conditionals",
+    "questionText": "If you study well, you ______ pass the examination.",
+    "optionA": "will",
+    "optionB": "would",
+    "optionC": "will have",
+    "optionD": "would have",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) will\n\n• \"If you study well, you will pass the examination\" — ഇത് Type 1 Conditional (Real Future Conditional) ആണ്.\n• \"നിങ്ങൾ നന്നായി പഠിച്ചാൽ, പരീക്ഷ pass ആകും\" — real, possible future situation describe ചെയ്യുന്നു.\n• Type 1 Conditional formula: If + Simple Present → will + base verb\n• If clause-ൽ \"study\" (Simple Present) ഉള്ളതിനാൽ main clause-ൽ \"will pass\" ആണ് correct.\n• PSC students-നു direct message: \"If you study well, you WILL pass!\" — ഈ sentence ഓർത്താൽ rule ഓർക്കും!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: If + Present Simple → will + V1 (Type 1 — Real Future Conditional)\n• Type 1 Conditional = real possibility in the future — happen ആകാൻ possibility ഉണ്ട്.\n• ⭐ PSC ആവർത്തനം: Conditionals — especially Type 1 and Type 3 — PSC-ൽ frequent topic!\n• Three conditional types:\n  - Type 1 (Real): If + Present → will + V1 (possible future)\n  - Type 2 (Imaginary): If + Past → would + V1 (imaginary present)\n  - Type 3 (Past Unreal): If + had + V3 → would have + V3 (past regret)\n• ഉദാഹരണ sentences:\n  1. If it rains, we will cancel the trip. (possible future → will)\n  2. If she works hard, she will succeed. (real possibility → will)\n  3. If you call him, he will answer. (real future → will)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) would\n• \"Would\" = Type 2 Conditional main clause — \"If I were rich, I would travel\" ഇതുപോലെ imaginary/hypothetical situations-നാണ്.\n• ഇവിടെ if clause-ൽ \"study\" (Simple Present) ആണ്, past tense അല്ല → Type 2 match ആകില്ല.\n• 🪤 PSC Trap: \"would\" polite/formal-ആയി തോന്നും — conditional type identify ചെയ്യണം ആദ്യം!\n\n❌ (C) will have\n• \"Will have\" = Future Perfect — \"By tomorrow, I will have finished\" ഇതുപോലെ future-ൽ complete ആകുന്ന action-നാണ്.\n• Simple conditional result-നു Future Perfect വരില്ല — formula match ആകില്ല.\n• 🪤 PSC Trap: \"will\" ഉള്ളതുകൊണ്ട് correct ആണോ എന്ന് students confuse ആകും — \"will have\" ≠ \"will\"!\n\n❌ (D) would have\n• \"Would have\" = Type 3 Conditional main clause — past unreal situations-നാണ്.\n• ഇവിടെ if clause-ൽ past perfect ഇല്ല — \"would have\" ഒരിക്കലും match ആകില്ല.\n• 🪤 PSC Trap: \"would have\" complete ആയി തോന്നും — exam anxiety-ൽ students ഇത് select ചെയ്യും!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"IF present → WILL future\" — If clause-ൽ present tense കണ്ടാൽ main clause-ൽ \"will\" automatic! Present → Will | Past → Would | Had+V3 → Would Have. ഈ 3 pair ഓർക്കുക!\n• Conditional family: Type 1 (will) | Type 2 (would) | Type 3 (would have) — easily distinguish by if-clause tense.\n• PSC exam strategy: If clause-ൽ tense check ചെയ്യുക → conditional type identify → formula apply. \"If + study (present)\" → \"will pass\". 3 second rule!"
+    }
+  },
+  {
+    "id": "068-2025-M_q85",
+    "paperId": "068-2025-M",
+    "questionNumber": 85,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "One of the boys _____ absent today.",
+    "optionA": "are",
+    "optionB": "were",
+    "optionC": "have",
+    "optionD": "is",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) is\n\n• \"One of the boys\" — ഇതിൽ subject ആരാണ്? \"One\" ആണ്, \"boys\" അല്ല!\n• \"One\" = singular → singular verb \"is\" വേണം.\n• \"Of the boys\" = prepositional phrase, ഇത് subject-ൽ include ആകില്ല — ഇത് ഒരു PSC common trap!\n• \"One of the boys is absent today\" — \"ആൺകുട്ടികളിൽ ഒരാൾ ഇന്ന് absent ആണ്\" — ഒരു person singular ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: \"One of the + plural noun\" → SINGULAR verb (One controls the verb!)\n• Subject-Verb Agreement rule: verb always agrees with the TRUE subject, not the nearest noun.\n• \"Of the boys\" = prepositional phrase — ignore it when identifying subject!\n• ⭐ PSC ആവർത്തനം: \"One of the...\" pattern PSC-ൽ ഓരോ exam-ലും guaranteed!\n• Similar patterns — always singular:\n  - Each of the students IS present\n  - Every one of them HAS a book\n  - One of my friends IS a doctor\n• ഉദാഹരണ sentences:\n  1. One of the teachers is absent. (One = singular → is)\n  2. Each of the boys has a pen. (Each = singular → has)\n  3. One of my friends is a doctor. (One = singular → is)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) are\n• \"Are\" = plural verb — \"boys\" plural ആണ്, അതുകൊണ്ട് \"are\" ആണ് correct ആണെന്ന് confuse ആകും.\n• പക്ഷേ subject \"boys\" അല്ല, \"One\" ആണ് — One = singular → \"is\" വേണം, \"are\" അല്ല!\n• 🪤 PSC Trap: nearest plural noun \"boys\" കണ്ടാൽ \"are\" select ചെയ്യും — TRUE subject find ചെയ്യണം!\n\n❌ (B) were\n• \"Were\" = plural past tense — subject \"One\" singular ആണ്, \"today\" present context ആണ്.\n• Double mistake: subject mismatch (plural were vs singular one) + tense mismatch (past vs present).\n• 🪤 PSC Trap: \"boys were\" pattern familiar ആണ്, students \"were\" select ചെയ്യും — subject + tense check ചെയ്യുക!\n\n❌ (C) have\n• \"Have\" = plural present auxiliary — \"boys have\" ഉപയോഗിക്കാം, പക്ഷേ \"One has\" ആണ് singular form.\n• \"Absent today\" = simple state, present perfect auxiliary ഇവിടെ fit ആകില്ല.\n• 🪤 PSC Trap: \"have\" commonly used verb ആണ്, students randomly select ചെയ്യും — subject number ആദ്യം check ചെയ്യുക!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ONE is always ONE!\" — \"One of the...\" pattern കണ്ടാൽ ഉടനെ SINGULAR verb! \"One = 1 person = singular = is/was/has.\" ഒരു person-നെ imagine ചെയ്യുക — അദ്ദേഹം \"is\" absent!\n• Similar singular triggers: One of | Each of | Every one of | None of (+ plural noun) → always singular verb!\n• PSC exam strategy: \"One of the + plural noun + ___\" pattern കണ്ടാൽ answer ഉടനെ singular form — is/was/has. 1 second answer!"
+    }
+  },
+  {
+    "id": "068-2025-M_q86",
+    "paperId": "068-2025-M",
+    "questionNumber": 86,
+    "topic": "Tenses",
+    "questionText": "I _____ Mumbai last year.",
+    "optionA": "have visited",
+    "optionB": "visited",
+    "optionC": "have been visited",
+    "optionD": "had visited",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) visited\n\n• \"Last year\" — ഇത് Simple Past tense-ന്റെ ഏറ്റവും clear signal word ആണ്. ഇത് കണ്ടാൽ Simple Past form ഉടനെ select ചെയ്യണം.\n• \"I visited Mumbai last year\" — \"ഞാൻ കഴിഞ്ഞ വർഷം Mumbai-ൽ പോയി\" — completed past action.\n• 'Visited' = 'visit'-ന്റെ Simple Past form (regular verb: visit → visited → visited).\n• Completed action in the past + specific past time signal = Simple Past — ഇത് basic rule, ഒരിക്കലും മറക്കരുത്!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: LAST (year/week/month/night) + AGO → Simple Past tense! Automatic!\n• Simple Past tense: Subject + V2 (past form of verb)\n• Signal words for Simple Past: yesterday, last year/week/month, ago, in 2023, then, once\n• ⭐ PSC ആവർത്തനം: Tense questions ഓരോ PSC paper-ലും guaranteed — signal words identify ചെയ്യുക!\n• Present Perfect vs Simple Past:\n  - Simple Past: specific past time signal ഉള്ളപ്പോൾ (last year, yesterday, ago)\n  - Present Perfect: no specific time / result matters now (I have visited = experience)\n• ഉദാഹരണ sentences:\n  1. She visited Paris last year. (last year = Simple Past)\n  2. He called me yesterday. (yesterday = Simple Past)\n  3. They left two hours ago. (ago = Simple Past)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) have visited\n• 'Have visited' = Present Perfect tense — specific past time signal ഉള്ളപ്പോൾ Present Perfect ഉപയോഗിക്കില്ല.\n• \"Last year\" = specific past time → Simple Past only! Present Perfect-ൽ \"last year\" ഒരിക്കലും ഉപയോഗിക്കില്ല.\n• 🪤 PSC Trap: \"have visited\" complete experience-ആയി തോന്നും — \"last year\" signal word ആദ്യം check ചെയ്യുക!\n\n❌ (C) have been visited\n• 'Have been visited' = Present Perfect Passive — \"I\" passive subject ആകുന്നതിന് ഇവിടെ reason ഇല്ല.\n• \"I visited\" = active (ഞാൻ visit ചെയ്തു). \"I was visited\" = passive (ഞാൻ visit ചെയ്യപ്പെട്ടു) — meaning completely different!\n• 🪤 PSC Trap: Complex-ആയ structure correct ആണെന്ന് confuse ആകും — simple context = simple tense!\n\n❌ (D) had visited\n• 'Had visited' = Past Perfect tense — ഭൂതകാലത്ത് മറ്റൊരു past action-നു മുമ്പ് complete ആയ action-നാണ്.\n• \"By the time he arrived, I had visited the museum\" — TWO past actions ഉള്ളപ്പോഴാണ് Past Perfect.\n• 🪤 PSC Trap: \"had\" formal-ആയി തോന്നും — single past event + \"last year\" = Simple Past മതി!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"LAST = PAST\" — Last year, last week, last night കണ്ടാൽ Simple Past form ഉടനെ! ഈ rhyme ഓർക്കുക: \"Last ആണോ? Past തന്നെ!\" — exam hall-ൽ ഒരിക്കലും forget ആകില്ല!\n• Present Perfect vs Simple Past test: Specific time word ഉണ്ടോ? (last year/yesterday/ago) → Simple Past. Time word ഇല്ലേ? → Present Perfect possible.\n• PSC exam strategy: Time signal word ആദ്യം identify ചെയ്യുക → tense decide ചെയ്യുക → answer choose ചെയ്യുക. \"Last year\" = Simple Past, 2 seconds!"
+    }
+  },
+  {
+    "id": "068-2025-M_q87",
+    "paperId": "068-2025-M",
+    "questionNumber": 87,
+    "topic": "Phrasal Verbs",
+    "questionText": "I _____ my new dress on my birthday.",
+    "optionA": "put up",
+    "optionB": "put off",
+    "optionC": "put up with",
+    "optionD": "put on",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) put on\n\n• \"Put on\" = \"wear ചെയ്യുക, ധരിക്കുക\" — clothes, shoes, glasses തുടങ്ങിയവ body-ൽ ഇടുന്നതിന് ഉപയോഗിക്കുന്ന phrasal verb.\n• \"I put on my new dress on my birthday\" — \"ഞാൻ എന്റെ birthday-ൽ എന്റെ പുതിയ dress ധരിച്ചു\" — perfect meaning match!\n• \"Dress\" = clothing → ധരിക്കുക concept → \"put on\" exact fit.\n• ⭐ PSC favourite phrasal verb — \"put\" family PSC-ൽ ഏറ്റവും frequently asked!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: PUT ON = wear / dress yourself (clothes, shoes, glasses ധരിക്കുക)\n• \"Put\" phrasal verb complete family:\n  - Put on = wear / increase (dress ധരിക്കുക / weight കൂടുക)\n  - Put off = postpone (delay ചെയ്യുക / നീട്ടിവെക്കുക)\n  - Put up = erect / accommodate (നിർമ്മിക്കുക / താമസിക്കാൻ allow ചെയ്യുക)\n  - Put up with = tolerate (സഹിക്കുക, tolerate ചെയ്യുക)\n  - Put out = extinguish (കെടുത്തുക)\n• ⭐ PSC ആവർത്തനം: Phrasal verbs ഓരോ paper-ലും 1-2 questions — \"put\" family most tested!\n• ഉദാഹരണ sentences:\n  1. She put on her shoes before leaving. (shoes ധരിച്ചു)\n  2. He put off the meeting to next week. (meeting postpone ചെയ്തു)\n  3. I can't put up with this noise. (noise സഹിക്കാൻ കഴിയുന്നില്ല)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) put up\n• 'Put up' = \"erect ചെയ്യുക / accommodate ചെയ്യുക\" — \"put up a tent\" (കൂടാരം കെട്ടുക) / \"put up a guest\" (ആതിഥ്യം നൽകുക).\n• Dress ധരിക്കുക = \"put up\" ഒരിക്കലും ആകില്ല — context match ആകില്ല.\n• 🪤 PSC Trap: \"put up\" ഏറ്റവും commonly heard ആണ്, students familiar ആയതിനാൽ select ചെയ്യും!\n\n❌ (B) put off\n• 'Put off' = \"postpone ചെയ്യുക, delay ചെയ്യുക\" — \"put off the meeting\" (meeting നീട്ടിവെക്കുക).\n• Dress ധരിക്കുന്നതിൽ postpone concept ഒട്ടും relevant ആകില്ല.\n• 🪤 PSC Trap: \"put off\" common usage ആണ്, students meaning ഓർക്കാതെ select ചെയ്യും!\n\n❌ (C) put up with\n• 'Put up with' = \"tolerate ചെയ്യുക, സഹിക്കുക\" — \"I can't put up with his rudeness\" (അദ്ദേഹത്തിന്റെ മോശം behaviour സഹിക്കാൻ കഴിയുന്നില്ല).\n• Dress-ൽ tolerate concept ഇല്ല — completely wrong context.\n• 🪤 PSC Trap: 3-word phrasal verb impressive-ആയി തോന്നും — meaning check ചെയ്യണം!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"PUT ON = PUT clothes ON your body!\" — Dress, shoes, glasses, coat — ഒക്കെ body-ൽ ON ആക്കുകയാണ്! \"PUT + ON = wear\" — ഈ image ഓർക്കുക: ദേഹത്ത് ON ചെയ്യുന്നത് = PUT ON!\n• PUT family: ON (wear) | OFF (postpone) | UP (erect/host) | UP WITH (tolerate) | OUT (extinguish) — 5 meanings, 5 different contexts!\n• PSC exam strategy: Phrasal verb questions-ൽ sentence context/meaning ആദ്യം understand ചെയ്യുക. \"New dress / birthday\" → wear → put on. Context = key!"
+    }
+  },
+  {
+    "id": "068-2025-M_q88",
+    "paperId": "068-2025-M",
+    "questionNumber": 88,
+    "topic": "Antonyms",
+    "questionText": "The antonym for 'amateur' is ______.",
+    "optionA": "professional",
+    "optionB": "strange",
+    "optionC": "indifferent",
+    "optionD": "honest",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) professional\n\n• 'Amateur' = \"ഒരു കാര്യം hobby ആയി ചെയ്യുന്ന ആൾ, trained അല്ലാത്ത, unpaid\" — professionally trained അല്ലാതെ passion-ൽ ചെയ്യുന്ന ആൾ.\n• 'Professional' = \"professionally trained, paid, expert\" — ഇത് 'amateur'-ന്റെ exact opposite!\n• \"Amateur photographer\" = hobby-ആയി photo എടുക്കുന്ന ആൾ → \"Professional photographer\" = paid expert.\n• Latin root: 'amator' = lover (one who loves/does for love) → antonym = one who does for pay/profession.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: AMATEUR (unpaid/untrained) ↔ PROFESSIONAL (paid/trained/expert)\n• 'Amateur' synonyms: novice, beginner, layperson, hobbyist — ഇവ ഒക്കെ 'professional' antonym ഉള്ളവ.\n• ⭐ PSC ആവർത്തനം: Antonyms topic ഓരോ PSC paper-ലും 1-2 questions guaranteed!\n• Word formation:\n  - amateur (noun/adj) → amateurish (adj) → amateurishly (adv)\n  - professional (noun/adj) → professionally (adv) → professionalism (noun)\n• Related antonym pairs:\n  - Amateur ↔ Professional\n  - Novice ↔ Expert\n  - Beginner ↔ Veteran\n• ഉദാഹരണ sentences:\n  1. He is an amateur boxer. (hobby-ആയി boxing ചെയ്യുന്നു)\n  2. She is a professional singer. (paid expert singer)\n  3. The amateur team lost to the professionals. (trained experts)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) strange\n• 'Strange' = \"അപരിചിതമായ, unusual, weird\" — unfamiliar or unexpected things describe ചെയ്യുന്നതിനാണ്.\n• 'Amateur'-ന്റെ antonym ഇതല്ല — completely different meanings.\n• 🪤 PSC Trap: Both are adjectives ആണ്, students \"different-sounding word\" ആണ് antonym ആണെന്ന് confuse ആകും!\n\n❌ (C) indifferent\n• 'Indifferent' = \"ഉദാസീനം, not caring, lacking interest\" — neither good nor bad, unconcerned.\n• 'Amateur' = passionate about something; 'indifferent' = unconcerned — ഇവ antonyms അല്ല.\n• 🪤 PSC Trap: \"amateur-ന്റെ opposite = indifferent (uncaring)\" ആണെന്ന് logic confuse ആകും!\n\n❌ (D) honest\n• 'Honest' = \"സത്യസന്ധൻ, truthful, not cheating\" — character trait describe ചെയ്യുന്നതിനാണ്.\n• Skill/expertise level-ഉം honesty-ഉം completely unrelated concepts — ഒരിക്കലും antonym ആകില്ല.\n• 🪤 PSC Trap: \"Professional people are honest\" → \"honest is the opposite\" — ഈ reasoning completely wrong!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"AMATEUR = LOVE, PROFESSIONAL = LIVE\" — Amateur does it for LOVE (hobby), Professional does it to LIVE (paid job)! Latin 'amator' = lover → does it for love, not money. Opposite = professional!\n• Word family: amateur, novice, beginner → professional, expert, veteran — ഈ two groups ഒരുമിച്ച് learn ചെയ്യുക.\n• PSC exam strategy: Antonym questions-ൽ ആദ്യം question word-ന്റെ exact meaning കണ്ടുപിടിക്കുക → opposite meaning choose ചെയ്യുക. Amateur = unpaid hobbyist → opposite = paid professional!"
+    }
+  },
+  {
+    "id": "068-2025-M_q89",
+    "paperId": "068-2025-M",
+    "questionNumber": 89,
+    "topic": "Words Often Confused",
+    "questionText": "He has been elected to the ______.",
+    "optionA": "counsel",
+    "optionB": "council",
+    "optionC": "counsell",
+    "optionD": "councill",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) council\n\n• 'Council' = \"ഒരു governing body / committee\" — municipal council, student council, UN Security Council ഇതുപോലെ ഒരു group of people who make decisions.\n• \"He has been elected to the council\" — \"അദ്ദേഹം council-ലേക്ക് elect ചെയ്യപ്പെട്ടു\" — ഒരു body of representatives-ലേക്ക് elect ചെയ്യപ്പെടുന്നത് describe ചെയ്യുന്നു.\n• Elections → governing body → 'council' — ഇതാണ് correct word.\n• ⭐ Council vs Counsel — PSC-ൽ ഏറ്റവും commonly asked \"words often confused\" pair!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: COUNCIL = Governing body (group) | COUNSEL = Advice / Lawyer\n• COUNCIL (noun only):\n  - Municipal Council (നഗരസഭ)\n  - Student Council (വിദ്യാർഥി സഭ)\n  - UN Security Council\n  - Panchayat Council\n• COUNSEL (noun + verb):\n  - Noun: advice, guidance / a lawyer (\"King's Counsel\")\n  - Verb: to advise someone (\"She counselled him to be patient\")\n• ⭐ PSC ആവർത്തനം: Words Often Confused pair PSC-ൽ ആവർത്തിക്കുന്നു!\n• ഉദാഹരണ sentences:\n  1. The council decided to build a new park. (governing body → council)\n  2. She sought counsel from her lawyer. (advice/lawyer → counsel)\n  3. He was elected to the district council. (elected body → council)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) counsel\n• 'Counsel' = \"ഉപദേശം, advice\" or \"lawyer\" — \"legal counsel\" (lawyer), \"counsel of wisdom\" (ഉപദേശം).\n• \"Elected to the counsel\" — ഒരാളെ ഉപദേശത്തിലേക്ക് elect ചെയ്യുക? Meaning ഇല്ല! Council ആണ് elected body.\n• 🪤 PSC Trap: council/counsel pronunciation ഒരേ പോലെ! Sound same, meaning different — classic PSC trap!\n\n❌ (C) counsell\n• 'Counsell' = misspelling — ഈ spelling English-ൽ exist ചെയ്യുന്നില്ല.\n• Correct spelling: counsel (ഒറ്റ 'l') — double 'l' wrong.\n• 🪤 PSC Trap: Unfamiliar spelling options confuse ചെയ്യും — correct spelling ഓർക്കുക: coun-sel (ഒറ്റ l).\n\n❌ (D) councill\n• 'Councill' = misspelling — ഈ spelling English-ൽ exist ചെയ്യുന്നില്ല.\n• Correct spelling: council (ഒറ്റ 'l') — double 'l' wrong.\n• 🪤 PSC Trap: Misspelled options ഉൾപ്പെടുത്തി confuse ചെയ്യുന്ന PSC strategy — always correct spelling memorize ചെയ്യുക!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"COUNCIL has CIL = Committee of Individuals for Legislation\" — Council = committee/group! COUNSEL = COUNSEL-lor gives advice. ഇനി ഒരു shortcut: COUNCIL → elect ചെയ്യാം (members) | COUNSEL → seek ചെയ്യാം (advice)!\n• Spelling tip: council / counsel — both end differently: council (ends in -cil) | counsel (ends in -sel). CIL = Committee of Important Leaders!\n• PSC exam strategy: Context check ചെയ്യുക — \"elected to\" / \"member of\" → council. \"legal\" / \"advice\" / \"lawyer\" → counsel. Context = answer!"
+    }
+  },
+  {
+    "id": "068-2025-M_q90",
+    "paperId": "068-2025-M",
+    "questionNumber": 90,
+    "topic": "Synonyms",
+    "questionText": "The synonym for 'amiable' is _____.",
+    "optionA": "lively",
+    "optionB": "vigilant",
+    "optionC": "influential",
+    "optionD": "friendly",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) friendly\n\n• 'Amiable' = \"സൗഹൃദമനോഭാവമുള്ള, pleasant and friendly\" — others-നൊടൊക്കെ warm ആയി interact ചെയ്യുന്ന ആൾ.\n• 'Friendly' = \"സൗഹൃദപൂർണ്ണം, warm and likeable\" — 'amiable'-ന്റെ closest synonym!\n• \"She has an amiable personality\" = \"She has a friendly personality\" — same meaning!\n• French root: 'amiable' comes from Latin 'amicabilis' (amicus = friend) → friendly, lovable.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: AMIABLE = FRIENDLY = warm, pleasant, easy to like\n• Synonyms of amiable: friendly, pleasant, likeable, affable, genial, warm, good-natured\n• ⭐ PSC ആവർത്തനം: Synonyms topic ഓരോ PSC paper-ലും 1-2 questions!\n• Etymology: Latin 'amicus' = friend → amiable (friendly) | amicable (peaceful/agreeable)\n• Antonym: amiable ↔ unfriendly, hostile, disagreeable\n• Word family:\n  - amiable (adj) → amiably (adv) → amiability (noun)\n  - Similar root words: amicable (friendly agreement), amity (friendship)\n• ഉദാഹരണ sentences:\n  1. The amiable host greeted everyone warmly. (friendly host)\n  2. She has a very amiable nature. (pleasant, likeable nature)\n  3. His amiable smile made everyone comfortable. (warm, friendly smile)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) lively\n• 'Lively' = \"ഉത്സാഹമുള്ള, energetic, full of life\" — active and enthusiastic describe ചെയ്യുന്നതിനാണ്.\n• Amiable = friendly; Lively = energetic — related positive traits ആണ്, synonyms അല്ല.\n• 🪤 PSC Trap: Both are positive personality traits → students confuse ചെയ്യും. Friendly ≠ Energetic!\n\n❌ (B) vigilant\n• 'Vigilant' = \"ജാഗ്രതയുള്ള, watchful, alert for danger\" — caution describe ചെയ്യുന്നതിനാണ്.\n• Amiable = friendly/pleasant; Vigilant = watchful/careful — completely different concepts.\n• 🪤 PSC Trap: Uncommon word → students meaning അറിയാതെ select ചെയ്യും. Vigilant = vigil (night watch) = watchful!\n\n❌ (C) influential\n• 'Influential' = \"സ്വാധീനം ഉള്ള, having power to affect others\" — power/impact describe ചെയ്യുന്നതിനാണ്.\n• Amiable = pleasant/friendly; Influential = powerful — completely different qualities.\n• 🪤 PSC Trap: Popular people are often both amiable AND influential → students confuse the two!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"AMIABLE = AMI = FRIEND in French!\" — 'Ami' means friend in French (Mon Ami = My Friend). So AMIABLE = FRIENDly! Root: Latin 'amicus' (friend) → amiable, amicable, amity — all FRIEND family!\n• Word family: amiable (friendly person) | amicable (friendly agreement/settlement) | amity (friendship between nations) — ഒരു root, 3 important words!\n• PSC exam strategy: Vocabulary questions-ൽ root/etymology hint use ചെയ്യുക. 'AMI' = friend → amiable = friendly. Root ഓർത്താൽ synonym automatic!"
+    }
   }
 ]
