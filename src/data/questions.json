@@ -6118,5 +6118,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) to swear falsely\n• 'To swear falsely' = perjury — ഇതിനു 'have the whip hand'-മായി യാതൊരു connection ഇല്ല.\n• 🪤 PSC Trap: 'Whip' = punishment → falsely swearing = punishment- യോഗ്യമായ act → students connect — pure distractor!\n\n❌ (C) to smell unpleasant\n• 'To smell unpleasant' — 'whip hand' idiom-ൽ smell-ന് relation ഇല്ല. Completely irrelevant meaning.\n• 🪤 PSC Trap: Random wrong meaning — students unsure → choose 'smell unpleasant' thinking 'whip' = animal → animal smell? Pure confusion trap!\n\n❌ (D) to a suspicion\n• 'To a suspicion' — grammatically incomplete and unrelated to 'whip hand' meaning.\n• 🪤 PSC Trap: Nonsensical option — if students don't know the idiom, they might guess between B and D. B is clearly a complete, meaningful phrase!",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"WHIP = DRIVER'S CONTROL!\" — Horse carriage-ൽ whip-ഉള്ള hand = control. Whip hand = controlling hand = CONTROL POSITION. 'Have the whip hand' = 'I hold the whip' = I'm in charge!\n• 'Hand' idiom family: UPPER hand (advantage) | WHIP hand (control) | FREE hand (freedom to act) | HEAVY hand (strict control) — all about power!\n• PSC idiom strategy: Idiom-ന്റെ origin/image think ചെയ്യുക. 'Whip' = control tool → 'have whip hand' = be in control position. Literal image → idiomatic meaning link ആക്കുക!"
     }
+  },
+  {
+    "id": "054-2025-M_q81",
+    "paperId": "054-2025-M",
+    "questionNumber": 81,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Identify the correct sentence :",
+    "optionA": "The bouquet of flowers smell good",
+    "optionB": "The bouquet of flowers smells good",
+    "optionC": "The bouquet of flowers are smelling good",
+    "optionD": "The bouquet of flowers were smelling good",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) The bouquet of flowers smells good\n\n• Subject = 'bouquet' (singular noun) — 'of flowers' = prepositional phrase, ignore ചെയ്യണം!\n• 'Bouquet' = singular → singular verb 'smells' correct.\n• \"The bouquet of flowers **smells** good\" — \"ഫൂലഗുച്ഛം നന്നായി മണക്കുന്നു.\"\n• 'Of flowers' = extra information — subject identify ചെയ്യുമ്പോൾ prepositional phrase-ൽ ഉള്ള noun subject അല്ല!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'The [singular noun] of [plural noun]' → SINGULAR verb always!\n• 'Of + plural noun' = prepositional phrase — verb is determined by the MAIN subject before 'of'.\n• Similar patterns:\n  - The bunch of keys **is** on the table. (bunch = singular → is)\n  - A box of chocolates **was** given. (box = singular → was)\n  - The team of players **is** ready. (team = singular → is)\n• ⭐ PSC ആവർത്തനം: 'Bouquet/bunch/box of...' SVA pattern PSC-ൽ ആവർത്തിക്കുന്നു!\n• ഉദാഹരണ sentences:\n  1. The bouquet of roses **smells** beautiful. (bouquet = singular)\n  2. A group of students **was** present. (group = singular)\n  3. The bunch of grapes **is** sweet. (bunch = singular)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) The bouquet of flowers smell good\n• 'Smell' = plural verb form — 'bouquet' singular-ന് 'smells' (with 's') വേണം.\n• 🪤 PSC Trap: 'Flowers' plural → 'smell' (no 's') plural → confuse ആകും. Subject = 'bouquet', not 'flowers'!\n\n❌ (C) The bouquet of flowers are smelling good\n• 'Are smelling' = plural continuous — 'bouquet' singular-ന് 'is smelling' ആകണം, 'are smelling' അല്ല.\n• 🪤 PSC Trap: 'Flowers' plural + 'are' plural → students naturally combine → subject = 'bouquet' singular!\n\n❌ (D) The bouquet of flowers were smelling good\n• 'Were smelling' = plural past continuous — 'bouquet' singular-ന് 'was smelling' ആകണം.\n• 🪤 PSC Trap: 'Were' = past tense, 'flowers' plural → confuse ആകും. Both tense AND number wrong here!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"OF = OFF!\" — 'of [plural noun]' = OFF from subject! Verb-ന് subject identify ചെയ്യാൻ 'of ...' ignore ചെയ്യുക. 'The bouquet (of flowers)' → bouquet = singular → smells!\n• Prepositional phrase bracket trick: [The bouquet] (of flowers) smells good — bracket the subject, parenthesise the 'of' phrase!\n• PSC exam strategy: Sentence-ൽ 'of' കണ്ടാൽ — 'of' phrase ignore ചെയ്ത് before subject find ചെയ്യുക → singular/plural check → verb agree ചെയ്യുക!"
+    }
+  },
+  {
+    "id": "054-2025-M_q82",
+    "paperId": "054-2025-M",
+    "questionNumber": 82,
+    "topic": "Articles",
+    "questionText": "Europeans conquered many parts of the world before ___________ First World War.",
+    "optionA": "The",
+    "optionB": "A",
+    "optionC": "An",
+    "optionD": "None of these",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) The\n\n• 'First World War' = specific historical event — specific, unique event-ന് 'the' definite article ഉപയോഗിക്കണം.\n• 'The First World War' = ലോകത്ത് ഒരേ ഒരു First World War — unique event → 'the' mandatory.\n• \"Europeans conquered many parts of the world before **the** First World War.\"\n• Rule: Ordinal numbers (First, Second, Third) + War/Battle/Event → always 'the' precedes it.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Unique/specific historical events → THE\n• 'The' ഉപയോഗിക്കുന്ന situations:\n  - Unique events: the First World War, the French Revolution\n  - Ordinal numbers with nouns: the first prize, the second time\n  - Superlatives: the best, the tallest\n  - Previously mentioned: I saw a dog. The dog was cute.\n• Historical events always take 'the':\n  the First World War / the Second World War / the Great Depression / the French Revolution\n• ⭐ PSC ആവർത്തനം: Articles with historical events — PSC-ൽ frequently asked!\n• ഉദാഹരണ sentences:\n  1. **The** Second World War ended in 1945. (unique historical event)\n  2. **The** French Revolution changed Europe. (specific event)\n  3. He won **the** first prize. (ordinal number)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) A\n• 'A' = indefinite article — one among many, non-specific. 'First World War' = one specific, unique event — 'a' cannot be used.\n• 'A First World War' = implies there could be many 'first world wars' — absurd!\n• 🪤 PSC Trap: 'First' starts with consonant sound 'F' → 'a First' sounds natural → but specific events need 'the', not 'a'!\n\n❌ (C) An\n• 'An' = indefinite article before vowel sounds — 'First' starts with consonant 'F' → 'an' wrong pronunciation-wise too.\n• Even ignoring sound rule, 'an' = non-specific → unique historical event cannot use 'an'.\n• 🪤 PSC Trap: Confusion between 'a' and 'an' rule makes students pick 'an' — but both wrong; specific events = 'the'!\n\n❌ (D) None of these\n• 'First World War' without any article is incorrect in standard English — 'the' is mandatory.\n• 🪤 PSC Trap: Students who are unsure between A/An/The may choose 'none' — but 'the' is required here!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"UNIQUE = THE!\" — World Wars are UNIQUE — there is only ONE First World War. Unique things = 'the'. The sun, the moon, the First World War — all unique = all 'the'!\n• Historical event 'the' family: the First World War / the Second World War / the Cold War / the Indian Independence Movement — always 'the'!\n• PSC exam strategy: Historical event + ordinal number (First/Second) → 'the' automatic. Sun, moon, earth → 'the'. Superlative (best/tallest) → 'the'. These 3 patterns cover 90% of PSC article questions!"
+    }
+  },
+  {
+    "id": "054-2025-M_q83",
+    "paperId": "054-2025-M",
+    "questionNumber": 83,
+    "topic": "Question Tags",
+    "questionText": "None of the boys have finished the homework, ___________?",
+    "optionA": "have they?",
+    "optionB": "haven't they?",
+    "optionC": "did they?",
+    "optionD": "didn't they?",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) have they?\n\n• 'None of the boys have finished' = negative statement ('none' = not one = negative meaning).\n• Negative statement → Positive question tag (have they? — positive form).\n• Auxiliary verb used = 'have' → tag-ൽ 'have' ഉപയോഗിക്കണം.\n• Subject pronoun: 'None of the boys' → 'they' (plural).\n• Tag = have + they? = **have they?** ✓",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Negative statement → Positive tag | Positive statement → Negative tag\n• Negative words: no, none, never, neither, nobody, nothing, hardly, scarcely — these make statement negative!\n• 'None' = not one = NEGATIVE → tag must be POSITIVE (have they?)\n• Tag construction: same auxiliary + pronoun (positive form)\n  - 'None ... have' (negative) → 'have they?' (positive tag) ✓\n• ⭐ PSC ആവർത്തനം: Negative word (none/never/neither) + question tag = PSC top pattern!\n• ഉദാഹരണ sentences:\n  1. Nobody came to the party, **did they?** (nobody = negative → did they = positive)\n  2. She never lies, **does she?** (never = negative → does she = positive)\n  3. None of them agreed, **did they?** (none = negative → did they = positive)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) haven't they?\n• 'Haven't they?' = negative tag — negative statement + negative tag = WRONG (double negative).\n• 'None ... have' = already negative → tag must flip to positive 'have they?', not stay negative 'haven't they?'.\n• 🪤 PSC Trap: Students see 'have' in statement → copy 'haven't' for tag (making it negative) → but must flip!\n\n❌ (C) did they?\n• 'Did they?' uses past tense auxiliary 'did' — statement uses 'have' (present perfect auxiliary).\n• Tag auxiliary must MATCH statement auxiliary: 'have' in statement → 'have' in tag, not 'did'.\n• 🪤 PSC Trap: 'Finished' = past action → students think 'did' → auxiliary must match the stated tense 'have'!\n\n❌ (D) didn't they?\n• 'Didn't they?' = past tense + negative tag — wrong auxiliary AND it creates double confusion.\n• Statement has 'have' (present perfect) — tag must use 'have', not 'did'.\n• 🪤 PSC Trap: 'Finished' = past + negative statement → 'didn't they?' seems right — but auxiliary = 'have', not 'did'!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"NONE = NEGATIVE → FLIP TO POSITIVE TAG!\" — 'None' = no one = negative. Negative statement → positive tag. 'None...have' → 'have they?' (positive). NONE is secretly negative — it flips the tag!\n• Negative word family: none / nobody / nothing / never / neither / hardly / scarcely → all make statement negative → all need POSITIVE tags!\n• PSC exam strategy: (1) Find negative word in statement (2) statement = negative → tag = positive (3) find auxiliary in statement (4) copy auxiliary in tag (positive form) + pronoun. None...HAVE → HAVE they? ✓"
+    }
+  },
+  {
+    "id": "054-2025-M_q84",
+    "paperId": "054-2025-M",
+    "questionNumber": 84,
+    "topic": "Conditionals",
+    "questionText": "If it rains tomorrow, we ___________ at home.",
+    "optionA": "stayed",
+    "optionB": "would stay",
+    "optionC": "will stay",
+    "optionD": "would have stayed",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) will stay\n\n• \"If it rains tomorrow\" — if clause-ൽ Simple Present ('rains') + 'tomorrow' = First Conditional!\n• First Conditional formula: If + Simple Present → will + base verb (V1).\n• \"If it rains tomorrow, we **will stay** at home.\"\n• Meaning: \"നാളെ മഴ പെയ്താൽ, നമ്മൾ വീട്ടിൽ ഇരിക്കും\" — real/possible future situation!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 All 3 Conditional Formulas:\n  Type 1 (Real Future): If + Simple Present → WILL + V1\n  Type 2 (Unreal Present): If + Simple Past → WOULD + V1\n  Type 3 (Unreal Past): If + Past Perfect → WOULD HAVE + V3\n• Key identifier here: 'rains' = Simple Present + 'tomorrow' = future plan → Type 1!\n• First Conditional = realistic possibility: It might actually rain tomorrow.\n• ⭐ PSC ആവർത്തനം: Conditional sentence fill-in-blank PSC-ൽ ഏറ്റവും frequent — all 3 types ഓർക്കണം!\n• ഉദാഹരണ sentences:\n  1. If she studies hard, she **will pass**. (Type 1 — realistic)\n  2. If I were rich, I **would travel**. (Type 2 — unreal present)\n  3. If he had come, we **would have met**. (Type 3 — unreal past)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) stayed\n• 'Stayed' = Simple Past — conditional result-ൽ Simple Past ഉപയോഗിക്കില്ല.\n• First Conditional result = 'will + V1', not Simple Past.\n• 🪤 PSC Trap: 'Rains' future → students think 'stayed' = past = wrong tense entirely!\n\n❌ (B) would stay\n• 'Would stay' = Second Conditional result — Second Conditional if-clause = Simple Past ('rained'), not Simple Present ('rains').\n• If clause = 'rains' (Simple Present) → must be First Conditional → 'will stay', not 'would stay'.\n• 🪤 PSC Trap: 'Would' sounds more polite/formal → students prefer 'would stay' — but 'rains' (present tense) = First Conditional = 'will'!\n\n❌ (D) would have stayed\n• 'Would have stayed' = Third Conditional result — needs 'had rained' (Past Perfect) in if-clause.\n• If clause = 'rains' (simple present) — Third Conditional അല്ല, First Conditional ആണ്.\n• 🪤 PSC Trap: 'Would have' sounds complete/final → confuse ആകും — if clause tense check ചെയ്യണം!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"RAINS → WILL!\" — Simple Present in if clause → WILL in result. Easy memory: 'Present if → Will result'. If today's tense (present) → future will happen. RAINS (present) → WILL STAY!\n• Conditional cheat sheet: Present → Will (Type 1) | Past → Would (Type 2) | Had+V3 → Would have (Type 3)\n• PSC exam strategy: If clause-ൽ tense identify ചെയ്യുക → Type determine ചെയ്യുക → result formula apply ചെയ്യുക. 'Rains' = Simple Present → Type 1 → 'will + V1' = 'will stay' ✓"
+    }
+  },
+  {
+    "id": "054-2025-M_q85",
+    "paperId": "054-2025-M",
+    "questionNumber": 85,
+    "topic": "Direct and Indirect Speech",
+    "questionText": "Alex said, \"I have finished my task\". Choose the correct conversation into Indirect Speech :",
+    "optionA": "Alex said that he has finished his task",
+    "optionB": "Alex said that I had finished my task",
+    "optionC": "Alex said that I have finished my task",
+    "optionD": "Alex said that he had finished his task",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) Alex said that he had finished his task\n\n• Direct: Alex said, \"I have finished my task.\"\n• Changes in indirect:\n  (1) 'said,' + 'that' → 'said that'\n  (2) 'I' → 'he' (third person, Alex is male)\n  (3) 'my' → 'his' (possessive pronoun change)\n  (4) 'have finished' (Present Perfect) → 'had finished' (Past Perfect) — tense backshift!\n• Correct: \"Alex said that **he had finished his** task.\" ✓",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Indirect Speech Checklist:\n  1. Reporting verb: 'said' stays 'said' (no asked — statement, not question)\n  2. Add 'that' after reporting verb\n  3. Pronoun change: I → he/she | my → his/her | we → they\n  4. Tense backshift: Present Perfect (have/has + V3) → Past Perfect (had + V3)\n• Full tense backshift table:\n  Simple Present → Simple Past\n  Present Perfect → Past Perfect ⭐\n  Simple Past → Past Perfect\n  will → would\n• ⭐ PSC ആവർത്തനം: Indirect speech — statement conversion — PSC-ൽ guaranteed!\n• ഉദാഹരണ sentences:\n  1. She said, 'I am tired.' → She said that **she was** tired.\n  2. He said, 'I have eaten.' → He said that **he had eaten**.\n  3. They said, 'We will come.' → They said that **they would come**.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Alex said that he has finished his task\n• 'Has finished' = Present Perfect — tense backshift ആകാതിരുന്നു! 'Have finished' → 'had finished' (Past Perfect) ആകണം.\n• Pronoun ('he') and possessive ('his') correct — only tense wrong.\n• 🪤 PSC Trap: Pronoun correct ആണ് → students satisfied ആകും — tense backshift miss ചെയ്യും!\n\n❌ (B) Alex said that I had finished my task\n• 'I' and 'my' = first person — Direct speech-ൽ Alex-ന്റേത് 'I'/'my', indirect-ൽ 'he'/'his' ആകണം.\n• Tense ('had finished') correct — but pronoun change missing!\n• 🪤 PSC Trap: Tense ശരിയാക്കി, pronoun change forget ചെയ്തു — half right = still wrong!\n\n❌ (C) Alex said that I have finished my task\n• Both wrong: (1) 'I'/'my' → should be 'he'/'his', (2) 'have finished' → should be 'had finished'.\n• No changes made to either pronoun or tense — this is basically the direct speech without the quote marks!\n• 🪤 PSC Trap: Students who don't know indirect rules may pick this — it looks like the original with 'that' added!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"SAID + THAT + HE/SHE + HAD!\" — Indirect statement formula: said + that + pronoun change + tense backshift. Alex 'I have' → Alex 'he had' — I→he, have→had, my→his!\n• 4-point checklist for indirect statements: (1) said → said that (2) I→he/she (3) my→his/her (4) has/have→had\n• PSC exam strategy: Indirect speech options-ൽ ആദ്യം pronoun check ചെയ്യുക (I/my = wrong), then tense check ചെയ്യുക (have = wrong, had = right). Options B,C wrong pronouns/tenses → D = correct!"
+    }
+  },
+  {
+    "id": "054-2025-M_q86",
+    "paperId": "054-2025-M",
+    "questionNumber": 86,
+    "topic": "Synonyms",
+    "questionText": "Which of the following words is the closest in meaning to \"delinquent\"?",
+    "optionA": "dutiful",
+    "optionB": "criminal",
+    "optionC": "innocent",
+    "optionD": "obedient",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) criminal\n\n• 'Delinquent' = someone (especially a young person) who commits crimes or fails in duty — 'കുറ്റകൃത്യം ചെയ്യുന്ന, ചുമതല നിർവ്വഹിക്കാൻ വിസമ്മതിക്കുന്ന.'\n• Closest meaning = 'criminal' — someone who commits offences.\n• 'Juvenile delinquent' = young criminal — PSC-ൽ ഈ term familiar ആകണം!\n• Etymology: Latin 'delinquere' (to fail in duty, offend) → English 'delinquent' = offender, criminal.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Delinquent ≈ Criminal / Offender / Wrongdoer\n• Word family:\n  - Delinquent (noun/adj) = a person who commits minor crimes; failing in duty\n  - Delinquency (noun) = the state of being delinquent; minor criminal behavior\n  - Juvenile delinquent = a young offender (young criminal)\n• Synonyms: criminal / offender / wrongdoer / culprit / miscreant\n• Antonyms: dutiful / obedient / law-abiding / innocent\n• ⭐ PSC ആവർത്തനം: 'Delinquent' PSC vocabulary — especially in social/legal context!\n• ഉദാഹരണ sentences:\n  1. The court dealt with juvenile delinquents separately. (young criminals)\n  2. His delinquent behaviour got him expelled. (criminal/problematic)\n  3. Delinquency rates rose during the crisis. (criminal activity)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) dutiful\n• 'Dutiful' = ചുമതലാബോധമുള്ള, responsible — OPPOSITE of delinquent (who fails duty)!\n• 🪤 PSC Trap: 'Delinquent' → 'duty' connection (de-linquent = failing duty) → students pick 'dutiful' — opposite meaning!\n\n❌ (C) innocent\n• 'Innocent' = കുറ്റമില്ലാത്ത, harmless — opposite of 'criminal/delinquent'.\n• 🪤 PSC Trap: 'Innocent' sounds like the opposite of criminal → students confuse question (asks for closest meaning, not antonym)!\n\n❌ (D) obedient\n• 'Obedient' = അനുസരണശീലമുള്ള — a delinquent is DISobedient, not obedient.\n• 🪤 PSC Trap: Options A, C, D are all ANTONYMS of delinquent — designed to confuse! Question asks for SYNONYM = B criminal!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"DELINQUENT = DELINQUENCY = CRIME!\" — News-ൽ 'juvenile delinquency' = young people's crime. Delinquent = young criminal. 'De-linquent' = de (away from) + linquent (duty) = running away from duty = criminal behavior!\n• Trap awareness: Options A (dutiful), C (innocent), D (obedient) = all ANTONYMS. PSC deliberately puts antonyms in options — question ആദ്യം clearly read ചെയ്യുക: 'closest in MEANING' = synonym, not opposite!\n• PSC vocabulary tip: -ent/-ency words: delinquent/delinquency, negligent/negligence, diligent/diligence — noun-adjective pairs learn ചെയ്യുക!"
+    }
+  },
+  {
+    "id": "054-2025-M_q87",
+    "paperId": "054-2025-M",
+    "questionNumber": 87,
+    "topic": "Antonyms",
+    "questionText": "Select the antonym of \"derelict\" :",
+    "optionA": "careless",
+    "optionB": "deserted",
+    "optionC": "attentive",
+    "optionD": "negligent",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) attentive\n\n• 'Derelict' = abandoned, neglected, failing in duty — 'ഉപേക്ഷിക്കപ്പെട്ട, ശ്രദ്ധ കൊടുക്കാതിരിക്കുന്ന.'\n• 'Attentive' = paying close attention, careful, dutiful — 'ശ്രദ്ധാലുവായ, ജാഗ്രതയുള്ള.'\n• Derelict = negligent/abandoned ↔ Attentive = careful/diligent — perfect antonyms!\n• \"A derelict building\" = abandoned | \"An attentive student\" = careful — opposite qualities!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Derelict (neglected/abandoned) ↔ Attentive (careful/watchful)\n• 'Derelict' meanings:\n  - Abandoned/deserted: a derelict building (ഉപേക്ഷിക്കപ്പെട്ട കെട്ടിടം)\n  - Negligent in duty: derelict in his duties (ചുമതല ഒഴിവാക്കി)\n• Synonyms of derelict: negligent / careless / abandoned / deserted / forsaken\n• Antonyms of derelict: attentive / careful / diligent / dutiful / conscientious\n• ⭐ PSC ആവർത്തനം: Advanced vocabulary antonyms — derelict/attentive PSC-ൽ appeared!\n• ഉദാഹരണ sentences:\n  1. The derelict factory was demolished. (abandoned)\n  2. He was derelict in performing his duties. (negligent)\n  3. The attentive nurse noticed the change immediately. (antonym — careful)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) careless\n• 'Careless' = ശ്രദ്ധയില്ലാത്ത — SYNONYM of derelict (both mean negligent/not careful).\n• Question asks for ANTONYM — careless = same side as derelict, not opposite!\n• 🪤 PSC Trap: Most common error — 'careless' seems correct because it's a familiar negative word, same as 'derelict'!\n\n❌ (B) deserted\n• 'Deserted' = ഉപേക്ഷിക്കപ്പെട്ട, empty — SYNONYM of 'derelict' (one meaning = abandoned).\n• Both derelict and deserted = abandoned — same meaning, not antonym!\n• 🪤 PSC Trap: 'Derelict building' = 'deserted building' — students know both mean abandoned → pick 'deserted' thinking it's different!\n\n❌ (D) negligent\n• 'Negligent' = അശ്രദ്ധമായ — SYNONYM of derelict (both mean failing in care/duty).\n• Negligent = careless in duty = exactly what derelict means → same meaning, not antonym!\n• 🪤 PSC Trap: Options A, B, D = all SYNONYMS of derelict! PSC put 3 synonyms as traps — only C (attentive) is the antonym!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"DERELICT BUILDING = NOBODY CARES!\" — Derelict = nobody pays attention. Antonym = somebody pays careful attention = ATTENTIVE! 'Derelict' = abandoned, no attention → 'Attentive' = full attention = exact opposite!\n• Trap alert: A (careless), B (deserted), D (negligent) = ALL synonyms. PSC loves putting 3 synonyms as traps! When question asks 'antonym' and 3 options seem similar/related to the word — the ODD one out = antonym!\n• PSC antonym strategy: Find the word's core meaning → find the OPPOSITE feeling/quality → that's the antonym. Derelict = neglected → opposite = attentive (cared for)!"
+    }
+  },
+  {
+    "id": "054-2025-M_q88",
+    "paperId": "054-2025-M",
+    "questionNumber": 88,
+    "topic": "Phrasal Verbs",
+    "questionText": "The teacher asked the students to ___________ their assignment before submitting it.",
+    "optionA": "look over",
+    "optionB": "turn down",
+    "optionC": "set off",
+    "optionD": "look down",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) look over\n\n• 'Look over' = to examine or review carefully — 'ശ്രദ്ധാപൂർവ്വം പരിശോധിക്കുക, review ചെയ്യുക.'\n• \"Teacher asked students to look over their assignment\" = \"submit ചെയ്യുന്നതിന് മുന്നേ assignment ഒരു തവണ review ചെയ്യാൻ.\"\n• Context: before submitting = checking/reviewing = 'look over' perfect fit!\n• 'Look over' = inspect/review — teacher wanting students to review = 'look over' ✓",
+      "rule": "📌 വ്യാകരണ നിയמം\n\n• 🔑 Quick Formula: Look over = Review / Examine / Check through\n• 'LOOK' phrasal verb family:\n  - Look over = review/examine carefully\n  - Look after = take care of (Look after the baby)\n  - Look up = search for information (Look up a word)\n  - Look into = investigate (Look into the matter)\n  - Look down on = consider inferior (Don't look down on others)\n  - Look forward to = anticipate with pleasure (Looking forward to the trip)\n  - Look out = be careful (Look out for cars!)\n• ⭐ PSC ആവർത്തനം: 'Look' phrasal verbs PSC-ൽ frequently tested!\n• ഉദാഹരണ sentences:\n  1. Please look over my report before sending. (review)\n  2. The doctor looked over the patient carefully. (examined)\n  3. Look over your answers before submitting. (check/review)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) turn down\n• 'Turn down' = refuse / reject OR reduce volume — \"She turned down the job offer.\"\n• Context: teacher wants students to CHECK the assignment, not REJECT it!\n• 🪤 PSC Trap: 'Turn down' = common phrasal verb → students know it → but meaning = reject, not review!\n\n❌ (C) set off\n• 'Set off' = to start a journey OR to trigger/cause — \"We set off at 6 AM.\"\n• Nothing to do with reviewing an assignment — completely wrong context.\n• 🪤 PSC Trap: 'Set off' = familiar phrasal verb → students pick familiar over correct!\n\n❌ (D) look down\n• 'Look down' alone = physically look downward OR (with 'on') = consider someone inferior.\n• 'Look down their assignment' = nonsensical — 'look over' = review, not 'look down'!\n• 🪤 PSC Trap: 'Look down' vs 'look over' — same 'look' base → confuse ആകും — but 'over' = going through = review, 'down' = inferior!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"LOOK OVER = OVERLOOK ERRORS!\" — 'Look over' an assignment = look for errors to fix before submitting. You 'look OVER' the whole thing from top to bottom = review/inspect!\n• LOOK family flashcard: OVER (review) | AFTER (care) | UP (search) | INTO (investigate) | DOWN ON (despise) | FORWARD TO (anticipate) — 6 meanings for PSC!\n• PSC exam strategy: Context = 'before submitting assignment' = review/check action needed. 'Look over' = review = A. Turn down (reject), set off (journey), look down (inferior) — all wrong context!"
+    }
+  },
+  {
+    "id": "054-2025-M_q89",
+    "paperId": "054-2025-M",
+    "questionNumber": 89,
+    "topic": "One Word Substitutes",
+    "questionText": "A handwriting that cannot be read:",
+    "optionA": "indelible",
+    "optionB": "illegible",
+    "optionC": "illogical",
+    "optionD": "inaudible",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) illegible\n\n• 'Illegible' = handwriting/text that cannot be read — 'വായിക്കാൻ കഴിയാത്ത കൈയ്യക്ഷരം.'\n• 'A handwriting that cannot be read' = illegible — exact one-word substitute!\n• Etymology: 'il-' (not) + 'legible' (readable, from Latin 'legere' = to read) = not readable.\n• \"His handwriting is illegible\" = \"അവന്റെ കൈയ്യക്ഷരം വായിക്കാൻ കഴിയില്ല.\"",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Illegible = Cannot be read (handwriting)\n• 'il-' prefix = not (used before words starting with 'l'):\n  - il + legible = illegible (cannot be read)\n  - il + logical = illogical (not logical)\n  - il + legal = illegal (not legal)\n  - il + literate = illiterate (cannot read/write)\n• All 4 options compared:\n  - Indelible = cannot be erased (indelible ink = permanent ink)\n  - Illegible = cannot be read ✓ (answer)\n  - Illogical = not logical/reasonable\n  - Inaudible = cannot be heard\n• ⭐ PSC ആവർത്തനം: One-word substitute + negative prefix questions PSC-ൽ popular!\n• ഉദാഹരണ sentences:\n  1. The doctor's handwriting is illegible. (cannot be read)\n  2. Indelible ink cannot be washed off. (cannot be erased)\n  3. The whisper was inaudible in the crowd. (cannot be heard)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) indelible\n• 'Indelible' = cannot be erased or removed — 'മായ്ക്കാൻ കഴിയാത്ത' (indelible ink = permanent).\n• Indelible ≠ unreadable — erasing and reading are different things!\n• 🪤 PSC Trap: Both 'indelible' and 'illegible' start with 'i' and relate to writing — students confuse indelible (erase) with illegible (read)!\n\n❌ (C) illogical\n• 'Illogical' = not logical, without reason — 'യുക്തിരഹിതമായ.'\n• Handwriting that cannot be read is not 'illogical' — illogical = about reasoning, not readability.\n• 🪤 PSC Trap: 'il-' prefix same as 'illegible' → confuse ആകും — but illogical = reasoning, illegible = reading!\n\n❌ (D) inaudible\n• 'Inaudible' = cannot be heard — 'കേൾക്കാൻ കഴിയാത്ത' (inaudible sound).\n• Handwriting → cannot be READ, not heard — 'inaudible' = hearing, 'illegible' = reading!\n• 🪤 PSC Trap: 'In-' prefix + 'not+ability' pattern → confuse ആകും — each word relates to different sense!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"LEGIBLE = LEG + IBLE = CAN WALK THROUGH (READ)!\" More seriously: 'legi-' = read (Latin). il+legible = not readable = ILLEGIBLE. il+legal = not legal = illegal. Same 'il-' trick!\n• Sense family: indelible (erase/remove) | illegible (read) | inaudible (hear) | invisible (see) — one word = one sense!\n• PSC one-word substitute strategy: Definition keyword = 'cannot be **read**' → find word with 'leg/legib' root (= reading) → illegible. Match the keyword to the root of the word!"
+    }
+  },
+  {
+    "id": "054-2025-M_q90",
+    "paperId": "054-2025-M",
+    "questionNumber": 90,
+    "topic": "Idioms",
+    "questionText": "The idiom \"on cloud nine\" means:",
+    "optionA": "completely indifferent",
+    "optionB": "slightly joyful and content",
+    "optionC": "feeling confused or lost",
+    "optionD": "extremely happy or elated",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) extremely happy or elated\n\n• 'On cloud nine' = extremely happy, overjoyed — 'ആനന്ദത്തിന്റെ കൊടുമുടിയിൽ, അതിസന്തോഷത്തിൽ.'\n• \"She was on cloud nine after hearing the good news\" = \"സന്തോഷ വാർത്ത കേട്ടപ്പോൾ അവൾ അതിസന്തോഷത്തിലായിരുന്നു.\"\n• Origin: Cloud nine = highest cloud level = top of happiness. 9th cloud = highest = maximum happiness!\n• 'Elated' = extremely happy — perfect synonym for 'on cloud nine'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: On cloud nine = Extremely happy / Overjoyed / Elated\n• Related happiness idioms (PSC family):\n  - On cloud nine = extremely happy ⭐\n  - Over the moon = very happy/excited\n  - On top of the world = feeling wonderful\n  - Walking on air = feeling extremely happy\n  - In seventh heaven = in a state of extreme happiness\n• ⭐ PSC ആവർത്തനം: Happiness idioms PSC-ൽ frequently asked — 'cloud nine' highest frequency!\n• ഉദാഹരണ sentences:\n  1. She was on cloud nine after her promotion. (extremely happy)\n  2. The couple was on cloud nine on their wedding day. (overjoyed)\n  3. When he got the job, he was on cloud nine! (elated)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) completely indifferent\n• 'Indifferent' = no feeling, uncaring — opposite of 'on cloud nine' (maximum happiness)!\n• 🪤 PSC Trap: 'Cloud nine' = high up = far away → students think 'indifferent/detached' = far from earth → wrong!\n\n❌ (B) slightly joyful and content\n• 'Slightly joyful' = mild happiness — 'on cloud nine' = EXTREME happiness, not mild!\n• 'Cloud nine' = highest level of happiness — 'slightly joyful' is too mild an interpretation.\n• 🪤 PSC Trap: Joy is present in both → students pick 'slightly joyful' thinking it's about joy → 'cloud nine' = EXTREME joy!\n\n❌ (C) feeling confused or lost\n• 'Confused/lost' = negative feelings — 'on cloud nine' = positive extreme happiness.\n• 'In the clouds' = confused/lost (a different idiom!). 'On cloud nine' ≠ 'in the clouds'!\n• 🪤 PSC Trap: 'Cloud' = up in the air = confused/dreamy → confuse ആകും — 'in the clouds' (confused) vs 'on cloud nine' (happy)!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"NINE = HIGHEST!\" — Cloud 9 = the topmost cloud level = TOP of happiness scale! When you're at the PEAK of joy = you're on cloud nine. 9 = maximum score = maximum happiness!\n• Confusion trap: 'In the clouds' (confused/dreamy) ≠ 'On cloud nine' (extremely happy) — two different idioms! 'IN the clouds' vs 'ON cloud NINE' — number 9 = NINE = extreme happiness signal!\n• PSC happiness idiom family: cloud nine / over the moon / on top of the world / seventh heaven / walking on air — all = extreme happiness. Learn the whole family!"
+    }
   }
 ]
