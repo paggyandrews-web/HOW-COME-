@@ -5758,5 +5758,95 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) lively\n• 'Lively' = \"ഉത്സാഹമുള്ള, energetic, full of life\" — active and enthusiastic describe ചെയ്യുന്നതിനാണ്.\n• Amiable = friendly; Lively = energetic — related positive traits ആണ്, synonyms അല്ല.\n• 🪤 PSC Trap: Both are positive personality traits → students confuse ചെയ്യും. Friendly ≠ Energetic!\n\n❌ (B) vigilant\n• 'Vigilant' = \"ജാഗ്രതയുള്ള, watchful, alert for danger\" — caution describe ചെയ്യുന്നതിനാണ്.\n• Amiable = friendly/pleasant; Vigilant = watchful/careful — completely different concepts.\n• 🪤 PSC Trap: Uncommon word → students meaning അറിയാതെ select ചെയ്യും. Vigilant = vigil (night watch) = watchful!\n\n❌ (C) influential\n• 'Influential' = \"സ്വാധീനം ഉള്ള, having power to affect others\" — power/impact describe ചെയ്യുന്നതിനാണ്.\n• Amiable = pleasant/friendly; Influential = powerful — completely different qualities.\n• 🪤 PSC Trap: Popular people are often both amiable AND influential → students confuse the two!",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"AMIABLE = AMI = FRIEND in French!\" — 'Ami' means friend in French (Mon Ami = My Friend). So AMIABLE = FRIENDly! Root: Latin 'amicus' (friend) → amiable, amicable, amity — all FRIEND family!\n• Word family: amiable (friendly person) | amicable (friendly agreement/settlement) | amity (friendship between nations) — ഒരു root, 3 important words!\n• PSC exam strategy: Vocabulary questions-ൽ root/etymology hint use ചെയ്യുക. 'AMI' = friend → amiable = friendly. Root ഓർത്താൽ synonym automatic!"
     }
+  },
+  {
+    "id": "060-2025-M_q61",
+    "paperId": "060-2025-M",
+    "questionNumber": 61,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Identify the error in the following sentence.\nOne of the girls are from mumbai.",
+    "optionA": "girls",
+    "optionB": "are",
+    "optionC": "the",
+    "optionD": "from",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) are\n\n• ഈ sentence-ൽ error ആയ word 'are' ആണ് — 'is' ആകണം.\n• \"One of the girls\" — ഇതിൽ subject 'One' ആണ്, 'girls' അല്ല. 'One' = singular → singular verb 'is' വേണം.\n• \"Of the girls\" = prepositional phrase ആണ് — ഇത് subject-ൽ include ആകില്ല.\n• Correct sentence: \"One of the girls **is** from Mumbai.\" — \"Girls-ൽ ഒരാൾ Mumbai-ൽ നിന്നാണ്\" — ഒരു person, singular!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: \"One of the + plural noun\" → SINGULAR verb (is/was/has) — always!\n• Subject-Verb Agreement: Verb always agrees with TRUE subject, not the nearest noun.\n• \"Of the girls\" = prepositional phrase — ignore when finding subject. Subject = 'One' (singular).\n• ⭐ PSC ആവർത്തനം: \"One of the...\" pattern PSC-ൽ ഓരോ exam-ലും guaranteed — highest frequency pattern!\n• Similar singular patterns:\n  - Each of the students IS present.\n  - Every one of them HAS a book.\n  - None of the water IS clean.\n• ഉദാഹരണ sentences:\n  1. One of the teachers **is** absent. (One = singular → is)\n  2. Each of the boys **has** a pen. (Each = singular → has)\n  3. One of my friends **is** a doctor. (One = singular → is)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) girls\n• 'Girls' = correct plural noun — sentence-ൽ 'girls' ശരിയായ word ആണ്, error അല്ല.\n• \"One of the girls\" — 'girls' plural ആണ്, ഇത് prepositional phrase-ൽ correct ആണ്.\n• 🪤 PSC Trap: 'girls' plural ആണ് → 'are' ആണ് correct ആണെന്ന് confuse ആകും — subject 'One' ആണ്!\n\n❌ (C) the\n• 'The' = definite article — sentence-ൽ 'the' ശരിയായ article ആണ്, error ഇല്ല.\n• \"One of **the** girls\" — specific girls refer ചെയ്യുന്നതിന് 'the' correct ആണ്.\n• 🪤 PSC Trap: article errors PSC-ൽ ചോദിക്കാറുണ്ട്, students 'the' suspect ചെയ്യും — ഇവിടെ 'the' correct!\n\n❌ (D) from\n• 'From' = correct preposition — \"from Mumbai\" correct usage ആണ്.\n• 'From' origin/place indicate ചെയ്യുന്നതിനാണ്, ഇവിടെ perfect fit.\n• 🪤 PSC Trap: preposition errors confuse ചെയ്യാൻ 'from' option ഉൾപ്പെടുത്തിയിരിക്കുന്നു — 'from' correct, 'are' error!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ONE is always ONE!\" — 'One of the...' കണ്ടാൽ ഉടനെ SINGULAR verb! ഒരു person = 'is'. Many girls, but ONE of them — that ONE is singular!\n• Error identification strategy: Subject find ചെയ്യുക → verb agree ചെയ്യുന്നോ check ചെയ്യുക → mismatch = error.\n• PSC exam strategy: Sentence correction/error questions-ൽ ആദ്യം subject identify ചെയ്യുക. \"One of the...\" pattern = automatic singular verb. 'are' കണ്ടാൽ ഉടനെ suspect ചെയ്യുക!"
+    }
+  },
+  {
+    "id": "060-2025-M_q62",
+    "paperId": "060-2025-M",
+    "questionNumber": 62,
+    "topic": "Question Tags",
+    "questionText": "Complete the sentence using the appropriate tag.\ndon't come in front of me, ______ ?",
+    "optionA": "Can you",
+    "optionB": "Shall you",
+    "optionC": "Would you",
+    "optionD": "Will you",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) Will you\n\n• \"Don't come in front of me\" — ഇത് negative imperative sentence ആണ് (command/order).\n• Imperative sentences-ൽ (commands/requests) question tag ആയി \"will you?\" ഉപയോഗിക്കുന്നു.\n• Negative imperative (Don't...) → tag = \"will you?\"\n• \"Don't come in front of me, will you?\" — \"എന്റെ മുന്നിൽ വരരുത്, ശരിയോ?\" — polite insistence express ചെയ്യുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Imperative (command/request) → tag = \"will you?\"\n• Imperative tag rules:\n  - Positive imperative: \"Come here, will you?\" / \"won't you?\" (stronger)\n  - Negative imperative: \"Don't do that, will you?\"\n  - Let's (suggestion): \"Let's go, shall we?\"\n• ⭐ PSC ആവർത്തനം: Imperative question tags PSC-ൽ frequently asked — special case, separately memorize!\n• ഉദാഹരണ sentences:\n  1. Open the door, will you? (positive imperative → will you?)\n  2. Don't be late, will you? (negative imperative → will you?)\n  3. Let's watch a movie, shall we? (let's → shall we?)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Can you\n• 'Can you' = ability question — \"Can you swim?\" ഇതുപോലെ ability/permission ask ചെയ്യുന്നതിനാണ്.\n• Imperative sentence-ൽ 'can you' tag ആകില്ല — formal request-ലല്ലാതെ ഇത് question tag ആയി ഉപയോഗിക്കില്ല.\n• 🪤 PSC Trap: \"can you come?\" natural-ആയി തോന്നും — imperative tag = will you, not can you!\n\n❌ (B) Shall you\n• 'Shall you' = incorrect English — \"shall\" second person-നൊപ്പം ഉപയോഗിക്കില്ല.\n• 'Shall' → \"shall we\" (Let's suggestions), \"shall I\" (offers) — ഇവ ഉണ്ട്, പക്ഷേ \"shall you\" ഇല്ല.\n• 🪤 PSC Trap: \"Let's go, shall we?\" familiar ആണ്, students \"shall\" ആണ് tag ആണെന്ന് confuse ആകും!\n\n❌ (C) Would you\n• 'Would you' = polite request form — \"Would you like some tea?\" ഇതുപോലെ.\n• Imperative question tag ആയി 'would you' ഉപയോഗിക്കില്ല — standard imperative tag = will you.\n• 🪤 PSC Trap: 'would' polite-ആണ്, 'don't come' polite request-ആണ് → 'would you' ആണ് correct ആണെന്ന് confuse ആകും!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"COMMANDS = WILL YOU?\" — Imperative (command/don't do) → always \"will you?\" tag! Will = willing to comply. \"Don't do this, will you?\" = \"Please be willing not to do this!\"\n• Imperative tag family: Come here, will you? | Don't shout, will you? | Let's go, shall we? — 3 patterns ഓർക്കുക!\n• PSC exam strategy: Command sentence (verb with/without 'don't') → \"will you?\" automatic. \"Let's\" → \"shall we?\" automatic. 2 patterns = covers 99% PSC questions!"
+    }
+  },
+  {
+    "id": "060-2025-M_q63",
+    "paperId": "060-2025-M",
+    "questionNumber": 63,
+    "topic": "Infinitive and Gerunds",
+    "questionText": "Identify the type of the verb in italics in the following sentence.\nyou let her __go__",
+    "optionA": "Bare infinitive",
+    "optionB": "Gerund",
+    "optionC": "To infinitive",
+    "optionD": "Present participle",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Bare infinitive\n\n• \"You let her **go**\" — ഇവിടെ 'go' = Bare infinitive (to-ഇല്ലാത്ത infinitive).\n• 'Let' = causative verb — causative verb-ന് ശേഷം object + bare infinitive (without 'to') വരുന്നു.\n• \"Let her go\" = \"അവളെ പോകാൻ allow ചെയ്യുക\" — 'to go' ആകില്ല, 'go' (bare) ആണ്.\n• Causative verbs: let, make, have + object + bare infinitive — ഇത് fixed rule ആണ്!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: let/make/have + object + BARE infinitive (no 'to'!)\n• Bare infinitive = verb-ന്റെ base form, 'to' ഇല്ലാതെ\n• To infinitive = to + base form (to go, to eat)\n• Causative verbs that take bare infinitive:\n  - Let + object + V1: Let him speak.\n  - Make + object + V1: She made him cry.\n  - Have + object + V1: He had the mechanic fix it.\n• Modal verbs ഉള്ളിടത്തും bare infinitive: can go, will come, must stay\n• ⭐ PSC ആവർത്തനം: Bare infinitive vs To infinitive distinction PSC-ൽ ആവർത്തിക്കുന്നു!\n• ഉദാഹരണ sentences:\n  1. Let me **go**. (let + object + bare infinitive)\n  2. She made him **cry**. (make + object + bare infinitive)\n  3. I want **to go**. (want + to infinitive — different!)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) Gerund\n• Gerund = verb + ing form used as a noun — \"Swimming is fun\", \"I enjoy reading\"\n• 'Go' ഇവിടെ '-ing' form അല്ല, verb base form ആണ് — gerund ആകില്ല.\n• 🪤 PSC Trap: 'go' after object ആയതുകൊണ്ട് gerund ആണോ എന്ന് confuse ആകും — ing-form ഇല്ലെങ്കിൽ gerund ഇല്ല!\n\n❌ (C) To infinitive\n• To infinitive = 'to' + base form — \"to go\", \"to eat\", \"to speak\"\n• ഇവിടെ 'to' ഇല്ല — \"let her **go**\" (bare), \"let her **to go**\" (wrong!).\n• 🪤 PSC Trap: go = infinitive ആണ് correct ആണ്, പക്ഷേ 'to' ഉണ്ടോ ഇല്ലയോ — 'to' ഇല്ല = bare infinitive!\n\n❌ (D) Present participle\n• Present participle = verb + ing — going, eating, speaking\n• 'Go' = base form, '-ing' form അല്ല → present participle ആകില്ല.\n• 🪤 PSC Trap: \"going\" vs \"go\" — '-ing' form ആണ് present participle, base form ആണ് bare infinitive!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"LET GO!\" — 'Let' കണ്ടാൽ ഉടനെ 'go' (bare infinitive)! 'Let him go' — 'to' ഇടരുത്! \"Let BARE go — no TO needed!\" Causative let/make/have = always bare infinitive.\n• Comparison: BARE = naked (no 'to') | TO infinitive = dressed (with 'to') | GERUND = -ing party!\n• PSC exam strategy: Causative verb (let/make/have) + object + V1 = bare infinitive. Modal + V1 = bare infinitive. 'To' ഉണ്ടോ ഇല്ലയോ check ചെയ്യുക → answer decide ചെയ്യുക!"
+    }
+  },
+  {
+    "id": "060-2025-M_q64",
+    "paperId": "060-2025-M",
+    "questionNumber": 64,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Correct the following sentence by choosing the right option.\nNeither the Principal nor the teachers is going for the tour.",
+    "optionA": "Will going",
+    "optionB": "Goes",
+    "optionC": "Are going",
+    "optionD": "Has gone",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Are going\n\n• \"Neither the Principal **nor** the teachers\" — ഇത് 'neither...nor' correlative conjunction ആണ്.\n• 'Neither...nor' rule: verb agrees with the subject NEAREST to it (the last subject).\n• Last subject = \"the teachers\" = plural → plural verb \"are going\" വേണം.\n• Correct sentence: \"Neither the Principal nor the teachers **are going** for the tour.\" ✓\n• \"Principal-ഉം teachers-ഉം tour-നു പോകുന്നില്ല\" — plural subject + plural verb!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Neither...nor / Either...or → verb agrees with NEAREST (last) subject!\n• This is called the PROXIMITY RULE — verb hugs the nearest subject.\n• Pattern examples:\n  - Neither Ram nor **his friends** ARE coming. (friends = plural → are)\n  - Either the students or **the teacher** IS present. (teacher = singular → is)\n  - Neither **she** nor I AM ready. (I = special → am)\n• ⭐ PSC ആവർത്തനം: Neither...nor / Either...or agreement PSC-ൽ ആവർത്തിക്കുന്നു — Proximity Rule ഓർക്കുക!\n• ഉദാഹരണ sentences:\n  1. Neither the manager nor the staff **are** happy. (staff = plural → are)\n  2. Either she or **he** **is** responsible. (he = singular → is)\n  3. Neither John nor **his parents** **are** here. (parents = plural → are)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Will going\n• 'Will going' = grammatically incorrect form — 'will' modal-ന് ശേഷം base verb വേണം, '-ing' form അല്ല.\n• Correct: 'will go' (not 'will going') — modal + base verb rule.\n• 🪤 PSC Trap: Progressive form confuse ആക്കി 'will going' ഉൾപ്പെടുത്തിയിരിക്കുന്നു — modal verb-ന് ശേഷം -ing form ഇല്ല!\n\n❌ (B) Goes\n• 'Goes' = Simple Present singular — \"She goes to school\" ഇതുപോലെ.\n• Nearest subject 'teachers' = plural → singular 'goes' match ആകില്ല.\n• 🪤 PSC Trap: 'Principal' singular ആണ്, students 'goes' select ചെയ്യും — nearest subject 'teachers' (plural) ആണ் verb control ചെയ്യുന്നത്!\n\n❌ (D) Has gone\n• 'Has gone' = Present Perfect singular — 'teachers' plural-ന് 'have gone' ആകണം, 'has gone' അല്ല.\n• Perfect tense ഇവിടെ context-ൽ fit ആകില്ല — \"going for tour\" = ongoing plan, not completed action.\n• 🪤 PSC Trap: 'Has gone' complete-ആയി തോന്നും — context + number both check ചെയ്യണം!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"NOR/OR = NEAREST NEIGHBOR!\" — neither...nor / either...or-ൽ verb nearest subject-നോടൊപ്പം ചേരുന്നു. Verb = nearest subject-ന്റെ neighbour! Last subject = verb's best friend!\n• Proximity Rule: Neither A nor **B** → B controls verb | Either A or **B** → B controls verb\n• PSC exam strategy: Neither...nor / Either...or sentence കണ്ടാൽ last subject-ന്റെ number check ചെയ്യുക → verb agree ചെയ്യിക്കുക. Last subject plural → plural verb. 5 second rule!"
+    }
+  },
+  {
+    "id": "060-2025-M_q65",
+    "paperId": "060-2025-M",
+    "questionNumber": 65,
+    "topic": "Types of Sentences",
+    "questionText": "Seeing a snake in the garden lalu screamed for help. This sentence may be transformed as",
+    "optionA": "lalu saw a snake in the garden when he screamed for help",
+    "optionB": "He screamed for help and saw a snake",
+    "optionC": "lalu was screaming for help when seeing a snake in the garden",
+    "optionD": "When he saw a snake in the garden lalu screamed for help",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) When he saw a snake in the garden lalu screamed for help\n\n• \"Seeing a snake in the garden\" = participial phrase — ഇതിന്റെ meaning \"when he saw a snake in the garden\" ആണ്.\n• Participial phrase (Seeing...) = time/cause relationship → transformation-ൽ 'when' + subject + past tense ആകണം.\n• Original: Seeing (=when he saw) → Transformed: \"When he saw a snake in the garden\"\n• Meaning, tense, logical sequence ഒക്കെ correctly preserved ആണ് option D-ൽ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Participial phrase (V+ing at start) → transform to 'When + subject + past tense'\n• Participial phrase = shortened clause — full form-ൽ subject + verb expand ചെയ്യണം.\n• Sequence: Seeing (cause) → screamed (effect) — cause came first, then effect.\n• Transformation rules:\n  - Present participle opening (Seeing/Walking/Hearing) → When + subject + Simple Past\n  - Having + V3 opening → After + subject + had + V3\n• ⭐ PSC ആവർത്തനം: Sentence transformation — participial phrase to clause — PSC-ൽ asked!\n• ഉദാഹരണ sentences:\n  1. Hearing the news, she cried. → When she heard the news, she cried.\n  2. Seeing the teacher, students stood up. → When they saw the teacher, students stood up.\n  3. Walking fast, he missed the bus. → When he walked fast, he missed the bus.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) lalu saw a snake in the garden when he screamed for help\n• ഈ option-ൽ 'when' clause reversed ആണ് — saw + when screamed. Original-ൽ seeing first, then screaming.\n• Original sequence: saw snake → then screamed. Option A implies: screamed while saw — illogical!\n• 🪤 PSC Trap: Same words ഉണ്ട്, order reversed — meaning change ആകുന്നു. Sequence check ചെയ്യണം!\n\n❌ (B) He screamed for help and saw a snake\n• 'And' = coordinate conjunction — both actions equal/simultaneous describe ചെയ്യുന്നു.\n• Original-ൽ snake seeing = CAUSE, screaming = EFFECT — 'and' ഈ cause-effect relationship express ചെയ്യില്ല.\n• 🪤 PSC Trap: Simple sentence ആണ്, easy-ആണ് → students select ചെയ്യും — logical relationship missing!\n\n❌ (C) lalu was screaming for help when seeing a snake in the garden\n• 'When seeing' = grammatically incorrect — 'when' + ing form standard English-ൽ ഉപയോഗിക്കില്ല.\n• Correct: 'when he **saw**' (past tense), not 'when seeing' (participial after when = wrong).\n• 🪤 PSC Trap: '-ing' form original-ൽ ഉണ്ടതുകൊണ്ട് preserve ചെയ്യണം എന്ന് confuse ആകും!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"SEEING = WHEN HE SAW\" — Participial phrase (V+ing) expand ചെയ്യാൻ: V+ing → When + subject + past tense. Seeing → when he saw | Hearing → when he heard | Walking → when he walked!\n• Transformation checklist: (1) Meaning same ✓ (2) Sequence correct ✓ (3) Grammar correct ✓ — ഒക്കെ pass ചെയ്ത option = answer.\n• PSC exam strategy: Sentence transformation questions-ൽ ആദ്യം original sentence meaning understand ചെയ്യുക. Cause-effect sequence identify ചെയ്യുക. 'Seeing/Hearing/Walking' at start → 'When + subject + V2' transformation!"
+    }
   }
 ]
