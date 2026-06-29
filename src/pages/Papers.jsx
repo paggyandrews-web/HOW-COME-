@@ -85,24 +85,27 @@ export default function Papers() {
               <div className="flex gap-2">
                 <Link
                   to={`/quiz?paper=${paper.id}&mode=practice`}
-                  className="flex-1 text-center py-1.5 rounded-lg text-xs font-medium"
-                  style={{ background: 'var(--accent)', color: 'var(--accent-text)' }}
+                  className="flex-1 text-center py-2 rounded-xl text-xs font-bold"
+                  style={{
+                    background: 'var(--accent)',
+                    color: 'var(--accent-text)',
+                    border: '2px solid var(--accent)',
+                    touchAction: 'manipulation',
+                  }}
                 >
-                  Practice
+                  ✏️ Practice
                 </Link>
                 <Link
                   to={`/quiz?paper=${paper.id}&mode=timed`}
-                  className="flex-1 text-center py-1.5 rounded-lg text-xs font-medium"
-                  style={{ background: 'var(--bg2)', color: 'var(--text)', border: '1px solid var(--border)' }}
+                  className="flex-1 text-center py-2 rounded-xl text-xs font-bold"
+                  style={{
+                    background: 'transparent',
+                    color: 'var(--accent)',
+                    border: '2px solid var(--accent)',
+                    touchAction: 'manipulation',
+                  }}
                 >
-                  Timed
-                </Link>
-                <Link
-                  to={`/quiz?paper=${paper.id}&mode=browse`}
-                  className="flex-1 text-center py-1.5 rounded-lg text-xs font-medium"
-                  style={{ background: 'var(--bg2)', color: 'var(--text)', border: '1px solid var(--border)' }}
-                >
-                  Browse
+                  ⏱️ Timed
                 </Link>
               </div>
             </div>
