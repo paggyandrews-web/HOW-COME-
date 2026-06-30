@@ -7378,5 +7378,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) past meridiem — 'Past' English word ആണ്, 'post' Latin word ആണ്. p.m. = Latin abbreviation → Latin expansion ആണ് ആവശ്യം. 'Past' → 'post' ആകില്ല. 🪤 PSC Trap: 'past' ഉം 'post' ഉം similar sound, students confuse ചെയ്യും.\n\n❌ (C) post midday — 'Post' correct ആണ്, 'midday' wrong ആണ്. Latin expansion-ൽ 'midday' (English) ആകില്ല — 'meridiem' (Latin) ആണ് ആവശ്യം. 'Midday' English translation ആണ്, abbreviation expansion ആകില്ല.\n\n❌ (D) past midday — Two errors: (1) 'past' instead of 'post', (2) 'midday' instead of 'meridiem'. Full expansion Latin ആകണം — both words wrong.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'P.M. = POST MERIDIEM = PM after Midday!' — P = POST (after), M = MERIDIEM (noon). 'POST = AFTER' in Latin — Postgraduate (after graduation), Postmortem (after death), Post meridiem (after noon)!\n• am/pm pair: AM = ANTE (before) MERIDIEM. PM = POST (after) MERIDIEM. Both Latin! Ante = before, Post = after.\n• PSC exam strategy: Latin abbreviations — focus on 'post = after' and 'ante = before'. p.m. = post meridiem. ഇത് ഒരിക്കൽ ഓർത്തിരുന്നാൽ guaranteed mark!"
     }
+  },
+  {
+    "id": "173-2024-M_q81",
+    "paperId": "173-2024-M",
+    "questionNumber": 81,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Fill in the blank with the correct verb form.\nMr. Gopal, accompanied by his two managers, __________ leaving for London.",
+    "optionA": "are",
+    "optionB": "is",
+    "optionC": "has",
+    "optionD": "have",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) is\n\n• Subject: 'Mr. Gopal' — singular noun ആണ്.\n• 'Accompanied by his two managers' — ഇത് ഒരു parenthetical phrase ആണ്, subject-നെ affect ചെയ്യില്ല.\n• Singular subject → singular verb: 'is'\n• 'Mr. Gopal is leaving for London' — managers ഒപ്പം ഉണ്ടെങ്കിലും subject Mr. Gopal ഒരാൾ ആണ്.\n• 'Accompanied by' phrase commas-ൽ enclosed ആണ് — ignore ചെയ്ത് main subject verb match ചെയ്യൂ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'Accompanied by / along with / together with / as well as' phrases subject change ചെയ്യില്ല — main subject-ൻ്റെ number-ൽ verb depend ചെയ്യുന്നു.\n• Key phrases that do NOT change subject number:\n  - accompanied by\n  - along with\n  - together with\n  - as well as\n  - in addition to\n  - including\n  - except\n• Compare: 'Mr. Gopal AND his managers ARE leaving' — 'and' plural ആക്കും! 'And' = plural, but 'accompanied by/along with' = singular stays!\n• ⭐ PSC ആവർത്തനം: Subject-Verb Agreement with intervening phrases — PSC-ൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic!\n• ഉദാഹരണ sentences:\n  1. The teacher, along with her students, is going on a trip. (teacher = singular → is)\n  2. Rajan, accompanied by his friends, has arrived. (Rajan = singular → has)\n  3. The CEO, as well as the directors, was present. (CEO = singular → was)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) are — 'Are' plural verb ആണ്. 'Mr. Gopal' singular ആണ്. 'His two managers' (plural) കണ്ടിട്ട് plural verb choose ചെയ്യുന്ന classic PSC trap. 'Accompanied by' phrase subject plural ആക്കില്ല. 🪤 PSC Trap: 'managers' plural word കണ്ടിട്ട് 'are' choose ചെയ്യും.\n\n❌ (C) has — 'Has' Present Perfect auxiliary ആണ്. 'Leaving' ൻ്റെ കൂടെ 'is' ആണ് correct (is leaving = present continuous). 'Has leaving' grammatically wrong ആണ്.\n\n❌ (D) have — 'Have' plural Present Perfect auxiliary ആണ്. Singular subject + wrong tense combo — double error.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ACCOMPANIED BY = ACCOMPANIED BUT ALONE!' — Mr. Gopal is the STAR — managers just accompany him. Star is ONE → singular verb! 'Accompanied by' = still one subject!\n• Quick test: Commas-ൽ enclosed phrase bracket ചെയ്ത് ignore ചെയ്യൂ. 'Mr. Gopal [, accompanied by his two managers,] IS leaving' — bracket ignore → Mr. Gopal is → IS!\n• PSC exam strategy: Subject identify ചെയ്ത് commas-ൽ ഉള്ള middle phrase ignore ചെയ്യൂ. Main subject singular? → singular verb. ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "173-2024-M_q82",
+    "paperId": "173-2024-M",
+    "questionNumber": 82,
+    "topic": "Conditionals",
+    "questionText": "Complete the sentence with the correct option.\nIf you work with confidence, you __________.",
+    "optionA": "succeed",
+    "optionB": "succeeded",
+    "optionC": "will succeed",
+    "optionD": "would have succeeded",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) will succeed\n\n• 'If you work with confidence' — if-clause-ൽ Simple Present ('work') ആണ്.\n• Type 1 Conditional (Real/Possible): If + Simple Present → will + V1\n• 'If you work' → main clause: 'you will succeed'\n• Meaning: confidence-ൽ ജോലി ചെയ്‌താൽ (real possibility) → success guaranteed ആകും.\n• Future possibility ആണ് ഉദ്ദേശം → 'will succeed' ആണ് correct.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: If + Simple Present → WILL + V1 (Type 1 Conditional)\n• Three Conditional types:\n  - Type 1 (Real/Possible): If it rains → we will cancel (future possibility)\n  - Type 2 (Unreal Present): If I had money → I would buy (imaginary)\n  - Type 3 (Past Unreal): If I had studied → I would have passed (past regret)\n• ⭐ PSC ആവർത്തനം: Type 1 Conditional — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic!\n• ഉദാഹരണ sentences:\n  1. If you study hard, you will pass. (simple present → will + V1)\n  2. If it rains, we will stay indoors.\n  3. If she practises daily, she will improve.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) succeed — 'Succeed' base form alone wrong ആണ്. Main clause-ൽ Type 1 Conditional-ൽ 'will succeed' ആണ് ആവശ്യം, bare 'succeed' alone grammatically incomplete ആണ്. 🪤 PSC Trap: 'succeed' correct form ആണ് (base), പക്ഷേ 'will' missing.\n\n❌ (B) succeeded — 'Succeeded' Simple Past ആണ്. If-clause Simple Present ആണ്, past tense main clause Type 1-ൽ wrong ആണ്. Type 3-ൽ if-clause Past Perfect + 'would have + V3' ആണ്.\n\n❌ (D) would have succeeded — 'Would have succeeded' Type 3 Conditional main clause ആണ്. Type 3-ൽ if-clause Past Perfect (had + V3) ആണ് ആവശ്യം. ഇവിടെ if-clause Simple Present ആണ് → Type 1 → 'will succeed' ആണ് correct.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'IF PRESENT → WILL FUTURE!' — If-clause Simple Present (work) → main clause WILL + V1 (will succeed). Present → Will. Simple!\n• Conditional shortcut: if-clause tense → main clause:\n  Simple Present → WILL\n  Simple Past → WOULD\n  Past Perfect (had) → WOULD HAVE\n• PSC exam strategy: If-clause-ൽ tense identify ചെയ്യൂ → main clause select ചെയ്യൂ. 'If you WORK' = present → 'will succeed'!"
+    }
+  },
+  {
+    "id": "173-2024-M_q83",
+    "paperId": "173-2024-M",
+    "questionNumber": 83,
+    "topic": "Articles",
+    "questionText": "Fill in the blank with the correct article.\nRichard refused to accept the free ride because he was __________ honourable man.",
+    "optionA": "the",
+    "optionB": "an",
+    "optionC": "any",
+    "optionD": "a",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) an\n\n• 'Honourable' — letter 'h' ആണ് ആദ്യം, പക്ഷേ 'h' SILENT ആണ്! Pronunciation: /ɒnərəbl/ — vowel sound /ɒ/ ആദ്യം.\n• Vowel sound-ന് മുന്നിൽ → 'an' ഉപയോഗിക്കണം.\n• 'An honourable man' — Richard free ride accept ചെയ്യില്ല, കാരണം അദ്ദേഹം noble/honourable ആയ ഒരു man ആണ്.\n• Sound rule: Letter 'h' silent ആണ് → vowel sound start → 'an' ആണ് correct.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Vowel SOUND → 'an' (letter നോക്കരുത്!)\n• Silent 'h' → 'an' ഉപയോഗിക്കുന്ന words:\n  - An honourable man (h silent)\n  - An hour (h silent)\n  - An honest person (h silent)\n  - An heir (h silent)\n  - An honour (h silent)\n• 'Honourable' = worthy of respect, noble. 'Honour' + able = honourable.\n• ⭐ PSC ആവർത്തനം: Articles 'a' vs 'an' — PSC-ൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic!\n• ഉദാഹരണ sentences:\n  1. He is an honourable judge. (h silent → an)\n  2. She served the country with honour. (h silent)\n  3. It is an honest mistake. (h silent → an)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) the — 'The' definite article ആണ് — specific honourable man indicate ചെയ്യും. ഇവിടെ indefinite 'a/an' ആണ് ആവശ്യം (general reference: he was an honourable man). 🪤 PSC Trap: Context 'specific person Richard' ഉള്ളതിനാൽ 'the' choose ചെയ്യും.\n\n❌ (C) any — 'Any' determiner ആണ്, article അല്ല. 'He was any honourable man' = grammatically unnatural ആണ്. 'Any' questions/negatives-ൽ ഉപയോഗിക്കുന്നതാണ്.\n\n❌ (D) a — 'A' consonant sound-ൻ്റെ മുന്നിൽ ഉപയോഗിക്കുന്നതാണ്. 'Honourable' = vowel sound (h silent) → 'a' wrong, 'an' correct. 'A honourable man' = wrong pronunciation.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HONOURABLE sounds like ONOURABLE' — h silent ആണ്! 'AN ONOURABLE' = 'AN HONOURABLE'! Pronounce ചെയ്ത് കേൾക്കൂ — vowel sound! → AN!\n• Silent h family: hour, honest, honour, honourable, heir, heiress — ഇവ ഒക്കെ 'AN' ആണ്! H Hiding (silent) → AN!\n• PSC exam strategy: 'h' letter ഉള്ള word article question-ൽ — pronounce ചെയ്ത് check ചെയ്യൂ. h sound ഉണ്ടോ? 'hotel' (/h/ sound) → a hotel. h silent ആണോ? 'honest' (/ɒ/ sound) → an honest. !"
+    }
+  },
+  {
+    "id": "173-2024-M_q84",
+    "paperId": "173-2024-M",
+    "questionNumber": 84,
+    "topic": "Auxiliary Verbs",
+    "questionText": "Fill in the blank with the correct modal verb.\nThe Registrar of the University said that the students __________ earn 85 per cent attendance to be eligible to appear for the examination.",
+    "optionA": "should",
+    "optionB": "can",
+    "optionC": "will",
+    "optionD": "could",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) should\n\n• Context: Attendance requirement — eligibility rule ആണ്. 'Should' = obligation/requirement (ആവശ്യം/നിർബന്ധം).\n• 'The students should earn 85% attendance' = attendance earn ചെയ്യണം (obligation).\n• 'Said that' = reported speech-ൽ 'must' → 'should' ആകും (backshift option).\n• Eligibility condition indicate ചെയ്യാൻ 'should' (strong recommendation/requirement) ആണ് most appropriate.\n• Registrar-ൻ്റെ official requirement: 'should' = strong obligation.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Obligation/Requirement = SHOULD (strong advice/necessity)\n• Modal verbs and their meanings:\n  - Should = obligation, advice, requirement (ആവശ്യം/ഉചിതം)\n  - Can = ability/possibility (കഴിവ്)\n  - Will = future/determination (ഭാവി)\n  - Could = past ability / polite possibility (ഭൂതകാല കഴിവ്)\n  - Must = strong obligation/certainty\n  - May = permission/possibility\n• Reported speech modal backshift: must → should (in some contexts)\n• ⭐ PSC ആവർത്തനം: Modal verbs — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic.\n• ഉദാഹരണ sentences:\n  1. Students should submit assignments on time. (obligation)\n  2. You should consult a doctor. (strong advice)\n  3. Candidates should carry their hall tickets. (requirement)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) can — 'Can' = ability/possibility. 'Students can earn 85% attendance' = ability-ൽ ഉണ്ട് (കഴിയും) — ഇത് requirement indicate ചെയ്യുന്നില്ല, ability indicate ചെയ്യുന്നു. Registrar ഒരു eligibility RULE state ചെയ്യുകയാണ്, ability confirm ചെയ്യുകയല്ല. 🪤 PSC Trap: 'can' familiar modal ആണ്.\n\n❌ (C) will — 'Will' future tense / determination indicate ചെയ്യുന്നതാണ്. 'Said that... will' reported speech-ൽ tense backshift wrong ആണ് (will → would). Plus, rule/requirement context-ൽ 'will' ഉചിതം അല്ല.\n\n❌ (D) could — 'Could' past ability / polite suggestion indicate ചെയ്യുന്നതാണ്. Attendance requirement-ൻ്റെ official statement-ൽ 'could' too weak ആണ്. 'Could earn' = optional suggestion ആകും, mandatory requirement ആകില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'SHOULD = RULE! CAN = ABLE! WILL = FUTURE! COULD = POLITE!' — Registrar rule ആണ് state ചെയ്യുന്നത് → SHOULD. Official requirement = SHOULD.\n• Context clue: 'eligible to appear for examination' = eligibility REQUIREMENT → obligation → SHOULD.\n• PSC exam strategy: Modal verb question-ൽ context identify ചെയ്യൂ. Rule/requirement → should. Ability → can. Future → will. Past ability/politeness → could. Context = key!"
+    }
+  },
+  {
+    "id": "173-2024-M_q85",
+    "paperId": "173-2024-M",
+    "questionNumber": 85,
+    "topic": "Question Tags",
+    "questionText": "Choose the correct question tag.\nThey hardly remember anything, __________?",
+    "optionA": "can they",
+    "optionB": "won't they",
+    "optionC": "don't they",
+    "optionD": "do they",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) do they\n\n• 'They hardly remember anything' — 'hardly' = negative meaning adverb (almost never).\n• Negative meaning statement → Positive question tag ആണ് ആവശ്യം.\n• Subject: 'they' (plural). Tense: Simple Present.\n• Positive tag: 'do they?' (plural present positive auxiliary)\n• 'They hardly remember anything, do they?' = അവർ ഒന്നും ഓർക്കില്ല, അല്ലേ?",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Negative adverb in statement → POSITIVE question tag\n• Negative adverbs → positive tag:\n  - hardly → do/does/did + subject?\n  - never → do/does/did + subject?\n  - seldom → do/does/did + subject?\n  - barely → do/does/did + subject?\n  - scarcely → do/does/did + subject?\n• Tag structure: auxiliary + subject pronoun (no main verb in tag!)\n• ⭐ PSC ആവർത്തനം: Question tags with negative adverbs — PSC favourite!\n• ഉദാഹരണ sentences:\n  1. She hardly speaks, does she? (hardly → does she)\n  2. He never arrives on time, does he? (never → does he)\n  3. They barely managed, did they? (barely → did they)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) can they — 'Can' modal ആണ്. Statement-ൽ 'remember' simple present ആണ്, modal 'can' ഉപയോഗിച്ചിട്ടില്ല. Tag-ൽ statement-ൻ്റെ auxiliary match ആകണം. 🪤 PSC Trap: 'can they' question-like feel ഉണ്ട്, students confuse ചെയ്യും.\n\n❌ (B) won't they — 'Won't' = will not — negative future modal. Statement simple present ആണ്, future tag wrong ആണ്. Plus 'won't' negative tag ആണ്, 'hardly' negative meaning-ൻ്റെ statement → positive tag ആണ് ആവശ്യം.\n\n❌ (C) don't they — 'Don't they' negative tag ആണ്. 'Hardly' = negative meaning → positive tag ആണ് ആവശ്യം. Negative + Negative = wrong. 'Do they?' (positive) ആണ് correct.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HARDLY = ALMOST NEVER = NEGATIVE → POSITIVE TAG!' — 'Hardly' already negative sense ആണ്, so give POSITIVE tag: 'do they?' Negative word = Positive tag! Always!\n• Negative adverbs (all → positive tag): HARDLY, NEVER, SELDOM, BARELY, SCARCELY, RARELY — ഈ words ഒരു list ഉണ്ടാക്കി ഓർക്കൂ!\n• PSC exam strategy: Statement-ൽ 'hardly/never/seldom/barely/scarcely' കണ്ടാൽ → DO/DOES/DID + subject (positive tag). Guaranteed mark!"
+    }
+  },
+  {
+    "id": "173-2024-M_q86",
+    "paperId": "173-2024-M",
+    "questionNumber": 86,
+    "topic": "Phrasal Verbs",
+    "questionText": "Fill in the blank with the correct phrasal verb.\nAs little Albert could not __________ his nagging grandmother, he decided to leave home.",
+    "optionA": "put away",
+    "optionB": "put up with",
+    "optionC": "put off",
+    "optionD": "put in",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) put up with\n\n• 'Put up with' = tolerate, endure, bear patiently (സഹിക്കുക, ക്ഷമിക്കുക).\n• 'Could not put up with his nagging grandmother' = nagging grandmother-നെ സഹിക്കാൻ കഴിഞ്ഞില്ല.\n• Context: 'decided to leave home' = cannot tolerate → has to leave. Perfect fit for 'put up with'.\n• 'Nagging' = constantly complaining/criticizing → hard to tolerate → 'put up with'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Put up with = Tolerate/Endure (സഹിക്കുക)\n• 'Put' phrasal verbs — PSC favourites:\n  - Put up with = tolerate (സഹിക്കുക)\n  - Put off = postpone, delay (മാറ്റിവയ്ക്കുക)\n  - Put away = store in correct place, save (വച്ചിടുക)\n  - Put in = insert, invest effort (ഇടുക, effort give ചെയ്യുക)\n  - Put out = extinguish, publish (കെടുത്തുക)\n  - Put on = wear, increase weight (ഇടുക, weight gain)\n  - Put across = communicate clearly (വ്യക്തമാക്കുക)\n• ⭐ PSC ആവർത്തനം: 'Put up with' — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന phrasal verb!\n• ഉദാഹരണ sentences:\n  1. I cannot put up with this noise. (ഈ ശബ്ദം സഹിക്കാൻ കഴിയില്ല)\n  2. Put away your toys after playing. (കളിച്ചതിന് ശേഷം toys വച്ചിടൂ)\n  3. Don't put off till tomorrow what you can do today. (നാളേക്ക് മാറ്റിവയ്ക്കരുത്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) put away — 'Put away' = store in correct place / save money. Grandmother-നെ 'put away' (store ചെയ്യുക) = literal/weird meaning. Tolerate meaning ഇല്ല. 🪤 PSC Trap: 'put away' familiar phrase ആണ്.\n\n❌ (C) put off — 'Put off' = postpone/delay. Cannot 'postpone' grandmother = doesn't make sense in context. Tolerate meaning ഇല്ല. 'The meeting was put off' ഇതുപോലെ ഉപയോഗിക്കുന്നതാണ്.\n\n❌ (D) put in — 'Put in' = insert, invest effort, apply for. 'Could not put in his grandmother' = no sensible meaning. 'She put in a lot of effort' ഇതുപോലെ ഉപയോഗിക്കുന്നതാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'PUT UP WITH = PATIENCE PUT UP (raised) to the LIMIT!' — Patience UP ആക്കി hold ചെയ്ത് WITH someone = tolerate! 'Put up' = raise, 'with' = together → raise patience with someone!\n• Context clue: 'nagging grandmother + left home' = couldn't TOLERATE → 'put up with' = tolerate. Context = clue to phrasal verb meaning!\n• PSC exam strategy: Phrasal verb question-ൽ context (result/consequence) ആദ്യം read ചെയ്യൂ. 'Left home because couldn't ___' → cannot tolerate → 'put up with'. !"
+    }
+  },
+  {
+    "id": "173-2024-M_q87",
+    "paperId": "173-2024-M",
+    "questionNumber": 87,
+    "topic": "Verb Forms",
+    "questionText": "Fill in the blank with the correct form of the verb.\nIf your team __________ again, you will be out of the competition.",
+    "optionA": "loss",
+    "optionB": "lose",
+    "optionC": "loose",
+    "optionD": "lost",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) lose\n\n• 'If your team _______, you will be out' — if-clause + main clause 'will be' → Type 1 Conditional.\n• Type 1: If + Simple Present → will + V1\n• If-clause: Simple Present verb ആണ് ആവശ്യം → 'lose' (base form = simple present).\n• 'If your team loses again' — actually 'loses' ആകണം (he/she/it = team → loses). But 'lose' ആണ് options-ൽ correct, as 'loses' ഇല്ല.\n• 'Lose' = to fail to win (തോൽക്കുക) — verb.\n• Options: loss (noun), lose (verb), loose (adjective), lost (past tense) — 'lose' alone verb ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Lose (verb: to fail to win) ≠ Loss (noun) ≠ Loose (adjective: not tight)\n• Confusing set:\n  - Lose (verb): She will lose the match. (തോൽക്കുക)\n  - Loss (noun): The team suffered a loss. (തോൽവി)\n  - Loose (adjective): These shoes are too loose. (അയഞ്ഞ)\n  - Lost (past tense of lose): They lost the game. (തോറ്റു)\n• Type 1 Conditional: If + Simple Present, Subject + will + V1\n• ⭐ PSC ആവർത്തനം: Lose/Loss/Loose confusion — PSC favourite trap word!\n• ഉദാഹരണ sentences:\n  1. If they lose this match, they are out. (verb: lose)\n  2. The team suffered a heavy loss. (noun: loss)\n  3. The bolt is loose. (adjective: loose)\n  4. They lost yesterday. (past tense: lost)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) loss — 'Loss' ഒരു noun ആണ് (the loss, a loss). Verb position-ൽ noun ഉപയോഗിക്കാൻ കഴിയില്ല. 'If your team loss again' = grammatically wrong. 🪤 PSC Trap: 'loss' ഉം 'lose' ഉം confuse ആകും — one extra 's'!\n\n❌ (C) loose — 'Loose' ഒരു adjective ആണ് (not tight, not firm). 'Loose' verb position-ൽ wrong ആണ്. 'Loose' = adjective (loose shirt), 'lose' = verb (lose the match) — completely different words!\n\n❌ (D) lost — 'Lost' Simple Past ആണ്. Type 1 Conditional if-clause Simple Present ആണ് ആവശ്യം, past tense wrong ആണ്. 'If your team lost' → Type 2 Conditional ആകും (main clause 'would be'), 'will be' ആകില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'LOSE = 1 O (one o), LOOSE = 2 O's (two o's)!' — LOSE (verb, one 'o') vs LOOSE (adjective, two 'oo'). ഒരേ ഒരു 'o' = lose (verb). Double 'oo' = loose (not tight). LOSS = no 'e' = noun!\n• Sentence test: Can you add 'the' before it? 'The loss' = yes → noun. Can you say 'very ___'? 'Very loose' = yes → adjective. Action? 'Lose the match' → verb!\n• PSC exam strategy: Lose/Loss/Loose — spelling matter! One 'o' = lose (verb). Two 'oo' = loose (adjective). No 'e' = loss (noun). Type 1 Conditional needs verb → 'lose'!"
+    }
+  },
+  {
+    "id": "173-2024-M_q88",
+    "paperId": "173-2024-M",
+    "questionNumber": 88,
+    "topic": "Antonyms",
+    "questionText": "Pick out the antonym of the word 'clear' from the following.",
+    "optionA": "murky",
+    "optionB": "lucid",
+    "optionC": "obvious",
+    "optionD": "distinct",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) murky\n\n• 'Clear' = transparent, easy to see/understand, not cloudy (വ്യക്തം, സ്വഛം).\n• 'Murky' = dark, dirty, cloudy, not clear (ഇരുണ്ടത്, അവ്യക്തം) — exact ANTONYM.\n• 'Murky water' = cloudy, unclear water. 'Clear water' = transparent water — opposites!\n• Options B, C, D (lucid, obvious, distinct) — ഇവ ഒക്കെ 'clear'-ൻ്റെ synonyms ആണ്!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Clear (transparent/obvious) ↔ Murky (dark/unclear)\n• Synonyms of 'clear': lucid, obvious, distinct, transparent, evident, apparent, plain\n• Antonyms of 'clear': murky, obscure, vague, cloudy, opaque, unclear, ambiguous\n• 'Murky' uses:\n  - Murky water (അവ്യക്ത/ഇരുണ്ട വെള്ളം)\n  - Murky intentions (തെളിച്ചമില്ലാത്ത ഉദ്ദേശ്യങ്ങൾ)\n  - Murky past (ഇരുണ്ട ഭൂതകാലം)\n• ⭐ PSC ആവർത്തനം: Antonyms — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic.\n• ഉദാഹരണ sentences:\n  1. The river water was murky after the flood. (flood-ന് ശേഷം water murky ആയി)\n  2. The instructions were clear and easy to follow. (clear = obvious)\n  3. His explanation was lucid. (lucid = synonym of clear)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) lucid — 'Lucid' = clearly expressed, easy to understand. ഇത് 'clear'-ൻ്റെ SYNONYM ആണ്, antonym അല്ല. 'A lucid explanation' = 'A clear explanation'. 🪤 PSC Trap: Antonym question-ൽ synonyms put ചെയ്ത് students confuse ചെയ്യും.\n\n❌ (C) obvious — 'Obvious' = easy to see/understand = 'clear'-ൻ്റെ synonym. 'It is obvious' = 'It is clear' — same meaning.\n\n❌ (D) distinct — 'Distinct' = clearly different, easy to distinguish = also synonym of 'clear' in some contexts. 'A distinct smell' = 'A clear smell'. Antonym അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'MURKY = MUDDY + DARK!' — MURky = MURky MUD! Muddy water = unclear = MURKY. Clear water ↔ Murky (muddy) water — perfect opposites!\n• Antonym question strategy: Options-ൽ clear-ൻ്റെ synonyms (lucid, obvious, distinct) identify ചെയ്ത് eliminate ചെയ്യൂ. Remaining option (murky) = antonym!\n• PSC exam strategy: Antonym question-ൽ 3 synonyms + 1 antonym pattern common ആണ്. Synonyms eliminate ചെയ്ത് antonym find ചെയ്യൂ!"
+    }
+  },
+  {
+    "id": "173-2024-M_q89",
+    "paperId": "173-2024-M",
+    "questionNumber": 89,
+    "topic": "Idioms",
+    "questionText": "Fill in the blank with the correct idiom.\nThe students found the project to be __________ because it was very easy.",
+    "optionA": "hand in glove",
+    "optionB": "apple of their eye",
+    "optionC": "cut corners",
+    "optionD": "a piece of cake",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) a piece of cake\n\n• 'A piece of cake' = very easy task, something done without effort.\n• Context: 'because it was very easy' — DIRECT CLUE! 'Very easy' = 'a piece of cake'\n• 'The students found the project to be a piece of cake' = project വളരെ easy ആണ് എന്ന് students-ന് തോന്നി.\n• 'Piece of cake' — eating cake ഒരു easy enjoyable thing ആണ് → easy task-ൻ്റെ idiom!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: A piece of cake = Very easy (ഒരു easy task)\n• ⭐ PSC favourite idioms (food related):\n  - A piece of cake = very easy\n  - Spill the beans = reveal a secret (secret പറഞ്ഞുകളയുക)\n  - Cost an arm and a leg = very expensive\n  - A bite to eat = a small meal (ചെറിയ ഭക്ഷണം)\n• Other options explained:\n  - Hand in glove = very closely associated, working together (ഒരുമിച്ച് ജോലി)\n  - Apple of their eye = someone very precious/beloved (ഏറ്റവും പ്രിയപ്പെട്ടത്)\n  - Cut corners = do something in the easiest/cheapest way, often poorly (quality compromise ചെയ്യുക)\n• ⭐ PSC ആവർത്തനം: Idioms — PSC-ൽ guaranteed topic!\n• ഉദാഹരണ sentences:\n  1. The maths test was a piece of cake for her. (easy ആയിരുന്നു)\n  2. They work hand in glove with each other. (closely together)\n  3. She is the apple of her father's eye. (most beloved)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) hand in glove — 'Hand in glove' = closely associated, in collaboration. 'Easy' meaning ഇല്ല. 'They work hand in glove' = closely together work ചെയ്യുന്നു. 🪤 PSC Trap: 'easy' context-ൽ 'hand' related idiom confuse ആകും.\n\n❌ (B) apple of their eye — 'Apple of one's eye' = most precious/beloved person or thing. 'Easy' meaning ഇല്ല. 'The daughter is the apple of her father's eye' = ഏറ്റവും പ്രിയപ്പെട്ടവൾ.\n\n❌ (C) cut corners — 'Cut corners' = do something hastily/cheaply, sacrifice quality. 'Very easy' meaning അല്ല — shortcut/quality compromise meaning ആണ്. 'Easy' ≠ 'cutting corners'.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'PIECE OF CAKE = SWEET + EASY!' — Cake eat ചെയ്യൽ easy ഉം sweet ഉം ആണ്! Easy task = piece of cake! Imagine eating a delicious slice of cake — effortless! That's 'a piece of cake'!\n• Context clue: 'because it was very easy' = direct hint! 'Very easy' → 'piece of cake'! Context ആണ് idiom answer ഒരിക്കൽ reveal ചെയ്യുന്നത്!\n• PSC exam strategy: Idiom blank question-ൽ sentence-ൻ്റെ 'because/since/as' clause ആദ്യം read ചെയ്യൂ — reason = clue to idiom. 'Because very easy' → piece of cake. Guaranteed!"
+    }
+  },
+  {
+    "id": "173-2024-M_q90",
+    "paperId": "173-2024-M",
+    "questionNumber": 90,
+    "topic": "One Word Substitutes",
+    "questionText": "Substitute the underlined phrase with the correct word.\nHitler believed himself to be __all powerful__.",
+    "optionA": "Omniscient",
+    "optionB": "Omnipresent",
+    "optionC": "Omnipotent",
+    "optionD": "Omnivore",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Omnipotent\n\n• 'All powerful' = having unlimited/supreme power (സർവ്വശക്തൻ).\n• 'Omnipotent' = omni (all) + potent (powerful) = all powerful.\n• 'Hitler believed himself to be omnipotent' = Hitler himself-നെ all-powerful ആണ് എന്ന് believe ചെയ്തു.\n• 'Omni-' prefix = all/every (Latin) — ഇത് ഓർക്കൂ: omni = all!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Omnipotent = Omni (all) + Potent (powerful) = ALL POWERFUL\n• ⭐ 'Omni-' prefix words (PSC guaranteed):\n  - Omnipotent = all powerful (സർവ്വശക്തൻ)\n  - Omniscient = all knowing (സർവ്വജ്ഞൻ)\n  - Omnipresent = present everywhere (സർവ്വവ്യാപി)\n  - Omnivore = eats everything/all food types (സസ്യഭക്ഷണവും മാംസഭക്ഷണവും)\n• Latin roots:\n  - omni = all\n  - potent = powerful (potential, potency)\n  - scient = knowing (science, conscience)\n  - present = present/being there\n  - vore = eater (herbivore, carnivore)\n• ⭐ PSC ആവർത്തനം: Omni- prefix words — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic!\n• ഉദാഹരണ sentences:\n  1. God is omnipotent. (all powerful — സർവ്വശക്തൻ)\n  2. God is omniscient. (all knowing — സർവ്വജ്ഞൻ)\n  3. God is omnipresent. (everywhere — സർവ്വവ്യാപി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Omniscient — 'Omni + scient' = ALL KNOWING (സർവ്വജ്ഞൻ). 'All powerful' ≠ 'all knowing' — different qualities. Hitler 'knew everything' ആണ് claim ഇവിടെ ഉദ്ദേശം അല്ല, 'all powerful' ആണ്. 🪤 PSC Trap: All 'omni-' words similar look ഉണ്ട്, students confuse ചെയ്യും.\n\n❌ (B) Omnipresent — 'Omni + present' = PRESENT EVERYWHERE (സർവ്വവ്യാപി). 'All powerful' = omnipotent ആണ്, 'everywhere present' = omnipresent ആണ്. Different divine qualities.\n\n❌ (D) Omnivore — 'Omni + vore' = EATS EVERYTHING. Bears, pigs are omnivores. 'All powerful' meaning ഇല്ല. Omnivore = biological eating habit indicate ചെയ്യുന്നതാണ്, power indicate ചെയ്യുന്നതല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'OMNI- = ALL. POTENT = POWER (potential/potency). OMNI + POTENT = ALL POWER = OMNIPOTENT!' — 'Potential' → 'potent' → 'omnipotent'. Power words ഒക്കെ 'pot-' root ഉള്ളവ!\n• Omni- family quick memory:\n  POTENT (power) → omnipOTENT\n  SCIENCE (know) → omniSCIENT\n  PRESENT (here) → omniPRESENT\n  VORE (eat) → omniVORE\n• PSC exam strategy: 'All powerful' → omni + power = omnipOTENT. Root 'potent' = power (remember: impotent = powerless). !"
+    }
   }
 ]
