@@ -351,9 +351,16 @@ function QuizSetup({ onStart }) {
 
   function handleStart() {
     let pool = [...availableQs]
-    if (!paperId && mode !== 'browse' && mode !== 'saved') {
-      pool = shuffle(pool)
-      pool = pool.slice(0, Math.min(count, pool.length))
+    if (mode !== 'browse' && mode !== 'saved') {
+      if (topicId) {
+        // Topic selected: use ALL questions for that topic, shuffled
+        pool = shuffle(pool)
+      } else if (!paperId) {
+        // No filter: shuffle and limit to count
+        pool = shuffle(pool)
+        pool = pool.slice(0, Math.min(count, pool.length))
+      }
+      // Paper selected: keep all paper questions in order
     }
     onStart({ questions: pool, mode: mode === 'saved' ? 'practice' : mode, secsPerQ })
   }
@@ -438,8 +445,8 @@ function QuizSetup({ onStart }) {
         </div>
       </div>
 
-      {/* Count slider — only when no specific paper and not browse */}
-      {!paperId && !isBrowse && (
+      {/* Count slider — only when no specific paper/topic and not browse */}
+      {!paperId && !topicId && !isBrowse && (
         <div className="mb-6">
           <div className="text-sm font-medium mb-2">Number of Questions: {count}</div>
           <input type="range" min={5} max={50} step={1}
