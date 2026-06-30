@@ -349,18 +349,16 @@ function QuizSetup({ onStart }) {
     )
   }, [paperId, topicId, mode, bookmarks])
 
+  // When a topic is pre-selected, default count to all questions in that topic
+  useEffect(() => {
+    if (topicId) setCount(availableQs.length || 10)
+  }, [topicId, availableQs.length])
+
   function handleStart() {
     let pool = [...availableQs]
-    if (mode !== 'browse' && mode !== 'saved') {
-      if (topicId) {
-        // Topic selected: use ALL questions for that topic, shuffled
-        pool = shuffle(pool)
-      } else if (!paperId) {
-        // No filter: shuffle and limit to count
-        pool = shuffle(pool)
-        pool = pool.slice(0, Math.min(count, pool.length))
-      }
-      // Paper selected: keep all paper questions in order
+    if (!paperId && mode !== 'browse' && mode !== 'saved') {
+      pool = shuffle(pool)
+      pool = pool.slice(0, Math.min(count, pool.length))
     }
     onStart({ questions: pool, mode: mode === 'saved' ? 'practice' : mode, secsPerQ })
   }
@@ -445,21 +443,21 @@ function QuizSetup({ onStart }) {
         </div>
       </div>
 
-      {/* Count slider — only when no specific paper/topic and not browse */}
-      {!paperId && !topicId && !isBrowse && (
+      {/* Count slider — hidden only for paper-specific and browse modes */}
+      {!paperId && !isBrowse && (
         <div className="mb-6">
           <div className="text-sm font-medium mb-2">Number of Questions: {count}</div>
-          <input type="range" min={5} max={50} step={1}
+          <input type="range" min={5} max={Math.max(50, availableQs.length)} step={1}
             value={count} onChange={e => setCount(+e.target.value)}
             className="w-full quiz-range-slider"
-            style={{ '--slider-pct': `${((count - 5) / (50 - 5)) * 100}%` }} />
+            style={{ '--slider-pct': `${((count - 5) / (Math.max(50, availableQs.length) - 5)) * 100}%` }} />
           <div className="flex justify-between text-xs mt-1" style={{ color: 'var(--text2)' }}>
-            <span>5</span><span>50</span>
+            <span>5</span><span>{Math.max(50, availableQs.length)}</span>
           </div>
         </div>
       )}
 
-      <div className="text-sm mb-4" style={{ color: 'var(--text2)' }}>
+      <div className="text-sm mb-4 font-semibold" style={{ color: 'var(--accent)' }}>
         {availableQs.length} questions available
       </div>
 
