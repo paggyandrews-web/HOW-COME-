@@ -8638,5 +8638,365 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) apprehensive — 'Apprehensive' = anxious, worried about future — ഭയം/ഉദ്വേഗം. ഇത് 'petrified'-ന്റെ synonym ആണ്, antonym അല്ല! 🪤 PSC Trap: same meaning group-ൽ നിന്ന് options കൊടുക്കും.\n\n❌ (B) aghast — 'Aghast' = filled with horror/shock. ഇതും 'petrified'-ന്റെ synonym ആണ് — extremely frightened meaning.\n\n❌ (D) nervous — 'Nervous' = anxious, uneasy. 'Petrified'-നോട് similar meaning ഉണ്ടെങ്കിലും exact synonym ആണ്, antonym അല്ല. 🪤 PSC Trap: Options A, B, D — ഇവ ഒക്കെ 'fear' family-ൽ ആണ്. Antonym = opposite family = brave!",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Petrified = PETRA (stone/rock) — turned to stone with fear! Antonym = brave (not stone, moves forward!)'\n• PSC antonym strategy: Options-ൽ 3 similar words + 1 opposite — opposite = answer. ഇവിടെ apprehensive/aghast/nervous (fear words) vs brave (opposite) — brave = answer!\n• Synonym trap: PSC-ൽ synonyms antonym options-ൽ ഇടും — 'fear' = petrified, aghast, apprehensive, nervous. ഇവ 4-ൽ 3 options-ൽ ഇടും, confuse ആകരുത்!"
     }
+  },
+  {
+    "id": "133-2024-M_q81",
+    "paperId": "133-2024-M",
+    "questionNumber": 81,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Neither Mr. Gupta's sons nor his daughter ________ to the gym regularly.",
+    "optionA": "gone",
+    "optionB": "go",
+    "optionC": "going",
+    "optionD": "goes",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) goes\n\n• 'Neither...nor' ഉപയോഗിക്കുമ്പോൾ verb, 'nor'-ന് ശേഷം വരുന്ന subject-നെ (his daughter) അനുസരിക്കണം — ഇതാണ് Proximity Rule.\n• 'His daughter' singular ആയതിനാൽ singular verb 'goes' വേണം.\n• 'Neither Mr. Gupta's sons nor his daughter goes to the gym' — അദ്ദേഹത്തിന്റെ മക്കളോ മകളോ gym-ൽ പോകാറില്ല.\n• ഈ question-ൽ PSC ഒരു classic trap ഉണ്ട് — 'sons' (plural) കണ്ടാൽ 'go' എഴുതും, പക്ഷേ 'nor'-ന് ശേഷമുള്ള 'daughter' ആണ് decide ചെയ്യുന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Neither...nor / Either...or → verb matches the NEAREST subject (Proximity Rule)\n• 'nor'-ന്റെ ഏറ്റവും അടുത്ത് നിൽക്കുന്ന subject singular ആണെങ്കിൽ → singular verb\n• 'nor'-ന്റെ ഏറ്റവും അടുത്ത് നിൽക്കുന്ന subject plural ആണെങ്കിൽ → plural verb\n\nഉദാഹരണ sentences:\n• Neither the teacher nor the students were present. (students → plural → were)\n• Neither the students nor the teacher was present. (teacher → singular → was)\n• Either you or he is responsible. (he → singular → is)\n• ⭐ PSC ആവർത്തനം: Subject-Verb Agreement questions വളരെ frequently exam-ൽ വരും — specially neither/nor and either/or patterns.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) gone — 'Gone' Past Participle form ആണ്. 'has/have gone' ആയി ഉപയോഗിക്കണം, standalone verb ആയി ഉപയോഗിക്കാൻ കഴിയില്ല. ഇത് ഒരു incomplete form ആണ്.\n• 🪤 PSC Trap: 'gone to the gym' familiar ആയതുകൊണ്ട് ആകർഷകമായി തോന്നും, പക്ഷേ auxiliary verb ഇല്ലാതെ 'gone' വരില്ല.\n\n❌ (B) go — 'Go' plural verb form ആണ്. 'Sons' കണ്ടിട്ട് plural verb വേണം എന്ന് തോന്നും — ഇതാണ് PSC trap! പക്ഷേ Proximity Rule അനുസരിച്ച് 'nor his daughter' (singular) ആണ് last subject, അതിനാൽ 'go' തെറ്റ്.\n• 🪤 PSC Trap: ഇതാണ് ഈ question-ന്റെ main trap — most students 'go' choose ചെയ്യും.\n\n❌ (C) going — 'Going' present participle / gerund form ആണ്. Blank-ൽ main verb വേണം, gerund വേണ്ടാ. 'is going' ആയിരുന്നെങ്കിൽ correct ആകുമായിരുന്നു, but 'going' alone grammatically incorrect ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Neither...Nor' — NOR-ന് ശേഷം ഉള്ളത് NEAR → NEAR ആയ subject നോക്കൂ! (Nor = Near)\n• Always look at the subject CLOSEST to the verb in neither/nor and either/or constructions.\n• PSC exam strategy: Question-ൽ neither/nor കണ്ടാൽ — ഉടനെ 'nor'-ന്റെ ശേഷം ഉള്ള subject singular/plural check ചെയ്യൂ — ഉത്തരം immediate!"
+    }
+  },
+  {
+    "id": "133-2024-M_q82",
+    "paperId": "133-2024-M",
+    "questionNumber": 82,
+    "topic": "Conditionals",
+    "questionText": "If she called me, I ________ the party.",
+    "optionA": "attended",
+    "optionB": "would attend",
+    "optionC": "will attend",
+    "optionD": "would have attended",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) would attend\n\n• 'If she called me' — 'called' Past Simple ആണ്, ഇത് Second Conditional sentence ആണ്.\n• Second Conditional: If + Past Simple → would + V1 — ഇതാണ് formula.\n• 'അവൾ എന്നെ വിളിച്ചിരുന്നെങ്കിൽ, ഞാൻ party-ൽ പങ്കെടുക്കുമായിരുന്നു' — ഇപ്പോൾ സംഭവിക്കാൻ സാധ്യത കുറഞ്ഞ അല്ലെങ്കിൽ ഇനി ഒരിക്കലും സംഭവിക്കാത്ത situation imagine ചെയ്യുന്നു.\n• 'would attend' = present/future-ലെ unreal situation-ന്റെ result.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula:\n  Type 1: If + Present Simple → will + V1 (real future possibility)\n  Type 2: If + Past Simple → would + V1 (unreal present/future)\n  Type 3: If + Past Perfect → would have + V3 (unreal past)\n\n• ഈ question-ൽ 'called' (Past Simple) → 'would attend' (would + V1) — Type 2 ആണ്.\n• ⭐ PSC ആവർത്തനം: Conditional sentences PSC-ൽ ഇടയ്ക്കിടെ ആവർത്തിക്കും.\n\nഉദാഹരണ sentences:\n• If I had money, I would buy a car. (Type 2 — present unreal)\n• If it rained, we would cancel the match. (Type 2)\n• If she were the principal, things would be different. (Type 2 — 'were' for all persons)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) attended — Simple Past ആണ്. Main clause-ൽ past tense alone ഉപയോഗിക്കാൻ conditional structure allow ചെയ്യില്ല. Conditional-ൽ main clause-ൽ modal verb (would/could/might) വേണം.\n• 🪤 PSC Trap: if-clause-ൽ 'called' (past) കണ്ടിട്ട് 'attended' (past) ആകും main clause-ൽ വേണ്ടതെന്ന് തോന്നിയേക്കാം — ഇത് trap ആണ്.\n\n❌ (C) will attend — First Conditional-ൽ ഉള്ളതാണ്. 'If she calls me, I will attend' ആണ് correct First Conditional. ഇവിടെ if-clause-ൽ Past Simple ഉള്ളതിനാൽ 'will' ഉപയോഗിക്കാൻ കഴിയില്ല.\n• 🪤 PSC Trap: Future-ൽ ആണ് party, അതുകൊണ്ട് 'will' ശരിയെന്ന് തോന്നും — പക്ഷേ if-clause tense decide ചെയ്യും.\n\n❌ (D) would have attended — Third Conditional (past unreal) ആണ്. 'If she had called me, I would have attended' ആകും past unreal. ഇവിടെ 'had called' ഇല്ല, 'called' മാത്രമാണ്, അതുകൊണ്ട് Third Conditional തെറ്റ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: If-clause tense → Main clause formula:\n  Simple Present → will (First: real)\n  Simple Past → would (Second: imagine)\n  Past Perfect (had) → would have (Third: already gone!)\n• PSC exam strategy: if-clause-ൽ ഉള്ള verb form ആണ് answer decide ചെയ്യുന്നത് — ആദ്യം if-clause നോക്കൂ, then main clause choose ചെയ്യൂ."
+    }
+  },
+  {
+    "id": "133-2024-M_q83",
+    "paperId": "133-2024-M",
+    "questionNumber": 83,
+    "topic": "Articles",
+    "questionText": "________ boy who talked to me yesterday, turned out to be my old neighbour's son.",
+    "optionA": "an",
+    "optionB": "a",
+    "optionC": "those",
+    "optionD": "the",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) the\n\n• 'The boy who talked to me yesterday' — 'who talked to me yesterday' എന്ന phrase ആ boy-നെ specifically identify ചെയ്യുന്നു.\n• ഒരു specific, already-identified person-നെ refer ചെയ്യുമ്പോൾ definite article 'the' ഉപയോഗിക്കണം.\n• 'ഇന്നലെ എന്നോട് സംസാരിച്ച ആ ആൺകുട്ടി' — 'ആ' = 'the' ആണ്.\n• Relative clause (who talked to me yesterday) ആ boy-നെ unique ആക്കുന്നു, അതുകൊണ്ട് 'the' obligatory ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula:\n  'a/an' = ഒരു random noun, first mention, unspecified\n  'the' = specific noun, already identified/known\n\n• Relative clause (who/which/that) ഉള്ളപ്പോൾ — noun specific ആകുന്നു → 'the' ഉപയോഗിക്കണം.\n• ⭐ PSC ആവർത്തനം: Articles-ൽ 'the' vs 'a/an' questions PSC-ൽ frequent ആണ്.\n\nഉദാഹരണ sentences:\n• The man who broke the window was arrested. (specific man — relative clause identifies him)\n• The book that I gave you is very useful. (specific book)\n• A boy called yesterday. (random, unspecified) → The boy who called yesterday is my cousin. (now specific)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) an — 'An' indefinite article ആണ്, consonant sound-ൽ തുടങ്ങുന്ന nouns-ന് 'a' ഉപയോഗിക്കണം. 'Boy' /b/ sound-ൽ തുടങ്ങുന്നതുകൊണ്ട് 'an boy' grammatically impossible. കൂടാതെ, 'the' ആണ് ഇവിടെ meaning-ൽ correct.\n• 🪤 PSC Trap: 'an' vs 'a' confusion trick — 'b' vowel അല്ലാത്തതുകൊണ്ട് 'an' completely wrong.\n\n❌ (B) a — 'A' indefinite article ആണ്, 'a boy' = any random boy. പക്ഷേ sentence-ൽ relative clause 'who talked to me yesterday' ഉള്ളതിനാൽ ഒരു specific boy-നെ കുറിച്ചാണ് പറയുന്നത്. Specific noun-ന് 'a' ഉപയോഗിക്കില്ല.\n• 🪤 PSC Trap: 'boy' consonant sound-ൽ തുടങ്ങുന്നതുകൊണ്ട് 'a boy' grammatically correct ആണ്, പക്ഷേ context-ൽ wrong.\n\n❌ (C) those — 'Those' demonstrative pronoun/adjective ആണ്, plural nouns-ന് ഉപയോഗിക്കുന്നതാണ്. 'Boy' singular ആണ്, 'those boy' grammatically incorrect. 'Those boys' ആകുമായിരുന്നു, but meaning-ൽ ഉം wrong.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Relative clause (who/which/that) = THE club! — Relative clause കണ്ടാൽ ഉടനെ 'the' ഇടൂ, because that clause makes the noun SPECIFIC.\n• 'ആ/ഈ' = the, 'ഒരു' = a/an — Malayalam translation ഉപയോഗിച്ച് article decide ചെയ്യൂ.\n• PSC exam strategy: 'who/which/that' ഉള്ള sentence-ൽ blank fill ആണെങ്കിൽ — guaranteed 'the' ആണ് answer!"
+    }
+  },
+  {
+    "id": "133-2024-M_q84",
+    "paperId": "133-2024-M",
+    "questionNumber": 84,
+    "topic": "Correlatives",
+    "questionText": "I would rather have tea ________ coffee.",
+    "optionA": "than",
+    "optionB": "to",
+    "optionC": "for",
+    "optionD": "but",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) than\n\n• 'Would rather...than' — ഇത് ഒരു fixed correlative expression ആണ്.\n• 'I would rather have tea than coffee' = 'coffee-യേക്കാൾ tea ആണ് എനിക്ക് ഇഷ്ടം' എന്ന് preference express ചെയ്യുന്നു.\n• 'Would rather' ഉള്ള sentence-ൽ comparison word ആയി 'than' മാത്രമേ ഉപയോഗിക്കൂ — മറ്റൊന്നും accept ആകില്ല.\n• ഇത് ഒരു memorize ചെയ്യേണ്ട fixed phrase ആണ്: 'would rather [choice 1] than [choice 2]'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: would rather + V1 + than + V1/noun\n• 'Would rather' = prefer to. Comparison-ൽ 'than' ഉപയോഗിക്കണം.\n• ⭐ PSC ആവർത്തനം: 'would rather...than' PSC English section-ൽ ഇടയ്ക്കിടെ ആവർത്തിക്കും.\n\nഉദാഹരണ sentences:\n• I would rather walk than take the bus. (നടക്കുന്നതാണ് bus-ൽ കയറുന്നതിനേക്കാൾ ഇഷ്ടം)\n• She would rather stay home than go to the party.\n• They would rather study now than fail later.\n\nRelated expressions:\n• 'prefer...to' (prefer tea to coffee)\n• 'would sooner...than' (same meaning as would rather...than)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) to — 'Prefer...to' pattern-ൽ 'to' ഉപയോഗിക്കും: 'I prefer tea to coffee'. പക്ഷേ 'would rather...to' ഒരു pattern ഇല്ല — 'would rather' എന്ന expression-ൽ 'than' മാത്രമേ ഉള്ളൂ.\n• 🪤 PSC Trap: 'prefer tea to coffee' familiar pattern ആയതുകൊണ്ട് 'to' choose ചെയ്യും — ഇതാണ് trap! 'Prefer' → 'to', 'would rather' → 'than'.\n\n❌ (C) for — 'For' ഒരു preposition ആണ്, ഇവിടെ comparison word ആയി 'for' ഒരിക്കലും ഉപയോഗിക്കില്ല. 'I would rather have tea for coffee' meaningless ആണ്.\n• 🪤 PSC Trap: 'for' preposition ആണ്, ചിലർ instinctively 'for' തിരഞ്ഞെടുക്കും — completely wrong choice.\n\n❌ (D) but — 'But' conjunction ആണ്, contrast express ചെയ്യാൻ ഉപയോഗിക്കുന്നതാണ്. 'Would rather...but' ഒരു fixed expression ഇല്ല. Preference comparison-ൽ 'but' grammatically fit ആകില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: RATHER goes with THAN — both have 'R'! (Rathe**R** → **R**ather...than)\n• ഒരു simple rule: 'would rather' → always 'than', 'prefer' → always 'to'\n• PSC exam strategy: 'would rather' കണ്ടാൽ — directly 'than' choose ചെയ്യൂ, no second thought needed! Guaranteed mark."
+    }
+  },
+  {
+    "id": "133-2024-M_q85",
+    "paperId": "133-2024-M",
+    "questionNumber": 85,
+    "topic": "Question Tags",
+    "questionText": "I am older than you, ________?",
+    "optionA": "isn't I?",
+    "optionB": "am I?",
+    "optionC": "are I?",
+    "optionD": "aren't I?",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) aren't I?\n\n• 'I am' sentence-ൽ question tag ആയി ഉപയോഗിക്കുന്നത് 'aren't I?' ആണ് — ഇത് ഒരു special exception ആണ്.\n• Grammatically 'am not I?' ആകണം, പക്ഷേ spoken English-ൽ 'amn't I?' awkward ആയതിനാൽ 'aren't I?' ആണ് accepted form.\n• 'I am' → positive statement → negative tag → 'aren't I?' (not 'am not I?')\n• PSC-ൽ 'I am' sentence-ന്റെ question tag ഒരു favourite question ആണ് — ഇത് ഒരിക്കൽ പഠിച്ചാൽ guaranteed mark.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Positive statement → Negative tag, Negative statement → Positive tag\n• 'I am' → 'aren't I?' (special exception — 'amn't' or 'am not I' ഉപയോഗിക്കില്ല)\n\n• General rule:\n  Subject + auxiliary verb → tag uses same auxiliary, reversed polarity + pronoun\n\nഉദാഹരണ sentences:\n• I am right, aren't I? (special case)\n• She is happy, isn't she?\n• They were late, weren't they?\n• He can swim, can't he?\n• ⭐ PSC ആവർത്തനം: 'I am → aren't I?' PSC exams-ൽ repeatedly ആവർത്തിക്കുന്ന question ആണ്.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) isn't I? — 'Isn't' = is + not. 'I am' sentence-ൽ 'is' ഉപയോഗിക്കില്ല — 'I' pronoun-ന് 'am' ആണ് auxiliary. 'Isn't I' grammatically impossible.\n• 🪤 PSC Trap: 'isn't it' familiar ആണ്, 'isn't I' ഉടനടി ഉത്തരമെന്ന് തോന്നിയേക്കാം — പക്ഷേ subject 'I' ആണ്, 'it' അല്ല.\n\n❌ (B) am I? — 'Am I?' positive tag ആണ്. Positive statement-ൽ negative tag ആണ് വേണ്ടത്. 'I am older, am I?' — ഇത് sentence-ന്റെ polarity match ആകുന്നില്ല, question tag confirm ചെയ്യാൻ negative form ആണ് ഇവിടെ appropriate.\n• 🪤 PSC Trap: 'am' ആണ് 'I am'-ന്റെ auxiliary, അതുകൊണ്ട് 'am I?' ഉടനെ correct ആണെന്ന് തോന്നും — പക്ഷേ polarity wrong!\n\n❌ (C) are I? — 'Are' plural/second person ആണ് (you are, they are, we are). 'I'-ന് ഒരിക്കലും 'are' ഉപയോഗിക്കില്ല. 'Are I' completely wrong — grammatically impossible combination.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'I am' + tag = 'aren't I?' — ഇത് English grammar-ൽ ഉള്ള ഒരേ ഒരു irregular question tag. ഇത് ഒരു exception ആണ് — memorize it!\n• Rhyme: 'I AM → AREN'T I — remember this, it's the only one'\n• PSC exam strategy: 'I am' ഉള്ള sentence-ൽ question tag blank കണ്ടാൽ — directly 'aren't I?' choose ചെയ്യൂ. This comes up in almost every PSC batch!"
+    }
+  },
+  {
+    "id": "133-2024-M_q86",
+    "paperId": "133-2024-M",
+    "questionNumber": 86,
+    "topic": "Phrasal Verbs",
+    "questionText": "Little Ann always ________ to her older brother.",
+    "optionA": "looks up to",
+    "optionB": "looks into",
+    "optionC": "looks out",
+    "optionD": "looks around",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) looks up to\n\n• 'Look up to' = ആദരിക്കുക, മാതൃകയായി കാണുക (to admire and respect someone).\n• 'Little Ann always looks up to her older brother' — Ann എപ്പോഴും ചേട്ടനെ ആദരിക്കുന്നു, മാതൃകയായി കാണുന്നു.\n• ഒരു ചെറിയ കുട്ടി older brother-നെ respect ചെയ്യുന്നത് വളരെ natural context — 'look up to' perfect fit ആണ്.\n• 'Up to' — physically 'look up' ചെയ്യുന്ന image — ഒരു ചെറിയ കുട്ടി above-ൽ നോക്കുന്നതുപോലെ, respect ചെയ്യുന്ന ആളെ 'higher' ആയി കാണുന്നതിന്റെ metaphor ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: LOOK + particle = completely different meaning!\n• 'Look' phrasal verbs — PSC favourites:\n  look up to = admire/respect (ആദരിക്കുക)\n  look into = investigate (അന്വേഷിക്കുക)\n  look out = be careful (സൂക്ഷിക്കുക)\n  look after = take care of (ശ്രദ്ധിക്കുക)\n  look forward to = anticipate eagerly (ആകാംക്ഷയോടെ കാത്തിരിക്കുക)\n  look down on = disrespect (അവഹേളിക്കുക)\n\nഉദാഹരണ sentences:\n• Students look up to their teachers. (ആദരിക്കുക)\n• The police looked into the matter. (അന്വേഷിച്ചു)\n• Look out! There's a car coming. (സൂക്ഷിക്കൂ!)\n• ⭐ PSC ആവർത്തനം: Phrasal verbs — especially LOOK and GET — PSC-ൽ ഇടയ്ക്കിടെ ആവർത്തിക്കും.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) looks into — 'Look into' = investigate/examine. 'The manager looked into the complaint' — ഒരു complaint അല്ലെങ്കിൽ matter investigate ചെയ്യുക. ഇവിടെ 'ആദരിക്കുക' എന്ന meaning ആണ് വേണ്ടത്, investigation അല്ല.\n• 🪤 PSC Trap: 'looks into' professional-sounding ആയതുകൊണ്ട് confuse ആകും — meaning ശ്രദ്ധിക്കൂ.\n\n❌ (C) looks out — 'Look out' = be careful/watch out. 'Look out for danger' — warning/caution express ചെയ്യാൻ. Ann ജാഗ്രതൈ ആകുന്നതിനെ കുറിച്ചല്ല sentence, ആദരവിനെ കുറിച്ചാണ്.\n• 🪤 PSC Trap: 'Looks out for' (takes care of) ആണോ എന്ന് confuse ആകും — 'looks out' alone ≠ 'looks out for'.\n\n❌ (D) looks around — 'Look around' = explore/survey surroundings. 'We looked around the museum' — ഒരു place visit ചെയ്ത് നോക്കുക. Ann ഒരിടം explore ചെയ്യുകയല്ല, ചേട്ടനെ respect ചെയ്യുകയാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Look UP TO' = You look UP at people you respect (physically tall = metaphorically great!). Opposite: 'look DOWN ON' = disrespect!\n• LOOK family complete list: up to ✅ into ✅ out ✅ after ✅ forward to ✅ down on ✅ — ഇവ 6-ഉം ഒരുമിച്ച് പഠിക്കൂ.\n• PSC exam strategy: phrasal verb question-ൽ context word 'admire/respect' meaning ഉണ്ടെങ്കിൽ → 'look up to' guaranteed!"
+    }
+  },
+  {
+    "id": "133-2024-M_q87",
+    "paperId": "133-2024-M",
+    "questionNumber": 87,
+    "topic": "Words Often Confused",
+    "questionText": "Diana's shoes were the perfect ________ to her entire outfit.",
+    "optionA": "compliment",
+    "optionB": "complement",
+    "optionC": "implement",
+    "optionD": "instrument",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) complement\n\n• 'Complement' = something that completes or enhances something else (പൂർണ്ണമാക്കുന്നത്, ഒരുമിച്ച് perfect ആകുന്നത്).\n• 'Diana's shoes were the perfect complement to her outfit' — ആ shoes outfit-നെ perfectly complete ചെയ്തു, ഒരു perfect match ആയിരുന്നു.\n• 'Complement' — 'complete' എന്ന word-ൽ നിന്ന് വരുന്നു — completion, perfect match എന്ന idea ആണ്.\n• Fashion context-ൽ shoes outfit-നെ 'complement' ചെയ്യുന്നു = perfectly match ആകുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula:\n  complement (noun/verb) = complete ചെയ്യുക, perfect pair ആകുക\n  compliment (noun/verb) = praise ചെയ്യുക, complain-ന്റെ opposite\n\n• Etymology:\n  complement ← Latin 'complementum' (that which fills up/completes)\n  compliment ← Latin 'complimentum' (expression of courtesy/praise)\n\nഉദാഹരണ sentences:\n• The wine complemented the meal perfectly. (ഭക്ഷണത്തിന് perfect match)\n• He complimented her on her cooking. (അദ്ദേഹം cooking-നെ praise ചെയ്തു)\n• The red curtains complement the white walls. (perfect combination)\n• ⭐ PSC ആവർത്തനം: 'Words Often Confused' section-ൽ complement/compliment ഒരു favourite pair ആണ്.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) compliment — 'Compliment' = praise/appreciation. 'He paid her a compliment' = അദ്ദേഹം അവളെ praise ചെയ്തു. Shoes ഒരു person-നെ praise ചെയ്യുന്നതല്ല, outfit-നെ complete ചെയ്യുന്നതാണ്. ഇതാണ് ഏറ്റവും common mistake!\n• 🪤 PSC Trap: 'compliment' and 'complement' pronunciation almost identical — spelling difference ആണ് key! compliMENT vs compliMENT... wait — compliMENT (praise) vs complEMENT (complete).\n\n❌ (C) implement — 'Implement' = carry out/execute (നടപ്പിലാക്കുക). 'Implement a plan' = ഒരു plan execute ചെയ്യുക. Shoes ഒരു plan implement ചെയ്യുന്നതല്ല, outfit-ന്റെ completion ആണ്. Completely different context.\n• 🪤 PSC Trap: '-ment' ending-ൽ ഉള്ള word ആയതുകൊണ്ട് confuse ആകും.\n\n❌ (D) instrument — 'Instrument' = a tool or musical instrument (ഉപകരണം). Fashion context-ൽ 'instrument' ഉപയോഗിക്കില്ല. 'Musical instrument', 'surgical instrument' — ഇതാണ് normal usage.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick:\n  compLEment → has 'LE' → think 'compLEte' → completion!\n  compLIment → has 'LI' → think 'fLIrty praise' → flattery!\n• Quick test: 'She complemented/complimented him on his dress' — here 'praised him' → complimented ✅\n• PSC exam strategy: 'perfect ___ to the outfit' pattern → always 'complement' (completion context). 'He paid her a ___' pattern → always 'compliment' (praise context)."
+    }
+  },
+  {
+    "id": "133-2024-M_q88",
+    "paperId": "133-2024-M",
+    "questionNumber": 88,
+    "topic": "Idioms",
+    "questionText": "The company gives bonus to its employees only ________ because the management is not very generous.",
+    "optionA": "every now and then",
+    "optionB": "to miss the boat",
+    "optionC": "once in a blue moon",
+    "optionD": "to sit on the fence",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) once in a blue moon\n\n• 'Once in a blue moon' = വളരെ അപൂർവ്വമായി (very rarely, almost never).\n• 'Management is not very generous' — management ഉദാരമല്ല, bonus വളരെ കുറച്ചേ കൊടുക്കൂ.\n• 'Once in a blue moon' = 'blue moon' (ഒരു month-ൽ രണ്ടാമത്തെ full moon) വളരെ rare ആയ event — ഈ idiom 'extremely rarely' express ചെയ്യുന്നു.\n• Context: generous അല്ലാത്ത management → bonus very rarely → 'once in a blue moon' perfect fit.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Idioms — literal meaning ignore ചെയ്യൂ, figurative meaning ഓർക്കൂ!\n\n• ഈ question-ലെ 4 idioms/phrases:\n  once in a blue moon = very rarely (വളരെ അപൂർവ്വം)\n  every now and then = occasionally (ഇടയ്ക്കിടെ)\n  to miss the boat = lose an opportunity (opportunity നഷ്ടമാകുക)\n  to sit on the fence = avoid taking sides (neutral ആയി നിൽക്കുക)\n\nഉദാഹരണ sentences:\n• He visits his parents once in a blue moon. (വളരെ rarely)\n• I exercise every now and then. (ഇടയ്ക്കിടെ)\n• Don't miss the boat — apply today! (opportunity നഷ്ടമാക്കരുത്)\n• Stop sitting on the fence and make a decision! (ഒരു side choose ചെയ്യൂ)\n• ⭐ PSC ആവർത്തനം: Idioms section PSC-ൽ regular — 'once in a blue moon' ഒരു favourite ആണ്.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) every now and then — 'Every now and then' = occasionally, from time to time (ഇടയ്ക്കിടെ). ഇത് 'sometimes but not always' meaning ആണ്. Context-ൽ management 'not very generous' ആണ്, 'ഇടയ്ക്കിടെ' bonus കൊടുക്കുന്നത് reasonable ആണ് — പക്ഷേ 'once in a blue moon' (extreme rarity) context-ൽ better fit ആണ്.\n• 🪤 PSC Trap: ഇത് ഏറ്റവും close answer ആണ്, പക്ഷേ 'not very generous' suggest ചെയ്യുന്നത് 'very rarely' — 'occasionally' അല്ല.\n\n❌ (B) to miss the boat — 'Miss the boat' = opportunity നഷ്ടമാകുക. 'She missed the boat by not applying early' — ഒരു opportunity late ആയതുകൊണ്ട് lose ചെയ്യുക. Bonus frequency-യുമായി ഒരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: 'boat' = ചിലർ literally think ചെയ്യും — idiom meaning remember ചെയ്യൂ.\n\n❌ (D) to sit on the fence — 'Sit on the fence' = two sides-ൽ ഒന്നും choose ചെയ്യാതിരിക്കുക, neutral ആയി നിൽക്കുക. Political or controversial decisions-ൽ ഉപയോഗിക്കുന്ന idiom ആണ്. Bonus payment frequency-യുമായി ഒരു ബന്ധവുമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Blue Moon (blue-coloured moon) = impossible/rare sight in sky → 'once in a blue moon' = very rarely!\n• Key contrast to remember: 'once in a blue moon' (very rarely) vs 'every now and then' (occasionally) — PSC ഈ two options ഒരുമിച്ച് trap ആയി ഉപയോഗിക്കും.\n• PSC exam strategy: 'only ___' + context of 'not generous/not frequent' → 'once in a blue moon' is the answer. 'Every now and then' = regular occasional → wrong in extreme scarcity context."
+    }
+  },
+  {
+    "id": "133-2024-M_q89",
+    "paperId": "133-2024-M",
+    "questionNumber": 89,
+    "topic": "One Word Substitutes",
+    "questionText": "Substitute the underlined phrase with suitable word from the following:\nSusan doesn't go to church as she calls herself as __someone who doesn't believe in the existence of God__.",
+    "optionA": "theist",
+    "optionB": "pantheist",
+    "optionC": "polytheist",
+    "optionD": "atheist",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) atheist\n\n• 'Atheist' = ദൈവത്തിൽ വിശ്വാസമില്ലാത്ത ആൾ (someone who doesn't believe in the existence of God).\n• 'Susan doesn't go to church' — church-ൽ പോകാത്തതിന്റെ reason: ദൈവത്തിൽ വിശ്വാസമില്ലാത്തതുകൊണ്ട്.\n• Etymology: Greek 'a-' (without) + 'theos' (God) = God-ഇല്ലാത്ത = atheist.\n• 'Doesn't believe in the existence of God' → ഈ phrase-ന്റെ perfect one-word substitute = atheist.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Greek root 'theos' = God — ഈ root ഉള്ള words:\n  theist = ദൈവത്തിൽ വിശ്വസിക്കുന്ന ആൾ (believes in ONE God)\n  atheist = ദൈവത്തിൽ വിശ്വസിക്കാത്ത ആൾ (a- = without)\n  pantheist = എല്ലാം ദൈവം ആണെന്ന് വിശ്വസിക്കുന്ന ആൾ (pan- = all)\n  polytheist = പല ദൈവങ്ങളിൽ വിശ്വസിക്കുന്ന ആൾ (poly- = many)\n  monotheist = ഒരു ദൈവം മാത്രം (mono- = one)\n  agnostic = ദൈവം ഉണ്ടോ ഇല്ലോ എന്ന് അറിയില്ല (knows not)\n\n• ⭐ PSC ആവർത്തനം: One Word Substitutes — religion-related words PSC-ൽ ഇടയ്ക്കിടെ വരും.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) theist — 'Theist' = ദൈവത്തിൽ വിശ്വസിക്കുന്ന ആൾ. Susan church-ൽ പോകാത്തത് ദൈവത്തിൽ BELIEVE ചെയ്യുന്നതുകൊണ്ടല്ല, BELIEVE ചെയ്യാത്തതുകൊണ്ടാണ്. Exact opposite ആണ്.\n• 🪤 PSC Trap: 'theist' familiar word ആയതുകൊണ്ട് automatically choose ചെയ്യും — 'a-' prefix ഓർക്കൂ!\n\n❌ (B) pantheist — 'Pantheist' = nature/universe everything is God (pan = all). ഇത് ദൈവം ഇല്ല എന്ന് വിശ്വസിക്കുന്നതല്ല — actually ഒരു തരം belief ആണ്, just different. Susan's description 'doesn't believe in existence of God' — pantheism match ആകില്ല.\n• 🪤 PSC Trap: '-theist' ending കണ്ട് confuse ആകരുത്.\n\n❌ (C) polytheist — 'Polytheist' = multiple Gods-ൽ വിശ്വസിക്കുന്ന ആൾ (poly = many). Hinduism traditional sense-ൽ polytheistic. Susan God-ൽ തന്നെ believe ചെയ്യുന്നില്ല — ഒരു God-ഉം multiple Gods-ഉം question ഇല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Prefix 'A-' = without/not in Greek:\n  a-theist = WITHOUT God belief\n  a-moral = WITHOUT morals\n  a-typical = WITHOUT being typical (unusual)\n• God belief family — ഒരിക്കൽ memorize ചെയ്തോളൂ:\n  NO God → atheist | ONE God → theist/monotheist | MANY Gods → polytheist | ALL is God → pantheist\n• PSC exam strategy: 'doesn't believe in God' phrase കണ്ടാൽ → immediately 'atheist'. 'a-' prefix = NEGATIVE meaning!"
+    }
+  },
+  {
+    "id": "133-2024-M_q90",
+    "paperId": "133-2024-M",
+    "questionNumber": 90,
+    "topic": "Synonyms",
+    "questionText": "Which of the following has the same meaning as \"Complete\"?",
+    "optionA": "hole",
+    "optionB": "hall",
+    "optionC": "whole",
+    "optionD": "haul",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) whole\n\n• 'Whole' = complete/entire (മുഴുവൻ, പൂർണ്ണം) — 'complete'-ന്റെ synonym ആണ്.\n• 'The whole truth' = the complete truth. 'A whole day' = an entire day.\n• 'Whole' and 'complete' — both convey totality, entirety.\n• ഇത് ഒരു homophones trap question ആണ് — hole/whole/hall/haul ഒക്കെ similar sound ഉള്ളതാണ്, പക്ഷേ spelling-ഉം meaning-ഉം different.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Spelling = Meaning (sound same ആണ് — sense different!)\n• Homophones — ഒരേ sound, different meaning:\n  whole (/hoʊl/) = complete, entire (പൂർണ്ണം)\n  hole (/hoʊl/) = a hollow space (ദ്വാരം, കുഴി)\n  hall (/hɔːl/) = a large room or corridor (ഹാൾ, ഇടനാഴി)\n  haul (/hɔːl/) = to pull/drag; a large amount (വലിക്കുക; ഒരു കൂമ്പാരം)\n\nഉദാഹരണ sentences:\n• I read the whole book. (= complete book)\n• There's a hole in my shoe. (ദ്വാരം)\n• The event was held in the main hall. (ഹാൾ)\n• The fishermen brought in a huge haul. (വലിയ catch)\n• ⭐ PSC ആവർത്തനം: Homophones/spelling questions PSC-ൽ ഇടയ്ക്കിടെ ആവർത്തിക്കും.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) hole — 'Hole' = ദ്വാരം, കുഴി (a hollow space). 'There is a hole in the road' — ഇത് 'complete'-ന്റെ synonym അല്ല, opposite sense ആണ് (something missing/empty).\n• 🪤 PSC Trap: 'hole' and 'whole' pronunciation similar (/hoʊl/) — ഒരേ sound, different spelling, completely different meaning.\n\n❌ (B) hall — 'Hall' = ഒരു വലിയ room അല്ലെങ്കിൽ corridor. 'Assembly hall', 'dining hall' — 'complete'-ന്റെ synonym ആകില്ല. Completely different category.\n• 🪤 PSC Trap: 'hall' sound 'whole'-ന് similar ആണ് (/hɔːl/ vs /hoʊl/) — pronunciation carefully distinguish ചെയ്യൂ.\n\n❌ (D) haul — 'Haul' = drag ചെയ്യുക (to pull with effort) അല്ലെങ്കിൽ a large amount obtained. 'The truck hauled heavy cargo' / 'a haul of fish'. 'Complete' meaning ഒരിക്കലും വരില്ല.\n• 🪤 PSC Trap: 'haul' and 'hall' similar (/hɔːl/) — ഇവ രണ്ടും confuse ആകും, both wrong.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'W-HOLE' → 'W' + 'HOLE' = the WHOLE thing without any HOLE in it = COMPLETE!\n• Spelling anchor: whole → w-h-o-l-e (just add 'w' to 'hole') — but meanings are opposites!\n• PSC exam strategy: Sound-alike words question-ൽ — spelling ആണ് key! 'Complete' synonym → 'whole' (w-h-o-l-e). Sound-ൽ confuse ആകരുത്, spelling-ൽ focus ചെയ്യൂ."
+    }
+  },
+  {
+    "id": "128-2024-M_q81",
+    "paperId": "128-2024-M",
+    "questionNumber": 81,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Identify the sentence with correct subject - verb agreement :",
+    "optionA": "The group of students is going on a field trip tomorrow.",
+    "optionB": "She and her brother goes to the gym every evening.",
+    "optionC": "The car parked in the driveway are my parents.",
+    "optionD": "My collection of books is increasing every month.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) The group of students is going on a field trip tomorrow.\n\n• 'Group' ഒരു collective noun ആണ് — ഒരു unit ആയി refer ചെയ്യുമ്പോൾ singular verb ഉപയോഗിക്കണം.\n• 'The group of students **is** going' — 'group' singular → 'is' ✅ correct subject-verb agreement.\n• 'Students' plural ആണ്, പക്ഷേ subject 'the group' ആണ്, 'students' അല്ല — ഇതാണ് key insight.\n• 'The group of students' = ഒരു കൂട്ടം students = ഒരു unit → singular verb 'is' perfect fit.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Collective nouns (group, team, class, committee, family) → singular verb when acting as ONE unit.\n• 'Of + noun' phrase ignore ചെയ്ത് subject identify ചെയ്യൂ:\n  The group **of students** → subject = 'group' (singular) → is/was\n  A bunch **of keys** → subject = 'bunch' (singular) → is/was\n  The team **of players** → subject = 'team' (singular) → is/was\n\nഉദാഹരണ sentences:\n• The committee has decided on the new policy. (committee → singular → has)\n• A flock of birds is flying over the lake. (flock → singular → is)\n• The class was very attentive today. (class → singular → was)\n• ⭐ PSC ആവർത്തനം: 'Group/team/class of + plural noun' SVA questions PSC-ൽ ഇടയ്ക്കിടെ ആവർത്തിക്കും.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) She and her brother goes — 'She and her brother' compound subject (AND ഉപയോഗിച്ചത്) → plural → 'go' വേണം, 'goes' തെറ്റ്.\n• 🪤 PSC Trap: 'brother' singular ആണ്, അതുകൊണ്ട് 'goes' correct ആണെന്ന് തോന്നും — പക്ഷേ AND compound → always plural verb.\n\n❌ (C) The car parked in the driveway are my parents — Subject = 'The car' (singular) → 'is' വേണം, 'are' wrong. 'Parked in the driveway' ഒരു modifier phrase ആണ്, subject change ആകില്ല.\n• 🪤 PSC Trap: 'parents' plural കണ്ടിട്ട് 'are' choose ചെയ്യും — subject = 'car' (singular) ആണ്, 'parents' predicate ആണ്.\n\n❌ (D) My collection of books is increasing — ഇതും grammatically correct ആണ്. പക്ഷേ PSC answer key (A)-നെ classic collective noun SVA example ആയി mark ചെയ്യുന്നു, കാരണം 'group of students' ആണ് most commonly tested pattern.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'OF + plural noun' കണ്ടാൽ — confuse ആകരുത്! OF-ന് മുൻപ് ഉള്ള word ആണ് subject.\n  'The group **of** students' → group = subject → singular!\n• Quick test: OF phrase cover ചെയ്ത് subject നോക്കൂ: 'The group ___ is going' — group is going ✅\n• PSC exam strategy: Collective noun (group/team/class/committee) + of + plural → singular verb. ഇത് ഒരു guaranteed question type ആണ്!"
+    }
+  },
+  {
+    "id": "128-2024-M_q82",
+    "paperId": "128-2024-M",
+    "questionNumber": 82,
+    "topic": "Correction of Sentences",
+    "questionText": "Choose the correct punctuation for the following sentence.\nShe opened the door and exclaimed \"What a surprise\"",
+    "optionA": "She opened the door and exclaimed, \"What a surprise!\"",
+    "optionB": "She opened the door and exclaimed : \"What a surprise.\"",
+    "optionC": "She opened the door and exclaimed \"What a surprise.\"",
+    "optionD": "She opened the door and exclaimed- \"What a surprise!\"",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) She opened the door and exclaimed, \"What a surprise!\"\n\n• Exclamation sentence introduce ചെയ്യുമ്പോൾ reporting verb-ന് ശേഷം **comma (,)** ഉപയോഗിക്കണം.\n• 'What a surprise!' — ഇത് ഒരു exclamation ആണ്, അതിനാൽ **exclamation mark (!)** closing quote-ന് ഉള്ളിൽ വേണം.\n• 'exclaimed, \"What a surprise!\"' — comma + double quotes + exclamation inside = perfect punctuation.\n• 'അവൾ വാതിൽ തുറന്നു, ആശ്ചര്യത്തോടെ പറഞ്ഞു — \"എന്തൊരു അദ്ഭുതം!\"'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula for punctuating speech:\n  said/told/asked/exclaimed + **,** + **\"** + speech + **!/?/.\"**\n\n• Reporting verb-ന്റെ ശേഷം:\n  Statement → comma (,) then quote: She said, \"I am fine.\"\n  Exclamation → comma then quote with !: He exclaimed, \"What a mess!\"\n  Question → comma then quote with ?: She asked, \"Are you okay?\"\n\n• Exclamation mark (!) ആണോ period (.) ആണോ? — Speech exclamation ആണ് → ! ഉള്ളിൽ\n• Colon (:) speech introduce ചെയ്യാൻ formal writing-ൽ ഉപയോഗിക്കാം, but comma ആണ് standard\n• ⭐ PSC ആവർത്തനം: Punctuation-based correct sentence questions PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കും.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) exclaimed : \"What a surprise.\" — Colon (:) ഇവിടെ formal/technical context-ൽ ആണ് ഉപയോഗിക്കുന്നത്. Speech reporting-ൽ comma ആണ് standard. കൂടാതെ, 'surprise.' — period (.) wrong, exclamation → '!' വേണം.\n• 🪤 PSC Trap: Colon professional ആയി തോന്നും — speech reporting-ൽ comma ആണ് correct.\n\n❌ (C) exclaimed \"What a surprise.\" — Reporting verb-ന് ശേഷം comma ഇല്ല — grammatically wrong. കൂടാതെ period (.) wrong, '!' വേണം. രണ്ടു errors ആണ്.\n• 🪤 PSC Trap: comma ഇല്ലാതെ direct quote ഇടുന്ന pattern informal writing-ൽ കാണും — formal grammar-ൽ comma mandatory.\n\n❌ (D) exclaimed- \"What a surprise!\" — Dash (-) speech introduce ചെയ്യാൻ ഉപയോഗിക്കില്ല. Dash = pause/interruption context-ൽ. Exclamation mark (!) correct ആണ്, പക്ഷേ dash wrong punctuation choice.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: COMMA introduces the QUOTE — 'said comma quote' pattern! said, \"...\"\n• Exclamation sentence → exclamation mark INSIDE quotes: \"Wow!\" (not \"Wow\"!)\n• PSC exam strategy: Speech punctuation question-ൽ — (1) reporting verb + comma ✓, (2) exclamation → ! inside quotes ✓. ഈ 2 points check ചെയ്താൽ answer clear!"
+    }
+  },
+  {
+    "id": "128-2024-M_q83",
+    "paperId": "128-2024-M",
+    "questionNumber": 83,
+    "topic": "Tenses",
+    "questionText": "Select the sentence that uses the correct form of the verb 'to be' in the past tense.",
+    "optionA": "Yesterday, She run to the store to buy some milk.",
+    "optionB": "They has been at the party since 6 PM.",
+    "optionC": "He were playing basketball with his friends when it started raining.",
+    "optionD": "We were all very tired after the long hike yesterday.",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) We were all very tired after the long hike yesterday.\n\n• 'We were' — 'we' plural subject → 'were' ✅ correct past tense of 'to be'.\n• 'Yesterday' past tense signal word ആണ് — 'were' perfect fit.\n• 'We were all very tired' — 'ഞങ്ങൾ നീണ്ട trek-ന് ശേഷം വളരെ ക്ഷീണിതരായിരുന്നു' — grammatically perfect sentence.\n• 'To be' past tense: was (I/he/she/it) | were (you/we/they) — ഈ rule perfectly follow ചെയ്യുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula — 'To be' past tense:\n  WAS → I, He, She, It (singular)\n  WERE → You, We, They (plural)\n\n• Common errors:\n  'He were' ❌ → 'He was' ✅\n  'They was' ❌ → 'They were' ✅\n  'They has been' ❌ → 'They have been' ✅\n\nഉദാഹരണ sentences:\n• I was happy yesterday. (I → was)\n• She was at home. (she → was)\n• We were late for the meeting. (we → were)\n• They were excited about the trip. (they → were)\n• ⭐ PSC ആവർത്തനം: Was/were usage PSC Tenses questions-ൽ ഒരു favourite topic ആണ്.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Yesterday, She run to the store — 'Run' present/base form ആണ്. Past tense-ൽ 'ran' വേണം. 'She ran to the store' ആകണം. 'To be' verb-ഉം ഇല്ല ഇവിടെ.\n• 🪤 PSC Trap: 'yesterday' past context ആയതിനാൽ 'run' correct ആണെന്ന് തോന്നും — 'run' past tense അല്ല, 'ran' ആണ്.\n\n❌ (B) They has been at the party — 'They' plural subject → 'have been' ആണ് correct. 'Has been' = he/she/it (singular)-ന് ഉള്ളതാണ്. 'They has' subject-verb agreement error ആണ്.\n• 🪤 PSC Trap: 'has been' familiar phrase ആണ്, ഒരുപക്ഷേ correct ആണെന്ന് തോന്നും — 'they' plural → 'have been'.\n\n❌ (C) He were playing basketball — 'He' singular subject → 'was' ആണ് correct, 'were' wrong. 'He was playing basketball' ആകണം.\n• 🪤 PSC Trap: 'were playing' Progressive tense pattern familiar ആണ്, പക്ഷേ 'he' singular-ന് 'were' ഉപയോഗിക്കില്ല — 'was' വേണം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: WAS = 1 person (I, he, she, it) | WERE = more than 1 or 'you' (we, they, you)\n• Quick rhyme: 'I was, he was, she was — WE WERE, THEY WERE!'\n• PSC exam strategy: 'To be' past tense question-ൽ — subject identify ചെയ്ത് singular/plural check ചെയ്യൂ: singular → was, plural → were. Simple rule, guaranteed mark!"
+    }
+  },
+  {
+    "id": "128-2024-M_q84",
+    "paperId": "128-2024-M",
+    "questionNumber": 84,
+    "topic": "Auxiliary Verbs",
+    "questionText": "Identify the sentence with the correct use of a modal verb.",
+    "optionA": "I can went to the store yesterday.",
+    "optionB": "You must to finish your homework before the deadline.",
+    "optionC": "She might can help you with the math problem.",
+    "optionD": "We should bring an umbrella in case of rain.",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) We should bring an umbrella in case of rain.\n\n• 'Should' ഒരു modal verb ആണ്, 'bring' base form (V1) ആണ് — correct structure: modal + V1.\n• 'We should bring an umbrella' — advice/recommendation express ചെയ്യുന്നു: 'മഴ വരുന്ന case-ൽ ഒരു കുട കൊണ്ടുവരണം'.\n• Modal verbs-ന് ശേഷം ALWAYS base form (V1) — no 'to', no past tense, no -ing.\n• 'Should bring' = correct modal + V1 structure ✅",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Modal verb + V1 (base form) — always!\n  Modal verbs: can, could, will, would, shall, should, may, might, must, ought to\n\n• Common modal verb errors:\n  ❌ can went (past tense after modal)\n  ❌ must to finish ('to' after modal — except 'ought to')\n  ❌ might can (two modals together)\n  ✅ should bring (modal + V1)\n\nഉദാഹരണ sentences:\n• You can do this. (can + V1 ✅)\n• She must leave now. (must + V1 ✅, no 'to')\n• They might come tomorrow. (might + V1 ✅)\n• ⭐ PSC ആവർത്തനം: Modal verb correct usage questions PSC-ൽ ഇടയ്ക്കിടെ വരും.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) I can went to the store yesterday — 'Can' modal-ന് ശേഷം past tense 'went' ഉപയോഗിക്കില്ല. 'Can + go' (V1) ആണ് correct. Past ability express ചെയ്യണമെങ്കിൽ 'could go' ആണ് ഉപയോഗിക്കേണ്ടത്.\n• 🪤 PSC Trap: 'yesterday' past context ആയതിനാൽ 'went' correct ആണെന്ന് തോന്നും — modal-ന് ശേഷം past tense ഒരിക്കലും വരില്ല.\n\n❌ (B) You must to finish your homework — 'Must'-ന് ശേഷം 'to' ഉപയോഗിക്കില്ല. 'Must finish' ആണ് correct. Exception: 'ought to' = ഒരേ ഒരു modal + to combination.\n• 🪤 PSC Trap: 'have to finish' (=must) familiar ആണ്, 'must to' ആകും confusion — 'must' + V1 directly, no 'to'.\n\n❌ (C) She might can help you — രണ്ടു modal verbs ഒരുമിച്ച് (might + can) ഒരിക്കലും ഉപയോഗിക്കില്ല. 'She might be able to help' അല്ലെങ്കിൽ 'She can help' ആണ് correct.\n• 🪤 PSC Trap: 'might can' emphatic ആണെന്ന് തോന്നും — English grammar-ൽ double modals (standard British/American) allowed അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Modal + BARE infinitive (V1) — no TO, no -ED, no -ING after modals (except 'ought TO')!\n• Three deadly errors:\n  Modal + past tense ❌ ('can went')\n  Modal + to + V1 ❌ ('must to go') — except ought to\n  Modal + Modal ❌ ('might can')\n• PSC exam strategy: Modal verb question-ൽ — modal-ന് ശേഷം base form (V1) ഉള്ള option select ചെയ്യൂ!"
+    }
+  },
+  {
+    "id": "128-2024-M_q85",
+    "paperId": "128-2024-M",
+    "questionNumber": 85,
+    "topic": "Direct and Indirect Speech",
+    "questionText": "Identify the correct transformation of the following sentence from direct to indirect speech.\nDirect speech : The teacher said, \"The exam will be held the next week.\"",
+    "optionA": "The teacher told that the exam will be held the following week.",
+    "optionB": "The teacher said that the exam would be held the next week.",
+    "optionC": "The teacher mentioned that the exam will be held the following week.",
+    "optionD": "The teacher said that the exam will be held in the next week.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) The teacher said that the exam would be held the next week.\n\n• Direct: 'The teacher said, \"The exam **will** be held...\"'\n• Indirect Rule: Reporting verb past tense (said) → backshift: will → **would** ✅\n• 'Said that' — 'said' indirect speech-ൽ 'said that' ആകും (object ഇല്ലാതെ). ✅\n• 'Would be held' = will-ന്റെ backshifted form — correct transformation.\n• ഇതിൽ 'next week' → 'following week' change ഇല്ല, പക്ഷേ crucial 'will → would' backshift ഉള്ളതിനാൽ ഇതാണ് best answer.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula — Backshift Table (reporting verb = past tense):\n  will → would\n  can → could\n  may → might\n  is/am/are → was/were\n  has/have → had\n  Present Simple → Past Simple\n\n• Time expression changes:\n  'next week' → 'the following week'\n  'yesterday' → 'the day before'\n  'now' → 'then'\n  'today' → 'that day'\n\n• 'Said' vs 'Told': said (no object needed) | told (object needed: told HIM/HER)\n  ✅ He said that... | ❌ He told that...\n  ✅ He told me that... | ❌ He said me that...\n• ⭐ PSC ആവർത്തനം: Direct-Indirect Speech PSC-ൽ regularly ആവർത്തിക്കും.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) The teacher told that — 'Told' requires an indirect object: 'told US/HIM that'. 'Told that' alone grammatically wrong. കൂടാതെ 'will' not backshifted (will → would ആകണം).\n• 🪤 PSC Trap: 'told' = 'said'-ന്റെ synonym ആണെന്ന് തോന്നും — grammar-ൽ 'told' needs an object!\n\n❌ (C) The teacher mentioned that the exam will be held — 'Will' backshift ആകണം → 'would'. 'Mentioned' reporting verb ആയി ഉപയോഗിക്കാം, പക്ഷേ 'will → would' change ഇല്ലാത്തത് main error ആണ്.\n• 🪤 PSC Trap: 'following week' correct ആണ്, 'mentioned' reasonable ആണ് — പക്ഷേ 'will' backshift ആകാത്തത് fatal error.\n\n❌ (D) the teacher said that the exam will be held in the next week — 'Will' backshift ആകണം → 'would'. 'In the next week' grammatically odd (redundant 'in'). 'Will' → 'would' backshift ഇല്ലാത്തത് main error.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Reported speech = PAST tense → push everything ONE step back!\n  will → would (one step back in time)\n  can → could (one step back)\n  is → was (one step back)\n• 'Said vs Told' rule — ഒരിക്കൽ memorize:\n  said → no object needed ('said that')\n  told → object needed ('told me/him/her that')\n• PSC exam strategy: will → would ആണോ check ചെയ്യൂ — ഇതാണ് most common test point in reported speech!"
+    }
+  },
+  {
+    "id": "128-2024-M_q86",
+    "paperId": "128-2024-M",
+    "questionNumber": 86,
+    "topic": "Synonyms",
+    "questionText": "Which of the following words is a synonym for 'abundant'?",
+    "optionA": "Meager",
+    "optionB": "Plentiful",
+    "optionC": "Scarce",
+    "optionD": "Sparse",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Plentiful\n\n• 'Abundant' = ധാരാളം ഉള്ളത്, സമൃദ്ധമായ (existing in large quantities, more than enough).\n• 'Plentiful' = ധാരാളം, സമൃദ്ധം — 'abundant'-ന്റെ exact synonym ആണ്.\n• 'There was an abundant/plentiful supply of food' — ഈ രണ്ടും interchangeable ആണ്.\n• Etymology: 'Abundant' ← Latin 'abundare' (to overflow). 'Plentiful' ← 'plenty' (fullness).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Abundant = Plentiful = Ample = Copious = Bountiful (all mean 'in large supply')\n\n• Word family of 'abundant':\n  abundant (adj) → abundance (noun) → abundantly (adverb)\n  'There is an abundance of opportunities' = opportunities ധാരാളം\n\n• Opposite words (antonyms):\n  scarce, meager, sparse, rare, insufficient\n\nഉദാഹരണ sentences:\n• Kerala has abundant rainfall during monsoon. (ധാരാളം മഴ)\n• The market had a plentiful supply of vegetables. (ധാരാളം vegetables)\n• Her abundant energy impressed everyone. (ഊർജ്ജം ധാരാളം)\n• ⭐ PSC ആവർത്തനം: Synonyms questions — abundant/plentiful pair PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കും.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Meager — 'Meager' = വളരെ കുറച്ചു മാത്രം (very little, insufficient). 'A meager salary' = വളരെ കുറഞ്ഞ ശമ്പളം. ഇത് 'abundant'-ന്റെ antonym ആണ്, synonym അല്ല.\n• 🪤 PSC Trap: PSC വിപരീതാർത്ഥം synonym ആയി offer ചെയ്യും — meager = opposite of abundant!\n\n❌ (C) Scarce — 'Scarce' = അപൂർവ്വം, ലഭ്യതക്കുറവ് (not easily available). 'Water is scarce in summer' — ഇതും 'abundant'-ന്റെ antonym ആണ്.\n• 🪤 PSC Trap: 'Scarce' → 'scarcely' familiar — meaning opposite direction ആണ്.\n\n❌ (D) Sparse — 'Sparse' = ചിതറിക്കിടക്കുന്ന, കുറഞ്ഞ (thinly distributed, not dense). 'Sparse vegetation' = ചെടികൾ കുറവ്. ഇതും antonym ആണ്, synonym അല്ല.\n• 🪤 PSC Trap: 'Sparse' sound unfamiliar ആയതിനാൽ 'correct' ആണെന്ന് തോന്നിയേക്കാം — meaning check ചെയ്യൂ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: ABUNDANT = ABUN-DANT = 'A BOX DONE AND MORE' — box full and still overflowing!\n• Synonym chain remember ചെയ്യൂ: abundant = plentiful = ample = copious\n• PSC exam strategy: Synonym question-ൽ — ആദ്യം given word-ന്റെ Malayalam meaning ഓർക്കൂ: abundant = ധാരാളം → 'plentiful' = ധാരാളം → match ✅"
+    }
+  },
+  {
+    "id": "128-2024-M_q87",
+    "paperId": "128-2024-M",
+    "questionNumber": 87,
+    "topic": "Antonyms",
+    "questionText": "What is the best antonym for 'miserly'?",
+    "optionA": "Generous",
+    "optionB": "Thrifty",
+    "optionC": "Greedy",
+    "optionD": "Frugal",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Generous\n\n• 'Miserly' = പിശുക്കൻ, ഒട്ടും കൊടുക്കാത്ത (extremely unwilling to spend money, stingy).\n• 'Generous' = ഉദാരൻ, ധാരാളമായി കൊടുക്കുന്ന (willing to give freely) — exact opposite ആണ്.\n• 'A miserly person never shares' ↔ 'A generous person always shares' — perfect antonyms.\n• Etymology: 'Miserly' ← 'miser' (Latin: wretched person who hoards money). 'Generous' ← Latin 'generosus' (of noble birth, hence giving freely).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Miserly = Stingy = Mean = Tight-fisted (not willing to give)\n  Antonyms: Generous = Liberal = Bountiful = Munificent (willing to give)\n\n• Confusable words:\n  Miserly = negative (never gives) — extreme\n  Thrifty = careful with money (positive trait — wise spending)\n  Frugal = simple living, avoiding waste (positive trait)\n  Greedy = wants more for oneself (negative but different)\n\nഉദാഹരണ sentences:\n• The miserly landlord refused to repair the house. (പിശുക്കൻ)\n• She was generous with her time and money. (ഉദാരൻ)\n• Being thrifty helped him save for his future. (thrifty = wise, not bad)\n• ⭐ PSC ആവർത്തനം: Antonym questions — miserly/generous pair PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കും.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) Thrifty — 'Thrifty' = ചെലവ് കുറച്ച് ജ്ഞാനത്തോടെ manage ചെയ്യുന്ന ആൾ (careful and wise with money). ഇത് ഒരു positive quality ആണ്! Miserly (negative) ≠ thrifty (positive). Both involve money carefulness, but miserly = selfish extreme.\n• 🪤 PSC Trap: 'Thrifty' = 'money careful' ആണ്, miserly-ന്റെ near-synonym ആണെന്ന് തോന്നും — but thrifty is POSITIVE, miserly is NEGATIVE.\n\n❌ (C) Greedy — 'Greedy' = അത്യാഗ്രഹം (wanting more than one's share). Miserly = doesn't give others, Greedy = wants more for oneself. Both negative qualities, but greedy ≠ antonym of miserly — they're different flaws.\n• 🪤 PSC Trap: Greedy sounds like the 'bad' version — but antonym means OPPOSITE, not similar bad quality.\n\n❌ (D) Frugal — 'Frugal' = ലളിതജീവിതം (simple lifestyle, avoiding waste — a virtue). Similar trap to 'thrifty' — frugal is positive. A frugal person is wise; a miserly person is selfish. Not antonyms.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: MISER = MISERABLE person who counts every coin → opposite = GENEROUS (जेनरस = give freely)\n• Key distinction to remember:\n  Miserly ❌ (bad — won't give) | Thrifty ✅ (good — spends wisely) | Frugal ✅ (good — lives simply)\n• PSC exam strategy: Antonym question-ൽ — given word negative ആണ്? → positive option choose ചെയ്യൂ! Miserly (negative) → Generous (positive) = antonym ✅"
+    }
+  },
+  {
+    "id": "128-2024-M_q88",
+    "paperId": "128-2024-M",
+    "questionNumber": 88,
+    "topic": "Antonyms",
+    "questionText": "Choose the word that means the opposite of 'harmonious'.",
+    "optionA": "Discordant",
+    "optionB": "Melodious",
+    "optionC": "Congrous",
+    "optionD": "Concordant",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Discordant\n\n• 'Harmonious' = ഐകരൂപ്യമുള്ള, സ്വരമേളനമുള്ള (pleasant, agreeable, free from conflict).\n• 'Discordant' = അസ്വരം, ഐകരൂപ്യമില്ലാത്ത (harsh, clashing, lacking harmony) — exact opposite.\n• Music context: harmonious = beautiful sounds together ↔ discordant = clashing, unpleasant sounds.\n• Etymology: 'Discordant' ← Latin 'dis' (apart) + 'cor' (heart) = hearts apart = disagreement.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula:\n  harmony → harmonious (adj) → harmoniously (adv)\n  discord → discordant (adj) → discordantly (adv)\n  'dis-' prefix = opposite/apart (disagree, disconnect, discordant)\n\n• Word relationships:\n  Harmonious ↔ Discordant (antonyms)\n  Melodious = pleasant-sounding (similar to harmonious — not antonym)\n  Concordant = in agreement (similar to harmonious — not antonym)\n\nഉദാഹരണ sentences:\n• The family had a harmonious relationship. (സ്നേഹമുള്ള, ഐകരൂപ്യമുള്ള)\n• The discordant notes ruined the performance. (അസ്വരം)\n• Their views were discordant with each other. (വിരുദ്ധം)\n• ⭐ PSC ആവർത്തനം: Antonym questions — music/sound related words PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കും.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) Melodious — 'Melodious' = ഇമ്പമുള്ള, ശ്രുതിമധുരമായ (pleasant to hear). ഇത് harmonious-ന്റെ SYNONYM ആണ്, antonym അല്ല. 'A melodious song' = 'a harmonious song' — same positive meaning.\n• 🪤 PSC Trap: 'melodious' sounds opposite because of unfamiliar word — but it's actually similar in meaning!\n\n❌ (C) Congrous — 'Congruous' (correct spelling) = fitting, appropriate (യോജിച്ച). ഇതും harmonious-ന് similar meaning ആണ്, antonym അല്ല. Note: 'Congrous' as written in the paper is a spelling error.\n• 🪤 PSC Trap: Unfamiliar word → seems like opposite — always check meaning before selecting.\n\n❌ (D) Concordant — 'Concordant' = in agreement, harmonious (യോജിപ്പുള്ള). 'Con-' prefix = together (same as in 'harmonious'). ഇതും synonym ആണ്, antonym അല്ല.\n• 🪤 PSC Trap: 'Dis-' vs 'Con-' prefix — 'dis' = apart (discordant = antonym), 'con' = together (concordant = synonym).",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'DIS-cordant' — 'DIS' always means OPPOSITE! Disconnect, disagree, discordant — all negative/opposite!\n• Prefix clue: dis- = opposite | con- = together | un- = not\n• PSC exam strategy: Antonym for harmonious → look for 'dis-' prefix option → discordant! Prefix knowledge = instant answer in vocabulary questions."
+    }
+  },
+  {
+    "id": "128-2024-M_q89",
+    "paperId": "128-2024-M",
+    "questionNumber": 89,
+    "topic": "Synonyms",
+    "questionText": "Select the word that is most similar in meaning to 'ephemeral'.",
+    "optionA": "Lasting",
+    "optionB": "Temporary",
+    "optionC": "Eternal",
+    "optionD": "Brittle",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Temporary\n\n• 'Ephemeral' = വളരെ ചെറിയ കാലം മാത്രം നിലനിൽക്കുന്ന (lasting for a very short time, transient).\n• 'Temporary' = താൽക്കാലിക (not permanent, lasting for a limited time) — closest synonym.\n• 'Ephemeral fame' = 'temporary fame' = fame that doesn't last long.\n• Etymology: Greek 'ephemeros' = 'epi' (on) + 'hemera' (day) = lasting only one day! ഒരു ദിവസം മാത്രം — that's how brief 'ephemeral' is.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Ephemeral = Temporary = Transient = Fleeting = Momentary (all = short-lived)\n\n• Antonyms of ephemeral:\n  Lasting, Permanent, Eternal, Enduring, Everlasting\n\n• Word usage:\n  Ephemeral is more literary/formal than 'temporary'\n  Often used for: beauty, fame, life, trends, feelings\n\nഉദാഹരണ sentences:\n• Social media fame is often ephemeral. (ക്ഷണനേരത്തേക്ക് മാത്രം)\n• The rainbow is ephemeral — it disappears quickly. (ക്ഷണഭംഗുരം)\n• His happiness was temporary, not lasting. (temporary = ephemeral)\n• ⭐ PSC ആവർത്തനം: 'Ephemeral' PSC vocabulary section-ൽ ഒരു favourite word ആണ്.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Lasting — 'Lasting' = ദീർഘകാലം നിലനിൽക്കുന്ന (enduring, permanent). ഇത് 'ephemeral'-ന്റെ exact ANTONYM ആണ്. 'A lasting impression' = impression that stays forever.\n• 🪤 PSC Trap: PSC-ൽ antonym synonym ആയി offer ചെയ്യും — 'lasting' = exactly opposite of ephemeral.\n\n❌ (C) Eternal — 'Eternal' = നിത്യം, എന്നെന്നും (everlasting, without end). ഇതും 'ephemeral'-ന്റെ antonym ആണ്. 'Eternal life' = life that never ends — opposite of ephemeral (which ends very quickly).\n• 🪤 PSC Trap: 'Eternal' unfamiliar ആയതിനാൽ correct ആണെന്ന് തോന്നിയേക്കാം — meaning check ചെയ്യൂ.\n\n❌ (D) Brittle — 'Brittle' = എളുപ്പത്തിൽ ഒടിയുന്ന (fragile, easily broken — about physical strength). ഇത് time duration-നെ കുറിച്ചല്ല, fragility-നെ കുറിച്ചാണ്. 'Ephemeral' time-നെ കുറിച്ചാണ്, physical strength-നെ കുറിച്ചല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: EPHEMERAL ← Greek 'hemera' = DAY. ഒരു ദിവസം മാത്രം ജീവിക്കുന്ന — like a mayfly! = temporary, fleeting.\n• Synonym chain: ephemeral = temporary = transient = fleeting = short-lived\n• PSC exam strategy: 'Ephemeral' കണ്ടാൽ — 'short-lived/temporary' meaning ഓർക്കൂ → 'Temporary' ✅. Lasting/Eternal = opposites → immediately eliminate!"
+    }
+  },
+  {
+    "id": "128-2024-M_q90",
+    "paperId": "128-2024-M",
+    "questionNumber": 90,
+    "topic": "One Word Substitutes",
+    "questionText": "Find the one word for the expression.\nCraze for flowers.",
+    "optionA": "Florimania",
+    "optionB": "Hypermania",
+    "optionC": "Idolomania",
+    "optionD": "Kleptomania",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Florimania\n\n• 'Florimania' = പൂക്കളോടുള്ള ഭ്രാന്തൻ ആഗ്രഹം (craze/obsession for flowers).\n• Etymology: Latin 'flori' (flower) + Greek 'mania' (obsession/craze) = flower craze.\n• 'Craze for flowers' = obsessive love for flowers = florimania.\n• '-mania' suffix = excessive craze/obsession — ഒരു word part ആണ്, ഇത് recognize ചെയ്തോളൂ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ROOT + mania = craze for that thing\n  flori (flower) + mania = florimania (craze for flowers)\n\n• Common '-mania' words PSC-ൽ ആവർത്തിക്കുന്നവ:\n  Kleptomania = craze for stealing (മോഷ്ടിക്കാനുള്ള ഭ്രാന്ത്)\n  Pyromania = craze for setting fire (തീ കൊളുത്തുന്നതിനുള്ള ഭ്രാന്ത്)\n  Bibliomania = craze for books (പുസ്തകങ്ങളോടുള്ള ഭ്രാന്ത്)\n  Megalomania = craze for power/greatness (അധികാര ഭ്രാന്ത്)\n  Monomania = obsession with one idea (ഒരേ ഒരു idea-യോടുള്ള ഭ്രാന്ത്)\n  Florimania = craze for flowers (പൂക്കളോടുള്ള ഭ്രാന്ത്)\n• ⭐ PSC ആവർത്തനം: '-mania' words One Word Substitutes section-ൽ ഇടയ്ക്കിടെ ആവർത്തിക്കും.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) Hypermania — 'Hypermania' = excessive energy/excitement (അതിയായ ഊർജ്ജം). Medical term — bipolar disorder-ൽ extreme high energy state. Flowers-മായി ഒരു ബന്ധവുമില്ല. 'Hyper-' = excessive, 'mania' = craze — but not about flowers.\n• 🪤 PSC Trap: '-mania' suffix ഉള്ളതുകൊണ്ട് correct ആണെന്ന് തോന്നും — root word 'hyper' = energy, 'flori' = flower.\n\n❌ (C) Idolomania — 'Idolomania' = craze for idols/images (വിഗ്രഹങ്ങളോടുള്ള ഭ്രാന്ത്). 'Idol' (image/statue) + mania. Flowers-നെ കുറിച്ചല്ല, idols-നെ കുറിച്ചാണ്.\n• 🪤 PSC Trap: Unfamiliar word ആണ്, correct ആണോ എന്ന് confuse ആകും — 'idolo' = idol, 'flori' = flower remember ചെയ്യൂ.\n\n❌ (D) Kleptomania — 'Kleptomania' = craze for stealing (മോഷ്ടിക്കാനുള്ള obsession). Greek 'kleptein' (to steal) + mania. ഇത് flowers-നെ കുറിച്ചല്ല, stealing-നെ കുറിച്ചാണ്. PSC-ൽ ഇടയ്ക്ക് kleptomania ചോദിക്കും, ഇവിടെ answer അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: FLORI = FLORA = flowers! 'Floral design' = flower design — FLORI always = flowers.\n  flori + mania = flower craze = FLORIMANIA\n• '-mania' family PSC shortlist ഒരു page-ൽ write ചെയ്ത് memorize ചെയ്യൂ:\n  Klepto (steal) | Pyro (fire) | Biblio (books) | Flori (flowers) | Mega (power)\n• PSC exam strategy: Root word identify ചെയ്യൂ — 'craze for flowers' → flowers = flora/flori → florimania. Root knowledge = guaranteed one-word substitute answers!"
+    }
   }
 ]

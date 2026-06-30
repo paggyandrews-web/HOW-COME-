@@ -360,5 +360,23 @@
     "medium": "M",
     "year": "2024",
     "categoryCode": "105/2022"
+  },
+  {
+    "id": "133-2024-M",
+    "paperCode": "133/2024-M",
+    "post": "Clerk Various (Ernakulam, Wayanad)",
+    "date": "05-Oct-2024",
+    "medium": "M",
+    "year": "2024",
+    "categoryCode": "503/2023"
+  },
+  {
+    "id": "128-2024-M",
+    "paperCode": "128/2024-M",
+    "post": "Clerk Various (Kozhikode, Kozhikode)",
+    "date": "28-Sep-2024",
+    "medium": "M",
+    "year": "2024",
+    "categoryCode": "503/2023"
   }
 ]
