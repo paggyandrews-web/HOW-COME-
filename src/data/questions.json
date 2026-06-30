@@ -7018,5 +7018,365 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) faithful — 'Faithful' = loyal, trustworthy (വിശ്വസ്തൻ). Performing duties WELL-നെക്കുറിച്ചല്ല, loyalty-നെക്കുറിച്ചാണ്. ഒരാൾ faithful ആണ് എന്ന് പറഞ്ഞാൽ loyal ആണ് എന്ന് meaning, efficient ആണ് എന്ന് meaning അല്ല. 🪤 PSC Trap: 'Duties perform ചെയ്യുന്ന' context-ൽ 'faithful employee' ഓർക്കും.\n\n❌ (C) determined — 'Determined' = having made a firm decision, persistent (ഉറച്ച ലക്ഷ്യം ഉള്ള). Performing duties well-ൻ്റെ quality description അല്ല — mental attitude describe ചെയ്യുന്ന word ആണ്.\n\n❌ (D) punctual — 'Punctual' = always on time (സമയം കൃത്യമായി). Duties perform ചെയ്യുന്നതിൻ്റെ QUALITY (how well) ആണ് ചോദ്യം, not TIME (when). Punctual = time related, efficient = quality/performance related.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'EFFICIENT = EFFECT + IENT' — produces good EFFECT in work! 'Efficient worker' = produces best EFFECT with minimum effort!\n• Confusing quartet: Efficient (well-performing), Effective (produces result), Faithful (loyal), Punctual (on time) — ഈ 4-ൻ്റെ exact difference ഓർത്തിരിക്കൂ!\n• PSC exam strategy: One-word substitute question-ൽ definition-ൽ KEY words identify ചെയ്യൂ — 'perform duties WELL' = quality of performance = efficient. 'On time' = punctual. 'Loyal' = faithful. KEY word = correct answer!"
     }
+  },
+  {
+    "id": "178-2024-E_q81",
+    "paperId": "178-2024-E",
+    "questionNumber": 81,
+    "topic": "Tenses",
+    "questionText": "Choose the correct form of the verb to complete the sentence.\nHe ________ a movie every Sunday.",
+    "optionA": "watches",
+    "optionB": "watch",
+    "optionC": "watched",
+    "optionD": "watching",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) watches\n\n• Subject: 'He' — third person singular.\n• 'Every Sunday' = habitual/repeated action → Simple Present Tense.\n• Simple Present: Third person singular (He/She/It) → Verb + s/es.\n• 'He watches' — 'watch' + 'es' = 'watches' (watch-ൻ്റെ ശേഷം 'ch' ഉള്ളതിനാൽ 'es' ചേർക്കണം).\n• 'He watches a movie every Sunday' = അദ്ദേഹം എല്ലാ ഞായറാഴ്ചയും ഒരു movie കാണുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: He/She/It + Verb + s/es (Simple Present)\n• 's/es' ചേർക്കുന്ന rules:\n  - Most verbs: + s (plays, reads, eats)\n  - ch, sh, x, o, ss endings: + es (watches, washes, fixes, goes, misses)\n  - Consonant + y: y → ies (carries, studies, flies)\n• ⭐ Signal words for Simple Present: always, every day, usually, often, sometimes, never\n• ⭐ PSC ആവർത്തനം: Subject-Verb Agreement with Simple Present — PSC guaranteed!\n• ഉദാഹരണ sentences:\n  1. She watches TV every evening. (she + watches)\n  2. He goes to the gym daily. (go + es)\n  3. The teacher teaches well. (teach + es)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) watch — 'Watch' plural form ആണ് (They/We/You watch). 'He' singular ആണ്, singular verb 'watches' ആണ് ആവശ്യം. 🪤 PSC Trap: Base form 'watch' ആണ് familiar, 's' add ചെയ്യാൻ forget ആകും.\n\n❌ (C) watched — 'Watched' Simple Past ആണ്. 'Every Sunday' present/habitual action indicate ചെയ്യുന്നതിനാൽ past tense wrong ആണ്. Past tense signal words: yesterday, last week, ago.\n\n❌ (D) watching — 'Watching' present participle ആണ്, auxiliary 'is' ഇല്ലാതെ main verb ആകില്ല. 'He is watching' (present continuous) ആകും — 'is' ഇല്ലാത്തതിനാൽ 'watching' alone wrong ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HE + WATCHES = HE WATCHES!' He/She/It-ൻ്റെ കൂടെ verb-ൽ 's' add ചെയ്യൂ — ഒരു royal crown-ൽ 's' ഉള്ളതുപോലെ! Third person = crowned with 's'!\n• Every, always, usually, often — ഈ signal words കണ്ടാൽ → Simple Present → He/She/It + V+s/es\n• PSC exam strategy: Subject identify ചെയ്ത് (He/She/It vs others) + time signal (every day = present) → verb form select ചെയ്യൂ!"
+    }
+  },
+  {
+    "id": "178-2024-E_q82",
+    "paperId": "178-2024-E",
+    "questionNumber": 82,
+    "topic": "Singular and Plural",
+    "questionText": "A large group of insects moving in a mass is called",
+    "optionA": "flock",
+    "optionB": "herd",
+    "optionC": "swarm",
+    "optionD": "pride",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) swarm\n\n• 'A swarm' = insects (bees, flies, ants, mosquitoes) ഒരുമിച്ചു വലിയ group-ആയി നീങ്ങുന്നത്.\n• 'A swarm of bees', 'a swarm of insects' — ഇതാണ് standard collective noun.\n• 'A large group of insects moving in a mass' → swarm = insects-ൻ്റെ mass movement ഉള്ള group.\n• Swarm as verb ഉം ഉണ്ട്: 'Bees swarmed around the flowers' = തേനീച്ചകൾ പൂക്കളെ വളഞ്ഞു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Insects (bees/flies/ants) → SWARM\n• ⭐ Animal collective nouns (PSC must-know):\n  - Swarm — insects/bees/ants (കൂട്ടം)\n  - Flock — birds/sheep (പക്ഷി/ആട്)\n  - Herd — cattle/elephants/horses (കൂട്ടം)\n  - Pride — lions (സിംഹക്കൂട്ടം)\n  - Pack — wolves/dogs (ചെന്നായ/നായ)\n  - Pod — whales/dolphins\n  - School/Shoal — fish (മത്സ്യം)\n  - Gaggle — geese (വാത്ത)\n  - Murder — crows (കാക്ക)\n• ⭐ PSC ആവർത്തനം: Collective nouns — PSC guaranteed topic!\n• ഉദാഹരണ sentences:\n  1. A swarm of bees attacked the farmer. (തേനീച്ചക്കൂട്ടം)\n  2. A flock of birds flew south. (പക്ഷിക്കൂട്ടം)\n  3. A herd of elephants crossed the road. (ആനക്കൂട്ടം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) flock — 'Flock' = birds or sheep-ൻ്റെ collective noun ആണ്. Insects-ന് 'flock' ഉപയോഗിക്കില്ല. 🪤 PSC Trap: 'flock' familiar word ആണ്, students confuse ചെയ്യും.\n\n❌ (B) herd — 'Herd' = cattle, elephants, horses, deer-ൻ്റെ collective noun ആണ്. Insects-ന് 'herd' ഉപയോഗിക്കില്ല. Large animals-ൻ്റെ group ആണ് 'herd'.\n\n❌ (D) pride — 'Pride' = lions-ൻ്റെ specific collective noun ആണ്. Insects-ന് ഒരിക്കലും 'pride' ഉപയോഗിക്കില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'SWARM = SWARM of small wings!' — ചെറിയ wings ഉള്ള insects (bees, flies) → SWARM. 'Sw' = small wings! Buzzing, flying mass = SWARM!\n• Category rule: Flying + small = SWARM (insects). Flying + large = FLOCK (birds). Walking + large = HERD (cattle). Powerful + wild = PRIDE (lions).\n• PSC exam strategy: Question-ൽ animal/insect identify ചെയ്ത് correct collective noun recall ചെയ്യൂ. 'Insects moving in mass' = only SWARM!"
+    }
+  },
+  {
+    "id": "178-2024-E_q83",
+    "paperId": "178-2024-E",
+    "questionNumber": 83,
+    "topic": "Articles",
+    "questionText": "Find out the suitable article from the options given below.\nThey talked for ________ hour about the wonderful performance.",
+    "optionA": "a",
+    "optionB": "an",
+    "optionC": "the",
+    "optionD": "all the above",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) an\n\n• 'Hour' — letter 'h' ആണ് ആദ്യം, പക്ഷേ 'h' SILENT ആണ്! Pronunciation: /aʊə/ — vowel sound.\n• Vowel sound-ന് മുന്നിൽ → 'an' ഉപയോഗിക്കണം.\n• 'An hour' — ഇത് English-ൻ്റെ classic 'an' example ആണ്.\n• 'They talked for an hour' = അവർ ഒരു മണിക്കൂർ സംസാരിച്ചു.\n• Rule: Letter നോക്കരുത്, SOUND നോക്കൂ! 'h' silent → vowel sound → 'an'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Vowel SOUND → 'an' | Consonant SOUND → 'a'\n• Silent 'h' words → 'an' ഉപയോഗിക്കണം:\n  - An hour (h silent)\n  - An honest man (h silent)\n  - An honour (h silent)\n  - An heir (h silent)\n• Vowel letter but consonant sound → 'a' ഉപയോഗിക്കണം:\n  - A university (/juː/ sound)\n  - A European (/j/ sound)\n  - A one-eyed man (/w/ sound)\n• ⭐ PSC ആവർത്തനം: Articles 'a' vs 'an' — PSC-ൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic!\n• ഉദാഹരണ sentences:\n  1. I waited for an hour. (h silent → an)\n  2. She is an honest officer. (h silent → an)\n  3. He is a university professor. (u = /juː/ → a)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) a — 'A' consonant sound-ൻ്റെ മുന്നിൽ ഉപയോഗിക്കുന്നതാണ്. 'Hour'-ൻ്റെ 'h' silent ആണ്, vowel sound ആദ്യം വരുന്നു. 'A hour' = wrong — unnatural pronunciation. 🪤 PSC Trap: 'h' letter കണ്ടിട്ട് consonant assume ചെയ്ത് 'a' choose ചെയ്യും.\n\n❌ (C) the — 'The' definite article ആണ് — specific hour indicate ചെയ്യുമ്പോൾ ഉപയോഗിക്കും. 'They talked for the hour' = specific, pre-mentioned hour ആകും. ഇവിടെ general 'one hour' ആണ് ഉദ്ദേശം → indefinite 'an' ആണ് correct.\n\n❌ (D) all the above — a, an, the — ഇവ മൂന്നും correct ആകില്ല. 'An' ആണ് ഒറ്റ correct answer.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HOUR = OUR' — 'Hour' ഉം 'Our' ഉം same pronunciation! '/aʊər/' — vowel sound! 'An hour' = 'An our' — vowel sound → AN!\n• Silent h word family: hour/hourly, honest/honesty, heir/heiress, honour/honourable — ഇവ ഒരു list ഉണ്ടാക്കി memorize ചെയ്യൂ. All take 'AN'!\n• PSC exam strategy: 'Hour' കണ്ടാൽ → AN. Automatic! ഈ word ഒരിക്കലും miss ആകരുത്!"
+    }
+  },
+  {
+    "id": "178-2024-E_q84",
+    "paperId": "178-2024-E",
+    "questionNumber": 84,
+    "topic": "Synonyms",
+    "questionText": "Which among the following is a synonym of the word 'dismal'?",
+    "optionA": "angry",
+    "optionB": "gloomy",
+    "optionC": "cheerful",
+    "optionD": "peaceful",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) gloomy\n\n• 'Dismal' = dark, depressing, miserable, causing gloom (നിരാശാജനകം, ദുഃഖകരം).\n• 'Gloomy' = dark, sad, pessimistic (ഇരുണ്ടത്, ദുഃഖകരം) — ഇതാണ് 'dismal'-ൻ്റെ perfect synonym.\n• 'Dismal weather', 'dismal performance', 'dismal prospects' — all negative contexts.\n• 'Gloomy' ഉം same negative, dark context-ൽ ഉപയോഗിക്കുന്നു: 'gloomy weather', 'gloomy mood'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Dismal = Gloomy = Dreary = Depressing = Bleak\n• 'Dismal' word family:\n  - Dismal (adjective) → Dismally (adverb) → Dismalness (noun)\n• Etymology: Medieval Latin 'dies mali' = 'evil days' → dismal\n• ⭐ Synonym cluster (negative/sad words):\n  - Dismal, gloomy, dreary, bleak, depressing, somber, melancholy, morose\n• ⭐ PSC ആവർത്തനം: Synonyms — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic.\n• ഉദാഹരണ sentences:\n  1. The weather was dismal on the day of the match. (ദുഃഖകരമായ weather)\n  2. He felt gloomy after hearing the news. (ദുഃഖകരം feel ചെയ്തു)\n  3. The future looks bleak without education.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) angry — 'Angry' = ദേഷ്യം (rage, fury). 'Dismal' sadness/gloom ആണ്, anger അല്ല. Different emotions ആണ്. 🪤 PSC Trap: 'Dismal' negative word ആണ്, 'angry' ഉം negative ആണ്, students confuse ചെയ്യും.\n\n❌ (C) cheerful — 'Cheerful' = happy, bright (സന്തോഷം). ഇത് 'dismal'-ൻ്റെ ANTONYM ആണ്! Dismal = sad/dark, Cheerful = happy/bright — exact opposites.\n\n❌ (D) peaceful — 'Peaceful' = calm, tranquil (ശാന്തം). ഇതും positive word ആണ്, 'dismal' negative word ആണ്. Synonym match ആകില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'DISMAL = DIS + MAL' — 'Mal' = bad (Spanish/Latin: malo = bad). DIS-MAL = BAD/GLOOMY! ഈ root ഓർത്തിരിക്കൂ!\n• Synonym question strategy: 'Dismal' = negative/sad → positive options (cheerful, peaceful) immediately eliminate ചെയ്യൂ → angry (wrong emotion) vs gloomy (correct emotion) = answer B!\n• PSC exam strategy: Unknown word ആണ്? Positive/Negative identify ചെയ്ത് wrong options eliminate ചെയ്യൂ. ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "178-2024-E_q85",
+    "paperId": "178-2024-E",
+    "questionNumber": 85,
+    "topic": "Direct and Indirect Speech",
+    "questionText": "Choose the reported form of this sentence.\n\"Can you start the project tomorrow?\" The Manager asked us.",
+    "optionA": "The Manager asked us whether we could start the project the next day.",
+    "optionB": "The Manager asked them whether they can start the project the next day.",
+    "optionC": "The Manager asked us if we can start the project the next day.",
+    "optionD": "The Manager asked if we could start the project tomorrow.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) The Manager asked us whether we could start the project the next day.\n\n• Direct: 'Can you start the project tomorrow?' — Yes/No question ആണ്.\n• Reported speech changes:\n  - 'Can' → 'could' (tense backshift: modal past)\n  - 'you' → 'we' (Manager asked 'us' — so us = we)\n  - 'tomorrow' → 'the next day' (time expression change)\n  - Yes/No question → 'if/whether' + reported form\n• 'The Manager asked us whether we could start the project the next day.' — ഇതാണ് all changes correctly apply ചെയ്ത option.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Yes/No question reported speech: asked + if/whether + subject + past modal/verb\n• Reported question rules:\n  - Yes/No questions: whether/if ഉപയോഗിക്കണം\n  - Wh-questions: Wh-word directly ഉപയോഗിക്കണം\n  - Modal backshift: can → could, will → would, may → might\n  - Time changes: tomorrow → the next day, today → that day, yesterday → the previous day\n  - Pronoun changes: you → he/she/they/we (context-based)\n• ⭐ PSC ആവർത്തനം: Reported speech — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic!\n• ഉദാഹരണ sentences:\n  1. 'Will you come?' → She asked if he would come.\n  2. 'Can you help me?' → He asked if she could help him.\n  3. 'Are you ready?' → She asked whether they were ready.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) asked them...they can — രണ്ടു തെറ്റുകൾ: (1) 'them' wrong — Manager asked 'us', so 'us/we' ആണ് correct. (2) 'can' tense backshift ചെയ്തില്ല — 'can' → 'could' ആകണം. 🪤 PSC Trap: Multiple errors ഉള്ള option confuse ചെയ്യും.\n\n❌ (C) asked us if we can — 'Can' backshift ചെയ്തില്ല — reported speech-ൽ 'can' → 'could' ആണ്. Pronoun 'we' correct ആണ്, 'us' correct ആണ്, 'if' correct ആണ് — പക്ഷേ 'can' wrong ആണ്.\n\n❌ (D) asked if we could start the project tomorrow — 'Tomorrow' time change ചെയ്തില്ല — reported speech-ൽ 'tomorrow' → 'the next day' ആകണം. 'Asked us' ഇല്ല — 'us' object missing. Multiple errors.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'CAN → COULD, TOMORROW → NEXT DAY, YOU → WE/THEY' — Reported speech-ൽ 3 things change: (1) Modal, (2) Time word, (3) Pronoun. ഈ 3 check ചെയ്താൽ answer guaranteed!\n• Yes/No question → whether/if. 'Can you?' → 'whether/if we/they could'\n• PSC exam strategy: Options-ൽ ഓരോ change ഒന്നൊന്നായി verify ചെയ്യൂ: Modal changed? ✓ Time word changed? ✓ Pronoun correct? ✓ → Correct answer!"
+    }
+  },
+  {
+    "id": "178-2024-E_q86",
+    "paperId": "178-2024-E",
+    "questionNumber": 86,
+    "topic": "Phrasal Verbs",
+    "questionText": "Choose the appropriate phrasal verb to complete the sentence.\nWe have ________ of milk. Would you like milk powder instead?",
+    "optionA": "run in",
+    "optionB": "run on",
+    "optionC": "run down",
+    "optionD": "run out",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) run out\n\n• 'Run out of' = exhaust the supply of something (ഒരു സാധനം തീർന്നുപോകുക).\n• 'We have run out of milk' = ഞങ്ങളുടെ milk supply തീർന്നുപോയി.\n• Context clue: 'Would you like milk powder instead?' — milk ഇല്ലാത്തതിനാൽ alternative suggest ചെയ്യുന്നു → run out of ആണ് perfect.\n• 'Run out of' — always 'of' ചേർന്ന് ഉപയോഗിക്കുന്നു: run out of milk, run out of time, run out of money.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Run out of = finish/exhaust the supply of\n• 'Run' phrasal verbs — PSC favourites:\n  - Run out of = supply exhausted (തീർന്നു)\n  - Run into = meet unexpectedly / collide (ആകസ്മിക കണ്ടുമുട്ടൽ / കൂട്ടിയിടി)\n  - Run down = criticize / decrease in energy (വിമർശിക്കുക / energy കുറയുക)\n  - Run over = knock down with vehicle (vehicle ഇടിക്കുക)\n  - Run after = chase (പിന്നാലെ ഓടുക)\n  - Run away = escape (ഓടിപ്പോകുക)\n• ⭐ PSC ആവർത്തനം: Phrasal verbs — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic!\n• ഉദാഹരണ sentences:\n  1. We have run out of petrol. (petrol തീർന്നു)\n  2. I ran into my old friend at the market. (ആകസ്മിക കണ്ടുമുട്ടൽ)\n  3. Don't run down others behind their back. (വിമർശിക്കരുത്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) run in — 'Run in' = break in a new engine/machine (engine break-in ചെയ്യുക) or arrest someone (informal). Milk supply-ൻ്റെ context-ൽ ഉപയോഗിക്കില്ല. 🪤 PSC Trap: 'Run in' familiar sound ആണ്, students confuse ചെയ്യും.\n\n❌ (B) run on — 'Run on' = continue to function / talk at length / work on fuel. 'The car runs on petrol' ഇതുപോലെ ഉപయോഗിക്കുന്നതാണ്. Supply exhausted ആകുന്ന meaning ഇല്ല.\n\n❌ (C) run down — 'Run down' = criticize negatively, or battery/energy decreasing. 'Don't run down your colleagues' ഇതുപോലെ ഉപയോഗിക്കും. Supply exhausted meaning ഇല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'RUN OUT = EMPTY!' — Supply OUT ആയി, run OUT of it! OUT = nothing left. Tank empty? RUN OUT of fuel! Shop empty? RUN OUT of stock!\n• Context clue strategy: 'Would you like... instead?' = alternative suggest ചെയ്യുന്നു = original item missing = RUN OUT OF!\n• PSC exam strategy: Phrasal verb question-ൽ context (what happened before/after blank) ആദ്യം read ചെയ്യൂ. 'Alternative offered' → supply exhausted → run out of. ഇത് remember ചെയ്തിരിക്കൂ!"
+    }
+  },
+  {
+    "id": "178-2024-E_q87",
+    "paperId": "178-2024-E",
+    "questionNumber": 87,
+    "topic": "Question Tags",
+    "questionText": "Select an appropriate question tag for the following sentence.\nHe seldom answers any questions, __________?",
+    "optionA": "does he?",
+    "optionB": "doesn't he?",
+    "optionC": "did he?",
+    "optionD": "didn't he?",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) does he?\n\n• 'He seldom answers any questions' — 'seldom' = rarely = negative meaning ഉള്ള adverb.\n• Negative meaning-ഉള്ള statement → Positive question tag ആണ് ആവശ്യം.\n• 'Seldom' negative sense → tag = positive → 'does he?' (positive auxiliary)\n• Subject 'He' → auxiliary 'does' (third person singular, simple present)\n• 'He seldom answers any questions, does he?' = അദ്ദേഹം ഒരിക്കലും ചോദ്യങ്ങൾക്ക് ഉത്തരം പറയില്ല, അല്ലേ?",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Statement negative meaning → Positive tag | Statement positive meaning → Negative tag\n• Negative adverbs that need POSITIVE tags:\n  - seldom (rarely) → does/do/did + subject?\n  - never → does/do/did + subject?\n  - hardly → does/do/did + subject?\n  - barely → does/do/did + subject?\n  - scarcely → does/do/did + subject?\n  - neither → does/do/did + subject?\n• ⭐ PSC ആവർത്തനം: Question tags with negative adverbs — PSC favourite!\n• ഉദാഹരണ sentences:\n  1. She seldom comes on time, does she? (seldom → does she?)\n  2. He never tells lies, does he? (never → does he?)\n  3. They hardly work, do they? (hardly → do they?)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) doesn't he? — 'Doesn't he?' negative tag ആണ്. 'Seldom' negative meaning ഉള്ള word ആണ്, negative meaning statement → positive tag ആണ് ആവശ്യം. Negative + Negative = double negative = wrong. 🪤 PSC Trap: Normal rule (positive → negative tag) apply ചെയ്ത് 'doesn't he?' choose ചെയ്യും.\n\n❌ (C) did he? — 'Did' past tense auxiliary ആണ്. 'Answers' simple present ആണ് → present auxiliary 'does' ആണ് ആവശ്യം. Past tense tag wrong ആണ്.\n\n❌ (D) didn't he? — 'Didn't' past tense negative ആണ്. Present tense sentence-ൽ past tag ഉം double negative ഉം — two errors. Completely wrong.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'SELDOM/NEVER/HARDLY = ALREADY NEGATIVE → GIVE POSITIVE TAG!' — ഈ words കണ്ടാൽ → positive tag! 'NEVER → DOES/DO/DID?' Negative word = positive tag needed!\n• Negative adverb list (PSC must memorize): seldom, never, hardly, barely, scarcely, rarely — ഇവ ഒക്കെ positive tag ആണ് ആവശ്യം!\n• PSC exam strategy: Tag question-ൽ sentence-ൽ 'seldom/never/hardly' കണ്ടാൽ → positive tag (does/do/did/is/are/was/were) — immediate answer!"
+    }
+  },
+  {
+    "id": "178-2024-E_q88",
+    "paperId": "178-2024-E",
+    "questionNumber": 88,
+    "topic": "Antonyms",
+    "questionText": "Which among the following is an antonym of the word 'appropriate'?",
+    "optionA": "misappropriate",
+    "optionB": "disappropriate",
+    "optionC": "inappropriate",
+    "optionD": "none of the above",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) inappropriate\n\n• 'Appropriate' = suitable, fitting, proper (ഉചിതം, അനുയോജ്യം).\n• 'Inappropriate' = 'in-' prefix (not) + 'appropriate' = not appropriate, not suitable.\n• 'Inappropriate' = ഉചിതമല്ലാത്ത — ഇതാണ് exact antonym.\n• 'Inappropriate behaviour', 'inappropriate language' — improper/unsuitable.\n• 'In-' prefix negation: in + appropriate = inappropriate.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Appropriate → Inappropriate (in- prefix = not)\n• Prefix negation patterns:\n  - in-: appropriate → inappropriate, correct → incorrect, formal → informal\n  - un-: happy → unhappy, kind → unkind, fit → unfit\n  - dis-: honest → dishonest, agree → disagree\n  - im-: possible → impossible, patient → impatient\n  - il-: legal → illegal, literate → illiterate\n  - ir-: regular → irregular, relevant → irrelevant\n• 'Misappropriate' = to use something wrongly/dishonestly (funds misappropriate ചെയ്യുക) — antonym അല്ല, different word ആണ്!\n• ⭐ PSC ആവർത്തനം: Antonyms with prefixes — PSC-ൽ ഇടയ്ക്ക് ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. His behaviour was inappropriate for the occasion. (ഉചിതമല്ലാത്ത)\n  2. The dress was inappropriate for a formal meeting.\n  3. Appropriate attire is required for the interview.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) misappropriate — 'Misappropriate' = to use money/resources dishonestly for wrong purpose (ദുരുപയോഗം). ഇത് 'appropriate' (adjective)-ൻ്റെ antonym അല്ല — 'misappropriate' verb ആണ്, different meaning entirely. 🪤 PSC Trap: 'mis' prefix 'wrong' indicate ചെയ്യും, students confuse ചെയ്യും.\n\n❌ (B) disappropriate — 'Disappropriate' ഒരു standard English word അല്ല! ഇത് exist ചെയ്യുന്ന word അല്ല. 'dis-' + 'appropriate' combination English dictionary-ൽ ഇല്ല.\n\n❌ (D) none of the above — Option C 'inappropriate' ശരിയായ antonym ആണ്. 'None of the above' wrong ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'APPROPRIATE → IN + APPROPRIATE' — 'IN' = NO! Appropriate-ൽ 'IN' ചേർത്താൽ = NOT appropriate = INAPPROPRIATE! Easy!\n• Prefix rule: 'in-' + word = NOT that word. This is the most common negative prefix in PSC!\n• PSC exam strategy: Antonym question-ൽ negative prefix (in-, un-, dis-, im-, il-, ir-) ഉള്ള options identify ചെയ്യൂ. 'Disappropriate' real word അല്ല → eliminate. 'Misappropriate' different meaning → eliminate. 'Inappropriate' = correct!"
+    }
+  },
+  {
+    "id": "178-2024-E_q89",
+    "paperId": "178-2024-E",
+    "questionNumber": 89,
+    "topic": "Parts of Speech",
+    "questionText": "In this sentence 'walking' is used as:\nWalking is a good exercise.",
+    "optionA": "verb",
+    "optionB": "adverb",
+    "optionC": "adjective",
+    "optionD": "noun",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) noun\n\n• 'Walking is a good exercise' — 'Walking' ഈ sentence-ൻ്റെ Subject ആണ്.\n• Subject position-ൽ ഉള്ള word → Noun function ചെയ്യുന്നു.\n• 'Walking' = Gerund — verb-ൻ്റെ '-ing' form noun ആയി ഉപയോഗിക്കുന്നത്.\n• Gerund = verb + ing, but functions as a NOUN.\n• 'Walking is good' — 'is' ൻ്റെ subject = walking → noun.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: V + ing used as subject/object → GERUND → functions as NOUN\n• Gerund uses (noun function):\n  - Subject: Walking is healthy. (Subject)\n  - Object: I enjoy swimming. (Object)\n  - After preposition: She is good at cooking. (after 'at')\n• ⭐ PSC ആവർത്തനം: Gerunds (verb-ing as noun) — PSC-ൽ ഇടയ്ക്ക് ചോദിക്കുന്ന topic!\n• Gerund vs Present Participle (same form, different function):\n  - Walking is healthy. (Gerund = Noun → subject)\n  - She is walking. (Present Participle = part of continuous tense → verb)\n• ഉദാഹരണ sentences:\n  1. Swimming is my favourite sport. (Gerund = subject → noun)\n  2. Reading improves vocabulary. (Gerund = subject → noun)\n  3. She loves dancing. (Gerund = object → noun)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) verb — 'Walking' ഇവിടെ verb function ചെയ്യുന്നില്ല. Verb ആകണമെങ്കിൽ auxiliary 'is' ആവശ്യം (She is walking). ഇവിടെ 'walking' subject ആണ്, verb ആകുന്നത് 'is'. 🪤 PSC Trap: '-ing' form കണ്ടിട്ട് 'verb' choose ചെയ്യും.\n\n❌ (B) adverb — Adverb verb/adjective/other adverb-നെ modify ചെയ്യുന്നതാണ്. 'Walking' ഒന്നിനെയും modify ചെയ്യുന്നില്ല — subject function ചെയ്യുന്നു. 'Walking' adverb ആകില്ല.\n\n❌ (C) adjective — Adjective noun-നെ modify ചെയ്യുന്നതാണ്. 'Walking is a good exercise' — 'walking' ഒരു noun-നെ modify ചെയ്യുന്നില്ല, itself subject (noun function) ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'GERUND = VERB + ING WEARING NOUN MASK!' — Walking, swimming, reading = verbs wearing noun masks as subjects! '-ing' form as SUBJECT = always NOUN!\n• Quick test: '-ing' word subject position-ൽ ആണോ? (sentence-ൻ്റെ beginning-ൽ, 'is/are/was' ൻ്റെ മുന്നിൽ) → NOUN (Gerund)!\n• PSC exam strategy: 'Walking IS a good exercise' — 'is' ൻ്റെ subject find ചെയ്യൂ → 'walking' = subject → noun function. Subject = Noun, always!"
+    }
+  },
+  {
+    "id": "178-2024-E_q90",
+    "paperId": "178-2024-E",
+    "questionNumber": 90,
+    "topic": "Conditionals",
+    "questionText": "Choose the correct option to complete the sentence.\nIf we had rehearsed well we __________.",
+    "optionA": "would win the competition",
+    "optionB": "would have won the competition",
+    "optionC": "will win the competition",
+    "optionD": "would have win the competition",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) would have won the competition\n\n• 'If we had rehearsed well' — if-clause-ൽ 'had rehearsed' = Past Perfect → Third Conditional.\n• Third Conditional formula: If + Past Perfect → would have + V3\n• 'Had rehearsed' → main clause: 'would have won' (would have + won = V3 of win)\n• Meaning: ഞങ്ങൾ നന്നായി rehearse ചെയ്തിരുന്നെങ്കിൽ competition ജയിച്ചേനേ — but we didn't rehearse well (past unreal).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: If + had + V3 → would have + V3 (Third Conditional)\n• Three Conditional types:\n  - Type 1 (Real): If it rains → we will cancel\n  - Type 2 (Imaginary present): If I had money → I would buy\n  - Type 3 (Past unreal): If I had studied → I would have passed\n• ⭐ PSC ആവർത്തനം: Third Conditional — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic!\n• ഉദാഹരണ sentences:\n  1. If she had applied, she would have got the job. (apply ചെയ്തിരുന്നെങ്കിൽ)\n  2. If they had practised, they would have won. (practice ചെയ്തിരുന്നെങ്കിൽ)\n  3. If he had left early, he would have caught the train.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) would win — 'Would win' = Type 2 Conditional main clause ആണ്. Type 2-ൻ്റെ if-clause simple past ആണ് (If we rehearsed). ഇവിടെ if-clause past perfect (had rehearsed) ആണ് → Type 3 → 'would have won' ആണ് ആവശ്യം. 🪤 PSC Trap: 'would' കണ്ടിട്ട് Type 2 ഉം Type 3 ഉം confuse ആകും.\n\n❌ (C) will win — 'Will win' = Type 1 Conditional main clause (future). Type 1-ൻ്റെ if-clause Simple Present ആണ്. ഇവിടെ Past Perfect if-clause ആണ്, Future main clause wrong ആണ്.\n\n❌ (D) would have win — 'Would have win' = grammatically wrong! 'Would have' ൻ്റെ ശേഷം V3 (past participle) ആണ് ആവശ്യം. 'Win' base form ആണ്, V3 'won' ആണ്. 'Would have won' ആണ് ശരി.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HAD in IF clause → WOULD HAVE in main clause!' If clause-ൽ 'HAD' കണ്ടാൽ → main clause-ൽ 'WOULD HAVE' ആണ്. Period! HAD → WOULD HAVE!\n• 'Would have' ൻ്റെ ശേഷം V3 (past participle) — 'won' not 'win'. Option D eliminate ചെയ്യൂ immediately!\n• PSC exam strategy: If-clause-ൽ 'had + V3' = Third Conditional → main clause 'would have + V3'. ഈ pattern ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "178-2024-E_q91",
+    "paperId": "178-2024-E",
+    "questionNumber": 91,
+    "topic": "One Word Substitutes",
+    "questionText": "A person who does clever tricks which appear magical is called",
+    "optionA": "curator",
+    "optionB": "burglar",
+    "optionC": "conjurer",
+    "optionD": "none of the above",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) conjurer\n\n• 'Conjurer' (also 'conjuror') = a person who performs magic tricks that appear supernatural.\n• 'Clever tricks which appear magical' → conjurer = magician, illusionist.\n• 'Conjure' = magical trick perform ചെയ്യുക → 'conjurer' = ആ person.\n• Magic show-ൽ cards disappear ചെയ്യുക, rabbits hat-ൽ നിന്ന് appear ആകുക — ഇവ conjurer ചെയ്യുന്ന tricks.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Magic tricks performer = Conjurer/Conjuror/Magician\n• ⭐ One Word Substitutes (PSC favourites):\n  - Conjurer/Magician — magic tricks performer\n  - Curator — museum/art gallery-ൻ്റെ keeper/manager\n  - Burglar — breaks into buildings to steal (house-ൽ കൊള്ളയടിക്കുന്ന ആൾ)\n  - Ventriloquist — talks without moving lips, makes puppets 'speak'\n  - Acrobat — performs gymnastic feats\n  - Philanthropist — loves humanity, donates to charity\n  - Misanthrope — hates humans\n• ⭐ PSC ആവർത്തനം: One Word Substitutes — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic.\n• ഉദാഹരണ sentences:\n  1. The conjurer amazed the audience with his tricks. (audience-നെ tricks കൊണ്ട് amazed ആക്കി)\n  2. The museum curator arranged the exhibits well.\n  3. The burglar broke into the house at night.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) curator — 'Curator' = museum, art gallery, library-ൻ്റെ collection manage ചെയ്യുന്ന ആൾ. Magic tricks-ൻ്റെ context-ൽ ഉപയോഗിക്കില്ല. 🪤 PSC Trap: 'Curator' less familiar word ആണ്, students ഇത് 'conjurer' ആണ് ആകും എന്ന് confuse ചെയ്യും.\n\n❌ (B) burglar — 'Burglar' = break ചെയ്ത് building-ൽ കേറി steal ചെയ്യുന്ന ആൾ — criminal! Magic tricks-ൻ്റെ context-ൽ ഉപയോഗിക്കില്ല.\n\n❌ (D) none of the above — Option C 'conjurer' ശരി ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'CONJURER = CONJURE + R' — 'Conjure' = summon by magic. Conjurer = one who conjures (magic summon ചെയ്യുന്ന ആൾ). 'CONJURE = MAGIC' — simple!\n• Word family: conjure (verb) → conjurer/conjuror (person) → conjuring (activity) → conjuration (act)\n• PSC exam strategy: One word substitute question-ൽ definition-ൻ്റെ KEY ACTION identify ചെയ്യൂ. 'Clever tricks that appear magical' = magic = conjurer. Direct!"
+    }
+  },
+  {
+    "id": "178-2024-E_q92",
+    "paperId": "178-2024-E",
+    "questionNumber": 92,
+    "topic": "Verb Forms",
+    "questionText": "Which among the following is an irregular verb?",
+    "optionA": "jump",
+    "optionB": "move",
+    "optionC": "walk",
+    "optionD": "run",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) run\n\n• 'Run' = irregular verb: run → ran → run (V1 → V2 → V3)\n• Past tense 'ran' — regular pattern follow ചെയ്യുന്നില്ല ('runned' ആകില്ല!).\n• Irregular verb = past tense/past participle form unpredictable ആയ verb (regular pattern follow ചെയ്യില്ല).\n• 'Run → ran → run' — V2 'ran' ആണ്, 'runned' അല്ല → irregular.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Regular verb = V1 + ed (jumped, walked, moved). Irregular verb = special form (run→ran, go→went, write→wrote)\n• Other options (regular verbs):\n  - Jump → jumped → jumped (regular)\n  - Move → moved → moved (regular)\n  - Walk → walked → walked (regular)\n• ⭐ Common irregular verbs (PSC favourites):\n  - run → ran → run\n  - go → went → gone\n  - write → wrote → written\n  - see → saw → seen\n  - come → came → come\n  - take → took → taken\n  - give → gave → given\n  - buy → bought → bought\n  - teach → taught → taught\n• ⭐ PSC ആവർത്തനം: Irregular verbs — PSC-ൽ ഇടയ്ക്ക് ചോദിക്കുന്ന topic.\n• ഉദാഹരണ sentences:\n  1. She ran to the bus stop. (run → ran)\n  2. He jumped over the wall. (jump → jumped, regular)\n  3. They walked to school. (walk → walked, regular)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) jump — 'Jump' regular verb ആണ്: jump → jumped → jumped. '-ed' ചേർക്കുന്ന pattern follow ചെയ്യുന്നു. 🪤 PSC Trap: 'Run' ഉം 'jump' ഉം both physical actions ആണ്, students confuse ചെയ്യും.\n\n❌ (B) move — 'Move' regular verb ആണ്: move → moved → moved. '-d' ചേർക്കുന്ന pattern (e-ൽ end ആകുന്ന verbs → just add 'd').\n\n❌ (C) walk — 'Walk' regular verb ആണ്: walk → walked → walked. '-ed' standard pattern follow ചെയ്യുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'RUN-RAN-RUN = RUN circles!' — Run → Ran → Run, same starting and ending, but middle 'ran' = ran away from regular pattern! Irregular!\n• Quick test: V2 (past tense) = V1 + 'ed'? → Regular. V2 = different word entirely? → Irregular.\n• PSC exam strategy: Irregular verb identify ചെയ്യാൻ — options-ൻ്റെ past tense form mentally ഉണ്ടാക്കൂ. 'Runned' sounds wrong → 'ran' → irregular = answer D!"
+    }
+  },
+  {
+    "id": "178-2024-E_q93",
+    "paperId": "178-2024-E",
+    "questionNumber": 93,
+    "topic": "Prepositions",
+    "questionText": "Fill in the blank using the right preposition.\nThere is a river ________ my house.",
+    "optionA": "beside",
+    "optionB": "by",
+    "optionC": "besides",
+    "optionD": "at",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) beside\n\n• 'Beside' = next to, at the side of (ഓരം ചേർന്ന്, സമീപം).\n• 'There is a river beside my house' = എൻ്റെ വീടിൻ്റെ ഓരത്ത് ഒരു river ഉണ്ട്.\n• Location/position indicate ചെയ്യാൻ 'beside' ഉപയോഗിക്കുന്നു.\n• 'Beside' vs 'besides': ഇവ രണ്ടും different meanings ഉള്ള words ആണ്!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula:\n  - Beside = next to (location) — ഓരത്ത്\n  - Besides = in addition to / moreover — കൂടാതെ\n• Examples:\n  - She sat beside me. (next to me — ഓരത്ത്)\n  - Besides English, she knows French. (in addition to — കൂടാതെ)\n• ⭐ PSC ആവർത്തനം: 'Beside vs Besides' — PSC-ൽ ഇടയ്ക്ക് confuse ചെയ്യിക്കുന്ന pair!\n• 'By' ഉം location indicate ചെയ്യും, പക്ഷേ 'beside' more specific for 'at the side of'. 'By the river' = near the river, 'beside the house' = next to the house — both acceptable sometimes, but 'beside' is more precise here.\n• ഉദാഹരണ sentences:\n  1. The dog sat beside its owner. (ഓരത്ത്)\n  2. Besides playing cricket, he studies well. (കൂടാതെ)\n  3. She stood beside the door. (next to)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) by — 'By' = near, through, by means of. 'By my house' ഉം acceptable ആണ് (near my house), പക്ഷേ 'beside' more precise location (directly at the side) ആണ്. PSC context-ൽ 'beside' ആണ് correct answer. 🪤 PSC Trap: 'By the river' familiar phrase ആണ്.\n\n❌ (C) besides — 'Besides' = in addition to (കൂടാതെ). Location sense ഇല്ല. 'There is a river besides my house' = meaning change — 'കൂടാതെ' sense ആകും, location sense ആകില്ല. Classic trap!\n\n❌ (D) at — 'At' specific point location-ൽ ഉപയോഗിക്കുന്നതാണ്. 'At the river' (specific point), 'at home'. 'A river at my house' = slightly unnatural for 'beside' meaning.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BESIDE = BE + SIDE' — 'By the SIDE of' = BESIDE! 'Besides' = 'be + sides' = multiple sides = 'also/in addition to'. ONE side = beside (location). MULTIPLE sides = besides (addition)!\n• Key difference: Beside (where?) = location. Besides (what else?) = addition.\n• PSC exam strategy: 'Besides' ഉം 'Beside' ഉം options-ൽ ഉണ്ടെങ്കിൽ — location question ആണോ addition question ആണോ? Location = beside (no 's'). Addition = besides (with 's')!"
+    }
+  },
+  {
+    "id": "178-2024-E_q94",
+    "paperId": "178-2024-E",
+    "questionNumber": 94,
+    "topic": "Synonyms",
+    "questionText": "In this sentence 'august' as an adjective means:\nThe party was attended by an august group of people.",
+    "optionA": "disinterested",
+    "optionB": "ordinary",
+    "optionC": "arrogant",
+    "optionD": "impressive",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) impressive\n\n• 'August' (adjective) = respected and impressive, dignified, venerable (ആദരണീയം, പ്രൗഢഗംഭീരം).\n• 'An august group of people' = distinguished, respected, impressive group.\n• ഇവിടെ 'August' = month (ഓഗസ്റ്റ്) അല്ല — adjective 'august' = impressive/respected ആണ്!\n• 'August' adjective Latin origin: 'augustus' = dignified, majestic (as in Augustus Caesar).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: August (adjective) = Impressive + Respected + Dignified\n• Etymology: Latin 'augustus' = consecrated, majestic → English 'august' = inspiring reverence\n• Month August also named after Augustus Caesar (the 'august' emperor)!\n• ⭐ PSC favourite: Words with dual meaning (month vs adjective)\n• Synonyms of august (adjective): impressive, distinguished, dignified, venerable, respected, illustrious, grand\n• ⭐ PSC ആവർത്തനം: Vocabulary with context-based meaning — PSC-ൽ ഇടയ്ക്ക് ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. The august presence of the President silenced the room. (ആദരണീയ presence)\n  2. An august body of scholars gathered for the conference.\n  3. The august traditions of the institution were preserved.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) disinterested — 'Disinterested' = impartial, unbiased (personal benefit ഇല്ലാതെ fair ആയ). 'August' = impressive/dignified ആണ്, impartial അല്ല. Different meaning ആണ്. 🪤 PSC Trap: 'Disinterested' sophisticated word ആണ്, students august-ൻ്റെ meaning guess ചെയ്ത് ഇത് choose ചെയ്യും.\n\n❌ (B) ordinary — 'Ordinary' = common, not special. 'August' = OPPOSITE of ordinary — impressive, distinguished ആണ്. ഇത് antonym ആണ്, synonym അല്ല.\n\n❌ (C) arrogant — 'Arrogant' = having an exaggerated sense of self-importance (അഹങ്കാരം). 'August' = respected by others (ആദരണീയം). Self-perception vs others' perception — different. August positive quality ആണ്, arrogant negative quality ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'AUGUST = AUGUSTUS CAESAR = MAJESTIC EMPEROR!' — ആ majestic emperor-ൻ്റെ name-ൽ നിന്ന് August month ഉം august (adj) ഉം — both = impressive/majestic! Emperor-ൻ്റെ quality = august!\n• Context clue: 'august GROUP' — positive/negative? Party attended by impressive people = positive → eliminate negative options (arrogant, ordinary)\n• PSC exam strategy: Unknown adjective ആണ്? Context (positive/negative, formal/informal) identify ചെയ്ത് wrong options eliminate ചെയ്യൂ. 'August' = formal positive = 'impressive'!"
+    }
+  },
+  {
+    "id": "178-2024-E_q95",
+    "paperId": "178-2024-E",
+    "questionNumber": 95,
+    "topic": "Correlatives",
+    "questionText": "Complete the sentence using the right option.\nNo sooner had she left the house ________ it started raining.",
+    "optionA": "then",
+    "optionB": "when",
+    "optionC": "than",
+    "optionD": "none of the above",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) than\n\n• 'No sooner...than' = fixed correlative conjunction pair (PSC favourite!).\n• 'No sooner had she left the house than it started raining.'\n• Meaning: അവൾ വീടു വിട്ടു, ഉടൻ മഴ തുടങ്ങി — as soon as she left, rain started.\n• 'No sooner' always pairs with 'than' — never 'then' or 'when'!\n• Structure: No sooner + had + subject + V3 → than + subject + past simple.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: No sooner...THAN (never 'then'!)\n• ⭐ Correlative conjunctions (PSC guaranteed):\n  - No sooner...than (ഉടൻ...ആകേ)\n  - Hardly/Scarcely...when (barely...when)\n  - Either...or (ഒന്നുകിൽ...അല്ലെങ്കിൽ)\n  - Neither...nor (ഒന്നും ഇല്ല)\n  - Both...and (രണ്ടും)\n  - Not only...but also (മാത്രമല്ല...ഉം)\n  - Lest...should (lest = so that...not)\n• ⭐ PSC ആവർത്തനം: No sooner...than — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic!\n• ഉദാഹരണ sentences:\n  1. No sooner had he arrived than it began to rain. (arrived = rain ആരംഭം)\n  2. Hardly had she sat down when the phone rang. (sat = phone ring)\n  3. Either you come or I will leave. (either...or)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) then — 'No sooner...then' = WRONG! ഇത് most common mistake ആണ്! 'No sooner' pair ആകുന്നത് 'than' ആണ്, 'then' (adverb of time) അല്ല. 'Then' = thereafter, next time — conjunction function ചെയ്യില്ല ഇവിടെ. 🪤 PSC classic trap — 'No sooner THEN' write ചെയ്യുന്ന students!\n\n❌ (B) when — 'When' 'hardly/scarcely'-ൻ്റെ pair ആണ്: 'Hardly had she left when it rained.' 'No sooner' ൻ്റെ pair 'than' ആണ്, 'when' അല്ല. Mix ചെയ്യരുത்!\n\n❌ (D) none of the above — Option C 'than' ശരിയാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NO SOONER = THAN, NOT THEN!' — 'Than' comparison ആണ്: 'sooner THAN' = timing comparison! Never 'then' (sequence)! Exam-ൽ 'No sooner' കണ്ടാൽ → immediately 'than' → guarantee mark!\n• Pairs table:\n  No sooner → THAN\n  Hardly/Scarcely → WHEN\n  Either → OR\n  Neither → NOR\n  Lest → SHOULD\n• PSC exam strategy: Correlative conjunction question-ൽ first word identify ചെയ്ത് pair recall ചെയ്യൂ. 'No sooner' → 'than'. Automatic!"
+    }
+  },
+  {
+    "id": "178-2024-E_q96",
+    "paperId": "178-2024-E",
+    "questionNumber": 96,
+    "topic": "Spelling",
+    "questionText": "Which among the following is the correctly spelt word?",
+    "optionA": "buisiness",
+    "optionB": "business",
+    "optionC": "bussiness",
+    "optionD": "bisiness",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) business\n\n• 'Business' = correct spelling: B-U-S-I-N-E-S-S\n• 'Business' = commercial activity, trade, occupation (വ്യാപാരം, കച്ചവടം).\n• Common mistake: 'buisiness' (ui reversed), 'bussiness' (double ss wrong place), 'bisiness' (u → i).\n• Remember: BUS + I + NESS = BUSINESS. 'Bus' + 'i' + 'ness' ഉണ്ടാക്കൂ!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: B-U-S-I-N-E-S-S (8 letters, single 's' in middle, double 'ss' at end)\n• Breaking it down: BUS + I + NESS → BUS-I-NESS → BUSINESS\n• ⭐ Commonly misspelled words (PSC favourites):\n  - business (not buisiness/bussiness)\n  - necessary (1 c, 2 s: neCeSSary)\n  - accommodation (2 c, 2 m: aCCoMMOdation)\n  - occurrence (2 c, 2 r)\n  - committee (2 m, 2 t, 2 e)\n  - separate (not seperate — there's A RAT in sepARATe!)\n  - privilege (not privalege)\n• ⭐ PSC ആവർത്തനം: Spelling — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic.\n• ഉദാഹരണ sentences:\n  1. She started a new business last year. (കഴിഞ്ഞ വർഷം business തുടങ്ങി)\n  2. Business studies include economics and commerce.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) buisiness — 'ui' reversed (should be 'u-s', not 'u-i-s' at start). B-U-I-S-I-N-E-S-S = extra 'i' inserted wrongly. 🪤 PSC Trap: Quick glance-ൽ 'buisiness' ഉം 'business' ഉം similar look.\n\n❌ (C) bussiness — Double 's' in wrong position — 'buss' + iness. Correct is single 's' in middle: bus + i + ness. Double 'ss' only at the END (business). 'Buss' = to kiss (informal) — wrong word base.\n\n❌ (D) bisiness — 'u' → 'i' changed (bisiness instead of business). B-I-S-I-N-E-S-S = wrong. First vowel must be 'u', not 'i'.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BUS + I + NESS = BUSINESS!' — Imagine a BUS carrying business people (I = me, NESS = quality). BUS-I-NESS! Or: 'It's none of your BUSiness!' — BUS inside BUSINESS!\n• Double letter rule: 'business' → single 's' in middle, double 'ss' at end. busi-NESS (like KIND-NESS, DARK-NESS).\n• PSC exam strategy: Spelling question-ൽ ആദ്യം clearly wrong options eliminate ചെയ്യൂ. ശേഷം remaining option standard spelling verify ചെയ്യൂ. 'Business' = familiar word, just spell ooze carefully!"
+    }
+  },
+  {
+    "id": "178-2024-E_q97",
+    "paperId": "178-2024-E",
+    "questionNumber": 97,
+    "topic": "Active and Passive Voice",
+    "questionText": "Change into passive voice.\nThey are following us.",
+    "optionA": "we are followed by them",
+    "optionB": "we have been followed by them",
+    "optionC": "we are being followed by them",
+    "optionD": "we were being followed by them",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) we are being followed by them\n\n• Active: 'They are following us' — Present Continuous tense.\n• Present Continuous Passive formula: am/is/are + being + V3\n• Subject change: 'us' → 'we' (object becomes subject in passive)\n• Agent change: 'they' → 'by them'\n• 'They are following us' → 'We are being followed by them'\n• Tense: Present Continuous Active → Present Continuous Passive ✓",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Present Continuous Passive = am/is/are + being + V3\n• Passive voice formulas:\n  - Simple Present: am/is/are + V3\n  - Simple Past: was/were + V3\n  - Present Continuous: am/is/are + being + V3\n  - Past Continuous: was/were + being + V3\n  - Present Perfect: has/have + been + V3\n  - Future: will be + V3\n  - Imperative: Let + object + be + V3\n• ⭐ PSC ആവർത്തനം: Passive Voice — PSC-ൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic!\n• ഉദാഹരണ sentences:\n  1. She is reading the book. → The book is being read by her.\n  2. They were watching us. → We were being watched by them.\n  3. He is teaching the class. → The class is being taught by him.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) we are followed by them — 'Are followed' = Simple Present Passive ആണ്. Active sentence 'are following' = Present Continuous. Tense match ആകുന്നില്ല. 'Being' missing! 🪤 PSC Trap: 'Are followed' common passive form ആണ്, students ഇത് choose ചെയ്യും.\n\n❌ (B) we have been followed by them — 'Have been followed' = Present Perfect Passive ആണ്. Present Continuous Active-ൻ്റെ passive ആകില്ല. Completely different tense.\n\n❌ (D) we were being followed by them — 'Were being' = Past Continuous Passive ആണ്. Active sentence present tense (are following), passive also present tense (are being) ആകണം. 'Were' past tense wrong.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'IS/ARE + BEING = CONTINUOUS PASSIVE!' — 'Being' കണ്ടാൽ = Continuous tense passive! Is being / are being / was being / were being = continuous passives!\n• Active: They ARE FOLLOWING → Passive: We ARE BEING FOLLOWED. 'ARE' same, just add 'BEING' and V3!\n• PSC exam strategy: Active tense identify ചെയ്ത് correct passive formula apply ചെയ്യൂ. 'Is/are + -ing' (present continuous) → 'is/are + being + V3' passive. Automatic!"
+    }
+  },
+  {
+    "id": "178-2024-E_q98",
+    "paperId": "178-2024-E",
+    "questionNumber": 98,
+    "topic": "Idioms",
+    "questionText": "In this sentence 'Herculean task' stands for:\nWe have a Herculean task in front of us.",
+    "optionA": "an easy task",
+    "optionB": "an interesting task",
+    "optionC": "an uninteresting task",
+    "optionD": "a tough task",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) a tough task\n\n• 'Herculean' = requiring great strength or effort (ഹെർക്കുലീസിൻ്റെ ശക്തി ആവശ്യമുള്ള).\n• 'Herculean task' = extremely difficult, demanding enormous effort.\n• Origin: Greek mythology-ൽ Hercules (Heracles) — superhuman strength ഉള്ള hero. അദ്ദേഹം ചെയ്ത 'Twelve Labours' = extremely tough tasks.\n• 'Herculean' = only extremely tough/powerful things describe ചെയ്യുന്ന adjective.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Herculean = requiring superhuman effort = extremely tough\n• ⭐ Mythology-based English words (PSC favourites):\n  - Herculean — extremely powerful/difficult (Hercules)\n  - Titanic — enormous (Titans)\n  - Narcissistic — self-obsessed (Narcissus)\n  - Achilles heel — fatal weakness (Achilles)\n  - Midas touch — ability to turn everything to gold/success (King Midas)\n  - Odyssey — long adventurous journey (Odysseus)\n  - Pandora's box — source of great troubles (Pandora)\n• ⭐ PSC ആവർത്തനം: Mythology-based idioms/expressions — PSC-ൽ ഇടയ്ക്ക് ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. Climbing Everest is a Herculean task. (ഏറ്റവും difficult task)\n  2. Finishing the project in one day was a Herculean effort.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) an easy task — 'Easy' = Herculean-ൻ്റെ EXACT OPPOSITE! Herculean = superhuman effort ആവശ്യം. Easy = no effort needed. 🪤 PSC Trap: 'Herculean' unknown ആണ്, students guess ചെയ്ത് easy/interesting choose ചെയ്യും.\n\n❌ (B) an interesting task — 'Interesting' = engaging, captivating. Herculean = difficulty level, not interest level. Task interesting ആകാം and still easy — 'Herculean' specifically difficulty ആണ് indicate ചെയ്യുന്നത്.\n\n❌ (C) an uninteresting task — 'Uninteresting' = boring. Herculean boring ആണ് എന്ന് indicate ചെയ്യുന്നതല്ല — extremely difficult ആണ് indicate ചെയ്യുന്നത്. Difficulty ≠ Interest level.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HERCULES = MUSCLES!' — Hercules = strongest mythological hero. HERCULEAN = needs HERCULES muscles = TOUGH! Imagine Hercules lifting huge rocks — that's a Herculean task!\n• Mythology word family: Herculean (tough), Titanic (enormous), Narcissistic (self-obsessed), Achilles heel (weakness) — ഈ words PSC-ൽ ഇടയ്ക്ക് come ആകും!\n• PSC exam strategy: Mythology-based adjective question-ൽ character identify ചെയ്യൂ. Hercules = strength/difficulty. ഉടൻ D) tough task = answer!"
+    }
+  },
+  {
+    "id": "178-2024-E_q99",
+    "paperId": "178-2024-E",
+    "questionNumber": 99,
+    "topic": "Degrees of Comparison",
+    "questionText": "Which sentence among the following conveys the same meaning?\nNo other girl in this class is as studious as Nita.",
+    "optionA": "All the girls in this class are as studious as Nita.",
+    "optionB": "Nita is the most studious girl in this class.",
+    "optionC": "All the girls in this class are more studious than Nita.",
+    "optionD": "Some girls in this class are more studious than Nita.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Nita is the most studious girl in this class.\n\n• 'No other girl is as studious as Nita' = Positive degree-ൽ ഉള്ള superlative meaning.\n• ഇതിൻ്റെ meaning: Nita ആണ് class-ൽ ഏറ്റവും studious — nobody is equal to her.\n• Superlative equivalent: 'Nita is the most studious girl in this class.'\n• Degree of comparison equivalence:\n  - Positive: No other X is as...as Nita.\n  - Superlative: Nita is the most... (= same meaning)",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'No other...as...as X' = 'X is the most...' (Positive = Superlative equivalent)\n• Degree transformation rules:\n  - No other girl is as tall as Riya. (Positive)\n  = Riya is the tallest girl. (Superlative)\n  = Riya is taller than all other girls. (Comparative)\n• ⭐ PSC ആവർത്തനം: Degree of comparison equivalence — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic!\n• ഉദാഹരണ sentences:\n  1. No other mountain is as high as Everest. = Everest is the highest mountain.\n  2. No other player is as fast as him. = He is the fastest player.\n  3. No other city is as beautiful as Paris. = Paris is the most beautiful city.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) All the girls in this class are as studious as Nita — ഇതിൻ്റെ meaning: everyone = Nita's level. Original meaning: nobody = Nita's level. Exact OPPOSITE! 🪤 PSC Trap: 'as studious as' keyword-ൽ confused ആകും.\n\n❌ (C) All the girls in this class are more studious than Nita — ഇതിൻ്റെ meaning: everyone > Nita. Original: Nita > everyone. COMPLETE OPPOSITE!\n\n❌ (D) Some girls in this class are more studious than Nita — ഇതിൻ്റെ meaning: some girls > Nita. Original: Nita > all girls. OPPOSITE again!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NO OTHER = BEST!' — 'No other...as...as X' means X is BEST! No one can match → X is the top! 'No other girl = as studious as Nita' → Nita = MOST STUDIOUS!\n• Transformation rule: Positive 'no other as X as Y' → Superlative 'Y is the most X'. Always!\n• PSC exam strategy: Degree transformation question-ൽ original sentence-ൻ്റെ core meaning identify ചെയ്യൂ. 'No other...as...as' = superlative meaning → find 'most/best' option!"
+    }
+  },
+  {
+    "id": "178-2024-E_q100",
+    "paperId": "178-2024-E",
+    "questionNumber": 100,
+    "topic": "Abbreviations",
+    "questionText": "Here 'pm' can be expanded as:\nThe train will arrive at 4 p.m.",
+    "optionA": "post meridiem",
+    "optionB": "past meridiem",
+    "optionC": "post midday",
+    "optionD": "past midday",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) post meridiem\n\n• 'p.m.' = 'post meridiem' — Latin expression.\n• 'Post' = after (Latin). 'Meridiem' = midday/noon (Latin: 'meridies' = noon).\n• 'Post meridiem' = after noon = afternoon/evening time.\n• 'a.m.' = 'ante meridiem' = before noon (Latin: 'ante' = before).\n• 4 p.m. = 4 in the afternoon = ഉച്ചതിരിഞ്ഞ് 4 മണി.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: p.m. = POST MERIDIEM (Latin: after noon)\n• Important Latin abbreviations (PSC guaranteed):\n  - a.m. = ante meridiem (before noon)\n  - p.m. = post meridiem (after noon)\n  - e.g. = exempli gratia (for example)\n  - i.e. = id est (that is)\n  - etc. = et cetera (and so on)\n  - viz. = videlicet (namely)\n  - P.S. = post scriptum (written after)\n  - N.B. = nota bene (note well)\n  - R.I.P. = requiescat in pace (rest in peace)\n• ⭐ PSC ആവർത്തനം: Latin abbreviations — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic!\n• ഉദാഹരണ sentences:\n  1. The meeting is at 10 a.m. (ante meridiem = before noon)\n  2. School ends at 4 p.m. (post meridiem = after noon)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) past meridiem — 'Past' English word ആണ്, 'post' Latin word ആണ്. p.m. = Latin abbreviation → Latin expansion ആണ് ആവശ്യം. 'Past' → 'post' ആകില്ല. 🪤 PSC Trap: 'past' ഉം 'post' ഉം similar sound, students confuse ചെയ്യും.\n\n❌ (C) post midday — 'Post' correct ആണ്, 'midday' wrong ആണ്. Latin expansion-ൽ 'midday' (English) ആകില്ല — 'meridiem' (Latin) ആണ് ആവശ്യം. 'Midday' English translation ആണ്, abbreviation expansion ആകില്ല.\n\n❌ (D) past midday — Two errors: (1) 'past' instead of 'post', (2) 'midday' instead of 'meridiem'. Full expansion Latin ആകണം — both words wrong.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'P.M. = POST MERIDIEM = PM after Midday!' — P = POST (after), M = MERIDIEM (noon). 'POST = AFTER' in Latin — Postgraduate (after graduation), Postmortem (after death), Post meridiem (after noon)!\n• am/pm pair: AM = ANTE (before) MERIDIEM. PM = POST (after) MERIDIEM. Both Latin! Ante = before, Post = after.\n• PSC exam strategy: Latin abbreviations — focus on 'post = after' and 'ante = before'. p.m. = post meridiem. ഇത് ഒരിക്കൽ ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
   }
 ]
