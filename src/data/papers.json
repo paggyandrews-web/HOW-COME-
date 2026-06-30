@@ -275,7 +275,7 @@
     "id": "032-2025-M",
     "paperCode": "32/2025/M",
     "post": "Village Field Assistant (Revenue)",
-    "date": "",
+    "date": "28-Apr-2025",
     "medium": "M",
     "year": "2025",
     "categoryCode": "049/2024"
@@ -306,5 +306,14 @@
     "medium": "M",
     "year": "2024",
     "categoryCode": "256/2017, 729/2022"
+  },
+  {
+    "id": "154-2024-M",
+    "paperCode": "154/2024 M",
+    "post": "Matron Grade I - Social Justice/Women and Child Development - Main",
+    "date": "08-Nov-2024",
+    "medium": "M",
+    "year": "2024",
+    "categoryCode": "722/2022"
   }
 ]
