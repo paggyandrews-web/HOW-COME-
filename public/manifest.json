@@ -1,15 +1,26 @@
 {
   "name": "HOW COME?",
   "short_name": "HOW COME?",
+  "id": "/",
   "description": "Kerala PSC English Grammar — Master English for PSC exams with bilingual explanations",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
+  "prefer_related_applications": false,
   "background_color": "#0f172a",
   "theme_color": "#1a9d8e",
   "orientation": "portrait",
   "lang": "en",
   "categories": ["education"],
+  "screenshots": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "HOW COME? — PSC English Quiz"
+    }
+  ],
   "icons": [
     {
       "src": "/icon-192.png",
