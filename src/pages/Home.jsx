@@ -161,6 +161,95 @@ function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
   )
 }
 
+function DailyQuizCard() {
+  const QUIZ_HOUR = 21   // 9 PM
+  const QUIZ_MIN  = 30   // :30
+
+  const [timeLeft, setTimeLeft] = useState(null)
+  const [isLive, setIsLive]     = useState(false)
+
+  useEffect(() => {
+    function tick() {
+      const now  = new Date()
+      const fire = new Date()
+      fire.setHours(QUIZ_HOUR, QUIZ_MIN, 0, 0)
+      if (now >= fire) {
+        setIsLive(true)
+        setTimeLeft(null)
+      } else {
+        setIsLive(false)
+        const diff = fire - now
+        const h = Math.floor(diff / 3600000)
+        const m = Math.floor((diff % 3600000) / 60000)
+        const s = Math.floor((diff % 60000) / 1000)
+        setTimeLeft({ h, m, s })
+      }
+    }
+    tick()
+    const id = setInterval(tick, 1000)
+    return () => clearInterval(id)
+  }, [])
+
+  // Latest paper for the quiz
+  const latestPaper = papers[papers.length - 1]
+
+  return (
+    <div className="rounded-2xl p-5"
+      style={{
+        background: '#000000',
+        border: isLive
+          ? '2px solid var(--accent)'
+          : '1px solid rgba(26,157,142,0.25)',
+      }}>
+      <div className="flex items-center justify-between mb-3">
+        <div className="flex items-center gap-2">
+          <span style={{ fontSize: 22 }}>⚡</span>
+          <span className="font-bold text-lg">Daily Quiz</span>
+        </div>
+        {isLive
+          ? <span className="text-xs font-bold px-3 py-1 rounded-full"
+              style={{ background: 'var(--accent)', color: '#000' }}>🔴 LIVE NOW</span>
+          : <span className="text-xs font-medium px-3 py-1 rounded-full"
+              style={{ background: 'rgba(26,157,142,0.12)', color: 'var(--accent)', border: '1px solid rgba(26,157,142,0.3)' }}>
+              Goes live 9:30 PM
+            </span>
+        }
+      </div>
+
+      <p className="text-sm mb-1" style={{ color: 'rgba(255,255,255,0.6)' }}>
+        10 questions · {latestPaper?.post || 'Latest PSC paper'} · Full Malayalam explanations
+      </p>
+
+      {!isLive && timeLeft && (
+        <div className="flex items-center gap-3 my-4">
+          {[['h', timeLeft.h], ['m', timeLeft.m], ['s', timeLeft.s]].map(([label, val]) => (
+            <div key={label} className="text-center">
+              <div className="text-2xl font-bold tabular-nums" style={{ color: 'var(--accent)' }}>
+                {String(val).padStart(2, '0')}
+              </div>
+              <div className="text-xs" style={{ color: 'rgba(255,255,255,0.4)' }}>{label}</div>
+            </div>
+          ))}
+          <div className="text-xl font-bold" style={{ color: 'rgba(255,255,255,0.3)', marginBottom: 14 }}>until quiz opens</div>
+        </div>
+      )}
+
+      {isLive
+        ? <Link to="/quiz?daily=true"
+            className="block text-center w-full py-3 rounded-xl font-bold text-sm mt-3"
+            style={{ background: 'var(--accent)', color: '#000' }}>
+            Start Daily Quiz →
+          </Link>
+        : <button disabled
+            className="block text-center w-full py-3 rounded-xl font-bold text-sm mt-3"
+            style={{ background: 'rgba(255,255,255,0.06)', color: 'rgba(255,255,255,0.3)', cursor: 'not-allowed' }}>
+            🔒 Locked until 9:30 PM
+          </button>
+      }
+    </div>
+  )
+}
+
 export default function Home() {
   const { user, pinnedExams: pinnedIds, pinExam, unpinExam } = useAuth()
   const navigate = useNavigate()
@@ -196,26 +285,27 @@ export default function Home() {
       {/* Hero */}
       <div className="rounded-2xl p-6 sm:p-8 relative overflow-hidden"
         style={{
-          background: 'linear-gradient(135deg, var(--accent) 0%, var(--accent-hover) 100%)',
+          background: '#000000',
           color: 'white',
+          border: '1px solid rgba(26,157,142,0.3)',
         }}>
         <div style={{
           position: 'absolute', right: -40, top: -40,
           width: 180, height: 180, borderRadius: '50%',
-          background: 'rgba(255,255,255,0.08)', pointerEvents: 'none',
+          background: 'rgba(26,157,142,0.06)', pointerEvents: 'none',
         }} />
         <div style={{
           position: 'absolute', right: 60, bottom: -60,
           width: 120, height: 120, borderRadius: '50%',
-          background: 'rgba(255,255,255,0.05)', pointerEvents: 'none',
+          background: 'rgba(26,157,142,0.04)', pointerEvents: 'none',
         }} />
         <div style={{ position: 'relative', zIndex: 1 }}>
           <h1 className="text-2xl sm:text-3xl font-bold mb-1">
             <span style={{ color: 'rgba(255,255,255,0.7)' }}>HOW </span>
             <span style={{ color: '#ffffff', fontWeight: 800 }}>COME</span>
-            <span style={{ color: '#14b8a6', fontWeight: 800 }}>?</span>
+            <span style={{ color: 'var(--accent)', fontWeight: 800 }}>?</span>
           </h1>
-          <p style={{ color: 'rgba(255,255,255,0.8)' }} className="mb-4">
+          <p style={{ color: 'rgba(255,255,255,0.6)' }} className="mb-4">
             Foundation to PSC English — {questions.length} grammar questions from {papers.length} previous papers
           </p>
 
@@ -265,21 +355,8 @@ export default function Home() {
         </div>
       </div>
 
-      {/* Stats */}
-      <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
-        {[
-          ['📄', papers.length, 'Question Papers'],
-          ['📝', questions.length, 'Grammar Questions'],
-          ['📅', years.length, 'Years Covered'],
-          ['🗓️', upcoming.length, 'Upcoming Exams'],
-        ].map(([icon, val, label]) => (
-          <div key={label} className="card rounded-xl p-4 text-center">
-            <div className="text-2xl mb-1">{icon}</div>
-            <div className="text-2xl font-bold" style={{ color: 'var(--accent)' }}>{val}</div>
-            <div className="text-xs" style={{ color: 'var(--text2)' }}>{label}</div>
-          </div>
-        ))}
-      </div>
+      {/* Daily Quiz Card */}
+      <DailyQuizCard />
 
       {/* Search bar */}
       <div className="relative">
