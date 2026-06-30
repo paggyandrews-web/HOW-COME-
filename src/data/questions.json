@@ -7738,5 +7738,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) come by — 'Come by' = obtain or acquire something (especially something rare). 'Come by success' = obtain success — possible meaning, പക്ഷേ 'within a week and start succeeding' = recovery context ആണ്, acquisition context അല്ല. 'Come around' more naturally fits 'bounce back/recover'. 🪤 PSC Trap: 'come by success' feel ആകും.\n\n❌ (C) come about — 'Come about' = happen/occur. 'He came about within a week' = he happened/occurred within a week — doesn't make sense with a person subject in this recovery context.\n\n❌ (D) come up — 'Come up' = arise, be mentioned, (sun) rise. 'He came up within a week' = slightly different — 'come up' more for issues/sun rising, not personal recovery/bounce-back context.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'COME AROUND = CIRCLE BACK TO NORMAL!' — Imagine a path going around in a circle — 'come around' = complete the circle = return to normal state = RECOVER! Setback → come around → back to normal!\n• Context clue: 'within a week and START SUCCEEDING' = recovery/bounce-back context → 'come around' (recover) is the natural fit!\n• PSC exam strategy: Phrasal verb question-ൽ context (what happens before/after blank) read ചെയ്യൂ. 'Start succeeding after setback' = recovery = come around. Context ആണ് key!"
     }
+  },
+  {
+    "id": "152-2024-M_q81",
+    "paperId": "152-2024-M",
+    "questionNumber": 81,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "John, as well as his brother ________ in honesty and hard work.",
+    "optionA": "Believe",
+    "optionB": "Believes",
+    "optionC": "Believed",
+    "optionD": "Believing",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Believes\n\n• 'John, as well as his brother' — ഇവിടെ main subject 'John' ആണ് (singular).\n• 'As well as', 'along with', 'together with', 'in addition to' — ഇവ two subjects-നെ join ചെയ്യുമ്പോൾ verb ആദ്യത്തെ subject-നെ follow ചെയ്യുന്നു.\n• 'John' = singular → verb-ൽ 's' ചേർക്കണം → 'Believes'.\n• 'John believes in honesty' — ഇതാണ് core sentence. 'as well as his brother' extra information ആണ്.\n• 'ജോൺ, അവൻ്റെ സഹോദരനും, ആത്മാർഥതയിലും കഠിനാധ്വാനത്തിലും വിശ്വസിക്കുന്നു' — Believes ആണ് correct.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Subject1 + [as well as / along with / together with] + Subject2 → verb agrees with Subject1 ONLY!\n• ഈ phrases verb agreement change ചെയ്യില്ല:\n  - As well as\n  - Along with\n  - Together with\n  - In addition to\n  - Besides\n  - Accompanied by\n  - Rather than\n• ഇവ bracketed addition ആണ് — remove ചെയ്‌തും sentence correct ആകണം.\n• 'And' = different! John AND his brother = plural → believe (no 's').\n• ⭐ PSC ആവർത്തനം: Subject-verb agreement — PSC-ൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic!\n• ഉദാഹരണ sentences:\n  1. The teacher, as well as students, was present. (teacher = singular → was)\n  2. Raju, along with his friends, plays cricket. (Raju = singular → plays)\n  3. The manager, together with staff, attends meetings. (manager = singular → attends)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Believe — 'Believe' = plural verb form (no 's'). 'As well as his brother' കണ്ട് students 'brother' ഉം ഉള്ളതിനാൽ plural choose ചെയ്യും. 🪤 PSC Classic Trap: 'as well as' = 'and' like feel → plural verb. But 'as well as' ≠ 'and'!\n\n❌ (C) Believed — 'Believed' = past tense. Question ഒരു general truth/habit state ചെയ്യുന്നു (present tense ആണ് ആവശ്യം). Past tense context ഒന്നും sentence-ൽ ഇല്ല.\n\n❌ (D) Believing — 'Believing' = present participle. Main verb ആയി use ചെയ്യുന്നത് wrong. Auxiliary verb ('is believing') ഇല്ലാതെ participle alone verb ആകില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'AS WELL AS = BRACKET ഇടൂ!' — 'as well as his brother' ഒരു bracket-ൽ ഇടൂ: 'John [as well as his brother] believes.' Bracket remove ചെയ്‌താൽ 'John believes' = correct! Bracket inside ഉള്ളത് verb-നെ affect ചെയ്യില്ല!\n• AND vs AS WELL AS: 'John AND his brother believe' (plural). 'John AS WELL AS his brother believes' (singular). This difference is a guaranteed PSC question!\n• PSC exam strategy: Subject ഇടത്തു നോക്കൂ. 'As well as / along with' കണ്ടാൽ → first subject-ൻ്റേത് ആണ് verb → bracket trick use ചെയ്യൂ!"
+    }
+  },
+  {
+    "id": "152-2024-M_q82",
+    "paperId": "152-2024-M",
+    "questionNumber": 82,
+    "topic": "Infinitive and Gerunds",
+    "questionText": "Which of the following sentences contains a gerund?",
+    "optionA": "He is smoking a cigarette.",
+    "optionB": "Kiran is standing outside the waiting room.",
+    "optionC": "Swimming is a good exercise.",
+    "optionD": "Screaming aloud, he ran out of the room.",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Swimming is a good exercise.\n\n• 'Swimming' — ഇവിടെ sentence-ൻ്റെ SUBJECT ആണ്. 'Swimming is good' = 'നീന്തൽ നല്ലതാണ്'.\n• Verb-ൻ്റെ -ing form ഒരു NOUN ആയി act ചെയ്യുമ്പോൾ = GERUND.\n• 'Swimming' ഇവിടെ 'what is good?' എന്ന ചോദ്യത്തിൻ്റെ answer = noun function = gerund.\n• Test: Subject/Object ആണോ? → Gerund. Verb-ൻ്റെ part ആണോ? → Participle.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: -ing form = NOUN function → GERUND | -ing form = VERB part → PARTICIPLE\n• Gerund ആകുന്ന situations:\n  - Subject ആകുമ്പോൾ: Swimming is fun. (gerund)\n  - Object ആകുമ്പോൾ: I enjoy swimming. (gerund)\n  - Preposition-ൻ്റെ ശേഷം: He is good at swimming. (gerund)\n• Participle ആകുന്ന situations:\n  - Continuous tense-ൽ: He is swimming. (participle — auxiliary 'is' ഉണ്ട്)\n  - Adjective ആകുമ്പോൾ: a swimming pool (adjective)\n  - Participial phrase: Swimming fast, he won. (participle phrase)\n• ⭐ PSC ആവർത്തനം: Gerund vs Participle — PSC Main exam-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic.\n• ഉദാഹരണ sentences:\n  1. Reading is my hobby. (Reading = gerund, subject)\n  2. She is reading a book. (reading = participle, part of continuous tense)\n  3. He is tired of waiting. (waiting = gerund after preposition 'of')",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) He is smoking a cigarette — 'Smoking' ഇവിടെ Present Continuous tense-ൻ്റെ part ആണ് (is + smoking). Auxiliary verb 'is' ഉള്ളതിനാൽ ഇത് PARTICIPLE ആണ്, gerund അല്ല. 🪤 PSC Trap: 'smoking' -ing form ആണ്, students gerund choose ചെയ്യും.\n\n❌ (B) Kiran is standing outside the waiting room — 'Standing' = present continuous participle. 'Waiting' = 'waiting room' = adjective (participle acting as adjective). രണ്ടും gerund അല്ല.\n\n❌ (D) Screaming aloud, he ran out of the room — 'Screaming' = participial phrase (Screaming aloud = while screaming). ഇത് 'he' (subject)-നെ modify ചെയ്യുന്ന participle ആണ്, gerund അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'GERUND = GERMS (noun) — ഗൂഢമായി noun ആകുന്ന verb!' — Gerund = verb disguised as noun. 'Swimming is fun' = 'Noun is fun' = gerund! Is ഉണ്ടോ? (Continuous) → Participle. Is ഇല്ലാതെ subject/object ആണോ? → Gerund!\n• Quick test: '-ing word' substitute 'activity' ആക്കി നോക്കൂ — 'Activity is a good exercise' ✓ = gerund! 'He is activity a cigarette' ✗ = participle!\n• PSC exam strategy: -ing word-ൻ്റേ function നോക്കൂ. Sentence-ൽ subject/object ആണോ? = gerund. Verb-ൻ്റേ part ആണോ (is/was/were + -ing)? = participle."
+    }
+  },
+  {
+    "id": "152-2024-M_q83",
+    "paperId": "152-2024-M",
+    "questionNumber": 83,
+    "topic": "Prepositions",
+    "questionText": "Choose the correct sentence from the choices given below.",
+    "optionA": "He entered the room.",
+    "optionB": "He entered into the room.",
+    "optionC": "He entered by the room.",
+    "optionD": "He entered in the room.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) He entered the room.\n\n• 'Enter' = transitive verb — directly object എടുക്കുന്ന verb. Preposition ആവശ്യം ഇല്ല.\n• 'He entered the room' = 'അദ്ദേഹം മുറിയിൽ പ്രവേശിച്ചു' — ഇതാണ് correct.\n• 'Enter into' = wrong for physical space entry. 'Enter into' ഒരു fixed phrase ആണ് abstract concepts-ൻ്റേ കൂടെ: 'enter into an agreement/discussion' = ശരി. Physical room-ൻ്റേ കൂടെ 'enter into' = wrong.\n• Rule: Physical space = 'enter + place' (no preposition). Abstract = 'enter into + noun'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Enter + physical place (NO preposition) | Enter into + abstract concept (agreement/discussion/negotiation)\n• 'Enter' without preposition:\n  - Enter the room ✓\n  - Enter the building ✓\n  - Enter the country ✓\n• 'Enter into' (abstract only):\n  - Enter into an agreement ✓\n  - Enter into a discussion ✓\n  - Enter into a contract ✓\n• Other verbs that DON'T take prepositions (common PSC errors):\n  - Discuss something (NOT discuss about)\n  - Reach somewhere (NOT reach to/at)\n  - Request something (NOT request for)\n  - Order something (NOT order for)\n  - Accompany someone (NOT accompany with)\n• ⭐ PSC ആവർത്തനം: Redundant prepositions — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic.\n• ഉദാഹരണ sentences:\n  1. They entered the hall silently. (no preposition)\n  2. The two countries entered into a peace treaty. (abstract → into)\n  3. Please discuss the matter calmly. (NOT discuss about)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) He entered into the room — 'Into' physical room-ൻ്റേ കൂടെ use ചെയ്യില്ല. 'Enter into' = abstract nouns (agreement, contract). 'Into the room' = wrong. 🪤 PSC Classic Trap: 'into' ഉള്ളതിനാൽ correct feel ആകും — 'into the room' Malayalam-ൽ natural, English-ൽ redundant.\n\n❌ (C) He entered by the room — 'By' = means/agent/proximity indicate ചെയ്യുന്ന preposition. 'By the room' = room-ൻ്റേ അടുത്ത്/പ്രകാരം. 'Entered by the room' = unnatural, no standard meaning.\n\n❌ (D) He entered in the room — 'In' ഇവിടെ wrong. 'He is in the room' (location, correct) vs 'He entered in the room' (entry action, wrong). Enter = action → no preposition.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ENTER = ENTER! No extra baggage!' — 'Enter' is complete on its own for physical places. Adding 'into/in/by' = extra unnecessary baggage! 'He entered the room' = clean and correct!\n• Golden list — verbs that need NO preposition: Enter (a place), Discuss (a topic), Reach (a place), Request (something), Marry (someone), Resemble (someone). Preposition ഇട്ടാൽ = error!\n• PSC exam strategy: 'Enter' + physical place question-ൽ preposition ഇല്ലാത്ത option = answer. Simply 'entered the room' = always correct!"
+    }
+  },
+  {
+    "id": "152-2024-M_q84",
+    "paperId": "152-2024-M",
+    "questionNumber": 84,
+    "topic": "Conditionals",
+    "questionText": "If he wore a lifebuoy, he ____________",
+    "optionA": "Will not drown",
+    "optionB": "may not drown",
+    "optionC": "Would not drown",
+    "optionD": "Would not have drowned",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Would not drown\n\n• 'If he wore a lifebuoy' — if-clause-ൽ past simple ('wore') ആണ്.\n• Past simple in if-clause = Second Conditional (present/future imaginary situation).\n• Second Conditional formula: If + past simple → would + V1.\n• 'Wore' = past simple → main clause = 'would not drown'.\n• 'അദ്ദേഹം lifebuoy ധരിച്ചിരുന്നെങ്കിൽ, മുങ്ങില്ലായിരുന്നേനേ' — present imaginary situation (he is probably not wearing one now).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula:\n  - Type 1: If + Present → will + V1 (real future)\n  - Type 2: If + Past Simple → would + V1 (imaginary present/future)\n  - Type 3: If + Past Perfect (had+V3) → would have + V3 (past unreal)\n• Type 2 Signal: If-clause = past tense (wore, had, came, went)\n• 'Wore' = past simple of 'wear' → Type 2 → would + V1\n• ⭐ PSC ആവർത്തനം: Conditionals — PSC-ൽ guaranteed topic! Type 2 and Type 3 most frequently tested.\n• ഉദാഹരണ sentences:\n  1. If I had money, I would buy a car. (Type 2 — imaginary)\n  2. If she studied harder, she would pass. (Type 2 — imaginary)\n  3. If it rains, I will stay home. (Type 1 — real future)\n  4. If he had studied, he would have passed. (Type 3 — past unreal)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Will not drown — 'Will' = Type 1 Conditional. Type 1 if-clause-ൽ present tense ആണ്: 'If he wears a lifebuoy, he will not drown.' ഇവിടെ 'wore' (past) ആണ് → Type 2 → 'will' wrong. 🪤 PSC Trap: Students 'future' meaning → 'will' choose ചെയ്യും.\n\n❌ (B) may not drown — 'May' = possibility (maybe). Conditional sentences-ൽ 'would' ആണ് standard. 'May' uncertainty indicate ചെയ്യുന്നതാണ്, conditional result indicate ചെയ്യുന്നതല്ല.\n\n❌ (D) Would not have drowned — 'Would not have drowned' = Type 3 Conditional result. Type 3-ൽ if-clause = past perfect (had + V3): 'If he had worn a lifebuoy, he would not have drowned.' ഇവിടെ 'wore' (past simple) ആണ് — past perfect അല്ല → Type 3 result wrong.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: '1-1-1, 2-2-2, 3-3-3 pattern!' — Type 1: Present+Will. Type 2: Past+Would. Type 3: Had+Would Have. If-clause tense = type number × 1 past step!\n• Wore = past simple = Type 2 = Would. Had worn = past perfect = Type 3 = Would have. Wears = present = Type 1 = Will!\n• PSC exam strategy: If-clause-ലെ verb tense identify ചെയ്യൂ → wore (past) = Type 2 → would + V1 = answer!"
+    }
+  },
+  {
+    "id": "152-2024-M_q85",
+    "paperId": "152-2024-M",
+    "questionNumber": 85,
+    "topic": "Direct and Indirect Speech",
+    "questionText": "Convert the following sentence into reported speech.\nSheela asked me: \"do you believe in the essential goodness of humanity?\"",
+    "optionA": "Sheela asked me whether I believed in the essential goodness of humanity.",
+    "optionB": "Sheela asked me whether he believed in the essential goodness of humanity.",
+    "optionC": "Sheela asked me that I believed in the essential goodness of humanity.",
+    "optionD": "Sheela asked me whether I believe in the essential goodness of humanity.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Sheela asked me whether I believed in the essential goodness of humanity.\n\n• Direct speech: 'do you believe...?' — Yes/No question (do/does/did/is/are/was/were ഉള്ള question).\n• Yes/No question reported speech → 'whether' അല്ലെങ്കിൽ 'if' ഉപയോഗിക്കണം.\n• 'you' (Sheela was asking 'me') → 'I' (reporter = me, first person).\n• Tense backshift: 'believe' (present) → 'believed' (past) — reporting verb 'asked' (past) ആണ്.\n• Option A: whether ✓ + I (correct pronoun) ✓ + believed (tense backshift) ✓ = Correct!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula:\n  - Yes/No question → whether / if\n  - Wh- question (what/where/when/who/why/how) → same wh- word\n• Yes/No question reported changes:\n  - Question mark removed\n  - 'whether/if' added\n  - Auxiliary verb (do/does/did) removed\n  - Tense backshift\n  - Pronouns adjusted\n• Tense backshift table:\n  - Present simple → Past simple (believe → believed)\n  - Present continuous → Past continuous\n  - Past simple → Past perfect\n  - Will → Would\n  - Can → Could\n• ⭐ PSC ആവർത്തനം: Reported speech (questions) — PSC Main exam-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic.\n• ഉദാഹരണ sentences:\n  1. He asked: 'Are you happy?' → He asked whether I was happy.\n  2. She asked: 'What do you want?' → She asked what I wanted.\n  3. He asked: 'Can you help?' → He asked whether I could help.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) whether he believed — 'He' wrong pronoun ആണ്. Sheela 'me'-നോട് ചോദിക്കുന്നതാണ് — 'you' = 'me' (reporter) = 'I'. 'He' = third person, ഇവിടെ ആ context ഇല്ല. 🪤 PSC Trap: 'Sheela' = she, 'me' = he? Confused pronoun.\n\n❌ (C) asked me that I believed — 'That' = statements-ൻ്റേ reported speech-ൽ ഉപയോഗിക്കുന്നതാണ്. 'She said that...' Yes/No question-ൽ 'whether/if' ആണ് ആവശ്യം. 'That' ഇവിടെ grammatically incorrect.\n\n❌ (D) whether I believe — 'Believe' = tense backshift ചെയ്തില്ല! Reporting verb 'asked' = past tense. Past reporting verb → present tense 'believe' → past 'believed' ആകണം. Present tense retain ചെയ്‌താൽ = error.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'YES/NO = WHETHER! WH = WH!' — Yes/No question reported = Whether/If. Wh- question reported = same wh- word. Simple!\n• 3 check points in reported speech: (1) Whether/if (Yes/No) ✓, (2) Pronoun (you → I/he/she) ✓, (3) Tense backshift (believe → believed) ✓ — check all 3 → A is the only option with all 3 correct!\n• PSC exam strategy: Options-ൽ quickly scan: 'that' കണ്ടാൽ (C) = wrong for question. Tense not shifted (D) = wrong. Wrong pronoun (B) = wrong. Remaining = answer!"
+    }
+  },
+  {
+    "id": "152-2024-M_q86",
+    "paperId": "152-2024-M",
+    "questionNumber": 86,
+    "topic": "One Word Substitutes",
+    "questionText": "Dora is a scientist who is interested in __the fossil history of life__.\nChoose the suitable one-word expression for the parts given in italics.",
+    "optionA": "Anthropologist",
+    "optionB": "Archaeologist",
+    "optionC": "Gynaecologist",
+    "optionD": "Palaeontologist",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) Palaeontologist\n\n• 'The fossil history of life' = fossils, prehistoric organisms, ancient life-ൻ്റേ study.\n• 'Palaeontologist' = a scientist who studies fossils and prehistoric life (പ്രാചീന ജീവജാലങ്ങളെ fossils വഴി പഠിക്കുന്ന ശാസ്ത്രജ്ഞൻ).\n• 'Palaeontology' = paleo (ancient) + ontos (being) + logos (study) = ancient life study.\n• Dinosaur bones, fossils, prehistoric plants — ഇവ study ചെയ്യുന്നത് = Palaeontologist.\n• Dora = fossil history-ൽ interested = Palaeontologist.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Fossils + Prehistoric life = Palaeontologist\n• ⭐ PSC favourite '-ologist' scientists:\n  - Palaeontologist = fossil/prehistoric life (paleo = ancient)\n  - Anthropologist = human societies and cultures (anthropo = human)\n  - Archaeologist = human past through artifacts and excavation (archaio = ancient + human)\n  - Gynaecologist = women's reproductive health (gyne = woman)\n  - Ornithologist = birds (ornitho = bird)\n  - Entomologist = insects (entomo = insect)\n  - Geologist = earth and rocks (geo = earth)\n  - Meteorologist = weather (meteoro = atmosphere)\n  - Cardiologist = heart (cardio = heart)\n  - Oncologist = cancer (onco = tumor)\n• Etymology: PALEO = ancient (Greek) → Palaeontology, Palaeolithic (Stone Age)\n• ⭐ PSC ആവർത്തനം: One word substitutes (scientist types) — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic.\n• ഉദാഹരണ sentences:\n  1. The palaeontologist discovered a dinosaur fossil. (fossils)\n  2. The anthropologist studied tribal customs. (human society)\n  3. The archaeologist excavated ancient ruins. (artifacts/ruins)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Anthropologist — 'Anthropologist' = studies human societies, cultures, and evolution (മനുഷ്യ സമൂഹം). Fossil history ഇതിൻ്റേ primary focus അല്ല. 🪤 PSC Trap: 'ancient' → 'anthropologist' ആകും students.\n\n❌ (B) Archaeologist — 'Archaeologist' = studies human past through physical artifacts, excavations (utensils, buildings, tools). 'Fossil history of life' ≠ archaeology. Archaeology = human-made objects. Paleontology = natural fossils/prehistoric organisms.\n\n❌ (C) Gynaecologist — 'Gynaecologist' = doctor specializing in women's reproductive health. Fossils/prehistoric life-മായി ഒരു ബന്ധവും ഇല്ല. This option is clearly wrong but tests if students confuse '-ologist' words.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'PALEO = OLD/ANCIENT = FOSSILS!' — 'Paleo' diet = ancient diet. Paleolithic = ancient stone age. PALEOntologist = ancient + life = FOSSILS! 'Paleo' = old → ഓർത്തിരുന്നാൽ fossil = palaeontologist guaranteed!\n• Key distinction: Archaeologist vs Palaeontologist — Archaeologist = human artifacts (pots, tools). Palaeontologist = natural fossils (dinosaurs, ancient plants). Both study old things but different types!\n• PSC exam strategy: 'fossil history of life' = paleo (ancient life). PALEO root ഓർക്കൂ → palaeontologist = guaranteed answer!"
+    }
+  },
+  {
+    "id": "152-2024-M_q87",
+    "paperId": "152-2024-M",
+    "questionNumber": 87,
+    "topic": "Idioms",
+    "questionText": "What is the meaning of the idiom, 'kick the bucket'?",
+    "optionA": "To lose a game",
+    "optionB": "To die",
+    "optionC": "To hit the target",
+    "optionD": "To curse",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) To die\n\n• 'Kick the bucket' = to die (informal/humorous expression for death).\n• 'അദ്ദേഹം bucket kick ചെയ്‌തു' = informal way of saying 'he died'.\n• Origin: ഒരു theory പ്രകാരം — execution/suicide-ൽ bucket kick ചെയ്ത് നിന്നിരുന്ന bucket remove ചെയ്യുന്നത് → death. Another theory: 'bucket' = beam in French ('buquet') used for slaughtering — animals' legs kick when hung.\n• PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന idiom.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Kick the bucket = Die\n• ⭐ PSC favourite idioms about life and death:\n  - Kick the bucket = die\n  - Bite the dust = die/fail\n  - Meet one's maker = die\n  - Pop one's clogs = die (British)\n  - Breathe one's last = die\n  - Burn the midnight oil = work very late\n  - Bite the bullet = endure a difficult situation bravely\n  - Beat around the bush = avoid the main point\n  - Break the ice = start a conversation in awkward situation\n  - Spill the beans = reveal a secret\n  - Let the cat out of the bag = accidentally reveal a secret\n  - Hit the nail on the head = say exactly the right thing\n• ⭐ PSC ആവർത്തനം: Idioms — PSC-ൽ guaranteed topic!\n• ഉദാഹരണ sentences:\n  1. The old professor finally kicked the bucket last year. (died)\n  2. He burned the midnight oil for his exams. (worked late)\n  3. She spilled the beans about the surprise party. (revealed secret)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) To lose a game — 'Kick' = game, 'bucket' = score കിട്ടാത്ത feeling — ഈ literal interpretation wrong ആണ്. Idioms literal ആയി interpret ചെയ്യില്ല. 🪤 PSC Trap: 'kick' + 'game' = lose a game feel ആകും.\n\n❌ (C) To hit the target — 'Kick' + 'bucket' = aim at something feel ആകും. 'Hit the nail on the head' = hit the target (correct idiom). 'Kick the bucket' ≠ hit target.\n\n❌ (D) To curse — 'Kick' = anger feel ആണ്, students 'curse' choose ചെയ്യും. 'Kick the bucket' ൻ്റേ meaning anger/curse-ആയി ബന്ധപ്പെടുന്നതല്ല — informal death expression ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BUCKET LIST = things to do BEFORE dying! KICK the bucket = DONE with bucket list = DIED!' — 'Bucket list' (before-death list) ഓർക്കൂ. Kick = finish/done. Kick the bucket = done with life = die!\n• PSC idiom golden list: kick the bucket (die), bite the dust (fail/die), burn midnight oil (work late), spill the beans (reveal secret), break the ice (start conversation) — ഈ 5 ഒരിക്കൽ ഓർത്തിരുന്നാൽ guaranteed marks!\n• PSC exam strategy: 'Kick the bucket' = classic PSC idiom, direct meaning: TO DIE. No second thought needed — B is the answer!"
+    }
+  },
+  {
+    "id": "152-2024-M_q88",
+    "paperId": "152-2024-M",
+    "questionNumber": 88,
+    "topic": "Antonyms",
+    "questionText": "There was a rumour about an __advancing__ army.\nChoose the most appropriate word opposite in meaning of the word given in italics.",
+    "optionA": "disadvancing",
+    "optionB": "Receding",
+    "optionC": "Retreating",
+    "optionD": "Proceeding",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Retreating\n\n• 'Advancing army' = forward movement-ൽ ഉള്ള (enemy-നോട് approach ചെയ്യുന്ന) army.\n• 'Retreating army' = backward movement-ൽ ഉള്ള (enemy-ൽ നിന്ന് withdraw ചെയ്യുന്ന) army.\n• Military context-ൽ 'advance' (മുന്നോട്ട്) ↔ 'retreat' (പിന്നോട്ട്) = exact opposites.\n• 'Retreating' = exact military antonym of 'advancing' — army context-ൽ perfect fit.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Advancing (forward) ↔ Retreating (backward/withdrawing) — military context\n• Word family of 'advance':\n  - Advance (verb/noun) = move forward\n  - Advanced (adjective) = ahead, progressive\n  - Advancement (noun) = progress\n  - Advancing (adjective/participle) = moving forward\n• Word family of 'retreat':\n  - Retreat (verb/noun) = move back, withdraw\n  - Retreating (participle) = withdrawing\n• Receding vs Retreating:\n  - Receding = gradually moving back (receding tide, receding hairline) — natural/gradual\n  - Retreating = military withdrawal or backing away from danger\n  - In army context → Retreating is the specific antonym\n• ⭐ PSC ആവർത്തനം: Antonyms — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic.\n• ഉദാഹരണ sentences:\n  1. The advancing army crossed the border. (moving forward)\n  2. The retreating army left the battlefield. (withdrawing)\n  3. The tide is receding. (gradual natural backward movement)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) disadvancing — 'Disadvancing' = not a real English word! 'dis-' prefix 'advance'-ൻ്റേ കൂടെ use ചെയ്യില്ല. 🪤 PSC Trap: 'dis-' = opposite prefix → students 'disadvancing' choose ചെയ്യും. Real word: retreat/recede.\n\n❌ (B) Receding — 'Receding' = gradually moving away (natural process). 'Receding hairline', 'receding tide' — gradual, natural movement. Army context-ൽ specific military withdrawal term 'retreating' ആണ് more appropriate antonym.\n\n❌ (D) Proceeding — 'Proceeding' = continuing forward, moving ahead. ഇത് 'advancing'-ൻ്റേ SYNONYM ആണ്, antonym അല്ല! 'Proceeding' = going forward = advancing. Wrong direction.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ARMY ADVANCE = ATTACK! ARMY RETREAT = RUN BACK!' — Advancing army = ആക്രമിക്കുന്ന army. Retreating army = ഓടിപ്പോകുന്ന army. ADVANCE ↔ RETREAT = military opposites!\n• Receding vs Retreating: Receding = tide/hairline (nature). Retreating = army/people (intentional withdrawal). Army context → Retreating!\n• PSC exam strategy: 'Disadvancing' = fake word → eliminate. 'Proceeding' = synonym not antonym → eliminate. 'Receding' vs 'Retreating' — army context → Retreating wins!"
+    }
+  },
+  {
+    "id": "152-2024-M_q89",
+    "paperId": "152-2024-M",
+    "questionNumber": 89,
+    "topic": "Phrasal Verbs",
+    "questionText": "\"Any way, we have to ________ this problem.\"\nChoose the appropriate phrasal verb from the choices given below.",
+    "optionA": "Sort out",
+    "optionB": "Find out",
+    "optionC": "Seek out",
+    "optionD": "Put out",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Sort out\n\n• 'Sort out' = to deal with/resolve/solve a problem (ഒരു problem resolve ചെയ്യുക).\n• 'We have to sort out this problem' = 'ഈ problem-ൽ നിന്ന് ഒരു resolution ഉണ്ടാക്കണം'.\n• 'Sort out' = organize confusion into order, resolve a difficulty.\n• Context: 'we have to _____ this problem' = problem solve ചെയ്യണം = sort out.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Sort out = Resolve/Solve (a problem, situation, confusion)\n• ⭐ PSC favourite 'out' phrasal verbs:\n  - Sort out = resolve, organize (problem/situation solve ചെയ്യുക)\n  - Find out = discover information (information കണ്ടെത്തുക)\n  - Seek out = search for deliberately (specifically search ചെയ്‌തു find ചെയ്യുക)\n  - Put out = extinguish (fire/light/cigarette), also: inconvenience someone\n  - Work out = solve (a problem/calculation), also: exercise\n  - Figure out = understand/solve\n  - Rule out = eliminate as a possibility\n  - Carry out = perform/execute a task\n  - Point out = indicate/draw attention to\n  - Stand out = be noticeable\n• ⭐ PSC ആവർത്തനം: Phrasal verbs — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic.\n• ഉദാഹരണ sentences:\n  1. Let's sort out this misunderstanding. (resolve)\n  2. Can you find out when the train arrives? (discover)\n  3. They sought out the best doctor. (deliberately searched)\n  4. Firefighters put out the fire. (extinguish)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) Find out — 'Find out' = discover information ('find out the answer', 'find out who did it'). Problem-നെ solve/resolve ചെയ്യുക അല്ല — information discover ചെയ്യുകയാണ്. 'Find out this problem' = awkward/wrong meaning. 🪤 PSC Trap: 'find' + 'problem' = solution find feel.\n\n❌ (C) Seek out — 'Seek out' = deliberately search for something/someone specific. 'Seek out this problem' = strange meaning. Problem ഇതിനകം identified ആണ്, ഇനി search ചെയ്യേണ്ടതില്ല. Solve ചെയ്യണം = sort out.\n\n❌ (D) Put out — 'Put out' primarily = extinguish (fire, candle, cigarette). Problem extinguish ചെയ്യുക idiomatic ആണ്, പക്ഷേ 'sort out' ആണ് standard. 'Put out a problem' = unusual. Standard usage: 'put out a fire/light'.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'SORT = ORGANIZE = SOLVE! Sort out = ORGANIZE the problem OUT of your life!' — Sorting = putting things in order. Sort out a problem = organize/remove the problem = SOLVE IT!\n• Problem-solving phrasal verbs: Sort out, Work out, Figure out, Resolve — ഇവ ഒക്കെ problem solve ചെയ്യുന്നതിന്. Find out = discover. Seek out = search. Put out = extinguish.\n• PSC exam strategy: 'problem solve' context = 'sort out'. Problem + solve feeling = sort out, work out, figure out. Options-ൽ sort out ഉണ്ടെങ്കിൽ = first choice!"
+    }
+  },
+  {
+    "id": "152-2024-M_q90",
+    "paperId": "152-2024-M",
+    "questionNumber": 90,
+    "topic": "Abbreviations",
+    "questionText": "What is the expansion of \"e.g.\" meaning \"for example\"?",
+    "optionA": "Exempli gratuise",
+    "optionB": "Example gratui",
+    "optionC": "Exaea gratia",
+    "optionD": "Exempli gratia",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) Exempli gratia\n\n• 'e.g.' = Latin 'exempli gratia' = 'for the sake of example' = 'for example'.\n• 'Exempli' = of an example (genitive form of 'exemplum' = example).\n• 'Gratia' = for the sake of, out of (Latin).\n• 'e.g.' = 'exempli gratia' — ഇത് exactly 'for example' ആണ്.\n• Usage: 'I like fruits, e.g., apples and mangoes.' = for example, apples and mangoes.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: e.g. = exempli gratia = for example\n• ⭐ PSC favourite Latin abbreviations:\n  - e.g. = exempli gratia = for example (examples കൊടുക്കുന്നതിന്)\n  - i.e. = id est = that is (clarification ചെയ്യുന്നതിന്)\n  - etc. = et cetera = and so on (list continue ആകുന്നു)\n  - vs. = versus = against\n  - cf. = confer = compare\n  - NB = nota bene = note well (important point)\n  - P.S. = post scriptum = after writing (letter-ൻ്റേ ശേഷം add ചെയ്യുന്ന note)\n  - A.M. = ante meridiem = before noon\n  - P.M. = post meridiem = after noon\n  - viz. = videlicet = namely (specific list)\n• e.g. vs i.e.: e.g. = examples (list-ൻ്റേ part). i.e. = exact meaning (complete explanation).\n• ⭐ PSC ആവർത്തനം: Abbreviations/Latin phrases — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic.\n• ഉദാഹരണ sentences:\n  1. I enjoy water sports, e.g., swimming and surfing. (for example)\n  2. The CEO, i.e., the chief executive, will attend. (that is)\n  3. We need food, water, shelter, etc. (and so on)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Exempli gratuise — 'Gratuise' = not a Latin word. Correct: 'gratia'. 'Gratuise' = fake/misspelled option. 🪤 PSC Trap: 'Exempli' correct part ഉള്ളതിനാൽ students confirm ചെയ്‌തേക്കാം, 'gratuise' wrong spelling miss ചെയ്യും.\n\n❌ (B) Example gratui — 'Example' = English word, Latin abbreviation-ൽ English word ഇല്ല. 'Exempli' (Latin) ആണ് correct, 'Example' (English) അല്ല. 'Gratui' = also incomplete/wrong Latin.\n\n❌ (C) Exaea gratia — 'Exaea' = not a Latin word at all! 'Exempli' ആണ് correct first word. 'Exaea' = completely wrong. 'Gratia' part correct ആണ്, പക്ഷേ first word totally wrong.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'e.g. = EXAMPLE GIVEN! — e for example, g for given!' — Simple English: e.g. = Example Given. Real Latin: Exempli Gratia. Remember either way!\n• e.g. vs i.e. trick: 'e.g. = EGG (example, guess) — I give examples'. 'i.e. = I EXPLAIN' — complete clarification. 'I like citrus fruits, e.g., lemons.' (examples follow). 'He is vegetarian, i.e., he doesn't eat meat.' (exact meaning follows).\n• PSC exam strategy: Latin abbreviations ഒരു list ആക്കി ഓർക്കൂ: e.g.=exempli gratia, i.e.=id est, etc.=et cetera, P.S.=post scriptum — ഈ 4 = guaranteed PSC marks!"
+    }
   }
 ]
