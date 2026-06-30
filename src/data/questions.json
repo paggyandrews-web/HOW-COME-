@@ -6658,5 +6658,365 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Why she was not come to the office the previous day? — 'Was not come' grammatically wrong ആണ്. 'Was' past tense of 'be', 'come' main verb — ഇവ ഈ combination-ൽ ഉപയോഗിക്കില്ല. Correct form: 'hadn't come' (past perfect). 🪤 PSC Trap: 'was' past tense ആണ് — ഇത് students-നെ confuse ചെയ്യും.\n\n❌ (B) Why she has not come to the office the previous day? — 'Has not come' = Present Perfect ആണ്. Reported speech-ൽ, reporting verb past tense (asked) ആണ് — ഇതിനു main clause Present Perfect ആകില്ല. Backshift rule: Simple Past → Past Perfect ആണ് ഇവിടെ apply ആകേണ്ടത്.\n\n❌ (D) Why she didn't come to the office the previous day? — 'Didn't come' = Simple Past ആണ്. ഇത് direct speech-ൽ ഉള്ള tense backshift ചെയ്യാതെ copy ചെയ്തതാണ്. Reported speech-ൽ 'asked' reporting verb past ആയതിനാൽ main clause Past Perfect (hadn't come) ആകണം. Tense backshift rule ഒഴിവാക്കിയതാണ് ഇവിടുത്തെ തെറ്റ്.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'PAST went MORE PAST' — Reporting verb past ആണെങ്കിൽ, direct speech-ലെ past → past perfect! Simple Past → HAD + V3. 'Didn't come' → 'hadn't come' — ഇത് ഓർത്തിരിക്കൂ!\n• Time word changes (guaranteed PSC marks): yesterday → the previous day, today → that day, tomorrow → the next day, now → then, here → there — ഈ pairs heart-ൽ ഇടൂ!\n• PSC exam strategy: Reported speech question-ൽ (1) Tense correct ആണോ? (2) Time words correct ആണോ? (3) Pronouns correct ആണോ? — ഈ 3 points check ചെയ്ത് answer confirm ചെയ്യൂ. guaranteed mark!"
     }
+  },
+  {
+    "id": "181-2024-K_q81",
+    "paperId": "181-2024-K",
+    "questionNumber": 81,
+    "topic": "Parts of Speech",
+    "questionText": "Identify the part of speech of 'will' in this sentence.\nWhere there's a will, there's a way.",
+    "optionA": "Verb",
+    "optionB": "Noun",
+    "optionC": "Adjective",
+    "optionD": "None of these",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Noun\n\n• 'Where there's a will, there's a way' — ഈ sentence-ൽ 'will' ഒരു Noun ആണ്.\n• ഇവിടെ 'will' = 'ഇഛാശക്തി' / 'determination' / 'strong desire' — ഒരു concept (abstract noun) indicate ചെയ്യുന്നു.\n• 'There's a will' — 'a' indefinite article 'will'-ന് മുന്നിൽ ഉണ്ട് — article ഒരു noun-ന് മുന്നിൽ മാത്രം വരും.\n• 'Will' സാധാരണയായി auxiliary verb ആണ് ('I will go') — പക്ഷേ ഈ sentence-ൽ context മാറി, 'will' = noun (ഇഛ/determination) ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'a/an/the' word-ന് മുന്നിൽ ഉണ്ടെങ്കിൽ → ആ word ഒരു Noun ആണ്!\n• 'Will' — multi-role word:\n  - Auxiliary verb: I will come tomorrow. (Future tense)\n  - Noun: Where there's a will, there's a way. (ഇഛാശക്തി)\n  - Noun: She signed her will. (ഒസ്യത്ത്/will document)\n• ⭐ PSC ആവർത്തനം: Parts of speech — same word different context-ൽ different function ഉള്ള questions PSC-യിൽ frequently ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. She has an iron will. (അവൾക്ക് ശക്തമായ ഇഛാശക്തിയുണ്ട്) — Noun\n  2. I will finish the work. (ഞാൻ ജോലി തീർക്കും) — Auxiliary Verb\n  3. The old man made a will before he died. — Noun (ഒസ്യത്ത്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Verb — 'Will' auxiliary verb ആയി ഉപയോഗിക്കാം ('I will go'), പക്ഷേ ഈ sentence-ൽ 'will' verb function ചെയ്യുന്നില്ല. 'There's a will' — 'a' article-ന് ശേഷം noun ആണ് വരിക, verb അല്ല. 🪤 PSC Trap: 'will' കണ്ടാൽ immediately verb ആണ് എന്ന് assume ചെയ്യുന്ന student ഈ trap-ൽ വീഴും.\n\n❌ (C) Adjective — 'Will' ഒരിക്കലും adjective ആയി ഉപയോഗിക്കില്ല. Adjective ഒരു noun-നെ describe ചെയ്യുന്നതാണ്. 'Will' ഇവിടെ itself ഒരു noun ആണ്, adjective അല്ല.\n\n❌ (D) None of these — ഇത് തെറ്റ്. 'Will' clearly a Noun ആണ് ഈ context-ൽ — 'a will' (article + noun). Option B ശരിയാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'A/AN/THE' കണ്ടാൽ next word = NOUN! 'A will' — 'a' article കണ്ടാൽ 'will' noun ആണ് — guaranteed!\n• Same word different parts of speech — PSC favourite trap: 'work' (verb/noun), 'water' (verb/noun), 'will' (verb/noun), 'can' (verb/noun), 'run' (verb/noun)\n• PSC exam strategy: Context clue look for ചെയ്യൂ — word-ന് മുന്നിൽ article ഉണ്ടോ? → Noun. Word-ൽ action ഉണ്ടോ? → Verb. Word ഒരു quality describe ചെയ്യുന്നോ? → Adjective."
+    }
+  },
+  {
+    "id": "181-2024-K_q82",
+    "paperId": "181-2024-K",
+    "questionNumber": 82,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Fill in the blank with the correct form of verb.\nThe students of this class ________ hard.",
+    "optionA": "works",
+    "optionB": "work",
+    "optionC": "has worked",
+    "optionD": "none of these",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) work\n\n• Subject ആരാണ്? 'The students' — plural noun ആണ്.\n• 'of this class' — prepositional phrase ആണ്, subject-നെ affect ചെയ്യില്ല.\n• Plural subject → plural verb: 'students work' (not 'students works')\n• 'The students of this class work hard' — ഈ class-ലെ students കഠിനമായി പഠിക്കുന്നു.\n• Subject-Verb Agreement rule: Plural subject → plural verb (no 's' ending).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Singular subject → Verb + s/es | Plural subject → Verb (no s/es)\n• Subject-Verb Agreement key rule: Subject-ൻ്റെ number (singular/plural) verb-നെ decide ചെയ്യുന്നു.\n• Tricky pattern: 'The [noun] of [noun]' — ആദ്യ noun ആണ് real subject!\n  - 'The box of chocolates IS' (box = singular → is)\n  - 'The students of this class WORK' (students = plural → work)\n• ⭐ PSC ആവർത്തനം: Subject-Verb Agreement — PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic!\n• ഉദാഹരണ sentences:\n  1. The students work hard. (plural → work)\n  2. The student works hard. (singular → works)\n  3. The team of players is ready. (team = singular → is)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) works — 'works' singular verb ആണ് (he/she/it works). 'Students' plural ആണ്, singular verb 'works' agree ആകില്ല. 🪤 PSC Trap: 'of this class' കണ്ടിട്ട് 'class' (singular) subject ആണ് എന്ന് mistake ആകും — 'class' prepositional phrase-ൽ ആണ്, subject അല്ല.\n\n❌ (C) has worked — 'Has worked' = Present Perfect tense ആണ്. 'Has' singular auxiliary ആണ് (he/she/it has). 'Students' plural ആണ്, 'have worked' ആണ് plural perfect. ഇവിടെ simple present tense ആണ് context, present perfect അല്ല.\n\n❌ (D) none of these — Option B 'work' ശരിയാണ്, 'none of these' wrong ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'OF' phrase-നെ bracket-ൽ ഇട്ടു ignore ചെയ്യൂ! 'The students [of this class] _____ hard' → students = plural → work. 'OF' phrase ഒരിക്കലും subject change ചെയ്യില്ല!\n• Simple rule: Students/They/We/You → WORK (no 's'). He/She/It/Student → WORKS (with 's').\n• PSC exam strategy: Subject find ചെയ്ത് singular/plural decide ചെയ്യൂ → verb form select ചെയ്യൂ. 'Of/with/along with/as well as' phrases ignore ചെയ്യൂ!"
+    }
+  },
+  {
+    "id": "181-2024-K_q83",
+    "paperId": "181-2024-K",
+    "questionNumber": 83,
+    "topic": "Question Tags",
+    "questionText": "Add the suitable question tag.\nLet's start our programme now itself, __________?",
+    "optionA": "Shall we?",
+    "optionB": "Shan't we?",
+    "optionC": "Don't we?",
+    "optionD": "None of these",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Shall we?\n\n• 'Let's' = 'Let us' — ഇത് suggestion/invitation indicate ചെയ്യുന്ന expression ആണ്.\n• 'Let's' sentence-ൻ്റെ question tag: ALWAYS 'shall we?'\n• 'Let's start our programme now itself, shall we?' — നമ്മൾ ഇപ്പോൾ തന്നെ programme തുടങ്ങിക്കളയാം, ആകട്ടേ?\n• 'Let's' ഒരു special case ആണ് — positive statement ആണ്, question tag also positive 'shall we?' ആണ് (normal rule-ൽ നിന്ന് exception!)",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Let's + V1 → Question tag: shall we?\n• Special question tag rules:\n  - Let's (suggestion) → shall we?\n  - I am (positive) → aren't I? (exception!)\n  - Don't/Let's not (negative) → shall we? / will you?\n  - Imperative (command): Do it → will you? / won't you?\n• ⭐ PSC ആവർത്തനം: Question tags — PSC-യിൽ ഏറ്റവും frequently ചോദിക്കുന്ന topic!\n• ഉദാഹരണ sentences:\n  1. Let's go for a walk, shall we? (നടക്കാൻ പോകാം, ആകട്ടേ?)\n  2. Let's have dinner together, shall we?\n  3. Let's begin the meeting, shall we?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) Shan't we? — 'Shan't' = 'shall not' — negative tag ആണ്. 'Let's' positive suggestion ആണ്, ഇതിനു positive tag 'shall we?' ആണ് ഉപയോഗിക്കേണ്ടത്. 'Shan't we?' unnatural and wrong ആണ് ഈ context-ൽ. 🪤 PSC Trap: Positive → Negative tag rule apply ചെയ്ത് students ഈ option choose ചെയ്യും.\n\n❌ (C) Don't we? — 'Don't' present negative auxiliary ആണ്. 'Let's' sentence-ൻ്റെ tag 'don't we?' ആകില്ല — ഇത് grammatically incorrect ആണ്. 'Let's' special case ആണ്, 'shall we?' ആണ് standard accepted tag.\n\n❌ (D) None of these — Option A 'shall we?' ശരി ആണ്, 'none of these' wrong ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'LET'S = SHALL WE?' — Let us do something together → Shall WE? — 'we' because 'let us' = we! ഒരിക്കൽ ഓർത്തിരുന്നാൽ forever remember!\n• Special tags to memorize: Let's → shall we | I am → aren't I | Imperative → will you/won't you\n• PSC exam strategy: 'Let's' കണ്ടാൽ immediately 'shall we?' — no second thought needed. This is a guaranteed 1-mark question!"
+    }
+  },
+  {
+    "id": "181-2024-K_q84",
+    "paperId": "181-2024-K",
+    "questionNumber": 84,
+    "topic": "Tenses",
+    "questionText": "Fill in the blank with the correct form of verb.\nShe has been ________ to win her manager's favour since she joined the company.",
+    "optionA": "tried",
+    "optionB": "trying",
+    "optionC": "not trying",
+    "optionD": "none of these",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) trying\n\n• 'She has been ________ since she joined' — ഇവിടെ 'has been' + verb-ing = Present Perfect Continuous tense.\n• Present Perfect Continuous: 'have/has been + V-ing' — past-ൽ തുടങ്ങി ഇപ്പോഴും continue ആകുന്ന action.\n• 'Since she joined' — 'since' past specific time point indicate ചെയ്യുന്നു → Present Perfect Continuous ആണ് ഉചിതം.\n• 'She has been trying to win her manager's favour since she joined' — Company-ൽ join ചെയ്ത നാൾ മുതൽ manager-ൻ്റെ favour നേടാൻ ശ്രമിച്ചുകൊണ്ടിരിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയမം\n\n• 🔑 Quick Formula: has/have been + V-ing = Present Perfect Continuous\n• Signal words for Present Perfect Continuous:\n  - 'since' (specific time point: since 2020, since morning)\n  - 'for' (duration: for two hours, for many years)\n• Structure: Subject + has/have + been + V-ing\n• ⭐ PSC ആവർത്തനം: Present Perfect Continuous — 'since/for' signal words ഉള്ള questions PSC-യിൽ ഇടയ്ക്ക് ചോദിക്കും.\n• ഉദാഹരണ sentences:\n  1. She has been working here since 2019. (2019 മുതൽ ഇവിടെ ജോലി ചെയ്തുകൊണ്ടിരിക്കുന്നു.)\n  2. I have been waiting for you for an hour. (ഒരു മണിക്കൂർ ആയി കാത്തിരിക്കുന്നു.)\n  3. He has been studying since morning. (രാവിലെ മുതൽ പഠിക്കുകയാണ്.)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) tried — 'Has been tried' = passive voice (attempt was made on her) ആകും — meaning complete change ആകും. 'Has been + V3' = passive, 'has been + V-ing' = present perfect continuous active. ഇവിടെ active sense ആണ് ആവശ്യം (she herself is trying). 🪤 PSC Trap: 'tried' try-ൻ്റെ past form ആണ്, students ഇത് naturally select ചെയ്യും.\n\n❌ (C) not trying — Sentence-ൽ negative sense ഒന്നുമില്ല, positive action ആണ് describe ചെയ്യുന്നത്. 'Not trying' ഉൾപ്പെടുത്തിയാൽ meaning opposite ആകും — 'she has been not trying' = ശ്രമിക്കാതിരുന്നു, ഇത് context-ൽ fit ആകില്ല.\n\n❌ (D) none of these — Option B 'trying' ശരിയാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HAS/HAVE BEEN' കണ്ടാൽ → next word must end in '-ING'! 'Has been trying, has been working, has been waiting' — -ing form only!\n• 'Since' = specific past time point, 'for' = duration — ഇവ കണ്ടാൽ Present Perfect or Present Perfect Continuous ആണ് answer.\n• PSC exam strategy: 'has/have been' ഉള്ള blank-ൽ options-ൽ നിന്ന് '-ing' form ഉള്ള option select ചെയ്യൂ — automatic correct!"
+    }
+  },
+  {
+    "id": "181-2024-K_q85",
+    "paperId": "181-2024-K",
+    "questionNumber": 85,
+    "topic": "Conditionals",
+    "questionText": "Fill in the blank with the correct form of verb.\nIf it ________, we may have to call off the match.",
+    "optionA": "rained",
+    "optionB": "has rained",
+    "optionC": "had rained",
+    "optionD": "none of these",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) none of these\n\n• 'If it ________, we may have to call off the match' — ഇത് Type 1 Conditional ആണ് (Real/Possible future situation).\n• Type 1 Conditional formula: If + Simple Present → will/may/can + V1\n• Correct form: 'If it rains, we may have to call off the match.'\n• 'Rains' (simple present) — ഈ option A, B, C-ൽ ഒന്നും ഇല്ല!\n• 'Rained' (past), 'has rained' (present perfect), 'had rained' (past perfect) — ഇവ ഒന്നും ഈ context-ൽ correct അല്ല. അതുകൊണ്ട് D) none of these ആണ് ശരി.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula:\n  - Type 1 (Real future): If + Simple Present → will/may/can + V1\n  - Type 2 (Imaginary present): If + Simple Past → would + V1\n  - Type 3 (Past unreal): If + Past Perfect → would have + V3\n• Main clause-ൽ 'may' ഉള്ളതുകൊണ്ട് → Type 1 conditional → If clause = Simple Present 'rains'\n• ⭐ PSC ആവർത്തനം: Conditionals — PSC-യിൽ ഇടയ്ക്കിടെ ആവർത്തിക്കുന്ന topic!\n• ഉദാഹരണ sentences:\n  1. If it rains, we will cancel the trip. (Type 1)\n  2. If it rained, we would cancel the trip. (Type 2)\n  3. If it had rained, we would have cancelled the trip. (Type 3)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) rained — 'Rained' Simple Past ആണ്. 'If + Simple Past' → Type 2 Conditional — main clause 'would' ആകണം. ഇവിടെ main clause 'may' ഉണ്ട്, 'would' അല്ല. Type 2 ആണ് ഈ structure → wrong. 🪤 PSC Trap: 'rains' ഉം 'rained' ഉം confuse ആകും.\n\n❌ (B) has rained — 'Has rained' Present Perfect ആണ്. Conditional sentence-ൽ if-clause Present Perfect ഉപയോഗിക്കില്ല (special exceptions apart). Standard conditional structures-ൽ if-clause Simple Present or Simple Past ആണ് ഉപയോഗിക്കുക.\n\n❌ (C) had rained — 'Had rained' Past Perfect ആണ് → Type 3 Conditional if-clause. Type 3-ൽ main clause 'would have' ആകണം. ഇവിടെ 'may have to' ആണ് — Type 3 structure match ആകില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Main clause clue ആദ്യം നോക്കൂ! 'will/can/may' → Type 1 → if clause = SIMPLE PRESENT. 'would' → Type 2 → if clause = SIMPLE PAST. 'would have' → Type 3 → if clause = PAST PERFECT.\n• 'None of these' option PSC-ൽ ഉണ്ടെങ്കിൽ — options-ൽ ഒന്നും correct grammatical form അല്ലെങ്കിൽ — D തെരഞ്ഞെടുക്കൂ!\n• PSC exam strategy: Conditional question-ൽ MAIN CLAUSE ആദ്യം analyze ചെയ്യൂ → which type → if-clause form decide ചെയ്യൂ → answer select ചെയ്യൂ."
+    }
+  },
+  {
+    "id": "181-2024-K_q86",
+    "paperId": "181-2024-K",
+    "questionNumber": 86,
+    "topic": "Articles",
+    "questionText": "Fill in the blank with the correct option.\n________ man's the noblest work of God.",
+    "optionA": "Honest",
+    "optionB": "A honest",
+    "optionC": "An honest",
+    "optionD": "The honest",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) An honest\n\n• 'Honest' — ഈ word-ൻ്റെ ആദ്യ letter 'h' ആണ്, പക്ഷേ 'h' SILENT ആണ്! Pronunciation: /ɒnɪst/ — ആദ്യ sound ഒരു vowel sound (/ɒ/) ആണ്.\n• Vowel sound-ന് മുന്നിൽ 'an' ഉപയോഗിക്കണം, 'a' അല്ല.\n• 'An honest man's the noblest work of God' — ഒരു honest ആയ മനുഷ്യൻ ദൈവത്തിൻ്റെ ഏറ്റവും ശ്രേഷ്ഠമായ creation ആണ്.\n• Rule: article letter നോക്കി decide ചെയ്യരുത് — SOUND നോക്കി decide ചെയ്യണം!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Vowel SOUND → 'an' | Consonant SOUND → 'a' (letter നോക്കരുത്, SOUND നോക്കൂ!)\n• ⭐ Silent 'h' words — 'an' ഉപയോഗിക്കുന്നു:\n  - An honest man (h silent)\n  - An hour (h silent)\n  - An heir (h silent)\n  - An honour (h silent)\n• Vowel letter but consonant sound — 'a' ഉപയോഗിക്കുന്നു:\n  - A university (u = /juː/ sound, consonant 'y')\n  - A European (E = /j/ sound)\n  - A one-eyed man (o = /w/ sound)\n  - A useful book\n• ⭐ PSC ആവർത്തനം: Articles — PSC-ൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic!\n• ഉദാഹരണ sentences:\n  1. He is an honest officer. (h silent → an)\n  2. She waited for an hour. (h silent → an)\n  3. It is a university project. (u = yoo sound → a)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Honest — Article ഇല്ലാതെ 'honest man' general statement ആകും. ഇവിടെ 'a/an' (indefinite article) ആവശ്യം ഉണ്ട്. Article-ഇല്ലാതെ ഈ sentence grammatically incomplete ആണ്. 🪤 PSC Trap: 'an honest' correct ആണ് എന്ന് awareness ഇല്ലാത്ത students 'Honest' alone select ചെയ്യും.\n\n❌ (B) A honest — 'A' consonant sound-ന് മുന്നിൽ ഉപയോഗിക്കുന്നതാണ്. 'Honest'-ൻ്റെ 'h' silent ആണ് — vowel sound ആദ്യം വരുന്നു. Vowel sound-ന് 'a' ഉപയോഗിക്കില്ല, 'an' ഉപയോഗിക്കണം. 'A honest' = pronunciation-ൽ awkward, grammatically wrong.\n\n❌ (D) The honest — 'The' definite article ആണ് — specific person/thing indicate ചെയ്യാൻ ഉപയോഗിക്കുന്നതാണ്. ഇവിടെ 'honest man' in general sense ആണ് — indefinite article 'an' ആണ് ഉചിതം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HONEST = AN, HOUR = AN, HEIR = AN, HONOUR = AN' — H words with silent 'h' → always AN. 'UNIVERSITY = A, EUROPEAN = A, ONE-EYED = A' — vowel letter but consonant sound → always A.\n• Simple test: word ഉറക്കെ pronounce ചെയ്യൂ — ആദ്യ sound vowel sound ആണോ (a, e, i, o, u sounds)? → AN. Consonant sound ആണോ? → A.\n• PSC exam strategy: Article questions-ൽ ആദ്യം word-ൻ്റെ pronunciation check ചെയ്യൂ. Letter-ൽ cheat ആകരുത്!"
+    }
+  },
+  {
+    "id": "181-2024-K_q87",
+    "paperId": "181-2024-K",
+    "questionNumber": 87,
+    "topic": "Prepositions",
+    "questionText": "Fill in the blank with the correct preposition.\nOur new office is capable ________ handling 100 customers per hour.",
+    "optionA": "in",
+    "optionB": "at",
+    "optionC": "of",
+    "optionD": "none of these",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) of\n\n• 'Capable of' — ഇത് ഒരു fixed collocation (adjective + preposition pair) ആണ്.\n• 'Capable of doing something' = ഒരു കാര്യം ചെയ്യാൻ കഴിവുള്ള.\n• 'Our new office is capable of handling 100 customers per hour' — നമ്മുടെ പുതിയ office-ൽ ഒരു മണിക്കൂറിൽ 100 customers-നെ handle ചെയ്യാനുള്ള capacity ഉണ്ട്.\n• 'Capable' always 'of' ആണ് — ഇത് memorize ചെയ്ത് വയ്ക്കണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'Capable + OF' — ALWAYS 'of', never 'in' or 'at'\n• ⭐ PSC favourite adjective + preposition collocations:\n  - Capable OF (കഴിവുള്ള)\n  - Fond OF (ഇഷ്ടം)\n  - Proud OF (അഭിമാനം)\n  - Afraid OF (ഭയം)\n  - Full OF (നിറഞ്ഞ)\n  - Aware OF (ബോധം)\n  - Guilty OF (കുറ്റം)\n  - Tired OF (മടുത്ത)\n  - Interested IN (താല്പര്യം)\n  - Good AT (നൈപുണ്യം)\n• ⭐ PSC ആവർത്തനം: Adjective + Preposition collocations — PSC-യിൽ guaranteed questions!\n• ഉദാഹരണ sentences:\n  1. She is capable of solving any problem. (അവൾ ഏത് problem-ഉം solve ചെയ്യാൻ കഴിവുള്ളവളാണ്.)\n  2. He is proud of his achievements.\n  3. They are fond of classical music.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) in — 'Capable in' incorrect collocation ആണ്. 'In' place/time context-ൽ ഉപയോഗിക്കുന്നതാണ്. 'Capable of' ആണ് fixed English phrase. 🪤 PSC Trap: 'Interested in' familiar ആണ്, students 'capable in' ആക്കി confuse ചെയ്യും.\n\n❌ (B) at — 'Capable at' incorrect ആണ്. 'Good at' (skill) fixed phrase ആണ്, 'capable' preposition 'at' ആകില്ല. 'At' place/time/skill indicate ചെയ്യാൻ ഉള്ളതാണ്, 'capable'-ൻ്റെ pair അല്ല.\n\n❌ (D) none of these — Option C 'of' ശരിയാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'C-A-P-A-B-L-E OF' — CAPABLE = needs OF like a key needs a lock! 'Of' unlocks 'capable'!\n• Top OF collocations: capable OF, fond OF, proud OF, afraid OF, full OF, aware OF, tired OF, guilty OF, ashamed OF — ഇവ together ഒരു list ഉണ്ടാക്കി memorize ചെയ്യൂ!\n• PSC exam strategy: Adjective + Preposition question-ൽ fixed pair ഓർക്കൂ. Unknown ആണെങ്കിൽ 'of' options-ൽ ഉണ്ടെങ്കിൽ first check ചെയ്യൂ — 'of' most common preposition in these collocations!"
+    }
+  },
+  {
+    "id": "181-2024-K_q88",
+    "paperId": "181-2024-K",
+    "questionNumber": 88,
+    "topic": "Parts of Speech",
+    "questionText": "Fill in the blank with the correct conjunction.\nHe scored good marks in the examination ________ he did not study well.",
+    "optionA": "in spite of",
+    "optionB": "despite",
+    "optionC": "although",
+    "optionD": "none of these",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) although\n\n• Blank-ന് ശേഷം 'he did not study well' — ഇത് ഒരു complete clause ആണ് (subject + verb ഉണ്ട്).\n• 'Although' ഒരു subordinating conjunction ആണ് — ഇത് two clauses join ചെയ്യുന്നു.\n• 'Although + subject + verb' — ഇതാണ് 'although'-ൻ്റെ structure.\n• 'He scored good marks although he did not study well' — അദ്ദേഹം നന്നായി പഠിക്കാഞ്ഞിട്ടും exam-ൽ നല്ല marks നേടി (contrast!)\n• 'In spite of/despite' + noun/gerund ആണ് — clause (subject+verb) ആകില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula:\n  - Although/Though/Even though + Subject + Verb (full clause)\n  - In spite of/Despite + Noun/Pronoun/Gerund (-ing form)\n• Contrast connectors:\n  - Although he was tired, he kept working. (clause follows)\n  - Despite his tiredness, he kept working. (noun follows)\n  - In spite of being tired, he kept working. (gerund follows)\n• ⭐ PSC ആവർത്തനം: Although vs Despite/In spite of — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന question!\n• ഉദാഹരണ sentences:\n  1. Although it was raining, we went out. (clause → although)\n  2. Despite the rain, we went out. (noun → despite)\n  3. In spite of being tired, she finished the work. (gerund → in spite of)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) in spite of — 'In spite of' + noun/gerund ആണ്. 'In spite of he did not study well' — 'he did not study well' ഒരു full clause ആണ്, noun/gerund അല്ല. ഇത് grammatically wrong ആണ്. Correct: 'In spite of not studying well, he scored good marks.' 🪤 PSC Trap: Meaning same ആണ്, grammar different ആണ്.\n\n❌ (B) despite — 'Despite' preposition ആണ്, conjunction അല്ല. 'Despite + noun/gerund' ആണ് correct. 'Despite he did not study well' grammatically incorrect ആണ്. Correct: 'Despite not studying well, he scored good marks.' (gerund form)\n\n❌ (D) none of these — Option C 'although' ശരിയാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ALTHOUGH = CLAUSE (A-C)' — Although takes A Clause! 'DESPITE/IN SPITE OF = NOUN (D-N)' — Despite/In spite of takes a Noun/gerund! A=Although=A clause, D=Despite=Does NOT take clause!\n• Quick test: blank-ന് ശേഷം Subject + Verb ഉണ്ടോ? → Although/Though. Noun/gerund ഉണ്ടോ? → Despite/In spite of.\n• PSC exam strategy: Blank-ന്റെ ശേഷം clause ആണോ phrase ആണോ? — ഇത് identify ചെയ്ത് conjunction vs preposition decide ചെയ്യൂ!"
+    }
+  },
+  {
+    "id": "181-2024-K_q89",
+    "paperId": "181-2024-K",
+    "questionNumber": 89,
+    "topic": "Types of Sentences",
+    "questionText": "Choose the suitable question to get this sentence as the answer.\nI am not going to school today because my mother is not well.",
+    "optionA": "Why are you not going to school today?",
+    "optionB": "Why not you are going to school today?",
+    "optionC": "Why you are not going to school today?",
+    "optionD": "None of these",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Why are you not going to school today?\n\n• Answer: 'I am not going to school today because my mother is not well'\n• Question ചോദിക്കുന്നത് — reason (why) ചോദിക്കുന്നു, present continuous tense-ൽ.\n• 'Why are you not going...' — Wh-question structure: Wh-word + auxiliary (are) + subject (you) + main verb (going)\n• 'Why are you not going to school today?' — ഇന്ന് school-ൽ പോകാത്തതിൻ്റെ reason ചോദിക്കുന്ന grammatically correct question.\n• Answer-ൽ 'am not going' (present continuous) → Question-ൽ 'are you not going' (present continuous interrogative) ✓",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Wh-question structure: Wh-word + Auxiliary + Subject + Main Verb + ?\n• Wh-question formation:\n  - Statement: You are not going to school.\n  - Question: Why are you not going to school? (inversion: are + you)\n• 'Why' ചോദ്യം: reason ആണ് ചോദിക്കുന്നത்.\n• ⭐ Correct word order: Why + auxiliary verb + subject + main verb\n  Wrong: 'Why you are' (no inversion)\n  Wrong: 'Why not you are' (wrong word order)\n  Right: 'Why are you' (correct auxiliary-subject inversion)\n• ഉദാഹരണ sentences:\n  1. Why are you crying? (Why + are + you + crying)\n  2. Why is he late? (Why + is + he)\n  3. Why did she leave early? (Why + did + she + leave)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) Why not you are going to school today? — Word order completely wrong ആണ്. 'Why not + subject + auxiliary' ഈ structure English-ൽ correct question format അല്ല. Correct: Wh-word + auxiliary + subject. 🪤 PSC Trap: Translation-style Malayalam → English ആക്കുമ്പോൾ ഈ mistake ഉണ്ടാകും.\n\n❌ (C) Why you are not going to school today? — Subject-auxiliary inversion ഇല്ല! 'Why you are' = indirect question structure ആണ്, direct question-ൽ 'why are you' ആണ് ശരി. Direct question-ൽ auxiliary-subject inversion mandatory ആണ്.\n\n❌ (D) None of these — Option A grammatically correct ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'WHY + FLIP!' — Why ചോദ്യത്തിൽ auxiliary ഉം subject ഉം FLIP (swap) ചെയ്യൂ! 'You ARE going' → 'WHY ARE YOU going?' — ARE ഉം YOU ഉം flip ചെയ്തു!\n• Question formation rule: Statement word order (S + Aux + V) → Question word order (Wh + Aux + S + V)\n• PSC exam strategy: Wh-question options-ൽ 'Wh-word + auxiliary + subject' pattern ഉള്ള option ആണ് answer. 'Wh-word + subject + auxiliary' pattern ഉള്ളത് indirect question format ആണ് — wrong for direct questions!"
+    }
+  },
+  {
+    "id": "181-2024-K_q90",
+    "paperId": "181-2024-K",
+    "questionNumber": 90,
+    "topic": "Correction of Sentences",
+    "questionText": "Comment on the sentence.\nHad he been educated properly, his life would have been better.",
+    "optionA": "The first clause is wrong",
+    "optionB": "The second clause is wrong",
+    "optionC": "The entire sentence is wrong",
+    "optionD": "The entire sentence is right",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) The entire sentence is right\n\n• 'Had he been educated properly, his life would have been better' — ഇത് Third Conditional sentence ആണ്.\n• Third Conditional inverted form: 'Had + subject + V3...' = 'If + subject + had + V3...'\n• 'Had he been educated' = 'If he had been educated' (inversion for formal/literary style)\n• Main clause: 'his life would have been better' = correct Third Conditional main clause (would have + V3)\n• ഭൂതകാലത്തിൽ proper education കിട്ടിയിരുന്നെങ്കിൽ ജീവിതം നന്നായേനേ — ഇതാണ് ഈ sentence-ൻ്റെ meaning. Both clauses grammatically perfect ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Third Conditional Inverted Form: Had + S + V3 → would have + V3\n• Normal: If he had studied, he would have passed.\n• Inverted (formal): Had he studied, he would have passed.\n• Inversion (Had/Were/Should) used when 'if' is omitted — formal/literary English-ൽ ഇത് correct ആണ്.\n• ⭐ PSC ആവർത്തനം: Sentence comment/error identification — entire sentence right ആണ് option PSC-ൽ ഒരു trap ആണ്!\n• ഉദാഹരണ sentences:\n  1. Had I known earlier, I would have helped. (If I had known → Had I known)\n  2. Were she here, she would help us. (If she were here → Were she here)\n  3. Should you need help, call me. (If you should need → Should you need)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) The first clause is wrong — 'Had he been educated properly' = inverted Third Conditional if-clause. ഇത് perfectly correct grammar ആണ്. 'Had + subject + been + V3' formal English-ൽ standard structure ആണ്. First clause-ൽ ഒരു error ഇല്ല. 🪤 PSC Trap: 'Had' ആദ്യം കണ്ടാൽ wrong ആണ് എന്ന് think ചെയ്ത് students A choose ചെയ്യും.\n\n❌ (B) The second clause is wrong — 'his life would have been better' = Third Conditional main clause. 'would have + been' (been = past participle of be) — grammatically correct ആണ്. Second clause-ൽ ഒരു error ഇല്ല.\n\n❌ (C) The entire sentence is wrong — Both clauses correct ആണ്. 'Had + V3, would have + V3' — valid Third Conditional inverted structure ആണ്. Entire sentence correct ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HAD at the start = IF + HAD inverted!' — Sentence 'Had' ൽ തുടങ്ങിയാൽ → Third Conditional inverted form. Wrong ആണ് എന്ന് immediately assume ചെയ്യരുത്!\n• Inverted conditionals: Had/Were/Should ൽ sentence തുടങ്ങിയാൽ → formal conditional (if omitted) — always correct!\n• PSC exam strategy: 'Sentence comment' questions-ൽ ആദ്യം sentence grammatically analyze ചെയ്യൂ. 'Looks strange but correct' option ആണ് often PSC answer — don't be tricked by unusual word order!"
+    }
+  },
+  {
+    "id": "181-2024-K_q91",
+    "paperId": "181-2024-K",
+    "questionNumber": 91,
+    "topic": "Singular and Plural",
+    "questionText": "Choose the plural form of the word INDEX from the following.",
+    "optionA": "Index",
+    "optionB": "Indexes",
+    "optionC": "Indices",
+    "optionD": "Indice",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Indices\n\n• 'Index' ഒരു Latin-origin word ആണ്. Latin plural: '-ex/-ix' ending words → '-ices' plural.\n• 'Index' → 'Indices' — ഇതാണ് academic/formal/mathematical plural.\n• 'Indexes' ഉം technically acceptable ആണ് (books-ൻ്റെ indexes), പക്ഷേ PSC context-ൽ Latin plural 'Indices' ആണ് preferred.\n• 'Indices' = mathematical, economic, scientific contexts-ൽ ഉപയോഗിക്കുന്നു. (Stock market indices, refractive indices)\n• PSC-ൽ 'Indices' ആണ് standard accepted answer.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Latin words in '-ex/-ix' → plural in '-ices'\n• Latin/Greek plural forms (PSC favourites):\n  - Index → Indices (അല്ലെങ്കിൽ Indexes)\n  - Appendix → Appendices\n  - Matrix → Matrices\n  - Vertex → Vertices\n  - Radius → Radii\n  - Criterion → Criteria\n  - Phenomenon → Phenomena\n  - Datum → Data\n  - Syllabus → Syllabi (Syllabuses)\n• ⭐ PSC ആവർത്തനം: Irregular plurals — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic.\n• ഉദാഹരണ sentences:\n  1. The stock market indices rose today. (market-ൻ്റെ indices)\n  2. The book has two appendices. (book-ൻ്റെ appendices)\n  3. The criteria for selection are clear. (criteria = plural of criterion)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Index — Singular form ആണ്. Plural form ആണ് ചോദിക്കുന്നത്. 🪤 PSC Trap: Confused students singular repeat ചെയ്യും.\n\n❌ (B) Indexes — General English-ൽ 'indexes' (especially book indexes) acceptable ആണ്, പക്ഷേ PSC formal/academic context-ൽ Latin plural 'Indices' ആണ് preferred answer. 'Indexes' less formal ആണ്.\n\n❌ (D) Indice — 'Indice' singular form ആണ് English-ൽ — ഇത് wrong plural form ആണ്. French-ൽ 'indice' singular ആണ്, English plural 'indices' ആണ്. 'Indice' English-ൽ exist ചെയ്യുന്ന word അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'INDEX → IN + DICE! INDICES!' — Index → Indices — 'DICE' കാണുന്നോ? Dice (game pieces) plural ആണ് — index plural ഉം INDICES (dice-like ending)!\n• Important irregular plurals list: index/indices, appendix/appendices, matrix/matrices, criterion/criteria, datum/data, phenomenon/phenomena — ഇവ PSC guaranteed questions!\n• PSC exam strategy: Latin origin words-ൻ്റെ plurals — '-ex/-ix → -ices' rule apply ചെയ്യൂ. 'Indexes' ഉം 'Indices' ഉം options-ൽ ഉണ്ടെങ്കിൽ 'Indices' ആണ് PSC preferred!"
+    }
+  },
+  {
+    "id": "181-2024-K_q92",
+    "paperId": "181-2024-K",
+    "questionNumber": 92,
+    "topic": "Parts of Speech",
+    "questionText": "Which of the following is the feminine gender of the word 'Drone'?",
+    "optionA": "Duck",
+    "optionB": "Bee",
+    "optionC": "Goose",
+    "optionD": "Donkey",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Bee\n\n• 'Drone' = male bee — തേനീച്ചക്കൂട്ടത്തിലെ ആൺ ഇനം.\n• Female bee = 'Bee' (worker bee or queen bee) — ഇതാണ് drone-ൻ്റെ feminine gender.\n• Bee colony-ൽ: Drone (male) → only role is reproduction. Worker bees ഉം Queen bee ഉം female ആണ്.\n• 'Drone' → 'Bee' — ഇതാണ് PSC standard gender pair.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Drone (male bee) → Bee (female bee)\n• ⭐ Animal gender pairs (PSC favourites):\n  - Drone → Bee (തേനീച്ച: male/female)\n  - Drake → Duck (താറാവ്: male/female)\n  - Gander → Goose (വാത്ത: male/female)\n  - Stallion → Mare (കുതിര: male/female)\n  - Bull → Cow (പശു: male/female)\n  - Ram → Ewe (ആട്: male/female)\n  - Lion → Lioness (സിംഹം)\n  - Tiger → Tigress (കടുവ)\n  - Fox → Vixen (കുറുക്കൻ)\n• ⭐ PSC ആവർത്തനം: Animal gender — PSC-ൽ ഇടയ്ക്ക് ചോദിക്കുന്ന topic.\n• ഉദാഹരണ sentences:\n  1. The drone's only job is to mate with the queen bee.\n  2. Worker bees are all female.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Duck — Duck = female duck ആണ്, male duck = Drake. ഇവ 'drone' family അല്ല — ഇത് duck family ആണ്. Drone-ൻ്റെ feminine Duck അല്ല. 🪤 PSC Trap: 'Drone' sound-ൽ 'Drake' കണ്ടിട്ട്, female duck = 'Duck' choose ചെയ്യുന്ന mistake.\n\n❌ (C) Goose — Goose = female goose ആണ്, male goose = Gander. ഇത് goose family ആണ്, bee family അല്ല. Drone bee-ൻ്റെ feminine goose ആകില്ല.\n\n❌ (D) Donkey — Donkey (female = Jenny). Donkey is a completely different animal. Drone bee-ൻ്റെ feminine ആകില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'DRONE = He-Bee, BEE = She-Bee' — Drone is the 'lazy' male bee (it doesn't even collect honey!), Bee is the hardworking female! Gender question-ൽ remember: Drone → Bee.\n• Animal gender pairs — 3 sets to confuse: Drone(bee-male)/Bee, Drake/Duck, Gander/Goose — ഈ 3 pairs confuse ആകും. Animal identify ചെയ്ത് ശരിയായ pair select ചെയ്യൂ.\n• PSC exam strategy: Animal gender questions-ൽ ആദ്യം animal identify ചെയ്യൂ (drone = bee). ശേഷം male/female pair recall ചെയ്യൂ."
+    }
+  },
+  {
+    "id": "181-2024-K_q93",
+    "paperId": "181-2024-K",
+    "questionNumber": 93,
+    "topic": "Spelling",
+    "questionText": "Pick out the correctly spelled word from the following.",
+    "optionA": "tusion",
+    "optionB": "tuition",
+    "optionC": "tution",
+    "optionD": "tushan",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) tuition\n\n• 'Tuition' = private teaching/coaching ഫീ / class fees.\n• ശരിയായ spelling: T-U-I-T-I-O-N\n• 'tuition' = fee for teaching, or the teaching itself.\n• ഓർക്കൂ: 'tui-tion' — 'tui' part remember ചെയ്യൂ, 'tu-i' (two letters together).\n• 'Tuition fees' (class fees), 'tuition classes' (coaching classes) — everyday context-ൽ ഉപയോഗിക്കുന്ന word.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: T-U-I-T-I-O-N — 5 letters before '-on': TUITI + ON\n• Etymology: Latin 'tuitio' (guarding, protection/teaching) → English 'tuition'\n• ⭐ Commonly misspelled words (PSC favourites):\n  - tuition (not tution/tusion)\n  - occasion (not occassion)\n  - accommodation (double c, double m)\n  - necessary (one c, two s)\n  - beautiful (not beautifull)\n  - privilege (not privalege)\n• ⭐ PSC ആവർത്തനം: Spelling — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic.\n• ഉദാഹരണ sentences:\n  1. The tuition fees have increased this year. (ഈ വർഷം tuition fees കൂടി.)\n  2. She gives private tuition to students. (അവൾ students-ന് private tuition കൊടുക്കുന്നു.)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) tusion — 'ui' missing ആണ്. 'T-U-S-I-O-N' — 'i' after 'u' missing. Pronunciation guide: 'tew-ish-un' → 'tui' must be there. 🪤 PSC Trap: Quick reading-ൽ 'tusion' ഉം 'tuition' ഉം similar look ആണ്.\n\n❌ (C) tution — Most common mistake! 'TU-TION' — middle 'i' missing ആണ്. 'Tuition' = TU + I + TION. 'Tution' wrong — 'i' drop ചെയ്തതാണ്. Indian English pronunciation-ൽ 'i' often skip ചെയ്യും, spelling-ൽ ഉണ്ടായിരിക്കണം.\n\n❌ (D) tushan — Phonetic spelling ആണ്. 'Tuition'-ൻ്റെ sound /tjuːɪʃən/ → 'tushan' ആക്കി write ചെയ്തതാണ്. Standard English spelling 'tuition' ആണ്, phonetic version wrong ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'TU + IT + ION = TUITION!' — TU (two) + IT + ION — 'Two It Ion' — 'I' twice — T-U-I-T-I-O-N! Two 'I's ഉണ്ട് ഈ word-ൽ!\n• Most common mistake: 'tution' (i missing) → Always remember TU-I-TION, not TU-TION.\n• PSC exam strategy: Spelling question-ൽ ആദ്യം obviously wrong options eliminate ചെയ്യൂ ('tushan' clearly phonetic). ശേഷം remaining-ൽ standard English spelling select ചെയ്യൂ."
+    }
+  },
+  {
+    "id": "181-2024-K_q94",
+    "paperId": "181-2024-K",
+    "questionNumber": 94,
+    "topic": "Singular and Plural",
+    "questionText": "What is the collective name used for 'a group of soldiers'?",
+    "optionA": "band",
+    "optionB": "flock",
+    "optionC": "congregation",
+    "optionD": "regiment",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) regiment\n\n• 'A regiment' = ഒരു military unit — soldiers-ൻ്റെ group-ൻ്റെ official collective noun ആണ്.\n• 'Regiment' = typically 1000-3000 soldiers ഉള്ള ഒരു military unit.\n• 'A regiment of soldiers' — ഇതാണ് PSC-ൽ expected answer.\n• Military/armed forces collective nouns: regiment (soldiers), fleet (ships/planes), battalion, brigade — ഇവ military units ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Soldiers → Regiment\n• ⭐ Important collective nouns (PSC guaranteed):\n  - Regiment — soldiers (പട്ടാളക്കാർ)\n  - Fleet — ships/aeroplanes\n  - Flock — birds or sheep\n  - Herd — cattle/elephants\n  - Pack — wolves/cards\n  - Swarm — bees/ants\n  - Pride — lions\n  - Gaggle — geese\n  - Pod — whales/dolphins\n  - Congregation — worshippers (church-ൽ)\n  - Troupe — actors/dancers\n  - Band — musicians\n  - Ream — paper\n• ⭐ PSC ആവർത്തനം: Collective nouns — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic!\n• ഉദാഹരണ sentences:\n  1. A regiment of soldiers marched through the city.\n  2. A flock of birds flew over the lake.\n  3. A congregation of worshippers gathered in the church.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) band — 'A band of' musicians/robbers/brothers-ന് ഉപയോഗിക്കുന്നു. Soldiers-ൻ്റെ official collective noun 'regiment' ആണ്, 'band' അല്ല. 🪤 PSC Trap: 'band of brothers' (movie) famous ആണ്, students ഇത് soldiers-ന് choose ചെയ്യും.\n\n❌ (B) flock — 'A flock of' birds or sheep-ൻ്റെ collective noun ആണ്. Soldiers-ൻ്റെ collective noun 'flock' ആകില്ല. Animals-ൻ്റെ collective noun soldiers-ന് apply ചെയ്യില്ല.\n\n❌ (C) congregation — 'A congregation of' worshippers/church members-ൻ്റെ collective noun ആണ്. Religious gathering indicate ചെയ്യുന്നതാണ്, military unit indicate ചെയ്യുന്നതല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'REGIMENT = RE + GIMENT (Regiment marches)' — Military word! REGIMENT = soldiers' group. Soldiers MARCH in REGIMENT — both M words! (March/Military/Men → Regiment)\n• Military vs non-military collective nouns: Regiment (soldiers), Fleet (ships), Troupe (performers), Flock (birds), Herd (cattle) — category ഓർത്തിരിക്കൂ!\n• PSC exam strategy: Collective noun question-ൽ group type identify ചെയ്യൂ (military? animal? religious?) → correct category-ൻ്റെ collective noun select ചെയ്യൂ."
+    }
+  },
+  {
+    "id": "181-2024-K_q95",
+    "paperId": "181-2024-K",
+    "questionNumber": 95,
+    "topic": "Synonyms",
+    "questionText": "Choose a synonym for the word 'Blasphemous' from the words given below.",
+    "optionA": "adoration",
+    "optionB": "respect",
+    "optionC": "profane",
+    "optionD": "admiration",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) profane\n\n• 'Blasphemous' = ദൈവനിന്ദ ചെയ്യുന്ന, sacred things-നെ disrespect ചെയ്യുന്ന, impious.\n• 'Profane' = ദൈവദൂഷണം, sacred-ഇതര, irreverent — ഇതാണ് 'blasphemous'-ൻ്റെ synonym.\n• 'A blasphemous remark' = 'A profane remark' — ദൈവനിന്ദ ഉള്ള statement.\n• Options A, B, D (adoration, respect, admiration) — ഇവ positive words ആണ്, blasphemous negative word ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Blasphemous = Profane = Sacrilegious = Irreverent (ദൈവനിന്ദ)\n• Word family:\n  - Blaspheme (verb) → Blasphemous (adjective) → Blasphemy (noun) → Blasphemer (person)\n  - Profane (adjective/verb) → Profanity (noun)\n• Etymology: Greek 'blasphemia' = slander/evil speech (about sacred things)\n• ⭐ PSC ആവർത്തനം: Advanced vocabulary synonyms — PSC-ൽ ഇടയ്ക്ക് ചോദിക്കുന്ന topic.\n• ഉദാഹരണ sentences:\n  1. The blasphemous speech offended many believers. (ദൈവനിന്ദ ചെയ്യുന്ന speech believers-നെ hurt ചെയ്തു.)\n  2. Such profane language is not acceptable in a holy place.\n  3. He was accused of blasphemy.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) adoration — 'Adoration' = deep love and worship (ആരാധന). ഇത് 'blasphemous'-ൻ്റെ exact OPPOSITE ആണ്. Blasphemous = disrespect, Adoration = deep respect/worship. 🪤 PSC Trap: 'Blasphem-' sounds connected to religion, students 'adoration' (religious feeling) choose ചെയ്യും.\n\n❌ (B) respect — 'Respect' = ആദരവ്. ഇതും OPPOSITE ആണ്. Blasphemous = lack of respect for sacred things. 'Respect' antonym ആണ്, synonym അല്ല.\n\n❌ (D) admiration — 'Admiration' = appreciation, positive feeling. ഇതും positive word ആണ്, blasphemous negative word ആണ്. Synonym match ആകില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BLASPHEMOUS = BLAME + FAMOUS (God)' — God/sacred things-നെ publicly BLAME ചെയ്യൽ = Blasphemous! Profane also means 'outside the temple' (pro = before/outside + fane = temple) — sacred ഇതരമായ.\n• Synonym question strategy: ആദ്യം word-ൻ്റെ positive/negative nature identify ചെയ്യൂ. 'Blasphemous' = negative → positive options (adoration, respect, admiration) eliminate ചെയ്യൂ → 'Profane' (negative) = answer!\n• PSC exam strategy: Unknown word ആണെങ്കിലും positive/negative sense identify ചെയ്ത് wrong options eliminate ചെയ്യൂ — guaranteed mark!"
+    }
+  },
+  {
+    "id": "181-2024-K_q96",
+    "paperId": "181-2024-K",
+    "questionNumber": 96,
+    "topic": "Phrasal Verbs",
+    "questionText": "Pick out the phrasal verb with the meaning 'distribute'.",
+    "optionA": "Give up",
+    "optionB": "Give in",
+    "optionC": "Give away",
+    "optionD": "Give off",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Give away\n\n• 'Give away' = distribute, give for free, or reveal a secret.\n• 'Distribute' meaning-ൽ: 'They gave away free books to students' = students-ന് books distribute ചെയ്തു.\n• 'Give away' — ഒന്ന് free-ആയി distribute ചെയ്യൽ, അല്ലെങ്കിൽ ഒരു secret reveal ചെയ്യൽ.\n• PSC context-ൽ 'distribute' meaning = give away.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Give AWAY = distribute (free-ആയി) / reveal a secret\n• 'Give' phrasal verbs — PSC favourites:\n  - Give up = abandon, quit (ഉപേക്ഷിക്കുക)\n  - Give in = surrender, yield (കീഴടങ്ങുക)\n  - Give away = distribute for free / reveal secret (distribute ചെയ്യുക / secret പറഞ്ഞുകളയുക)\n  - Give off = emit (gas/smell) (പുറത്തുവിടുക)\n  - Give out = distribute / emit (distribute ചെയ്യുക)\n  - Give back = return (തിരിച്ചുകൊടുക്കുക)\n• ⭐ PSC ആവർത്തനം: Phrasal verbs — PSC-ൽ frequently ആവർത്തിക്കുന്ന topic!\n• ഉദാഹരണ sentences:\n  1. They gave away free textbooks. (free books distribute ചെയ്തു)\n  2. Don't give up your dream. (dream ഉപേക്ഷിക്കരുത്)\n  3. The flowers give off a sweet scent. (പൂക്കൾ സുഗന്ധം പുറത്തുവിടുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Give up — 'Give up' = quit, abandon, stop trying. ഇതിന് 'distribute' meaning ഇല്ല. 'She gave up smoking' (smoking ഉപേക്ഷിച്ചു). 🪤 PSC Trap: 'Give up' familiar phrase ആണ്, students automatically ഇത് select ചെയ്യും.\n\n❌ (B) Give in — 'Give in' = surrender, accept defeat. 'He finally gave in to her demands' (കീഴടങ്ങി). Distribute meaning ഇല്ല. Submit/yield ആണ് meaning.\n\n❌ (D) Give off — 'Give off' = emit (smell, heat, light, gas). 'The factory gives off smoke' (factory smoke emit ചെയ്യുന്നു). Distribute meaning ഇല്ല — emit ആണ് meaning.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'GIVE AWAY = GIVE + AWAY (far from you)' — Something give ചെയ്ത് away (ദൂരേക്ക്) = distribute ചെയ്ത് free ആക്കൽ! Away = free!\n• Give phrasal verbs quick list: Up=quit, In=surrender, Away=distribute/reveal, Off=emit, Out=distribute/exhaust, Back=return\n• PSC exam strategy: Phrasal verb question-ൽ meaning directly memorize ചെയ്ത് വയ്ക്കൂ. 'Give' + particle combination — particle-ൻ്റെ direction/meaning ആണ് phrasal meaning decide ചെയ്യുന്നത്!"
+    }
+  },
+  {
+    "id": "181-2024-K_q97",
+    "paperId": "181-2024-K",
+    "questionNumber": 97,
+    "topic": "Idioms",
+    "questionText": "Choose the correct meaning of the idiom 'To let the cat out of the bag'.",
+    "optionA": "to give freedom to cat",
+    "optionB": "to feed an animal",
+    "optionC": "to do something unexpected",
+    "optionD": "to reveal a secret",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) to reveal a secret\n\n• 'Let the cat out of the bag' = accidentally reveal a secret that was supposed to be kept hidden.\n• 'ഒരു secret accidentally പറഞ്ഞുകളയുക' — ഇതാണ് ഈ idiom-ൻ്റെ meaning.\n• Origin: ചന്തയിൽ pig sale ആകുന്ന bag-ൽ cat ഒളിപ്പിച്ചു cheat ചെയ്യുമ്പോൾ bag തുറന്നാൽ cat ഓടിപ്പോകുന്നു = secret reveal ആകുന്നു!\n• 'She let the cat out of the bag about the surprise party' = surprise party secret accidentally പറഞ്ഞുകളഞ്ഞു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Let the cat out of the bag = Reveal a secret (accidentally)\n• ⭐ PSC favourite idioms with animals:\n  - Let the cat out of the bag = reveal a secret\n  - Kill two birds with one stone = accomplish two things at once\n  - It's raining cats and dogs = raining heavily\n  - The cat sat on the mat = (no idiom meaning)\n  - Cry wolf = give false alarm\n  - A wolf in sheep's clothing = dangerous person pretending to be harmless\n  - Hold your horses = wait, slow down\n  - Take the bull by the horns = face a problem directly\n• ⭐ PSC ആവർത്തനം: Idioms — PSC-ൽ ഒരിക്കലും miss ആകില്ല!\n• ഉദാഹരണ sentences:\n  1. John let the cat out of the bag about the surprise party. (surprise party secret പറഞ്ഞുകളഞ്ഞു)\n  2. She accidentally let the cat out of the bag.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) to give freedom to cat — Idiom-ൻ്റെ literal meaning ആണ്. 'Cat' ഒരു bag-ൽ ഉണ്ടെന്ന് assume ചെയ്ത് literal meaning take ചെയ്തതാണ്. Idioms-ൻ്റെ literal meaning ഒരിക്കലും correct answer ആകില്ല! 🪤 PSC Trap: Idiom-ൻ്റെ words ആദ്യം കണ്ടിട്ട് literal interpretation ചെയ്യുന്ന students ഈ option choose ചെയ്യും.\n\n❌ (B) to feed an animal — ഇതും literal/irrelevant meaning ആണ്. Idiom-ൽ feeding ഒന്നും mention ഇല്ല. Bag-ൽ cat ഉണ്ടെന്ന് assume ചെയ്ത് feeding connect ചെയ്തതാണ് — wrong.\n\n❌ (C) to do something unexpected — 'Something unexpected' partially related ആണ് (secret reveal ആകുന്നത് unexpected ആകാം), പക്ഷേ exact meaning 'reveal a secret' ആണ്. 'Unexpected action' ആണ് meaning അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'CAT IN BAG = SECRET. CAT OUT = SECRET OUT!' — Imagine: bag-ൽ hidden cat (secret) ഒളിഞ്ഞിരിക്കുന്നു. Bag open ആയി cat ഓടിപ്പോയി = secret reveal ആയി! ഈ image ഓർത്തിരിക്കൂ!\n• Animal idioms PSC list: cat out of bag (secret reveal), raining cats/dogs (heavy rain), wolf in sheep's clothing (dangerous pretender), hold horses (wait), take bull by horns (face problem)\n• PSC exam strategy: Animal idioms-ൽ literal meaning options ഉണ്ടെങ്കിൽ immediately eliminate ചെയ്യൂ — idiom meaning always figurative ആണ്!"
+    }
+  },
+  {
+    "id": "181-2024-K_q98",
+    "paperId": "181-2024-K",
+    "questionNumber": 98,
+    "topic": "One Word Substitutes",
+    "questionText": "Fill in the blank with appropriate word.\nHis mother did not attend any school. She is ________.",
+    "optionA": "illiterate",
+    "optionB": "illegible",
+    "optionC": "illuminated",
+    "optionD": "imminent",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) illiterate\n\n• 'His mother did not attend any school' = school-ൽ പോകാത്ത, education ഇല്ലാത്ത ആൾ.\n• 'Illiterate' = unable to read or write, not educated — ഇതാണ് correct answer.\n• 'She is illiterate' = അവൾ സ്കൂൾ പഠിക്കാത്ത / read/write ചെയ്യാൻ അറിയാത്ത ആൾ ആണ്.\n• 'il-' prefix = 'not' (from Latin 'in-') → illiterate = not literate.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Not educated/cannot read-write = ILLITERATE\n• 'il-' prefix words (not/opposite):\n  - illiterate = not literate (educated അല്ലാത്ത)\n  - illegal = not legal\n  - illegible = not legible (readable അല്ലാത്ത — handwriting)\n  - illogical = not logical\n  - illuminate = to light up (il here = in = into)\n• ⭐ Confusing il- words:\n  - Illiterate = cannot read or write (school ഇല്ലാത്ത)\n  - Illegible = cannot be read (handwriting unclear)\n• ⭐ PSC ആവർത്തനം: One word substitutes + vocabulary — PSC-ൽ ഇടയ്ക്ക് ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. Many rural women are still illiterate. (school education ഇല്ലാത്ത)\n  2. His handwriting is illegible. (handwriting read ചെയ്യാൻ കഴിയില്ല)\n  3. The road is illuminated at night. (വഴി light ആക്കിയിരിക്കുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) illegible — 'Illegible' = handwriting or text that cannot be read (unclear writing). School attendance-നെക്കുറിച്ചല്ല, writing quality-യെക്കുറിച്ചാണ്. 🪤 PSC Trap: 'illiterate' ഉം 'illegible' ഉം both 'il-' prefix ആണ്, easily confuse ആകും.\n\n❌ (C) illuminated — 'Illuminated' = lit up with light, or decorated with illustrations. School-ൽ പോകാത്ത person describe ചെയ്യാൻ ഉപയോഗിക്കില്ല. Completely different meaning ആണ്.\n\n❌ (D) imminent — 'Imminent' = about to happen very soon (ഉടൻ സംഭവിക്കാൻ പോകുന്ന). 'The storm is imminent' — ഇതുപോലെ ഉപയോഗിക്കുന്ന word ആണ്. Education-ൻ്റെ lack indicate ചെയ്യില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ILLITERATE = ILL + LITERATE' — LITERATE (educated) ഇല്ലാത്ത = ILL-LITERATE! 'Ill' = sick/wrong → literacy sick ആണ് → illiterate!\n• Key difference: ILLITERATE (school ഇല്ല/read-write ചെയ്യില്ല) vs ILLEGIBLE (handwriting unclear/read ആകില്ല) — person vs writing quality!\n• PSC exam strategy: Context clue — 'did not attend any school' → education related word → illiterate. 'il-' prefix words-ൽ education/reading/writing ഏത് angle ആണ് ചോദ്യം? identify ചെയ്ത് answer select ചെയ്യൂ."
+    }
+  },
+  {
+    "id": "181-2024-K_q99",
+    "paperId": "181-2024-K",
+    "questionNumber": 99,
+    "topic": "Antonyms",
+    "questionText": "Which of the following is the antonym of the word CONFESS?",
+    "optionA": "Assert",
+    "optionB": "Deny",
+    "optionC": "Neglect",
+    "optionD": "Defend",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Deny\n\n• 'Confess' = admit guilt/truth (ഒരു തെറ്റ്/fact സ്വയം acknowledge ചെയ്യുക).\n• Antonym = opposite meaning → 'Deny' = refuse to admit, say it is not true (നിഷേധിക്കുക).\n• 'Confess a crime' vs 'Deny a crime' — exact opposites!\n• 'He confessed to the murder' (admitted) ↔ 'He denied the murder' (refused to admit)",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Confess (admit) ↔ Deny (refuse to admit)\n• Word family:\n  - Confess (verb) → Confession (noun) → Confessor (person who confesses)\n  - Deny (verb) → Denial (noun) → Denier (person who denies)\n• Synonyms of CONFESS: admit, acknowledge, avow, own up\n• Synonyms of DENY: refute, reject, contradict, negate\n• ⭐ PSC ആവർത്തനം: Antonyms — PSC-ൽ ഇടയ്ക്ക് ആവർത്തിക്കുന്ന topic.\n• ഉദാഹരണ sentences:\n  1. He confessed to stealing the money. (admit ചെയ്തു)\n  2. She denied knowing anything about it. (നിഷേധിച്ചു)\n  3. The confession was recorded by the police.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Assert — 'Assert' = state confidently/firmly (ഉറച്ചുപറയുക). ഇത് confess-ൻ്റെ antonym അല്ല. 'Assert' = positive claim, 'confess' = admit guilt — different domains. 🪤 PSC Trap: 'Assert' sounds opposite-ish, students ഇത് choose ചെയ്യും.\n\n❌ (C) Neglect — 'Neglect' = fail to care for or do something (അവഗണിക്കുക). ഇതും confess-ൻ്റെ antonym അല്ല — completely different meaning domain ആണ്.\n\n❌ (D) Defend — 'Defend' = protect/argue in favour (defend ചെയ്യുക). ഒരാൾ confess ചെയ്ത ശേഷം others defend ചെയ്തേക്കും, പക്ഷേ defend = antonym of confess അല്ല. Deny ആണ് direct opposite.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'CONFESS = CON(fession) + FESS (say)' → said it. 'DENY = DE(ny) + NY (No Yes!)' → said NO! CONFESS = say YES (I did it). DENY = say NO (I did not)!\n• Antonym question strategy: Confess = say yes to guilt → antonym = say no to guilt = DENY. Simple!\n• PSC exam strategy: Antonym question-ൽ word-ൻ്റെ core meaning identify ചെയ്ത് exact opposite select ചെയ്യൂ. 'Confess = admit' → opposite = 'deny = refuse to admit'. ഇത് remember ചെയ്താൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "181-2024-K_q100",
+    "paperId": "181-2024-K",
+    "questionNumber": 100,
+    "topic": "One Word Substitutes",
+    "questionText": "Pick out the one word which means 'able to perform one's duties well'.",
+    "optionA": "efficient",
+    "optionB": "faithful",
+    "optionC": "determined",
+    "optionD": "punctual",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) efficient\n\n• 'Able to perform one's duties well' = efficiently work ചെയ്യാൻ കഴിവുള്ള — ഇതാണ് 'efficient'-ൻ്റെ meaning.\n• 'Efficient' = capable of producing desired results with minimum waste of time/resources.\n• 'An efficient worker' = duties നന്നായി perform ചെയ്യുന്ന worker.\n• Context: 'Able to perform duties WELL' → quality of performance → efficient.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Efficient = able to do work well with minimum waste\n• Related words:\n  - Efficient (adjective) → Efficiency (noun) → Efficiently (adverb)\n  - Effective = produces the desired result\n  - Efficient = produces result with minimum effort/waste\n• Other options decoded:\n  - Faithful = loyal and trustworthy (വിശ്വസ്തൻ)\n  - Determined = having a firm decision (ദൃഢനിശ്ചയം ഉള്ള)\n  - Punctual = always on time (സമയം കൃത്യമായി പാലിക്കുന്ന)\n• ⭐ PSC ആവർത്തനം: One word substitutes — PSC-ൽ guaranteed topic.\n• ഉദാഹരണ sentences:\n  1. She is an efficient manager who always meets deadlines. (duties well perform ചെയ്യുന്ന)\n  2. An efficient engine uses less fuel. (minimum waste)\n  3. We need efficient workers for this project.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) faithful — 'Faithful' = loyal, trustworthy (വിശ്വസ്തൻ). Performing duties WELL-നെക്കുറിച്ചല്ല, loyalty-നെക്കുറിച്ചാണ്. ഒരാൾ faithful ആണ് എന്ന് പറഞ്ഞാൽ loyal ആണ് എന്ന് meaning, efficient ആണ് എന്ന് meaning അല്ല. 🪤 PSC Trap: 'Duties perform ചെയ്യുന്ന' context-ൽ 'faithful employee' ഓർക്കും.\n\n❌ (C) determined — 'Determined' = having made a firm decision, persistent (ഉറച്ച ലക്ഷ്യം ഉള്ള). Performing duties well-ൻ്റെ quality description അല്ല — mental attitude describe ചെയ്യുന്ന word ആണ്.\n\n❌ (D) punctual — 'Punctual' = always on time (സമയം കൃത്യമായി). Duties perform ചെയ്യുന്നതിൻ്റെ QUALITY (how well) ആണ് ചോദ്യം, not TIME (when). Punctual = time related, efficient = quality/performance related.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'EFFICIENT = EFFECT + IENT' — produces good EFFECT in work! 'Efficient worker' = produces best EFFECT with minimum effort!\n• Confusing quartet: Efficient (well-performing), Effective (produces result), Faithful (loyal), Punctual (on time) — ഈ 4-ൻ്റെ exact difference ഓർത്തിരിക്കൂ!\n• PSC exam strategy: One-word substitute question-ൽ definition-ൽ KEY words identify ചെയ്യൂ — 'perform duties WELL' = quality of performance = efficient. 'On time' = punctual. 'Loyal' = faithful. KEY word = correct answer!"
+    }
   }
 ]

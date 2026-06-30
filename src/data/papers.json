@@ -279,5 +279,14 @@
     "medium": "M",
     "year": "2025",
     "categoryCode": "049/2024"
+  },
+  {
+    "id": "181-2024-K",
+    "paperCode": "181/2024",
+    "post": "Assistant (Kannada Knowing)",
+    "date": "21-Dec-2024",
+    "medium": "K",
+    "year": "2024",
+    "categoryCode": "579/2023"
   }
 ]
