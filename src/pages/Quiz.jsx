@@ -418,7 +418,7 @@ function QuizSetup({ onStart }) {
         <div className="grid grid-cols-3 gap-2">
           <select value={topicId} onChange={e => { setTopicId(e.target.value); setPaperId(''); setYear('') }}
             className="rounded-lg px-2 py-2 text-xs"
-            style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)' }}>
+            style={{ background: '#0f172a', border: `1px solid ${topicId ? 'var(--accent)' : 'var(--border)'}`, color: 'var(--text)', outline: 'none', colorScheme: 'dark' }}>
             <option value="">Topic</option>
             {allTopics.map(([t, c]) => (
               <option key={t} value={t}>{t} ({c})</option>
@@ -426,13 +426,13 @@ function QuizSetup({ onStart }) {
           </select>
           <select value={year} onChange={e => { setYear(e.target.value); setPaperId(''); setTopicId('') }}
             className="rounded-lg px-2 py-2 text-xs"
-            style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)' }}>
+            style={{ background: '#0f172a', border: `1px solid ${year ? 'var(--accent)' : 'var(--border)'}`, color: 'var(--text)', outline: 'none', colorScheme: 'dark' }}>
             <option value="">Year</option>
             {years.map(y => <option key={y} value={y}>{y}</option>)}
           </select>
           <select value={paperId} onChange={e => { setPaperId(e.target.value); setTopicId('') }}
             className="rounded-lg px-2 py-2 text-xs"
-            style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)' }}>
+            style={{ background: '#0f172a', border: `1px solid ${paperId ? 'var(--accent)' : 'var(--border)'}`, color: 'var(--text)', outline: 'none', colorScheme: 'dark' }}>
             <option value="">Paper</option>
             {filteredPapers.map(p => (
               <option key={p.id} value={p.id}>

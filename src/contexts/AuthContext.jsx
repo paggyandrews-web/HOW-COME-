@@ -44,7 +44,7 @@ export function AuthProvider({ children }) {
       didSyncPinned.current = true
       const local = JSON.parse(localStorage.getItem('cs-pinned') || '[]')
       const fb = profile.pinnedExams
-      const merged = [...new Set([...local, ...fb])]
+      const merged = [...new Set([...local, ...fb])].slice(0, MAX_PINS)
       setPinnedExams(merged)
       localStorage.setItem('cs-pinned', JSON.stringify(merged))
     }
