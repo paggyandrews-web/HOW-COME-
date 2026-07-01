@@ -1,5 +1,6 @@
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
 import { useState, useEffect } from 'react'
+import { Analytics } from '@vercel/analytics/react'
 import { ThemeProvider } from './contexts/ThemeContext'
 import { AuthProvider } from './contexts/AuthContext'
 import Navbar from './components/Navbar'
@@ -114,6 +115,7 @@ export default function App() {
             </div>
             <BottomNav />
             <ScrollButton />
+            <Analytics />
           </div>
         </BrowserRouter>
       </AuthProvider>
