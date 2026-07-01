@@ -277,7 +277,7 @@ export default function Exams() {
             saved={saved.includes(e.id)}
             onSave={pinExam}
             onRequestRemove={setRemoveTarget}
-            savedCount={saved.length}
+            savedCount={savedExams.length}
           />
         ))}
         {filtered.length === 0 && (

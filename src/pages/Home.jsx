@@ -405,7 +405,7 @@ export default function Home() {
                 saved={true}
                 onSave={pinExam}
                 onRequestRemove={setRemoveTarget}
-                savedCount={pinnedIds.length}
+                savedCount={pinnedExams.length}
               />
             ))}
           </div>
