@@ -301,7 +301,7 @@ export default function Home() {
         }} />
         <div style={{ position: 'relative', zIndex: 1 }}>
           <h1 className="text-2xl sm:text-3xl font-bold mb-1">
-            <span style={{ color: 'rgba(255,255,255,0.7)' }}>HOW </span>
+            <span style={{ color: 'var(--accent)', fontWeight: 800 }}>HOW </span>
             <span style={{ color: '#ffffff', fontWeight: 800 }}>COME</span>
             <span style={{ color: 'var(--accent)', fontWeight: 800 }}>?</span>
           </h1>
