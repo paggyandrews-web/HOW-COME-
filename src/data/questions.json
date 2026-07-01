@@ -9358,5 +9358,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) Que — 'Que' = Spanish/Portuguese word for 'what/that'. English-ൽ 'que' = 'queue'-ന്റെ correct spelling അല്ല. Pronunciation similar ആണ്, spelling wrong.\n• 🪤 PSC Trap: Short spelling, familiar look — 'que' Spanish word ആണ്, English spelling 'queue' ആണ്.\n\n❌ (C) Kyu — 'Kyu' phonetic spelling ആണ് (sound write ചെയ്തത്) — 'queue' /kjuː/ ആണ് pronunciation. 'Kyu' standard English spelling അല്ല. PSC always tests standard dictionary spelling.\n• 🪤 PSC Trap: 'Kyu' = pronunciation-based guess — dictionary spelling follow ചെയ്യൂ!\n\n❌ (D) Qu — 'Qu' incomplete ആണ്. 'Queue' = 5 letters (Q-U-E-U-E), 'qu' = 2 letters only — incomplete spelling. 'Qu' alone ഒരു English word അല്ല.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: QUEUE = Q is waiting in line with U, E, U, E behind it — just like people in a queue! Q→U→E→U→E\n• Fun fact: If you remove the last 4 letters of 'queue', it still sounds the same — Q! (the letter alone = /kjuː/)\n• PSC exam strategy: 'Queue' spelling — Q-U-E-U-E (5 letters). ഇത് ഒരിക്കൽ write ചെയ്ത് practice ചെയ്തോളൂ — unusual spelling, PSC favourite!"
     }
+  },
+  {
+    "id": "114-2024-M-Q61",
+    "paperId": "114-2024-M",
+    "questionNumber": 61,
+    "topic": "Question Tags",
+    "questionText": "Choose the correct question tag for the given sentence:\nYou don't live here, ______?",
+    "optionA": "do you?",
+    "optionB": "don't you?",
+    "optionC": "didn't you?",
+    "optionD": "won't you?",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) do you?\n\n• ഈ sentence-ൽ 'You don't live here' എന്നത് negative statement ആണ് — 'നീ ഇവിടെ താമസിക്കുന്നില്ല' എന്നർഥം.\n• Question Tag-ന്റെ Golden Rule: Negative statement → Positive tag; Positive statement → Negative tag.\n• Main sentence-ൽ auxiliary verb 'don't' ആണ്. Tag-ൽ ഇതിന്റെ positive form 'do' വേണം.\n• Subject 'you' ആണ്, അതുകൊണ്ട് tag-ലും 'you' തന്നെ ഉപയോഗിക്കണം.\n• അതിനാൽ correct tag: 'do you?' — guaranteed mark!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Negative statement → Positive tag | Positive statement → Negative tag\n• Tag-ൽ main sentence-ലെ auxiliary verb-ന്റെ opposite form ഉപയോഗിക്കണം.\n• Subject pronoun-ഉം tag-ൽ repeat ചെയ്യണം.\n• ⭐ PSC ആവർത്തനം: Question Tags PSC-ൽ ഏറ്റവും കൂടുതൽ വരുന്ന topics-ൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n  1. She is happy, isn't she? (positive → negative tag)\n  2. They don't play cricket, do they? (negative → positive tag)\n  3. He can swim, can't he? (positive → negative tag)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) don't you?\n• 'don't you?' എന്നത് negative tag ആണ്.\n• 🪤 PSC Trap: Main sentence already negative ആണ്, അതുകൊണ്ട് tag positive ആകണം. Negative + Negative = wrong combination.\n\n❌ (C) didn't you?\n• 'didn't' Past tense auxiliary ആണ്. Main sentence present tense ('don't') ആണ്.\n• Tense match ആകുന്നില്ല — tag-ൽ main sentence-ലെ auxiliary-ന്റെ tense use ചെയ്യണം.\n• 🪤 PSC Trap: Past tense form കൊടുത്ത് confuse ചെയ്യാൻ ശ്രമിക്കുന്നു.\n\n❌ (D) won't you?\n• 'won't' future tense auxiliary ആണ്.\n• Main sentence present tense ആണ്, future tag ഇവിടെ തെറ്റ്.\n• 🪤 PSC Trap: Future form കൊടുത്ത് tense confusion ഉണ്ടാക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Negative sentence-ൽ positive tag, Positive sentence-ൽ negative tag' — ഇത് ഒരു see-saw ആണ്! ഒരു ഭാഗം താഴ്ന്നാൽ മറ്റേ ഭാഗം ഉയരും.\n• Tag-ൽ 3 things check ചെയ്യുക: (1) Positive/Negative opposite ആണോ? (2) Auxiliary correct ആണോ? (3) Subject pronoun match ആണോ?\n• PSC exam strategy: Main verb നോക്കി auxiliary identify ചെയ്യുക, then opposite form + same subject = correct tag."
+    }
+  },
+  {
+    "id": "114-2024-M-Q62",
+    "paperId": "114-2024-M",
+    "questionNumber": 62,
+    "topic": "Antonyms",
+    "questionText": "Pick out the right antonym from the options for the word, kindle:",
+    "optionA": "get on",
+    "optionB": "unkind",
+    "optionC": "pure",
+    "optionD": "put out",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) put out\n\n• 'Kindle' എന്ന വാക്കിന്റെ അർഥം: 'തീ കൊളുത്തുക, ജ്വലിപ്പിക്കുക' — to light a fire or spark something.\n• 'Put out' എന്നതിന്റെ അർഥം: 'തീ കെടുത്തുക' — to extinguish a fire.\n• Kindle = ignite/start 🔥 ↔ Put out = extinguish/stop 💨 — perfect opposites!\n• Kindle figuratively 'emotions kindle ചെയ്യുക' (enthusiasm, love) — Put out = 'emotions ഇല്ലാതാക്കുക'.\n• Etymology: 'Kindle' Old Norse 'kynda' (to light fire) — root ഓർത്തിരിക്കുക.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Kindle (ignite/start) ↔ Put out (extinguish/stop)\n• Antonym = exact opposite meaning ഉള്ള word.\n• Kindle-ന്റെ word family:\n  - Kindle (verb) = തീ കൊളുത്തുക\n  - Kindling (noun) = തീ കൊളുത്താൻ ഉള്ള ചെറിയ വിറക്\n  - Rekindled (verb) = വീണ്ടും ജ്വലിപ്പിക്കുക\n• ⭐ PSC ആവർത്തനം: Kindle, ignite, spark, inflame — ഈ synonyms group ഓർക്കുക.\n• ഉദാഹരണ sentences:\n  1. The campfire was kindled with dry leaves. (ഉണങ്ങിയ ഇലകൾ ഉപയോഗിച്ച് അഗ്നി കൊളുത്തി)\n  2. The firefighters put out the blaze quickly. (തീ കെടുത്തി)\n  3. His speech kindled enthusiasm among students. (figurative: ആവേശം ജ്വലിപ്പിച്ചു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) get on\n• 'Get on' = നല്ലതായി മുന്നോട്ട് പോകുക, progress ചെയ്യുക.\n• Kindle-ന്റെ antonym അല്ല — ഇത് ഒരു phrasal verb ആണ്, fire-മായി ബന്ധമില്ല.\n• 🪤 PSC Trap: Phrasal verb ആണ് — confusing look ഉണ്ടാക്കാൻ.\n\n❌ (B) unkind\n• 'Unkind' = ദയയില്ലാത്ത, cruel.\n• 🪤 PSC Trap: 'Kindle'-ൽ 'kind' കാണുന്നതുകൊണ്ട് 'unkind' antonym ആണെന്ന് തോന്നും — പക്ഷേ 'kindle'-ഉം 'kind'-ഉം വ്യത്യസ്ത words ആണ്!\n\n❌ (C) pure\n• 'Pure' = ശുദ്ധം, clean.\n• Kindle-മായി യാതൊരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: Random word — ശ്രദ്ധ തിരിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Kindle' = Amazon Kindle e-reader 📖 — ഇത് reading-ന്റെ 'fire' കൊളുത്തുന്നു! Put out = fire കെടുത്തുന്നു. Kindle → Put out.\n• Confusing trap: 'kindle'-ൽ 'kind' ഉള്ളതുകൊണ്ട് 'unkind' തെരഞ്ഞെടുക്കരുത് — ഇവ totally different words.\n• PSC exam strategy: Antonym ചോദ്യങ്ങളിൽ word-ന്റെ exact meaning ആദ്യം ഉറപ്പാക്കുക, പിന്നെ opposite find ചെയ്യുക."
+    }
+  },
+  {
+    "id": "114-2024-M-Q63",
+    "paperId": "114-2024-M",
+    "questionNumber": 63,
+    "topic": "Synonyms",
+    "questionText": "Which of the following words mean the same for couch?",
+    "optionA": "garden",
+    "optionB": "trainer",
+    "optionC": "sofa",
+    "optionD": "book",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) sofa\n\n• 'Couch' = ഒരു തരം നീണ്ട, മൃദുവായ ഇരിപ്പിടം — living room-ൽ ഉപയോഗിക്കുന്ന ദീർഘ കസേര.\n• 'Sofa'-ഉം 'Couch'-ഉം one and the same — ഇവ perfect synonyms ആണ്.\n• Couch = Sofa = Settee = Divan — ഇവ എല്ലാം ഒരേ ഇരിപ്പിടത്തെ describe ചെയ്യുന്ന words.\n• Etymology: 'Couch' French 'couche' (bed/resting place) — ഓർക്കാൻ: 'couch potato' 🥔 = sofa-യിൽ കിടക്കുന്ന ആൾ!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Couch = Sofa = ദീർഘ ഇരിപ്പിടം\n• Synonym = same or similar meaning ഉള്ള word.\n• Couch-ന്റെ synonym family:\n  - Couch, Sofa, Settee, Divan, Loveseat\n• 'Couch' മറ്റ് meanings-ഉം ഉണ്ട്:\n  - As verb: 'couched in polite language' = ഭദ്രമായ ഭാഷയിൽ express ചെയ്തു\n• ⭐ PSC ആവർത്തനം: Furniture-related synonyms PSC-ൽ വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. He fell asleep on the couch while watching TV. (sofa-ൽ ഉറങ്ങി)\n  2. The living room has a comfortable sofa. (couch = sofa)\n  3. She couched her criticism in kind words. (verb meaning: express indirectly)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) garden\n• 'Garden' = തോട്ടം.\n• Couch-മായി യാതൊരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: 'Couch grass' (ഒരു തരം പുല്ല്) ഉള്ളതുകൊണ്ട് garden-ഉമായി connect ചെയ്യാൻ ശ്രമിക്കും — പക്ഷേ ഇവിടെ furniture couch ആണ്.\n\n❌ (B) trainer\n• 'Trainer' = coach/teacher, അല്ലെങ്കിൽ training shoes.\n• 🪤 PSC Trap: 'Coach' (ഒരു teacher/trainer) = 'Couch' ആണെന്ന് confuse ആകും — Coach ≠ Couch, ഉച്ചാരണം similar ആണ് പക്ഷേ different words.\n\n❌ (D) book\n• 'Book' = പുസ്തകം.\n• Couch-മായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'Book' as verb (to book) — irrelevant here.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Couch Potato' 🛋️🥔 = sofa-യിൽ ഇരിക്കുന്ന ആൾ — Couch = Sofa! ഈ phrase ഓർത്താൽ couch-ന്റെ meaning ഒരിക്കലും മറക്കില്ല.\n• Trap alert: 'Coach' (trainer/teacher) ≠ 'Couch' (sofa) — ഉച്ചാരണം similar ആണ്, meaning different!\n• PSC exam strategy: Furniture synonyms — Couch=Sofa, Cupboard=Wardrobe, Bed=Cot — ഈ pairs ഓർക്കുക."
+    }
+  },
+  {
+    "id": "114-2024-M-Q64",
+    "paperId": "114-2024-M",
+    "questionNumber": 64,
+    "topic": "Idioms",
+    "questionText": "What does the following idiom mean?\n'Spill the beans'",
+    "optionA": "to create problems",
+    "optionB": "to run in the rain",
+    "optionC": "to have a good mood",
+    "optionD": "to reveal a secret",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) to reveal a secret\n\n• 'Spill the beans' = ഒരു secret വെളിപ്പെടുത്തുക, ആകസ്മികമായോ ബോധപൂർവ്വമോ രഹസ്യം പറഞ്ഞുപോകുക.\n• 'Spill' = ഒഴുകിപ്പോകുക; 'beans' = ഉദ്ദേശം secret information.\n• Origin: പണ്ട് Greece-ൽ voting-ന് beans ഉപയോഗിച്ചിരുന്നു — ആരോ beans ഒഴുക്കിയാൽ vote secret ആകില്ലായിരുന്നു!\n• Example: 'He spilled the beans about the surprise party' = surprise party-യെ കുറിച്ച് secret പറഞ്ഞുപോയി.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Spill the beans = Reveal a secret = രഹസ്യം പുറത്തുവിടുക\n• Idioms = literal meaning-ൽ നിന്ന് completely different ആയ figurative meaning ഉള്ള phrases.\n• Related idioms (secret-revealing):\n  - 'Let the cat out of the bag' = secret വെളിപ്പെടുത്തുക\n  - 'Blow the whistle' = wrongdoing expose ചെയ്യുക\n  - 'Spill the beans' = accidental/deliberate secret reveal\n• ⭐ PSC ആവർത്തനം: Idiom meanings PSC-ൽ regular feature ആണ്.\n• ഉദാഹരണ sentences:\n  1. Don't spill the beans about the birthday surprise! (secret പറയരുത്)\n  2. She accidentally spilled the beans about the merger. (accidental reveal)\n  3. Who spilled the beans to the press? (media-ക്ക് leak ചെയ്തു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) to create problems\n• 'Create problems' = 'stir up trouble' ആണ്, 'spill beans' അല്ല.\n• 🪤 PSC Trap: 'Spill' = pour/mess — mess creates problems എന്ന് literal thinking ചെയ്യും.\n\n❌ (B) to run in the rain\n• Beans-ഉം rain-ഉം ഇവിടെ ഒരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: 'Spill' = liquid → rain → run in rain എന്ന് imagination ഓടിക്കും — literal meaning വേണ്ട, figurative meaning ആണ് idiom-ൽ.\n\n❌ (C) to have a good mood\n• 'Good mood' = 'be in high spirits' ആണ്.\n• Spill the beans-ഉമായി ഒരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: Completely random option — confusion ഉണ്ടാക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: കോടതിയിൽ ഒരു witness 'beans spill ചെയ്തു' = everything secret ആയത് പറഞ്ഞുപോയി! 🫘💨 — Spill the beans = secret reveal.\n• Related pair: 'Spill the beans' = 'Let the cat out of the bag' — same meaning, PSC-ൽ ഏതുവേണം എങ്കിലും ചോദിക്കാം.\n• PSC exam strategy: Idiom ചോദ്യങ്ങളിൽ literal meaning-ൽ think ചെയ്യരുത്. Figurative meaning is always the answer."
+    }
+  },
+  {
+    "id": "114-2024-M-Q65",
+    "paperId": "114-2024-M",
+    "questionNumber": 65,
+    "topic": "Prepositions",
+    "questionText": "Complete the sentence with the correct preposition from the choices given:\nBecause of the financial crisis, Alan decided ______ buying the new bike.",
+    "optionA": "with",
+    "optionB": "against",
+    "optionC": "at",
+    "optionD": "of",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) against\n\n• 'Decide against' = ഒരു കാര്യം ചെയ്യേണ്ടന്ന് തീരുമാനിക്കുക — a fixed verb+preposition collocation.\n• 'Alan decided against buying the new bike' = financial crisis-ന്റെ കാരണത്താൽ Alan bike വാങ്ങേണ്ടന്ന് തീരുമാനിച്ചു.\n• 'Decide against' = choose NOT to do something — ഇത് ഒരു collocation ആണ്, against മാത്രം ഇവിടെ fit ആകും.\n• PSC-ൽ verb+preposition collocations very important: decide against, agree with, insist on, etc.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: decide AGAINST + (verb-ing) = ഒരു കാര്യം ചെയ്യേണ്ടന്ന് decide ചെയ്യുക\n• 'Decide' verb-ന്റെ preposition collocations:\n  - decide AGAINST = not to do (ചെയ്യേണ്ടന്ന്)\n  - decide ON/UPON = to choose something (ഒരു option select ചെയ്യുക)\n  - decide FOR = in favour of\n• ⭐ PSC ആവർത്തനം: Verb+Preposition collocations PSC-ൽ ഇടയ്ക്കിടെ ചോദിക്കും.\n• ഉദാഹരണ sentences:\n  1. She decided against taking the job. (job വേണ്ടന്ന് തീരുമാനിച്ചു)\n  2. They decided on a red sofa for the living room. (sofa choose ചെയ്തു)\n  3. He decided against surgery and chose medication. (surgery വേണ്ടന്ന് തീരുമാനം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) with\n• 'Decide with' = standard English grammar-ൽ ഒരു proper collocation അല്ല.\n• 'With' = company/accompaniment — buying-മായി logical ആയി connect ആകുന്നില്ല.\n• 🪤 PSC Trap: 'With' common preposition ആണ്, first instinct-ൽ choose ചെയ്യാൻ ശ്രമിക്കും.\n\n❌ (C) at\n• 'Decide at' = ഒരു collocation അല്ല.\n• 'At' = location/time preposition — 'decided at buying' meaning ഇല്ല.\n• 🪤 PSC Trap: 'At' common ആണ്, meaning ഒന്നും ഇല്ലെങ്കിലും choose ചെയ്യും.\n\n❌ (D) of\n• 'Decide of' = grammatically incorrect.\n• 'Of' = possession/belonging preposition — buying-ന് മുൻപ് 'of' വരില്ല.\n• 🪤 PSC Trap: 'Because of' sentence-ൽ 'of' already ഉണ്ട്, repeat ആകുമോ എന്ന് confuse ആകും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Decided AGAINST' = decided to go AGAINST the idea = idea-ക്ക് എതിരെ പോകുക = ചെയ്യേണ്ടന്ന് decide ചെയ്യുക. 'Against' = opposite/contrary — meaning naturally fits!\n• Collocation list ഓർക്കുക: decide AGAINST, vote AGAINST, go AGAINST, work AGAINST — all negative direction.\n• PSC exam strategy: Verb+Preposition ചോദ്യങ്ങളിൽ fixed collocations ആണ്, logic ആയി guess ചെയ്യരുത്."
+    }
+  },
+  {
+    "id": "114-2024-M-Q66",
+    "paperId": "114-2024-M",
+    "questionNumber": 66,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Write the form of the verb that agrees with the subject:\nMary's friend ______ all the time. (to smile)",
+    "optionA": "smile",
+    "optionB": "smiles",
+    "optionC": "smiled",
+    "optionD": "None",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) smiles\n\n• Subject ആരാണ്? — 'Mary's friend' (Mary അല്ല, Mary-ന്റെ friend ആണ് subject).\n• 'Mary's friend' = singular third person (ഒരാൾ, he/she).\n• Present tense-ൽ singular third person subject-ന് verb-ൽ '-s' അല്ലെങ്കിൽ '-es' ചേർക്കണം.\n• smile → smiles (singular third person, simple present).\n• 'Mary's' possessive ആണ്, Mary subject അല്ല — ഇത് ഒരു common trap ആണ്!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: He/She/It (singular) + verb+s/es | I/We/You/They (plural) + verb (base form)\n• Subject-Verb Agreement = Subject-ന്റെ number (singular/plural) അനുസരിച്ച് verb form മാറും.\n• Possessive traps:\n  - 'Mary's friend' → friend = singular → smiles ✅\n  - 'The children's teacher' → teacher = singular → teaches ✅\n  - 'My friends' → friends = plural → smile ✅\n• ⭐ PSC ആവർത്തനം: Subject-Verb Agreement PSC-ൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic.\n• ഉദാഹരണ sentences:\n  1. She smiles at everyone. (singular → smiles)\n  2. They smile at everyone. (plural → smile)\n  3. The teacher's student works hard. (student = singular → works)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) smile\n• 'Smile' = plural/base form.\n• 'Mary's friend' singular ആണ്, 'smile' plural subject-ന് ആണ് (They smile).\n• 🪤 PSC Trap: 'Mary's' plural sound കൊടുക്കുന്നതുകൊണ്ട് plural verb choose ചെയ്യും — പക്ഷേ subject 'friend' singular ആണ്.\n\n❌ (C) smiled\n• 'Smiled' = Simple Past tense.\n• Question 'to smile' (present) form ആണ് ആവശ്യം, past tense അല്ല.\n• 🪤 PSC Trap: Past tense form കൊടുത്ത് tense confusion ഉണ്ടാക്കുന്നു.\n\n❌ (D) None\n• 'Smiles' correct ആണ്, so 'None' is wrong.\n• 🪤 PSC Trap: 'None of the above' option — confused ആകുമ്പോൾ choose ചെയ്യും, പക്ഷേ (B) clearly correct.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'He, She, It — verb-ൽ S fit!' — He smiles, She smiles, It smiles. Singular = +s rule!\n• Possession trap: 'X's Y' sentence-ൽ subject ആരാണ് എന്ന് ആദ്യം identify ചെയ്യുക — X-ന്റെ possessive form subject അല്ല, Y ആണ് subject.\n• PSC exam strategy: Subject underline ചെയ്യുക → singular ആണോ plural ആണോ check ചെയ്യുക → correct verb form select."
+    }
+  },
+  {
+    "id": "114-2024-M-Q67",
+    "paperId": "114-2024-M",
+    "questionNumber": 67,
+    "topic": "Degrees of Comparison",
+    "questionText": "Insert comparative or superlative form of the adjective:\nAlan is ______ his Son.",
+    "optionA": "eldest",
+    "optionB": "elder",
+    "optionC": "oldest",
+    "optionD": "older",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) elder\n\n• Alan-ഉം his Son-ഉം — two people (father and son) compare ചെയ്യുന്നു → comparative form വേണം.\n• 'Elder' = family members compare ചെയ്യുമ്പോൾ ഉപയോഗിക്കുന്ന comparative form (old → elder).\n• 'Elder' family relationships-ൽ ഉപയോഗിക്കുന്നു: elder brother, elder sister, elder son.\n• Traditional grammar rule: Family members → 'elder/eldest'; Others → 'older/oldest'.\n• 'Alan is elder his Son' = Alan his son-നേക്കാൾ മൂത്തവൻ (father is always elder than his son).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Family comparison → elder/eldest | General comparison → older/oldest\n• Old-ന്റെ irregular forms:\n  - Positive: old\n  - Comparative (family): elder | Comparative (general): older\n  - Superlative (family): eldest | Superlative (general): oldest\n• Important: 'Elder' traditionally does not take 'than' — 'elder to' or no connector used.\n• ⭐ PSC ആവർത്തനം: Elder vs Older distinction PSC-ൽ classic question.\n• ഉദാഹരണ sentences:\n  1. Raju is my elder brother. (family → elder)\n  2. This building is older than that one. (non-family → older)\n  3. She is the eldest in our family. (family superlative → eldest)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) eldest\n• 'Eldest' = superlative form (family) — three or more people compare ചെയ്യുമ്പോൾ.\n• ഇവിടെ Alan-ഉം Son-ഉം — only two people, so superlative തെറ്റ്.\n• 🪤 PSC Trap: Family context കൊടുത്ത് eldest choose ചെയ്യും — പക്ഷേ only 2 people, comparative ആണ് വേണ്ടത്.\n\n❌ (C) oldest\n• 'Oldest' = general superlative — three or more, non-family context.\n• Two people + family context → both reasons-ൽ oldest wrong.\n• 🪤 PSC Trap: 'Oldest' most familiar word ആണ്, quickly choose ചെയ്യും.\n\n❌ (D) older\n• 'Older' = general comparative — non-family context.\n• Alan and Son family members ആണ് → 'elder' use ചെയ്യണം, 'older' അല്ല.\n• 🪤 PSC Trap: 'Older' commonly used in daily conversation, but grammar rule-ൽ family = elder.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ELDER = fELDEr = FAMILY elder' — Family comparison-ൽ Elder/Eldest. Others-ൽ Older/Oldest.\n• Two-person rule: Only 2 people → comparative (elder/older). 3+ people → superlative (eldest/oldest).\n• PSC exam strategy: Step 1 — family or non-family? Step 2 — 2 people or 3+? These two steps give correct answer every time."
+    }
+  },
+  {
+    "id": "114-2024-M-Q68",
+    "paperId": "114-2024-M",
+    "questionNumber": 68,
+    "topic": "Articles",
+    "questionText": "Fill in the blank with suitable article.\nPreema has been quiet for ______ long time.",
+    "optionA": "the",
+    "optionB": "an",
+    "optionC": "a",
+    "optionD": "such",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) a\n\n• 'Long' എന്ന word consonant sound 'L' (/l/) കൊണ്ട് തുടങ്ങുന്നു.\n• Article Rule: Consonant sound → 'a' | Vowel sound → 'an'.\n• 'Long' → consonant sound → 'a long time' ✅\n• 'A long time' = ഒരു നീണ്ട സമയം — indefinite period, specific time അല്ല.\n• 'The long time' = specific long time (context-ൽ mention ചെയ്തത്) — ഇവിടെ specific context ഇല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: SOUND നോക്കുക, SPELLING അല്ല! Vowel SOUND → 'an' | Consonant SOUND → 'a'\n• Vowel sounds (a, e, i, o, u sound): an apple, an egg, an hour (/aʊər/), an honest man\n• Consonant sounds: a university (/juː/), a European, a one-eyed man (/wʌn/), a long time\n• ⭐ PSC ആവർത്തനം: Articles — a/an — PSC-ൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന topic.\n• ഉദാഹരണ sentences:\n  1. She waited for a long time. (l = consonant → a)\n  2. It took an hour to finish. (h silent → vowel sound → an)\n  3. He is a unique person. (u = /juː/ consonant sound → a)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) the\n• 'The' = definite article — specific, already known thing-നു ഉപയോഗിക്കുന്നു.\n• 'A long time' general/indefinite ആണ് — specific time refer ചെയ്യുന്നില്ല.\n• 🪤 PSC Trap: 'The' most common article, quickly choose ചെയ്യും.\n\n❌ (B) an\n• 'An' = vowel sound-ന് മുൻപ്.\n• 'Long' = /l/ consonant sound — 'an long' grammatically incorrect.\n• 🪤 PSC Trap: 'Long' vowel letter 'o' ഉള്ളതുകൊണ്ട് 'an' correct ആണെന്ന് തോന്നും — sound നോക്കണം, spelling അല്ല.\n\n❌ (D) such\n• 'Such' = article അല്ല, determiner ആണ്.\n• 'Such a long time' = ഒക്കും, പക്ഷേ ഒറ്റ word ചേർക്കാൻ 'such' alone sufficient അല്ല — 'a' കൂടി വേണം.\n• 🪤 PSC Trap: 'Such a long time' phrase familiar ആണ്, 'such' alone select ചെയ്യും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'a/an = SOUND game!' — 'Long' ഉച്ചരിക്കുക — /l/ sound consonant ആണ് → 'a long'. ഉച്ചാരണം ആദ്യം, spelling പിന്നെ.\n• Tricky words ഓർക്കുക: an hour (h silent), a university (you-sound), a one-way street (w-sound), an honest (h silent).\n• PSC exam strategy: Article question കണ്ടാൽ — word ഉച്ചരിക്കുക → vowel sound ആണോ consonant sound ആണോ → a അല്ലെങ്കിൽ an."
+    }
+  },
+  {
+    "id": "114-2024-M-Q69",
+    "paperId": "114-2024-M",
+    "questionNumber": 69,
+    "topic": "Phrasal Verbs",
+    "questionText": "Combine a word from the option to make the right phrasal verb.\nShe was ready to look ______ her grandma during Christmas holidays.",
+    "optionA": "into",
+    "optionB": "after",
+    "optionC": "out",
+    "optionD": "for",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) after\n\n• 'Look after' = ഒരാളെ/ഒന്നിനെ ശ്രദ്ധിക്കുക, സംരക്ഷിക്കുക, care ചെയ്യുക.\n• 'She was ready to look after her grandma' = Christmas holidays-ൽ grandma-യെ സംരക്ഷിക്കാൻ അവൾ തയ്യാറായിരുന്നു.\n• Context clue: Christmas holidays-ൽ grandma-യെ look after ചെയ്യുക = take care = 'after' ✅\n• 'Look after' ഒരു very common PSC phrasal verb ആണ് — ഇതിന്റെ meaning ഒരിക്കലും മറക്കരുത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: look AFTER = take care of = ശ്രദ്ധിക്കുക\n• 'Look' phrasal verb family (PSC favourites):\n  - look AFTER = take care of (ശ്രദ്ധിക്കുക)\n  - look INTO = investigate (അന്വേഷിക്കുക)\n  - look FOR = search (തിരയുക)\n  - look OUT = be careful (ശ്രദ്ധിക്കുക, danger sense)\n  - look UP = find information (dictionary-ൽ നോക്കുക)\n  - look DOWN ON = despise (നിന്ദിക്കുക)\n• ⭐ PSC ആവർത്തനം: 'Look' phrasal verbs PSC-ൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന phrasal verb group.\n• ഉദാഹരണ sentences:\n  1. Can you look after my dog this weekend? (dog-നെ care ചെയ്യുക)\n  2. Police are looking into the incident. (investigate ചെയ്യുന്നു)\n  3. I'm looking for my keys. (keys തിരയുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) into\n• 'Look into' = investigate, examine closely.\n• Grandma-യെ investigate ചെയ്യുക — context-ൽ ഒട്ടും fit ആകുന്നില്ല!\n• 🪤 PSC Trap: 'Into' common word ആണ്, confuse ആകും.\n\n❌ (C) out\n• 'Look out' = be careful, watch out (danger warning).\n• 'She was ready to look out her grandma' = grammatically awkward, context wrong.\n• 🪤 PSC Trap: 'Look out for' = protect/watch for — 'out' alone here wrong.\n\n❌ (D) for\n• 'Look for' = search for something/someone.\n• 'She was ready to look for her grandma' = grandma-യെ search ചെയ്യുക — grandma missing ആണ് എന്ന് context ഇല്ല.\n• 🪤 PSC Trap: 'Look for' common phrase ആണ്, care-ന്റെ context miss ആകും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Look AFTER = After someone goes, you take care of them!' — After = behind = following/caring. ഒരാൾ പോകുമ്പോൾ 'after' ആയി care ചെയ്യുക = look after!\n• 'Look' family shortcut: AFTER=care, INTO=investigate, FOR=search, OUT=beware — ഈ 4 meanings ഓർത്താൽ PSC look questions guaranteed.\n• PSC exam strategy: Context-ൽ 'care/protect/tend to' meaning ഉണ്ടെങ്കിൽ → look AFTER. 'Search' meaning ഉണ്ടെങ്കിൽ → look FOR."
+    }
+  },
+  {
+    "id": "114-2024-M-Q70",
+    "paperId": "114-2024-M",
+    "questionNumber": 70,
+    "topic": "Spelling",
+    "questionText": "Select the word with correct spelling and fill the blank:\nAll the ______ came to the party.",
+    "optionA": "neighbours",
+    "optionB": "naighbours",
+    "optionC": "neigbers",
+    "optionD": "neibours",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) neighbours\n\n• 'Neighbours' = അയൽക്കാർ — correct spelling: N-E-I-G-H-B-O-U-R-S.\n• Spelling breakdown: neigh + bour + s\n  - 'neigh' = കുതിരയുടെ ശബ്ദം (horse sound) — ഇതേ spelling ആണ്!\n  - 'bour' = Old French 'bur' (dweller)\n  - Together: neighbour = nearby dweller = അയൽക്കാരൻ\n• British spelling: 'neighbour' | American spelling: 'neighbor' (u ഇല്ല)\n• PSC follows British spelling — 'neighbours' correct.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: neigh + bour + s = neighbours (കുതിര ശബ്ദം + bour + plural)\n• '-eigh-' pattern words (PSC favourite spelling group):\n  - neighbour (അയൽക്കാരൻ)\n  - weigh (തൂക്കം)\n  - eight (എട്ട്)\n  - freight (ചരക്ക്)\n  - height (ഉയരം — exception: -ight)\n• ⭐ PSC ആവർത്തനം: Spelling questions-ൽ '-eigh-' pattern words common ആണ്.\n• Etymology: Old English 'neahgebur' = neah (near) + gebur (dweller) → neighbour\n• ഉദാഹരണ sentences:\n  1. Our neighbours are very friendly. (correct spelling)\n  2. We should live in peace with our neighbours. (plural)\n  3. She is a good neighbour. (singular)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) naighbours\n• 'naigh' = wrong — 'neigh' ആണ് correct ('a' instead of 'e' — wrong vowel).\n• 🪤 PSC Trap: 'ai' vowel sound similar ആണ്, confuse ആകും — 'ei' ആണ് correct.\n\n❌ (C) neigbers\n• Multiple errors: 'neigb' (h missing) + 'ers' ('ours' ആണ് correct ending).\n• 🪤 PSC Trap: Phonetic spelling — sound-ൽ നിന്ന് guess ചെയ്യുന്നവർ ഇത് choose ചെയ്യും.\n\n❌ (D) neibours\n• 'nei' correct ആണ്, പക്ഷേ 'gh' missing — 'neibours' wrong, 'neighbours' correct.\n• 🪤 PSC Trap: Silent 'gh' miss ആകും — 'gh' silent ആണ് but spelling-ൽ ഉണ്ടായിരിക്കണം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NEIGH + BOUR = NEIGHBOUR' — കുതിര 'neigh' ശബ്ദം ഓർക്കുക 🐴 + 'bour' (dweller) = neighbour! ഈ image ഒരിക്കലും മറക്കില്ല.\n• Silent 'gh' family: neighbour, night, right, light, height, weight — ഇവയിൽ 'gh' silent ആണ് but write ചെയ്യണം.\n• PSC exam strategy: Spelling questions-ൽ wrong options phonetically similar ആയിരിക്കും — ഉറക്കെ ഉച്ചരിക്കരുത്, correct pattern ഓർക്കുക."
+    }
   }
 ]
