@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect } from 'react'
 import exams from '../data/exams.json'
 import FlipClock from '../components/FlipClock'
 import { useAuth } from '../contexts/AuthContext'
@@ -173,6 +173,14 @@ export default function Exams() {
   const [showPast, setShowPast] = useState(false)
   const [removeTarget, setRemoveTarget] = useState(null)
 
+  // Clean up stale IDs that no longer exist in exams data
+  useEffect(() => {
+    const validIds = new Set(exams.map(e => e.id))
+    saved.forEach(id => {
+      if (!validIds.has(id)) unpinExam(id)
+    })
+  }, [])
+
   function handleRemove(id) {
     unpinExam(id)
     setRemoveTarget(null)
@@ -259,7 +267,7 @@ export default function Exams() {
           <div className="text-xs" style={{ color: 'var(--text2)' }}>Upcoming</div>
         </div>
         <div className="flex-1 card rounded-xl p-3">
-          <div className="font-bold text-lg" style={{ color: 'var(--accent)' }}>{saved.length}</div>
+          <div className="font-bold text-lg" style={{ color: 'var(--accent)' }}>{savedExams.length}</div>
           <div className="text-xs" style={{ color: 'var(--text2)' }}>Saved</div>
         </div>
         <div className="flex-1 card rounded-xl p-3">
