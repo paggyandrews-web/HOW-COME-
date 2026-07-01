@@ -211,6 +211,22 @@ body {
 }
 .vibrate { animation: vibrate 0.35s ease; }
 
+/* ── Native select — force dark picker on all platforms ── */
+select {
+  color-scheme: dark;
+  background: #0f172a;
+  color: #ffffff;
+  border: 1px solid #334155;
+  outline: none;
+}
+select:focus {
+  border-color: #1a9d8e;
+}
+select option {
+  background: #0f172a;
+  color: #ffffff;
+}
+
 /* ── Mobile: disable card hover-lift on touch devices ── */
 @media (hover: none) {
   .card:hover {
