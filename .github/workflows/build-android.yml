@@ -23,34 +23,16 @@ jobs:
         with:
           gradle-version: '8.7'
 
-      - name: Create app icons (pure Python, no deps)
-        run: |
-          python3 /dev/stdin << 'PYEOF'
-import struct, zlib, os, urllib.request
-
-def png(w, h, r, g, b):
-    def ck(t, d):
-        c = t + d
-        return struct.pack('>I', len(d)) + c + struct.pack('>I', zlib.crc32(c) & 0xffffffff)
-    hdr = ck(b'IHDR', struct.pack('>IIBBBBB', w, h, 8, 2, 0, 0, 0))
-    row = b'\x00' + bytes([r, g, b] * w)
-    idat = ck(b'IDAT', zlib.compress(row * h))
-    return b'\x89PNG\r\n\x1a\n' + hdr + idat + ck(b'IEND', b'')
-
-sizes = [('mipmap-mdpi',48),('mipmap-hdpi',72),('mipmap-xhdpi',96),('mipmap-xxhdpi',144),('mipmap-xxxhdpi',192)]
-for d, s in sizes:
-    os.makedirs(f'android/app/src/main/res/{d}', exist_ok=True)
-    with open(f'android/app/src/main/res/{d}/ic_launcher.png', 'wb') as f:
-        f.write(png(s, s, 26, 157, 142))
-    print(f'OK {d} {s}x{s}')
-PYEOF
+      - name: Create app icons
+        run: python3 android/scripts/make_icons.py
 
       - name: Configure Android SDK
         run: |
           SDK="${ANDROID_SDK_ROOT:-$ANDROID_HOME}"
           echo "SDK: $SDK"
           echo "sdk.dir=$SDK" > android/local.properties
-          ls "$SDK/platforms/" && ls "$SDK/build-tools/"
+          ls "$SDK/platforms/"
+          ls "$SDK/build-tools/"
 
       - name: Build release APK
         working-directory: android
@@ -60,14 +42,19 @@ PYEOF
         run: |
           SDK="${ANDROID_SDK_ROOT:-$ANDROID_HOME}"
           BT=$(ls "$SDK/build-tools/" | sort -V | tail -1)
-          echo "Build-tools: $BT"
-          keytool -genkeypair -alias my-key-alias -keypass howcome2024 \
-            -keystore release.keystore -storepass howcome2024 \
+          echo "Build-tools version: $BT"
+          keytool -genkeypair \
+            -alias my-key-alias \
+            -keypass howcome2024 \
+            -keystore release.keystore \
+            -storepass howcome2024 \
             -dname "CN=HOW COME, O=HOW COME PSC, C=IN" \
             -keyalg RSA -keysize 2048 -validity 10000 -noprompt
           "$SDK/build-tools/$BT/apksigner" sign \
-            --ks release.keystore --ks-alias my-key-alias \
-            --ks-pass pass:howcome2024 --key-pass pass:howcome2024 \
+            --ks release.keystore \
+            --ks-alias my-key-alias \
+            --ks-pass pass:howcome2024 \
+            --key-pass pass:howcome2024 \
             --out howcome-webview.apk \
             android/app/build/outputs/apk/release/app-release-unsigned.apk
           ls -lh howcome-webview.apk
