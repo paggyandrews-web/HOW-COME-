@@ -8,8 +8,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#0f172a" />
     <title>HOW COME?</title>
+    <style>
+      html, body { background: #0f172a; margin: 0; padding: 0; }
+      #root { min-height: 100vh; }
+      #splash {
+        position: fixed; inset: 0; background: #0f172a;
+        display: flex; flex-direction: column;
+        align-items: center; justify-content: center;
+        z-index: 9999; transition: opacity 0.4s ease;
+      }
+      #splash.hide { opacity: 0; pointer-events: none; }
+      #splash-logo {
+        font-size: 34px; font-weight: 900;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        letter-spacing: -1px;
+      }
+      #splash-logo .t { color: #1a9d8e; }
+      #splash-logo .w { color: #ffffff; }
+      #splash-sub {
+        color: rgba(255,255,255,0.38); font-size: 13px;
+        margin-top: 8px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      }
+    </style>
   </head>
   <body>
+    <!-- Instant dark splash — hides once React mounts -->
+    <div id="splash">
+      <div id="splash-logo">
+        <span class="t">HOW </span><span class="w">COME</span><span class="t">?</span>
+      </div>
+      <div id="splash-sub">Kerala PSC English</div>
+    </div>
+
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
   </body>
