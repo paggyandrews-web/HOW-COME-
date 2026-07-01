@@ -9538,5 +9538,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) naighbours\n• 'naigh' = wrong — 'neigh' ആണ് correct ('a' instead of 'e' — wrong vowel).\n• 🪤 PSC Trap: 'ai' vowel sound similar ആണ്, confuse ആകും — 'ei' ആണ് correct.\n\n❌ (C) neigbers\n• Multiple errors: 'neigb' (h missing) + 'ers' ('ours' ആണ് correct ending).\n• 🪤 PSC Trap: Phonetic spelling — sound-ൽ നിന്ന് guess ചെയ്യുന്നവർ ഇത് choose ചെയ്യും.\n\n❌ (D) neibours\n• 'nei' correct ആണ്, പക്ഷേ 'gh' missing — 'neibours' wrong, 'neighbours' correct.\n• 🪤 PSC Trap: Silent 'gh' miss ആകും — 'gh' silent ആണ് but spelling-ൽ ഉണ്ടായിരിക്കണം.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NEIGH + BOUR = NEIGHBOUR' — കുതിര 'neigh' ശബ്ദം ഓർക്കുക 🐴 + 'bour' (dweller) = neighbour! ഈ image ഒരിക്കലും മറക്കില്ല.\n• Silent 'gh' family: neighbour, night, right, light, height, weight — ഇവയിൽ 'gh' silent ആണ് but write ചെയ്യണം.\n• PSC exam strategy: Spelling questions-ൽ wrong options phonetically similar ആയിരിക്കും — ഉറക്കെ ഉച്ചരിക്കരുത്, correct pattern ഓർക്കുക."
     }
+  },
+  {
+    "id": "112-2024-M-Q81",
+    "paperId": "112-2024-M",
+    "questionNumber": 81,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Which of the following sentences use correct subject-verb agreement?",
+    "optionA": "The team plays well together",
+    "optionB": "The team play well together",
+    "optionC": "The team playing well together",
+    "optionD": "The team is play well together",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) The team plays well together\n\n• 'Team' = collective noun (കൂട്ടം സൂചിപ്പിക്കുന്ന noun). Collective nouns ഒരു unit ആയി consider ചെയ്യുമ്പോൾ singular verb ഉപയോഗിക്കണം.\n• 'The team plays' = team ഒരു unit ആയി together play ചെയ്യുന്നു — singular verb 'plays' correct.\n• 'The team play' (B) = British English-ൽ acceptable ആണെങ്കിലും PSC exam-ൽ standard American/formal English follow ചെയ്യുന്നു, singular 'plays' ആണ് correct.\n• ഓർക്കുക: Team, family, committee, jury, class — ഇവ ഒക്കെ collective nouns ആണ്, singular verb ഉപയോഗിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Collective Noun + Singular Verb (unit ആയി act ചെയ്യുമ്പോൾ)\n• Collective nouns (ഒരുമിച്ചുള്ള group): team, family, committee, jury, army, class, crew\n• ഇവ ഒരു unit ആയി consider ചെയ്യുമ്പോൾ → singular verb (plays, works, meets)\n• ⭐ PSC ആവർത്തനം: Subject-Verb Agreement — collective nouns PSC-ൽ ഇടക്കിടെ ചോദ്യ subject ആകുന്നു\n\nഉദാഹരണ sentences:\n1. The committee has decided the matter. (Committee singular verb 'has' ഉപയോഗിക്കുന്നു)\n2. The jury is ready with its verdict. (Jury singular 'is' ഉപയോഗിക്കുന്നു)\n3. The family lives in Kerala. (Family singular 'lives' ഉപയോഗിക്കുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) The team play well together — 'Play' = plural verb. Team-ൽ ഉള്ള individual members-ഉടെ actions separately refer ചെയ്യുമ്പോൾ plural verb ഉപയോഗിക്കാം (British English). എന്നാൽ PSC exam-ൽ formal/standard usage follow ചെയ്യുന്നതിനാൽ singular 'plays' ആണ് correct. 🪤 PSC Trap: British English-ൽ ഇത് acceptable ആണ്, പക്ഷേ PSC standard grammar follow ചെയ്യുന്നു.\n\n❌ (C) The team playing well together — 'Playing' = present participle ആണ്, complete verb അല്ല. 'Is playing' ആകണം complete verb. Auxiliary verb 'is' ഇല്ലാതെ sentence incomplete ആണ്. ഇത് grammatically wrong sentence ആണ്.\n\n❌ (D) The team is play well together — 'Is play' = grammatically impossible combination. 'Is' (auxiliary) ഉപയോഗിച്ചാൽ 'playing' (V+ing) വേണം — 'is playing'. 'Is play' = auxiliary + base verb combination, which is wrong in English grammar.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: TEAM = ONE unit = ONE verb! 'The team IS a unit' — singular!\n• Collective noun list: team, family, committee, jury, army, class, crew, staff, board — ഇവ ഒക്കെ singular verb-ഉമായി ഉപയോഗിക്കുന്നു\n• PSC exam strategy: Subject-Verb Agreement question-ൽ subject identify ചെയ്യുക → collective noun ആണോ? → singular verb select ചെയ്യുക → guaranteed mark!"
+    }
+  },
+  {
+    "id": "112-2024-M-Q82",
+    "paperId": "112-2024-M",
+    "questionNumber": 82,
+    "topic": "Direct and Indirect Speech",
+    "questionText": "Identify the correct transformation of the following sentence from direct to indirect speech:\nDirect Speech: \"I will attend the meeting tomorrow.\" She said.",
+    "optionA": "She said that she will attend the meeting the following day",
+    "optionB": "She said that she would attend the meeting the following day",
+    "optionC": "She mentioned that she will attend the meeting the next day",
+    "optionD": "She told that she would attend the meeting tomorrow",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) She said that she would attend the meeting the following day\n\n• Direct Speech-ൽ 'will' ഉള്ളത് Indirect Speech-ൽ 'would' ആകണം — ഇതാണ് backshift rule.\n• 'Tomorrow' = time expression, Indirect Speech-ൽ 'the following day' ആകണം.\n• Reporting verb 'said' = past tense, അതിനാൽ main verb backshift ചെയ്ത് 'will' → 'would' ആകണം.\n• 'I' → 'she' (pronoun change — speaker 'I' = 'she' ആകുന്നു).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'said' (past reporting verb) → main verb backshift: will → would\n• Tense Backshift Table:\n  - will → would\n  - can → could\n  - may → might\n  - am/is/are → was/were\n  - have/has → had\n• Time Expression Changes:\n  - tomorrow → the following day / the next day\n  - today → that day\n  - yesterday → the previous day\n  - now → then\n• ⭐ PSC ആവർത്തനം: Direct/Indirect Speech conversion PSC-ൽ ഏതു paper-ലും 1-2 questions ഉണ്ടാകും\n\nഉദാഹരണ sentences:\n1. 'I am happy.' He said. → He said that he was happy. (am → was backshift)\n2. 'I will come tomorrow.' She said. → She said that she would come the following day.\n3. 'I can swim.' He said. → He said that he could swim. (can → could backshift)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) She said that she will attend the meeting the following day — 'will' ഉപയോഗിച്ചത് wrong. Reporting verb 'said' past tense ആകുമ്പോൾ main clause-ൽ 'will' → 'would' backshift ചെയ്യണം. 'Tomorrow' → 'the following day' correct ആണ്, but 'will' instead of 'would' ആകുന്നത് grammar error.\n\n❌ (C) She mentioned that she will attend the meeting the next day — 'will' backshift ചെയ്തില്ല — ഇതും wrong. Plus 'mentioned' = informal reporting verb; PSC-ൽ 'said that' ആണ് standard. 🪤 PSC Trap: Time word 'the next day' correct ആണ്, but 'will' wrong — partially correct option ആണ് ഇത്!\n\n❌ (D) She told that she would attend the meeting tomorrow — 'told that' = wrong! 'Tell' ഉപയോഗിക്കുമ്പോൾ object വേണം: 'told me/him/her'. 'Said that' ആണ് correct. കൂടാതെ 'tomorrow' → 'the following day' ആക്കിയില്ല — time expression change miss ആയി.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'SAID' = past → everything SHIFTS BACK. Will→Would, Can→Could, Tomorrow→The following day!\n• Two things to always change in Indirect Speech: (1) Tense backshift (2) Time/place expressions\n• PSC exam strategy: 'said that' = correct | 'told that' = always wrong (told needs object: told me/told her). ഇത് ഒരിക്കലും forget ആകരുത്!"
+    }
+  },
+  {
+    "id": "112-2024-M-Q83",
+    "paperId": "112-2024-M",
+    "questionNumber": 83,
+    "topic": "Parts of Speech",
+    "questionText": "Identify the part of speech of the underlined word in the sentence below:\nShe danced __gracefully__ in the spotlight during the performance.",
+    "optionA": "Verb",
+    "optionB": "Adverb",
+    "optionC": "Adjective",
+    "optionD": "Noun",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Adverb\n\n• 'Gracefully' = 'danced' എന്ന verb-നെ modify ചെയ്യുന്നു — HOW ചോദ്യത്തിന് answer ആകുന്നു: 'She danced HOW? → gracefully'.\n• Adverbs generally answer: How? When? Where? How often? → 'gracefully' = HOW she danced.\n• '-ly' suffix ഉള്ള words generally adverbs ആകുന്നു: slowly, quickly, beautifully, gracefully.\n• 'Graceful' (adjective) + '-ly' = 'gracefully' (adverb) — adjective → adverb conversion.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: '-ly' ending + modifies a verb = ADVERB\n• Adverb answers: HOW (manner), WHEN (time), WHERE (place), HOW OFTEN (frequency)\n• Adjective → Adverb: graceful → gracefully | slow → slowly | quick → quickly | beautiful → beautifully\n• ⭐ PSC ആവർത്തനം: Parts of Speech identification — especially adverbs ending in '-ly' — PSC-ൽ frequent question\n\nഉദാഹരണ sentences:\n1. She spoke softly. ('softly' = how she spoke → adverb)\n2. He runs quickly. ('quickly' = how he runs → adverb)\n3. The bird sang sweetly. ('sweetly' = how the bird sang → adverb)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Verb — 'Gracefully' ഒരു action perform ചെയ്യുന്നില്ല, action describe ചെയ്യുന്നു. 'Danced' = verb (action). 'Gracefully' = that action describe ചെയ്യുന്ന manner word. Verb ≠ manner description. 🪤 PSC Trap: 'Danced' = verb, 'gracefully' = adverb — ഇവ confuse ആകരുത்!\n\n❌ (C) Adjective — Adjective = noun-നെ modify ചെയ്യുന്നു. 'Graceful dancer' = graceful (adjective modifies noun 'dancer'). ഇവിടെ 'gracefully' ഒരു noun-നെ modify ചെയ്യുന്നില്ല, 'danced' (verb) -നെ modify ചെയ്യുന്നു. Adjective = noun modifier; Adverb = verb modifier.\n\n❌ (D) Noun — Noun = person, place, thing, or idea. 'Gracefully' ഒരു person/place/thing/idea അല്ല — ഇത് ഒരു action-ന്റെ manner describe ചെയ്യുന്ന word ആണ്. Noun ആകണമെങ്കിൽ 'gracefulness' (noun form) ആകണം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: '-LY' = ADVERB LY! quickly, slowly, gracefully, beautifully — ഒക്കെ '-ly' endings = adverbs!\n• Test: 'HOW did she dance?' → 'gracefully' → adverb!\n• PSC exam strategy: Underlined word '-ly' ending കണ്ടാൽ → adverb check ചെയ്യുക. Verb modify ചെയ്യുന്നോ? → confirmed adverb! 30 seconds-ൽ answer!"
+    }
+  },
+  {
+    "id": "112-2024-M-Q84",
+    "paperId": "112-2024-M",
+    "questionNumber": 84,
+    "topic": "Question Tags",
+    "questionText": "Choose the correct question tag for the following sentence:\n\"You have finished your homework, _________?\"",
+    "optionA": "haven't you",
+    "optionB": "hadn't you",
+    "optionC": "have you",
+    "optionD": "do you",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) haven't you\n\n• Statement positive ആണ് ('have finished') → Question tag negative ആകണം ('haven't you').\n• Auxiliary verb 'have' statement-ൽ ഉണ്ട് → tag-ൽ same auxiliary 'have' → negative 'haven't'.\n• Subject 'You' → tag-ലും 'you' repeat ആകുന്നു.\n• Rule: Positive statement → Negative tag | Negative statement → Positive tag.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Positive Statement → Negative Tag | Negative Statement → Positive Tag\n• Tag formation: Statement-ലെ auxiliary verb + not (negative) + subject pronoun\n  - She is coming, isn't she?\n  - They have left, haven't they?\n  - He can swim, can't he?\n• ⭐ PSC ആവർത്തനം: Question Tags — PSC-ൽ ഏതു paper-ലും ഒരു question ഉണ്ടാകും, guaranteed!\n\nഉദാഹരണ sentences:\n1. You are a teacher, aren't you? (positive → negative tag)\n2. She hasn't called, has she? (negative → positive tag)\n3. They will come, won't they? (positive → negative tag)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) hadn't you — 'Had' = Past Perfect auxiliary. Statement-ൽ 'have finished' = Present Perfect ('have' auxiliary). Tag-ൽ statement-ലെ same auxiliary use ചെയ്യണം. 'Have' → 'haven't' ആകണം, 'had' → 'hadn't' അല്ല. 🪤 PSC Trap: 'haven't' vs 'hadn't' — tense confusion ഉണ്ടാക്കുന്ന option.\n\n❌ (C) have you — Statement positive ആണ് ('have finished') → tag negative ആകണം. 'Have you' = positive tag — ഇത് wrong. Positive + Positive combination incorrect. Negative statement-ൽ മാത്രം positive tag ഉപയോഗിക്കുന്നു.\n\n❌ (D) do you — 'Do' auxiliary = Simple Present tense-ൽ ഉപയോഗിക്കുന്നു (example: 'You like tea, don't you?'). ഇവിടെ 'have finished' = Present Perfect, auxiliary 'have' ആണ്. Statement-ലെ auxiliary match ചെയ്യുന്ന tag ആണ് correct — 'do' ഇവിടെ match ആകുന്നില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: '+' statement → '-' tag | '-' statement → '+' tag. OPPOSITES attract in question tags!\n• Three steps: (1) Positive or negative statement? (2) What is the auxiliary? (3) Flip + add subject\n• PSC exam strategy: Statement-ൽ auxiliary verb identify ചെയ്യുക → negative form make ചെയ്യുക → subject pronoun add ചെയ്യുക. 3 steps = correct answer guaranteed!"
+    }
+  },
+  {
+    "id": "112-2024-M-Q85",
+    "paperId": "112-2024-M",
+    "questionNumber": 85,
+    "topic": "Active and Passive Voice",
+    "questionText": "Identify the sentence that has been correctly transformed from active voice to passive voice:\nI write a letter",
+    "optionA": "A letter is written by me",
+    "optionB": "Write a letter by me",
+    "optionC": "I a letter write",
+    "optionD": "I a letter written",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) A letter is written by me\n\n• Active: 'I write a letter' = Simple Present tense.\n• Passive formula for Simple Present: Object + is/am/are + V3 (past participle) + by + Subject.\n• 'A letter' (object) + 'is' (auxiliary for Simple Present Passive) + 'written' (V3 of write) + 'by me' (subject, 'I' → 'me' object form).\n• Pronoun change: 'I' (subject form) → 'me' (object form) when it goes after 'by'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Active Object → Passive Subject | Active Subject → 'by' + Object form\n• Passive Voice Tense Table (Simple tenses):\n  - Simple Present: is/am/are + V3\n  - Simple Past: was/were + V3\n  - Simple Future: will be + V3\n  - Present Perfect: has/have been + V3\n• Pronoun Changes (Subject → Object after 'by'):\n  - I → me | He → him | She → her | They → them | We → us\n• ⭐ PSC ആവർത്തനം: Active/Passive Voice PSC-ൽ ഏതു paper-ലും ഉണ്ടാകും — high priority topic!\n\nഉദാഹരണ sentences:\n1. She sings a song. → A song is sung by her. (Simple Present)\n2. He wrote a letter. → A letter was written by him. (Simple Past)\n3. They will build a house. → A house will be built by them. (Simple Future)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) Write a letter by me — ഇതിന് passive voice structure ഇല്ല. Auxiliary verb 'is/was/will be' ഇല്ല. ഇത് ഒരു imperative (command) sentence-ൽ ഒരു fragment ആണ്, passive voice transformation അല്ല.\n\n❌ (C) I a letter write — Word order completely wrong. English sentence structure: Subject + Verb + Object. 'I write a letter' ആണ് active form — 'I a letter write' nonsensical word order ആണ്. Grammar rule-ഉകൾ ഒന്നും follow ചെയ്യുന്നില്ല.\n\n❌ (D) I a letter written — Auxiliary verb ഇല്ല, word order wrong. 'Written' = past participle, ഇതിന് 'is/was' auxiliary ഒക്കെ വേണം. 'I a letter written' = incomplete, non-grammatical sentence. 🪤 PSC Trap: B, C, D ഒക്കെ clearly wrong structure — (A) മാത്രം complete passive voice structure ഉള്ളത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: PASSIVE = OBJECT FIRST! Object + is/am/are + V3 + by + me/him/her\n• Tense stays same: Active Simple Present → Passive Simple Present (is/am/are + V3)\n• PSC exam strategy: Object identify ചെയ്യുക → sentence-ന്റെ beginning-ൽ വയ്ക്കുക → tense-ഉ അനുസരിച്ച് is/am/are/was/were + V3 → 'by' + object pronoun. Formula follow ചെയ്ത് answer select ചെയ്യുക!"
+    }
+  },
+  {
+    "id": "112-2024-M-Q86",
+    "paperId": "112-2024-M",
+    "questionNumber": 86,
+    "topic": "Synonyms",
+    "questionText": "Which of the following words is a synonym for 'vivid'?",
+    "optionA": "Dull",
+    "optionB": "Vivacious",
+    "optionC": "Dreary",
+    "optionD": "Lethargic",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Vivacious\n\n• 'Vivid' = തിളക്കമുള്ള, ജീവസ്സുറ്റ, വ്യക്തമായ (bright, clear, lively, striking).\n• 'Vivacious' = ഉൽസാഹഭരിതമായ, ആനന്ദകരമായ, ഊർജ്ജസ്വലമായ (lively, animated, full of life).\n• രണ്ട് words-ഉം Latin root 'vivere' (to live = ജീവിക്കുക) എന്നതിൽ നിന്ന് വരുന്നതാണ്.\n• 'VIV' root = life/living → vivid, vivacious, revive, survive — ഒരേ family!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: VIVID (bright/lively) → Synonym = VIVACIOUS (animated/lively)\n• Etymology: Latin 'vivere' (to live) → vivid, vivacious, vivify, revive, survive\n• Word Family of VIVID:\n  - vivid (adj) = bright, striking (ഉജ്ജ്വലമായ)\n  - vividly (adv) = in a striking/clear manner\n  - vividness (n) = sharpness, clarity\n• ⭐ PSC ആവർത്തനം: Synonym questions — especially root-based word pairs — PSC-ൽ ഏതു paper-ലും 2-3 ഉണ്ടാകും\n\nഉദാഹരണ sentences:\n1. She gave a vivid description of the accident. (അവൾ അപകടത്തിന്റെ ജീവസ്സുറ്റ വിവരണം നൽകി)\n2. He has a vivid memory of his childhood. (അദ്ദേഹത്തിന് ബാല്യകാലത്തിന്റെ തിളക്കമുള്ള ഓർമ്മ ഉണ്ട്)\n3. She is a vivacious and energetic speaker. (അവൾ ഊർജ്ജസ്വലയും ഉൽസാഹഭരിതയുമായ speaker ആണ്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Dull — 'Dull' = boring, without brightness (ഉത്സാഹമില്ലാത്ത, മങ്ങിയ). ഇത് 'vivid'-ന്റെ exact antonym ആണ്, synonym അല്ല. 'A dull colour' vs 'A vivid colour' — ഇവ opposites. 🪤 PSC Trap: Antonym-ഉം option-ൽ ഉൾപ്പെടുത്തി confuse ചെയ്യുന്ന common PSC technique.\n\n❌ (C) Dreary — 'Dreary' = dull and bleak (ഏകതാനവും വിരസവുമായ). ഇതും 'vivid'-ന്റെ antonym ആണ്. 'A dreary day' = മൂഢവും ഉൽസാഹമില്ലാത്തതുമായ ദിവസം. Options A, C, D ഒക്കെ antonyms — vivid-ന്റെ opposite meaning ഉള്ളവ.\n\n❌ (D) Lethargic — 'Lethargic' = sluggish, without energy (മടിയനായ, ഉൽസാഹമില്ലാത്ത). 'He felt lethargic after the meal' = ഭക്ഷണശേഷം ഉൽസാഹക്കുറവ് അനുഭവപ്പെട്ടു. ഇതും vivid-ന്റെ opposite idea ഉള്ള word ആണ്. 🪤 PSC Trap: A, C, D ഒക്കെ antonyms — ഇവ synonym question-ൽ trap ആയി include ചെയ്തിരിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: VIV = LIFE! VIVID = life-filled (ജീവൻ നിറഞ്ഞ), VIVACIOUS = life-giving (ഊർജ്ജം നൽകുന്ന) — ഒരേ root, ഒരേ meaning family!\n• Word family: vivid → vivacious → revive → survive → vital — ഇവ ഒക്കെ 'life' idea share ചെയ്യുന്നു\n• PSC exam strategy: Synonym question-ൽ options-ൽ antonyms ഒഴിവാക്കുക (Dull, Dreary, Lethargic). Root word match ഉള്ള option select ചെയ്യുക — 'VIVACIOUS'-ൽ 'VIV' root കണ്ടാൽ confirm!"
+    }
+  },
+  {
+    "id": "112-2024-M-Q87",
+    "paperId": "112-2024-M",
+    "questionNumber": 87,
+    "topic": "Antonyms",
+    "questionText": "Choose the antonym of the word 'urbane':",
+    "optionA": "Refined",
+    "optionB": "Sophisticated",
+    "optionC": "Rural",
+    "optionD": "Polished",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Rural\n\n• 'Urbane' = sophisticated, refined, city-like in manner (സ്നേഹസമ്പന്നം, city-educated style). Latin 'urbanus' = of the city (നഗരം) → Urban → Urbane.\n• 'Rural' = village/countryside related (ഗ്രാമീണം, നഗരേതര). 'Urban' (city) vs 'Rural' (village) — opposites.\n• Urbane-ൽ 'urban' (city) root ഉള്ളതിനാൽ, 'rural' (non-city) ആണ് antonym.\n• PSC exam-ൽ word origin-based antonyms ഇത്തരം question-ൽ ഉൾപ്പെടുത്തുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: URBANE (urban = city → sophisticated) ↔ RURAL (country/village = opposite)\n• Etymology: Latin 'urbs' = city (നഗരം) → urban (adj) → urbane (refined, like city person)\n• Word Pairs:\n  - Urbane ↔ Rural (city concept vs village concept)\n  - Urbane ↔ Rustic (sophisticated vs simple/village-like)\n  - Refined ↔ Crude (similar concept pair)\n• ⭐ PSC ആവർത്തനം: Etymology-based antonym questions PSC-ൽ frequently appear ചെയ്യുന്നു\n\nഉദാഹരണ sentences:\n1. He has very urbane manners. (അദ്ദേഹത്തിന് refined ആയ പെരുമാറ്റം ഉണ്ട്)\n2. She leads a rural life away from the city. (അവൾ നഗരത്തിൽ നിന്ന് അകലെ ഗ്രാമീണ ജീവിതം നയിക്കുന്നു)\n3. The urbane diplomat charmed everyone with his grace. (Sophisticated diplomat-ൽ elegance ഉണ്ടായിരുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Refined — 'Refined' = elegant, cultured (ഭദ്രമായ, sophisticated). ഇത് 'urbane'-ന്റെ synonym ആണ്, antonym അല്ല! 'Refined taste' = educated/cultivated ആശ്വസ്തം. 🪤 PSC Trap: Antonym question-ൽ synonyms trap ആയി include ചെയ്യുന്നു.\n\n❌ (B) Sophisticated — 'Sophisticated' = knowledgeable, refined (educated, culture-ഉള്ള). ഇതും urbane-ന്റെ synonym ആണ്. 'Sophisticated person' = refined education ഉള്ള ആൾ. 🪤 PSC Trap: A, B, D ഒക്കെ 'urbane'-ന്റെ synonyms! Antonym question-ൽ ഇവ select ചെയ്ത് students fall ആകുന്നു.\n\n❌ (D) Polished — 'Polished' = refined, smooth in manner (elegant). 'A polished speaker' = eloquent, refined. ഇതും urbane-ന് similar meaning ഉള്ള word ആണ്. Options A, B, D ഒക്കെ synonyms — (C) Rural മാത്രം opposite concept.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: URBAN = CITY. URBANE = city-like. RURAL = VILLAGE. City-ന്റെ opposite Village — URBANE-ന്റെ opposite RURAL!\n• Pattern recognition: Antonym question-ൽ 3 options synonyms ആയിരിക്കും, 1 option antonym. 'Odd one out' = answer!\n• PSC exam strategy: Options-ൽ 3 similar-meaning words കണ്ടാൽ → ബാക്കി 1 = antonym = correct answer. ഇത് quick elimination technique!"
+    }
+  },
+  {
+    "id": "112-2024-M-Q88",
+    "paperId": "112-2024-M",
+    "questionNumber": 88,
+    "topic": "Antonyms",
+    "questionText": "Identify the word that means the opposite of excessive:",
+    "optionA": "Abundant",
+    "optionB": "Lavish",
+    "optionC": "Moderate",
+    "optionD": "Copious",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Moderate\n\n• 'Excessive' = beyond what is necessary, extreme (ആവശ്യത്തിൽ കൂടുതൽ, അനാവശ്യം, extreme ആയ).\n• 'Moderate' = within reasonable limits, not extreme (മിതമായ, ന്യായമായ, balanced).\n• 'Excessive spending' = ആവശ്യത്തിൽ കൂടുതൽ ചെലവ്; 'Moderate spending' = മിതമായ ചെലവ് — ഇവ exact opposites.\n• PSC-ൽ ഇത്തരം clearly opposite meanings-ഉള്ള antonym pairs ഒരു common question type ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: EXCESSIVE (too much/extreme) ↔ MODERATE (just right/balanced)\n• Word Family of EXCESSIVE:\n  - excess (n) = too much (അധികം)\n  - excessive (adj) = more than needed\n  - excessively (adv) = in an extreme way\n• Word Family of MODERATE:\n  - moderate (adj) = balanced, not extreme\n  - moderately (adv) = to a moderate degree\n  - moderation (n) = the quality of being moderate (മിതത്വം)\n• ⭐ PSC ആവർത്തനം: Antonym questions — especially extreme vs balanced opposites — PSC-ൽ frequently appear\n\nഉദാഹരണ sentences:\n1. He has an excessive habit of buying new clothes. (ആവശ്യത്തിൽ കൂടുതൽ clothes വാങ്ങുന്ന ശീലം)\n2. She maintains a moderate diet. (മിതമായ ഭക്ഷണക്രമം)\n3. Excessive use of phones is harmful. (Phones-ന്റെ അമിത ഉപയോഗം ദോഷകരം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Abundant — 'Abundant' = plentiful, in large quantity (ധാരാളമുള്ള, സമ്പുഷ്ടം). 'Abundant resources' = ധാരാളം resources. ഇത് excessive-ഓ similar 'large amount' idea share ചെയ്യുന്ന word ആണ്, opposite അല്ല. 🪤 PSC Trap: 'Abundant'-ഉം 'excessive'-ഉം 'a lot' idea share ചെയ്യുന്നതിനാൽ confuse ആകുന്നു.\n\n❌ (B) Lavish — 'Lavish' = extravagant, very generous (ധൂർത്ത്, ആഡംബരപ്രിയം). 'Lavish spending' = extravagant spending. ഇത് excessive-ഓ similar meaning ഉള്ള word ആണ്, antonym അല്ല. 🪤 PSC Trap: 'Lavish' = excessive-ന്റെ near-synonym — antonym ആണെന്ന് confuse ആകുന്നു.\n\n❌ (D) Copious — 'Copious' = large in quantity, plentiful (ധാരാളം). 'Copious notes' = ധാരാളം notes. ഇതും 'large amount' idea ഉള്ള word ആണ്. Options A, B, D ഒക്കെ 'more than enough' idea convey ചെയ്യുന്നു; (C) Moderate മാത്രം 'just right' idea convey ചെയ്യുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: EX-CESSIVE = EXtra, EXtra MORE! MODERATE = 'NORMAL amount'. 'കൂടുതൽ'-ന്റെ opposite 'ശരിക്ക്' — EXCESSIVE opposite = MODERATE!\n• Pattern: A (Abundant), B (Lavish), D (Copious) ഒക്കെ 'too much' meaning — eliminate! (C) Moderate = 'just right' — that's the antonym!\n• PSC exam strategy: Options-ൽ 'too much' meaning ഉള്ള words eliminate ചെയ്യുക → 'balanced/just right' word = antonym of excessive = correct answer!"
+    }
+  },
+  {
+    "id": "112-2024-M-Q89",
+    "paperId": "112-2024-M",
+    "questionNumber": 89,
+    "topic": "Synonyms",
+    "questionText": "Which word is most similar to resilient?",
+    "optionA": "Fragile",
+    "optionB": "Flexible",
+    "optionC": "Brittle",
+    "optionD": "Weak",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Flexible\n\n• 'Resilient' = ബുദ്ധിമുട്ടുകളിൽ നിന്ന് വേഗം recover ആകാൻ കഴിവുള്ള, elastic (able to spring back).\n• 'Flexible' = easily change/adapt ആകാൻ കഴിവുള്ള, not rigid (adapting without breaking).\n• രണ്ടും 'ability to adapt' idea share ചെയ്യുന്നു — resilient person = difficulties-ൽ നിന്ന് back വരുന്ന ആൾ; flexible person = change-ഉ adapt ആകുന്ന ആൾ.\n• Latin 'resilire' (to spring back) = resilient-ന്റെ root. Both resilient & flexible = not breaking under pressure.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: RESILIENT = bounce back easily = FLEXIBLE = adapt easily (same core idea)\n• Etymology: Latin 'resilire' = to spring back (spring back ചെയ്യുക)\n• Word Family of RESILIENT:\n  - resilient (adj) = quick to recover\n  - resilience (n) = ability to recover (ദൃഢത, recovery power)\n  - resiliently (adv) = in a resilient manner\n• ⭐ PSC ആവർത്തനം: Modern vocabulary synonyms — especially personality/character adjectives — PSC-ൽ ഇടക്കിടെ ചോദിക്കുന്നു\n\nഉദാഹരണ sentences:\n1. Children are very resilient and adapt to change easily. (കുട്ടികൾ resilient ആണ്, മാറ്റങ്ങളോട് adapt ആകും)\n2. Rubber is a flexible material. (Rubber = flexible material)\n3. She has a flexible approach to problem-solving. (Flexible approach to problems)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Fragile — 'Fragile' = easily broken (പൊടിഞ്ഞുപോകുന്ന, easily damaged). 'Fragile glass' = easily breaks. ഇത് 'resilient'-ന്റെ exact opposite ആണ്! Resilient = strong, bounces back; Fragile = breaks easily. 🪤 PSC Trap: Exact antonym synonym question-ൽ option ആകുന്നതാണ് — ഇത് synonym question ആണ്!\n\n❌ (C) Brittle — 'Brittle' = hard but easily broken (easily crack ആകുന്ന). 'Brittle bones' = easily breaking. ഇതും resilient-ന്റെ opposite ആണ്. Brittle material = breaks under pressure; Resilient material = bends but comes back. 🪤 PSC Trap: Fragile, Brittle, Weak — ഈ മൂന്ന് options-ഉം resilient-ന്റെ opposites.\n\n❌ (D) Weak — 'Weak' = lacking strength (ദുർബലം). 'A weak foundation' = easily falls. Resilient = strong, recovers; Weak = not strong. Options A, C, D ഒക്കെ antonyms — (B) Flexible മാത്രം synonym!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: RESILIENT = 'Rubber band person' — stretch ചെയ്ത് back വരും! FLEXIBLE = 'yoga pose' — bend ആകും, break ആകില്ല! Both = adapt without breaking!\n• PSC pattern: ഈ question-ൽ A, C, D ഒക്കെ antonyms — 3 antonyms + 1 synonym pattern = quickly identify (B) as the answer!\n• Word family: resilient/resilience, flexible/flexibility, adaptable/adaptability — ഒരുമിച്ച് learn ചെയ്യുക!"
+    }
+  },
+  {
+    "id": "112-2024-M-Q90",
+    "paperId": "112-2024-M",
+    "questionNumber": 90,
+    "topic": "One Word Substitutes",
+    "questionText": "Find the one word for the statement:\nTo choose not to use a vote either in favour of or against something.",
+    "optionA": "Absolute",
+    "optionB": "Abolish",
+    "optionC": "Absurd",
+    "optionD": "Abstain",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) Abstain\n\n• 'Abstain' = vote ചെയ്യാൻ ഒഴിവാക്കുക, neither for nor against (to choose not to vote).\n• Question definition: 'To choose not to use a vote either in favour of or against' = vote-ൽ participate ചെയ്യാതിരിക്കൽ = Abstain.\n• 'Three members abstained from the vote' = 3 members vote ചെയ്തില്ല, neither yes nor no.\n• Latin 'abs' (away from) + 'tenere' (to hold) = abstain = 'hold away from' the vote.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ABSTAIN = 'NOT voting YES or NO — standing aside from the vote'\n• Etymology: Latin 'abs' (away) + 'tenere' (to hold) = to hold away = abstain\n• Word Family of ABSTAIN:\n  - abstain (v) = to choose not to vote\n  - abstention (n) = the act of not voting (വോട്ട് ചെയ്യാതിരിക്കൽ)\n  - abstinent (adj) = choosing not to participate\n• ⭐ PSC ആവർത്തനം: One Word Substitutes — civic/voting/government terms PSC-ൽ ഇടക്കിടെ ചോദ്യ subject\n\nഉദാഹരണ sentences:\n1. Three members voted yes, two voted no, and five abstained. (5 members vote ചെയ്തില്ല)\n2. He decided to abstain from the election. (Election-ൽ participate ചെയ്യാതിരുന്നു)\n3. India abstained from the UN vote. (UN vote-ൽ India abstain ചെയ്തു — news-ൽ ഈ word കേൾക്കാം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Absolute — 'Absolute' = complete, total, without limits (സമ്പൂർണ്ണം). 'Absolute power' = unlimited power. ഇത് voting-ഉമായി ഒരു connection-ഉം ഇല്ല. 🪤 PSC Trap: 'Absolute', 'Abstain' — രണ്ടും 'ABS' ൽ തുടങ്ങുന്നു, sound-alike trap!\n\n❌ (B) Abolish — 'Abolish' = to formally end/stop something (ഔദ്യോഗികമായി നിർത്തലാക്കുക). 'Abolish a law' = law officially remove ചെയ്യുക. ഇത് vote ചെയ്യാതിരിക്കുന്നതുമായി ബന്ധമില്ല. Abolish = end something; Abstain = not participate in voting. 🪤 PSC Trap: 'ABO-' prefix — Abolish vs Abstain sound confusingly similar.\n\n❌ (C) Absurd — 'Absurd' = ridiculous, illogical (അർത്ഥമില്ലാത്ത, ridiculous). 'That idea is absurd' = ആ idea ridiculous ആണ്. ഇതിന് voting-ഉമായി ഒരു ബന്ധവും ഇല്ല. Options A, B, C ഒക്കെ 'ABS-' prefix ഉള്ള words — PSC-ൽ same-prefix traps ഒരു common technique!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: ABSTAIN = 'ABS-TAIN = ABSENT from vote'! Vote-ൽ absent ആകുക = abstain. 'India was ABSENT in the vote' = India ABSTAINED!\n• Word family: abstain (v) → abstention (n) → abstinent (adj). UN news-ൽ 'abstention' word frequently ഉപയോഗിക്കുന്നു\n• PSC exam strategy: One Word Substitute-ൽ definition carefully read ചെയ്യുക. 'choose not to use a vote' → vote-ൽ absent → ABSTAIN. 'ABS-' prefix words (Absolute/Abolish/Absurd) definition match ആകുന്നോ check ചെയ്ത് eliminate ചെയ്യുക!"
+    }
   }
 ]
