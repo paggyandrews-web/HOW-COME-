@@ -52,7 +52,7 @@ jobs:
             -keyalg RSA -keysize 2048 -validity 10000 -noprompt
           "$SDK/build-tools/$BT/apksigner" sign \
             --ks release.keystore \
-            --ks-alias my-key-alias \
+            --ks-key-alias my-key-alias \
             --ks-pass pass:howcome2024 \
             --key-pass pass:howcome2024 \
             --out howcome-webview.apk \
