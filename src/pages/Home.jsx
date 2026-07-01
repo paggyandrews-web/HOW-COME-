@@ -17,6 +17,109 @@ function formatTime12h(timeStr) {
   return `${String(hour).padStart(2, '0')}:${String(m).padStart(2, '0')} ${period}`
 }
 
+/* ── Book + Question Mark illustration ─────────────────────────────── */
+function BookIllustration() {
+  return (
+    <svg viewBox="0 0 160 155" width="145" height="140" xmlns="http://www.w3.org/2000/svg">
+      {/* ground glow */}
+      <ellipse cx="80" cy="138" rx="48" ry="8" fill="rgba(0,188,170,0.12)" />
+
+      {/* left page */}
+      <path d="M18 60 Q18 50 28 50 L76 50 L76 108 L18 108 Z"
+            fill="rgba(0,188,170,0.07)" stroke="rgba(0,188,170,0.45)" strokeWidth="1.5"/>
+      <line x1="28" y1="63" x2="66" y2="63" stroke="rgba(0,188,170,0.28)" strokeWidth="1"/>
+      <line x1="28" y1="70" x2="66" y2="70" stroke="rgba(0,188,170,0.28)" strokeWidth="1"/>
+      <line x1="28" y1="77" x2="66" y2="77" stroke="rgba(0,188,170,0.28)" strokeWidth="1"/>
+      <line x1="28" y1="84" x2="66" y2="84" stroke="rgba(0,188,170,0.28)" strokeWidth="1"/>
+      <line x1="28" y1="91" x2="52" y2="91" stroke="rgba(0,188,170,0.28)" strokeWidth="1"/>
+
+      {/* right page */}
+      <path d="M84 50 L132 50 Q142 50 142 60 L142 108 L84 108 Z"
+            fill="rgba(0,188,170,0.07)" stroke="rgba(0,188,170,0.45)" strokeWidth="1.5"/>
+      <line x1="94" y1="63" x2="132" y2="63" stroke="rgba(0,188,170,0.28)" strokeWidth="1"/>
+      <line x1="94" y1="70" x2="132" y2="70" stroke="rgba(0,188,170,0.28)" strokeWidth="1"/>
+      <line x1="94" y1="77" x2="132" y2="77" stroke="rgba(0,188,170,0.28)" strokeWidth="1"/>
+      <line x1="94" y1="84" x2="132" y2="84" stroke="rgba(0,188,170,0.28)" strokeWidth="1"/>
+      <line x1="94" y1="91" x2="118" y2="91" stroke="rgba(0,188,170,0.28)" strokeWidth="1"/>
+
+      {/* spine */}
+      <path d="M76 50 L84 50 L84 108 L76 108 Z" fill="rgba(0,188,170,0.35)"/>
+
+      {/* bottom shelf */}
+      <rect x="14" y="107" width="132" height="7" rx="3.5" fill="rgba(0,188,170,0.2)"/>
+
+      {/* question-mark halo */}
+      <circle cx="80" cy="26" r="24" fill="rgba(0,188,170,0.08)"/>
+      <circle cx="80" cy="26" r="16" fill="rgba(0,188,170,0.06)"/>
+
+      {/* question mark */}
+      <text x="80" y="36" textAnchor="middle"
+            fontSize="30" fontWeight="900" fontFamily="Georgia,serif"
+            fill="rgba(0,220,200,0.95)">?</text>
+
+      {/* sparkle dots */}
+      <circle cx="14" cy="44" r="2"   fill="rgba(0,188,170,0.55)"/>
+      <circle cx="148" cy="58" r="1.5" fill="rgba(0,188,170,0.45)"/>
+      <circle cx="152" cy="85" r="1"   fill="rgba(0,188,170,0.35)"/>
+      <circle cx="8"   cy="78" r="1.5" fill="rgba(0,188,170,0.4)"/>
+      <circle cx="144" cy="38" r="1"   fill="rgba(0,188,170,0.35)"/>
+    </svg>
+  )
+}
+
+/* ── Circular flame ring for streak ────────────────────────────────── */
+function StreakRing({ days }) {
+  const SIZE = 70, R = 28
+  const C = 2 * Math.PI * R
+  const offset = C * (1 - Math.min(days / 30, 1))
+  return (
+    <div style={{ position: 'relative', width: SIZE, height: SIZE, flexShrink: 0 }}>
+      <svg width={SIZE} height={SIZE} style={{ transform: 'rotate(-90deg)' }}>
+        <circle cx={SIZE/2} cy={SIZE/2} r={R}
+                fill="none" stroke="rgba(255,255,255,0.08)" strokeWidth="4"/>
+        <circle cx={SIZE/2} cy={SIZE/2} r={R}
+                fill="none" stroke="url(#flameGrad)" strokeWidth="4"
+                strokeDasharray={C} strokeDashoffset={offset}
+                strokeLinecap="round"/>
+        <defs>
+          <linearGradient id="flameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stopColor="#ff6b35"/>
+            <stop offset="100%" stopColor="#ffd700"/>
+          </linearGradient>
+        </defs>
+      </svg>
+      <div style={{
+        position: 'absolute', top: '50%', left: '50%',
+        transform: 'translate(-50%, -50%)',
+        fontSize: 26, lineHeight: 1,
+      }}>🔥</div>
+    </div>
+  )
+}
+
+/* ── Day-dot indicators ─────────────────────────────────────────────── */
+function StreakDots({ days }) {
+  return (
+    <div style={{ display: 'flex', gap: 6 }}>
+      {[0, 1, 2].map(i => (
+        <div key={i} style={{
+          width: 28, height: 28, borderRadius: '50%',
+          display: 'flex', alignItems: 'center', justifyContent: 'center',
+          background: i < Math.min(days, 3) ? 'var(--accent)' : 'rgba(255,255,255,0.07)',
+          border: i < Math.min(days, 3) ? 'none' : '1.5px dashed rgba(255,255,255,0.18)',
+        }}>
+          {i < Math.min(days, 3) && (
+            <svg width="13" height="13" viewBox="0 0 13 13" fill="none">
+              <path d="M2 6.5L5 9.5L11 3.5" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+            </svg>
+          )}
+        </div>
+      ))}
+    </div>
+  )
+}
+
+/* ── Bookmark icon ──────────────────────────────────────────────────── */
 function BookmarkIcon({ saved }) {
   return (
     <svg width="22" height="22" viewBox="0 0 24 24"
@@ -28,46 +131,34 @@ function BookmarkIcon({ saved }) {
   )
 }
 
+/* ── Remove dialog ──────────────────────────────────────────────────── */
 function RemoveDialog({ exam, onConfirm, onCancel }) {
   if (!exam) return null
   return (
-    <div
-      className="fixed inset-0 z-50 flex items-center justify-center"
+    <div className="fixed inset-0 z-50 flex items-center justify-center"
       style={{ background: 'rgba(0,0,0,0.55)', cursor: 'pointer' }}
-      onClick={onCancel}
-    >
-      <div
-        className="card rounded-2xl p-5 w-full max-w-sm mx-4 mb-4 sm:mb-0"
-        onClick={e => e.stopPropagation()}
-      >
+      onClick={onCancel}>
+      <div className="card rounded-2xl p-5 w-full max-w-sm mx-4"
+        onClick={e => e.stopPropagation()}>
         <div className="text-base font-semibold mb-1">Remove from Home?</div>
         <div className="text-sm mb-4" style={{ color: 'var(--text2)' }}>
           {exam.name.split(' / ')[0]}
         </div>
         <div className="flex gap-2">
-          <button
-            onClick={onConfirm}
-            className="flex-1 py-2 rounded-lg text-sm font-semibold"
-            style={{ background: 'var(--accent)', color: 'var(--accent-text)' }}
-          >
-            Remove
-          </button>
-          <button
-            onClick={onCancel}
-            className="flex-1 py-2 rounded-lg text-sm font-medium"
-            style={{ background: 'var(--bg2)', color: 'var(--text)', border: '1px solid var(--border)' }}
-          >
-            Cancel
-          </button>
+          <button onClick={onConfirm} className="flex-1 py-2 rounded-lg text-sm font-semibold"
+            style={{ background: 'var(--accent)', color: 'var(--accent-text)' }}>Remove</button>
+          <button onClick={onCancel} className="flex-1 py-2 rounded-lg text-sm font-medium"
+            style={{ background: 'var(--bg2)', color: 'var(--text)', border: '1px solid var(--border)' }}>Cancel</button>
         </div>
       </div>
     </div>
   )
 }
 
+/* ── Saved exam card ────────────────────────────────────────────────── */
 function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
   const isPast = new Date(exam.date) < new Date(new Date().toDateString())
-  const atMax = !saved && savedCount >= MAX_PINS
+  const atMax  = !saved && savedCount >= MAX_PINS
   const examDate = new Date(exam.date)
 
   function handleBookmark(e) {
@@ -84,7 +175,6 @@ function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
         borderLeft: saved ? '4px solid var(--accent)' : '4px solid transparent',
         transition: 'border-color 0.3s ease',
       }}>
-      {/* Name + bookmark button */}
       <div className="flex items-start justify-between gap-2 mb-2">
         <div className="flex-1 min-w-0">
           <div className="text-xs font-bold mb-0.5" style={{ color: 'var(--accent)' }}>
@@ -92,35 +182,26 @@ function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
           </div>
           <div className="font-semibold text-sm leading-snug">{exam.name}</div>
         </div>
-        <button
-          type="button"
-          onClick={handleBookmark}
+        <button type="button" onClick={handleBookmark}
           title={saved ? 'Remove from Home' : atMax ? 'Max 5 saved' : 'Save to Home'}
           className="shrink-0 transition-transform active:scale-110"
           style={{
             opacity: saved ? 1 : atMax ? 0.2 : 0.7,
             pointerEvents: atMax ? 'none' : 'auto',
-            padding: '6px 8px',
-            minWidth: '44px',
-            minHeight: '44px',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
-            touchAction: 'manipulation',
-            WebkitTapHighlightColor: 'transparent',
-            background: 'none',
-            border: 'none',
-            cursor: 'pointer',
+            padding: '6px 8px', minWidth: '44px', minHeight: '44px',
+            display: 'flex', alignItems: 'center', justifyContent: 'center',
+            touchAction: 'manipulation', WebkitTapHighlightColor: 'transparent',
+            background: 'none', border: 'none', cursor: 'pointer',
           }}>
           <BookmarkIcon saved={saved} />
         </button>
       </div>
-
-      {/* Info grid */}
       <div className="grid grid-cols-2 gap-x-4 gap-y-1 text-xs mb-3">
         <div>
           <span style={{ color: 'var(--text2)' }}>Exam Date: </span>
-          <span className="font-medium">{examDate.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' })}</span>
+          <span className="font-medium">
+            {examDate.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' })}
+          </span>
         </div>
         <div>
           <span style={{ color: 'var(--text2)' }}>Exam Time: </span>
@@ -134,37 +215,19 @@ function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
           <span style={{ color: 'var(--text2)' }}>Scope: </span>
           <span className="font-medium">{exam.scope}</span>
         </div>
-        {exam.admissionFrom && (
-          <div className="col-span-2">
-            <span style={{ color: 'var(--text2)' }}>Admission Tickets From: </span>
-            <span className="font-medium">
-              {new Date(exam.admissionFrom).toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' })}
-            </span>
-          </div>
-        )}
-        {exam.candidates && (
-          <div className="col-span-2">
-            <span style={{ color: 'var(--text2)' }}>Total Candidates: </span>
-            <span className="font-medium">{exam.candidates.toLocaleString('en-IN')}</span>
-          </div>
-        )}
       </div>
-
-      {/* Flip Clock countdown */}
-      {!isPast ? (
-        <FlipClock dateStr={exam.date} timeStr={exam.time} compact />
-      ) : (
-        <span className="text-xs px-2 py-1 rounded font-medium"
-          style={{ background: 'var(--bg2)', color: 'var(--text2)' }}>Exam over</span>
-      )}
+      {!isPast
+        ? <FlipClock dateStr={exam.date} timeStr={exam.time} compact />
+        : <span className="text-xs px-2 py-1 rounded font-medium"
+            style={{ background: 'var(--bg2)', color: 'var(--text2)' }}>Exam over</span>
+      }
     </div>
   )
 }
 
+/* ── Daily Quiz card ────────────────────────────────────────────────── */
 function DailyQuizCard() {
-  const QUIZ_HOUR = 21   // 9 PM
-  const QUIZ_MIN  = 30   // :30
-
+  const QUIZ_HOUR = 21, QUIZ_MIN = 30
   const [timeLeft, setTimeLeft] = useState(null)
   const [isLive, setIsLive]     = useState(false)
 
@@ -174,15 +237,15 @@ function DailyQuizCard() {
       const fire = new Date()
       fire.setHours(QUIZ_HOUR, QUIZ_MIN, 0, 0)
       if (now >= fire) {
-        setIsLive(true)
-        setTimeLeft(null)
+        setIsLive(true); setTimeLeft(null)
       } else {
         setIsLive(false)
         const diff = fire - now
-        const h = Math.floor(diff / 3600000)
-        const m = Math.floor((diff % 3600000) / 60000)
-        const s = Math.floor((diff % 60000) / 1000)
-        setTimeLeft({ h, m, s })
+        setTimeLeft({
+          h: Math.floor(diff / 3600000),
+          m: Math.floor((diff % 3600000) / 60000),
+          s: Math.floor((diff % 60000) / 1000),
+        })
       }
     }
     tick()
@@ -190,220 +253,289 @@ function DailyQuizCard() {
     return () => clearInterval(id)
   }, [])
 
-  // Latest paper for the quiz
   const latestPaper = papers[papers.length - 1]
 
   return (
-    <div className="rounded-2xl p-5"
+    <div className="rounded-2xl overflow-hidden"
       style={{
-        background: '#000000',
-        border: isLive
-          ? '2px solid var(--accent)'
-          : '1px solid rgba(26,157,142,0.25)',
+        background: '#080e1e',
+        border: isLive ? '2px solid var(--accent)' : '1px solid rgba(26,157,142,0.2)',
       }}>
-      <div className="flex items-center justify-between mb-3">
-        <div className="flex items-center gap-2">
-          <span style={{ fontSize: 22 }}>⚡</span>
-          <span className="font-bold text-lg">Daily Quiz</span>
+      {/* body */}
+      <div className="p-5">
+        <div className="flex items-center justify-between mb-3">
+          <div className="flex items-center gap-3">
+            {/* lightning bolt in circle */}
+            <div style={{
+              width: 44, height: 44, borderRadius: '50%',
+              background: 'rgba(26,157,142,0.13)',
+              border: '1px solid rgba(26,157,142,0.28)',
+              display: 'flex', alignItems: 'center', justifyContent: 'center',
+              flexShrink: 0,
+            }}>
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="var(--accent)">
+                <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/>
+              </svg>
+            </div>
+            <span className="font-bold text-lg">Daily Quiz</span>
+          </div>
+          {isLive
+            ? <span className="text-xs font-bold px-3 py-1 rounded-full"
+                style={{ background: 'var(--accent)', color: '#000' }}>🔴 LIVE NOW</span>
+            : <span className="text-xs font-medium px-3 py-1 rounded-full"
+                style={{ background: 'rgba(26,157,142,0.1)', color: 'var(--accent)', border: '1px solid rgba(26,157,142,0.28)' }}>
+                Goes live 9:30 PM
+              </span>
+          }
         </div>
-        {isLive
-          ? <span className="text-xs font-bold px-3 py-1 rounded-full"
-              style={{ background: 'var(--accent)', color: '#000' }}>🔴 LIVE NOW</span>
-          : <span className="text-xs font-medium px-3 py-1 rounded-full"
-              style={{ background: 'rgba(26,157,142,0.12)', color: 'var(--accent)', border: '1px solid rgba(26,157,142,0.3)' }}>
-              Goes live 9:30 PM
+
+        <p className="text-sm" style={{ color: 'rgba(255,255,255,0.55)' }}>
+          10 questions &nbsp;·&nbsp; {latestPaper?.post || 'Latest PSC paper'}
+        </p>
+        <p className="text-xs mt-0.5 mb-4" style={{ color: 'rgba(255,255,255,0.35)' }}>
+          Full Malayalam explanations
+        </p>
+
+        {!isLive && timeLeft && (
+          <div className="flex items-baseline gap-1 mb-1">
+            {[['HRS', timeLeft.h], ['MINS', timeLeft.m], ['SECS', timeLeft.s]].map(([label, val], i) => (
+              <div key={label} className="flex items-baseline gap-1">
+                {i > 0 && (
+                  <span style={{ color: 'var(--accent)', fontSize: 24, fontWeight: 700, marginBottom: 14 }}>:</span>
+                )}
+                <div>
+                  <div className="font-bold tabular-nums"
+                    style={{ color: 'var(--accent)', fontSize: 30, lineHeight: 1 }}>
+                    {String(val).padStart(2, '0')}
+                  </div>
+                  <div className="text-xs" style={{ color: 'rgba(255,255,255,0.3)', letterSpacing: '0.06em' }}>
+                    {label}
+                  </div>
+                </div>
+              </div>
+            ))}
+            <span className="text-sm ml-3" style={{ color: 'rgba(255,255,255,0.35)', marginBottom: 14 }}>
+              until quiz opens
             </span>
-        }
+          </div>
+        )}
       </div>
 
-      <p className="text-sm mb-1" style={{ color: 'rgba(255,255,255,0.6)' }}>
-        10 questions · {latestPaper?.post || 'Latest PSC paper'} · Full Malayalam explanations
-      </p>
-
-      {!isLive && timeLeft && (
-        <div className="flex items-center gap-3 my-4">
-          {[['h', timeLeft.h], ['m', timeLeft.m], ['s', timeLeft.s]].map(([label, val]) => (
-            <div key={label} className="text-center">
-              <div className="text-2xl font-bold tabular-nums" style={{ color: 'var(--accent)' }}>
-                {String(val).padStart(2, '0')}
-              </div>
-              <div className="text-xs" style={{ color: 'rgba(255,255,255,0.4)' }}>{label}</div>
-            </div>
-          ))}
-          <div className="text-xl font-bold" style={{ color: 'rgba(255,255,255,0.3)', marginBottom: 14 }}>until quiz opens</div>
-        </div>
-      )}
-
+      {/* bottom bar */}
       {isLive
         ? <Link to="/quiz?daily=true"
-            className="block text-center w-full py-3 rounded-xl font-bold text-sm mt-3"
+            className="flex items-center justify-center w-full py-3 font-bold text-sm"
             style={{ background: 'var(--accent)', color: '#000' }}>
             Start Daily Quiz →
           </Link>
-        : <button disabled
-            className="block text-center w-full py-3 rounded-xl font-bold text-sm mt-3"
-            style={{ background: 'rgba(255,255,255,0.06)', color: 'rgba(255,255,255,0.3)', cursor: 'not-allowed' }}>
-            🔒 Locked until 9:30 PM
-          </button>
+        : <div className="flex items-center justify-center gap-2 py-3"
+            style={{ background: 'rgba(255,255,255,0.03)', borderTop: '1px solid rgba(255,255,255,0.05)' }}>
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none"
+              stroke="rgba(255,255,255,0.3)" strokeWidth="2" strokeLinecap="round">
+              <rect x="3" y="11" width="18" height="11" rx="2" ry="2"/>
+              <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
+            </svg>
+            <span className="text-sm" style={{ color: 'rgba(255,255,255,0.35)' }}>
+              Locked until 9:30 PM
+            </span>
+          </div>
       }
     </div>
   )
 }
 
+/* ══ Main Home page ═════════════════════════════════════════════════ */
 export default function Home() {
   const { user, pinnedExams: pinnedIds, pinExam, unpinExam } = useAuth()
   const navigate = useNavigate()
   const [removeTarget, setRemoveTarget] = useState(null)
-  const [searchQuery, setSearchQuery] = useState('')
-  const [streak, setStreak] = useState(0)
+  const [searchQuery, setSearchQuery]   = useState('')
+  const [streak, setStreak]             = useState(0)
   const { getStreak } = useStreak()
 
   useEffect(() => {
     getStreak().then(s => setStreak(s.currentStreak || 0))
   }, [user])
 
-  function handleUnpin(id) {
-    unpinExam(id)
-    setRemoveTarget(null)
-  }
+  function handleUnpin(id) { unpinExam(id); setRemoveTarget(null) }
 
-  const now = new Date()
-  const today = new Date(now.toDateString())
-
-  const upcoming = exams
-    .filter(e => new Date(e.date) >= today)
-    .sort((a, b) => new Date(a.date) - new Date(b.date))
-
+  const now         = new Date()
+  const today       = new Date(now.toDateString())
+  const upcoming    = exams.filter(e => new Date(e.date) >= today).sort((a, b) => new Date(a.date) - new Date(b.date))
   const pinnedExams = exams.filter(e => pinnedIds.includes(e.id))
-
-  const years = [...new Set(papers.map(p => p.year))].sort().reverse()
   const removeExamData = removeTarget ? exams.find(e => e.id === removeTarget) : null
 
   return (
-    <div className="max-w-5xl mx-auto px-4 py-6 space-y-8">
+    <div className="max-w-2xl mx-auto px-4 py-5 space-y-4">
 
-      {/* Hero */}
-      <div className="rounded-2xl p-6 sm:p-8 relative overflow-hidden"
+      {/* ── Hero card ─────────────────────────────────────────────── */}
+      <div className="rounded-2xl p-5 relative overflow-hidden"
         style={{
-          background: '#000000',
-          color: 'white',
-          border: '1px solid rgba(26,157,142,0.3)',
+          background: 'linear-gradient(140deg, #071a2e 0%, #082030 55%, #060e1a 100%)',
+          border: '1px solid rgba(26,157,142,0.22)',
+          minHeight: 158,
         }}>
+        {/* radial glow behind illustration */}
         <div style={{
-          position: 'absolute', right: -40, top: -40,
-          width: 180, height: 180, borderRadius: '50%',
-          background: 'rgba(26,157,142,0.06)', pointerEvents: 'none',
+          position: 'absolute', right: 0, top: '50%', transform: 'translateY(-55%)',
+          width: 180, height: 180,
+          background: 'radial-gradient(circle, rgba(0,188,170,0.13) 0%, transparent 70%)',
+          pointerEvents: 'none',
         }} />
-        <div style={{
-          position: 'absolute', right: 60, bottom: -60,
-          width: 120, height: 120, borderRadius: '50%',
-          background: 'rgba(26,157,142,0.04)', pointerEvents: 'none',
-        }} />
-        <div style={{ position: 'relative', zIndex: 1 }}>
-          <h1 className="text-2xl sm:text-3xl font-bold mb-1">
-            <span style={{ color: 'var(--accent)', fontWeight: 800 }}>HOW </span>
-            <span style={{ color: '#ffffff', fontWeight: 800 }}>COME</span>
-            <span style={{ color: 'var(--accent)', fontWeight: 800 }}>?</span>
-          </h1>
-          <p style={{ color: 'rgba(255,255,255,0.6)' }} className="mb-4">
-            Foundation to PSC English — {questions.length} grammar questions from {papers.length} previous papers
-          </p>
 
-          {/* Streak — big and motivational */}
-          {streak > 0 && (
-            <div
-              className="flex items-center gap-3 mb-4 px-4 py-3 rounded-2xl"
-              style={{
-                background: 'rgba(255,255,255,0.15)',
-                border: '1px solid rgba(255,255,255,0.25)',
-              }}
-            >
-              <span style={{ fontSize: 42, lineHeight: 1 }}>🔥</span>
-              <div style={{ flex: 1 }}>
-                <div style={{ fontSize: 30, fontWeight: 900, lineHeight: 1, color: 'white' }}>
-                  {streak} {streak === 1 ? 'Day' : 'Days'}
-                </div>
-                <div style={{ fontSize: 13, fontWeight: 600, color: 'rgba(255,255,255,0.85)', marginTop: 3 }}>
-                  {streak >= 30
-                    ? 'Unstoppable! You are a legend 🏆'
-                    : streak >= 14
-                    ? 'Two weeks of dedication! ⚡'
-                    : streak >= 7
-                    ? 'One full week! Keep it up! 💪'
-                    : streak >= 3
-                    ? "Building momentum! Don't stop!"
-                    : 'Great start! Keep the streak alive!'}
-                </div>
-              </div>
-              <div style={{ textAlign: 'right', opacity: 0.8 }}>
-                <div style={{ fontSize: 11, fontWeight: 700, color: 'white', letterSpacing: '0.05em' }}>STUDY STREAK</div>
-                <div style={{ fontSize: 11, color: 'rgba(255,255,255,0.65)', marginTop: 2 }}>Don't break it!</div>
-              </div>
-            </div>
-          )}
-
-          <div className="flex flex-wrap gap-3">
-            <Link to="/quiz" className="px-5 py-2 rounded-lg font-semibold text-sm"
-              style={{ background: 'white', color: 'var(--accent)' }}>
+        <div className="flex items-center" style={{ gap: 0 }}>
+          {/* text side */}
+          <div style={{ flex: 1, position: 'relative', zIndex: 1 }}>
+            <h1 className="font-bold mb-0.5" style={{ fontSize: 22, lineHeight: 1.15 }}>
+              <span style={{ color: 'var(--accent)' }}>HOW </span>
+              <span style={{ color: '#ffffff' }}>COME</span>
+              <span style={{ color: 'var(--accent)' }}>?</span>
+            </h1>
+            <p className="text-sm font-semibold mb-0.5" style={{ color: 'rgba(0,200,180,0.8)' }}>
+              Foundation to PSC English
+            </p>
+            <p className="text-xs mb-4" style={{ color: 'rgba(255,255,255,0.42)' }}>
+              {questions.length} grammar questions from {papers.length} previous papers
+            </p>
+            <Link to="/quiz"
+              className="inline-flex items-center gap-1 px-5 py-2.5 rounded-xl font-bold text-sm"
+              style={{ background: 'var(--accent)', color: '#fff' }}>
               Start Quiz →
             </Link>
-            <Link to="/exams" className="px-5 py-2 rounded-lg font-medium text-sm"
-              style={{ background: 'rgba(255,255,255,0.15)', color: 'white', border: '1px solid rgba(255,255,255,0.3)' }}>
-              📅 Upcoming Exams
-            </Link>
+          </div>
+
+          {/* illustration */}
+          <div style={{ flexShrink: 0, marginRight: -6, position: 'relative', zIndex: 1 }}>
+            <BookIllustration />
           </div>
         </div>
       </div>
 
-      {/* Daily Quiz Card */}
+      {/* ── Study Streak card ─────────────────────────────────────── */}
+      {streak > 0 && (
+        <div className="rounded-2xl p-4"
+          style={{
+            background: 'linear-gradient(135deg, #160800 0%, #1c0a00 100%)',
+            border: '1px solid rgba(255,107,53,0.22)',
+          }}>
+          <div className="flex items-center gap-4">
+            <StreakRing days={streak} />
+            <div style={{ flex: 1 }}>
+              <div className="font-black" style={{ fontSize: 22, lineHeight: 1, color: 'white' }}>
+                {streak} {streak === 1 ? 'DAY' : 'DAYS'}
+              </div>
+              <div className="text-xs mt-1" style={{ color: 'rgba(255,255,255,0.55)' }}>
+                {streak >= 30 ? 'Unstoppable! Legend 🏆'
+                  : streak >= 14 ? 'Two weeks of dedication! ⚡'
+                  : streak >= 7  ? 'One full week! Keep it up! 💪'
+                  : streak >= 3  ? "Building momentum! Don't stop!"
+                  : 'Great start! Keep the streak alive!'}
+              </div>
+            </div>
+            <div style={{ textAlign: 'right' }}>
+              <div className="text-xs font-bold mb-1"
+                style={{ color: 'var(--accent)', letterSpacing: '0.06em' }}>STUDY STREAK</div>
+              <div className="text-xs mb-2" style={{ color: 'rgba(255,255,255,0.35)' }}>
+                Don't break it!
+              </div>
+              <StreakDots days={streak} />
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* ── Upcoming Exams row ────────────────────────────────────── */}
+      <Link to="/exams"
+        className="flex items-center gap-3 rounded-2xl p-4"
+        style={{ background: 'var(--surface)', border: '1px solid var(--border)', textDecoration: 'none' }}>
+        <div style={{
+          width: 42, height: 42, borderRadius: 10, flexShrink: 0,
+          background: 'rgba(26,157,142,0.1)',
+          border: '1px solid rgba(26,157,142,0.2)',
+          display: 'flex', alignItems: 'center', justifyContent: 'center',
+        }}>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none"
+            stroke="var(--accent)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <rect x="3" y="4" width="18" height="18" rx="2"/>
+            <line x1="16" y1="2" x2="16" y2="6"/>
+            <line x1="8"  y1="2" x2="8"  y2="6"/>
+            <line x1="3"  y1="10" x2="21" y2="10"/>
+          </svg>
+        </div>
+        <div style={{ flex: 1 }}>
+          <div className="font-semibold text-sm">Upcoming Exams</div>
+          <div className="text-xs" style={{ color: 'var(--text2)' }}>Stay prepared, stay ahead.</div>
+        </div>
+        <div className="flex items-center gap-2">
+          <div className="font-bold text-sm px-2.5 py-1 rounded-full"
+            style={{ background: 'var(--bg2)', color: 'var(--text)' }}>
+            {upcoming.length}
+          </div>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none"
+            stroke="var(--text2)" strokeWidth="2" strokeLinecap="round">
+            <path d="M9 18l6-6-6-6"/>
+          </svg>
+        </div>
+      </Link>
+
+      {/* ── Daily Quiz card ───────────────────────────────────────── */}
       <DailyQuizCard />
 
-      {/* Search bar */}
+      {/* ── Search bar ───────────────────────────────────────────── */}
       <div className="relative">
+        <div style={{
+          position: 'absolute', left: 14, top: '50%', transform: 'translateY(-50%)',
+          pointerEvents: 'none',
+        }}>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none"
+            stroke="var(--text2)" strokeWidth="2" strokeLinecap="round">
+            <circle cx="11" cy="11" r="8"/>
+            <path d="m21 21-4.35-4.35"/>
+          </svg>
+        </div>
         <input
           value={searchQuery}
           onChange={e => setSearchQuery(e.target.value)}
           onKeyDown={e => {
-            if (e.key === 'Enter' && searchQuery.trim().length >= 2) {
+            if (e.key === 'Enter' && searchQuery.trim().length >= 2)
               navigate(`/search?q=${encodeURIComponent(searchQuery.trim())}`)
-            }
           }}
-          placeholder="🔍  Search questions by keyword, topic, grammar rule..."
-          className="w-full rounded-xl px-4 py-3.5 text-sm"
+          placeholder="Search questions by keyword, topic, grammar rule..."
+          className="w-full rounded-xl pl-10 pr-4 py-3.5 text-sm"
           style={{
             background: 'var(--surface)',
             border: '1px solid var(--border)',
-            color: 'var(--text)',
-            outline: 'none',
+            color: 'var(--text)', outline: 'none',
           }}
         />
         {searchQuery.trim().length >= 2 && (
           <button
             onClick={() => navigate(`/search?q=${encodeURIComponent(searchQuery.trim())}`)}
             className="absolute right-3 top-1/2 -translate-y-1/2 px-3 py-1.5 rounded-lg text-xs font-semibold"
-            style={{ background: 'var(--accent)', color: 'var(--accent-text)', touchAction: 'manipulation' }}
-          >
+            style={{ background: 'var(--accent)', color: 'var(--accent-text)', touchAction: 'manipulation' }}>
             Search
           </button>
         )}
       </div>
 
-      {/* Pinned Exams */}
+      {/* ── Saved Exams ──────────────────────────────────────────── */}
       {pinnedExams.length > 0 && (
         <div>
           <div className="flex items-center justify-between mb-3">
-            <h2 className="font-bold text-lg">🔖 Saved Exams</h2>
+            <div className="flex items-center gap-2">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--accent)">
+                <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>
+              </svg>
+              <h2 className="font-bold text-base">Saved Exams</h2>
+            </div>
             <Link to="/exams" className="text-sm font-medium" style={{ color: 'var(--accent)' }}>
               View all →
             </Link>
           </div>
           <div className="space-y-3">
             {pinnedExams.map(e => (
-              <ExamCard
-                key={e.id}
-                exam={e}
-                saved={true}
-                onSave={pinExam}
+              <ExamCard key={e.id} exam={e}
+                saved={true} onSave={pinExam}
                 onRequestRemove={setRemoveTarget}
                 savedCount={pinnedExams.length}
               />
@@ -425,7 +557,6 @@ export default function Home() {
         </div>
       )}
 
-      {/* Remove confirmation dialog */}
       <RemoveDialog
         exam={removeExamData}
         onConfirm={() => handleUnpin(removeTarget)}
