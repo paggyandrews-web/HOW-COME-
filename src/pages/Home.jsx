@@ -362,7 +362,7 @@ export default function Home() {
   const now         = new Date()
   const today       = new Date(now.toDateString())
   const upcoming    = exams.filter(e => new Date(e.date) >= today).sort((a, b) => new Date(a.date) - new Date(b.date))
-  const pinnedExams = exams.filter(e => pinnedIds.includes(e.id))
+  const pinnedExams = exams.filter(e => pinnedIds.includes(e.id)).slice(0, 5)
   const removeExamData = removeTarget ? exams.find(e => e.id === removeTarget) : null
 
   return (

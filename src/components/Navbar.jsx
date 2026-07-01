@@ -87,19 +87,20 @@ export default function Navbar() {
             </div>
           )}
 
-          {/* Theme switcher */}
-          <div className="flex rounded-lg overflow-hidden" style={{ border: '1px solid #222222' }}>
-            {themes.map(t => (
-              <button key={t.id} title={t.title} onClick={() => setTheme(t.id)}
-                className="px-2 py-1 text-sm transition-colors"
-                style={{
-                  background: theme === t.id ? '#1a9d8e' : '#111111',
-                  color: theme === t.id ? '#ffffff' : '#888888',
-                }}>
-                {t.label}
+          {/* Theme switcher — single cycle button */}
+          {(() => {
+            const current = themes.find(t => t.id === theme) || themes[0]
+            const nextTheme = themes[(themes.findIndex(t => t.id === theme) + 1) % themes.length]
+            return (
+              <button
+                title={`Switch to ${nextTheme.title}`}
+                onClick={() => setTheme(nextTheme.id)}
+                className="px-2.5 py-1.5 rounded-lg text-sm transition-colors"
+                style={{ background: '#111111', border: '1px solid #222222', color: '#ffffff' }}>
+                {current.label}
               </button>
-            ))}
-          </div>
+            )
+          })()}
 
           {/* Auth */}
           {user ? (

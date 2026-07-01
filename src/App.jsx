@@ -72,6 +72,15 @@ function ScrollButton() {
   )
 }
 
+/* Scroll to top on every route change */
+function ScrollToTop() {
+  const location = useLocation()
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [location.pathname])
+  return null
+}
+
 /* Triggers page-enter animation on every route change */
 function AnimatedRoutes() {
   const location = useLocation()
@@ -98,6 +107,7 @@ export default function App() {
       <AuthProvider>
         <BrowserRouter>
           <div style={{ minHeight: '100vh', background: 'var(--bg)', color: 'var(--text)' }}>
+            <ScrollToTop />
             <Navbar />
             <div style={{ paddingBottom: 'calc(64px + env(safe-area-inset-bottom))' }} className="sm:pb-0">
               <AnimatedRoutes />
