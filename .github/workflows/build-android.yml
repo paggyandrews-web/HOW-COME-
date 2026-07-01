@@ -5,104 +5,73 @@ on:
 
 jobs:
   build:
-    name: Build & Sign APK
+    name: Build and Sign APK
     runs-on: ubuntu-latest
 
     steps:
-      # ── 1. Checkout ────────────────────────────────────────────
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      # ── 2. Java 17 ─────────────────────────────────────────────
       - name: Set up Java 17
         uses: actions/setup-java@v4
         with:
           java-version: '17'
           distribution: 'temurin'
 
-      # ── 3. Gradle 8.7 ──────────────────────────────────────────
       - name: Set up Gradle
         uses: gradle/actions/setup-gradle@v4
         with:
           gradle-version: '8.7'
 
-      # ── 4. App icon (Python, no external tools needed) ─────────
-      - name: Create app icons
+      - name: Create app icons (pure Python, no deps)
         run: |
-          python3 - << 'PYEOF'
-          import urllib.request, os, shutil
+          python3 /dev/stdin << 'PYEOF'
+import struct, zlib, os, urllib.request
 
-          src = "/tmp/icon.png"
-          urllib.request.urlretrieve("https://how-come.vercel.app/icon-192.png", src)
+def png(w, h, r, g, b):
+    def ck(t, d):
+        c = t + d
+        return struct.pack('>I', len(d)) + c + struct.pack('>I', zlib.crc32(c) & 0xffffffff)
+    hdr = ck(b'IHDR', struct.pack('>IIBBBBB', w, h, 8, 2, 0, 0, 0))
+    row = b'\x00' + bytes([r, g, b] * w)
+    idat = ck(b'IDAT', zlib.compress(row * h))
+    return b'\x89PNG\r\n\x1a\n' + hdr + idat + ck(b'IEND', b'')
 
-          dirs = {
-            "mipmap-mdpi": 48, "mipmap-hdpi": 72, "mipmap-xhdpi": 96,
-            "mipmap-xxhdpi": 144, "mipmap-xxxhdpi": 192
-          }
+sizes = [('mipmap-mdpi',48),('mipmap-hdpi',72),('mipmap-xhdpi',96),('mipmap-xxhdpi',144),('mipmap-xxxhdpi',192)]
+for d, s in sizes:
+    os.makedirs(f'android/app/src/main/res/{d}', exist_ok=True)
+    with open(f'android/app/src/main/res/{d}/ic_launcher.png', 'wb') as f:
+        f.write(png(s, s, 26, 157, 142))
+    print(f'OK {d} {s}x{s}')
+PYEOF
 
-          try:
-            from PIL import Image
-            img = Image.open(src).convert("RGBA")
-            for d, s in dirs.items():
-              out = f"android/app/src/main/res/{d}"
-              os.makedirs(out, exist_ok=True)
-              img.resize((s, s), Image.LANCZOS).save(f"{out}/ic_launcher.png")
-            print("Icons resized with PIL")
-          except ImportError:
-            for d in dirs:
-              out = f"android/app/src/main/res/{d}"
-              os.makedirs(out, exist_ok=True)
-              shutil.copy(src, f"{out}/ic_launcher.png")
-            print("Icons copied (PIL not available, using same size for all)")
-
-          print("Done:", list(dirs.keys()))
-          PYEOF
-
-      # ── 5. Android SDK path ────────────────────────────────────
       - name: Configure Android SDK
         run: |
           SDK="${ANDROID_SDK_ROOT:-$ANDROID_HOME}"
-          if [ -z "$SDK" ]; then
-            echo "ERROR: Neither ANDROID_SDK_ROOT nor ANDROID_HOME is set"
-            exit 1
-          fi
           echo "SDK: $SDK"
-          echo "Platforms: $(ls $SDK/platforms/ 2>/dev/null | tr '\n' ' ')"
-          echo "Build-tools: $(ls $SDK/build-tools/ 2>/dev/null | tr '\n' ' ')"
           echo "sdk.dir=$SDK" > android/local.properties
+          ls "$SDK/platforms/" && ls "$SDK/build-tools/"
 
-      # ── 6. Build unsigned release APK ──────────────────────────
       - name: Build release APK
         working-directory: android
         run: gradle assembleRelease --no-daemon --stacktrace
 
-      # ── 7. Sign APK ────────────────────────────────────────────
       - name: Sign APK
         run: |
           SDK="${ANDROID_SDK_ROOT:-$ANDROID_HOME}"
-          BUILD_TOOLS=$(ls "$SDK/build-tools/" | sort -V | tail -1)
-          echo "Using build-tools: $BUILD_TOOLS"
-          SIGNER="$SDK/build-tools/$BUILD_TOOLS/apksigner"
-
-          keytool -genkeypair \
-            -alias my-key-alias \
-            -keypass howcome2024 \
-            -keystore release.keystore \
-            -storepass howcome2024 \
+          BT=$(ls "$SDK/build-tools/" | sort -V | tail -1)
+          echo "Build-tools: $BT"
+          keytool -genkeypair -alias my-key-alias -keypass howcome2024 \
+            -keystore release.keystore -storepass howcome2024 \
             -dname "CN=HOW COME, O=HOW COME PSC, C=IN" \
             -keyalg RSA -keysize 2048 -validity 10000 -noprompt
-
-          "$SIGNER" sign \
-            --ks release.keystore \
-            --ks-alias my-key-alias \
-            --ks-pass pass:howcome2024 \
-            --key-pass pass:howcome2024 \
+          "$SDK/build-tools/$BT/apksigner" sign \
+            --ks release.keystore --ks-alias my-key-alias \
+            --ks-pass pass:howcome2024 --key-pass pass:howcome2024 \
             --out howcome-webview.apk \
             android/app/build/outputs/apk/release/app-release-unsigned.apk
+          ls -lh howcome-webview.apk
 
-          echo "APK size: $(du -sh howcome-webview.apk)"
-
-      # ── 8. Upload artifact ─────────────────────────────────────
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
