@@ -225,124 +225,6 @@ function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
   )
 }
 
-/* ── Daily Quiz card ────────────────────────────────────────────────── */
-function DailyQuizCard() {
-  const QUIZ_HOUR = 21, QUIZ_MIN = 30
-  const [timeLeft, setTimeLeft] = useState(null)
-  const [isLive, setIsLive]     = useState(false)
-
-  useEffect(() => {
-    function tick() {
-      const now  = new Date()
-      const fire = new Date()
-      fire.setHours(QUIZ_HOUR, QUIZ_MIN, 0, 0)
-      if (now >= fire) {
-        setIsLive(true); setTimeLeft(null)
-      } else {
-        setIsLive(false)
-        const diff = fire - now
-        setTimeLeft({
-          h: Math.floor(diff / 3600000),
-          m: Math.floor((diff % 3600000) / 60000),
-          s: Math.floor((diff % 60000) / 1000),
-        })
-      }
-    }
-    tick()
-    const id = setInterval(tick, 1000)
-    return () => clearInterval(id)
-  }, [])
-
-  const latestPaper = papers[papers.length - 1]
-
-  return (
-    <div className="rounded-2xl overflow-hidden"
-      style={{
-        background: '#080e1e',
-        border: isLive ? '2px solid var(--accent)' : '1px solid rgba(26,157,142,0.2)',
-      }}>
-      {/* body */}
-      <div className="p-5">
-        <div className="flex items-center justify-between mb-3">
-          <div className="flex items-center gap-3">
-            {/* lightning bolt in circle */}
-            <div style={{
-              width: 44, height: 44, borderRadius: '50%',
-              background: 'rgba(26,157,142,0.13)',
-              border: '1px solid rgba(26,157,142,0.28)',
-              display: 'flex', alignItems: 'center', justifyContent: 'center',
-              flexShrink: 0,
-            }}>
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="var(--accent)">
-                <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/>
-              </svg>
-            </div>
-            <span className="font-bold text-lg">Daily Quiz</span>
-          </div>
-          {isLive
-            ? <span className="text-xs font-bold px-3 py-1 rounded-full"
-                style={{ background: 'var(--accent)', color: '#000' }}>🔴 LIVE NOW</span>
-            : <span className="text-xs font-medium px-3 py-1 rounded-full"
-                style={{ background: 'rgba(26,157,142,0.1)', color: 'var(--accent)', border: '1px solid rgba(26,157,142,0.28)' }}>
-                Goes live 9:30 PM
-              </span>
-          }
-        </div>
-
-        <p className="text-sm" style={{ color: 'rgba(255,255,255,0.55)' }}>
-          10 questions &nbsp;·&nbsp; {latestPaper?.post || 'Latest PSC paper'}
-        </p>
-        <p className="text-xs mt-0.5 mb-4" style={{ color: 'rgba(255,255,255,0.35)' }}>
-          Full Malayalam explanations
-        </p>
-
-        {!isLive && timeLeft && (
-          <div className="flex items-baseline gap-1 mb-1">
-            {[['HRS', timeLeft.h], ['MINS', timeLeft.m], ['SECS', timeLeft.s]].map(([label, val], i) => (
-              <div key={label} className="flex items-baseline gap-1">
-                {i > 0 && (
-                  <span style={{ color: 'var(--accent)', fontSize: 24, fontWeight: 700, marginBottom: 14 }}>:</span>
-                )}
-                <div>
-                  <div className="font-bold tabular-nums"
-                    style={{ color: 'var(--accent)', fontSize: 30, lineHeight: 1 }}>
-                    {String(val).padStart(2, '0')}
-                  </div>
-                  <div className="text-xs" style={{ color: 'rgba(255,255,255,0.3)', letterSpacing: '0.06em' }}>
-                    {label}
-                  </div>
-                </div>
-              </div>
-            ))}
-            <span className="text-sm ml-3" style={{ color: 'rgba(255,255,255,0.35)', marginBottom: 14 }}>
-              until quiz opens
-            </span>
-          </div>
-        )}
-      </div>
-
-      {/* bottom bar */}
-      {isLive
-        ? <Link to="/quiz?daily=true"
-            className="flex items-center justify-center w-full py-3 font-bold text-sm"
-            style={{ background: 'var(--accent)', color: '#000' }}>
-            Start Daily Quiz →
-          </Link>
-        : <div className="flex items-center justify-center gap-2 py-3"
-            style={{ background: 'rgba(255,255,255,0.03)', borderTop: '1px solid rgba(255,255,255,0.05)' }}>
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none"
-              stroke="rgba(255,255,255,0.3)" strokeWidth="2" strokeLinecap="round">
-              <rect x="3" y="11" width="18" height="11" rx="2" ry="2"/>
-              <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
-            </svg>
-            <span className="text-sm" style={{ color: 'rgba(255,255,255,0.35)' }}>
-              Locked until 9:30 PM
-            </span>
-          </div>
-      }
-    </div>
-  )
-}
 
 /* ══ Main Home page ═════════════════════════════════════════════════ */
 export default function Home() {
@@ -477,9 +359,6 @@ export default function Home() {
           </svg>
         </div>
       </Link>
-
-      {/* ── Daily Quiz card ───────────────────────────────────────── */}
-      <DailyQuizCard />
 
       {/* ── Search bar ───────────────────────────────────────────── */}
       <div className="relative">
