@@ -25,8 +25,11 @@ for dirname, size in sizes:
     out_dir = os.path.join(base, dirname)
     os.makedirs(out_dir, exist_ok=True)
     path = os.path.join(out_dir, 'ic_launcher.png')
+    if os.path.exists(path):
+        print(f'Skipping {dirname}/ic_launcher.png (already exists)')
+        continue
     with open(path, 'wb') as f:
-        f.write(make_png(size, size, 26, 157, 142))   # #1a9d8e teal
+        f.write(make_png(size, size, 26, 157, 142))   # #1a9d8e teal fallback
     print(f'Created {dirname}/ic_launcher.png  ({size}x{size})')
 
-print('All icons created.')
+print('All icons ready.')
