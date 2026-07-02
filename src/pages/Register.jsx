@@ -119,7 +119,7 @@ export default function Register() {
         <div style={{ position: 'absolute', left: -20, bottom: -20, width: 80, height: 80, borderRadius: '50%', background: 'rgba(255,255,255,0.06)', pointerEvents: 'none' }} />
         <div style={{ position: 'relative', zIndex: 1 }}>
           <div style={{ fontSize: 40, marginBottom: 8 }}>🎯</div>
-          <div style={{ fontWeight: 900, fontSize: 22, letterSpacing: '-0.5px' }}>Join HOW COME?</div>
+          <div style={{ fontSize: 22 }}>Join <span style={{ fontFamily: "'Sifonn', sans-serif" }}>HOW COME?</span></div>
           <div style={{ fontSize: 13, opacity: 0.88, marginTop: 5 }}>Your PSC English journey starts here</div>
         </div>
       </div>

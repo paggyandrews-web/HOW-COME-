@@ -35,9 +35,11 @@ export default function Login() {
         <h1 className="font-bold text-xl mb-1">Sign In</h1>
         <p className="text-sm mb-5" style={{ color: 'var(--text2)' }}>
           Welcome back to{' '}
-          <span style={{ color: 'var(--accent)', fontWeight: 700 }}>HOW </span>
-          <span style={{ color: 'var(--come-color)', fontWeight: 700 }}>COME</span>
-          <span style={{ color: 'var(--accent)', fontWeight: 700 }}>?</span>
+          <span style={{ fontFamily: "'Sifonn', sans-serif" }}>
+            <span style={{ color: 'var(--accent)' }}>HOW </span>
+            <span style={{ color: 'var(--come-color)' }}>COME</span>
+            <span style={{ color: 'var(--accent)' }}>?</span>
+          </span>
         </p>
 
         {error && (

@@ -49,7 +49,7 @@ export default function Navbar() {
         <Link to="/" className="flex items-center gap-2">
           <img src="/logo.png" alt="HOW COME?" className="h-10 w-10 rounded-full object-contain" />
           <div>
-            <div className="font-extrabold text-xl tracking-tight leading-tight">
+            <div className="leading-tight" style={{ fontFamily: "'Sifonn', sans-serif", fontSize: '1.25rem', letterSpacing: '0.03em' }}>
               <span style={{ color: '#1a9d8e' }}>HOW </span>
               <span style={{ color: '#ffffff' }}>COME</span>
               <span style={{ color: '#1a9d8e' }}>?</span>
