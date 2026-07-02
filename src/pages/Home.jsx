@@ -263,39 +263,33 @@ export default function Home() {
           border: '1px solid rgba(26,157,142,0.22)',
           minHeight: 158,
         }}>
-        {/* radial glow behind illustration */}
-        <div style={{
-          position: 'absolute', right: 0, top: '50%', transform: 'translateY(-55%)',
-          width: 180, height: 180,
-          background: 'radial-gradient(circle, rgba(0,188,170,0.13) 0%, transparent 70%)',
-          pointerEvents: 'none',
-        }} />
+        <div style={{ position: 'relative', zIndex: 1 }}>
+          <h1 className="font-bold mb-0.5" style={{ fontSize: 22, lineHeight: 1.15 }}>
+            <span style={{ color: 'var(--accent)' }}>HOW </span>
+            <span style={{ color: '#ffffff' }}>COME</span>
+            <span style={{ color: 'var(--accent)' }}>?</span>
+          </h1>
+          <p className="text-sm font-semibold mb-3" style={{ color: 'rgba(0,200,180,0.8)' }}>
+            Foundation to PSC English
+          </p>
 
-        <div className="flex items-center" style={{ gap: 0 }}>
-          {/* text side */}
-          <div style={{ flex: 1, position: 'relative', zIndex: 1 }}>
-            <h1 className="font-bold mb-0.5" style={{ fontSize: 22, lineHeight: 1.15 }}>
-              <span style={{ color: 'var(--accent)' }}>HOW </span>
-              <span style={{ color: '#ffffff' }}>COME</span>
-              <span style={{ color: 'var(--accent)' }}>?</span>
-            </h1>
-            <p className="text-sm font-semibold mb-0.5" style={{ color: 'rgba(0,200,180,0.8)' }}>
-              Foundation to PSC English
-            </p>
-            <p className="text-xs mb-4" style={{ color: 'rgba(255,255,255,0.42)' }}>
-              {questions.length} grammar questions from {papers.length} previous papers
-            </p>
-            <Link to="/quiz"
-              className="inline-flex items-center gap-1 px-5 py-2.5 rounded-xl font-bold text-sm"
-              style={{ background: 'var(--accent)', color: '#fff' }}>
-              Start Quiz →
-            </Link>
+          {/* Stats row */}
+          <div className="flex gap-3 mb-4">
+            <div className="flex-1 rounded-xl px-3 py-2.5" style={{ background: 'rgba(26,157,142,0.12)', border: '1px solid rgba(26,157,142,0.25)' }}>
+              <div className="font-black text-xl leading-none" style={{ color: 'var(--accent)' }}>{papers.length}</div>
+              <div className="text-xs mt-0.5" style={{ color: 'rgba(255,255,255,0.5)' }}>Question Papers</div>
+            </div>
+            <div className="flex-1 rounded-xl px-3 py-2.5" style={{ background: 'rgba(26,157,142,0.12)', border: '1px solid rgba(26,157,142,0.25)' }}>
+              <div className="font-black text-xl leading-none" style={{ color: 'var(--accent)' }}>{questions.length}</div>
+              <div className="text-xs mt-0.5" style={{ color: 'rgba(255,255,255,0.5)' }}>Total Questions</div>
+            </div>
           </div>
 
-          {/* illustration */}
-          <div style={{ flexShrink: 0, marginRight: -6, position: 'relative', zIndex: 1 }}>
-            <BookIllustration />
-          </div>
+          <Link to="/quiz"
+            className="inline-flex items-center gap-1 px-5 py-2.5 rounded-xl font-bold text-sm"
+            style={{ background: 'var(--accent)', color: '#fff' }}>
+            Start Quiz →
+          </Link>
         </div>
       </div>
 
