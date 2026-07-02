@@ -192,6 +192,7 @@ export default function Exams() {
     const q = query.toLowerCase()
     return exams
       .filter(e => {
+        if (saved.includes(e.id)) return false
         const past = new Date(e.date) < new Date(now.toDateString())
         if (!showPast && past) return false
         if (!q) return true
