@@ -231,7 +231,6 @@ export default function Home() {
   const { user, pinnedExams: pinnedIds, pinExam, unpinExam } = useAuth()
   const navigate = useNavigate()
   const [removeTarget, setRemoveTarget] = useState(null)
-  const [searchQuery, setSearchQuery]   = useState('')
   const [streak, setStreak]             = useState(0)
   const { getStreak } = useStreak()
 
@@ -360,42 +359,6 @@ export default function Home() {
         </div>
       </Link>
 
-      {/* ── Search bar ───────────────────────────────────────────── */}
-      <div className="relative">
-        <div style={{
-          position: 'absolute', left: 14, top: '50%', transform: 'translateY(-50%)',
-          pointerEvents: 'none',
-        }}>
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none"
-            stroke="var(--text2)" strokeWidth="2" strokeLinecap="round">
-            <circle cx="11" cy="11" r="8"/>
-            <path d="m21 21-4.35-4.35"/>
-          </svg>
-        </div>
-        <input
-          value={searchQuery}
-          onChange={e => setSearchQuery(e.target.value)}
-          onKeyDown={e => {
-            if (e.key === 'Enter' && searchQuery.trim().length >= 2)
-              navigate(`/search?q=${encodeURIComponent(searchQuery.trim())}`)
-          }}
-          placeholder="Search questions by keyword, topic, grammar rule..."
-          className="w-full rounded-xl pl-10 pr-4 py-3.5 text-sm"
-          style={{
-            background: 'var(--surface)',
-            border: '1px solid var(--border)',
-            color: 'var(--text)', outline: 'none',
-          }}
-        />
-        {searchQuery.trim().length >= 2 && (
-          <button
-            onClick={() => navigate(`/search?q=${encodeURIComponent(searchQuery.trim())}`)}
-            className="absolute right-3 top-1/2 -translate-y-1/2 px-3 py-1.5 rounded-lg text-xs font-semibold"
-            style={{ background: 'var(--accent)', color: 'var(--accent-text)', touchAction: 'manipulation' }}>
-            Search
-          </button>
-        )}
-      </div>
 
       {/* ── Saved Exams ──────────────────────────────────────────── */}
       {pinnedExams.length > 0 && (

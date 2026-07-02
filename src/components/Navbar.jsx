@@ -102,18 +102,17 @@ export default function Navbar() {
             )
           })()}
 
-          {/* Auth */}
-          {user ? (
-            <button onClick={handleLogout} className="text-sm px-3 py-1 rounded"
-              style={{ color: '#888888', border: '1px solid #222222' }}>
-              Sign out
-            </button>
-          ) : (
-            <Link to="/login" className="text-sm px-3 py-1 rounded font-medium"
-              style={{ background: '#1a9d8e', color: '#ffffff' }}>
-              Sign in
-            </Link>
-          )}
+          {/* Search icon */}
+          <Link to="/search"
+            title="Search"
+            className="flex items-center justify-center rounded-lg transition-colors"
+            style={{ background: '#111111', border: '1px solid #222222', color: '#ffffff', width: 38, height: 38 }}>
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="none"
+              stroke="currentColor" strokeWidth="2" strokeLinecap="round">
+              <circle cx="11" cy="11" r="8"/>
+              <path d="m21 21-4.35-4.35"/>
+            </svg>
+          </Link>
         </div>
       </div>
     </nav>
