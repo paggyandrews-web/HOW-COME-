@@ -1,4 +1,5 @@
-import { useState, useMemo, useEffect } from 'react'
+import { useState, useMemo, useEffect, useRef } from 'react'
+import { useLocation } from 'react-router-dom'
 import exams from '../data/exams.json'
 import FlipClock from '../components/FlipClock'
 import { useAuth } from '../contexts/AuthContext'
@@ -61,7 +62,7 @@ function RemoveDialog({ exam, onConfirm, onCancel }) {
   )
 }
 
-function ExamRow({ exam, saved, onSave, onRequestRemove, savedCount }) {
+function ExamRow({ exam, saved, onSave, onRequestRemove, savedCount, highlighted }) {
   const atMax = !saved && savedCount >= MAX_PINS
   const examDate = new Date(exam.date)
   const now = new Date()
@@ -77,11 +78,12 @@ function ExamRow({ exam, saved, onSave, onRequestRemove, savedCount }) {
   }
 
   return (
-    <div className="card rounded-xl p-4"
+    <div id={exam.id} className="card rounded-xl p-4"
       style={{
         opacity: isPast ? 0.55 : 1,
-        borderLeft: saved ? '4px solid var(--accent)' : '4px solid transparent',
-        transition: 'border-color 0.3s ease',
+        borderLeft: saved ? '4px solid var(--accent)' : highlighted ? '4px solid var(--accent)' : '4px solid transparent',
+        transition: 'border-color 0.3s ease, box-shadow 0.3s ease',
+        boxShadow: highlighted ? '0 0 0 2px var(--accent)' : undefined,
       }}>
       {/* Top row */}
       <div className="flex items-start justify-between gap-3 mb-2">
@@ -169,9 +171,14 @@ function ExamRow({ exam, saved, onSave, onRequestRemove, savedCount }) {
 
 export default function Exams() {
   const { pinnedExams: saved, pinExam, unpinExam } = useAuth()
+  const location = useLocation()
   const [query, setQuery] = useState('')
   const [showPast, setShowPast] = useState(false)
   const [removeTarget, setRemoveTarget] = useState(null)
+  const [highlightId, setHighlightId] = useState(null)
+
+  // Read hash target (e.g. /exams#exam-id)
+  const hashId = location.hash ? location.hash.slice(1) : null
 
   // Clean up stale IDs that no longer exist in exams data
   useEffect(() => {
@@ -180,6 +187,22 @@ export default function Exams() {
       if (!validIds.has(id)) unpinExam(id)
     })
   }, [])
+
+  // Scroll to and highlight the target exam when arriving via hash
+  useEffect(() => {
+    if (!hashId) return
+    setHighlightId(hashId)
+    // Give the DOM a moment to render then scroll
+    setTimeout(() => {
+      const el = document.getElementById(hashId)
+      if (el) {
+        el.scrollIntoView({ behavior: 'smooth', block: 'center' })
+      }
+    }, 150)
+    // Remove highlight after 2 seconds
+    const t = setTimeout(() => setHighlightId(null), 2500)
+    return () => clearTimeout(t)
+  }, [hashId])
 
   function handleRemove(id) {
     unpinExam(id)
@@ -192,6 +215,8 @@ export default function Exams() {
     const q = query.toLowerCase()
     return exams
       .filter(e => {
+        // Always include the hash-targeted exam so it can be scrolled to
+        if (e.id === hashId) return true
         if (saved.includes(e.id)) return false
         const past = new Date(e.date) < new Date(now.toDateString())
         if (!showPast && past) return false
@@ -204,7 +229,7 @@ export default function Exams() {
         )
       })
       .sort((a, b) => new Date(a.date) - new Date(b.date))
-  }, [query, showPast])
+  }, [query, showPast, hashId])
 
   const savedExams = exams.filter(e => saved.includes(e.id))
   const upcoming = exams
@@ -268,6 +293,7 @@ export default function Exams() {
             onSave={pinExam}
             onRequestRemove={setRemoveTarget}
             savedCount={savedExams.length}
+            highlighted={highlightId === e.id}
           />
         ))}
         {filtered.length === 0 && (

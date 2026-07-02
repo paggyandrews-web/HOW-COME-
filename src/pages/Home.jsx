@@ -157,6 +157,7 @@ function RemoveDialog({ exam, onConfirm, onCancel }) {
 
 /* ── Saved exam card ────────────────────────────────────────────────── */
 function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
+  const navigate = useNavigate()
   const isPast = new Date(exam.date) < new Date(new Date().toDateString())
   const atMax  = !saved && savedCount >= MAX_PINS
   const examDate = new Date(exam.date)
@@ -168,12 +169,18 @@ function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
     else onSave(exam.id)
   }
 
+  function handleCardClick() {
+    navigate(`/exams#${exam.id}`)
+  }
+
   return (
     <div className="card rounded-xl p-4"
+      onClick={handleCardClick}
       style={{
         opacity: isPast ? 0.55 : 1,
         borderLeft: saved ? '4px solid var(--accent)' : '4px solid transparent',
         transition: 'border-color 0.3s ease',
+        cursor: 'pointer',
       }}>
       <div className="flex items-start justify-between gap-2 mb-2">
         <div className="flex-1 min-w-0">
