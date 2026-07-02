@@ -11698,5 +11698,365 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Alligator — alligator-ന്റെ കുഞ്ഞ് hatchling ആണ്, colt അല്ല.\n• (C) Tiger — കടുവയുടെ കുഞ്ഞ് cub ആണ്.\n• (D) Lion — സിംഹത്തിന്റെ കുഞ്ഞും cub തന്നെ.\n• 🪤 PSC Trap: Tiger-ഉം Lion-ഉം രണ്ടും cub ആയതിനാൽ രണ്ടിലൊന്ന് തിരഞ്ഞെടുപ്പിക്കാൻ വച്ചതാണ് — രണ്ടും ഒരേ ഉത്തരമാകില്ലല്ലോ, അതിനാൽ രണ്ടും തെറ്റെന്ന് യുക്തി കൊണ്ടും കണ്ടെത്താം!",
       "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'COLT = കുതിരയുടെ BOLT!' — Usain Bolt-നെപ്പോലെ വേഗത്തിൽ ഓടുന്ന കുതിരക്കുട്ടി എന്ന് ഓർക്കുക. Colt-Bolt-കുതിര വേഗം!\n• Young ones ചാർട്ട് ഒറ്റത്തവണ എഴുതി പഠിക്കുക: foal/colt/filly (കുതിര), cub (സിംഹം/കടുവ), calf (പശു/ആന), puppy (നായ), kitten (പൂച്ച), lamb (ആട്ടിൻകുട്ടി), kid (കോലാട്), duckling (താറാവ്), chick (കോഴി).\n• PSC strategy: രണ്ട് options ഒരേ ഉത്തരം പങ്കിട്ടാൽ (tiger/lion → cub) രണ്ടും വെട്ടാം — ശരിയുത്തരം ഒന്നേ ഉണ്ടാകൂ എന്ന ലളിത യുക്തി! Guaranteed mark!"
     }
+  },
+  {
+    "id": "047-2024-E-Q71",
+    "paperId": "047-2024-E",
+    "questionNumber": 71,
+    "topic": "Parts of Speech",
+    "questionText": "Choose the correct option to complete the sentence.\nOne must do __________ work.",
+    "optionA": "his",
+    "optionB": "their",
+    "optionC": "one's",
+    "optionD": "her",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) one's\n\n• 'One' = indefinite pronoun — specific person ആരെയും refer ചെയ്യാതെ general truth/rule പറയുന്ന word.\n• 'One'-ന്റെ possessive pronoun = 'one's' — 'one must do one's work' = 'ഒരാൾ തന്റെ ജോലി ചെയ്യണം.'\n• Grammar rule: Indefinite pronoun 'one'-ന്റെ possessive = 'one's' (not his/her/their).\n• Formal English-ൽ 'one' ഉപയോഗിക്കുമ്പോൾ throughout the sentence 'one/one's' തന്നെ ഉപയോഗിക്കണം — pronouns mix ചെയ്യരുത്.\n• Meaning: 'ഒരാൾ (ആർക്കും ബാധകം) തന്റെ ജോലി ചെയ്യണം' — general obligation.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: ONE → ONE'S (possessive). 'One' start ആയ sentence-ൽ 'one's' ആണ് possessive.\n• Indefinite pronoun 'one' family:\n  - Subject: one (One must work.)\n  - Possessive: one's (One must do one's duty.)\n  - Object: one (It affects one greatly.)\n  - Reflexive: oneself (One must do it oneself.)\n• 'His/Her' specific person-ന് (male/female) ഉപയോഗിക്കും — 'one' indefinite ആണ്, specific gender assign ചെയ്യരുത്.\n• 'Their' = plural pronoun — 'one' singular ആണ്, 'their' singular-ന് ഉചിതം ഇല്ല (modern informal English-ൽ acceptable ആണ്, formal-ൽ ഒഴിവാക്കണം).\n• ⭐ PSC ആവർത്തനം: 'One + one's' indefinite pronoun agreement formal English-ൽ tested!\n• ഉദാഹരണ sentences:\n  1. One must keep one's promises. (ഒരാൾ തന്റെ വാക്ക് പാലിക്കണം)\n  2. One should be careful about one's health. (ആരോഗ്യം ശ്രദ്ധിക്കണം)\n  3. One must respect one's elders. (മൂത്തവരെ ബഹുമാനിക്കണം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) his\n• 'His' = male-specific possessive. 'One' = gender-neutral indefinite pronoun — specific gender assign ചെയ്യരുത്.\n• Formal grammar: 'One must do his work' = outdated/gender-biased. Modern formal English = 'one's' ✓.\n• 🪤 PSC Trap: 'His' traditional pronoun feel → generic usage feel. പക്ഷേ 'one'-ന്റെ possessive = 'one's', not 'his'.\n\n❌ (B) their\n• 'Their' = plural possessive (they → their). 'One' = singular indefinite → 'their' number agreement wrong.\n• Modern informal English-ൽ gender-neutral singular 'their' use ചെയ്യാറുണ്ടെങ്കിലും formal/PSC context-ൽ 'one's' ✓.\n• 🪤 PSC Trap: 'Their' gender-neutral feel → 'one' gender-neutral → match feel. പക്ഷേ formal grammar = 'one's' ✓.\n\n❌ (D) her\n• 'Her' = female-specific possessive. 'One' = indefinite (anyone, not specifically female).\n• 'One must do her work' = grammatically wrong — female pronoun for indefinite 'one'.\n• 🪤 PSC Trap: 'Her' possessive feel → some students choose for variety. പക്ഷേ 'one' = neither male nor female → 'one's'.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ONE owns ONE'S — one person's possessive is one's own!' — 'One' subject ആണ്, 'one's' possession ആണ്. ONE = ONE'S — same root, just add apostrophe S!\n• Indefinite pronoun pronoun chain:\n  - ONE → ONE'S (possessive) → ONESELF (reflexive)\n  - 'One must do ONE'S best by ONESELF.'\n• PSC exam strategy: 'One' subject-ആയ sentence-ൽ possessive blank ഉണ്ടെങ്കിൽ → automatically 'one's' choose ചെയ്യുക. 'His/her/their' eliminate. Formal English = 'one's'. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "047-2024-E-Q72",
+    "paperId": "047-2024-E",
+    "questionNumber": 72,
+    "topic": "Spelling",
+    "questionText": "Identify the correct spelling.",
+    "optionA": "Acquaintence",
+    "optionB": "Acquntance",
+    "optionC": "Acquaintance",
+    "optionD": "Acquentence",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Acquaintance\n\n• 'Acquaintance' = നല്ല friendship ഇല്ലാതെ അറിയുന്ന ഒരാൾ — 'പരിചയക്കാരൻ/പരിചയക്കാരി' (someone known but not a close friend).\n• Correct spelling breakdown: A-C-Q-U-A-I-N-T-A-N-C-E (12 letters)\n• Key sections: ACQ + UAIN + TANCE = acquaintance\n• Silent letters trick: 'acqu' = 'ak' sound (qu together = k sound), 'ain' in middle.\n• Etymology: Old French 'acointer' → 'acquaint' + '-ance' suffix = acquaintance.\n• PSC spelling trap word — multiple tricky sections make this a favourite!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: ACQ + UAINT + ANCE = ACQUAINTANCE — 3 parts ഓർക്കുക!\n• Breakdown:\n  - 'acqu' = 'qu' after 'ac' (like 'acquire', 'acquit', 'acquiesce')\n  - 'ain' = vowel combination (not 'ein' or 'en')\n  - 'tance' = suffix (not 'tence' or 'tance')\n• Common error patterns:\n  - 'Acquaintence' ✗ → '-ence' ending wrong; correct = '-ance'\n  - 'Acquntance' ✗ → 'ain' missing; correct = 'acquaintance'\n  - 'Acquentence' ✗ → both 'en' and 'ence' wrong; correct = 'ain' + 'ance'\n• '-ance' vs '-ence' rule: After 'i' or when root verb ends in 'y' → '-ance' (acquaintance,iance). No strict rule but must memorize these common ones.\n• ⭐ PSC ആവർത്തനം: 'Acquaintance' = PSC spelling section-ൽ classic trap word!\n• Related words: acquaint (verb), acquainted (adj), reacquaint (verb)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Acquaintence\n• '-ence' ending wrong — correct = '-ance'. 'Acquaint' + '-ance' = acquaintance ✓.\n• 🪤 PSC Trap: '-ence' words common (difference, reference) → '-ence' here feel. പക്ഷേ 'acquaintance' = '-ance' ending.\n\n❌ (B) Acquntance\n• 'ain' completely missing — 'acquntance' has no vowels between 'qu' and 't'. Correct: 'acquaintance' (a-i-n between qu and t).\n• 🪤 PSC Trap: Fast reading-ൽ 'acquntance' ≈ 'acquaintance' similar shape. പക്ഷേ 'ain' letters critical.\n\n❌ (D) Acquentence\n• Two errors: 'en' instead of 'ain' + '-ence' instead of '-ance'. Double wrong.\n• 🪤 PSC Trap: 'Acquentence' sounds phonetically close when spoken quickly. പക്ഷേ both middle and ending are wrong.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'An ACQUAINTANCE is someone you AINT close friends with — ACQ-UAINT-ANCE!' — 'UAINT' inside 'acquaintance' = 'ain't' (are not) = not a close friend. ACQ + (u-AIN'T) + ANCE = ACQUAINTANCE!\n• Spelling visual: acqu-AIN-tance → the 'AIN' is the key middle section.\n• PSC exam strategy: 4 options-ൽ → 'ain' ഉള്ളതും '-ance' ending ഉള്ളതും = correct. 'acquaintance' = ACQ (✓) + AIN (✓) + TANCE (✓). ഈ 3 sections confirm ചെയ്‌താൽ answer. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "047-2024-E-Q73",
+    "paperId": "047-2024-E",
+    "questionNumber": 73,
+    "topic": "Correction of Sentences",
+    "questionText": "Choose the proper sequence and mark the answer.\nThe majestic Mahogany table\np) belongs to an old king,\nq) which had one leg missing\nr) who is now impoverished\ns) but not without some pride",
+    "optionA": "pqsr",
+    "optionB": "qrsp",
+    "optionC": "prsq",
+    "optionD": "qprs",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) qprs\n\n• Main sentence: 'The majestic Mahogany table' — subject ആണ്, predicate ആവശ്യം.\n• Logical sequence: table → q) which had one leg missing (table describe ചെയ്യുന്ന relative clause) → p) belongs to an old king (main predicate) → r) who is now impoverished (king describe ചെയ്യുന്ന relative clause) → s) but not without some pride (contrast/concession).\n• Complete sentence: 'The majestic Mahogany table which had one leg missing belongs to an old king who is now impoverished but not without some pride.'\n• 'Which had one leg missing' = table-നെ describe ചെയ്യുന്നു → table-ന് immediately ശേഷം വരണം (q first).\n• 'Who is now impoverished' = king-നെ describe ചെയ്യുന്നു → king (p)-ന് immediately ശേഷം വരണം (r after p).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: Relative clause (which/who) = immediately follows the noun it describes!\n• Sentence ordering rules:\n  1. 'Which' clause = inanimate noun (table) describe ചെയ്യുന്നു → table-ന് ശേഷം directly place ചെയ്യുക\n  2. 'Who' clause = person (king) describe ചെയ്യുന്നു → king-ന് ശേഷം directly place ചെയ്യുക\n  3. Main predicate (belongs) = subject complete ആയ ശേഷം\n  4. Contrast 'but' = sentence end-ൽ\n• Ordering logic:\n  - Table [which = table describe] → belongs to [main verb] → king [who = king describe] → but [contrast]\n  - q → p → r → s = qprs ✓\n• ⭐ PSC ആവർത്തനം: Sentence rearrangement — relative clause placement PSC-ൽ tested!\n• ഉദാഹരണ: 'The book [which was torn] belongs to [the boy] [who sits in front] [but is rarely used].'\n  = q-p-r-s pattern",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) pqsr → 'belongs to an old king, which had one leg missing, but not without some pride, who is now impoverished'\n• 'Which had one leg missing' king-ന് ശേഷം → 'which' = table describe ചെയ്യണം, king-ന് ശേഷം wrong. 'Who is now impoverished' end-ൽ → king describe ചെയ്യുന്ന clause king-ൽ നിന്ന് separated = wrong.\n• 🪤 PSC Trap: 'P first' (main verb first feel) → natural start feel. പക്ഷേ 'which had one leg missing' must directly follow 'table'.\n\n❌ (B) qrsp → 'which had one leg missing, who is now impoverished, but not without some pride, belongs to an old king'\n• 'Who is now impoverished' table-ന് ശേഷം → 'who' = person describe ചെയ്യണം, table = inanimate → wrong. Main verb (belongs) last → awkward.\n• 🪤 PSC Trap: 'Q first' (which after table) correct feel, rest wrong order.\n\n❌ (C) prsq → 'belongs to an old king, who is now impoverished, but not without some pride, which had one leg missing'\n• 'Which had one leg missing' = last position → table (subject) ൽ നിന്ന് far separated = dangling relative clause. 'Which' must directly follow 'table'.\n• 🪤 PSC Trap: 'P-r-s' beginning logical flow, പക്ഷേ 'q' (which) at end = table describe ചെയ്യുന്ന clause table-ൽ നിന്ന് too far.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'WHICH and WHO are CLINGY — they stick right after the noun they describe!' — 'Which' = table-ന്റെ best friend, table-ൽ നിന്ന് separate ആകില്ല. 'Who' = king-ന്റെ best friend, king-ൽ നിന്ന് separate ആകില്ല. Relative clause = clingy companion!\n• Sentence order shortcut: Find WHO/WHICH → place immediately after their noun → arrange rest logically.\n  - Table + WHICH (q) + main verb (p) + king + WHO (r) + but (s) = qprs ✓\n• PSC exam strategy: Rearrangement question-ൽ → 'which/who' clause-ന്റെ noun find ചെയ്ത് immediately ശേഷം place ചെയ്യുക. 'Q' (which) first position = table directly ശേഷം = qprs. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "047-2024-E-Q74",
+    "paperId": "047-2024-E",
+    "questionNumber": 74,
+    "topic": "Words Often Confused",
+    "questionText": "Choose the most appropriate word for the following.\nRising air temperatures __________ the physical nature of our oceans.",
+    "optionA": "transform",
+    "optionB": "induce",
+    "optionC": "affect",
+    "optionD": "modify",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) affect\n\n• 'Affect' = ഒരു കാര്യം മറ്റൊന്നിൽ impact/influence ഉണ്ടാക്കുക — 'ബാധിക്കുക, സ്വാധീനിക്കുക'.\n• 'Rising air temperatures affect the physical nature of our oceans' = 'ഉയരുന്ന വായു താപനില സമുദ്രങ്ങളുടെ ഭൗതിക സ്വഭാവത്തെ ബാധിക്കുന്നു.'\n• Climate/environment context-ൽ 'affect' = standard scientific term — temperatures affect oceans (warming, acidification, sea level rise).\n• 'Affect' (verb) vs 'effect' (noun): affect = ബാധിക്കുക (verb), effect = ഫലം (noun) — PSC common confusion pair!\n• Meaning clear: air temperature-ന്റെ rise → ocean physical nature-ൽ impact = 'affect' ✓.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: AFFECT (verb) = to have an impact on (ബാധിക്കുക). EFFECT (noun) = the result (ഫലം).\n• Word choice analysis:\n  - affect = impact ഉണ്ടാക്കുക (general, broad) ✓\n  - transform = completely change ചെയ്യുക (too strong — temperatures don't completely transform oceans)\n  - induce = cause/bring about ചെയ്യുക (usually specific reactions, not general nature)\n  - modify = partially change ചെയ്യുക (possible but less precise for scientific context)\n• Affect vs Effect (PSC must-know):\n  - Temperature AFFECTS oceans. (verb)\n  - The EFFECT of temperature on oceans is significant. (noun)\n• ⭐ PSC ആവർത്തനം: 'Affect vs Effect' words often confused — PSC-ൽ frequent!\n• ഉദാഹരണ sentences:\n  1. Pollution affects air quality. (ബാധിക്കുന്നു)\n  2. Stress affects health negatively. (health-ഇൽ impact)\n  3. Climate change affects biodiversity. (biodiversity ബാധിക്കപ്പെടുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) transform\n• 'Transform' = completely/fundamentally change ചെയ്യുക. Temperatures rising = affect/influence ചെയ്യുന്നു, complete transformation ഉണ്ടാകുന്നില്ല.\n• Degree difference: affect (influence) < modify (partial change) < transform (complete change). Context = general impact → 'affect' most appropriate.\n• 🪤 PSC Trap: Climate change = dramatic → 'transform' dramatic word → match feel. പക്ഷേ 'affect' = correct degree of impact.\n\n❌ (B) induce\n• 'Induce' = specific reaction/response cause ചെയ്യുക ('induce labour', 'induce sleep'). Ocean physical nature-ൽ general impact-ന് 'induce' ഉചിതം ഇല്ല.\n• 🪤 PSC Trap: 'Induce' = cause feel → temperature causes change → induce feel. പക്ഷേ 'induce' = specific induced reaction, 'affect' = general impact.\n\n❌ (D) modify\n• 'Modify' = partially change ചെയ്യുക — possible but less precise than 'affect' in scientific environmental context.\n• 'Affect' = broader impact word, 'modify' = specific alterations. Ocean nature = broadly impacted → 'affect' ✓.\n• 🪤 PSC Trap: 'Modify' = change feel → temperatures change oceans → modify feel. പക്ഷേ 'affect' = standard scientific usage for environmental impact.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'AFFECT = Action (verb), EFFECT = End result (noun) — A comes before E in alphabet, Action comes before End result!' — AFFECT (verb/action) → produces → EFFECT (noun/result). Climate AFFECTS oceans → the EFFECT is warming.\n• Word choice: impact/influence/affect = same level. Context: environment/science → 'affect' is the go-to word.\n• PSC exam strategy: 'Affect vs transform vs modify vs induce' — check degree: affect (general impact ✓) < modify (partial) < transform (complete). Environment/nature question → 'affect'. Also remember: affect = verb, effect = noun. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "047-2024-E-Q75",
+    "paperId": "047-2024-E",
+    "questionNumber": 75,
+    "topic": "Synonyms",
+    "questionText": "Identify the synonym for 'venerate'.",
+    "optionA": "respect",
+    "optionB": "defame",
+    "optionC": "abuse",
+    "optionD": "accuse",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) respect\n\n• 'Venerate' = ആഴമായ ആദരവോടെ കാണുക — 'ആരാധിക്കുക, ഭക്ത്യാദരങ്ങളോടെ ബഹുമാനിക്കുക' (to regard with great respect, especially due to age, wisdom, or sacred character).\n• 'Respect' = ബഹുമാനിക്കുക — 'venerate'-ന്റെ closest synonym ✓\n• 'Venerate' = 'respect'-ൽ കൂടുതൽ intense — religious/traditional context-ൽ ഉപയോഗിക്കുന്നു. പക്ഷേ options-ൽ 'respect' = closest synonym.\n• Etymology: Latin 'venerari' = to worship/revere → English 'venerate'.\n• Usage: 'We venerate our elders' = 'നാം നമ്മുടെ മൂത്തവരെ ആദരിക്കുന്നു.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: VENERATE = intense RESPECT/REVERENCE (ആഴമായ ബഹുമാനം)\n• 'Venerate' word family:\n  - venerate (verb) = ആദരിക്കുക\n  - veneration (noun) = ആദരം, ഭക്ത്യാദരം\n  - venerable (adj) = ആദരണീയൻ (e.g., The Venerable = ബഹുമാനിക്കപ്പെടുന്ന)\n• Synonyms of 'venerate' (intensity order):\n  - respect < honour < revere < venerate < worship\n  - respect = general ബഹുമാനം\n  - revere = deep ബഹുമാനം\n  - venerate = religious/traditional ആദരം\n  - worship = ദൈവ തുല്യ ആദരം\n• ⭐ PSC ആവർത്തനം: Synonym vocabulary — 'venerate' PSC degree level question-ൽ!\n• ഉദാഹരണ sentences:\n  1. People venerate saints and holy men. (വിശുദ്ധരെ ആദരിക്കുന്നു)\n  2. She venerated her grandmother for her wisdom. (ജ്ഞാനത്തിന് ബഹുമാനിച്ചു)\n  3. The tradition of venerating elders is important. (മൂത്തവരോടുള്ള ആദരം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) defame\n• 'Defame' = ഒരാളുടെ reputation നശിപ്പിക്കുക — 'അപകീർത്തിപ്പെടുത്തുക'. 'Venerate' (respect)-ന്റെ antonym ആണ്, synonym ഇല്ല.\n• 🪤 PSC Trap: Opposite meaning word option-ൽ ഉണ്ട് → students consider ചെയ്‌തേക്കാം. 'Defame' = destroy reputation ≠ venerate = build respect.\n\n❌ (C) abuse\n• 'Abuse' = ദുരുപയോഗം ചെയ്യുക/ദ്രോഹിക്കുക — 'venerate'-ന്റെ complete opposite meaning.\n• 🪤 PSC Trap: 'Abuse' familiar word → meaning known → eliminate easy. ഇതുപോലുള്ള clear opposite options = quick eliminate.\n\n❌ (D) accuse\n• 'Accuse' = ആരോപിക്കുക, കുറ്റം ചുമത്തുക — 'venerate'-മായി ബന്ധം ഇല്ല.\n• 🪤 PSC Trap: 'Accuse' starts with 'ac' like 'acclaim' (praise) → positive connotation feel ആകും. പക്ഷേ 'accuse' = charge with fault ≠ venerate = respect.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'VENERATE = VENER-ATE — ate (consumed) with VENER-ation, full of respect!' — 'Vener-' root = respect/reverence. 'Venus' (goddess of love) ഉം ഇതേ root-ൽ നിന്ന്. Divine love = divine respect = venerate!\n• Respect family (intensity increasing):\n  RESPECT → HONOUR → REVERE → VENERATE → WORSHIP\n• PSC exam strategy: 'Venerate' synonym question-ൽ → positive meaning options only consider ചെയ്യുക (defame/abuse/accuse = negative → eliminate). 'Respect' = positive + closest meaning = answer. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "047-2024-E-Q76",
+    "paperId": "047-2024-E",
+    "questionNumber": 76,
+    "topic": "Antonyms",
+    "questionText": "Identify the Antonym for 'Emaciation'.",
+    "optionA": "Invigoration",
+    "optionB": "Glorification",
+    "optionC": "Inundation",
+    "optionD": "Depression",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Invigoration\n\n• 'Emaciation' = ശരീരം വളരെ ക്ഷീണിച്ച്, മെലിഞ്ഞ്, ദുർബ്ബലമായ അവസ്ഥ — 'ക്ഷീണദശ, കൃശത' (extreme thinness and weakness from illness or lack of food).\n• 'Invigoration' = ശക്തിയും ഊർജ്ജവും നൽകൽ — 'ഉണർവ്, ജീവൻ നൽകൽ' (the process of giving energy, strength, and vitality).\n• Antonym logic: Emaciation = ശക്തി/ഊർജ്ജം നഷ്ടപ്പെടൽ → Invigoration = ശക്തി/ഊർജ്ജം ലഭിക്കൽ — perfect opposites ✓\n• Etymology: 'Emaciation' = Latin 'emaciare' (to make thin). 'Invigoration' = Latin 'in' + 'vigor' (strength) = to fill with strength.\n• Meaning: 'ക്ഷീണദശ'-ന്റെ antonym = 'ഉണർവ്/ശക്തി' ✓",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: EMACIATION (weakness/thinness) ↔ INVIGORATION (strength/energy) — exact opposites!\n• 'Emaciation' word family:\n  - emaciate (verb) = ക്ഷീണിപ്പിക്കുക\n  - emaciated (adj) = ക്ഷീണിച്ച, മെലിഞ്ഞ\n  - emaciation (noun) = ക്ഷീണദശ\n• 'Invigoration' word family:\n  - invigorate (verb) = ഉണർവ് നൽകുക\n  - invigorating (adj) = ഉണർവ് നൽകുന്ന\n  - invigoration (noun) = ഉണർവ്, ജീവൻ\n• Why other options wrong:\n  - Glorification = praise/honour (ക്ഷീണ-ത്തിന്റെ antonym ഇല്ല)\n  - Inundation = flood (ഇതുമായി ബന്ധം ഇല്ല)\n  - Depression = sadness/low mood (emaciation = physical, depression = mental)\n• ⭐ PSC ആവർത്തനം: Antonym vocabulary — degree level PSC-ൽ advanced words!\n• ഉദാഹരണ sentences:\n  1. The patient's emaciation worried the doctors. (ക്ഷീണദശ doctors-ഇനെ ആശങ്കപ്പെടുത്തി)\n  2. The morning walk brought invigoration to his tired body. (morning walk ശരീരത്തിന് ഉണർവ് നൽകി)\n  3. Recovery from emaciation requires proper nutrition. (ക്ഷീണദശ-യിൽ നിന്ന് recover ആകാൻ nutrition ആവശ്യം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) Glorification\n• 'Glorification' = praise/worship ചെയ്യൽ — 'മഹത്വീകരണം'. Emaciation = physical weakness; glorification = honour/praise — opposite concepts ഇല്ല.\n• 🪤 PSC Trap: '-tion' suffix (glorification, emaciation) → similar word type feel. പക്ഷേ meaning completely unrelated.\n\n❌ (C) Inundation\n• 'Inundation' = വെള്ളപ്പൊക്കം (flood/overwhelming quantity). Emaciation-മായി ഒരു ബന്ധവും ഇല്ല.\n• 🪤 PSC Trap: Long '-ation' word → scientific/formal feel → antonym feel. പക്ഷേ 'inundation' = flood, emaciation = thinness — unrelated fields.\n\n❌ (D) Depression\n• 'Depression' = മാനസിക വിഷാദം (mental state) / economic depression. 'Emaciation' = physical weakness.\n• Depression = also a low/down state → might seem related to emaciation (both = negative states). പക്ഷേ antonym = opposite/positive state → 'invigoration' (strength) ✓, not another negative word.\n• 🪤 PSC Trap: Emaciation = physical low → depression = mental low → similar negative family feel. പക്ഷേ antonym = positive opposite → invigoration ✓.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'EMACIATION = E-MACI-ATED = E(xtremely) MACI(thin) — like a skeleton! INVIGORATION = IN-VIGOR = filled with VIGOR (energy)! Skeleton ↔ Energetic person = perfect opposites!' — Emaciated = thin, weak skeleton. Invigorated = full of energy and strength. Complete physical opposites!\n• Antonym identification strategy: Emaciation = negative physical state → antonym = positive physical state. Only 'Invigoration' = positive physical energy. Others (glorification/inundation/depression) ≠ physical energy.\n• PSC exam strategy: Advanced antonym question-ൽ → both words meaning identify ചെയ്യുക. Emaciation = physical weakness. Positive physical strength ഉള്ള option = answer. 'Invigoration' (vigor = strength) = ✓. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "047-2024-E-Q77",
+    "paperId": "047-2024-E",
+    "questionNumber": 77,
+    "topic": "Synonyms",
+    "questionText": "Identify the pair of related words 'Blurred : Confused'.",
+    "optionA": "Scam : Clarity",
+    "optionB": "Abatement : Significant",
+    "optionC": "Dangerous : Adequate",
+    "optionD": "Muddled : Unclear",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) Muddled : Unclear\n\n• 'Blurred : Confused' = രണ്ടും synonym pair — ഒരേ meaning ഉള്ള words: blurred (അസ്പഷ്ടം) = confused (confused/unclear).\n• 'Muddled : Unclear' = രണ്ടും synonym pair — muddled (കുഴഞ്ഞ, confused) = unclear (അസ്പഷ്ടം) ✓\n• Relationship: blurred ≈ confused (both = not clear/distinct). Similarly, muddled ≈ unclear (both = not clear).\n• 'Muddled' = confused/mixed up — 'കുഴഞ്ഞ, കലങ്ങിയ'. 'Unclear' = not clear — 'അസ്പഷ്ടം'. Both = lack of clarity ✓\n• Analogy pattern: Both words in a pair must have the SAME relationship as 'Blurred : Confused' (synonyms).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: Relationship identify ചെയ്യുക → same relationship ഉള്ള pair find ചെയ്യുക!\n• 'Blurred : Confused' relationship = SYNONYMS (same/similar meaning)\n• Test each option for synonym relationship:\n  - Scam : Clarity → fraud : clearness = antonyms? unrelated ✗\n  - Abatement : Significant → decrease : important = unrelated ✗\n  - Dangerous : Adequate → risky : enough = unrelated ✗\n  - Muddled : Unclear → confused : not clear = SYNONYMS ✓\n• Word meanings:\n  - Blurred = unclear image/vision (അസ്പഷ്ടം)\n  - Confused = mentally unclear (കുഴഞ്ഞ)\n  - Muddled = confused/mixed up (കലങ്ങിയ)\n  - Unclear = not clear (അസ്പഷ്ടം)\n• ⭐ PSC ആവർത്തനം: Analogy/word relationship questions degree level PSC-ൽ tested!\n• Word family: blur/blurred → muddle/muddled → unclear → confused → all = lack of clarity family",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Scam : Clarity\n• 'Scam' = fraud/deception, 'Clarity' = clearness. ഇവ antonyms ആണോ, synonyms ആണോ? Neither — scam = dishonest act, clarity = clearness of thought. Unrelated words.\n• 🪤 PSC Trap: 'Scam' = unclear/dishonest → 'clarity' = clear → might seem opposite pair. പക്ഷേ 'blurred:confused' = synonyms (not antonyms) → scam:clarity ≠ synonyms.\n\n❌ (B) Abatement : Significant\n• 'Abatement' = reduction/decrease, 'Significant' = important/large. Unrelated meanings — not synonyms.\n• 🪤 PSC Trap: Both formal words → academic feel → related feel. പക്ഷേ meaning check: abatement ≠ significant.\n\n❌ (C) Dangerous : Adequate\n• 'Dangerous' = risky, 'Adequate' = sufficient/enough. Completely unrelated — not synonyms, not antonyms.\n• 🪤 PSC Trap: Both adjectives → same Part of Speech → related feel. പക്ഷേ synonym relationship ഇല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BLURRED photo = CONFUSED viewer — both = UNCLEAR! MUDDLED thinking = UNCLEAR message — same family!' — When a photo is blurred, viewers are confused. When thinking is muddled, the message is unclear. All = same family of 'not clear'!\n• Analogy solving steps:\n  1. Identify relationship of given pair (synonym/antonym/part-whole etc.)\n  2. 'Blurred:Confused' = synonyms\n  3. Find option with same synonym relationship\n  4. 'Muddled:Unclear' = both mean confused/not clear = synonyms ✓\n• PSC exam strategy: Analogy questions-ൽ → given pair-ന്റെ relationship first identify ചെയ്യുക. Synonyms ആണ് → synonym pair ഉള്ള option choose ചെയ്യുക. 'Muddled = unclear' synonym pair = D ✓. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "047-2024-E-Q78",
+    "paperId": "047-2024-E",
+    "questionNumber": 78,
+    "topic": "One Word Substitutes",
+    "questionText": "A large dark grey cloud that brings rain or snow is called",
+    "optionA": "blizzard",
+    "optionB": "nimbus",
+    "optionC": "fog",
+    "optionD": "hail",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) nimbus\n\n• 'Nimbus' = വലുതും ഇരുണ്ടതുമായ മഴ/മഞ്ഞ് കൊണ്ടുവരുന്ന cloud — 'ഇരുണ്ട മഴമേഘം'.\n• Meteorology term: 'Nimbus' = rain-bearing cloud. 'Cumulonimbus' = thunder storm cloud, 'Nimbostratus' = large rain cloud layer.\n• 'Nimbus' etymology: Latin = cloud/halo — rain cloud ആണ് primary meaning.\n• Description match: 'large dark grey cloud that brings rain or snow' = nimbus ✓\n• PSC context: Cloud types = one word substitute question-ൽ classic!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: NIMBUS = NIMB (rain) + US = rain cloud (ഇരുണ്ട മഴമേഘം)\n• Cloud types (PSC must-know):\n  - Nimbus/Nimbostratus = dark rain cloud (മഴമേഘം)\n  - Cumulus = puffy white cloud (ഇടതൂർന്ന വെള്ള cloud)\n  - Stratus = flat layer cloud (പരന്ന cloud layer)\n  - Cirrus = thin wispy high cloud (ഉയർന്ന നേർത്ത cloud)\n  - Cumulonimbus = thunderstorm cloud (ഇടിമിന്നൽ cloud)\n• Weather phenomenon words (PSC vocabulary):\n  - blizzard = snow + strong wind storm (മഞ്ഞുകൊടുങ്കാറ്റ്)\n  - hail = ice pellets falling (ആലിപ്പഴം)\n  - fog = low lying cloud near ground (മൂടൽ മഞ്ഞ്)\n  - nimbus = rain cloud (മഴമേഘം)\n• ⭐ PSC ആവർത്തനം: Weather/nature one-word substitutes PSC-ൽ regular!\n• ഉദാഹരണ sentences:\n  1. Dark nimbus clouds gathered before the storm. (storm-ന് മുമ്പ് ഇരുണ്ട മഴമേഘം)\n  2. The nimbus brought heavy rainfall to the region. (ഭാരമേറിയ മഴ)\n  3. Cumulonimbus clouds are associated with thunder. (ഇടിമിന്നലുമായി ബന്ധപ്പെട്ടത്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) blizzard\n• 'Blizzard' = strong wind-ഉം snow-ഉം ഉള്ള severe storm — 'മഞ്ഞുകൊടുങ്കാറ്റ്'. Cloud type ഇല്ല — weather event ആണ്.\n• 🪤 PSC Trap: 'Blizzard' = snow bring ചെയ്യുന്നു → 'brings rain or snow' → match feel. പക്ഷേ blizzard = storm (cloud ഇല്ല), nimbus = cloud.\n\n❌ (C) fog\n• 'Fog' = ground level-ൽ ഉള്ള low cloud/mist — 'മൂടൽ മഞ്ഞ്'. Rain/snow bring ചെയ്യുന്ന cloud ഇല്ല.\n• 🪤 PSC Trap: 'Fog' = cloud-like feel → dark grey feel → cloud feel. പക്ഷേ fog = ground level visibility reduction, not rain-bearing cloud.\n\n❌ (D) hail\n• 'Hail' = ice pellets that fall as precipitation — 'ആലിപ്പഴം'. Cloud type ഇല്ല — precipitation type ആണ്.\n• 🪤 PSC Trap: 'Brings rain or snow' → hail also falls from sky → similar feel. പക്ഷേ hail = falling ice (not the cloud itself), nimbus = the cloud.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NIMBUS = NIMBLE (fast) BUS bringing RAIN — the dark cloud bus delivers rain!' — Dark cloud = a bus. Nimbus = the bus that quickly brings rain/snow. NIMBUS = rain delivery vehicle in the sky!\n• Cloud name shortcut: '-nimbus' suffix = rain cloud (nimbostratus, cumulonimbus). When you see 'nimb-' in a cloud name = rain is coming!\n• PSC exam strategy: 'Dark grey cloud + rain/snow' → nimbus. Weather phenomenon one-word substitutes: blizzard = snow storm, hail = ice pellets, fog = ground mist, nimbus = rain cloud. Context = 'cloud that brings' → nimbus ✓. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "047-2024-E-Q79",
+    "paperId": "047-2024-E",
+    "questionNumber": 79,
+    "topic": "Idioms",
+    "questionText": "The idiom, 'to have an axe to grind' means",
+    "optionA": "pinpoint the faults of others",
+    "optionB": "to take revenge",
+    "optionC": "to make unreasonable demands",
+    "optionD": "to have a selfish interest to serve",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) to have a selfish interest to serve\n\n• 'Have an axe to grind' = സ്വാർത്ഥലക്ഷ്യം ഉണ്ടായിരിക്കുക — 'ഒളിഞ്ഞ ഉദ്ദേശ്യം ഉണ്ടായിരിക്കുക, സ്വന്തം നേട്ടം ഉദ്ദേശിക്കുക' (to have a private reason for doing something, usually a selfish one).\n• Origin: Benjamin Franklin story — ഒരാൾ axe grind ചെയ്യിപ്പിക്കാൻ young Franklin-ഇനെ fool ചെയ്‌തു — selfish motive ഉണ്ടായിരുന്നു.\n• 'He always has an axe to grind' = 'അദ്ദേഹത്തിന് always സ്വന്തം ഒളിഞ്ഞ ലക്ഷ്യം ഉണ്ടായിരിക്കും.'\n• Keyword: 'selfish interest' = idiom-ന്റെ core meaning ✓\n• Usage: 'When politicians support a cause, they often have an axe to grind.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: AXE TO GRIND = hidden SELFISH MOTIVE (ഒളിഞ്ഞ സ്വാർത്ഥ ലക്ഷ്യം)\n• Common idioms with tools/weapons (PSC must-know):\n  - axe to grind = selfish motive ഉണ്ടായിരിക്കുക\n  - hit the nail on the head = exactly correct ആകുക\n  - burn the midnight oil = late night-ൽ കഠിനമായി ജോലി ചെയ്യുക\n  - spill the beans = secret reveal ചെയ്യുക\n  - bite the bullet = painful situation brave ആയി face ചെയ്യുക\n  - bury the hatchet = quarrel അവസാനിപ്പിക്കുക (hatchet = small axe)\n• Note: 'axe to grind' ≠ 'revenge'. Revenge = direct retaliation. Axe to grind = hidden personal gain motive.\n• ⭐ PSC ആവർത്തനം: Idiom meaning questions PSC-ൽ regular — 'axe to grind' common!\n• ഉദാഹരണ sentences:\n  1. Don't trust his advice; he has an axe to grind. (സ്വന്തം ലക്ഷ്യം ഉണ്ട്)\n  2. She supported the project because she had an axe to grind. (hidden motive)\n  3. Politicians often have an axe to grind. (selfish interest)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) pinpoint the faults of others\n• 'Pinpoint faults' = criticize/find errors — 'axe to grind' ഇതല്ല. Axe to grind = selfish motive, not fault-finding.\n• 🪤 PSC Trap: 'Axe' = weapon/aggressive feel → finding faults aggressively feel. പക്ഷേ idiom = selfish personal interest, not criticism.\n\n❌ (B) to take revenge\n• 'Revenge' = ഒരാളെ hurt ചെയ്‌തതിന് തിരിച്ച് hurt ചെയ്യുക. 'Axe to grind' = selfish motive ഉണ്ടായിരിക്കുക (self-serving agenda).\n• Distinction: Revenge = past harm-ന് retaliation. Axe to grind = personal gain-ന്റെ hidden agenda — different concepts!\n• 🪤 PSC Trap: 'Axe' = weapon → attack/revenge feel. Most common wrong choice! പക്ഷേ idiom = personal interest, not revenge.\n\n❌ (C) to make unreasonable demands\n• 'Unreasonable demands' = 'axe to grind'-ന്റെ meaning ഇല്ല. Axe to grind = hidden self-interest, not demanding.\n• 🪤 PSC Trap: Selfish people make demands → axe to grind → demands feel. പക്ഷേ idiom specifically = hidden motive, not demands.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'AXE to GRIND = A person wants YOU to grind their axe FOR FREE — they have a SELFISH reason to be nice to you!' — Franklin story: stranger acts friendly → wants free axe grinding → had selfish motive. Being nice with hidden agenda = axe to grind!\n• Common mistake: 'Axe' → revenge/weapon → students choose 'revenge'. Remember: this idiom = SELFISH INTEREST, not revenge. Revenge = 'settle a score' or 'pay back'.\n• PSC exam strategy: 'Axe to grind' → eliminate 'revenge' (most common trap), 'fault-finding', 'demands'. Only 'selfish interest/hidden motive' = correct. D = selfish interest to serve ✓. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "047-2024-E-Q80",
+    "paperId": "047-2024-E",
+    "questionNumber": 80,
+    "topic": "Tenses",
+    "questionText": "Choose the correct tense form.\nI (go) to the market with my friends now.",
+    "optionA": "will go",
+    "optionB": "am going",
+    "optionC": "going",
+    "optionD": "have gone",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) am going\n\n• 'Now' = Present Continuous tense-ന്റെ signal word — ഇപ്പോൾ നടക്കുന്ന action indicate ചെയ്യുന്നു.\n• 'I am going to the market now' = 'ഞാൻ ഇപ്പോൾ market-ലേക്ക് പോകുകയാണ്.' ✓\n• Present Continuous formula: am/is/are + V-ing → 'I am going' ✓\n• Subject 'I' → auxiliary = 'am' (not 'is'/'are') → 'am going' ✓\n• 'Now' always indicates an action happening at this moment = Present Continuous.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: NOW = PRESENT CONTINUOUS (am/is/are + V-ing)\n• Present Continuous signal words:\n  - now, at the moment, currently, right now, at present, look! listen!\n• Present Continuous formula by subject:\n  - I → AM + V-ing (I am going)\n  - He/She/It → IS + V-ing (He is going)\n  - We/You/They → ARE + V-ing (They are going)\n• 'Now' vs other time signals:\n  - now → Present Continuous (am going)\n  - usually/always → Simple Present (go/goes)\n  - yesterday → Simple Past (went)\n  - already/just → Present Perfect (have gone)\n• ⭐ PSC ആവർത്തനം: 'Now' signal + Present Continuous PSC-ൽ very common!\n• ഉദാഹരണ sentences:\n  1. I am reading a book now. (ഇപ്പോൾ book read ചെയ്യുകയാണ്)\n  2. She is cooking dinner at the moment. (ഇപ്പോൾ dinner cook ചെയ്യുകയാണ്)\n  3. They are playing cricket now. (ഇപ്പോൾ cricket കളിക്കുകയാണ്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) will go\n• 'Will go' = Simple Future — future action indicate ചെയ്യുന്നു. 'Now' = present moment → future tense wrong.\n• 🪤 PSC Trap: 'Going to market' future plan feel → 'will go' future feel. പക്ഷേ 'now' = present moment → Present Continuous ✓.\n\n❌ (C) going\n• 'Going' = present participle alone — main verb ആകണമെങ്കിൽ auxiliary 'am/is/are' ആവശ്യം.\n• 'I going' = incomplete/wrong. 'I am going' = correct Present Continuous.\n• 🪤 PSC Trap: '-ing' form present feel → 'going' present feel. പക്ഷേ auxiliary 'am' ഇല്ലാതെ 'going' alone = grammatically incomplete.\n\n❌ (D) have gone\n• 'Have gone' = Present Perfect — recently completed action. 'Now' = still happening (not completed).\n• 'I have gone' = I went and I am there/back (completed). 'I am going' = in the process of going now.\n• 🪤 PSC Trap: 'Have gone' present perfect → present feel → 'now' match feel. പക്ഷേ 'now' = ongoing action → Present Continuous (am going) ✓.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NOW = IN PROGRESS = am/is/are + ING — catch the action in the middle!' — 'Now' = action caught in the middle of happening. Like a photograph mid-action. AM + GOING = action photograph taken NOW!\n• Signal word → tense quick table:\n  - NOW / AT THIS MOMENT → am/is/are + ing\n  - USUALLY / ALWAYS → V1/V1+s\n  - YESTERDAY / LAST → V2 (past)\n  - JUST / ALREADY / SINCE → have/has + V3\n• PSC exam strategy: 'Now' കണ്ടാൽ → Present Continuous. Subject 'I' → 'am going'. 'Will go' (future), 'going' (no auxiliary), 'have gone' (completed) → all eliminate. 'Am going' = ✓. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "047-2024-E-Q81",
+    "paperId": "047-2024-E",
+    "questionNumber": 81,
+    "topic": "Degrees of Comparison",
+    "questionText": "Choose the correct option to complete the sentence.\nThis brand of furniture is __________ any other brand of furniture in the market.",
+    "optionA": "costly than",
+    "optionB": "the costliest",
+    "optionC": "costlier than",
+    "optionD": "most costly than",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) costlier than\n\n• 'This brand' vs 'any other brand' = ഒരു item-ഉം others-ഉം compare ചെയ്യുന്നു → Comparative degree ആവശ്യം.\n• 'Costlier than' = Comparative degree (costly → costlier) + 'than' ✓\n• Pattern: 'A is costlier than B' = A-യുടെ price B-യേക്കാൾ കൂടുതലാണ്.\n• 'Costly' = 2 syllables → '-er' suffix add ചെയ്‌ത് comparative: 'costlier' ✓\n• Meaning: 'ഈ furniture brand market-ലെ മറ്റേതൊരു brand-ഉം-ക്കാൾ വിലകൂടിയതാണ്.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: 'any other' + Comparative + 'than' (comparing one with others in same group)\n• Degrees of comparison:\n  - Positive: costly (simple description)\n  - Comparative: costlier than (comparing two)\n  - Superlative: the costliest (comparing one with all others)\n• 'Any other' signal: 'This brand is costlier than ANY OTHER brand' → comparative ✓\n• Formation rules:\n  - 1 syllable: cheap → cheaper, fast → faster\n  - 2 syllables ending -y: costly → costlier, happy → happier\n  - 2+ syllables: expensive → more expensive (not expensiver)\n• Comparative + 'than' always together — 'than' ഇല്ലാതെ comparative incomplete.\n• ⭐ PSC ആവർത്തനം: Degrees of comparison — 'any other + comparative + than' PSC-ൽ classic!\n• ഉദാഹരണ sentences:\n  1. Gold is costlier than silver. (gold silver-ഇനേക്കാൾ വിലയേറിയത്)\n  2. This phone is costlier than any other phone here. (any other comparison)\n  3. She is taller than her sister. (comparative + than)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) costly than\n• 'Costly' = Positive degree — 'than'-ഉമായി use ചെയ്യാൻ comparative form ആവശ്യം.\n• 'Costly than' = wrong — 'costlier than' ✓ (comparative needed with 'than').\n• 🪤 PSC Trap: 'Costly' = familiar adjective → 'costly than' natural sound. പക്ഷേ 'than' = comparative marker → 'costlier' (not 'costly') ആവശ്യം.\n\n❌ (B) the costliest\n• 'The costliest' = Superlative degree. Superlative = comparing with ALL others in a group ('the most expensive of all').\n• 'Any other brand' = comparing with others in the same category → comparative, not superlative.\n• 🪤 PSC Trap: 'Any other brand' = all brands feel → superlative 'the costliest' feel. പക്ഷേ 'any other' + superlative = wrong structure; 'any other' + comparative ✓.\n\n❌ (D) most costly than\n• 'Most costly' = superlative form (for 3+ syllables). 'Most + adjective + than' = grammatically wrong — superlative never uses 'than'.\n• 'Most costly OF all' ✓ / 'costlier than' ✓ — but 'most costly than' ✗.\n• 🪤 PSC Trap: 'Most costly' formal feel + 'than' comparison feel → sophisticated sound. പക്ഷേ 'most + adj + than' = impossible combination in English grammar.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'THAN = COMPARATIVE. THE + EST = SUPERLATIVE. Never mix them!' — 'Than' കണ്ടാൽ → comparative (-er form). 'The + -est' കണ്ടാൽ → superlative. 'Most + than' = impossible. 'Costlier THAN' ✓ / 'THE costliest' ✓ / 'most costly THAN' ✗.\n• 'Any other' formula: [Subject] is [comparative]-er than any other [noun] = standard PSC pattern.\n• PSC exam strategy: 'Any other' phrase ഉള്ള sentence → comparative + than option choose ചെയ്യുക. 'Costlier than' = comparative + than ✓. 'The costliest' (no than), 'costly than' (no -er), 'most costly than' (impossible) → all eliminate. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "047-2024-E-Q82",
+    "paperId": "047-2024-E",
+    "questionNumber": 82,
+    "topic": "Prepositions",
+    "questionText": "Fill in the blank using the correct preposition.\nShe agree __________ whatever conditions were put before her.",
+    "optionA": "to",
+    "optionB": "with",
+    "optionC": "on",
+    "optionD": "by",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) to\n\n• 'Agree to' = ഒരു proposal/condition/plan-ന് consent ചെയ്യുക — 'സമ്മതിക്കുക, അംഗീകരിക്കുക'.\n• 'Agree to whatever conditions' = 'ഏത് conditions-ഉം accept ചെയ്യുക' ✓\n• Key distinction: agree TO = consent to something (conditions, plans, terms). agree WITH = share someone's opinion.\n• 'Conditions were put before her' = conditions presented → she agreed TO those conditions ✓\n• Meaning: 'അവൾ തന്റെ മുന്നിൽ വച്ച ഏത് conditions-ഉം സമ്മതിച്ചു.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: Agree TO + thing/plan/condition. Agree WITH + person/opinion.\n• 'Agree' preposition rules (PSC must-know):\n  - agree TO + noun (plan/proposal/condition/terms) = accept ചെയ്യുക\n    → 'She agreed to the terms.' ✓\n  - agree WITH + person/opinion = same view share ചെയ്യുക\n    → 'I agree with you.' ✓\n  - agree ON + topic (both parties discuss) = mutual agreement reach ചെയ്യുക\n    → 'They agreed on the price.' ✓\n• This question: 'conditions' = thing → agree TO ✓\n• ⭐ PSC ആവർത്തനം: 'Agree to/with/on' preposition difference PSC-ൽ frequent!\n• ഉദാഹരണ sentences:\n  1. He agreed to all the demands. (demands-ന് consent)\n  2. I agree with your point of view. (opinion share)\n  3. We agreed on a meeting time. (mutual decision)\n  4. She agreed to sign the contract. (condition accept)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) with\n• 'Agree with' = a person-ഉടെ opinion-ഉമായി agree ചെയ്യുക. 'Conditions' = thing, not person/opinion.\n• 'She agreed with whatever conditions' = wrong — conditions = things, not opinions.\n• 🪤 PSC Trap: 'Agree with' = most commonly used form → familiar feel. പക്ഷേ 'with' = person/opinion, 'to' = plan/condition.\n\n❌ (C) on\n• 'Agree on' = both parties jointly decide ചെയ്യുക (mutual agreement on a topic). One person + conditions = 'agree to', not 'agree on'.\n• 'Agree on conditions' = two parties jointly set conditions. Here she alone accepts conditions → 'agree to' ✓.\n• 🪤 PSC Trap: 'Agree on' = specific topic feel → conditions are specific → 'on' feel. പക്ഷേ mutual agreement ഇല്ല ഇവിടെ, one person accepting = 'agree to'.\n\n❌ (D) by\n• 'Agree by' = not a standard collocation. 'By' = agent/method indicate ചെയ്യുന്ന preposition — 'agree'-മായി collocate ആകില്ല.\n• 🪤 PSC Trap: 'By' = passive voice feel → she was agreeing by... = wrong. 'Agree by' is simply not used in English.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Agree TO a thing — you reach your hand TO it and accept! Agree WITH a person — you stand WITH them!' — TO = reach toward a thing (plan/condition). WITH = stand beside a person (opinion/view). Conditions = things → reach TO them!\n• Quick formula:\n  - AGREE TO + thing (plan, condition, terms, proposal)\n  - AGREE WITH + person (I, you, him, experts)\n  - AGREE ON + topic (price, date, method)\n• PSC exam strategy: 'Agree + conditions/plan/proposal' → 'to'. 'Agree + person/opinion' → 'with'. 'Agree + mutual topic' → 'on'. 'By' = always wrong with 'agree'. Here 'conditions' = thing → 'to'. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "047-2024-E-Q83",
+    "paperId": "047-2024-E",
+    "questionNumber": 83,
+    "topic": "Words Often Confused",
+    "questionText": "Identify the most suitable pair of words to complete the sentence.\nDespite being the __________ partner in the relationship, the franchiser does not always have all the __________.",
+    "optionA": "sincere : limitation",
+    "optionB": "vulnerable : powers",
+    "optionC": "authoritative : legalities",
+    "optionD": "dominant : advantages",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) dominant : advantages\n\n• 'Despite being the dominant partner' = 'ഏറ്റവും ശക്തനായ/controlling partner ആണെങ്കിലും' — 'dominant' = controlling/most powerful ✓\n• 'Does not always have all the advantages' = 'എല്ലാ നേട്ടങ്ങളും ഉണ്ടാകില്ല' — 'advantages' = benefits/upper hand ✓\n• Logic: 'Despite' = contrast word. Dominant partner → one would expect all advantages → 'despite' shows this isn't always true ✓\n• Business context: franchiser = dominant in franchise relationship, yet doesn't always have all the advantages ✓\n• Meaning: 'ഈ relationship-ൽ dominant partner ആണെങ്കിൽ പോലും, franchiser-ന് എല്ലാ advantages-ഉം ഉണ്ടാകണമെന്നില്ല.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: 'Despite' = contrast conjunction → first blank describes strength, second blank = expected benefit that's NOT always there.\n• Word pair logic:\n  - dominant = controlling/most powerful ✓ (describes strong partner)\n  - advantages = benefits/upper hand ✓ (expected benefit of being dominant)\n  - 'Despite being dominant → expect advantages → but doesn't always have them' = logical contrast ✓\n• Why other pairs fail (logic check):\n  - sincere:limitation — 'Despite sincere partner, no limitations' = illogical\n  - vulnerable:powers — 'Despite vulnerable partner, no powers' = contradicts itself\n  - authoritative:legalities — 'Despite authoritative partner, no legalities' = weak contrast\n• ⭐ PSC ആവർത്തനം: Double blank fill — logic + vocabulary tested together!\n• Key vocabulary:\n  - dominant = ആധിപത്യം ഉള്ള, controlling\n  - advantages = നേട്ടങ്ങൾ, benefits\n  - franchiser = franchise business-ന്റെ owner/provider",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) sincere : limitation\n• 'Despite being the sincere partner... does not have all the limitation' — illogical. 'Limitation' = restriction, not a benefit. Having no limitations is positive, not a surprising 'despite'.\n• 🪤 PSC Trap: 'Sincere' positive word → partner description feel. പക്ഷേ 'limitation' makes no sense as something one 'has' as an advantage.\n\n❌ (B) vulnerable : powers\n• 'Despite being the vulnerable partner' = weak partner. 'Dominant' ≠ 'vulnerable'. Vulnerable partner having no powers = expected, not surprising → 'despite' is pointless.\n• 🪤 PSC Trap: 'Powers' = advantage feel → powerful feel. പക്ഷേ 'vulnerable' (weak) partner having no powers = no contrast → 'despite' unnecessary.\n\n❌ (C) authoritative : legalities\n• 'Despite being authoritative... no legalities' = 'authoritative' (having authority) but no 'legalities' (legal aspects) → weak/unclear contrast. 'Legalities' = legal matters, not a typical 'benefit' one seeks.\n• 🪤 PSC Trap: 'Authoritative' = strong/powerful feel ≈ 'dominant'. But 'legalities' ≠ advantages in this context.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'DESPITE = surprise! Dominant should have advantages — but DESPITE = surprise, they don't always!' — 'Despite' = unexpected contrast. Strong (dominant) person → should have benefits (advantages) → BUT doesn't always. D-ominant + D-espite + D-oesn't = all D's = D is the answer!\n• Double blank strategy:\n  1. Read the logic of the sentence (contrast, cause-effect, etc.)\n  2. First blank = describes the partner\n  3. Second blank = what they surprisingly lack\n  4. 'Despite dominant' → logically lacks 'advantages' = perfect contrast\n• PSC exam strategy: Double blank questions → test BOTH words together. Eliminate options where one word is illogical. 'dominant:advantages' = both logical + creates 'despite' contrast. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "047-2024-E-Q84",
+    "paperId": "047-2024-E",
+    "questionNumber": 84,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Choose the correct verb to complete the sentence.\nWe are happy that our Chief Minister __________ with the members of his cabinet to be present at the function.",
+    "optionA": "is",
+    "optionB": "are",
+    "optionC": "will",
+    "optionD": "had",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) is\n\n• Subject of the subordinate clause: 'our Chief Minister' = singular noun → singular verb 'is' ✓\n• 'We are happy THAT our Chief Minister IS...' — 'that' clause-ൽ subject = 'Chief Minister' (singular).\n• Present tense context: 'We are happy' (present) → subordinate clause also present → 'is' ✓\n• 'Chief Minister' = one person → singular → 'is' (not 'are') ✓\n• Meaning: 'നമ്മുടെ Chief Minister cabinet members-ഉമൊത്ത് function-ൽ present ആകാൻ തയ്യാറാണ് എന്ന് ഞങ്ങൾ സന്തോഷിക്കുന്നു.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: 'That' clause-ൽ → subject find ചെയ്ത് → singular/plural determine ചെയ്ത് → verb agree ചെയ്യുക!\n• Subject-Verb Agreement in complex sentences:\n  - Main clause: 'We ARE happy' (we = plural → are)\n  - Subordinate clause: 'Chief Minister IS' (Chief Minister = singular → is)\n  - Each clause-ൽ verb = that clause-ന്റെ own subject-ഉമായി agree ചെയ്യണം\n• Common trap: main clause-ലെ verb (are) subordinate clause-ലേക്ക് carry ചെയ്യുക — wrong!\n• 'With the members of his cabinet' = prepositional phrase, not subject!\n  - Subject = 'Chief Minister' (singular)\n  - 'with members' = extra info → ignore for verb agreement\n• ⭐ PSC ആവർത്തനം: Complex sentence subject-verb agreement — 'with' phrase trap!\n• ഉദാഹരണ sentences:\n  1. We know that the President IS a great leader. (President = singular → is)\n  2. She believes that her friends ARE coming. (friends = plural → are)\n  3. The team with its captain IS ready. (team = singular → is)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) are\n• 'Are' = plural verb. 'Chief Minister' = singular → 'are' wrong.\n• 🪤 PSC Trap: 'We are happy' main clause = plural feel + 'members of his cabinet' = plural → 'are' feel. പക്ഷേ subordinate clause subject = 'Chief Minister' (singular) → 'is' ✓.\n\n❌ (C) will\n• 'Will' = future auxiliary. 'We are happy' = present → subordinate clause present tense ആകണം. 'Will' future wrong here.\n• 🪤 PSC Trap: 'To be present at the function' = future event → 'will' future feel. പക്ഷേ 'we are happy THAT' = current happiness about a current arrangement → 'is' (present) ✓.\n\n❌ (D) had\n• 'Had' = past tense. Main clause 'are' = present → past tense in subordinate clause = tense inconsistency.\n• 🪤 PSC Trap: 'Had' formal/official feel → Chief Minister official context → 'had' feel. പക്ഷേ present context → 'is' ✓.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'THAT clause has its OWN subject and OWN verb — don't borrow from the main clause!' — 'We ARE happy THAT Chief Minister IS...' = two separate subject-verb pairs. 'We → are' (main), 'Chief Minister → is' (subordinate). Each clause manages its own verb!\n• 'With + noun' trap: 'Chief Minister WITH members' → 'with members' = extra information, not subject. Subject = 'Chief Minister' alone = singular → 'is'.\n• PSC exam strategy: Complex sentence-ൽ blank ഉണ്ടെങ്കിൽ → 'that/which/who' clause-ന്റെ OWN subject find ചെയ്യുക → singular/plural determine ചെയ്യുക → verb agree ചെയ്യുക. 'Chief Minister' = singular → 'is'. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "047-2024-E-Q85",
+    "paperId": "047-2024-E",
+    "questionNumber": 85,
+    "topic": "Correlatives",
+    "questionText": "Choose the correct option to complete the sentence.\nNo sooner had she entered the room __________ the lights went out.",
+    "optionA": "when the lights went out",
+    "optionB": "then the lights went out",
+    "optionC": "and the lights went out",
+    "optionD": "than the lights went out",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) than the lights went out\n\n• 'No sooner' = negative adverb correlative — fixed pair: 'No sooner... THAN' (ഒരിക്കലും 'when' അല്ല!).\n• 'No sooner had she entered the room than the lights went out' = 'അവൾ room-ൽ കടന്ന ഉടനേ light പോയി.'\n• Inversion rule: 'No sooner' sentence beginning-ൽ → HAD + subject + V3 (had she entered) → inversion ✓\n• 'No sooner...than' = two events: first event happened → immediately second event happened.\n• Meaning: 'Room-ൽ കടന്ന നിമിഷം — ഒരു delay-ഉം ഇല്ലാതെ — lights off ആയി.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: NO SOONER + had + subject + V3 + THAN (NEVER 'when'!)\n• Correlative pairs (PSC must-know — never mix!):\n  - No sooner → THAN ✓ (not 'when', not 'then', not 'and')\n  - Scarcely/Hardly → WHEN ✓ (not 'than')\n  - Either → OR ✓\n  - Neither → NOR ✓\n  - Both → AND ✓\n  - Not only → BUT ALSO ✓\n  - lest → SHOULD ✓\n• Inversion with 'No sooner':\n  - Normal: She had no sooner entered than lights went out.\n  - Inverted: No sooner HAD SHE entered than lights went out. ✓\n• ⭐ PSC ആവർത്തനം: 'No sooner...than' vs 'Hardly/Scarcely...when' = PSC-ൽ most frequently tested correlative!\n• ഉദാഹരണ sentences:\n  1. No sooner had he sat down than the phone rang. (ഇരുന്ന ഉടനേ phone ring ആയി)\n  2. No sooner had we left than it started raining. (പോയ ഉടനേ മഴ)\n  3. No sooner had she spoken than everyone reacted. (പറഞ്ഞ ഉടനേ reaction)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) when the lights went out\n• 'When' = 'Scarcely/Hardly'-ന്റെ pair (Hardly had she entered WHEN...). 'No sooner'-ന്റെ pair = 'than' (not 'when').\n• 🪤 PSC Trap: ഏറ്റവും common mistake! 'No sooner...when' = wrong. 'Hardly/Scarcely...when' = right. 'No sooner...than' = right. Mix ചെയ്യരുത്!\n\n❌ (B) then the lights went out\n• 'Then' = sequence word (first this, THEN that) — correlative pair ഇല്ല. 'No sooner...then' = not a standard correlative.\n• 🪤 PSC Trap: 'No sooner...then' = 'immediately, then' sequence feel → logical sound. പക്ഷേ 'then' = correlative pair ഇല്ല. 'No sooner → than' only.\n\n❌ (C) and the lights went out\n• 'And' = simple addition connector — 'No sooner...and' = not a correlative pair.\n• 'No sooner...and' means nothing specific in grammar. 'Than' = required pair.\n• 🪤 PSC Trap: 'And' = natural connector feel → 'she entered AND lights went out' = simple sequence feel. പക്ഷേ 'No sooner' = correlative → needs 'than'.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NO SOONER and THAN are DANCE PARTNERS — they always dance together! HARDLY/SCARCELY dance with WHEN!' — Three couples:\n  - NO SOONER 💃 THAN 🕺\n  - HARDLY/SCARCELY 💃 WHEN 🕺\n  - Never swap the partners!\n• Quick test: See 'No sooner' → immediately write 'than'. See 'Hardly/Scarcely' → immediately write 'when'. No exceptions!\n• PSC exam strategy: 'No sooner' ഉള്ള sentence-ൽ → 'than' ഉള്ള option choose ചെയ്യുക. 'When', 'then', 'and' → all eliminate. No sooner = THAN always. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "047-2024-E-Q86",
+    "paperId": "047-2024-E",
+    "questionNumber": 86,
+    "topic": "Tenses",
+    "questionText": "Choose the correct tense form to complete the sentence.\nWe met her immediately after the session in which she __________ a nice speech.",
+    "optionA": "has given",
+    "optionB": "had given",
+    "optionC": "gave",
+    "optionD": "was given",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) had given\n\n• 'We met her' = Simple Past — ഒരു past event.\n• 'After the session in which she ___ a speech' = ഈ speech, 'we met her' event-ന് മുമ്പ് നടന്നു.\n• Past Perfect (had + V3) = Past-ൽ നടന്ന രണ്ട് events-ൽ ആദ്യം നടന്നത് describe ചെയ്യുന്നു.\n• ക്രമം: She gave speech → THEN we met her. Speech = earlier event → had given (Past Perfect).\n• Meaning: 'അവൾ ഒരു നല്ല speech കൊടുത്ത session-ന് ശേഷം ഉടനേ ഞങ്ങൾ അവളെ കണ്ടുമുട്ടി.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: Past-ൽ രണ്ട് events → ആദ്യം നടന്നത് = HAD + V3 (Past Perfect). പിന്നെ നടന്നത് = Simple Past (V2).\n• Sequence rule:\n  - Event 1 (earlier): she had given the speech ← Past Perfect\n  - Event 2 (later): we met her ← Simple Past\n  - 'After' signal word: 'immediately after' = sequence indicator ✓\n• Pattern: [Simple Past] + after/before/when + [Past Perfect]\n  → 'We met her (SP) after she had given (PP) the speech' ✓\n• ⭐ PSC ആവർത്തനം: 'After/Before' + two past events = Past Perfect PSC-ൽ classic!\n• Signal words for Past Perfect:\n  - after, before, when, by the time, as soon as, already, just\n• ഉദാഹരണ sentences:\n  1. He had left before I arrived. (ഞാൻ വരുന്നതിന് മുമ്പേ അദ്ദേഹം പോയിരുന്നു)\n  2. She had eaten when I called. (ഞാൻ call ചെയ്തപ്പോൾ അവൾ കഴിച്ച് കഴിഞ്ഞിരുന്നു)\n  3. By the time we reached, the train had left. (ഞങ്ങൾ എത്തിയപ്പോഴേക്കും train പോയിരുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) has given\n• 'Has given' = Present Perfect — present relevance ഉള്ള past action-ന്. Main clause 'we met' = Simple Past → present perfect subordinate clause-ൽ use ചെയ്യരുത്. Tense mismatch!\n• 🪤 PSC Trap: 'Has given' = 'had given' sound-alike → confuse ചെയ്യും. 'Has' (present perfect) vs 'had' (past perfect) — 'met' past tense main clause → 'had given' only.\n\n❌ (C) gave\n• 'Gave' = Simple Past — two past events both in simple past = sequence unclear. 'We met her after she gave' = OK in casual speech but doesn't clearly show which event came first.\n• 🪤 PSC Trap: 'Gave' natural/simple feel → first thought. പക്ഷേ PSC requires precise grammar → earlier event = 'had given' (Past Perfect) ✓.\n\n❌ (D) was given\n• 'Was given' = Simple Past Passive — speech was given BY someone. Here SHE is the one giving the speech (active). 'She was given a speech' = someone gave HER a speech = wrong meaning.\n• 🪤 PSC Trap: 'Was given' = formal/official feel → speech context → formal feel. പക്ഷേ she = giver of speech (active), not receiver (passive).",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HAD = HISTORY! The earlier event has MORE history — so use HAD. The later event is just past — use simple past.' — Speech came first (more history = HAD given). Meeting came second (just past = met).\n• 'After' signal: 'after she ___ speech' → blank = earlier event → Past Perfect (had given) always.\n• PSC exam strategy: 'After/Before' ഉള്ള sentence-ൽ two past events → blank = earlier event = 'had + V3'. Main clause = simple past. See 'met' (simple past) + 'after' → blank = 'had given'. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "047-2024-E-Q87",
+    "paperId": "047-2024-E",
+    "questionNumber": 87,
+    "topic": "Tenses",
+    "questionText": "Choose the correct form of the verb to complete the sentence.\nThe guests admired my paintings but they __________ my writings.",
+    "optionA": "seemed to dislike",
+    "optionB": "seem to have disliked",
+    "optionC": "seemed to have disliked",
+    "optionD": "seem to dislike",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) seemed to have disliked\n\n• 'Admired' = Simple Past → main sentence past tense. Second clause also past → 'seemed' (past tense of 'seem') ✓\n• 'Seemed to have disliked' = past tense verb (seemed) + perfect infinitive (to have disliked) = the disliking happened BEFORE/DURING the seeming.\n• 'To have disliked' = Perfect Infinitive — past completed action expressed through infinitive form.\n• Structure: seemed (past main verb) + to have disliked (perfect infinitive showing completed past action) ✓\n• Meaning: 'Guests-ന് paintings ഇഷ്ടമായി, പക്ഷേ writings dislike ആയതായി tense felt.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: seem/appear/tend + to have + V3 = past completed action expressed through infinitive.\n• Perfect Infinitive (to have + V3):\n  - Use when: the infinitive action happened BEFORE the main verb or is completed\n  - 'seemed to have disliked' = disliking happened → then seeming/appearing was observed\n  - Signal: Both actions in past, infinitive action completed\n• Tense matching with 'seem/appear':\n  - Present context: 'seems to dislike' (present ongoing)\n  - Present context, past action: 'seems to have disliked' (past action noted now)\n  - Past context: 'seemed to dislike' (past ongoing)\n  - Past context, completed action: 'seemed to have disliked' ✓ (past completed)\n• ⭐ PSC ആവർത്തനം: Perfect Infinitive (to have + V3) = PSC-ൽ tested!\n• ഉദാഹരണ sentences:\n  1. She seemed to have forgotten my name. (forgot = completed past action)\n  2. He appears to have left already. (left = completed, noticed now)\n  3. They seemed to have enjoyed the show. (enjoyed = completed past)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) seemed to dislike\n• 'Seemed to dislike' = past tense + simple infinitive. Simple infinitive = action happening simultaneously with 'seemed', not completed. 'Seemed to dislike' suggests ongoing disliking at that time.\n• 'Seemed to have disliked' (C) = completed past disliking. Given context (past completed reaction), perfect infinitive ✓.\n• 🪤 PSC Trap: 'Seemed to dislike' = simpler/more natural feel. Both are grammatically possible but perfect infinitive 'seemed to have disliked' = more precise for completed past reaction.\n\n❌ (B) seem to have disliked\n• 'Seem' = present tense. Main clause 'admired' = past. Tense mismatch — present 'seem' with past 'admired' = inconsistent narrative tense.\n• 🪤 PSC Trap: 'Seem to have disliked' = present + perfect infinitive = also natural-sounding. പക്ഷേ 'admired' (past) → 'seemed' (past) needed for tense consistency.\n\n❌ (D) seem to dislike\n• 'Seem to dislike' = present tense + simple infinitive. Double error: (1) 'seem' present tense conflicts with 'admired' past, (2) simple infinitive instead of perfect infinitive for completed action.\n• 🪤 PSC Trap: 'Seem to dislike' = simplest option → first instinct. पक्षे two tense errors make this incorrect.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'SEEMED (past) + TO HAVE (perfect) = past story about something already done!' — 'Admired... but seemed to have disliked' = guests already disliked writings (completed feeling) → 'to have disliked' (perfect infinitive) shows this completion.\n• Quick test: Is the main verb past tense? → Use 'seemed'. Is the infinitive action completed/done before? → Use 'to have + V3'. Both yes = 'seemed to have disliked' ✓.\n• PSC exam strategy: Seem/appear + infinitive questions → Step 1: Check main clause tense (seemed/seems). Step 2: Check if infinitive action completed → 'to have + V3'. Step 3: 'Admired' = past → 'seemed' (not 'seem'). Action completed → 'to have disliked'. = (C) ✓. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "047-2024-E-Q88",
+    "paperId": "047-2024-E",
+    "questionNumber": 88,
+    "topic": "Correction of Sentences",
+    "questionText": "Identify the correct sentence.",
+    "optionA": "I think him to be a silly boy",
+    "optionB": "I think him as a silly boy",
+    "optionC": "I think him being a silly boy",
+    "optionD": "I think him a silly boy",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) I think him a silly boy\n\n• 'Think + object + complement' = correct structure → 'I think him a silly boy' ✓\n• Pattern: 'Think + object pronoun (him/her/them) + noun/adjective complement'\n• No preposition, no infinitive, no gerund needed — direct complement structure.\n• 'I think him a silly boy' = 'I consider him to be a silly boy' meaning.\n• This is a factitive verb construction — 'think' here = 'consider/regard as'.\n• Meaning: 'ഞാൻ അവനെ ഒരു മണ്ടൻ ആൺകുട്ടി ആണെന്ന് കരുതുന്നു.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: THINK/CONSIDER/FIND/CALL + object + complement (NO 'as', NO 'to be', NO 'being')!\n• Factitive verbs — 'think' used as 'consider':\n  - think + object + noun/adjective = ✓ (direct complement)\n  - think + object + 'as' + noun = ✗ (no 'as' with think)\n  - think + object + 'to be' + noun = old-fashioned but sometimes accepted\n  - think + object + 'being' + noun = ✗ (gerund not used here)\n• Other factitive verbs follow same pattern:\n  - call: 'They call him a genius.' ✓\n  - consider: 'We consider her a friend.' ✓\n  - find: 'I find this job difficult.' ✓\n  - name: 'They named the baby Joy.' ✓\n• ⭐ PSC ആവർത്തനം: Factitive verb structure — 'think/consider + object + complement' PSC-ൽ tested!\n• ഉദാഹരണ sentences:\n  1. I consider him a good doctor. (not 'consider him as')\n  2. She finds him charming. (not 'finds him as charming')\n  3. They call her a genius. (not 'call her as')",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) I think him to be a silly boy\n• 'Think + object + to be' = grammatically dated/formal but in modern English, 'think' as factitive verb prefers direct complement without 'to be'.\n• 🪤 PSC Trap: 'To be' = formal/correct-sounding → 'think him TO BE' feels more complete. But modern English grammar: 'think him a silly boy' (no 'to be') = preferred form ✓.\n\n❌ (B) I think him as a silly boy\n• 'As' = used with 'regard/describe/treat/see', NOT with 'think'. 'Think + object + as' = incorrect collocation.\n• Correct: 'I regard him AS a silly boy' ✓ / 'I see him AS a silly boy' ✓ / 'I think him a silly boy' ✓\n• 🪤 PSC Trap: 'As' = comparison/description feel → 'think him as' natural feel. But 'think + as' = wrong collocation. 'Think + object + complement' (no 'as') ✓.\n\n❌ (C) I think him being a silly boy\n• 'Being' = gerund/present participle — 'think + object + being + noun' = wrong structure. Gerund-complement not used with factitive 'think'.\n• 🪤 PSC Trap: 'Being' = continuous/descriptive feel → 'him being silly' = description feel. But 'think + being' = not standard construction. Direct complement needed.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'THINK HIM A FOOL — no middle words! Think takes object + complement DIRECTLY — no 'as', no 'to be', no 'being' in between!' — Clean and direct: 'I think him a silly boy' = object (him) + complement (a silly boy) directly.\n• Quick formula for factitive verbs: THINK/CONSIDER/FIND/CALL + [object] + [noun/adjective] — no extra words!\n• PSC exam strategy: 'Think/consider/find/call' sentence → eliminate options with 'as', 'being'. 'To be' = old-fashioned, direct complement = modern. 'I think him a silly boy' = clean structure ✓. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "047-2024-E-Q89",
+    "paperId": "047-2024-E",
+    "questionNumber": 89,
+    "topic": "One Word Substitutes",
+    "questionText": "Choose the correct meaning of the term.\nOrnithology means",
+    "optionA": "Study of birds",
+    "optionB": "Study of bones",
+    "optionC": "Study of reptiles",
+    "optionD": "Study of rocks",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Study of birds\n\n• 'Ornithology' = 'പക്ഷി ശാസ്ത്രം' = the scientific study of birds.\n• Word root: Greek 'ornis/ornithos' = bird + 'logos/logy' = study/science.\n• Ornithologist = പക്ഷികളെ study ചെയ്യുന്ന scientist.\n• Famous ornithologists: Salim Ali = India's 'Birdman' — India's most famous ornithologist!\n• Kerala connection: Kerala = bird-watchers' paradise. Ornithology = very relevant study here.\n• Meaning: 'Ornithology = പക്ഷികളുടെ ശാസ്ത്രീയ പഠനം — habits, migration, species, breeding എല്ലാം.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: Greek root 'ornithos' = bird + 'logy' = study → Ornithology = Study of birds!\n• '-logy' suffix = science/study of. PSC-ൽ ഈ suffix ഉള്ള words frequent:\n  - Ornithology → birds (ornithos = bird)\n  - Zoology → animals (zoo = animal)\n  - Botany/Phytology → plants (phyto = plant)\n  - Geology → earth/rocks (geo = earth)\n  - Osteology → bones (osteo = bone)\n  - Herpetology → reptiles (herp = crawling thing)\n  - Entomology → insects (entomo = insect)\n  - Ichthyology → fish (ichthys = fish)\n  - Anthropology → humans (anthropo = human)\n  - Psychology → mind (psycho = mind)\n• ⭐ PSC ആവർത്തനം: '-logy' words = PSC-ൽ highly frequent! Root word memorize ചെയ്‌ത് GO!\n• ഉദാഹരണ sentences:\n  1. Ornithology is the scientific study of birds. (birds = ornithology)\n  2. The ornithologist studied migratory birds. (bird scientist)\n  3. Salim Ali was a famous ornithologist. (bird expert)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) Study of bones\n• Study of bones = 'Osteology' (Greek 'osteo' = bone). Ornithology ≠ Osteology.\n• 🪤 PSC Trap: Both 'Ornithology' and 'Osteology' start with 'O' → confusion! 'Osteo' (bones) ≠ 'Ornitho' (birds). Remember: 'Ornith-' sounds like bird sounds (tweeting!) → birds.\n\n❌ (C) Study of reptiles\n• Study of reptiles = 'Herpetology' (Greek 'herp' = creeping/crawling). Ornithology ≠ Herpetology.\n• 🪤 PSC Trap: Reptiles = another animal group → could feel like 'Ornithology'. But 'Herp' = reptiles, 'Ornitho' = birds. Completely different roots.\n\n❌ (D) Study of rocks\n• Study of rocks = 'Petrology' or 'Geology' (Greek 'petros' = rock, 'geo' = earth). Ornithology ≠ Geology.\n• 🪤 PSC Trap: 'Rocks' and 'birds' both found in nature → nature study confusion. But '-logy' word root decides the answer: 'Ornitho' = bird (not rock).",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ORNITHO sounds like a BIRD calling — OR-NI-THO! (like a bird tweet sound!) → BIRDS!' — When you hear 'Ornithology', imagine a bird tweeting 'ORNITHOOOO!' → Study of BIRDS!\n• Must-know '-logy' list for PSC:\n  - Ornithology = Birds 🐦\n  - Osteology = Bones 🦴\n  - Herpetology = Reptiles 🦎\n  - Entomology = Insects 🐛\n  - Ichthyology = Fish 🐟\n  - Geology = Earth/Rocks 🪨\n• PSC exam strategy: '-logy' word question → identify the root BEFORE '-logy'. 'Ornitho' = bird root → Study of birds = (A). Options B, C, D have different roots (osteo/herp/geo). Guaranteed mark!"
+    }
+  },
+  {
+    "id": "047-2024-E-Q90",
+    "paperId": "047-2024-E",
+    "questionNumber": 90,
+    "topic": "Synonyms",
+    "questionText": "Choose the word which best expresses the meaning of the given word.\nDistasteful",
+    "optionA": "flavoured",
+    "optionB": "unpleasant",
+    "optionC": "tasteful",
+    "optionD": "satisfying",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) unpleasant\n\n• 'Distasteful' = 'അരോചകം, അറപ്പ് ഉണ്ടാക്കുന്ന, ഇഷ്ടമില്ലാത്ത' = causing dislike or disgust.\n• 'Unpleasant' = 'അസുഖകരം, ഇഷ്ടപ്പെടാത്ത' — not pleasant, causing discomfort.\n• 'Distasteful' = strongly synonymous with 'unpleasant' — both = not agreeable/likable.\n• Root analysis: 'Dis-' (negative prefix) + 'taste' (liking/preference) + '-ful' (full of) = full of dislike ✓\n• Meaning: 'Distasteful = ഇഷ്ടമില്ലാത്ത, rude/offensive behavior or experience'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: 'DIS-' prefix = negative/opposite. 'TASTE' = liking/preference. '-FUL' = full of. So 'DISTASTEFUL' = full of un-liking = UNPLEASANT!\n• Word analysis of 'distasteful':\n  - Prefix: 'dis-' = not, opposite of (disagree, dislike, disorder)\n  - Root: 'taste' = liking, preference (not just food taste)\n  - Suffix: '-ful' = having the quality of\n  - Combined: having the quality of disliking = unpleasant, disagreeable\n• Word family:\n  - Distasteful (adjective) = disagreeable, unpleasant\n  - Distaste (noun) = dislike, aversion\n  - Distastefully (adverb) = in an unpleasant manner\n• Synonyms chain: distasteful = unpleasant = disagreeable = offensive = repugnant = objectionable\n• ⭐ PSC ആവർത്തനം: 'Dis-' prefix words + synonyms = PSC frequent combination!\n• ഉദാഹരണ sentences:\n  1. He found the task distasteful. (task-ൽ dislike ഉണ്ടായി)\n  2. Her behaviour was distasteful to everyone. (everyone-ന് unpleasant ആയി)\n  3. The movie had some distasteful scenes. (offensive/unpleasant scenes)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) flavoured\n• 'Flavoured' = a particular taste (chocolate-flavoured, lemon-flavoured). Literal food meaning.\n• 'Distasteful' root 'taste' ≠ food taste. 'Dis-taste-ful' = figurative disliking, not food flavour.\n• 🪤 PSC Trap: 'Dis-TASTE-ful' → 'taste' → food → 'flavoured' = food related → logical trap! But 'taste' in 'distasteful' = liking/preference (figurative), not food taste (literal).\n\n❌ (C) tasteful\n• 'Tasteful' = showing good taste, elegant, stylish — OPPOSITE of distasteful!\n• 'Distaste-ful' vs 'Taste-ful' = antonyms (opposites), not synonyms!\n• 🪤 PSC Trap: 'Distasteful' contains 'tasteful' → looks related! But 'dis-' prefix = negative → 'distasteful' = NOT tasteful. 'Tasteful' is the ANTONYM, not synonym.\n\n❌ (D) satisfying\n• 'Satisfying' = giving satisfaction, fulfilling, pleasant — OPPOSITE of distasteful!\n• 'Distasteful' = unpleasant ≠ 'Satisfying' = pleasant. Complete opposite meaning.\n• 🪤 PSC Trap: 'Satisfying' = positive word → pleasant feeling → could feel related to 'taste'. But 'dis-tasteful' = negative (unpleasant), not positive (satisfying).",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'DIS-TASTE-FUL = DISliked, not TASTEFUL! Dis = NOT. Tasteful = good. So Distasteful = NOT good = UNPLEASANT!' — When you see 'DIS-' at start → flip to negative meaning! Tasteful = good → Distasteful = NOT good = unpleasant.\n• 'Dis-' prefix words PSC list:\n  - Distasteful = unpleasant\n  - Disinterested = impartial (not 'uninterested'!)\n  - Discreet = careful/tactful\n  - Dismal = dreary/depressing\n  - Dispel = drive away\n• PSC exam strategy: Synonym question → Eliminate ANTONYMS first. 'Tasteful' (C) = antonym → eliminate. 'Satisfying' (D) = positive → opposite → eliminate. 'Flavoured' (A) = literal food meaning → wrong context → eliminate. 'Unpleasant' (B) = negative = matches 'distasteful' = ✓. Guaranteed mark!"
+    }
   }
 ]
