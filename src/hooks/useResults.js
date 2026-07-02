@@ -9,6 +9,7 @@ export function useResults() {
 
   async function saveResult(questions, answers, mode) {
     const answerData = questions.map((q, i) => ({
+      id: q.id,
       topic: q.topic || 'General',
       correct: answers[i] === q.correctAnswer,
     }))
@@ -81,5 +82,18 @@ export function useResults() {
       .sort((a, b) => a.pct - b.pct) // weakest first
   }
 
-  return { saveResult, getAllResults, getTopicStats }
+  // Question IDs whose MOST RECENT attempt was wrong.
+  // Answering a question correctly later removes it from the mistake list.
+  function getMistakeIds(results) {
+    const lastOutcome = {}
+    const sorted = [...results].sort((a, b) => (a.date || '').localeCompare(b.date || ''))
+    sorted.forEach(result => {
+      (result.answers || []).forEach(({ id, correct }) => {
+        if (id) lastOutcome[id] = correct
+      })
+    })
+    return Object.keys(lastOutcome).filter(id => !lastOutcome[id])
+  }
+
+  return { saveResult, getAllResults, getTopicStats, getMistakeIds }
 }

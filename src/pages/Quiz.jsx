@@ -326,6 +326,18 @@ function QuizSetup({ onStart }) {
   const [count, setCount] = useState(10)
   const [secsPerQ, setSecsPerQ] = useState(30)
   const { bookmarks } = useBookmarks()
+  const { getAllResults, getMistakeIds } = useResults()
+  const [mistakeIds, setMistakeIds] = useState([])
+
+  // Load past-mistake question IDs (localStorage + Firestore if logged in)
+  useEffect(() => {
+    let alive = true
+    getAllResults().then(results => {
+      if (alive) setMistakeIds(getMistakeIds(results))
+    })
+    return () => { alive = false }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
 
   const years = [...new Set(papers.map(p => p.year))].sort().reverse()
   const [year, setYear] = useState('')
@@ -343,11 +355,14 @@ function QuizSetup({ onStart }) {
     if (mode === 'saved') {
       return questions.filter(q => bookmarks.includes(q.id))
     }
+    if (mode === 'mistakes') {
+      return questions.filter(q => mistakeIds.includes(q.id))
+    }
     return questions.filter(q =>
       (!paperId || q.paperId === paperId) &&
       (!topicId || q.topic === topicId)
     )
-  }, [paperId, topicId, mode, bookmarks])
+  }, [paperId, topicId, mode, bookmarks, mistakeIds])
 
   // When a topic is pre-selected, default count to all questions in that topic
   useEffect(() => {
@@ -356,11 +371,12 @@ function QuizSetup({ onStart }) {
 
   function handleStart() {
     let pool = [...availableQs]
-    if (!paperId && mode !== 'browse' && mode !== 'saved') {
+    if (!paperId && mode !== 'browse' && mode !== 'saved' && mode !== 'mistakes') {
       pool = shuffle(pool)
       pool = pool.slice(0, Math.min(count, pool.length))
     }
-    onStart({ questions: pool, mode: mode === 'saved' ? 'practice' : mode, secsPerQ })
+    const playMode = (mode === 'saved' || mode === 'mistakes') ? 'practice' : mode
+    onStart({ questions: pool, mode: playMode, secsPerQ })
   }
 
   const isBrowse = mode === 'browse'
@@ -372,18 +388,19 @@ function QuizSetup({ onStart }) {
       {/* Mode */}
       <div className="mb-5">
         <div className="text-sm font-medium mb-2">Quiz Mode</div>
-        <div className="grid grid-cols-3 gap-2">
+        <div className="grid grid-cols-2 gap-2">
           {[
             { id: 'practice', label: '📖 Practice', sub: 'No timer · Explanations' },
             { id: 'timed', label: '⏱ Timed', sub: 'Timer per question' },
             { id: 'saved', label: '🔖 Saved', sub: bookmarks.length > 0 ? `${bookmarks.length} bookmarked` : 'No bookmarks yet' },
+            { id: 'mistakes', label: '❌ Mistakes', sub: mistakeIds.length > 0 ? `${mistakeIds.length} to retry` : 'No mistakes yet' },
           ].map(m => (
             <button key={m.id} onClick={() => setMode(m.id)}
               className="p-3 rounded-xl text-left border-2 transition-all"
               style={{
                 borderColor: mode === m.id ? 'var(--accent)' : 'var(--border)',
                 background: mode === m.id ? 'var(--bg2)' : 'var(--surface)',
-                opacity: m.id === 'saved' && bookmarks.length === 0 ? 0.5 : 1,
+                opacity: (m.id === 'saved' && bookmarks.length === 0) || (m.id === 'mistakes' && mistakeIds.length === 0) ? 0.5 : 1,
               }}>
               <div className="font-medium text-sm">{m.label}</div>
               <div className="text-xs mt-0.5" style={{ color: 'var(--text2)' }}>{m.sub}</div>
@@ -443,8 +460,8 @@ function QuizSetup({ onStart }) {
         </div>
       </div>
 
-      {/* Count slider — hidden only for paper-specific and browse modes */}
-      {!paperId && !isBrowse && (
+      {/* Count slider — hidden for paper-specific, browse, saved and mistakes modes */}
+      {!paperId && !isBrowse && mode !== 'saved' && mode !== 'mistakes' && (
         <div className="mb-6">
           <div className="text-sm font-medium mb-2">Number of Questions: {count}</div>
           <input type="range" min={5} max={Math.max(50, availableQs.length)} step={1}

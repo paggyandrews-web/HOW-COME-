@@ -1,11 +1,17 @@
 import { useAuth } from '../contexts/AuthContext'
-import { doc, updateDoc, getDoc } from 'firebase/firestore'
+import { doc, setDoc, getDoc } from 'firebase/firestore'
 import { db } from '../firebase/config'
 
 const STORAGE_KEY = 'cs-streak'
 
+// Local (device timezone) date string — NOT UTC.
+// toISOString() would flip the day at 5:30 AM IST and break streaks.
+function localDateStr(d = new Date()) {
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
+}
+
 function todayStr() {
-  return new Date().toISOString().slice(0, 10) // "2026-06-27"
+  return localDateStr()
 }
 
 function readLocal() {
@@ -37,7 +43,7 @@ function computeNewStreak(existing) {
 
   const yesterday = new Date()
   yesterday.setDate(yesterday.getDate() - 1)
-  const yesterdayStr = yesterday.toISOString().slice(0, 10)
+  const yesterdayStr = localDateStr(yesterday)
 
   let newStreak
   if (lastActivityDate === yesterdayStr) {
@@ -68,9 +74,7 @@ export function useStreak() {
     // Also write to Firestore if logged in
     if (user) {
       try {
-        await updateDoc(doc(db, 'users', user.uid), {
-          streak: updated,
-        })
+        await setDoc(doc(db, 'users', user.uid), { streak: updated }, { merge: true })
       } catch {}
     }
   }

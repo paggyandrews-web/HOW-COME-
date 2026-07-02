@@ -89,7 +89,16 @@ export function AuthProvider({ children }) {
 
   return (
     <AuthContext.Provider value={{ user, profile, loading, signup, login, logout, pinnedExams, pinExam, unpinExam }}>
-      {!loading && children}
+      {loading ? (
+        <div style={{
+          minHeight: '100vh', display: 'flex', flexDirection: 'column',
+          alignItems: 'center', justifyContent: 'center', gap: 12,
+          background: '#071524',
+        }}>
+          <div style={{ color: '#ffffff', fontWeight: 800, fontSize: 28 }}>HOW COME?</div>
+          <div style={{ color: '#1a9d8e', fontSize: 13 }}>Kerala PSC English Practice</div>
+        </div>
+      ) : children}
     </AuthContext.Provider>
   )
 }

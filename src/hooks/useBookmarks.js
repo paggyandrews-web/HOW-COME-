@@ -1,6 +1,6 @@
-import { useState, useEffect } from 'react'
+import { useEffect, useSyncExternalStore } from 'react'
 import { useAuth } from '../contexts/AuthContext'
-import { doc, updateDoc, getDoc } from 'firebase/firestore'
+import { doc, setDoc, getDoc } from 'firebase/firestore'
 import { db } from '../firebase/config'
 
 const STORAGE_KEY = 'cs-bookmarks'
@@ -19,46 +19,62 @@ function writeLocal(ids) {
   } catch {}
 }
 
+// ── Module-level shared store ──
+// All useBookmarks() instances share this, so toggling a bookmark
+// anywhere updates every component immediately.
+let bookmarks = readLocal()
+const listeners = new Set()
+
+function setBookmarks(ids) {
+  bookmarks = ids
+  writeLocal(ids)
+  listeners.forEach(l => l())
+}
+
+function subscribe(cb) {
+  listeners.add(cb)
+  return () => listeners.delete(cb)
+}
+
+function getSnapshot() {
+  return bookmarks
+}
+
+// Tracks which uid we last loaded from Firestore, so multiple hook
+// instances don't trigger duplicate reads.
+let loadedForUid
+
 export function useBookmarks() {
   const { user } = useAuth()
-  const [bookmarks, setBookmarks] = useState([])
-  const [loaded, setLoaded] = useState(false)
+  const list = useSyncExternalStore(subscribe, getSnapshot)
 
-  // Load bookmarks on mount
   useEffect(() => {
-    async function load() {
-      if (user) {
-        try {
-          const snap = await getDoc(doc(db, 'users', user.uid))
-          if (snap.exists() && snap.data().bookmarks) {
-            const ids = snap.data().bookmarks
-            setBookmarks(ids)
-            writeLocal(ids)
-            setLoaded(true)
-            return
-          }
-        } catch {}
-      }
-      // Guest or fallback
+    const uid = user?.uid || null
+    if (loadedForUid === uid) return
+    loadedForUid = uid
+    if (!uid) {
       setBookmarks(readLocal())
-      setLoaded(true)
+      return
     }
-    load()
+    getDoc(doc(db, 'users', uid))
+      .then(snap => {
+        if (snap.exists() && snap.data().bookmarks) {
+          setBookmarks(snap.data().bookmarks)
+        }
+      })
+      .catch(() => {})
   }, [user])
 
   async function toggle(questionId) {
-    const current = bookmarks
-    const isBookmarked = current.includes(questionId)
-    const updated = isBookmarked
-      ? current.filter(id => id !== questionId)
-      : [...current, questionId]
+    const updated = bookmarks.includes(questionId)
+      ? bookmarks.filter(id => id !== questionId)
+      : [...bookmarks, questionId]
 
     setBookmarks(updated)
-    writeLocal(updated)
 
     if (user) {
       try {
-        await updateDoc(doc(db, 'users', user.uid), { bookmarks: updated })
+        await setDoc(doc(db, 'users', user.uid), { bookmarks: updated }, { merge: true })
       } catch {}
     }
   }
@@ -67,5 +83,5 @@ export function useBookmarks() {
     return bookmarks.includes(questionId)
   }
 
-  return { bookmarks, toggle, isBookmarked, loaded }
+  return { bookmarks: list, toggle, isBookmarked, loaded: true }
 }
