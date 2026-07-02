@@ -220,25 +220,6 @@ export default function Exams() {
         Kerala PSC · July 2026 (101 exams) · August 2026 (61 exams) · Bookmark up to {MAX_PINS} to Home
       </p>
 
-      {/* Saved summary */}
-      {savedExams.length > 0 && (
-        <div className="mb-5 p-3 rounded-xl" style={{ background: 'var(--bg2)', border: '1px solid var(--border)' }}>
-          <div className="text-xs font-semibold mb-2" style={{ color: 'var(--text2)' }}>
-            🔖 Saved to Home ({savedExams.length}/{MAX_PINS})
-          </div>
-          <div className="flex flex-wrap gap-2">
-            {savedExams.map(e => (
-              <button key={e.id} onClick={() => setRemoveTarget(e.id)}
-                className="text-xs px-2 py-1 rounded-lg flex items-center gap-1"
-                style={{ background: 'var(--surface)', color: 'var(--text)', border: '1px solid var(--accent)', touchAction: 'manipulation' }}>
-                {e.date.slice(5).replace('-', '/')} {e.name.split(' / ')[0].slice(0, 20)}…
-                <span style={{ color: 'var(--text2)' }}>✕</span>
-              </button>
-            ))}
-          </div>
-        </div>
-      )}
-
       {/* Search */}
       <div className="flex gap-2 mb-5">
         <input
