@@ -32,9 +32,9 @@ function formatQuestion(text) {
 }
 
 function renderWithUnderlines(text) {
-  const parts = text.split(/(__[^_]+__)/)
+  const parts = text.split(/((?<![_])__[^_]+__(?![_]))/)
   return parts.map((part, i) => {
-    if (part.startsWith('__') && part.endsWith('__')) {
+    if (part.startsWith('__') && part.endsWith('__') && !part.slice(2, -2).includes('_')) {
       const word = part.slice(2, -2)
       return (
         <span key={i} style={{
