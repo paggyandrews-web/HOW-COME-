@@ -463,14 +463,24 @@ function QuizSetup({ onStart }) {
       {/* Count slider — hidden for paper-specific, browse, saved and mistakes modes */}
       {!paperId && !isBrowse && mode !== 'saved' && mode !== 'mistakes' && (
         <div className="mb-6">
-          <div className="text-sm font-medium mb-2">Number of Questions: {count}</div>
-          <input type="range" min={5} max={Math.max(50, availableQs.length)} step={1}
-            value={count} onChange={e => setCount(+e.target.value)}
-            className="w-full quiz-range-slider"
-            style={{ '--slider-pct': `${((count - 5) / (Math.max(50, availableQs.length) - 5)) * 100}%` }} />
-          <div className="flex justify-between text-xs mt-1" style={{ color: 'var(--text2)' }}>
-            <span>5</span><span>{Math.max(50, availableQs.length)}</span>
-          </div>
+          {(() => {
+            const sliderMax = topicId ? availableQs.length : Math.max(50, availableQs.length)
+            const sliderMin = Math.min(5, sliderMax)
+            const safePct = sliderMax <= sliderMin ? 100 : ((count - sliderMin) / (sliderMax - sliderMin)) * 100
+            return (
+              <>
+                <div className="text-sm font-medium mb-2">Number of Questions: {count}</div>
+                <input type="range" min={sliderMin} max={sliderMax} step={1}
+                  value={Math.min(count, sliderMax)}
+                  onChange={e => setCount(+e.target.value)}
+                  className="w-full quiz-range-slider"
+                  style={{ '--slider-pct': `${safePct}%` }} />
+                <div className="flex justify-between text-xs mt-1" style={{ color: 'var(--text2)' }}>
+                  <span>{sliderMin}</span><span>{sliderMax}</span>
+                </div>
+              </>
+            )
+          })()}
         </div>
       )}
 
