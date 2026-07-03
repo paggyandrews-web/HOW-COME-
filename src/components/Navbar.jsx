@@ -113,6 +113,25 @@ export default function Navbar() {
               <path d="m21 21-4.35-4.35"/>
             </svg>
           </Link>
+
+          {/* Profile icon */}
+          <Link to={user ? '/profile' : '/login'}
+            title={user ? 'Profile' : 'Login'}
+            className="flex items-center justify-center rounded-lg transition-colors"
+            style={{ background: '#111111', border: '1px solid #222222', color: '#ffffff', width: 38, height: 38 }}>
+            {user ? (
+              <div className="flex items-center justify-center rounded-full font-bold text-sm"
+                style={{ width: 24, height: 24, background: 'var(--accent)', color: '#fff' }}>
+                {(user.displayName || user.email || 'U')[0].toUpperCase()}
+              </div>
+            ) : (
+              <svg width="17" height="17" viewBox="0 0 24 24" fill="none"
+                stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <circle cx="12" cy="8" r="4"/>
+                <path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/>
+              </svg>
+            )}
+          </Link>
         </div>
       </div>
     </nav>

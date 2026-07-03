@@ -60,12 +60,11 @@ const navItems = [
     ),
   },
   {
-    to: '/login',
-    label: 'Profile',
+    to: '/bookmarks',
+    label: 'Bookmarks',
     icon: (
       <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
-        <circle cx="12" cy="8" r="4"/>
-        <path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/>
+        <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>
       </svg>
     ),
   },
@@ -75,12 +74,7 @@ export default function BottomNav() {
   const location = useLocation()
   const { user } = useAuth()
 
-  // Update Profile link based on auth state
-  const items = navItems.map(item =>
-    item.label === 'Profile'
-      ? { ...item, to: user ? '/profile' : '/login' }
-      : item
-  )
+  const items = navItems
 
   function isActive(path) {
     if (path === '/') return location.pathname === '/'

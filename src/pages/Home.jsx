@@ -6,8 +6,6 @@ import papers from '../data/papers.json'
 import exams from '../data/exams.json'
 import FlipClock from '../components/FlipClock'
 import { useStreak } from '../hooks/useStreak'
-import { useBookmarks } from '../hooks/useBookmarks'
-import { usePaperBookmarks } from '../hooks/usePaperBookmarks'
 
 const MAX_PINS = 5
 
@@ -234,207 +232,10 @@ function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
   )
 }
 
-
-/* ── Bookmarks tab ──────────────────────────────────────────────────── */
-function BookmarksTab({ pinnedIds, pinExam, unpinExam }) {
-  const { bookmarks } = useBookmarks()
-  const { paperBookmarks } = usePaperBookmarks()
-  const [removeTarget, setRemoveTarget] = useState(null)
-
-  const bookmarkedPapers   = papers.filter(p => paperBookmarks.includes(p.id))
-  const bookmarkedQuestions = questions.filter(q => bookmarks.includes(q.id))
-  const pinnedExams        = exams.filter(e => pinnedIds.includes(e.id))
-  const removeExamData     = removeTarget ? exams.find(e => e.id === removeTarget) : null
-
-  const qCountByPaper = {}
-  questions.forEach(q => { qCountByPaper[q.paperId] = (qCountByPaper[q.paperId] || 0) + 1 })
-
-  const total = bookmarkedPapers.length + bookmarkedQuestions.length + pinnedExams.length
-
-  if (total === 0) {
-    return (
-      <div className="text-center py-16 px-4">
-        <div className="text-5xl mb-4">🔖</div>
-        <p className="font-semibold text-base mb-2">Nothing bookmarked yet</p>
-        <p className="text-sm" style={{ color: 'var(--text2)' }}>
-          Bookmark papers from the Papers tab, save questions during quiz, and pin exams from the Exams tab.
-        </p>
-      </div>
-    )
-  }
-
-  return (
-    <div className="space-y-6 pb-4">
-
-      {/* ── 1. Bookmarked Papers ─────────────────────────────── */}
-      <div>
-        <div className="flex items-center justify-between mb-3">
-          <div className="flex items-center gap-2">
-            <svg width="17" height="17" viewBox="0 0 24 24" fill="none"
-              stroke="var(--accent)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
-              <polyline points="14 2 14 8 20 8"/>
-            </svg>
-            <span className="font-bold text-sm">Bookmarked Papers</span>
-            <span className="text-xs px-2 py-0.5 rounded-full font-semibold"
-              style={{ background: 'rgba(26,157,142,0.15)', color: 'var(--accent)' }}>
-              {bookmarkedPapers.length}
-            </span>
-          </div>
-          <Link to="/papers" className="text-xs font-medium" style={{ color: 'var(--accent)' }}>
-            All papers →
-          </Link>
-        </div>
-
-        {bookmarkedPapers.length === 0 ? (
-          <div className="card rounded-xl p-4 text-center">
-            <p className="text-xs" style={{ color: 'var(--text2)' }}>
-              Tap 🔖 on any paper in the Papers tab to save it here.
-            </p>
-          </div>
-        ) : (
-          <div className="space-y-2">
-            {bookmarkedPapers.map(paper => (
-              <div key={paper.id} className="card rounded-xl p-3">
-                <div className="font-semibold text-sm leading-snug mb-1">
-                  {paper.post || paper.id}
-                </div>
-                <div className="text-xs mb-2.5 flex gap-2" style={{ color: 'var(--text2)' }}>
-                  {paper.date && <span>📅 {paper.date}</span>}
-                  <span>· {qCountByPaper[paper.id] || 0} questions</span>
-                  {paper.paperCode && <span>· {paper.paperCode}</span>}
-                </div>
-                <div className="flex gap-2">
-                  <Link to={`/quiz?paper=${paper.id}&mode=practice`}
-                    className="flex-1 text-center py-1.5 rounded-lg text-xs font-bold"
-                    style={{ background: 'var(--accent)', color: 'var(--accent-text)' }}>
-                    ✏️ Practice
-                  </Link>
-                  <Link to={`/quiz?paper=${paper.id}&mode=browse`}
-                    className="flex-1 text-center py-1.5 rounded-lg text-xs font-bold"
-                    style={{ background: 'var(--bg2)', color: 'var(--text)', border: '1px solid var(--border)' }}>
-                    📖 Browse
-                  </Link>
-                </div>
-              </div>
-            ))}
-          </div>
-        )}
-      </div>
-
-      {/* ── 2. Bookmarked Questions ───────────────────────────── */}
-      <div>
-        <div className="flex items-center justify-between mb-3">
-          <div className="flex items-center gap-2">
-            <svg width="17" height="17" viewBox="0 0 24 24" fill="none"
-              stroke="var(--accent)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-              <circle cx="12" cy="12" r="10"/>
-              <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/>
-              <line x1="12" y1="17" x2="12.01" y2="17"/>
-            </svg>
-            <span className="font-bold text-sm">Bookmarked Questions</span>
-            <span className="text-xs px-2 py-0.5 rounded-full font-semibold"
-              style={{ background: 'rgba(26,157,142,0.15)', color: 'var(--accent)' }}>
-              {bookmarkedQuestions.length}
-            </span>
-          </div>
-          {bookmarkedQuestions.length > 0 && (
-            <Link to="/quiz?mode=saved" className="text-xs font-medium" style={{ color: 'var(--accent)' }}>
-              Quiz all →
-            </Link>
-          )}
-        </div>
-
-        {bookmarkedQuestions.length === 0 ? (
-          <div className="card rounded-xl p-4 text-center">
-            <p className="text-xs" style={{ color: 'var(--text2)' }}>
-              Tap 🏷️ on any question during a quiz to bookmark it here.
-            </p>
-          </div>
-        ) : (
-          <div className="space-y-2">
-            {bookmarkedQuestions.map(q => (
-              <div key={q.id} className="card rounded-xl p-3">
-                <div className="flex items-center gap-2 mb-1.5">
-                  {q.topic && (
-                    <span className="text-xs px-2 py-0.5 rounded-full"
-                      style={{ background: 'rgba(26,157,142,0.12)', color: 'var(--accent)', border: '1px solid rgba(26,157,142,0.2)' }}>
-                      {q.topic}
-                    </span>
-                  )}
-                  <span className="text-xs" style={{ color: 'var(--text2)' }}>
-                    {q.paperId} · Q{q.questionNumber}
-                  </span>
-                </div>
-                <p className="text-xs leading-relaxed mb-2.5" style={{ color: 'var(--text)' }}>
-                  {q.questionText?.replace(/\n/g, ' ').slice(0, 100)}{q.questionText?.length > 100 ? '…' : ''}
-                </p>
-                <Link to={`/quiz?questionId=${q.id}`}
-                  className="text-xs px-3 py-1.5 rounded-lg font-semibold inline-block"
-                  style={{ background: 'var(--accent)', color: 'var(--accent-text)' }}>
-                  View with Explanation →
-                </Link>
-              </div>
-            ))}
-          </div>
-        )}
-      </div>
-
-      {/* ── 3. Bookmarked Exams ───────────────────────────────── */}
-      <div>
-        <div className="flex items-center justify-between mb-3">
-          <div className="flex items-center gap-2">
-            <svg width="17" height="17" viewBox="0 0 24 24" fill="none"
-              stroke="var(--accent)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-              <rect x="3" y="4" width="18" height="18" rx="2"/>
-              <line x1="16" y1="2" x2="16" y2="6"/>
-              <line x1="8"  y1="2" x2="8"  y2="6"/>
-              <line x1="3"  y1="10" x2="21" y2="10"/>
-            </svg>
-            <span className="font-bold text-sm">Bookmarked Exams</span>
-            <span className="text-xs px-2 py-0.5 rounded-full font-semibold"
-              style={{ background: 'rgba(26,157,142,0.15)', color: 'var(--accent)' }}>
-              {pinnedExams.length}
-            </span>
-          </div>
-          <Link to="/exams" className="text-xs font-medium" style={{ color: 'var(--accent)' }}>
-            All exams →
-          </Link>
-        </div>
-
-        {pinnedExams.length === 0 ? (
-          <div className="card rounded-xl p-4 text-center">
-            <p className="text-xs" style={{ color: 'var(--text2)' }}>
-              Tap 🔖 on any exam in the Exams tab to pin it here.
-            </p>
-          </div>
-        ) : (
-          <div className="space-y-3">
-            {pinnedExams.map(e => (
-              <ExamCard key={e.id} exam={e}
-                saved={true} onSave={pinExam}
-                onRequestRemove={setRemoveTarget}
-                savedCount={pinnedExams.length}
-              />
-            ))}
-          </div>
-        )}
-      </div>
-
-      <RemoveDialog
-        exam={removeExamData}
-        onConfirm={() => { unpinExam(removeTarget); setRemoveTarget(null) }}
-        onCancel={() => setRemoveTarget(null)}
-      />
-    </div>
-  )
-}
-
 /* ══ Main Home page ═════════════════════════════════════════════════ */
 export default function Home() {
   const { user, pinnedExams: pinnedIds, pinExam, unpinExam } = useAuth()
   const navigate = useNavigate()
-  const [tab, setTab] = useState('home')
   const [removeTarget, setRemoveTarget] = useState(null)
   const [streak, setStreak]             = useState(0)
   const { getStreak } = useStreak()
@@ -451,193 +252,157 @@ export default function Home() {
   const pinnedExams = exams.filter(e => pinnedIds.includes(e.id)).slice(0, 5)
   const removeExamData = removeTarget ? exams.find(e => e.id === removeTarget) : null
 
-  // Bookmark counts for badge
-  const { bookmarks: qBookmarks } = useBookmarks()
-  const { paperBookmarks }        = usePaperBookmarks()
-  const totalBookmarks = qBookmarks.length + paperBookmarks.length + pinnedIds.length
-
   return (
-    <div className="max-w-2xl mx-auto px-4 py-5">
+    <div className="max-w-2xl mx-auto px-4 py-5 space-y-4">
 
-      {/* ── Tab bar ───────────────────────────────────────────── */}
-      <div className="flex gap-1 mb-5 p-1 rounded-xl"
-        style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
-        {[
-          { id: 'home', label: 'Home' },
-          { id: 'bookmarks', label: 'Bookmarks', count: totalBookmarks },
-        ].map(t => (
-          <button key={t.id} onClick={() => setTab(t.id)}
-            className="flex-1 flex items-center justify-center gap-1.5 py-2 rounded-lg text-sm font-semibold transition-all"
-            style={{
-              background: tab === t.id ? 'var(--accent)' : 'transparent',
-              color: tab === t.id ? 'var(--accent-text)' : 'var(--text2)',
-              touchAction: 'manipulation',
-            }}>
-            {t.label}
-            {t.count > 0 && (
-              <span className="text-xs px-1.5 py-0.5 rounded-full font-bold leading-none"
-                style={{
-                  background: tab === t.id ? 'rgba(255,255,255,0.25)' : 'rgba(26,157,142,0.2)',
-                  color: tab === t.id ? '#fff' : 'var(--accent)',
-                }}>
-                {t.count}
-              </span>
-            )}
-          </button>
-        ))}
-      </div>
+      {/* ── Hero card ─────────────────────────────────────────────── */}
+      <div className="rounded-2xl p-5 relative overflow-hidden"
+        style={{
+          background: 'linear-gradient(140deg, #071a2e 0%, #082030 55%, #060e1a 100%)',
+          border: '1px solid rgba(26,157,142,0.22)',
+          minHeight: 158,
+        }}>
+        <div style={{ position: 'relative', zIndex: 1 }}>
+          <h1 className="font-bold mb-0.5" style={{ fontSize: 22, lineHeight: 1.15 }}>
+            <span style={{ color: 'var(--accent)' }}>HOW </span>
+            <span style={{ color: '#ffffff' }}>COME</span>
+            <span style={{ color: 'var(--accent)' }}>?</span>
+          </h1>
+          <p className="text-sm font-semibold mb-3" style={{ color: 'rgba(0,200,180,0.8)' }}>
+            Foundation to PSC English
+          </p>
 
-      {/* ── Home tab ──────────────────────────────────────────── */}
-      {tab === 'home' && (
-        <div className="space-y-4">
-          {/* Hero card */}
-          <div className="rounded-2xl p-5 relative overflow-hidden"
-            style={{
-              background: 'linear-gradient(140deg, #071a2e 0%, #082030 55%, #060e1a 100%)',
-              border: '1px solid rgba(26,157,142,0.22)',
-              minHeight: 158,
-            }}>
-            <div style={{ position: 'relative', zIndex: 1 }}>
-              <h1 className="font-bold mb-0.5" style={{ fontSize: 22, lineHeight: 1.15 }}>
-                <span style={{ color: 'var(--accent)' }}>HOW </span>
-                <span style={{ color: '#ffffff' }}>COME</span>
-                <span style={{ color: 'var(--accent)' }}>?</span>
-              </h1>
-              <p className="text-sm font-semibold mb-3" style={{ color: 'rgba(0,200,180,0.8)' }}>
-                Foundation to PSC English
-              </p>
-              <div className="flex gap-3 mb-4">
-                <div className="flex-1 rounded-xl px-3 py-2.5" style={{ background: 'rgba(26,157,142,0.12)', border: '1px solid rgba(26,157,142,0.25)' }}>
-                  <div className="font-black text-xl leading-none" style={{ color: 'var(--accent)' }}>{papers.length}</div>
-                  <div className="text-xs mt-0.5" style={{ color: 'rgba(255,255,255,0.5)' }}>Question Papers</div>
-                </div>
-                <div className="flex-1 rounded-xl px-3 py-2.5" style={{ background: 'rgba(26,157,142,0.12)', border: '1px solid rgba(26,157,142,0.25)' }}>
-                  <div className="font-black text-xl leading-none" style={{ color: 'var(--accent)' }}>{questions.length}</div>
-                  <div className="text-xs mt-0.5" style={{ color: 'rgba(255,255,255,0.5)' }}>Total Questions</div>
-                </div>
-              </div>
-              <Link to="/quiz"
-                className="inline-flex items-center gap-1 px-5 py-2.5 rounded-xl font-bold text-sm"
-                style={{ background: 'var(--accent)', color: '#fff' }}>
-                Start Quiz →
-              </Link>
+          {/* Stats row */}
+          <div className="flex gap-3 mb-4">
+            <div className="flex-1 rounded-xl px-3 py-2.5" style={{ background: 'rgba(26,157,142,0.12)', border: '1px solid rgba(26,157,142,0.25)' }}>
+              <div className="font-black text-xl leading-none" style={{ color: 'var(--accent)' }}>{papers.length}</div>
+              <div className="text-xs mt-0.5" style={{ color: 'rgba(255,255,255,0.5)' }}>Question Papers</div>
+            </div>
+            <div className="flex-1 rounded-xl px-3 py-2.5" style={{ background: 'rgba(26,157,142,0.12)', border: '1px solid rgba(26,157,142,0.25)' }}>
+              <div className="font-black text-xl leading-none" style={{ color: 'var(--accent)' }}>{questions.length}</div>
+              <div className="text-xs mt-0.5" style={{ color: 'rgba(255,255,255,0.5)' }}>Total Questions</div>
             </div>
           </div>
 
-          {/* Study Streak */}
-          {streak > 0 && (
-            <div className="rounded-2xl p-4"
-              style={{ background: 'linear-gradient(135deg, #160800 0%, #1c0a00 100%)', border: '1px solid rgba(255,107,53,0.22)' }}>
-              <div className="flex items-center gap-4">
-                <StreakRing days={streak} />
-                <div style={{ flex: 1 }}>
-                  <div className="font-black" style={{ fontSize: 22, lineHeight: 1, color: 'white' }}>
-                    {streak} {streak === 1 ? 'DAY' : 'DAYS'}
-                  </div>
-                  <div className="text-xs mt-1" style={{ color: 'rgba(255,255,255,0.55)' }}>
-                    {streak >= 30 ? 'Unstoppable! Legend 🏆'
-                      : streak >= 14 ? 'Two weeks of dedication! ⚡'
-                      : streak >= 7  ? 'One full week! Keep it up! 💪'
-                      : streak >= 3  ? "Building momentum! Don't stop!"
-                      : 'Great start! Keep the streak alive!'}
-                  </div>
-                </div>
-                <div style={{ textAlign: 'right' }}>
-                  <div className="text-xs font-bold mb-1" style={{ color: 'var(--accent)', letterSpacing: '0.06em' }}>STUDY STREAK</div>
-                  <div className="text-xs mb-2" style={{ color: 'rgba(255,255,255,0.35)' }}>Don't break it!</div>
-                  <StreakDots days={streak} />
-                </div>
-              </div>
-            </div>
-          )}
-
-          {/* Upcoming Exams link */}
-          <Link to="/exams" className="flex items-center gap-3 rounded-2xl p-4"
-            style={{ background: 'var(--surface)', border: '1px solid var(--border)', textDecoration: 'none' }}>
-            <div style={{
-              width: 42, height: 42, borderRadius: 10, flexShrink: 0,
-              background: 'rgba(26,157,142,0.1)', border: '1px solid rgba(26,157,142,0.2)',
-              display: 'flex', alignItems: 'center', justifyContent: 'center',
-            }}>
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none"
-                stroke="var(--accent)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <rect x="3" y="4" width="18" height="18" rx="2"/>
-                <line x1="16" y1="2" x2="16" y2="6"/>
-                <line x1="8"  y1="2" x2="8"  y2="6"/>
-                <line x1="3"  y1="10" x2="21" y2="10"/>
-              </svg>
-            </div>
-            <div style={{ flex: 1 }}>
-              <div className="font-semibold text-sm">Upcoming Exams</div>
-              <div className="text-xs" style={{ color: 'var(--text2)' }}>Stay prepared, stay ahead.</div>
-            </div>
-            <div className="flex items-center gap-2">
-              <div className="font-bold text-sm px-2.5 py-1 rounded-full"
-                style={{ background: 'var(--bg2)', color: 'var(--text)' }}>
-                {upcoming.length}
-              </div>
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none"
-                stroke="var(--text2)" strokeWidth="2" strokeLinecap="round">
-                <path d="M9 18l6-6-6-6"/>
-              </svg>
-            </div>
+          <Link to="/quiz"
+            className="inline-flex items-center gap-1 px-5 py-2.5 rounded-xl font-bold text-sm"
+            style={{ background: 'var(--accent)', color: '#fff' }}>
+            Start Quiz →
           </Link>
+        </div>
+      </div>
 
-          {/* Saved Exams */}
-          {pinnedExams.length > 0 && (
-            <div>
-              <div className="flex items-center justify-between mb-3">
-                <div className="flex items-center gap-2">
-                  <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--accent)">
-                    <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>
-                  </svg>
-                  <h2 className="font-bold text-base">Saved Exams</h2>
-                </div>
-                <Link to="/exams" className="text-sm font-medium" style={{ color: 'var(--accent)' }}>
-                  View all →
-                </Link>
+      {/* ── Study Streak card ─────────────────────────────────────── */}
+      {streak > 0 && (
+        <div className="rounded-2xl p-4"
+          style={{
+            background: 'linear-gradient(135deg, #160800 0%, #1c0a00 100%)',
+            border: '1px solid rgba(255,107,53,0.22)',
+          }}>
+          <div className="flex items-center gap-4">
+            <StreakRing days={streak} />
+            <div style={{ flex: 1 }}>
+              <div className="font-black" style={{ fontSize: 22, lineHeight: 1, color: 'white' }}>
+                {streak} {streak === 1 ? 'DAY' : 'DAYS'}
               </div>
-              <div className="space-y-3">
-                {pinnedExams.map(e => (
-                  <ExamCard key={e.id} exam={e}
-                    saved={true} onSave={pinExam}
-                    onRequestRemove={setRemoveTarget}
-                    savedCount={pinnedExams.length}
-                  />
-                ))}
+              <div className="text-xs mt-1" style={{ color: 'rgba(255,255,255,0.55)' }}>
+                {streak >= 30 ? 'Unstoppable! Legend 🏆'
+                  : streak >= 14 ? 'Two weeks of dedication! ⚡'
+                  : streak >= 7  ? 'One full week! Keep it up! 💪'
+                  : streak >= 3  ? "Building momentum! Don't stop!"
+                  : 'Great start! Keep the streak alive!'}
               </div>
             </div>
-          )}
-
-          {pinnedExams.length === 0 && (
-            <div className="card rounded-xl p-5 text-center">
-              <div className="text-2xl mb-2">🔖</div>
-              <p className="text-sm font-medium mb-1">No exams saved yet</p>
-              <p className="text-xs mb-3" style={{ color: 'var(--text2)' }}>
-                Bookmark upcoming exams to track their countdowns here.
-              </p>
-              <Link to="/exams" className="text-sm font-medium" style={{ color: 'var(--accent)' }}>
-                Browse Upcoming Exams →
-              </Link>
+            <div style={{ textAlign: 'right' }}>
+              <div className="text-xs font-bold mb-1"
+                style={{ color: 'var(--accent)', letterSpacing: '0.06em' }}>STUDY STREAK</div>
+              <div className="text-xs mb-2" style={{ color: 'rgba(255,255,255,0.35)' }}>
+                Don't break it!
+              </div>
+              <StreakDots days={streak} />
             </div>
-          )}
-
-          <RemoveDialog
-            exam={removeExamData}
-            onConfirm={() => handleUnpin(removeTarget)}
-            onCancel={() => setRemoveTarget(null)}
-          />
+          </div>
         </div>
       )}
 
-      {/* ── Bookmarks tab ─────────────────────────────────────── */}
-      {tab === 'bookmarks' && (
-        <BookmarksTab
-          pinnedIds={pinnedIds}
-          pinExam={pinExam}
-          unpinExam={unpinExam}
-        />
+      {/* ── Upcoming Exams row ────────────────────────────────────── */}
+      <Link to="/exams"
+        className="flex items-center gap-3 rounded-2xl p-4"
+        style={{ background: 'var(--surface)', border: '1px solid var(--border)', textDecoration: 'none' }}>
+        <div style={{
+          width: 42, height: 42, borderRadius: 10, flexShrink: 0,
+          background: 'rgba(26,157,142,0.1)',
+          border: '1px solid rgba(26,157,142,0.2)',
+          display: 'flex', alignItems: 'center', justifyContent: 'center',
+        }}>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none"
+            stroke="var(--accent)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <rect x="3" y="4" width="18" height="18" rx="2"/>
+            <line x1="16" y1="2" x2="16" y2="6"/>
+            <line x1="8"  y1="2" x2="8"  y2="6"/>
+            <line x1="3"  y1="10" x2="21" y2="10"/>
+          </svg>
+        </div>
+        <div style={{ flex: 1 }}>
+          <div className="font-semibold text-sm">Upcoming Exams</div>
+          <div className="text-xs" style={{ color: 'var(--text2)' }}>Stay prepared, stay ahead.</div>
+        </div>
+        <div className="flex items-center gap-2">
+          <div className="font-bold text-sm px-2.5 py-1 rounded-full"
+            style={{ background: 'var(--bg2)', color: 'var(--text)' }}>
+            {upcoming.length}
+          </div>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none"
+            stroke="var(--text2)" strokeWidth="2" strokeLinecap="round">
+            <path d="M9 18l6-6-6-6"/>
+          </svg>
+        </div>
+      </Link>
+
+      {/* ── Saved Exams ──────────────────────────────────────────── */}
+      {pinnedExams.length > 0 && (
+        <div>
+          <div className="flex items-center justify-between mb-3">
+            <div className="flex items-center gap-2">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--accent)">
+                <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>
+              </svg>
+              <h2 className="font-bold text-base">Saved Exams</h2>
+            </div>
+            <Link to="/exams" className="text-sm font-medium" style={{ color: 'var(--accent)' }}>
+              View all →
+            </Link>
+          </div>
+          <div className="space-y-3">
+            {pinnedExams.map(e => (
+              <ExamCard key={e.id} exam={e}
+                saved={true} onSave={pinExam}
+                onRequestRemove={setRemoveTarget}
+                savedCount={pinnedExams.length}
+              />
+            ))}
+          </div>
+        </div>
       )}
+
+      {pinnedExams.length === 0 && (
+        <div className="card rounded-xl p-5 text-center">
+          <div className="text-2xl mb-2">🔖</div>
+          <p className="text-sm font-medium mb-1">No exams saved yet</p>
+          <p className="text-xs mb-3" style={{ color: 'var(--text2)' }}>
+            Bookmark upcoming exams to track their countdowns here.
+          </p>
+          <Link to="/exams" className="text-sm font-medium" style={{ color: 'var(--accent)' }}>
+            Browse Upcoming Exams →
+          </Link>
+        </div>
+      )}
+
+      <RemoveDialog
+        exam={removeExamData}
+        onConfirm={() => handleUnpin(removeTarget)}
+        onCancel={() => setRemoveTarget(null)}
+      />
     </div>
   )
 }

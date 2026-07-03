@@ -14,6 +14,7 @@ import Login from './pages/Login'
 import Register from './pages/Register'
 import Profile from './pages/Profile'
 import Search from './pages/Search'
+import Bookmarks from './pages/Bookmarks'
 
 /* Floating scroll button — appears after scrolling 250px */
 function ScrollButton() {
@@ -97,6 +98,7 @@ function AnimatedRoutes() {
         <Route path="/register" element={<Register />} />
         <Route path="/profile" element={<Profile />} />
         <Route path="/search" element={<Search />} />
+        <Route path="/bookmarks" element={<Bookmarks />} />
       </Routes>
     </div>
   )
