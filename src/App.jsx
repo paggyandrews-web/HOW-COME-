@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import { Analytics } from '@vercel/analytics/react'
 import { ThemeProvider } from './contexts/ThemeContext'
 import { AuthProvider } from './contexts/AuthContext'
@@ -15,6 +15,56 @@ import Register from './pages/Register'
 import Profile from './pages/Profile'
 import Search from './pages/Search'
 import Bookmarks from './pages/Bookmarks'
+
+/* Minimalist teal scroll indicator — centered on right edge, fades on idle */
+function ScrollIndicator() {
+  const [progress, setProgress] = useState(0)
+  const [visible, setVisible] = useState(false)
+  const timer = useRef(null)
+
+  useEffect(() => {
+    function onScroll() {
+      const maxScroll = document.documentElement.scrollHeight - window.innerHeight
+      setProgress(maxScroll > 0 ? window.scrollY / maxScroll : 0)
+      setVisible(true)
+      clearTimeout(timer.current)
+      timer.current = setTimeout(() => setVisible(false), 1200)
+    }
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => { window.removeEventListener('scroll', onScroll); clearTimeout(timer.current) }
+  }, [])
+
+  return (
+    <div style={{
+      position: 'fixed',
+      right: 3,
+      top: '50%',
+      transform: 'translateY(-50%)',
+      height: '55vh',
+      width: 2,
+      borderRadius: 2,
+      background: 'rgba(255,255,255,0.07)',
+      opacity: visible ? 1 : 0,
+      transition: 'opacity 0.5s ease',
+      zIndex: 200,
+      pointerEvents: 'none',
+    }}>
+      {/* Thumb */}
+      <div style={{
+        position: 'absolute',
+        left: -1,
+        top: `${progress * 100}%`,
+        transform: 'translateY(-50%)',
+        width: 4,
+        height: 28,
+        borderRadius: 3,
+        background: 'var(--accent)',
+        boxShadow: '0 0 6px rgba(26,157,142,0.5)',
+        transition: 'top 0.08s linear',
+      }} />
+    </div>
+  )
+}
 
 /* Floating scroll button — appears after scrolling 250px */
 function ScrollButton() {
@@ -116,6 +166,7 @@ export default function App() {
               <AnimatedRoutes />
             </div>
             <BottomNav />
+            <ScrollIndicator />
             <ScrollButton />
             <Analytics />
           </div>

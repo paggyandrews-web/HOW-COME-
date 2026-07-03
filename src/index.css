@@ -58,6 +58,10 @@ body {
   font-family: system-ui, -apple-system, sans-serif;
 }
 
+/* Hide native scrollbar — replaced by custom ScrollIndicator */
+::-webkit-scrollbar { width: 0; background: transparent; }
+* { scrollbar-width: none; -ms-overflow-style: none; }
+
 .card {
   background: var(--card);
   border: 1px solid var(--border);
