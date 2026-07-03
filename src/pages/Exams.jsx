@@ -141,7 +141,7 @@ function ExamRow({ exam, saved, onSave, onRequestRemove, savedCount, highlighted
         </div>
         {exam.admissionFrom && (
           <div>
-            <span style={{ color: 'var(--text2)' }}>Admission Tickets From: </span>
+            <span style={{ color: 'var(--text2)' }}>Admit Card from: </span>
             <span className="font-medium">
               {new Date(exam.admissionFrom).toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' })}
             </span>

@@ -173,6 +173,8 @@ function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
     navigate(`/exams#${exam.id}`)
   }
 
+  const isToday = examDate.toDateString() === new Date().toDateString()
+
   return (
     <div className="card rounded-xl p-4"
       onClick={handleCardClick}
@@ -182,12 +184,17 @@ function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
         transition: 'border-color 0.3s ease',
         cursor: 'pointer',
       }}>
+
+      {/* Header */}
       <div className="flex items-start justify-between gap-2 mb-2">
         <div className="flex-1 min-w-0">
           <div className="text-xs font-bold mb-0.5" style={{ color: 'var(--accent)' }}>
             Sl.{exam.slNo} · {exam.catNo}
           </div>
           <div className="font-semibold text-sm leading-snug">{exam.name}</div>
+          {exam.dept && (
+            <div className="text-xs mt-0.5" style={{ color: 'var(--text2)' }}>{exam.dept}</div>
+          )}
         </div>
         <button type="button" onClick={handleBookmark}
           title={saved ? 'Remove from Home' : atMax ? 'Max 5 saved' : 'Save to Home'}
@@ -203,11 +210,14 @@ function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
           <BookmarkIcon saved={saved} />
         </button>
       </div>
-      <div className="grid grid-cols-2 gap-x-4 gap-y-1 text-xs mb-3">
+
+      {/* Full detail grid */}
+      <div className="grid grid-cols-2 gap-x-4 gap-y-1.5 text-xs mb-3">
         <div>
           <span style={{ color: 'var(--text2)' }}>Exam Date: </span>
           <span className="font-medium">
             {examDate.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' })}
+            {isToday && <span className="ml-1 font-bold" style={{ color: '#ef4444' }}>TODAY!</span>}
           </span>
         </div>
         <div>
@@ -222,12 +232,33 @@ function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
           <span style={{ color: 'var(--text2)' }}>Scope: </span>
           <span className="font-medium">{exam.scope}</span>
         </div>
+        {exam.admissionFrom && (
+          <div>
+            <span style={{ color: 'var(--text2)' }}>Admit Card from: </span>
+            <span className="font-medium">
+              {new Date(exam.admissionFrom).toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' })}
+            </span>
+          </div>
+        )}
+        {exam.candidates && (
+          <div>
+            <span style={{ color: 'var(--text2)' }}>Candidates: </span>
+            <span className="font-medium">{exam.candidates.toLocaleString('en-IN')}</span>
+          </div>
+        )}
       </div>
-      {!isPast
-        ? <FlipClock dateStr={exam.date} timeStr={exam.time} compact />
-        : <span className="text-xs px-2 py-1 rounded font-medium"
-            style={{ background: 'var(--bg2)', color: 'var(--text2)' }}>Exam over</span>
-      }
+
+      {/* Countdown */}
+      <div className="flex items-center justify-between flex-wrap gap-2">
+        <div className="text-xs" style={{ color: 'var(--text2)' }}>
+          {isPast ? 'Completed' : 'Time remaining'}
+        </div>
+        {!isPast
+          ? <FlipClock dateStr={exam.date} timeStr={exam.time} compact />
+          : <span className="text-xs px-2 py-1 rounded font-medium"
+              style={{ background: 'var(--bg2)', color: 'var(--text2)' }}>Exam over</span>
+        }
+      </div>
     </div>
   )
 }
