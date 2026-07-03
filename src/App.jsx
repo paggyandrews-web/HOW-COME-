@@ -16,80 +16,29 @@ import Profile from './pages/Profile'
 import Search from './pages/Search'
 import Bookmarks from './pages/Bookmarks'
 
-/* Minimalist teal scroll indicator — centered on right edge, fades on idle */
-function ScrollIndicator() {
-  const [progress, setProgress] = useState(0)
-  const [visible, setVisible] = useState(false)
-  const timer = useRef(null)
-
-  useEffect(() => {
-    function onScroll() {
-      const maxScroll = document.documentElement.scrollHeight - window.innerHeight
-      setProgress(maxScroll > 0 ? window.scrollY / maxScroll : 0)
-      setVisible(true)
-      clearTimeout(timer.current)
-      timer.current = setTimeout(() => setVisible(false), 1200)
-    }
-    window.addEventListener('scroll', onScroll, { passive: true })
-    return () => { window.removeEventListener('scroll', onScroll); clearTimeout(timer.current) }
-  }, [])
-
-  return (
-    <div style={{
-      position: 'fixed',
-      right: 3,
-      top: '50%',
-      transform: 'translateY(-50%)',
-      height: '55vh',
-      width: 2,
-      borderRadius: 2,
-      background: 'rgba(255,255,255,0.07)',
-      opacity: visible ? 1 : 0,
-      transition: 'opacity 0.5s ease',
-      zIndex: 200,
-      pointerEvents: 'none',
-    }}>
-      {/* Thumb */}
-      <div style={{
-        position: 'absolute',
-        left: -1,
-        top: `${progress * 100}%`,
-        transform: 'translateY(-50%)',
-        width: 4,
-        height: 28,
-        borderRadius: 3,
-        background: 'var(--accent)',
-        boxShadow: '0 0 6px rgba(26,157,142,0.5)',
-        transition: 'top 0.08s linear',
-      }} />
-    </div>
-  )
-}
-
-/* Floating scroll button — appears after scrolling 250px */
+/* Teal scroll button — centered, fades out when idle */
 function ScrollButton() {
   const [visible, setVisible] = useState(false)
   const [atBottom, setAtBottom] = useState(false)
+  const timer = useRef(null)
 
   useEffect(() => {
     function onScroll() {
       const scrolled = window.scrollY
       const maxScroll = document.documentElement.scrollHeight - window.innerHeight
-      setVisible(scrolled > 250)
-      setAtBottom(maxScroll > 0 && scrolled >= maxScroll - 40)
+      if (maxScroll < 50) return          // page too short — never show
+      setAtBottom(scrolled >= maxScroll - 40)
+      setVisible(true)
+      clearTimeout(timer.current)
+      timer.current = setTimeout(() => setVisible(false), 1500)
     }
     window.addEventListener('scroll', onScroll, { passive: true })
-    return () => window.removeEventListener('scroll', onScroll)
+    return () => { window.removeEventListener('scroll', onScroll); clearTimeout(timer.current) }
   }, [])
 
-  if (!visible) return null
-
   function handleClick() {
-    if (atBottom) {
-      window.scrollTo({ top: 0, behavior: 'smooth' })
-    } else {
-      window.scrollTo({ top: document.documentElement.scrollHeight, behavior: 'smooth' })
-    }
+    if (atBottom) window.scrollTo({ top: 0, behavior: 'smooth' })
+    else window.scrollTo({ top: document.documentElement.scrollHeight, behavior: 'smooth' })
   }
 
   return (
@@ -98,27 +47,32 @@ function ScrollButton() {
       aria-label={atBottom ? 'Scroll to top' : 'Scroll to bottom'}
       style={{
         position: 'fixed',
-        right: 16,
-        bottom: 'calc(72px + env(safe-area-inset-bottom))',
-        width: 40,
-        height: 40,
+        left: '50%',
+        transform: 'translateX(-50%)',
+        bottom: 'calc(72px + env(safe-area-inset-bottom) + 10px)',
+        width: 38,
+        height: 38,
         borderRadius: '50%',
-        background: 'var(--surface)',
-        border: '1px solid var(--border)',
-        color: 'var(--text2)',
+        background: 'var(--accent)',
+        border: 'none',
+        color: '#fff',
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
-        boxShadow: '0 2px 8px rgba(0,0,0,0.25)',
+        boxShadow: '0 2px 12px rgba(26,157,142,0.45)',
         cursor: 'pointer',
         zIndex: 40,
-        transition: 'opacity 0.2s, transform 0.2s',
+        opacity: visible ? 1 : 0,
+        pointerEvents: visible ? 'auto' : 'none',
+        transition: 'opacity 0.4s ease',
         touchAction: 'manipulation',
+        WebkitTapHighlightColor: 'transparent',
       }}
     >
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none"
+        stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"
         style={{ transform: atBottom ? 'rotate(180deg)' : 'none', transition: 'transform 0.25s' }}>
-        <polyline points="18 15 12 9 6 15" />
+        <polyline points="6 9 12 15 18 9" />
       </svg>
     </button>
   )
@@ -166,7 +120,6 @@ export default function App() {
               <AnimatedRoutes />
             </div>
             <BottomNav />
-            <ScrollIndicator />
             <ScrollButton />
             <Analytics />
           </div>
