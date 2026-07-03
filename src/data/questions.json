@@ -12238,5 +12238,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) won't it?\n• 'Won't it?' = negative tag. 'Nothing will happen' = already negative sentence → POSITIVE tag needed, not negative.\n• 'Nothing will happen, won't it?' = negative + negative = double negative = wrong.\n• 🪤 PSC Trap: 'Will happen' positive verb feel → negative tag 'won't it' feel. But 'nothing' makes sentence negative → positive tag!\n\n❌ (C) wouldn't it?\n• 'Wouldn't' = negative of 'would' — wrong auxiliary. Main sentence = 'will', not 'would'. Tag must match main auxiliary.\n• 'Would' ≠ 'will' — different tenses. Tag must use SAME auxiliary as main sentence.\n• 🪤 PSC Trap: 'Wouldn't it?' = formal/polite question feel. But wrong auxiliary (would ≠ will) AND wrong positive/negative.\n\n❌ (D) would it?\n• 'Would' = wrong auxiliary — main sentence uses 'will', not 'would'. Tag auxiliary must match.\n• 'Would it?' = correct positive form BUT wrong auxiliary.\n• 🪤 PSC Trap: 'Would it?' = positive tag (correct type) but wrong auxiliary. 'Will' → 'will it?' (not 'would it?'). Auxiliary must be exact match.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NOTHING = NEGATIVE = TAG GOES POSITIVE! Nothing negative → tag positive, like a seesaw — one side down, other side UP!' — Negative statement → positive tag. 'Nothing' = down (negative) → tag = up (positive 'will it?').\n• Negative word checklist: nothing, nobody, no one, never, hardly, barely, scarcely → ALL need POSITIVE tags!\n• Two-step tag formula:\n  1. 'Nothing will happen' → negative sentence → positive tag\n  2. Auxiliary = 'will', pronoun = 'it' → 'will it?' ✓\n• PSC exam strategy: See 'nothing/nobody/never' → choose POSITIVE tag option. 'Will it?' = positive auxiliary 'will' + positive form. Guaranteed mark!"
     }
+  },
+  {
+    "id": "052-2024-M-Q81",
+    "paperId": "052-2024-M",
+    "questionNumber": 81,
+    "topic": "Types of Sentences",
+    "questionText": "Rewrite the following sentence using 'so … that':\nThe germ is too small to be seen with a naked eye.",
+    "optionA": "The germ is so small that it can be seen with a naked eye.",
+    "optionB": "The germ is so small that it cannot be seen with a naked eye.",
+    "optionC": "The germ is so small that it could not be seen with a naked eye.",
+    "optionD": "The germ is so small to be seen with a naked eye.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) The germ is so small that it cannot be seen with a naked eye.\n\n• 'Too + adjective + to + verb' → 'So + adjective + that + subject + cannot + verb' = standard transformation rule ✓\n• 'Too small to be seen' = 'so small that it CANNOT be seen' — negative meaning preserved ✓\n• 'Too' = negative implication (ഒരു കാര്യം ചെയ്യാൻ കഴിയാത്ത അവസ്ഥ) → 'cannot' in the 'so...that' form.\n• Meaning: 'ആ രോഗാണു നഗ്നനേത്രം കൊണ്ട് കാണാൻ കഴിയാത്ത വിധം ചെറുതാണ്.'\n• Key: 'Too...to' = inability → 'so...that...cannot' — negative preserved always!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: TOO + adj + to + V1 → SO + adj + THAT + subject + CANNOT + V1\n• Transformation table:\n  - too small to see → so small that we cannot see\n  - too heavy to lift → so heavy that we cannot lift it\n  - too tired to walk → so tired that she could not walk\n• ⚠️ Critical rule: 'Too' = negative meaning → 'that' clause MUST have 'cannot/could not' (NEVER 'can')\n• ⭐ PSC ആവർത്തനം: 'Too...to' → 'so...that' transformation = PSC-ൽ ഇടയ്ക്കിടെ!\n• ഉദാഹരണ sentences:\n  1. He is too weak to run. → He is so weak that he cannot run.\n  2. The box is too heavy to carry. → The box is so heavy that we cannot carry it.\n  3. She was too busy to attend. → She was so busy that she could not attend.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) ...so small that it CAN be seen...\n• 'Can be seen' = positive meaning. 'Too small to be seen' = cannot be seen (negative). 'Can' ഉപയോഗിക്കുന്നത് meaning തിരിച്ചാക്കുന്നു — germ naked eye-ന് കാണാം എന്ന് ആകും, which is opposite!\n• 🪤 PSC Trap: 'So small that it can' = ഒഴുക്കൻ sentence feel. പക്ഷേ 'too...to' = negative → 'cannot' mandatory.\n\n❌ (C) ...so small that it COULD NOT be seen...\n• 'Could not' = past modal. Original sentence present tense ('is') → 'cannot' (present) is correct, not 'could not' (past/hypothetical).\n• 🪤 PSC Trap: 'Could not' = formal/polite negative feel → correct sound. But tense mismatch — 'is too small' (present) → 'cannot' (present).\n\n❌ (D) ...so small TO be seen...\n• This keeps 'to' — not a proper 'so...that' transformation. 'So small to be seen' = incomplete/ungrammatical in this form.\n• 🪤 PSC Trap: Looks like a transformation but 'that' clause is missing. 'So...that' needs a full clause with subject + verb.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'TOO = CANNOT! Too tired to walk = so tired that I CANNOT walk. Too always means CANNOT in disguise!' — 'Too' hidden meaning = inability = cannot.\n• Formula in one line: TOO + adj + to + V → SO + adj + THAT + cannot + V\n• PSC exam strategy: 'Too...to' → 'so...that' question → Look for 'cannot/could not' option first. Option with 'can' (positive) = always eliminate. Option with 'to' alone (no 'that') = eliminate. 'Cannot' = ✓. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "052-2024-M-Q82",
+    "paperId": "052-2024-M",
+    "questionNumber": 82,
+    "topic": "One Word Substitutes",
+    "questionText": "Find the word equivalent to 'a feeling of shyness or embarrassment that stops you from doing or saying what you really want'.",
+    "optionA": "Inhibition",
+    "optionB": "Miserable",
+    "optionC": "Pessimism",
+    "optionD": "Aggressiveness",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Inhibition\n\n• 'Inhibition' = 'മടി, ലജ്ജ, ഉൾത്തടസ്സം' — a psychological feeling of shyness/embarrassment that holds you back.\n• 'Inhibition stops you from doing/saying what you want' = exact definition ✓\n• Word root: Latin 'inhibere' = to hold back (തടഞ്ഞുനിർത്തുക) → inhibition = the feeling that holds you back.\n• Plural 'inhibitions': 'She has no inhibitions' = അവൾക്ക് ഒരു മടിയും ഇല്ല.\n• Meaning: 'ഒരാൾ ആഗ്രഹിക്കുന്ന കാര്യം ചെയ്യുന്നതിൽ നിന്ന് തടയുന്ന ലജ്ജ/മടി/ഉൾഭയം = Inhibition.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: IN- (in/against) +HIBIT (hold) = hold back feeling → INHIBITION!\n• Word family of 'inhibit/inhibition':\n  - inhibit (verb) = തടഞ്ഞുവയ്ക്കുക, hold back\n  - inhibition (noun) = the feeling of being held back\n  - inhibited (adjective) = shy, self-conscious, restrained\n  - uninhibited (adjective) = free, without restraint (opposite)\n• Related psychological terms (PSC vocabulary):\n  - Inhibition = shyness/restraint feeling\n  - Pessimism = negative outlook (ദുരാശ)\n  - Optimism = positive outlook (ശുഭാപ്തിവിശ്വാസം)\n  - Aggressiveness = hostile/forceful behaviour\n• ⭐ PSC ആവർത്തനം: One-word substitute for psychological feelings = PSC frequent!\n• ഉദാഹരണ sentences:\n  1. Stage fright is a common inhibition. (stage-ൽ nervous = inhibition)\n  2. Her inhibitions prevented her from speaking. (inhibition blocked speech)\n  3. He has no inhibitions about expressing himself. (no shyness)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (B) Miserable\n• 'Miserable' = 'ദയനീയം, ദുഃഖകരം' — a feeling of being very unhappy/uncomfortable. Not specifically shyness/restraint.\n• 🪤 PSC Trap: 'Miserable' = negative feeling word → shyness = also negative feeling → seem related. But miserable = sadness/discomfort, not the specific restraint/shyness inhibition describes.\n\n❌ (C) Pessimism\n• 'Pessimism' = 'നിരാശാവാദം' — the tendency to see the worst in everything. Nothing to do with shyness.\n• 🪤 PSC Trap: Pessimism = negative attitude → negative feeling like shyness → related feel. But pessimism = outlook about future, not a restraining social feeling.\n\n❌ (D) Aggressiveness\n• 'Aggressiveness' = 'ആക്രമണോത്സുകത' — forceful, hostile behaviour. Complete OPPOSITE of shyness/inhibition.\n• 🪤 PSC Trap: 'Aggressiveness' = strong/intense feeling → feeling question → could fit. But inhibition = holds you BACK. Aggressiveness = pushes you FORWARD. Opposite meanings.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'INHIBITION = IN +HIBIT = held IN! Feeling held inside that stops you from coming out!' — Inhibition = trapped feeling inside, can't speak/act freely.\n• 'Inhibitions' in everyday life: stage fright (stage-ൽ ഭയം), social anxiety (social ആകുമ്പോൾ nervous), shyness in public = all forms of inhibition.\n• PSC exam strategy: 'Shyness/embarrassment that STOPS you' → look for 'restraint/holding back' word = Inhibition. 'Miserable' = sadness, 'Pessimism' = future outlook, 'Aggressiveness' = opposite. Only Inhibition = correct. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "052-2024-M-Q83",
+    "paperId": "052-2024-M",
+    "questionNumber": 83,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Fill in the blank in the given below sentence:\nNeither of them __________ me.",
+    "optionA": "love",
+    "optionB": "are loving",
+    "optionC": "has love",
+    "optionD": "loves",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) loves\n\n• 'Neither of them' = singular subject — 'neither' = distributive pronoun, always singular ✓\n• Singular subject → singular verb: 'loves' (not 'love') ✓\n• 'Neither of them loves me' = 'അവരിൽ ആരും എന്നെ സ്നേഹിക്കുന്നില്ല.'\n• 'Them' plural ആണ്, പക്ഷേ subject = 'neither' (singular) → verb = singular.\n• Pattern: Neither of + plural noun/pronoun → singular verb (is/has/loves/goes etc.)",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: NEITHER / EITHER + of + plural → SINGULAR verb!\n• Distributive pronouns — always singular:\n  - Neither of them LOVES (not love)\n  - Either of the boys IS (not are)\n  - Each of the students HAS (not have)\n  - Every one of them KNOWS (not know)\n• 'Love' (base form) vs 'loves' (3rd person singular):\n  - He/She/It/Neither/Each/Every → loves (with 's')\n  - I/We/You/They → love (no 's')\n• ⭐ PSC ആവർത്തനം: Neither/Either + of = singular verb = PSC-ൽ ഏറ്റവും tested SVA rule!\n• ഉദാഹരണ sentences:\n  1. Neither of the boys loves cricket. (neither → loves)\n  2. Either of them is welcome. (either → is)\n  3. None of the students knows the answer. (none → knows)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) love\n• 'Love' = plural/base form. 'Neither' = singular → 'loves' (singular) ആവശ്യം.\n• 'Neither of them love me' = grammatically incorrect (plural verb with singular subject).\n• 🪤 PSC Trap: 'Them' plural → 'love' (plural verb) feel. But subject = 'neither' (singular) → 'loves'.\n\n❌ (B) are loving\n• 'Are loving' = present continuous plural. Double error: (1) 'are' = plural auxiliary; (2) 'love' = state verb, not used in continuous form.\n• 'Love' = stative verb (love, like, hate, know) — never used in '-ing' continuous form!\n• 🪤 PSC Trap: 'Are loving' = active/continuous feel → seems dynamic. But 'love' = state (not action) → no continuous form.\n\n❌ (C) has love\n• 'Has love' = wrong verb phrase. 'Has' = auxiliary for Present Perfect (has + V3). 'Has love' is not a verb form — 'love' ≠ past participle.\n• 'Loves' (simple present) = correct; 'has loved' (present perfect) = possible; but 'has love' = neither.\n• 🪤 PSC Trap: 'Has' = singular feel → correct for 'neither'. But 'has + love' (noun) = not a valid verb structure.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NEITHER = ONE of two things — ONE is singular! Neither of them LOVES (like He loves)!' — Neither = picking one from two = singular. He loves, She loves, Neither loves!\n• State verbs — NEVER in continuous (important for PSC):\n  - love, like, hate, know, believe, understand, want, need → never 'is loving, are loving'\n  - Always: loves, knows, believes (simple present)\n• PSC exam strategy: 'Neither of them + blank' → choose singular verb with 's' = 'loves'. 'love' (plural) = eliminate. 'are loving' (continuous state verb) = eliminate. 'has love' (wrong structure) = eliminate. 'loves' = ✓. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "052-2024-M-Q84",
+    "paperId": "052-2024-M",
+    "questionNumber": 84,
+    "topic": "Direct and Indirect Speech",
+    "questionText": "Change into indirect speech:\n\"Alas! My uncle met with an accident\", he said.",
+    "optionA": "My uncle Alas had met with an accident",
+    "optionB": "He cried out that his uncle had met with an accident",
+    "optionC": "He told his uncle that he had met with an accident",
+    "optionD": "He cried that his uncle Alas met with an accident",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) He cried out that his uncle had met with an accident\n\n• 'Alas!' = exclamation of grief/sorrow → indirect speech reporting verb = 'cried out' ✓\n• 'My' → 'his' (pronoun change: first person → third person) ✓\n• 'Met' (Simple Past) → 'had met' (Past Perfect — backshift) ✓\n• 'Alas' = interjection — NOT included in indirect speech (only meaning/emotion preserved through 'cried out') ✓\n• Meaning: 'അവൻ വിലപിച്ചു, തന്റെ അമ്മാവന് അപകടം പറ്റിയെന്ന്.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: Exclamatory sentences → indirect speech: said → cried out/exclaimed. Interjection removed. Tense backshift.\n• Exclamatory indirect speech rules:\n  1. Reporting verb: 'said' → 'cried out' / 'exclaimed' / 'shouted' (based on emotion)\n  2. Interjections (Alas!, Hurrah!, Oh!, Wow!) → removed from indirect speech\n  3. Pronoun change: 'My' → 'his/her' (based on context)\n  4. Tense backshift: Simple Past ('met') → Past Perfect ('had met')\n• Exclamation types and reporting verbs:\n  - Alas! (grief) → cried out, exclaimed sorrowfully\n  - Hurrah! (joy) → cried out, exclaimed joyfully\n  - Oh! / Wow! → exclaimed\n• ⭐ PSC ആവർത്തനം: Exclamatory sentences → indirect speech = PSC-ൽ regular!\n• ഉദാഹരണ sentences:\n  1. 'Alas! I have lost my purse' → She cried out that she had lost her purse.\n  2. 'Hurrah! We won!' → They exclaimed joyfully that they had won.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) My uncle Alas had met with an accident\n• 'Alas' = interjection — indirect speech-ൽ 'Alas' word include ചെയ്യരുത്. Plus no reporting verb/subject ('he said that' missing entirely).\n• 🪤 PSC Trap: 'Alas' word keep ചെയ്‌ത് tense backshift ('had met') = partial correct feel. But interjection must be removed, reporting verb must be added.\n\n❌ (C) He told his uncle that he had met with an accident\n• 'Told his uncle' = wrong — the sentence says 'My uncle met an accident' (uncle is the victim), not that he told his uncle something.\n• Meaning distorted: (C) implies he spoke TO his uncle. But original = he spoke ABOUT his uncle.\n• 🪤 PSC Trap: 'Told his uncle' = smooth sentence. But 'told his uncle' = uncle ആണ് listener. Original = uncle = accident victim. Meaning completely changed!\n\n❌ (D) He cried that his uncle Alas met with an accident\n• Two errors: (1) 'Alas' still included (interjection must be removed); (2) 'met' = no tense backshift (should be 'had met').\n• 🪤 PSC Trap: 'Cried' as reporting verb = correct direction. But 'Alas' kept + no backshift = incomplete transformation.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ALAS = SADNESS → CRIED OUT! Indirect speech = throw away Alas, use cried out instead!' — Interjection (Alas/Hurrah) = trash can (throwaway) in indirect speech. Replace with emotional reporting verb.\n• 3-step exclamatory transformation:\n  1. Remove interjection (Alas → gone)\n  2. Change reporting verb (said → cried out)\n  3. Backshift tense (met → had met) + pronoun (my → his)\n• PSC exam strategy: 'Alas!' indirect speech → option with 'cried out' + no 'Alas' + tense backshift = correct. Eliminate options keeping 'Alas' word or wrong meaning. (B) = only correct. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "052-2024-M-Q85",
+    "paperId": "052-2024-M",
+    "questionNumber": 85,
+    "topic": "Degrees of Comparison",
+    "questionText": "Change the following sentence into superlative degree:\nLight travels faster than anything else.",
+    "optionA": "Anything else travels faster than light in the world.",
+    "optionB": "Anything else travels fastest than light in the world.",
+    "optionC": "Of all things in the world, light travels the fastest.",
+    "optionD": "Nothing is faster than light.",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Of all things in the world, light travels the fastest.\n\n• 'Faster than anything else' (comparative) → 'the fastest of all things' (superlative) ✓\n• Superlative form: fast → faster → the fastest ✓\n• 'Of all things in the world' = superlative context (comparing with EVERYTHING) ✓\n• Structure: 'Of all + noun, subject + verb + the + superlative' ✓\n• Meaning: 'ലോകത്തിലെ എല്ലാ കാര്യങ്ങളിലും, വെളിച്ചം ഏറ്റവും വേഗത്തിൽ സഞ്ചരിക്കുന്നു.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: Comparative 'faster than anything else' → Superlative 'the fastest of all'\n• Degree transformation table for 'fast':\n  - Positive: Light travels fast.\n  - Comparative: Light travels faster than anything else.\n  - Superlative: Of all things, light travels the fastest. ✓\n• Superlative structure patterns:\n  - 'Of all + noun, subject + the + superlative'\n  - 'Subject + the + superlative + of all'\n  - 'Subject + the + superlative + noun'\n• ⭐ PSC ആവർത്തനം: Comparative → Superlative transformation = PSC-ൽ class question!\n• ഉദാഹരണ sentences:\n  1. She is taller than anyone else → She is the tallest of all.\n  2. He runs faster than all others → He runs the fastest of all.\n  3. Gold is more expensive than any other metal → Gold is the most expensive metal.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Anything else travels faster than light in the world.\n• This reverses the meaning — 'anything else' travels faster than light = wrong! Light is the fastest, not 'anything else'.\n• 🪤 PSC Trap: Sentence restructured with 'anything else' as subject = sounds like a transformation. But meaning flipped — light is fastest, not other things.\n\n❌ (B) Anything else travels fastest than light in the world.\n• Double error: (1) meaning reversed (same as A); (2) 'fastest than' = wrong — superlative never uses 'than' ('the fastest OF all' / 'faster THAN' — never mix).\n• 🪤 PSC Trap: 'Fastest' = superlative word = correct degree. But 'fastest than' = impossible combination + meaning reversed.\n\n❌ (D) Nothing is faster than light.\n• This is a different form (positive degree using negative: 'nothing is faster than') — not a superlative transformation.\n• 'Nothing is faster' = valid expression of the idea but NOT the superlative degree form requested.\n• 🪤 PSC Trap: 'Nothing is faster than light' = logically correct and familiar. But question asks for SUPERLATIVE form specifically → 'the fastest' structure needed.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Faster than anything else → THE FASTEST of all! Remove anything else, add THE FASTEST and OF ALL!' — 'Anything else' comparison = comparative. 'Of all things' = superlative. Swap them!\n• Transformation shortcut: 'faster than anything/anyone else' → 'the fastest of all'\n• PSC exam strategy: Comparative → superlative question → find option with 'the + adjective-est + of all' structure. Subject must remain light (fastest traveller). (C) = 'light travels the fastest' = correct subject + superlative. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "052-2024-M-Q86",
+    "paperId": "052-2024-M",
+    "questionNumber": 86,
+    "topic": "Prepositions",
+    "questionText": "Choose the correct preposition to fill in the blank given below:\nThe burglar jumped __________ the compound wall.",
+    "optionA": "at",
+    "optionB": "in",
+    "optionC": "by",
+    "optionD": "over",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) over\n\n• 'Jump over' = ഒരു obstacle കടന്ന്/ചാടിക്കടന്ന് അപ്പുറം പോകുക — wall-ന്റെ മറുഭാഗത്ത് എത്തുക ✓\n• 'The burglar jumped over the compound wall' = 'കള്ളൻ compound wall ചാടിക്കടന്നു.' ✓\n• 'Over' = from one side to the other side, clearing the obstacle.\n• Physical action: burglar was on one side → jumped → landed on the other side = 'over' perfectly describes this motion.\n• Meaning: 'കള്ളൻ compound wall-ന് മുകളിലൂടെ ചാടി അതിർ കടന്നു.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: JUMP OVER = ഒരു obstacle കടന്നുപോകുക (clear from one side to other)\n• Movement prepositions with 'jump':\n  - jump OVER = ചാടിക്കടക്കുക (wall/fence/hurdle — clear an obstacle)\n  - jump INTO = ചാടി അകത്ത് കയറുക (jump into a pool)\n  - jump OUT OF = ചാടി പുറത്ത് വരുക (jump out of a window)\n  - jump AT = eagerly accept (jump at a chance = അവസരം ആർത്തിയോടെ സ്വീകരിക്കുക — idiomatic)\n  - jump ONTO = ചാടി കയറുക (jump onto the bus)\n• ⭐ PSC ആവർത്തനം: Movement prepositions (over/into/onto/out of) = PSC-ൽ regular!\n• ഉദാഹരണ sentences:\n  1. The horse jumped over the fence. (fence കടന്ന് ചാടി)\n  2. The child jumped into the water. (വെള്ളത്തിലേക്ക് ചാടി)\n  3. She jumped over the puddle. (water puddle കടന്ന് ചാടി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) at\n• 'Jump at' = idiomatic meaning — eagerly accept an opportunity ('jump at the chance'). Physical wall context-ൽ 'jump at a wall' = wrong meaning.\n• 🪤 PSC Trap: 'At' = location preposition feel → wall location → 'at the wall' feel. But 'jump at' = idiom (eagerness), not physical action.\n\n❌ (B) in\n• 'Jump in' = enter something ('jump in the pool'). Wall = vertical barrier, not a container to enter. 'Jumped in the wall' = physically impossible meaning.\n• 🪤 PSC Trap: 'In' = very common preposition → familiar choice. But 'in' = inside/enclosed space, not crossing a barrier.\n\n❌ (C) by\n• 'Jump by' = not a standard preposition phrase with 'jump'. 'By' = beside/method ('standing by the wall' ✓, but 'jump by' = no standard meaning).\n• 🪤 PSC Trap: 'By the wall' = standing next to it feel. But 'jumped by the wall' = unclear/wrong meaning for crossing action.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'OVER = going ABOVE and BEYOND! Jump OVER = fly above the wall and land on the other side!' — Imagine the burglar jumping UP and OVER the wall like an arch — OVER!\n• Preposition picture: at = pointing to, in = inside, by = beside, over = above and crossing.\n• PSC exam strategy: 'Jumped + wall/fence/hurdle' → always 'over' (crossing obstacle). 'At' = eagerness idiom. 'In' = entering. 'By' = beside. Physical crossing = OVER. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "052-2024-M-Q87",
+    "paperId": "052-2024-M",
+    "questionNumber": 87,
+    "topic": "Idioms",
+    "questionText": "Find out the meaning of the idiom 'tie yourself up in knots'.",
+    "optionA": "believes something good about someone",
+    "optionB": "make no progress in an argument",
+    "optionC": "become very confused when you are trying to explain something",
+    "optionD": "trying to modify an opinion",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) become very confused when you are trying to explain something\n\n• 'Tie yourself up in knots' = 'കുരുക്കിൽ കുടുങ്ങുക' — confuse yourself so much that you can't explain clearly.\n• Visual image: rope-ൽ knots (കുരുക്കുകൾ) ഉണ്ടാക്കിയാൽ rope unravel ആകില്ല — similarly, thoughts knot ആകുമ്പോൾ explanation unravel ആകില്ല.\n• 'Tie up in knots' = thoughts/words കുരുങ്ങി, explanation difficult ആകുന്ന സ്ഥിതി ✓\n• Meaning: 'ഒരു കാര്യം explain ചെയ്യാൻ ശ്രമിക്കുന്തോറും കൂടുതൽ confused ആകുന്ന അവസ്ഥ.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: KNOTS = CONFUSION! Tie in knots = tangled thoughts = confused explanation!\n• Idioms with 'knot/tie' theme:\n  - tie yourself up in knots = become confused explaining\n  - tie the knot = marry (വിവാഹം കഴിക്കുക)\n  - at a rate of knots = very fast (വളരെ വേഗത്തിൽ)\n  - a knotty problem = a very difficult problem (കുഴഞ്ഞ problem)\n• Related 'confusion' idioms for PSC:\n  - in a muddle = confused\n  - at sea = confused/lost\n  - go around in circles = make no progress\n  - lose the thread = forget what you were saying\n• ⭐ PSC ആവർത്തനം: Idiom meanings = PSC-ൽ ഇടയ്ക്കിടെ!\n• ഉദാഹരണ sentences:\n  1. He tied himself up in knots trying to explain the rule. (explain ചെയ്യതോ confused)\n  2. She gets tied up in knots whenever she speaks in public. (public speech = confused)\n  3. Stop tying yourself up in knots — just say it simply! (advice to be clear)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) believes something good about someone\n• 'Believes something good' = positive belief about a person. 'Tie in knots' = confusion — nothing to do with belief or positive opinion.\n• 🪤 PSC Trap: 'Knots' = tight/strong → strongly believe feel. But 'tie in knots' = tangled confusion, not firm belief.\n\n❌ (B) make no progress in an argument\n• 'Make no progress' = stuck/stagnant. 'Tie in knots' specifically = confusion during EXPLANATION, not just lack of progress.\n• 🪤 PSC Trap: Being confused → could mean making no progress. But the idiom specifically = confusion during explaining, not general stagnation.\n\n❌ (D) trying to modify an opinion\n• 'Modify an opinion' = change one's view. No connection to 'tying knots' imagery.\n• 🪤 PSC Trap: 'Knots' = changing/adjusting feel? No logical connection. The image is tangled confusion, not opinion modification.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Tie in KNOTS = your THOUGHTS get KNOTTED like tangled earphones! Can't straighten them out to explain clearly!' — Earphones/headphones കുരുങ്ങിയ image → thoughts confused → explanation confused = tied up in knots!\n• PSC idiom tip: Idiom meaning questions → think about the visual image. Knots = tangled = confused. Which option matches 'confused while explaining'? = (C).\n• PSC exam strategy: 'Tie in knots' → look for 'confused/confusing' option. Eliminate 'believe' (no connection), 'no progress' (partial), 'modify opinion' (no connection). (C) = confused explanation = exact match. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "052-2024-M-Q88",
+    "paperId": "052-2024-M",
+    "questionNumber": 88,
+    "topic": "Articles",
+    "questionText": "Complete the following sentence using suitable articles:\nOn __________ way we saw __________ one eyed beggar.",
+    "optionA": "a, an",
+    "optionB": "the, a",
+    "optionC": "the, an",
+    "optionD": "a, a",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) the, a\n\n• Blank 1: 'On THE way' = ഒരു specific journey/route refer ചെയ്യുന്നു — definite article 'the' ✓\n• Blank 2: 'A one-eyed beggar' — 'one' word-ന്റെ ഉച്ചാരണം = /wʌn/ = 'w' consonant sound → 'a' (not 'an') ✓\n• 'On the way' = fixed phrase — the journey (specific) → 'the'.\n• 'A one-eyed beggar' = first mention, indefinite + 'one' = /w/ sound → 'a'.\n• Meaning: 'യാത്രയ്ക്കിടയിൽ ഞങ്ങൾ ഒരു ഒറ്റക്കണ്ണൻ യാചകനെ കണ്ടു.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: THE = specific/known. A/AN = first mention/indefinite. A/AN = SOUND-based (not spelling)!\n• Blank 1 — 'the way':\n  - 'On the way' = fixed expression for a specific journey ✓\n  - 'On a way' = wrong (no such fixed expression)\n• Blank 2 — 'one-eyed':\n  - 'One' = pronounced /wʌn/ — starts with /w/ = consonant sound → 'A'\n  - NOT 'an one' — even though 'o' is a vowel letter, 'one' = /w/ consonant sound!\n• Tricky words starting with vowel letter but consonant sound → 'A':\n  - a one-eyed (wʌn = /w/)\n  - a university (ju: = /j/)\n  - a unique (ju: = /j/)\n  - a European (jʊər = /j/)\n• ⭐ PSC ആവർത്തനം: 'One-eyed / one + noun' article = PSC-ൽ classic trick!\n• ഉദാഹരണ sentences:\n  1. On the way, we stopped for tea. (the way = specific journey)\n  2. She met a one-armed soldier. (one = /w/ sound → a)\n  3. It was a one-time offer. (one = /w/ → a)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) a, an\n• 'A way' = wrong ('on the way' = fixed expression needing 'the'). 'An one-eyed' = wrong ('one' = /w/ sound → 'a'). Double error!\n• 🪤 PSC Trap: 'An one-eyed' = 'one' starts with 'O' vowel letter → 'an' feel. But SOUND = /w/ consonant → 'a'.\n\n❌ (C) the, an\n• 'The way' ✓ (correct!), but 'an one-eyed' ✗ ('one' = /w/ consonant sound → 'a', not 'an').\n• 🪤 PSC Trap: Most common mistake — 'the' correct for blank 1, BUT 'an one' = wrong. 'One' = /wʌn/ → 'a'. This is the most tempting wrong answer!\n\n❌ (D) a, a\n• 'A way' = wrong (should be 'the way' — specific journey). 'A one-eyed' = correct (a one = /w/ sound). One correct, one wrong.\n• 🪤 PSC Trap: 'A one-eyed' = correct! But 'a way' = wrong. 'On the way' is fixed phrase requiring 'the'.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ONE sounds like WON (won a race) — W sound! So it's A one, not AN one! A one-eyed, a one-time, a one-way!' — 'One' = say it aloud: /wʌn/ = starts with W → A!\n• Two-blank article strategy:\n  1. 'On ___ way' → always 'the way' (fixed phrase) → eliminate A and D\n  2. '___ one-eyed' → 'one' = /w/ sound → 'a' → eliminate C (an)\n  3. Only (B) the, a = both correct!\n• PSC exam strategy: Two blanks → eliminate wrong options step by step. 'The way' = fixed phrase → eliminates A(a,an) and D(a,a). 'One' = /w/ sound → 'a' → eliminates C(the,an). (B) the, a = ✓. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "052-2024-M-Q89",
+    "paperId": "052-2024-M",
+    "questionNumber": 89,
+    "topic": "Abbreviations",
+    "questionText": "What is the expansion and meaning of the abbreviation given below?\nAM",
+    "optionA": "After Midday, After Noon",
+    "optionB": "Ante-Meridiem, Before Midday",
+    "optionC": "Ante-Meridiem, After Noon",
+    "optionD": "After Midday, Morning",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Ante-Meridiem, Before Midday\n\n• 'AM' = Ante Meridiem (Latin) = 'Meridiem-ന് മുമ്പ്' = Before Midday (ഉച്ചക്ക് മുമ്പ്) ✓\n• Latin 'ante' = before (മുമ്പ്); 'meridiem' = midday/noon (ഉച്ചനേരം).\n• AM = 12:00 midnight to 12:00 noon (midnight മുതൽ ഉച്ചവരെ).\n• PM = Post Meridiem = After Midday (ഉച്ചക്ക് ശേഷം = 12:00 noon to midnight).\n• Meaning: '9 AM = 9 o'clock in the morning = രാവിലെ 9 മണി.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: AM = ANTE (before) + MERIDIEM (midday) = BEFORE MIDDAY. PM = POST (after) + MERIDIEM = AFTER MIDDAY!\n• Latin roots (PSC must-know):\n  - Ante = before (മുമ്പ്) → AM = before noon\n  - Post = after (ശേഷം) → PM = after noon\n  - Meridiem = midday/noon (ഉച്ചനേരം)\n• Time abbreviations for PSC:\n  - AM = Ante Meridiem = Before Midday (12 midnight – 12 noon)\n  - PM = Post Meridiem = After Midday (12 noon – 12 midnight)\n  - GMT = Greenwich Mean Time\n  - IST = Indian Standard Time\n• ⭐ PSC ആവർത്തനം: Common abbreviations (AM/PM/GMT etc.) = PSC-ൽ regular!\n• ഉദാഹരണ sentences:\n  1. The exam starts at 10 AM. (10 in the morning)\n  2. The meeting is at 3 PM. (3 in the afternoon)\n  3. 12 AM = midnight; 12 PM = noon (ഇവ confuse ആകാൻ സാധ്യത)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) After Midday, After Noon\n• 'After Midday' = PM-ന്റെ meaning! AM = BEFORE midday, PM = AFTER midday. Complete confusion!\n• 🪤 PSC Trap: AM/PM confuse ആകുന്നത് common. 'After Midday' = PM meaning. AM = Ante (before) = morning. Never 'After' with AM.\n\n❌ (C) Ante-Meridiem, After Noon\n• Expansion correct: 'Ante-Meridiem' ✓. But meaning wrong: 'After Noon' = PM-ന്റെ meaning. Ante = before, not after!\n• 🪤 PSC Trap: 'Ante-Meridiem' = looks impressive/correct → choose this. But meaning 'After Noon' = contradicts 'ante' (before). Half right = fully wrong!\n\n❌ (D) After Midday, Morning\n• Both wrong: expansion wrong (After Midday ≠ Ante Meridiem) AND meaning partially confused.\n• 🪤 PSC Trap: 'Morning' = AM = morning time = correct feeling. But AM ≠ 'After Midday' expansion. 'Morning' alone doesn't fully define AM (AM = midnight to noon, not just morning).",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'A in AM = ANTE = AADHYAM (ആദ്യം)! A comes FIRST in alphabet = AM comes FIRST in the day (morning)! P in PM = POST = PINNALE (പിന്നാലെ)! P comes after A = PM comes after AM!' — A before P in alphabet = AM before PM in the day!\n• Simple memory: AM = Morning time (after midnight, before noon). PM = Evening/Night (after noon, before midnight).\n• PSC exam strategy: 'AM' expansion = Ante-Meridiem (not After). Meaning = Before Midday (not After). Only (B) has both correct: Ante-Meridiem + Before Midday. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "052-2024-M-Q90",
+    "paperId": "052-2024-M",
+    "questionNumber": 90,
+    "topic": "Synonyms",
+    "questionText": "Find out the Synonym for the word 'Feud'.",
+    "optionA": "Friendship",
+    "optionB": "Father-in-law",
+    "optionC": "Quarrel",
+    "optionD": "Ignorant",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Quarrel\n\n• 'Feud' = 'ദീർഘകാല വൈരം, കുടുംബ ശത്രുത, bitter conflict' — a long-lasting angry dispute, especially between families/groups.\n• 'Quarrel' = 'വഴക്ക്, തർക്കം, conflict' = synonym of feud ✓ (both = angry dispute)\n• 'Feud' = usually longer/more bitter than a simple quarrel — family feuds can last generations.\n• Word root: Old French 'faide' = hostility (ശത്രുത).\n• Meaning: 'Feud = ദീർഘകാലമായ കടുത്ത വൈരം/വഴക്ക്, especially between families.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 ഓർക്കാനുള്ള formula: FEUD = long-lasting QUARREL/CONFLICT — family/group enmity over time!\n• Word family of 'feud':\n  - feud (noun) = long bitter dispute (ദീർഘകാല ശത്രുത)\n  - feudal (adjective) = relating to feudalism (feudal system)\n  - feuding (verb/adjective) = engaged in a feud (feuding families)\n• Synonyms of feud: quarrel, conflict, dispute, enmity, rivalry, vendetta, hostility\n• Antonyms of feud: friendship, harmony, peace, accord, goodwill\n• ⭐ PSC ആവർത്തനം: Vocabulary synonyms with misleading options = PSC classic!\n• ഉദാഹരണ sentences:\n  1. The two families had a feud for decades. (decades = long quarrel)\n  2. Their feud over land finally ended. (property dispute = feud)\n  3. The celebrity feud made news. (public conflict = feud)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) Friendship\n• 'Friendship' = 'സൗഹൃദം' — exact ANTONYM of feud. Feud = enmity; friendship = opposite.\n• 🪤 PSC Trap: 'Feud' = sounds like a relationship word (like 'friend' pattern?) → 'friendship' feel. But 'feud' = hostility, 'friendship' = harmony. Completely opposite!\n\n❌ (B) Father-in-law\n• 'Father-in-law' = 'അമ്മായിയപ്പൻ' — a family relationship, not an English vocabulary synonym. Completely unrelated.\n• 🪤 PSC Trap: 'Feud' sometimes associated with families ('family feud') → family relation 'father-in-law' = feel related. But feud = quarrel/conflict, not a family member title.\n\n❌ (D) Ignorant\n• 'Ignorant' = 'അജ്ഞൻ, അറിവില്ലാത്ത' — completely unrelated to feud. Feud = conflict, ignorant = lack of knowledge.\n• 🪤 PSC Trap: 'Ignorant' = negative word → feud also negative → both negative = seem synonymous. But negative ≠ same meaning. Conflict ≠ ignorance.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'FEUD = FOOD FIGHT! Family FEUD = long family food/quarrel fight! FEUD rhymes with RUDE — rude people quarrel!' — Family Feud (TV show!) = famous family quarrel show → FEUD = quarrel/conflict!\n• Quick synonym pairs to remember:\n  - Feud = Quarrel/Conflict/Vendetta\n  - Amity = Friendship (amity = feud-ന്റെ antonym)\n  - Enmity = Hostility/Hatred\n• PSC exam strategy: 'Feud' synonym → eliminate opposites first. 'Friendship' (A) = antonym → eliminate. 'Father-in-law' (B) = unrelated person → eliminate. 'Ignorant' (D) = different category → eliminate. 'Quarrel' (C) = conflict = ✓. Guaranteed mark!"
+    }
   }
 ]
