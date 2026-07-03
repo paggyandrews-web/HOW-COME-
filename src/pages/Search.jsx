@@ -215,22 +215,23 @@ export default function Search() {
               {/* Actions */}
               <div className="flex gap-2 flex-wrap">
                 <Link
-                  to={`/quiz?paper=${q.paperId}&mode=browse`}
+                  to={`/quiz?questionId=${q.id}`}
                   className="text-xs px-3 py-1.5 rounded-lg font-semibold"
-                  style={{ background: 'var(--accent)', color: 'var(--accent-text)' }}
+                  style={{ background: 'var(--accent)', color: 'var(--accent-text)', touchAction: 'manipulation' }}
                 >
-                  Practice Paper →
+                  View with Explanation →
                 </Link>
                 <Link
-                  to={`/quiz?topic=${encodeURIComponent(q.topic || '')}&mode=practice`}
+                  to={`/quiz?paper=${q.paperId}&mode=browse`}
                   className="text-xs px-3 py-1.5 rounded-lg font-medium"
                   style={{
                     background: 'var(--bg2)',
                     color: 'var(--text2)',
                     border: '1px solid var(--border)',
+                    touchAction: 'manipulation',
                   }}
                 >
-                  Quiz on {q.topic?.split(' ')[0] || 'Topic'}
+                  All questions in {q.paperId} →
                 </Link>
               </div>
             </div>

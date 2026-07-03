@@ -715,11 +715,22 @@ export default function Quiz() {
   const { saveResult } = useResults()
   const { toggle: toggleBookmark, isBookmarked } = useBookmarks()
   const { updateStreak } = useStreak()
+  const [searchParams] = useSearchParams()
 
   const isTimed = quizData?.mode === 'timed'
   const isBrowse = quizData?.mode === 'browse'
   const q = quizData?.questions[current]
   const secsPerQ = quizData?.secsPerQ || 30
+
+  // Auto-start when a single questionId is passed (from Search page)
+  useEffect(() => {
+    const qid = searchParams.get('questionId')
+    if (!qid) return
+    const found = questions.find(q => q.id === qid)
+    if (!found) return
+    handleStart({ questions: [found], mode: 'browse', secsPerQ: 30 })
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
 
   // Auto-reveal in browse mode
   useEffect(() => {
