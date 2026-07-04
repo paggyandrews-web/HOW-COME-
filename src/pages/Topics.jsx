@@ -37,23 +37,17 @@ const VOCABULARY_TOPICS = [
 ]
 
 function TopicCard({ topic, count }) {
-  const barPct = Math.min(100, Math.round((count / 25) * 100))
   return (
-    <div className="card rounded-xl p-4 flex flex-col gap-3">
-      <div>
-        <div className="text-xl mb-1">{topic.emoji}</div>
-        <div className="font-semibold text-sm leading-snug mb-1.5">{topic.name}</div>
-        <div className="flex items-center gap-2">
-          <div className="flex-1 rounded-full h-1.5" style={{ background: 'var(--bg2)' }}>
-            <div
-              className="h-1.5 rounded-full"
-              style={{ width: barPct + '%', background: 'var(--accent)', transition: 'width 0.4s ease' }}
-            />
-          </div>
-          <span className="text-xs font-semibold shrink-0" style={{ color: 'var(--accent)', minWidth: 28 }}>
-            {count}
-          </span>
-        </div>
+    <div className="card rounded-xl p-3 flex flex-col gap-2">
+      <div className="flex items-center gap-2 min-w-0">
+        <span className="text-lg shrink-0">{topic.emoji}</span>
+        <span className="font-semibold text-sm leading-snug flex-1 truncate">{topic.name}</span>
+        <span
+          className="shrink-0 flex items-center justify-center rounded-full text-xs font-bold"
+          style={{ width: 26, height: 26, background: 'var(--accent)', color: 'var(--accent-text)' }}
+        >
+          {count}
+        </span>
       </div>
       <div className="flex gap-2">
         <Link
