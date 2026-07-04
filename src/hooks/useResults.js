@@ -1,8 +1,9 @@
 import { useAuth } from '../contexts/AuthContext'
-import { collection, addDoc, getDocs } from 'firebase/firestore'
+import { collection, addDoc, getDocs, query, orderBy, limit } from 'firebase/firestore'
 import { db } from '../firebase/config'
 
 const STORAGE_KEY = 'cs-quiz-results'
+const RESULTS_LIMIT = 50 // only read the most recent N quizzes (keeps Firestore reads bounded as history grows)
 
 export function useResults() {
   const { user } = useAuth()
@@ -43,10 +44,15 @@ export function useResults() {
   }
 
   async function getAllResults() {
-    // Registered users: try Firestore first (most complete)
+    // Registered users: try Firestore first (most recent RESULTS_LIMIT quizzes)
     if (user) {
       try {
-        const snap = await getDocs(collection(db, 'results', user.uid, 'quizzes'))
+        const q = query(
+          collection(db, 'results', user.uid, 'quizzes'),
+          orderBy('date', 'desc'),
+          limit(RESULTS_LIMIT)
+        )
+        const snap = await getDocs(q)
         if (!snap.empty) {
           return snap.docs.map(d => d.data())
         }
