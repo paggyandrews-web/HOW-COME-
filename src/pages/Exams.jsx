@@ -180,7 +180,7 @@ function ExamRow({ exam, mode, saved, onSave, onRequestRemove, savedCount, highl
                 <span className="font-medium">{exam.candidates.toLocaleString('en-IN')}</span>
               </div>
             )}
-            {exam.confirmBy && (
+            {exam.confirmBy && candidatesPending && (
               <div className="col-span-2">
                 <span style={{ color: CONFIRM_COLOR }}>⚠ Confirm by: </span>
                 <span className="font-medium">
