@@ -14,11 +14,16 @@ function formatTime12h(timeStr) {
 
 const MAX_PINS = 5
 
-function BookmarkIcon({ saved }) {
+// Confirmation-tab accent (amber) — Exam-tab keeps the app's normal --accent
+const CONFIRM_COLOR = '#f59e0b'
+const CONFIRM_HOVER = '#d97706'
+const CONFIRM_TEXT_ON = '#1a1200'
+
+function BookmarkIcon({ saved, color = 'var(--accent)' }) {
   return (
     <svg width="22" height="22" viewBox="0 0 24 24"
-      fill={saved ? 'var(--accent)' : 'none'}
-      stroke="var(--accent)" strokeWidth="2"
+      fill={saved ? color : 'none'}
+      stroke={color} strokeWidth="2"
       strokeLinecap="round" strokeLinejoin="round">
       <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>
     </svg>
@@ -62,13 +67,25 @@ function RemoveDialog({ exam, onConfirm, onCancel }) {
   )
 }
 
-function ExamRow({ exam, saved, onSave, onRequestRemove, savedCount, highlighted }) {
+// mode: 'exam' (dated calendar) | 'confirm' (OTR confirmation deadline)
+function ExamRow({ exam, mode, saved, onSave, onRequestRemove, savedCount, highlighted }) {
+  const isConfirm = mode === 'confirm'
+  const accent = isConfirm ? CONFIRM_COLOR : 'var(--accent)'
+  const refDateStr = isConfirm ? exam.confirmBy : exam.date
+  const refTimeStr = isConfirm ? (exam.confirmTime || '23:59') : exam.time
+
   const atMax = !saved && savedCount >= MAX_PINS
-  const examDate = new Date(exam.date)
+  const refDate = new Date(refDateStr)
   const now = new Date()
   const today = new Date(now.toDateString())
-  const isPast = examDate < today
-  const isToday = examDate.toDateString() === now.toDateString()
+  const isPast = refDate < today
+  const isToday = refDate.toDateString() === now.toDateString()
+
+  // PSC only finalizes the candidate count and exam time AFTER the
+  // confirmation window closes. While confirmBy is still upcoming, the
+  // candidates figure is the pre-confirmation (provisional) number.
+  const candidatesPending = exam.confirmBy && new Date(exam.confirmBy) >= today
+  const candidatesLabel = candidatesPending ? 'Provisional Candidates: ' : 'Total Candidates: '
 
   function handleBookmark(e) {
     e.stopPropagation()
@@ -81,88 +98,147 @@ function ExamRow({ exam, saved, onSave, onRequestRemove, savedCount, highlighted
     <div id={exam.id} className="card rounded-xl p-4"
       style={{
         opacity: isPast ? 0.55 : 1,
-        borderLeft: saved ? '4px solid var(--accent)' : highlighted ? '4px solid var(--accent)' : '4px solid transparent',
+        borderLeft: saved ? `4px solid ${accent}` : highlighted ? `4px solid ${accent}` : '4px solid transparent',
         transition: 'border-color 0.3s ease, box-shadow 0.3s ease',
-        boxShadow: highlighted ? '0 0 0 2px var(--accent)' : undefined,
+        boxShadow: highlighted ? `0 0 0 2px ${accent}` : undefined,
       }}>
       {/* Top row */}
       <div className="flex items-start justify-between gap-3 mb-2">
         <div className="flex-1 min-w-0">
-          <div className="text-xs font-bold mb-0.5" style={{ color: 'var(--accent)' }}>
+          <div className="text-xs font-bold mb-0.5" style={{ color: accent }}>
             Sl. {exam.slNo} · {exam.catNo}
           </div>
           <div className="font-semibold text-sm leading-snug mb-0.5">{exam.name}</div>
           <div className="text-xs" style={{ color: 'var(--text2)' }}>{exam.dept}</div>
         </div>
-        <button
-          type="button"
-          onClick={handleBookmark}
-          title={saved ? 'Remove from Home' : atMax ? 'Max 5 saved' : 'Save to Home'}
-          className="shrink-0 mt-0.5 transition-transform active:scale-110"
-          style={{
-            opacity: saved ? 1 : atMax ? 0.2 : 0.7,
-            pointerEvents: atMax ? 'none' : 'auto',
-            padding: '6px 8px',
-            minWidth: '44px',
-            minHeight: '44px',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
-            touchAction: 'manipulation',
-            WebkitTapHighlightColor: 'transparent',
-            background: 'none',
-            border: 'none',
-            cursor: 'pointer',
-          }}>
-          <BookmarkIcon saved={saved} />
-        </button>
+        {!isConfirm && (
+          <button
+            type="button"
+            onClick={handleBookmark}
+            title={saved ? 'Remove from Home' : atMax ? 'Max 5 saved' : 'Save to Home'}
+            className="shrink-0 mt-0.5 transition-transform active:scale-110"
+            style={{
+              opacity: saved ? 1 : atMax ? 0.2 : 0.7,
+              pointerEvents: atMax ? 'none' : 'auto',
+              padding: '6px 8px',
+              minWidth: '44px',
+              minHeight: '44px',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              touchAction: 'manipulation',
+              WebkitTapHighlightColor: 'transparent',
+              background: 'none',
+              border: 'none',
+              cursor: 'pointer',
+            }}>
+            <BookmarkIcon saved={saved} color={accent} />
+          </button>
+        )}
+        {isConfirm && (
+          <span className="shrink-0 text-xs font-bold px-2 py-1 rounded-full"
+            style={{ background: 'rgba(245,158,11,0.15)', color: CONFIRM_COLOR }}>
+            Confirm
+          </span>
+        )}
       </div>
 
       {/* Meta grid */}
       <div className="grid grid-cols-2 gap-x-4 gap-y-1.5 text-xs mb-3">
-        <div>
-          <span style={{ color: 'var(--text2)' }}>Exam Date: </span>
-          <span className="font-medium">
-            {examDate.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' })}
-            {isToday && <span className="ml-1 font-bold" style={{ color: '#ef4444' }}>TODAY!</span>}
-          </span>
-        </div>
-        <div>
-          <span style={{ color: 'var(--text2)' }}>Exam Time: </span>
-          <span className="font-medium">{formatTime12h(exam.time)}</span>
-        </div>
-        <div>
-          <span style={{ color: 'var(--text2)' }}>Mode: </span>
-          <span className="font-medium">{exam.mode}</span>
-        </div>
-        <div>
-          <span style={{ color: 'var(--text2)' }}>Scope: </span>
-          <span className="font-medium">{exam.scope}</span>
-        </div>
-        {exam.admissionFrom && (
-          <div>
-            <span style={{ color: 'var(--text2)' }}>Admit Card from: </span>
-            <span className="font-medium">
-              {new Date(exam.admissionFrom).toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' })}
-            </span>
-          </div>
-        )}
-        {exam.candidates && (
-          <div>
-            <span style={{ color: 'var(--text2)' }}>Total Candidates: </span>
-            <span className="font-medium">{exam.candidates.toLocaleString('en-IN')}</span>
-          </div>
+        {!isConfirm ? (
+          <>
+            <div>
+              <span style={{ color: 'var(--text2)' }}>Exam Date: </span>
+              <span className="font-medium">
+                {refDate.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' })}
+                {isToday && <span className="ml-1 font-bold" style={{ color: '#ef4444' }}>TODAY!</span>}
+              </span>
+            </div>
+            <div>
+              <span style={{ color: 'var(--text2)' }}>Exam Time: </span>
+              <span className="font-medium">{exam.time ? formatTime12h(exam.time) : 'TBA (see Admit Card)'}</span>
+            </div>
+            <div>
+              <span style={{ color: 'var(--text2)' }}>Mode: </span>
+              <span className="font-medium">{exam.mode}</span>
+            </div>
+            <div>
+              <span style={{ color: 'var(--text2)' }}>Scope: </span>
+              <span className="font-medium">{exam.scope}</span>
+            </div>
+            {exam.admissionFrom && (
+              <div>
+                <span style={{ color: 'var(--text2)' }}>Admit Card from: </span>
+                <span className="font-medium">
+                  {new Date(exam.admissionFrom).toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' })}
+                </span>
+              </div>
+            )}
+            {exam.candidates && (
+              <div>
+                <span style={{ color: 'var(--text2)' }}>{candidatesLabel}</span>
+                <span className="font-medium">{exam.candidates.toLocaleString('en-IN')}</span>
+              </div>
+            )}
+            {exam.confirmBy && (
+              <div className="col-span-2">
+                <span style={{ color: CONFIRM_COLOR }}>⚠ Confirm by: </span>
+                <span className="font-medium">
+                  {new Date(exam.confirmBy).toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' })}
+                </span>
+              </div>
+            )}
+          </>
+        ) : (
+          <>
+            <div>
+              <span style={{ color: 'var(--text2)' }}>Confirm by: </span>
+              <span className="font-medium">
+                {refDate.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' })}
+                {isToday && <span className="ml-1 font-bold" style={{ color: '#ef4444' }}>TODAY!</span>}
+              </span>
+            </div>
+            <div>
+              <span style={{ color: 'var(--text2)' }}>Scope: </span>
+              <span className="font-medium">{exam.scope}</span>
+            </div>
+            {exam.date && (
+              <div>
+                <span style={{ color: 'var(--text2)' }}>Exam Date: </span>
+                <span className="font-medium">
+                  {new Date(exam.date).toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' })}
+                </span>
+              </div>
+            )}
+            {exam.mode && (
+              <div>
+                <span style={{ color: 'var(--text2)' }}>Mode: </span>
+                <span className="font-medium">{exam.mode}</span>
+              </div>
+            )}
+            {exam.candidates && (
+              <div>
+                <span style={{ color: 'var(--text2)' }}>{candidatesLabel}</span>
+                <span className="font-medium">{exam.candidates.toLocaleString('en-IN')}</span>
+              </div>
+            )}
+          </>
         )}
       </div>
 
       {/* Countdown */}
       <div className="flex items-center justify-between flex-wrap gap-2">
         <div className="text-xs" style={{ color: 'var(--text2)' }}>
-          {isPast ? 'Completed' : 'Time remaining'}
+          {isPast
+            ? (isConfirm ? 'Confirmation closed' : 'Completed')
+            : (isConfirm ? 'Time left to confirm' : 'Time remaining')}
         </div>
         {!isPast
-          ? <FlipClock dateStr={exam.date} timeStr={exam.time} compact />
-          : <span className="text-xs px-2 py-1 rounded" style={{ background: 'var(--bg2)', color: 'var(--text2)' }}>Done</span>
+          ? <FlipClock dateStr={refDateStr} timeStr={refTimeStr} compact color={accent}
+              overLabel={isConfirm ? 'Confirmation Closed' : 'Exam Day / Over'} />
+          : <span className="text-xs px-2 py-1 rounded" style={{ background: 'var(--bg2)', color: 'var(--text2)' }}>
+              {isConfirm ? 'Closed' : 'Done'}
+            </span>
         }
       </div>
     </div>
@@ -172,6 +248,7 @@ function ExamRow({ exam, saved, onSave, onRequestRemove, savedCount, highlighted
 export default function Exams() {
   const { pinnedExams: saved, pinExam, unpinExam } = useAuth()
   const location = useLocation()
+  const [activeTab, setActiveTab] = useState('exam') // 'exam' | 'confirm'
   const [query, setQuery] = useState('')
   const [showPast, setShowPast] = useState(false)
   const [removeTarget, setRemoveTarget] = useState(null)
@@ -188,9 +265,11 @@ export default function Exams() {
     })
   }, [])
 
-  // Scroll to and highlight the target exam when arriving via hash
+  // Scroll to and highlight the target exam when arriving via hash; also switch to its tab
   useEffect(() => {
     if (!hashId) return
+    const target = exams.find(e => e.id === hashId)
+    if (target) setActiveTab(target.date ? 'exam' : 'confirm')
     setHighlightId(hashId)
     // Give the DOM a moment to render then scroll
     setTimeout(() => {
@@ -210,31 +289,47 @@ export default function Exams() {
   }
 
   const now = new Date()
+  const today = new Date(now.toDateString())
+
+  // Exam Calendar = every exam with a known test date (the master calendar).
+  // Confirmation Calendar = every exam that still needs an OTR confirmation
+  // action by a deadline. PSC often publishes both at once (test date known,
+  // but you still must confirm by a cutoff) — so an exam can appear in BOTH
+  // tabs at the same time. Once its confirmBy date passes it just fades to
+  // "Confirmation closed" in that tab; nothing needs to be deleted, and if an
+  // exam is added with only a confirmBy (no date yet), it lives in the
+  // Confirmation tab alone until PSC later publishes the date.
+  const examCalendar = useMemo(() => exams.filter(e => e.date), [])
+  const confirmCalendar = useMemo(() => exams.filter(e => e.confirmBy), [])
+
+  const isConfirmTab = activeTab === 'confirm'
+  const currentList = isConfirmTab ? confirmCalendar : examCalendar
+  const dateField = isConfirmTab ? 'confirmBy' : 'date'
+  const accent = isConfirmTab ? CONFIRM_COLOR : 'var(--accent)'
 
   const filtered = useMemo(() => {
     const q = query.toLowerCase()
-    return exams
+    return currentList
       .filter(e => {
         // Always include the hash-targeted exam so it can be scrolled to
         if (e.id === hashId) return true
-        if (saved.includes(e.id)) return false
-        const past = new Date(e.date) < new Date(now.toDateString())
+        if (!isConfirmTab && saved.includes(e.id)) return false
+        const past = new Date(e[dateField]) < today
         if (!showPast && past) return false
         if (!q) return true
         return (
           e.name.toLowerCase().includes(q) ||
           e.catNo.toLowerCase().includes(q) ||
           e.dept.toLowerCase().includes(q) ||
-          e.scope.toLowerCase().includes(q)
+          (e.scope || '').toLowerCase().includes(q)
         )
       })
-      .sort((a, b) => new Date(a.date) - new Date(b.date))
-  }, [query, showPast, hashId])
+      .sort((a, b) => new Date(a[dateField]) - new Date(b[dateField]))
+  }, [query, showPast, hashId, activeTab])
 
-  const savedExams = exams.filter(e => saved.includes(e.id))
-  const upcoming = exams
-    .filter(e => new Date(e.date) >= new Date(now.toDateString()))
-    .sort((a, b) => new Date(a.date) - new Date(b.date))
+  const savedExams = examCalendar.filter(e => saved.includes(e.id))
+  const upcomingExams = examCalendar.filter(e => new Date(e.date) >= today)
+  const upcomingConfirms = confirmCalendar.filter(e => new Date(e.confirmBy) >= today)
 
   const removeExamData = removeTarget ? exams.find(e => e.id === removeTarget) : null
 
@@ -242,8 +337,34 @@ export default function Exams() {
     <div className="max-w-2xl mx-auto px-4 py-6">
       <h1 className="font-bold text-2xl mb-1">Upcoming Exams</h1>
       <p className="text-sm mb-5" style={{ color: 'var(--text2)' }}>
-        Kerala PSC · July 2026 (101 exams) · August 2026 (61 exams) · Bookmark up to {MAX_PINS} to Home
+        Kerala PSC · {examCalendar.length} scheduled · {confirmCalendar.length} awaiting confirmation
       </p>
+
+      {/* Tab switcher */}
+      <div className="flex gap-2 mb-5">
+        <button
+          onClick={() => setActiveTab('exam')}
+          className="flex-1 py-2.5 rounded-lg text-sm font-semibold transition-colors"
+          style={{
+            background: !isConfirmTab ? 'var(--accent)' : 'var(--bg2)',
+            color: !isConfirmTab ? 'var(--accent-text)' : 'var(--text2)',
+            border: '1px solid var(--border)',
+            touchAction: 'manipulation',
+          }}>
+          📅 Exam Calendar
+        </button>
+        <button
+          onClick={() => setActiveTab('confirm')}
+          className="flex-1 py-2.5 rounded-lg text-sm font-semibold transition-colors"
+          style={{
+            background: isConfirmTab ? CONFIRM_COLOR : 'var(--bg2)',
+            color: isConfirmTab ? CONFIRM_TEXT_ON : 'var(--text2)',
+            border: '1px solid var(--border)',
+            touchAction: 'manipulation',
+          }}>
+          ✍️ Confirmation Needed{confirmCalendar.length > 0 ? ` (${confirmCalendar.length})` : ''}
+        </button>
+      </div>
 
       {/* Search */}
       <div className="flex gap-2 mb-5">
@@ -258,8 +379,8 @@ export default function Exams() {
           onClick={() => setShowPast(p => !p)}
           className="px-3 py-2 rounded-lg text-xs font-medium"
           style={{
-            background: showPast ? 'var(--accent)' : 'var(--bg2)',
-            color: showPast ? 'var(--accent-text)' : 'var(--text2)',
+            background: showPast ? accent : 'var(--bg2)',
+            color: showPast ? (isConfirmTab ? CONFIRM_TEXT_ON : 'var(--accent-text)') : 'var(--text2)',
             border: '1px solid var(--border)',
             touchAction: 'manipulation',
           }}>
@@ -269,18 +390,37 @@ export default function Exams() {
 
       {/* Stats */}
       <div className="flex gap-3 text-center mb-5">
-        <div className="flex-1 card rounded-xl p-3">
-          <div className="font-bold text-lg" style={{ color: 'var(--accent)' }}>{upcoming.length}</div>
-          <div className="text-xs" style={{ color: 'var(--text2)' }}>Upcoming</div>
-        </div>
-        <div className="flex-1 card rounded-xl p-3">
-          <div className="font-bold text-lg" style={{ color: 'var(--accent)' }}>{savedExams.length}</div>
-          <div className="text-xs" style={{ color: 'var(--text2)' }}>Saved</div>
-        </div>
-        <div className="flex-1 card rounded-xl p-3">
-          <div className="font-bold text-lg" style={{ color: 'var(--accent)' }}>{exams.length}</div>
-          <div className="text-xs" style={{ color: 'var(--text2)' }}>Total Exams</div>
-        </div>
+        {!isConfirmTab ? (
+          <>
+            <div className="flex-1 card rounded-xl p-3">
+              <div className="font-bold text-lg" style={{ color: accent }}>{upcomingExams.length}</div>
+              <div className="text-xs" style={{ color: 'var(--text2)' }}>Upcoming</div>
+            </div>
+            <div className="flex-1 card rounded-xl p-3">
+              <div className="font-bold text-lg" style={{ color: accent }}>{savedExams.length}</div>
+              <div className="text-xs" style={{ color: 'var(--text2)' }}>Saved</div>
+            </div>
+            <div className="flex-1 card rounded-xl p-3">
+              <div className="font-bold text-lg" style={{ color: accent }}>{examCalendar.length}</div>
+              <div className="text-xs" style={{ color: 'var(--text2)' }}>Total Exams</div>
+            </div>
+          </>
+        ) : (
+          <>
+            <div className="flex-1 card rounded-xl p-3">
+              <div className="font-bold text-lg" style={{ color: accent }}>{upcomingConfirms.length}</div>
+              <div className="text-xs" style={{ color: 'var(--text2)' }}>Open</div>
+            </div>
+            <div className="flex-1 card rounded-xl p-3">
+              <div className="font-bold text-lg" style={{ color: accent }}>{confirmCalendar.length - upcomingConfirms.length}</div>
+              <div className="text-xs" style={{ color: 'var(--text2)' }}>Closed</div>
+            </div>
+            <div className="flex-1 card rounded-xl p-3">
+              <div className="font-bold text-lg" style={{ color: accent }}>{confirmCalendar.length}</div>
+              <div className="text-xs" style={{ color: 'var(--text2)' }}>Total</div>
+            </div>
+          </>
+        )}
       </div>
 
       {/* List */}
@@ -289,7 +429,8 @@ export default function Exams() {
           <ExamRow
             key={e.id}
             exam={e}
-            saved={saved.includes(e.id)}
+            mode={activeTab}
+            saved={!isConfirmTab && saved.includes(e.id)}
             onSave={pinExam}
             onRequestRemove={setRemoveTarget}
             savedCount={savedExams.length}
@@ -298,7 +439,9 @@ export default function Exams() {
         ))}
         {filtered.length === 0 && (
           <div className="text-center py-12" style={{ color: 'var(--text2)' }}>
-            No exams match your search.
+            {isConfirmTab && confirmCalendar.length === 0
+              ? 'No exams need confirmation right now.'
+              : 'No exams match your search.'}
           </div>
         )}
       </div>
