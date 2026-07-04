@@ -300,6 +300,13 @@ async function shareResult({ score, total, pct, icon, topicStats }) {
   })
 }
 
+// PSC-deleted/cancelled questions are flagged with "(~~deleted by psc~~)" in questionText.
+// They should never surface in topic/mixed/saved/mistakes quizzes — only when a user
+// deliberately practices the exact paper they belong to.
+function isDeletedByPsc(q) {
+  return typeof q.questionText === 'string' && /deleted by psc/i.test(q.questionText)
+}
+
 function shuffle(arr) {
   const a = [...arr]
   for (let i = a.length - 1; i > 0; i--) {
@@ -359,16 +366,21 @@ function QuizSetup({ onStart, locked, needsSignup, daysLeft }) {
     papers.filter(p => !year || p.year === year), [year])
 
   const availableQs = useMemo(() => {
+    // Deleted/cancelled PSC questions only allowed when practicing that exact paper
+    // (paperId selected, no topic mixing) — never in topic, mixed, saved or mistakes pools.
+    const isExactPaperOnly = !!paperId && !topicId
+    const stripDeleted = qs => isExactPaperOnly ? qs : qs.filter(q => !isDeletedByPsc(q))
+
     if (mode === 'saved') {
-      return questions.filter(q => bookmarks.includes(q.id))
+      return stripDeleted(questions.filter(q => bookmarks.includes(q.id)))
     }
     if (mode === 'mistakes') {
-      return questions.filter(q => mistakeIds.includes(q.id))
+      return stripDeleted(questions.filter(q => mistakeIds.includes(q.id)))
     }
-    return questions.filter(q =>
+    return stripDeleted(questions.filter(q =>
       (!paperId || q.paperId === paperId) &&
       (!topicId || q.topic === topicId)
-    )
+    ))
   }, [paperId, topicId, mode, bookmarks, mistakeIds])
 
   // When a topic is pre-selected, default count to all questions in that topic
