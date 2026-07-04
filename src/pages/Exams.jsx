@@ -19,6 +19,10 @@ const CONFIRM_COLOR = '#f59e0b'
 const CONFIRM_HOVER = '#d97706'
 const CONFIRM_TEXT_ON = '#1a1200'
 
+// Official OTR/Thulasi portal — confirmation is submitted there, not in this app.
+// Always opens externally (new tab), never embedded/framed, per KPSC's hyperlinking policy.
+const THULASI_URL = 'https://thulasi.psc.kerala.gov.in/thulasi/'
+
 function BookmarkIcon({ saved, color = 'var(--accent)' }) {
   return (
     <svg width="22" height="22" viewBox="0 0 24 24"
@@ -135,10 +139,28 @@ function ExamRow({ exam, mode, saved, onSave, onRequestRemove, savedCount, highl
             <BookmarkIcon saved={saved} color={accent} />
           </button>
         )}
-        {isConfirm && (
-          <span className="shrink-0 text-xs font-bold px-2 py-1 rounded-full"
-            style={{ background: 'rgba(245,158,11,0.15)', color: CONFIRM_COLOR }}>
-            Confirm
+        {isConfirm && !isPast && (
+          <a
+            href={THULASI_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            onClick={e => e.stopPropagation()}
+            title="Opens the official PSC Thulasi portal in a new tab"
+            className="shrink-0 mt-0.5 text-xs font-bold px-2.5 py-1.5 rounded-full transition-transform active:scale-95"
+            style={{
+              background: CONFIRM_COLOR,
+              color: CONFIRM_TEXT_ON,
+              textDecoration: 'none',
+              touchAction: 'manipulation',
+              whiteSpace: 'nowrap',
+            }}>
+            Confirm on PSC site ↗
+          </a>
+        )}
+        {isConfirm && isPast && (
+          <span className="shrink-0 text-xs font-semibold px-2 py-1 rounded-full"
+            style={{ background: 'var(--bg2)', color: 'var(--text2)' }}>
+            Closed
           </span>
         )}
       </div>
@@ -365,6 +387,15 @@ export default function Exams() {
           ✍️ Confirmation Needed{confirmCalendar.length > 0 ? ` (${confirmCalendar.length})` : ''}
         </button>
       </div>
+
+      {isConfirmTab && (
+        <div className="rounded-lg px-3 py-2 mb-5 text-xs"
+          style={{ background: 'rgba(245,158,11,0.1)', border: '1px solid rgba(245,158,11,0.25)', color: 'var(--text2)' }}>
+          Confirmation is submitted on PSC's own Thulasi portal, not in this app. "Confirm on PSC site" opens{' '}
+          <span style={{ color: CONFIRM_COLOR }}>thulasi.psc.kerala.gov.in</span> in a new tab. This app is an
+          independent study tool and isn't affiliated with Kerala PSC.
+        </div>
+      )}
 
       {/* Search */}
       <div className="flex gap-2 mb-5">
