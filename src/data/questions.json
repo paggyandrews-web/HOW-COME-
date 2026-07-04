@@ -1480,7 +1480,7 @@
     "paperId": "43-2026-M",
     "questionNumber": 83,
     "topic": "Correction of Sentences",
-    "questionText": "Identify the error in the following sentence.\n\nThe fire fighters were well equipped with latest methods.",
+    "questionText": "Identify the error in the following sentence.\n\nThe fire fighters were well equipped with latest methods. (~~deleted by psc~~)",
     "optionA": "Fire fighters",
     "optionB": "Were",
     "optionC": "Equipped",
@@ -1490,7 +1490,7 @@
       "correct": "✅ ശരിയുത്തരം: (D) Latest\n• തെറ്റ് 'latest' എന്ന ഭാഗത്താണ് — superlative degree-ന് മുമ്പ് 'the' നിർബന്ധമാണ്: 'with THE latest methods'.\n• 'അഗ്നിശമന സേനാംഗങ്ങൾ ഏറ്റവും പുതിയ രീതികളാൽ സജ്ജരായിരുന്നു' — 'ഏറ്റവും' എന്ന superlative അർത്ഥം വരുമ്പോൾ 'the' ഒഴിവാക്കാനാവില്ല.\n• Article ഇല്ലാത്തതാണ് ഇവിടത്തെ ഒരേയൊരു പിശക്.",
       "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Superlative-ന് മുമ്പ് എപ്പോഴും THE — the best, the latest, the most beautiful!\n• Superlative degree ഒരു കൂട്ടത്തിലെ 'ഏറ്റവും' മികച്ചതിനെ കാണിക്കുന്നു — അത് specific ആയതിനാൽ 'the' വേണം.\n• latest, best, worst, highest, most important — ഇവയെല്ലാം 'the' ഇല്ലാതെ sentence-ൽ വന്നാൽ തെറ്റ്.\n• ⭐ PSC ആവർത്തനം: 'the' വിട്ടുപോയ superlative — spot the error questions-ലെ സ്ഥിരം കെണി!\n• ഉദാഹരണ sentences:\n1. This is the latest model of the phone. (ഫോണിന്റെ ഏറ്റവും പുതിയ മോഡൽ)\n2. He is the best player in the team. (ടീമിലെ ഏറ്റവും മികച്ച കളിക്കാരൻ)\n3. She bought the most expensive saree. (ഏറ്റവും വിലകൂടിയ സാരി വാങ്ങി)",
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Fire fighters — subject ശരിയാണ്; ഇവിടെ പിശകില്ല.\n• (B) Were — plural subject-ന് ('fire fighters') plural verb 'were' ശരി തന്നെ.\n• (C) Equipped — 'well equipped with' എന്ന പ്രയോഗം കൃത്യമാണ്; passive രൂപവും ശരി.\n• 🪤 PSC Trap: മറ്റ് മൂന്ന് ഭാഗങ്ങളും ശരിയായി കൊടുത്ത്, കണ്ണിൽപ്പെടാത്ത article പിശകിലേക്ക് ശ്രദ്ധ പോകാതിരിക്കാനുള്ള തന്ത്രം — 'the' ഇല്ലായ്മ പെട്ടെന്ന് ശ്രദ്ധിക്കില്ല!",
-      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'EST/MOST കണ്ടാൽ THE കൂടെ വേണം!' — superlative ഒരു രാജാവാണ്, 'the' എന്ന കിരീടം ഇല്ലാതെ പുറത്തിറങ്ങില്ല!\n• Rule family: the + superlative | the + ordinal (the first, the second) | the + unique things (the sun, the moon).\n• PSC strategy: Spot-the-error question-ൽ ഓരോ ഭാഗവും ഇങ്ങനെ check ചെയ്യുക: (1) subject-verb agreement (2) tense (3) article (4) preposition. Superlative കണ്ടാൽ ഉടനെ 'the' ഉണ്ടോ എന്ന് നോക്കുക — ഒരിക്കലും miss ആകില്ല!"
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'EST/MOST കണ്ടാൽ THE കൂടെ വേണം!' — superlative ഒരു രാജാവാണ്, 'the' എന്ന കിരീടം ഇല്ലാതെ പുറത്തിറങ്ങില്ല!\n• Rule family: the + superlative | the + ordinal (the first, the second) | the + unique things (the sun, the moon).\n• PSC strategy: Spot-the-error question-ൽ ഓരോ ഭാഗവും ഇങ്ങനെ check ചെയ്യുക: (1) subject-verb agreement (2) tense (3) article (4) preposition. Superlative കണ്ടാൽ ഉടനെ 'the' ഉണ്ടോ എന്ന് നോക്കുക — ഒരിക്കലും miss ആകില്ല!\n\n🚫 Deleted Question: PSC ഔദ്യോഗിക Final Answer Key-ൽ ഈ ചോദ്യം ഒഴിവാക്കി (deleted/cancelled), സ്കോറിംഗിൽ ഉൾപ്പെടുത്തിയിട്ടില്ല. സാധ്യതയുള്ള കാരണം: 'latest'-ന് മുൻപ് 'the' ഇല്ലാത്തത് മാത്രമല്ല, 'equipped with methods' എന്ന പ്രയോഗവും (methods-നൊപ്പം 'equipped' ചേരുമോ എന്ന സംശയം) ഒരു രണ്ടാമത്തെ പിശകായി ചൂണ്ടിക്കാട്ടാൻ സാധ്യതയുള്ളതിനാൽ, ഒറ്റ കൃത്യമായ ഉത്തരം നിശ്ചയിക്കുന്നതിൽ അവ്യക്തത ഉണ്ടായതാകാം."
     }
   },
   {
