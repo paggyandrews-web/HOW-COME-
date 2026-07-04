@@ -160,7 +160,7 @@ export default function Profile() {
       {/* Practice weak topics shortcut */}
       {weakTopics.length > 0 && (
         <Link to={`/quiz?topic=${encodeURIComponent(weakTopics[0].topic)}&mode=practice`}
-          className="block card rounded-2xl p-4 text-center"
+          className="block card rounded-2xl p-4 text-center mb-3"
           style={{ border: '1px solid var(--accent)' }}>
           <p className="text-sm font-semibold" style={{ color: 'var(--accent)' }}>
             Practice your weakest topic →
@@ -168,6 +168,13 @@ export default function Profile() {
           <p className="text-xs mt-0.5" style={{ color: 'var(--text2)' }}>{weakTopics[0].topic}</p>
         </Link>
       )}
+
+      {/* Saved questions shortcut */}
+      <Link to="/bookmarks"
+        className="flex items-center justify-between card rounded-2xl p-4">
+        <span className="text-sm font-semibold">🔖 Saved Questions</span>
+        <span style={{ color: 'var(--text2)' }}>→</span>
+      </Link>
     </div>
   )
 }

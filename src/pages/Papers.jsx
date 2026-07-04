@@ -2,7 +2,6 @@ import { useState, useMemo } from 'react'
 import { useSearchParams, Link } from 'react-router-dom'
 import papers from '../data/papers.json'
 import questions from '../data/questions.json'
-import { usePaperBookmarks } from '../hooks/usePaperBookmarks'
 
 const YEARS = [...new Set(papers.map(p => p.year))].sort().reverse()
 
@@ -10,7 +9,6 @@ export default function Papers() {
   const [search] = useSearchParams()
   const [year, setYear] = useState(search.get('year') || '')
   const [query, setQuery] = useState('')
-  const { paperBookmarks, toggle: togglePaper, isBookmarked: isPaperBookmarked } = usePaperBookmarks()
 
   const qCountByPaper = useMemo(() => {
     const map = {}
@@ -69,37 +67,20 @@ export default function Papers() {
           const qCount = qCountByPaper[paper.id] || 0
           return (
             <div key={paper.id} className="card rounded-xl p-4 flex flex-col gap-3">
-              <div className="flex items-start justify-between gap-2">
-                <div className="flex-1 min-w-0">
-                  <div className="font-semibold text-sm leading-snug">
-                    {paper.post || paper.filename?.replace('.pdf', '') || paper.id}
-                  </div>
-                  <div className="text-xs mt-1.5 flex flex-wrap gap-x-2 gap-y-1" style={{ color: 'var(--text2)' }}>
-                    {paper.date && <span>📅 {paper.date}</span>}
-                    <span>·</span>
-                    <span>{qCount} questions</span>
-                  </div>
-                  {paper.paperCode && (
-                    <div className="text-xs mt-1" style={{ color: 'var(--text2)', opacity: 0.6 }}>
-                      Code: {paper.paperCode}
-                    </div>
-                  )}
+              <div className="flex-1 min-w-0">
+                <div className="font-semibold text-sm leading-snug">
+                  {paper.post || paper.filename?.replace('.pdf', '') || paper.id}
                 </div>
-                <button
-                  onClick={() => togglePaper(paper.id)}
-                  title={isPaperBookmarked(paper.id) ? 'Remove bookmark' : 'Bookmark paper'}
-                  style={{
-                    background: 'none', border: 'none', cursor: 'pointer', padding: '4px',
-                    flexShrink: 0, touchAction: 'manipulation',
-                    WebkitTapHighlightColor: 'transparent',
-                  }}>
-                  <svg width="20" height="20" viewBox="0 0 24 24"
-                    fill={isPaperBookmarked(paper.id) ? 'var(--accent)' : 'none'}
-                    stroke="var(--accent)" strokeWidth="2"
-                    strokeLinecap="round" strokeLinejoin="round">
-                    <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>
-                  </svg>
-                </button>
+                <div className="text-xs mt-1.5 flex flex-wrap gap-x-2 gap-y-1" style={{ color: 'var(--text2)' }}>
+                  {paper.date && <span>📅 {paper.date}</span>}
+                  <span>·</span>
+                  <span>{qCount} questions</span>
+                </div>
+                {paper.paperCode && (
+                  <div className="text-xs mt-1" style={{ color: 'var(--text2)', opacity: 0.6 }}>
+                    Code: {paper.paperCode}
+                  </div>
+                )}
               </div>
               <div className="flex gap-2">
                 <Link
