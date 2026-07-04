@@ -3,7 +3,7 @@ import { useSearchParams, Link } from 'react-router-dom'
 import questions from '../data/questions.json'
 import papers from '../data/papers.json'
 import Confetti from '../components/Confetti'
-import { useResults } from '../hooks/useResults'
+import { useResults, getQuestionCount, FREE_QUESTION_LIMIT } from '../hooks/useResults'
 import { useAuth } from '../contexts/AuthContext'
 import { useBookmarks } from '../hooks/useBookmarks'
 import { useStreak } from '../hooks/useStreak'
@@ -321,7 +321,7 @@ function TimerBar({ secs, total }) {
 
 const TIMING_OPTIONS = [15, 20, 25, 30]
 
-function QuizSetup({ onStart }) {
+function QuizSetup({ onStart, locked }) {
   const [search] = useSearchParams()
   const initPaper = search.get('paper') || ''
   const initTopic = search.get('topic') || ''
@@ -494,11 +494,21 @@ function QuizSetup({ onStart }) {
         {availableQs.length} questions available
       </div>
 
-      <button onClick={handleStart} disabled={availableQs.length === 0}
-        className="w-full py-3 rounded-xl font-semibold text-sm"
-        style={{ background: 'var(--accent)', color: 'var(--accent-text)', opacity: availableQs.length === 0 ? 0.5 : 1 }}>
-        {isBrowse ? 'Browse Questions →' : 'Start Quiz →'}
-      </button>
+      {locked && !isBrowse ? (
+        <div className="p-4 rounded-xl text-center" style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
+          <div className="text-2xl mb-1">🔒</div>
+          <div className="font-semibold text-sm mb-1">Free questions used up</div>
+          <div className="text-xs" style={{ color: 'var(--text2)' }}>
+            You've answered your {FREE_QUESTION_LIMIT} free questions. Upgrade to keep practicing.
+          </div>
+        </div>
+      ) : (
+        <button onClick={handleStart} disabled={availableQs.length === 0}
+          className="w-full py-3 rounded-xl font-semibold text-sm"
+          style={{ background: 'var(--accent)', color: 'var(--accent-text)', opacity: availableQs.length === 0 ? 0.5 : 1 }}>
+          {isBrowse ? 'Browse Questions →' : 'Start Quiz →'}
+        </button>
+      )}
     </div>
   )
 }
@@ -721,7 +731,10 @@ export default function Quiz() {
   const { saveResult } = useResults()
   const { toggle: toggleBookmark, isBookmarked } = useBookmarks()
   const { updateStreak } = useStreak()
+  const { profile } = useAuth()
   const [searchParams] = useSearchParams()
+
+  const isLocked = !profile?.isPaid && getQuestionCount() >= FREE_QUESTION_LIMIT
 
   const isTimed = quizData?.mode === 'timed'
   const isBrowse = quizData?.mode === 'browse'
@@ -752,6 +765,7 @@ export default function Quiz() {
   }, [quizState, isTimed, timeLeft, timedOut, selected])
 
   function handleStart({ questions, mode, secsPerQ }) {
+    if (mode !== 'browse' && isLocked) return // free-tier cap reached, block the actual start
     setQuizData({ questions, mode, secsPerQ })
     setAnswers(new Array(questions.length).fill(null))
     setCurrent(0)
@@ -817,7 +831,7 @@ export default function Quiz() {
     setTimeLeft(secsPerQ)
   }
 
-  if (quizState === 'setup') return <QuizSetup onStart={handleStart} />
+  if (quizState === 'setup') return <QuizSetup onStart={handleStart} locked={isLocked} />
 
   if (quizState === 'result') {
     return (

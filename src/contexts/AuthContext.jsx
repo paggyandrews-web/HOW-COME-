@@ -72,7 +72,7 @@ export function AuthProvider({ children }) {
   async function signup(email, password, name, district) {
     const cred = await createUserWithEmailAndPassword(auth, email, password)
     await updateProfile(cred.user, { displayName: name })
-    const profileData = { name, district, email, createdAt: new Date().toISOString(), pinnedExams: [] }
+    const profileData = { name, district, email, createdAt: new Date().toISOString(), pinnedExams: [], isPaid: false }
     await setDoc(doc(db, 'users', cred.user.uid), profileData)
     setProfile(profileData)
     return cred

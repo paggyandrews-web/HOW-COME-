@@ -5,6 +5,23 @@ import { db } from '../firebase/config'
 const STORAGE_KEY = 'cs-quiz-results'
 const RESULTS_LIMIT = 50 // only read the most recent N quizzes (keeps Firestore reads bounded as history grows)
 
+// ── Free-tier cap ──
+// Lifetime counter tracked per-device (covers guests too, not just logged-in accounts).
+// Counts TOTAL QUESTIONS answered, not quiz sessions — so a 30-question topic quiz
+// doesn't quietly cost the same as a 10-question one. Roughly "5 quizzes worth".
+const QUESTION_COUNT_KEY = 'cs-question-count'
+export const FREE_QUESTION_LIMIT = 50
+
+export function getQuestionCount() {
+  return parseInt(localStorage.getItem(QUESTION_COUNT_KEY) || '0', 10)
+}
+
+function incrementQuestionCount(n) {
+  const next = getQuestionCount() + n
+  localStorage.setItem(QUESTION_COUNT_KEY, String(next))
+  return next
+}
+
 export function useResults() {
   const { user } = useAuth()
 
@@ -32,6 +49,9 @@ export function useResults() {
     } catch (e) {
       console.error('localStorage save failed', e)
     }
+
+    // Lifetime free-tier counter (device-level, covers guests + free accounts)
+    incrementQuestionCount(questions.length)
 
     // Also save to Firestore if logged in (permanent, cross-device)
     if (user) {
