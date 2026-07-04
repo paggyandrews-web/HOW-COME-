@@ -113,14 +113,14 @@ export default function Register() {
     <div className="max-w-sm mx-auto px-4 py-8">
 
       {/* Hero header */}
-      <div className="rounded-2xl p-6 mb-4 text-center relative overflow-hidden"
+      <div className="rounded-2xl px-4 py-3 mb-4 relative overflow-hidden flex items-center gap-3"
         style={{ background: 'linear-gradient(135deg, var(--accent) 0%, var(--accent-hover) 100%)', color: 'white' }}>
-        <div style={{ position: 'absolute', right: -30, top: -30, width: 120, height: 120, borderRadius: '50%', background: 'rgba(255,255,255,0.08)', pointerEvents: 'none' }} />
-        <div style={{ position: 'absolute', left: -20, bottom: -20, width: 80, height: 80, borderRadius: '50%', background: 'rgba(255,255,255,0.06)', pointerEvents: 'none' }} />
-        <div style={{ position: 'relative', zIndex: 1 }}>
-          <div style={{ fontSize: 40, marginBottom: 8 }}>🎯</div>
-          <div style={{ fontSize: 22 }}>Join <span style={{ fontFamily: "'Sifonn', sans-serif" }}>HOW COME?</span></div>
-          <div style={{ fontSize: 13, opacity: 0.88, marginTop: 5 }}>Your PSC English journey starts here</div>
+        <div style={{ position: 'absolute', right: -30, top: -30, width: 100, height: 100, borderRadius: '50%', background: 'rgba(255,255,255,0.08)', pointerEvents: 'none' }} />
+        <img src="/logo.png" alt="HOW COME?"
+          style={{ height: 52, width: 52, borderRadius: '50%', objectFit: 'contain', position: 'relative', zIndex: 1, flexShrink: 0 }} />
+        <div style={{ position: 'relative', zIndex: 1, textAlign: 'left' }}>
+          <div style={{ fontSize: 16, fontWeight: 700, lineHeight: 1.2 }}>Ace Your PSC English Exam</div>
+          <div style={{ fontSize: 11, opacity: 0.88, marginTop: 2 }}>Practice smarter with <span style={{ fontFamily: "'Sifonn', sans-serif" }}>HOW COME?</span></div>
         </div>
       </div>
 
