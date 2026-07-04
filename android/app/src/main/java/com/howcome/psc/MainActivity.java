@@ -2,7 +2,10 @@ package com.howcome.psc;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
+import android.content.ActivityNotFoundException;
+import android.content.Intent;
 import android.graphics.Color;
+import android.net.Uri;
 import android.os.Bundle;
 import android.webkit.CookieManager;
 import android.webkit.WebChromeClient;
@@ -47,9 +50,19 @@ public class MainActivity extends Activity {
         webView.setWebViewClient(new WebViewClient() {
             @Override
             public boolean shouldOverrideUrlLoading(WebView view, WebResourceRequest request) {
-                String url = request.getUrl().toString();
+                Uri uri = request.getUrl();
+                String url = uri.toString();
                 if (url.startsWith("https://how-come.vercel.app")) {
                     return false;
+                }
+                // External link (e.g. the PSC Thulasi confirmation portal) —
+                // hand it off to the device's own browser instead of silently
+                // swallowing the navigation.
+                try {
+                    Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+                    startActivity(intent);
+                } catch (ActivityNotFoundException e) {
+                    // No browser available on this device; nothing more we can do.
                 }
                 return true;
             }
