@@ -32,7 +32,7 @@ function formatQuestion(text) {
 }
 
 function renderWithUnderlines(text) {
-  const parts = text.split(/((?<![_])__[^_]+__(?![_]))/)
+  const parts = text.split(/((?<![_])__[^_]+__(?![_])|~~[^~]+~~)/)
   return parts.map((part, i) => {
     if (part.startsWith('__') && part.endsWith('__') && !part.slice(2, -2).includes('_')) {
       const word = part.slice(2, -2)
@@ -43,6 +43,12 @@ function renderWithUnderlines(text) {
           backgroundColor: 'rgba(250, 204, 21, 0.25)',
           fontWeight: 'bold'
         }}>{word}</span>
+      )
+    }
+    if (part.startsWith('~~') && part.endsWith('~~') && !part.slice(2, -2).includes('~')) {
+      const word = part.slice(2, -2)
+      return (
+        <span key={i} style={{ color: '#dc2626', fontSize: '0.75em' }}>{word}</span>
       )
     }
     return <span key={i}>{part}</span>
