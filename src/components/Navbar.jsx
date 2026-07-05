@@ -41,10 +41,19 @@ export default function Navbar() {
 
   return (
     <nav
-      style={{ background: '#000000', borderBottom: '1px solid #222222' }}
-      className="sticky top-0 z-50"
+      style={{
+        background: '#000000',
+        borderBottom: '1px solid #222222',
+        position: 'fixed',
+        top: 0,
+        left: 0,
+        right: 0,
+        width: '100%',
+        paddingTop: 'env(safe-area-inset-top)',
+      }}
+      className="z-50"
     >
-      <div className="max-w-5xl mx-auto px-4 h-14 flex items-center justify-between">
+      <div className="max-w-5xl mx-auto px-4 min-h-14 py-2 flex items-center justify-between">
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2">
           <img src="/logo.png" alt="HOW COME?" className="h-10 w-10 rounded-full object-contain" />

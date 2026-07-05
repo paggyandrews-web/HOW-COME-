@@ -118,7 +118,13 @@ export default function App() {
           <div style={{ minHeight: '100vh', background: 'var(--bg)', color: 'var(--text)' }}>
             <ScrollToTop />
             <Navbar />
-            <div style={{ paddingBottom: 'calc(64px + env(safe-area-inset-bottom))' }} className="sm:pb-0">
+            <div
+              style={{
+                paddingTop: 'calc(72px + env(safe-area-inset-top))',
+                paddingBottom: 'calc(64px + env(safe-area-inset-bottom))',
+              }}
+              className="sm:pb-0"
+            >
               <AnimatedRoutes />
             </div>
             <BottomNav />
