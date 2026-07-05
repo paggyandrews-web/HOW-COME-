@@ -12,6 +12,7 @@ import Topics from './pages/Topics'
 import Exams from './pages/Exams'
 import Login from './pages/Login'
 import Register from './pages/Register'
+import ForgotPassword from './pages/ForgotPassword'
 import Profile from './pages/Profile'
 import Search from './pages/Search'
 import Bookmarks from './pages/Bookmarks'
@@ -100,6 +101,7 @@ function AnimatedRoutes() {
         <Route path="/exams" element={<Exams />} />
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
+        <Route path="/forgot-password" element={<ForgotPassword />} />
         <Route path="/profile" element={<Profile />} />
         <Route path="/search" element={<Search />} />
         <Route path="/bookmarks" element={<Bookmarks />} />

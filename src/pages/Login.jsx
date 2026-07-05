@@ -60,6 +60,11 @@ export default function Login() {
             <input type="password" required value={password} onChange={e => setPassword(e.target.value)}
               className="w-full rounded-lg px-3 py-2 text-sm"
               style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)' }} />
+            <div className="text-right mt-1.5">
+              <Link to="/forgot-password" className="text-xs font-medium" style={{ color: 'var(--accent)' }}>
+                Forgot password?
+              </Link>
+            </div>
           </div>
           <button type="submit" disabled={loading}
             className="w-full py-2.5 rounded-xl font-semibold text-sm mt-2"

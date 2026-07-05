@@ -5,6 +5,7 @@ import {
   signOut,
   onAuthStateChanged,
   updateProfile,
+  sendPasswordResetEmail,
 } from 'firebase/auth'
 import { doc, setDoc, getDoc } from 'firebase/firestore'
 import { auth, db } from '../firebase/config'
@@ -82,13 +83,17 @@ export function AuthProvider({ children }) {
     return signInWithEmailAndPassword(auth, email, password)
   }
 
+  async function resetPassword(email) {
+    return sendPasswordResetEmail(auth, email)
+  }
+
   async function logout() {
     await signOut(auth)
     setProfile(null)
   }
 
   return (
-    <AuthContext.Provider value={{ user, profile, loading, signup, login, logout, pinnedExams, pinExam, unpinExam }}>
+    <AuthContext.Provider value={{ user, profile, loading, signup, login, logout, resetPassword, pinnedExams, pinExam, unpinExam }}>
       {loading ? (
         <div style={{
           minHeight: '100vh', display: 'flex', flexDirection: 'column',
