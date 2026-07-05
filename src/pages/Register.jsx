@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { useNavigate, Link } from 'react-router-dom'
 import { useAuth } from '../contexts/AuthContext'
 import { useTheme } from '../contexts/ThemeContext'
+import Dropdown from '../components/Dropdown'
 
 const KERALA_DISTRICTS = [
   'Thiruvananthapuram','Kollam','Pathanamthitta','Alappuzha','Kottayam',
@@ -112,17 +113,8 @@ export default function Register() {
   return (
     <div className="max-w-sm mx-auto px-4 py-8">
 
-      {/* Hero header */}
-      <div className="rounded-2xl px-4 py-3 mb-4 relative overflow-hidden flex items-center gap-3"
-        style={{ background: 'linear-gradient(135deg, var(--accent) 0%, var(--accent-hover) 100%)', color: 'white' }}>
-        <div style={{ position: 'absolute', right: -30, top: -30, width: 100, height: 100, borderRadius: '50%', background: 'rgba(255,255,255,0.08)', pointerEvents: 'none' }} />
-        <img src="/logo.png" alt="HOW COME?"
-          style={{ height: 52, width: 52, borderRadius: '50%', objectFit: 'contain', position: 'relative', zIndex: 1, flexShrink: 0 }} />
-        <div style={{ position: 'relative', zIndex: 1, textAlign: 'left' }}>
-          <div style={{ fontSize: 16, fontWeight: 700, lineHeight: 1.2 }}>Ace Your PSC English Exam</div>
-          <div style={{ fontSize: 11, opacity: 0.88, marginTop: 2 }}>Practice smarter with <span style={{ fontFamily: "'Sifonn', sans-serif" }}>HOW COME?</span></div>
-        </div>
-      </div>
+      {/* Header */}
+      <h1 className="font-bold text-2xl mb-4">Sign Up</h1>
 
       <div className="card rounded-2xl p-5">
 
@@ -203,13 +195,12 @@ export default function Register() {
           {/* District */}
           <div>
             <label className="block text-sm font-medium mb-1">District</label>
-            <select name="district" required value={form.district}
-              onChange={handleChange} onFocus={scrollUp}
-              className="w-full rounded-lg px-3 py-2.5 text-sm"
-              style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: form.district ? 'var(--text)' : 'var(--text2)', outline: 'none' }}>
-              <option value="">Select your district</option>
-              {KERALA_DISTRICTS.map(d => <option key={d} value={d}>{d}</option>)}
-            </select>
+            <Dropdown
+              value={form.district}
+              onChange={v => setForm(f => ({ ...f, district: v }))}
+              placeholder="Select your district"
+              options={KERALA_DISTRICTS.map(d => ({ value: d, label: d }))}
+            />
             {districtVibe && <Vibe id={form.district} message={districtVibe} />}
           </div>
 
