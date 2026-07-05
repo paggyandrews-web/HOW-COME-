@@ -111,6 +111,8 @@ body {
 .text-accent { color: var(--accent); }
 .bg-accent { background: var(--accent); }
 
+.theme-input::placeholder { color: var(--accent); opacity: 0.5; }
+
 /* ── Page transition ── */
 @keyframes pageEnter {
   from { opacity: 0; transform: translateY(10px); }

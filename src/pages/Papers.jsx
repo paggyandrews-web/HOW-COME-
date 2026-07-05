@@ -4,7 +4,17 @@ import papers from '../data/papers.json'
 import questions from '../data/questions.json'
 import Dropdown from '../components/Dropdown'
 
-const YEARS = [...new Set(papers.map(p => p.year))].sort().reverse()
+// Group by the actual year of the test date (not the paper-code year, which
+// can differ — e.g. a 2023-coded paper whose exam was actually held in 2024).
+function testYear(p) {
+  if (p.date) {
+    const m = String(p.date).match(/(\d{4})/)
+    if (m) return m[1]
+  }
+  return p.year
+}
+
+const YEARS = [...new Set(papers.map(testYear))].filter(Boolean).sort().reverse()
 
 export default function Papers() {
   const [search] = useSearchParams()
@@ -28,7 +38,7 @@ export default function Papers() {
   const filtered = useMemo(() =>
     papers
       .filter(p => {
-        if (year && p.year !== year) return false
+        if (year && testYear(p) !== year) return false
         if (!query) return true
         const q = query.toLowerCase()
         return (
@@ -55,8 +65,8 @@ export default function Papers() {
           placeholder="Search by post name or code..."
           value={query}
           onChange={e => setQuery(e.target.value)}
-          className="rounded-lg px-3 py-2 text-sm flex-1 min-w-36"
-          style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)' }}
+          className="rounded-lg px-3 py-2 text-sm flex-1 min-w-36 theme-input"
+          style={{ background: '#111111', border: `1px solid ${query ? 'var(--accent)' : 'rgba(26,157,142,0.4)'}`, color: 'var(--accent)', outline: 'none' }}
         />
         <Dropdown
           value={year}
