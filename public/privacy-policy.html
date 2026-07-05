@@ -70,6 +70,22 @@
       font-size: 15px;
       margin-bottom: 6px;
     }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 12px 0 20px;
+    }
+    th, td {
+      text-align: left;
+      padding: 8px 10px;
+      font-size: 13px;
+      border: 1px solid #1e293b;
+      color: #cbd5e1;
+    }
+    th {
+      background: #1e293b;
+      color: #e2e8f0;
+    }
     .highlight {
       background: #1e293b;
       border-left: 3px solid #1a9d8e;
@@ -103,46 +119,55 @@
     </a>
 
     <h1>Privacy Policy</h1>
-    <p class="updated">Last updated: June 30, 2026</p>
+    <p class="updated">Last updated: July 5, 2026</p>
 
     <div class="highlight">
-      <p>HOW COME? does not collect, store, or share any personal information. Your privacy is fully protected.</p>
+      <p>HOW COME? collects the account information you provide at signup and your quiz activity, so we can save your progress and let you track it across devices. We never sell your data, and you can delete your account and all associated data at any time from the app.</p>
     </div>
 
     <h2>About This App</h2>
     <p>HOW COME? is an educational app for Kerala PSC English Grammar preparation. It provides bilingual (English + Malayalam) explanations for past PSC question papers to help students prepare for government exams.</p>
 
-    <h2>Information We Do NOT Collect</h2>
-    <p>We do not collect any of the following:</p>
-    <ul>
-      <li>Personal details (name, email, phone number)</li>
-      <li>Location data</li>
-      <li>Device identifiers</li>
-      <li>Usage data or analytics</li>
-      <li>Account credentials (there are no accounts)</li>
-      <li>Payment information (payments are handled securely by Google Play)</li>
-    </ul>
+    <h2>Information We Collect</h2>
+    <p>If you use the app as a guest, we don't collect any personal information — your quiz results, bookmarks, and streak are stored only on your device.</p>
+    <p>If you create an account, we collect:</p>
+    <table>
+      <tr><th>Data</th><th>Why we collect it</th></tr>
+      <tr><td>Name, email address</td><td>To identify your account and let you sign in</td></tr>
+      <tr><td>Mobile number</td><td>Optional — for account recovery and important updates</td></tr>
+      <tr><td>District, gender</td><td>Optional — used only to personalize your experience within the app</td></tr>
+      <tr><td>Quiz results, topic accuracy, bookmarks, study streak</td><td>To track your progress and let you resume it across devices</td></tr>
+    </table>
+    <p>We do not collect your precise location, contacts, photos, or any device identifiers beyond what's needed for basic app functionality.</p>
 
     <h2>How the App Works</h2>
-    <p>HOW COME? is a static web application. All content — questions, answer options, and Malayalam explanations — is stored directly in the app and loaded locally on your device. No data is sent to any server when you use the app.</p>
-    <p>The app works offline after the first visit, using a service worker to cache content on your device.</p>
+    <p>Question papers, answer options, and Malayalam explanations are bundled directly in the app and loaded locally on your device — no server request is needed to view them. Account data and your saved progress are stored securely using <strong>Google Firebase</strong> (Authentication and Firestore database), operated by Google.</p>
+    <p>The app works offline for browsing content after the first visit, using a service worker to cache content on your device. An internet connection is required to sign in, sign up, or sync progress.</p>
 
     <h2>Third-Party Services</h2>
-    <p>The app is hosted on <strong>Vercel</strong> (vercel.com), which may collect standard server logs (such as IP address and browser type) as part of normal hosting operations. This is governed by <a href="https://vercel.com/legal/privacy-policy" target="_blank">Vercel's Privacy Policy</a>. We do not have access to or control over this data.</p>
-    <p>We do not use any advertising networks, tracking pixels, or third-party analytics services.</p>
+    <p>We use the following third-party services to operate the app:</p>
+    <ul>
+      <li><strong>Google Firebase</strong> (Authentication &amp; Firestore) — stores your account profile and quiz progress. Governed by <a href="https://firebase.google.com/support/privacy" target="_blank">Firebase's Privacy and Security policy</a>.</li>
+      <li><strong>Vercel</strong> (hosting &amp; analytics) — hosts the app and collects anonymous, aggregated usage analytics (such as page views) to help us understand overall app usage. Governed by <a href="https://vercel.com/legal/privacy-policy" target="_blank">Vercel's Privacy Policy</a>.</li>
+    </ul>
+    <p>We do not use advertising networks or sell your data to any third party.</p>
+
+    <h2>Data Retention &amp; Deletion</h2>
+    <p>Your account data and quiz history are retained for as long as your account is active. You can permanently delete your account and all associated data at any time by going to <strong>Profile → Delete Account</strong> inside the app. This immediately and permanently removes your profile, saved questions, quiz history, and streak from our servers. This action cannot be undone.</p>
+    <p>If you'd prefer not to use the in-app option, you can request deletion by emailing us (see Contact Us below) from the email address associated with your account.</p>
 
     <h2>Children's Privacy</h2>
-    <p>HOW COME? is suitable for users of all ages. Since we collect no personal information, there is no risk to children's privacy. The app complies with applicable children's privacy laws.</p>
+    <p>HOW COME? is intended for candidates preparing for Kerala PSC (government job recruitment) examinations, which generally require a minimum age of 18. The app is not directed at children under 13, and we do not knowingly collect personal information from children under 13. If you believe a child has provided us with personal information, please contact us and we will delete it.</p>
 
     <h2>Data Security</h2>
-    <p>Since we collect no personal data, there is nothing to secure or protect on our end. All app content is publicly available educational material.</p>
+    <p>Account data is stored using Firebase's infrastructure, which encrypts data in transit and at rest. While no system can guarantee absolute security, we take reasonable measures to protect your information from unauthorized access.</p>
 
     <h2>Changes to This Policy</h2>
     <p>If we make any changes to this privacy policy, we will update the "Last updated" date at the top of this page. Continued use of the app after any changes means you accept the updated policy.</p>
 
     <h2>Contact Us</h2>
-    <p>If you have any questions about this privacy policy, you can reach us at:</p>
-    <p>Please contact us through the app's Play Store listing page.</p>
+    <p>If you have any questions about this privacy policy or want to request deletion of your data, you can reach us at:</p>
+    <p><a href="mailto:paggyandrews@gmail.com">paggyandrews@gmail.com</a></p>
 
     <div class="footer">
       <p>© 2026 HOW COME? — Kerala PSC English Grammar</p>

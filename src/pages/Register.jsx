@@ -244,6 +244,12 @@ export default function Register() {
             }}>
             {loading ? '✨ Creating your account...' : progressPct === 100 ? '🚀 Join HOW COME? Now!' : 'Create Account →'}
           </button>
+          <p className="text-xs text-center mt-2" style={{ color: 'var(--text2)' }}>
+            By creating an account, you agree to our{' '}
+            <a href="/terms-and-conditions.html" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--accent)' }}>Terms</a>
+            {' and '}
+            <a href="/privacy-policy.html" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--accent)' }}>Privacy Policy</a>.
+          </p>
         </form>
 
         <p className="text-sm text-center mt-4" style={{ color: 'var(--text2)' }}>

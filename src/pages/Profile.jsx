@@ -3,10 +3,127 @@ import { Link, useNavigate } from 'react-router-dom'
 import { useAuth } from '../contexts/AuthContext'
 import { useResults } from '../hooks/useResults'
 
+/* ── Delete Account modal ─────────────────────────────────────────── */
+function DeleteAccountModal({ onClose }) {
+  const { deleteAccount, reauthenticate } = useAuth()
+  const navigate = useNavigate()
+  const [step, setStep] = useState('confirm') // confirm | password | deleting
+  const [password, setPassword] = useState('')
+  const [error, setError] = useState('')
+
+  async function handleConfirmDelete() {
+    setError('')
+    setStep('deleting')
+    try {
+      await deleteAccount()
+      navigate('/')
+    } catch (err) {
+      if (err.code === 'auth/requires-recent-login') {
+        setStep('password')
+      } else {
+        setError('Something went wrong. Please try again.')
+        setStep('confirm')
+      }
+    }
+  }
+
+  async function handlePasswordSubmit(e) {
+    e.preventDefault()
+    setError('')
+    setStep('deleting')
+    try {
+      await reauthenticate(password)
+      await deleteAccount()
+      navigate('/')
+    } catch (err) {
+      setError('Incorrect password. Please try again.')
+      setStep('password')
+    }
+  }
+
+  return (
+    <div
+      onClick={onClose}
+      style={{
+        position: 'fixed', inset: 0, background: 'rgba(0,0,0,0.65)',
+        zIndex: 200, display: 'flex', alignItems: 'center', justifyContent: 'center', padding: 24,
+      }}
+    >
+      <div
+        onClick={e => e.stopPropagation()}
+        className="w-full"
+        style={{
+          background: '#000000', maxWidth: 420, borderRadius: 18,
+          border: '1px solid #dc2626', overflow: 'hidden',
+        }}
+      >
+        <div className="px-5 py-4" style={{ borderBottom: '1px solid rgba(220,38,38,0.25)' }}>
+          <h2 className="font-bold text-base" style={{ color: '#dc2626' }}>Delete Account</h2>
+        </div>
+
+        <div className="px-5 py-4">
+          {step === 'confirm' && (
+            <>
+              <p className="text-sm mb-4" style={{ color: '#ffffff' }}>
+                This permanently deletes your account, profile, saved questions, quiz history, and streak.
+                This cannot be undone.
+              </p>
+              {error && <p className="text-xs mb-3" style={{ color: '#dc2626' }}>{error}</p>}
+              <div className="flex gap-2">
+                <button onClick={onClose}
+                  className="flex-1 py-2.5 rounded-lg text-sm font-medium"
+                  style={{ background: '#111111', color: '#ffffff', border: '1px solid #333333' }}>
+                  Cancel
+                </button>
+                <button onClick={handleConfirmDelete}
+                  className="flex-1 py-2.5 rounded-lg text-sm font-bold"
+                  style={{ background: '#dc2626', color: '#ffffff' }}>
+                  Delete Forever
+                </button>
+              </div>
+            </>
+          )}
+
+          {step === 'password' && (
+            <form onSubmit={handlePasswordSubmit}>
+              <p className="text-sm mb-3" style={{ color: '#ffffff' }}>
+                For your security, please re-enter your password to confirm deletion.
+              </p>
+              <input type="password" required autoFocus value={password}
+                onChange={e => setPassword(e.target.value)}
+                placeholder="Password"
+                className="w-full rounded-lg px-3 py-2.5 text-sm mb-3"
+                style={{ background: '#111111', border: '1px solid #333333', color: '#ffffff', outline: 'none' }} />
+              {error && <p className="text-xs mb-3" style={{ color: '#dc2626' }}>{error}</p>}
+              <div className="flex gap-2">
+                <button type="button" onClick={onClose}
+                  className="flex-1 py-2.5 rounded-lg text-sm font-medium"
+                  style={{ background: '#111111', color: '#ffffff', border: '1px solid #333333' }}>
+                  Cancel
+                </button>
+                <button type="submit"
+                  className="flex-1 py-2.5 rounded-lg text-sm font-bold"
+                  style={{ background: '#dc2626', color: '#ffffff' }}>
+                  Confirm Delete
+                </button>
+              </div>
+            </form>
+          )}
+
+          {step === 'deleting' && (
+            <p className="text-sm text-center py-4" style={{ color: '#ffffff' }}>Deleting your account…</p>
+          )}
+        </div>
+      </div>
+    </div>
+  )
+}
+
 export default function Profile() {
   const { user, profile, logout } = useAuth()
   const { getAllResults, getTopicStats } = useResults()
   const navigate = useNavigate()
+  const [showDeleteModal, setShowDeleteModal] = useState(false)
 
   const [topicStats, setTopicStats] = useState([])
   const [totalQuizzes, setTotalQuizzes] = useState(0)
@@ -171,10 +288,28 @@ export default function Profile() {
 
       {/* Saved questions shortcut */}
       <Link to="/bookmarks"
-        className="flex items-center justify-between card rounded-2xl p-4">
+        className="flex items-center justify-between card rounded-2xl p-4 mb-3">
         <span className="text-sm font-semibold">🔖 Saved Questions</span>
         <span style={{ color: 'var(--text2)' }}>→</span>
       </Link>
+
+      {/* Legal links */}
+      <div className="text-xs text-center mb-3 flex items-center justify-center gap-3" style={{ color: 'var(--text2)' }}>
+        <a href="/privacy-policy.html" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text2)' }}>Privacy Policy</a>
+        <span>·</span>
+        <a href="/terms-and-conditions.html" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text2)' }}>Terms & Conditions</a>
+      </div>
+
+      {/* Delete account */}
+      {user && (
+        <button onClick={() => setShowDeleteModal(true)}
+          className="w-full text-center py-2.5 text-xs font-medium"
+          style={{ color: '#dc2626', background: 'none', border: 'none' }}>
+          Delete Account
+        </button>
+      )}
+
+      {showDeleteModal && <DeleteAccountModal onClose={() => setShowDeleteModal(false)} />}
     </div>
   )
 }

@@ -6,9 +6,15 @@ import {
   onAuthStateChanged,
   updateProfile,
   sendPasswordResetEmail,
+  deleteUser,
+  reauthenticateWithCredential,
+  EmailAuthProvider,
 } from 'firebase/auth'
-import { doc, setDoc, getDoc } from 'firebase/firestore'
+import { doc, setDoc, getDoc, deleteDoc, collection, getDocs } from 'firebase/firestore'
 import { auth, db } from '../firebase/config'
+
+// Account data kept in localStorage — cleared on account deletion.
+const LOCAL_KEYS_TO_CLEAR = ['cs-pinned', 'cs-quiz-results', 'cs-bookmarks', 'cs-streak']
 
 const MAX_PINS = 5
 const AuthContext = createContext()
@@ -92,8 +98,50 @@ export function AuthProvider({ children }) {
     setProfile(null)
   }
 
+  // Permanently deletes the user's account and all associated data.
+  // Firebase requires a "recent" login for this — if the session is old,
+  // this throws 'auth/requires-recent-login' and the caller should
+  // re-authenticate (see reauthenticate()) before retrying.
+  async function deleteAccount() {
+    const current = auth.currentUser
+    if (!current) return
+    const uid = current.uid
+
+    // Delete quiz history subcollection (results/{uid}/quizzes/*)
+    try {
+      const quizzesSnap = await getDocs(collection(db, 'results', uid, 'quizzes'))
+      await Promise.all(quizzesSnap.docs.map(d => deleteDoc(d.ref)))
+    } catch (e) {
+      console.error('Failed to delete quiz history', e)
+    }
+
+    // Delete the main profile doc (users/{uid})
+    try {
+      await deleteDoc(doc(db, 'users', uid))
+    } catch (e) {
+      console.error('Failed to delete profile doc', e)
+    }
+
+    // Delete the Firebase Auth account itself — this can throw
+    // auth/requires-recent-login, which the caller must handle.
+    await deleteUser(current)
+
+    // Clear locally-stored account/usage data
+    LOCAL_KEYS_TO_CLEAR.forEach(k => localStorage.removeItem(k))
+    setProfile(null)
+  }
+
+  // Re-authenticates with the user's password — needed when deleteAccount()
+  // throws auth/requires-recent-login (session too old for a sensitive op).
+  async function reauthenticate(password) {
+    const current = auth.currentUser
+    if (!current?.email) throw new Error('No signed-in user.')
+    const credential = EmailAuthProvider.credential(current.email, password)
+    await reauthenticateWithCredential(current, credential)
+  }
+
   return (
-    <AuthContext.Provider value={{ user, profile, loading, signup, login, logout, resetPassword, pinnedExams, pinExam, unpinExam }}>
+    <AuthContext.Provider value={{ user, profile, loading, signup, login, logout, resetPassword, deleteAccount, reauthenticate, pinnedExams, pinExam, unpinExam }}>
       {loading ? (
         <div style={{
           minHeight: '100vh', display: 'flex', flexDirection: 'column',
