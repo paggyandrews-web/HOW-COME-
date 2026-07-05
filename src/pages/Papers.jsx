@@ -2,6 +2,7 @@ import { useState, useMemo } from 'react'
 import { useSearchParams, Link } from 'react-router-dom'
 import papers from '../data/papers.json'
 import questions from '../data/questions.json'
+import Dropdown from '../components/Dropdown'
 
 const YEARS = [...new Set(papers.map(p => p.year))].sort().reverse()
 
@@ -57,15 +58,16 @@ export default function Papers() {
           className="rounded-lg px-3 py-2 text-sm flex-1 min-w-36"
           style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)' }}
         />
-        <select
+        <Dropdown
           value={year}
-          onChange={e => setYear(e.target.value)}
-          className="rounded-lg px-3 py-2 text-sm"
-          style={{ background: '#111111', border: '1px solid var(--accent)', color: 'var(--accent)', outline: 'none', colorScheme: 'dark' }}
-        >
-          <option value="" style={{ background: '#111111', color: 'var(--accent)' }}>All Years</option>
-          {YEARS.map(y => <option key={y} value={y} style={{ background: '#111111', color: 'var(--accent)' }}>{y}</option>)}
-        </select>
+          onChange={setYear}
+          placeholder="All Years"
+          className="w-36"
+          options={[
+            { value: '', label: 'All Years' },
+            ...YEARS.map(y => ({ value: y, label: y })),
+          ]}
+        />
       </div>
 
       {/* Papers grid */}

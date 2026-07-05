@@ -3,6 +3,7 @@ import { useSearchParams, Link } from 'react-router-dom'
 import questions from '../data/questions.json'
 import papers from '../data/papers.json'
 import Confetti from '../components/Confetti'
+import Dropdown from '../components/Dropdown'
 import { useResults } from '../hooks/useResults'
 import { useAuth } from '../contexts/AuthContext'
 import { isPromoActive, promoDaysLeft } from '../utils/freeTier'
@@ -452,30 +453,36 @@ function QuizSetup({ onStart, locked, needsSignup, daysLeft }) {
       <div className="mb-5">
         <div className="text-sm font-medium mb-2">Filter (optional)</div>
         <div className="grid grid-cols-3 gap-2">
-          <select value={topicId} onChange={e => { setTopicId(e.target.value); setPaperId(''); setYear('') }}
-            className="rounded-lg px-2 py-2 text-xs"
-            style={{ background: '#111111', border: `1px solid var(--accent)`, color: 'var(--accent)', outline: 'none', colorScheme: 'dark' }}>
-            <option value="" style={{ background: '#111111', color: 'var(--accent)' }}>Topic</option>
-            {allTopics.map(([t, c]) => (
-              <option key={t} value={t} style={{ background: '#111111', color: 'var(--accent)' }}>{t} ({c})</option>
-            ))}
-          </select>
-          <select value={year} onChange={e => { setYear(e.target.value); setPaperId(''); setTopicId('') }}
-            className="rounded-lg px-2 py-2 text-xs"
-            style={{ background: '#111111', border: `1px solid var(--accent)`, color: 'var(--accent)', outline: 'none', colorScheme: 'dark' }}>
-            <option value="" style={{ background: '#111111', color: 'var(--accent)' }}>Year</option>
-            {years.map(y => <option key={y} value={y} style={{ background: '#111111', color: 'var(--accent)' }}>{y}</option>)}
-          </select>
-          <select value={paperId} onChange={e => { setPaperId(e.target.value); setTopicId('') }}
-            className="rounded-lg px-2 py-2 text-xs"
-            style={{ background: '#111111', border: `1px solid var(--accent)`, color: 'var(--accent)', outline: 'none', colorScheme: 'dark' }}>
-            <option value="" style={{ background: '#111111', color: 'var(--accent)' }}>Paper</option>
-            {filteredPapers.map(p => (
-              <option key={p.id} value={p.id} style={{ background: '#111111', color: 'var(--accent)' }}>
-                {p.post || p.id} ({p.year}){p.paperCode ? ` · ${p.paperCode}` : ''}
-              </option>
-            ))}
-          </select>
+          <Dropdown
+            value={topicId}
+            onChange={v => { setTopicId(v); setPaperId(''); setYear('') }}
+            placeholder="Topic"
+            options={[
+              { value: '', label: 'Topic' },
+              ...allTopics.map(([t, c]) => ({ value: t, label: `${t} (${c})` })),
+            ]}
+          />
+          <Dropdown
+            value={year}
+            onChange={v => { setYear(v); setPaperId(''); setTopicId('') }}
+            placeholder="Year"
+            options={[
+              { value: '', label: 'Year' },
+              ...years.map(y => ({ value: y, label: y })),
+            ]}
+          />
+          <Dropdown
+            value={paperId}
+            onChange={v => { setPaperId(v); setTopicId('') }}
+            placeholder="Paper"
+            options={[
+              { value: '', label: 'Paper' },
+              ...filteredPapers.map(p => ({
+                value: p.id,
+                label: `${p.post || p.id} (${p.year})${p.paperCode ? ` · ${p.paperCode}` : ''}`,
+              })),
+            ]}
+          />
         </div>
       </div>
 
