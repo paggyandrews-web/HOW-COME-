@@ -26,10 +26,17 @@ export default function Papers() {
 
   const filtered = useMemo(() =>
     papers
-      .filter(p =>
-        (!year || p.year === year) &&
-        (!query || (p.post || p.filename || '').toLowerCase().includes(query.toLowerCase()))
-      )
+      .filter(p => {
+        if (year && p.year !== year) return false
+        if (!query) return true
+        const q = query.toLowerCase()
+        return (
+          (p.post || '').toLowerCase().includes(q) ||
+          (p.filename || '').toLowerCase().includes(q) ||
+          (p.paperCode || '').toLowerCase().includes(q) ||
+          (p.id || '').toLowerCase().includes(q)
+        )
+      })
       .sort((a, b) => parseDate(b.date) - parseDate(a.date)),
     [year, query])
 
@@ -44,7 +51,7 @@ export default function Papers() {
       <div className="flex flex-wrap gap-3 mb-6">
         <input
           type="text"
-          placeholder="Search by post name..."
+          placeholder="Search by post name or code..."
           value={query}
           onChange={e => setQuery(e.target.value)}
           className="rounded-lg px-3 py-2 text-sm flex-1 min-w-36"
@@ -54,10 +61,10 @@ export default function Papers() {
           value={year}
           onChange={e => setYear(e.target.value)}
           className="rounded-lg px-3 py-2 text-sm"
-          style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)' }}
+          style={{ background: '#111111', border: '1px solid var(--accent)', color: 'var(--accent)', outline: 'none', colorScheme: 'dark' }}
         >
-          <option value="">All Years</option>
-          {YEARS.map(y => <option key={y} value={y}>{y}</option>)}
+          <option value="" style={{ background: '#111111', color: 'var(--accent)' }}>All Years</option>
+          {YEARS.map(y => <option key={y} value={y} style={{ background: '#111111', color: 'var(--accent)' }}>{y}</option>)}
         </select>
       </div>
 

@@ -454,25 +454,25 @@ function QuizSetup({ onStart, locked, needsSignup, daysLeft }) {
         <div className="grid grid-cols-3 gap-2">
           <select value={topicId} onChange={e => { setTopicId(e.target.value); setPaperId(''); setYear('') }}
             className="rounded-lg px-2 py-2 text-xs"
-            style={{ background: '#0f172a', border: `1px solid ${topicId ? 'var(--accent)' : 'var(--border)'}`, color: 'var(--text)', outline: 'none', colorScheme: 'dark' }}>
-            <option value="">Topic</option>
+            style={{ background: '#111111', border: `1px solid var(--accent)`, color: 'var(--accent)', outline: 'none', colorScheme: 'dark' }}>
+            <option value="" style={{ background: '#111111', color: 'var(--accent)' }}>Topic</option>
             {allTopics.map(([t, c]) => (
-              <option key={t} value={t}>{t} ({c})</option>
+              <option key={t} value={t} style={{ background: '#111111', color: 'var(--accent)' }}>{t} ({c})</option>
             ))}
           </select>
           <select value={year} onChange={e => { setYear(e.target.value); setPaperId(''); setTopicId('') }}
             className="rounded-lg px-2 py-2 text-xs"
-            style={{ background: '#0f172a', border: `1px solid ${year ? 'var(--accent)' : 'var(--border)'}`, color: 'var(--text)', outline: 'none', colorScheme: 'dark' }}>
-            <option value="">Year</option>
-            {years.map(y => <option key={y} value={y}>{y}</option>)}
+            style={{ background: '#111111', border: `1px solid var(--accent)`, color: 'var(--accent)', outline: 'none', colorScheme: 'dark' }}>
+            <option value="" style={{ background: '#111111', color: 'var(--accent)' }}>Year</option>
+            {years.map(y => <option key={y} value={y} style={{ background: '#111111', color: 'var(--accent)' }}>{y}</option>)}
           </select>
           <select value={paperId} onChange={e => { setPaperId(e.target.value); setTopicId('') }}
             className="rounded-lg px-2 py-2 text-xs"
-            style={{ background: '#0f172a', border: `1px solid ${paperId ? 'var(--accent)' : 'var(--border)'}`, color: 'var(--text)', outline: 'none', colorScheme: 'dark' }}>
-            <option value="">Paper</option>
+            style={{ background: '#111111', border: `1px solid var(--accent)`, color: 'var(--accent)', outline: 'none', colorScheme: 'dark' }}>
+            <option value="" style={{ background: '#111111', color: 'var(--accent)' }}>Paper</option>
             {filteredPapers.map(p => (
-              <option key={p.id} value={p.id}>
-                {p.post || p.id} ({p.year})
+              <option key={p.id} value={p.id} style={{ background: '#111111', color: 'var(--accent)' }}>
+                {p.post || p.id} ({p.year}){p.paperCode ? ` · ${p.paperCode}` : ''}
               </option>
             ))}
           </select>
