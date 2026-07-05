@@ -39,8 +39,9 @@ export default function Dropdown({ value, onChange, options, placeholder, classN
             background: 'rgba(0,0,0,0.65)',
             zIndex: 200,
             display: 'flex',
-            alignItems: 'flex-end',
+            alignItems: 'center',
             justifyContent: 'center',
+            padding: '24px',
           }}
         >
           <div
@@ -52,10 +53,8 @@ export default function Dropdown({ value, onChange, options, placeholder, classN
               maxHeight: '75vh',
               display: 'flex',
               flexDirection: 'column',
-              borderTopLeftRadius: 18,
-              borderTopRightRadius: 18,
+              borderRadius: 18,
               border: '1px solid var(--accent)',
-              borderBottom: 'none',
               overflow: 'hidden',
             }}
           >
