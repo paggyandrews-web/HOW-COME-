@@ -1,21 +1,38 @@
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
-import { useState, useEffect, useRef } from 'react'
+import { useState, useEffect, useRef, Suspense, lazy } from 'react'
 import { Analytics } from '@vercel/analytics/react'
 import { ThemeProvider } from './contexts/ThemeContext'
 import { AuthProvider } from './contexts/AuthContext'
 import Navbar from './components/Navbar'
 import BottomNav from './components/BottomNav'
+// Home loads eagerly — it's the landing page for almost every visit.
+// Everything else is code-split so the initial bundle (and the 3MB+
+// questions.json some of these pages import) only loads when actually visited.
 import Home from './pages/Home'
-import Papers from './pages/Papers'
-import Quiz from './pages/Quiz'
-import Topics from './pages/Topics'
-import Exams from './pages/Exams'
-import Login from './pages/Login'
-import Register from './pages/Register'
-import ForgotPassword from './pages/ForgotPassword'
-import Profile from './pages/Profile'
-import Search from './pages/Search'
-import Bookmarks from './pages/Bookmarks'
+const Papers = lazy(() => import('./pages/Papers'))
+const Quiz = lazy(() => import('./pages/Quiz'))
+const Topics = lazy(() => import('./pages/Topics'))
+const Exams = lazy(() => import('./pages/Exams'))
+const Login = lazy(() => import('./pages/Login'))
+const Register = lazy(() => import('./pages/Register'))
+const ForgotPassword = lazy(() => import('./pages/ForgotPassword'))
+const Profile = lazy(() => import('./pages/Profile'))
+const Search = lazy(() => import('./pages/Search'))
+const Bookmarks = lazy(() => import('./pages/Bookmarks'))
+
+/* Lightweight fallback shown while a lazy page chunk downloads */
+function PageLoading() {
+  return (
+    <div style={{ display: 'flex', justifyContent: 'center', padding: '80px 0' }}>
+      <div style={{
+        width: 28, height: 28, borderRadius: '50%',
+        border: '3px solid rgba(26,157,142,0.25)', borderTopColor: 'var(--accent)',
+        animation: 'spin 0.7s linear infinite',
+      }} />
+      <style>{'@keyframes spin { to { transform: rotate(360deg) } }'}</style>
+    </div>
+  )
+}
 
 /* Teal scroll button — centered, fades out when idle */
 function ScrollButton() {
@@ -93,19 +110,21 @@ function AnimatedRoutes() {
   const location = useLocation()
   return (
     <div key={location.pathname} className="page-enter">
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/papers" element={<Papers />} />
-        <Route path="/quiz" element={<Quiz />} />
-        <Route path="/topics" element={<Topics />} />
-        <Route path="/exams" element={<Exams />} />
-        <Route path="/login" element={<Login />} />
-        <Route path="/register" element={<Register />} />
-        <Route path="/forgot-password" element={<ForgotPassword />} />
-        <Route path="/profile" element={<Profile />} />
-        <Route path="/search" element={<Search />} />
-        <Route path="/bookmarks" element={<Bookmarks />} />
-      </Routes>
+      <Suspense fallback={<PageLoading />}>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/papers" element={<Papers />} />
+          <Route path="/quiz" element={<Quiz />} />
+          <Route path="/topics" element={<Topics />} />
+          <Route path="/exams" element={<Exams />} />
+          <Route path="/login" element={<Login />} />
+          <Route path="/register" element={<Register />} />
+          <Route path="/forgot-password" element={<ForgotPassword />} />
+          <Route path="/profile" element={<Profile />} />
+          <Route path="/search" element={<Search />} />
+          <Route path="/bookmarks" element={<Bookmarks />} />
+        </Routes>
+      </Suspense>
     </div>
   )
 }

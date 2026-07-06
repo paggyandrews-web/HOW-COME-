@@ -1,7 +1,6 @@
 import { useState, useEffect } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { useAuth } from '../contexts/AuthContext'
-import questions from '../data/questions.json'
 import papers from '../data/papers.json'
 import exams from '../data/exams.json'
 import FlipClock from '../components/FlipClock'
@@ -262,11 +261,18 @@ export default function Home() {
   const navigate = useNavigate()
   const [removeTarget, setRemoveTarget] = useState(null)
   const [streak, setStreak]             = useState(0)
+  const [questionCount, setQuestionCount] = useState(null)
   const { getStreak } = useStreak()
 
   useEffect(() => {
     getStreak().then(s => setStreak(s.currentStreak || 0))
   }, [user])
+
+  // questions.json is ~3MB — load it lazily off the critical render path
+  // instead of bundling it into Home's (eager) chunk just for a count.
+  useEffect(() => {
+    import('../data/questions.json').then(mod => setQuestionCount(mod.default.length))
+  }, [])
 
   function handleUnpin(id) { unpinExam(id); setRemoveTarget(null) }
 
@@ -303,7 +309,7 @@ export default function Home() {
               <div className="text-xs mt-0.5" style={{ color: 'rgba(255,255,255,0.5)' }}>Question Papers</div>
             </div>
             <div className="flex-1 rounded-xl px-3 py-2.5" style={{ background: 'rgba(26,157,142,0.12)', border: '1px solid rgba(26,157,142,0.25)' }}>
-              <div className="font-black text-xl leading-none" style={{ color: 'var(--accent)' }}>{questions.length}</div>
+              <div className="font-black text-xl leading-none" style={{ color: 'var(--accent)' }}>{questionCount ?? '—'}</div>
               <div className="text-xs mt-0.5" style={{ color: 'rgba(255,255,255,0.5)' }}>Total Questions</div>
             </div>
           </div>
