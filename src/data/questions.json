@@ -8140,7 +8140,7 @@
     "paperId": "140-2024-M",
     "questionNumber": 83,
     "topic": "Subject-Verb Agreement",
-    "questionText": "Either the parents or the girl ________ to blame in this affair.",
+    "questionText": "Either the parents or the girl ________ to blame in this affair. (~~deleted by psc~~)",
     "optionA": "are",
     "optionB": "is",
     "optionC": "has",
@@ -8150,7 +8150,7 @@
       "correct": "✅ ശരിയുത്തരം: (B) is\n\n• 'Either...or' ഉള്ള sentences-ൽ verb, 'or'-നു ശേഷം വരുന്ന subject-നു അനുസരിച്ചിരിക്കും.\n• ഇവിടെ 'or'-നു ശേഷം 'the girl' (singular) ആണ്, അതുകൊണ്ട് singular verb 'is' വേണം.\n• 'Either the parents or the girl IS to blame' — girl singular ആണ്, so 'is' correct.\n• ഈ rule PSC-ൽ ഒരു guaranteed question pattern ആണ്.",
       "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Either...or / Neither...nor — verb follows the NEAREST subject (or-നു / nor-നു ശേഷം ഉള്ള subject)\n\nഉദാഹരണങ്ങൾ:\n• Either the students or the teacher IS responsible. (teacher = singular → is)\n• Either the teacher or the students ARE responsible. (students = plural → are)\n• Neither Ramu nor his friends HAVE come. (friends = plural → have)\n• Neither the boys nor the girl HAS arrived. (girl = singular → has)\n\n• ⭐ PSC ആവർത്തനം: Either/or, Neither/nor agreement — ഒരു classic PSC question!",
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n❌ (A) are — 'Parents' plural ആണ്, പക്ഷേ verb decide ചെയ്യുന്നത് 'or'-നു ശേഷം വരുന്ന 'the girl' (singular) ആണ്. അതുകൊണ്ട് 'are' തെറ്റ്.\n\n❌ (C) has — 'Has' third person singular-ന്റെ perfect form ആണ്. ഇവിടെ 'to blame' (infinitive) ഉള്ളതിനാൽ 'is' ആണ് ചേരുക, 'has' അല്ല.\n\n❌ (D) was — Past tense ആണ്. ഈ sentence present situation describe ചെയ്യുന്നതിനാൽ present tense 'is' വേണം. 🪤 PSC Trap: 'parents' plural കണ്ടപ്പോൾ 'are' select ചെയ്യും — nearest subject rule മറക്കരുത്!",
-      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Either/or, Neither/nor — look at the word BEFORE the blank (nearest subject)!'\n• Exam strategy: Either/or ചോദ്യം കണ്ടാൽ 'or'-നു ശേഷം ഉള്ള subject singular ആണോ plural ആണോ എന്ന് first check ചെയ്യുക.\n• ഈ same rule: Neither Ramu nor his brothers HAVE come (brothers plural → have)."
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Either/or, Neither/nor — look at the word BEFORE the blank (nearest subject)!'\n• Exam strategy: Either/or ചോദ്യം കണ്ടാൽ 'or'-നു ശേഷം ഉള്ള subject singular ആണോ plural ആണോ എന്ന് first check ചെയ്യുക.\n• ഈ same rule: Neither Ramu nor his brothers HAVE come (brothers plural → have).\n\n🚫 Deleted Question: PSC ഔദ്യോഗിക Final Answer Key-ൽ ഈ ചോദ്യം ഒഴിവാക്കി (deleted/cancelled), സ്കോറിംഗിൽ ഉൾപ്പെടുത്തിയിട്ടില്ല. കൃത്യമായ കാരണം സ്ഥിരീകരിക്കാൻ കഴിഞ്ഞിട്ടില്ല — 'nearest subject' rule ഈ either/or sentence-ന് വ്യക്തവും standard ആയ grammar rule ആണ് (മറ്റ് options-ൽ ambiguity സൃഷ്ടിക്കുന്ന ഒരു genuine alternative ഇവിടെ കാണുന്നില്ല). അതിനാൽ ഈ deletion, ചോദ്യത്തിന്റെ meaning-ലെ ambiguity കൊണ്ടല്ല, മറിച്ച് Malayalam-medium ചോദ്യപേപ്പറിലെ ഒരു printing/translation പിശക് കൊണ്ടാകാം എന്ന് അനുമാനിക്കുന്നു."
     }
   },
   {
