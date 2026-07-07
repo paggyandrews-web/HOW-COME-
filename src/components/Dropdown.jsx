@@ -75,6 +75,7 @@ export default function Dropdown({ value, onChange, options, placeholder, classN
                     background: o.value === value ? 'rgba(26,157,142,0.12)' : 'transparent',
                     borderBottom: '1px solid rgba(255,255,255,0.08)',
                     fontWeight: o.value === value ? 700 : 400,
+                    cursor: 'pointer',
                   }}
                 >
                   {o.label}

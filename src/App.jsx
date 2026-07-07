@@ -5,6 +5,41 @@ import { ThemeProvider } from './contexts/ThemeContext'
 import { AuthProvider } from './contexts/AuthContext'
 import Navbar from './components/Navbar'
 import BottomNav from './components/BottomNav'
+import { tap } from './utils/haptics'
+
+/**
+ * Finds the nearest "interactive" ancestor of a touched element — a button,
+ * link, form control, or anything explicitly styled with a pointer cursor
+ * (our convention for custom clickable divs, e.g. Dropdown options). Walks a
+ * short distance up the tree since the actual touch often lands on an icon
+ * or text node inside the real target.
+ */
+function isInteractive(el) {
+  let node = el
+  for (let depth = 0; node && depth < 6; depth++) {
+    const tag = node.tagName
+    if (tag === 'BUTTON' || tag === 'A' || tag === 'SELECT' || tag === 'INPUT') return true
+    if (node.getAttribute && node.getAttribute('role') === 'button') return true
+    if (node.nodeType === 1 && window.getComputedStyle(node).cursor === 'pointer') return true
+    node = node.parentElement
+  }
+  return false
+}
+
+/** Fires a light haptic tick whenever the person touches something interactive. */
+function HapticFeedback() {
+  useEffect(() => {
+    function onPointerDown(e) {
+      // Only for touch/pen — mouse users on desktop don't expect vibration.
+      if (e.pointerType === 'mouse') return
+      if (isInteractive(e.target)) tap()
+    }
+    document.addEventListener('pointerdown', onPointerDown, { passive: true })
+    return () => document.removeEventListener('pointerdown', onPointerDown)
+  }, [])
+  return null
+}
+
 // Home loads eagerly — it's the landing page for almost every visit.
 // Everything else is code-split so the initial bundle (and the 3MB+
 // questions.json some of these pages import) only loads when actually visited.
@@ -135,6 +170,7 @@ export default function App() {
       <AuthProvider>
         <BrowserRouter>
           <div style={{ minHeight: '100vh', background: 'var(--bg)', color: 'var(--text)' }}>
+            <HapticFeedback />
             <ScrollToTop />
             <Navbar />
             <div
