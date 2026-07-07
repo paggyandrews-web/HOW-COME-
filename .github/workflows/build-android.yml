@@ -5,7 +5,7 @@ on:
 
 jobs:
   build:
-    name: Build and Sign APK
+    name: Build, Sign and Release APK
     runs-on: ubuntu-latest
 
     steps:
@@ -29,39 +29,63 @@ jobs:
       - name: Configure Android SDK
         run: |
           SDK="${ANDROID_SDK_ROOT:-$ANDROID_HOME}"
-          echo "SDK: $SDK"
           echo "sdk.dir=$SDK" > android/local.properties
-          ls "$SDK/platforms/"
-          ls "$SDK/build-tools/"
 
-      - name: Build release APK
+      - name: Decode signing keystore
+        env:
+          KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+        run: |
+          echo "$KEYSTORE_BASE64" | base64 -d > android/app/release.keystore
+
+      - name: Build signed release APK
         working-directory: android
+        env:
+          RELEASE_KEYSTORE_PATH: release.keystore
+          RELEASE_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          RELEASE_KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+          RELEASE_KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
         run: gradle assembleRelease --no-daemon --stacktrace
 
-      - name: Sign APK
-        run: |
-          SDK="${ANDROID_SDK_ROOT:-$ANDROID_HOME}"
-          BT=$(ls "$SDK/build-tools/" | sort -V | tail -1)
-          echo "Build-tools version: $BT"
-          keytool -genkeypair \
-            -alias my-key-alias \
-            -keypass howcome2024 \
-            -keystore release.keystore \
-            -storepass howcome2024 \
-            -dname "CN=HOW COME, O=HOW COME PSC, C=IN" \
-            -keyalg RSA -keysize 2048 -validity 10000 -noprompt
-          "$SDK/build-tools/$BT/apksigner" sign \
-            --ks release.keystore \
-            --ks-key-alias my-key-alias \
-            --ks-pass pass:howcome2024 \
-            --key-pass pass:howcome2024 \
-            --out howcome-webview.apk \
-            android/app/build/outputs/apk/release/app-release-unsigned.apk
-          ls -lh howcome-webview.apk
+      - name: Build signed release AAB (for future Play Store use)
+        working-directory: android
+        env:
+          RELEASE_KEYSTORE_PATH: release.keystore
+          RELEASE_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          RELEASE_KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+          RELEASE_KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
+        run: gradle bundleRelease --no-daemon --stacktrace
 
-      - name: Upload APK
+      - name: Rename outputs
+        run: |
+          mkdir -p dist
+          cp android/app/build/outputs/apk/release/app-release.apk dist/HOW-COME.apk
+          cp android/app/build/outputs/bundle/release/app-release.aab dist/HOW-COME.aab
+          ls -lh dist
+
+      - name: Read version name
+        id: ver
+        run: |
+          VERSION=$(grep versionName android/app/build.gradle | head -1 | sed -E 's/.*"(.*)".*/\1/')
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+
+      - name: Upload APK/AAB as workflow artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: HOW-COME-WebView-v2
-          path: howcome-webview.apk
-          retention-days: 30
+          name: HOW-COME-Android-v${{ steps.ver.outputs.version }}
+          path: dist/*
+          retention-days: 90
+
+      - name: Publish GitHub Release with APK
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: android-v${{ steps.ver.outputs.version }}-${{ github.run_number }}
+          name: HOW COME Android v${{ steps.ver.outputs.version }}
+          body: |
+            Signed Android build of HOW COME?
+
+            **To install:** download `HOW-COME.apk` below on an Android phone, open it, and allow "install from this source" if prompted. The .aab file is for Play Store submission only — do not share that one.
+          files: |
+            dist/HOW-COME.apk
+            dist/HOW-COME.aab
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
