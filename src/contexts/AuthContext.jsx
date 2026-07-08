@@ -145,11 +145,15 @@ export function AuthProvider({ children }) {
       {loading ? (
         <div style={{
           minHeight: '100vh', display: 'flex', flexDirection: 'column',
-          alignItems: 'center', justifyContent: 'center', gap: 12,
-          background: '#071524',
+          alignItems: 'center', justifyContent: 'center', gap: 8,
+          background: '#0f172a',
         }}>
-          <div style={{ color: '#ffffff', fontWeight: 800, fontSize: 28 }}>HOW COME?</div>
-          <div style={{ color: '#1a9d8e', fontSize: 13 }}>Kerala PSC English Practice</div>
+          <div style={{ fontSize: 34, fontWeight: 900, letterSpacing: '-1px', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif' }}>
+            <span style={{ color: '#1a9d8e' }}>HOW </span>
+            <span style={{ color: '#ffffff' }}>COME</span>
+            <span style={{ color: '#1a9d8e' }}>?</span>
+          </div>
+          <div style={{ color: 'rgba(255,255,255,0.38)', fontSize: 13, fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif' }}>Kerala PSC English</div>
         </div>
       ) : children}
     </AuthContext.Provider>
