@@ -8,7 +8,7 @@
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#0f172a",
-  "theme_color": "#1a9d8e",
+  "theme_color": "#0f172a",
   "orientation": "portrait",
   "lang": "en",
   "categories": ["education"],
