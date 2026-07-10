@@ -24,10 +24,10 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        getWindow().getDecorView().setBackgroundColor(Color.parseColor("#0f172a"));
+        getWindow().getDecorView().setBackgroundColor(Color.parseColor("#000000"));
 
         webView = new WebView(this);
-        webView.setBackgroundColor(Color.parseColor("#0f172a"));
+        webView.setBackgroundColor(Color.parseColor("#000000"));
         setContentView(webView);
 
         WebSettings settings = webView.getSettings();

@@ -19,6 +19,8 @@
   --card: #111111;
   --shadow: 0 1px 3px rgba(0,0,0,0.8);
   --come-color: #ffffff;
+  --accent-green: #22c55e;
+  --accent-pink: #ec4899;
 }
 
 [data-theme="howcome"] {
@@ -110,6 +112,10 @@ body {
 .border-theme { border-color: var(--border); }
 .text-accent { color: var(--accent); }
 .bg-accent { background: var(--accent); }
+.text-accent-green { color: var(--accent-green); }
+.bg-accent-green { background: var(--accent-green); }
+.text-accent-pink { color: var(--accent-pink); }
+.bg-accent-pink { background: var(--accent-pink); }
 
 .theme-input::placeholder { color: var(--accent); opacity: 0.5; }
 
@@ -237,7 +243,7 @@ body {
 /* ── Native select — force dark picker on all platforms ── */
 select {
   color-scheme: dark;
-  background: #0f172a;
+  background: #000000;
   color: #ffffff;
   border: 1px solid #334155;
   outline: none;
@@ -246,7 +252,7 @@ select:focus {
   border-color: #1a9d8e;
 }
 select option {
-  background: #0f172a;
+  background: #000000;
   color: #ffffff;
 }
 

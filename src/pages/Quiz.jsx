@@ -531,9 +531,9 @@ function QuizSetup({ onStart, locked, needsSignup, daysLeft }) {
           </div>
         </div>
       ) : locked && !isBrowse ? (
-        <div className="p-4 rounded-xl text-center" style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
+        <div className="p-4 rounded-xl text-center" style={{ background: 'var(--surface)', border: '1px solid var(--accent-pink)' }}>
           <div className="text-2xl mb-1">🔒</div>
-          <div className="font-semibold text-sm mb-1">Free promo ended</div>
+          <div className="font-semibold text-sm mb-1" style={{ color: 'var(--accent-pink)' }}>Free promo ended</div>
           <div className="text-xs" style={{ color: 'var(--text2)' }}>
             The free period ended 31 July. Upgrade to keep practicing.
           </div>

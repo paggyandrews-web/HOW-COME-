@@ -104,7 +104,7 @@ function StreakDots({ days }) {
         <div key={i} style={{
           width: 28, height: 28, borderRadius: '50%',
           display: 'flex', alignItems: 'center', justifyContent: 'center',
-          background: i < Math.min(days, 3) ? 'var(--accent)' : 'rgba(255,255,255,0.07)',
+          background: i < Math.min(days, 3) ? 'var(--accent-green)' : 'rgba(255,255,255,0.07)',
           border: i < Math.min(days, 3) ? 'none' : '1.5px dashed rgba(255,255,255,0.18)',
         }}>
           {i < Math.min(days, 3) && (

@@ -146,7 +146,7 @@ export function AuthProvider({ children }) {
         <div style={{
           minHeight: '100vh', display: 'flex', flexDirection: 'column',
           alignItems: 'center', justifyContent: 'center', gap: 8,
-          background: '#0f172a',
+          background: '#000000',
         }}>
           <div style={{ fontSize: 34, fontWeight: 900, letterSpacing: '-1px', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif' }}>
             <span style={{ color: '#1a9d8e' }}>HOW </span>
