@@ -1,5 +1,5 @@
 // HOW COME? Service Worker
-const CACHE_NAME = 'howcome-v1';
+const CACHE_NAME = 'howcome-v2';
 const STATIC_ASSETS = [
   '/',
   '/index.html',
