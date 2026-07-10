@@ -4,7 +4,8 @@
     "namespace": "android_app",
     "package_name": "com.howcome.psc",
     "sha256_cert_fingerprints": [
-      "07:95:0E:84:84:3C:D5:3B:B3:A3:6D:5F:A2:84:A5:F1:6F:07:E7:11:E2:11:69:BA:E6:02:A3:87:8B:8B:E7:90"
+      "07:95:0E:84:84:3C:D5:3B:B3:A3:6D:5F:A2:84:A5:F1:6F:07:E7:11:E2:11:69:BA:E6:02:A3:87:8B:8B:E7:90",
+      "7B:E3:88:53:88:92:5D:45:32:A5:E3:34:64:F6:D1:AC:EE:8E:0F:57:73:C6:E5:BA:B5:51:DB:81:C7:2C:2E:35"
     ]
   }
 }]
