@@ -53,6 +53,36 @@
   --come-color: #f29fff;
 }
 
+[data-theme="green"] {
+  --bg: #1c3522;
+  --bg2: #23402b;
+  --surface: #23402b;
+  --border: #2f5a3c;
+  --text: #f1f5f9;
+  --text2: #8fb39b;
+  --accent: #1a9d8e;
+  --accent-hover: #15877a;
+  --accent-text: #ffffff;
+  --card: #23402b;
+  --shadow: 0 1px 3px rgba(0,0,0,0.5);
+  --come-color: #ffffff;
+}
+
+[data-theme="wine"] {
+  --bg: #000000;
+  --bg2: #111111;
+  --surface: #111111;
+  --border: #2a1620;
+  --text: #f1f5f9;
+  --text2: #c9a0ae;
+  --accent: #96325f;
+  --accent-hover: #7d2a50;
+  --accent-text: #ffffff;
+  --card: #111111;
+  --shadow: 0 1px 3px rgba(150,50,95,0.15);
+  --come-color: #96325f;
+}
+
 body {
   background-color: var(--bg);
   color: var(--text);
@@ -92,6 +122,22 @@ body {
 
 [data-theme="pink"] .card:hover {
   box-shadow: 0 4px 16px rgba(242,159,255,0.2), 0 16px 40px rgba(0,0,0,0.35);
+}
+
+[data-theme="green"] .card {
+  box-shadow: 0 1px 4px rgba(0,0,0,0.35), 0 4px 16px rgba(0,0,0,0.25);
+}
+
+[data-theme="green"] .card:hover {
+  box-shadow: 0 4px 16px rgba(26,157,142,0.18), 0 16px 40px rgba(0,0,0,0.4);
+}
+
+[data-theme="wine"] .card {
+  box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
+}
+
+[data-theme="wine"] .card:hover {
+  box-shadow: 0 4px 16px rgba(150,50,95,0.2), 0 16px 40px rgba(0,0,0,0.35);
 }
 
 .btn-primary {
@@ -265,5 +311,12 @@ select option {
   [data-theme="howcome"] .card:hover,
   [data-theme="black"] .card:hover {
     box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
+  }
+  [data-theme="pink"] .card:hover,
+  [data-theme="wine"] .card:hover {
+    box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
+  }
+  [data-theme="green"] .card:hover {
+    box-shadow: 0 1px 4px rgba(0,0,0,0.35), 0 4px 16px rgba(0,0,0,0.25);
   }
 }

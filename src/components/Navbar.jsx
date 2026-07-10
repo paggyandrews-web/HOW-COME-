@@ -7,6 +7,8 @@ import { useStreak } from '../hooks/useStreak'
 const themes = [
   { id: 'black', label: '⬛', title: 'Black' },
   { id: 'pink', label: '🌸', title: 'Pink' },
+  { id: 'green', label: '🟢', title: 'Green' },
+  { id: 'wine', label: '🍷', title: 'Wine' },
 ]
 
 export default function Navbar() {
