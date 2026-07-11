@@ -1,15 +1,21 @@
 import { useEffect, useRef } from 'react'
 
 const COLORS = ['#ff6b6b', '#ffd93d', '#6bcb77', '#4d96ff', '#ff922b', '#cc5de8', '#20c997']
+const GRAVITY = 0.45
 
 function randomBetween(a, b) { return a + Math.random() * (b - a) }
 
 function createParticle(canvas) {
+  // Velocity needed for the tallest bursts to clear the top of the screen
+  // (with a bit of overshoot), derived from actual screen height so this
+  // scales correctly on any device.
+  const baseV = Math.sqrt(2 * GRAVITY * canvas.height * 1.15)
+
   return {
-    x: randomBetween(0, canvas.width),
-    y: randomBetween(-80, -10),
+    x: randomBetween(canvas.width * 0.05, canvas.width * 0.95),
+    y: canvas.height - randomBetween(0, 30), // launch from the bottom edge
     vx: randomBetween(-3, 3),
-    vy: randomBetween(2, 6),
+    vy: -randomBetween(baseV * 0.55, baseV * 1.05), // burst upward
     color: COLORS[Math.floor(Math.random() * COLORS.length)],
     width: randomBetween(6, 14),
     height: randomBetween(4, 8),
@@ -38,13 +44,12 @@ export default function Confetti({ active }) {
     canvas.height = window.innerHeight
     const ctx = canvas.getContext('2d')
 
-    // Generate particles in waves
+    // Generate particles, staggered so the burst erupts over a few frames
+    // rather than all at once — gives it a fuller, more "magical" feel.
     const particles = []
     for (let i = 0; i < 160; i++) {
       const p = createParticle(canvas)
-      // stagger launch time
-      p.y = randomBetween(-canvas.height * 0.5, -10)
-      p.vy = randomBetween(3, 7)
+      p.launchDelay = Math.floor(randomBetween(0, 14)) // frames before this one fires
       particles.push(p)
     }
 
@@ -53,17 +58,29 @@ export default function Confetti({ active }) {
       ctx.clearRect(0, 0, canvas.width, canvas.height)
       frame++
 
+      let anyVisible = false
+
       for (const p of particles) {
+        if (frame < p.launchDelay) {
+          anyVisible = true
+          continue // hasn't launched yet
+        }
+
         p.x  += p.vx
         p.y  += p.vy
-        p.vy += 0.12 // gravity
-        p.vx *= 0.99 // air friction
+        p.vy += GRAVITY
+        p.vx *= 0.995 // air friction
         p.rotation += p.rotSpeed
 
-        // fade out near bottom
-        if (p.y > canvas.height * 0.7) {
-          p.opacity = Math.max(0, p.opacity - 0.025)
+        // Only fade once it's actually fallen back below the bottom edge,
+        // so the full up-and-down arc stays fully visible.
+        if (p.y > canvas.height + 10) {
+          p.opacity = Math.max(0, p.opacity - 0.06)
         }
+
+        if (p.opacity <= 0.02) continue
+
+        anyVisible = true
 
         ctx.save()
         ctx.globalAlpha = p.opacity
@@ -81,8 +98,7 @@ export default function Confetti({ active }) {
         ctx.restore()
       }
 
-      const alive = particles.some(p => p.y < canvas.height + 20 && p.opacity > 0.02)
-      if (alive) {
+      if (anyVisible) {
         animRef.current = requestAnimationFrame(draw)
       } else {
         ctx.clearRect(0, 0, canvas.width, canvas.height)
