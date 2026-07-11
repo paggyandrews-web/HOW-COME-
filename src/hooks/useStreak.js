@@ -61,11 +61,19 @@ function computeNewStreak(existing) {
   }
 }
 
+// Streak lengths worth a special celebration. Early wins (3, 7) come fast to
+// hook the habit; after 10 it's every round number so it stays achievable.
+export function isStreakMilestone(n) {
+  return n === 3 || n === 7 || (n >= 10 && n % 10 === 0)
+}
+
 export function useStreak() {
   const { user } = useAuth()
 
   async function updateStreak() {
     const existing = readLocal()
+    const today = todayStr()
+    const isNewDay = existing.lastActivityDate !== today
     const updated = computeNewStreak(existing)
 
     // Always write to localStorage
@@ -77,6 +85,11 @@ export function useStreak() {
         await setDoc(doc(db, 'users', user.uid), { streak: updated }, { merge: true })
       } catch {}
     }
+
+    // isNewDay tells callers whether the streak actually advanced today, so
+    // they don't re-fire a milestone celebration on every quiz taken while
+    // already sitting at a milestone number.
+    return { ...updated, isNewDay }
   }
 
   async function getStreak() {

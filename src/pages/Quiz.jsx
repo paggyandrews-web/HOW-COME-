@@ -8,7 +8,7 @@ import { useResults } from '../hooks/useResults'
 import { useAuth } from '../contexts/AuthContext'
 import { isPromoActive, promoDaysLeft } from '../utils/freeTier'
 import { useBookmarks } from '../hooks/useBookmarks'
-import { useStreak } from '../hooks/useStreak'
+import { useStreak, isStreakMilestone } from '../hooks/useStreak'
 
 function formatQuestion(text) {
   if (!text) return text
@@ -557,9 +557,10 @@ function QuizSetup({ onStart, locked, needsSignup, daysLeft }) {
 }
 
 // Result icons for 5 score bands
-function QuizResult({ questions, answers, onRetry, onHome }) {
+function QuizResult({ questions, answers, onRetry, onHome, streakMilestone }) {
   const [reviewIdx, setReviewIdx] = useState(0)
   const [showConfetti, setShowConfetti] = useState(false)
+  const [showFire, setShowFire] = useState(false)
   const [sharing, setSharing] = useState(false)
   const { user } = useAuth()
 
@@ -568,6 +569,9 @@ function QuizResult({ questions, answers, onRetry, onHome }) {
   ).length
   const answered = answers.filter(Boolean).length
   const pct = Math.round((score / questions.length) * 100)
+  // Near-perfect/perfect scores get the bigger, gold-tinted burst instead of
+  // the standard one — the same animation every time stops feeling earned.
+  const confettiTier = pct > 90 ? 'big' : 'normal'
 
   // Fire confetti for scores >= 71%
   useEffect(() => {
@@ -577,6 +581,15 @@ function QuizResult({ questions, answers, onRetry, onHome }) {
       return () => clearTimeout(t)
     }
   }, [pct])
+
+  // Separate ember burst for hitting a streak milestone this session
+  useEffect(() => {
+    if (streakMilestone) {
+      setShowFire(true)
+      const t = setTimeout(() => setShowFire(false), 3500)
+      return () => clearTimeout(t)
+    }
+  }, [streakMilestone])
 
   // Topic breakdown for this quiz
   const topicStats = useMemo(() => {
@@ -608,7 +621,8 @@ function QuizResult({ questions, answers, onRetry, onHome }) {
 
   return (
     <div className="max-w-2xl mx-auto px-4 py-8">
-      <Confetti active={showConfetti} />
+      <Confetti active={showConfetti} tier={confettiTier} />
+      <Confetti active={showFire} variant="fire" tier={confettiTier} />
 
       {/* Score card */}
       <div className="card rounded-2xl p-6 text-center mb-4">
@@ -620,6 +634,14 @@ function QuizResult({ questions, answers, onRetry, onHome }) {
           <div className="text-4xl font-bold mb-3" style={{ color: 'var(--accent)' }}>{pct}%</div>
         )}
         <p style={{ color: 'var(--text2)' }} className="text-sm">{message}</p>
+        {streakMilestone && (
+          <div
+            className="inline-flex items-center gap-1.5 mt-3 px-3 py-1.5 rounded-full text-sm font-semibold"
+            style={{ background: 'rgba(255,107,53,0.14)', color: '#ff6b35' }}
+          >
+            🔥 {streakMilestone}-day streak!
+          </div>
+        )}
         <div className="flex gap-3 mt-5 justify-center flex-wrap">
           <button onClick={onRetry} className="px-4 py-2 rounded-lg text-sm font-medium"
             style={{ background: 'var(--accent)', color: 'var(--accent-text)' }}>
@@ -771,6 +793,7 @@ export default function Quiz() {
   const [timedOut, setTimedOut] = useState(false)
   const [showConfetti, setShowConfetti] = useState(false)
   const [vibratingOption, setVibratingOption] = useState(null)
+  const [streakMilestone, setStreakMilestone] = useState(null)
   const { saveResult } = useResults()
   const { toggle: toggleBookmark, isBookmarked } = useBookmarks()
   const { updateStreak } = useStreak()
@@ -852,7 +875,13 @@ export default function Quiz() {
       const finalAnswers = [...answers]
       finalAnswers[current] = selected ?? answers[current]
       saveResult(quizData.questions, finalAnswers, quizData.mode)
-      updateStreak()
+      // Non-blocking — the result screen shouldn't wait on this, and the
+      // fire burst just fires a beat later once the streak is confirmed.
+      updateStreak().then(updated => {
+        if (updated?.isNewDay && isStreakMilestone(updated.currentStreak)) {
+          setStreakMilestone(updated.currentStreak)
+        }
+      })
       setQuizState('result')
       window.scrollTo({ top: 0, behavior: 'smooth' })
       return
@@ -883,8 +912,9 @@ export default function Quiz() {
       <QuizResult
         questions={quizData.questions}
         answers={answers}
-        onRetry={() => handleStart(quizData)}
-        onHome={() => setQuizState('setup')}
+        onRetry={() => { setStreakMilestone(null); handleStart(quizData) }}
+        onHome={() => { setStreakMilestone(null); setQuizState('setup') }}
+        streakMilestone={streakMilestone}
       />
     )
   }
