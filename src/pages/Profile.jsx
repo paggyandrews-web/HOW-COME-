@@ -300,6 +300,13 @@ export default function Profile() {
         <a href="/terms-and-conditions.html" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text2)' }}>Terms & Conditions</a>
       </div>
 
+      {/* Disclaimer + official source, required for apps that surface government (KPSC) info */}
+      <p className="text-xs text-center mb-5 px-2" style={{ color: 'var(--text2)' }}>
+        HOW COME? is an independent, unofficial exam-prep app. It is not affiliated with, endorsed by,
+        or connected to the Kerala Public Service Commission (KPSC) or the Government of Kerala.
+        Official notifications: <a href="https://www.keralapsc.gov.in" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text2)', textDecoration: 'underline' }}>keralapsc.gov.in</a>
+      </p>
+
       {/* Delete account */}
       {user && (
         <button onClick={() => setShowDeleteModal(true)}

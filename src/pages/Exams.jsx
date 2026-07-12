@@ -337,9 +337,18 @@ export default function Exams() {
   return (
     <div className="max-w-2xl mx-auto px-4 py-6">
       <h1 className="font-bold text-2xl mb-1">Upcoming Exams</h1>
-      <p className="text-sm mb-5" style={{ color: 'var(--text2)' }}>
+      <p className="text-sm mb-3" style={{ color: 'var(--text2)' }}>
         Kerala PSC · {examCalendar.length} scheduled · {confirmCalendar.length} awaiting confirmation
       </p>
+
+      {/* Government-info source + disclaimer, required alongside PSC notification data */}
+      <div className="text-xs mb-5 p-3 rounded-xl" style={{ background: 'var(--bg2)', border: '1px solid var(--border)', color: 'var(--text2)' }}>
+        Sourced from official KPSC notifications:{' '}
+        <a href="https://www.keralapsc.gov.in" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--accent)', textDecoration: 'underline' }}>
+          keralapsc.gov.in
+        </a>
+        . HOW COME? is an independent study app and is not affiliated with, endorsed by, or connected to the Kerala Public Service Commission or the Government of Kerala.
+      </div>
 
       {/* Tab switcher */}
       <div className="flex gap-2 mb-5">
