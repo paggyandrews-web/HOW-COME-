@@ -27,6 +27,7 @@ export default function Navbar() {
     { to: '/papers', label: 'Papers' },
     { to: '/topics', label: 'Topics' },
     { to: '/quiz', label: 'Quiz' },
+    { to: '/mock', label: 'Mock' },
     { to: '/exams', label: '📅 Exams' },
     ...(user ? [{ to: '/profile', label: '👤 Profile' }] : []),
   ]

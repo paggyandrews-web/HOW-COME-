@@ -54,6 +54,7 @@ const ForgotPassword = lazy(() => import('./pages/ForgotPassword'))
 const Profile = lazy(() => import('./pages/Profile'))
 const Search = lazy(() => import('./pages/Search'))
 const Bookmarks = lazy(() => import('./pages/Bookmarks'))
+const Mock = lazy(() => import('./pages/Mock'))
 
 /* Lightweight fallback shown while a lazy page chunk downloads */
 function PageLoading() {
@@ -158,6 +159,7 @@ function AnimatedRoutes() {
           <Route path="/profile" element={<Profile />} />
           <Route path="/search" element={<Search />} />
           <Route path="/bookmarks" element={<Bookmarks />} />
+          <Route path="/mock" element={<Mock />} />
         </Routes>
       </Suspense>
     </div>
