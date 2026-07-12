@@ -14578,5 +14578,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) timid — ഇത് 'ഭീരുത്വം' (shy, fearful) എന്നർത്ഥമുള്ള വാക്കാണ്, 'vivid'-മായി അർത്ഥപരമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'timid' 'vivid' എന്ന വാക്കുമായി ശബ്ദസാമ്യം ഉള്ളതിനാൽ confuse ചെയ്യാൻ students-നെ പ്രേരിപ്പിക്കും.\n• (C) vast — ഇതിന്റെ അർത്ഥം 'വിശാലമായ' (huge, large) എന്നാണ്, size-നെ കുറിച്ചാണ്, clarity-യെ കുറിച്ചല്ല.\n• (D) clear — ഇത് 'vivid'-ന്റെ synonym ആണ്, antonym അല്ല! ഇതാണ് ഏറ്റവും വലിയ PSC trap.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'VIVID vs VAGUE' — രണ്ടും 'V' എന്ന് തുടങ്ങുന്നു, എളുപ്പത്തിൽ ജോടിയായി ഓർക്കാം: തെളിഞ്ഞത് vs മങ്ങിയത്.\n• Word family: vivid ↔ vague, clear ↔ unclear, bright ↔ dim — ഇവ antonym pairs ആയി ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: Antonym ചോദ്യങ്ങളിൽ options-ൽ ഒരെണ്ണം synonym ആയിരിക്കും എന്ന് പ്രതീക്ഷിക്കുക — sound-alike traps (timid) ഒഴിവാക്കി meaning ശ്രദ്ധിക്കുക."
     }
+  },
+  {
+    "id": "158-2023-M-Q81",
+    "paperId": "158-2023-M",
+    "questionNumber": 81,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Fill in the blank with the appropriate form of the verb:\nOne of my teachers ___________ next door to my aunt.",
+    "optionA": "lives",
+    "optionB": "live",
+    "optionC": "living",
+    "optionD": "were living",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) lives\n• ഈ വാക്യത്തിന്റെ യഥാർത്ഥ subject 'One' ആണ് (ഏകവചനം) — 'of my teachers' എന്നത് ഒരു prepositional phrase മാത്രമാണ്, ഇത് subject-ന്റെ എണ്ണം മാറ്റുന്നില്ല.\n• 'One of the + plural noun' എന്ന structure വരുമ്പോൾ verb എപ്പോഴും singular ('One' എന്ന subject-നോട്) agree ചെയ്യണം.\n• 'എന്റെ അധ്യാപകരിൽ ഒരാൾ എന്റെ അമ്മായിയുടെ അടുത്ത വീട്ടിലാണ് താമസിക്കുന്നത്' എന്നർത്ഥം — habitual/present fact ആയതിനാൽ Simple Present Tense 'lives' വേണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'One of the + plural noun' എന്ന structure വന്നാൽ verb എപ്പോഴും ഏകവചനം (singular) ആയിരിക്കും, കാരണം യഥാർത്ഥ subject 'One' ആണ്!\n• 'of my teachers' (എന്റെ അധ്യാപകരിൽ), 'of the students' (വിദ്യാർത്ഥികളിൽ), 'of his friends' (അവന്റെ സുഹൃത്തുക്കളിൽ) തുടങ്ങിയ prepositional phrases verb-ന്റെ എണ്ണത്തെ ബാധിക്കില്ല — യഥാർത്ഥ subject 'One'/'Each'/'Every' ആണ് നോക്കേണ്ടത്.\n• ഇതേ rule ബാധകമായ മറ്റ് പദപ്രയോഗങ്ങൾ: 'One of' (ഒരാൾ), 'Each of' (ഓരോരുത്തരും), 'Every one of' (എല്ലാവരും), 'Neither of' (രണ്ടിലും ഒന്നും അല്ല) — ഇവയെല്ലാം എപ്പോഴും ഏകവചന verb എടുക്കും.\n• ⭐ PSC ആവർത്തനം: 'One of the + plural noun' subject-verb agreement ചോദ്യങ്ങൾ PSC-യിൽ ഏറ്റവും ആവർത്തിക്കുന്ന trap-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. One of the boys is absent today. (One → is, ഏകവചനം)\n2. Each of the students has submitted the assignment. (Each → has, ഏകവചനം)\n3. Neither of the answers seems correct. (Neither → seems, ഏകവചനം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) live — Plural verb form ആണ്; 'teachers' plural ആണെന്ന് കണ്ട് ഇത് select ചെയ്യാൻ എളുപ്പമാണ്, പക്ഷേ യഥാർത്ഥ subject 'One' singular ആയതിനാൽ തെറ്റാണ്.\n• 🪤 PSC Trap: 'teachers' എന്ന plural noun-നോട് ഏറ്റവും അടുത്ത് നിൽക്കുന്നത് കണ്ട് students അതിനോട് verb agree ചെയ്യിക്കാൻ ശ്രമിക്കും — ഇത് classic PSC trap ആണ്.\n• (C) living — ഇത് ഒരു complete verb form അല്ല, auxiliary verb ഇല്ലാതെ ഒറ്റയ്ക്ക് ഉപയോഗിക്കാൻ പറ്റില്ല.\n• (D) were living — Plural, past continuous form ആണ്; subject singular ആയതിനാലും, sentence present tense ആയതിനാലും ഇത് രണ്ട് കാരണങ്ങളാൽ തെറ്റാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ONE എപ്പോഴും ഒറ്റയ്ക്ക്!' — 'One of...' കണ്ടാൽ ഉടനെ singular verb ഓർക്കുക, ഇടയിലെ plural noun-നെ അവഗണിക്കുക.\n• Word family: One of, Each of, Every one of, Neither of, Either of — ഇവയെല്ലാം singular verb എടുക്കുന്ന phrases ആണ്, ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: 'One of the...' എന്ന് തുടങ്ങുന്ന sentence കണ്ടാൽ ഉടനെ verb singular ആയിരിക്കണം എന്ന് മനസ്സിൽ ഉറപ്പിക്കുക — ഇടയിലെ noun plural ആണെങ്കിലും trap-ൽ വീഴരുത്."
+    }
+  },
+  {
+    "id": "158-2023-M-Q82",
+    "paperId": "158-2023-M",
+    "questionNumber": 82,
+    "topic": "Tenses",
+    "questionText": "Fill in the blank with the appropriate form of the verb:\nI realized that we ________ before.",
+    "optionA": "meet",
+    "optionB": "met",
+    "optionC": "have met",
+    "optionD": "had met",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) had met\n• Main clause 'I realized' Simple Past Tense-ൽ ആണ് — ഒരു past സമയത്ത് നടന്ന realization.\n• 'before' എന്ന വാക്ക് സൂചിപ്പിക്കുന്നത് 'realized' എന്ന past action-നും മുൻപ് നടന്ന മറ്റൊരു action ആണ് — രണ്ട് past actions-ൽ ആദ്യം നടന്നത് കാണിക്കാൻ Past Perfect Tense ('had' + V3) വേണം.\n• 'ഞങ്ങൾ മുൻപ് കണ്ടുമുട്ടിയിരുന്നു എന്ന് ഞാൻ മനസ്സിലാക്കി' എന്നർത്ഥം — 'കണ്ടുമുട്ടൽ' ആദ്യം നടന്നു, 'മനസ്സിലാക്കൽ' പിന്നീട് നടന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: രണ്ട് past actions ഒരു sentence-ൽ വരുമ്പോൾ, ആദ്യം നടന്ന action-ന് Past Perfect (had + V3), പിന്നീട് നടന്ന action-ന് Simple Past (V2) വേണം!\n• Past Perfect Tense-ന്റെ formula: Subject + had + V3 (past participle). ഇത് 'past-ന് മുൻപുള്ള past' എന്ന ആശയം കാണിക്കും.\n• Related signal words: before (മുൻപ്), after (ശേഷം), already (ഇതിനകം), by the time (ആ സമയത്തേക്ക്), when (എപ്പോൾ) — ഈ വാക്കുകൾ Past Perfect Tense-ന്റെ സൂചകങ്ങളാണ്.\n• ⭐ PSC ആവർത്തനം: Past Perfect vs Simple Past ചോദ്യങ്ങൾ PSC-യിൽ ഏറ്റവും confusion ഉണ്ടാക്കുന്ന tense topic ആണ്.\n• ഉദാഹരണ sentences:\n1. She had left before I arrived. (ഞാൻ എത്തുന്നതിന് മുൻപ് അവൾ പോയിരുന്നു)\n2. They had finished dinner when the guests came. (അതിഥികൾ വരുന്നതിന് മുൻപ് അവർ dinner കഴിച്ചിരുന്നു)\n3. He realized he had forgotten his keys. (താക്കോൽ മറന്നു എന്ന് അവൻ മനസ്സിലാക്കി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) meet — ഇത് base form ആണ്, tense ഒന്നും കാണിക്കുന്നില്ല, sentence-ന്റെ context-മായി ഒട്ടും യോജിക്കില്ല.\n• 🪤 PSC Trap: Simple present base form ഏറ്റവും simple ആയതുകൊണ്ട് ചിന്തിക്കാതെ select ചെയ്യാൻ students-നെ പ്രേരിപ്പിക്കും.\n• (B) met — Simple Past Tense ആണ്; ഇത് ശരിയായ tense-ന്റെ ദിശയിലാണെങ്കിലും, 'realized'-ന് മുൻപ് നടന്ന action കാണിക്കാൻ Past Perfect ('had met') തന്നെ വേണം.\n• (C) have met — Present Perfect Tense ആണ്; ഇത് past context-ലെ 'realized'-മായി tense mismatch ഉണ്ടാക്കുന്നു, past-ന് മുൻപുള്ള past കാണിക്കാൻ ഇത് ഉപയോഗിക്കില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Past-ന്റെ Past-ന് HAD വേണം!' — രണ്ട് past events ഉള്ളപ്പോൾ, ആദ്യം നടന്നതിന് 'had' ചേർക്കുക.\n• Word family: before, after, already, by the time — ഇവയെല്ലാം Past Perfect Tense-ന്റെ 'friends' ആണ്.\n• PSC strategy: Sentence-ൽ രണ്ട് past actions ഉണ്ടോ എന്ന് നോക്കുക — ഉണ്ടെങ്കിൽ ഏതാണ് ആദ്യം നടന്നത് എന്ന് കണ്ടെത്തി അതിന് Past Perfect കൊടുക്കുക."
+    }
+  },
+  {
+    "id": "158-2023-M-Q83",
+    "paperId": "158-2023-M",
+    "questionNumber": 83,
+    "topic": "Articles",
+    "questionText": "Fill in the blank with the appropriate form of the article:\nAgainst her parents' wishes, she wants to be _______ journalist.",
+    "optionA": "an",
+    "optionB": "a",
+    "optionC": "the",
+    "optionD": "no article",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) a\n• 'Journalist' എന്ന വാക്ക് 'j' എന്ന letter-ൽ എഴുതിയാലും ഉച്ചാരണം consonant sound 'ജ' (juh) എന്നതിൽ ആണ് തുടങ്ങുന്നത് — അതിനാൽ 'a' വേണം.\n• Article തീരുമാനിക്കുന്നത് അക്ഷരമല്ല (letter), ശബ്ദമാണ് (sound) — ഇത് ഏറ്റവും പ്രധാനപ്പെട്ട article rule ആണ്.\n• 'അവളുടെ മാതാപിതാക്കളുടെ ആഗ്രഹത്തിന് വിരുദ്ധമായി, അവൾ ഒരു ജേണലിസ്റ്റ് ആകാൻ ആഗ്രഹിക്കുന്നു' എന്നർത്ഥം — ഇവിടെ 'a journalist' എന്നത് non-specific ആയ ഒരു profession-നെ സൂചിപ്പിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Article a/an എന്നത് തീരുമാനിക്കുന്നത് വാക്കിന്റെ ശബ്ദമാണ് (sound), അക്ഷരമല്ല (letter)!\n• Consonant ശബ്ദത്തിൽ തുടങ്ങുന്ന ഏകവചന countable noun-ന് 'a' വേണം; Vowel ശബ്ദത്തിൽ തുടങ്ങുന്നതിന് 'an' വേണം എന്നത് അടിസ്ഥാന നിയമമാണ്.\n• 'university' (യൂണിവേഴ്സിറ്റി), 'European' (യൂറോപ്യൻ), 'one-rupee note' (ഒരു രൂപ നോട്ട്) തുടങ്ങിയ വാക്കുകൾ vowel letter-ൽ തുടങ്ങിയാലും ഉച്ചാരണം consonant ശബ്ദത്തിൽ ('യു'/'വൺ') ആയതിനാൽ 'a' തന്നെ എടുക്കും.\n• ⭐ PSC ആവർത്തനം: ശബ്ദവും അക്ഷരവും തമ്മിലുള്ള ഈ വ്യത്യാസം PSC-യിൽ ഏറ്റവും ആവർത്തിക്കുന്ന grammar topic ആണ്.\n• ഉദാഹരണ sentences:\n1. She wants to become a journalist. (journalist → 'ജ' consonant ശബ്ദം → a)\n2. He is a university student. (university → 'യു' ശബ്ദം → a)\n3. It took an hour to finish. (hour → 'h' മൂകം, vowel ശബ്ദം → an)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) an — 'journalist' consonant sound-ൽ ('ജ') തുടങ്ങുന്നതിനാൽ 'an' തെറ്റാണ്; ഇത് vowel-letter-ന് വേണ്ടി മാത്രമുള്ളതാണ്.\n• 🪤 PSC Trap: 'j' എന്ന letter കണ്ട് ചിന്തിക്കാതെ article select ചെയ്യുന്നവർ ഈ trap-ൽ വീഴില്ല, പക്ഷേ vowel letter ഉള്ള മറ്റ് വാക്കുകളിൽ ഈ തെറ്റ് സാധാരണയാണ്.\n• (C) the — ഇത് ഒരു specific ആയ journalist-നെ ചൂണ്ടിക്കാട്ടുന്നില്ല; 'ഒരു' എന്ന അർത്ഥത്തിന് indefinite article a/an വേണം.\n• (D) no article — Singular countable noun ('journalist')-ന് മുന്നിൽ article ഒഴിവാക്കാനാവില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ചെവി കൊണ്ട് കേൾക്കൂ, കണ്ണ് കൊണ്ട് നോക്കരുത്!' — 'journalist' ഉറക്കെ പറഞ്ഞുനോക്കൂ; 'ജ' ശബ്ദം കേട്ടാൽ 'a' ഉറപ്പ്.\n• Word family: a journalist, a doctor, a European, a university — എല്ലാം consonant sound-ൽ തുടങ്ങുന്നവ.\n• PSC strategy: Profession/job പേരുകൾക്ക് മുന്നിൽ article ചോദ്യം വന്നാൽ ആദ്യം ഉച്ചാരണം ചെയ്ത് നോക്കുക — letter അല്ല, ശബ്ദമാണ് തീരുമാനിക്കേണ്ടത്."
+    }
+  },
+  {
+    "id": "158-2023-M-Q84",
+    "paperId": "158-2023-M",
+    "questionNumber": 84,
+    "topic": "Question Tags",
+    "questionText": "Supply the correct form of the question tag:\nYou like bread, ___________",
+    "optionA": "isn't it?",
+    "optionB": "aren't you?",
+    "optionC": "do you?",
+    "optionD": "don't you?",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) don't you?\n• Statement 'You like bread' Simple Present Tense-ൽ ഉള്ള positive statement ആണ്, 'like' എന്ന main verb-ന് മുന്നിൽ auxiliary verb ഒന്നും കാണുന്നില്ല.\n• Auxiliary verb ഇല്ലാത്ത Simple Present statement-ന് 'do/does' ഉപയോഗിച്ച് tag ഉണ്ടാക്കണം — subject 'you' ആയതിനാൽ 'do' തന്നെ വേണം.\n• Statement positive ആയതിനാൽ tag negative ആയിരിക്കണം — അതിനാൽ 'don't you?' ആണ് ശരിയായ ഉത്തരം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Auxiliary verb ഒന്നും ഇല്ലാത്ത Simple Present/Past statement ആണെങ്കിൽ, tag ഉണ്ടാക്കാൻ do/does/did ഉപയോഗിക്കുക!\n• 'like' (ഇഷ്ടപ്പെടുക), 'play' (കളിക്കുക), 'go' (പോകുക) തുടങ്ങിയ main verbs-ന് മുന്നിൽ auxiliary verb ഇല്ലെങ്കിൽ, subject-ന് അനുസരിച്ച് present tense-ൽ do/does അല്ലെങ്കിൽ past tense-ൽ did ഉപയോഗിച്ച് tag ഉണ്ടാക്കണം.\n• Positive statement-ന് negative tag, negative statement-ന് positive tag വേണം എന്ന അടിസ്ഥാന നിയമം ഇവിടെയും ബാധകമാണ് എന്നത് ഓർക്കുക.\n• ⭐ PSC ആവർത്തനം: Auxiliary verb ഇല്ലാത്ത sentences-ന്റെ question tag PSC-യിൽ ഒരു classic trap ആണ് — 'isn't it?' പോലുള്ള generic tag തെറ്റായി select ചെയ്യാൻ ഇത് students-നെ പ്രേരിപ്പിക്കും.\n• ഉദാഹരണ sentences:\n1. She plays the piano, doesn't she? (plays-ന്റെ tag ആയി does ഉപയോഗിക്കുന്നു)\n2. They went home, didn't they? (went-ന്റെ tag ആയി did ഉപയോഗിക്കുന്നു)\n3. You speak English, don't you? (speak-ന്റെ tag ആയി do ഉപയോഗിക്കുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) isn't it? — 'is' എന്ന auxiliary statement-ൽ ഇല്ല; ഇത് 'be' verb ഉള്ള sentences-ന് മാത്രമേ ഉപയോഗിക്കാവൂ.\n• 🪤 PSC Trap: 'isn't it?' എന്നത് ഏറ്റവും common/generic tag ആയതിനാൽ ചിന്തിക്കാതെ ഇത് choose ചെയ്യാൻ students-നെ പ്രേരിപ്പിക്കും.\n• (B) aren't you? — 'are' എന്ന auxiliary ഇവിടെ ഇല്ല; ഇത് 'You are...' പോലുള്ള 'be' verb sentences-ന് മാത്രമേ ചേരൂ.\n• (C) do you? — ഇത് auxiliary verb ശരിയാണെങ്കിലും, positive statement-ന് negative tag വേണം എന്ന rule ഇവിടെ പാലിക്കുന്നില്ല — 'do you' positive ആണ്, 'don't you' negative ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Sentence-ൽ auxiliary verb ഒന്നും കാണുന്നില്ലെങ്കിൽ ഉടനെ 'DO/DOES/DID വിളിക്കൂ!' എന്ന് മനസ്സിൽ പറയുക.\n• Word family ആയി ഇവ ഒരുമിച്ച് ഓർക്കുക: like (ഇഷ്ടപ്പെടുക), love (സ്നേഹിക്കുക), play (കളിക്കുക), go (പോകുക) — ഇവയ്ക്കെല്ലാം do/does/did വേണം.\n• PSC strategy: Statement-ൽ is/am/are/was/were/has/have/had എന്നിവയിൽ ഒന്നും കാണുന്നില്ലെങ്കിൽ ഉടനെ do/does/did family-ലേക്ക് പോകുക, tense ശ്രദ്ധയോടെ നോക്കുക."
+    }
+  },
+  {
+    "id": "158-2023-M-Q85",
+    "paperId": "158-2023-M",
+    "questionNumber": 85,
+    "topic": "Prepositions",
+    "questionText": "Supply the correct preposition:\nI do not approve ________ your action.",
+    "optionA": "to",
+    "optionB": "of",
+    "optionC": "on",
+    "optionD": "with",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) of\n• 'Approve of' എന്നത് ഒരു fixed preposition collocation ആണ് — 'എന്തെങ്കിലും അംഗീകരിക്കുക/സമ്മതിക്കുക' എന്ന അർത്ഥത്തിൽ 'approve' എപ്പോഴും 'of' എന്ന preposition-മായി ചേർന്നാണ് വരുന്നത്.\n• 'ഞാൻ നിന്റെ പ്രവൃത്തിയെ അംഗീകരിക്കുന്നില്ല' എന്നർത്ഥം — ഇവിടെ 'action' എന്ന noun-നോട് ബന്ധപ്പെടുത്താൻ 'of' തന്നെ വേണം.\n• ഇത്തരം verb+preposition combinations (collocations) മാറ്റാൻ പറ്റാത്തതാണ് — 'approve' എപ്പോഴും 'of' മാത്രമേ എടുക്കൂ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'Approve' എപ്പോഴും 'OF' മാത്രം എടുക്കും — fixed collocation ആയി മനഃപാഠമാക്കുക!\n• Fixed preposition collocations മാറ്റാൻ പറ്റാത്തതാണ് — ഓരോ verb-നും ഒരു പ്രത്യേക preposition ഉറപ്പിച്ചിട്ടുണ്ട്, logic വെച്ച് ഊഹിക്കാൻ പറ്റില്ല.\n• Related word group: insist on (നിർബന്ധിക്കുക), depend on (ആശ്രയിക്കുക), congratulate on (അഭിനന്ദിക്കുക), believe in (വിശ്വസിക്കുക), approve of (അംഗീകരിക്കുക), consist of (ഉൾക്കൊള്ളുക), deal with (കൈകാര്യം ചെയ്യുക).\n• ⭐ PSC ആവർത്തനം: Verb + fixed preposition collocations PSC-യിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന preposition topic ആണ്.\n• ഉദാഹരണ sentences:\n1. My parents do not approve of my decision. (approve of — തീരുമാനത്തെ അംഗീകരിക്കാതിരിക്കൽ)\n2. She insisted on paying the bill. (insist on — നിർബന്ധം പിടിക്കൽ)\n3. Success depends on hard work. (depend on — ആശ്രയിക്കൽ)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) to — 'Approve to' എന്നൊരു collocation ഇംഗ്ലീഷിൽ ഇല്ല; ഇത് 'object to' പോലുള്ള മറ്റ് verbs-മായി confuse ചെയ്യുന്നതാകാം.\n• 🪤 PSC Trap: 'to' എന്നത് ഏറ്റവും common preposition ആയതിനാൽ ചിന്തിക്കാതെ select ചെയ്യാൻ students-നെ പ്രേരിപ്പിക്കും.\n• (C) on — 'Approve on' എന്ന combination ഇല്ല; 'insist on', 'depend on' എന്നിവയുമായി confuse ചെയ്യാൻ സാധ്യതയുണ്ട്.\n• (D) with — 'Approve with' എന്ന combination തെറ്റാണ്; 'deal with', 'agree with' എന്നിവയുമായി confuse ചെയ്യാൻ സാധ്യതയുണ്ട്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'APPROVE-ന് എപ്പോഴും OF കൂട്ടുകാരൻ!' — approve കണ്ടാൽ ഉടനെ of ഓർക്കുക.\n• Word family: approve of, consist of, think of, dream of — 'of' എടുക്കുന്ന verbs ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: Preposition ചോദ്യങ്ങളിൽ verb-ന്റെ fixed collocation നേരിട്ട് മനഃപാഠമാക്കിവെക്കുക — logic-ൽ നിന്ന് ഊഹിക്കാൻ ശ്രമിക്കരുത്, ഇത് exceptions നിറഞ്ഞ മേഖലയാണ്."
+    }
+  },
+  {
+    "id": "158-2023-M-Q86",
+    "paperId": "158-2023-M",
+    "questionNumber": 86,
+    "topic": "Synonyms",
+    "questionText": "Identify the synonym of the word 'Intrepid' from the options given below.",
+    "optionA": "plentiful",
+    "optionB": "lively",
+    "optionC": "brave",
+    "optionD": "unfair",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) brave\n• 'Intrepid' എന്നാൽ 'നിർഭയനായ', 'ധൈര്യശാലിയായ' (fearless, brave) എന്നർത്ഥം — അപകടത്തെ ഭയക്കാത്ത സ്വഭാവത്തെ സൂചിപ്പിക്കുന്നു.\n• 'Brave' എന്ന വാക്കിനും ഏകദേശം ഇതേ അർത്ഥം തന്നെയാണ് — രണ്ടും 'ധൈര്യം' എന്ന ആശയത്തെ പ്രതിനിധീകരിക്കുന്നു.\n• Latin 'intrepidus' (in- = not + trepidus = ഭയപ്പെട്ട) എന്നതിൽ നിന്നാണ് ഈ വാക്ക് വന്നത് — 'ഭയമില്ലാത്ത' എന്ന അക്ഷരാർത്ഥം തന്നെ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Synonym ചോദ്യങ്ങളിൽ വാക്കിന്റെ core meaning കണ്ടെത്തി, ഏറ്റവും അടുത്ത അർത്ഥമുള്ള option select ചെയ്യുക!\n• Synonyms എന്നാൽ ഒരേ അല്ലെങ്കിൽ ഏകദേശം ഒരേ അർത്ഥമുള്ള വാക്കുകൾ ആണ്, exact അർത്ഥം ഒരിക്കലും ഒരുപോലെ ആകണമെന്നില്ല എന്നത് ഓർക്കുക.\n• Etymology hint: Latin 'in-' (അല്ല) + 'trepidus' (ഭയപ്പെട്ട) → intrepid = ഭയമില്ലാത്ത. ഇതേ 'in-' negative prefix ഉള്ള മറ്റ് വാക്കുകൾ: invincible (തോൽപ്പിക്കാനാവാത്ത), incredible (വിശ്വസിക്കാനാവാത്ത).\n• ⭐ PSC ആവർത്തനം: അപരിചിതമായ adjectives-ന്റെ synonym ചോദ്യങ്ങൾ PSC-യിൽ സ്ഥിരമായി വരും — vocabulary building പ്രധാനമാണ്.\n• ഉദാഹരണ sentences:\n1. The intrepid explorer crossed the frozen desert. (നിർഭയനായ explorer)\n2. She gave an intrepid response to the critics. (ധൈര്യപൂർവമായ മറുപടി)\n3. His intrepid leadership inspired the whole team. (നിർഭയമായ നേതൃത്വം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) plentiful — ഇതിന്റെ അർത്ഥം 'സമൃദ്ധമായ' (abundant) എന്നാണ്, ധൈര്യവുമായി ഒരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: അപരിചിതമായ വാക്കുകൾ കാണുമ്പോൾ ബന്ധമില്ലാത്ത options select ചെയ്യാൻ students confuse ആകാം.\n• (B) lively — ഇതിന്റെ അർത്ഥം 'ഊർജ്ജസ്വലമായ' (energetic) എന്നാണ്, ധൈര്യത്തിന്റെ അർത്ഥമല്ല ഇത് നൽകുന്നത്.\n• (D) unfair — ഇതിന്റെ അർത്ഥം 'അന്യായമായ' (unjust) എന്നാണ്, 'intrepid'-മായി ഒരു ബന്ധവുമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'IN-TREPID = ഭയമില്ലാത്തത്!' — 'in' എന്നാൽ 'not', 'trepid' (trepidation-ൽ നിന്ന്) എന്നാൽ ഭയം, ചേർത്താൽ 'ഭയമില്ലാത്ത' എന്നർത്ഥം കിട്ടും.\n• Word family: intrepid, fearless, valiant, bold, courageous — 'ധൈര്യം' എന്ന അർത്ഥമുള്ള വാക്കുകൾ ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: അപരിചിതമായ adjective കണ്ടാൽ prefix/root നോക്കി meaning ഊഹിക്കാൻ ശ്രമിക്കുക — 'in-'/'un-' പോലുള്ള negative prefixes ശ്രദ്ധിക്കുക."
+    }
+  },
+  {
+    "id": "158-2023-M-Q87",
+    "paperId": "158-2023-M",
+    "questionNumber": 87,
+    "topic": "Idioms",
+    "questionText": "Identify the meaning of the idiom 'To take the reins' from the options given below.",
+    "optionA": "To assume command",
+    "optionB": "To accept criticism",
+    "optionC": "To humiliate",
+    "optionD": "To cooperate",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) To assume command\n• 'To take the reins' എന്ന idiom-ന്റെ literal അർത്ഥം 'കടിഞ്ഞാൺ കയ്യിലെടുക്കുക' എന്നാണ് — കുതിരവണ്ടി നിയന്ത്രിക്കുന്ന ആൾ കടിഞ്ഞാൺ പിടിക്കുന്നത് പോലെ.\n• Figurative അർത്ഥത്തിൽ ഇത് 'നിയന്ത്രണം ഏറ്റെടുക്കുക', 'നേതൃത്വം ഏറ്റെടുക്കുക' എന്നാണ്.\n• 'അവൾ കമ്പനിയുടെ നിയന്ത്രണം ഏറ്റെടുത്തു' എന്ന് പറയാൻ 'She took the reins of the company' എന്ന് പറയാം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'Reins' (കടിഞ്ഞാൺ) ഉള്ള idioms മിക്കവാറും 'നിയന്ത്രണം/നേതൃത്വം' എന്ന ആശയവുമായി ബന്ധപ്പെട്ടതായിരിക്കും!\n• Idioms-ന്റെ literal meaning-ൽ നിന്ന് figurative meaning ഊഹിക്കാൻ ശ്രമിക്കുക — കടിഞ്ഞാൺ പിടിക്കുന്നയാൾ ആണ് നിയന്ത്രണം കൈയാളുന്നത് എന്നത് ഓർക്കുക.\n• ഇതേ അർത്ഥമുള്ള മറ്റ് idioms: 'to hold the reins' (നിയന്ത്രണം കൈവശം വെക്കുക), 'to be in the driver's seat' (നിയന്ത്രണത്തിലിരിക്കുക), 'to call the shots' (തീരുമാനങ്ങൾ എടുക്കുക).\n• ⭐ PSC ആവർത്തനം: നേതൃത്വവുമായി ബന്ധപ്പെട്ട idioms PSC-യിൽ ഇടയ്ക്കിടെ ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. She took the reins after her father retired. (അച്ഛൻ വിരമിച്ചതിന് ശേഷം അവൾ നിയന്ത്രണം ഏറ്റെടുത്തു)\n2. The new CEO took the reins of the struggling company. (പുതിയ CEO കമ്പനിയുടെ നിയന്ത്രണം ഏറ്റെടുത്തു)\n3. It's time for the youth to take the reins of leadership. (യുവാക്കൾ നേതൃത്വം ഏറ്റെടുക്കേണ്ട സമയമായി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) To accept criticism — ഇത് 'take the reins' എന്ന idiom-മായി ഒരു ബന്ധവുമില്ല; ഇത് 'take criticism' എന്ന വേറൊരു expression-മായി confuse ചെയ്യാം.\n• 🪤 PSC Trap: 'take' എന്ന വാക്ക് കണ്ട് 'take criticism' പോലുള്ള മറ്റ് phrases ഓർമ്മ വരാൻ സാധ്യതയുണ്ട്.\n• (C) To humiliate — ഇതിന് 'reins' എന്ന വാക്കുമായി യാതൊരു ബന്ധവുമില്ല, പൂർണ്ണമായും ബന്ധമില്ലാത്ത distractor ആണ്.\n• (D) To cooperate — ഇത് 'ഒരുമിച്ച് പ്രവർത്തിക്കുക' എന്നാണ് അർത്ഥം, 'reins' എടുക്കുക എന്നത് നിയന്ത്രണം ഏറ്റെടുക്കലാണ്, കൂട്ടായ പ്രവർത്തനമല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: കടിഞ്ഞാൺ (reins) കയ്യിലുള്ള ആൾ കുതിരയെ നിയന്ത്രിക്കുന്നത് പോലെ, 'take the reins' എന്നാൽ സ്ഥിതിഗതികളെ നിയന്ത്രിക്കുക എന്ന് visualize ചെയ്യുക.\n• Word family: take the reins, hold the reins, call the shots, be in charge — 'നിയന്ത്രണം' എന്ന അർത്ഥമുള്ള idioms ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: Idiom-ൽ ഒരു concrete object (reins, wheel, driver's seat) ഉണ്ടെങ്കിൽ അതിന്റെ യഥാർത്ഥ ഉപയോഗം ചിന്തിച്ച് figurative meaning കണ്ടെത്താൻ ശ്രമിക്കുക."
+    }
+  },
+  {
+    "id": "158-2023-M-Q88",
+    "paperId": "158-2023-M",
+    "questionNumber": 88,
+    "topic": "Abbreviations",
+    "questionText": "RSVP is an abbreviation for 'répondez s'il vous plaît'. What does it mean?",
+    "optionA": "In the same place",
+    "optionB": "Please reply",
+    "optionC": "Note well",
+    "optionD": "Which is to be proved",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Please reply\n• 'RSVP' എന്നത് ഫ്രഞ്ച് വാക്യമായ 'répondez s'il vous plaît'-ന്റെ ചുരുക്കപ്പേരാണ് — ഇതിന്റെ അക്ഷരാർത്ഥം 'ദയവായി മറുപടി നൽകുക' (please reply) എന്നാണ്.\n• ക്ഷണക്കത്തുകളിലും (invitations) ഔപചാരിക letters-ലും RSVP സാധാരണയായി ഉപയോഗിക്കുന്നത് സ്വീകർത്താവിനോട് പങ്കെടുക്കുമോ ഇല്ലയോ എന്ന് അറിയിക്കാൻ ആവശ്യപ്പെടാനാണ്.\n• 'Répondez' എന്നാൽ 'മറുപടി പറയുക' (reply), 's'il vous plaît' എന്നാൽ 'ദയവായി' (please) എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Foreign phrase abbreviations-ന്റെ അർത്ഥം അതിന്റെ full form-ൽ നിന്ന് നേരിട്ട് translate ചെയ്ത് ഓർക്കുക!\n• French/Latin phrases-ൽ നിന്ന് വന്ന abbreviations ഇംഗ്ലീഷ് ഭാഷയിൽ സ്ഥിരമായി ഉപയോഗിക്കാറുണ്ട് — ഇവയുടെ യഥാർത്ഥ അർത്ഥം അറിഞ്ഞിരിക്കണം എന്നത് പ്രധാനമാണ്.\n• ഇതേ പോലുള്ള മറ്റ് abbreviations: i.e. (Latin 'id est' = അതായത്), e.g. (Latin 'exempli gratia' = ഉദാഹരണത്തിന്), N.B. (Latin 'nota bene' = ശ്രദ്ധിക്കുക), Q.E.D. (Latin 'quod erat demonstrandum' = തെളിയിക്കപ്പെടേണ്ടത്).\n• ⭐ PSC ആവർത്തനം: Foreign phrase abbreviations (RSVP, i.e., e.g., N.B., Q.E.D.) PSC-യിൽ സ്ഥിരമായി ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. Please RSVP by Friday. (വെള്ളിയാഴ്ചക്ക് മുൻപ് മറുപടി അറിയിക്കുക)\n2. The invitation card said 'RSVP' at the bottom. (ക്ഷണക്കത്തിന്റെ അടിയിൽ RSVP എന്നെഴുതിയിരുന്നു)\n3. We haven't received her RSVP yet. (അവളുടെ മറുപടി ഇതുവരെ കിട്ടിയിട്ടില്ല)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) In the same place — ഇത് Latin 'ibidem' (ibid.) എന്ന abbreviation-ന്റെ അർത്ഥമാണ്, RSVP-ന്റെ അല്ല.\n• 🪤 PSC Trap: മറ്റ് Latin/French abbreviations-ന്റെ അർത്ഥങ്ങൾ ഇവിടെ options ആയി നൽകി confuse ചെയ്യാൻ ശ്രമിക്കുന്നു.\n• (C) Note well — ഇത് Latin 'nota bene' (N.B.) എന്ന abbreviation-ന്റെ അർത്ഥമാണ്, RSVP-ന്റെ അല്ല.\n• (D) Which is to be proved — ഇത് Latin 'quod erat demonstrandum' (Q.E.D.) എന്ന abbreviation-ന്റെ അർത്ഥമാണ്, RSVP-ന്റെ അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'RSVP = Reply Soon, Very Please!' എന്ന് തമാശയായി ഓർത്താൽ 'please reply' എന്ന അർത്ഥം മറക്കില്ല.\n• Word family ആയി ഇവ ഒരുമിച്ച് പഠിക്കുക: RSVP (ദയവായി മറുപടി നൽകുക), N.B. (ശ്രദ്ധിക്കുക), i.e. (അതായത്), e.g. (ഉദാഹരണത്തിന്), Q.E.D. (തെളിയിക്കപ്പെട്ടു).\n• PSC strategy: Foreign abbreviation ചോദ്യങ്ങളിൽ options-ൽ മറ്റ് അബ്ബ്രിവിയേഷനുകളുടെ അർത്ഥങ്ങൾ കൂടി കാണും — ഏതാണ് ചോദ്യത്തിലെ അബ്ബ്രിവിയേഷന് ശരിക്കും ചേരുന്നത് എന്ന് ശ്രദ്ധയോടെ match ചെയ്യുക."
+    }
+  },
+  {
+    "id": "158-2023-M-Q89",
+    "paperId": "158-2023-M",
+    "questionNumber": 89,
+    "topic": "One Word Substitutes",
+    "questionText": "Identify the expression which is equivalent in meaning to the term 'limnology'.",
+    "optionA": "The study of human face",
+    "optionB": "The study of mountains",
+    "optionC": "The study of colours",
+    "optionD": "The study of lakes",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) The study of lakes\n• 'Limnology' എന്ന വാക്ക് ഗ്രീക്ക് 'limne' (തടാകം/lake) + '-logy' (പഠനം/study) എന്നിവയിൽ നിന്നാണ് വന്നത് — 'തടാകങ്ങളെക്കുറിച്ചുള്ള പഠനം' എന്നർത്ഥം.\n• ഇത് ഒരു one-word substitute ആണ് — inland waters (തടാകങ്ങൾ, കുളങ്ങൾ, നദികൾ) പഠിക്കുന്ന ശാസ്ത്രശാഖയെ ആണ് ഈ വാക്ക് സൂചിപ്പിക്കുന്നത്.\n• Etymology-യിൽ നിന്ന് തന്നെ അർത്ഥം ഊഹിക്കാം — 'limne' (lake) കണ്ടാൽ തടാകവുമായുള്ള ബന്ധം ഓർക്കുക.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: '-logy' suffix ഉള്ള വാക്കുകൾ എപ്പോഴും 'ഒരു വിഷയത്തെക്കുറിച്ചുള്ള പഠനം/ശാസ്ത്രം' എന്നാണ് അർത്ഥമാക്കുന്നത്!\n• One-word substitutes-ൽ '-logy' ending ഉള്ള വാക്കുകൾ Greek roots-ൽ നിന്നാണ് വരുന്നത്, root അറിഞ്ഞാൽ meaning എളുപ്പം ഊഹിക്കാം എന്നത് ഓർക്കുക.\n• Etymology hint: Greek 'limne' = തടാകം, 'logos' = പഠനം; ഇതേ pattern ഉള്ള മറ്റ് വാക്കുകൾ: 'ornithology' (പക്ഷിശാസ്ത്രം), 'entomology' (പ്രാണിശാസ്ത്രം), 'geology' (ഭൂശാസ്ത്രം).\n• ⭐ PSC ആവർത്തനം: അസാധാരണമായ '-logy' one-word substitutes PSC-യിൽ ഇടയ്ക്കിടെ ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. Limnology helps scientists understand freshwater ecosystems. (ശുദ്ധജല ആവാസവ്യവസ്ഥകൾ മനസ്സിലാക്കാൻ സഹായിക്കുന്നു)\n2. She is pursuing a degree in limnology. (അവൾ limnology-യിൽ ബിരുദം നേടുന്നു)\n3. The lake was studied extensively under limnology research. (ആ തടാകം വിശദമായി പഠിച്ചു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) The study of human face — ഇത് 'physiognomy' എന്ന വാക്കിന്റെ അർത്ഥമാണ്, 'limnology'-ന്റെ അല്ല.\n• 🪤 PSC Trap: '-logy' ending ഉള്ള മറ്റ് പഠനശാഖകളുമായി confuse ചെയ്യാൻ ഇത് students-നെ പ്രേരിപ്പിക്കും.\n• (C) The study of colours — ഇത് 'chromatology'-മായി ബന്ധപ്പെട്ട അർത്ഥമാണ്, ഈ വാക്കുമായി ഒരു ബന്ധവുമില്ല.\n• (B) The study of mountains — ഇത് 'orology'-മായി ബന്ധപ്പെട്ട അർത്ഥമാണ്, 'limnology'-ന്റെ അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'LIMN-ology = തടാക-ology!' — 'limne' (തടാകം) + 'logy' (പഠനം) ചേർത്ത് ഓർക്കുക.\n• Word family: limnology (തടാകങ്ങൾ), oceanology (സമുദ്രങ്ങൾ), hydrology (ജലം), geology (ഭൂമി) — പ്രകൃതിയുമായി ബന്ധപ്പെട്ട '-logy' വാക്കുകൾ ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: അപരിചിതമായ '-logy' വാക്ക് കണ്ടാൽ അതിന് മുന്നിലുള്ള root (limn-, orni-, ento-) നോക്കി subject matter ഊഹിക്കാൻ ശ്രമിക്കുക."
+    }
+  },
+  {
+    "id": "158-2023-M-Q90",
+    "paperId": "158-2023-M",
+    "questionNumber": 90,
+    "topic": "Phrasal Verbs",
+    "questionText": "He __takes after__ his mother rather than father.\nIn the sentence given above, the meaning of 'takes after' is",
+    "optionA": "Represent",
+    "optionB": "Believe",
+    "optionC": "Resemble",
+    "optionD": "Protect",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Resemble\n• 'Take after' എന്ന phrasal verb-ന്റെ അർത്ഥം 'ഒരു കുടുംബാംഗത്തെപ്പോലെ കാണപ്പെടുക/സ്വഭാവം കാണിക്കുക' (to resemble a family member) എന്നാണ്.\n• 'അവൻ അച്ഛനെക്കാൾ അമ്മയെയാണ് കൂടുതൽ resemble ചെയ്യുന്നത്' എന്നർത്ഥം — രൂപത്തിലോ സ്വഭാവത്തിലോ ഉള്ള സാമ്യം സൂചിപ്പിക്കുന്നു.\n• ഇത് ഒരു idiomatic phrasal verb ആണ് — 'take' + 'after' എന്നീ വാക്കുകൾ ചേർന്നാൽ literal അർത്ഥമല്ല, figurative അർത്ഥമാണ് ഉണ്ടാകുന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'Take after' = Resemble (കുടുംബാംഗങ്ങളുമായുള്ള രൂപ/സ്വഭാവ സാമ്യം) — ഇത് എപ്പോഴും family members-നെക്കുറിച്ച് മാത്രമേ പറയൂ!\n• Phrasal verbs-ന്റെ meaning individual words ('take' + 'after') നോക്കി ഊഹിക്കാൻ പറ്റില്ല, മുഴുവൻ phrase-നും ഒരു പ്രത്യേക idiomatic അർത്ഥം ഉണ്ടാകും എന്നത് ഓർക്കുക.\n• ഇതേ 'take' base-ൽ നിന്നുള്ള മറ്റ് phrasal verbs: 'look up to' (ബഹുമാനിക്കുക), 'take over' (നിയന്ത്രണം ഏറ്റെടുക്കുക), 'take in' (മനസ്സിലാക്കുക/വഞ്ചിക്കുക).\n• ⭐ PSC ആവർത്തനം: 'Take'-ന്റെ വിവിധ phrasal verb variants PSC-യിൽ സ്ഥിരമായി ചോദിക്കാറുണ്ട് — ഓരോന്നിന്റെയും വ്യത്യസ്ത അർത്ഥം ശ്രദ്ധിക്കുക.\n• ഉദാഹരണ sentences:\n1. She takes after her grandmother in looks. (രൂപത്തിൽ മുത്തശ്ശിയെ resemble ചെയ്യുന്നു)\n2. The boy takes after his father's temperament. (അച്ഛന്റെ സ്വഭാവം resemble ചെയ്യുന്നു)\n3. Both siblings take after their parents differently. (രണ്ട് മക്കളും മാതാപിതാക്കളെ വ്യത്യസ്തമായി resemble ചെയ്യുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Represent — ഇത് 'ഒരാളെ പ്രതിനിധീകരിക്കുക' എന്നാണ് അർത്ഥം, കുടുംബസാമ്യവുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'take' എന്ന വാക്ക് പല contexts-ലും 'ഏറ്റെടുക്കുക'/'പ്രതിനിധീകരിക്കുക' എന്നൊക്കെ അർത്ഥം വരാറുള്ളതിനാൽ confuse ചെയ്യാം.\n• (B) Believe — ഇത് 'വിശ്വസിക്കുക' എന്നാണ് അർത്ഥം, 'take after'-ന്റെ meaning-മായി ഒരു ബന്ധവുമില്ല.\n• (D) Protect — ഇത് 'സംരക്ഷിക്കുക' എന്നാണ് അർത്ഥം, ഈ phrasal verb-ന്റെ meaning അല്ല ഇത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'TAKE AFTER = family mirror!' — ഒരു കുട്ടി മാതാപിതാക്കളുടെ 'പിന്നാലെ' (after) പോകുന്നത് പോലെ, അവരെ resemble ചെയ്യുന്നു എന്ന് visualize ചെയ്യുക.\n• Word family: take after (resemble), look like (സാമ്യമുള്ള meaning), favour (informal, resemble) — ഇവയെല്ലാം 'സാമ്യം' എന്ന അർത്ഥവുമായി ബന്ധപ്പെട്ടത്.\n• PSC strategy: 'Take' + preposition combinations (take after, take over, take in, take up) വരുമ്പോൾ ഓരോന്നിന്റെയും പ്രത്യേക idiomatic meaning വേറെവേറെ മനഃപാഠമാക്കുക, literal translate ചെയ്യരുത്."
+    }
   }
 ]
