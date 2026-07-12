@@ -31,6 +31,18 @@ function tone(audioCtx, freq, startTime, duration, gain = 0.12) {
 }
 
 /**
+ * unlockAudio() — creates/resumes the shared AudioContext from inside a real
+ * user gesture (e.g. an onClick handler). Browsers only allow the *first*
+ * AudioContext creation/resume when it's synchronously triggered by a tap;
+ * calling this early (well before a milestone/result screen appears) means
+ * later playChime() calls — which usually fire from useEffects after an
+ * async Firestore round trip — actually have permission to play.
+ */
+export function unlockAudio() {
+  getCtx()
+}
+
+/**
  * playChime('big')  — bright ascending two-note chime for a big win
  *                      (perfect/near-perfect quiz score).
  * playChime('fire') — warmer, lower descending pair for a streak milestone.

@@ -9,6 +9,7 @@ import { useAuth } from '../contexts/AuthContext'
 import { isPromoActive, promoDaysLeft } from '../utils/freeTier'
 import { useBookmarks } from '../hooks/useBookmarks'
 import { useStreak, isStreakMilestone } from '../hooks/useStreak'
+import { unlockAudio } from '../utils/sound'
 
 function formatQuestion(text) {
   if (!text) return text
@@ -847,6 +848,10 @@ export default function Quiz() {
   // Fix 3: No reveal on select in timed mode
   function handleSelect(letter) {
     if (revealed || timedOut) return
+    // Unlock the Web Audio context here, on a real tap — the streak/result
+    // chimes fire later from useEffects (after an async Firestore write),
+    // which is too late for browsers to grant audio permission from scratch.
+    unlockAudio()
     setSelected(letter)
     setAnswers(prev => { const next = [...prev]; next[current] = letter; return next })
     // Vibration feedback (haptic + CSS)
