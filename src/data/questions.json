@@ -14758,5 +14758,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Represent — ഇത് 'ഒരാളെ പ്രതിനിധീകരിക്കുക' എന്നാണ് അർത്ഥം, കുടുംബസാമ്യവുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'take' എന്ന വാക്ക് പല contexts-ലും 'ഏറ്റെടുക്കുക'/'പ്രതിനിധീകരിക്കുക' എന്നൊക്കെ അർത്ഥം വരാറുള്ളതിനാൽ confuse ചെയ്യാം.\n• (B) Believe — ഇത് 'വിശ്വസിക്കുക' എന്നാണ് അർത്ഥം, 'take after'-ന്റെ meaning-മായി ഒരു ബന്ധവുമില്ല.\n• (D) Protect — ഇത് 'സംരക്ഷിക്കുക' എന്നാണ് അർത്ഥം, ഈ phrasal verb-ന്റെ meaning അല്ല ഇത്.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'TAKE AFTER = family mirror!' — ഒരു കുട്ടി മാതാപിതാക്കളുടെ 'പിന്നാലെ' (after) പോകുന്നത് പോലെ, അവരെ resemble ചെയ്യുന്നു എന്ന് visualize ചെയ്യുക.\n• Word family: take after (resemble), look like (സാമ്യമുള്ള meaning), favour (informal, resemble) — ഇവയെല്ലാം 'സാമ്യം' എന്ന അർത്ഥവുമായി ബന്ധപ്പെട്ടത്.\n• PSC strategy: 'Take' + preposition combinations (take after, take over, take in, take up) വരുമ്പോൾ ഓരോന്നിന്റെയും പ്രത്യേക idiomatic meaning വേറെവേറെ മനഃപാഠമാക്കുക, literal translate ചെയ്യരുത്."
     }
+  },
+  {
+    "id": "138-2023-M-Q81",
+    "paperId": "138-2023-M",
+    "questionNumber": 81,
+    "topic": "Active and Passive Voice",
+    "questionText": "Change into passive voice:\nOpen the window",
+    "optionA": "Can the window be opened",
+    "optionB": "Will the window be opened",
+    "optionC": "Shall the window be opened",
+    "optionD": "Let the window be opened",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) Let the window be opened\n• 'Open the window' എന്നത് ഒരു Imperative Sentence ആണ് (കൽപ്പന/അഭ്യർത്ഥന) — ഇത്തരം sentences-നെ Passive Voice-ലേക്ക് മാറ്റാൻ പ്രത്യേക നിയമം ഉണ്ട്.\n• Imperative sentences-ന്റെ Passive form 'Let + object + be + V3' എന്ന structure ഉപയോഗിച്ചാണ് ഉണ്ടാക്കുന്നത് — 'open' എന്ന verb-ന്റെ past participle 'opened' ആണ്.\n• 'ജനൽ തുറക്കൂ' എന്ന കൽപ്പനയെ 'ജനൽ തുറക്കപ്പെടട്ടെ' എന്ന് passive ആയി മാറ്റുന്നു എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Imperative Sentence Passive ആക്കാൻ 'Let + object + be + V3' എന്ന formula ഓർത്തുവെക്കുക!\n• സാധാരണ statements-ന്റെ Passive Voice ഉണ്ടാക്കുന്നത് 'is/am/are/was/were + V3' ഉപയോഗിച്ചാണെങ്കിലും, കൽപ്പന (Command/Imperative) sentences-ന് 'Let' എന്ന വാക്ക് കൊണ്ട് തുടങ്ങണം എന്നത് പ്രത്യേകം ഓർത്തിരിക്കുക.\n• അഭ്യർത്ഥന (Request) ആണെങ്കിൽ Passive form വേറെയാണ് — 'You are requested to open the window' എന്നാകും. കൽപ്പനയും അഭ്യർത്ഥനയും വ്യത്യസ്ത Passive patterns എടുക്കും എന്നത് ഓർക്കുക.\n• ⭐ PSC ആവർത്തനം: കൽപ്പന വാക്യങ്ങളുടെ Active-Passive conversion PSC-യിൽ ഏറ്റവും ആവർത്തിക്കുന്ന grammar topic ആണ്.\n• ഉദാഹരണ sentences:\n1. Close the door. → Let the door be closed. (വാതിൽ അടയ്ക്കൂ → വാതിൽ അടയ്ക്കപ്പെടട്ടെ)\n2. Post the letter. → Let the letter be posted. (കത്ത് അയക്കൂ → കത്ത് അയക്കപ്പെടട്ടെ)\n3. Switch off the light. → Let the light be switched off. (ലൈറ്റ് ഓഫ് ചെയ്യൂ → ലൈറ്റ് ഓഫ് ചെയ്യപ്പെടട്ടെ)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Can the window be opened — ഇത് 'Can you open the window?' എന്ന ചോദ്യത്തിന്റെ Passive form ആണ്, Command-ന്റെ അല്ല.\n• 🪤 PSC Trap: Passive Voice-ൽ 'be + V3' ഉള്ള options കണ്ടാൽ ചിന്തിക്കാതെ select ചെയ്യാൻ students-നെ ഇത് പ്രേരിപ്പിക്കും, പക്ഷേ Imperative-ന്റെ പ്രത്യേക rule ശ്രദ്ധിക്കണം.\n• (B) Will the window be opened — ഇത് ഒരു Future Tense Question-ന്റെ Passive form ആണ്, ഇവിടെ ചേരില്ല.\n• (C) Shall the window be opened — ഇത് ഒരു Offer/Suggestion Question-ന്റെ Passive form ആണ് ('Shall I open...?'), Command-ന്റെ Passive അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'കൽപ്പന കണ്ടാൽ, LET വിളിക്കൂ!' — Imperative sentence Passive ആക്കാൻ 'Let' കൊണ്ട് തുടങ്ങുക.\n• Word family ആയി ഓർക്കുക: Let + object + be + V3 — Command sentences-ന്റെ Passive-ന്റെ സ്ഥിരം formula.\n• PSC strategy: Active sentence ഒരു കൽപ്പന (command) ആണോ എന്ന് ആദ്യം നോക്കുക — ആണെങ്കിൽ 'Let'-ൽ തുടങ്ങുന്ന option തിരയുക."
+    }
+  },
+  {
+    "id": "138-2023-M-Q82",
+    "paperId": "138-2023-M",
+    "questionNumber": 82,
+    "topic": "Question Tags",
+    "questionText": "Use the proper question tag:\nEveryone is excited, –––––––––?",
+    "optionA": "Isn't he?",
+    "optionB": "Aren't he?",
+    "optionC": "Aren't they?",
+    "optionD": "Is he?",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Aren't they?\n• 'Everyone' എന്ന indefinite pronoun grammatically singular ആണെങ്കിലും, ഇത് 'എല്ലാവരും' എന്ന plural ആശയത്തെയാണ് സൂചിപ്പിക്കുന്നത് — അതിനാൽ question tag-ൽ pronoun 'they' ഉപയോഗിക്കണം.\n• Statement 'Everyone is excited' positive ആയതിനാൽ tag negative ആയിരിക്കണം — 'are' എന്ന verb-ന്റെ negative രൂപം 'aren't' ആണ്.\n• 'എല്ലാവരും ആവേശഭരിതരാണ്, അല്ലേ?' എന്നർത്ഥം — 'they' എന്ന plural pronoun ഇവിടെ 'everyone'-നെ പ്രതിനിധീകരിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'Everyone', 'Everybody', 'Someone', 'Anyone', 'No one' എന്നിവയുടെ tag-ൽ 'they/them' ഉപയോഗിക്കുക, verb മാത്രം ഏകവചനം ('is') ആയിരിക്കും!\n• ഇത്തരം pronouns വ്യാകരണപരമായി ഏകവചനം ആണ് ('is' എടുക്കും) എങ്കിലും, അർത്ഥത്തിൽ എല്ലാവരെയും/ആരെയെങ്കിലും ഉൾക്കൊള്ളുന്നതിനാൽ tag-ൽ 'they' എന്ന gender-neutral plural pronoun വേണം എന്നത് നന്നായി ഓർത്തിരിക്കുക.\n• ഇതേ rule ബാധകമായ മറ്റ് pronouns: everybody (എല്ലാവരും) → aren't they?, somebody (ആരോ ഒരാൾ) → don't they?, nobody (ആരും ഇല്ല) → do they? — ഇവയെല്ലാം ഇതേ pattern follow ചെയ്യുന്നു.\n• ⭐ PSC ആവർത്തനം: Indefinite pronouns-ന്റെ question tag PSC-യിൽ ഏറ്റവും ആവർത്തിക്കുന്ന trap topic ആണ്.\n• ഉദാഹരണ sentences:\n1. Everybody knows the answer, don't they? (Everybody-ന്റെ tag-ൽ they)\n2. Someone left the door open, didn't they? (Someone-ന്റെ tag-ൽ they)\n3. No one called, did they? (No one negative ആയതിനാൽ positive tag)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Isn't he? — 'he' എന്ന singular masculine pronoun ഇവിടെ ചേരില്ല; 'everyone' ഏതെങ്കിലും ഒരു gender-നെ പ്രത്യേകം സൂചിപ്പിക്കുന്നില്ല.\n• 🪤 PSC Trap: 'Everyone' singular verb ('is') എടുക്കുന്നത് കണ്ട്, tag-ലും singular pronoun ('he') തന്നെ വേണം എന്ന് students തെറ്റിദ്ധരിക്കും.\n• (B) Aren't he? — Verb ('aren't') plural ആണ്, പക്ഷേ pronoun ('he') singular ആണ് — ഇത് ഒരു mismatch ആണ്, ഒരിക്കലും ശരിയാകില്ല.\n• (D) Is he? — ഇത് 'he' എന്ന തെറ്റായ pronoun ഉപയോഗിക്കുന്നു എന്ന് മാത്രമല്ല, positive statement-ന് positive tag ('Is he?') കൊടുത്തിരിക്കുന്നു, ഇത് tag rule-ന് വിരുദ്ധമാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Verb ഏകവചനം ആണെങ്കിലും, tag-ൽ എപ്പോഴും 'THEY' ഓർക്കുക! — 'Everyone is...' എന്ന് പറഞ്ഞാലും tag-ൽ 'they' തന്നെ വരും എന്ന് മനസ്സിൽ ഉറപ്പിക്കുക.\n• Word family ആയി ഇവ ഒരുമിച്ച് ഓർത്തുവെക്കുക: everyone (എല്ലാവരും), everybody (എല്ലാവരും), someone (ആരോ), anybody (ആരെങ്കിലും), no one (ആരും ഇല്ല) — ഇവയെല്ലാം tag-ൽ 'they' എടുക്കുന്ന pronouns ആണ്.\n• PSC strategy: Statement-ൽ 'every-/some-/any-/no-' + 'one/body' എന്ന combination കണ്ടാൽ ഉടനെ tag-ൽ 'they' ഓർക്കുക, 'he/she/it' ഒരിക്കലും ഉപയോഗിക്കരുത് എന്നത് ഉറപ്പിക്കുക."
+    }
+  },
+  {
+    "id": "138-2023-M-Q83",
+    "paperId": "138-2023-M",
+    "questionNumber": 83,
+    "topic": "Articles",
+    "questionText": "Find out the correct answer:",
+    "optionA": "An L.D. Clerk",
+    "optionB": "A M.L.A.",
+    "optionC": "A umbrella",
+    "optionD": "An ewe",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) An L.D. Clerk\n• 'L.D.' എന്നത് ഉച്ചരിക്കുന്നത് 'എൽ-ഡീ' (el-dee) എന്നാണ് — 'L' എന്ന letter-ന്റെ ഉച്ചാരണം 'എൽ' എന്ന vowel sound-ൽ ആണ് തുടങ്ങുന്നത്, അതിനാൽ 'an' ശരിയാണ്.\n• Article തീരുമാനിക്കുന്നത് അക്ഷരമല്ല, ആദ്യ ശബ്ദമാണ് (sound) — അതിനാൽ letter abbreviations-ന്റെ ഉച്ചാരണം ശ്രദ്ധിക്കണം.\n• മറ്റ് മൂന്ന് options-ലും article തെറ്റാണ് — 'An L.D. Clerk' മാത്രമാണ് ശരിയായി എഴുതിയിരിക്കുന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Letter abbreviations ('L.D.', 'M.L.A.', 'S.S.L.C.')-ന്റെ article തീരുമാനിക്കുന്നത് ആദ്യ letter-ന്റെ ഉച്ചാരണ ശബ്ദമാണ്, letter അല്ല!\n• Vowel ശബ്ദത്തിൽ ഉച്ചരിക്കുന്ന letters (A, E, F, H, I, L, M, N, O, R, S, X) → 'an' വേണം; Consonant ശബ്ദത്തിൽ ഉച്ചരിക്കുന്ന letters → 'a' വേണം.\n• 'F' ('എഫ്'), 'H' ('എയ്ച്ച്'), 'L' ('എൽ'), 'M' ('എം'), 'N' ('എൻ'), 'R' ('ആർ'), 'S' ('എസ്'), 'X' ('എക്സ്') — ഇവയെല്ലാം vowel ശബ്ദത്തിൽ ഉച്ചരിക്കുന്നതിനാൽ 'an' എടുക്കും എന്നത് ഓർക്കുക.\n• ⭐ PSC ആവർത്തനം: Letter-abbreviation articles ('an M.L.A.', 'an S.S.L.C. holder') PSC-യിൽ ഏറ്റവും കുഴപ്പിക്കുന്ന article topic ആണ്.\n• ഉദാഹരണ sentences:\n1. He is an M.L.A. from this constituency. (M → 'എം' vowel ശബ്ദം → an)\n2. She is an S.P. in the police department. (S → 'എസ്' vowel ശബ്ദം → an)\n3. He works as a D.G.P. (D → 'ഡീ' consonant ശബ്ദം → a)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) A M.L.A. — ഇത് തെറ്റാണ്; 'M' എന്ന letter 'എം' എന്ന vowel ശബ്ദത്തിൽ ഉച്ചരിക്കുന്നതിനാൽ 'an M.L.A.' ആണ് ശരി, 'a M.L.A.' അല്ല.\n• 🪤 PSC Trap: 'M' consonant letter ആണ് എന്ന് കണ്ട് 'a' select ചെയ്യാൻ students തെറ്റിദ്ധരിക്കും, പക്ഷേ ഉച്ചാരണം 'എം' vowel ശബ്ദം ആണ്.\n• (C) A umbrella — ഇത് തെറ്റാണ്; 'umbrella' vowel ശബ്ദം 'അ'-ൽ തുടങ്ങുന്നതിനാൽ 'an umbrella' ആണ് ശരി, 'a umbrella' അല്ല.\n• (D) An ewe — ഇത് തെറ്റാണ്; 'ewe' (പെൺ ആട്) 'യൂ' എന്ന consonant ശബ്ദത്തിൽ ആണ് ഉച്ചരിക്കുന്നത്, അതിനാൽ 'a ewe' വേണം, 'an ewe' അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Letter abbreviations കണ്ടാൽ ഉടനെ ആ letter ഉറക്കെ ഉച്ചരിച്ചു നോക്കുക — 'എൽ', 'എം', 'എസ്' പോലുള്ള vowel-sound letters-ന് 'an' വേണം.\n• Word family: an L.D. Clerk, an M.L.A., an S.P., an F.I.R. — ഇവയെല്ലാം vowel-sound letters ആയതിനാൽ 'an' എടുക്കുന്നു.\n• PSC strategy: Article ചോദ്യങ്ങളിൽ letter abbreviations വന്നാൽ പ്രത്യേകം ശ്രദ്ധിക്കുക — spelling അല്ല, pronunciation ആണ് പരിശോധിക്കേണ്ടത്."
+    }
+  },
+  {
+    "id": "138-2023-M-Q84",
+    "paperId": "138-2023-M",
+    "questionNumber": 84,
+    "topic": "Correlatives",
+    "questionText": "No sooner had he written his first novel, ––––––––– he started the next.",
+    "optionA": "then",
+    "optionB": "when",
+    "optionC": "than",
+    "optionD": "did",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) than\n• 'No sooner' എന്ന വാക്കിന്റെ ശരിയായ correlative pair 'than' ആണ് — 'No sooner...than' എന്നത് ഒരു fixed correlative construction ആണ്.\n• ഈ construction രണ്ട് actions തമ്മിലുള്ള ഉടനടിയുള്ള sequence കാണിക്കാൻ ഉപയോഗിക്കുന്നു — ഒരു action കഴിഞ്ഞ ഉടനെ അടുത്തത് സംഭവിച്ചു എന്നർത്ഥം.\n• 'അവൻ തന്റെ ആദ്യ നോവൽ എഴുതിക്കഴിഞ്ഞ ഉടനെ അടുത്തത് തുടങ്ങി' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: No sooner = Than, Neither = Nor, Either = Or, Not only = But also — ഈ correlative pairs ഒരിക്കലും മാറ്റി ഉപയോഗിക്കരുത്!\n• Correlative conjunctions എപ്പോഴും fixed pairs ആയാണ് വരുന്നത് — ഒരു ഭാഗം മാറ്റിയാൽ grammatically തെറ്റാകും എന്നത് ഓർക്കുക.\n• ഇതേ പോലുള്ള മറ്റ് correlative pairs: No sooner...than (ഉടനെ), Hardly...when (ഏകദേശം ഉടനെ), Scarcely...when (ഏകദേശം ഉടനെ), Neither...nor (രണ്ടും അല്ല), Either...or (ഒന്നുകിൽ...അല്ലെങ്കിൽ).\n• ⭐ PSC ആവർത്തനം: 'No sooner...than' correlative PSC-യിൽ ഏറ്റവും ആവർത്തിക്കുന്ന topic-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. No sooner had she reached home than it started raining. (വീട്ടിലെത്തിയ ഉടനെ മഴ തുടങ്ങി)\n2. No sooner had the bell rung than the students left. (ബെൽ അടിച്ച ഉടനെ വിദ്യാർത്ഥികൾ പോയി)\n3. No sooner had he seen the snake than he ran away. (പാമ്പിനെ കണ്ട ഉടനെ അവൻ ഓടിപ്പോയി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) then — 'No sooner...then' എന്ന combination തെറ്റാണ്; ഇത് 'than' എന്ന വാക്കുമായി ശബ്ദസാമ്യം ഉള്ളതിനാൽ confuse ചെയ്യാൻ സാധ്യതയുണ്ട്.\n• 🪤 PSC Trap: 'then' and 'than' ഉച്ചാരണത്തിൽ അടുത്തതായതിനാൽ ഇത് PSC-യുടെ classic spelling/collocation trap ആണ്.\n• (B) when — ഇത് 'Hardly/Scarcely...when' എന്ന വേറൊരു correlative pair-ന്റെ ഭാഗമാണ്, 'No sooner'-ന്റെ correct pair അല്ല.\n• (D) did — ഇത് ഒരു auxiliary verb ആണ്, correlative conjunction അല്ല; ഇവിടെ ഒരു linking word വേണം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'No sooner...THAN' — 'sooner' ഉം 'than' ഉം rhyme ചെയ്യുന്നു, ഈ ശബ്ദസാമ്യം ഉപയോഗിച്ച് ഓർത്തുവെക്കാൻ എളുപ്പമാണ്!\n• Correlative pairs ഒരുമിച്ച് ഒരു പട്ടികയായി പഠിക്കുക: No sooner...than (ഉടനെ), Hardly...when (ഏകദേശം ഉടനെ), Scarcely...when (ഏകദേശം ഉടനെ), Neither...nor (രണ്ടും അല്ല), Either...or (ഒന്നുകിൽ), Not only...but also (മാത്രമല്ല കൂടാതെ).\n• PSC strategy: Correlative ചോദ്യങ്ങളിൽ ആദ്യ പകുതി (No sooner, Neither, Either) കണ്ടാൽ ഉടനെ അതിന്റെ fixed partner മനസ്സിൽ ഓർക്കുക — രണ്ട് ഭാഗങ്ങളും ഒരിക്കലും mix ചെയ്യരുത് എന്നത് ഉറപ്പിക്കുക."
+    }
+  },
+  {
+    "id": "138-2023-M-Q85",
+    "paperId": "138-2023-M",
+    "questionNumber": 85,
+    "topic": "Direct and Indirect Speech",
+    "questionText": "Change into indirect speech:\nThe Master said, \"Charity begins at home\".",
+    "optionA": "The Master said that charity began at home",
+    "optionB": "The Master said that charity begins at home",
+    "optionC": "The Master said that charity is beginning at home",
+    "optionD": "The Master said that charity has begun at home",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) The Master said that charity begins at home\n• 'Charity begins at home' എന്നത് ഒരു Universal Truth/Proverb ആണ് (എല്ലാ കാലത്തും ശരിയായ പൊതു സത്യം) — ഇത്തരം sentences-ന് Indirect Speech-ലേക്ക് മാറ്റുമ്പോൾ tense മാറ്റാൻ പാടില്ല.\n• സാധാരണയായി reported speech-ൽ tense ഒരു step പുറകോട്ട് പോകും (backshift), പക്ഷേ universal truths/proverbs-ന് ഈ നിയമം ബാധകമല്ല — Present Tense അതേപടി നിലനിർത്തും.\n• 'ദാനധർമ്മം വീട്ടിൽ നിന്നാണ് ആരംഭിക്കുന്നത് എന്ന് ഗുരു പറഞ്ഞു' എന്നർത്ഥം — ഈ പഴഞ്ചൊല്ല് എപ്പോഴും ശരിയായതിനാൽ tense മാറ്റേണ്ട ആവശ്യമില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: പൊതു സത്യങ്ങൾ/പഴഞ്ചൊല്ലുകൾ/ശീലമായ കാര്യങ്ങൾ Indirect Speech-ലേക്ക് മാറ്റുമ്പോൾ tense മാറ്റരുത്, Present Tense അതേപടി നിലനിർത്തുക!\n• സാധാരണ reported speech-ൽ tense ഒരു step പുറകോട്ട് പോകും, പക്ഷേ universal truths (എപ്പോഴും ശരിയായ പൊതു സത്യങ്ങൾ) ഈ backshift നിയമത്തിന്റെ exception ആണ് എന്നത് നന്നായി ഓർത്തിരിക്കുക.\n• ഇതുപോലുള്ള മറ്റ് പൊതു സത്യങ്ങൾ reported speech-ലും Present Tense-ൽ തന്നെ നിലനിൽക്കും: സൂര്യൻ കിഴക്ക് ഉദിക്കുന്നു എന്ന വാചകം, സത്യസന്ധത നല്ല നയമാണ് എന്ന പഴഞ്ചൊല്ല്, ഭൂമി സൂര്യനെ ചുറ്റുന്നു എന്ന ശാസ്ത്ര സത്യം.\n• ⭐ PSC ആവർത്തനം: പൊതു സത്യങ്ങളുടെ ഈ exception PSC-യിലെ Direct-Indirect Speech ചോദ്യങ്ങളിൽ ഒരു classic trap ആണ്.\n• ഉദാഹരണ sentences:\n1. The teacher said, \"The earth is round.\" → The teacher said that the earth is round. (പൊതു സത്യം → tense മാറ്റില്ല)\n2. He said, \"Honesty is the best policy.\" → He said that honesty is the best policy. (പഴഞ്ചൊല്ല് → tense മാറ്റില്ല)\n3. She said, \"Water boils at 100 degrees.\" → She said that water boils at 100 degrees. (ശാസ്ത്ര സത്യം → tense മാറ്റില്ല)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) charity began at home — ഇത് സാധാരണ backshift rule (Present → Past) പാലിക്കുന്നു, പക്ഷേ universal truth ആയതിനാൽ tense മാറ്റാൻ പാടില്ല എന്ന exception ഇവിടെ ബാധകമാണ്.\n• 🪤 PSC Trap: സാധാരണ reported speech rule ('said' കണ്ടാൽ tense പുറകോട്ട് മാറ്റുക) അതേപടി apply ചെയ്യാൻ students-നെ ഇത് പ്രേരിപ്പിക്കും, universal truth exception മറന്നുപോകും.\n• (C) charity is beginning at home — ഇത് Present Continuous Tense ആണ്; ഇത് ഒരു ongoing action കാണിക്കും, പക്ഷേ 'charity begins at home' ഒരു habitual/general truth ആണ്, momentary action അല്ല.\n• (D) charity has begun at home — ഇത് Present Perfect Tense ആണ്; ഇത് completed action കാണിക്കും, general truth-ന്റെ അർത്ഥം ഇത് നൽകുന്നില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'എപ്പോഴും ശരിയായ കാര്യങ്ങൾക്ക് TENSE മാറ്റം ഇല്ല!' — Universal truths, proverbs, scientific facts reported speech-ലും Present Tense-ൽ തന്നെ നിലനിൽക്കും.\n• Word family: universal truths, proverbs, habitual facts, scientific facts — ഇവയെല്ലാം tense-backshift-ന്റെ exceptions ആണ്, ഒരുമിച്ച് ഓർത്തുവെക്കുക.\n• PSC strategy: Indirect speech ചോദ്യത്തിൽ reported sentence ഒരു പഴഞ്ചൊല്ലോ പൊതു സത്യമോ ആണോ എന്ന് ആദ്യം പരിശോധിക്കുക — ആണെങ്കിൽ tense മാറ്റാതെ വിടുക."
+    }
+  },
+  {
+    "id": "138-2023-M-Q86",
+    "paperId": "138-2023-M",
+    "questionNumber": 86,
+    "topic": "Prepositions",
+    "questionText": "Use the suitable preposition:\nThe Minister came ––––––––– a helicopter.",
+    "optionA": "upon",
+    "optionB": "on",
+    "optionC": "over",
+    "optionD": "in",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) in\n• ചെറിയ വാഹനങ്ങൾക്ക് (car, helicopter, boat, taxi) 'in a + vehicle' എന്ന preposition ഉപയോഗിക്കുന്നു — 'in a helicopter' ആണ് ശരിയായ collocation.\n• വലിയ പൊതു ഗതാഗത വാഹനങ്ങൾക്ക് (bus, train, plane, ship) 'on a/the + vehicle' ഉപയോഗിക്കുന്നു — ഈ വ്യത്യാസം ഓർത്തിരിക്കണം.\n• 'മന്ത്രി ഒരു ഹെലികോപ്റ്ററിൽ വന്നു' എന്നർത്ഥം — ഹെലികോപ്റ്റർ ഒരു ചെറിയ, individual വാഹനമായതിനാൽ 'in' വേണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ചെറിയ വാഹനങ്ങൾ (car, taxi, helicopter, boat) → 'IN'; വലിയ പൊതു വാഹനങ്ങൾ (bus, train, plane, ship) → 'ON'!\n• ഈ preposition rule വാഹനത്തിന്റെ വലുപ്പത്തെയും അകത്ത് കയറി ഇരിക്കുന്ന രീതിയെയും അടിസ്ഥാനമാക്കിയാണ് — ചെറിയ വാഹനങ്ങളിൽ 'അകത്തേക്ക്' കയറുന്നു എന്ന ബോധം ഉള്ളതിനാൽ 'in' ഉപയോഗിക്കുന്നു എന്നത് ഓർക്കുക.\n• ഇതേ rule ബാധകമായ മറ്റ് വാഹനങ്ങൾ: car (കാർ), taxi (ടാക്സി), helicopter (ഹെലികോപ്റ്റർ), boat (ബോട്ട്) — ഇവയെല്ലാം 'in' എടുക്കും; bus, train, plane, ship — ഇവയെല്ലാം 'on' എടുക്കും.\n• ⭐ PSC ആവർത്തനം: Vehicle prepositions (in vs on) PSC-യിൽ ഏറ്റവും repeat ചെയ്യുന്ന preposition trap ആണ്.\n• ഉദാഹരണ sentences:\n1. She travelled in a car to the airport. (ചെറിയ വാഹനം → in)\n2. They travelled on a train to Delhi. (വലിയ പൊതു വാഹനം → on)\n3. He arrived in a helicopter for the inspection. (ചെറിയ വാഹനം → in)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) upon — ഇത് 'മുകളിൽ' എന്ന അർത്ഥത്തിൽ physical surface-നെ സൂചിപ്പിക്കുന്നു, vehicle travel collocation-ന് ഉപയോഗിക്കാറില്ല.\n• 🪤 PSC Trap: 'upon' 'on'-മായി അർത്ഥസാമ്യം ഉള്ളതിനാൽ confuse ചെയ്യാൻ students-നെ പ്രേരിപ്പിക്കും.\n• (B) on — ഇത് വലിയ പൊതു വാഹനങ്ങൾക്ക് (bus, train, plane) ഉപയോഗിക്കുന്നതാണ്, ഹെലികോപ്റ്റർ പോലുള്ള ചെറിയ വാഹനത്തിന് 'in' വേണം.\n• (C) over — ഇത് 'മുകളിലൂടെ' എന്ന അർത്ഥത്തിലാണ് ഉപയോഗിക്കുന്നത്, travel-mode preposition അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ചെറിയ വാഹനത്തിൽ IN കയറാം, വലിയ വാഹനത്തിൽ ON കയറാം!' — car/taxi/helicopter ചെറുതാണ്, bus/train/plane വലുതാണ് എന്ന് ഓർക്കുക.\n• Word family ആയി ഇവ രണ്ട് ഗ്രൂപ്പ് ആയി ഓർത്തുവെക്കുക: in a car/taxi/helicopter/boat vs on a bus/train/plane/ship/bicycle.\n• PSC strategy: Vehicle-preposition ചോദ്യങ്ങളിൽ വാഹനത്തിന്റെ size/type നോക്കുക — ചെറുതാണെങ്കിൽ 'in', പൊതു ഗതാഗതമാണെങ്കിൽ 'on' എന്ന് തീരുമാനിക്കുക."
+    }
+  },
+  {
+    "id": "138-2023-M-Q87",
+    "paperId": "138-2023-M",
+    "questionNumber": 87,
+    "topic": "Types of Sentences",
+    "questionText": "Find out the correct type of sentence:\n\"What a beautiful Scenery!\"",
+    "optionA": "Exclamatory sentence",
+    "optionB": "Interrogative sentence",
+    "optionC": "Imperative sentence",
+    "optionD": "Assertive sentence",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Exclamatory sentence\n• '\"What a beautiful Scenery!\"' എന്ന sentence ശക്തമായ ആശ്ചര്യം/സന്തോഷം പ്രകടിപ്പിക്കുന്നു, ഇത് exclamation mark (!) ഉപയോഗിച്ചാണ് അവസാനിക്കുന്നത്.\n• 'What a...' എന്ന് തുടങ്ങുന്ന sentences സാധാരണയായി Exclamatory sentences ആണ് — ഇവ ശക്തമായ വികാരം പ്രകടിപ്പിക്കും.\n• 'എത്ര മനോഹരമായ ദൃശ്യം!' എന്ന അർത്ഥത്തിൽ ആശ്ചര്യം പ്രകടിപ്പിക്കുന്നതിനാൽ ഇത് Exclamatory sentence ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'What a...!' / 'How...!' + exclamation mark (!) → Exclamatory Sentence!\n• Exclamatory sentences ശക്തമായ emotion (സന്തോഷം, ആശ്ചര്യം, ദുഃഖം) പ്രകടിപ്പിക്കുകയും exclamation mark ഉപയോഗിക്കുകയും ചെയ്യും എന്നത് അടിസ്ഥാന നിയമമാണ്.\n• Related sentence types: Assertive (പ്രസ്താവന - full stop), Imperative (കൽപ്പന/അഭ്യർത്ഥന), Interrogative (ചോദ്യം - question mark), Exclamatory (ശക്തമായ വികാരം - exclamation mark) — ഇവ 4 തരം sentences ആണ്.\n• ⭐ PSC ആവർത്തനം: Sentence type identification PSC-യിൽ അടിസ്ഥാന grammar topic ആണ്, സ്ഥിരമായി ചോദിക്കും.\n• ഉദാഹരണ sentences:\n1. What a wonderful day! (exclamatory — ആശ്ചര്യം)\n2. How beautifully she sings! (exclamatory — അഭിനന്ദനം)\n3. Please sit down. (imperative — അഭ്യർത്ഥന)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) Interrogative sentence — ഇത് question ചോദിക്കുന്ന sentence ആണ്, question mark (?) ഉപയോഗിക്കും; ഇവിടെ ഒരു ചോദ്യവുമില്ല.\n• 🪤 PSC Trap: 'What' എന്ന വാക്ക് പലപ്പോഴും ചോദ്യങ്ങളിൽ ('What is this?') ഉപയോഗിക്കുന്നതിനാൽ ഇത് interrogative ആണെന്ന് തെറ്റിദ്ധരിക്കാം.\n• (C) Imperative sentence — ഇത് command/order/request പ്രകടിപ്പിക്കുന്ന sentence ആണ്, ഇവിടെ ഒരു order ഇല്ല.\n• (D) Assertive sentence — ഇത് ഒരു plain statement/fact പറയുന്ന sentence ആണ്, exclamation mark ഇല്ലാതെ full stop-ൽ അവസാനിക്കും; ഇവിടെ ശക്തമായ emotion ഉള്ളതിനാൽ ഇത് ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'What/How + (!) = Exclamation!' — 'What a...!' കണ്ടാൽ ഉടനെ exclamatory എന്ന് ഓർക്കുക.\n• Word family ആയി ഈ 4 sentence types ഒരുമിച്ച് ഓർത്തുവെക്കുക: Assertive, Interrogative, Imperative, Exclamatory.\n• PSC strategy: Sentence-ന്റെ punctuation mark ശ്രദ്ധിക്കുക — exclamation mark (!) ഉണ്ടെങ്കിൽ, പ്രത്യേകിച്ച് 'What'/'How' തുടക്കത്തിൽ ഉണ്ടെങ്കിൽ, അത് Exclamatory ആണെന്ന് ഉറപ്പിക്കുക."
+    }
+  },
+  {
+    "id": "138-2023-M-Q88",
+    "paperId": "138-2023-M",
+    "questionNumber": 88,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Furniture in this room ––––––––– good",
+    "optionA": "is",
+    "optionB": "are",
+    "optionC": "have",
+    "optionD": "be",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) is\n• 'Furniture' എന്നത് ഒരു uncountable/collective noun ആണ് — ഇതിന് plural form ('furnitures') ഇല്ല, എപ്പോഴും ഏകവചനം ആയാണ് കണക്കാക്കുന്നത്.\n• Uncountable nouns എപ്പോഴും ഏകവചന verb ('is') എടുക്കും, 'in this room' എന്ന prepositional phrase subject-ന്റെ എണ്ണത്തെ ബാധിക്കില്ല.\n• 'ഈ മുറിയിലെ ഫർണിച്ചർ നല്ലതാണ്' എന്നർത്ഥം — 'Furniture' ഒരു single unit ആയാണ് കണക്കാക്കുന്നത്, individual items ആയല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Uncountable nouns (Furniture, Advice, Information, Luggage) → എപ്പോഴും ഏകവചന verb ('is/was/has')!\n• ഈ noun-കൾക്ക് plural form ഇല്ല ('furnitures', 'advices', 'informations' എന്നൊന്നും ഇല്ല) — അതിനാൽ verb എപ്പോഴും ഏകവചനം ആയിരിക്കണം എന്നത് ഓർക്കുക.\n• ഇതേ rule ബാധകമായ മറ്റ് uncountable nouns: Furniture (ഫർണിച്ചർ), Advice (ഉപദേശം), Information (വിവരം), Luggage (ലഗേജ്), News (വാർത്ത) — ഇവയെല്ലാം എപ്പോഴും ഏകവചന verb എടുക്കും.\n• ⭐ PSC ആവർത്തനം: Uncountable nouns-ന്റെ Subject-Verb Agreement PSC-യിൽ ഏറ്റവും ആവർത്തിക്കുന്ന trap-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. The furniture is expensive. (Furniture → is, ഏകവചനം)\n2. Her advice was very useful. (Advice → was, ഏകവചനം)\n3. The information given was incorrect. (Information → was, ഏകവചനം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) are — Plural verb ആണ്; 'Furniture' plural ആയി തോന്നാമെങ്കിലും (പല items ഉൾപ്പെടുന്നതിനാൽ), ഇത് grammatically ഒരു uncountable ഏകവചന noun ആണ്.\n• 🪤 PSC Trap: Furniture-ൽ പല items (chairs, tables) ഉൾപ്പെടുന്നു എന്ന് ചിന്തിച്ച് plural verb select ചെയ്യാൻ students-നെ ഇത് പ്രേരിപ്പിക്കും.\n• (C) have — Plural auxiliary ആണ്, ഇതും Furniture-ന്റെ uncountable ഏകവചന സ്വഭാവവുമായി ചേരില്ല.\n• (D) be — ഇത് base form ആണ്, ഒരു complete sentence-ൽ ഒറ്റയ്ക്ക് ഇങ്ങനെ ഉപയോഗിക്കാൻ പറ്റില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'FURNITURE ഒരു കൂട്ടം ആണ്, ഒറ്റ ആൾ ആണ്!' — പല items ഉണ്ടെങ്കിലും 'furniture' എപ്പോഴും ഏകവചനം ആണെന്ന് ഓർക്കുക.\n• Word family ആയി ഇവ ഒരുമിച്ച് പട്ടികപ്പെടുത്തുക: Furniture, Advice, Information, Luggage, Equipment, News — ഈ common uncountable nouns.\n• PSC strategy: Sentence-ൽ Furniture/Advice/Information/Luggage പോലുള്ള വാക്കുകൾ subject ആയി വന്നാൽ ഉടനെ ഏകവചന verb ('is/was/has') ഓർക്കുക."
+    }
+  },
+  {
+    "id": "138-2023-M-Q89",
+    "paperId": "138-2023-M",
+    "questionNumber": 89,
+    "topic": "Auxiliary Verbs",
+    "questionText": "I ––––––––– to play football when I was in U.K.",
+    "optionA": "need",
+    "optionB": "ought",
+    "optionC": "dare",
+    "optionD": "used",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) used\n• 'Used to' എന്ന semi-modal auxiliary verb past habitual actions (മുൻപ് പതിവായി ചെയ്തിരുന്ന, ഇപ്പോൾ ചെയ്യാത്ത കാര്യങ്ങൾ) വിവരിക്കാൻ ഉപയോഗിക്കുന്നു.\n• 'Used to + base verb' എന്ന structure ('used to play') ആണ് ശരിയായ formula — ഇവിടെ 'when I was in U.K.' എന്നത് past habitual context സ്ഥിരീകരിക്കുന്നു.\n• 'ഞാൻ U.K.-ൽ ആയിരുന്നപ്പോൾ ഫുട്ബോൾ കളിക്കാറുണ്ടായിരുന്നു (ഇപ്പോൾ കളിക്കുന്നില്ല)' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'Used to + base verb' → past habitual action, ഇപ്പോൾ നിർത്തിയ ശീലം സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുക!\n• 'Used to' മാറ്റമില്ലാതെ എല്ലാ subjects-നും ഒരേ രൂപത്തിൽ ഉപയോഗിക്കും (I/he/she/they used to...) — ഇത് ഒരു semi-modal ആണ് എന്നത് ഓർക്കുക.\n• ഇതേ ഗണത്തിലുള്ള മറ്റ് semi-modals: need (ആവശ്യമുണ്ട്), ought (വേണം/കടപ്പാട്), dare (ധൈര്യപ്പെടുക) — ഇവയെല്ലാം വ്യത്യസ്ത meaning/context ആണ് ഉള്ളത്.\n• ⭐ PSC ആവർത്തനം: 'Used to' vs 'Ought to' vs 'Need to' തമ്മിലുള്ള വ്യത്യാസം PSC-യിൽ സ്ഥിരമായി ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. She used to live in Mumbai. (മുൻപ് താമസിച്ചിരുന്നു, ഇപ്പോൾ ഇല്ല)\n2. He used to smoke, but he quit last year. (മുൻപ് പുകവലിച്ചിരുന്നു)\n3. We used to play cricket every evening. (മുൻപ് പതിവായി കളിച്ചിരുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) need — ഇത് 'ആവശ്യമുണ്ട്' എന്ന അർത്ഥത്തിലുള്ള modal ആണ്, past habitual action കാണിക്കാൻ ഉപയോഗിക്കില്ല.\n• 🪤 PSC Trap: Modal verbs എല്ലാം ഒരേ പോലെ ഉപയോഗിക്കാം എന്ന് students തെറ്റിദ്ധരിക്കാം, പക്ഷേ ഓരോന്നിനും പ്രത്യേക meaning ഉണ്ട്.\n• (B) ought — ഇത് 'വേണം'/'കടപ്പാട്' എന്ന അർത്ഥത്തിലുള്ള modal ആണ്, habitual past action-ന് ഇത് ഉപയോഗിക്കില്ല.\n• (C) dare — ഇത് 'ധൈര്യപ്പെടുക' എന്ന അർത്ഥത്തിലുള്ള modal ആണ്, habitual action-മായി ബന്ധമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'USED TO = പണ്ട് ചെയ്തിരുന്നത്, ഇപ്പോൾ ഇല്ല!' — habit that stopped എന്ന ആശയം 'used to'-മായി ചേർത്ത് ഓർക്കുക.\n• Word family ആയി വ്യത്യാസങ്ങൾ ഓർത്തുവെക്കുക: used to (ശീലം), ought to (കടപ്പാട്), need to (ആവശ്യം), dare to (ധൈര്യം).\n• PSC strategy: Sentence-ൽ past habitual action-ന്റെ സൂചന ('when I was...', 'in those days') ഉണ്ടെങ്കിൽ 'used to' തിരയുക."
+    }
+  },
+  {
+    "id": "138-2023-M-Q90",
+    "paperId": "138-2023-M",
+    "questionNumber": 90,
+    "topic": "Infinitive and Gerunds",
+    "questionText": "I dislike ––––––––– (watch) TV.",
+    "optionA": "to watch",
+    "optionB": "watching",
+    "optionC": "watches",
+    "optionD": "watched",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) watching\n• 'Dislike' എന്ന verb-ന് ശേഷം എപ്പോഴും Gerund ('-ing' form) വരണം, Infinitive ('to + verb') അല്ല.\n• 'Dislike watching' എന്നത് ശരിയായ structure ആണ് — ഇഷ്ടം/അനിഷ്ടം പ്രകടിപ്പിക്കുന്ന പല verbs-ഉം (enjoy, dislike, avoid) gerund തന്നെ ആവശ്യപ്പെടും.\n• 'ഞാൻ ടിവി കാണുന്നത് ഇഷ്ടപ്പെടുന്നില്ല' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Dislike, Enjoy, Avoid, Finish, Mind എന്നീ verbs-ന് ശേഷം Gerund ('-ing' form) മാത്രമേ വരൂ — 'to + verb' ഒരിക്കലും വരില്ല എന്നത് ഉറപ്പിക്കുക!\n• ചില verbs-ന് ശേഷം എപ്പോഴും gerund വേണം, ചില verbs-ന് ശേഷം എപ്പോഴും infinitive വേണം എന്നത് വേറെവേറെ മനഃപാഠമാക്കണം — ഇത് logic വെച്ച് ഊഹിക്കാൻ പറ്റാത്ത മേഖലയാണ്.\n• ഇതേ gerund-only ഗണത്തിലുള്ള മറ്റ് verbs: dislike (ഇഷ്ടമില്ലായ്മ), enjoy (ആസ്വദിക്കുക), avoid (ഒഴിവാക്കുക), finish (തീർക്കുക), mind (വിരോധം), consider (പരിഗണിക്കുക) — ഇവയെല്ലാം gerund-ന് ശേഷം മാത്രമേ വരൂ.\n• ⭐ PSC ആവർത്തനം: Gerund-only verbs-ഉം Infinitive-only verbs-ഉം തമ്മിലുള്ള വ്യത്യാസം PSC-യിൽ ഏറ്റവും ആവർത്തിക്കുന്ന grammar topic ആണ്.\n• ഉദാഹരണ sentences:\n1. She enjoys reading novels. (നോവലുകൾ വായിക്കുന്നത് ആസ്വദിക്കുന്നു)\n2. He avoided answering the question. (ചോദ്യത്തിന് ഉത്തരം നൽകുന്നത് ഒഴിവാക്കി)\n3. They finished painting the wall. (ചുവര് പെയിന്റ് ചെയ്ത് തീർത്തു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) to watch — Infinitive form ആണ്; 'dislike' എന്ന verb-ന് ശേഷം infinitive വരില്ല, gerund മാത്രമേ ചേരൂ.\n• 🪤 PSC Trap: 'to + verb' ഒരു natural-sounding structure ആയതിനാൽ ചിന്തിക്കാതെ select ചെയ്യാൻ students-നെ ഇത് പ്രേരിപ്പിക്കും.\n• (C) watches — ഇത് Simple Present Tense-ന്റെ third-person singular form ആണ്, 'dislike' എന്ന verb-ന് ശേഷം ഇങ്ങനെ direct ആയി വരില്ല.\n• (D) watched — ഇത് Simple Past Tense form ആണ്, ഇതും 'dislike'-ന് ശേഷം ഉപയോഗിക്കാൻ പറ്റില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'DISLIKE-ന് ശേഷം -ING മാത്രം!' — dislike, enjoy, avoid, finish, mind — ഇവയെല്ലാം '-ing' മാത്രം ആവശ്യപ്പെടുന്ന verbs ആണ്.\n• Word family ആയി ഇവ ഒരു ഗ്രൂപ്പ് ആയി മനഃപാഠമാക്കുക: dislike doing, enjoy doing, avoid doing, mind doing, finish doing.\n• PSC strategy: Verb-ന് ശേഷം blank വന്നാൽ, ആ verb gerund-only ആണോ infinitive-only ആണോ എന്ന് ആദ്യം തിരിച്ചറിയുക — 'dislike' എപ്പോഴും gerund ആവശ്യപ്പെടുന്നു എന്ന് ഓർക്കുക."
+    }
   }
 ]
