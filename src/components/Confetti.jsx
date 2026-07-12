@@ -110,10 +110,15 @@ export default function Confetti({ active, tier = 'normal', variant = 'confetti'
     const isBig = tier === 'big'
     const isFire = variant === 'fire'
 
-    // Standout moments get a tactile + audible cue alongside the visuals.
+    // Standout moments get a bigger tactile + audible cue; every other burst
+    // (regular per-answer confetti) still gets a light tick + short buzz so
+    // correct answers always feel acknowledged, not just the big wins.
     if (isBig || isFire) {
       if (navigator.vibrate) navigator.vibrate(isFire ? [25, 40, 25, 40, 60] : [30, 30, 60])
       playChime(isFire ? 'fire' : 'big')
+    } else {
+      if (navigator.vibrate) navigator.vibrate(20)
+      playChime('normal')
     }
 
     let particles = []
