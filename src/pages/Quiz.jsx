@@ -26,7 +26,12 @@ function formatQuestion(text) {
   breaks.forEach(phrase => {
     result = result.replace(new RegExp(`\\.\\s+(${phrase})`, 'gi'), '.\n\n$1')
   })
-  result = result.replace(/ : ([A-Z])/g, ' :\n\n$1')
+  // NOTE: previously also split on " : " followed by a capital letter, to
+  // separate an instruction from its content (e.g. "Change the voice :
+  // Cats catch mice."). Removed — it false-triggered on word-pair analogy
+  // questions like "Duke : Duchess, Bachelor : ____" or "Bitter :
+  // Bitterness, Reject : ____", breaking them onto a stray line. Instruction
+  // + content splits are handled by an explicit \n in questionText instead.
   // Split at ? when followed by the actual sentence to complete (e.g. "Rewrite into...")
   result = result.replace(/\?\s+([A-Z])/g, '?\n\n$1')
   // Split at ?" or ?' when followed by an instruction (e.g. ?" Rewrite into indirect speech.)
