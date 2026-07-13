@@ -15388,5 +15388,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) \"well, Why don't you Read the Book?\" — 'well' lowercase ആയത് തെറ്റാണ് (sentence തുടക്കത്തിൽ capital വേണം); 'Why', 'Read', 'Book' അനാവശ്യമായി capitalize ചെയ്തതും തെറ്റാണ്.\n• (B) \"Well, Why don't you read the book.\" — 'Why' അനാവശ്യമായി capitalize ചെയ്തു; ഏറ്റവും പ്രധാനമായി ഇത് ഒരു ചോദ്യമായിട്ടും അവസാനം full stop ('.') ഉപയോഗിച്ചത് തെറ്റാണ്, '?' വേണം.\n• (D) \"well? Why don't you read the book!\" — 'well' lowercase ആയതും, comma-ക്ക് പകരം '?' ഉപയോഗിച്ചതും, statement-ന് exclamation ('!') ഉപയോഗിച്ചതും എല്ലാം തെറ്റാണ്.\n• 🪤 PSC Trap: Capital letter-ഉം punctuation mark-ഉം ഒരേസമയം പല സ്ഥലങ്ങളിൽ മാറ്റി options ഉണ്ടാക്കിയാണ് confuse ചെയ്യിക്കുന്നത് — ഓരോ വാക്കും സൂക്ഷ്മമായി പരിശോധിക്കണം.",
       "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"ഒരു CAPITAL മാത്രം, ബാക്കി SMALL, ചോദ്യത്തിന് '?' FULL!\" — sentence-ൽ ആദ്യ അക്ഷരം മാത്രം വലുതാക്കുക.\n• Word family: interjections — Well, Oh, Alas, Hurrah — ഇവയ്ക്ക് ശേഷം comma വരുന്ന rule ഒരുമിച്ച് ഓർക്കുക.\n• PSC exam strategy: Punctuation ചോദ്യങ്ങളിൽ മൂന്ന് കാര്യങ്ങൾ check ചെയ്യുക — (1) ആദ്യ അക്ഷരം മാത്രം capital ആണോ, (2) interjection-ന് ശേഷം comma ഉണ്ടോ, (3) sentence type (question/statement/exclamation)-ന് അനുസൃതമായ punctuation mark ആണോ അവസാനം."
     }
+  },
+  {
+    "id": "149-2025-M-Q81",
+    "paperId": "149-2025-M",
+    "questionNumber": 81,
+    "topic": "Parts of Speech",
+    "questionText": "Oh! I just forgot to bring the book.\n\nIdentify the part of speech of the underlined word.",
+    "optionA": "Conjunction",
+    "optionB": "Interjection",
+    "optionC": "Adverb",
+    "optionD": "Pronoun",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Interjection\n• 'Oh!' എന്ന വാക്ക് പെട്ടെന്നുള്ള വികാരം (surprise, regret, realization) പ്രകടിപ്പിക്കാൻ ഉപയോഗിക്കുന്ന ഒരു ഉദ്ഘോഷ പദമാണ് — ഇത് sentence-ന്റെ ബാക്കി ഭാഗവുമായി വ്യാകരണപരമായി ബന്ധപ്പെട്ടിട്ടില്ല.\n• Interjection എന്നാൽ പെട്ടെന്നുള്ള വികാരം പ്രകടിപ്പിക്കുന്ന, സാധാരണയായി exclamation mark (!) ഒപ്പം വരുന്ന വാക്ക്/ശബ്ദം എന്നർത്ഥം — 'Oh!', 'Wow!', 'Alas!' എല്ലാം ഇതിന് ഉദാഹരണങ്ങളാണ്.\n• 'അയ്യോ! ഞാൻ പുസ്തകം കൊണ്ടുവരാൻ മറന്നു' എന്നർത്ഥം — 'Oh!' ഇവിടെ ഖേദം/realization പ്രകടിപ്പിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: പെട്ടെന്നുള്ള വികാരം + '!' ചിഹ്നം → Interjection!\n• Interjection ഒരു independent word ആണ് — sentence-ന്റെ subject, verb, object എന്നിവയുമായി ഘടനാപരമായ ബന്ധം ഇല്ല; ഇത് വെറും വികാര പ്രകടനം മാത്രമാണ്.\n• Related word group: Oh! (ഖേദം/ആശ്ചര്യം), Wow! (ആശ്ചര്യം), Alas! (ദുഃഖം), Hurrah! (സന്തോഷം), Ouch! (വേദന) — എല്ലാം common interjections ആണ്.\n• ⭐ PSC ആവർത്തനം: Parts of Speech identify ചെയ്യുന്ന ചോദ്യങ്ങൾ, പ്രത്യേകിച്ച് interjection, PSC-യിൽ പതിവായി ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. Wow! What a beautiful sunset. (ആശ്ചര്യം പ്രകടിപ്പിക്കുന്ന interjection)\n2. Alas! She lost her way. (ദുഃഖം പ്രകടിപ്പിക്കുന്ന interjection)\n3. Hurrah! We won the match. (സന്തോഷം പ്രകടിപ്പിക്കുന്ന interjection)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Conjunction — Conjunction എന്നാൽ വാക്യങ്ങളെ/വാക്കുകളെ ബന്ധിപ്പിക്കുന്ന വാക്കാണ് (and, but, or); 'Oh!' ഒന്നിനെയും ബന്ധിപ്പിക്കുന്നില്ല.\n• (C) Adverb — Adverb ക്രിയയെ/adjective-നെ describe ചെയ്യുന്ന വാക്കാണ്; 'Oh!' sentence-ലെ ഒരു verb-നെയും modify ചെയ്യുന്നില്ല.\n• (D) Pronoun — Pronoun noun-ന് പകരം ഉപയോഗിക്കുന്ന വാക്കാണ് (he, she, it); 'Oh!' ഒരു noun-നെയും replace ചെയ്യുന്നില്ല.\n• 🪤 PSC Trap: '!' ചിഹ്നം കണ്ട് Adverb ആയി തെറ്റിദ്ധരിക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണിയാണിത് — exclamation mark interjection-ന്റെ അടയാളമാണ്, adverb-ന്റെയല്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"'!' കണ്ടാൽ INTERJECTION ഓർക്കൂ, വികാരം മാത്രം പ്രകടിപ്പിക്കുന്ന ഒറ്റ വാക്ക്!\"\n• Word family: Oh, Wow, Alas, Hurrah, Ouch, Hush — ഇവയെല്ലാം common interjections ആയി ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Underlined word sentence-ന്റെ തുടക്കത്തിൽ ഒറ്റപ്പെട്ട് നിൽക്കുകയും '!' ചിഹ്നത്തോടെ വരികയും ചെയ്താൽ അത് മിക്കവാറും Interjection ആയിരിക്കും — ഇത് ഓർത്താൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "149-2025-M-Q82",
+    "paperId": "149-2025-M",
+    "questionNumber": 82,
+    "topic": "Prepositions",
+    "questionText": "Choose the correct pair of prepositions to complete the sentence :\n\nThe documentary will be screened ______ the Conference Hall ______ the second floor tomorrow.",
+    "optionA": "'in' and 'on'",
+    "optionB": "'at' and 'in'",
+    "optionC": "'on' and 'at'",
+    "optionD": "'in' and 'at'",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) 'in' and 'on'\n• 'Conference Hall' എന്നത് ഒരു അടച്ച സ്ഥലം (enclosed space) ആയതിനാൽ അതിന് മുന്നിൽ 'in' വരും — 'in the Conference Hall'.\n• 'Second floor' എന്നത് ഒരു നിലം/level ആയതിനാൽ അതിന് മുന്നിൽ 'on' വരും — 'on the second floor', floor-ന്റെ surface-നെ സൂചിപ്പിക്കുന്നു.\n• 'ഡോക്യുമെന്ററി നാളെ രണ്ടാം നിലയിലെ Conference Hall-ൽ പ്രദർശിപ്പിക്കും' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: അടച്ച സ്ഥലത്തിന് (enclosed space) → IN | നിലം/Surface-ന് → ON!\n• മുറി, ഹാൾ, കെട്ടിടം പോലുള്ള അടച്ച സ്ഥലങ്ങൾക്ക് മുന്നിൽ 'in' ഉപയോഗിക്കും; നിലം (floor), മേൽക്കൂര, മേശ പോലുള്ള ഉപരിതലങ്ങൾക്ക് (surfaces) മുന്നിൽ 'on' ഉപയോഗിക്കും.\n• അടുത്ത ബന്ധുക്കൾ: മുറിയിൽ (in the room), ഹാളിൽ (in the hall), കെട്ടിടത്തിൽ (in the building) — ഇവയെല്ലാം 'in' എടുക്കും | നിലത്ത് (on the floor), മേശപ്പുറത്ത് (on the table), മേൽക്കൂരയിൽ (on the roof) — ഇവയെല്ലാം 'on' എടുക്കും.\n• ⭐ PSC ആവർത്തനം: രണ്ട് prepositions ഒരുമിച്ച് ചോദിക്കുന്ന ഈ pattern PSC-യിൽ വളരെ പതിവായി വരുന്നു!\n• ഉദാഹരണ sentences:\n1. യോഗം മൂന്നാം നിലയിലെ ഓഡിറ്റോറിയത്തിൽ നടക്കും. (ഓഡിറ്റോറിയത്തിന് in, നിലത്തിന് on)\n2. അവൾ താഴത്തെ നിലയിലെ ഓഫീസിൽ ജോലി ചെയ്യുന്നു. (ഓഫീസിന് in, നിലത്തിന് on)\n3. പുസ്തകം മുകളിലെ അലമാരയിലെ ഷെൽഫിൽ ഉണ്ട്. (അലമാരയ്ക്ക് in, ഷെൽഫിന് on)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) 'at' and 'in' — 'At' ഒരു point/location സൂചിപ്പിക്കുന്നു (at the door); ഇത് Conference Hall-ന്റെ enclosed nature-നെ correct ആയി കാണിക്കില്ല. 'in' floor-ന് ചേരില്ല.\n• (C) 'on' and 'at' — Conference Hall-ന് 'on' ചേരില്ല (enclosed space-ന് 'in' വേണം); floor-ന് 'at' ചേരില്ല.\n• (D) 'in' and 'at' — Conference Hall-ന് 'in' ശരിയാണ്, പക്ഷേ floor-ന് 'at' അല്ല 'on' ആണ് ശരി.\n• 🪤 PSC Trap: 'at' എപ്പോഴും location-ന് ചേരും എന്ന് തെറ്റിദ്ധരിക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണിയാണിത് — 'floor' എപ്പോഴും 'on' ആണ് എടുക്കുന്നത് എന്ന് ഓർക്കണം.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"ഹാളിനുള്ളിൽ IN, നിലത്തിന് മുകളിൽ ON!\" — അടച്ച സ്ഥലത്തിന് അകത്ത് (IN), നിലം/surface-ന് മുകളിൽ (ON) എന്ന് ചിത്രീകരിച്ച് ഓർക്കുക.\n• Word family: മുറി, ഹാൾ, നഗരം, കാർ (അടച്ച സ്ഥലങ്ങൾ → IN) | നിലം, മേശ, ചുമര്, ബസ്സ് (ഉപരിതലങ്ങൾ → ON) — ഇവ രണ്ട് ഗ്രൂപ്പുകളായി മനഃപാഠമാക്കുക.\n• PSC exam strategy: രണ്ട് blank ഉള്ള preposition ചോദ്യങ്ങളിൽ ഓരോ blank-ന് ശേഷമുള്ള noun-ഉം വെവ്വേറെ പരിശോധിക്കുക — അടച്ച സ്ഥലമാണോ ഉപരിതലമാണോ എന്ന് നോക്കി preposition ഉറപ്പിക്കുക, ഇത് ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "149-2025-M-Q83",
+    "paperId": "149-2025-M",
+    "questionNumber": 83,
+    "topic": "Tenses",
+    "questionText": "Use the correct tense form to complete the given sentence :\n\nThey ______ the club a year ago.",
+    "optionA": "has joined",
+    "optionB": "joins",
+    "optionC": "joined",
+    "optionD": "join",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) joined\n• 'A year ago' എന്ന time phrase വ്യക്തമായി ഭൂതകാലത്തെ (past time) സൂചിപ്പിക്കുന്നു — അതിനാൽ Simple Past Tense ('joined') ആണ് ശരിയായ ഉത്തരം.\n• 'Ago' എന്ന word എപ്പോഴും ഒരു നിശ്ചിത ഭൂതകാല സമയത്തെ സൂചിപ്പിക്കുന്നു, അതിനാൽ Simple Past മാത്രമേ ഇതിനോടൊപ്പം ചേരൂ.\n• 'അവർ ഒരു വർഷം മുൻപ് ക്ലബ്ബിൽ ചേർന്നു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'AGO' കണ്ടാൽ Simple Past ഉറപ്പിക്കുക (yesterday/last week/a year ago + V2)!\n• 'Ago' എപ്പോഴും ഒരു നിശ്ചിത ഭൂതകാല point-നെ സൂചിപ്പിക്കുന്ന signal word ആണ് — 'a year ago', 'two days ago', 'an hour ago' എല്ലാം Simple Past Tense-നെ ആവശ്യപ്പെടുന്നു.\n• Related word group: yesterday, last week, last year, ago, in 2020 — എല്ലാം Simple Past-ന്റെ signal words ആണ്.\n• ⭐ PSC ആവർത്തനം: Time signal words നോക്കി correct tense തിരഞ്ഞെടുക്കുന്ന ചോദ്യങ്ങൾ PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിച്ച് വരുന്ന topic ആണ്!\n• ഉദാഹരണ sentences:\n1. She left the office an hour ago. (ഒരു മണിക്കൂർ മുൻപ് പോയി — Simple Past)\n2. They visited Kerala two years ago. (രണ്ട് വർഷം മുൻപ് സന്ദർശിച്ചു — Simple Past)\n3. He finished the work a week ago. (ഒരു ആഴ്ച മുൻപ് പണി തീർത്തു — Simple Past)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) has joined — ഇത് Present Perfect ആണ്; Present Perfect-ന് നിശ്ചിത ഭൂതകാല സമയം ('a year ago') ചേർക്കാൻ പാടില്ല എന്ന അടിസ്ഥാന നിയമം ലംഘിക്കുന്നു.\n• 🪤 PSC Trap: 'has/have' + past participle ശരിയായി തോന്നുമെങ്കിലും, 'ago' പോലുള്ള definite time marker ഉള്ളപ്പോൾ ഇത് ഒരിക്കലും ഉപയോഗിക്കാൻ പാടില്ല — ഇത് ഏറ്റവും സാധാരണ PSC trap ആണ്.\n• (B) joins — ഇത് Simple Present ആണ്; ഭൂതകാല സൂചന ('a year ago') ഉള്ളപ്പോൾ ഇത് tense mismatch ആണ്.\n• (D) join — ഇത് base form ആണ്, ഒരു tense-ഉം സൂചിപ്പിക്കുന്നില്ല; ഭൂതകാല context-ന് ഇത് ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"AGO കണ്ടാൽ HAS/HAVE മറക്കൂ, SIMPLE PAST ഓർക്കൂ!\" — 'ago' ഒപ്പം Present Perfect ഒരിക്കലും വരില്ല എന്ന് ഉറപ്പിക്കുക.\n• Word family: ഇന്നലെ (yesterday), കഴിഞ്ഞ ആഴ്ച (last week), കഴിഞ്ഞ വർഷം (last year), ഒരു വർഷം മുൻപ് (a year ago) — ഇവയെല്ലാം കൃത്യമായ ഭൂതകാല സൂചനകൾ ആണ്, Simple Past മാത്രം ആവശ്യപ്പെടുന്നു.\n• PSC exam strategy: വാക്യത്തിൽ 'ago' കണ്ടാൽ ഉടനെ Present Perfect ('has/have') ഒഴിവാക്കി Simple Past തിരഞ്ഞെടുക്കുക — ഇത് ഒരിക്കലും തെറ്റാത്ത ഒരു fixed നിയമമാണ്, guaranteed mark!"
+    }
+  },
+  {
+    "id": "149-2025-M-Q84",
+    "paperId": "149-2025-M",
+    "questionNumber": 84,
+    "topic": "Idioms",
+    "questionText": "Fill in the blank using the correct word to complete the idiom :\n\nA bolt from the ______.",
+    "optionA": "green",
+    "optionB": "yellow",
+    "optionC": "brown",
+    "optionD": "blue",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) blue\n• 'A bolt from the blue' എന്ന idiom-ന്റെ അർത്ഥം പെട്ടെന്നുള്ള, പ്രതീക്ഷിക്കാത്ത ഞെട്ടിക്കുന്ന സംഭവം (a sudden, unexpected shock) എന്നാണ്.\n• 'Blue' ഇവിടെ തെളിഞ്ഞ ആകാശത്തെ (clear blue sky) സൂചിപ്പിക്കുന്നു — മേഘമില്ലാത്ത ആകാശത്ത് നിന്ന് പെട്ടെന്ന് ഇടിമിന്നൽ വരുന്നത് പോലെ അപ്രതീക്ഷിതമായ സംഭവം എന്നർത്ഥം.\n• 'ആ വാർത്ത ആകാശത്ത് നിന്ന് ഒരു ഇടിമിന്നൽ പോലെ (പെട്ടെന്നുള്ള ഞെട്ടൽ) ആയിരുന്നു' എന്ന അർത്ഥത്തിൽ ഈ idiom ഉപയോഗിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: A BOLT FROM THE BLUE = പെട്ടെന്നുള്ള ഞെട്ടിക്കുന്ന സംഭവം (sudden shock)!\n• Idiom-കൾ അക്ഷരാർത്ഥത്തിൽ അല്ല, മൊത്തത്തിലുള്ള figurative അർത്ഥത്തിലാണ് മനസ്സിലാക്കേണ്ടത് — 'blue sky' (തെളിഞ്ഞ ആകാശം) + 'bolt' (ഇടിമിന്നൽ) ചേർന്നാൽ അപ്രതീക്ഷിത ഞെട്ടൽ എന്നർത്ഥം.\n• Related idiom family: out of the blue (പെട്ടെന്ന്, മുന്നറിയിപ്പില്ലാതെ), a bolt from the blue (ഞെട്ടിക്കുന്ന വാർത്ത) — രണ്ടും 'blue' എന്ന colour idiom family-യിൽ പെടുന്നു.\n• ⭐ PSC ആവർത്തനം: Colour-based idioms (blue, green, red) PSC-യിൽ പതിവായി ചോദിക്കുന്ന ഒരു category ആണ്!\n• ഉദാഹരണ sentences:\n1. His resignation came as a bolt from the blue. (അവന്റെ രാജി ഞെട്ടിക്കുന്ന വാർത്തയായിരുന്നു)\n2. The news of her death was a bolt from the blue for everyone. (എല്ലാവർക്കും ഞെട്ടലായിരുന്നു)\n3. He appeared out of the blue after ten years. (പത്ത് വർഷത്തിന് ശേഷം പെട്ടെന്ന് പ്രത്യക്ഷപ്പെട്ടു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) green — 'Green' ഉള്ള idioms (green with envy - അസൂയ, green light - അനുമതി) വ്യത്യസ്ത അർത്ഥങ്ങൾ നൽകുന്നു; 'bolt from the green' എന്ന idiom നിലവിലില്ല.\n• (B) yellow — 'Yellow' ഭീരുത്വത്തെ (yellow-bellied = ഭീരു) സൂചിപ്പിക്കുന്ന idioms-ൽ ഉപയോഗിക്കുന്നു; ഈ idiom-മായി ബന്ധമില്ല.\n• (C) brown — 'Brown' ഉപയോഗിച്ചുള്ള ഈ idiom നിലവിലില്ല; ഇത് just ഒരു distractor option ആണ്.\n• 🪤 PSC Trap: നാല് നിറങ്ങളും (green, yellow, brown, blue) options ആയി നൽകി, കൃത്യമായി idiom അറിയാത്തവരെ ആശയക്കുഴപ്പത്തിലാക്കുന്ന ക്ലാസിക് കെണിയാണിത് — ഈ fixed idiom കൃത്യമായി ഓർത്തിരിക്കണം.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"തെളിഞ്ഞ BLUE ആകാശത്ത് നിന്ന് പെട്ടെന്ന് ഇടിമിന്നൽ — അതാണ് ഞെട്ടൽ!\" — ചിത്രമായി മനസ്സിൽ കാണുക.\n• Word family: a bolt from the blue (ഞെട്ടൽ), out of the blue (പെട്ടെന്ന്), once in a blue moon (അപൂർവ്വമായി) — 'blue' idiom family ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Colour idioms fixed expressions ആണ് — സ്വന്തമായി ഊഹിക്കാൻ ശ്രമിക്കാതെ, ഓരോ idiom-ഉം അതിന്റെ കൃത്യമായ നിറത്തോടെ ഓർത്തിരിക്കുക, ഇത് guaranteed mark നൽകും."
+    }
+  },
+  {
+    "id": "149-2025-M-Q85",
+    "paperId": "149-2025-M",
+    "questionNumber": 85,
+    "topic": "Active and Passive Voice",
+    "questionText": "Convert the following sentence from active voice into passive voice form and choose the correct answer :\n\nThey selected him.",
+    "optionA": "He had been selected by them",
+    "optionB": "He was selected by them",
+    "optionC": "He has been selected by them",
+    "optionD": "He is selected by them",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) He was selected by them\n• Active voice-ലെ 'selected' Simple Past ആണ് — Passive voice-ൽ ഇത് 'was/were + past participle' ('was selected') ആയി മാറ്റണം, Active tense-ന് അനുസൃതമായി തന്നെ.\n• Object 'him' (singular) subject ആയി മാറുമ്പോൾ 'he' ആയി മാറും, singular ആയതിനാൽ 'was' (singular be-verb) ഉപയോഗിക്കണം.\n• 'അവരാൽ അവൻ തിരഞ്ഞെടുക്കപ്പെട്ടു' എന്നർത്ഥം — 'they selected him' എന്ന active sentence-ന്റെ passive രൂപം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ACTIVE-ലെ കാലം (TENSE) എന്തോ, PASSIVE-ലും അതേ കാലം തന്നെ വരണം!\n• Active voice-ലെ Simple Past ('selected') Passive voice-ൽ 'was/were + past participle' ('was selected') ആയി മാറും — കാലം മാറില്ല, ഘടന മാത്രം മാറും.\n• കർത്താവ് (ഇവിടെ 'him' → 'he') ഏകവചനം ആയതിനാൽ ഏകവചന be-verb ('was') ഉപയോഗിക്കണം; ബഹുവചനം ആയിരുന്നെങ്കിൽ 'were' വേണമായിരുന്നു.\n• ⭐ PSC ആവർത്തനം: Active-Passive voice മാറ്റം PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിച്ച് വരുന്ന grammar topic ആണ്!\n• ഉദാഹരണ sentences:\n1. അവർ കള്ളനെ പിടികൂടി. → കള്ളൻ അവരാൽ പിടികൂടപ്പെട്ടു. (Simple Past → was + V3)\n2. അവൾ കത്ത് എഴുതി. → കത്ത് അവളാൽ എഴുതപ്പെട്ടു.\n3. അവൻ ഞങ്ങളെ ക്ഷണിച്ചു. → ഞങ്ങൾ അവനാൽ ക്ഷണിക്കപ്പെട്ടു. (ബഹുവചന കർത്താവ് → were)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) He had been selected by them — ഇത് Past Perfect passive ('had been') ആണ്; Active sentence Simple Past ('selected') ആയതിനാൽ ഇത് അധികമായി ഒരു tense പിന്നിലേക്ക് പോയ തെറ്റാണ്.\n• 🪤 PSC Trap: 'had been' കൂടുതൽ formal/correct ആയി തോന്നുമെങ്കിലും, ഇത് Active tense-മായി match ചെയ്യാത്തതിനാൽ തെറ്റാണ് — tense മാറ്റരുത് എന്ന നിയമം ലംഘിക്കുന്നു.\n• (C) He has been selected by them — ഇത് Present Perfect passive ആണ്; Active Simple Past-ന് ഇത് ചേരില്ല.\n• (D) He is selected by them — ഇത് Simple Present passive ആണ്; Active Simple Past-ന് ഇത് tense mismatch ആണ്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"SELECTED (ഭൂതകാലം) → WAS SELECTED (ഭൂതകാല Passive), കാലം മാറില്ല!\"\n• Word family: was/were + V3 (Simple Past-ന്റെ passive), is/are + V3 (Simple Present-ന്റെ passive), had been + V3 (Past Perfect-ന്റെ passive), has/have been + V3 (Present Perfect-ന്റെ passive) — നാലും വേർതിരിച്ചറിയുക.\n• PSC exam strategy: Passive voice ചോദ്യങ്ങളിൽ ആദ്യം active sentence-ന്റെ കൃത്യമായ കാലം (tense) കണ്ടെത്തുക, എന്നിട്ട് അതേ കാലത്തിന്റെ passive ഘടന മാത്രം തിരഞ്ഞെടുക്കുക — അധികമായി 'had been'/'has been' ഉള്ള options-ൽ വീഴരുത്."
+    }
+  },
+  {
+    "id": "149-2025-M-Q86",
+    "paperId": "149-2025-M",
+    "questionNumber": 86,
+    "topic": "Spelling",
+    "questionText": "Find out the incorrectly spelled word from the options given below :",
+    "optionA": "Venture",
+    "optionB": "Entrepreneur",
+    "optionC": "Sucour",
+    "optionD": "Etiquette",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Sucour\n• ശരിയായ spelling 'succour' ആണ് — രണ്ട് 'c' (succour) വേണം, ഒറ്റ 'c' (sucour) തെറ്റാണ്.\n• 'Succour' എന്നാൽ 'ബുദ്ധിമുട്ടിലുള്ള ഒരാൾക്ക് നൽകുന്ന സഹായം/ആശ്വാസം' (help/assistance in times of distress) എന്നർത്ഥം — Latin 'succurrere' (സഹായത്തിന് ഓടിയെത്തുക) എന്നതിൽ നിന്നാണ് വന്നത്.\n• 'sucour' എന്ന spelling നിലവിലില്ലാത്ത, തെറ്റായ ഒരു രൂപമാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: SUCC-OUR (double C വേണം), ഒറ്റ C അല്ല!\n• Spelling ചോദ്യങ്ങളിൽ double letters (cc, ss, mm) വിട്ടുപോകുന്നത് ഏറ്റവും സാധാരണ തെറ്റാണ് — 'succour', 'success', 'accommodate' എല്ലാം double letter ശ്രദ്ധിക്കേണ്ട വാക്കുകളാണ്.\n• Related word group: succeed, success, succumb, succour — എല്ലാം 'suc-' + double 'c' pattern പങ്കിടുന്ന Latin-derived വാക്കുകൾ.\n• ⭐ PSC ആവർത്തനം: Spelling ചോദ്യങ്ങൾ എല്ലാ PSC പേപ്പറിലും സ്ഥിരമായി വരുന്ന ഒരു category ആണ്!\n• Etymology hint: Latin 'succurrere' (sub + currere = ഓടി സഹായത്തിനെത്തുക) എന്നതിൽ നിന്നാണ് 'succour' ഉണ്ടായത്.\n• ഉദാഹരണ sentences:\n1. The refugees sought succour from the government. (സർക്കാരിൽ നിന്ന് സഹായം തേടി)\n2. She gave succour to the wounded soldiers. (മുറിവേറ്റ സൈനികർക്ക് സഹായം നൽകി)\n3. He succeeded in his mission. ('succ-' pattern ഉള്ള മറ്റൊരു വാക്ക്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Venture — ഇത് ശരിയായ spelling ആണ്; 'സാഹസികമായ സംരംഭം' എന്നർത്ഥം.\n• (B) Entrepreneur — ഇത് ശരിയായ spelling ആണ്; 'സംരംഭകൻ' എന്നർത്ഥം, French വാക്കാണ്.\n• (D) Etiquette — ഇത് ശരിയായ spelling ആണ്; 'മര്യാദ/സാമൂഹിക ചട്ടങ്ങൾ' എന്നർത്ഥം.\n• 🪤 PSC Trap: Double letter (cc) വിട്ടുപോയ 'sucour' കാഴ്ചയിൽ ശരിയായി തോന്നിക്കും — സൂക്ഷ്മമായി അക്ഷരങ്ങൾ എണ്ണി പരിശോധിക്കാത്തവരെ വീഴ്ത്താനുള്ള കെണിയാണിത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"SUCCOUR-ന് രണ്ട് C വേണം, ഓടി സഹായത്തിന് എത്തുന്ന വാക്ക്!\" — 'succeed', 'success' പോലെ double C ഓർക്കുക.\n• Word family: succeed, success, succumb, succour — 'suc-' + double 'c' pattern ഉള്ള വാക്കുകൾ ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Spelling ചോദ്യങ്ങളിൽ double letters ഉള്ള വാക്കുകൾ പ്രത്യേകം ശ്രദ്ധിക്കുക — 'cc', 'ss', 'mm', 'nn' എന്നിവ വിട്ടുപോയോ എന്ന് സൂക്ഷ്മമായി പരിശോധിക്കുക."
+    }
+  },
+  {
+    "id": "149-2025-M-Q87",
+    "paperId": "149-2025-M",
+    "questionNumber": 87,
+    "topic": "Idioms",
+    "questionText": "Find out the idiom which means, 'decide or agree to stop doing something'.",
+    "optionA": "beat around the bush",
+    "optionB": "hit the nail on the head",
+    "optionC": "miss the boat",
+    "optionD": "call it a day",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) call it a day\n• 'Call it a day' എന്ന idiom-ന്റെ അർത്ഥം ഒരു പ്രവൃത്തി ചെയ്യുന്നത് നിർത്താൻ തീരുമാനിക്കുക/സമ്മതിക്കുക (decide or agree to stop doing something) എന്നാണ് — ഇത് ചോദ്യത്തിലെ definition-മായി കൃത്യമായി ചേരുന്നു.\n• സാധാരണയായി ജോലി ചെയ്യുന്നതിനിടയിൽ, കൂടുതൽ തുടരാതെ അന്നത്തേക്ക് നിർത്താൻ തീരുമാനിക്കുമ്പോൾ ഈ idiom ഉപയോഗിക്കുന്നു.\n• 'നമുക്ക് ഇന്നത്തേക്ക് ഇത് മതിയാക്കാം' എന്ന അർത്ഥത്തിലാണ് 'let's call it a day' എന്ന് പറയുന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: CALL IT A DAY = ജോലി/പ്രവൃത്തി നിർത്താൻ തീരുമാനിക്കുക!\n• Idiom-കൾ definition അനുസരിച്ച് match ചെയ്യുമ്പോൾ key words ശ്രദ്ധിക്കുക — 'decide/agree to stop' എന്നത് 'call it a day'-യുടെ കൃത്യമായ അർത്ഥമാണ്.\n• Related idiom family: call it a day (നിർത്താൻ തീരുമാനിക്കുക), call it quits (പൂർണ്ണമായി നിർത്തുക), wrap up (പൂർത്തിയാക്കുക).\n• ⭐ PSC ആവർത്തനം: Idiom meaning match ചെയ്യുന്ന ചോദ്യങ്ങൾ PSC-യിൽ ആവർത്തിച്ച് വരുന്ന ഒരു category ആണ്!\n• ഉദാഹരണ sentences:\n1. After working for eight hours, they decided to call it a day. (എട്ട് മണിക്കൂർ ജോലിക്ക് ശേഷം അന്നത്തേക്ക് നിർത്തി)\n2. Let's call it a day and continue tomorrow. (ഇന്ന് നിർത്തി നാളെ തുടരാം)\n3. The workers called it a day due to heavy rain. (കനത്ത മഴ കാരണം ജോലി നിർത്തി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) beat around the bush — 'നേരിട്ട് കാര്യം പറയാതെ ചുറ്റിവളച്ച് സംസാരിക്കുക' എന്നർത്ഥം; നിർത്താൻ തീരുമാനിക്കുന്നതുമായി ബന്ധമില്ല.\n• (B) hit the nail on the head — 'കൃത്യമായി ശരിയായ കാര്യം പറയുക/ചെയ്യുക' എന്നർത്ഥം; ഇതും നിർത്തലുമായി ബന്ധപ്പെട്ടതല്ല.\n• (C) miss the boat — 'ഒരു അവസരം നഷ്ടപ്പെടുത്തുക' എന്നർത്ഥം; നിർത്താൻ തീരുമാനിക്കുന്നതല്ല, അവസരം കൈവിടുന്നതാണ് ഇതിന്റെ അർത്ഥം.\n• 🪤 PSC Trap: നാല് common idioms ഒരുമിച്ച് നൽകി, ഓരോന്നിന്റെയും കൃത്യമായ അർത്ഥം അറിയാത്തവരെ ആശയക്കുഴപ്പത്തിലാക്കുന്ന ക്ലാസിക് കെണിയാണിത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"DAY തീർന്നു, CALL IT A DAY!\" — ജോലി നിർത്തുമ്പോൾ 'ഇന്നത്തെ ദിവസം ഇവിടെ അവസാനിപ്പിക്കുന്നു' എന്ന ചിത്രം മനസ്സിൽ കാണുക.\n• Word family: call it a day (നിർത്തുക), call it quits (പൂർണ്ണമായി അവസാനിപ്പിക്കുക), wrap up (പൂർത്തിയാക്കുക), pack up (ജോലി അവസാനിപ്പിക്കുക).\n• PSC exam strategy: Idiom definition ചോദ്യങ്ങളിൽ definition-ലെ key verb ('stop', 'decide', 'agree') ശ്രദ്ധിക്കുക — അതിനോട് ഏറ്റവും അടുത്ത് നിൽക്കുന്ന idiom തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "149-2025-M-Q88",
+    "paperId": "149-2025-M",
+    "questionNumber": 88,
+    "topic": "Synonyms",
+    "questionText": "Which of the following is not a synonym for the word 'assuage'?",
+    "optionA": "soothe",
+    "optionB": "alleviate",
+    "optionC": "mitigate",
+    "optionD": "aggravate",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) aggravate\n• 'Assuage' എന്നാൽ 'ശമിപ്പിക്കുക/ആശ്വാസം നൽകുക' (to soothe, relieve, or ease pain/distress) എന്നർത്ഥം — soothe, alleviate, mitigate എല്ലാം ഇതേ അർത്ഥം പങ്കിടുന്ന synonyms ആണ്.\n• 'Aggravate' എന്നാൽ 'കൂടുതൽ വഷളാക്കുക/രൂക്ഷമാക്കുക' (to make worse) എന്നാണ് അർത്ഥം — ഇത് 'assuage'-ന്റെ വിപരീത പദം (antonym) ആണ്, synonym അല്ല.\n• അതിനാൽ 'assuage'-ന്റെ synonym അല്ലാത്തത് 'aggravate' ആണ് എന്നതാണ് ഈ ചോദ്യത്തിന്റെ ശരിയുത്തരം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ASSUAGE = ശമിപ്പിക്കുക (soothe) | AGGRAVATE = വഷളാക്കുക (worsen) — ഇവ രണ്ടും വിപരീതങ്ങൾ!\n• 'Not a synonym' ചോദ്യങ്ങളിൽ ബാക്കി മൂന്ന് options ഒരേ അർത്ഥമുള്ളവയും, ഒരു option മാത്രം വിപരീത അർത്ഥമുള്ളതും ആയിരിക്കും — ഈ odd-one-out identify ചെയ്യുകയാണ് വേണ്ടത്.\n• Related word group: soothe, alleviate, mitigate, assuage, pacify — എല്ലാം 'ശമിപ്പിക്കുക' എന്ന അർത്ഥം പങ്കിടുന്നു; aggravate, worsen, exacerbate — 'വഷളാക്കുക' എന്ന എതിർ അർത്ഥം പങ്കിടുന്നു.\n• ⭐ PSC ആവർത്തനം: 'Which is NOT a synonym' എന്ന format-ലുള്ള ചോദ്യങ്ങൾ PSC-യിൽ പതിവായി ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. The medicine helped assuage his pain. (മരുന്ന് വേദന ശമിപ്പിച്ചു)\n2. Her words aggravated the situation. (അവളുടെ വാക്കുകൾ സ്ഥിതി വഷളാക്കി)\n3. He tried to mitigate the damage. (നാശനഷ്ടം കുറയ്ക്കാൻ ശ്രമിച്ചു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) soothe — ഇത് 'assuage'-ന്റെ ശരിയായ synonym ആണ്; 'ശാന്തമാക്കുക/ആശ്വസിപ്പിക്കുക' എന്നർത്ഥം.\n• (B) alleviate — ഇത് 'assuage'-ന്റെ ശരിയായ synonym ആണ്; 'ലഘൂകരിക്കുക/കുറയ്ക്കുക' എന്നർത്ഥം.\n• (C) mitigate — ഇത് 'assuage'-ന്റെ ശരിയായ synonym ആണ്; 'തീവ്രത കുറയ്ക്കുക' എന്നർത്ഥം.\n• 🪤 PSC Trap: നാല് options-ൽ മൂന്നും ശരിക്കും synonyms ആയതിനാൽ, 'not a synonym' എന്ന negative phrasing ശ്രദ്ധിക്കാതെ ആദ്യം കാണുന്ന synonym തിരഞ്ഞെടുക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണിയാണിത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"ASSUAGE ശാന്തമാക്കും, AGGRAVATE വഷളാക്കും — ഇവ രണ്ടും എതിരാളികൾ!\"\n• Word family: soothe, alleviate, mitigate, pacify, assuage (ശമിപ്പിക്കൽ) ↔ aggravate, worsen, exacerbate, intensify (വഷളാക്കൽ) — രണ്ട് ഗ്രൂപ്പുകളായി പഠിക്കുക.\n• PSC exam strategy: 'Which is NOT a synonym' ചോദ്യങ്ങളിൽ ആദ്യം 'NOT' എന്ന വാക്ക് അടിവരയിടുക — ബാക്കി options-ന്റെ common meaning കണ്ടെത്തി, അതിൽ നിന്ന് വ്യത്യസ്തമായ ഒന്ന് തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "149-2025-M-Q89",
+    "paperId": "149-2025-M",
+    "questionNumber": 89,
+    "topic": "Word Formation",
+    "questionText": "______ is an example for an onomatopoeic word.",
+    "optionA": "Dale",
+    "optionB": "Splash",
+    "optionC": "Love",
+    "optionD": "Good",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Splash\n• 'Splash' എന്ന വാക്ക് അതിന്റെ ഉച്ചാരണം തന്നെ ജലം തെറിക്കുന്ന ശബ്ദത്തെ അനുകരിക്കുന്നു — ഇതാണ് onomatopoeia (ശബ്ദാനുകരണ പദം) എന്ന് പറയുന്നത്.\n• Onomatopoeic words എന്നാൽ ആ വാക്ക് ഉച്ചരിക്കുമ്പോൾ തന്നെ അത് സൂചിപ്പിക്കുന്ന ശബ്ദം കേൾക്കുന്നത് പോലെ തോന്നുന്ന വാക്കുകൾ ആണ് — 'splash', 'buzz', 'crash' എല്ലാം ഉദാഹരണങ്ങളാണ്.\n• മറ്റ് മൂന്ന് options (Dale, Love, Good) സാധാരണ വാക്കുകൾ ആണ്, അവയ്ക്ക് ശബ്ദാനുകരണ സ്വഭാവം ഇല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ONOMATOPOEIA = വാക്കിന്റെ ശബ്ദം തന്നെ അതിന്റെ അർത്ഥത്തെ അനുകരിക്കുന്ന പദം!\n• ഒരു വാക്ക് ഉച്ചരിക്കുമ്പോൾ അത് സൂചിപ്പിക്കുന്ന യഥാർത്ഥ ശബ്ദവുമായി സാമ്യമുണ്ടെങ്കിൽ അത് onomatopoeic word ആണ് — 'splash' (വെള്ളം തെറിക്കുന്ന ശബ്ദം), 'buzz' (ഈച്ചയുടെ മൂളൽ), 'crash' (ഇടിയുന്ന ശബ്ദം).\n• Related word group: splash, buzz, crash, hiss, bang, meow, moo, click — എല്ലാം ശബ്ദത്തെ അനുകരിക്കുന്ന onomatopoeic words ആണ്.\n• ⭐ PSC ആവർത്തനം: Onomatopoeia identify ചെയ്യുന്ന ചോദ്യങ്ങൾ Word Formation topic-ന്റെ ഭാഗമായി PSC-യിൽ വരാറുണ്ട്!\n• ഉദാഹരണ sentences:\n1. The bees buzz around the flowers. (ഈച്ചയുടെ മൂളൽ ശബ്ദം അനുകരിക്കുന്നു)\n2. The plate fell with a crash. (ഇടിയുന്ന ശബ്ദം അനുകരിക്കുന്നു)\n3. The snake hissed loudly. (പാമ്പിന്റെ ശബ്ദം അനുകരിക്കുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Dale — ഇത് 'താഴ്‌വര' എന്നർത്ഥമുള്ള ഒരു സാധാരണ noun ആണ്; ശബ്ദവുമായി ഒരു ബന്ധവുമില്ല.\n• (C) Love — ഇത് ഒരു വികാരത്തെ സൂചിപ്പിക്കുന്ന abstract noun ആണ്; ശബ്ദാനുകരണം ഇതിലില്ല.\n• (D) Good — ഇത് ഒരു adjective ആണ്, ഗുണത്തെ സൂചിപ്പിക്കുന്നു; ശബ്ദവുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: സാധാരണ വാക്കുകൾക്കിടയിൽ ഒരു onomatopoeic word olഒളിപ്പിച്ചു വച്ച്, definition ശ്രദ്ധിക്കാതെ ഊഹിക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണിയാണിത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"SPLASH പറയുമ്പോൾ വെള്ളം തെറിക്കുന്ന ശബ്ദം കേൾക്കുന്നത് പോലെ തോന്നണം — അതാണ് ONOMATOPOEIA!\"\n• Word family: splash, buzz, crash, bang, hiss, meow, click, tick-tock — ശബ്ദാനുകരണ പദങ്ങൾ ഒരുമിച്ച് പട്ടികപ്പെടുത്തി പഠിക്കുക.\n• PSC exam strategy: Onomatopoeia ചോദ്യങ്ങളിൽ ഓരോ option-ഉം ഉറക്കെ ഉച്ചരിച്ചുനോക്കുക — ഏത് വാക്കാണ് ഒരു യഥാർത്ഥ ശബ്ദത്തെ അനുകരിക്കുന്നത് എന്ന് കണ്ടെത്തുക, അതാണ് ഉത്തരം."
+    }
+  },
+  {
+    "id": "149-2025-M-Q90",
+    "paperId": "149-2025-M",
+    "questionNumber": 90,
+    "topic": "Conditionals",
+    "questionText": "Choose the correct conditional clause to complete the sentence.\n\n______, they would have won the match.",
+    "optionA": "If they had played well",
+    "optionB": "If they have played well",
+    "optionC": "If they played well",
+    "optionD": "If they play well",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) If they had played well\n• Main clause 'they would have won the match' എന്നത് Third Conditional-ന്റെ structure ('would have + past participle') ആണ് — ഇതിന് ചേരുന്ന if-clause 'If + Past Perfect' ('had played') ആയിരിക്കണം.\n• Third Conditional ഭൂതകാലത്ത് സംഭവിക്കാത്ത ഒരു കാര്യത്തെക്കുറിച്ചുള്ള സങ്കൽപ്പം (hypothetical past situation) പ്രകടിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു — 'അവർ നന്നായി കളിച്ചിരുന്നെങ്കിൽ' എന്നത് യാഥാർത്ഥ്യത്തിന് വിപരീതമായ ഒരു ഭൂതകാല സാധ്യതയാണ്.\n• 'അവർ നന്നായി കളിച്ചിരുന്നെങ്കിൽ, അവർ മത്സരം ജയിക്കുമായിരുന്നു' എന്നർത്ഥം — യാഥാർത്ഥ്യത്തിൽ അവർ നന്നായി കളിച്ചില്ല, അതിനാൽ ജയിച്ചതുമില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: IF + HAD + V3 (Past Perfect) → WOULD HAVE + V3 (Third Conditional)!\n• Third Conditional ഭൂതകാലത്ത് സംഭവിക്കാത്ത, ഇപ്പോൾ മാറ്റാൻ കഴിയാത്ത ഒരു സാഹചര്യത്തെ സൂചിപ്പിക്കുന്നു — if-clause-ൽ Past Perfect ('had + V3'), main clause-ൽ 'would have + V3' എന്ന ഘടന കൃത്യമായി പാലിക്കണം.\n• Related structure: First Conditional (If + Present, will + V1), Second Conditional (If + Past, would + V1), Third Conditional (If + Past Perfect, would have + V3).\n• ⭐ PSC ആവർത്തനം: Conditional sentences, പ്രത്യേകിച്ച് Third Conditional, PSC-യിൽ ആവർത്തിച്ച് ചോദിക്കുന്ന ഒരു topic ആണ്!\n• ഉദാഹരണ sentences:\n1. If she had studied hard, she would have passed the exam. (നന്നായി പഠിച്ചിരുന്നെങ്കിൽ പാസ്സാകുമായിരുന്നു)\n2. If I had known earlier, I would have helped you. (നേരത്തെ അറിഞ്ഞിരുന്നെങ്കിൽ സഹായിക്കുമായിരുന്നു)\n3. If they had left on time, they would have caught the train. (സമയത്ത് പുറപ്പെട്ടിരുന്നെങ്കിൽ ട്രെയിൻ പിടിക്കുമായിരുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) If they have played well — 'Have played' Present Perfect ആണ്; Third Conditional-ന് if-clause-ൽ Past Perfect ('had played') വേണം, ഇവിടെ 'have' ഉപയോഗിച്ചത് ഘടനാപരമായ തെറ്റാണ്.\n• (C) If they played well — ഇത് Second Conditional-ന്റെ ഘടനയാണ് ('If + Simple Past'); ഇതിന് main clause-ൽ 'would' (without 'have') മാത്രം ചേരും, എന്നാൽ ഇവിടെ main clause 'would have won' ആയതിനാൽ ഇത് കാലത്തിന്റെ പൊരുത്തക്കേടാണ്.\n• (D) If they play well — ഇത് First Conditional-ന്റെ ഘടനയാണ് ('If + Simple Present'); ഭൂതകാലത്തെക്കുറിച്ചുള്ള സങ്കൽപ്പ സാഹചര്യത്തിന് ഇത് ഒട്ടും ചേരില്ല.\n• 🪤 PSC Trap: Main clause 'would have won' ശ്രദ്ധിക്കാതെ if-clause മാത്രം നോക്കി തിരഞ്ഞെടുക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണിയാണിത് — main clause-ന്റെ ഘടന കണ്ട് conditional തരം തിരിച്ചറിയണം.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"WOULD HAVE WON കണ്ടാൽ HAD PLAYED ഓർക്കുക — അതാണ് THIRD CONDITIONAL!\" — main clause നോക്കി if-clause തീരുമാനിക്കുക.\n• Word family: ഒന്നാം conditional (If+Present, will+V1), രണ്ടാം conditional (If+Past, would+V1), മൂന്നാം conditional (If+Had+V3, would have+V3) — ഈ മൂന്ന് തരങ്ങളും ഒരു table ആയി മനഃപാഠമാക്കുക.\n• PSC exam strategy: Conditional ചോദ്യങ്ങളിൽ ആദ്യം main clause-ന്റെ ഘടന ('would have', 'will', 'would') ശ്രദ്ധിക്കുക — അതിൽ നിന്ന് conditional തരം തിരിച്ചറിഞ്ഞ് ശരിയായ if-clause തിരഞ്ഞെടുക്കുക, ഇത് ഒരിക്കലും miss ആകാത്ത guaranteed mark ആണ്!"
+    }
   }
 ]
