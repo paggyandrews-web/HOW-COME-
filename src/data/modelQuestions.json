@@ -211,7 +211,13 @@
     "optionB": "is preparing",
     "optionC": "prepared",
     "optionD": "has been preparing",
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) has been preparing\n\n• 'since January' — ജനുവരിയിൽ തുടങ്ങി, ഇപ്പോഴും തുടരുന്ന പ്രവൃത്തി → Present Perfect Continuous.\n• has/have been + V-ing എന്നതാണ് ഈ tense-ന്റെ ഘടന; 'prepare' ഒരു action verb ആയതിനാൽ '-ing' form ചേരും.\n• 'രമേശ് ജനുവരി മുതൽ PSC പരീക്ഷയ്ക്ക് തയ്യാറെടുത്തുകൊണ്ടിരിക്കുകയാണ്' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: since/for + ഇപ്പോഴും തുടരുന്ന action → has/have been + V-ing!\n• തുടങ്ങിയ സമയം മുതൽ ഇപ്പോഴും നടന്നുകൊണ്ടിരിക്കുന്ന പ്രവൃത്തിക്കാണ് ഈ tense.\n• since = തുടക്കം (since January, since 2020); for = കാലയളവ് (for six months).\n• ⭐ PSC ആവർത്തനം: 'since + മാസം/വർഷം' കൊടുത്തുള്ള ചോദ്യം PSC-യുടെ പതിവ് രീതിയാണ്!\n• ഉദാഹരണ sentences:\n1. It has been raining since morning. (രാവിലെ മുതൽ പെയ്തുകൊണ്ടിരിക്കുന്നു)\n2. She has been working here for five years. (അഞ്ച് വർഷമായി ജോലി ചെയ്യുന്നു)\n3. They have been waiting since 10 a.m. (പത്ത് മണി മുതൽ കാത്തിരിക്കുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) prepares — ദിവസേനയുള്ള ശീലത്തിന് മാത്രം; 'since January' എന്ന തുടർച്ചയുടെ ആശയം കിട്ടില്ല.\n\n• (B) is preparing — ഇപ്പോൾ നടക്കുന്നു എന്ന് മാത്രം പറയുന്നു; എപ്പോൾ തുടങ്ങി എന്ന 'since'-ന്റെ ബന്ധം ഇല്ല.\n• 🪤 PSC Trap: 'is preparing' ശരിപോലെ തോന്നും — പക്ഷേ since ഉള്ളപ്പോൾ perfect continuous വേണം!\n\n• (C) prepared — past tense; ഇപ്പോഴും തുടരുന്ന തയ്യാറെടുപ്പിന് പറ്റില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"since/for കണ്ടാൽ, തുടരുന്നുവെങ്കിൽ — has been + ing\" — 'തുടരുന്നു' എന്ന വാക്കിനൊപ്പം been-ഉം ing-ഉം ഓർമ്മയിൽ വരട്ടെ!\n• Rule family: since morning / since January / for two hours — ഇവയെല്ലാം ഒരേ കുടുംബത്തിലെ വാക്കുകളാണ്; ഒരുമിച്ച് പഠിച്ചാൽ എളുപ്പം.\n• PSC strategy: ചോദ്യത്തിലെ verb പ്രവൃത്തിയാണെങ്കിൽ (action) has/have been + ing തിരയുക; അറിവ്/സ്നേഹം പോലുള്ള അവസ്ഥയാണെങ്കിൽ (stative) has/have + V3 മതി. ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q12",
@@ -225,7 +231,13 @@
     "optionB": "She returned from Chennai last week.",
     "optionC": "She returns from Chennai last week.",
     "optionD": "She had returned from Chennai last week.",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) She returned from Chennai last week.\n\n• 'last week' എന്ന കൃത്യമായ past time ഉള്ളതിനാൽ Simple Past (returned) ആണ് ശരി.\n• കൃത്യമായ സമയം പറയുമ്പോൾ present perfect (has returned) ഉപയോഗിക്കരുത് — ഇതാണ് ഇവിടത്തെ പരീക്ഷിക്കുന്ന നിയമം.\n• 'അവൾ കഴിഞ്ഞ ആഴ്ച ചെന്നൈയിൽ നിന്ന് മടങ്ങിവന്നു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: കൃത്യമായ past time + has/have + V3 = എപ്പോഴും തെറ്റ്!\n• 'last week, yesterday, ago, in 2019' — ഇവയോടൊപ്പം V2 മാത്രമേ വരൂ.\n• ഈ നിയമം ഓർത്താൽ 'correct sentence' ചോദ്യങ്ങളിൽ പാതി ഉത്തരം കിട്ടും.\n• ⭐ PSC ആവർത്തനം: 'has + V3 + yesterday/last week' എന്ന തെറ്റ് കണ്ടുപിടിക്കാനുള്ള ചോദ്യം PSC-യിൽ സ്ഥിരമാണ്!\n• ഉദാഹരണ sentences:\n1. I met him yesterday. (ശരി — met + yesterday)\n2. She has met him. (ശരി — സമയം പറയുന്നില്ല)\n3. She has met him yesterday. (തെറ്റ് — has + yesterday ചേരില്ല!)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) She has returned from Chennai last week. — present perfect + 'last week' ഒരിക്കലും ചേരില്ല; ഇതാണ് ഏറ്റവും സാധാരണ തെറ്റ്.\n• 🪤 PSC Trap: ഈ option കേൾക്കാൻ ഏറ്റവും 'പോളിഷ്ഡ്' ആയി തോന്നും — അതുതന്നെയാണ് കെണി!\n\n• (C) She returns from Chennai last week. — present tense + past time; ഒട്ടും ചേരില്ല.\n\n• (D) She had returned from Chennai last week. — past perfect-ന് മറ്റൊരു past സംഭവം കൂടി വേണം; ഇവിടെ ഇല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"has/have-ഉം yesterday-യും ശത്രുക്കളാണ് — ഒരിക്കലും ഒരുമിച്ച് നിൽക്കില്ല!\" എന്ന ചിത്രം മനസ്സിൽ വരയ്ക്കൂ.\n• Rule family: yesterday / last week / ago / in 2019 + V2 — ഈ കൂട്ടുകെട്ട് ഉറപ്പിക്കുക.\n• PSC strategy: 'correct sentence' ചോദ്യത്തിൽ ആദ്യം time expression തിരയുക; പിന്നെ അതിനോട് ചേരുന്ന tense ഏതെന്ന് നോക്കുക. ഒരിക്കലും miss ആകില്ല!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q13",
@@ -239,7 +251,13 @@
     "optionB": "begin",
     "optionC": "would begin",
     "optionD": "would have begun",
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) will begin\n\n• 'If the monsoon arrives' — if clause-ൽ Simple Present; അപ്പോൾ main clause-ൽ will + V1 → Conditional Type 1.\n• യഥാർത്ഥത്തിൽ നടക്കാൻ സാധ്യതയുള്ള ഭാവി കാര്യമാണ് Type 1 പറയുന്നത് — മഴ വന്നാൽ വിത നടക്കും, തീർച്ച.\n• 'മൺസൂൺ കൃത്യസമയത്ത് എത്തിയാൽ കർഷകർ ജൂണിൽ വിത ആരംഭിക്കും' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Type 1 = If + Simple Present → will + V1!\n• നടക്കാൻ നല്ല സാധ്യതയുള്ള ഭാവി കാര്യങ്ങൾക്കാണ് Type 1 ഉപയോഗിക്കുന്നത്.\n• If clause-ൽ ഒരിക്കലും 'will' വരില്ല — ഇത് പ്രത്യേകം ഓർക്കുക.\n• ⭐ PSC ആവർത്തനം: മൂന്ന് conditional types-ഉം മാറിമാറി PSC ചോദിക്കുന്നു — Type 1 ഏറ്റവും എളുപ്പം!\n• ഉദാഹരണ sentences:\n1. If it rains, we will stay at home. (മഴ വന്നാൽ വീട്ടിലിരിക്കും)\n2. If you study well, you will pass. (നന്നായി പഠിച്ചാൽ ജയിക്കും)\n3. She will come if you invite her. (ക്ഷണിച്ചാൽ അവൾ വരും)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) begin — main clause-ൽ വെറും present വന്നാൽ ഭാവി അർത്ഥം കിട്ടില്ല; 'will' നിർബന്ധം.\n\n• (C) would begin — Type 2-ന്റെ form; if clause-ൽ past (arrived) വേണം അതിന്.\n• 🪤 PSC Trap: would-ഉം will-ഉം മാറ്റി വീഴ്ത്തുന്നത് conditionals-ലെ ഏറ്റവും വലിയ കെണി!\n\n• (D) would have begun — Type 3-ന്റെ form; if clause-ൽ had + V3 വേണം അതിന്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Present കണ്ടാൽ will, Past കണ്ടാൽ would, had+V3 കണ്ടാൽ would have\" — ഈ മൂന്ന് ജോഡികൾ ഒരു പാട്ടായി പഠിക്കൂ!\n• Rule family: Type 1 (real future), Type 2 (സങ്കൽപ്പം), Type 3 (നടക്കാതെ പോയത്) — മൂന്നും ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: conditional ചോദ്യത്തിൽ ആദ്യം if clause-ലെ tense നോക്കുക — അതാണ് ഉത്തരത്തിലേക്കുള്ള നേർവഴി. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q14",
@@ -253,7 +271,13 @@
     "optionB": "will hurry",
     "optionC": "hurried",
     "optionD": "would hurry",
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) hurry\n\n• 'unless' = if not (ഇല്ലെങ്കിൽ); unless clause-ൽ Simple Present ആണ് വരേണ്ടത് — will വരില്ല.\n• 'unless you hurry' = 'നീ വേഗം പോയില്ലെങ്കിൽ' — ഇത് Type 1 conditional-ന്റെ negative രൂപമാണ്.\n• 'ഇപ്പോൾ വേഗം പോയില്ലെങ്കിൽ നിനക്ക് വണ്ടി നഷ്ടപ്പെടും' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: unless = if not; unless + Simple Present (will ഒരിക്കലും വരില്ല)!\n• unless-ൽ തന്നെ 'not' അടങ്ങിയിട്ടുള്ളതിനാൽ വീണ്ടും not ചേർക്കരുത് — 'unless you don't hurry' തെറ്റ്.\n• if clause / unless clause — രണ്ടിലും will വരില്ല എന്നത് പൊതു നിയമം.\n• ⭐ PSC ആവർത്തനം: unless ഉപയോഗിച്ചുള്ള ചോദ്യം PSC-യുടെ favourite trick ആണ്!\n• ഉദാഹരണ sentences:\n1. Unless you work hard, you will fail. (കഠിനാധ്വാനം ചെയ്തില്ലെങ്കിൽ തോൽക്കും)\n2. You will be late unless you leave now. (ഇപ്പോൾ ഇറങ്ങിയില്ലെങ്കിൽ വൈകും)\n3. Unless it rains, we will play. (മഴ പെയ്തില്ലെങ്കിൽ കളിക്കും)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) will hurry — unless/if clause-ൽ will വരില്ല; ഇത് ഇംഗ്ലീഷിലെ ഉറച്ച നിയമമാണ്.\n• 🪤 PSC Trap: main clause-ൽ 'will miss' കണ്ടതിനാൽ ഇവിടെയും will വേണമെന്ന് തോന്നും — അതാണ് കെണി!\n\n• (C) hurried — past tense വന്നാൽ Type 2 ആകും; പക്ഷേ main clause 'will miss' ആയതിനാൽ ചേരില്ല.\n\n• (D) would hurry — conditional form; unless clause-ൽ സ്ഥാനമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"unless-ന്റെ ഉള്ളിൽ തന്നെ NOT ഒളിച്ചിരിപ്പുണ്ട്\" — അതിനാൽ വീണ്ടും not-ഉം will-ഉം വേണ്ട!\n• Rule family: if / unless / in case / provided — ഇവയുടെയെല്ലാം clause-ൽ Simple Present.\n• PSC strategy: unless കണ്ടാൽ രണ്ട് കാര്യം ഉറപ്പിക്കുക — (1) പിന്നിൽ present tense, (2) not ചേർക്കരുത്. ഒരിക്കലും miss ആകില്ല!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q15",
@@ -267,7 +291,13 @@
     "optionB": "knew",
     "optionC": "had known",
     "optionD": "will know",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) knew\n\n• Main clause-ൽ 'would tell' കണ്ടോ? അതിനാൽ ഇത് Conditional Type 2 — if clause-ൽ Simple Past വേണം → knew.\n• Type 2 = ഇപ്പോഴത്തെ യാഥാർത്ഥ്യത്തിന് വിരുദ്ധമായ സങ്കൽപ്പം; ആനന്ദിന് ഉത്തരം അറിയില്ല എന്നതാണ് സത്യം.\n• 'ആനന്ദിന് ഉത്തരം അറിയാമായിരുന്നെങ്കിൽ അവൻ നമ്മളോട് പറയുമായിരുന്നു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Type 2 = If + Simple Past → would + V1!\n• ഇപ്പോൾ നടക്കാത്ത, സങ്കൽപ്പം മാത്രമായ കാര്യങ്ങൾക്കാണ് Type 2.\n• be verb ആണെങ്കിൽ എല്ലാ subject-നും 'were' — 'If I were you' എന്നത് ഓർക്കുക.\n• ⭐ PSC ആവർത്തനം: main clause-ലെ would കൊടുത്ത് if clause-ലെ tense ചോദിക്കുന്നത് സ്ഥിരം pattern!\n• ഉദാഹരണ sentences:\n1. If I had money, I would buy a car. (പണമുണ്ടായിരുന്നെങ്കിൽ വാങ്ങുമായിരുന്നു)\n2. If she lived nearby, she would visit us daily. (അടുത്തായിരുന്നെങ്കിൽ ദിവസവും വരുമായിരുന്നു)\n3. If we knew the truth, we would tell you. (സത്യം അറിയാമായിരുന്നെങ്കിൽ പറയുമായിരുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) knows — present tense; 'would tell' എന്ന Type 2 main clause-നോട് ചേരില്ല (Type 1 ആണെങ്കിൽ 'will tell' വേണം).\n• 🪤 PSC Trap: 'knows' സ്വാഭാവികമായി തോന്നും — main clause നോക്കാത്തവർ വീഴും!\n\n• (C) had known — Type 3-ന്റെ form; അപ്പോൾ main clause 'would have told' ആകണം.\n\n• (D) will know — if clause-ൽ will ഒരിക്കലും വരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"would കണ്ടാൽ പിന്നിലേക്ക് ഒരു ചുവട് — Past!\" — main clause-ലെ would ആണ് if clause-ലെ past-ന്റെ സൂചന.\n• Rule family: Type 2 ജോഡി — If + V2 ↔ would + V1; രണ്ടും എപ്പോഴും ഒരുമിച്ച്.\n• PSC strategy: conditional-ൽ ഒരു ഭാഗം തന്നിട്ട് മറ്റേ ഭാഗം ചോദിച്ചാൽ, തന്ന ഭാഗത്തിന്റെ type കണ്ടുപിടിക്കുക — ഉത്തരം താനേ വരും. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q16",
@@ -281,7 +311,13 @@
     "optionB": "walked",
     "optionC": "would walk",
     "optionD": "would have walked",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) would walk\n\n• 'If I lived near the beach' — if clause-ൽ Simple Past (lived) → Conditional Type 2 → main clause-ൽ would + V1.\n• യഥാർത്ഥത്തിൽ കടലിനടുത്തല്ല താമസം — വെറും സങ്കൽപ്പം; അതാണ് Type 2-ന്റെ ലക്ഷണം.\n• 'ഞാൻ കടപ്പുറത്തിനടുത്ത് താമസിച്ചിരുന്നെങ്കിൽ എന്നും രാവിലെ നടക്കുമായിരുന്നു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: If + Simple Past → would + V1 (Type 2)!\n• ഇപ്പോഴത്തെ അവസ്ഥയ്ക്ക് വിരുദ്ധമായ ആഗ്രഹങ്ങളും സങ്കൽപ്പങ്ങളും പറയാൻ Type 2.\n• would + base verb — 'would walked' എന്നൊന്നില്ല; would-ന് ശേഷം എപ്പോഴും V1.\n• ⭐ PSC ആവർത്തനം: 'If + lived/had/were' കൊടുത്തുള്ള Type 2 ചോദ്യങ്ങൾ പരീക്ഷകളിൽ പതിവാണ്!\n• ഉദാഹരണ sentences:\n1. If he had a bike, he would ride to college. (ബൈക്കുണ്ടായിരുന്നെങ്കിൽ പോകുമായിരുന്നു)\n2. If they invited me, I would attend. (ക്ഷണിച്ചിരുന്നെങ്കിൽ പങ്കെടുക്കുമായിരുന്നു)\n3. If I were rich, I would help the poor. (പണക്കാരനായിരുന്നെങ്കിൽ സഹായിക്കുമായിരുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) will walk — Type 1-ന്റെ form; if clause-ൽ present (live) വേണം അതിന്; ഇവിടെ 'lived' ആണ്.\n• 🪤 PSC Trap: will/would മാറ്റിയിടുന്നത് conditionals-ലെ ക്ലാസിക് കെണി!\n\n• (B) walked — main clause-ൽ വെറും past വന്നാൽ conditional അർത്ഥം കിട്ടില്ല; would നിർബന്ധം.\n\n• (D) would have walked — Type 3-ന്റെ form; if clause 'had lived' ആയിരുന്നെങ്കിൽ മാത്രം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"lived കണ്ടാൽ would, had lived കണ്ടാൽ would have\" — ഒരു ചുവട് പിന്നോട്ട്, ഒരു ചുവട് കൂടി പിന്നോട്ട്!\n• Rule family: Type 2 = സങ്കൽപ്പ കുടുംബം — If I were a bird തരം ചിന്തകൾ എല്ലാം ഇവിടെ.\n• PSC strategy: if clause-ലെ verb രൂപം മാത്രം നോക്കിയാൽ മതി — V2 എങ്കിൽ would + V1 ഉറപ്പ്. ഒരിക്കലും miss ആകില്ല!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q17",
@@ -295,7 +331,13 @@
     "optionB": "will not happen",
     "optionC": "would not have happened",
     "optionD": "did not happen",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) would not have happened\n\n• 'If the driver had noticed' — if clause-ൽ had + V3 → Conditional Type 3 → main clause-ൽ would have + V3.\n• Type 3 = കഴിഞ്ഞുപോയ, ഇനി മാറ്റാനാവാത്ത കാര്യം; അപകടം നടന്നുകഴിഞ്ഞു — സങ്കൽപ്പം മാത്രം.\n• 'ഡ്രൈവർ സിഗ്നൽ ശ്രദ്ധിച്ചിരുന്നെങ്കിൽ അപകടം സംഭവിക്കില്ലായിരുന്നു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Type 3 = If + had + V3 → would have + V3!\n• കഴിഞ്ഞകാലത്ത് നടക്കാതെ പോയ കാര്യങ്ങളെക്കുറിച്ചുള്ള ഖേദവും സങ്കൽപ്പവുമാണ് Type 3.\n• negative രൂപം: would not have + V3 — ഇവിടെ അതാണ് വേണ്ടത്.\n• ⭐ PSC ആവർത്തനം: Type 3 ആണ് conditionals-ൽ PSC ഏറ്റവും കൂടുതൽ ചോദിക്കുന്നത്!\n• ഉദാഹരണ sentences:\n1. If you had called me, I would have come. (വിളിച്ചിരുന്നെങ്കിൽ വരുമായിരുന്നു)\n2. If she had studied, she would have passed. (പഠിച്ചിരുന്നെങ്കിൽ ജയിക്കുമായിരുന്നു)\n3. If we had left early, we would not have missed the bus. (നേരത്തെ ഇറങ്ങിയിരുന്നെങ്കിൽ ബസ് നഷ്ടപ്പെടില്ലായിരുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) would not happen — Type 2-ന്റെ form; if clause-ൽ 'had noticed' ഉള്ളതിനാൽ Type 3 വേണം.\n• 🪤 PSC Trap: 'would not happen' ചെറുതും വൃത്തിയുള്ളതുമായി തോന്നും — had + V3 കാണാത്തവർ വീഴും!\n\n• (B) will not happen — Type 1; കഴിഞ്ഞുപോയ അപകടത്തിന് ഭാവി രൂപം പറ്റില്ല.\n\n• (D) did not happen — വെറും past negative; conditional അർത്ഥം ഇല്ലാതാകും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"had + V3 കണ്ടാൽ would have + V3\" — 'have' രണ്ടിടത്തും വരും എന്നോർക്കുക: had... would HAVE!\n• Rule family: Type 3 = ഖേദ കുടുംബം — 'അയ്യോ, അങ്ങനെ ചെയ്തിരുന്നെങ്കിൽ!' എന്ന ഭാവം.\n• PSC strategy: if clause-ൽ 'had + V3' കണ്ട നിമിഷം option-കളിൽ 'would have + V3' തിരയുക — മറ്റെല്ലാം വെട്ടിക്കളയാം. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q18",
@@ -309,7 +351,13 @@
     "optionB": "would attend",
     "optionC": "attended",
     "optionD": "would have attended",
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) would have attended\n\n• 'if she had reached on time' — had + V3 ഉള്ളതിനാൽ Type 3; main clause-ൽ would have + V3 → would have attended.\n• മീര സമയത്തിന് എത്തിയില്ല, ഇന്റർവ്യൂവിൽ പങ്കെടുത്തുമില്ല — രണ്ടും കഴിഞ്ഞുപോയ കാര്യങ്ങൾ.\n• 'സമയത്തിന് എത്തിയിരുന്നെങ്കിൽ മീര ഇന്റർവ്യൂവിൽ പങ്കെടുക്കുമായിരുന്നു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: If + had + V3 ↔ would have + V3 — ഈ ജോഡി ഒരിക്കലും പിരിയില്ല!\n• Main clause ആദ്യം വന്നാലും നിയമം മാറില്ല: 'She would have attended... if she had reached...'\n• Type 3-ൽ രണ്ട് ഭാഗത്തും past perfect ഘടകങ്ങൾ ഉണ്ടാകും — ഇത് തിരിച്ചറിയാനുള്ള എളുപ്പവഴി.\n• ⭐ PSC ആവർത്തനം: clause-കളുടെ ക്രമം മാറ്റി ചോദിച്ച് കുഴക്കുന്നത് PSC-യുടെ തന്ത്രമാണ്!\n• ഉദാഹരണ sentences:\n1. He would have won if he had practised more. (കൂടുതൽ പരിശീലിച്ചിരുന്നെങ്കിൽ ജയിക്കുമായിരുന്നു)\n2. We would have reached earlier if the road had been clear. (റോഡ് ഒഴിവായിരുന്നെങ്കിൽ നേരത്തെ എത്തുമായിരുന്നു)\n3. They would have called us if they had known. (അറിഞ്ഞിരുന്നെങ്കിൽ വിളിക്കുമായിരുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) will attend — Type 1 form; കഴിഞ്ഞുപോയ interview-ന് ഭാവി രൂപം ചേരില്ല.\n\n• (B) would attend — Type 2 form; if clause-ൽ 'reached' മാത്രമായിരുന്നെങ്കിൽ ശരിയാകുമായിരുന്നു; ഇവിടെ 'had reached' ആണ്.\n• 🪤 PSC Trap: would-ഉം would have-ഉം തമ്മിലുള്ള വ്യത്യാസമാണ് ഇവിടത്തെ യഥാർത്ഥ പരീക്ഷ!\n\n• (C) attended — വെറും past; conditional ബന്ധം നഷ്ടപ്പെടും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"had ഉണ്ടോ? എങ്കിൽ have-ഉം വേണം!\" — if-ൽ had കണ്ടാൽ ഉത്തരത്തിൽ would HAVE ഉറപ്പ്.\n• Rule family: Type 3 structures — clause order മാറിയാലും ജോഡി മാറില്ല.\n• PSC strategy: main clause ആദ്യം വന്ന ചോദ്യങ്ങളിൽ പേടിക്കേണ്ട — if clause കണ്ടുപിടിച്ച് tense നോക്കുക, അത്രമാത്രം. ഒരിക്കലും miss ആകില്ല!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q19",
@@ -323,7 +371,13 @@
     "optionB": "will be",
     "optionC": "is",
     "optionD": "would be",
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) would be\n\n• ഇത് Mixed Conditional ആണ് — if clause കഴിഞ്ഞകാലം (had saved), പക്ഷേ ഫലം ഇപ്പോഴത്തേത് ('now').\n• 'now' എന്ന വാക്കാണ് താക്കോൽ: ഫലം വർത്തമാനകാലത്തായതിനാൽ would have been അല്ല, would be ആണ് വേണ്ടത്.\n• 'ചെറുപ്പത്തിൽ പണം സൂക്ഷിച്ചിരുന്നെങ്കിൽ അയാൾ ഇപ്പോൾ സുഖമായി കഴിയുമായിരുന്നു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Past condition + Present result ('now') → If + had + V3 → would + V1!\n• സാധാരണ Type 3-ൽ ഫലവും past ആണ്; പക്ഷേ 'now' വന്നാൽ ഫലം present ആകും — അതാണ് Mixed Conditional.\n• 'now, today, still' — ഈ വാക്കുകൾ main clause-ൽ കണ്ടാൽ mixed conditional സംശയിക്കുക.\n• ⭐ PSC ആവർത്തനം: Mixed conditional കുറച്ച് hard ചോദ്യമാണ് — toppers-നെ വേർതിരിക്കാൻ PSC ഇത് ഉപയോഗിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. If I had taken that job, I would be rich now. (അന്ന് എടുത്തിരുന്നെങ്കിൽ ഇന്ന് പണക്കാരനാകുമായിരുന്നു)\n2. If she had caught the train, she would be here now. (അന്ന് കയറിയിരുന്നെങ്കിൽ ഇപ്പോൾ ഇവിടെ ഉണ്ടാകുമായിരുന്നു)\n3. If we had planted trees then, the town would be greener today. (അന്ന് നട്ടിരുന്നെങ്കിൽ ഇന്ന് പച്ചപ്പുണ്ടാകുമായിരുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) would have been — സാധാരണ Type 3 form; പക്ഷേ 'now' ഉള്ളതിനാൽ ഫലം present ആണ് — ഇവിടെയാണ് സൂക്ഷ്മത വേണ്ടത്.\n• 🪤 PSC Trap: 'had saved' കണ്ട ഉടനെ would have been തിരഞ്ഞെടുക്കും മിക്കവരും — 'now' ശ്രദ്ധിക്കാത്തതാണ് പ്രശ്നം!\n\n• (B) will be — Type 1 form; സങ്കൽപ്പത്തിന് will പറ്റില്ല.\n\n• (C) is — വെറും present; conditional അർത്ഥം പൂർണ്ണമായി നഷ്ടപ്പെടും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"'now' കണ്ടാൽ have വേണ്ട!\" — mixed conditional-ന്റെ രഹസ്യം ഈ ഒറ്റ വരിയിലുണ്ട്.\n• Rule family: Type 3 (past→past) vs Mixed (past→present) — ഈ ജോഡി താരതമ്യം ചെയ്ത് പഠിക്കുക.\n• PSC strategy: if + had + V3 കണ്ടാലും ഉടനെ ഉത്തരം അടിക്കരുത് — main clause-ൽ 'now/today' ഉണ്ടോ എന്ന് ഒന്ന് നോക്കുക. അതാണ് toppers-ന്റെ ശീലം!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q20",
@@ -337,7 +391,13 @@
     "optionB": "a",
     "optionC": "the",
     "optionD": "no article needed",
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) an\n\n• Article തീരുമാനിക്കുന്നത് അക്ഷരമല്ല, ശബ്ദമാണ് (sound, not letter)!\n• 'MLA' ഉച്ചരിക്കുന്നത് 'എം-എൽ-എ' എന്നാണ് — 'എം' എന്ന vowel sound-ൽ തുടങ്ങുന്നതിനാൽ 'an MLA'.\n• 'സുനിൽ ഞങ്ങളുടെ മണ്ഡലത്തിൽ നിന്നുള്ള ഒരു MLA ആണ്' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: a/an തീരുമാനിക്കുന്നത് ശബ്ദമാണ് (SOUND), അക്ഷരമല്ല (LETTER)!\n• അക്ഷരം consonant ആയാലും ഉച്ചാരണം സ്വരത്തിൽ തുടങ്ങിയാൽ → an: an MLA ('എം'), an hour ('ഔ'), an honest man ('ഓ').\n• അക്ഷരം vowel ആയാലും ഉച്ചാരണം വ്യഞ്ജനത്തിൽ തുടങ്ങിയാൽ → a: a university ('യൂ'), a European ('യൂ').\n• ⭐ PSC ആവർത്തനം: 'an MLA', 'an hour', 'a university' — ഈ മൂന്നും PSC മാറിമാറി ചോദിച്ചുകൊണ്ടേയിരിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. She met an M.P. yesterday. ('എം' എന്ന സ്വര ശബ്ദം → an)\n2. He is an S.I. of police. ('എസ്' എന്ന സ്വര ശബ്ദം → an)\n3. They waited for an hour. (h നിശ്ശബ്ദം, 'ഔ' ശബ്ദം → an)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) a — 'M' consonant letter ആണെന്ന് കരുതി 'a' ഇടുന്നതാണ് ഏറ്റവും സാധാരണ തെറ്റ്; ഉച്ചാരണം 'എം' ആയതിനാൽ an വേണം.\n• 🪤 PSC Trap: letter നോക്കുന്നവരെ വീഴ്ത്താനുള്ള classic കെണി — ചെവി കൊണ്ട് കേൾക്കൂ!\n\n• (C) the — ഏതെങ്കിലും specific MLA-യെ ചൂണ്ടിക്കാണിക്കുന്നില്ല; 'ഒരു' എന്ന അർത്ഥത്തിന് a/an വേണം.\n\n• (D) no article needed — singular countable noun-ന് article ഒഴിവാക്കാനാവില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ചെവി കൊണ്ട് കേൾക്കൂ, കണ്ണ് കൊണ്ട് നോക്കരുത്!' — MLA = 'എം' എന്ന് ഉറക്കെ പറഞ്ഞുനോക്കൂ; സ്വരം കേട്ടാൽ an ഉറപ്പ്.\n• Word family: an എടുക്കുന്ന abbreviations — an MLA, an M.P., an S.I., an X-ray, an FIR; a എടുക്കുന്നവ — a B.A., a Ph.D. ('ബി', 'പി' — consonant sounds... ശ്രദ്ധിക്കൂ: 'ബി' യഥാർത്ഥത്തിൽ consonant sound ആണ്).\n• PSC strategy: abbreviation കണ്ടാൽ അതിന്റെ ആദ്യ അക്ഷരം ഉറക്കെ ഉച്ചരിക്കുക — F, H, L, M, N, R, S, X എന്നിവ vowel sound തരും → an. ഒരിക്കലും miss ആകില്ല!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q21",
@@ -351,7 +411,13 @@
     "optionB": "an",
     "optionC": "the",
     "optionD": "no article needed",
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) a\n\n• 'used' എഴുതുന്നത് u-വിൽ ആണെങ്കിലും ഉച്ചാരണം 'യൂസ്ഡ്' എന്ന 'യ' ശബ്ദത്തിലാണ് തുടങ്ങുന്നത് — consonant sound → a.\n• Article തീരുമാനിക്കുന്നത് അക്ഷരമല്ല, ശബ്ദമാണ് — ഇതേ നിയമം തന്നെ ഇവിടെയും.\n• 'അവൾ അയൽക്കാരനിൽ നിന്ന് ഒരു പഴയ (used) കാർ വാങ്ങി' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'യ' ശബ്ദത്തിൽ തുടങ്ങുന്ന u-വാക്കുകൾക്ക് → a!\n• a used car, a university, a uniform, a useful book, a unit — ഇവയെല്ലാം 'യൂ' ശബ്ദ കുടുംബം.\n• u-വിൽ തുടങ്ങിയാലും 'അ' ശബ്ദമാണെങ്കിൽ an: an umbrella ('അം'), an uncle ('അം').\n• ⭐ PSC ആവർത്തനം: used/university/umbrella — ഈ ജോഡികൾ വച്ചുള്ള article ചോദ്യം പതിവാണ്!\n• ഉദാഹരണ sentences:\n1. He bought a used bike. ('യൂസ്ഡ്' — 'യ' ശബ്ദം → a)\n2. She carries an umbrella. ('അംബ്രല്ല' — 'അ' ശബ്ദം → an)\n3. Ravi joined a university in Kochi. ('യൂ' ശബ്ദം → a)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) an — 'u' എന്ന vowel letter കണ്ട് an ഇടുന്നതാണ് ക്ലാസിക് തെറ്റ്; ഉച്ചാരണം 'യ' ആയതിനാൽ an പറ്റില്ല.\n• 🪤 PSC Trap: letter മാത്രം നോക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണി — ചെവിയാണ് ഇവിടെ ജഡ്ജി!\n\n• (C) the — ഏതെങ്കിലും specific കാർ അല്ല; 'ഒരു' എന്ന അർത്ഥത്തിന് a വേണം.\n\n• (D) no article needed — singular countable noun (car) ആയതിനാൽ article നിർബന്ധം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"u കണ്ടാൽ ചോദിക്കൂ — 'യൂ' ആണോ 'അ' ആണോ?\" — 'യൂ' എങ്കിൽ a, 'അ' എങ്കിൽ an. ഇത്രയേ ഉള്ളൂ!\n• Word family: a-കുടുംബം (യൂ ശബ്ദം): used, university, uniform, useful | an-കുടുംബം (അ ശബ്ദം): umbrella, uncle, understanding.\n• PSC strategy: u-വാക്ക് കണ്ടാൽ ഒരു നിമിഷം മനസ്സിൽ ഉച്ചരിക്കുക — ആദ്യ ശബ്ദം തന്നെ ഉത്തരം പറയും. ഒരിക്കലും miss ആകില്ല!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q22",
@@ -365,7 +431,13 @@
     "optionB": "a",
     "optionC": "the",
     "optionD": "none of these",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) a\n\n• 'unique' ഉച്ചരിക്കുന്നത് 'യുനീക്' എന്നാണ് — 'യ' എന്ന consonant sound-ൽ തുടക്കം → a unique.\n• vowel letter (u) കണ്ടാലും ശബ്ദം നോക്കണം എന്ന അതേ sound rule തന്നെ.\n• 'അത് വിദ്യാർത്ഥികൾക്ക് ഒരു അപൂർവ്വ അനുഭവമായിരുന്നു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: unique = 'യുനീക്' എന്ന 'യ' ശബ്ദം → a unique!\n• 'യ' ശബ്ദത്തിൽ തുടങ്ങുന്ന വാക്കുകൾക്കെല്ലാം 'a' ആണ് വരുന്നത് — അക്ഷരം u ആയാലും ശരി.\n• ഇതേ കുടുംബത്തിലെ മറ്റ് അംഗങ്ങൾ: a university, a uniform, a used car, a European — എല്ലാം 'യൂ' ശബ്ദക്കാർ.\n• ⭐ PSC ആവർത്തനം: 'a unique' ശരിയോ 'an unique' ശരിയോ എന്ന ചോദ്യം PSC-യുടെ പ്രിയപ്പെട്ട trap ആണ്!\n• ഉദാഹരണ sentences:\n1. Kathakali is a unique art form of Kerala. ('യ' ശബ്ദം ആയതിനാൽ a)\n2. She has a unique way of teaching. (അവളുടേത് സവിശേഷമായ അധ്യാപന രീതി)\n3. This temple has a unique architecture. (ഈ ക്ഷേത്രത്തിന് അപൂർവ്വ വാസ്തുവിദ്യ)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) an — 'u' letter കണ്ടുള്ള പതിവ് തെറ്റ്; 'യ' ശബ്ദമായതിനാൽ an ചേരില്ല.\n• 🪤 PSC Trap: 'an unique' കാണാൻ ശരിപോലെ തോന്നും — sound rule അറിയാത്തവർ ഉറപ്പായും വീഴും!\n\n• (C) the — specific ആയ ഒന്നിനെ ചൂണ്ടിക്കാണിക്കുന്നില്ല; 'ഒരു' എന്ന അർത്ഥം വേണം.\n\n• (D) none of these — singular countable noun (experience ഇവിടെ countable ആയി ഉപയോഗിച്ചിരിക്കുന്നു) → article വേണം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"unique = യുനീക് = a\" — ഈ മൂന്ന് വാക്ക് ഒരു mantra പോലെ ഉരുവിടൂ!\n• Word family: a + യൂ ശബ്ദം: unique, university, uniform, union, useful — അഞ്ചും ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: u-വാക്കുകളിൽ സംശയം വന്നാൽ Malayalam-ൽ എഴുതി നോക്കൂ — 'യ'-യിൽ തുടങ്ങിയാൽ a, 'അ'-യിൽ തുടങ്ങിയാൽ an. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q23",
@@ -379,7 +451,13 @@
     "optionB": "An",
     "optionC": "The",
     "optionD": "No article needed",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) The\n\n• കടലുകൾ, നദികൾ, സമുദ്രങ്ങൾ, പർവ്വതനിരകൾ — ഇവയുടെ പേരിന് മുമ്പിൽ എപ്പോഴും 'The' വേണം.\n• The Arabian Sea, The Ganga, The Himalayas — ഇതെല്ലാം ഒരേ നിയമം.\n• 'അറബിക്കടൽ കേരളത്തിന്റെ പടിഞ്ഞാറ് ഭാഗത്താണ്' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: കടൽ/നദി/സമുദ്രം/പർവ്വതനിര/ദ്വീപസമൂഹം → The നിർബന്ധം!\n• The Arabian Sea, The Indian Ocean, The Periyar, The Western Ghats, The Lakshadweep Islands.\n• ഒറ്റ പർവ്വതത്തിനും ഒറ്റ ദ്വീപിനും the വേണ്ട: Mount Everest, Sri Lanka.\n• ⭐ PSC ആവർത്തനം: നദി/കടൽ പേരുകൾക്ക് മുമ്പിലെ The ചോദിക്കുന്നത് PSC-യുടെ സ്ഥിരം രീതി!\n• ഉദാഹരണ sentences:\n1. The Ganga is the longest river in India. (നദി → The)\n2. The Pacific Ocean is the largest ocean. (സമുദ്രം → The)\n3. The Nilgiris attract many tourists. (പർവ്വതനിര → The)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) A / (B) An — കടലിന്റെ പേര് ലോകത്ത് ഒന്നേയുള്ളൂ; 'ഒരു' എന്ന അർത്ഥം ഇവിടെ ചേരില്ല.\n\n• (D) No article needed — വ്യക്തികളുടെയും നഗരങ്ങളുടെയും പേരിന് article വേണ്ട, പക്ഷേ കടൽ/നദി പേരുകൾക്ക് The നിർബന്ധം.\n• 🪤 PSC Trap: 'Kerala-യ്ക്ക് article ഇല്ലല്ലോ, അപ്പോൾ Arabian Sea-യ്ക്കും വേണ്ട' എന്ന തെറ്റായ логика-യിൽ വീഴ്ത്താനുള്ള കെണി!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"വെള്ളമുള്ളിടത്തെല്ലാം The!\" — കടൽ, നദി, സമുദ്രം, കനാൽ — വെള്ളം കണ്ടാൽ The ഓർക്കുക.\n• Rule family: The + കടൽ/നദി/സമുദ്രം/പർവ്വതനിര | article ഇല്ലാതെ: രാജ്യം, നഗരം, ഒറ്റ പർവ്വതം, തടാകം (Lake Vembanad).\n• PSC strategy: സ്ഥലപ്പേര് ചോദ്യങ്ങളിൽ 'ഇത് വെള്ളമോ നിരയോ ആണോ?' എന്ന് ചോദിക്കുക — അതെ എങ്കിൽ The. ഒരിക്കലും miss ആകില്ല!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q24",
@@ -393,7 +471,13 @@
     "optionB": "An",
     "optionC": "The",
     "optionD": "No article needed",
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) No article needed\n\n• 'gold' ഒരു material noun ആണ് — പൊതുവായ അർത്ഥത്തിൽ പറയുമ്പോൾ article വേണ്ട.\n• സ്വർണ്ണം എന്ന ലോഹത്തെ മൊത്തത്തിൽ ഉദ്ദേശിക്കുന്നു — ഏതെങ്കിലും പ്രത്യേക സ്വർണ്ണമല്ല.\n• 'സ്വർണ്ണത്തിന് ഈയിടെ വില വളരെ കൂടിയിരിക്കുന്നു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ലോഹം/വസ്തു/ഗുണം പൊതു അർത്ഥത്തിൽ പറഞ്ഞാൽ → article വേണ്ടേ വേണ്ട (Zero article)!\n• സ്വർണ്ണം, വെള്ളം, പാൽ, അരി തുടങ്ങിയ material nouns പൊതുവായി പറയുമ്പോൾ article ഇല്ല.\n• പക്ഷേ പ്രത്യേകമായി ചൂണ്ടിക്കാണിച്ചാൽ The വരും: The gold in this ring is pure. (ഈ മോതിരത്തിലെ സ്വർണ്ണം എന്ന് specific ആയി)\n• ⭐ PSC ആവർത്തനം: material noun-ന്റെ zero article ചോദ്യം PSC-യിൽ ഇടയ്ക്കിടെ വരുന്നു!\n• ഉദാഹരണ sentences:\n1. Milk is good for health. (പാൽ പൊതുവായി പറഞ്ഞു — article ഇല്ല)\n2. Iron is a useful metal. (ഇരുമ്പ് പൊതുവായി — article ഇല്ല)\n3. The milk in this glass is cold. (ഈ ഗ്ലാസിലെ പാൽ — specific ആയതിനാൽ The)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) A / (B) An — material nouns എണ്ണാൻ പറ്റാത്തവയാണ് (uncountable); 'ഒരു സ്വർണ്ണം' എന്ന് പറയില്ലല്ലോ!\n\n• (C) The — specific ആയ സ്വർണ്ണത്തെക്കുറിച്ചല്ല ഇവിടെ; പൊതുവായ പ്രസ്താവനയാണ്.\n• 🪤 PSC Trap: 'The gold' കേൾക്കാൻ ശരിപോലെ തോന്നും — പക്ഷേ specific ചൂണ്ടിക്കാണിക്കൽ ഇല്ലെങ്കിൽ The വേണ്ട!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"പൊതുവായി പറഞ്ഞാൽ ഒന്നും വേണ്ട, ചൂണ്ടിക്കാണിച്ചാൽ The\" — ഈ വരി material nouns-ന്റെ താക്കോലാണ്.\n• Word family: article വേണ്ടാത്ത കൂട്ടർ — gold, silver, water, milk, rice, honesty, beauty, wisdom.\n• PSC strategy: noun എണ്ണാൻ പറ്റുമോ എന്ന് നോക്കുക — പറ്റില്ലെങ്കിൽ (uncountable) a/an ഉടനെ വെട്ടുക; പിന്നെ specific ആണോ എന്ന് മാത്രം നോക്കിയാൽ മതി. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q25",
@@ -407,7 +491,13 @@
     "optionB": "at",
     "optionC": "into",
     "optionD": "on",
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) on\n\n• 'insist' എന്ന verb-നോട് എപ്പോഴും ചേരുന്ന preposition 'on' ആണ് — insist on എന്നത് fixed collocation.\n• ഇത് മാറ്റാൻ പറ്റാത്ത ജോഡിയാണ് — വേറെ preposition വന്നാൽ തെറ്റ്.\n• 'മന്ത്രി ഉടനടി അന്വേഷണം വേണമെന്ന് നിർബന്ധിച്ചു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: insist ON — ഈ ജോഡി മാറില്ല, ചോദ്യം എങ്ങനെ വന്നാലും!\n• ഇംഗ്ലീഷിൽ ചില verb-കൾക്ക് നിശ്ചിത preposition ഉണ്ട് — ഇവയെ fixed collocations എന്ന് പറയുന്നു.\n• ON കുടുംബം: insist on, depend on, congratulate on, comment on, concentrate on.\n• ⭐ PSC ആവർത്തനം: insist on / depend on — ഈ രണ്ട് ജോഡികൾ PSC ചോദിക്കാത്ത വർഷം ചുരുക്കം!\n• ഉദാഹരണ sentences:\n1. She insisted on paying the bill. (അവൾ നിർബന്ധിച്ചു)\n2. Success depends on hard work. (വിജയം അധ്വാനത്തെ ആശ്രയിച്ചിരിക്കുന്നു)\n3. The teacher congratulated him on his victory. (വിജയത്തിൽ അഭിനന്ദിച്ചു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) for — 'ask for, wait for' എന്നിവയിൽ ശരി; insist-നോട് ചേരില്ല.\n• 🪤 PSC Trap: Malayalam-ൽ 'വേണ്ടി നിർബന്ധിച്ചു' എന്ന് ചിന്തിച്ചാൽ for തിരഞ്ഞെടുക്കും — അതാണ് കെണി!\n\n• (B) at — 'laugh at, look at' കുടുംബം; ഇവിടെ സ്ഥാനമില്ല.\n\n• (C) into — 'look into (അന്വേഷിക്കുക)' എന്നതിൽ ശരി; insist-നോട് ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"നിർബന്ധം ON ആണ്!\" — insist എന്ന വാക്കിനൊപ്പം ON എന്ന് ഒറ്റ ശ്വാസത്തിൽ പറഞ്ഞു പഠിക്കൂ.\n• Word family: ON കൂട്ടർ — insist on, depend on, congratulate on, comment on, rely on — അഞ്ചും ഒരു list ആയി പഠിക്കുക.\n• PSC strategy: preposition ചോദ്യങ്ങളിൽ Malayalam അർത്ഥം വച്ച് ഊഹിക്കരുത് — collocation list കാണാതെ പഠിക്കുന്നതാണ് ഏക വഴി. അത് ചെയ്താൽ guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q26",
@@ -421,7 +511,13 @@
     "optionB": "about",
     "optionC": "with",
     "optionD": "for",
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) for\n\n• 'famous' എന്ന adjective-നോട് ചേരുന്ന preposition 'for' ആണ് — famous for = '...-ന് പേരുകേട്ട'.\n• 'കേരളം കായലുകൾക്ക് പേരുകേട്ടതാണ്' എന്നർത്ഥം.\n• എന്തിന് പേരുകേട്ടു എന്ന് പറയുമ്പോൾ എപ്പോഴും for.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: famous FOR — എന്തിന് പേരുകേട്ടതാണോ, അതിന് മുമ്പിൽ for!\n• Adjective-ഉം preposition-ഉം ചേർന്ന ജോഡികൾ മാറ്റാൻ പറ്റാത്തവയാണ്: famous for, known for, good at, afraid of, proud of.\n• 'പേരുകേട്ടതിന്റെ കാരണം' പറയുന്നിടത്തെല്ലാം for വരും എന്നോർക്കുക.\n• ⭐ PSC ആവർത്തനം: famous for / known for ചോദ്യങ്ങൾ PSC-യിൽ വളരെ സാധാരണമാണ്!\n• ഉദാഹരണ sentences:\n1. Munnar is famous for its tea gardens. (തേയിലത്തോട്ടങ്ങൾക്ക് പേരുകേട്ടത്)\n2. He is famous for his honesty. (സത്യസന്ധതയ്ക്ക് പേരുകേട്ടയാൾ)\n3. Thrissur is known for its Pooram. (പൂരത്തിന് പേരുകേട്ട നഗരം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) of — 'proud of, afraid of' കുടുംബം; famous-നോട് ചേരില്ല.\n• 🪤 PSC Trap: 'famous of' എന്നത് കേൾക്കാൻ തെറ്റില്ലെന്ന് തോന്നും — പക്ഷേ ഇംഗ്ലീഷിൽ അങ്ങനെയൊരു പ്രയോഗമില്ല!\n\n• (B) about — 'worried about, curious about' കുടുംബം; ഇവിടെ സ്ഥാനമില്ല.\n\n• (C) with — 'popular with (ആരുടെ ഇടയിൽ പ്രിയം)' എന്നതിൽ ശരി; famous-നോട് ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"പേരുകേട്ടത് എന്തിനുവേണ്ടി? — FOR!\" — 'വേണ്ടി' എന്ന ചോദ്യത്തിന്റെ ഉത്തരമാണ് for.\n• Word family: famous for, known for, noted for, celebrated for — 'പേരുകേട്ട' കുടുംബം മുഴുവൻ for എടുക്കും.\n• PSC strategy: famous കണ്ടാൽ കണ്ണടച്ച് for — പക്ഷേ popular കണ്ടാൽ with എന്നും ഓർക്കുക. ഈ വ്യത്യാസം അറിഞ്ഞാൽ ഒരിക്കലും miss ആകില്ല!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q27",
@@ -435,7 +531,13 @@
     "optionB": "from",
     "optionC": "at",
     "optionD": "with",
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) of\n\n• 'afraid' എന്ന adjective-നോട് എപ്പോഴും ചേരുന്നത് 'of' ആണ് — afraid of = '...-നെ പേടിയുള്ള'.\n• 'കുട്ടിക്ക് ഇരുട്ടിനെ പേടിയാണ്' എന്നർത്ഥം.\n• പേടി എന്തിനോടാണോ, അതിന് മുമ്പിൽ of.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: afraid OF — പേടിയുടെ preposition എപ്പോഴും of!\n• OF കുടുംബം: afraid of, proud of, fond of, full of, aware of, tired of.\n• ഈ ആറ് ജോഡികൾ ഒരുമിച്ച് പഠിച്ചാൽ preposition ചോദ്യങ്ങളിൽ വലിയ മുന്നേറ്റം കിട്ടും.\n• ⭐ PSC ആവർത്തനം: afraid of / fond of / full of — ഈ മൂന്നും PSC-യുടെ എക്കാലത്തെയും പ്രിയപ്പെട്ടവ!\n• ഉദാഹരണ sentences:\n1. She is fond of sweets. (മധുരത്തോട് ഇഷ്ടം)\n2. The tank is full of water. (വെള്ളം നിറഞ്ഞ)\n3. He is proud of his daughter. (മകളിൽ അഭിമാനം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) from — 'suffer from, differ from' കുടുംബം; afraid-നോട് ചേരില്ല.\n• 🪤 PSC Trap: 'ഇരുട്ടിൽ നിന്ന് പേടി' എന്ന് Malayalam-ൽ ചിന്തിച്ചാൽ from തിരഞ്ഞെടുക്കും — അതാണ് കെണി!\n\n• (C) at — 'surprised at, good at' കുടുംബം; ഇവിടെ സ്ഥാനമില്ല.\n\n• (D) with — 'angry with, pleased with' കുടുംബം; afraid-നോട് ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"പേടിക്കും അഭിമാനത്തിനും ഇഷ്ടത്തിനും — എല്ലാം OF!\" (afraid of, proud of, fond of).\n• Word family: OF-കൂട്ടർ ആറുപേർ — afraid, proud, fond, full, aware, tired — ഇവരെ ഒരു ടീമായി ഓർക്കുക.\n• PSC strategy: feeling/അവസ്ഥ കാണിക്കുന്ന adjective കണ്ടാൽ ആദ്യം of പരിഗണിക്കുക — മിക്കപ്പോഴും അതാകും ഉത്തരം. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q28",
@@ -449,7 +551,13 @@
     "optionB": "about",
     "optionC": "at",
     "optionD": "over",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) at\n\n• 'laugh' എന്ന verb-നോട് ചേരുന്ന preposition 'at' ആണ് — laugh at = '...-നെ നോക്കി ചിരിക്കുക/പരിഹസിക്കുക'.\n• 'മറ്റുള്ളവരുടെ തെറ്റുകളെ നോക്കി നമ്മൾ ചിരിക്കരുത്' എന്നർത്ഥം.\n• ലക്ഷ്യത്തിലേക്ക് (target) നോക്കിയുള്ള പ്രവൃത്തികൾക്ക് at വരും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: laugh AT, look AT, aim AT — ലക്ഷ്യം വച്ചുള്ളതെല്ലാം AT!\n• AT കുടുംബം: laugh at, look at, stare at, shout at, aim at, surprised at.\n• ആരെയോ എന്തിനെയോ ലക്ഷ്യമാക്കിയുള്ള പ്രവൃത്തി — അതാണ് at-ന്റെ ആശയം.\n• ⭐ PSC ആവർത്തനം: laugh at / shout at ചോദ്യങ്ങൾ പരീക്ഷകളിൽ പതിവായി കാണാം!\n• ഉദാഹരണ sentences:\n1. Don't shout at the children. (കുട്ടികളോട് ഒച്ചയിടരുത്)\n2. Everyone stared at the stranger. (അപരിചിതനെ തുറിച്ചുനോക്കി)\n3. She looked at the painting for a long time. (ചിത്രത്തിലേക്ക് നോക്കി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) on — 'depend on, insist on' കുടുംബം; laugh-നോട് ചേരില്ല.\n\n• (B) about — 'laugh about' എന്നത് സംഭവത്തെക്കുറിച്ച് പിന്നീട് ചിരിക്കുന്നതിന് ചിലപ്പോൾ ഉപയോഗിക്കാമെങ്കിലും, ഒരാളുടെ തെറ്റിനെ പരിഹസിക്കുന്നതിന് laugh at ആണ് ശരി — PSC ഉത്തരവും അതുതന്നെ.\n• 🪤 PSC Trap: about ഒരു 'സുരക്ഷിത' ഉത്തരമായി തോന്നും — പക്ഷേ fixed collocation laugh at ആണ്!\n\n• (D) over — 'take over, get over' കുടുംബം; ഇവിടെ സ്ഥാനമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"AT = അമ്പ് 🎯\" — ലക്ഷ്യത്തിലേക്ക് അമ്പ് എയ്യുന്ന ചിത്രം ഓർക്കൂ; laugh at, look at, aim at — എല്ലാം ലക്ഷ്യം വച്ചുള്ളവ.\n• Word family: AT-കൂട്ടർ — laugh, look, stare, shout, aim — അഞ്ച് verbs ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: verb-ന്റെ പ്രവൃത്തി ആരെയെങ്കിലും 'ലക്ഷ്യമാക്കിയാണോ' എന്ന് ചോദിക്കുക — അതെ എങ്കിൽ at മുന്നിൽ നിർത്തുക. ഒരിക്കലും miss ആകില്ല!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q29",
@@ -463,7 +571,13 @@
     "optionB": "at",
     "optionC": "on",
     "optionD": "by",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) on\n\n• തീയതികൾക്കും ദിവസങ്ങൾക്കും മുമ്പിൽ 'on' ആണ് വരുന്നത് — on the 15th of March, on Monday.\n• 'പരീക്ഷ മാർച്ച് 15-ന് ആരംഭിക്കുന്നു' എന്നർത്ഥം.\n• കൃത്യമായ ദിവസം/തീയതി → on; മാസം/വർഷം → in; കൃത്യമായ സമയം → at.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ദിവസം/തീയതി → ON; മാസം/വർഷം → IN; സമയം → AT!\n• on Monday, on the 15th, on Christmas Day — ദിവസ കുടുംബം.\n• in March, in 2026, in summer — മാസ/വർഷ കുടുംബം; at 10 a.m., at noon, at night — സമയ കുടുംബം.\n• ⭐ PSC ആവർത്തനം: in/on/at time prepositions ചോദ്യം എല്ലാ PSC പരീക്ഷയിലും ഏതാണ്ട് ഉറപ്പാണ്!\n• ഉദാഹരണ sentences:\n1. The interview is on the 5th of June. (തീയതി → on)\n2. Schools reopen in June. (മാസം → in)\n3. The train arrives at 6 p.m. (കൃത്യ സമയം → at)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) in — മാസത്തിന് മാത്രം: 'in March' ശരി; പക്ഷേ തീയതി വന്നാൽ on ആകും.\n• 🪤 PSC Trap: 'March' എന്ന വാക്ക് കണ്ട ഉടനെ in തിരഞ്ഞെടുക്കും — പക്ഷേ '15th' ഉള്ളതിനാൽ on വേണം!\n\n• (B) at — കൃത്യമായ ക്ലോക്ക് സമയത്തിന് മാത്രം (at 10 a.m.).\n\n• (D) by — 'അതിനുള്ളിൽ' എന്ന അർത്ഥം (by Friday = വെള്ളിയാഴ്ചയ്ക്കുള്ളിൽ); ആരംഭ തീയതിക്ക് ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"വലുത് IN, ദിവസം ON, കൃത്യം AT\" — വർഷം/മാസം വലുത്, ദിവസം ഇടത്തരം, ക്ലോക്ക് സമയം കൃത്യം!\n• Rule family: in 2026 → in March → on 15th March → at 10 a.m. — വലുതിൽ നിന്ന് ചെറുതിലേക്കുള്ള ഗോവണി ഓർക്കുക.\n• PSC strategy: തീയതി-യിൽ ordinal number (15th, 5th) കണ്ടാൽ മാസത്തിന്റെ പേര് ഉണ്ടെങ്കിലും ഉത്തരം on തന്നെ. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q30",
@@ -477,7 +591,13 @@
     "optionB": "between",
     "optionC": "across",
     "optionD": "along",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) between\n\n• രണ്ട് സ്ഥലങ്ങൾക്ക്/ആളുകൾക്ക് ഇടയിൽ → between; മൂന്നോ അതിലധികമോ ആയാൽ → among.\n• ഇവിടെ Kochi-യും Thrissur-ഉം — കൃത്യം രണ്ട് സ്ഥലങ്ങൾ → between.\n• 'ആലുവ കൊച്ചിക്കും തൃശ്ശൂരിനും ഇടയിലാണ് സ്ഥിതി ചെയ്യുന്നത്' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: രണ്ടെണ്ണം → BETWEEN; മൂന്നോ കൂടുതലോ → AMONG!\n• between Kochi and Thrissur (രണ്ട്), among the students (കൂട്ടം).\n• between-നോടൊപ്പം എപ്പോഴും 'and' വരും: between A and B.\n• ⭐ PSC ആവർത്തനം: between/among വ്യത്യാസം PSC-യുടെ എക്കാലത്തെയും പ്രിയപ്പെട്ട ചോദ്യം!\n• ഉദാഹരണ sentences:\n1. The river flows between the two hills. (രണ്ട് കുന്നുകൾക്കിടയിൽ)\n2. Divide the sweets among the five children. (അഞ്ച് കുട്ടികൾക്കിടയിൽ)\n3. There is an agreement between India and Japan. (രണ്ട് രാജ്യങ്ങൾ)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) among — മൂന്നോ അതിലധികമോ ഉള്ളപ്പോൾ മാത്രം; ഇവിടെ രണ്ട് സ്ഥലങ്ങളേ ഉള്ളൂ.\n• 🪤 PSC Trap: between/among മാറ്റിയിട്ട് കുഴക്കുന്നതാണ് ഈ ചോദ്യത്തിന്റെ ഒരേയൊരു ലക്ഷ്യം!\n\n• (C) across — 'കുറുകെ' എന്ന അർത്ഥം (across the river); ഇടയിൽ എന്നതിന് ചേരില്ല.\n\n• (D) along — 'വഴിയേ/അരികിലൂടെ' എന്ന അർത്ഥം (along the road); ഇവിടെ സ്ഥാനമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"beTWEEN-ൽ TWO ഒളിച്ചിരിപ്പുണ്ട്!\" — tween = two; രണ്ടെണ്ണം കണ്ടാൽ between ഉറപ്പ്.\n• Rule family: between + രണ്ട് | among + കൂട്ടം — ഈ ജോഡി ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: sentence-ൽ 'and' കൊണ്ട് ബന്ധിപ്പിച്ച രണ്ട് പേരുകൾ കണ്ടാൽ between തിരഞ്ഞെടുക്കുക; കൂട്ടത്തെ കുറിക്കുന്ന വാക്കാണെങ്കിൽ (team, students, crowd) among. ഒരിക്കലും miss ആകില്ല!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q31",
@@ -491,7 +611,13 @@
     "optionB": "does she",
     "optionC": "isn't she",
     "optionD": "won't she",
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) doesn't she\n\n• Sentence positive ആണ് ('works') → tag negative ആകണം; verb Simple Present + third person → doesn't.\n• Subject 'Your sister' → tag-ൽ pronoun 'she' ആയി മാറും.\n• 'നിന്റെ സഹോദരി താലൂക്ക് ആശുപത്രിയിലാണ് ജോലി ചെയ്യുന്നത്, അല്ലേ?' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: വാക്യം positive എങ്കിൽ tag negative; വാക്യം negative എങ്കിൽ tag positive!\n• വാക്യത്തിലെ verb സാധാരണ present രൂപത്തിലാണെങ്കിൽ tag-ൽ do/does വരും — 'works' എന്നതിന് doesn't she എന്നിങ്ങനെ.\n• Tag-ൽ എപ്പോഴും pronoun മാത്രമേ വരൂ — പേര് ആവർത്തിക്കില്ല; 'നിന്റെ സഹോദരി' എന്നത് tag-ൽ 'she' ആയി മാറും.\n• ⭐ PSC ആവർത്തനം: question tag ചോദ്യം ഒരു PSC പേപ്പറിലും വിടാറില്ല എന്ന് തന്നെ പറയാം!\n• ഉദാഹരണ sentences:\n1. Ravi plays cricket, doesn't he? (വാക്യം positive ആയതിനാൽ tag negative)\n2. They live in Kollam, don't they? (subject പലരായതിനാൽ don't)\n3. She teaches Malayalam, doesn't she? (ഒരാളായതിനാൽ doesn't)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) does she — positive tag ആണ്; sentence positive ആയതിനാൽ negative tag വേണം.\n• 🪤 PSC Trap: polarity (positive/negative) മാറ്റിയിട്ട് കുഴക്കുന്നതാണ് ഇവിടത്തെ കെണി!\n\n• (C) isn't she — 'works' എന്ന main verb ഉള്ളതിനാൽ do/does വേണം; is/isn't വരണമെങ്കിൽ sentence-ൽ is ഉണ്ടാകണം.\n\n• (D) won't she — will ഉള്ള future sentence-ന് മാത്രം; ഇവിടെ present ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Tag എപ്പോഴും എതിർ ടീമാണ്!\" — വാക്യം positive എങ്കിൽ tag negative; എപ്പോഴും എതിർ ദിശയിലേക്ക്.\n• Rule family: സാധാരണ present-ന് doesn't/don't, കഴിഞ്ഞകാലത്തിന് didn't, ഭാവിക്ക് won't — verb-ഉം tag-ഉം ജോഡിയായി പഠിക്കുക.\n• PSC strategy: മൂന്ന് ചോദ്യങ്ങൾ സ്വയം ചോദിക്കുക — (1) വാക്യം positive ആണോ? (2) verb ഏത് കാലം? (3) subject-ന്റെ pronoun ഏത്? മൂന്നിനും ഉത്തരം കിട്ടിയാൽ tag റെഡി. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q32",
@@ -505,7 +631,13 @@
     "optionB": "haven't they",
     "optionC": "didn't they",
     "optionD": "don't they",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) haven't they\n\n• Sentence-ൽ 'have finished' ഉണ്ട് — auxiliary verb 'have' തന്നെ tag-ൽ ഉപയോഗിക്കണം.\n• Positive sentence → negative tag → haven't they.\n• 'അവർ റോഡ് പണി പൂർത്തിയാക്കിയിട്ടുണ്ട്, അല്ലേ?' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: വാക്യത്തിൽ helping verb ഉണ്ടെങ്കിൽ അതേ helping verb തന്നെ tag-ലും!\n• 'have finished' എന്നതിലെ have തന്നെ tag-ൽ വരും — haven't they; അതുപോലെ is വന്നാൽ isn't, can വന്നാൽ can't.\n• Helping verb ഇല്ലാത്ത വാക്യങ്ങൾക്ക് മാത്രമേ do/does/did വരൂ — ഇതാണ് tag നിയമത്തിന്റെ കാതൽ.\n• ⭐ PSC ആവർത്തനം: have/has ഉള്ള വാക്യത്തിന്റെ tag ചോദിക്കുന്നത് PSC-യുടെ പതിവ് രീതി!\n• ഉദാഹരണ sentences:\n1. She has paid the fees, hasn't she? (has ഉള്ളതിനാൽ hasn't)\n2. You have seen this film, haven't you? (have ഉള്ളതിനാൽ haven't)\n3. He can drive, can't he? (can ഉള്ളതിനാൽ can't)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) have they — positive tag; sentence positive ആയതിനാൽ ചേരില്ല.\n\n• (C) didn't they — did വരണമെങ്കിൽ sentence Simple Past ആകണം ('finished the work' മാത്രം); ഇവിടെ 'have finished' ആണ്.\n• 🪤 PSC Trap: 'finished' കണ്ട ഉടനെ didn't തിരഞ്ഞെടുക്കും — have എന്ന auxiliary കാണാത്തതാണ് പ്രശ്നം!\n\n• (D) don't they — present simple-ന് മാത്രം; ഇവിടെ present perfect ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Auxiliary ഉണ്ടോ? അവനെത്തന്നെ വിളിക്കൂ!\" — sentence-ലെ helping verb തന്നെയാണ് tag-ലെ നായകൻ.\n• Rule family: have→haven't, has→hasn't, had→hadn't — perfect കുടുംബത്തിന്റെ tags.\n• PSC strategy: tag ചോദ്യത്തിൽ ആദ്യം auxiliary verb തിരയുക; ഉണ്ടെങ്കിൽ അത് തന്നെ ഉപയോഗിക്കുക, ഇല്ലെങ്കിൽ മാത്രം do/does/did. ഒരിക്കലും miss ആകില്ല!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q33",
@@ -519,7 +651,13 @@
     "optionB": "doesn't he",
     "optionC": "did he",
     "optionD": "isn't he",
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) does he\n\n• 'never' എന്ന വാക്ക് sentence-നെ negative അർത്ഥമുള്ളതാക്കുന്നു → tag positive ആകണം → does he.\n• 'never, hardly, seldom, rarely' — ഇവയുള്ള sentence-കൾ negative ആയി കണക്കാക്കണം.\n• 'റഹീം ഒരിക്കലും കള്ളം പറയാറില്ല, അല്ലേ?' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: never/hardly/seldom/rarely ഉള്ള വാക്യം negative ആയി കണക്കാക്കുക → tag positive!\n• ഈ വാക്കുകൾ കാഴ്ചയിൽ negative അല്ലെങ്കിലും അർത്ഥത്തിൽ negative ആണ് — 'ഒരിക്കലും ഇല്ല' എന്നാണല്ലോ അർത്ഥം.\n• ഇത്തരം 'ഒളിഞ്ഞിരിക്കുന്ന negative' വാക്കുകൾ: never, hardly, seldom, rarely, scarcely — ഇവയഞ്ചും ഓർത്തുവയ്ക്കുക.\n• ⭐ PSC ആവർത്തനം: 'never' വച്ചുള്ള tag ചോദ്യം PSC-യുടെ എക്കാലത്തെയും പ്രിയപ്പെട്ട trap!\n• ഉദാഹരണ sentences:\n1. He never smokes, does he? (never ഉള്ളതിനാൽ tag positive)\n2. She hardly eats rice, does she? (hardly = ഏതാണ്ട് ഇല്ല → positive tag)\n3. They seldom visit us, do they? (seldom = അപൂർവ്വം → positive tag)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) doesn't he — sentence-ൽ never ഉള്ളതിനാൽ ഇത് double negative ആകും; tag positive വേണം.\n• 🪤 PSC Trap: 'tells' positive പോലെ കാണുന്നതിനാൽ negative tag ഇടും മിക്കവരും — never ശ്രദ്ധിക്കാത്തതാണ് വീഴ്ച!\n\n• (C) did he — tense തെറ്റ്; 'tells' Simple Present ആയതിനാൽ does വേണം.\n\n• (D) isn't he — main verb 'tells' ഉള്ളതിനാൽ do/does കുടുംബം വേണം; is-ന് സ്ഥാനമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"never കണ്ടാൽ ഒളിഞ്ഞിരിക്കുന്ന NOT ഉണ്ട്!\" — അതിനാൽ tag-ൽ ഇനി not വേണ്ട.\n• Word family: never, hardly, seldom, rarely, scarcely — 'രഹസ്യ negative' അഞ്ചംഗ സംഘം; ഇവരെ കണ്ടാൽ tag positive.\n• PSC strategy: tag ചോദ്യത്തിൽ sentence വായിക്കുമ്പോൾ ഈ അഞ്ച് വാക്കുകൾ ഉണ്ടോ എന്ന് പ്രത്യേകം scan ചെയ്യുക — ഉണ്ടെങ്കിൽ positive tag ഉറപ്പ്. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q34",
@@ -533,7 +671,13 @@
     "optionB": "could she",
     "optionC": "will she",
     "optionD": "can she",
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) can she\n\n• Sentence negative ആണ് ('can't attend') → tag positive ആകണം → can she.\n• Auxiliary 'can' തന്നെ tag-ലും ഉപയോഗിക്കണം; not മാത്രം ഒഴിവാക്കുക.\n• 'അവൾക്ക് ഇന്ന് ക്ലാസ്സിൽ പങ്കെടുക്കാൻ കഴിയില്ല, അല്ലേ?' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Negative വാക്യം → Positive tag; അതേ helping verb നിലനിർത്തി not മാത്രം ഒഴിവാക്കുക!\n• can't ഉള്ള വാക്യത്തിന് can, won't ഉള്ളതിന് will, isn't ഉള്ളതിന് is — ഇങ്ങനെ ജോഡികളായി ഓർക്കുക.\n• Tag-ലെ pronoun വാക്യത്തിലെ subject-നോട് ചേരണം — ഇവിടെ She ആയതിനാൽ she തന്നെ.\n• ⭐ PSC ആവർത്തനം: negative വാക്യത്തിന്റെ positive tag — ഇത് question tag-ലെ അടിസ്ഥാന ചോദ്യം; PSC സ്ഥിരമായി ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. He can't swim, can he? (can't ഒഴിവാക്കി can മാത്രം)\n2. You won't tell anyone, will you? (won't മാറി will ആയി)\n3. She isn't coming today, is she? (isn't മാറി is ആയി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) can't she — sentence-ലും tag-ലും negative വന്നാൽ double negative — തെറ്റ്.\n• 🪤 PSC Trap: sentence-ലെ can't കണ്ട് അതേപടി tag-ലും എഴുതിപ്പിക്കാനുള്ള കെണി!\n\n• (B) could she — tense മാറ്റരുത്; sentence-ൽ can ആണ്, could അല്ല.\n\n• (C) will she — auxiliary മാറ്റരുത്; can ഉള്ളിടത്ത് will വരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"n't എടുത്തുകളയൂ, ബാക്കി അതേപടി!\" — negative tag ഉണ്ടാക്കുന്നതിന്റെ നേർ വിപരീതം.\n• Rule family: can't→can, won't→will, doesn't→does, didn't→did — ഈ മാറ്റങ്ങൾ ഒരു table ആയി പഠിക്കുക.\n• PSC strategy: sentence-ൽ n't കണ്ടാൽ tag-ൽ n't ഉണ്ടാകില്ല എന്ന് ഉറപ്പിക്കുക — options-ൽ പാതി അപ്പോഴേ വെട്ടിക്കളയാം. ഒരിക്കലും miss ആകില്ല!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q35",
@@ -547,7 +691,13 @@
     "optionB": "should we",
     "optionC": "shall we",
     "optionD": "do we",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) shall we\n\n• 'Let us / Let's' തുടങ്ങുന്ന നിർദ്ദേശ വാക്യങ്ങളുടെ tag എപ്പോഴും 'shall we' ആണ് — ഇത് special case.\n• Polarity നിയമം ഇവിടെ ബാധകമല്ല; 'Let us' കണ്ടാൽ കണ്ണടച്ച് shall we.\n• 'നമുക്ക് റിവിഷൻ തുടങ്ങാം, അല്ലേ?' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Let us/Let's → shall we; Imperative (ആജ്ഞ) → will you!\n• Special tags മൂന്നെണ്ണം ഓർക്കുക: Let's... shall we? | Open the door... will you? | I am... aren't I?\n• ഇവ മൂന്നും സാധാരണ നിയമങ്ങൾക്ക് പുറത്തുള്ള പ്രത്യേക കേസുകളാണ്.\n• ⭐ PSC ആവർത്തനം: ഈ മൂന്ന് special cases-ഉം PSC മാറിമാറി ചോദിക്കുന്നു — മൂന്നും ഒരുമിച്ച് പഠിക്കുക!\n• ഉദാഹരണ sentences:\n1. Let's go for a walk, shall we? (Let's → shall we)\n2. Close the window, will you? (ആജ്ഞ → will you)\n3. I am your friend, aren't I? (I am → aren't I)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) will we — 'will you' ആജ്ഞകൾക്കാണ്; Let us-ന് shall we തന്നെ വേണം.\n• 🪤 PSC Trap: shall/will മാറ്റിയിട്ട് കുഴക്കുന്നതാണ് ഈ ചോദ്യത്തിന്റെ തന്ത്രം!\n\n• (B) should we — should ഇവിടെ വരില്ല; fixed expression ആണ് shall we.\n\n• (D) do we — സാധാരണ present tag; Let us-ന്റെ special നിയമത്തിന് മുന്നിൽ അത് നിൽക്കില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Let's = നമ്മൾ രണ്ടുപേരും → shall WE\" — 'നമുക്ക്' എന്ന ക്ഷണത്തിന് 'നമ്മൾ' എന്ന tag!\n• Rule family: special tag trio — Let's→shall we, ആജ്ഞ→will you, I am→aren't I — ഈ മൂവർസംഘം കാണാതെ പഠിക്കുക.\n• PSC strategy: 'Let us/Let's' എന്ന് കണ്ട നിമിഷം മറ്റൊന്നും ആലോചിക്കാതെ shall we അടിക്കുക — ഇത് 100% ഉറപ്പുള്ള mark ആണ്!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q36",
@@ -561,7 +711,13 @@
     "optionB": "A thousand saplings were planted by the forest department.",
     "optionC": "A thousand saplings have been planted by the forest department.",
     "optionD": "A thousand saplings had been planted by the forest department.",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) A thousand saplings were planted by the forest department.\n\n• Active sentence Simple Past ആണ് ('planted') → passive-ലും Simple Past വേണം: were + planted.\n• Object 'a thousand saplings' subject ആയി മാറി; plural ആയതിനാൽ were.\n• 'വനംവകുപ്പ് ആയിരം തൈകൾ നട്ടു' → 'ആയിരം തൈകൾ വനംവകുപ്പിനാൽ നടപ്പെട്ടു' എന്ന മാറ്റം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Active-ലെ tense തന്നെ passive-ലും — ഒരു മാറ്റവുമില്ലാതെ!\n• കഴിഞ്ഞകാല passive = was/were + V3; subject പലതാണെങ്കിൽ were, ഒന്നാണെങ്കിൽ was.\n• മാറ്റത്തിന്റെ ക്രമം ഇങ്ങനെ: object മുന്നിലേക്ക് കൊണ്ടുവരിക → ശരിയായ be verb ഇടുക → V3 ചേർക്കുക → by-യോടൊപ്പം പഴയ കർത്താവിനെ പിന്നിൽ വയ്ക്കുക.\n• ⭐ PSC ആവർത്തനം: കഴിഞ്ഞകാലത്തിന്റെ passive ആണ് PSC ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന voice ചോദ്യം!\n• ഉദാഹരണ sentences:\n1. The peon rang the bell. → The bell was rung by the peon. (ഒരു മണി — was)\n2. They built two bridges. → Two bridges were built by them. (രണ്ട് പാലങ്ങൾ — were)\n3. She wrote these poems. → These poems were written by her. (പല കവിതകൾ — were)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) are planted — present tense; active 'planted' past ആയതിനാൽ tense മാറ്റാൻ പാടില്ല.\n• 🪤 PSC Trap: tense മാറ്റിയ options ആണ് passive ചോദ്യങ്ങളിലെ പ്രധാന കെണി!\n\n• (C) have been planted — present perfect; active-ൽ അതില്ലല്ലോ.\n\n• (D) had been planted — past perfect; active Simple Past മാത്രമായതിനാൽ ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Tense ഒരു വിശുദ്ധ പശുവാണ് — passive ആക്കുമ്പോൾ തൊടരുത്!\" — active-ലെ tense അതേപടി നിലനിർത്തുക.\n• Rule family: V2 active → was/were + V3 passive — ഈ മാറ്റം മാത്രം മതി Simple Past-ന്.\n• PSC strategy: passive ചോദ്യത്തിൽ ആദ്യം active verb-ന്റെ tense എഴുതുക; options-ൽ അതേ tense ഉള്ളത് മാത്രം നോക്കുക — ബാക്കി വെട്ടുക. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q37",
@@ -575,7 +731,13 @@
     "optionB": "The streetlight near the school has been broken.",
     "optionC": "The streetlight near the school had been broken.",
     "optionD": "The streetlight near the school was broken.",
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) The streetlight near the school was broken.\n\n• Active 'broke' Simple Past → passive-ൽ was/were + V3; streetlight singular → was broken.\n• 'Someone' അജ്ഞാതനായതിനാൽ passive-ൽ 'by someone' ഒഴിവാക്കാം — അതാണ് സ്വാഭാവികം.\n• 'സ്കൂളിനടുത്തുള്ള തെരുവുവിളക്ക് ആരോ തകർത്തു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Someone/somebody active-ൽ ഉണ്ടെങ്കിൽ passive-ൽ 'by...' വേണ്ട!\n• ചെയ്തയാൾ അജ്ഞാതനോ അപ്രധാനിയോ ആണെങ്കിൽ by-phrase ഒഴിവാക്കുന്നതാണ് നല്ല ഇംഗ്ലീഷ്.\n• Simple Past passive = was/were + V3; break → broke → broken എന്ന V3 ഓർക്കുക.\n• ⭐ PSC ആവർത്തനം: 'Someone stole/broke...' തരം ചോദ്യങ്ങൾ PSC-യിൽ പതിവാണ്!\n• ഉദാഹരണ sentences:\n1. Someone stole my purse. → My purse was stolen. (by someone വേണ്ട)\n2. Somebody cleaned the hall. → The hall was cleaned. (ചെയ്തയാൾ അപ്രധാനം)\n3. People speak English worldwide. → English is spoken worldwide. (പൊതുവായ കർത്താവ്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) is broken — present; active 'broke' past ആയതിനാൽ tense മാറരുത്.\n\n• (B) has been broken — present perfect; active-ൽ ഇല്ലാത്ത tense.\n• 🪤 PSC Trap: 'has been broken' കേൾക്കാൻ ഗംഭീരമായി തോന്നും — പക്ഷേ tense മാറ്റം എപ്പോഴും തെറ്റ്!\n\n• (C) had been broken — past perfect; രണ്ടാമതൊരു past സംഭവം ഇല്ലാത്തതിനാൽ ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"someone വന്നാൽ by പോകും!\" — അജ്ഞാതനെ passive-ൽ പേരെടുത്ത് പറയേണ്ട കാര്യമില്ല.\n• Rule family: broke→was/were broken, stole→was/were stolen — irregular V3-കൾ passive-ൽ നിർണായകം; V1-V2-V3 പട്ടിക ഉറപ്പിക്കുക.\n• PSC strategy: passive options-ൽ tense മാറിയവ ആദ്യം വെട്ടുക; പിന്നെ singular/plural നോക്കി was/were തിരഞ്ഞെടുക്കുക. ഒരിക്കലും miss ആകില്ല!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q38",
@@ -589,7 +751,13 @@
     "optionB": "The new bridge will open the corporation in May.",
     "optionC": "The new bridge would be opened by the corporation in May.",
     "optionD": "The new bridge is opened by the corporation in May.",
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) The new bridge will be opened by the corporation in May.\n\n• Active വാക്യത്തിലെ 'will open' ഭാവികാലമാണ് → passive-ൽ will be + V3 വേണം → will be opened.\n• Object ആയിരുന്ന 'the new bridge' ഇപ്പോൾ subject ആയി മുന്നിൽ വന്നു; കർത്താവായ corporation-നെ by ചേർത്ത് പിന്നിൽ വച്ചു.\n• 'പുതിയ പാലം മെയ് മാസത്തിൽ കോർപ്പറേഷനാൽ തുറക്കപ്പെടും' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ഭാവികാല active (will + V1) → passive-ൽ will be + V3!\n• ഭാവികാല passive-ൽ 'will be' എല്ലാ subject-നും ഒരുപോലെയാണ് — ഒന്നായാലും പലതായാലും വ്യത്യാസമില്ല.\n• Modal verbs എല്ലാം ഇതേ വഴി പിന്തുടരുന്നു — can ആയാലും must ആയാലും should ആയാലും പിന്നിൽ be + V3 വരും.\n• ⭐ PSC ആവർത്തനം: ഭാവികാല passive-ഉം modal passive-ഉം PSC മാറിമാറി ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. They will announce the results. → The results will be announced. (ഫലങ്ങൾ പ്രഖ്യാപിക്കപ്പെടും)\n2. She will sing a song. → A song will be sung by her. (പാട്ട് പാടപ്പെടും)\n3. We will complete the work. → The work will be completed by us. (ജോലി പൂർത്തിയാക്കപ്പെടും)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) will open the corporation — ഇത് passive അല്ല; വാക്കുകൾ സ്ഥാനം മാറ്റിയതുകൊണ്ട് passive ആകില്ല, be + V3 വേണം.\n• 🪤 PSC Trap: കാഴ്ചയിൽ passive പോലെ തോന്നിക്കുന്ന 'വ്യാജ' option — ശ്രദ്ധിക്കുക!\n\n• (C) would be opened — would past/conditional രൂപം; active-ൽ will ആയതിനാൽ മാറ്റരുത്.\n\n• (D) is opened — present; future ആയ active-നോട് ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"will-ന് ശേഷം BE എന്ന പാലം, പിന്നെ V3\" — will BE opened; 'be' മറന്നാൽ ഉത്തരം തെറ്റും!\n• Rule family: will be + V3, can be + V3, must be + V3, should be + V3 — modal passive കുടുംബം മുഴുവൻ ഒരേ ഘടന.\n• PSC strategy: future/modal passive-ൽ 'be' ഉണ്ടോ എന്നതാണ് ആദ്യ പരിശോധന — be ഇല്ലാത്ത options ഉടനെ വെട്ടുക. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q39",
@@ -603,7 +771,13 @@
     "optionB": "The forms should been submitted before Friday.",
     "optionC": "The forms should be submit before Friday.",
     "optionD": "The forms should be submitted before Friday.",
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) The forms should be submitted before Friday.\n\n• Active 'should submit' → passive = should be + V3 → should be submitted.\n• Modal verb (should) മാറില്ല; be + V3 ചേർക്കുക മാത്രം.\n• 'ഫോമുകൾ വെള്ളിയാഴ്ചയ്ക്ക് മുമ്പ് സമർപ്പിക്കണം' എന്നർത്ഥം; students എന്ന കർത്താവ് വ്യക്തമായതിനാൽ by-phrase ഒഴിവാക്കി.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Modal + V1 എന്ന active രൂപം passive ആകുമ്പോൾ Modal + be + V3!\n• Modal verb (should, must, can) അതേപടി നിൽക്കും; ഇടയിൽ 'be' എന്ന കണ്ണി വരുന്നതാണ് passive-ന്റെ അടയാളം.\n• 'be' വിട്ടുപോയാലോ V3-ന് പകരം V1 വന്നാലോ ഉത്തരം തെറ്റാകും — ഈ രണ്ട് പിഴവുകളാണ് options-ൽ ഒളിപ്പിക്കുന്നത്.\n• ⭐ PSC ആവർത്തനം: modal passive-ൽ 'be' വിട്ടുപോയ തെറ്റായ options ഇടുന്നത് PSC-യുടെ സ്ഥിരം തന്ത്രം!\n• ഉദാഹരണ sentences:\n1. You must obey the rules. → The rules must be obeyed. (നിയമങ്ങൾ അനുസരിക്കപ്പെടണം)\n2. We can solve this problem. → This problem can be solved. (പ്രശ്നം പരിഹരിക്കാവുന്നതാണ്)\n3. They should plant more trees. → More trees should be planted. (കൂടുതൽ മരങ്ങൾ നടേണ്ടതാണ്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) should submit — active രൂപം അതേപടി; passive ആകണമെങ്കിൽ be + V3 വേണം.\n\n• (B) should been submitted — 'be' ഇല്ലാതെ 'been' വന്നത് തെറ്റ്; modal-ന് ശേഷം be തന്നെ വേണം.\n• 🪤 PSC Trap: been/be മാറ്റിയിട്ട് കണ്ണ് തെറ്റിക്കുന്ന classic കെണി — സൂക്ഷിച്ച് വായിക്കുക!\n\n• (C) should be submit — V3 ആകാതെ V1 നിന്നത് തെറ്റ്; submitted വേണം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Modal + BE + V3 — മൂന്ന് കണ്ണികളുള്ള ചങ്ങല!\" — ഒരു കണ്ണി മുറിഞ്ഞാൽ ഉത്തരം തെറ്റ്.\n• Rule family: must be obeyed, can be done, should be submitted, may be allowed — നാലും ഒരേ ഘടന.\n• PSC strategy: modal passive options വായിക്കുമ്പോൾ മൂന്ന് കാര്യം tick ചെയ്യുക — modal ✓ be ✓ V3 ✓. മൂന്നും ഉള്ളത് മാത്രമാണ് ഉത്തരം. ഒരിക്കലും miss ആകില്ല!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q40",
@@ -617,7 +791,13 @@
     "optionB": "The proposal is approved by the committee.",
     "optionC": "The proposal has been approved by the committee.",
     "optionD": "The proposal had been approved by the committee.",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) The proposal has been approved by the committee.\n\n• Active വാക്യത്തിലെ 'has approved' എന്നത് Present Perfect ആണ് → passive-ൽ has/have been + V3 വേണം → has been approved.\n• 'Proposal' ഒറ്റ വസ്തുവായതിനാൽ has; 'been' എന്ന വാക്കാണ് perfect passive-ന്റെ അടയാളം.\n• 'നിർദ്ദേശം കമ്മിറ്റിയാൽ അംഗീകരിക്കപ്പെട്ടിരിക്കുന്നു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: has/have + V3 എന്ന active രൂപം passive ആകുമ്പോൾ has/have been + V3!\n• Present Perfect passive-ന്റെ കാതൽ 'been' എന്ന വാക്കാണ് — അത് വിട്ടുപോയാൽ passive ആകില്ല.\n• Subject ഒന്നാണെങ്കിൽ has been, പലതാണെങ്കിൽ have been — ഈ വ്യത്യാസവും ശ്രദ്ധിക്കുക.\n• ⭐ PSC ആവർത്തനം: present perfect passive ചോദ്യം PSC ഇടയ്ക്കിടെ ചോദിക്കുന്നു — 'been' ആണ് ഇവിടത്തെ താരം!\n• ഉദാഹരണ sentences:\n1. She has written a novel. → A novel has been written by her. (നോവൽ എഴുതപ്പെട്ടിരിക്കുന്നു)\n2. They have completed the survey. → The survey has been completed. (സർവ്വേ പൂർത്തിയായിരിക്കുന്നു)\n3. We have invited all members. → All members have been invited. (എല്ലാവരും ക്ഷണിക്കപ്പെട്ടിരിക്കുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) was approved — Simple Past; active present perfect ആയതിനാൽ tense മാറരുത്.\n• 🪤 PSC Trap: അർത്ഥം ഏതാണ്ട് ഒരുപോലെ തോന്നും — പക്ഷേ tense മാറ്റം passive-ൽ എപ്പോഴും തെറ്റ്!\n\n• (B) is approved — simple present; ചേരില്ല.\n\n• (D) had been approved — past perfect; active-ൽ has ആണ്, had അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"has കണ്ടാൽ has BEEN ഓർക്കുക!\" — perfect passive-ൽ been എന്ന കൂട്ടുകാരനെ മറക്കരുത്; has-നും V3-നും ഇടയിൽ അവൻ നിർബന്ധമായും വേണം.\n• Rule family: has been, have been, had been — perfect passive മൂവർസംഘം; മൂന്നും ഒരേ ഘടനയിൽ പ്രവർത്തിക്കുന്നു.\n• PSC strategy: active വാക്യത്തിൽ has/have കണ്ടാൽ passive option-ൽ 'been' ഉണ്ടോ എന്ന് നോക്കുക — been ഇല്ലാത്ത options ധൈര്യമായി വെട്ടിക്കളയുക. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q41",
@@ -631,7 +811,13 @@
     "optionB": "She said that she is busy today.",
     "optionC": "She said that she was busy today.",
     "optionD": "She said that she had been busy that day.",
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) She said that she was busy that day.\n\n• Direct speech indirect ആക്കുമ്പോൾ രണ്ട് മാറ്റങ്ങൾ: tense ഒരു ചുവട് പിന്നോട്ട് (am → was), സമയവാക്ക് മാറും (today → that day).\n• 'I' എന്ന pronoun പറഞ്ഞയാളെ കുറിക്കുന്നതിനാൽ 'she' ആയി മാറി.\n• 'അന്ന് താൻ തിരക്കിലായിരുന്നു എന്ന് അവൾ പറഞ്ഞു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Indirect ആക്കുമ്പോൾ tense പിന്നോട്ട് + സമയവാക്കുകൾ മാറും!\n• Tense മാറ്റങ്ങൾ: am/is → was; are → were; have → had; will → would — എല്ലാം ഒരു ചുവട് പിന്നോട്ട്.\n• സമയവാക്ക് മാറ്റങ്ങൾ: today → that day; tomorrow → the next day; yesterday → the previous day; now → then.\n• ⭐ PSC ആവർത്തനം: backshift-ഉം സമയവാക്ക് മാറ്റവും ഒരുമിച്ച് പരീക്ഷിക്കുന്നതാണ് PSC-യുടെ പതിവ് രീതി!\n• ഉദാഹരണ sentences:\n1. He said, \"I am tired.\" → He said that he was tired. (am മാറി was ആയി)\n2. She said, \"I will come today.\" → She said that she would come that day. (രണ്ട് മാറ്റങ്ങളും ഒരുമിച്ച്)\n3. They said, \"We are ready now.\" → They said that they were ready then. (now മാറി then ആയി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) she is busy today — രണ്ട് മാറ്റങ്ങളും വരുത്തിയിട്ടില്ല; direct speech-ന്റെ രൂപം അതേപടി നിൽക്കുന്നു.\n\n• (C) she was busy today — tense മാറ്റി, പക്ഷേ 'today' മാറ്റിയില്ല; പാതി ശരി മാത്രം.\n• 🪤 PSC Trap: ഇതാണ് ഏറ്റവും അപകടകരമായ option — പാതി ശരിയായതിനാൽ പലരും ഇതിൽ വീഴും!\n\n• (D) she had been busy that day — ഒരു ചുവടിന് പകരം രണ്ട് ചുവട് പിന്നോട്ട് പോയി; am-ന് was മതി, had been വേണ്ട.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Indirect = രണ്ട് മാറ്റത്തിന്റെ കളി\" — tense-ഉം സമയവാക്കും; ഒന്ന് മാത്രം മാറ്റിയ options എപ്പോഴും കെണിയാണ്!\n• Rule family: today→that day, tomorrow→the next day, yesterday→the previous day — ഈ മൂന്ന് ജോഡികൾ കാണാതെ പഠിക്കുക.\n• PSC strategy: option-കൾ പരിശോധിക്കുമ്പോൾ രണ്ട് കോളങ്ങളിൽ tick ചെയ്യുക — tense മാറിയോ? ✓ സമയവാക്ക് മാറിയോ? ✓ രണ്ടും ഉള്ളത് മാത്രമാണ് ഉത്തരം. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q42",
@@ -645,7 +831,13 @@
     "optionB": "He asked me if I know Hindi.",
     "optionC": "He asked me if I knew Hindi.",
     "optionD": "He asked me do I know Hindi.",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) He asked me if I knew Hindi.\n\n• Yes/No ചോദ്യങ്ങൾ indirect ആക്കുമ്പോൾ 'if' അല്ലെങ്കിൽ 'whether' ചേർക്കണം — that അല്ല.\n• ചോദ്യരൂപം മാറി സാധാരണ വാക്യക്രമം വരും: 'Do you know' → 'I knew' (backshift-ഉം നടന്നു).\n• 'എനിക്ക് ഹിന്ദി അറിയാമോ എന്ന് അവൻ എന്നോട് ചോദിച്ചു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Yes/No ചോദ്യം indirect ആകുമ്പോൾ → asked + if/whether + സാധാരണ വാക്യക്രമം!\n• 'said to' മാറി 'asked' ആകും; ചോദ്യചിഹ്നം പോകും; do/does/did അപ്രത്യക്ഷമാകും.\n• Wh-ചോദ്യങ്ങൾക്ക് (what, where, when) if വേണ്ട — ആ ചോദ്യവാക്ക് തന്നെ തുടരും.\n• ⭐ PSC ആവർത്തനം: if/whether ചോദിക്കുന്ന indirect speech ചോദ്യം PSC-യിൽ വളരെ സാധാരണം!\n• ഉദാഹരണ sentences:\n1. She said to me, \"Are you coming?\" → She asked me if I was coming. (ചോദ്യം if ആയി)\n2. He said, \"Can you help me?\" → He asked if I could help him. (can മാറി could ആയി)\n3. The teacher said, \"Where do you live?\" → The teacher asked where I lived. (wh-ചോദ്യത്തിന് if വേണ്ട)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) asked me that I knew — ചോദ്യങ്ങൾക്ക് 'that' വരില്ല; if/whether നിർബന്ധം.\n• 🪤 PSC Trap: statements-ലെ 'that' ശീലമായവർ ചോദ്യങ്ങളിലും that ഇടും — അതാണ് കെണി!\n\n• (B) if I know Hindi — if ശരി, പക്ഷേ backshift ചെയ്തില്ല; know മാറി knew ആകണം.\n\n• (D) asked me do I know — ചോദ്യരൂപം അതേപടി നിൽക്കുന്നു; indirect-ൽ do-ഉം ചോദ്യക്രമവും പാടില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ഉത്തരം Yes/No ആണെങ്കിൽ ചോദ്യം IF ആണ്!\" — ചോദ്യത്തിന്റെ ഉത്തരം അതെ/അല്ല എന്നാണെങ്കിൽ indirect-ൽ if വരും.\n• Rule family: if/whether (Yes/No ചോദ്യം) | ചോദ്യവാക്ക് തുടരും (wh-ചോദ്യം) | to + V1 (ആജ്ഞ) — മൂന്ന് വഴികൾ ഓർക്കുക.\n• PSC strategy: direct speech-ൽ ചോദ്യചിഹ്നം കണ്ടാൽ ആദ്യം തീരുമാനിക്കുക — Yes/No ചോദ്യമോ wh-ചോദ്യമോ? അതനുസരിച്ച് if-ഓ ചോദ്യവാക്കോ തിരയുക. ഒരിക്കലും miss ആകില്ല!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q43",
@@ -659,7 +851,13 @@
     "optionB": "The teacher said the boys that they close their books.",
     "optionC": "The teacher ordered the boys that close their books.",
     "optionD": "The teacher ordered to the boys closing their books.",
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) The teacher ordered the boys to close their books.\n\n• ആജ്ഞകൾ (commands) indirect ആക്കുമ്പോൾ → ordered/asked/told + object + to + V1.\n• 'Close your books' എന്ന ആജ്ഞ 'to close their books' ആയി; your മാറി their ആയി.\n• 'പുസ്തകങ്ങൾ അടയ്ക്കാൻ അധ്യാപകൻ കുട്ടികളോട് ആജ്ഞാപിച്ചു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ആജ്ഞ indirect ആകുമ്പോൾ → ordered/told + ആരോട് + to + V1!\n• ആജ്ഞയ്ക്ക് ordered, അഭ്യർത്ഥനയ്ക്ക് requested, ഉപദേശത്തിന് advised — സന്ദർഭം അനുസരിച്ച് reporting verb മാറും.\n• Negative ആജ്ഞയ്ക്ക് 'not to' ചേർക്കുക — 'സംസാരിക്കരുത്' എന്നത് not to talk എന്നാകും.\n• ⭐ PSC ആവർത്തനം: command-ന്റെ indirect രൂപം ചോദിക്കുന്നത് PSC-യുടെ ഇഷ്ട മേഖലയാണ്!\n• ഉദാഹരണ sentences:\n1. He said to me, \"Wait here.\" → He told me to wait there. (ആജ്ഞ to + V1 രൂപത്തിലായി)\n2. The doctor said, \"Take rest.\" → The doctor advised me to take rest. (ഉപദേശമായതിനാൽ advised)\n3. She said, \"Please help me.\" → She requested me to help her. (please ഉള്ളതിനാൽ requested)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) said the boys that they close — 'said + object' തെറ്റ്; ആജ്ഞയ്ക്ക് that-clause വരില്ല, to + V1 വേണം.\n\n• (C) ordered the boys that close — that-ഉം ആജ്ഞയും ചേരില്ല; to close എന്നാകണം.\n• 🪤 PSC Trap: that ചേർത്ത options കാഴ്ചയിൽ വ്യാകരണഭദ്രമായി തോന്നും — command-ന് to-infinitive ആണ് വഴി!\n\n• (D) ordered to the boys closing — 'ordered to + ആൾ' തെറ്റ്; ordered-ന് ശേഷം നേരിട്ട് ആളു വരണം; closing എന്ന -ing രൂപവും തെറ്റ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ആജ്ഞ കേട്ടാൽ TO വിളിക്കൂ!\" — command indirect ആകുമ്പോൾ to + V1 എന്ന ജോഡി നിർബന്ധം.\n• Rule family: ordered (ആജ്ഞ), requested (അഭ്യർത്ഥന), advised (ഉപദേശം), warned (മുന്നറിയിപ്പ്) — നാല് reporting verbs സന്ദർഭത്തോടെ പഠിക്കുക.\n• PSC strategy: direct speech-ൽ please ഉണ്ടോ എന്ന് നോക്കുക — ഉണ്ടെങ്കിൽ requested, വെറും ആജ്ഞയെങ്കിൽ ordered/told. പിന്നെ to + V1 ഉള്ള option തിരയുക. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q44",
@@ -673,7 +871,13 @@
     "optionB": "Ravi said that he would come tomorrow.",
     "optionC": "Ravi said that he will come the next day.",
     "optionD": "Ravi said that he would come the next day.",
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) Ravi said that he would come the next day.\n\n• രണ്ട് മാറ്റങ്ങളും വേണം: will → would (backshift), tomorrow → the next day (സമയവാക്ക്).\n• 'I' പറഞ്ഞയാളായ Ravi-യെ കുറിക്കുന്നതിനാൽ 'he' ആയി.\n• 'പിറ്റേന്ന് വരാമെന്ന് രവി പറഞ്ഞു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: will മാറി would; tomorrow മാറി the next day — രണ്ടും ഒരുമിച്ച് മാറണം!\n• ഒന്ന് മാത്രം മാറ്റിയാൽ ഉത്തരം പാതി ശരി — അതായത് പരീക്ഷയിൽ പൂർണ്ണമായി തെറ്റ്.\n• സമയവാക്ക് മാറ്റങ്ങൾ ഓർക്കുക: ഇന്ന് → ആ ദിവസം; നാളെ → പിറ്റേന്ന്; ഇന്നലെ → തലേന്ന് — ഇംഗ്ലീഷിലും ഇതേ മാറ്റം.\n• ⭐ PSC ആവർത്തനം: will-ഉം tomorrow-ഉം ഒരുമിച്ചുള്ള ഈ കൃത്യമായ ചോദ്യം PSC പലതവണ ചോദിച്ചിട്ടുണ്ട്!\n• ഉദാഹരണ sentences:\n1. She said, \"I will call you tomorrow.\" → She said that she would call me the next day. (രണ്ട് മാറ്റവും നടന്നു)\n2. He said, \"I met her yesterday.\" → He said that he had met her the previous day. (ഇന്നലെ → തലേന്ന്)\n3. They said, \"We will start now.\" → They said that they would start then. (ഇപ്പോൾ → അപ്പോൾ)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) will come tomorrow — രണ്ട് മാറ്റവും ഇല്ല; direct രൂപം അതേപടി.\n\n• (B) would come tomorrow — tense മാറ്റി, സമയവാക്ക് മാറ്റിയില്ല — പാതി ശരി.\n• 🪤 PSC Trap: ഈ 'പാതി ശരി' option ആണ് ഏറ്റവും കൂടുതൽ പേരെ വീഴ്ത്തുന്നത്!\n\n• (C) will come the next day — സമയവാക്ക് മാറ്റി, tense മാറ്റിയില്ല — ഇതും പാതി ശരി മാത്രം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"രണ്ട് താക്കോലുള്ള പൂട്ട്!\" — tense മാറ്റം ഒരു താക്കോൽ, സമയവാക്ക് മാറ്റം രണ്ടാമത്തേത്; രണ്ടും തിരിച്ചാലേ പൂട്ട് തുറക്കൂ.\n• Rule family: will→would + tomorrow→the next day — ഈ ഇരട്ട മാറ്റങ്ങൾ ജോഡിയായി പഠിക്കുക.\n• PSC strategy: indirect speech options-ൽ ആദ്യം would ഉള്ളവ മാത്രം എടുക്കുക; അവയിൽ സമയവാക്കും മാറിയത് ഏതെന്ന് നോക്കുക. രണ്ട് ഘട്ടം — ഒരിക്കലും miss ആകില്ല!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q45",
@@ -687,7 +891,13 @@
     "optionB": "were",
     "optionC": "is",
     "optionD": "has been",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) were\n\n• 'Neither...nor' വരുമ്പോൾ verb തീരുമാനിക്കുന്നത് അടുത്തുള്ള subject ആണ് — ഇതാണ് proximity rule (സാമീപ്യ നിയമം).\n• nor-ന് ശേഷം 'the teachers' (പലർ) ആയതിനാൽ plural verb → were.\n• 'പ്രിൻസിപ്പലും അധ്യാപകരും ചടങ്ങിൽ ഉണ്ടായിരുന്നില്ല' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Neither...nor / Either...or വന്നാൽ verb-നെ തീരുമാനിക്കുന്നത് അടുത്തുള്ള subject!\n• nor/or കഴിഞ്ഞ് വരുന്നത് ഒരാളാണെങ്കിൽ singular verb, പലരാണെങ്കിൽ plural verb — ഇതാണ് സാമീപ്യ നിയമം.\n• ഇവിടെ nor-ന് ശേഷം teachers (പലർ) വന്നതിനാൽ were; ക്രമം തിരിച്ചായിരുന്നെങ്കിൽ was ആകുമായിരുന്നു.\n• ⭐ PSC ആവർത്തനം: സാമീപ്യ നിയമ ചോദ്യം subject-verb agreement-ലെ ഏറ്റവും പ്രിയപ്പെട്ട PSC ചോദ്യമാണ്!\n• ഉദാഹരണ sentences:\n1. Neither Ravi nor his friends were present. (അടുത്തുള്ളത് friends ആയതിനാൽ were)\n2. Either the students or the teacher is responsible. (അടുത്തുള്ളത് teacher ആയതിനാൽ is)\n3. Neither she nor I am to blame. (അടുത്തുള്ളത് I ആയതിനാൽ am)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) was — അടുത്ത subject 'teachers' plural ആയതിനാൽ was പറ്റില്ല.\n• 🪤 PSC Trap: 'principal' എന്ന ആദ്യ subject നോക്കി singular തിരഞ്ഞെടുപ്പിക്കാനുള്ള കെണി — നോക്കേണ്ടത് അടുത്തുള്ളതിനെയാണ്!\n\n• (C) is — present tense; 'at the function' എന്ന കഴിഞ്ഞ സന്ദർഭത്തിന് past വേണം.\n\n• (D) has been — present perfect; ഇവിടെ ലളിതമായ past മതി.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Verb-ന്റെ അയൽക്കാരനാണ് രാജാവ്!\" — nor/or കഴിഞ്ഞ് വരുന്ന അയൽക്കാരൻ singular എങ്കിൽ verb singular, plural എങ്കിൽ plural.\n• Rule family: neither...nor, either...or, not only...but also — മൂന്നിലും proximity rule ബാധകം.\n• PSC strategy: ഈ ഘടന കണ്ടാൽ ആദ്യ subject-നെ മറക്കുക; verb-നോട് ഏറ്റവും അടുത്ത subject-നെ മാത്രം നോക്കി ഉത്തരം എഴുതുക. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q46",
@@ -701,7 +911,13 @@
     "optionB": "were",
     "optionC": "is",
     "optionD": "have been",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) is\n\n• 'Either of + plural noun' വന്നാലും verb singular ആണ് — either എന്നാൽ 'രണ്ടിൽ ഒന്ന്' എന്നർത്ഥം.\n• 'answers' plural ആണെങ്കിലും അതിൽ ഒന്നിനെ മാത്രമാണ് ഉദ്ദേശിക്കുന്നത് → is.\n• 'രണ്ട് ഉത്തരങ്ങളിൽ ഏതെങ്കിലും ഒന്ന് ശരിയാണ്' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Either of / Neither of / Each of + plural noun വന്നാലും verb എപ്പോഴും singular!\n• 'of'-ന് ശേഷം plural noun വന്നാലും യഥാർത്ഥ subject either/neither/each ആണ് — അവ മൂന്നും singular സ്വഭാവക്കാർ.\n• ഇതേ കുടുംബത്തിലെ മറ്റംഗങ്ങൾ: one of, none of — ഇവയും singular verb എടുക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: 'either of/neither of' singular verb ചോദ്യം PSC വർഷാവർഷം ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. Neither of the roads leads to the temple. (രണ്ട് വഴികളിൽ ഒന്നും എത്തില്ല — singular verb)\n2. Each of the players has a jersey. (ഓരോ കളിക്കാരനും ഉണ്ട് — has)\n3. One of my friends lives in Kannur. (കൂട്ടുകാരിൽ ഒരാൾ താമസിക്കുന്നു — lives)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) are — 'answers' എന്ന plural കണ്ട് are ഇടുന്നതാണ് classic തെറ്റ്; subject 'either' ആണ്.\n• 🪤 PSC Trap: of-ന് ശേഷമുള്ള plural noun ആണ് കണ്ണ് തെറ്റിക്കുന്ന ഇര — യഥാർത്ഥ subject-നെ മറയ്ക്കുന്നു!\n\n• (B) were — plural-ഉം past-ഉം; രണ്ടും ഇവിടെ ചേരില്ല.\n\n• (D) have been — plural perfect; singular subject-നോട് ഒട്ടും ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"OF-ന്റെ പിന്നിലുള്ളവരെ കാണരുത്!\" — either OF the answers എന്നതിൽ verb നോക്കേണ്ടത് either-നെ; of-ന്റെ പിന്നിലുള്ള plural വെറും തിരശ്ശീലയാണ്.\n• Word family: either of, neither of, each of, one of — നാലും singular verb കുടുംബം; ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: '___ of + plural noun' ഘടന കണ്ടാൽ plural noun-നെ മറച്ചുപിടിച്ച് വായിക്കുക — 'Either is correct' എന്ന് കേട്ടാൽ സംശയമേ വരില്ല. ഒരിക്കലും miss ആകില്ല!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q47",
@@ -715,7 +931,13 @@
     "optionB": "was",
     "optionC": "have been",
     "optionD": "are",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) was\n\n• 'Every student and every teacher' — and ഉണ്ടെങ്കിലും every ആവർത്തിക്കുമ്പോൾ verb singular ആണ്.\n• every/each ഓരോ ആളെയും വെവ്വേറെ കണക്കാക്കുന്നു — അതിനാൽ singular → was invited.\n• 'ഓരോ വിദ്യാർത്ഥിയും ഓരോ അധ്യാപകനും സെമിനാറിലേക്ക് ക്ഷണിക്കപ്പെട്ടു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Every...and every... / Each...and each... → verb എപ്പോഴും singular!\n• സാധാരണ 'A and B' plural verb എടുക്കും; പക്ഷേ every/each മുന്നിൽ വന്നാൽ ആ നിയമം മാറും.\n• കാരണം: every/each ഓരോന്നിനെയും ഒറ്റയ്ക്കൊറ്റയ്ക്ക് കാണുന്നു — കൂട്ടമായി അല്ല.\n• ⭐ PSC ആവർത്തനം: 'every X and every Y' singular verb ചോദ്യം PSC-യുടെ പ്രിയപ്പെട്ട advanced trap!\n• ഉദാഹരണ sentences:\n1. Every man and every woman was given a form. (ഓരോരുത്തർക്കും — was)\n2. Each boy and each girl has a seat. (ഓരോ കുട്ടിക്കും — has)\n3. Every house and every shop was decorated. (ഓരോന്നും — was)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) were — 'and' കണ്ട് plural ഇടുന്നതാണ് സ്വാഭാവിക തെറ്റ്; every ഉള്ളതിനാൽ singular വേണം.\n• 🪤 PSC Trap: 'student and teacher = രണ്ടുപേർ = were' എന്ന ചിന്തയാണ് കെണി — every എന്ന വാക്ക് നിയമം മാറ്റുന്നു!\n\n• (C) have been — plural perfect; singular subject-ന് ചേരില്ല.\n\n• (D) are — plural present; tense-ഉം number-ഉം രണ്ടും തെറ്റ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"every കണ്ടാൽ എല്ലാം ഒറ്റയ്ക്ക്!\" — every/each എന്നിവ കൂട്ടത്തെ ഒറ്റയൊറ്റയായി പിരിച്ചു കാണിക്കുന്ന ഭൂതക്കണ്ണാടിയാണ്.\n• Rule family: every...and every / each...and each → singular; വെറും A and B → plural — ഈ വ്യത്യാസം ഉറപ്പിക്കുക.\n• PSC strategy: and കണ്ട ഉടനെ plural എഴുതരുത് — മുന്നിൽ every/each ഉണ്ടോ എന്ന് ഒരു നിമിഷം നോക്കുക. ആ ഒറ്റ നോട്ടം മതി guaranteed mark-ന്!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q48",
@@ -729,7 +951,13 @@
     "optionB": "were",
     "optionC": "is",
     "optionD": "have been",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) is\n\n• ദൂരം, തുക, സമയം, ഭാരം — ഇവ ഒറ്റ അളവായി കണക്കാക്കുമ്പോൾ singular verb ആണ് വേണ്ടത്.\n• 'Ten kilometres' എന്നത് പത്ത് വ്യത്യസ്ത കിലോമീറ്ററുകളല്ല — 'ഒരു ദൂരം' എന്ന ഒറ്റ ആശയമാണ് → is.\n• 'പത്ത് കിലോമീറ്റർ നടക്കാൻ വലിയ ദൂരമാണ്' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ദൂരം/തുക/സമയം/ഭാരം ഒറ്റ യൂണിറ്റായി പറഞ്ഞാൽ → singular verb!\n• Ten kilometres is..., Five hundred rupees is..., Two hours is... — എല്ലാം ഒറ്റ അളവ്.\n• plural രൂപം കണ്ട് plural verb ഇടരുത് — ആശയം ഒന്നാണോ എന്നതാണ് ചോദ്യം.\n• ⭐ PSC ആവർത്തനം: 'Ten kilometres is/are' മാതൃകയിലുള്ള ചോദ്യം PSC-യുടെ പതിവ് വരവുകാരനാണ്!\n• ഉദാഹരണ sentences:\n1. Five thousand rupees is a big amount. (ഒറ്റ തുക — is)\n2. Two hours is enough for this work. (ഒറ്റ സമയയളവ് — is)\n3. Fifty kilograms is too heavy for me. (ഒറ്റ ഭാരം — is)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) are — 'kilometres' എന്ന plural രൂപം കണ്ടുള്ള തെറ്റ്; ആശയം ഒറ്റ ദൂരമായതിനാൽ singular വേണം.\n• 🪤 PSC Trap: plural spelling ആണ് ഇവിടത്തെ മുഴുവൻ കെണിയും — അർത്ഥത്തിലേക്ക് നോക്കൂ, രൂപത്തിലേക്കല്ല!\n\n• (B) were — plural-ഉം past-ഉം; രണ്ടും ഇവിടെ അനാവശ്യം.\n\n• (D) have been — plural perfect; ഒറ്റ അളവിനോട് ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"അളവുകൾ ഒറ്റക്കെട്ടാണ്!\" — പത്ത് കിലോമീറ്ററും അഞ്ഞൂറ് രൂപയും രണ്ട് മണിക്കൂറും ഓരോ 'ഒറ്റ സാധനം' ആയി കാണുക.\n• Rule family: ദൂരം (kilometres), പണം (rupees), സമയം (hours), ഭാരം (kilograms) — നാല് അളവു കുടുംബങ്ങൾക്കും singular verb.\n• PSC strategy: സംഖ്യ + അളവ് + is/are ചോദ്യം കണ്ടാൽ ചോദിക്കുക — 'ഇത് ഒറ്റ അളവാണോ?' അതെ എങ്കിൽ singular. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q49",
@@ -743,7 +971,13 @@
     "optionB": "Wayanad is the greenest district in Kerala.",
     "optionC": "Wayanad is greener than all the districts in Kerala.",
     "optionD": "Wayanad is as green as the other districts in Kerala.",
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Wayanad is one of the greenest districts in Kerala.\n\n• 'Very few districts are as green as Wayanad' എന്നതിന്റെ ശരിയായ മാറ്റം 'one of the greenest' ആണ്.\n• 'വളരെ കുറച്ച് ജില്ലകളേ വയനാടിനോളം പച്ചപ്പുള്ളൂ' = 'വയനാട് ഏറ്റവും പച്ചപ്പുള്ള ജില്ലകളിൽ ഒന്നാണ്'.\n• 'the greenest' (ഏറ്റവും പച്ചപ്പുള്ള ഒരേയൊരു ജില്ല) എന്നല്ല — അതിനാൽ 'one of' നിർബന്ധം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Very few X are as Y as Z = Z is one of the Y-est X!\n• 'Very few' എന്നാൽ ചിലതെങ്കിലും ഉണ്ട് എന്നർത്ഥം — അതിനാൽ Z ഒന്നാമൻ അല്ല, മുൻനിരക്കാരിൽ ഒരാൾ മാത്രം.\n• താരതമ്യം ചെയ്യുക: 'No other district is as green as' ആയിരുന്നെങ്കിൽ 'the greenest' ആകുമായിരുന്നു.\n• ⭐ PSC ആവർത്തനം: 'Very few' vs 'No other' — ഈ രണ്ട് conversion pattern-ഉം PSC മാറിമാറി ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. Very few metals are as useful as iron. = Iron is one of the most useful metals. (മുൻനിരയിൽ ഒന്ന്)\n2. No other planet is as bright as Venus. = Venus is the brightest planet. (ഒന്നാമൻ)\n3. Very few cities are as old as Kollam. = Kollam is one of the oldest cities. (പഴക്കമുള്ളവയിൽ ഒന്ന്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) the greenest district — 'No other district is as green as' എന്നായിരുന്നെങ്കിൽ ഇത് ശരി; 'Very few' ആയതിനാൽ one of വേണം.\n• 🪤 PSC Trap: 'Very few'-ഉം 'No other'-ഉം തമ്മിലുള്ള ചെറിയ വ്യത്യാസമാണ് ഈ ചോദ്യത്തിന്റെ ഹൃദയം — അതറിയാത്തവർ ഇവിടെ വീഴും!\n\n• (C) greener than all the districts — 'all the districts'-ൽ വയനാടും പെടും; സ്വയം താരതമ്യം അസംബന്ധമാണ്; 'all other districts' എന്നായിരുന്നെങ്കിൽ ശരിയാകുമായിരുന്നു.\n\n• (D) as green as the other districts — അർത്ഥം തന്നെ മാറി; വയനാട് മികച്ചതാണെന്ന ആശയം നഷ്ടപ്പെട്ടു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Very few = മുൻനിര ടീമിലെ അംഗം (one of); No other = ഒന്നാം സ്ഥാനക്കാരൻ (the -est)\" — ഈ രണ്ട് ചിത്രങ്ങൾ ഓർക്കുക.\n• Rule family: degree conversion മൂന്ന് രൂപങ്ങൾ — positive, comparative, superlative — ഒരേ ആശയം മൂന്ന് വേഷത്തിൽ.\n• PSC strategy: conversion ചോദ്യത്തിൽ ആദ്യം നോക്കേണ്ടത് 'Very few' ആണോ 'No other' ആണോ എന്നതാണ് — അതിലുണ്ട് ഉത്തരത്തിന്റെ പാതി. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q50",
@@ -757,7 +991,13 @@
     "optionB": "longest",
     "optionC": "more long",
     "optionD": "longer",
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) longer\n\n• 'than any other river' എന്ന ഘടനയോട് ചേരുന്നത് comparative degree ആണ് → longer.\n• 'മറ്റേതൊരു നദിയേക്കാളും നീളമുള്ളത്' — രണ്ട് കൂട്ടരെ താരതമ്യം ചെയ്യുമ്പോൾ comparative.\n• 'പെരിയാർ കേരളത്തിലെ മറ്റേതൊരു നദിയേക്കാളും നീളമുള്ളതാണ്' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: than any other + singular noun → comparative degree (-er/more)!\n• 'than' കണ്ടാൽ comparative ഉറപ്പ് — the -est (superlative) than-നോടൊപ്പം വരില്ല.\n• ശ്രദ്ധിക്കുക: 'any other' ആണ് ശരി — 'any river' എന്നായാൽ പെരിയാറും അതിൽ പെടും എന്ന തെറ്റ് വരും.\n• ⭐ PSC ആവർത്തനം: 'than any other' ഘടനയിലെ comparative ചോദ്യം PSC-യുടെ സ്ഥിരം ചോദ്യമാണ്!\n• ഉദാഹരണ sentences:\n1. Anandu is taller than any other boy in the class. (മറ്റേതൊരു കുട്ടിയേക്കാളും ഉയരം)\n2. Gold is costlier than any other metal here. (മറ്റേതിനേക്കാളും വില)\n3. This is sweeter than any other mango I bought. (മറ്റേതിനേക്കാളും മധുരം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) long — positive degree; than-നോടൊപ്പം വെറും long വരില്ല.\n\n• (B) longest — superlative; than ഉള്ളിടത്ത് -est വരില്ല; 'the longest river in Kerala' എന്ന് than ഇല്ലാതെ പറഞ്ഞാലേ ശരിയാകൂ.\n• 🪤 PSC Trap: 'മറ്റെല്ലാറ്റിനേക്കാളും' എന്ന അർത്ഥം കേട്ട് superlative ഇടുവിക്കാനുള്ള കെണി — than ആണ് യഥാർത്ഥ സൂചന!\n\n• (C) more long — long-ന് സ്വന്തം comparative ഉണ്ട് (longer); more long എന്ന ഇരട്ടിപ്പ് തെറ്റ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"THAN കണ്ടാൽ -ER!\" — than എന്ന വാക്കും -er എന്ന വാലും എപ്പോഴും ഒരുമിച്ച് സഞ്ചരിക്കുന്ന കൂട്ടുകാരാണ്.\n• Rule family: comparative + than any other + singular noun = superlative അർത്ഥം — ഒരേ ആശയത്തിന്റെ രണ്ട് വേഷങ്ങൾ.\n• PSC strategy: blank-ന് ശേഷം than ഉണ്ടോ എന്ന് നോക്കുക — ഉണ്ടെങ്കിൽ -er/more ഉള്ള option മാത്രം പരിഗണിക്കുക; -est options ഉടനെ വെട്ടുക. ഒരിക്കലും miss ആകില്ല!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q51",
@@ -771,7 +1011,13 @@
     "optionB": "sweeter",
     "optionC": "most sweet",
     "optionD": "sweetest",
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) sweetest\n\n• 'the _______ mango I have ever tasted' — 'ഇതുവരെ രുചിച്ചതിൽ ഏറ്റവും' എന്ന അർത്ഥം → superlative degree.\n• 'the + -est + ever' എന്ന ഘടന superlative-ന്റെ വ്യക്തമായ അടയാളമാണ്.\n• 'ഞാൻ ഇതുവരെ രുചിച്ചതിൽ ഏറ്റവും മധുരമുള്ള മാങ്ങയാണിത്' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: the + _____ + ever കണ്ടാൽ → superlative (-est) ഉറപ്പ്!\n• 'ever' എന്ന വാക്ക് 'ഇതുവരെയുള്ളതിൽ വച്ച്' എന്ന അർത്ഥം തരുന്നു — അത് superlative-നോട് മാത്രം ചേരും.\n• ഒറ്റ syllable വാക്കുകൾക്ക് -est (sweetest, tallest); നീണ്ട വാക്കുകൾക്ക് most (most beautiful).\n• ⭐ PSC ആവർത്തനം: 'ever' ഉള്ള superlative ചോദ്യം PSC-യിൽ ഇടയ്ക്കിടെ പ്രത്യക്ഷപ്പെടുന്നു!\n• ഉദാഹരണ sentences:\n1. This is the best film I have ever seen. (ഇതുവരെ കണ്ടതിൽ ഏറ്റവും മികച്ചത്)\n2. She is the kindest person I have ever met. (ഇതുവരെ കണ്ടതിൽ ഏറ്റവും ദയയുള്ളവൾ)\n3. That was the hardest exam I have ever written. (ഇതുവരെ എഴുതിയതിൽ ഏറ്റവും കഠിനം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) sweet — positive degree; 'the...ever' ഘടനയോട് ചേരില്ല.\n\n• (B) sweeter — comparative; than വരുമ്പോൾ മാത്രമേ -er വരൂ; ഇവിടെ than ഇല്ല.\n• 🪤 PSC Trap: -er/-est മാറ്റിയിട്ട് കുഴക്കുന്നതാണ് degree ചോദ്യങ്ങളിലെ സ്ഥിരം കെണി!\n\n• (C) most sweet — sweet-ന് സ്വന്തം superlative ഉണ്ട് (sweetest); most sweet എന്ന ഇരട്ടിപ്പ് തെറ്റ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"EVER കണ്ടാൽ EST!\" — രണ്ടിലും E ഉണ്ട്; ഈ ജോഡി ഒരുമിച്ചേ നടക്കൂ.\n• Rule family: the + -est + (I have) ever + V3 — ഈ മുഴുവൻ pattern ഒറ്റ ഫോട്ടോ പോലെ ഓർക്കുക.\n• PSC strategy: blank-ന് മുന്നിൽ 'the'-ഉം പിന്നിൽ 'ever'-ഉം കണ്ടാൽ മറ്റൊന്നും ആലോചിക്കാതെ -est option തിരഞ്ഞെടുക്കുക. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q52",
@@ -785,7 +1031,13 @@
     "optionB": "did",
     "optionC": "had",
     "optionD": "was",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) had\n\n• 'No sooner' വാക്യത്തിന്റെ തുടക്കത്തിൽ വന്നാൽ inversion നടക്കും — helping verb subject-ന് മുന്നിൽ വരും.\n• 'rung' എന്ന V3 തന്നിരിക്കുന്നതിനാൽ past perfect വേണം → No sooner had the bell rung.\n• 'മണി മുഴങ്ങിയ ഉടനെ കുട്ടികൾ പുറത്തേക്ക് ഓടി' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: No sooner had + subject + V3... than...! — ജോഡി എപ്പോഴും than!\n• No sooner-നോട് ചേരുന്നത് than മാത്രം — when-ഓ but-ഓ അല്ല; ഇത് correlative നിയമം.\n• ആദ്യ പ്രവൃത്തിക്ക് past perfect (had + V3), രണ്ടാമത്തേതിന് simple past — ക്രമം കാണിക്കാൻ.\n• ⭐ PSC ആവർത്തനം: 'No sooner...than' PSC-യുടെ എക്കാലത്തെയും പ്രിയപ്പെട്ട correlative ചോദ്യമാണ്!\n• ഉദാഹരണ sentences:\n1. No sooner had she arrived than it started raining. (അവൾ എത്തിയ ഉടനെ മഴ തുടങ്ങി)\n2. No sooner had he seen the police than he ran away. (പോലീസിനെ കണ്ട ഉടനെ ഓടി)\n3. No sooner had we sat down than the phone rang. (ഇരുന്ന ഉടനെ ഫോൺ ബെല്ലടിച്ചു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) has — present perfect; കഴിഞ്ഞകാല സംഭവങ്ങളുടെ ക്രമത്തിന് had വേണം.\n\n• (B) did — did വന്നാൽ പിന്നിൽ V1 വേണം (did the bell ring); ഇവിടെ 'rung' എന്ന V3 തന്നിരിക്കുന്നു.\n• 🪤 PSC Trap: 'No sooner did... ring' എന്ന ശരിയായ മറ്റൊരു ഘടനയുണ്ട് — പക്ഷേ ഇവിടെ rung ആയതിനാൽ had മാത്രമേ ചേരൂ; verb form നോക്കാത്തവർ വീഴും!\n\n• (D) was — was + rung passive ആകും; മണി സ്വയം മുഴങ്ങിയതിനാൽ ഇവിടെ ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"No sooner HAD... THAN\" — ഈ മൂന്ന് വാക്കുകൾ ഒരു ചങ്ങലയായി ഓർക്കുക; ഇടയിലെ കണ്ണികൾ മാറില്ല.\n• Rule family: correlative ജോഡികൾ — no sooner...than, hardly...when, scarcely...when — മൂന്നും 'ഉടനെ' കുടുംബം.\n• PSC strategy: blank-ന് ശേഷമുള്ള main verb-ന്റെ രൂപം നോക്കുക — V3 (rung) എങ്കിൽ had; V1 (ring) എങ്കിൽ did. ഈ ഒറ്റ പരിശോധന മതി. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q53",
@@ -799,7 +1051,13 @@
     "optionB": "Neither, or",
     "optionC": "Neither, nor",
     "optionD": "No sooner, than",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Neither, nor\n\n• 'ആരും അറിഞ്ഞില്ല' എന്ന negative അർത്ഥത്തിന് Neither...nor എന്ന ജോഡിയാണ് വേണ്ടത്.\n• Correlatives എപ്പോഴും നിശ്ചിത ജോഡികളായാണ് വരുന്നത് — കൂട്ട് മാറ്റാൻ പറ്റില്ല.\n• 'മാനേജരോ ജീവനക്കാരോ ആരും surprise audit-നെക്കുറിച്ച് അറിഞ്ഞിരുന്നില്ല' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: neither-ന് nor; either-ന് or — ജോഡി മാറിയാൽ തെറ്റ്!\n• Correlative ജോഡികൾ: neither...nor, either...or, not only...but also, both...and, no sooner...than.\n• 'neither...or' എന്നും 'either...nor' എന്നും എഴുതുന്നത് ഏറ്റവും സാധാരണമായ തെറ്റുകളാണ്.\n• ⭐ PSC ആവർത്തനം: correlative ജോഡി തെറ്റിച്ച options ഇടുന്നത് PSC-യുടെ സ്ഥിരം രീതിയാണ്!\n• ഉദാഹരണ sentences:\n1. Neither Anu nor Binu came to the party. (രണ്ടുപേരും വന്നില്ല)\n2. Either you or your brother has to sign. (രണ്ടിലൊരാൾ ഒപ്പിടണം)\n3. She is not only beautiful but also intelligent. (സുന്ദരി മാത്രമല്ല ബുദ്ധിമതിയും)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Either, nor — ജോഡി തെറ്റി; either-ന്റെ കൂട്ട് or ആണ്, nor അല്ല.\n• 🪤 PSC Trap: വാക്കുകൾ പരിചിതമായതിനാൽ ജോഡി തെറ്റിയത് പെട്ടെന്ന് കണ്ണിൽ പെടില്ല — സൂക്ഷിച്ച് നോക്കുക!\n\n• (B) Neither, or — ഇതും ജോഡി തെറ്റ്; neither-ന്റെ കൂട്ട് nor മാത്രം.\n\n• (D) No sooner, than — ഈ ജോഡി ശരിയാണെങ്കിലും അർത്ഥം ചേരില്ല; 'ഉടനെ' എന്ന ആശയമല്ല ഇവിടെ വേണ്ടത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"N-ന് N, E-ന് O!\" — Neither-Nor (രണ്ടും N), Either-Or (E കഴിഞ്ഞാൽ O) — അക്ഷരങ്ങൾ തന്നെ ജോഡി പറഞ്ഞുതരും.\n• Rule family: അഞ്ച് correlative ജോഡികൾ ഒരു പട്ടികയായി പഠിക്കുക — ഇവ മാറിക്കൂടാ എന്നതാണ് ഏക നിയമം.\n• PSC strategy: correlative ചോദ്യത്തിൽ ആദ്യം ജോഡി ശരിയായ options മാത്രം എടുക്കുക; പിന്നെ അർത്ഥം നോക്കി തീരുമാനിക്കുക. ഒരിക്കലും miss ആകില്ല!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q54",
@@ -813,7 +1071,13 @@
     "optionB": "eating",
     "optionC": "eat",
     "optionD": "ate",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) eating\n\n• 'avoid' എന്ന verb-ന് ശേഷം എപ്പോഴും gerund (-ing രൂപം) ആണ് വരുന്നത് → avoid eating.\n• ചില verbs gerund മാത്രം എടുക്കും — avoid അതിലൊന്നാണ്; to eat എന്ന infinitive വരില്ല.\n• 'എണ്ണമയമുള്ള ഭക്ഷണം ഒഴിവാക്കാൻ ഡോക്ടർ അവനെ ഉപദേശിച്ചു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: avoid, enjoy, finish, mind, suggest — ഇവയ്ക്ക് ശേഷം എപ്പോഴും gerund (-ing)!\n• ഈ verbs-ന് ശേഷം to + V1 വന്നാൽ തെറ്റാണ് — 'avoid to eat' എന്നൊരു പ്രയോഗം ഇംഗ്ലീഷിലില്ല.\n• ഓർക്കാനുള്ള എളുപ്പവഴി: MEFAS എന്ന ചുരുക്കപ്പേര് — ഈ അഞ്ചുപേരും -ing മാത്രമേ എടുക്കൂ.\n• ⭐ PSC ആവർത്തനം: avoid/enjoy കഴിഞ്ഞ് gerund ചോദിക്കുന്ന ചോദ്യം PSC-യിൽ വളരെ പതിവാണ്!\n• ഉദാഹരണ sentences:\n1. She enjoys reading storybooks. (കഥാപുസ്തകം വായിക്കുന്നത് ആസ്വദിക്കുന്നു)\n2. He finished writing the letter. (കത്ത് എഴുതി തീർത്തു)\n3. Would you mind opening the window? (ജനൽ തുറക്കുന്നതിൽ വിരോധമുണ്ടോ?)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) to eat — infinitive; avoid-ന് ശേഷം വരില്ല; want/decide/hope കുടുംബത്തിനാണ് to + V1.\n• 🪤 PSC Trap: 'to eat' കേൾക്കാൻ സ്വാഭാവികമായി തോന്നും — verb കുടുംബം അറിയാത്തവർ ഇവിടെ വീഴും!\n\n• (C) eat — വെറും V1; avoid-ന് ശേഷം നേരിട്ട് V1 വരില്ല.\n\n• (D) ate — past രൂപം; ഒരു verb-ന് ശേഷം മറ്റൊരു verb past രൂപത്തിൽ വരുന്ന ഘടനയേ ഇല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"MEFAS സംഘം -ing പാർട്ടിക്കാരാണ്!\" — Mind, Enjoy, Finish, Avoid, Suggest — അഞ്ചുപേരും gerund മാത്രമേ എടുക്കൂ.\n• Rule family: gerund verbs (avoid, enjoy, finish, mind, suggest) vs infinitive verbs (want, decide, hope, plan, agree) — രണ്ട് ടീമുകളായി പഠിക്കുക.\n• PSC strategy: blank-ന് മുന്നിലുള്ള verb ഏത് ടീമിലാണെന്ന് ആദ്യം തിരിച്ചറിയുക — ടീം അറിഞ്ഞാൽ ഉത്തരം കിട്ടി. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q55",
@@ -827,7 +1091,13 @@
     "optionB": "to clear",
     "optionC": "clear",
     "optionD": "cleared",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) to clear\n\n• 'hope' എന്ന verb-ന് ശേഷം എപ്പോഴും infinitive (to + V1) ആണ് വരുന്നത് → hope to clear.\n• ഭാവിയിലേക്കുള്ള ആഗ്രഹങ്ങളും പദ്ധതികളും കാണിക്കുന്ന verbs infinitive എടുക്കും.\n• 'ഈ വർഷം എൻട്രൻസ് പരീക്ഷ പാസാകുമെന്ന് അവൾ പ്രതീക്ഷിക്കുന്നു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: hope, want, decide, plan, agree, promise → എപ്പോഴും to + V1!\n• ഭാവി ലക്ഷ്യം കാണിക്കുന്ന verbs ആണ് ഇവ — ലക്ഷ്യത്തിലേക്കുള്ള അമ്പടയാളമാണ് 'to'.\n• 'hope clearing' എന്ന ഗതിയില്ല — hope-ന് gerund വരില്ല.\n• ⭐ PSC ആവർത്തനം: hope/decide + infinitive ചോദ്യങ്ങൾ പരീക്ഷകളിൽ പതിവായി വരുന്നു!\n• ഉദാഹരണ sentences:\n1. He decided to buy a new house. (വാങ്ങാൻ തീരുമാനിച്ചു — to buy)\n2. They plan to visit Munnar next month. (സന്ദർശിക്കാൻ പദ്ധതിയിടുന്നു — to visit)\n3. She promised to help me. (സഹായിക്കാമെന്ന് വാക്ക് നൽകി — to help)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) clearing — gerund; hope-ന് ശേഷം വരില്ല; avoid/enjoy കുടുംബത്തിനാണ് -ing.\n• 🪤 PSC Trap: gerund/infinitive ടീമുകൾ മാറ്റി options ഇടുന്നതാണ് ഈ മേഖലയിലെ സ്ഥിരം കെണി!\n\n• (C) clear — വെറും V1; hope-ന് ശേഷം നേരിട്ട് V1 വരില്ല; 'to' നിർബന്ധം.\n\n• (D) cleared — past രൂപം; ഇവിടെ ഒരു സ്ഥാനവുമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ഭാവിയിലേക്ക് നോക്കുന്ന verbs-ന് TO എന്ന അമ്പടയാളം!\" — hope, want, plan, decide — എല്ലാം നാളെയിലേക്ക് ചൂണ്ടുന്നു.\n• Rule family: infinitive ടീം — hope, want, decide, plan, agree, promise, refuse — ഏഴുപേരും to + V1 എടുക്കും.\n• PSC strategy: verb ഭാവി ലക്ഷ്യത്തെക്കുറിച്ചാണോ എന്ന് ചോദിക്കുക — അതെ എങ്കിൽ to + V1 ഏതാണ്ട് ഉറപ്പ്. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q56",
@@ -841,7 +1111,13 @@
     "optionB": "to lock",
     "optionC": "lock",
     "optionD": "locked",
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) locking\n\n• 'remember + gerund' = ചെയ്തത് ഓർക്കുന്നു (കഴിഞ്ഞ കാര്യം); 'remember + to V1' = ചെയ്യാൻ ഓർക്കണം (വരാനുള്ള കാര്യം).\n• ഇവിടെ 'distinctly remember' — പൂട്ടിയത് വ്യക്തമായി ഓർക്കുന്നു എന്നാണ് → locking.\n• 'വീട്ടിൽ നിന്നിറങ്ങും മുമ്പ് വാതിൽ പൂട്ടിയത് എനിക്ക് വ്യക്തമായി ഓർമ്മയുണ്ട്' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: remember + -ing = ചെയ്തത് ഓർക്കുന്നു; remember + to V1 = ചെയ്യാനുള്ളത് ഓർക്കുന്നു!\n• അർത്ഥം മാറുന്ന ഇരട്ട സ്വഭാവ verbs: remember, forget, stop, try — ഇവയ്ക്ക് രണ്ട് രൂപവും വരാം, അർത്ഥം വ്യത്യസ്തം.\n• stop smoking = പുകവലി നിർത്തി; stop to smoke = പുകവലിക്കാൻ നിന്നു — വ്യത്യാസം ശ്രദ്ധിക്കുക!\n• ⭐ PSC ആവർത്തനം: remember/forget/stop-ന്റെ ഇരട്ട അർത്ഥ ചോദ്യം PSC-യുടെ hard-level favourite ആണ്!\n• ഉദാഹരണ sentences:\n1. I remember meeting her at the festival. (കണ്ടത് ഓർക്കുന്നു — കഴിഞ്ഞ കാര്യം)\n2. Remember to post this letter. (അയയ്ക്കാൻ ഓർക്കണം — വരാനുള്ള കാര്യം)\n3. He stopped playing cricket years ago. (കളി നിർത്തി — കഴിഞ്ഞ കാര്യം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) to lock — 'പൂട്ടാൻ ഓർക്കണം' എന്ന ഭാവി അർത്ഥമാകും; പക്ഷേ വാക്യം കഴിഞ്ഞ സംഭവത്തെക്കുറിച്ചാണ് ('before leaving').\n• 🪤 PSC Trap: രണ്ടും വ്യാകരണപരമായി ശരിയായ രൂപങ്ങളാണ് — അർത്ഥം കൊണ്ട് മാത്രമേ വേർതിരിക്കാനാകൂ; അതാണ് ഈ ചോദ്യത്തിന്റെ മുഴുവൻ കളിയും!\n\n• (C) lock — വെറും V1; remember-ന് ശേഷം നേരിട്ട് വരില്ല.\n\n• (D) locked — past രൂപം; remember-ന് ശേഷം ഈ ഘടനയില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"-ing = പിന്നിലേക്ക് നോക്കുന്ന കണ്ണാടി; to = മുന്നിലേക്കുള്ള അമ്പടയാളം!\" — ചെയ്തത് -ing, ചെയ്യാനുള്ളത് to.\n• Rule family: remember, forget, stop, try — ഈ നാല് 'ഇരട്ടമുഖ' verbs ഒരുമിച്ച് ഉദാഹരണ സഹിതം പഠിക്കുക.\n• PSC strategy: വാക്യത്തിലെ സമയസൂചന നോക്കുക — കഴിഞ്ഞ കാര്യമാണെങ്കിൽ -ing, ഇനി ചെയ്യേണ്ടതാണെങ്കിൽ to + V1. ഒരിക്കലും miss ആകില്ല!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q57",
@@ -855,7 +1131,13 @@
     "optionB": "Imperative",
     "optionC": "Exclamatory",
     "optionD": "Interrogative",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Exclamatory\n\n• 'How gracefully...!' — How/What കൊണ്ട് തുടങ്ങി ആശ്ചര്യചിഹ്നത്തിൽ (!) അവസാനിക്കുന്ന വാക്യം → Exclamatory.\n• ശക്തമായ വികാരം (അത്ഭുതം, സന്തോഷം) പ്രകടിപ്പിക്കുന്ന വാക്യങ്ങളാണിവ.\n• 'കഥകളി കലാകാരൻ എത്ര മനോഹരമായി നൃത്തം ചെയ്യുന്നു!' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: How/What + ആശ്ചര്യം + '!' → Exclamatory sentence!\n• നാല് പ്രധാന വാക്യ തരങ്ങൾ: Assertive (പ്രസ്താവന), Interrogative (ചോദ്യം), Imperative (ആജ്ഞ/അഭ്യർത്ഥന), Exclamatory (ആശ്ചര്യം).\n• അഞ്ചാമതൊന്ന് കൂടി: Optative (ആശംസ) — May you live long! പോലുള്ളവ.\n• ⭐ PSC ആവർത്തനം: വാക്യം തന്നിട്ട് തരം ചോദിക്കുന്നത് PSC-യുടെ എളുപ്പ ചോദ്യങ്ങളിലൊന്നാണ് — വിട്ടുകളയരുത്!\n• ഉദാഹരണ sentences:\n1. What a beautiful bird it is! (എത്ര മനോഹരമായ പക്ഷി — Exclamatory)\n2. Kerala is known as God's Own Country. (പ്രസ്താവന — Assertive)\n3. Did you finish your homework? (ചോദ്യം — Interrogative)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Assertive — സാധാരണ പ്രസ്താവനയാണ്; full stop-ൽ അവസാനിക്കും; ഇവിടെ '!' ഉണ്ട്.\n\n• (B) Imperative — ആജ്ഞയോ അഭ്യർത്ഥനയോ വേണം (Close the door); ഇവിടെ അതില്ല.\n• 🪤 PSC Trap: '!' കണ്ടാൽ എപ്പോഴും Exclamatory എന്നല്ല — ചിലപ്പോൾ ആജ്ഞയിലും '!' വരാം; പക്ഷേ How/What തുടക്കം Exclamatory ഉറപ്പിക്കുന്നു!\n\n• (D) Interrogative — ചോദ്യമാകണം, ചോദ്യചിഹ്നം വേണം; ഇവിടെ രണ്ടുമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"How/What + '!' = ആശ്ചര്യപ്പെട്ട് നിൽക്കുന്ന വാക്യം!\" — തുടക്കവും ഒടുക്കവും നോക്കിയാൽ മതി.\n• Rule family: നാല് വാക്യ തരങ്ങളും അവയുടെ അടയാളങ്ങളും — പ്രസ്താവന (.), ചോദ്യം (?), ആജ്ഞ (V1 തുടക്കം), ആശ്ചര്യം (How/What + !).\n• PSC strategy: വാക്യത്തിന്റെ ആദ്യ വാക്കും അവസാന ചിഹ്നവും — ഈ രണ്ടേ രണ്ട് കാര്യങ്ങൾ നോക്കിയാൽ sentence type കിട്ടും. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q58",
@@ -869,7 +1151,13 @@
     "optionB": "Imperative",
     "optionC": "Exclamatory",
     "optionD": "Optative",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Imperative\n\n• 'Bring me...' — verb-ന്റെ അടിസ്ഥാന രൂപത്തിൽ (V1) തുടങ്ങുന്ന ആജ്ഞ/അഭ്യർത്ഥന → Imperative sentence.\n• Subject ('you') മറഞ്ഞിരിക്കുന്നതാണ് imperative-ന്റെ പ്രത്യേകത — (You) bring me a glass of water.\n• 'എനിക്ക് ഒരു ഗ്ലാസ് വെള്ളം കൊണ്ടുവരൂ' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: V1-ൽ തുടങ്ങുന്ന വാക്യം + മറഞ്ഞ subject (you) → Imperative!\n• ആജ്ഞ (Close the door), അഭ്യർത്ഥന (Please help me), ഉപദേശം (Take rest), നിർദ്ദേശം (Turn left) — എല്ലാം imperative.\n• Don't കൊണ്ട് തുടങ്ങുന്ന വിലക്കുകളും imperative തന്നെ: Don't touch it.\n• ⭐ PSC ആവർത്തനം: imperative തിരിച്ചറിയൽ ചോദ്യം PSC-യുടെ എളുപ്പ mark ആണ് — ഉറപ്പായും നേടുക!\n• ഉദാഹരണ sentences:\n1. Open your books at page ten. (ആജ്ഞ — Imperative)\n2. Please wait for five minutes. (അഭ്യർത്ഥന — Imperative)\n3. Don't make noise in the library. (വിലക്ക് — Imperative)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Assertive — വിവരണം നൽകുന്ന പ്രസ്താവനയാകണം; ഇവിടെ ആജ്ഞയാണ്.\n• 🪤 PSC Trap: ചെറിയ വാക്യമായതിനാൽ പ്രസ്താവനയായി തെറ്റിദ്ധരിക്കാം — V1 തുടക്കമാണ് ശരിയായ അടയാളം!\n\n• (C) Exclamatory — How/What തുടക്കവും '!' ഉം വേണം; രണ്ടുമില്ല.\n\n• (D) Optative — ആശംസ വാക്യങ്ങൾക്ക് (May God bless you!) മാത്രം; ഇവിടെ ആശംസയില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"തുടക്കത്തിൽ verb കണ്ടാൽ ആജ്ഞയാണ് കേട്ടോ!\" — subject ഇല്ലാതെ V1-ൽ തുടങ്ങിയാൽ imperative ഉറപ്പ്.\n• Rule family: ആജ്ഞ, അഭ്യർത്ഥന (please), ഉപദേശം, നിർദ്ദേശം, വിലക്ക് (don't) — അഞ്ച് ഭാവങ്ങളും ഒരേ imperative കുടുംബം.\n• PSC strategy: വാക്യത്തിന്റെ ആദ്യ വാക്ക് V1 ആണോ അല്ലെങ്കിൽ Please/Don't ആണോ എന്ന് നോക്കുക — അതെ എങ്കിൽ imperative എഴുതി അടുത്ത ചോദ്യത്തിലേക്ക്. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q59",
@@ -883,7 +1171,13 @@
     "optionB": "hasty",
     "optionC": "careful",
     "optionD": "clumsy",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) careful\n\n• 'meticulous' എന്നാൽ വളരെ സൂക്ഷ്മതയോടെ, ഓരോ ചെറിയ കാര്യവും ശ്രദ്ധിച്ച് ചെയ്യുന്ന എന്നർത്ഥം → careful.\n• ഒരു കണക്ക് ടീച്ചർ പേപ്പർ നോക്കുന്ന അതേ സൂക്ഷ്മത — അതാണ് meticulous.\n• Latin-ൽ നിന്നുള്ള വാക്കാണ്; വിശദാംശങ്ങളിലുള്ള അതീവ ശ്രദ്ധയെ കുറിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: meticulous = careful = സൂക്ഷ്മതയുള്ള — മൂന്നും ഒന്ന്!\n• ഒരേ അർത്ഥ കുടുംബം: meticulous, careful, thorough, precise — എല്ലാം 'ശ്രദ്ധാലു' സംഘം.\n• Synonym ചോദ്യങ്ങളിൽ എതിർ അർത്ഥമുള്ള വാക്ക് (antonym) ഒരു option ആയി ഒളിച്ചിരിക്കും — സൂക്ഷിക്കുക.\n• ⭐ PSC ആവർത്തനം: meticulous പോലുള്ള 'വലിയ' വാക്കുകളുടെ synonym PSC degree-level പരീക്ഷകളിൽ പതിവാണ്!\n• ഉദാഹരണ sentences:\n1. She is meticulous about her accounts. (കണക്കുകളിൽ അതീവ സൂക്ഷ്മത)\n2. He kept meticulous records of every payment. (ഓരോ പേയ്മെന്റിന്റെയും കൃത്യമായ രേഖകൾ)\n3. The artist did meticulous work on the mural. (ചുവർചിത്രത്തിൽ സൂക്ഷ്മമായ ജോലി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) careless — അശ്രദ്ധൻ; ഇത് meticulous-ന്റെ നേർ വിപരീതമാണ് (antonym).\n• 🪤 PSC Trap: synonym ചോദ്യത്തിൽ antonym option വയ്ക്കുന്നത് PSC-യുടെ ഏറ്റവും പഴയ തന്ത്രം — ധൃതിയിൽ വായിക്കുന്നവർ വീഴും!\n\n• (B) hasty — ധൃതിക്കാരൻ; സൂക്ഷ്മതയുടെ എതിർ സ്വഭാവം.\n\n• (D) clumsy — വിരുതില്ലാത്ത, കൈക്കുറ്റപ്പാടുള്ള; അർത്ഥം ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"meticulous-ലെ 'metic' കേട്ടാൽ 'മെറ്റിക്കുലസ് ടീച്ചർ' — ഓരോ അക്ഷരവും നോക്കുന്ന ടീച്ചറെ ഓർക്കുക!\"\n• Word family: careful കുടുംബം — meticulous, thorough, precise, diligent | careless കുടുംബം — hasty, negligent, sloppy.\n• PSC strategy: synonym ചോദ്യത്തിൽ ആദ്യം antonym option കണ്ടുപിടിച്ച് വെട്ടുക — പിന്നെ ബാക്കിയുള്ളവയിൽ നിന്ന് തിരഞ്ഞെടുക്കാൻ എളുപ്പമാകും. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q60",
@@ -897,7 +1191,13 @@
     "optionB": "sorrowful",
     "optionC": "angry",
     "optionD": "silent",
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) joyful\n\n• 'jubilant' എന്നാൽ വലിയ വിജയത്തിൽ ആഹ്ലാദിക്കുന്ന, സന്തോഷം അലതല്ലുന്ന എന്നർത്ഥം → joyful.\n• മത്സരം ജയിച്ച ടീമിന്റെ ആഘോഷം — അതാണ് jubilant എന്ന വാക്കിന്റെ ചിത്രം.\n• Latin 'jubilare' (ആഹ്ലാദിച്ച് ആർക്കുക) എന്ന വാക്കിൽ നിന്നാണ് ഉത്ഭവം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: jubilant = joyful = ആഹ്ലാദഭരിതം!\n• സന്തോഷ കുടുംബം: jubilant, joyful, delighted, elated, overjoyed — എല്ലാം ഒരേ അർത്ഥ വൃത്തം.\n• Etymology സൂചന: jubilant-ഉം jubilee (ജൂബിലി ആഘോഷം)-ഉം ഒരേ വേരിൽ നിന്ന് — രണ്ടും ആഘോഷത്തിന്റെ വാക്കുകൾ.\n• ⭐ PSC ആവർത്തനം: വികാരങ്ങളുടെ synonyms (happy/sad കുടുംബങ്ങൾ) PSC-യിൽ സ്ഥിരമായി വരുന്നു!\n• ഉദാഹരണ sentences:\n1. The jubilant fans celebrated all night. (ആഹ്ലാദഭരിതരായ ആരാധകർ രാത്രി മുഴുവൻ ആഘോഷിച്ചു)\n2. She was jubilant after passing the PSC exam. (പരീക്ഷ ജയിച്ചതിൽ അതിയായ സന്തോഷം)\n3. The team returned home jubilant. (ടീം ആഹ്ലാദത്തോടെ മടങ്ങി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) sorrowful — ദുഃഖിതൻ; നേർ വിപരീതം (antonym).\n• 🪤 PSC Trap: പതിവുപോലെ antonym തന്നെ ആദ്യ കെണി — sorrowful തിരഞ്ഞെടുത്താൽ mark പോയി!\n\n• (C) angry — ദേഷ്യം; സന്തോഷവുമായി ബന്ധമില്ല.\n\n• (D) silent — നിശ്ശബ്ദൻ; അർത്ഥത്തിൽ ഒരു ബന്ധവുമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"jubilant കേട്ടാൽ ജൂബിലി ഓർക്കുക!\" — ജൂബിലി ആഘോഷം = ആഹ്ലാദം; രണ്ട് വാക്കും ഒരേ കുടുംബം.\n• Word family: happy കുടുംബം — jubilant, joyful, delighted, elated | sad കുടുംബം — sorrowful, gloomy, dejected.\n• PSC strategy: അപരിചിത വാക്ക് കണ്ടാൽ അതിനുള്ളിലെ പരിചിത ഭാഗം തിരയുക (jubilant → jubilee) — etymology ആണ് vocabulary-യുടെ താക്കോൽ. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q61",
@@ -911,7 +1211,13 @@
     "optionB": "divide",
     "optionC": "increase",
     "optionD": "measure",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) increase\n\n• 'augment' എന്നാൽ വർദ്ധിപ്പിക്കുക, കൂട്ടുക എന്നർത്ഥം → increase.\n• വരുമാനം കൂട്ടുക, ശക്തി വർദ്ധിപ്പിക്കുക — ഇത്തരം സന്ദർഭങ്ങളിലാണ് augment ഉപയോഗിക്കുന്നത്.\n• Latin 'augere' (വളർത്തുക) എന്ന വേരിൽ നിന്ന്; August എന്ന മാസപ്പേരും ഇതേ കുടുംബത്തിൽ നിന്നാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: augment = increase = വർദ്ധിപ്പിക്കുക!\n• വർദ്ധന കുടുംബം: augment, increase, enhance, boost, enlarge — എല്ലാം 'കൂട്ടുക' സംഘം.\n• Etymology സൂചന: aug- എന്ന വേര് 'വളർച്ച' കാണിക്കുന്നു — augment, August, auction (വില കൂടുന്ന ലേലം).\n• ⭐ PSC ആവർത്തനം: augment/enhance പോലുള്ള formal verbs-ന്റെ synonym ചോദ്യം PSC degree-level-ൽ പതിവാണ്!\n• ഉദാഹരണ sentences:\n1. He took a part-time job to augment his income. (വരുമാനം കൂട്ടാൻ)\n2. The library augmented its collection of books. (ശേഖരം വർദ്ധിപ്പിച്ചു)\n3. Good sleep augments memory power. (ഓർമ്മശക്തി വർദ്ധിപ്പിക്കുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) reduce — കുറയ്ക്കുക; നേർ വിപരീതം (antonym).\n• 🪤 PSC Trap: synonym ചോദ്യത്തിലെ പതിവ് antonym കെണി — ധൃതിയിൽ ഉത്തരമിടുന്നവരെ കാത്തിരിക്കുന്നു!\n\n• (B) divide — വിഭജിക്കുക; അർത്ഥ ബന്ധമില്ല.\n\n• (D) measure — അളക്കുക; കൂട്ടുന്നതും അളക്കുന്നതും രണ്ടും രണ്ട്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"AUGust മാസത്തിൽ വിള വളരും — AUGment = വളർത്തുക!\" — രണ്ടിലെയും aug ഒരേ വേര്.\n• Word family: increase കുടുംബം — augment, enhance, boost, amplify | decrease കുടുംബം — reduce, diminish, lessen.\n• PSC strategy: aug-/ampli-/en- തുടക്കമുള്ള verbs മിക്കതും 'കൂട്ടുക' അർത്ഥക്കാരാണ് — ഈ pattern ഓർത്താൽ പുതിയ വാക്കും പേടിക്കേണ്ട. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q62",
@@ -925,7 +1231,13 @@
     "optionB": "abandon",
     "optionC": "avoid",
     "optionD": "achieve",
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) attempt\n\n• 'endeavour' എന്നാൽ ശ്രമം, പരിശ്രമം എന്നർത്ഥം → attempt.\n• ഗൗരവമുള്ള, ആത്മാർത്ഥമായ ശ്രമത്തെയാണ് endeavour കുറിക്കുന്നത്.\n• ISRO-യുടെ ബഹിരാകാശ ദൗത്യങ്ങൾ പോലുള്ള വലിയ ഉദ്യമങ്ങൾക്ക് ഈ വാക്ക് നന്നായി ചേരും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: endeavour = attempt = ശ്രമം/ഉദ്യമം!\n• ശ്രമ കുടുംബം: endeavour, attempt, effort, try, venture — എല്ലാം 'പരിശ്രമം' സംഘം.\n• Noun ആയും verb ആയും ഉപയോഗിക്കാം: make an endeavour (ശ്രമം നടത്തുക), endeavour to win (ജയിക്കാൻ ശ്രമിക്കുക).\n• ⭐ PSC ആവർത്തനം: endeavour/attempt ജോഡി PSC synonym ചോദ്യങ്ങളിൽ ഇടയ്ക്കിടെ വരുന്നു!\n• ഉദാഹരണ sentences:\n1. She will endeavour to finish the work on time. (സമയത്തിന് തീർക്കാൻ ശ്രമിക്കും)\n2. His endeavour to learn Sanskrit succeeded. (സംസ്കൃതം പഠിക്കാനുള്ള ശ്രമം വിജയിച്ചു)\n3. All our endeavours must be honest. (എല്ലാ ഉദ്യമങ്ങളും സത്യസന്ധമാകണം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) abandon — ഉപേക്ഷിക്കുക; ശ്രമത്തിന്റെ എതിർ ദിശ — ശ്രമം നിർത്തലാണത്.\n• 🪤 PSC Trap: ശ്രമിക്കുന്നതും ഉപേക്ഷിക്കുന്നതും വിപരീത ആശയങ്ങൾ — എതിരാളിയെ synonym ആയി വച്ചിരിക്കുന്നു!\n\n• (C) avoid — ഒഴിവാക്കുക; ബന്ധമില്ലാത്ത അർത്ഥം.\n\n• (D) achieve — നേടുക; ശ്രമവും നേട്ടവും വ്യത്യസ്തം — ശ്രമം വഴിയാണ്, നേട്ടം ലക്ഷ്യമാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"endeavour-ൽ 'ദേവർ' ഒളിച്ചിരിപ്പുണ്ട് — ദേവന്മാരെപ്പോലും പ്രീതിപ്പെടുത്താനുള്ള കഠിന ശ്രമം!\"\n• Word family: attempt കുടുംബം — endeavour, effort, try, venture, strive — അഞ്ചും ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: endeavour പോലുള്ള formal വാക്കുകൾ കണ്ട് പേടിക്കേണ്ട — options-ലെ ഏറ്റവും ലളിതമായ 'ശ്രമം' അർത്ഥമുള്ള വാക്കാണ് മിക്കപ്പോഴും ഉത്തരം. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q63",
@@ -939,7 +1251,13 @@
     "optionB": "blessing",
     "optionC": "routine",
     "optionD": "disaster",
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) disaster\n\n• 'calamity' എന്നാൽ വലിയ ദുരന്തം, മഹാവിപത്ത് എന്നർത്ഥം → disaster.\n• വെള്ളപ്പൊക്കം, ഭൂകമ്പം, ഉരുൾപൊട്ടൽ — ഇത്തരം വൻ നാശനഷ്ടങ്ങളെയാണ് calamity കുറിക്കുന്നത്.\n• 'natural calamity' എന്ന പ്രയോഗം വാർത്തകളിൽ സ്ഥിരമായി കേൾക്കാം — പ്രകൃതി ദുരന്തം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: calamity = disaster = മഹാദുരന്തം!\n• ദുരന്ത കുടുംബം: calamity, disaster, catastrophe, tragedy, mishap — എല്ലാം 'വിപത്ത്' സംഘം.\n• 2018-ലെ കേരള പ്രളയം ഒരു natural calamity ആയിരുന്നു — ഈ ഉദാഹരണം ഓർത്താൽ വാക്ക് മറക്കില്ല.\n• ⭐ PSC ആവർത്തനം: calamity/disaster/catastrophe — ഈ ദുരന്ത വാക്കുകൾ PSC synonym ചോദ്യങ്ങളിലെ സ്ഥിരക്കാരാണ്!\n• ഉദാഹരണ sentences:\n1. The flood was a great calamity for the farmers. (കർഷകർക്ക് വലിയ ദുരന്തം)\n2. The government provided relief after the calamity. (ദുരന്തശേഷം സഹായം നൽകി)\n3. Landslides are a recurring calamity in hilly areas. (മലയോര മേഖലയിലെ ആവർത്തിക്കുന്ന വിപത്ത്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) festival — ഉത്സവം; സന്തോഷകരമായ അവസരം — നേർ എതിർ ഭാവം.\n\n• (B) blessing — അനുഗ്രഹം; ദുരന്തത്തിന്റെ വിപരീതം.\n• 🪤 PSC Trap: blessing എന്ന positive വാക്ക് antonym സ്ഥാനത്ത് വച്ചിരിക്കുന്നു — ചിരപരിചിതമായ കെണി!\n\n• (C) routine — പതിവ് കാര്യം; ദുരന്തവുമായി ബന്ധമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"calamity കേട്ടാൽ 'കലാമിറ്റി = കലി + മിറ്റി' — കലി തുള്ളുന്ന പ്രകൃതി!\" എന്ന ചിത്രം ഓർക്കുക.\n• Word family: disaster കുടുംബം — calamity, catastrophe, tragedy, mishap (ചെറുത്) — തീവ്രത അനുസരിച്ച് ക്രമീകരിച്ച് പഠിക്കുക.\n• PSC strategy: വാർത്തകളിൽ കേൾക്കുന്ന ഇംഗ്ലീഷ് വാക്കുകൾ ശ്രദ്ധിക്കുക — natural calamity, disaster management എന്നിവ കേട്ട പരിചയം തന്നെ ഉത്തരം തരും. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q64",
@@ -953,7 +1271,13 @@
     "optionB": "extravagant",
     "optionC": "economical",
     "optionD": "miserly",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) extravagant\n\n• 'frugal' എന്നാൽ ചെലവ് ചുരുക്കുന്ന, മിതവ്യയശീലമുള്ള എന്നർത്ഥം; അതിന്റെ വിപരീതം ധൂർത്തടിക്കുന്ന → extravagant.\n• Antonym ചോദ്യമാണ് — അർത്ഥത്തിന്റെ നേർ എതിർ വാക്കാണ് വേണ്ടത്.\n• frugal = പിശുക്കില്ലാത്ത മിതത്വം; extravagant = കണക്കില്ലാത്ത ധൂർത്ത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: frugal (മിതവ്യയം) ↔ extravagant (ധൂർത്ത്) — നേർ വിപരീത ജോഡി!\n• മിതവ്യയ കുടുംബം: frugal, thrifty, economical — മൂന്നും ഏതാണ്ട് ഒരേ അർത്ഥം.\n• ധൂർത്ത കുടുംബം: extravagant, lavish, wasteful — ഇവയും ഒരുമിച്ച് പഠിക്കുക.\n• ⭐ PSC ആവർത്തനം: antonym ചോദ്യത്തിൽ synonyms-നെ options ആയി നിരത്തുന്നത് PSC-യുടെ പ്രധാന തന്ത്രമാണ് — ഇവിടെ അത് വ്യക്തമായി കാണാം!\n• ഉദാഹരണ sentences:\n1. My grandmother was frugal with money. (മുത്തശ്ശി പണത്തിൽ മിതവ്യയക്കാരിയായിരുന്നു)\n2. He leads an extravagant lifestyle. (അവൻ ധൂർത്തമായ ജീവിതം നയിക്കുന്നു)\n3. Frugal habits help you save for the future. (മിതവ്യയ ശീലങ്ങൾ ഭാവിക്കായി സമ്പാദിക്കാൻ സഹായിക്കുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) thrifty — മിതവ്യയമുള്ള; ഇത് frugal-ന്റെ synonym ആണ്, antonym അല്ല!\n• 🪤 PSC Trap: antonym ചോദ്യത്തിൽ synonym options വയ്ക്കുന്ന classic കെണി — ചോദ്യം antonym ആണോ synonym ആണോ എന്ന് രണ്ടുവട്ടം വായിക്കുക!\n\n• (C) economical — ഇതും frugal-ന്റെ synonym തന്നെ; അതേ കെണിയുടെ രണ്ടാം രൂപം.\n\n• (D) miserly — അമിത പിശുക്കുള്ള; frugal-ന്റെ തീവ്ര രൂപമാണ്, വിപരീതമല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"extravagant-ൽ EXTRA ഉണ്ട് — ആവശ്യത്തിലും EXTRA ചെലവാക്കുന്നവൻ!\" — ഈ ഒറ്റ നിരീക്ഷണം മതി വാക്ക് ഓർക്കാൻ.\n• Word family: ഒരു വശത്ത് frugal/thrifty/economical, മറുവശത്ത് extravagant/lavish/wasteful — രണ്ട് ടീമുകളായി പഠിക്കുക.\n• PSC strategy: antonym ചോദ്യത്തിൽ options വായിക്കും മുമ്പ് ചോദ്യവാക്കിന്റെ അർത്ഥം ഉറപ്പിക്കുക; പിന്നെ synonym options ഓരോന്നായി വെട്ടുക — ബാക്കിയാകുന്നതാണ് ഉത്തരം. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q65",
@@ -967,7 +1291,13 @@
     "optionB": "bitter",
     "optionC": "violent",
     "optionD": "friendly",
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) friendly\n\n• 'hostile' എന്നാൽ ശത്രുതാപരമായ, എതിർപ്പുള്ള എന്നർത്ഥം; വിപരീതം സൗഹൃദപരമായ → friendly.\n• hostile crowd = ശത്രുതയുള്ള ജനക്കൂട്ടം; friendly crowd = സൗഹൃദമുള്ള ജനക്കൂട്ടം.\n• Latin 'hostis' (ശത്രു) എന്ന വാക്കിൽ നിന്നാണ് hostile-ന്റെ ഉത്ഭവം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: hostile (ശത്രുത) ↔ friendly (സൗഹൃദം) — നേർ വിപരീത ജോഡി!\n• ശത്രുത കുടുംബം: hostile, aggressive, antagonistic, unfriendly — എല്ലാം എതിർപ്പിന്റെ വാക്കുകൾ.\n• സൗഹൃദ കുടുംബം: friendly, cordial, amicable, warm — ഇവ നാലും ഒരുമിച്ച് ഓർക്കുക.\n• ⭐ PSC ആവർത്തനം: hostile/friendly, hostile/cordial ജോഡികൾ PSC antonym ചോദ്യങ്ങളിൽ പതിവായി വരുന്നു!\n• ഉദാഹരണ sentences:\n1. The two neighbours have a hostile relationship. (അയൽക്കാർ തമ്മിൽ ശത്രുതയിലാണ്)\n2. She gave us a friendly welcome. (സൗഹൃദപരമായ സ്വീകരണം നൽകി)\n3. The dog looked hostile at first but became friendly. (ആദ്യം ശത്രുത, പിന്നെ സൗഹൃദം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) aggressive — ആക്രമണോത്സുകം; hostile-ന്റെ synonym ആണ്, antonym അല്ല.\n• 🪤 PSC Trap: മൂന്ന് options-ഉം (aggressive, bitter, violent) hostile-ന്റെ അർത്ഥ കുടുംബക്കാരാണ് — ഒരേയൊരു എതിർവാക്കേ ഉള്ളൂ; ധൃതി വേണ്ട!\n\n• (B) bitter — കയ്പേറിയ, വിദ്വേഷമുള്ള; ഇതും ശത്രുത കുടുംബം തന്നെ.\n\n• (C) violent — അക്രമാസക്തം; hostile-നോട് ചേർന്ന അർത്ഥം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"hostile-ൽ host ഉണ്ടെങ്കിലും അർത്ഥം വിരുന്നുകാരനെ ആട്ടുന്നവൻ!\" — host (ആതിഥേയൻ) അല്ല hostile (ശത്രു) — ഈ വൈരുദ്ധ്യം ഓർമ്മയിൽ നിൽക്കും.\n• Word family: hostile സംഘം — aggressive, bitter, violent, antagonistic | friendly സംഘം — cordial, amicable, warm.\n• PSC strategy: antonym ചോദ്യത്തിൽ ഒരേ ഭാവമുള്ള മൂന്ന് options കണ്ടാൽ സന്തോഷിക്കുക — വേറിട്ട് നിൽക്കുന്ന നാലാമനാണ് ഉത്തരം. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q66",
@@ -981,7 +1311,13 @@
     "optionB": "reveal",
     "optionC": "cover",
     "optionD": "bury",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) reveal\n\n• 'conceal' എന്നാൽ മറച്ചുവയ്ക്കുക, ഒളിപ്പിക്കുക എന്നർത്ഥം; വിപരീതം വെളിപ്പെടുത്തുക → reveal.\n• രഹസ്യം മറയ്ക്കുന്നതും (conceal) തുറന്നു പറയുന്നതും (reveal) — നേർ എതിർ പ്രവൃത്തികൾ.\n• conceal the truth ↔ reveal the truth — സത്യം മറയ്ക്കുക ↔ സത്യം വെളിപ്പെടുത്തുക.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: conceal (മറയ്ക്കുക) ↔ reveal (വെളിപ്പെടുത്തുക) — നേർ വിപരീത ജോഡി!\n• മറയ്ക്കൽ കുടുംബം: conceal, hide, cover, mask — എല്ലാം 'ഒളിപ്പിക്കൽ' സംഘം.\n• വെളിപ്പെടുത്തൽ കുടുംബം: reveal, disclose, expose, unveil — നാലും ഒരുമിച്ച് പഠിക്കുക.\n• ⭐ PSC ആവർത്തനം: conceal/reveal ജോഡി PSC antonym ചോദ്യങ്ങളിലെ പഴയ പരിചയക്കാരനാണ്!\n• ഉദാഹരണ sentences:\n1. He tried to conceal his mistake. (തെറ്റ് മറച്ചുവയ്ക്കാൻ ശ്രമിച്ചു)\n2. The report revealed the truth. (റിപ്പോർട്ട് സത്യം വെളിപ്പെടുത്തി)\n3. She could not conceal her happiness. (സന്തോഷം മറച്ചുവയ്ക്കാനായില്ല)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) hide — ഒളിപ്പിക്കുക; conceal-ന്റെ synonym — antonym ചോദ്യത്തിലെ പതിവ് കെണി.\n• 🪤 PSC Trap: hide ആണ് ആദ്യ option — ധൃതിയിൽ 'അർത്ഥം അറിയാം' എന്ന ആത്മവിശ്വാസത്തിൽ synonym തിരഞ്ഞെടുക്കുന്നവർ ഇവിടെ വീഴും!\n\n• (C) cover — മൂടുക; ഇതും മറയ്ക്കൽ കുടുംബം തന്നെ.\n\n• (D) bury — കുഴിച്ചിടുക; ആഴത്തിൽ മറയ്ക്കൽ — വിപരീതമല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"conCEAL = സീൽ ചെയ്ത് അടയ്ക്കുക; reVEAL = വീൽ പൊക്കി കാണിക്കുക!\" — seal ↔ veal എന്ന ശബ്ദ വ്യത്യാസം ഓർക്കുക.\n• Word family: conceal സംഘം — hide, cover, mask | reveal സംഘം — disclose, expose, unveil.\n• PSC strategy: ചോദ്യം antonym ആണെന്ന് ഉറപ്പിച്ച ശേഷം synonym options (hide, cover) ആദ്യം വെട്ടുക — ബാക്കിയിൽ നിന്ന് എളുപ്പം തിരഞ്ഞെടുക്കാം. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q67",
@@ -995,7 +1331,13 @@
     "optionB": "ruin",
     "optionC": "build",
     "optionD": "damage",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) build\n\n• 'demolish' എന്നാൽ പൊളിച്ചുകളയുക, തകർക്കുക എന്നർത്ഥം; വിപരീതം നിർമ്മിക്കുക → build.\n• പഴയ കെട്ടിടം demolish ചെയ്യുന്നു, പുതിയത് build ചെയ്യുന്നു — ദിവസവും കാണുന്ന വിപരീത ജോഡി.\n• Latin 'demoliri' (തകർത്തിടുക) എന്നതിൽ നിന്നാണ് demolish.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: demolish (പൊളിക്കുക) ↔ build/construct (നിർമ്മിക്കുക)!\n• തകർക്കൽ കുടുംബം: demolish, destroy, ruin, wreck — എല്ലാം 'നശിപ്പിക്കൽ' സംഘം.\n• നിർമ്മാണ കുടുംബം: build, construct, erect, establish — ഇവ നാലും ഒരുമിച്ച് പഠിക്കുക.\n• ⭐ PSC ആവർത്തനം: demolish/construct ജോഡി PSC antonym പട്ടികയിലെ സ്ഥിരാംഗമാണ്!\n• ഉദാഹരണ sentences:\n1. The old bus stand was demolished last year. (പഴയ ബസ് സ്റ്റാൻഡ് പൊളിച്ചു)\n2. They will build a shopping complex there. (അവിടെ ഷോപ്പിംഗ് കോംപ്ലക്സ് നിർമ്മിക്കും)\n3. It takes years to build but minutes to demolish. (നിർമ്മിക്കാൻ വർഷങ്ങൾ, തകർക്കാൻ നിമിഷങ്ങൾ)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) destroy — നശിപ്പിക്കുക; demolish-ന്റെ synonym — antonym അല്ല.\n• 🪤 PSC Trap: destroy, ruin, damage — മൂന്ന് synonyms നിരത്തി ഒരേയൊരു എതിർവാക്കിനെ ഒളിപ്പിച്ചിരിക്കുന്നു!\n\n• (B) ruin — തകർക്കുക; ഇതും അതേ കുടുംബം.\n\n• (D) damage — കേടുവരുത്തുക; നശിപ്പിക്കലിന്റെ ചെറിയ രൂപം — വിപരീതമല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"JCB demolish ചെയ്യുന്നു, മേസ്തിരി build ചെയ്യുന്നു!\" — ഈ രണ്ട് ചിത്രങ്ങൾ മനസ്സിൽ വരച്ചാൽ ജോഡി മറക്കില്ല.\n• Word family: demolish സംഘം — destroy, ruin, wreck | build സംഘം — construct, erect, establish.\n• PSC strategy: antonym ചോദ്യത്തിൽ 'ഒരേ ദിശയിലുള്ള' options എണ്ണുക — മൂന്നെണ്ണം ഒരു ദിശ, ഒന്ന് മറുദിശ എന്ന് കണ്ടാൽ ആ ഒറ്റയാനാണ് ഉത്തരം. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q68",
@@ -1009,7 +1351,13 @@
     "optionB": "pessimism",
     "optionC": "confidence",
     "optionD": "cheerfulness",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) pessimism\n\n• 'optimism' എന്നാൽ ശുഭാപ്തിവിശ്വാസം — എല്ലാം നന്നാകുമെന്ന പ്രതീക്ഷ; വിപരീതം അശുഭചിന്ത → pessimism.\n• optimist ഗ്ലാസ് പാതി നിറഞ്ഞതായി കാണുന്നു; pessimist പാതി ഒഴിഞ്ഞതായി കാണുന്നു — പ്രസിദ്ധമായ ഉപമ.\n• Latin 'optimus' (ഏറ്റവും നല്ലത്) ↔ 'pessimus' (ഏറ്റവും മോശം) — വേരുകളിൽ തന്നെ വിപരീതം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: optimism (ശുഭചിന്ത) ↔ pessimism (അശുഭചിന്ത) — വേരോടെ വിപരീതം!\n• -ism ജോഡികൾ ഓർക്കുക: optimism/pessimism, theism/atheism — ഘടന ഒന്ന്, അർത്ഥം എതിര്.\n• ആൾരൂപങ്ങൾ: optimist (ശുഭചിന്തകൻ) ↔ pessimist (അശുഭചിന്തകൻ) — ഇവയും ഒരുമിച്ച് പഠിക്കുക.\n• ⭐ PSC ആവർത്തനം: optimism/pessimism ജോഡി antonym-ലും one word substitute-ലും PSC ചോദിക്കാറുണ്ട് — ഇരട്ട പ്രയോജനം!\n• ഉദാഹരണ sentences:\n1. Her optimism kept the team going. (അവളുടെ ശുഭാപ്തിവിശ്വാസം ടീമിനെ മുന്നോട്ട് നയിച്ചു)\n2. His pessimism spoiled the plan. (അവന്റെ അശുഭചിന്ത പദ്ധതി നശിപ്പിച്ചു)\n3. Optimism is the key to success. (ശുഭചിന്തയാണ് വിജയത്തിന്റെ താക്കോൽ)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) hope — പ്രതീക്ഷ; optimism-ന്റെ synonym കുടുംബം — antonym അല്ല.\n• 🪤 PSC Trap: hope, confidence, cheerfulness — മൂന്നും positive വാക്കുകൾ; optimism-ന്റെ കൂട്ടുകാർ തന്നെ options ആയി വന്നിരിക്കുന്നു!\n\n• (C) confidence — ആത്മവിശ്വാസം; ഇതും positive ഭാവം.\n\n• (D) cheerfulness — പ്രസന്നത; സന്തോഷ കുടുംബം — വിപരീതമല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"OPTI = ഉത്തമം (നല്ലത് കാണുന്നു); PESSI = പിശക് (മോശം കാണുന്നു)!\" — വേരുകൾ തന്നെ കഥ പറയുന്നു.\n• Word family: -ism/-ist ജോഡികൾ — optimism/optimist, pessimism/pessimist, theism/atheist — ഘടനാ pattern ഓർക്കുക.\n• PSC strategy: antonym ചോദ്യത്തിൽ positive വാക്കിന്റെ എതിര് negative വാക്ക് മാത്രമാണ് — options-ൽ ഒരേയൊരു negative വാക്കുണ്ടെങ്കിൽ അതുതന്നെ ഉത്തരം. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q69",
@@ -1023,7 +1371,13 @@
     "optionB": "turned up",
     "optionC": "turned over",
     "optionD": "turned off",
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) turned down\n\n• 'turn down' എന്ന phrasal verb-ന്റെ അർത്ഥം നിരസിക്കുക, തള്ളിക്കളയുക എന്നാണ് — അപേക്ഷ വൈകിയതിനാൽ കമ്പനി അത് നിരസിച്ചു.\n• Phrasal verb-ന്റെ അർത്ഥം വാക്കുകളുടെ നേരർത്ഥമല്ല — 'താഴേക്ക് തിരിക്കുക' അല്ല, 'നിരസിക്കുക' ആണ്.\n• 'വൈകി സമർപ്പിച്ചതിനാൽ കമ്പനി അവന്റെ അപേക്ഷ നിരസിച്ചു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: turn down = reject = നിരസിക്കുക!\n• TURN കുടുംബം മുഴുവൻ ഓർക്കുക: turn down (നിരസിക്കുക), turn up (എത്തിച്ചേരുക), turn off (അണയ്ക്കുക), turn on (പ്രവർത്തിപ്പിക്കുക), turn over (മറിക്കുക).\n• ഒരേ base verb-ന്റെ വിവിധ phrasal verbs ഒരുമിച്ച് പഠിക്കുന്നതാണ് ശരിയായ രീതി.\n• ⭐ PSC ആവർത്തനം: turn down/turn up ജോഡി PSC phrasal verb ചോദ്യങ്ങളിലെ പ്രിയങ്കരരാണ്!\n• ഉദാഹരണ sentences:\n1. She turned down the job offer from Dubai. (ജോലി വാഗ്ദാനം നിരസിച്ചു)\n2. He turned up late for the interview. (ഇന്റർവ്യൂവിന് വൈകി എത്തി)\n3. Please turn off the fan before leaving. (പോകും മുമ്പ് ഫാൻ അണയ്ക്കുക)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) turned up — എത്തിച്ചേരുക/പ്രത്യക്ഷപ്പെടുക; അപേക്ഷയോട് ചേരാത്ത അർത്ഥം.\n• 🪤 PSC Trap: ഒരേ base verb (turn) — വ്യത്യാസം particle-ൽ മാത്രം; particle അറിയാത്തവർ ഊഹിച്ച് വീഴും!\n\n• (C) turned over — മറിക്കുക/കൈമാറുക; ഇവിടെ അർത്ഥം ചേരില്ല.\n\n• (D) turned off — അണയ്ക്കുക; ഉപകരണങ്ങൾക്ക് മാത്രം ചേരുന്ന അർത്ഥം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"DOWN = താഴേക്ക് = തള്ളിക്കളയൽ!\" — അപേക്ഷ താഴേക്ക് എറിയുന്ന ഓഫീസറുടെ ചിത്രം ഓർക്കുക.\n• Word family: turn down, turn up, turn off, turn on, turn over — TURN കുടുംബം അഞ്ചുപേരും ഒറ്റ card-ൽ എഴുതി പഠിക്കുക.\n• PSC strategy: phrasal verb ചോദ്യത്തിൽ വാക്യത്തിന്റെ സന്ദർഭം ആദ്യം മനസ്സിലാക്കുക — 'വൈകിയതിനാൽ' എന്ന സൂചന കണ്ടാൽ negative ഫലം (നിരസിക്കൽ) ഉറപ്പ്. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q70",
@@ -1037,7 +1391,13 @@
     "optionB": "give away",
     "optionC": "give up",
     "optionD": "give out",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) give up\n\n• 'give up' എന്നാൽ ഉപേക്ഷിക്കുക, കൈവിടുക എന്നർത്ഥം — സ്വപ്നം ഉപേക്ഷിക്കാൻ അവൻ തയ്യാറായില്ല.\n• 'refused to give up his dream' — പരാജയങ്ങൾക്കിടയിലും സ്വപ്നം കൈവിടാത്ത പോരാട്ടം.\n• 'നിരവധി പരാജയങ്ങൾക്ക് ശേഷവും സ്വപ്നം ഉപേക്ഷിക്കാൻ അവൻ വിസമ്മതിച്ചു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: give up = abandon = ഉപേക്ഷിക്കുക!\n• GIVE കുടുംബം: give up (ഉപേക്ഷിക്കുക), give in (കീഴടങ്ങുക), give away (ദാനം ചെയ്യുക/രഹസ്യം പുറത്താക്കുക), give out (വിതരണം ചെയ്യുക).\n• give up-ഉം give in-ഉം തമ്മിൽ സൂക്ഷ്മ വ്യത്യാസം: up = പൂർണ്ണമായി വിടൽ; in = സമ്മർദ്ദത്തിന് വഴങ്ങൽ.\n• ⭐ PSC ആവർത്തനം: give up ആണ് PSC ചോദിക്കുന്ന phrasal verbs-ൽ ഏറ്റവും സാധാരണം!\n• ഉദാഹരണ sentences:\n1. Never give up your dreams. (സ്വപ്നങ്ങൾ ഒരിക്കലും ഉപേക്ഷിക്കരുത്)\n2. He gave up smoking last year. (കഴിഞ്ഞ വർഷം പുകവലി ഉപേക്ഷിച്ചു)\n3. She gave away all her old books. (പഴയ പുസ്തകങ്ങളെല്ലാം ദാനം ചെയ്തു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) give in — കീഴടങ്ങുക; സമ്മർദ്ദത്തിന് വഴങ്ങുന്നതിനാണ്; സ്വപ്നം 'ഉപേക്ഷിക്കുക' എന്ന അർത്ഥത്തിന് give up തന്നെ വേണം.\n• 🪤 PSC Trap: give up/give in — ഏറ്റവും അടുത്ത അർത്ഥമുള്ള ജോഡി; ഈ സൂക്ഷ്മ വ്യത്യാസമാണ് ചോദ്യത്തിന്റെ കാതൽ!\n\n• (B) give away — ദാനം ചെയ്യുക; സ്വപ്നത്തോട് ചേരില്ല.\n\n• (D) give out — വിതരണം ചെയ്യുക/തീർന്നുപോകുക; ഇവിടെ സ്ഥാനമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"UP = മുകളിലേക്ക് കൈ ഉയർത്തി 'ഞാൻ നിർത്തി!' എന്ന് പറയൽ\" — give up-ന്റെ ചിത്രം ഇതാണ്.\n• Word family: give up, give in, give away, give out — GIVE കുടുംബം നാലുപേരും അർത്ഥത്തോടെ ഒറ്റ card-ൽ പഠിക്കുക.\n• PSC strategy: refuse/never പോലുള്ള വാക്കുകൾക്കൊപ്പം വരുന്ന phrasal verb മിക്കപ്പോഴും give up ആണ് — 'ഉപേക്ഷിക്കാൻ വിസമ്മതിച്ചു' എന്ന pattern ഓർക്കുക. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q71",
@@ -1051,7 +1411,13 @@
     "optionB": "broke down",
     "optionC": "broke into",
     "optionD": "broke off",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) broke into\n\n• 'break into' എന്നാൽ അതിക്രമിച്ച് കടക്കുക, മോഷണത്തിനായി കയറുക എന്നർത്ഥം.\n• കള്ളന്മാർ ജ്വല്ലറിയിൽ ബലമായി കയറി — അതാണ് broke into.\n• 'കഴിഞ്ഞ രാത്രി കള്ളന്മാർ ജ്വല്ലറി കടയിൽ അതിക്രമിച്ച് കയറി' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: break into = അതിക്രമിച്ച് കയറുക (മോഷണം/കവർച്ച)!\n• BREAK കുടുംബം: break into (അതിക്രമിച്ച് കയറുക), break out (പൊട്ടിപ്പുറപ്പെടുക — യുദ്ധം/രോഗം), break down (തകരാറിലാകുക/തളരുക), break off (ബന്ധം മുറിക്കുക), break up (പിരിയുക).\n• ഓരോ particle-ഉം അർത്ഥം പൂർണ്ണമായി മാറ്റുന്നു — അതിനാൽ കുടുംബമായി പഠിക്കണം.\n• ⭐ PSC ആവർത്തനം: break out/break into ജോഡി PSC-യിൽ മാറിമാറി വരുന്നു!\n• ഉദാഹരണ sentences:\n1. Cholera broke out in the camp. (ക്യാമ്പിൽ കോളറ പൊട്ടിപ്പുറപ്പെട്ടു)\n2. The car broke down on the highway. (കാർ വഴിയിൽ തകരാറിലായി)\n3. The two countries broke off relations. (രാജ്യങ്ങൾ ബന്ധം മുറിച്ചു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) broke out — പൊട്ടിപ്പുറപ്പെടുക; യുദ്ധം, രോഗം, തീ എന്നിവയ്ക്ക് മാത്രം.\n• 🪤 PSC Trap: break out-ഉം break into-ഉം തമ്മിൽ മാറ്റുന്നതാണ് ഈ മേഖലയിലെ പതിവ് കെണി!\n\n• (B) broke down — തകരാറിലാകുക; വാഹനത്തിനും ആരോഗ്യത്തിനും ചേരും, മോഷണത്തിന് അല്ല.\n\n• (D) broke off — മുറിക്കുക/നിർത്തുക; ബന്ധങ്ങൾക്കും ചർച്ചകൾക്കും ചേരുന്നത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"INTO = ഉള്ളിലേക്ക്!\" — കള്ളൻ കടയുടെ ഉള്ളിലേക്ക് കയറുന്ന ചിത്രം ഓർത്താൽ broke INTO മറക്കില്ല.\n• Word family: BREAK അഞ്ചംഗ കുടുംബം — into, out, down, off, up — ഓരോന്നിനും ഓരോ കഥാചിത്രം വരയ്ക്കുക.\n• PSC strategy: വാക്യത്തിൽ thieves/burglars കണ്ടാൽ break into ഏതാണ്ട് ഉറപ്പ്; war/fire/disease കണ്ടാൽ break out. സന്ദർഭം തന്നെ ഉത്തരം പറയും. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q72",
@@ -1065,7 +1431,13 @@
     "optionB": "called in",
     "optionC": "called out",
     "optionD": "called off",
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) called off\n\n• 'call off' എന്നാൽ റദ്ദാക്കുക എന്നർത്ഥം — മഴ കാരണം മത്സരം റദ്ദാക്കി.\n• സമരം, മത്സരം, യോഗം, വിവാഹം — ഇവയെല്ലാം call off ചെയ്യാം (റദ്ദാക്കാം).\n• 'കനത്ത മഴ കാരണം മത്സരം റദ്ദാക്കി' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: call off = cancel = റദ്ദാക്കുക!\n• CALL കുടുംബം: call off (റദ്ദാക്കുക), call on (സന്ദർശിക്കുക), call in (വിളിച്ചുവരുത്തുക), call out (ഉറക്കെ വിളിക്കുക), call up (ഫോൺ ചെയ്യുക/ഓർമ്മിക്കുക).\n• 'സമരം പിൻവലിച്ചു' എന്ന വാർത്ത ഇംഗ്ലീഷിൽ 'strike called off' — പത്രങ്ങളിൽ സ്ഥിരം കാണുന്ന പ്രയോഗം.\n• ⭐ PSC ആവർത്തനം: call off ആണ് CALL കുടുംബത്തിൽ PSC ഏറ്റവുമധികം ചോദിച്ചിട്ടുള്ളത്!\n• ഉദാഹരണ sentences:\n1. The union called off the strike. (യൂണിയൻ സമരം പിൻവലിച്ചു)\n2. The minister called on the Governor. (മന്ത്രി ഗവർണറെ സന്ദർശിച്ചു)\n3. A doctor was called in immediately. (ഡോക്ടറെ ഉടൻ വിളിച്ചുവരുത്തി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) called on — സന്ദർശിക്കുക; ആളുകളെ സന്ദർശിക്കുന്നതിന് മാത്രം; മത്സരത്തിന് ചേരില്ല.\n• 🪤 PSC Trap: നാല് options-ഉം ഒരേ base verb — particle മാത്രം നോക്കി ഉത്തരം കണ്ടെത്തണം; ഊഹം വിലപ്പോവില്ല!\n\n• (B) called in — വിളിച്ചുവരുത്തുക; ഡോക്ടറെയോ വിദഗ്ധനെയോ വിളിക്കുന്നതിന്.\n\n• (C) called out — ഉറക്കെ വിളിക്കുക; ഇവിടെ അർത്ഥം ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"OFF = സ്വിച്ച് OFF = നിർത്തലാക്കൽ!\" — മത്സരത്തിന്റെ സ്വിച്ച് അണച്ച ചിത്രം ഓർക്കുക.\n• Word family: call off, call on, call in, call out, call up — CALL കുടുംബം ഒറ്റ card-ൽ പഠിക്കുക.\n• PSC strategy: 'because of rain/protest' തരം കാരണങ്ങൾ കണ്ടാൽ പിന്നാലെ വരുന്നത് മിക്കപ്പോഴും റദ്ദാക്കലാണ് — called off തിരയുക. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q73",
@@ -1079,7 +1451,13 @@
     "optionB": "came across",
     "optionC": "came about",
     "optionD": "came round",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) came across\n\n• 'come across' എന്നാൽ യാദൃച്ഛികമായി കണ്ടെത്തുക എന്നർത്ഥം — തിരയാതെ കിട്ടുന്ന കണ്ടെത്തൽ.\n• തട്ടിൻപുറം വൃത്തിയാക്കുമ്പോൾ പ്രതീക്ഷിക്കാതെ ഡയറി കണ്ടു — അതാണ് came across.\n• 'തട്ടിൻപുറം വൃത്തിയാക്കുന്നതിനിടെ മുത്തച്ഛന്റെ പഴയ ഡയറി എനിക്ക് യാദൃച്ഛികമായി കിട്ടി' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: come across = യാദൃച്ഛികമായി കാണുക/കിട്ടുക!\n• തിരഞ്ഞ് കണ്ടെത്തുന്നത് find; തിരയാതെ കിട്ടുന്നത് come across — ഈ വ്യത്യാസം പ്രധാനം.\n• COME കുടുംബം: come across (യാദൃച്ഛികം), come about (സംഭവിക്കുക), come round (ബോധം വീണ്ടെടുക്കുക/സമ്മതിക്കുക), come over (സന്ദർശിക്കുക).\n• ⭐ PSC ആവർത്തനം: come across-ഉം run into (ആളെ യാദൃച്ഛികമായി കാണുക)-ഉം PSC-യുടെ ഇഷ്ട ജോഡിയാണ്!\n• ഉദാഹരണ sentences:\n1. I came across an old friend at the market. (പഴയ സുഹൃത്തിനെ യാദൃച്ഛികമായി കണ്ടു)\n2. She came across a rare coin in the drawer. (അപൂർവ്വ നാണയം യാദൃച്ഛികമായി കിട്ടി)\n3. How did this change come about? (ഈ മാറ്റം എങ്ങനെ സംഭവിച്ചു?)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) came over — സന്ദർശിക്കാൻ വരിക; വസ്തുക്കൾ കണ്ടെത്തുന്നതിന് ചേരില്ല.\n\n• (C) came about — സംഭവിക്കുക; 'എങ്ങനെ ഉണ്ടായി' എന്ന അർത്ഥം; ഇവിടെ ചേരില്ല.\n• 🪤 PSC Trap: across/about — രണ്ടും 'a'-യിൽ തുടങ്ങുന്നതിനാൽ ധൃതിയിൽ മാറിപ്പോകാം; സൂക്ഷിക്കുക!\n\n• (D) came round — ബോധം തിരിച്ചുകിട്ടുക/അഭിപ്രായം മാറ്റുക; ഡയറിയോട് ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ACROSS = കുറുകെ നടക്കുമ്പോൾ കാലിൽ തടയുന്നത്!\" — വഴിയിൽ യാദൃച്ഛികമായി തടയുന്ന കണ്ടെത്തലാണ് come across.\n• Word family: come across (വസ്തു/ആൾ), run into (ആൾ), stumble upon (വസ്തു) — 'യാദൃച്ഛിക കണ്ടെത്തൽ' മൂവർസംഘം.\n• PSC strategy: 'while cleaning/searching/walking' തരം സന്ദർഭം + കണ്ടെത്തൽ = come across ഏതാണ്ട് ഉറപ്പ്. ഈ pattern ഓർത്താൽ ഒരിക്കലും miss ആകില്ല!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q74",
@@ -1093,7 +1471,13 @@
     "optionB": "to say exactly the right thing",
     "optionC": "to work very hard",
     "optionD": "to make a serious mistake",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) to say exactly the right thing\n\n• 'to hit the nail on the head' എന്ന idiom-ന്റെ അർത്ഥം കൃത്യമായി ശരിയായ കാര്യം പറയുക എന്നാണ്.\n• ആണി അടിക്കുമ്പോൾ കൃത്യം തലയിൽ തന്നെ അടിച്ചാൽ ഒറ്റയടിക്ക് കയറും — അതുപോലെ കൃത്യം പോയിന്റിൽ സംസാരിക്കുക.\n• ഒരാളുടെ വിശകലനം 'കിറുകൃത്യം' ആയാൽ ഈ idiom ഉപയോഗിക്കാം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: hit the nail on the head = കൃത്യം ശരിയായത് പറയുക!\n• Idiom-കളുടെ അർത്ഥം വാക്കുകളുടെ നേരർത്ഥത്തിൽ നിന്ന് കിട്ടില്ല — ചിത്രമായി ഓർക്കണം.\n• 'കൃത്യത' കുടുംബം: hit the nail on the head, hit the bull's eye — രണ്ടും 'കിറുകൃത്യം' ആശയം.\n• ⭐ PSC ആവർത്തനം: ഈ idiom PSC-യുടെ പ്രിയപ്പെട്ട പട്ടികയിലുണ്ട് — അർത്ഥം ഉറപ്പിച്ച് പഠിക്കുക!\n• ഉദാഹരണ sentences:\n1. When she said the problem was poor planning, she hit the nail on the head. (കൃത്യമായ കണ്ടെത്തൽ)\n2. His answer hit the nail on the head. (അവന്റെ ഉത്തരം കിറുകൃത്യം)\n3. The report hit the nail on the head about the water crisis. (പ്രശ്നത്തിന്റെ കാതൽ കൃത്യമായി പറഞ്ഞു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) to hurt someone badly — നേരർത്ഥത്തിൽ ചിന്തിച്ചാൽ വീഴുന്ന കെണി; ആണിയും അടിയും കണ്ട് 'വേദനിപ്പിക്കുക' എന്ന് ഊഹിക്കരുത്.\n• 🪤 PSC Trap: idiom-ന്റെ വാക്കുകളുടെ നേരർത്ഥം options-ൽ വയ്ക്കുന്നതാണ് ഏറ്റവും വലിയ കെണി!\n\n• (C) to work very hard — അധ്വാനവുമായി ബന്ധമില്ല.\n\n• (D) to make a serious mistake — നേർ വിപരീത ആശയം; കൃത്യത തെറ്റല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: ആശാരി ആണിയുടെ തലയിൽ കൃത്യം അടിക്കുന്ന ചിത്രം — ഒറ്റയടിക്ക് ആണി കയറി = ഒറ്റ വാക്യത്തിൽ കാര്യം കൃത്യം!\n• Word family: കൃത്യത idioms — hit the nail on the head, hit the bull's eye | തെറ്റ് idioms — bark up the wrong tree (തെറ്റായ ദിശയിൽ ശ്രമിക്കുക).\n• PSC strategy: idiom ചോദ്യത്തിൽ നേരർത്ഥ option ആദ്യം വെട്ടുക — idiom ഒരിക്കലും നേരർത്ഥമാകില്ല. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q75",
@@ -1107,7 +1491,13 @@
     "optionB": "an exciting adventure",
     "optionC": "a long journey",
     "optionD": "a useless search",
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) a useless search\n\n• 'a wild goose chase' എന്നാൽ ഫലമില്ലാത്ത അന്വേഷണം, വെറുതെയുള്ള നെട്ടോട്ടം എന്നർത്ഥം.\n• കാട്ടുവാത്തയെ പിടിക്കാൻ ഓടുന്നത് പോലെ — എത്ര ഓടിയാലും കിട്ടില്ല, സമയം പോകും.\n• തെറ്റായ വിവരത്തിന്റെ പുറകെ പോയി സമയം കളഞ്ഞാൽ അത് wild goose chase ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: wild goose chase = ഫലമില്ലാത്ത തിരച്ചിൽ!\n• Shakespeare-ന്റെ കാലം മുതലുള്ള idiom ആണിത് — Romeo and Juliet നാടകത്തിൽ ആദ്യം പ്രത്യക്ഷപ്പെട്ടു.\n• 'വ്യർത്ഥത' കുടുംബം: wild goose chase (വ്യർത്ഥ തിരച്ചിൽ), beat around the bush (കാര്യം പറയാതെ ചുറ്റിക്കറങ്ങൽ), cry over spilt milk (കഴിഞ്ഞതോർത്ത് വിലപിക്കൽ).\n• ⭐ PSC ആവർത്തനം: wild goose chase PSC-യുടെ hard-level idiom പട്ടികയിലെ അംഗമാണ്!\n• ഉദാഹരണ sentences:\n1. The treasure hunt turned out to be a wild goose chase. (നിധിവേട്ട വ്യർത്ഥമായി)\n2. The wrong address sent us on a wild goose chase. (തെറ്റായ വിലാസം ഞങ്ങളെ വെറുതെ ഓടിച്ചു)\n3. Searching for that file was a wild goose chase. (ആ ഫയൽ തിരച്ചിൽ വെറും സമയനഷ്ടമായി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) a bird-hunting trip — നേരർത്ഥ കെണി; goose (വാത്ത) കണ്ട് വേട്ട എന്ന് ഊഹിക്കരുത്!\n• 🪤 PSC Trap: idiom-ലെ പക്ഷിയുടെ പേര് കണ്ട് നേരർത്ഥം തിരഞ്ഞെടുപ്പിക്കാനുള്ള കെണി — classic!\n\n• (B) an exciting adventure — സാഹസികത അല്ല, വ്യർത്ഥതയാണ് ഈ idiom-ന്റെ ആത്മാവ്.\n\n• (C) a long journey — ദൈർഘ്യമല്ല പ്രശ്നം, ഫലമില്ലായ്മയാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: കാട്ടുവാത്തയുടെ പുറകെ പാടം മുഴുവൻ ഓടുന്ന ഒരാളുടെ ചിത്രം — വാത്ത പറന്നു, ഓടിയവൻ വെറും കയ്യോടെ!\n• Word family: വ്യർത്ഥത idioms — wild goose chase, build castles in the air (വ്യാമോഹം), cry over spilt milk — മൂന്നും 'ഫലമില്ലായ്മ' കുടുംബം.\n• PSC strategy: idiom-ൽ മൃഗം/പക്ഷി കണ്ടാൽ ഉറപ്പിക്കുക — ഉത്തരം ആ ജീവിയുമായി നേരിട്ട് ബന്ധപ്പെട്ടതാകില്ല; നേരർത്ഥ options വെട്ടിക്കളയുക. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q76",
@@ -1121,7 +1511,13 @@
     "optionB": "to feel slightly ill",
     "optionC": "to predict the weather",
     "optionD": "to be in trouble",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) to feel slightly ill\n\n• 'to be under the weather' എന്നാൽ ചെറിയ അസുഖം തോന്നുക, സുഖമില്ലാതിരിക്കുക എന്നർത്ഥം.\n• ഗുരുതര രോഗമല്ല — ചെറിയ പനി, തലവേദന, ക്ഷീണം തരം അസ്വസ്ഥത.\n• 'ഇന്ന് എനിക്ക് വലിയ സുഖം തോന്നുന്നില്ല' എന്ന് പറയാൻ ഇംഗ്ലീഷിൽ 'I'm feeling under the weather'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: under the weather = ചെറിയ അസുഖം/സുഖമില്ലായ്മ!\n• കപ്പൽ യാത്രക്കാരുടെ പഴയ പ്രയോഗമാണ് — കടൽച്ചൊരുക്ക് വന്നവരെ കാലാവസ്ഥയിൽ നിന്ന് രക്ഷിക്കാൻ താഴത്തെ തട്ടിലേക്ക് (under) അയയ്ക്കുമായിരുന്നു.\n• ആരോഗ്യ idioms കുടുംബം: under the weather (ചെറു അസുഖം), fit as a fiddle (നല്ല ആരോഗ്യം), back on one's feet (രോഗം മാറി തിരിച്ചെത്തി).\n• ⭐ PSC ആവർത്തനം: ആരോഗ്യ സംബന്ധ idioms PSC ഇഷ്ടപ്പെടുന്ന വിഭാഗമാണ്!\n• ഉദാഹരണ sentences:\n1. I'm feeling under the weather, so I'll rest today. (സുഖമില്ലാത്തതിനാൽ വിശ്രമിക്കും)\n2. She was under the weather after the long journey. (യാത്രാക്ഷീണം കൊണ്ട് അസ്വസ്ഥയായി)\n3. He is fit as a fiddle at eighty. (എൺപതിലും നല്ല ആരോഗ്യം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) to be outdoors in the rain — നേരർത്ഥ കെണി; weather കണ്ട് മഴയും വെയിലും ഓർക്കരുത്!\n• 🪤 PSC Trap: 'weather' എന്ന വാക്കിന്റെ നേരർത്ഥത്തിലേക്ക് വലിച്ചിടുന്ന options — idiom-ന്റെ സ്ഥിരം കെണി!\n\n• (C) to predict the weather — കാലാവസ്ഥാ പ്രവചനവുമായി ഒരു ബന്ധവുമില്ല.\n\n• (D) to be in trouble — കുഴപ്പത്തിലാകുക എന്നത് in hot water എന്ന വേറെ idiom ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"കാർമേഘത്തിന് കീഴിൽ (under) വാടി നിൽക്കുന്ന ഒരാൾ\" — മഴക്കാറ് പോലെ മൂടിയ മുഖം = ചെറിയ അസുഖം.\n• Word family: ആരോഗ്യ idioms — under the weather (അസുഖം), fit as a fiddle (ആരോഗ്യം), back on one's feet (സുഖം പ്രാപിച്ചു) — മൂന്നും ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: idiom-ലെ പ്രധാന noun-ന്റെ (weather) നേരർത്ഥമുള്ള എല്ലാ options-ഉം ആദ്യം വെട്ടുക — ബാക്കിയാകുന്നതിൽ ഉത്തരം എളുപ്പം കാണാം. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q77",
@@ -1135,7 +1531,13 @@
     "optionB": "passenger",
     "optionC": "spectator",
     "optionD": "vagabond",
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) pedestrian\n\n• 'one who travels on foot' — കാൽനടയായി സഞ്ചരിക്കുന്നയാൾ → pedestrian.\n• Latin 'pes/pedis' (കാൽ) എന്ന വേരിൽ നിന്ന് — pedal, pedicure എന്നിവയും ഇതേ കുടുംബം.\n• റോഡരികിലെ 'pedestrian crossing' (കാൽനടക്കാർക്കുള്ള ക്രോസിംഗ്) ബോർഡ് ഓർക്കുക.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ped = കാൽ → pedestrian = കാൽനടക്കാരൻ!\n• Etymology ആണ് one word substitute-ന്റെ താക്കോൽ — ped (കാൽ): pedestrian, pedal, centipede (നൂറ് കാലുള്ള ജീവി).\n• യാത്രക്കാർ കുടുംബം: pedestrian (കാൽനട), passenger (വാഹന യാത്രക്കാരൻ), commuter (ദിവസേന യാത്ര ചെയ്യുന്നയാൾ).\n• ⭐ PSC ആവർത്തനം: pedestrian PSC one word substitute പട്ടികയിലെ സ്ഥിരാംഗമാണ്!\n• ഉദാഹരണ sentences:\n1. Pedestrians should use the zebra crossing. (കാൽനടക്കാർ സീബ്രാ ലൈൻ ഉപയോഗിക്കണം)\n2. The footpath is meant for pedestrians. (നടപ്പാത കാൽനടക്കാർക്കുള്ളതാണ്)\n3. Drivers must give way to pedestrians. (ഡ്രൈവർമാർ കാൽനടക്കാർക്ക് വഴി നൽകണം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) passenger — വാഹനത്തിൽ യാത്ര ചെയ്യുന്നയാൾ; കാൽനടക്കാരന്റെ നേർ എതിർ സങ്കൽപ്പം.\n• 🪤 PSC Trap: രണ്ടും 'p'-യിൽ തുടങ്ങുന്ന യാത്രാ വാക്കുകൾ — ധൃതിയിൽ മാറിപ്പോകാം!\n\n• (C) spectator — കാഴ്ചക്കാരൻ; യാത്രയുമായി ബന്ധമില്ല.\n\n• (D) vagabond — അലഞ്ഞുതിരിയുന്നവൻ; നടത്തം ഉണ്ടെങ്കിലും 'ലക്ഷ്യമില്ലാത്ത അലച്ചിൽ' എന്ന negative അർത്ഥമാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"PEDal ചവിട്ടുന്നതും PEDestrian നടക്കുന്നതും കാൽ കൊണ്ട്!\" — ped = കാൽ എന്ന വേര് പിടിച്ചാൽ ഒരു കുടുംബം മുഴുവൻ കിട്ടും.\n• Word family: ped കുടുംബം — pedestrian, pedal, pedicure, centipede — എല്ലാം 'കാൽ' ബന്ധം.\n• PSC strategy: one word substitute-ൽ അപരിചിത വാക്ക് കണ്ടാൽ വേര് (root) തിരയുക — Latin/Greek വേരറിഞ്ഞാൽ അർത്ഥം ഊഹിക്കാം. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q78",
@@ -1149,7 +1551,13 @@
     "optionB": "realist",
     "optionC": "optimist",
     "optionD": "egoist",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) optimist\n\n• 'a person who looks at the bright side of things' — എല്ലാത്തിന്റെയും നല്ല വശം കാണുന്നയാൾ → optimist.\n• ഗ്ലാസ് പാതി നിറഞ്ഞതായി കാണുന്നയാൾ — ശുഭാപ്തിവിശ്വാസി.\n• Latin 'optimus' (ഏറ്റവും നല്ലത്) എന്ന വേരിൽ നിന്ന്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: നല്ല വശം കാണുന്നവൻ = optimist; മോശം വശം കാണുന്നവൻ = pessimist!\n• -ist കുടുംബം (ആളുകൾ): optimist, pessimist, realist (യാഥാർത്ഥ്യവാദി), egoist (സ്വാർത്ഥചിന്തകൻ).\n• ഈ നാലുപേരും ഒരേ ചോദ്യത്തിന്റെ options ആയി വരാറുണ്ട് — നാലിന്റെയും അർത്ഥം ഉറപ്പിക്കുക.\n• ⭐ PSC ആവർത്തനം: optimist/pessimist ജോഡി one word substitute-ലെ ഏറ്റവും പതിവ് ചോദ്യങ്ങളിലൊന്നാണ്!\n• ഉദാഹരണ sentences:\n1. An optimist sees opportunity in every difficulty. (ശുഭചിന്തകൻ പ്രതിസന്ധിയിലും അവസരം കാണുന്നു)\n2. Being an optimist helped her recover fast. (ശുഭചിന്ത വേഗം സുഖം പ്രാപിക്കാൻ സഹായിച്ചു)\n3. A pessimist sees difficulty in every opportunity. (അശുഭചിന്തകൻ അവസരത്തിലും പ്രശ്നം കാണുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) pessimist — മോശം വശം മാത്രം കാണുന്നയാൾ; നേർ വിപരീതം.\n• 🪤 PSC Trap: optimist-ഉം pessimist-ഉം അടുത്തടുത്ത് വച്ച് ആശയക്കുഴപ്പം ഉണ്ടാക്കുന്നു — അർത്ഥം മാറിപ്പോകരുത്!\n\n• (B) realist — യാഥാർത്ഥ്യം മാത്രം നോക്കുന്നയാൾ; നല്ലതും ചീത്തയും ഉള്ളത് പോലെ കാണുന്നവൻ.\n\n• (D) egoist — സ്വന്തം കാര്യം മാത്രം ചിന്തിക്കുന്നയാൾ; ചോദ്യവുമായി ബന്ധമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"OPTImist = ഉത്തമം കാണുന്നവൻ; PESSImist = പിശക് കാണുന്നവൻ!\" — വേരുകളുടെ ശബ്ദം തന്നെ അർത്ഥം പറയും.\n• Word family: -ist ആളുകൾ — optimist, pessimist, realist, egoist, altruist (പരോപകാരി) — അഞ്ചുപേരെയും ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: 'bright side' = optimist, 'dark side' = pessimist — ചോദ്യത്തിലെ ഈ സൂചനാ വാക്കുകൾ നേരിട്ട് ഉത്തരത്തിലേക്ക് നയിക്കും. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q79",
@@ -1163,7 +1571,13 @@
     "optionB": "dictionary",
     "optionC": "journal",
     "optionD": "anthology",
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) catalogue\n\n• 'a list of books available in a library' — ലൈബ്രറിയിലെ പുസ്തകങ്ങളുടെ പട്ടിക → catalogue.\n• ക്രമീകരിച്ച ഔദ്യോഗിക പട്ടികയാണ് catalogue — ലൈബ്രറി, പ്രദർശനം, ഉൽപ്പന്നങ്ങൾ എന്നിവയ്ക്കെല്ലാം.\n• Greek 'katalogos' (പട്ടിക) എന്ന വാക്കിൽ നിന്ന്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ലൈബ്രറിയിലെ പുസ്തകപ്പട്ടിക = catalogue!\n• പുസ്തക കുടുംബം വേർതിരിച്ചറിയുക: catalogue (പുസ്തകങ്ങളുടെ പട്ടിക), dictionary (വാക്കുകളുടെ അർത്ഥപുസ്തകം), anthology (കവിതകളുടെ/കഥകളുടെ സമാഹാരം), bibliography (റഫറൻസ് പുസ്തകപ്പട്ടിക).\n• library ചുറ്റുപാടുമുള്ള വാക്കുകൾ ഒരുമിച്ച് പഠിക്കുന്നത് ബുദ്ധിപരമാണ്.\n• ⭐ PSC ആവർത്തനം: catalogue/anthology/bibliography — ഈ മൂവരും PSC one word substitute-ൽ മാറിമാറി വരുന്നു!\n• ഉദാഹരണ sentences:\n1. Search the library catalogue for that novel. (കാറ്റലോഗിൽ നോവൽ തിരയുക)\n2. The exhibition catalogue lists all paintings. (പ്രദർശന കാറ്റലോഗിൽ എല്ലാ ചിത്രങ്ങളും)\n3. An anthology of Malayalam poems was released. (മലയാള കവിതാ സമാഹാരം പ്രകാശനം ചെയ്തു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) dictionary — വാക്കുകളും അർത്ഥങ്ങളും അടങ്ങിയ പുസ്തകം; പുസ്തകപ്പട്ടികയല്ല.\n• 🪤 PSC Trap: നാല് options-ഉം 'പുസ്തക ലോകത്തെ' വാക്കുകൾ — സൂക്ഷ്മ അർത്ഥവ്യത്യാസമാണ് പരീക്ഷിക്കുന്നത്!\n\n• (C) journal — ആനുകാലിക പ്രസിദ്ധീകരണം/ഡയറി; പട്ടികയല്ല.\n\n• (D) anthology — രചനകളുടെ സമാഹാരം; പട്ടികയല്ല, ഉള്ളടക്കം തന്നെയാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"CATAlogue = ക്രമത്തിലുള്ള LOG (രേഖ)!\" — ലൈബ്രേറിയന്റെ മേശപ്പുറത്തെ പട്ടിക പുസ്തകം ഓർക്കുക.\n• Word family: പുസ്തക ലോകം — catalogue (പട്ടിക), anthology (സമാഹാരം), bibliography (റഫറൻസ് പട്ടിക), encyclopedia (വിജ്ഞാനകോശം).\n• PSC strategy: 'list of...' എന്ന് ചോദ്യത്തിൽ കണ്ടാൽ ഉത്തരം പട്ടിക അർത്ഥമുള്ള വാക്കാകണം — ഉള്ളടക്ക പുസ്തകങ്ങളെ (dictionary, anthology) വെട്ടിക്കളയുക. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q80",
@@ -1177,7 +1591,13 @@
     "optionB": "ornithology",
     "optionC": "entomology",
     "optionD": "botany",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) ornithology\n\n• 'the scientific study of birds' — പക്ഷികളെക്കുറിച്ചുള്ള ശാസ്ത്രീയ പഠനം → ornithology.\n• Greek 'ornis' (പക്ഷി) + 'logos' (പഠനം) = ornithology.\n• ഇന്ത്യയുടെ പ്രശസ്ത പക്ഷിശാസ്ത്രജ്ഞൻ (ornithologist) സാലിം അലിയെ ഓർക്കുക — 'Birdman of India'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ornis (പക്ഷി) + logy (പഠനം) = ornithology!\n• -logy കുടുംബം (പഠനങ്ങൾ): ornithology (പക്ഷി), zoology (ജന്തു), botany (സസ്യം), entomology (പ്രാണി), etymology (വാക്കുകളുടെ ഉത്ഭവം).\n• Greek വേരുകൾ അറിഞ്ഞാൽ -logy ചോദ്യങ്ങൾ എളുപ്പമാകും.\n• ⭐ PSC ആവർത്തനം: -logy പഠനശാഖകൾ PSC one word substitute-ലെ ഉറപ്പുള്ള മേഖലയാണ് — ഒരു പട്ടിക തയ്യാറാക്കി പഠിക്കുക!\n• ഉദാഹരണ sentences:\n1. Salim Ali devoted his life to ornithology. (സാലിം അലി ജീവിതം പക്ഷിപഠനത്തിന് സമർപ്പിച്ചു)\n2. Thattekad sanctuary is famous among ornithologists. (തട്ടേക്കാട് പക്ഷിശാസ്ത്രജ്ഞർക്ക് പ്രിയം)\n3. She studied entomology at the university. (അവൾ പ്രാണിശാസ്ത്രം പഠിച്ചു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) zoology — ജന്തുക്കളുടെ പൊതു പഠനം; പക്ഷികൾ മാത്രമല്ല എല്ലാ ജീവികളും ഉൾപ്പെടും — ചോദ്യം specific ആണ്.\n• 🪤 PSC Trap: 'പക്ഷിയും ജന്തുവാണല്ലോ' എന്ന ചിന്തയിൽ zoology തിരഞ്ഞെടുപ്പിക്കാനുള്ള കെണി — specific പഠനശാഖ ചോദിച്ചാൽ specific ഉത്തരം!\n\n• (C) entomology — പ്രാണികളുടെ പഠനം; പക്ഷിയല്ല.\n\n• (D) botany — സസ്യങ്ങളുടെ പഠനം; ഒട്ടും ബന്ധമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ORNItthology — 'ഓർണി' എന്ന് കേട്ടാൽ പക്ഷിക്കൂട് ഓർക്കുക!\" — ornis = പക്ഷി എന്ന Greek വേര്.\n• Word family: -logy പട്ടിക — ornithology (പക്ഷി), entomology (പ്രാണി), zoology (ജന്തു), botany (സസ്യം), geology (ഭൂമി) — അഞ്ചും ഒറ്റ card-ൽ.\n• PSC strategy: study of... ചോദ്യങ്ങളിൽ specific-ഉം general-ഉം options-ൽ ഉണ്ടാകും (ornithology vs zoology) — ചോദ്യം specific എങ്കിൽ specific ഉത്തരം തിരഞ്ഞെടുക്കുക. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q81",
@@ -1191,7 +1611,13 @@
     "optionB": "epidemic",
     "optionC": "chronic",
     "optionD": "hereditary",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) epidemic\n\n• 'a disease that spreads rapidly among many people in an area at the same time' — ഒരു പ്രദേശത്ത് ഒരേസമയം അതിവേഗം പടരുന്ന രോഗം → epidemic (പകർച്ചവ്യാധി).\n• Greek 'epi' (ഇടയിൽ) + 'demos' (ജനം) = ജനങ്ങൾക്കിടയിൽ പടരുന്നത്.\n• ഡെങ്കിപ്പനി ഒരു ജില്ലയിൽ പടർന്നാൽ അത് epidemic ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ഒരു പ്രദേശത്ത് പടരുന്നത് = epidemic; ഒരു പ്രദേശത്ത് സ്ഥിരമായുള്ളത് = endemic; ലോകം മുഴുവൻ പടരുന്നത് = pandemic!\n• demos (ജനം) എന്ന Greek വേര് മൂന്നിലുമുണ്ട് — വ്യത്യാസം prefix-ൽ മാത്രം: epi (ഇടയിൽ), en (ഉള്ളിൽ), pan (എല്ലാം).\n• രോഗ വാക്കുകൾ: chronic (ദീർഘകാല രോഗം), hereditary (പാരമ്പര്യ രോഗം), contagious (സ്പർശത്തിലൂടെ പകരുന്നത്).\n• ⭐ PSC ആവർത്തനം: epidemic/endemic/pandemic ത്രയം PSC-യുടെ പ്രിയപ്പെട്ട confusion ചോദ്യമാണ്!\n• ഉദാഹരണ sentences:\n1. A cholera epidemic broke out in the town. (നഗരത്തിൽ കോളറ പടർന്നു)\n2. Malaria is endemic to some regions. (ചില പ്രദേശങ്ങളിൽ സ്ഥിരമായുള്ള രോഗം)\n3. The authorities acted fast to control the epidemic. (പകർച്ചവ്യാധി നിയന്ത്രിക്കാൻ വേഗം നടപടിയെടുത്തു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) endemic — ഒരു പ്രത്യേക പ്രദേശത്ത് സ്ഥിരമായി കാണുന്ന രോഗം; 'പടരൽ' അല്ല 'സ്ഥിരവാസം' ആണ് ആശയം.\n• 🪤 PSC Trap: epidemic-ഉം endemic-ഉം തമ്മിൽ ഒരു അക്ഷര വ്യത്യാസമേ ഉള്ളൂ — ഏറ്റവും അപകടകരമായ ജോഡി!\n\n• (C) chronic — ദീർഘകാലം നീണ്ടുനിൽക്കുന്ന രോഗം (പ്രമേഹം പോലെ); പടരലുമായി ബന്ധമില്ല.\n\n• (D) hereditary — തലമുറകളിലൂടെ പകരുന്ന പാരമ്പര്യ രോഗം; ജനങ്ങൾക്കിടയിൽ പടരുന്നതല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"EPIdemic = എപ്പോഴോ വന്ന് പടരുന്നത്; ENdemic = എന്നും അവിടെയുള്ളത്; PANdemic = പരക്കെ ലോകമാകെ!\" — മൂന്ന് prefix, മൂന്ന് ചിത്രം.\n• Word family: demos കുടുംബം — epidemic, endemic, pandemic, democracy (ജനാധിപത്യം) — എല്ലാം 'ജനം' വേര്.\n• PSC strategy: ചോദ്യത്തിൽ 'spreads' കണ്ടാൽ epidemic/pandemic; 'found only in a region' കണ്ടാൽ endemic — ഈ വാക്കുകളാണ് വഴികാട്ടി. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q82",
@@ -1205,7 +1631,13 @@
     "optionB": "achive",
     "optionC": "achieve",
     "optionD": "acheeve",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) achieve\n\n• ശരിയായ spelling: a-c-h-i-e-v-e — 'i before e' നിയമം പാലിക്കുന്ന വാക്ക്.\n• 'നേടുക, കൈവരിക്കുക' എന്നർത്ഥം — achieve success, achieve a goal.\n• ie ജോഡി ശരിയായ ക്രമത്തിൽ വരുന്നതാണ് ഇവിടത്തെ പരീക്ഷ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: \"i before e, except after c\" — c കഴിഞ്ഞല്ലെങ്കിൽ i ആദ്യം, e പിന്നെ!\n• ie വാക്കുകൾ (c ഇല്ലാത്തവ): achieve, believe, chief, field, niece — എല്ലാം i ആദ്യം.\n• ei വാക്കുകൾ (c കഴിഞ്ഞ്): receive, deceive, ceiling — c-ക്ക് ശേഷം e ആദ്യം.\n• ⭐ PSC ആവർത്തനം: ie/ei spelling ചോദ്യം PSC-യിൽ ഏറ്റവും കൂടുതൽ വരുന്ന spelling വിഭാഗമാണ്!\n• ഉദാഹരണ sentences:\n1. She achieved her dream of becoming a doctor. (ഡോക്ടറാകുക എന്ന സ്വപ്നം നേടി)\n2. I believe in hard work. (കഠിനാധ്വാനത്തിൽ വിശ്വസിക്കുന്നു — ie)\n3. Did you receive my letter? (കത്ത് കിട്ടിയോ — c കഴിഞ്ഞതിനാൽ ei)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) acheive — e-യും i-യും സ്ഥാനം മാറി; ഏറ്റവും സാധാരണമായ തെറ്റ്.\n• 🪤 PSC Trap: acheive കാഴ്ചയിൽ ഏതാണ്ട് ശരിപോലെ തോന്നും — ഇതാണ് ie/ei കെണിയുടെ ശക്തി!\n\n• (B) achive — e വിട്ടുപോയി; ഉച്ചാരണത്തിൽ 'ഈ' നീളമുള്ളതിനാൽ ie വേണം.\n\n• (D) acheeve — ee തെറ്റ്; ഈ വാക്കിൽ ie ആണ് ശരി.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"aCHIEVE-ൽ CHIEF ഒളിച്ചിരിപ്പുണ്ട്!\" — chief (തലവൻ) ശരിയായി എഴുതാൻ അറിയാമെങ്കിൽ achieve-ഉം ശരിയാകും; രണ്ടിലും ie.\n• Word family: ie സംഘം — achieve, believe, chief, field, niece | ei സംഘം (c കഴിഞ്ഞ്) — receive, deceive, ceiling.\n• PSC strategy: ie/ei സംശയം വന്നാൽ തൊട്ടുമുമ്പ് c ഉണ്ടോ എന്ന് നോക്കുക — c ഉണ്ടെങ്കിൽ ei, ഇല്ലെങ്കിൽ ie. ഈ ഒറ്റ നിയമം 90% spelling ചോദ്യങ്ങൾ തീർക്കും. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q83",
@@ -1219,7 +1651,13 @@
     "optionB": "accomodation",
     "optionC": "accommodation",
     "optionD": "accomadation",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) accommodation\n\n• ശരിയായ spelling: ഇരട്ട c-യും ഇരട്ട m-ഉം — a-cc-o-mm-odation.\n• 'താമസ സൗകര്യം' എന്നർത്ഥം — hotel accommodation, hostel accommodation.\n• ലോകത്ത് ഏറ്റവും കൂടുതൽ തെറ്റായി എഴുതപ്പെടുന്ന ഇംഗ്ലീഷ് വാക്കുകളിലൊന്നാണിത്!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: accommodation = ഇരട്ട C + ഇരട്ട M — രണ്ടും ഇരട്ട!\n• ഇരട്ട അക്ഷര കുടുംബം: accommodation (cc+mm), committee (mm+tt+ee), address (dd+ss), success (cc+ss), necessary (ഒറ്റ c, ഇരട്ട s).\n• ഓരോ വാക്കിന്റെയും ഇരട്ടകൾ ഏതൊക്കെ എന്ന് കൃത്യമായി ഓർക്കണം — ഊഹം പറ്റില്ല.\n• ⭐ PSC ആവർത്തനം: accommodation-ഉം committee-ഉം necessary-ഉം PSC spelling ചോദ്യങ്ങളിലെ മൂന്ന് താരങ്ങളാണ്!\n• ഉദാഹരണ sentences:\n1. The college provides accommodation for students. (കോളേജ് താമസ സൗകര്യം നൽകുന്നു)\n2. We booked accommodation near the beach. (കടപ്പുറത്തിനടുത്ത് താമസം ബുക്ക് ചെയ്തു)\n3. Free accommodation is available for pilgrims. (തീർത്ഥാടകർക്ക് സൗജന്യ താമസം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) acommodation — ആദ്യത്തെ c ഒറ്റയായി; cc വേണം.\n\n• (B) accomodation — m ഒറ്റയായി; ഇതാണ് ലോകമെമ്പാടും ഏറ്റവും സാധാരണ തെറ്റ്!\n• 🪤 PSC Trap: cc ശരിയാക്കിയിട്ട് mm മറക്കുന്നവരെ പിടിക്കാനുള്ള option — രണ്ട് ഇരട്ടയും വേണമെന്ന് ഓർക്കുക!\n\n• (D) accomadation — mm-ന് ശേഷം o-യ്ക്ക് പകരം a വന്നു; accommoDAtion അല്ല, accommoDAtion... ശരി രൂപം: accommodation.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"രണ്ട് Cars-ഉം രണ്ട് Motorbikes-ഉം പാർക്ക് ചെയ്യാൻ ഇടമുള്ള താമസസ്ഥലം!\" — CC + MM എന്ന ഇരട്ടജോഡികൾ ഈ ചിത്രത്തിൽ ഉറയ്ക്കും.\n• Word family: ഇരട്ട അക്ഷര താരങ്ങൾ — accommodation, committee, address, success, occasion — അഞ്ചും എഴുതി പരിശീലിക്കുക.\n• PSC strategy: spelling ചോദ്യത്തിൽ ഇരട്ട അക്ഷര വാക്ക് കണ്ടാൽ ഓരോ option-ലെയും ഇരട്ടകളെ എണ്ണി താരതമ്യം ചെയ്യുക — വേഗത്തിൽ തെറ്റുകൾ പുറത്താകും. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q84",
@@ -1233,7 +1671,13 @@
     "optionB": "pnuemonia",
     "optionC": "pneumonea",
     "optionD": "pneumonia",
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) pneumonia\n\n• ശരിയായ spelling: p-n-e-u-m-o-n-i-a — തുടക്കത്തിലെ 'p' നിശ്ശബ്ദമാണ് (silent letter).\n• 'ന്യുമോണിയ' എന്നാണ് ഉച്ചാരണം — p കേൾക്കില്ല, പക്ഷേ എഴുതണം!\n• Greek 'pneumon' (ശ്വാസകോശം) എന്ന വാക്കിൽ നിന്ന് — ശ്വാസകോശ രോഗം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ഉച്ചാരണത്തിൽ ഇല്ലെങ്കിലും എഴുത്തിൽ വേണം — silent letters മറക്കരുത്!\n• Silent P കുടുംബം: pneumonia, psychology, psalm — മൂന്നിലും തുടക്കത്തിലെ p നിശ്ശബ്ദം.\n• മറ്റ് silent letters: Wednesday (d നിശ്ശബ്ദം), knife (k നിശ്ശബ്ദം), honest (h നിശ്ശബ്ദം), debt (b നിശ്ശബ്ദം).\n• ⭐ PSC ആവർത്തനം: silent letter spelling ചോദ്യങ്ങൾ PSC-യിൽ സ്ഥിരമായി വരുന്നു — ഒരു പട്ടിക ഉണ്ടാക്കി പഠിക്കുക!\n• ഉദാഹരണ sentences:\n1. He was hospitalised with pneumonia. (ന്യുമോണിയ ബാധിച്ച് ആശുപത്രിയിലായി)\n2. She studies psychology at the university. (മനഃശാസ്ത്രം പഠിക്കുന്നു — silent p)\n3. Cold weather can worsen pneumonia. (തണുപ്പ് ന്യുമോണിയ വഷളാക്കാം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) neumonia — silent p വിട്ടുപോയി; ഉച്ചാരണം പോലെ എഴുതിയാൽ തെറ്റ്!\n• 🪤 PSC Trap: കേൾക്കുന്നത് പോലെ എഴുതുന്നവരെ പിടിക്കാനുള്ള കൃത്യമായ കെണിയാണിത് — silent letter ഓർക്കുക!\n\n• (B) pnuemonia — u-യും e-യും സ്ഥാനം മാറി; pneu ആണ് ശരി ക്രമം.\n\n• (C) pneumonea — അവസാനം -nia ആണ് ശരി, -nea അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"P is silent, but Present!\" — ന്യുമോണിയയുടെ p ക്ലാസ്സിലെ നിശ്ശബ്ദ വിദ്യാർത്ഥിയാണ് — ശബ്ദമില്ല, പക്ഷേ ഹാജരുണ്ട്!\n• Word family: silent p — pneumonia, psychology, psalm | silent k — knife, knee, know | silent b — debt, doubt, comb.\n• PSC strategy: രോഗങ്ങളുടെയും ശാസ്ത്ര വാക്കുകളുടെയും spelling-ൽ Greek silent letters പതിവാണ് — ഉച്ചാരണം വിശ്വസിക്കരുത്, എഴുതി പഠിക്കുക. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q85",
@@ -1247,7 +1691,13 @@
     "optionB": "maintanance",
     "optionC": "maintainence",
     "optionD": "maintenance",
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) maintenance\n\n• ശരിയായ spelling: main-TE-nance — നടുവിൽ 'te' ആണ്, 'tai' അല്ല.\n• 'പരിപാലനം, അറ്റകുറ്റപ്പണി' എന്നർത്ഥം — vehicle maintenance, road maintenance.\n• maintain എന്ന verb-ൽ നിന്ന് വരുമ്പോൾ 'tai' നഷ്ടപ്പെട്ട് 'te' ആകുന്നു എന്നതാണ് കുഴപ്പിക്കുന്ന കാര്യം!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: maintain → mainTEnance — verb-ലെ 'tai' noun-ൽ 'te' ആകും!\n• ഇതുപോലെ രൂപം മാറുന്ന ജോഡികൾ: maintain/maintenance, pronounce/pronunciation (o നഷ്ടപ്പെടുന്നു), explain/explanation (i നഷ്ടപ്പെടുന്നു).\n• Verb-ന്റെ spelling അതേപടി noun-ലേക്ക് കൊണ്ടുപോകരുത് — ഇതാണ് ഈ വിഭാഗത്തിലെ പ്രധാന പാഠം.\n• ⭐ PSC ആവർത്തനം: maintenance-ഉം pronunciation-ഉം PSC spelling ചോദ്യങ്ങളിലെ കുപ്രസിദ്ധ ജോഡിയാണ്!\n• ഉദാഹരണ sentences:\n1. The lift is under maintenance. (ലിഫ്റ്റ് അറ്റകുറ്റപ്പണിയിലാണ്)\n2. Regular maintenance keeps vehicles safe. (കൃത്യമായ പരിപാലനം വാഹനങ്ങളെ സുരക്ഷിതമാക്കുന്നു)\n3. He pays maintenance charges monthly. (മാസംതോറും മെയിന്റനൻസ് ഫീസ് അടയ്ക്കുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) maintainance — maintain + ance എന്ന് നേരിട്ട് ചേർത്ത തെറ്റ്; 'tai' മാറി 'te' ആകണം.\n• 🪤 PSC Trap: verb ശരിയായി അറിയാവുന്നവർ തന്നെയാണ് ഇവിടെ വീഴുന്നത് — maintain-ന്റെ spelling അതേപടി പകർത്തരുത്!\n\n• (B) maintanance — te-യ്ക്ക് പകരം ta; തെറ്റ്.\n\n• (C) maintainence — tai-യും ence-ഉം രണ്ടും തെറ്റ്; ance ആണ് ശരി അവസാനം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"mainTENance-ൽ TEN (പത്ത്) ഉണ്ട്!\" — പത്ത് രൂപ കൊടുത്ത് മെയിന്റനൻസ് — ഈ ചെറു കഥ spelling ഉറപ്പിക്കും.\n• Word family: രൂപം മാറുന്ന ജോഡികൾ — maintain/maintenance, pronounce/pronunciation, explain/explanation — മൂന്നും ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: verb-ൽ നിന്നുള്ള noun-ന്റെ spelling ചോദിച്ചാൽ ജാഗ്രത — അതേപടി പകർത്തുന്ന option മിക്കപ്പോഴും കെണിയാണ്. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q86",
@@ -1261,7 +1711,13 @@
     "optionB": "effect",
     "optionC": "afflict",
     "optionD": "effort",
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) affect\n\n• 'affect' (verb) = ബാധിക്കുക, സ്വാധീനിക്കുക; 'effect' (noun) = ഫലം, പരിണതഫലം.\n• ഇവിടെ 'did not ___' എന്നതിന് ശേഷം verb വേണം → affect.\n• 'കനത്ത മഴ പരീക്ഷാ നടത്തിപ്പിനെ ബാധിച്ചില്ല' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Affect = Action (verb, ബാധിക്കുക); Effect = End result (noun, ഫലം)!\n• A for Action, E for End result — ആദ്യാക്ഷരം തന്നെ വ്യത്യാസം പറയുന്നു.\n• Verb സ്ഥാനത്ത് (did not ___, will ___) affect; noun സ്ഥാനത്ത് (the ___ of, an ___) effect.\n• ⭐ PSC ആവർത്തനം: affect/effect ആണ് Words Often Confused-ലെ ഒന്നാം നമ്പർ PSC ചോദ്യം!\n• ഉദാഹരണ sentences:\n1. Smoking affects your health. (പുകവലി ആരോഗ്യത്തെ ബാധിക്കുന്നു — verb)\n2. The effect of the new law is visible. (പുതിയ നിയമത്തിന്റെ ഫലം — noun)\n3. The strike did not affect train services. (സമരം ട്രെയിൻ സർവീസിനെ ബാധിച്ചില്ല)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) effect — noun ആണ്; 'did not' കഴിഞ്ഞ് verb വേണ്ട സ്ഥാനത്ത് noun വരില്ല.\n• 🪤 PSC Trap: affect/effect — ഒരേ ഉച്ചാരണം പോലെ തോന്നുന്ന ഈ ജോഡിയാണ് ഇംഗ്ലീഷിലെ ഏറ്റവും വലിയ confusion!\n\n• (C) afflict — പീഡിപ്പിക്കുക, ദുരിതത്തിലാക്കുക; രോഗവും ദുരന്തവും മനുഷ്യരെ afflict ചെയ്യും; ഇവിടത്തെ അർത്ഥത്തിന് affect മതി.\n\n• (D) effort — ശ്രമം; ശബ്ദസാമ്യം കൊണ്ട് വച്ച distractor; അർത്ഥബന്ധമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"A = Action (പ്രവൃത്തി), E = End result (ഫലം)!\" — affect പ്രവർത്തിക്കുന്നു, effect ഫലമായി നിൽക്കുന്നു; ആദ്യാക്ഷരം തന്നെ കഥ പറയുന്നു.\n• Word family: ആശയക്കുഴപ്പ ജോഡികൾ — affect/effect, advice/advise, practice/practise — എല്ലാം 'noun ആണോ verb ആണോ' എന്ന ഒരേ കളിയാണ്.\n• PSC strategy: blank-ന്റെ സ്ഥാനം നോക്കുക — did not/will/can എന്നിവയ്ക്ക് ശേഷമാണെങ്കിൽ verb ആയ affect; the/an എന്നിവയ്ക്ക് ശേഷമാണെങ്കിൽ noun ആയ effect. സ്ഥാനം തന്നെ ഉത്തരം പറയും. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q87",
@@ -1275,7 +1731,13 @@
     "optionB": "principal",
     "optionC": "principality",
     "optionD": "principled",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) principal\n\n• 'principal' = സ്ഥാപന മേധാവി (പ്രിൻസിപ്പൽ); 'principle' = തത്വം, നിയമം.\n• കോളേജിലെ വിദ്യാർത്ഥികളെ അഭിസംബോധന ചെയ്തത് ആളാണ് → principal.\n• 'ഞങ്ങളുടെ കോളേജ് പ്രിൻസിപ്പൽ ഒന്നാം വർഷ വിദ്യാർത്ഥികളെ അഭിസംബോധന ചെയ്തു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: principAL = ആൾ (person); principLE = തത്വം (rule)!\n• 'The principal is your PAL (കൂട്ടുകാരൻ)' — ആളിനെ കുറിക്കുമ്പോൾ -pal.\n• 'PrincipLE = ruLE' — രണ്ടിന്റെയും അവസാനം -le; തത്വത്തിന് -ple.\n• ⭐ PSC ആവർത്തനം: principal/principle ജോഡി PSC Words Often Confused-ലെ രണ്ടാം നമ്പർ താരമാണ്!\n• ഉദാഹരണ sentences:\n1. The principal announced the exam dates. (പ്രിൻസിപ്പൽ പരീക്ഷാ തീയതി പ്രഖ്യാപിച്ചു — ആൾ)\n2. Honesty is his guiding principle. (സത്യസന്ധതയാണ് അവന്റെ മാർഗ്ഗതത്വം — തത്വം)\n3. Gandhiji lived by his principles. (ഗാന്ധിജി തത്വങ്ങൾക്കനുസരിച്ച് ജീവിച്ചു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) principle — തത്വം; ആളെ കുറിക്കില്ല; തത്വത്തിന് വിദ്യാർത്ഥികളെ അഭിസംബോധന ചെയ്യാനാവില്ലല്ലോ!\n• 🪤 PSC Trap: ഉച്ചാരണം ഒന്നായതിനാൽ എഴുത്തിൽ മാത്രം തിരിച്ചറിയാവുന്ന ജോഡി — ശ്രദ്ധയാണ് ആയുധം!\n\n• (C) principality — ചെറു രാജ്യം (മൊണാക്കോ പോലെ); ഇവിടെ ബന്ധമില്ല.\n\n• (D) principled — തത്വാധിഷ്ഠിതമായ (adjective); ആളെ കുറിക്കുന്ന noun അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"പ്രിൻസിപ്പൽ എന്റെ PAL (കൂട്ടുകാരൻ) ആണ്!\" — ആളാണെങ്കിൽ -pal; RULE ആണെങ്കിൽ -ple (principle = rule).\n• Word family: ഉച്ചാരണം ഒന്നായ ജോഡികൾ — principal/principle, stationary/stationery, its/it's — ഇവ homophone confusion കുടുംബം.\n• PSC strategy: വാക്യത്തിൽ ആ വാക്ക് ആളെയാണോ ആശയത്തെയാണോ കുറിക്കുന്നത് എന്ന് ചോദിക്കുക — ആൾ = -pal, ആശയം = -ple. ഒരിക്കലും miss ആകില്ല!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q88",
@@ -1289,7 +1751,13 @@
     "optionB": "loss",
     "optionC": "lost",
     "optionD": "loose",
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) loose\n\n• 'loose' (adjective) = അയഞ്ഞ, മുറുക്കമില്ലാത്ത; 'lose' (verb) = നഷ്ടപ്പെടുക, തോൽക്കുക.\n• ഷൂലേസ് അയഞ്ഞുപോയി എന്നാണ് പറയുന്നത് → became loose.\n• 'ഓടുന്നതിനിടെ എന്റെ ഷൂലേസ് അയഞ്ഞുപോയി' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: LOOSE = അയഞ്ഞത് (രണ്ട് O — അയഞ്ഞ് വിശാലം!); LOSE = നഷ്ടപ്പെടുക (ഒരു O നഷ്ടപ്പെട്ടു!)\n• loose ഉച്ചാരണം 'ലൂസ്' (s ശബ്ദം); lose ഉച്ചാരണം 'ലൂസ്' എന്നല്ല 'ലൂസ്' — z ശബ്ദം ('ലൂz').\n• became/is/felt കഴിഞ്ഞ് adjective വരും → loose; will/did not കഴിഞ്ഞ് verb വരും → lose.\n• ⭐ PSC ആവർത്തനം: lose/loose ജോഡി PSC-യും ബാങ്ക് പരീക്ഷകളും ഒരുപോലെ ഇഷ്ടപ്പെടുന്ന confusion ആണ്!\n• ഉദാഹരണ sentences:\n1. This shirt is too loose for me. (ഈ ഷർട്ട് എനിക്ക് വളരെ അയഞ്ഞതാണ് — adjective)\n2. Don't lose your hall ticket. (ഹാൾ ടിക്കറ്റ് നഷ്ടപ്പെടുത്തരുത് — verb)\n3. The screw became loose over time. (സ്ക്രൂ കാലക്രമേണ അയഞ്ഞു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) lose — verb; 'became ___' കഴിഞ്ഞ് adjective വേണ്ട സ്ഥാനത്ത് verb വരില്ല.\n• 🪤 PSC Trap: ഒറ്റ o വ്യത്യാസത്തിൽ അർത്ഥം മുഴുവൻ മാറുന്നു — ഇംഗ്ലീഷിലെ ഏറ്റവും കുപ്രസിദ്ധമായ spelling confusion!\n\n• (B) loss — നഷ്ടം (noun); 'shoelaces became loss' എന്നത് അർത്ഥശൂന്യം.\n\n• (C) lost — lose-ന്റെ past രൂപം; became-നോടൊപ്പം ഈ അർത്ഥത്തിൽ ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"LOOSE-ൽ രണ്ട് O — കയറിൽ രണ്ട് അയഞ്ഞ വളയങ്ങൾ പോലെ! LOSE-ൽ ഒരു O നഷ്ടപ്പെട്ടു — അതാണ് നഷ്ടം!\" — അക്ഷരങ്ങൾ തന്നെ അർത്ഥം അഭിനയിക്കുന്നു.\n• Word family: lose (നഷ്ടം — verb), loose (അയഞ്ഞ — adj), loss (നഷ്ടം — noun), lost (past) — നാലും വേർതിരിച്ച് ഒറ്റ card-ൽ പഠിക്കുക.\n• PSC strategy: blank-ന് മുന്നിൽ became/is/felt കണ്ടാൽ adjective (loose); മുന്നിൽ don't/will കണ്ടാൽ verb (lose). സ്ഥാനം നോക്കിയാൽ confusion തീരും. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q89",
@@ -1303,7 +1771,13 @@
     "optionB": "crises",
     "optionC": "crisis",
     "optionD": "crisas",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) crises\n\n• 'crisis' (പ്രതിസന്ധി) — Greek വാക്കായതിനാൽ plural സാധാരണ '-s' ചേർത്തല്ല: crisis → crises.\n• ഉച്ചാരണവും മാറും: ക്രൈസിസ് (singular) → ക്രൈസീസ് (plural).\n• -is അവസാനിക്കുന്ന Greek വാക്കുകൾ -es ആയി മാറുന്നു എന്നതാണ് നിയമം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: -is → -es! (Greek plural നിയമം)\n• -is കുടുംബം: crisis → crises, analysis → analyses, basis → bases, thesis → theses, oasis → oases.\n• അഞ്ച് വാക്കുകളും ഒരേ pattern — ഒന്ന് പഠിച്ചാൽ അഞ്ചും കിട്ടി!\n• ⭐ PSC ആവർത്തനം: crisis/crises-ഉം analysis/analyses-ഉം PSC plural ചോദ്യങ്ങളിലെ പതിവുകാരാണ്!\n• ഉദാഹരണ sentences:\n1. The country faced many economic crises. (രാജ്യം പല സാമ്പത്തിക പ്രതിസന്ധികൾ നേരിട്ടു)\n2. The lab completed all the analyses. (ലാബ് എല്ലാ വിശകലനങ്ങളും പൂർത്തിയാക്കി)\n3. Desert travellers search for oases. (മരുയാത്രക്കാർ മരുപ്പച്ചകൾ തിരയുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) crisises — ഇംഗ്ലീഷ് '-es' നിയമം Greek വാക്കിൽ പ്രയോഗിച്ച തെറ്റ്; അങ്ങനെയൊരു വാക്കില്ല.\n• 🪤 PSC Trap: സാധാരണ plural നിയമം മാത്രം അറിയാവുന്നവരെ പിടിക്കാനുള്ള കെണി — crisises സ്വാഭാവികമായി തോന്നും!\n\n• (C) crisis — singular രൂപം അതേപടി; plural ചോദിച്ചതിനാൽ തെറ്റ്.\n\n• (D) crisas — അങ്ങനെയൊരു രൂപമേ ഇല്ല; വെറും distractor.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"IS പോയി ES വന്നു!\" — crisis-ലെ അവസാന 'is' എടുത്തുമാറ്റി 'es' വയ്ക്കുക; അത്രയേ ഉള്ളൂ Greek plural.\n• Word family: -is → -es അഞ്ചംഗ സംഘം — crisis, analysis, basis, thesis, oasis — ഒറ്റ card-ൽ എഴുതി പഠിക്കുക.\n• PSC strategy: -is-ൽ അവസാനിക്കുന്ന വാക്കിന്റെ plural ചോദിച്ചാൽ '-ises' options ധൈര്യമായി വെട്ടുക — ശരി ഉത്തരം എപ്പോഴും '-es' മാറ്റം. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q90",
@@ -1317,7 +1791,13 @@
     "optionB": "phenomenas",
     "optionC": "phenomenon",
     "optionD": "phenomena",
-    "correctAnswer": "D"
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) phenomena\n\n• 'phenomenon' (പ്രതിഭാസം) — Greek വാക്ക്; plural = phenomena.\n• -on അവസാനിക്കുന്ന Greek വാക്കുകൾ -a ആയി മാറുന്നു: phenomenon → phenomena, criterion → criteria.\n• മഴവില്ല്, ധ്രുവദീപ്തി — ഇവയെല്ലാം natural phenomena (പ്രകൃതി പ്രതിഭാസങ്ങൾ).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: -on → -a! (Greek plural രണ്ടാം നിയമം)\n• -on കുടുംബം: phenomenon → phenomena, criterion → criteria.\n• ശ്രദ്ധിക്കുക: criteria/phenomena എന്നിവ plural ആണ് — 'a criteria' എന്ന പ്രയോഗം തെറ്റ്; singular വേണമെങ്കിൽ criterion.\n• ⭐ PSC ആവർത്തനം: phenomenon/phenomena-ഉം criterion/criteria-ഉം PSC-യുടെ പ്രിയപ്പെട്ട Greek plural ജോഡികളാണ്!\n• ഉദാഹരണ sentences:\n1. The aurora is a rare phenomenon. (ധ്രുവദീപ്തി അപൂർവ്വ പ്രതിഭാസമാണ് — singular)\n2. Scientists study natural phenomena. (ശാസ്ത്രജ്ഞർ പ്രകൃതി പ്രതിഭാസങ്ങൾ പഠിക്കുന്നു — plural)\n3. Selection is based on three criteria. (മൂന്ന് മാനദണ്ഡങ്ങളുടെ അടിസ്ഥാനത്തിൽ — plural)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) phenomenons — ഇംഗ്ലീഷ് '-s' നിയമം Greek വാക്കിൽ; അങ്ങനെയൊരു രൂപമില്ല.\n• 🪤 PSC Trap: '-s ചേർത്താൽ plural' എന്ന ഒറ്റ നിയമക്കാരെ വീഴ്ത്തുന്ന classic കെണി!\n\n• (B) phenomenas — phenomena തന്നെ plural ആണ്; അതിൽ വീണ്ടും -s ചേർക്കുന്നത് ഇരട്ടത്തെറ്റ്.\n\n• (C) phenomenon — singular രൂപം; plural ചോദിച്ചതിനാൽ തെറ്റ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ON പോയി A വന്നു!\" — phenomenon എന്നതിലെ അവസാന ഭാഗം മാറി phenomena ആകുന്നു; criterion മാറി criteria ആകുന്നതും ഇതേ താളത്തിൽ.\n• Word family: Greek plural രണ്ട് നിയമങ്ങൾ ഓർക്കുക — ഒന്ന്: crisis പോലുള്ളവ crises ആകും; രണ്ട്: phenomenon പോലുള്ളവ phenomena ആകും — രണ്ട് പട്ടികകളും ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: Greek/Latin വാക്കുകളുടെ plural ചോദ്യത്തിൽ സാധാരണ '-s' ചേർത്ത option എപ്പോഴും സംശയിക്കുക — ഈ വാക്കുകൾക്ക് സ്വന്തം നിയമങ്ങളുണ്ട്; അത് അറിയുന്നവർക്ക് ഈ mark ഉറപ്പാണ്. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q91",
@@ -1331,7 +1811,13 @@
     "optionB": "flock",
     "optionC": "swarm",
     "optionD": "pack",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) swarm\n\n• തേനീച്ചകളുടെ കൂട്ടത്തിന് 'swarm' എന്നാണ് collective noun — a swarm of bees.\n• പറക്കുന്ന ചെറു പ്രാണികളുടെ കൂട്ടത്തിനാണ് swarm ഉപയോഗിക്കുന്നത്.\n• 'ഒരു കൂട്ടം തേനീച്ചകൾ തൊഴിലാളികളെ ആക്രമിച്ചു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: swarm = പറക്കുന്ന പ്രാണിക്കൂട്ടം (തേനീച്ച, ഈച്ച, വെട്ടുക്കിളി)!\n• ജീവി അനുസരിച്ച് collective noun മാറും: swarm of bees (തേനീച്ച), herd of cattle (കന്നുകാലി), flock of sheep/birds (ആട്/പക്ഷി), pack of wolves (ചെന്നായ), pride of lions (സിംഹം).\n• ഓരോ ജീവിക്കും അതിന്റേതായ കൂട്ടപ്പേര് — മാറ്റി ഉപയോഗിച്ചാൽ തെറ്റ്.\n• ⭐ PSC ആവർത്തനം: swarm/herd/flock ത്രയം PSC collective noun ചോദ്യങ്ങളിലെ സ്ഥിരക്കാരാണ്!\n• ഉദാഹരണ sentences:\n1. A swarm of locusts destroyed the crops. (വെട്ടുക്കിളിക്കൂട്ടം വിള നശിപ്പിച്ചു)\n2. A herd of elephants crossed the road. (ആനക്കൂട്ടം റോഡ് മുറിച്ചുകടന്നു)\n3. A flock of parrots flew over the paddy field. (തത്തക്കൂട്ടം പാടത്തിന് മുകളിലൂടെ പറന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) herd — വലിയ നാൽക്കാലി മൃഗങ്ങളുടെ കൂട്ടം (പശു, ആന); പ്രാണികൾക്ക് ചേരില്ല.\n• 🪤 PSC Trap: എല്ലാ കൂട്ടത്തിനും herd എന്ന് പറയുന്ന ശീലക്കാരെ പിടിക്കാനുള്ള കെണി!\n\n• (B) flock — പക്ഷികൾക്കും ആടുകൾക്കും; തേനീച്ചയ്ക്ക് അല്ല.\n\n• (D) pack — ചെന്നായ്ക്കൾ, വേട്ടനായ്ക്കൾ എന്നിവയുടെ കൂട്ടം; ഇവിടെ ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"സ്വർ... സ്വർ... എന്ന മൂളൽ ശബ്ദം = SWARM!\" — തേനീച്ചക്കൂട്ടത്തിന്റെ മുഴക്കം വാക്കിൽ തന്നെ കേൾക്കാം.\n• Word family: പ്രധാന അഞ്ച് കൂട്ടപ്പേരുകൾ — swarm (പ്രാണി), herd (നാൽക്കാലി), flock (പക്ഷി/ആട്), pack (ചെന്നായ), pride (സിംഹം) — ഒറ്റ card-ൽ പഠിക്കുക.\n• PSC strategy: collective noun ചോദ്യത്തിൽ ജീവിയുടെ വലിപ്പവും സ്വഭാവവും നോക്കുക — പറക്കുന്ന ചെറുജീവി = swarm എന്ന ബന്ധം ഓർത്താൽ മതി. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q92",
@@ -1345,7 +1831,13 @@
     "optionB": "crew",
     "optionC": "board",
     "optionD": "gang",
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) fleet\n\n• കപ്പലുകളുടെ കൂട്ടത്തിന് 'fleet' എന്നാണ് collective noun — a fleet of ships.\n• വാഹനങ്ങളുടെ കൂട്ടത്തിനും fleet ഉപയോഗിക്കാം — a fleet of buses/taxis.\n• നാവികസേനയുടെ കപ്പൽവ്യൂഹത്തെയും fleet എന്ന് വിളിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: fleet = കപ്പലുകളുടെ/വാഹനങ്ങളുടെ കൂട്ടം!\n• വസ്തുക്കളുടെയും ആളുകളുടെയും കൂട്ടപ്പേരുകൾ: fleet of ships (കപ്പൽ), crew of sailors (നാവികർ), board of directors (ഡയറക്ടർമാർ), gang of robbers (കവർച്ചക്കാർ), bunch of keys (താക്കോൽ).\n• crew എന്നത് കപ്പലിലെ ജോലിക്കാരാണ് — കപ്പലുകളല്ല; ഈ വ്യത്യാസം പ്രധാനം.\n• ⭐ PSC ആവർത്തനം: fleet/crew വ്യത്യാസം ചോദിക്കുന്നത് PSC-യുടെ പതിവ് തന്ത്രമാണ്!\n• ഉദാഹരണ sentences:\n1. A fleet of fishing boats left the harbour. (മത്സ്യബന്ധന ബോട്ടുകളുടെ കൂട്ടം തുറമുഖം വിട്ടു)\n2. KSRTC added a new fleet of electric buses. (പുതിയ ഇലക്ട്രിക് ബസ് വ്യൂഹം)\n3. The crew of the ship worked all night. (കപ്പൽ ജീവനക്കാർ രാത്രി മുഴുവൻ ജോലി ചെയ്തു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) crew — കപ്പലിലെ ജോലിക്കാരുടെ കൂട്ടം; കപ്പലുകളുടെ കൂട്ടമല്ല.\n• 🪤 PSC Trap: fleet-ഉം crew-ഉം രണ്ടും കപ്പൽ ലോകത്തെ വാക്കുകൾ — 'കപ്പലുകളോ ജീവനക്കാരോ' എന്ന വ്യത്യാസമാണ് പരീക്ഷ!\n\n• (C) board — ഡയറക്ടർമാരുടെ/അംഗങ്ങളുടെ സമിതി; കപ്പലിന് ചേരില്ല.\n\n• (D) gang — കുറ്റവാളികളുടെ/തൊഴിലാളികളുടെ സംഘം; കപ്പലുകൾക്ക് അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"FLEET = FLOAT ചെയ്യുന്നവയുടെ കൂട്ടം!\" — വെള്ളത്തിൽ പൊങ്ങിക്കിടക്കുന്നവയുടെ കൂട്ടം എന്ന ബന്ധം ഓർക്കുക.\n• Word family: fleet (കപ്പൽ), crew (ജീവനക്കാർ), squadron (യുദ്ധവിമാനം), convoy (അകമ്പടി വാഹനവ്യൂഹം) — യാത്രാ കൂട്ടപ്പേരുകൾ ഒരുമിച്ച്.\n• PSC strategy: ചോദ്യം വസ്തുവിന്റെ കൂട്ടമാണോ ആളുകളുടെ കൂട്ടമാണോ എന്ന് ആദ്യം വേർതിരിക്കുക — ships = വസ്തു → fleet; sailors = ആൾ → crew. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q93",
@@ -1359,7 +1851,13 @@
     "optionB": "bridess",
     "optionC": "bridal",
     "optionD": "matron",
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) bride\n\n• 'bridegroom' (വരൻ) — ഇതിന്റെ സ്ത്രീലിംഗം 'bride' (വധു).\n• വിവാഹ ജോഡി: bridegroom (വരൻ) ↔ bride (വധു) — ഏറ്റവും അടിസ്ഥാന gender ജോഡികളിലൊന്ന്.\n• ശ്രദ്ധിക്കുക: ഇവിടെ പുല്ലിംഗത്തിൽ നിന്ന് സ്ത്രീലിംഗം ഉണ്ടാകുന്നത് വാക്ക് ചെറുതായിക്കൊണ്ടാണ് — groom ഭാഗം പോകുന്നു!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: bridegroom → bride — groom കളഞ്ഞാൽ സ്ത്രീലിംഗമായി!\n• സാധാരണ -ess ചേർത്താണ് സ്ത്രീലിംഗം (lion → lioness); പക്ഷേ ചില ജോഡികൾ തീർത്തും വ്യത്യസ്ത വാക്കുകളാണ്.\n• വ്യത്യസ്ത വാക്ക് ജോഡികൾ: bridegroom/bride, monk/nun, wizard/witch, drake/duck, fox/vixen.\n• ⭐ PSC ആവർത്തനം: bridegroom/bride ജോഡി PSC gender ചോദ്യങ്ങളിലെ എളുപ്പ mark ആണ് — വിട്ടുകളയരുത്!\n• ഉദാഹരണ sentences:\n1. The bride wore a beautiful Kasavu saree. (വധു കസവ് സാരി അണിഞ്ഞു)\n2. The bridegroom arrived on an elephant. (വരൻ ആനപ്പുറത്ത് എത്തി)\n3. The bride and bridegroom exchanged garlands. (വധൂവരന്മാർ മാല കൈമാറി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) bridess — അങ്ങനെയൊരു വാക്കില്ല; -ess നിയമം ഇവിടെ പ്രയോഗിക്കരുത്!\n• 🪤 PSC Trap: lioness/princess ശീലം വച്ച് bridess ഉണ്ടാക്കുന്നവരെ കാത്തിരിക്കുന്ന കെണി — ഇത് വ്യത്യസ്ത വാക്ക് ജോഡിയാണ്!\n\n• (C) bridal — വിവാഹ സംബന്ധമായ (adjective); bridal dress എന്നിങ്ങനെ; ആളെ കുറിക്കില്ല.\n\n• (D) matron — വിവാഹിതയായ മുതിർന്ന സ്ത്രീ/മേട്രൻ; വധു എന്ന അർത്ഥമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"GROOM പോയാൽ BRIDE മാത്രം ബാക്കി!\" — bridegroom എന്ന നീണ്ട വാക്കിൽ നിന്ന് groom എടുത്തുമാറ്റിയാൽ സ്ത്രീലിംഗം റെഡി.\n• Word family: വ്യത്യസ്ത വാക്ക് gender ജോഡികൾ — bridegroom/bride, monk/nun, wizard/witch, horse/mare — ഇവ -ess നിയമത്തിന് പുറത്താണ്.\n• PSC strategy: gender ചോദ്യത്തിൽ -ess ചേർത്ത option കണ്ടാലുടൻ വിശ്വസിക്കരുത് — ആ വാക്ക് യഥാർത്ഥത്തിൽ ഉണ്ടോ എന്ന് ഓർത്തുനോക്കുക (bridess ഇല്ല!). guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q94",
@@ -1373,7 +1871,13 @@
     "optionB": "fox",
     "optionC": "stag",
     "optionD": "colt",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) fox\n\n• 'vixen' (പെൺകുറുക്കൻ) — ഇതിന്റെ പുല്ലിംഗം 'fox' (കുറുക്കൻ).\n• fox/vixen — തീർത്തും വ്യത്യസ്ത വാക്കുകളുള്ള gender ജോഡി.\n• മൃഗങ്ങളുടെ gender ജോഡികളിൽ PSC ഏറ്റവും ഇഷ്ടപ്പെടുന്ന ഒന്നാണിത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: fox (ആൺ) ↔ vixen (പെൺ) — വ്യത്യസ്ത വാക്ക് ജോഡി!\n• മൃഗ gender ജോഡികൾ: fox/vixen (കുറുക്കൻ), drake/duck (താറാവ്), stag/hind (മാൻ), horse/mare (കുതിര), colt/filly (കുതിരക്കുട്ടി).\n• ഇവയൊന്നും -ess നിയമത്തിൽ വരില്ല — ഓരോ ജോഡിയും വെവ്വേറെ പഠിക്കണം.\n• ⭐ PSC ആവർത്തനം: fox/vixen, drake/duck — ഈ രണ്ട് മൃഗ ജോഡികൾ PSC മാറിമാറി ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. The fox is known for its cunning. (കുറുക്കൻ കൗശലത്തിന് പേരുകേട്ടവൻ)\n2. The vixen guarded her cubs. (പെൺകുറുക്കൻ കുഞ്ഞുങ്ങളെ കാത്തു)\n3. A drake has brighter feathers than a duck. (ആൺതാറാവിന് കൂടുതൽ തിളക്കമുള്ള തൂവലുകൾ)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) wolf — ചെന്നായ; കുറുക്കനല്ല; wolf-ന്റെ പെൺരൂപം she-wolf ആണ്.\n• 🪤 PSC Trap: കാട്ടിലെ സമാന മൃഗങ്ങളെ options ആയി നിരത്തി ആശയക്കുഴപ്പം ഉണ്ടാക്കുന്നു!\n\n• (C) stag — ആൺമാൻ; vixen-ന്റെ ജോഡിയല്ല; stag/hind ആണ് ആ ജോഡി.\n\n• (D) colt — ആൺകുതിരക്കുട്ടി; colt/filly ജോഡിയിലെ അംഗം; കുറുക്കനുമായി ബന്ധമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"VIXEN-ലെ V = വളഞ്ഞ കൗശലക്കാരി!\" — fox-ന്റെ അതേ കൗശലം പേരിലും; fox ↔ vixen ജോഡി ഒരുമിച്ച് ഉരുവിടുക.\n• Word family: മൃഗ gender പട്ടിക — fox/vixen, drake/duck, stag/hind, horse/mare, colt/filly — അഞ്ച് ജോഡികൾ ഒറ്റ card-ൽ.\n• PSC strategy: മൃഗ gender ചോദ്യങ്ങളിൽ options എല്ലാം മൃഗങ്ങളായിരിക്കും — ജോഡി കൃത്യമായി അറിയുന്നവർക്ക് മാത്രം കിട്ടുന്ന mark ആണിത്; പട്ടിക കാണാതെ പഠിക്കുക. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q95",
@@ -1387,7 +1891,13 @@
     "optionB": "disresponsible",
     "optionC": "irresponsible",
     "optionD": "misresponsible",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) irresponsible\n\n• 'responsible'-ന്റെ വിപരീതം ഉണ്ടാക്കുന്നത് 'ir-' prefix ചേർത്താണ് → irresponsible.\n• r-ൽ തുടങ്ങുന്ന വാക്കുകൾക്ക് ir- ആണ് negative prefix: regular → irregular, relevant → irrelevant.\n• 'ഉത്തരവാദിത്തമില്ലാത്ത' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: r-ന് മുന്നിൽ ir-; l-ന് മുന്നിൽ il-; m/p-ന് മുന്നിൽ im-; മറ്റുള്ളവയ്ക്ക് in-/un-!\n• ir- കുടുംബം: irresponsible, irregular, irrelevant, irrational — എല്ലാം r-വാക്കുകൾ.\n• il- കുടുംബം: illegal, illiterate, illogical | im- കുടുംബം: impossible, impatient, immoral.\n• ⭐ PSC ആവർത്തനം: negative prefix തിരഞ്ഞെടുക്കൽ PSC word formation ചോദ്യങ്ങളിലെ പ്രധാന ഇനമാണ്!\n• ഉദാഹരണ sentences:\n1. Driving without a licence is irresponsible. (ലൈസൻസില്ലാതെ ഓടിക്കുന്നത് നിരുത്തരവാദപരം)\n2. The train timings are irregular these days. (ട്രെയിൻ സമയം ക്രമരഹിതം)\n3. His answer was irrelevant to the question. (ഉത്തരം ചോദ്യവുമായി ബന്ധമില്ലാത്തത്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) unresponsible — un- ഇവിടെ ചേരില്ല; r-വാക്കിന് ir- തന്നെ വേണം.\n• 🪤 PSC Trap: un- ഏറ്റവും സാധാരണ prefix ആയതിനാൽ എല്ലായിടത്തും ഉപയോഗിക്കാമെന്ന് തോന്നും — അതാണ് കെണി!\n\n• (B) disresponsible — dis- ഈ വാക്കിനോട് ചേരില്ല; അങ്ങനെയൊരു രൂപമില്ല.\n\n• (D) misresponsible — mis- 'തെറ്റായി' എന്ന അർത്ഥത്തിനാണ് (misuse, misplace); വിപരീതം ഉണ്ടാക്കാനല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"അക്ഷരം നോക്കി prefix — R-ന് IR, L-ന് IL, M/P-ന് IM!\" — വാക്കിന്റെ ആദ്യ അക്ഷരം തന്നെ prefix പറഞ്ഞുതരും.\n• Word family: ir- (irregular, irrelevant), il- (illegal, illiterate), im- (impossible, impatient) — മൂന്ന് പട്ടികകളും ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: negative prefix ചോദ്യത്തിൽ ആദ്യം വാക്കിന്റെ ആദ്യ അക്ഷരം നോക്കുക — r/l/m/p എന്നിവയാണെങ്കിൽ അതിനനുസരിച്ച prefix ഉള്ള option തിരയുക. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q96",
@@ -1401,7 +1911,13 @@
     "optionB": "decision",
     "optionC": "decidence",
     "optionD": "decisement",
-    "correctAnswer": "B"
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) decision\n\n• 'decide' എന്ന verb-ന്റെ noun രൂപം 'decision' ആണ് — de-CIDE മാറി de-CISION ആകുന്നു.\n• -de അവസാനിക്കുന്ന verbs -sion ആയി മാറുന്നു: decide → decision, divide → division, conclude → conclusion.\n• 'തീരുമാനം' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: -de-ൽ അവസാനിക്കുന്ന verb-ന്റെ noun രൂപം -sion ആകും!\n• ഈ മാറ്റ കുടുംബം ഓർക്കുക: decide മാറി decision; divide മാറി division; conclude മാറി conclusion; include മാറി inclusion.\n• മറ്റ് noun suffix-കളും അറിയുക: improve-ന് improvement (-ment); maintain-ന് maintenance (-ance); educate-ന് education (-tion).\n• ⭐ PSC ആവർത്തനം: verb-ന്റെ noun രൂപം ചോദിക്കുന്നത് PSC word formation-ലെ സ്ഥിരം ചോദ്യമാണ്!\n• ഉദാഹരണ sentences:\n1. The committee took a bold decision. (സമിതി ധീരമായ തീരുമാനമെടുത്തു)\n2. The division of work was fair. (ജോലി വിഭജനം നീതിപൂർവ്വമായിരുന്നു)\n3. The report's conclusion was clear. (റിപ്പോർട്ടിന്റെ നിഗമനം വ്യക്തമായിരുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) decidal — അങ്ങനെയൊരു വാക്കില്ല; -al suffix ഇവിടെ ചേരില്ല.\n• 🪤 PSC Trap: യഥാർത്ഥ വാക്കുപോലെ തോന്നിക്കുന്ന കൃത്രിമ രൂപങ്ങളാണ് word formation ചോദ്യങ്ങളിലെ പ്രധാന ആയുധം!\n\n• (C) decidence — ഇതും നിലവിലില്ലാത്ത രൂപം.\n\n• (D) decisement — -ment suffix decide-നോട് ചേരില്ല; improvement ശരിയാണ്, decisement തെറ്റ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"DE പോയാൽ SION വരും!\" — decide-ലെ അവസാന de മാറ്റി sion വയ്ക്കുക: deci + sion = decision.\n• Word family: -sion സംഘം — decision, division, conclusion, inclusion — നാലും ഒരേ മാറ്റ pattern.\n• PSC strategy: noun form ചോദ്യത്തിൽ 'നിലവിലുള്ള വാക്ക്' ഏതെന്ന് ചിന്തിക്കുക — വായിച്ചിട്ടും കേട്ടിട്ടും ഇല്ലാത്ത രൂപങ്ങൾ (decidal, decidence) ധൈര്യമായി വെട്ടുക. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q97",
@@ -1415,7 +1931,13 @@
     "optionB": "flew",
     "optionC": "fleed",
     "optionD": "flied",
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) fled\n\n• 'flee' (ഓടി രക്ഷപ്പെടുക) — irregular verb ആണ്; past tense = fled.\n• flee → fled → fled — മൂന്ന് രൂപങ്ങൾ ഇങ്ങനെ.\n• 'അപകടത്തിൽ നിന്ന് ഓടി രക്ഷപ്പെട്ടു' എന്ന അർത്ഥത്തിലാണ് flee ഉപയോഗിക്കുന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: flee → fled → fled — ee മാറി ed പോലെ ചുരുങ്ങുന്നു!\n• സമാന pattern: flee/fled, feel/felt, keep/kept, sleep/slept, sweep/swept — ee/eep വാക്കുകൾ ചുരുങ്ങുന്ന കുടുംബം.\n• ശ്രദ്ധിക്കുക: flee (ഓടി രക്ഷപ്പെടുക) ≠ fly (പറക്കുക — flew/flown) — രണ്ടും വെവ്വേറെ verbs!\n• ⭐ PSC ആവർത്തനം: flee/fled-ഉം fly/flew-ഉം തമ്മിലുള്ള confusion PSC-യുടെ ഇഷ്ട ചോദ്യമാണ്!\n• ഉദാഹരണ sentences:\n1. The thieves fled when the alarm rang. (അലാറം കേട്ടപ്പോൾ കള്ളന്മാർ ഓടി രക്ഷപ്പെട്ടു)\n2. The villagers fled from the flood. (ഗ്രാമവാസികൾ വെള്ളപ്പൊക്കത്തിൽ നിന്ന് പലായനം ചെയ്തു)\n3. The bird flew over the lake. (പക്ഷി തടാകത്തിന് മുകളിലൂടെ പറന്നു — fly-യുടെ past)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) flew — ഇത് fly (പറക്കുക)-യുടെ past ആണ്; flee-യുടേതല്ല!\n• 🪤 PSC Trap: flee/fly ജോഡിയാണ് ഇവിടത്തെ യഥാർത്ഥ കെണി — രണ്ടിന്റെയും past രൂപങ്ങൾ മാറിപ്പോകരുത്!\n\n• (C) fleed — regular verb പോലെ -ed ചേർത്ത തെറ്റ്; flee irregular ആണ്.\n\n• (D) flied — അങ്ങനെയൊരു രൂപമില്ല; fly-യുടെ past-ഉം flew ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"കള്ളൻ FLED, പക്ഷി FLEW!\" — ഓടിയവന് fled, പറന്നവന് flew — ഈ ജോഡി വാക്യം ഓർത്താൽ confusion തീർന്നു.\n• Word family: ചുരുങ്ങുന്ന irregular verbs — flee/fled, feel/felt, keep/kept, sleep/slept — ഒരേ താളത്തിൽ പഠിക്കുക.\n• PSC strategy: flee കണ്ടാൽ ആദ്യം ചോദിക്കുക — 'ഓട്ടമാണോ പറക്കലാണോ?' ഓട്ടം = fled; പറക്കൽ = flew. ഈ വേർതിരിവ് മതി. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q98",
@@ -1429,7 +1951,13 @@
     "optionB": "rided",
     "optionC": "ridden",
     "optionD": "riding",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) ridden\n\n• 'ride' (വാഹനമോടിക്കുക/സവാരി ചെയ്യുക) — irregular verb; ride → rode → ridden.\n• Past participle (V3) ചോദിച്ചതിനാൽ ridden ആണ് ഉത്തരം; rode എന്നത് V2 (past tense) ആണ്.\n• has/have/had-നോടൊപ്പം ഉപയോഗിക്കുന്ന രൂപമാണ് V3: He has ridden.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ride → rode → ridden — i/o/i-dden താളം!\n• ഇതേ താളമുള്ള കുടുംബം: ride/rode/ridden, write/wrote/written, drive/drove/driven, rise/rose/risen.\n• V2-ഉം V3-ഉം വേർതിരിച്ചറിയുക: yesterday-യ്ക്ക് V2 (rode); has/have/had-ന് V3 (ridden).\n• ⭐ PSC ആവർത്തനം: ride/write/drive കുടുംബത്തിന്റെ V3 ചോദ്യം PSC-യിൽ പതിവാണ്!\n• ഉദാഹരണ sentences:\n1. She has ridden a horse before. (മുമ്പ് കുതിര സവാരി ചെയ്തിട്ടുണ്ട് — V3)\n2. He rode his bicycle to school yesterday. (ഇന്നലെ സൈക്കിളിൽ പോയി — V2)\n3. I have never ridden an elephant. (ഒരിക്കലും ആനപ്പുറത്ത് കയറിയിട്ടില്ല — V3)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) rode — ഇത് V2 (past tense); ചോദിച്ചത് V3 (past participle) ആണ്.\n• 🪤 PSC Trap: V2/V3 മാറ്റിച്ചോദിക്കുന്നതാണ് irregular verb ചോദ്യങ്ങളിലെ അടിസ്ഥാന കെണി — ചോദ്യം ശ്രദ്ധിച്ച് വായിക്കുക!\n\n• (B) rided — regular -ed ചേർത്ത തെറ്റ്; ride irregular ആണ്.\n\n• (D) riding — present participle (-ing രൂപം); past participle അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"i-o-i താളം: rIde — rOde — rIdden!\" — നടുവിലെ സ്വരം മാറുന്ന ഈ പാട്ട് താളത്തിൽ പഠിക്കുക.\n• Word family: i/o/en കുടുംബം — ride/rode/ridden, write/wrote/written, drive/drove/driven, rise/rose/risen — നാലും ഒരേ താളം.\n• PSC strategy: ചോദ്യത്തിൽ 'past tense' ആണോ 'past participle' ആണോ എന്ന് ആദ്യം ഉറപ്പിക്കുക — V2/V3 മാറിപ്പോകുന്നതാണ് ഇവിടത്തെ ഏക അപകടം. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q99",
@@ -1443,7 +1971,13 @@
     "optionB": "in good faith",
     "optionC": "for a particular purpose",
     "optionD": "done beforehand",
-    "correctAnswer": "C"
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) for a particular purpose\n\n• 'ad hoc' എന്ന Latin phrase-ന്റെ അർത്ഥം 'ഒരു പ്രത്യേക ആവശ്യത്തിനായി' എന്നാണ്.\n• ad hoc committee = ഒരു പ്രത്യേക കാര്യത്തിനായി മാത്രം രൂപീകരിച്ച താൽക്കാലിക സമിതി.\n• Latin-ൽ 'ഇതിനായി' (for this) എന്നാണ് നേരർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ad hoc = ഒരു പ്രത്യേക ആവശ്യത്തിന് മാത്രം (താൽക്കാലികം)!\n• PSC ചോദിക്കുന്ന പ്രധാന Latin phrases: ad hoc (പ്രത്യേക ആവശ്യത്തിന്), bona fide (യഥാർത്ഥമായ), status quo (നിലവിലെ അവസ്ഥ), vice versa (മറിച്ചും), per capita (ആളോഹരി).\n• വാർത്തകളിൽ 'ad hoc appointment' (താൽക്കാലിക നിയമനം) എന്ന് കേൾക്കാറുണ്ട് — ആ പരിചയം ഉപയോഗിക്കുക.\n• ⭐ PSC ആവർത്തനം: ad hoc, bona fide, status quo — ഈ മൂന്ന് Latin phrases PSC മാറിമാറി ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. An ad hoc committee was formed to study the issue. (പ്രശ്നം പഠിക്കാൻ പ്രത്യേക സമിതി രൂപീകരിച്ചു)\n2. She got an ad hoc appointment in the college. (കോളേജിൽ താൽക്കാലിക നിയമനം ലഭിച്ചു)\n3. The decision was taken on an ad hoc basis. (താൽക്കാലിക അടിസ്ഥാനത്തിൽ തീരുമാനമെടുത്തു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) permanent — സ്ഥിരം; ad hoc-ന്റെ നേർ വിപരീത ആശയം — ad hoc താൽക്കാലികമാണ്!\n• 🪤 PSC Trap: ad hoc നിയമനങ്ങൾ 'ജോലി' ആയതിനാൽ permanent എന്ന് തെറ്റിദ്ധരിക്കുന്നവരെ പിടിക്കാനുള്ള കെണി!\n\n• (B) in good faith — ഇത് 'bona fide'-യുടെ അർത്ഥമാണ്; Latin phrases തമ്മിൽ മാറരുത്.\n\n• (D) done beforehand — മുൻകൂട്ടി ചെയ്തത്; ad hoc-ന് വിപരീതമായി, അപ്പപ്പോൾ ഉണ്ടാക്കുന്നതാണ് ad hoc.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ad HOC = ഹോ! പെട്ടെന്നൊരു ആവശ്യം വന്നല്ലോ — അതിനായി മാത്രം!\" — അപ്പപ്പോഴത്തെ ആവശ്യം എന്ന ചിത്രം ഓർക്കുക.\n• Word family: Latin phrases അഞ്ചെണ്ണം — ad hoc, bona fide, status quo, vice versa, per capita — അർത്ഥത്തോടെ ഒറ്റ card-ൽ പഠിക്കുക.\n• PSC strategy: Latin phrase ചോദ്യങ്ങളിൽ മറ്റൊരു phrase-ന്റെ അർത്ഥം option ആയി വരും (ഇവിടെ bona fide-യുടെ 'in good faith') — ഓരോ phrase-ഉം അതിന്റെ അർത്ഥവും കൃത്യമായി ജോഡിയാക്കി പഠിക്കുക. guaranteed mark!"
+    }
   },
   {
     "id": "HC-MODEL-001-Q100",
@@ -1457,6 +1991,12 @@
     "optionB": "Indian Science Research Organisation",
     "optionC": "International Space Research Organisation",
     "optionD": "Indian Space and Rocket Organisation",
-    "correctAnswer": "A"
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Indian Space Research Organisation\n\n• ISRO = Indian Space Research Organisation — ഇന്ത്യൻ ബഹിരാകാശ ഗവേഷണ സ്ഥാപനം.\n• 1969-ൽ സ്ഥാപിതം; ആസ്ഥാനം ബെംഗളൂരു; ചന്ദ്രയാൻ, മംഗൾയാൻ ദൗത്യങ്ങളുടെ ശിൽപ്പി.\n• തിരുവനന്തപുരത്തെ VSSC (Vikram Sarabhai Space Centre) ISRO-യുടെ പ്രധാന കേന്ദ്രമാണ് — കേരള ബന്ധം ഓർക്കുക!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ISRO-യിലെ S = Space, R = Research — 'Science' അല്ല, 'Rocket' അല്ല!\n• Abbreviation ചോദ്യങ്ങളിൽ ഓരോ അക്ഷരത്തിന്റെയും ശരിയായ വാക്ക് ഉറപ്പിക്കണം — ഒരു വാക്ക് മാറ്റിയ options ആണ് കെണികൾ.\n• ബന്ധപ്പെട്ട abbreviations: ISRO (ബഹിരാകാശം), DRDO (പ്രതിരോധ ഗവേഷണം), BARC (ആണവ ഗവേഷണം), CSIR (ശാസ്ത്ര-വ്യവസായ ഗവേഷണം).\n• ⭐ PSC ആവർത്തനം: ISRO, DRDO, UNESCO — ഈ abbreviations PSC-യിൽ വീണ്ടും വീണ്ടും വരുന്നു!\n• ഉദാഹരണ sentences:\n1. ISRO launched Chandrayaan-3 successfully. (ഐഎസ്ആർഒ ചന്ദ്രയാൻ-3 വിജയകരമായി വിക്ഷേപിച്ചു)\n2. ISRO's headquarters is in Bengaluru. (ആസ്ഥാനം ബെംഗളൂരുവിൽ)\n3. Many ISRO scientists studied in Kerala. (പല ISRO ശാസ്ത്രജ്ഞരും കേരളത്തിൽ പഠിച്ചവർ)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) Indian Science Research Organisation — S = Space ആണ്, Science അല്ല; ഒറ്റ വാക്കിന്റെ മാറ്റം!\n• 🪤 PSC Trap: ഒരേയൊരു വാക്ക് മാറ്റിയ options ആണ് abbreviation ചോദ്യങ്ങളിലെ സ്ഥിരം കെണി — ഓരോ വാക്കും ഒത്തുനോക്കുക!\n\n• (C) International Space Research Organisation — I = Indian ആണ്, International അല്ല; ISRO ഇന്ത്യയുടെ സ്വന്തം.\n\n• (D) Indian Space and Rocket Organisation — R = Research ആണ്, Rocket അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"I-S-R-O: Indian ബഹിരാകാശത്തെ (Space) ഗവേഷിക്കുന്ന (Research) സ്ഥാപനം (Organisation)\" — ഓരോ അക്ഷരവും മലയാളത്തിൽ വിവർത്തനം ചെയ്ത് ഓർക്കുക.\n• Word family: ഗവേഷണ സ്ഥാപനങ്ങൾ — ISRO (ബഹിരാകാശം), DRDO (പ്രതിരോധം), BARC (ആണവം), ICAR (കൃഷി) — നാലും full form സഹിതം പഠിക്കുക.\n• PSC strategy: abbreviation options താരതമ്യം ചെയ്യുമ്പോൾ അക്ഷരം ഓരോന്നായി ഒത്തുനോക്കുക — വ്യത്യാസം ഒരൊറ്റ വാക്കിലായിരിക്കും; അത് കണ്ടെത്തിയാൽ ഉത്തരം ഉറപ്പ്. guaranteed mark!"
+    }
   }
 ]
