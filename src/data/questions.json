@@ -15802,5 +15802,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Shall — ഭാവികാല പ്രവർത്തനം/നിർദ്ദേശം/promise സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു ('I shall go'); necessity/obligation-ന്റെ പ്രധാന അർത്ഥം ഇതിനില്ല.\n• (B) Can — കഴിവ്/ability അല്ലെങ്കിൽ അനുവാദം (permission) സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു ('I can swim'); obligation-മായി ബന്ധമില്ല.\n• (C) Might — സാധ്യത (possibility), അതും കുറഞ്ഞ സാധ്യത സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു ('It might rain'); ഇതും necessity-യെ സൂചിപ്പിക്കുന്നില്ല.\n• 🪤 PSC Trap: നാല് modal auxiliaries-ഉം ഒരുമിച്ച് നൽകി, ഓരോന്നിന്റെയും കൃത്യമായ അർത്ഥവ്യത്യാസം അറിയാത്തവരെ ആശയക്കുഴപ്പത്തിലാക്കുന്ന ക്ലാസിക് കെണിയാണിത്.",
       "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"MUST = നിർബന്ധം, ചെയ്‌തേ പറ്റൂ!\" — 'must' കേട്ടാൽ ഉടനെ 'നിർബന്ധിതം' എന്ന feeling ഓർക്കുക.\n• Word family: shall (ഭാവി/promise), can (കഴിവ്), might (സാധ്യത), must (ആവശ്യകത) — നാല് modals-ഉം ഒരു table ആയി വേർതിരിച്ച് പഠിക്കുക.\n• PSC exam strategy: Modal auxiliary ചോദ്യങ്ങളിൽ ചോദ്യത്തിലെ key word ('necessity', 'obligation', 'ability', 'possibility', 'permission') ശ്രദ്ധിക്കുക — ആ key word-ന് കൃത്യമായി ചേരുന്ന modal മാത്രം തിരഞ്ഞെടുക്കുക."
     }
+  },
+  {
+    "id": "109-2025-M-Q81",
+    "paperId": "109-2025-M",
+    "questionNumber": 81,
+    "topic": "Parts of Speech",
+    "questionText": "Find the name of the part of speech given in bold in the given sentence from the following options :\n\nI will __never__ follow you.",
+    "optionA": "Adjective",
+    "optionB": "Adverb",
+    "optionC": "Conjunction",
+    "optionD": "Interjection",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Adverb\n• 'Never' എന്ന വാക്ക് 'follow' എന്ന ക്രിയയെ modify ചെയ്യുന്നു — എപ്പോൾ/എത്ര തവണ എന്ന ചോദ്യത്തിന് ഉത്തരം നൽകുന്നതിനാൽ ഇത് ഒരു adverb of frequency ആണ്.\n• Adverb എന്നാൽ ക്രിയ, adjective, അല്ലെങ്കിൽ മറ്റൊരു adverb-നെ modify ചെയ്യുന്ന വാക്ക് ആണ് — 'never' 'follow' എന്ന ക്രിയയെ 'എത്ര തവണ' എന്ന അർത്ഥത്തിൽ modify ചെയ്യുന്നു.\n• 'ഞാൻ ഒരിക്കലും നിന്നെ പിന്തുടരില്ല' എന്നർത്ഥം — 'never' ഇവിടെ 'ഒരിക്കലും ഇല്ല' എന്ന frequency സൂചിപ്പിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: NEVER, ALWAYS, OFTEN, SOMETIMES = Frequency Adverbs (ക്രിയയെ modify ചെയ്യുന്നു)!\n• Adverbs of frequency ('never', 'always', 'often', 'usually', 'sometimes') ഒരു പ്രവൃത്തി എത്ര തവണ നടക്കുന്നു എന്ന് സൂചിപ്പിക്കുന്നു — ഇവ എപ്പോഴും ക്രിയയെ modify ചെയ്യുന്ന adverbs ആണ്.\n• Related word group: never, always, often, usually, sometimes, rarely, seldom — എല്ലാം frequency adverbs ആണ്.\n• ⭐ PSC ആവർത്തനം: Parts of Speech identify ചെയ്യുന്ന ചോദ്യങ്ങൾ, പ്രത്യേകിച്ച് adverb identification, PSC-യിൽ പതിവായി ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. She always arrives on time. (എപ്പോഴും സമയത്ത് എത്തുന്നു — frequency adverb)\n2. He rarely visits his hometown. (അപൂർവ്വമായി മാത്രം സന്ദർശിക്കുന്നു — frequency adverb)\n3. They sometimes forget their homework. (ചിലപ്പോൾ മറന്നുപോകുന്നു — frequency adverb)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Adjective — Adjective noun-നെ describe ചെയ്യുന്ന വാക്കാണ്; 'never' ഒരു noun-നെയും describe ചെയ്യുന്നില്ല, ക്രിയയെയാണ് modify ചെയ്യുന്നത്.\n• (C) Conjunction — Conjunction വാക്യങ്ങളെ/വാക്കുകളെ ബന്ധിപ്പിക്കുന്ന വാക്കാണ് (and, but); 'never' ഒന്നിനെയും ബന്ധിപ്പിക്കുന്നില്ല.\n• (D) Interjection — Interjection പെട്ടെന്നുള്ള വികാരം പ്രകടിപ്പിക്കുന്ന സ്വതന്ത്ര വാക്കാണ്; 'never' sentence-ന്റെ ഘടനയുടെ ഭാഗമാണ്, സ്വതന്ത്രമല്ല.\n• 🪤 PSC Trap: 'Never' ഒരു negative word ആയതിനാൽ conjunction/interjection ആണെന്ന് തെറ്റിദ്ധരിക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണിയാണിത് — ഇത് ക്രിയയെ modify ചെയ്യുന്നതിനാൽ adverb ആണ്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"NEVER ക്രിയയോട് ചേർന്നു നിൽക്കും, അതുകൊണ്ട് ADVERB!\" — ക്രിയയെ modify ചെയ്യുന്ന വാക്ക് adverb ആണ് എന്ന് ഓർക്കുക.\n• Word family: never, always, often, usually, sometimes, rarely — frequency adverbs ഒരുമിച്ച് ഒരു ഗ്രൂപ്പായി പഠിക്കുക.\n• PSC exam strategy: Bold ചെയ്ത വാക്ക് sentence-ലെ ക്രിയയെ 'എപ്പോൾ/എത്ര തവണ/എങ്ങനെ' എന്ന് modify ചെയ്യുന്നെങ്കിൽ അത് adverb ആണ് എന്ന് ഉടനെ തിരിച്ചറിയുക."
+    }
+  },
+  {
+    "id": "109-2025-M-Q82",
+    "paperId": "109-2025-M",
+    "questionNumber": 82,
+    "topic": "Tenses",
+    "questionText": "Correct the given sentence by choosing the suitable verb form from the following options :\n\nThe girls and boys of class V who have registered for the study tour __have requesting__ for leave since yesterday.",
+    "optionA": "Are requesting",
+    "optionB": "Have requested",
+    "optionC": "Have been requesting",
+    "optionD": "Had requested",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Have been requesting\n• 'Since yesterday' എന്ന time phrase ഭൂതകാലത്ത് തുടങ്ങി ഇപ്പോഴും തുടരുന്ന ഒരു പ്രവൃത്തിയെ സൂചിപ്പിക്കുന്നു — ഇതിന് Present Perfect Continuous Tense ('have been requesting') ആണ് ശരിയായ രൂപം.\n• 'Have requesting' എന്ന തെറ്റായ രൂപം ('have' + gerund) ഘടനാപരമായി തെറ്റാണ് — 'have' എപ്പോഴും past participle ('requested') അല്ലെങ്കിൽ 'been + verb+ing' എടുക്കണം.\n• 'ക്ലാസ്സ് V-ലെ ആൺകുട്ടികളും പെൺകുട്ടികളും ഇന്നലെ മുതൽ ഇപ്പോഴും അവധിക്ക് അപേക്ഷിച്ചുകൊണ്ടിരിക്കുകയാണ്' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: SINCE/FOR + തുടരുന്ന പ്രവൃത്തി → HAVE/HAS BEEN + VERB+ING (Present Perfect Continuous)!\n• 'Since yesterday', 'since morning', 'for two hours' പോലുള്ള phrases ഭൂതകാലത്ത് തുടങ്ങി ഇപ്പോഴും തുടരുന്ന പ്രവൃത്തിയെ സൂചിപ്പിക്കുന്നു — ഇതിന് Present Perfect Continuous ('have/has been + verb+ing') വേണം.\n• Related tense rule: 'have/has' + past participle (V3) = Present Perfect | 'have/has been' + verb+ing = Present Perfect Continuous — ഈ രണ്ട് structures confuse ചെയ്യരുത്.\n• ⭐ PSC ആവർത്തനം: Tense correction ചോദ്യങ്ങൾ, പ്രത്യേകിച്ച് Present Perfect Continuous, PSC-യിൽ ആവർത്തിച്ച് ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. She has been waiting since morning. (രാവിലെ മുതൽ കാത്തിരിക്കുന്നു — തുടരുന്ന പ്രവൃത്തി)\n2. They have been playing for two hours. (രണ്ട് മണിക്കൂറായി കളിക്കുന്നു)\n3. He has been working on this project since Monday. (തിങ്കളാഴ്ച മുതൽ പ്രവർത്തിക്കുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Are requesting — ഇത് Present Continuous ആണ്; 'since yesterday' എന്ന duration സൂചിപ്പിക്കുന്ന phrase-ന് ഇത് ചേരില്ല, Perfect Continuous വേണം.\n• (B) Have requested — ഇത് Present Perfect ആണ്, പ്രവൃത്തി പൂർത്തിയായി എന്ന് സൂചിപ്പിക്കുന്നു; എന്നാൽ 'since yesterday' തുടരുന്ന പ്രവൃത്തിയെ സൂചിപ്പിക്കുന്നതിനാൽ Continuous വേണം.\n• (D) Had requested — ഇത് Past Perfect ആണ്, മറ്റൊരു ഭൂതകാല സംഭവത്തിന് മുൻപ് നടന്ന പ്രവൃത്തിയെ സൂചിപ്പിക്കുന്നു; ഇവിടെ context-ന് ഇത് ചേരില്ല.\n• 🪤 PSC Trap: 'have requested' (Present Perfect) ശരിയാണെന്ന് തോന്നുമെങ്കിലും, 'since yesterday' തുടർച്ചയായ പ്രവൃത്തി സൂചിപ്പിക്കുന്നതിനാൽ Continuous form ('have been requesting') ആണ് ശരി എന്ന് ശ്രദ്ധിക്കാത്തവരെ വീഴ്ത്താനുള്ള കെണിയാണിത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"SINCE YESTERDAY കണ്ടാൽ HAVE BEEN + ING ഓർക്കൂ!\" — തുടർച്ചയായി നടക്കുന്ന പ്രവൃത്തിക്ക് Perfect Continuous വേണം.\n• Word family: since + നിശ്ചിത സമയബിന്ദു (ഇന്നലെ മുതൽ, തിങ്കളാഴ്ച മുതൽ, 2020 മുതൽ), for + ദൈർഘ്യം (രണ്ട് മണിക്കൂർ, ഒരു ആഴ്ച) — രണ്ടും Present Perfect Continuous-ന്റെ signal words ആണ്.\n• PSC exam strategy: 'since'/'for' + തുടർച്ചയായ പ്രവൃത്തി കണ്ടാൽ ഉടനെ 'have/has been + ക്രിയ+ing' തിരഞ്ഞെടുക്കുക — ഇത് ഒരിക്കലും തെറ്റാത്ത ഒരു നിശ്ചിത നിയമമാണ്, guaranteed mark!"
+    }
+  },
+  {
+    "id": "109-2025-M-Q83",
+    "paperId": "109-2025-M",
+    "questionNumber": 83,
+    "topic": "Types of Sentences",
+    "questionText": "Identify compound complex sentence from the following :",
+    "optionA": "I saw her when I was returning from the college.",
+    "optionB": "Being a timid boy, he preferred to be silent about the matter.",
+    "optionC": "I have a spare notebook yet I do not want to give it to her.",
+    "optionD": "My friend who was in Dubai came yesterday and gave me some gifts.",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) My friend who was in Dubai came yesterday and gave me some gifts.\n• ഈ വാക്യത്തിൽ 'who was in Dubai' എന്ന dependent/subordinate clause (relative clause) ഉം, 'came yesterday and gave me some gifts' എന്ന ഭാഗം 'and' എന്ന coordinating conjunction കൊണ്ട് ബന്ധിപ്പിച്ച രണ്ട് പ്രവർത്തനങ്ങളും ഉണ്ട് — ഇത് compound-ഉം complex-ഉം ചേർന്ന ഘടനയാണ്.\n• Compound-Complex sentence എന്നാൽ കുറഞ്ഞത് രണ്ട് independent clauses ('and' കൊണ്ട് ബന്ധിപ്പിച്ചത്) + ഒരു dependent clause ('who was in Dubai') ചേർന്ന വാക്യമാണ്.\n• 'ദുബായിലുണ്ടായിരുന്ന എന്റെ സുഹൃത്ത് ഇന്നലെ വന്ന് എനിക്ക് ചില സമ്മാനങ്ങൾ തന്നു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: COMPOUND-COMPLEX = രണ്ട് സ്വതന്ത്ര ഉപവാക്യങ്ങൾ (Independent Clauses, and/but/or കൊണ്ട് ബന്ധിപ്പിച്ചത്) + കുറഞ്ഞത് ഒരു ആശ്രിത ഉപവാക്യം (Dependent Clause)!\n• വാക്യത്തിന്റെ തരം തിരിച്ചറിയാൻ: Simple (ഒരു സ്വതന്ത്ര ഉപവാക്യം മാത്രം), Compound (രണ്ടോ അതിലധികമോ സ്വതന്ത്ര ഉപവാക്യങ്ങൾ), Complex (ഒരു സ്വതന്ത്രം + ഒരു ആശ്രിതം), Compound-Complex (രണ്ടും ചേർന്നത്).\n• Related structure: who/which/that (relative pronouns) ആശ്രിത ഉപവാക്യത്തെ സൂചിപ്പിക്കുന്നു; 'and', 'but', 'or' സ്വതന്ത്ര ഉപവാക്യങ്ങളെ ബന്ധിപ്പിക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: വാക്യങ്ങളുടെ തരം (Simple/Compound/Complex/Compound-Complex) തിരിച്ചറിയുന്ന ചോദ്യങ്ങൾ PSC-യിൽ പതിവായി ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. ഓട്ടത്തിൽ ജയിച്ച മനുഷ്യൻ ആഘോഷിക്കുകയും തന്റെ പരിശീലകനോട് നന്ദി പറയുകയും ചെയ്തു. (who won the race = ആശ്രിതം, celebrated and thanked = compound → Compound-Complex)\n2. മഴ പെയ്യുന്നതിനാൽ ഞങ്ങൾ വീട്ടിൽ തന്നെ തങ്ങുകയും സിനിമ കാണുകയും ചെയ്തു. (Since it was raining = ആശ്രിതം, stayed and watched = compound → Compound-Complex)\n3. ഞാൻ വാങ്ങിയ പുസ്തകം വിലകൂടിയതായിരുന്നു, പക്ഷേ അതിന് അർഹതയുള്ളതായിരുന്നു. (that I bought = ആശ്രിതം, was expensive but worth it = compound → Compound-Complex)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) I saw her when I was returning from the college. — ഇവിടെ ഒരു സ്വതന്ത്ര ഉപവാക്യം ('I saw her') ഉം ഒരു ആശ്രിത ഉപവാക്യം ('when I was returning...') ഉം മാത്രമേ ഉള്ളൂ — ഇത് ഒരു Complex sentence ആണ്, Compound-Complex അല്ല.\n• (B) Being a timid boy, he preferred to be silent about the matter. — 'Being a timid boy' ഒരു participial phrase ആണ് (ഉപവാക്യമല്ല, subject/verb ഇല്ല); ഇത് ഒരു Simple sentence ആണ്.\n• (C) I have a spare notebook yet I do not want to give it to her. — ഇവിടെ രണ്ട് സ്വതന്ത്ര ഉപവാക്യങ്ങൾ ('yet' കൊണ്ട് ബന്ധിപ്പിച്ചത്) ഉണ്ട്, പക്ഷേ ഒരു ആശ്രിത ഉപവാക്യം ഇല്ല — ഇത് ഒരു Compound sentence ആണ് മാത്രം.\n• 🪤 PSC Trap: Compound, Complex sentences-നെ Compound-Complex ആയി തെറ്റിദ്ധരിക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണിയാണിത് — ഓരോ option-ലും സ്വതന്ത്രവും ആശ്രിതവുമായ ഉപവാക്യങ്ങൾ എണ്ണി ഉറപ്പിക്കണം.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"WHO/WHICH/THAT (ആശ്രിതം) + AND/BUT (സ്വതന്ത്രം x2) = COMPOUND-COMPLEX!\" — രണ്ട് ഘടകങ്ങളും ഒരുമിച്ച് ഉണ്ടോ എന്ന് നോക്കുക.\n• Word family: Simple, Compound (and/but/or), Complex (who/which/when/because), Compound-Complex (രണ്ടും ചേർന്നത്) — നാല് വാക്യതരങ്ങൾ ഒരു table ആയി ഓർത്തിരിക്കുക.\n• PSC exam strategy: വാക്യത്തിന്റെ തരം ചോദ്യങ്ങളിൽ ആദ്യം relative pronoun/subordinate conjunction (ആശ്രിത ഉപവാക്യത്തിന്റെ സൂചന) ഉണ്ടോ എന്ന് നോക്കുക, പിന്നെ 'and/but/or' (സ്വതന്ത്ര ഉപവാക്യങ്ങൾ ബന്ധിപ്പിക്കൽ) ഉണ്ടോ എന്ന് നോക്കുക — രണ്ടും ഉണ്ടെങ്കിൽ Compound-Complex."
+    }
+  },
+  {
+    "id": "109-2025-M-Q84",
+    "paperId": "109-2025-M",
+    "questionNumber": 84,
+    "topic": "Conditionals",
+    "questionText": "Choose the correct sentence from the following :",
+    "optionA": "If you had come I would have joined",
+    "optionB": "If I were a bird I will fly",
+    "optionC": "If you study you will be passed",
+    "optionD": "If you will work I will have paid you well",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) If you had come I would have joined\n• ഇത് Third Conditional-ന്റെ കൃത്യമായ ഘടനയാണ് — if-clause-ൽ Past Perfect ('had come'), main clause-ൽ 'would have + past participle' ('would have joined').\n• Third Conditional ഭൂതകാലത്ത് സംഭവിക്കാത്ത ഒരു കാര്യത്തെക്കുറിച്ചുള്ള സങ്കൽപ്പം പ്രകടിപ്പിക്കുന്നു — 'നീ വന്നിരുന്നെങ്കിൽ' എന്നത് യാഥാർത്ഥ്യത്തിന് വിപരീതമായ ഒരു ഭൂതകാല സാധ്യതയാണ്.\n• 'നീ വന്നിരുന്നെങ്കിൽ, ഞാൻ ചേരുമായിരുന്നു' എന്നർത്ഥം — യാഥാർത്ഥ്യത്തിൽ നീ വന്നില്ല, അതിനാൽ ഞാൻ ചേർന്നതുമില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: IF + HAD + ക്രിയയുടെ മൂന്നാം രൂപം (Past Perfect) → WOULD HAVE + ക്രിയയുടെ മൂന്നാം രൂപം (Third Conditional)!\n• Third Conditional-ന്റെ ഘടന കൃത്യമായി പാലിക്കണം — if-clause-ൽ Past Perfect, main clause-ൽ 'would have + past participle'; ഒരു ഭാഗവും മറ്റൊരു കാലഘടനയുമായി കൂട്ടിക്കുഴയ്ക്കരുത്.\n• അടുത്ത ഘടനകൾ: ഒന്നാം conditional (If + Present, will + V1), രണ്ടാം conditional (If + Past, would + V1), മൂന്നാം conditional (If + Had + V3, would have + V3) — മൂന്നും വെവ്വേറെ കാല സംയോജനങ്ങൾ ആണ്.\n• ⭐ PSC ആവർത്തനം: Conditional വാക്യങ്ങൾ PSC-യിൽ ആവർത്തിച്ച് ചോദിക്കുന്ന ഒരു വിഷയമാണ്, പ്രത്യേകിച്ച് ഘടന ശരിയോ തെറ്റോ എന്ന് തിരിച്ചറിയൽ!\n• ഉദാഹരണ sentences:\n1. അവൾ നന്നായി പഠിച്ചിരുന്നെങ്കിൽ, പാസ്സാകുമായിരുന്നു. (If she had studied hard, she would have passed)\n2. അവർ നേരത്തെ പോയിരുന്നെങ്കിൽ, ബസ് പിടിക്കുമായിരുന്നു. (If they had left early, they would have caught the bus)\n3. എനിക്ക് അറിയാമായിരുന്നെങ്കിൽ, ഞാൻ നിന്നെ സഹായിക്കുമായിരുന്നു. (If I had known, I would have helped you)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) If I were a bird I will fly — 'If I were' രണ്ടാം Conditional ഘടനയാണ് (subjunctive), main clause-ൽ 'would fly' വേണം; 'will fly' ഉപയോഗിച്ചത് കാലത്തിന്റെ പൊരുത്തക്കേടാണ്.\n• (C) If you study you will be passed — 'will be passed' എന്ന passive രൂപം തെറ്റാണ്; 'pass' ഇവിടെ സ്വയം-പ്രവർത്തിക്കുന്ന ക്രിയ ആയതിനാൽ 'will pass' (active) ആണ് ശരി.\n• (D) If you will work I will have paid you well — if-clause-ൽ 'will' ഉപയോഗിക്കാൻ പാടില്ല (ഒന്നാം Conditional-ൽ if-clause Simple Present ആയിരിക്കണം); main clause-ഉം കാലപരമായി പൊരുത്തക്കേടാണ്.\n• 🪤 PSC Trap: നാല് options-ഉം conditional വാക്യങ്ങൾ ആയതിനാൽ, ഓരോന്നിന്റെയും if-clause, main clause കാല സംയോജനം സൂക്ഷ്മമായി പരിശോധിക്കാത്തവരെ വീഴ്ത്താനുള്ള കെണിയാണിത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"HAD + WOULD HAVE = THIRD CONDITIONAL, ഇവ രണ്ടും ഒരുമിച്ചേ വരൂ!\" — if-clause-ഉം main clause-ഉം ഒരേ conditional ഘടനയാണോ എന്ന് നോക്കുക.\n• Word family: ഒന്നാം conditional (if+present, will+V1), രണ്ടാം conditional (if+past, would+V1), മൂന്നാം conditional (if+had+V3, would have+V3) — മൂന്നും ഒരു table ആയി മനഃപാഠമാക്കുക.\n• PSC exam strategy: 'ശരിയായ വാക്യം തിരഞ്ഞെടുക്കുക' എന്ന conditional ചോദ്യങ്ങളിൽ if-clause-ന്റെ കാലവും main clause-ന്റെ കാലവും ഒരേ conditional തരത്തിന്റെ ഭാഗമാണോ എന്ന് പരിശോധിക്കുക — പൊരുത്തക്കേട് ഉള്ള options ഒഴിവാക്കുക."
+    }
+  },
+  {
+    "id": "109-2025-M-Q85",
+    "paperId": "109-2025-M",
+    "questionNumber": 85,
+    "topic": "Prepositions",
+    "questionText": "Fill in the blanks by using the correct preposition from the options :\n\nHe fought ______ his life the whole day.",
+    "optionA": "with",
+    "optionB": "by",
+    "optionC": "for",
+    "optionD": "in",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) for\n• 'Fight for one's life' എന്നാൽ ജീവൻ രക്ഷിക്കാൻ വേണ്ടി ശക്തമായി പോരാടുക (to struggle desperately to save one's life) എന്നർത്ഥം — ഇത് 'fought' എന്ന verb-ന് ചേരുന്ന fixed preposition ആണ്.\n• 'For' ഇവിടെ ലക്ഷ്യം/ഉദ്ദേശ്യം (purpose) സൂചിപ്പിക്കുന്നു — ജീവൻ രക്ഷിക്കുക എന്നതാണ് പോരാട്ടത്തിന്റെ ലക്ഷ്യം.\n• 'അവൻ ദിവസം മുഴുവൻ തന്റെ ജീവൻ രക്ഷിക്കാൻ വേണ്ടി പോരാടി' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: FIGHT FOR = ഒരു ലക്ഷ്യത്തിനായി/സംരക്ഷിക്കാൻ വേണ്ടി പോരാടുക (fixed collocation)!\n• Prepositions പല verb-കൾക്കൊപ്പം fixed collocations ആയാണ് വരുന്നത് — 'fight for' (ലക്ഷ്യത്തിനായി പോരാടുക), 'fight against' (എതിരായി പോരാടുക), 'fight with' (ആയുധം ഉപയോഗിച്ച്/കൂടെ പോരാടുക).\n• Related word group: fight for freedom, fight for justice, fight for one's life, fight for rights — എല്ലാം 'for' എടുക്കുന്ന purpose-based collocations ആണ്.\n• ⭐ PSC ആവർത്തനം: Preposition collocation ചോദ്യങ്ങൾ PSC-യിൽ സ്ഥിരമായി വരുന്ന ഒരു category ആണ്!\n• ഉദാഹരണ sentences:\n1. The soldiers fought for their country. (രാജ്യത്തിന് വേണ്ടി പോരാടി)\n2. She fought for her rights in court. (തന്റെ അവകാശങ്ങൾക്കായി പോരാടി)\n3. They fought for justice for years. (വർഷങ്ങളോളം നീതിക്കായി പോരാടി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) with — 'Fight with' എന്നാൽ 'ഒരാളുമായി/ആയുധം ഉപയോഗിച്ച് പോരാടുക' എന്നർത്ഥം; ഇവിടെ ലക്ഷ്യം (ജീവൻ രക്ഷിക്കൽ) സൂചിപ്പിക്കുന്നതിനാൽ ഇത് ചേരില്ല.\n• (B) by — 'By' മാർഗ്ഗം/രീതി സൂചിപ്പിക്കുന്ന preposition ആണ്; 'fight by' എന്ന combination സാധാരണയായി ഇംഗ്ലീഷിൽ ഉപയോഗിക്കാറില്ല.\n• (D) in — 'Fight in' എന്നാൽ ഒരു സ്ഥലത്ത്/യുദ്ധത്തിൽ പോരാടുക (fight in a war) എന്നർത്ഥം; ഇവിടെ ലക്ഷ്യം സൂചിപ്പിക്കുന്നതിനാൽ ഇത് ചേരില്ല.\n• 🪤 PSC Trap: 'fight with' കൂടുതൽ common ആയി കേൾക്കുന്നതിനാൽ അതിലേക്ക് ചായുന്നവരെ വീഴ്ത്താനുള്ള കെണിയാണിത് — context ('his life') 'for' ആണ് ആവശ്യപ്പെടുന്നത് എന്ന് ശ്രദ്ധിക്കണം.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"ജീവനുവേണ്ടി (FOR) പോരാടുക!\" — ലക്ഷ്യം/കാരണം സൂചിപ്പിക്കുമ്പോൾ 'for' ഓർക്കുക.\n• Word family: fight for (ലക്ഷ്യത്തിനായി), fight against (എതിരായി), fight with (ആയുധം/കൂടെ) — മൂന്ന് 'fight' collocations വേർതിരിച്ചറിയുക.\n• PSC exam strategy: 'Fight' + preposition ചോദ്യങ്ങളിൽ context എന്താണ് സൂചിപ്പിക്കുന്നത് എന്ന് നോക്കുക — ലക്ഷ്യം/കാരണം ആണെങ്കിൽ 'for', എതിർപ്പ് ആണെങ്കിൽ 'against', ആയുധം/കൂട്ട് ആണെങ്കിൽ 'with'."
+    }
+  },
+  {
+    "id": "109-2025-M-Q86",
+    "paperId": "109-2025-M",
+    "questionNumber": 86,
+    "topic": "Parts of Speech",
+    "questionText": "Use the appropriate collective noun from the options to complete the given sentence :\n\nShe found ______ of arrows inside the cabin.",
+    "optionA": "Pack",
+    "optionB": "Fleet",
+    "optionC": "Litter",
+    "optionD": "Quiver",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) Quiver\n• 'Quiver' എന്നത് അമ്പുകളുടെ (arrows) കൂട്ടത്തെ/അവ സൂക്ഷിക്കുന്ന സഞ്ചിയെ സൂചിപ്പിക്കുന്ന collective noun ആണ് — ഓരോ വസ്തുക്കൂട്ടത്തിനും ഇംഗ്ലീഷിൽ പ്രത്യേകം പേരുകൾ ഉണ്ട്.\n• 'A quiver of arrows' എന്നത് ഒരു fixed collective noun expression ആണ് — അമ്പുകൾ സൂക്ഷിക്കുന്ന/കൊണ്ടുപോകുന്ന ഒരു കൂട്ടത്തെ സൂചിപ്പിക്കുന്നു.\n• 'അവൾ ക്യാബിനിനുള്ളിൽ ഒരു കൂട്ടം അമ്പുകൾ കണ്ടെത്തി' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ARROWS → QUIVER (ഓരോ വസ്തുവിനും അതിന്റേതായ collective noun ഉണ്ട്)!\n• Collective nouns fixed expressions ആയാണ് ഓർത്തുവയ്ക്കേണ്ടത് — ഇവ logic വച്ച് ഊഹിക്കാൻ കഴിയില്ല, ഓരോന്നും പ്രത്യേകം പഠിക്കണം.\n• Related word group: a quiver of arrows, a pack of wolves/cards, a fleet of ships, a litter of puppies/kittens.\n• ⭐ PSC ആവർത്തനം: Collective nouns PSC-യിൽ പതിവായി ചോദിക്കുന്ന ഒരു vocabulary category ആണ്!\n• ഉദാഹരണ sentences:\n1. The hunter carried a quiver of arrows. (വേട്ടക്കാരൻ ഒരു കൂട്ടം അമ്പുകൾ കൊണ്ടുനടന്നു)\n2. A pack of wolves roamed the forest. (ചെന്നായ്ക്കളുടെ കൂട്ടം കാട്ടിൽ അലഞ്ഞു)\n3. A fleet of ships sailed across the ocean. (കപ്പലുകളുടെ കൂട്ടം സമുദ്രം കടന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Pack — ഇത് ചെന്നായ്ക്കളുടെയോ (wolves) ചീട്ടുകളുടെയോ (cards) കൂട്ടത്തിന് ഉപയോഗിക്കുന്ന collective noun ആണ്; അമ്പുകൾക്ക് ചേരില്ല.\n• (B) Fleet — ഇത് കപ്പലുകളുടെയോ വാഹനങ്ങളുടെയോ കൂട്ടത്തിന് (a fleet of ships) ഉപയോഗിക്കുന്നു; അമ്പുകൾക്ക് ചേരില്ല.\n• (C) Litter — ഇത് ഒരേ പ്രസവത്തിലെ കുഞ്ഞുങ്ങളുടെ കൂട്ടത്തിന് (a litter of puppies) ഉപയോഗിക്കുന്നു; അമ്പുകൾക്ക് ചേരില്ല.\n• 🪤 PSC Trap: വ്യത്യസ്ത വസ്തുക്കൾക്കുള്ള collective nouns പരസ്പരം മാറ്റി options ആയി നൽകി confuse ചെയ്യിക്കുന്ന ക്ലാസിക് കെണിയാണിത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"അമ്പുകൾ സൂക്ഷിക്കുന്ന സഞ്ചി QUIVER ആണ്!\" — വേട്ടക്കാരന്റെ തോളിലെ അമ്പ് സഞ്ചിയുടെ ചിത്രം മനസ്സിൽ കാണുക.\n• Word family: quiver (arrows), pack (wolves/cards), fleet (ships), litter (puppies/kittens) — ഇവ ഒരു പട്ടികയായി മനഃപാഠമാക്കുക.\n• PSC exam strategy: Collective noun ചോദ്യങ്ങൾ pure memorization ആണ് — logic ഉപയോഗിച്ച് ഊഹിക്കാൻ ശ്രമിക്കാതെ, common object collective nouns ഒരു list ആയി മുൻകൂട്ടി പഠിച്ചുവയ്ക്കുക."
+    }
+  },
+  {
+    "id": "109-2025-M-Q87",
+    "paperId": "109-2025-M",
+    "questionNumber": 87,
+    "topic": "Compound Words",
+    "questionText": "How many words given below are compound words?\n\nIce cream, sailboat, rain fall, backyard, football, butterfly",
+    "optionA": "None",
+    "optionB": "All",
+    "optionC": "Two",
+    "optionD": "One",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) All\n• Ice cream, sailboat, rain fall, backyard, football, butterfly — ഈ ആറ് വാക്കുകളും രണ്ട് വാക്കുകൾ ചേർന്ന് ഒരു പുതിയ അർത്ഥം ഉണ്ടാക്കുന്ന compound words ആണ് — closed form (sailboat, backyard, football, butterfly), open form (ice cream), അല്ലെങ്കിൽ spaced form (rain fall) എന്നിങ്ങനെ വ്യത്യസ്ത രീതികളിൽ എഴുതിയാലും എല്ലാം compound words ആണ്.\n• Compound words മൂന്ന് തരത്തിൽ എഴുതാം: closed (ഒറ്റ വാക്കായി - football), open (രണ്ട് വാക്കുകൾ വേർതിരിച്ച് - ice cream), hyphenated (ഹൈഫൻ ഉപയോഗിച്ച്) — എഴുത്ത് രീതി മാറിയാലും അവ compound words തന്നെയാണ്.\n• അതിനാൽ ഈ ലിസ്റ്റിലെ എല്ലാ ആറ് വാക്കുകളും compound words ആണ് എന്നതാണ് ശരിയുത്തരം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: COMPOUND WORD = രണ്ട് വാക്കുകൾ ചേർന്ന് ഒരു പുതിയ അർത്ഥം ഉണ്ടാക്കുന്നത് (എഴുതുന്ന രീതി എന്ത് തന്നെയായാലും)!\n• Compound words മൂന്ന് രൂപങ്ങളിൽ വരാം — Closed (ഒറ്റ വാക്കായി എഴുതുന്നത്: sailboat, backyard, football, butterfly), Open (വേർതിരിച്ച് എഴുതുന്നത്: ice cream, rain fall), Hyphenated (ഹൈഫൻ ഉപയോഗിച്ചത്: well-known).\n• അടുത്ത ബന്ധുക്കൾ: sailboat (sail+boat), backyard (back+yard), football (foot+ball), butterfly (butter+fly), ice cream (ice+cream), rain fall (rain+fall) — എല്ലാം രണ്ട് സ്വതന്ത്ര വാക്കുകൾ ചേർന്നത്.\n• ⭐ PSC ആവർത്തനം: Compound words തിരിച്ചറിയുന്ന ചോദ്യങ്ങൾ PSC-യിൽ പതിവായി ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. അവൾക്ക് വേനൽക്കാലത്ത് ഐസ്ക്രീം കഴിക്കാൻ ഇഷ്ടമാണ്. (Ice cream — Open compound word)\n2. അവൻ എല്ലാ വാരാന്ത്യത്തിലും ഫുട്ബോൾ കളിക്കുന്നു. (Football — Closed compound word)\n3. ഈ വർഷത്തെ മഴ കനത്തതായിരുന്നു. (Rainfall — Compound word, rain+fall)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) None — ഇത് തെറ്റാണ്; ലിസ്റ്റിലെ എല്ലാ വാക്കുകളും യഥാർത്ഥത്തിൽ compound words ആണ്, ഒന്നുപോലും ഒഴിവാക്കാൻ കാരണമില്ല.\n• (C) Two — ഇത് തെറ്റാണ്; ആറ് വാക്കുകളിൽ രണ്ടെണ്ണം മാത്രമല്ല, എല്ലാം compound words ആണ്.\n• (D) One — ഇത് തെറ്റാണ്; ഒരു വാക്ക് മാത്രമല്ല, എല്ലാ ആറ് വാക്കുകളും compound words-ന്റെ ഗണത്തിൽ പെടുന്നു.\n• 🪤 PSC Trap: 'rain fall' സ്പേസ് ഉപയോഗിച്ച് എഴുതിയത് കണ്ട്, ഇത് compound word അല്ല എന്ന് തെറ്റിദ്ധരിക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണിയാണിത് — spacing (closed/open/hyphenated) എങ്ങനെയായാലും അർത്ഥപരമായി അത് ഒരു compound word തന്നെയാണ്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"സ്പേസ് ഉണ്ടെങ്കിലും ഇല്ലെങ്കിലും, രണ്ട് വാക്ക് ചേർന്നാൽ COMPOUND!\" — spacing-ൽ കുടുങ്ങരുത്, അർത്ഥത്തിൽ ശ്രദ്ധിക്കുക.\n• Word family: Closed (footbal, sailboat), Open (ice cream, rain fall), Hyphenated (mother-in-law) — മൂന്ന് തരം compound words ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Compound word ചോദ്യങ്ങളിൽ ഓരോ വാക്കും 'രണ്ട് independent words ചേർന്നതാണോ, പുതിയ അർത്ഥം ഉണ്ടോ' എന്ന് പരിശോധിക്കുക — spacing convention അവഗണിക്കുക."
+    }
+  },
+  {
+    "id": "109-2025-M-Q88",
+    "paperId": "109-2025-M",
+    "questionNumber": 88,
+    "topic": "Phrasal Verbs",
+    "questionText": "The strike was ______. Find the appropriate phrasal verb from the following to fill in the blanks :",
+    "optionA": "Broken down",
+    "optionB": "Gone through",
+    "optionC": "Looked up",
+    "optionD": "Called off",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) Called off\n• 'Call off' എന്ന phrasal verb-ന്റെ അർത്ഥം 'റദ്ദാക്കുക/നിർത്തിവയ്ക്കുക' (to cancel) എന്നാണ് — 'the strike was called off' എന്നാൽ സമരം റദ്ദാക്കപ്പെട്ടു എന്നർത്ഥം.\n• ഈ context-ൽ 'strike was ___' എന്ന passive structure-ന് ചേരുന്ന phrasal verb 'called off' (റദ്ദാക്കി) ആണ് ഏറ്റവും യുക്തിസഹമായ അർത്ഥം നൽകുന്നത്.\n• 'സമരം റദ്ദാക്കപ്പെട്ടു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: CALL OFF = CANCEL (റദ്ദാക്കുക)!\n• Phrasal verb ചോദ്യങ്ങളിൽ context (ഇവിടെ 'strike' - സമരം) ശ്രദ്ധിച്ച്, ആ context-ന് അർത്ഥപരമായി ചേരുന്ന phrasal verb തിരഞ്ഞെടുക്കണം — സമരങ്ങൾ സാധാരണയായി 'called off' (റദ്ദാക്കുക) ചെയ്യപ്പെടും.\n• Related word group: call off (റദ്ദാക്കുക), break down (തകരാറിലാവുക), go through (അനുഭവിക്കുക/പാസ്സാവുക), look up (തിരയുക/മെച്ചപ്പെടുക).\n• ⭐ PSC ആവർത്തനം: Phrasal verb fill-in-the-blank ചോദ്യങ്ങൾ PSC-യിൽ പതിവായി ചോദിക്കുന്ന ഒരു category ആണ്!\n• ഉദാഹരണ sentences:\n1. The match was called off due to rain. (മഴ കാരണം മത്സരം റദ്ദാക്കി)\n2. They called off the wedding at the last minute. (അവസാന നിമിഷം കല്യാണം റദ്ദാക്കി)\n3. The workers called off their protest. (തൊഴിലാളികൾ പ്രതിഷേധം റദ്ദാക്കി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Broken down — 'Break down' എന്നാൽ 'തകരാറിലാവുക/പ്രവർത്തനരഹിതമാവുക' (machine-കൾക്ക് ചേരും) അല്ലെങ്കിൽ 'വൈകാരികമായി തകരുക' എന്നർത്ഥം; ഒരു strike-ന് ഈ അർത്ഥം ചേരില്ല.\n• (B) Gone through — 'Go through' എന്നാൽ 'ഒരു അനുഭവത്തിലൂടെ കടന്നുപോവുക/പരിശോധിക്കുക' എന്നർത്ഥം; strike-ന്റെ അവസാനത്തെ ഇത് സൂചിപ്പിക്കുന്നില്ല.\n• (C) Looked up — 'Look up' എന്നാൽ 'വിവരം തിരയുക' അല്ലെങ്കിൽ 'സ്ഥിതി മെച്ചപ്പെടുക' എന്നർത്ഥം; ഇതും strike-ന്റെ റദ്ദാക്കലിനെ സൂചിപ്പിക്കുന്നില്ല.\n• 🪤 PSC Trap: നാല് phrasal verbs-ഉം സാധാരണയായി ഉപയോഗിക്കുന്നവയാണ്, അർത്ഥം ശ്രദ്ധിക്കാതെ ഊഹിച്ച് തിരഞ്ഞെടുക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണിയാണിത് — 'strike' context-ന് 'called off' മാത്രമേ ചേരൂ.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"സമരം (STRIKE) റദ്ദാക്കണോ? CALL OFF ചെയ്യൂ!\" — 'strike'/'meeting'/'plan' + 'call off' എന്ന് ബന്ധിപ്പിച്ച് ഓർക്കുക.\n• Word family: call off (റദ്ദാക്കുക), break down (തകരാറിലാവുക), go through (കടന്നുപോവുക), look up (തിരയുക) — നാലും വെവ്വേറെ അർത്ഥങ്ങൾ വേർതിരിച്ചറിയുക.\n• PSC exam strategy: Phrasal verb fill-in-blank ചോദ്യങ്ങളിൽ context noun (strike, meeting, event) ശ്രദ്ധിക്കുക — ആ noun-മായി സ്വാഭാവികമായി ചേരുന്ന phrasal verb മാത്രം തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "109-2025-M-Q89",
+    "paperId": "109-2025-M",
+    "questionNumber": 89,
+    "topic": "Idioms",
+    "questionText": "She had to __bite the bullet__ during her training period.\n\nHere the idiom in bold means :",
+    "optionA": "Unpleasant situation",
+    "optionB": "Courageous attitude",
+    "optionC": "Threatening moments",
+    "optionD": "Exciting moments",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Courageous attitude\n• 'Bite the bullet' എന്ന idiom-ന്റെ അർത്ഥം ഒരു ബുദ്ധിമുട്ടുള്ള/അസുഖകരമായ സാഹചര്യത്തെ ധൈര്യത്തോടെ അഭിമുഖീകരിക്കുക (to face a difficult situation with courage/bravery) എന്നാണ്.\n• ഈ idiom ഒരു situation-നെ വിവരിക്കുകയല്ല, മറിച്ച് ആ situation-നെ എങ്ങനെ അഭിമുഖീകരിക്കുന്നു എന്ന ധൈര്യപൂർവ്വമായ മനോഭാവത്തെയാണ് സൂചിപ്പിക്കുന്നത്.\n• 'പരിശീലന കാലയളവിൽ അവൾക്ക് ധൈര്യത്തോടെ ബുദ്ധിമുട്ട് സഹിക്കേണ്ടി വന്നു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: BITE THE BULLET = ബുദ്ധിമുട്ട് ധൈര്യത്തോടെ സഹിക്കുക (courageous endurance)!\n• Idiom-കൾ definition അനുസരിച്ച് match ചെയ്യുമ്പോൾ, idiom ഒരു 'situation' മാത്രം വിവരിക്കുന്നതാണോ അതോ ഒരു 'action/attitude' ആണോ എന്ന് ശ്രദ്ധിക്കണം — 'bite the bullet' ഒരു ധൈര്യപൂർവ്വമായ പ്രവർത്തിയെ/മനോഭാവത്തെയാണ് സൂചിപ്പിക്കുന്നത്.\n• Related idiom family: bite the bullet (ധൈര്യത്തോടെ സഹിക്കുക), grin and bear it (പരാതിയില്ലാതെ സഹിക്കുക), face the music (അനന്തരഫലം അഭിമുഖീകരിക്കുക).\n• ⭐ PSC ആവർത്തനം: Idiom meaning identify ചെയ്യുന്ന ചോദ്യങ്ങൾ PSC-യിൽ പതിവായി ചോദിക്കുന്ന ഒരു category ആണ്!\n• ഉദാഹരണ sentences:\n1. He had to bite the bullet and accept the layoff. (ധൈര്യത്തോടെ പിരിച്ചുവിടൽ അംഗീകരിക്കേണ്ടി വന്നു)\n2. She bit the bullet and told him the truth. (ധൈര്യത്തോടെ സത്യം പറഞ്ഞു)\n3. We must bite the bullet and make this tough decision. (ധൈര്യത്തോടെ ഈ ബുദ്ധിമുട്ടുള്ള തീരുമാനം എടുക്കണം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Unpleasant situation — ഇത് idiom-ന്റെ context-നെ (അസുഖകരമായ സാഹചര്യം) മാത്രം വിവരിക്കുന്നു, idiom-ന്റെ യഥാർത്ഥ അർത്ഥം (ധൈര്യപൂർവ്വം സഹിക്കൽ) അല്ല.\n• (C) Threatening moments — 'ഭീഷണിപ്പെടുത്തുന്ന നിമിഷങ്ങൾ' എന്നർത്ഥം; ഇത് idiom-ന്റെ അർത്ഥവുമായി നേരിട്ട് ബന്ധമില്ല.\n• (D) Exciting moments — 'ആവേശകരമായ നിമിഷങ്ങൾ' എന്നർത്ഥം; ഇത് idiom-ന്റെ അർത്ഥത്തിന് നേരെ വിപരീതമാണ്, കാരണം 'bite the bullet' ബുദ്ധിമുട്ടിനെയാണ് സൂചിപ്പിക്കുന്നത്, ആവേശത്തെയല്ല.\n• 🪤 PSC Trap: 'unpleasant situation' idiom-ന്റെ context-മായി ബന്ധപ്പെട്ടതായി തോന്നുമെങ്കിലും, idiom-ന്റെ കൃത്യമായ അർത്ഥം 'ധൈര്യപൂർവ്വമായ പ്രവർത്തി' ആണ് എന്ന് ശ്രദ്ധിക്കാത്തവരെ വീഴ്ത്താനുള്ള കെണിയാണിത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"BULLET കടിക്കണോ? ധൈര്യം വേണം!\" — പഴയകാലത്ത് വേദനയിൽ ധൈര്യം കാണിക്കാൻ ബുള്ളറ്റ് കടിക്കുന്ന ചിത്രം മനസ്സിൽ കാണുക.\n• Word family: bite the bullet (ധൈര്യത്തോടെ സഹിക്കുക), grin and bear it (പരാതി കൂടാതെ സഹിക്കുക), face the music (അനന്തരഫലം നേരിടുക) — എല്ലാം ധൈര്യം/സഹനം സൂചിപ്പിക്കുന്ന idioms.\n• PSC exam strategy: Idiom meaning ചോദ്യങ്ങളിൽ idiom 'സാഹചര്യം വിവരിക്കുന്നതാണോ' അതോ 'പ്രവർത്തി/മനോഭാവം സൂചിപ്പിക്കുന്നതാണോ' എന്ന് ആദ്യം തിരിച്ചറിയുക — 'bite the bullet' എപ്പോഴും ധൈര്യപൂർവ്വമായ പ്രവർത്തിയെ സൂചിപ്പിക്കുന്നു."
+    }
+  },
+  {
+    "id": "109-2025-M-Q90",
+    "paperId": "109-2025-M",
+    "questionNumber": 90,
+    "topic": "Spelling",
+    "questionText": "Find out the correctly spelt word from the following :",
+    "optionA": "Acquiantence",
+    "optionB": "Aquaintence",
+    "optionC": "Acquaintance",
+    "optionD": "Aqueintance",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Acquaintance\n• 'Acquaintance' എന്നാൽ 'പരിചയക്കാരൻ/നേരിയ പരിചയമുള്ള വ്യക്തി' എന്നർത്ഥം — ഇതിന്റെ ശരിയായ spelling-ൽ 'c-q-u-a-i-n-t-a-n-c-e' എന്ന ക്രമമാണ് വേണ്ടത്.\n• ഈ വാക്ക് French 'acointance', Latin 'accognitare' (അറിയാൻ) എന്നതിൽ നിന്നാണ് ഉണ്ടായത് — 'c' ന് ശേഷം 'q' വരുന്ന അപൂർവ്വ spelling pattern ആണ് ഇതിന്.\n• മറ്റ് മൂന്ന് options എല്ലാം ഈ വാക്കിന്റെ തെറ്റായ spelling variations ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ACQU-AINTANCE ('c-q-u' ക്രമം, 'aintance' ending ഓർക്കുക)!\n• Spelling ചോദ്യങ്ങളിൽ 'ac-qu-' എന്ന അപൂർവ്വമായ അക്ഷര സംയോജനം ഉള്ള വാക്കുകൾ പ്രത്യേകം ശ്രദ്ധിക്കണം — 'acquaintance', 'acquire', 'acquit' എല്ലാം ഈ pattern പങ്കിടുന്നു.\n• അടുത്ത ബന്ധുക്കൾ: acquaintance, acquire, acquit, acquiesce — എല്ലാം 'acqu-' തുടങ്ങുന്ന Latin-derived വാക്കുകൾ ആണ്.\n• ⭐ PSC ആവർത്തനം: അക്ഷരത്തെറ്റ് (Spelling) ചോദ്യങ്ങൾ എല്ലാ PSC പേപ്പറിലും സ്ഥിരമായി വരുന്ന ഒരു വിഭാഗമാണ്!\n• Etymology hint: Latin 'accognitare' (അറിയുക) → French 'acointance' → English 'acquaintance'.\n• ഉദാഹരണ sentences:\n1. അവൻ വെറും ഒരു നേരിയ പരിചയക്കാരൻ മാത്രമാണ്, അടുത്ത സുഹൃത്തല്ല. (He is just a casual acquaintance)\n2. അവൾ സമ്മേളനത്തിൽ വച്ച് അവനെ പരിചയപ്പെട്ടു. (She made his acquaintance at the conference)\n3. ഈ വർഷം പുതിയ കഴിവുകൾ നേടാൻ അവൻ പ്രതീക്ഷിക്കുന്നു. ('acqu-' pattern ഉള്ള മറ്റൊരു വാക്ക് — acquire)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Acquiantence — അക്ഷരങ്ങളുടെ ക്രമം തെറ്റാണ് ('ai' 'a' എന്നിവയുടെ സ്ഥാനം മാറിപ്പോയി); ശരിയായ ക്രമം 'aintance' ആണ്.\n• (B) Aquaintence — 'c' ഒഴിവാക്കിയത് തെറ്റാണ് ('Ac-' എന്നതിന് പകരം 'A-' മാത്രം); കൂടാതെ അവസാന ഭാഗം 'ence' എന്നത് 'ance' ആയിരിക്കണം.\n• (D) Aqueintance — 'c' ഒഴിവാക്കിയതും, 'ai' ന് പകരം 'ei' ഉപയോഗിച്ചതും രണ്ട് തെറ്റുകളാണ്.\n• 🪤 PSC Trap: നാല് സമാന spellings ഒരുമിച്ച് നൽകി, കൃത്യമായി 'c', letter order, ending എവിടെ എന്ന് അറിയാത്തവരെ ആശയക്കുഴപ്പത്തിലാക്കുന്ന ക്ലാസിക് കെണിയാണിത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"AC-QU-AINTANCE: 'C' മറക്കരുത്, 'AI' ക്രമം ശരിയാക്കുക!\" — 'acquire', 'acquit' പോലെ 'acqu-' തുടക്കം ഓർക്കുക.\n• Word family: acquaintance, acquire, acquit, acquiesce — 'acqu-' തുടങ്ങുന്ന വാക്കുകൾ ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Spelling ചോദ്യങ്ങളിൽ 'acqu-' പോലുള്ള uncommon letter combinations ഉള്ള വാക്കുകൾ അക്ഷരം അക്ഷരമായി എണ്ണി പരിശോധിക്കുക — 'c' വിട്ടുപോയോ, letter order മാറിയോ എന്ന് സൂക്ഷ്മമായി നോക്കുക."
+    }
   }
 ]
