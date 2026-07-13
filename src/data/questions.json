@@ -15568,5 +15568,239 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) If they have played well — 'Have played' Present Perfect ആണ്; Third Conditional-ന് if-clause-ൽ Past Perfect ('had played') വേണം, ഇവിടെ 'have' ഉപയോഗിച്ചത് ഘടനാപരമായ തെറ്റാണ്.\n• (C) If they played well — ഇത് Second Conditional-ന്റെ ഘടനയാണ് ('If + Simple Past'); ഇതിന് main clause-ൽ 'would' (without 'have') മാത്രം ചേരും, എന്നാൽ ഇവിടെ main clause 'would have won' ആയതിനാൽ ഇത് കാലത്തിന്റെ പൊരുത്തക്കേടാണ്.\n• (D) If they play well — ഇത് First Conditional-ന്റെ ഘടനയാണ് ('If + Simple Present'); ഭൂതകാലത്തെക്കുറിച്ചുള്ള സങ്കൽപ്പ സാഹചര്യത്തിന് ഇത് ഒട്ടും ചേരില്ല.\n• 🪤 PSC Trap: Main clause 'would have won' ശ്രദ്ധിക്കാതെ if-clause മാത്രം നോക്കി തിരഞ്ഞെടുക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണിയാണിത് — main clause-ന്റെ ഘടന കണ്ട് conditional തരം തിരിച്ചറിയണം.",
       "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"WOULD HAVE WON കണ്ടാൽ HAD PLAYED ഓർക്കുക — അതാണ് THIRD CONDITIONAL!\" — main clause നോക്കി if-clause തീരുമാനിക്കുക.\n• Word family: ഒന്നാം conditional (If+Present, will+V1), രണ്ടാം conditional (If+Past, would+V1), മൂന്നാം conditional (If+Had+V3, would have+V3) — ഈ മൂന്ന് തരങ്ങളും ഒരു table ആയി മനഃപാഠമാക്കുക.\n• PSC exam strategy: Conditional ചോദ്യങ്ങളിൽ ആദ്യം main clause-ന്റെ ഘടന ('would have', 'will', 'would') ശ്രദ്ധിക്കുക — അതിൽ നിന്ന് conditional തരം തിരിച്ചറിഞ്ഞ് ശരിയായ if-clause തിരഞ്ഞെടുക്കുക, ഇത് ഒരിക്കലും miss ആകാത്ത guaranteed mark ആണ്!"
     }
+  },
+  {
+    "id": "122-2025-M-Q75",
+    "paperId": "122-2025-M",
+    "questionNumber": 75,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Neither Riya nor Gina ______ any knowledge of the incident.\n(Choose the correct verb)",
+    "optionA": "has",
+    "optionB": "have",
+    "optionC": "were",
+    "optionD": "are",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) has\n• 'Neither...nor' കൊണ്ട് ബന്ധിപ്പിച്ച രണ്ട് subjects ഉള്ളപ്പോൾ, verb-ന്റെ agreement verb-ന് ഏറ്റവും അടുത്ത subject-നെ (ഇവിടെ 'Gina', singular) അനുസരിച്ചാണ് തീരുമാനിക്കുന്നത് — അതിനാൽ singular verb 'has' ആണ് ശരി.\n• 'Riya', 'Gina' രണ്ടും singular ആണെങ്കിലും, 'neither...nor' rule പ്രകാരം verb-ന് തൊട്ട് മുന്നിലുള്ള subject മാത്രമേ verb-ന്റെ രൂപം തീരുമാനിക്കൂ.\n• 'റിയയ്ക്കോ ജീനയ്ക്കോ സംഭവത്തെക്കുറിച്ച് ഒരു അറിവുമില്ല' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: NEITHER...NOR-ൽ verb-ന്റെ തൊട്ടടുത്തുള്ള subject-നെ അനുസരിച്ച് verb-ന്റെ രൂപം തീരുമാനിക്കുക!\n• 'Neither A nor B' എന്ന ഘടനയിൽ verb എപ്പോഴും B-യെ (verb-ന്റെ തൊട്ടടുത്തുള്ള subject) അനുസരിച്ചാണ് ഏകവചനമോ ബഹുവചനമോ ആകുന്നത് — A-യെ അല്ല.\n• അടുത്ത ബന്ധുക്കൾ: either...or, neither...nor, not only...but also — ഈ correlative conjunctions-ൽ എല്ലാം ഇതേ 'അടുത്ത subject' നിയമം ബാധകമാണ്.\n• ⭐ PSC ആവർത്തനം: 'Neither...nor' കർത്താവ്-ക്രിയ പൊരുത്തം PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിച്ച് വരുന്ന വ്യാകരണ വിഷയങ്ങളിൽ ഒന്നാണ്!\n• ഉദാഹരണ sentences:\n1. അധ്യാപികയോ വിദ്യാർത്ഥികളോ ഹാജരായില്ല. (Neither the teacher nor the students were present — students ബഹുവചനം ആയതിനാൽ were)\n2. വിദ്യാർത്ഥികളോ അധ്യാപികയോ ഹാജരായില്ല. (Neither the students nor the teacher was present — teacher ഏകവചനം ആയതിനാൽ was)\n3. നീയോ അവനോ ഉത്തരവാദിയാണ്. (Either you or he is responsible — he ഏകവചനം ആയതിനാൽ is)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) have — Plural verb ആണ്; 'Gina' (verb-ന് അടുത്തുള്ള subject) singular ആയതിനാൽ ഇത് ചേരില്ല.\n• 🪤 PSC Trap: 'Neither...nor' രണ്ട് പേരെയും ഒരുമിച്ച് കൂട്ടി plural verb ('have') ഉപയോഗിക്കുന്നവരെ വീഴ്ത്താനുള്ള ക്ലാസിക് കെണിയാണിത് — nearest subject rule ഓർക്കണം.\n• (C) were — ഇത് Past tense 'be' verb ആണ്; 'any knowledge' എന്ന object-ന് മുന്നിൽ main verb ('has/have') വേണം, 'be' verb ഇവിടെ ഘടനാപരമായി ചേരില്ല.\n• (D) are — Present tense plural 'be' verb ആണ്; ഇതും ഘടനാപരമായി ചേരില്ല, കാരണം sentence-ന് main verb 'has/have' ആണ് വേണ്ടത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"NEITHER...NOR-ൽ, അടുത്ത ആൾ പറയുന്നത് കേൾക്കൂ!\" — verb-ന് തൊട്ട് മുന്നിലുള്ള subject മാത്രം നോക്കുക.\n• Word family: neither...nor, either...or — രണ്ടും ഇതേ 'proximity rule' (അടുത്ത subject-നെ അനുസരിക്കൽ) പിന്തുടരുന്നു.\n• PSC exam strategy: 'Neither...nor'/'either...or' ചോദ്യങ്ങളിൽ verb-ന് തൊട്ട് മുന്നിലുള്ള subject singular ആണോ plural ആണോ എന്ന് മാത്രം നോക്കുക — ബാക്കി subject അവഗണിക്കുക, ഇത് guaranteed mark നൽകും!"
+    }
+  },
+  {
+    "id": "122-2025-M-Q76",
+    "paperId": "122-2025-M",
+    "questionNumber": 76,
+    "topic": "Parts of Speech",
+    "questionText": "What is the collective noun used for lions?",
+    "optionA": "fleet",
+    "optionB": "swarm",
+    "optionC": "pride",
+    "optionD": "mob",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) pride\n• 'Pride' എന്ന വാക്ക് സിംഹങ്ങളുടെ കൂട്ടത്തെ സൂചിപ്പിക്കുന്ന collective noun ആണ് — ഓരോ മൃഗക്കൂട്ടത്തിനും പ്രത്യേകം പേരുകൾ ഇംഗ്ലീഷിൽ ഉണ്ട്.\n• Collective nouns എന്നാൽ ഒരു കൂട്ടം വ്യക്തികളെയോ വസ്തുക്കളെയോ ഒറ്റ വാക്കിൽ സൂചിപ്പിക്കുന്ന നാമങ്ങൾ ആണ് — 'pride of lions' എന്നത് ഒരു fixed expression ആണ്.\n• 'സിംഹക്കൂട്ടം' എന്ന അർത്ഥത്തിൽ 'a pride of lions' എന്നാണ് ഇംഗ്ലീഷിൽ പറയുന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: LIONS → PRIDE (ഓരോ മൃഗത്തിനും അതിന്റേതായ collective noun ഉണ്ട്)!\n• Collective nouns ഓർത്തുവയ്ക്കേണ്ടത് fixed expressions ആയാണ് — ഇവ logic വച്ച് ഊഹിക്കാൻ കഴിയില്ല, ഓരോന്നും പ്രത്യേകം പഠിക്കണം.\n• Related word group: a pride of lions, a flock of sheep, a herd of cattle, a swarm of bees, a pack of wolves.\n• ⭐ PSC ആവർത്തനം: Collective nouns PSC-യിൽ പതിവായി ചോദിക്കുന്ന ഒരു vocabulary category ആണ്!\n• ഉദാഹരണ sentences:\n1. A pride of lions rested under the tree. (സിംഹക്കൂട്ടം മരത്തിന് ചുവട്ടിൽ വിശ്രമിച്ചു)\n2. A flock of birds flew across the sky. (പക്ഷിക്കൂട്ടം ആകാശത്തിലൂടെ പറന്നു)\n3. A swarm of bees attacked the hive. (തേനീച്ചക്കൂട്ടം കൂട് ആക്രമിച്ചു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) fleet — ഇത് കപ്പലുകളുടെയോ വാഹനങ്ങളുടെയോ കൂട്ടത്തിന് (a fleet of ships) ഉപയോഗിക്കുന്ന collective noun ആണ്; സിംഹങ്ങൾക്ക് ചേരില്ല.\n• (B) swarm — ഇത് തേനീച്ച/പ്രാണികളുടെ കൂട്ടത്തിന് (a swarm of bees/insects) ഉപയോഗിക്കുന്നു; സിംഹങ്ങൾക്ക് ചേരില്ല.\n• (D) mob — ഇത് ജനക്കൂട്ടത്തിന് (a mob of people), സാധാരണയായി അക്രമാസക്തമായ ജനക്കൂട്ടത്തിന് ഉപയോഗിക്കുന്നു; മൃഗങ്ങൾക്ക് ചേരില്ല.\n• 🪤 PSC Trap: വ്യത്യസ്ത മൃഗക്കൂട്ടങ്ങൾക്കുള്ള collective nouns പരസ്പരം മാറ്റി options ആയി നൽകി confuse ചെയ്യിക്കുന്ന ക്ലാസിക് കെണിയാണിത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"സിംഹം രാജാവാണ്, രാജാവിന് PRIDE (അഭിമാനം) ഉണ്ടാകും!\" — സിംഹത്തെ 'pride' എന്ന വാക്കുമായി ബന്ധിപ്പിച്ച് ഓർക്കുക.\n• Word family: pride (lions), flock (sheep/birds), herd (cattle), swarm (bees), pack (wolves) — ഇവ ഒരു പട്ടികയായി മനഃപാഠമാക്കുക.\n• PSC exam strategy: Collective noun ചോദ്യങ്ങൾ pure memorization ആണ് — logic ഉപയോഗിച്ച് ഊഹിക്കാൻ ശ്രമിക്കാതെ, common animal collective nouns ഒരു list ആയി മുൻകൂട്ടി പഠിച്ചുവയ്ക്കുക."
+    }
+  },
+  {
+    "id": "122-2025-M-Q77",
+    "paperId": "122-2025-M",
+    "questionNumber": 77,
+    "topic": "Question Tags",
+    "questionText": "Please ask her to report today, ______ (Select a suitable question tag)",
+    "optionA": "can you?",
+    "optionB": "will you?",
+    "optionC": "should you?",
+    "optionD": "don't you?",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) will you?\n• 'Please ask her to report today' എന്നത് ഒരു അഭ്യർത്ഥന/imperative sentence ആണ് — imperative sentences-ന് question tag ആയി സാധാരണ 'will you?' ഉപയോഗിക്കുന്നു.\n• Imperative (കൽപ്പന/അഭ്യർത്ഥന) sentences-ന് 'will you?' എന്ന tag ചേർത്താൽ അത് കൂടുതൽ മര്യാദയുള്ള അഭ്യർത്ഥനയായി മാറുന്നു.\n• 'ദയവായി അവളോട് ഇന്ന് report ചെയ്യാൻ പറയൂ, ചെയ്യുമോ?' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: IMPERATIVE SENTENCE + TAG → എപ്പോഴും 'WILL YOU?'!\n• Imperative sentences (കൽപ്പന/അഭ്യർത്ഥന രൂപത്തിലുള്ള വാക്യങ്ങൾ) — 'Open the door', 'Please help me', 'Ask her to come' തുടങ്ങിയവയ്ക്ക് question tag ആയി 'will you?' ചേർക്കുന്നു.\n• Related rule: Negative imperative ('Don't be late') എങ്കിൽ tag 'will you?' തന്നെ ഉപയോഗിക്കും ('Don't be late, will you?').\n• ⭐ PSC ആവർത്തനം: Imperative sentences-ന്റെ question tag rule PSC-യിൽ ആവർത്തിച്ച് ചോദിക്കുന്ന ഒരു topic ആണ്!\n• ഉദാഹരണ sentences:\n1. Open the window, will you? (ജനൽ തുറക്കാമോ?)\n2. Please help me with this, will you? (എന്നെ സഹായിക്കുമോ?)\n3. Don't forget to call me, will you? (വിളിക്കാൻ മറക്കില്ലല്ലോ?)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) can you? — ഇത് ability/capability ചോദിക്കാൻ ഉപയോഗിക്കുന്ന tag ആണ്; imperative sentence-ന്റെ standard tag അല്ല.\n• (C) should you? — ഇത് ഉപദേശം/കടമ ചോദിക്കാൻ ഉപയോഗിക്കുന്നു; imperative tag-ന്റെ standard structure ഇതല്ല.\n• (D) don't you? — ഇത് 'you do' പോലുള്ള positive statement-ന്റെ tag ആണ്; imperative sentence-ന് ഇത് ചേരില്ല.\n• 🪤 PSC Trap: 'ask'/'do' പോലുള്ള verb കണ്ട് 'don't you?' ശരിയാണെന്ന് തെറ്റിദ്ധരിക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണിയാണിത് — imperative sentence-ന് fixed 'will you?' tag മാത്രമേ ചേരൂ.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"കൽപ്പന/അഭ്യർത്ഥന കണ്ടാൽ 'WILL YOU?' ഉറപ്പിക്കൂ!\" — Imperative sentence-ന്റെ fixed tag ഇത് മാത്രം.\n• Word family: Open..., Close..., Please help..., Don't be... — എല്ലാ imperative sentences-ഉം 'will you?' tag എടുക്കും.\n• PSC exam strategy: Sentence ഒരു കൽപ്പന/അഭ്യർത്ഥന ('Please', 'ask her to', verb-ൽ തുടങ്ങുന്നത്) ആണെങ്കിൽ ഉടനെ 'will you?' തിരഞ്ഞെടുക്കുക — ഇത് ഒരിക്കലും മാറാത്ത fixed rule ആണ്!"
+    }
+  },
+  {
+    "id": "122-2025-M-Q78",
+    "paperId": "122-2025-M",
+    "questionNumber": 78,
+    "topic": "Phrasal Verbs",
+    "questionText": "They __postponed__ the meeting due to an unexpected delay in processing the documents.\n(Pick a phrasal verb that can substitute the underlined word.)",
+    "optionA": "move out",
+    "optionB": "took off",
+    "optionC": "take out",
+    "optionD": "put off",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) put off\n• 'Put off' എന്ന phrasal verb-ന്റെ അർത്ഥം 'മാറ്റിവയ്ക്കുക/postpone ചെയ്യുക' എന്നാണ് — ഇത് underlined word 'postponed'-ന്റെ അതേ അർത്ഥം നൽകുന്നു.\n• 'They put off the meeting' എന്ന് പറഞ്ഞാൽ 'they postponed the meeting' എന്ന് പറയുന്നതിന് സമാനമാണ് — രണ്ടും 'മാറ്റിവയ്ക്കുക' എന്നർത്ഥം നൽകുന്നു.\n• 'രേഖകൾ പ്രോസസ്സ് ചെയ്യുന്നതിൽ അപ്രതീക്ഷിതമായ കാലതാമസം കാരണം അവർ യോഗം മാറ്റിവച്ചു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: PUT OFF = POSTPONE (മാറ്റിവയ്ക്കുക)!\n• Phrasal verb substitution ചോദ്യങ്ങളിൽ underlined word-ന്റെ കൃത്യമായ അർത്ഥം കണ്ടെത്തി, അതേ അർത്ഥമുള്ള phrasal verb തിരഞ്ഞെടുക്കണം — 'postpone' = 'put off', literal അല്ല idiomatic meaning ആണ് നോക്കേണ്ടത്.\n• Related word group: put off (postpone), call off (cancel), put up with (tolerate), put away (store).\n• ⭐ PSC ആവർത്തനം: Phrasal verb substitution ചോദ്യങ്ങൾ PSC-യിൽ പതിവായി ചോദിക്കുന്ന ഒരു category ആണ്!\n• ഉദാഹരണ sentences:\n1. They put off the picnic due to rain. (മഴ കാരണം picnic മാറ്റിവച്ചു)\n2. She put off her exam to next month. (പരീക്ഷ അടുത്ത മാസത്തേക്ക് മാറ്റിവച്ചു)\n3. We had to put off the meeting again. (യോഗം വീണ്ടും മാറ്റിവയ്ക്കേണ്ടി വന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) move out — 'വീട്/സ്ഥലം മാറി താമസിക്കുക' എന്നർത്ഥം; 'postpone' എന്ന അർത്ഥവുമായി ഒരു ബന്ധവുമില്ല.\n• (B) took off — 'Take off' എന്നാൽ 'വിമാനം പറന്നുയരുക' അല്ലെങ്കിൽ 'വസ്ത്രം അഴിക്കുക' എന്നർത്ഥം; 'postpone' എന്ന അർത്ഥത്തിന് ചേരില്ല.\n• (C) take out — 'എടുത്ത് മാറ്റുക/പുറത്തെടുക്കുക' എന്നർത്ഥം; 'postpone' എന്ന അർത്ഥവുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'take off'/'put off' എന്നീ സമാന-ശബ്ദമുള്ള phrasal verbs ഒരുമിച്ച് options ആയി നൽകി confuse ചെയ്യിക്കുന്ന ക്ലാസിക് കെണിയാണിത് — അർത്ഥം ശ്രദ്ധിക്കാതെ ശബ്ദസാമ്യം നോക്കി തിരഞ്ഞെടുക്കരുത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"POSTPONE ചെയ്യണോ? PUT OFF ചെയ്യൂ!\" — 'postpone' = 'put off' എന്ന് നേരിട്ട് ബന്ധിപ്പിച്ച് ഓർക്കുക.\n• Word family: put off (postpone), call off (cancel), hold off (delay), stave off (തടയുക) — 'off' ending ഉള്ള phrasal verbs ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Phrasal verb substitution ചോദ്യങ്ങളിൽ underlined word-ന്റെ അർത്ഥം ആദ്യം മലയാളത്തിൽ ചിന്തിക്കുക, എന്നിട്ട് options-ലെ ഓരോ phrasal verb-ന്റെയും അർത്ഥവുമായി match ചെയ്യുക — ശബ്ദസാമ്യത്തിൽ വീഴരുത്."
+    }
+  },
+  {
+    "id": "122-2025-M-Q79",
+    "paperId": "122-2025-M",
+    "questionNumber": 79,
+    "topic": "Degrees of Comparison",
+    "questionText": "Which among the following is a correct sentence?",
+    "optionA": "No other boy in the class is as smart as Rahul",
+    "optionB": "No other boys in the class is as smart as Rahul",
+    "optionC": "No other boy in class are as smart as Rahul",
+    "optionD": "No other boy in the class are smarter than Rahul",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) No other boy in the class is as smart as Rahul\n• 'No other + singular noun (boy) + is + as + adjective + as' എന്ന structure ആണ് ഒരു superlative അർത്ഥം positive degree ഉപയോഗിച്ച് പ്രകടിപ്പിക്കാനുള്ള ശരിയായ ഘടന.\n• 'Boy' singular ആയതിനാൽ singular verb ('is') വേണം, കൂടാതെ 'class' എന്ന singular noun-ന് മുന്നിൽ 'the' article വേണം.\n• 'ക്ലാസ്സിലെ മറ്റൊരു ആൺകുട്ടിയും രാഹുലിനെപ്പോലെ മിടുക്കനല്ല' എന്നർത്ഥം — രാഹുൽ ആണ് ക്ലാസ്സിലെ ഏറ്റവും മിടുക്കൻ എന്ന് സൂചിപ്പിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: NO OTHER + ഏകവചന നാമം + IS + AS + adjective + AS = ഏറ്റവും ഉയർന്ന ഗുണം positive degree-ൽ പ്രകടിപ്പിക്കൽ!\n• ഈ ഘടനയിൽ 'other' എന്ന വാക്ക് 'boy' എന്ന ഏകവചന നാമത്തോട് ചേരും, verb-ഉം ഏകവചനം ('is') ആയിരിക്കണം — ബഹുവചന verb ('are') ഒരിക്കലും ചേരില്ല.\n• അടുത്ത ഘടന: No other + ഏകവചന നാമം + is + as + adjective + as = superlative അർത്ഥം (Rahul ക്ലാസ്സിലെ ഏറ്റവും മിടുക്കനാണ് എന്നതിന് തുല്യം).\n• ⭐ PSC ആവർത്തനം: താരതമ്യ ബിരുദങ്ങളിലെ (Degrees of Comparison) ഈ 'no other...as...as' ഘടന PSC-യിൽ ആവർത്തിച്ച് ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. ക്ലാസ്സിലെ മറ്റൊരു പെൺകുട്ടിയും നിതയെപ്പോലെ പഠിപ്പുള്ളവളല്ല. (No other girl in the class is as studious as Nita)\n2. ടീമിലെ മറ്റൊരു കളിക്കാരനും രോഹനെപ്പോലെ വേഗതയുള്ളവനല്ല. (No other player is as fast as Rohan)\n3. ഇന്ത്യയിലെ മറ്റൊരു നഗരവും മുംബൈയെപ്പോലെ തിരക്കുള്ളതല്ല. (No other city is as crowded as Mumbai)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) No other boys in the class is as smart as Rahul — 'Boys' plural ആണ്, പക്ഷേ verb 'is' singular ആണ് — ഇത് subject-verb agreement തെറ്റാണ്.\n• (C) No other boy in class are as smart as Rahul — 'in class'-ന് മുന്നിൽ 'the' വിട്ടുപോയി (article തെറ്റ്), കൂടാതെ 'boy' singular ആയിട്ടും 'are' (plural verb) ഉപയോഗിച്ചത് തെറ്റാണ്.\n• (D) No other boy in the class are smarter than Rahul — 'Are' എന്ന plural verb 'boy' എന്ന singular subject-മായി ചേരില്ല; കൂടാതെ 'smarter than' എന്ന comparative structure ഈ 'no other' pattern-ന്റെ standard ഘടനയല്ല.\n• 🪤 PSC Trap: 'boy' singular ആണെന്ന് ശ്രദ്ധിക്കാതെ verb 'are' ഉപയോഗിക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണിയാണിത് — subject-verb agreement സൂക്ഷ്മമായി പരിശോധിക്കണം.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"NO OTHER BOY, IS മാത്രം — ഏകവചനത്തിന് ഏകവചന VERB!\" — 'other' കണ്ടാൽ noun ഏകവചനമോ ബഹുവചനമോ എന്ന് ശ്രദ്ധിക്കുക.\n• Word family: No other + ഏകവചന നാമം + is + as...as (positive degree ഉപയോഗിച്ച superlative അർത്ഥം) — ഈ fixed ഘടന മനഃപാഠമാക്കുക.\n• PSC exam strategy: 'No other' വാക്യങ്ങളിൽ ആദ്യം noun ഏകവചനമോ ബഹുവചനമോ എന്ന് നോക്കി verb ('is'/'are') തിരഞ്ഞെടുക്കുക, പിന്നെ 'the' article ശരിയായ സ്ഥാനത്ത് ഉണ്ടോ എന്ന് പരിശോധിക്കുക — ഇത് guaranteed mark നൽകും!"
+    }
+  },
+  {
+    "id": "122-2025-M-Q80",
+    "paperId": "122-2025-M",
+    "questionNumber": 80,
+    "topic": "Idioms",
+    "questionText": "I am searching for ways to break the ice with my new class.\n(What is the meaning of the idiom, \"break the ice\"?)",
+    "optionA": "To do something that makes people feel more reliable",
+    "optionB": "To do something that makes people feel more hard-working",
+    "optionC": "To do something that makes people feel more relaxed",
+    "optionD": "To do something that makes people feel more focused",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) To do something that makes people feel more relaxed\n• 'Break the ice' എന്ന idiom-ന്റെ അർത്ഥം ഒരു പുതിയ/അപരിചിതമായ സാമൂഹിക സാഹചര്യത്തിലെ ആദ്യത്തെ അസ്വസ്ഥത/ജാള്യത ഇല്ലാതാക്കി ആളുകളെ കൂടുതൽ സുഖകരമാക്കുക (relaxed) എന്നാണ്.\n• ഈ idiom സാധാരണയായി പുതിയ ആളുകളെ കണ്ടുമുട്ടുമ്പോൾ, ക്ലാസ് തുടങ്ങുമ്പോൾ, മീറ്റിംഗ് ആരംഭിക്കുമ്പോൾ ഉള്ള ആദ്യ awkwardness/ജാള്യത ഒഴിവാക്കാൻ ഉപയോഗിക്കുന്നു.\n• 'എന്റെ പുതിയ ക്ലാസ്സുമായി ബന്ധം സുഖകരമാക്കാനുള്ള വഴികൾ ഞാൻ അന്വേഷിക്കുന്നു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: BREAK THE ICE = ആദ്യ ജാള്യത/അസ്വസ്ഥത ഇല്ലാതാക്കി ആളുകളെ സുഖകരമാക്കുക!\n• Idiom-കൾ literal meaning-ൽ അല്ല, figurative meaning-ലാണ് മനസ്സിലാക്കേണ്ടത് — 'ice' (മഞ്ഞ്/തണുപ്പ്) 'break' ചെയ്യുക എന്നാൽ ഒരു സാമൂഹിക സാഹചര്യത്തിലെ 'തണുപ്പൻ' അന്തരീക്ഷം ഇല്ലാതാക്കുക എന്നർത്ഥം.\n• Related idiom family: break the ice (relax ചെയ്യിക്കുക), warm up to someone (ഒരാളോട് അടുപ്പം തോന്നുക), get comfortable (സുഖകരമാകുക).\n• ⭐ PSC ആവർത്തനം: Idiom meaning identify ചെയ്യുന്ന ചോദ്യങ്ങൾ PSC-യിൽ പതിവായി ചോദിക്കുന്ന ഒരു category ആണ്!\n• ഉദാഹരണ sentences:\n1. The teacher told a joke to break the ice on the first day. (ആദ്യ ദിവസം ജാള്യത ഇല്ലാതാക്കാൻ തമാശ പറഞ്ഞു)\n2. She used a game to break the ice at the party. (പാർട്ടിയിലെ അസ്വസ്ഥത ഇല്ലാതാക്കാൻ ഗെയിം ഉപയോഗിച്ചു)\n3. A simple question can break the ice in a new group. (ലളിതമായ ഒരു ചോദ്യം പുതിയ ഗ്രൂപ്പിലെ ജാള്യത ഇല്ലാതാക്കും)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) To do something that makes people feel more reliable — 'വിശ്വസനീയത' എന്ന അർത്ഥം ഈ idiom-മായി ബന്ധപ്പെട്ടതല്ല; idiom 'സുഖകരമാക്കൽ' ആണ് സൂചിപ്പിക്കുന്നത്, 'വിശ്വാസ്യത' അല്ല.\n• (B) To do something that makes people feel more hard-working — 'കഠിനാധ്വാനം' എന്ന അർത്ഥം ഈ idiom-മായി ഒരു ബന്ധവുമില്ല.\n• (D) To do something that makes people feel more focused — 'ശ്രദ്ധ കേന്ദ്രീകരണം' എന്ന അർത്ഥവും ഈ idiom-ന്റെ യഥാർത്ഥ അർത്ഥവുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: നാല് options-ഉം 'to do something that makes people feel more...' എന്ന ഒരേ pattern-ൽ തുടങ്ങുന്നതിനാൽ, idiom-ന്റെ കൃത്യമായ അർത്ഥം അറിയാത്തവരെ ആശയക്കുഴപ്പത്തിലാക്കുന്ന ക്ലാസിക് കെണിയാണിത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"ICE ഉരുകിയാൽ തണുപ്പ് മാറും, അതുപോലെ ജാള്യതയും മാറി RELAXED ആകും!\" — മഞ്ഞ് ഉരുകുന്ന ചിത്രം മനസ്സിൽ കാണുക.\n• Word family: break the ice (ജാള്യത ഇല്ലാതാക്കുക), warm up to (അടുപ്പം തോന്നുക), loosen up (relax ആകുക) — എല്ലാം സാമൂഹിക സുഖം സൂചിപ്പിക്കുന്ന idioms.\n• PSC exam strategy: Idiom meaning ചോദ്യങ്ങളിൽ options സമാനമായി തുടങ്ങിയാലും അവസാന വാക്ക് ('reliable', 'hard-working', 'relaxed', 'focused') ശ്രദ്ധാപൂർവ്വം compare ചെയ്യുക — idiom-ന്റെ core meaning-മായി ഏറ്റവും അടുത്ത് നിൽക്കുന്നത് തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "122-2025-M-Q81",
+    "paperId": "122-2025-M",
+    "questionNumber": 81,
+    "topic": "Prepositions",
+    "questionText": "The king ruled ______ a vast empire. Pick the correct preposition.",
+    "optionA": "from",
+    "optionB": "over",
+    "optionC": "about",
+    "optionD": "by",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) over\n• 'Rule over' എന്നാൽ ഒരു പ്രദേശത്തിന്റെയോ ജനതയുടെയോ മേൽ ഭരണാധികാരം/ആധിപത്യം ഉണ്ടായിരിക്കുക (to have authority/dominion over) എന്നർത്ഥം — ഇത് 'ruled' എന്ന verb-ന് ചേരുന്ന fixed preposition ആണ്.\n• Kings/emperors ഒരു empire-ന്റെ 'മേൽ' (over) ഭരണം നടത്തുന്നു എന്ന ബന്ധം സൂചിപ്പിക്കാൻ 'over' ആണ് ഉപയോഗിക്കുന്ന preposition.\n• 'രാജാവ് ഒരു വിശാലമായ സാമ്രാജ്യത്തിന്റെ മേൽ ഭരണം നടത്തി' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: RULE OVER = ഒരു പ്രദേശത്തിന്റെ/ജനതയുടെ മേൽ ഭരണം നടത്തുക (fixed collocation)!\n• Prepositions പല verb-കൾക്കൊപ്പം fixed collocations ആയാണ് വരുന്നത് — 'rule over', 'preside over', 'triumph over' എല്ലാം 'over' എടുക്കുന്ന verbs ആണ്, authority/dominance സൂചിപ്പിക്കുന്നു.\n• Related word group: rule over, reign over, preside over, triumph over, watch over — എല്ലാം ഒരാളുടെ/ഒന്നിന്റെ മേൽ നിയന്ത്രണം/സംരക്ഷണം സൂചിപ്പിക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: Preposition collocation ചോദ്യങ്ങൾ PSC-യിൽ സ്ഥിരമായി വരുന്ന ഒരു category ആണ്!\n• ഉദാഹരണ sentences:\n1. The queen ruled over the kingdom for forty years. (നാൽപ്പത് വർഷം രാജ്യത്തിന്റെ മേൽ ഭരണം നടത്തി)\n2. The judge presided over the trial. (വിചാരണയുടെ മേൽനോട്ടം വഹിച്ചു)\n3. The team triumphed over their rivals. (എതിരാളികളെ കീഴടക്കി വിജയിച്ചു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) from — 'Rule from' എന്നാൽ ഒരു സ്ഥലത്ത് നിന്ന് ഭരണം നടത്തുക (rule from the capital) എന്നർത്ഥം; ഇവിടെ 'a vast empire' എന്നത് ഭരണത്തിന്റെ ഉറവിടം അല്ല, ലക്ഷ്യമാണ്.\n• (C) about — 'Rule about' എന്ന combination ഇംഗ്ലീഷിൽ നിലവിലില്ല; ഘടനാപരമായി ചേരില്ല.\n• (D) by — 'By' മാർഗ്ഗം/agent സൂചിപ്പിക്കുന്ന preposition ആണ്; 'rule by' എന്നത് 'ruled by the king' പോലുള്ള passive constructions-ൽ വരും, ഇവിടെ active sentence-ന് ചേരില്ല.\n• 🪤 PSC Trap: 'over' എന്ന preposition ഓർക്കാതെ 'about'/'by' പോലുള്ള സാധാരണ prepositions തിരഞ്ഞെടുക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണിയാണിത് — 'rule' + empire/kingdom combination-ന് 'over' ഫിക്സഡ് ആണ്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"രാജാവ് സാമ്രാജ്യത്തിന്റെ മുകളിൽ (OVER) ഇരിക്കുന്നു, ഭരണം നടത്തുന്നു!\" — ചിത്രമായി മനസ്സിൽ കാണുക.\n• Word family: rule over, reign over, preside over, triumph over — 'over' എടുക്കുന്ന authority/dominance verbs ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Preposition collocation ചോദ്യങ്ങളിൽ verb-ന്റെ അർത്ഥം (ഭരണം/നിയന്ത്രണം/ആധിപത്യം) ശ്രദ്ധിക്കുക — authority സൂചിപ്പിക്കുന്ന verbs മിക്കവാറും 'over' എടുക്കും."
+    }
+  },
+  {
+    "id": "122-2025-M-Q82",
+    "paperId": "122-2025-M",
+    "questionNumber": 82,
+    "topic": "Spelling",
+    "questionText": "Which of the following is the correct spelling?",
+    "optionA": "occasion",
+    "optionB": "ocasion",
+    "optionC": "occassion",
+    "optionD": "occation",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) occasion\n• 'Occasion' എന്നാൽ 'ഒരു പ്രത്യേക സന്ദർഭം/അവസരം' എന്നർത്ഥം — ഇതിന്റെ ശരിയായ spelling-ൽ ഒറ്റ 'c', ഇരട്ട 's' ('cc' അല്ല, 'ss' അല്ല) ഉപയോഗിക്കണം: o-c-c-a-s-i-o-n.\n• ഈ വാക്ക് Latin 'occasio' (occidere എന്നതിൽ നിന്ന്, 'സംഭവിക്കുക') എന്നതിൽ നിന്നാണ് ഉണ്ടായത്.\n• മറ്റ് മൂന്ന് options എല്ലാം ഈ വാക്കിന്റെ തെറ്റായ spelling variations ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: OCC-ASION (double C, ഒറ്റ S) — 'occassion' അല്ല, 'ocasion' അല്ല!\n• Spelling ചോദ്യങ്ങളിൽ double letters (cc, ss) എവിടെ വരണം എന്നത് കൃത്യമായി ഓർത്തിരിക്കണം — 'occasion'-ൽ 'cc' ഉണ്ട് പക്ഷേ 's' ഒറ്റയാണ്.\n• Related word group: occasion, occasional, occasionally — എല്ലാം 'occ-' (double c) + 'asion' pattern പങ്കിടുന്നു.\n• ⭐ PSC ആവർത്തനം: Spelling ചോദ്യങ്ങൾ എല്ലാ PSC പേപ്പറിലും സ്ഥിരമായി വരുന്ന ഒരു category ആണ്!\n• ഉദാഹരണ sentences:\n1. It was a special occasion for the family. (കുടുംബത്തിന് ഒരു പ്രത്യേക അവസരമായിരുന്നു)\n2. She wore a new saree on that occasion. (ആ അവസരത്തിൽ പുതിയ സാരി ധരിച്ചു)\n3. He occasionally visits his hometown. ('occasion' word family-ലെ മറ്റൊരു വാക്ക്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) ocasion — 'cc' എന്നതിന് പകരം ഒറ്റ 'c' ഉപയോഗിച്ചത് തെറ്റാണ്; ഇത് ഏറ്റവും സാധാരണ spelling തെറ്റാണ്.\n• (C) occassion — 'ss' എന്ന double letter അധികമായി ചേർത്തത് തെറ്റാണ്; ശരിയായ spelling-ൽ ഒറ്റ 's' മാത്രമേ വേണ്ടൂ.\n• (D) occation — 's' എന്നതിന് പകരം 't' ഉപയോഗിച്ചത് തെറ്റാണ്; ഇത് ഉച്ചാരണ സാമ്യം കൊണ്ട് വരുന്ന ഒരു common തെറ്റാണ്.\n• 🪤 PSC Trap: നാല് സമാന spellings ഒരുമിച്ച് നൽകി, കൃത്യമായി double letters എവിടെ എന്ന് അറിയാത്തവരെ ആശയക്കുഴപ്പത്തിലാക്കുന്ന ക്ലാസിക് കെണിയാണിത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"OCC-ASION: രണ്ട് C, ഒറ്റ S!\" — 'double C, single S' എന്ന് താളത്തിൽ ഓർക്കുക.\n• Word family: occasion, occasional, occasionally, occupy, occur — 'occ-' (double c) തുടങ്ങുന്ന വാക്കുകൾ ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Spelling ചോദ്യങ്ങളിൽ double letters ('cc', 'ss') ഉള്ള വാക്കുകൾ അക്ഷരം അക്ഷരമായി എണ്ണി പരിശോധിക്കുക — ഏത് അക്ഷരമാണ് double, ഏതാണ് single എന്ന് കൃത്യമായി ഓർത്തിരിക്കുക."
+    }
+  },
+  {
+    "id": "122-2025-M-Q83",
+    "paperId": "122-2025-M",
+    "questionNumber": 83,
+    "topic": "Articles",
+    "questionText": "______ watch that you want is ______ limited edition. (Use the correct articles.)",
+    "optionA": "A, a",
+    "optionB": "The, the",
+    "optionC": "A, the",
+    "optionD": "The, a",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) The, a\n• ആദ്യ blank: 'watch that you want' എന്നത് 'that you want' എന്ന relative clause കൊണ്ട് പ്രത്യേകമായി identify ചെയ്ത ഒരു watch ആണ് — specific/definite reference ആയതിനാൽ 'The' വേണം.\n• രണ്ടാം blank: 'is ___ limited edition' എന്നത് ഒരു category-യെ (limited edition എന്ന വിഭാഗത്തിൽ പെട്ടത്) സൂചിപ്പിക്കുന്നു, specific ഒന്നിനെ അല്ല — അതിനാൽ indefinite article 'a' വേണം.\n• 'നീ ആഗ്രഹിക്കുന്ന ആ watch ഒരു limited edition ആണ്' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Relative clause ('that you want') ഉള്ള noun → THE (specific) | category/type സൂചിപ്പിക്കുന്ന noun → A/AN (generic)!\n• 'The' ഉപയോഗിക്കുന്നത് ഒരു നിശ്ചിത, തിരിച്ചറിയാവുന്ന വസ്തുവിനെ സൂചിപ്പിക്കുമ്പോൾ ആണ് ('that you want' എന്ന clause ഈ watch-നെ specific ആക്കുന്നു); 'a/an' ഉപയോഗിക്കുന്നത് ഒരു category/type-നെ പൊതുവായി സൂചിപ്പിക്കുമ്പോൾ ആണ് ('a limited edition' എന്നത് ഒരു തരം/category).\n• Related rule: Relative clause (who/that/which) കൊണ്ട് qualify ചെയ്ത noun മിക്കവാറും 'the' എടുക്കും.\n• ⭐ PSC ആവർത്തനം: രണ്ട് ബ്ലാങ്ക് ഉള്ള article ചോദ്യങ്ങൾ PSC-യിൽ പതിവായി ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. The book that you gave me is a bestseller. (specific book → the, category → a)\n2. The car that he bought is an SUV. (specific car → the, category → an)\n3. The dress that she wore was a designer piece. (specific dress → the, category → a)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) A, a — ആദ്യ blank-ന് 'A' ഉപയോഗിച്ചാൽ ഏതെങ്കിലും ഒരു watch എന്നാകും, പക്ഷേ 'that you want' എന്ന clause ഒരു specific watch-നെ സൂചിപ്പിക്കുന്നു, അതിനാൽ 'the' വേണം.\n• (B) The, the — രണ്ടാം blank-ന് 'the' ഉപയോഗിച്ചാൽ ഒരു specific, മുൻപ് പരാമർശിച്ച limited edition-നെ സൂചിപ്പിക്കും; ഇവിടെ ഒരു category മാത്രമേ ഉദ്ദേശിക്കുന്നുള്ളൂ, അതിനാൽ 'a' വേണം.\n• (C) A, the — ആദ്യ blank 'A' തെറ്റാണ് (മുകളിൽ വിശദീകരിച്ചത് പോലെ specific watch ആയതിനാൽ 'the' വേണം).\n• 🪤 PSC Trap: Relative clause ('that you want') ഉള്ള noun-നും 'the' വേണം എന്ന് ശ്രദ്ധിക്കാതെ 'a' ഉപയോഗിക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണിയാണിത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"THAT YOU WANT കണ്ടാൽ THE, CATEGORY കണ്ടാൽ A!\" — relative clause noun-നെ specific ആക്കും, category noun-നെ generic ആക്കും.\n• Word family: the + relative clause (നിശ്ചിത വസ്തുവിനെ സൂചിപ്പിക്കൽ) | a/an + category/type (പൊതു വിഭാഗത്തെ സൂചിപ്പിക്കൽ) — ഈ രണ്ട് നിയമങ്ങൾ വേർതിരിച്ചറിയുക.\n• PSC exam strategy: രണ്ട് ബ്ലാങ്ക് ഉള്ള article ചോദ്യങ്ങളിൽ ഓരോ ബ്ലാങ്കിന്റെയും context വെവ്വേറെ പരിശോധിക്കുക — relative clause ('that you want') ഉണ്ടോ എന്നും, അതോ വെറും ഒരു category/type മാത്രമാണോ എന്നും നോക്കി article ഉറപ്പിക്കുക."
+    }
+  },
+  {
+    "id": "122-2025-M-Q84",
+    "paperId": "122-2025-M",
+    "questionNumber": 84,
+    "topic": "Antonyms",
+    "questionText": "What is the antonym of benevolent?",
+    "optionA": "sympathetic",
+    "optionB": "cruel",
+    "optionC": "elegant",
+    "optionD": "simple",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) cruel\n• 'Benevolent' എന്നാൽ 'ദയാലുവായ/ഉദാരമായ' (kind, generous, well-meaning) എന്നർത്ഥം — ഇതിന്റെ വിപരീത പദം (antonym) 'cruel' (ക്രൂരമായ) ആണ്.\n• 'Cruel' എന്നാൽ മറ്റുള്ളവരോട് ദയയില്ലാതെ, വേദനിപ്പിക്കുന്ന രീതിയിൽ പെരുമാറുന്ന എന്നർത്ഥം — ഇത് 'benevolent'-ന്റെ കൃത്യമായ വിപരീത അർത്ഥം നൽകുന്നു.\n• Latin 'bene' (നല്ലത്) + 'volent' (ആഗ്രഹിക്കുന്ന) എന്നതിൽ നിന്നാണ് 'benevolent' വന്നത് — 'cruel' ഇതിന്റെ നേരെ വിപരീതമാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: BENEVOLENT (ദയാലു) ↔ CRUEL (ക്രൂരൻ) — രണ്ടും വിപരീത ധ്രുവങ്ങൾ!\n• Antonym ചോദ്യങ്ങളിൽ word-ന്റെ core meaning കണ്ടെത്തി, അതിന്റെ നേരെ എതിരായ അർത്ഥമുള്ള word തിരഞ്ഞെടുക്കണം — 'benevolent' (ദയ) vs 'cruel' (ക്രൂരത) ഒരു ക്ലാസിക് opposite pair ആണ്.\n• Related word group: benevolent, kind, generous, compassionate (ദയാലു) ↔ cruel, ruthless, merciless, heartless (ക്രൂരൻ).\n• ⭐ PSC ആവർത്തനം: Antonym ചോദ്യങ്ങൾ PSC-യിൽ എല്ലാ പേപ്പറിലും സ്ഥിരമായി വരുന്ന ഒരു category ആണ്!\n• Etymology hint: Latin 'bene' (നല്ലത്) + 'velle' (ആഗ്രഹിക്കുക) = 'benevolent' (നന്മ ആഗ്രഹിക്കുന്ന).\n• ഉദാഹരണ sentences:\n1. The benevolent king helped the poor. (ദയാലുവായ രാജാവ് ദരിദ്രരെ സഹായിച്ചു)\n2. The cruel ruler tortured his enemies. (ക്രൂരനായ ഭരണാധികാരി ശത്രുക്കളെ പീഡിപ്പിച്ചു)\n3. She is known for her benevolent nature, unlike her cruel brother. (അവളുടെ ദയാലു സ്വഭാവം, ക്രൂരനായ സഹോദരനിൽ നിന്ന് വ്യത്യസ്തം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) sympathetic — 'സഹാനുഭൂതിയുള്ള' എന്നർത്ഥം; ഇത് 'benevolent'-ന്റെ synonym ആണ്, antonym അല്ല.\n• (C) elegant — 'അഴകുള്ള/മാന്യമായ' എന്നർത്ഥം; ഇത് 'benevolent'-മായി നേരിട്ട് ബന്ധമില്ലാത്ത, വ്യത്യസ്ത ഗുണത്തെ സൂചിപ്പിക്കുന്ന വാക്കാണ്.\n• (D) simple — 'ലളിതമായ' എന്നർത്ഥം; ഇതും 'benevolent'-ന്റെ വിപരീതമല്ല, തീർത്തും വ്യത്യസ്തമായ ഒരു ഗുണത്തെ സൂചിപ്പിക്കുന്നു.\n• 🪤 PSC Trap: 'sympathetic' 'benevolent'-മായി അർത്ഥസാമ്യമുള്ളതിനാൽ, antonym ചോദിച്ചിട്ടും synonym തിരഞ്ഞെടുക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണിയാണിത് — ചോദ്യം 'antonym' ആണോ 'synonym' ആണോ എന്ന് ശ്രദ്ധിക്കണം.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"BENEVOLENT-ന് നല്ല മനസ്സ്, CRUEL-ന് കല്ല് മനസ്സ്!\" — രണ്ട് എതിർ ചിത്രങ്ങൾ മനസ്സിൽ താരതമ്യം ചെയ്യുക.\n• Word family: benevolent, kind, compassionate, generous (ദയാലു) ↔ cruel, ruthless, merciless (ക്രൂരൻ) — രണ്ട് ഗ്രൂപ്പുകളായി പട്ടികപ്പെടുത്തി പഠിക്കുക.\n• PSC exam strategy: Antonym ചോദ്യങ്ങളിൽ ആദ്യം 'antonym' എന്ന വാക്ക് അടിവരയിടുക — synonym-ലേക്ക് ചായാതെ, word-ന്റെ core meaning-ന് നേരെ എതിരായ option തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "122-2025-M-Q85",
+    "paperId": "122-2025-M",
+    "questionNumber": 85,
+    "topic": "Active and Passive Voice",
+    "questionText": "\"Shut the door!\" (What is the passive voice of this sentence?)",
+    "optionA": "Let the door be shut",
+    "optionB": "Someone has to shut the door",
+    "optionC": "You have to shut the door",
+    "optionD": "Please shut the door",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Let the door be shut\n• 'Shut the door!' എന്നത് ഒരു imperative sentence ആണ് — imperative sentences-ന്റെ passive voice എപ്പോഴും 'Let + object + be + past participle' എന്ന structure ഉപയോഗിച്ചാണ് ഉണ്ടാക്കുന്നത്.\n• 'Let the door be shut' എന്നാൽ 'വാതിൽ അടയ്ക്കപ്പെടട്ടെ' എന്ന നിർദ്ദേശം passive രൂപത്തിൽ പ്രകടിപ്പിക്കുന്നു.\n• 'വാതിൽ അടയ്ക്കപ്പെടട്ടെ' എന്നർത്ഥം — ആരാണ് അടയ്ക്കുന്നത് എന്നത് പ്രധാനമല്ല, action മാത്രമാണ് ഊന്നൽ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: കൽപ്പന വാക്യം + PASSIVE → LET + OBJECT + BE + PAST PARTICIPLE!\n• സാധാരണ passive voice ('was/were + ക്രിയയുടെ മൂന്നാം രൂപം') കൽപ്പന വാക്യങ്ങൾക്ക് (imperative sentences) ചേരില്ല — പകരം 'Let + കർമ്മം + be + ക്രിയയുടെ മൂന്നാം രൂപം' എന്ന പ്രത്യേക ഘടന ഉപയോഗിക്കണം.\n• അടുത്ത ഘടന: 'Open the window!' → 'Let the window be opened.' | 'Close the book!' → 'Let the book be closed.'\n• ⭐ PSC ആവർത്തനം: കൽപ്പന വാക്യങ്ങളുടെ passive voice മാറ്റം PSC-യിൽ ആവർത്തിച്ച് ചോദിക്കുന്ന ഒരു വിഷയമാണ്!\n• ഉദാഹരണ sentences:\n1. വാതിൽ തുറക്കൂ! → Let the door be opened. (വാതിൽ തുറക്കപ്പെടട്ടെ)\n2. കത്ത് അയക്കൂ! → Let the letter be sent. (കത്ത് അയക്കപ്പെടട്ടെ)\n3. ജോലി തീർക്കൂ! → Let the work be finished. (ജോലി പൂർത്തിയാക്കപ്പെടട്ടെ)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) Someone has to shut the door — ഇത് ഒരു കടമ പ്രകടിപ്പിക്കുന്ന statement ആണ്, passive voice മാറ്റം അല്ല; 'someone' എന്ന കർത്താവ് active voice-ൽ തന്നെയാണ് നിലനിൽക്കുന്നത്.\n• (C) You have to shut the door — ഇതും ഒരു കടമ statement ആണ്, passive അല്ല active voice തന്നെ; കൽപ്പനയുടെ standard passive രൂപം ഇതല്ല.\n• (D) Please shut the door — ഇത് വെറും കൽപ്പന വാക്യത്തിന്റെ മര്യാദയുള്ള version ആണ്, passive voice-ലേക്ക് മാറ്റിയിട്ടേയില്ല.\n• 🪤 PSC Trap: കൽപ്പന വാക്യത്തിന്റെ 'Let...be...' ഘടന അറിയാതെ, 'have to' പോലുള്ള കടമ പ്രകടിപ്പിക്കുന്ന phrases-നെ passive voice ആയി തെറ്റിദ്ധരിക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണിയാണിത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"കൽപ്പന PASSIVE ആക്കണോ? LET...BE... ഉപയോഗിക്കൂ!\" — കൽപ്പന + passive combination-ന്റെ ഫിക്സഡ് formula ഇത് മാത്രം.\n• Word family: Let it be done, Let the work be finished, Let the door be shut — എല്ലാം കൽപ്പനയുടെ passive രൂപത്തിന്റെ ഉദാഹരണങ്ങൾ.\n• PSC exam strategy: വാക്യം ഒരു കൽപ്പന ('Shut!', 'Open!', 'Close!') ആണെങ്കിൽ passive voice-ന് ഉടനെ 'Let + കർമ്മം + be + ക്രിയയുടെ മൂന്നാം രൂപം' ഘടന ഓർക്കുക — ഇത് ഒരിക്കലും മാറാത്ത സ്ഥിരം നിയമമാണ്!"
+    }
+  },
+  {
+    "id": "122-2025-M-Q86",
+    "paperId": "122-2025-M",
+    "questionNumber": 86,
+    "topic": "One Word Substitutes",
+    "questionText": "What is the one word for a person who always looks at things in a positive manner?",
+    "optionA": "Narcissist",
+    "optionB": "Pessimist",
+    "optionC": "Optimist",
+    "optionD": "Meliorist",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Optimist\n• 'Optimist' എന്നാൽ എല്ലാ കാര്യങ്ങളെയും പോസിറ്റീവ് ആയി/നല്ല വശം കണ്ടുകൊണ്ട് നോക്കുന്ന വ്യക്തി എന്നർത്ഥം — ചോദ്യത്തിലെ definition-മായി ഇത് കൃത്യമായി ചേരുന്നു.\n• Latin 'optimus' (ഏറ്റവും നല്ലത്) എന്നതിൽ നിന്നാണ് 'optimist' ഉണ്ടായത് — എപ്പോഴും ഏറ്റവും നല്ല ഫലം പ്രതീക്ഷിക്കുന്ന മനോഭാവം.\n• 'എപ്പോഴും കാര്യങ്ങളെ പോസിറ്റീവ് ആയി കാണുന്ന വ്യക്തി' എന്ന ഒറ്റവാക്ക് 'Optimist' ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: എപ്പോഴും പോസിറ്റീവ് ആയി കാണുന്നയാൾ → OPTIMIST!\n• One word substitution ചോദ്യങ്ങളിൽ definition-ലെ key words ('always', 'positive manner') ശ്രദ്ധിച്ച്, ആ അർത്ഥം കൃത്യമായി ഉൾക്കൊള്ളുന്ന ഒറ്റ വാക്ക് കണ്ടെത്തണം.\n• Related word group: optimist (പോസിറ്റീവ് കാഴ്ചപ്പാട്) ↔ pessimist (നെഗറ്റീവ് കാഴ്ചപ്പാട്); narcissist (സ്വയം സ്നേഹം); meliorist (ലോകം മെച്ചപ്പെടും എന്ന് വിശ്വസിക്കുന്നയാൾ).\n• ⭐ PSC ആവർത്തനം: One Word Substitutes PSC-യിൽ ഗ്യാരണ്ടീഡ് ആയി വരുന്ന ഒരു vocabulary category ആണ്!\n• Etymology hint: Latin 'optimus' (ഏറ്റവും നല്ലത്) + '-ist' (വ്യക്തി) = 'optimist'.\n• ഉദാഹരണ sentences:\n1. Despite the setback, she remained an optimist. (തിരിച്ചടി ഉണ്ടായിട്ടും അവൾ പോസിറ്റീവ് ആയി തുടർന്നു)\n2. An optimist always sees the silver lining. (Optimist എപ്പോഴും നല്ല വശം കാണും)\n3. Being an optimist helps you handle failures better. (Optimist ആയിരിക്കുന്നത് പരാജയങ്ങളെ നന്നായി കൈകാര്യം ചെയ്യാൻ സഹായിക്കും)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Narcissist — സ്വന്തം സൗന്ദര്യത്തിലും കഴിവിലും അമിതമായി ആകൃഷ്ടനായ വ്യക്തി എന്നർത്ഥം; positive outlook-മായി ബന്ധമില്ല.\n• (B) Pessimist — എപ്പോഴും നെഗറ്റീവ് ആയി/മോശം വശം കണ്ടുകൊണ്ട് ചിന്തിക്കുന്ന വ്യക്തി എന്നർത്ഥം; ഇത് 'optimist'-ന്റെ നേരെ വിപരീതമാണ്.\n• (D) Meliorist — ലോകം ക്രമേണ മെച്ചപ്പെടും എന്ന് വിശ്വസിക്കുന്ന വ്യക്തി എന്നർത്ഥം; ഇത് optimist-മായി അടുത്ത ബന്ധമുള്ളതെങ്കിലും, ചോദ്യത്തിലെ 'always positive manner' എന്ന കൃത്യമായ അർത്ഥം 'optimist'-നോളം ചേരില്ല.\n• 🪤 PSC Trap: 'Pessimist', 'Optimist' എന്നീ വിപരീത പദങ്ങൾ ഒരുമിച്ച് options ആയി നൽകി ആശയക്കുഴപ്പം ഉണ്ടാക്കുന്ന ക്ലാസിക് കെണിയാണിത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"OPTIMIST = OPTIMUM (ഏറ്റവും നല്ലത്) പ്രതീക്ഷിക്കുന്നയാൾ!\" — 'optimum' എന്ന വാക്കുമായി ബന്ധിപ്പിച്ച് ഓർക്കുക.\n• Word family: optimist ↔ pessimist (വിപരീതങ്ങൾ); narcissist, meliorist — related personality one-word substitutes ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: One word substitute ചോദ്യങ്ങളിൽ definition-ലെ emotional tone ('positive'/'negative') ആദ്യം തിരിച്ചറിയുക — അതിനനുസരിച്ച് optimist/pessimist പോലുള്ള opposite pairs-ൽ നിന്ന് ശരിയായത് തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "122-2025-M-Q87",
+    "paperId": "122-2025-M",
+    "questionNumber": 87,
+    "topic": "Auxiliary Verbs",
+    "questionText": "What modal auxiliary is used to suggest necessity or obligation?",
+    "optionA": "Shall",
+    "optionB": "Can",
+    "optionC": "Might",
+    "optionD": "Must",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) Must\n• 'Must' എന്ന modal auxiliary necessity/obligation (ആവശ്യകത/കടമ) പ്രകടിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു — ഇത് ചെയ്യേണ്ടത് നിർബന്ധമാണ് എന്ന ശക്തമായ അർത്ഥം നൽകുന്നു.\n• 'Must' ബാഹ്യമായ നിയമം/നിർബന്ധം (external obligation) അല്ലെങ്കിൽ ആന്തരികമായ ശക്തമായ ബോധ്യം (internal necessity) പ്രകടിപ്പിക്കാൻ ഉപയോഗിക്കുന്ന modal ആണ്.\n• 'നിങ്ങൾ ഇത് ചെയ്യണം/ചെയ്യേണ്ടത് അത്യാവശ്യമാണ്' എന്ന അർത്ഥത്തിലാണ് 'must' ഉപയോഗിക്കുന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: MUST = ആവശ്യകത/കടമ (necessity/obligation) പ്രകടിപ്പിക്കുന്ന modal!\n• Modal auxiliaries ഓരോന്നിനും വ്യത്യസ്ത അർത്ഥങ്ങൾ ഉണ്ട് — 'shall' (ഭാവി/നിർദ്ദേശം), 'can' (കഴിവ്/അനുവാദം), 'might' (സാധ്യത), 'must' (ആവശ്യകത/കടമ) — ഓരോന്നും വെവ്വേറെ ഓർത്തിരിക്കണം.\n• Related word group: must, have to, need to — എല്ലാം necessity/obligation സൂചിപ്പിക്കുന്ന expressions ആണ്.\n• ⭐ PSC ആവർത്തനം: Modal auxiliaries-ന്റെ അർത്ഥവ്യത്യാസം identify ചെയ്യുന്ന ചോദ്യങ്ങൾ PSC-യിൽ പതിവായി ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. You must submit the form before the deadline. (നിർബന്ധമായും സമർപ്പിക്കണം)\n2. Students must wear uniforms to school. (യൂണിഫോം ധരിക്കണം എന്നത് നിർബന്ധം)\n3. We must follow the traffic rules. (ട്രാഫിക് നിയമങ്ങൾ പാലിക്കണം എന്നത് കടമ)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Shall — ഭാവികാല പ്രവർത്തനം/നിർദ്ദേശം/promise സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു ('I shall go'); necessity/obligation-ന്റെ പ്രധാന അർത്ഥം ഇതിനില്ല.\n• (B) Can — കഴിവ്/ability അല്ലെങ്കിൽ അനുവാദം (permission) സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു ('I can swim'); obligation-മായി ബന്ധമില്ല.\n• (C) Might — സാധ്യത (possibility), അതും കുറഞ്ഞ സാധ്യത സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു ('It might rain'); ഇതും necessity-യെ സൂചിപ്പിക്കുന്നില്ല.\n• 🪤 PSC Trap: നാല് modal auxiliaries-ഉം ഒരുമിച്ച് നൽകി, ഓരോന്നിന്റെയും കൃത്യമായ അർത്ഥവ്യത്യാസം അറിയാത്തവരെ ആശയക്കുഴപ്പത്തിലാക്കുന്ന ക്ലാസിക് കെണിയാണിത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"MUST = നിർബന്ധം, ചെയ്‌തേ പറ്റൂ!\" — 'must' കേട്ടാൽ ഉടനെ 'നിർബന്ധിതം' എന്ന feeling ഓർക്കുക.\n• Word family: shall (ഭാവി/promise), can (കഴിവ്), might (സാധ്യത), must (ആവശ്യകത) — നാല് modals-ഉം ഒരു table ആയി വേർതിരിച്ച് പഠിക്കുക.\n• PSC exam strategy: Modal auxiliary ചോദ്യങ്ങളിൽ ചോദ്യത്തിലെ key word ('necessity', 'obligation', 'ability', 'possibility', 'permission') ശ്രദ്ധിക്കുക — ആ key word-ന് കൃത്യമായി ചേരുന്ന modal മാത്രം തിരഞ്ഞെടുക്കുക."
+    }
   }
 ]
