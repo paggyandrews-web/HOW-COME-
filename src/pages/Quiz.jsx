@@ -239,7 +239,7 @@ function generateShareCanvas({ score, total, pct, icon, topicStats }) {
       ctx.fill()
       // Fill
       const fillW = Math.max(barW * Math.max(t.pct / 100, 0.02), 16)
-      ctx.fillStyle = t.pct >= 80 ? '#16a34a' : t.pct >= 50 ? '#f59e0b' : '#ef4444'
+      ctx.fillStyle = t.pct >= 80 ? '#22c55e' : t.pct >= 50 ? '#f59e0b' : '#ef4444'
       drawRoundRect(ctx, barX, y, fillW, barH, 8)
       ctx.fill()
       // Label
@@ -684,7 +684,7 @@ function QuizResult({ questions, answers, onRetry, onHome, streakMilestone }) {
               <div key={topic}>
                 <div className="flex justify-between text-xs mb-1">
                   <span style={{ color: 'var(--text)' }} className="truncate pr-2">{topic}</span>
-                  <span className="shrink-0 font-semibold" style={{ color: tPct >= 80 ? '#16a34a' : tPct >= 50 ? '#f59e0b' : '#ef4444' }}>
+                  <span className="shrink-0 font-semibold" style={{ color: tPct >= 80 ? 'var(--accent-green)' : tPct >= 50 ? '#f59e0b' : '#ef4444' }}>
                     {correct}/{total}
                   </span>
                 </div>
@@ -692,7 +692,7 @@ function QuizResult({ questions, answers, onRetry, onHome, streakMilestone }) {
                   <div className="h-1.5 rounded-full transition-all"
                     style={{
                       width: `${tPct}%`,
-                      background: tPct >= 80 ? '#16a34a' : tPct >= 50 ? '#f59e0b' : '#ef4444'
+                      background: tPct >= 80 ? 'var(--accent-green)' : tPct >= 50 ? '#f59e0b' : '#ef4444'
                     }} />
                 </div>
               </div>
@@ -730,7 +730,7 @@ function QuizResult({ questions, answers, onRetry, onHome, streakMilestone }) {
         </span>
       </div>
 
-      {/* Number jump bar only */}
+      {/* Number jump bar */}
       <div className="flex gap-1 overflow-x-auto py-1 mb-4">
         {questions.map((_, i) => {
           const ans = answers[i]
@@ -740,7 +740,7 @@ function QuizResult({ questions, answers, onRetry, onHome, streakMilestone }) {
             <button key={i} onClick={() => setReviewIdx(i)}
               className="shrink-0 w-7 h-7 rounded text-xs font-semibold"
               style={{
-                background: i === reviewIdx ? 'var(--accent)' : isCorrect ? '#16a34a' : isWrong ? '#dc2626' : 'var(--bg2)',
+                background: i === reviewIdx ? 'var(--accent)' : isCorrect ? 'var(--accent-green)' : isWrong ? '#ef4444' : 'var(--bg2)',
                 color: (i === reviewIdx || isCorrect || isWrong) ? 'white' : 'var(--text2)',
               }}>
               {i + 1}
@@ -760,13 +760,18 @@ function QuizResult({ questions, answers, onRetry, onHome, streakMilestone }) {
           </div>
           <div className="space-y-1 mb-3">
             {opts.map(([letter, text]) => {
-              let bg = 'var(--bg2)', col = 'var(--text)'
-              if (correct && letter === correct) { bg = '#16a34a'; col = 'white' }
-              else if (userAns === letter && letter !== correct) { bg = '#dc2626'; col = 'white' }
+              let style = { background: 'var(--bg2)', color: 'var(--text)', border: '1px solid var(--border)' }
+              let icon = null
+              if (correct && letter === correct) {
+                style = { background: 'rgba(34,197,94,0.12)', color: 'var(--text)', border: '1px solid var(--accent-green)' }
+                icon = <span className="ml-auto shrink-0" style={{ color: 'var(--accent-green)' }}>✓</span>
+              } else if (userAns === letter && letter !== correct) {
+                style = { background: 'rgba(239,68,68,0.12)', color: 'var(--text)', border: '1px solid #ef4444' }
+                icon = <span className="ml-auto shrink-0" style={{ color: '#ef4444' }}>✗</span>
+              }
               return (
-                <div key={letter} className="px-3 py-1.5 rounded-lg text-xs"
-                  style={{ background: bg, color: col }}>
-                  ({letter}) {text}
+                <div key={letter} className="px-3 py-1.5 rounded-lg text-xs flex items-center gap-2" style={style}>
+                  <span>({letter}) {text}</span>{icon}
                 </div>
               )
             })}
@@ -779,6 +784,20 @@ function QuizResult({ questions, answers, onRetry, onHome, streakMilestone }) {
           )}
         </div>
       )}
+
+      {/* Prev / Next through the review — same pill style as the live quiz nav */}
+      <div className="flex gap-2 mt-4">
+        <button onClick={() => setReviewIdx(i => Math.max(0, i - 1))} disabled={reviewIdx === 0}
+          className="flex-1 py-2.5 rounded-xl text-sm font-semibold"
+          style={{ background: 'var(--bg2)', border: '1px solid var(--border)', color: reviewIdx === 0 ? 'var(--text2)' : 'var(--text)', opacity: reviewIdx === 0 ? 0.5 : 1 }}>
+          ← Previous
+        </button>
+        <button onClick={() => setReviewIdx(i => Math.min(questions.length - 1, i + 1))} disabled={reviewIdx === questions.length - 1}
+          className="flex-1 py-2.5 rounded-xl font-semibold text-sm"
+          style={{ background: 'var(--accent)', color: 'var(--accent-text)', border: 'none', opacity: reviewIdx === questions.length - 1 ? 0.5 : 1 }}>
+          Next →
+        </button>
+      </div>
     </div>
   )
 }
@@ -795,6 +814,7 @@ export default function Quiz() {
   const [showConfetti, setShowConfetti] = useState(false)
   const [vibratingOption, setVibratingOption] = useState(null)
   const [streakMilestone, setStreakMilestone] = useState(null)
+  const [showPalette, setShowPalette] = useState(false)
   const { saveResult } = useResults()
   const { toggle: toggleBookmark, isBookmarked } = useBookmarks()
   const { updateStreak } = useStreak()
@@ -901,13 +921,19 @@ export default function Quiz() {
   // Fix 6: Previous question navigation
   function handlePrev() {
     if (current === 0) return
-    const prev = current - 1
-    setCurrent(prev)
-    setSelected(answers[prev] ?? null)
-    // In practice mode, restore revealed state if already answered
-    setRevealed(isBrowse || (!isTimed && answers[prev] !== null))
+    goToQuestion(current - 1)
+  }
+
+  // Jump directly to any question (practice + browse — free navigation,
+  // same idea as the Mock exam's question palette). Not used in timed mode,
+  // which is a one-way, per-question-timer flow.
+  function goToQuestion(i) {
+    setCurrent(i)
+    setSelected(answers[i] ?? null)
+    setRevealed(isBrowse || (!isTimed && answers[i] !== null))
     setTimedOut(false)
     setTimeLeft(secsPerQ)
+    setShowPalette(false)
   }
 
   if (quizState === 'setup') return <QuizSetup onStart={handleStart} locked={isLocked} needsSignup={needsSignup} daysLeft={daysLeft} />
@@ -939,8 +965,10 @@ export default function Quiz() {
     <div className="max-w-2xl mx-auto px-4 py-6">
       <Confetti active={showConfetti} />
       {/* Header */}
-      <div className="flex items-center justify-between mb-3 text-sm" style={{ color: 'var(--text2)' }}>
-        <span>Question {current + 1} of {quizData.questions.length}</span>
+      <div className="flex items-center justify-between mb-3 text-sm sticky top-14 z-10 rounded-lg px-3 py-2"
+        style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
+        <span className="font-semibold" style={{ color: 'var(--text)' }}>Question {current + 1} of {quizData.questions.length}</span>
+        <span className="text-xs" style={{ color: 'var(--text2)' }}>{answers.filter(Boolean).length}/{quizData.questions.length} answered</span>
         <span style={{ color: 'var(--accent)' }} className="font-medium">{q.paperId}</span>
       </div>
 
@@ -985,15 +1013,21 @@ export default function Quiz() {
         {opts.map(([letter, text]) => {
           const isSelected = selected === letter
           const isCorrect = q.correctAnswer && letter === q.correctAnswer
+          const showFeedback = revealed || (isTimed && selected !== null) || timedOut
           let style = {}
-          if (revealed || (isTimed && selected !== null)) {
-            // Border-only feedback — both practice (after Check) and timed (after selection)
-            if (isCorrect) style = { background: 'var(--surface)', color: 'var(--text)', borderColor: '#16a34a', borderWidth: '3px' }
-            else if (isSelected && !isCorrect) style = { background: 'var(--surface)', color: 'var(--text)', borderColor: '#dc2626', borderWidth: '3px' }
-            else style = { background: 'var(--bg2)', color: 'var(--text2)', borderColor: 'var(--border)' }
-          } else if (timedOut) {
-            if (isCorrect) style = { background: 'var(--surface)', color: 'var(--text)', borderColor: '#16a34a', borderWidth: '3px' }
-            else style = { background: 'var(--surface)', color: 'var(--text2)', borderColor: 'var(--border)' }
+          let icon = null
+          if (showFeedback) {
+            // Tinted background + colored border — same palette as the Mock exam review:
+            // green for correct, red for the option the person picked wrong.
+            if (isCorrect) {
+              style = { background: 'rgba(34,197,94,0.12)', color: 'var(--text)', borderColor: 'var(--accent-green)' }
+              icon = <span className="ml-auto shrink-0" style={{ color: 'var(--accent-green)' }}>✓</span>
+            } else if (isSelected && !isCorrect) {
+              style = { background: 'rgba(239,68,68,0.12)', color: 'var(--text)', borderColor: '#ef4444' }
+              icon = <span className="ml-auto shrink-0" style={{ color: '#ef4444' }}>✗</span>
+            } else {
+              style = { background: 'var(--bg2)', color: 'var(--text2)', borderColor: 'var(--border)' }
+            }
           } else {
             style = isSelected
               ? { background: 'var(--bg2)', color: 'var(--text)', borderColor: 'var(--accent)' }
@@ -1003,71 +1037,112 @@ export default function Quiz() {
             <button key={letter}
               onClick={() => handleSelect(letter)}
               disabled={revealed || (isTimed && selected !== null) || timedOut || isBrowse}
-              className={`w-full text-left px-4 py-3 rounded-xl text-sm border-2 transition-all${vibratingOption === letter ? ' vibrate' : ''}`}
+              className={`w-full text-left px-4 py-3 rounded-xl text-sm border-2 transition-all flex items-center gap-2${vibratingOption === letter ? ' vibrate' : ''}`}
               style={style}>
-              <span className="font-semibold mr-2">({letter})</span>{text}
+              <span className="font-semibold shrink-0">({letter})</span><span>{text}</span>{icon}
             </button>
           )
         })}
       </div>
 
       {/* Fix 4: Action buttons — single instance, no duplicate */}
-      {/* Browse mode: just Prev + Next */}
+      {/* Browse mode: Prev / jump grid / Next */}
       {isBrowse && (
-        <div className="flex gap-3 mb-4">
+        <div className="flex gap-2 mb-4">
           <button onClick={handlePrev} disabled={current === 0}
-            className="py-2.5 px-4 rounded-xl text-sm font-medium"
-            style={{ background: 'var(--bg2)', color: 'var(--text)', border: '1px solid var(--border)', opacity: current === 0 ? 0.4 : 1 }}>
-            ← Prev
+            className="flex-1 py-2.5 rounded-xl text-sm font-semibold"
+            style={{ background: 'var(--bg2)', border: '1px solid var(--border)', color: current === 0 ? 'var(--text2)' : 'var(--text)', opacity: current === 0 ? 0.5 : 1 }}>
+            ← Previous
+          </button>
+          <button onClick={() => setShowPalette(p => !p)}
+            className="rounded-xl px-4 py-2.5 text-sm font-semibold"
+            style={{ background: showPalette ? 'var(--accent)' : 'var(--bg2)', border: '1px solid ' + (showPalette ? 'var(--accent)' : 'var(--border)'), color: showPalette ? 'var(--accent-text)' : 'var(--text)' }}>
+            ⊞
           </button>
           <button onClick={handleNext} disabled={isLastQ}
             className="flex-1 py-2.5 rounded-xl font-semibold text-sm"
-            style={{ background: 'var(--accent)', color: 'var(--accent-text)', opacity: isLastQ ? 0.4 : 1 }}>
+            style={{ background: 'var(--accent)', color: 'var(--accent-text)', border: 'none', opacity: isLastQ ? 0.5 : 1 }}>
             Next →
           </button>
         </div>
       )}
 
-      {/* Timed mode buttons */}
+      {/* Timed mode buttons — sequential only, no free jump (per-question timer) */}
       {isTimed && (
-        <div className="flex gap-3 mb-4">
+        <div className="flex gap-2 mb-4">
           {!timedCanAdvance && (
             <button onClick={handleNext}
-              className="py-2.5 px-4 rounded-xl text-sm"
+              className="flex-1 py-2.5 rounded-xl text-sm font-semibold"
               style={{ background: 'var(--bg2)', color: 'var(--text2)', border: '1px solid var(--border)' }}>
               Skip
             </button>
           )}
           {timedCanAdvance && (
             <button onClick={handleNext} className="flex-1 py-2.5 rounded-xl font-semibold text-sm"
-              style={{ background: 'var(--accent)', color: 'var(--accent-text)' }}>
+              style={{ background: 'var(--accent)', color: 'var(--accent-text)', border: 'none' }}>
               {isLastQ ? 'See Results' : 'Next →'}
             </button>
           )}
         </div>
       )}
 
-      {/* Practice mode: pre-reveal buttons */}
-      {!isTimed && !isBrowse && !revealed && (
-        <div className="flex gap-3 mb-4">
-          {current > 0 && (
-            <button onClick={handlePrev}
-              className="py-2.5 px-4 rounded-xl text-sm"
-              style={{ background: 'var(--bg2)', color: 'var(--text2)', border: '1px solid var(--border)' }}>
-              ← Prev
-            </button>
-          )}
-          {selected && (
-            <button onClick={handleCheck} className="flex-1 py-2.5 rounded-xl font-semibold text-sm"
-              style={{ background: 'var(--accent)', color: 'var(--accent-text)' }}>
-              Check Answer
-            </button>
-          )}
-          <button onClick={handleNext}
-            className="py-2.5 px-4 rounded-xl text-sm"
-            style={{ background: 'var(--bg2)', color: 'var(--text2)', border: '1px solid var(--border)' }}>
-            Skip
+      {/* Practice mode: Prev / jump grid / Check-Skip-Next, same layout throughout */}
+      {!isTimed && !isBrowse && (
+        <div className="flex gap-2 mb-4">
+          <button onClick={handlePrev} disabled={current === 0}
+            className="flex-1 py-2.5 rounded-xl text-sm font-semibold"
+            style={{ background: 'var(--bg2)', border: '1px solid var(--border)', color: current === 0 ? 'var(--text2)' : 'var(--text)', opacity: current === 0 ? 0.5 : 1 }}>
+            ← Previous
           </button>
+          <button onClick={() => setShowPalette(p => !p)}
+            className="rounded-xl px-4 py-2.5 text-sm font-semibold"
+            style={{ background: showPalette ? 'var(--accent)' : 'var(--bg2)', border: '1px solid ' + (showPalette ? 'var(--accent)' : 'var(--border)'), color: showPalette ? 'var(--accent-text)' : 'var(--text)' }}>
+            ⊞
+          </button>
+          {!revealed ? (
+            selected ? (
+              <button onClick={handleCheck} className="flex-1 py-2.5 rounded-xl font-semibold text-sm"
+                style={{ background: 'var(--accent)', color: 'var(--accent-text)', border: 'none' }}>
+                Check Answer
+              </button>
+            ) : (
+              <button onClick={handleNext} className="flex-1 py-2.5 rounded-xl text-sm font-semibold"
+                style={{ background: 'var(--bg2)', color: 'var(--text2)', border: '1px solid var(--border)' }}>
+                Skip
+              </button>
+            )
+          ) : (
+            <button onClick={handleNext} className="flex-1 py-2.5 rounded-xl font-semibold text-sm"
+              style={{ background: 'var(--accent)', color: 'var(--accent-text)', border: 'none' }}>
+              {isLastQ ? 'See Results' : 'Next →'}
+            </button>
+          )}
+        </div>
+      )}
+
+      {/* Question palette — jump to any question, same idea as the Mock exam grid */}
+      {showPalette && !isTimed && (
+        <div className="card rounded-xl p-3 mb-4">
+          <div className="text-xs mb-2 flex gap-4 flex-wrap" style={{ color: 'var(--text2)' }}>
+            <span><span style={{ color: 'var(--accent)' }}>●</span> answered</span>
+            <span><span style={{ color: 'var(--text2)' }}>○</span> not answered</span>
+          </div>
+          <div className="grid gap-1.5" style={{ gridTemplateColumns: 'repeat(8, minmax(0, 1fr))' }}>
+            {quizData.questions.map((_, i) => {
+              const isAns = answers[i] != null
+              return (
+                <button key={i} onClick={() => goToQuestion(i)}
+                  className="rounded text-xs py-1.5 font-semibold"
+                  style={{
+                    background: i === current ? 'var(--accent)' : isAns ? 'rgba(26,157,142,0.2)' : 'var(--bg2)',
+                    color: i === current ? 'var(--accent-text)' : isAns ? 'var(--accent)' : 'var(--text2)',
+                    border: '1px solid ' + (isAns ? 'var(--accent)' : 'var(--border)'),
+                  }}>
+                  {i + 1}
+                </button>
+              )
+            })}
+          </div>
         </div>
       )}
 
@@ -1080,25 +1155,8 @@ export default function Quiz() {
 
       {/* Timed out message */}
       {timedOut && (
-        <div className="mb-4 p-3 rounded-xl text-sm text-center" style={{ background: '#fef2f2', color: '#dc2626' }}>
+        <div className="mb-4 p-3 rounded-xl text-sm text-center" style={{ background: 'rgba(239,68,68,0.12)', color: '#ef4444' }}>
           ⏰ Time's up!
-        </div>
-      )}
-
-      {/* Practice mode: post-reveal Next button (single instance — Fix 4) */}
-      {!isTimed && !isBrowse && revealed && (
-        <div className="flex gap-3">
-          {current > 0 && (
-            <button onClick={handlePrev}
-              className="py-2.5 px-4 rounded-xl text-sm"
-              style={{ background: 'var(--bg2)', color: 'var(--text2)', border: '1px solid var(--border)' }}>
-              ← Prev
-            </button>
-          )}
-          <button onClick={handleNext} className="flex-1 py-2.5 rounded-xl font-semibold text-sm"
-            style={{ background: 'var(--accent)', color: 'var(--accent-text)' }}>
-            {isLastQ ? 'See Results' : 'Next →'}
-          </button>
         </div>
       )}
     </div>
