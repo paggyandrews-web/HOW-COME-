@@ -36,7 +36,7 @@ export default function Dropdown({ value, onChange, options, placeholder, classN
           style={{
             position: 'fixed',
             inset: 0,
-            background: 'rgba(0,0,0,0.65)',
+            background: 'rgba(0,0,0,0.97)',
             zIndex: 200,
             display: 'flex',
             alignItems: 'center',
