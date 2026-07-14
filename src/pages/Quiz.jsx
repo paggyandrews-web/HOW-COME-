@@ -464,7 +464,7 @@ function QuizSetup({ onStart, locked, needsSignup, daysLeft }) {
             onChange={v => { setTopicId(v); setPaperId(''); setYear('') }}
             placeholder="Topic"
             options={[
-              { value: '', label: 'Topic' },
+              { value: '', label: 'All Topics' },
               ...allTopics.map(([t, c]) => ({ value: t, label: `${t} (${c})` })),
             ]}
           />
@@ -473,7 +473,7 @@ function QuizSetup({ onStart, locked, needsSignup, daysLeft }) {
             onChange={v => { setYear(v); setPaperId(''); setTopicId('') }}
             placeholder="Year"
             options={[
-              { value: '', label: 'Year' },
+              { value: '', label: 'All Years' },
               ...years.map(y => ({ value: y, label: y })),
             ]}
           />
@@ -482,7 +482,7 @@ function QuizSetup({ onStart, locked, needsSignup, daysLeft }) {
             onChange={v => { setPaperId(v); setTopicId('') }}
             placeholder="Paper"
             options={[
-              { value: '', label: 'Paper' },
+              { value: '', label: 'All Papers' },
               ...filteredPapers.map(p => ({
                 value: p.id,
                 label: `${p.post || p.id} (${p.year})${p.paperCode ? ` · ${p.paperCode}` : ''}`,
