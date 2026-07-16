@@ -304,21 +304,23 @@ export default function Home() {
 
           {/* Stats row */}
           <div className="flex gap-3 mb-4">
-            <div className="flex-1 rounded-xl px-3 py-2.5" style={{ background: 'rgba(26,157,142,0.12)', border: '1px solid rgba(26,157,142,0.25)' }}>
-              <div className="font-black text-xl leading-none" style={{ color: 'var(--accent)' }}>{papers.length}</div>
-              <div className="text-xs mt-0.5" style={{ color: 'rgba(255,255,255,0.5)' }}>Question Papers</div>
+            <div className="flex-1 rounded-xl px-3 py-3 text-center" style={{ background: 'rgba(26,157,142,0.12)', border: '1px solid rgba(26,157,142,0.25)' }}>
+              <div className="font-black text-4xl leading-none" style={{ color: 'var(--accent)' }}>{papers.length}</div>
+              <div className="text-xs mt-1.5" style={{ color: 'rgba(255,255,255,0.5)' }}>Question Papers</div>
             </div>
-            <div className="flex-1 rounded-xl px-3 py-2.5" style={{ background: 'rgba(26,157,142,0.12)', border: '1px solid rgba(26,157,142,0.25)' }}>
-              <div className="font-black text-xl leading-none" style={{ color: 'var(--accent)' }}>{questionCount ?? '—'}</div>
-              <div className="text-xs mt-0.5" style={{ color: 'rgba(255,255,255,0.5)' }}>Total Questions</div>
+            <div className="flex-1 rounded-xl px-3 py-3 text-center" style={{ background: 'rgba(26,157,142,0.12)', border: '1px solid rgba(26,157,142,0.25)' }}>
+              <div className="font-black text-4xl leading-none" style={{ color: 'var(--accent)' }}>{questionCount ?? '—'}</div>
+              <div className="text-xs mt-1.5" style={{ color: 'rgba(255,255,255,0.5)' }}>Total Questions</div>
             </div>
           </div>
 
-          <Link to="/quiz"
-            className="inline-flex items-center gap-1 px-5 py-2.5 rounded-xl font-bold text-sm"
-            style={{ background: 'var(--accent)', color: '#fff' }}>
-            Start Quiz →
-          </Link>
+          <div className="flex justify-center">
+            <Link to="/quiz"
+              className="inline-flex items-center gap-1 px-5 py-2.5 rounded-xl font-bold text-sm"
+              style={{ background: 'var(--accent)', color: '#fff' }}>
+              Start Quiz →
+            </Link>
+          </div>
         </div>
       </div>
 
