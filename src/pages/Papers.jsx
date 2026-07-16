@@ -11,7 +11,7 @@ function testYear(p) {
     const m = String(p.date).match(/(\d{4})/)
     if (m) return m[1]
   }
-  return p.year
+  return p.year != null ? String(p.year) : p.year
 }
 
 const YEARS = [...new Set(papers.map(testYear))].filter(Boolean).sort().reverse()
