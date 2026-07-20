@@ -5,6 +5,7 @@ import papers from '../data/papers.json'
 import exams from '../data/exams.json'
 import FlipClock from '../components/FlipClock'
 import { useStreak } from '../hooks/useStreak'
+import { formatExamMode } from '../utils/examMode'
 
 const MAX_PINS = 5
 
@@ -218,7 +219,11 @@ function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
         </div>
         <div>
           <span style={{ color: 'var(--text2)' }}>Mode: </span>
-          <span className="font-medium">{exam.mode}</span>
+          <span className="font-medium">{formatExamMode(exam.mode).label}</span>
+          {!formatExamMode(exam.mode).confirmed && (
+            <span title={formatExamMode(exam.mode).note}
+              style={{ color: 'var(--text2)', marginLeft: 4, cursor: 'help' }}>*</span>
+          )}
         </div>
         <div>
           <span style={{ color: 'var(--text2)' }}>Scope: </span>

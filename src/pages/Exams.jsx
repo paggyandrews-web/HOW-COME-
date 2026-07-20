@@ -3,6 +3,7 @@ import { useLocation } from 'react-router-dom'
 import exams from '../data/exams.json'
 import FlipClock from '../components/FlipClock'
 import { useAuth } from '../contexts/AuthContext'
+import { formatExamMode } from '../utils/examMode'
 
 function formatTime12h(timeStr) {
   if (!timeStr) return timeStr
@@ -154,7 +155,11 @@ function ExamRow({ exam, mode, saved, onSave, onRequestRemove, savedCount, highl
             </div>
             <div>
               <span style={{ color: 'var(--text2)' }}>Mode: </span>
-              <span className="font-medium">{exam.mode}</span>
+              <span className="font-medium">{formatExamMode(exam.mode).label}</span>
+              {!formatExamMode(exam.mode).confirmed && (
+                <span title={formatExamMode(exam.mode).note}
+                  style={{ color: 'var(--text2)', marginLeft: 4, cursor: 'help' }}>*</span>
+              )}
             </div>
             <div>
               <span style={{ color: 'var(--text2)' }}>Scope: </span>
@@ -207,7 +212,12 @@ function ExamRow({ exam, mode, saved, onSave, onRequestRemove, savedCount, highl
             {exam.mode && (
               <div>
                 <span style={{ color: 'var(--text2)' }}>Mode: </span>
-                <span className="font-medium">{exam.mode}</span>
+                <span className="font-medium">{formatExamMode(exam.mode).label}</span>
+              </div>
+            )}
+            {exam.mode && !formatExamMode(exam.mode).confirmed && (
+              <div className="col-span-2 text-xs" style={{ color: 'var(--text2)', opacity: 0.85 }}>
+                ⓘ {formatExamMode(exam.mode).note}
               </div>
             )}
             {exam.candidates && (
@@ -312,9 +322,11 @@ export default function Exams() {
     const q = query.toLowerCase()
     return currentList
       .filter(e => {
+        // Saved exams render in their own section above — never here, or a
+        // hash-targeted saved exam would appear twice.
+        if (!isConfirmTab && saved.includes(e.id)) return false
         // Always include the hash-targeted exam so it can be scrolled to
         if (e.id === hashId) return true
-        if (!isConfirmTab && saved.includes(e.id)) return false
         const past = new Date(e[dateField]) < today
         if (!showPast && past) return false
         if (!q) return true
@@ -329,6 +341,20 @@ export default function Exams() {
   }, [query, showPast, hashId, activeTab])
 
   const savedExams = examCalendar.filter(e => saved.includes(e.id))
+
+  // Saved exams respect the same search box as the main list, but are NOT
+  // hidden by the past filter — a saved exam should never silently disappear.
+  const savedShown = useMemo(() => {
+    const q = query.toLowerCase()
+    return savedExams
+      .filter(e => !q || (
+        e.name.toLowerCase().includes(q) ||
+        e.catNo.toLowerCase().includes(q) ||
+        e.dept.toLowerCase().includes(q) ||
+        (e.scope || '').toLowerCase().includes(q)
+      ))
+      .sort((a, b) => new Date(a.date) - new Date(b.date))
+  }, [query, saved])
   const upcomingExams = examCalendar.filter(e => new Date(e.date) >= today)
   const upcomingConfirms = confirmCalendar.filter(e => new Date(e.confirmBy) >= today)
 
@@ -432,6 +458,33 @@ export default function Exams() {
           </>
         )}
       </div>
+
+      {/* Saved exams — excluded from `filtered` above (line ~317) so they don't
+          appear twice, so they must be rendered here or they vanish entirely. */}
+      {!isConfirmTab && savedShown.length > 0 && (
+        <div className="mb-5">
+          <div className="flex items-center gap-2 mb-3">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="var(--accent)">
+              <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>
+            </svg>
+            <h2 className="font-bold text-sm">Saved ({savedShown.length})</h2>
+          </div>
+          <div className="space-y-3">
+            {savedShown.map(e => (
+              <ExamRow
+                key={e.id}
+                exam={e}
+                mode={activeTab}
+                saved={true}
+                onSave={pinExam}
+                onRequestRemove={setRemoveTarget}
+                savedCount={savedExams.length}
+                highlighted={highlightId === e.id}
+              />
+            ))}
+          </div>
+        </div>
+      )}
 
       {/* List */}
       <div className="space-y-3">
