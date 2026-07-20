@@ -2,6 +2,8 @@ import { useState, useEffect, useMemo, useRef, useCallback } from 'react'
 import { Link } from 'react-router-dom'
 import modelPapers from '../data/modelPapers.json'
 import modelQuestions from '../data/modelQuestions.json'
+import { useAuth } from '../contexts/AuthContext'
+import { canAccessMock } from '../utils/entitlements'
 
 const NEGATIVE_MARK = 1 / 3
 
@@ -61,6 +63,8 @@ function fmtClock(secs) {
 
 /* ── Paper list ─────────────────────────────────────────────────────── */
 function PaperList({ onStart }) {
+  const { profile } = useAuth()
+  const mockAllowed = canAccessMock(profile)
   const counts = useMemo(() => {
     const map = {}
     modelQuestions.forEach(q => { map[q.paperId] = (map[q.paperId] || 0) + 1 })
@@ -87,14 +91,31 @@ function PaperList({ onStart }) {
               )}
             </div>
             <button
-              onClick={() => onStart(p)}
-              className="rounded-lg px-4 py-2 text-sm font-semibold cursor-pointer"
-              style={{ background: 'var(--accent)', color: 'var(--accent-text)', border: 'none' }}>
-              Start Exam
+              onClick={() => mockAllowed && onStart(p)}
+              disabled={!mockAllowed}
+              title={mockAllowed ? undefined : 'Mock exams are not included in Pack 100'}
+              className="rounded-lg px-4 py-2 text-sm font-semibold"
+              style={{
+                background: mockAllowed ? 'var(--accent)' : 'var(--bg2)',
+                color: mockAllowed ? 'var(--accent-text)' : 'var(--text2)',
+                border: mockAllowed ? 'none' : '1px solid var(--border)',
+                cursor: mockAllowed ? 'pointer' : 'not-allowed',
+              }}>
+              {mockAllowed ? 'Start Exam' : '🔒 Locked'}
             </button>
           </div>
         </div>
       ))}
+      {!mockAllowed && (
+        <div className="rounded-xl p-4 mb-4 text-sm leading-relaxed"
+          style={{ background: 'rgba(26,157,142,0.08)', border: '1px solid rgba(26,157,142,0.3)' }}>
+          <div className="font-semibold mb-1">Mock exams need full access</div>
+          <div className="text-xs" style={{ color: 'var(--text2)' }}>
+            Your Pack 100 covers the 100 previous question papers. Mock exams are a separate add-on.
+            {' '}<Link to="/papers" style={{ color: 'var(--accent)' }}>Browse your papers →</Link>
+          </div>
+        </div>
+      )}
       <div className="text-xs mt-6 leading-relaxed" style={{ color: 'var(--text2)' }}>
         These are model papers generated in the PSC pattern — not previous question papers.
         For real previous papers, visit the <Link to="/papers" style={{ color: 'var(--accent)' }}>Papers</Link> section.
