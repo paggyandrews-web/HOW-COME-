@@ -922,11 +922,10 @@ export default function Quiz() {
       window.scrollTo({ top: 0, behavior: 'smooth' })
       return
     }
-    setCurrent(i => i + 1)
-    setSelected(answers[current + 1] ?? null)
-    setRevealed(false)
-    setTimeLeft(secsPerQ)
-    setTimedOut(false)
+    // Use the same restore logic as backward navigation. Previously this reset
+    // `revealed` to false unconditionally, so returning forward to an already
+    // answered question re-rendered it as unattended.
+    goToQuestion(current + 1)
   }
 
   // Fix 6: Previous question navigation

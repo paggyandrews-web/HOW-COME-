@@ -68,6 +68,14 @@
   --come-color: #96325f;
 }
 
+/* Disable pull-to-refresh (and the rubber-band overscroll glow) on mobile.
+   `contain` rather than `none`: it stops the gesture from reaching the browser
+   chrome, but still allows normal scrolling inside the page and nested
+   scrollable areas like the Dropdown bottom-sheet. */
+html, body {
+  overscroll-behavior-y: contain;
+}
+
 body {
   background-color: var(--bg);
   color: var(--text);
