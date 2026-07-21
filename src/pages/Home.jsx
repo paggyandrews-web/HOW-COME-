@@ -173,8 +173,9 @@ function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
   return (
     <div className="card rounded-xl p-4"
       style={{
-        opacity: isPast ? 0.55 : 1,
-        borderLeft: saved ? '4px solid var(--accent)' : '4px solid transparent',
+        opacity: exam.cancelled ? 0.5 : isPast ? 0.55 : 1,
+        borderLeft: exam.cancelled ? '4px solid #ef4444'
+          : saved ? '4px solid var(--accent)' : '4px solid transparent',
         transition: 'border-color 0.3s ease',
       }}>
 
@@ -184,7 +185,14 @@ function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
           <div className="text-xs font-bold mb-0.5" style={{ color: 'var(--accent)' }}>
             Sl.{exam.slNo} · {exam.catNo}
           </div>
-          <div className="font-semibold text-sm leading-snug">{exam.name}</div>
+          {exam.cancelled && (
+            <div className="inline-block text-xs font-bold px-2 py-0.5 rounded mb-1"
+              style={{ background: 'rgba(239,68,68,0.15)', color: '#ef4444', border: '1px solid rgba(239,68,68,0.4)' }}>
+              CANCELLED
+            </div>
+          )}
+          <div className="font-semibold text-sm leading-snug"
+            style={{ textDecoration: exam.cancelled ? 'line-through' : 'none' }}>{exam.name}</div>
           {exam.dept && (
             <div className="text-xs mt-0.5" style={{ color: 'var(--text2)' }}>{exam.dept}</div>
           )}
@@ -248,9 +256,13 @@ function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
       {/* Countdown */}
       <div className="flex items-center justify-between flex-wrap gap-2">
         <div className="text-xs" style={{ color: 'var(--text2)' }}>
-          {isPast ? 'Completed' : 'Time remaining'}
+          {exam.cancelled ? <span style={{ color: '#ef4444' }}>This exam will not be held</span>
+            : isPast ? 'Completed' : 'Time remaining'}
         </div>
-        {!isPast
+        {exam.cancelled
+          ? <span className="text-xs px-2 py-1 rounded font-semibold"
+              style={{ background: 'rgba(239,68,68,0.15)', color: '#ef4444' }}>Cancelled</span>
+          : !isPast
           ? <FlipClock dateStr={exam.date} timeStr={exam.time} compact />
           : <span className="text-xs px-2 py-1 rounded font-medium"
               style={{ background: 'var(--bg2)', color: 'var(--text2)' }}>Exam over</span>
@@ -283,7 +295,7 @@ export default function Home() {
 
   const now         = new Date()
   const today       = new Date(now.toDateString())
-  const upcoming    = exams.filter(e => new Date(e.date) >= today).sort((a, b) => new Date(a.date) - new Date(b.date))
+  const upcoming    = exams.filter(e => !e.cancelled && new Date(e.date) >= today).sort((a, b) => new Date(a.date) - new Date(b.date))
   const pinnedExams = exams.filter(e => pinnedIds.includes(e.id)).slice(0, 5)
   const removeExamData = removeTarget ? exams.find(e => e.id === removeTarget) : null
 

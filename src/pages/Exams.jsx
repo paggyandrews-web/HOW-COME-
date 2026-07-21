@@ -98,8 +98,9 @@ function ExamRow({ exam, mode, saved, onSave, onRequestRemove, savedCount, highl
   return (
     <div id={exam.id} className="card rounded-xl p-4"
       style={{
-        opacity: isPast ? 0.55 : 1,
-        borderLeft: saved ? `4px solid ${accent}` : highlighted ? `4px solid ${accent}` : '4px solid transparent',
+        opacity: exam.cancelled ? 0.5 : isPast ? 0.55 : 1,
+        borderLeft: exam.cancelled ? '4px solid #ef4444'
+          : saved ? `4px solid ${accent}` : highlighted ? `4px solid ${accent}` : '4px solid transparent',
         transition: 'border-color 0.3s ease, box-shadow 0.3s ease',
         boxShadow: highlighted ? `0 0 0 2px ${accent}` : undefined,
       }}>
@@ -109,8 +110,18 @@ function ExamRow({ exam, mode, saved, onSave, onRequestRemove, savedCount, highl
           <div className="text-xs font-bold mb-0.5" style={{ color: accent }}>
             Sl. {exam.slNo} · {exam.catNo}
           </div>
-          <div className="font-semibold text-sm leading-snug mb-0.5">{exam.name}</div>
+          {exam.cancelled && (
+            <div className="inline-block text-xs font-bold px-2 py-0.5 rounded mb-1"
+              style={{ background: 'rgba(239,68,68,0.15)', color: '#ef4444', border: '1px solid rgba(239,68,68,0.4)' }}>
+              CANCELLED
+            </div>
+          )}
+          <div className="font-semibold text-sm leading-snug mb-0.5"
+            style={{ textDecoration: exam.cancelled ? 'line-through' : 'none' }}>{exam.name}</div>
           <div className="text-xs" style={{ color: 'var(--text2)' }}>{exam.dept}</div>
+          {exam.cancelled && exam.cancelledNote && (
+            <div className="text-xs mt-1" style={{ color: '#ef4444' }}>{exam.cancelledNote}</div>
+          )}
         </div>
         {!isConfirm && (
           <button
@@ -233,7 +244,9 @@ function ExamRow({ exam, mode, saved, onSave, onRequestRemove, savedCount, highl
       {/* Countdown */}
       <div className="flex items-center justify-between flex-wrap gap-2">
         <div className="text-xs">
-          {isPast ? (
+          {exam.cancelled ? (
+            <span style={{ color: '#ef4444' }}>This exam will not be held</span>
+          ) : isPast ? (
             <span style={{ color: 'var(--text2)' }}>{isConfirm ? 'Confirmation closed' : 'Completed'}</span>
           ) : isConfirm ? (
             <span className="font-bold px-2.5 py-1.5 rounded-full"
@@ -244,7 +257,10 @@ function ExamRow({ exam, mode, saved, onSave, onRequestRemove, savedCount, highl
             <span style={{ color: 'var(--text2)' }}>Time remaining</span>
           )}
         </div>
-        {!isPast
+        {exam.cancelled
+          ? <span className="text-xs px-2 py-1 rounded font-semibold"
+              style={{ background: 'rgba(239,68,68,0.15)', color: '#ef4444' }}>Cancelled</span>
+          : !isPast
           ? <FlipClock dateStr={refDateStr} timeStr={refTimeStr} compact color={accent}
               overLabel={isConfirm ? 'Confirmation Closed' : 'Exam Day / Over'} />
           : <span className="text-xs px-2 py-1 rounded" style={{ background: 'var(--bg2)', color: 'var(--text2)' }}>
@@ -355,7 +371,8 @@ export default function Exams() {
       ))
       .sort((a, b) => new Date(a.date) - new Date(b.date))
   }, [query, saved])
-  const upcomingExams = examCalendar.filter(e => new Date(e.date) >= today)
+  // A cancelled exam is not "upcoming" — it must never be counted or counted down to.
+  const upcomingExams = examCalendar.filter(e => !e.cancelled && new Date(e.date) >= today)
   const upcomingConfirms = confirmCalendar.filter(e => new Date(e.confirmBy) >= today)
 
   const removeExamData = removeTarget ? exams.find(e => e.id === removeTarget) : null
