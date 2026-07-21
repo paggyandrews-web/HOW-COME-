@@ -63,11 +63,17 @@ function fmtClock(secs) {
 
 /* ── Paper list ─────────────────────────────────────────────────────── */
 function PaperList({ onStart }) {
-  const { profile } = useAuth()
-  const mockAllowed = canAccessMock(profile)
+  const { user, profile } = useAuth()
+  const needsSignup = !user
+  // Mock exams require an account, on top of the plan entitlement.
+  const mockAllowed = !needsSignup && canAccessMock(profile)
   const counts = useMemo(() => {
     const map = {}
     modelQuestions.forEach(q => { map[q.paperId] = (map[q.paperId] || 0) + 1 })
+    // Respect each paper's cap so the list count matches the exam length.
+    modelPapers.forEach(p => {
+      if (p.questionCount) map[p.id] = Math.min(map[p.id] || 0, p.questionCount)
+    })
     return map
   }, [])
 
@@ -75,8 +81,27 @@ function PaperList({ onStart }) {
     <div className="max-w-3xl mx-auto px-4 py-6">
       <h1 className="font-bold text-2xl mb-1">Mock Exams</h1>
       <p className="text-sm mb-5" style={{ color: 'var(--text2)' }}>
-        Full-length model papers in the real PSC exam pattern — 100 questions, 90 minutes, 1/3 negative marking.
+        Model papers in the real PSC exam pattern — 50 questions, 30 minutes, 1/3 negative marking.
       </p>
+      {needsSignup && (
+        <div className="rounded-xl p-5 mb-4 text-center"
+          style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
+          <div className="text-2xl mb-1">👋</div>
+          <div className="font-semibold text-sm mb-2">Sign up to take mock exams</div>
+          <div className="text-xs mb-3" style={{ color: 'var(--text2)' }}>
+            Mock exams are timed and your score is saved to your profile — that needs an account.
+          </div>
+          <Link to="/register"
+            className="inline-block w-full py-2.5 rounded-xl font-semibold text-sm"
+            style={{ background: 'var(--accent)', color: 'var(--accent-text)', textDecoration: 'none' }}>
+            Sign Up Free →
+          </Link>
+          <div className="text-xs mt-2">
+            <Link to="/login" style={{ color: 'var(--accent)' }}>Already have an account? Log in</Link>
+          </div>
+        </div>
+      )}
+
       {modelPapers.map(p => (
         <div key={p.id} className="rounded-xl p-4 mb-4"
           style={{ background: 'var(--card)', border: '1px solid var(--border)' }}>
@@ -93,7 +118,7 @@ function PaperList({ onStart }) {
             <button
               onClick={() => mockAllowed && onStart(p)}
               disabled={!mockAllowed}
-              title={mockAllowed ? undefined : 'Mock exams are not included in Pack 100'}
+              title={mockAllowed ? undefined : needsSignup ? 'Sign up to take mock exams' : 'Mock exams are not included in Pack 100'}
               className="rounded-lg px-4 py-2 text-sm font-semibold"
               style={{
                 background: mockAllowed ? 'var(--accent)' : 'var(--bg2)',
@@ -101,12 +126,12 @@ function PaperList({ onStart }) {
                 border: mockAllowed ? 'none' : '1px solid var(--border)',
                 cursor: mockAllowed ? 'pointer' : 'not-allowed',
               }}>
-              {mockAllowed ? 'Start Exam' : '🔒 Locked'}
+              {mockAllowed ? 'Start Exam' : needsSignup ? '🔒 Sign up' : '🔒 Locked'}
             </button>
           </div>
         </div>
       ))}
-      {!mockAllowed && (
+      {!mockAllowed && !needsSignup && (
         <div className="rounded-xl p-4 mb-4 text-sm leading-relaxed"
           style={{ background: 'rgba(26,157,142,0.08)', border: '1px solid rgba(26,157,142,0.3)' }}>
           <div className="font-semibold mb-1">Mock exams need full access</div>
@@ -447,9 +472,12 @@ export default function Mock() {
 
   const questions = useMemo(() => {
     if (!paper) return []
-    return modelQuestions
+    const all = modelQuestions
       .filter(q => q.paperId === paper.id)
       .sort((a, b) => (a.questionNumber || 0) - (b.questionNumber || 0))
+    // Capped by the paper's questionCount so the extra questions stay in the
+    // data file for future papers rather than being deleted.
+    return paper.questionCount ? all.slice(0, paper.questionCount) : all
   }, [paper])
 
   // Warn before leaving mid-exam (tab close / refresh)

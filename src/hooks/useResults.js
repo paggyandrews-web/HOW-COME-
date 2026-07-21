@@ -4,6 +4,7 @@ import { db } from '../firebase/config'
 
 const STORAGE_KEY = 'cs-quiz-results'
 const RESULTS_LIMIT = 50 // only read the most recent N quizzes (keeps Firestore reads bounded as history grows)
+const MISTAKES_LIMIT = 50 // retry pool holds only the N most recently missed questions
 
 export function useResults() {
   const { user } = useAuth()
@@ -88,17 +89,23 @@ export function useResults() {
       .sort((a, b) => a.pct - b.pct) // weakest first
   }
 
-  // Question IDs whose MOST RECENT attempt was wrong.
-  // Answering a question correctly later removes it from the mistake list.
+  // Question IDs whose MOST RECENT attempt was wrong, capped at the
+  // MISTAKES_LIMIT most recently missed. Answering a question correctly later
+  // still removes it from the list; the cap only stops the retry pool growing
+  // without bound, so old mistakes don't crowd out what you just got wrong.
   function getMistakeIds(results) {
     const lastOutcome = {}
     const sorted = [...results].sort((a, b) => (a.date || '').localeCompare(b.date || ''))
     sorted.forEach(result => {
       (result.answers || []).forEach(({ id, correct }) => {
-        if (id) lastOutcome[id] = correct
+        if (id) lastOutcome[id] = { correct, date: result.date || '' }
       })
     })
-    return Object.keys(lastOutcome).filter(id => !lastOutcome[id])
+    return Object.entries(lastOutcome)
+      .filter(([, v]) => !v.correct)
+      .sort((a, b) => b[1].date.localeCompare(a[1].date)) // most recently missed first
+      .slice(0, MISTAKES_LIMIT)
+      .map(([id]) => id)
   }
 
   return { saveResult, getAllResults, getTopicStats, getMistakeIds }
