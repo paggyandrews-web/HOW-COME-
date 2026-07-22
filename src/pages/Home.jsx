@@ -6,6 +6,7 @@ import exams from '../data/exams.json'
 import FlipClock from '../components/FlipClock'
 import { useStreak } from '../hooks/useStreak'
 import { formatExamMode } from '../utils/examMode'
+import { isPromoActive, promoDaysLeft } from '../utils/freeTier'
 
 const MAX_PINS = 5
 
@@ -64,6 +65,53 @@ function BookIllustration() {
       <circle cx="8"   cy="78" r="1.5" fill="rgba(0,188,170,0.4)"/>
       <circle cx="144" cy="38" r="1"   fill="rgba(0,188,170,0.35)"/>
     </svg>
+  )
+}
+
+/* ── Free-period announcement ───────────────────────────────────────
+   Same visual language as the Study Streak card, one size down.
+   Auto-hides the moment the promo ends — no cleanup needed later.
+   To change the price shown, edit PRICE below.                        */
+const PRICE = '₹399'
+
+function PromoBanner() {
+  if (!isPromoActive()) return null
+  const days = promoDaysLeft()
+
+  return (
+    <div className="rounded-2xl p-3"
+      style={{
+        background: 'linear-gradient(135deg, #06201d 0%, #041a18 100%)',
+        border: '1px solid rgba(26,157,142,0.3)',
+      }}>
+      <div className="flex items-center gap-3">
+        <div style={{
+          width: 38, height: 38, borderRadius: 10, flexShrink: 0,
+          background: 'rgba(26,157,142,0.14)',
+          border: '1px solid rgba(26,157,142,0.3)',
+          display: 'flex', alignItems: 'center', justifyContent: 'center',
+          fontSize: 18,
+        }}>🎁</div>
+
+        <div style={{ flex: 1, minWidth: 0 }}>
+          <div className="font-bold text-sm" style={{ color: 'var(--accent)' }}>
+            Free for everyone until 15 August
+          </div>
+          <div className="text-xs mt-0.5" style={{ color: 'rgba(255,255,255,0.55)' }}>
+            All 100 question papers · {PRICE} one-time after that
+          </div>
+        </div>
+
+        <div style={{ textAlign: 'center', flexShrink: 0 }}>
+          <div className="font-black" style={{ fontSize: 20, lineHeight: 1, color: 'var(--accent)' }}>
+            {days}
+          </div>
+          <div className="text-xs" style={{ color: 'rgba(255,255,255,0.4)' }}>
+            {days === 1 ? 'day' : 'days'}
+          </div>
+        </div>
+      </div>
+    </div>
   )
 }
 
@@ -340,6 +388,9 @@ export default function Home() {
           </div>
         </div>
       </div>
+
+      {/* ── Free-period announcement ──────────────────────────────── */}
+      <PromoBanner />
 
       {/* ── Study Streak card ─────────────────────────────────────── */}
       {streak > 0 && (

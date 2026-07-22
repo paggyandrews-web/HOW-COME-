@@ -7,7 +7,7 @@
 // reset — the only real gate left is being logged in at all (enforced
 // separately in Quiz.jsx), since quizzes now require an account.
 
-const FREE_UNTIL = new Date('2026-08-01T00:00:00+05:30').getTime() // end of 31 July 2026, IST
+const FREE_UNTIL = new Date('2026-08-16T00:00:00+05:30').getTime() // end of 15 August 2026, IST
 
 export function isPromoActive() {
   return Date.now() < FREE_UNTIL
