@@ -83,7 +83,7 @@ function PromoBanner({ questionCount, paperCount }) {
         background: 'linear-gradient(135deg, #06201d 0%, #041a18 100%)',
         border: '1px solid rgba(26,157,142,0.3)',
       }}>
-      <div className="flex items-center gap-3 mb-2">
+      <div className="flex items-start gap-3">
         <div style={{
           width: 38, height: 38, borderRadius: 10, flexShrink: 0,
           background: 'rgba(26,157,142,0.14)',
@@ -92,24 +92,27 @@ function PromoBanner({ questionCount, paperCount }) {
           fontSize: 18,
         }}>🎁</div>
 
+        {/* Left: headline on top, counts below */}
         <div style={{ flex: 1, minWidth: 0 }}>
           <div className="font-bold text-sm" style={{ color: 'var(--accent)' }}>
             Free to use until {promoEndLabel()}
           </div>
-          <div className="text-xs mt-0.5" style={{ color: 'rgba(255,255,255,0.55)' }}>
+          <div className="text-xs" style={{ color: 'rgba(255,255,255,0.55)', marginTop: 10 }}>
             {questionCount != null ? questionCount.toLocaleString('en-IN') : '—'} questions
             {' · '}{paperCount} question papers
           </div>
         </div>
-      </div>
 
-      {/* Live countdown — same clock the exam cards use */}
-      <div className="flex items-center justify-between gap-2">
-        <div className="text-xs" style={{ color: 'rgba(255,255,255,0.4)' }}>
-          Time left
+        {/* Right: label sits level with the headline, clock level with the counts */}
+        <div style={{ flexShrink: 0, textAlign: 'right' }}>
+          <div className="text-xs" style={{ color: 'rgba(255,255,255,0.4)' }}>
+            Time left
+          </div>
+          <div style={{ marginTop: 6 }}>
+            <FlipClock dateStr={dateStr} timeStr={timeStr} compact
+              overLabel="Free period over" />
+          </div>
         </div>
-        <FlipClock dateStr={dateStr} timeStr={timeStr} compact
-          overLabel="Free period over" />
       </div>
     </div>
   )
