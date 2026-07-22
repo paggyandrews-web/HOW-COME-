@@ -71,10 +71,9 @@ function BookIllustration() {
 /* ── Free-period announcement ───────────────────────────────────────
    Same visual language as the Study Streak card, one size down.
    Auto-hides the moment the promo ends — no cleanup needed later.
-   To change the price shown, edit PRICE below.                        */
-const PRICE = '₹399'
-
-function PromoBanner() {
+   Counts are read from the data files, so they rise on their own each
+   time a paper is added. No price is named here, deliberately.        */
+function PromoBanner({ questionCount, paperCount }) {
   if (!isPromoActive()) return null
   const days = promoDaysLeft()
 
@@ -95,10 +94,11 @@ function PromoBanner() {
 
         <div style={{ flex: 1, minWidth: 0 }}>
           <div className="font-bold text-sm" style={{ color: 'var(--accent)' }}>
-            Free for everyone until 15 August
+            Free to use until 15 August
           </div>
           <div className="text-xs mt-0.5" style={{ color: 'rgba(255,255,255,0.55)' }}>
-            All 100 question papers · {PRICE} one-time after that
+            {questionCount != null ? questionCount.toLocaleString('en-IN') : '—'} questions
+            {' · '}{paperCount} question papers
           </div>
         </div>
 
@@ -390,7 +390,7 @@ export default function Home() {
       </div>
 
       {/* ── Free-period announcement ──────────────────────────────── */}
-      <PromoBanner />
+      <PromoBanner questionCount={questionCount} paperCount={papers.length} />
 
       {/* ── Study Streak card ─────────────────────────────────────── */}
       {streak > 0 && (

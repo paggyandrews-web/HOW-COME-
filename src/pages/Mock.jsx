@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import modelPapers from '../data/modelPapers.json'
 import modelQuestions from '../data/modelQuestions.json'
 import { useAuth } from '../contexts/AuthContext'
-import { canAccessMock } from '../utils/entitlements'
+import { isPromoActive } from '../utils/freeTier'
 
 const NEGATIVE_MARK = 1 / 3
 
@@ -65,8 +65,8 @@ function fmtClock(secs) {
 function PaperList({ onStart }) {
   const { user, profile } = useAuth()
   const needsSignup = !user
-  // Mock exams require an account, on top of the plan entitlement.
-  const mockAllowed = !needsSignup && canAccessMock(profile)
+  // Mock exams require an account, then the same free/paid rule as quizzes.
+  const mockAllowed = !needsSignup && (isPromoActive() || !!profile?.isPaid)
   const counts = useMemo(() => {
     const map = {}
     modelQuestions.forEach(q => { map[q.paperId] = (map[q.paperId] || 0) + 1 })
@@ -118,7 +118,7 @@ function PaperList({ onStart }) {
             <button
               onClick={() => mockAllowed && onStart(p)}
               disabled={!mockAllowed}
-              title={mockAllowed ? undefined : needsSignup ? 'Sign up to take mock exams' : 'Mock exams are not included in Pack 100'}
+              title={mockAllowed ? undefined : needsSignup ? 'Sign up to take mock exams' : 'The free period has ended'}
               className="rounded-lg px-4 py-2 text-sm font-semibold"
               style={{
                 background: mockAllowed ? 'var(--accent)' : 'var(--bg2)',
@@ -134,10 +134,10 @@ function PaperList({ onStart }) {
       {!mockAllowed && !needsSignup && (
         <div className="rounded-xl p-4 mb-4 text-sm leading-relaxed"
           style={{ background: 'rgba(26,157,142,0.08)', border: '1px solid rgba(26,157,142,0.3)' }}>
-          <div className="font-semibold mb-1">Mock exams need full access</div>
+          <div className="font-semibold mb-1">The free period has ended</div>
           <div className="text-xs" style={{ color: 'var(--text2)' }}>
-            Your Pack 100 covers the 100 previous question papers. Mock exams are a separate add-on.
-            {' '}<Link to="/papers" style={{ color: 'var(--accent)' }}>Browse your papers →</Link>
+            Mock exams need an active account with full access.
+            {' '}<Link to="/papers" style={{ color: 'var(--accent)' }}>Browse question papers →</Link>
           </div>
         </div>
       )}

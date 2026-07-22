@@ -7,7 +7,6 @@ import Dropdown from '../components/Dropdown'
 import { useResults } from '../hooks/useResults'
 import { useAuth } from '../contexts/AuthContext'
 import { isPromoActive, promoDaysLeft } from '../utils/freeTier'
-import { canAccessPaper, hasPaidPlan } from '../utils/entitlements'
 import { useBookmarks } from '../hooks/useBookmarks'
 import { useStreak, isStreakMilestone } from '../hooks/useStreak'
 import { unlockAudio } from '../utils/sound'
@@ -828,8 +827,8 @@ export default function Quiz() {
   const [searchParams] = useSearchParams()
 
   const needsSignup = !user
-  const isLocked = !needsSignup && !hasPaidPlan(profile) && !isPromoActive()
-  const daysLeft = (!needsSignup && !hasPaidPlan(profile)) ? promoDaysLeft() : null
+  const isLocked = !needsSignup && !profile?.isPaid && !isPromoActive()
+  const daysLeft = (!needsSignup && !profile?.isPaid) ? promoDaysLeft() : null
 
   const isTimed = quizData?.mode === 'timed'
   const isBrowse = quizData?.mode === 'browse'
@@ -861,10 +860,6 @@ export default function Quiz() {
 
   function handleStart({ questions, mode, secsPerQ }) {
     if (mode !== 'browse' && (needsSignup || isLocked)) return // must be signed up, and within the free promo or paid
-    // Entitlement filter: a Pack 100 user's pool can only ever contain
-    // questions from their 100 papers. Applied here (rather than at each
-    // call site) so topic/mixed/saved/mistakes pools are all covered.
-    questions = questions.filter(q => canAccessPaper(profile, q.paperId))
     if (questions.length === 0) return
     setQuizData({ questions, mode, secsPerQ })
     setAnswers(new Array(questions.length).fill(null))

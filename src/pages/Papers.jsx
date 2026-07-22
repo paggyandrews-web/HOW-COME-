@@ -3,8 +3,6 @@ import { useSearchParams, Link } from 'react-router-dom'
 import papers from '../data/papers.json'
 import questions from '../data/questions.json'
 import Dropdown from '../components/Dropdown'
-import { useAuth } from '../contexts/AuthContext'
-import { canAccessPaper } from '../utils/entitlements'
 
 // Group by the actual year of the test date (not the paper-code year, which
 // can differ — e.g. a 2023-coded paper whose exam was actually held in 2024).
@@ -19,7 +17,6 @@ function testYear(p) {
 const YEARS = [...new Set(papers.map(testYear))].filter(Boolean).sort().reverse()
 
 export default function Papers() {
-  const { profile } = useAuth()
   const [search] = useSearchParams()
   const [year, setYear] = useState(search.get('year') || '')
   const [query, setQuery] = useState('')
@@ -87,10 +84,8 @@ export default function Papers() {
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
         {filtered.map(paper => {
           const qCount = qCountByPaper[paper.id] || 0
-          const unlocked = canAccessPaper(profile, paper.id)
           return (
-            <div key={paper.id} className="card rounded-xl p-4 flex flex-col gap-3"
-              style={{ opacity: unlocked ? 1 : 0.6 }}>
+            <div key={paper.id} className="card rounded-xl p-4 flex flex-col gap-3">
               <div className="flex-1 min-w-0">
                 <div className="font-semibold text-sm leading-snug">
                   {paper.post || paper.filename?.replace('.pdf', '') || paper.id}
@@ -106,39 +101,32 @@ export default function Papers() {
                   </div>
                 )}
               </div>
-              {unlocked ? (
-                <div className="flex gap-2">
-                  <Link
-                    to={`/quiz?paper=${paper.id}&mode=practice`}
-                    className="flex-1 text-center py-2 rounded-xl text-xs font-bold"
-                    style={{
-                      background: 'var(--accent)',
-                      color: 'var(--accent-text)',
-                      border: '2px solid var(--accent)',
-                      touchAction: 'manipulation',
-                    }}
-                  >
-                    ✏️ Practice
-                  </Link>
-                  <Link
-                    to={`/quiz?paper=${paper.id}&mode=timed`}
-                    className="flex-1 text-center py-2 rounded-xl text-xs font-bold"
-                    style={{
-                      background: 'transparent',
-                      color: 'var(--accent)',
-                      border: '2px solid var(--accent)',
-                      touchAction: 'manipulation',
-                    }}
-                  >
-                    ⏱️ Timed
-                  </Link>
-                </div>
-              ) : (
-                <div className="text-center py-2 rounded-xl text-xs font-bold"
-                  style={{ background: 'var(--bg2)', color: 'var(--text2)', border: '2px solid var(--border)' }}>
-                  🔒 Not in your plan
-                </div>
-              )}
+              <div className="flex gap-2">
+                <Link
+                  to={`/quiz?paper=${paper.id}&mode=practice`}
+                  className="flex-1 text-center py-2 rounded-xl text-xs font-bold"
+                  style={{
+                    background: 'var(--accent)',
+                    color: 'var(--accent-text)',
+                    border: '2px solid var(--accent)',
+                    touchAction: 'manipulation',
+                  }}
+                >
+                  ✏️ Practice
+                </Link>
+                <Link
+                  to={`/quiz?paper=${paper.id}&mode=timed`}
+                  className="flex-1 text-center py-2 rounded-xl text-xs font-bold"
+                  style={{
+                    background: 'transparent',
+                    color: 'var(--accent)',
+                    border: '2px solid var(--accent)',
+                    touchAction: 'manipulation',
+                  }}
+                >
+                  ⏱️ Timed
+                </Link>
+              </div>
             </div>
           )
         })}

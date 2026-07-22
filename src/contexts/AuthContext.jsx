@@ -79,9 +79,8 @@ export function AuthProvider({ children }) {
   async function signup(email, password, name, district) {
     const cred = await createUserWithEmailAndPassword(auth, email, password)
     await updateProfile(cred.user, { displayName: name })
-    // plan: 'free' | 'pack100' (₹399 lifetime, the 100 frozen papers) | 'full'
-    // Set manually in Firestore after payment until a gateway is wired up.
-    const profileData = { name, district, email, createdAt: new Date().toISOString(), pinnedExams: [], isPaid: false, plan: 'free' }
+    // isPaid: flip to true in Firestore after payment to grant full access.
+    const profileData = { name, district, email, createdAt: new Date().toISOString(), pinnedExams: [], isPaid: false }
     await setDoc(doc(db, 'users', cred.user.uid), profileData)
     setProfile(profileData)
     return cred
