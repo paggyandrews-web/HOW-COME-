@@ -4,7 +4,9 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:8.2.2'
+        // API 36 needs AGP 8.9.1+. Using 8.13.2 (current stable, max API 36).
+        // AGP 8.13 requires Gradle 8.13 — see .github/workflows/build-android.yml
+        classpath 'com.android.tools.build:gradle:8.13.2'
     }
 }
 

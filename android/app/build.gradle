@@ -3,15 +3,17 @@ plugins {
 }
 
 android {
-    compileSdkVersion 34
+    // Google Play requires target API 36 (Android 16) for app updates
+    // submitted from 31 August 2026.
+    compileSdkVersion 36
     namespace "com.howcome.psc"
 
     defaultConfig {
         applicationId "com.howcome.psc"
         minSdkVersion 21
-        targetSdkVersion 34
-        versionCode 3
-        versionName "2.1"
+        targetSdkVersion 36
+        versionCode 4
+        versionName "2.2"
     }
 
     signingConfigs {
