@@ -17,3 +17,21 @@ export function promoDaysLeft() {
   const msLeft = FREE_UNTIL - Date.now()
   return Math.max(0, Math.ceil(msLeft / (1000 * 60 * 60 * 24)))
 }
+
+// Every user-facing mention of the end date must come from here — never
+// hardcode it in a page, or it silently goes stale when the date moves.
+// FREE_UNTIL is midnight *after* the last free day, so step back 1ms.
+export function promoEndLabel() {
+  return new Date(FREE_UNTIL - 1).toLocaleDateString('en-IN', {
+    day: 'numeric', month: 'long', timeZone: 'Asia/Kolkata',
+  })
+}
+
+// YYYY-MM-DD / HH:MM of the deadline, for feeding <FlipClock />.
+export function promoDeadlineParts() {
+  const d = new Date(FREE_UNTIL)
+  const iso = new Intl.DateTimeFormat('en-CA', {
+    year: 'numeric', month: '2-digit', day: '2-digit', timeZone: 'Asia/Kolkata',
+  }).format(d)
+  return { dateStr: iso, timeStr: '00:00' }
+}

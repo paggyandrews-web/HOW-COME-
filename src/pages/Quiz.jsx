@@ -6,7 +6,7 @@ import Confetti from '../components/Confetti'
 import Dropdown from '../components/Dropdown'
 import { useResults } from '../hooks/useResults'
 import { useAuth } from '../contexts/AuthContext'
-import { isPromoActive, promoDaysLeft } from '../utils/freeTier'
+import { isPromoActive, promoDaysLeft, promoEndLabel } from '../utils/freeTier'
 import { useBookmarks } from '../hooks/useBookmarks'
 import { useStreak, isStreakMilestone } from '../hooks/useStreak'
 import { unlockAudio } from '../utils/sound'
@@ -525,7 +525,7 @@ function QuizSetup({ onStart, locked, needsSignup, daysLeft }) {
           <div className="text-2xl mb-1">👋</div>
           <div className="font-semibold text-sm mb-2">Sign up to start practicing</div>
           <div className="text-xs mb-3" style={{ color: 'var(--text2)' }}>
-            Free to use until 31 July — just create an account first.
+            Free to use until {promoEndLabel()} — just create an account first.
           </div>
           <Link to="/register"
             className="inline-block w-full py-2.5 rounded-xl font-semibold text-sm"
@@ -541,7 +541,7 @@ function QuizSetup({ onStart, locked, needsSignup, daysLeft }) {
           <div className="text-2xl mb-1">🔒</div>
           <div className="font-semibold text-sm mb-1" style={{ color: 'var(--accent-pink)' }}>Free promo ended</div>
           <div className="text-xs" style={{ color: 'var(--text2)' }}>
-            The free period ended 31 July. Upgrade to keep practicing.
+            The free period ended {promoEndLabel()}. Upgrade to keep practicing.
           </div>
         </div>
       ) : (
@@ -553,7 +553,7 @@ function QuizSetup({ onStart, locked, needsSignup, daysLeft }) {
           </button>
           {typeof daysLeft === 'number' && !isBrowse && (
             <div className="text-xs text-center mt-2" style={{ color: 'var(--text2)' }}>
-              Free until 31 July {daysLeft > 0 ? `— ${daysLeft} day${daysLeft === 1 ? '' : 's'} left` : '— last day'}
+              Free until {promoEndLabel()} {daysLeft > 0 ? `— ${daysLeft} day${daysLeft === 1 ? '' : 's'} left` : '— last day'}
             </div>
           )}
         </>

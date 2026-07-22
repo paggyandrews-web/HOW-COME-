@@ -6,7 +6,7 @@ import exams from '../data/exams.json'
 import FlipClock from '../components/FlipClock'
 import { useStreak } from '../hooks/useStreak'
 import { formatExamMode } from '../utils/examMode'
-import { isPromoActive, promoDaysLeft } from '../utils/freeTier'
+import { isPromoActive, promoEndLabel, promoDeadlineParts } from '../utils/freeTier'
 
 const MAX_PINS = 5
 
@@ -75,7 +75,7 @@ function BookIllustration() {
    time a paper is added. No price is named here, deliberately.        */
 function PromoBanner({ questionCount, paperCount }) {
   if (!isPromoActive()) return null
-  const days = promoDaysLeft()
+  const { dateStr, timeStr } = promoDeadlineParts()
 
   return (
     <div className="rounded-2xl p-3"
@@ -83,7 +83,7 @@ function PromoBanner({ questionCount, paperCount }) {
         background: 'linear-gradient(135deg, #06201d 0%, #041a18 100%)',
         border: '1px solid rgba(26,157,142,0.3)',
       }}>
-      <div className="flex items-center gap-3">
+      <div className="flex items-center gap-3 mb-2">
         <div style={{
           width: 38, height: 38, borderRadius: 10, flexShrink: 0,
           background: 'rgba(26,157,142,0.14)',
@@ -94,22 +94,22 @@ function PromoBanner({ questionCount, paperCount }) {
 
         <div style={{ flex: 1, minWidth: 0 }}>
           <div className="font-bold text-sm" style={{ color: 'var(--accent)' }}>
-            Free to use until 15 August
+            Free to use until {promoEndLabel()}
           </div>
           <div className="text-xs mt-0.5" style={{ color: 'rgba(255,255,255,0.55)' }}>
             {questionCount != null ? questionCount.toLocaleString('en-IN') : '—'} questions
             {' · '}{paperCount} question papers
           </div>
         </div>
+      </div>
 
-        <div style={{ textAlign: 'center', flexShrink: 0 }}>
-          <div className="font-black" style={{ fontSize: 20, lineHeight: 1, color: 'var(--accent)' }}>
-            {days}
-          </div>
-          <div className="text-xs" style={{ color: 'rgba(255,255,255,0.4)' }}>
-            {days === 1 ? 'day' : 'days'}
-          </div>
+      {/* Live countdown — same clock the exam cards use */}
+      <div className="flex items-center justify-between gap-2">
+        <div className="text-xs" style={{ color: 'rgba(255,255,255,0.4)' }}>
+          Time left
         </div>
+        <FlipClock dateStr={dateStr} timeStr={timeStr} compact
+          overLabel="Free period over" />
       </div>
     </div>
   )
