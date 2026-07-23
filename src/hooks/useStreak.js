@@ -1,5 +1,5 @@
 import { useAuth } from '../contexts/AuthContext'
-import { doc, setDoc, getDoc } from 'firebase/firestore'
+import { doc, setDoc, getDoc, collection, getDocs } from 'firebase/firestore'
 import { db } from '../firebase/config'
 
 const STORAGE_KEY = 'cs-streak'
@@ -12,6 +12,20 @@ function localDateStr(d = new Date()) {
 
 function todayStr() {
   return localDateStr()
+}
+
+function yesterdayStr() {
+  const d = new Date()
+  d.setDate(d.getDate() - 1)
+  return localDateStr(d)
+}
+
+// The local date string one day after the given 'YYYY-MM-DD'.
+function nextDay(dstr) {
+  const [y, m, d] = dstr.split('-').map(Number)
+  const dt = new Date(y, m - 1, d)
+  dt.setDate(dt.getDate() + 1)
+  return localDateStr(dt)
 }
 
 function readLocal() {
@@ -71,6 +85,45 @@ function computeNewStreak(existing) {
   }
 }
 
+// Rebuild a streak record from the user's real quiz history. Every completed
+// quiz is saved to results/{uid}/quizzes with a `date`, so the set of distinct
+// LOCAL activity days is ground truth. This repairs streaks that the storage/
+// domain-change bug reset to 1 — using real data, never a guessed number.
+// Throws if the results read fails, so the caller can retry rather than mark
+// the repair "done" on a transient error.
+async function reconstructFromResults(uid, existing) {
+  const snap = await getDocs(collection(db, 'results', uid, 'quizzes'))
+  const dates = []
+  snap.forEach(d => {
+    const v = d.data().date
+    if (v) dates.push(localDateStr(new Date(v)))
+  })
+  if (dates.length === 0) return existing
+
+  const uniq = [...new Set(dates)].sort() // ascending YYYY-MM-DD
+  let longest = 1, run = 1
+  for (let i = 1; i < uniq.length; i++) {
+    run = uniq[i] === nextDay(uniq[i - 1]) ? run + 1 : 1
+    if (run > longest) longest = run
+  }
+  // Length of the consecutive run ending on the most recent active day.
+  let current = 1
+  for (let i = uniq.length - 1; i > 0; i--) {
+    if (uniq[i] === nextDay(uniq[i - 1])) current++
+    else break
+  }
+  const lastActive = uniq[uniq.length - 1]
+  const alive = lastActive === todayStr() || lastActive === yesterdayStr()
+
+  // Never downgrade: keep the best of stored vs reconstructed.
+  return {
+    currentStreak: Math.max(existing?.currentStreak || 0, alive ? current : 0),
+    longestStreak: Math.max(existing?.longestStreak || 0, longest, current),
+    lastActivityDate:
+      (existing?.lastActivityDate || '') >= lastActive ? existing.lastActivityDate : lastActive,
+  }
+}
+
 // Streak lengths worth a special celebration. Early wins (3, 7) come fast to
 // hook the habit; after 10 it's every round number so it stays achievable.
 export function isStreakMilestone(n) {
@@ -121,12 +174,27 @@ export function useStreak() {
     if (user) {
       try {
         const snap = await getDoc(doc(db, 'users', user.uid))
-        if (snap.exists() && snap.data().streak) {
-          const s = snap.data().streak
-          // Sync to localStorage too
-          writeLocal(s)
-          return s
+        const data = snap.exists() ? snap.data() : {}
+        let s = data.streak || readLocal()
+
+        // One-time repair: rebuild the streak from real quiz history to undo
+        // resets caused by the storage/domain-change bug. Guarded by a flag on
+        // the user doc (not inside the streak map, which updateStreak rewrites)
+        // so it runs exactly once per user. On read failure we leave the flag
+        // unset and retry on the next open rather than marking it done.
+        if (!data.streakRebuiltV1) {
+          try {
+            s = await reconstructFromResults(user.uid, s)
+            await setDoc(
+              doc(db, 'users', user.uid),
+              { streak: s, streakRebuiltV1: true },
+              { merge: true }
+            )
+          } catch {}
         }
+
+        writeLocal(s)
+        return s
       } catch {}
     }
     // Guest or fallback
