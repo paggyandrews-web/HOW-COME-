@@ -132,33 +132,33 @@ function ExamDatesBanner() {
     <Link to="/exams"
       className="flex items-center gap-3 rounded-2xl p-3"
       style={{
-        background: 'linear-gradient(135deg, #0a1f33 0%, #071726 100%)',
-        border: '1px solid rgba(26,157,142,0.3)',
+        background: 'linear-gradient(135deg, #2a1c05 0%, #1c1303 100%)',
+        border: '1px solid rgba(245,158,11,0.4)',
         textDecoration: 'none',
       }}>
       <div style={{
         width: 38, height: 38, borderRadius: 10, flexShrink: 0,
-        background: 'rgba(26,157,142,0.14)',
-        border: '1px solid rgba(26,157,142,0.3)',
+        background: 'rgba(245,158,11,0.16)',
+        border: '1px solid rgba(245,158,11,0.4)',
         display: 'flex', alignItems: 'center', justifyContent: 'center',
       }}>
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none"
-          stroke="var(--accent)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          stroke="#f59e0b" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
           <rect x="3" y="4" width="18" height="18" rx="2"/>
           <line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/>
           <line x1="3" y1="10" x2="21" y2="10"/>
         </svg>
       </div>
       <div style={{ flex: 1, minWidth: 0 }}>
-        <div className="font-bold text-sm" style={{ color: 'var(--accent)' }}>
+        <div className="font-bold text-sm" style={{ color: '#f59e0b' }}>
           October exam dates are out! 🗓️
         </div>
-        <div className="text-xs mt-0.5" style={{ color: 'rgba(255,255,255,0.55)' }}>
+        <div className="text-xs mt-0.5" style={{ color: 'rgba(255,255,255,0.6)' }}>
           {octUpcoming.length} PSC exams scheduled in October — tap to view
         </div>
       </div>
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none"
-        stroke="var(--text2)" strokeWidth="2" strokeLinecap="round">
+        stroke="#f59e0b" strokeWidth="2" strokeLinecap="round">
         <path d="M9 18l6-6-6-6"/>
       </svg>
     </Link>

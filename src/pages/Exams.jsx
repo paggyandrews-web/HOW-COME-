@@ -319,15 +319,15 @@ export default function Exams() {
   const today = new Date(now.toDateString())
 
   // Exam Calendar = every exam with a known test date (the master calendar).
-  // Confirmation Calendar = every exam that still needs an OTR confirmation
-  // action by a deadline. PSC often publishes both at once (test date known,
-  // but you still must confirm by a cutoff) — so an exam can appear in BOTH
-  // tabs at the same time. Once its confirmBy date passes it just fades to
-  // "Confirmation closed" in that tab; nothing needs to be deleted, and if an
-  // exam is added with only a confirmBy (no date yet), it lives in the
-  // Confirmation tab alone until PSC later publishes the date.
+  // Confirmation Calendar = only exams whose OTR confirmation window is still
+  // OPEN (deadline today or later). Once a confirmation closes there's nothing
+  // the user can act on, so it's dropped from this tab entirely — the exam
+  // itself still lives in the Exam Calendar via its test date.
   const examCalendar = useMemo(() => exams.filter(e => e.date), [])
-  const confirmCalendar = useMemo(() => exams.filter(e => e.confirmBy), [])
+  const confirmCalendar = useMemo(
+    () => exams.filter(e => e.confirmBy && new Date(e.confirmBy) >= today),
+    [today]
+  )
 
   const isConfirmTab = activeTab === 'confirm'
   const currentList = isConfirmTab ? confirmCalendar : examCalendar
@@ -373,7 +373,6 @@ export default function Exams() {
   }, [query, saved])
   // A cancelled exam is not "upcoming" — it must never be counted or counted down to.
   const upcomingExams = examCalendar.filter(e => !e.cancelled && new Date(e.date) >= today)
-  const upcomingConfirms = confirmCalendar.filter(e => new Date(e.confirmBy) >= today)
 
   const removeExamData = removeTarget ? exams.find(e => e.id === removeTarget) : null
 
@@ -461,16 +460,12 @@ export default function Exams() {
         ) : (
           <>
             <div className="flex-1 card rounded-xl p-3">
-              <div className="font-bold text-lg" style={{ color: accent }}>{upcomingConfirms.length}</div>
-              <div className="text-xs" style={{ color: 'var(--text2)' }}>Open</div>
-            </div>
-            <div className="flex-1 card rounded-xl p-3">
-              <div className="font-bold text-lg" style={{ color: accent }}>{confirmCalendar.length - upcomingConfirms.length}</div>
-              <div className="text-xs" style={{ color: 'var(--text2)' }}>Closed</div>
-            </div>
-            <div className="flex-1 card rounded-xl p-3">
               <div className="font-bold text-lg" style={{ color: accent }}>{confirmCalendar.length}</div>
-              <div className="text-xs" style={{ color: 'var(--text2)' }}>Total</div>
+              <div className="text-xs" style={{ color: 'var(--text2)' }}>Open to confirm</div>
+            </div>
+            <div className="flex-1 card rounded-xl p-3">
+              <div className="font-bold text-lg" style={{ color: accent }}>{examCalendar.length}</div>
+              <div className="text-xs" style={{ color: 'var(--text2)' }}>Total Exams</div>
             </div>
           </>
         )}
