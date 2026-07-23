@@ -163,7 +163,7 @@ function Colon({ urgent }) {
  * FlipClock — shows a live countdown to a date/time pair.
  * Props: dateStr (YYYY-MM-DD), timeStr (HH:MM), compact (bool)
  */
-export default function FlipClock({ dateStr, timeStr, compact = false, color: colorProp, overLabel = 'Exam Day / Over' }) {
+export default function FlipClock({ dateStr, timeStr, compact = false, color: colorProp, overLabel = 'Exam Day / Over', hideLabels = false }) {
   const [diff, setDiff] = useState(0)
 
   useEffect(() => {
@@ -200,6 +200,16 @@ export default function FlipClock({ dateStr, timeStr, compact = false, color: co
   if (compact) {
     // Compact inline version (no flip animation, just numbers)
     const color = colorProp || 'var(--accent)'
+    // hideLabels: drop the D/H/M/S captions and join with colons, so the row
+    // still reads as a countdown (00:11:27:12) without the letters.
+    if (hideLabels) {
+      const parts = [days, hours, mins, secs].map(v => String(v).padStart(2, '0'))
+      return (
+        <div style={{ fontSize: 18, fontWeight: 800, color, fontVariantNumeric: 'tabular-nums', letterSpacing: 1 }}>
+          {parts.join(':')}
+        </div>
+      )
+    }
     return (
       <div style={{ display: 'flex', gap: 8, alignItems: 'center' }}>
         {[['D', days], ['H', hours], ['M', mins], ['S', secs]].map(([l, v]) => (

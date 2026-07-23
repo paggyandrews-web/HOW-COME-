@@ -48,5 +48,36 @@
       "038-2026-M",
       "11-2026-M"
     ]
+  },
+  {
+    "id": "HC-MODEL-003",
+    "paperCode": "HC-MODEL-003",
+    "title": "Weekly Mock — 20 Q Trend Paper (Week of 23-Jul-2026)",
+    "description": "20-question English grammar weekly mock in the real Kerala PSC pattern, generated from the latest-10-paper topic trend, with full Malayalam HOW COME explanations.",
+    "date": "23-Jul-2026",
+    "year": "2026",
+    "totalQuestions": 20,
+    "totalMarks": 20,
+    "durationMinutes": 15,
+    "negativeMarking": "1/3",
+    "difficultyProfile": {
+      "Easy": 5,
+      "Medium": 11,
+      "Hard": 4
+    },
+    "type": "model",
+    "questionCount": 20,
+    "papers_analyzed": [
+      "063-2026-M",
+      "58-2026-M",
+      "54-2026-M",
+      "51-2026-M",
+      "049-2026-M",
+      "048-2026-E",
+      "44-2026-M",
+      "43-2026-M",
+      "038-2026-M",
+      "11-2026-M"
+    ]
   }
 ]

@@ -103,13 +103,13 @@ function PromoBanner({ questionCount, paperCount }) {
           </div>
         </div>
 
-        {/* Right: label sits level with the headline, clock level with the counts */}
+        {/* Right: live counter, no D/H/M/S captions */}
         <div style={{ flexShrink: 0, textAlign: 'right' }}>
           <div className="text-xs" style={{ color: 'rgba(255,255,255,0.4)' }}>
             Time left
           </div>
           <div style={{ marginTop: 6 }}>
-            <FlipClock dateStr={dateStr} timeStr={timeStr} compact
+            <FlipClock dateStr={dateStr} timeStr={timeStr} compact hideLabels
               overLabel="Free period over" />
           </div>
         </div>
