@@ -32,6 +32,16 @@ function writeLocal(data) {
   } catch {}
 }
 
+// Pick the more advanced of two streak records: the one whose last activity
+// is more recent, or on a tie the higher streak. Used so a stale/empty local
+// copy can never overwrite a good remote one.
+function mostAdvanced(a, b) {
+  const da = a?.lastActivityDate || ''
+  const db2 = b?.lastActivityDate || ''
+  if (da !== db2) return da > db2 ? a : b
+  return (a?.currentStreak || 0) >= (b?.currentStreak || 0) ? a : b
+}
+
 function computeNewStreak(existing) {
   const today = todayStr()
   const { lastActivityDate, currentStreak, longestStreak } = existing
@@ -71,7 +81,21 @@ export function useStreak() {
   const { user } = useAuth()
 
   async function updateStreak() {
-    const existing = readLocal()
+    // Read the AUTHORITATIVE record before computing. Previously this read
+    // localStorage only — so a cleared or brand-new-origin localStorage (e.g.
+    // after the site domain changed from *.vercel.app to howcome.in, which is
+    // a different origin with its own empty storage) looked like "first ever
+    // visit", reset the streak to 1, and then overwrote the real value in
+    // Firestore. Now Firestore wins whenever it's more advanced.
+    let existing = readLocal()
+    if (user) {
+      try {
+        const snap = await getDoc(doc(db, 'users', user.uid))
+        if (snap.exists() && snap.data().streak) {
+          existing = mostAdvanced(existing, snap.data().streak)
+        }
+      } catch {}
+    }
     const today = todayStr()
     const isNewDay = existing.lastActivityDate !== today
     const updated = computeNewStreak(existing)
