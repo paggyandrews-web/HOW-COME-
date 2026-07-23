@@ -1998,5 +1998,405 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) Indian Science Research Organisation — S = Space ആണ്, Science അല്ല; ഒറ്റ വാക്കിന്റെ മാറ്റം!\n• 🪤 PSC Trap: ഒരേയൊരു വാക്ക് മാറ്റിയ options ആണ് abbreviation ചോദ്യങ്ങളിലെ സ്ഥിരം കെണി — ഓരോ വാക്കും ഒത്തുനോക്കുക!\n\n• (C) International Space Research Organisation — I = Indian ആണ്, International അല്ല; ISRO ഇന്ത്യയുടെ സ്വന്തം.\n\n• (D) Indian Space and Rocket Organisation — R = Research ആണ്, Rocket അല്ല.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"I-S-R-O: Indian ബഹിരാകാശത്തെ (Space) ഗവേഷിക്കുന്ന (Research) സ്ഥാപനം (Organisation)\" — ഓരോ അക്ഷരവും മലയാളത്തിൽ വിവർത്തനം ചെയ്ത് ഓർക്കുക.\n• Word family: ഗവേഷണ സ്ഥാപനങ്ങൾ — ISRO (ബഹിരാകാശം), DRDO (പ്രതിരോധം), BARC (ആണവം), ICAR (കൃഷി) — നാലും full form സഹിതം പഠിക്കുക.\n• PSC strategy: abbreviation options താരതമ്യം ചെയ്യുമ്പോൾ അക്ഷരം ഓരോന്നായി ഒത്തുനോക്കുക — വ്യത്യാസം ഒരൊറ്റ വാക്കിലായിരിക്കും; അത് കണ്ടെത്തിയാൽ ഉത്തരം ഉറപ്പ്. guaranteed mark!"
     }
+  },
+  {
+    "id": "HC-MODEL-002-Q1",
+    "paperId": "HC-MODEL-002",
+    "questionNumber": 1,
+    "topic": "Question Tags",
+    "topicDetail": "Positive stem, past simple",
+    "difficulty": "Medium",
+    "questionText": "Choose the correct question tag to complete the sentence.\nSreekuttan finished his PSC coaching in Palakkad, ____________?",
+    "optionA": "did he",
+    "optionB": "didn't he",
+    "optionC": "hasn't he",
+    "optionD": "doesn't he",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) didn't he\n\n• Statement positive ആണ് ('finished') — അതുകൊണ്ട് question tag negative വേണം.\n• Main verb 'finished' — Simple Past ആണ്. Past-ന്റെ tag-ൽ 'did' വരും → didn't he.\n• 'ശ്രീക്കുട്ടൻ പാലക്കാട് PSC coaching തീർത്തു, അല്ലേ?' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Positive statement → Negative tag; Negative statement → Positive tag.\n• Helping verb ഇല്ലാത്ത Simple Present/Past-ൽ tag-ന് do/does/did ഉപയോഗിക്കുന്നു.\n• Subject pronoun tag-ൽ ആവർത്തിക്കണം (Sreekuttan → he).\n• ⭐ PSC ആവർത്തനം: Question Tag ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന topic-കളിൽ ഒന്നാണ്!\n• ഉദാഹരണം:\n1. She sang well, didn't she?\n2. They came late, didn't they?\n3. He plays cricket, doesn't he?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) did he — polarity തെറ്റ്; positive statement-ന് positive tag വരില്ല.\n• (C) hasn't he — 'finished' present perfect അല്ല, simple past ആണ്; has ഇവിടെ ചേരില്ല.\n• (D) doesn't he — 'does' present-ന്റേതാണ്; വാക്യം past ആയതിനാൽ തെറ്റ്.\n• 🪤 PSC Trap: 'finished' കണ്ട് present perfect ആണെന്ന് തെറ്റിദ്ധരിപ്പിക്കാൻ hasn't he വെക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'തല positive → വാൽ negative' — വാക്യത്തിന്റെ തല (statement) positive ആണെങ്കിൽ വാൽ (tag) negative.\n• Rule family: do/does/did tags ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: ആദ്യം verb-ന്റെ tense നോക്കുക → helping verb കണ്ടെത്തുക → polarity മാറ്റുക."
+    }
+  },
+  {
+    "id": "HC-MODEL-002-Q2",
+    "paperId": "HC-MODEL-002",
+    "questionNumber": 2,
+    "topic": "Question Tags",
+    "topicDetail": "Special case: I am",
+    "difficulty": "Hard",
+    "questionText": "Choose the correct question tag to complete the sentence.\nI am the next candidate on the list, ____________?",
+    "optionA": "am not I",
+    "optionB": "aren't you",
+    "optionC": "amn't I",
+    "optionD": "aren't I",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) aren't I\n\n• 'I am' എന്ന വാക്യത്തിന്റെ standard negative question tag 'aren't I' ആണ് — ഇതൊരു fixed exception ആണ്.\n• 'amn't' എന്ന വാക്ക് English-ൽ ഇല്ല; അതിന് പകരം 'aren't I' ഉപയോഗിക്കുന്നു.\n• 'ഞാൻ ലിസ്റ്റിലെ അടുത്ത candidate ആണ്, അല്ലേ?' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: I am ... → aren't I? (എപ്പോഴും!)\n• 'am not' contraction ഇല്ലാത്തതിനാൽ ('amn't' തെറ്റ്) 'aren't I' എന്ന exception ഉപയോഗിക്കുന്നു.\n• Subject 'I' tag-ലും 'I' ആയി തന്നെ വരണം — 'you' അല്ല.\n• ⭐ PSC ആവർത്തനം: 'I am ... aren't I?' PSC-യുടെ പ്രിയപ്പെട്ട trap ചോദ്യമാണ്.\n• ഉദാഹരണം:\n1. I am your teacher, aren't I?\n2. I am invited too, aren't I?\n3. I am right, aren't I?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) am not I — word order തെറ്റ്; ഇങ്ങനെ tag-ൽ ഉപയോഗിക്കില്ല.\n• (B) aren't you — subject മാറി; 'I'-ന് പകരം 'you' തെറ്റാണ്.\n• (C) amn't I — 'amn't' എന്ന contraction English-ൽ നിലവിലില്ല.\n• 🪤 PSC Trap: logic വെച്ച് 'am not I / amn't I' ശരിയാണെന്ന് തോന്നും — പക്ഷേ ശരി exception 'aren't I' ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'I am' കണ്ടാൽ ഉടനെ 'aren't I' — ഒരു ready-made ജോഡി ആയി ഓർക്കുക.\n• Rule family: special tags — Let's → shall we?; Imperative → will you?; I am → aren't I?\n• PSC strategy: ഈ മൂന്ന് special tags കാണാപ്പാഠമാക്കിയാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-MODEL-002-Q3",
+    "paperId": "HC-MODEL-002",
+    "questionNumber": 3,
+    "topic": "Spelling",
+    "topicDetail": "Commonly misspelt",
+    "difficulty": "Easy",
+    "questionText": "Choose the correctly spelt word from the options given below.",
+    "optionA": "accommodation",
+    "optionB": "accomodation",
+    "optionC": "acommodation",
+    "optionD": "accommadation",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) accommodation\n\n• ശരിയായ spelling: ac-com-mo-da-tion — രണ്ട് 'c'-യും രണ്ട് 'm'-ഉം ഉണ്ട്.\n• 'താമസസൗകര്യം' എന്നർത്ഥം.\n• double letters ആണ് ഇവിടെ കുഴപ്പിക്കുന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: accommodation-ന് '2 C + 2 M' — 'രണ്ട് കട്ടിലും രണ്ട് മുറിയും' എന്ന് ഓർക്കുക.\n• Latin 'commodus' (സൗകര്യമുള്ളത്) എന്ന വേരിൽ നിന്ന്.\n• ⭐ PSC ആവർത്തനം: double-consonant spelling PSC-യിൽ സ്ഥിരം.\n• ഉദാഹരണം:\n1. The hostel offers good accommodation.\n2. We booked accommodation near the temple.\n3. Cheap accommodation is hard to find.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) accomodation — ഒരു 'm' മാത്രം; തെറ്റ്.\n• (C) acommodation — ഒരു 'c' മാത്രം; തെറ്റ്.\n• (D) accommadation — 'a' തെറ്റായ സ്ഥാനത്ത് ('mada'); ശരി 'moda' ആണ്.\n• 🪤 PSC Trap: ഒരു അക്ഷരം മാത്രം കുറച്ച് കണ്ണിനെ കബളിപ്പിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Two Cots, Two Mattresses' → 2C + 2M = accommodation.\n• Word family: double-letter words — occasion, possession, aggression.\n• PSC strategy: ഓരോ അക്ഷരവും ചെറുഭാഗങ്ങളായി മുറിച്ച് (ac-com-mo-da-tion) വായിക്കുക."
+    }
+  },
+  {
+    "id": "HC-MODEL-002-Q4",
+    "paperId": "HC-MODEL-002",
+    "questionNumber": 4,
+    "topic": "Spelling",
+    "topicDetail": "Silent/tricky vowels",
+    "difficulty": "Medium",
+    "questionText": "Which one of the following words is correctly spelt?",
+    "optionA": "maintainance",
+    "optionB": "maintenence",
+    "optionC": "maintainence",
+    "optionD": "maintenance",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) maintenance\n\n• ശരിയായ spelling: main-te-nance — verb 'maintain' ആണെങ്കിലും noun-ൽ 'ai' → 'e' ആയി മാറുന്നു.\n• 'പരിപാലനം / അറ്റകുറ്റപ്പണി' എന്നർത്ഥം.\n• verb-ന്റെ spelling അതേപടി noun-ൽ വരില്ല എന്നതാണ് trap.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: maintain (verb) → maintenance അല്ല, maintenance (noun) — മധ്യത്തിൽ 'ten'.\n• French 'maintenir' എന്ന വേരിൽ നിന്ന്.\n• ⭐ PSC ആവർത്തനം: verb-ൽ നിന്ന് noun ഉണ്ടാക്കുമ്പോൾ spelling മാറുന്ന വാക്കുകൾ PSC പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണം:\n1. Road maintenance is the PWD's duty.\n2. The car needs regular maintenance.\n3. He pays maintenance every month.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) maintainance — verb 'maintain'-ന്റെ 'ai' നിലനിർത്തി; noun-ൽ തെറ്റ്.\n• (B) maintenence — അവസാനം 'ence'; ശരി 'ance' ആണ്.\n• (C) maintainence — 'ai' + 'ence' രണ്ടും തെറ്റ്.\n• 🪤 PSC Trap: verb spelling ഓർത്ത് 'maintain-ance' എഴുതിപ്പോകും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'main + ten + ance' → പത്ത് (ten) മണിക്ക് maintenance!\n• Word family: pronounce/pronunciation പോലെ noun-ൽ spelling മാറുന്ന ജോഡികൾ ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: noun form-ന്റെ 'ten' + 'ance' ഭാഗം പ്രത്യേകം ഓർക്കുക."
+    }
+  },
+  {
+    "id": "HC-MODEL-002-Q5",
+    "paperId": "HC-MODEL-002",
+    "questionNumber": 5,
+    "topic": "Prepositions",
+    "topicDetail": "Verb + preposition collocation",
+    "difficulty": "Medium",
+    "questionText": "Fill in the blank with the correct preposition.\nThe Panchayat President congratulated Fathima ______ winning the district quiz.",
+    "optionA": "for",
+    "optionB": "on",
+    "optionC": "about",
+    "optionD": "with",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) on\n\n• 'congratulate' എന്ന verb-ന്റെ കൂടെ fixed ആയി വരുന്ന preposition 'on' ആണ് — congratulate somebody ON something.\n• 'ഫാത്തിമയെ ജില്ലാ ക്വിസ് ജയിച്ചതിന് അഭിനന്ദിച്ചു' എന്നർത്ഥം.\n• ഇത് collocation ആണ് — യുക്തിയല്ല, ഓർമ്മയാണ് വേണ്ടത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: congratulate ON, insist ON, depend ON, comment ON.\n• verb-നോട് ഒട്ടിനിൽക്കുന്ന preposition-കൾ (collocations) മാറ്റാൻ പറ്റില്ല.\n• ⭐ PSC ആവർത്തനം: fixed preposition collocations മിക്ക പേപ്പറിലും ഉണ്ട്.\n• ഉദാഹരണം:\n1. They congratulated him on his success.\n2. She insisted on paying the bill.\n3. We depend on rain for farming.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) for — 'thank somebody FOR' ശരി, പക്ഷേ congratulate-ന്റെ കൂടെ 'for' standard അല്ല.\n• (C) about — 'talk/worry about' ശരി; congratulate-ന് ചേരില്ല.\n• (D) with — 'congratulate with' എന്ന പ്രയോഗം ഇല്ല.\n• 🪤 PSC Trap: 'thank ... for' ഓർത്ത് 'congratulate ... for' എന്ന് തെറ്റായി തിരഞ്ഞെടുക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Congrats ON your win!' — social media-യിൽ കാണുന്ന 'on' തന്നെ ശരി.\n• Rule family: ON collocations — insist/depend/congratulate/comment/rely on.\n• PSC strategy: verb + preposition ജോഡികൾ ഒരു list ആയി മനഃപാഠമാക്കുക."
+    }
+  },
+  {
+    "id": "HC-MODEL-002-Q6",
+    "paperId": "HC-MODEL-002",
+    "questionNumber": 6,
+    "topic": "Tenses",
+    "topicDetail": "Present Perfect Continuous",
+    "difficulty": "Medium",
+    "questionText": "Fill in the blank with the correct option.\nDevika ______ for the Beat Forest Officer exam since March.",
+    "optionA": "prepares",
+    "optionB": "has been preparing",
+    "optionC": "prepared",
+    "optionD": "is preparing",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) has been preparing\n\n• 'since March' എന്ന signal — മാർച്ച് മുതൽ ഇപ്പോഴും തുടരുന്ന പ്രവൃത്തി → Present Perfect Continuous.\n• Formula: has/have + been + V-ing.\n• 'ദേവിക മാർച്ച് മുതൽ Beat Forest Officer പരീക്ഷയ്ക്ക് തയ്യാറെടുക്കുന്നു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: since/for + ഇപ്പോഴും തുടരുന്നു → has/have been + V-ing.\n• 'since' ഒരു point of time (March, 2021) കാണിക്കുന്നു; 'for' duration (two years).\n• ⭐ PSC ആവർത്തനം: since/for കൊടുത്ത് tense ചോദിക്കുന്നത് സ്ഥിരം.\n• ഉദാഹരണം:\n1. He has been reading since morning.\n2. They have been waiting for an hour.\n3. It has been raining since noon.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) prepares — Simple Present; ശീലം കാണിക്കും, 'since March' തുടർച്ചയോട് ചേരില്ല.\n• (C) prepared — Simple Past; പ്രവൃത്തി കഴിഞ്ഞു എന്നർത്ഥം, പക്ഷേ ഇപ്പോഴും തുടരുന്നു.\n• (D) is preparing — Present Continuous; 'since March' എന്ന duration ഉള്ളപ്പോൾ perfect continuous വേണം.\n• 🪤 PSC Trap: 'is preparing' ശരിയെന്ന് തോന്നും, പക്ഷേ 'since' ഉള്ളപ്പോൾ 'has been' ആണ് വേണ്ടത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'SINCE = has been' — ഇവ രണ്ടും ഒരുമിച്ച് ഓർക്കുക.\n• Rule family: since/for + perfect continuous.\n• PSC strategy: ആദ്യം signal word (since/for/already/yet) നോക്കി tense തീരുമാനിക്കുക."
+    }
+  },
+  {
+    "id": "HC-MODEL-002-Q7",
+    "paperId": "HC-MODEL-002",
+    "questionNumber": 7,
+    "topic": "Active and Passive Voice",
+    "topicDetail": "Simple past passive",
+    "difficulty": "Medium",
+    "questionText": "Change the following sentence into the passive voice.\nThe KSRTC conductor issued the tickets.",
+    "optionA": "The tickets are issued by the KSRTC conductor.",
+    "optionB": "The tickets have been issued by the KSRTC conductor.",
+    "optionC": "The tickets were issued by the KSRTC conductor.",
+    "optionD": "The tickets was issued by the KSRTC conductor.",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) The tickets were issued by the KSRTC conductor.\n\n• Active വാക്യം Simple Past ('issued') ആണ് → Passive-ഉം Simple Past തന്നെ.\n• Object 'the tickets' (plural) subject ആയി മാറുന്നു → 'were' + V3 (issued).\n• Formula: was/were + V3 (past participle).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Active tense = Passive tense എപ്പോഴും ഒന്ന്.\n• Simple Past Passive = was/were + V3. Plural subject-ന് 'were'.\n• Object → Subject; Subject → 'by' + object.\n• ⭐ PSC ആവർത്തനം: voice change മിക്ക പേപ്പറിലും ഉണ്ട്.\n• ഉദാഹരണം:\n1. He wrote a letter → A letter was written by him.\n2. They built houses → Houses were built by them.\n3. She cooked rice → Rice was cooked by her.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) are issued — Present tense; Active past ആയതിനാൽ tense മാറി.\n• (B) have been issued — Present Perfect; original 'issued' simple past ആണ്.\n• (D) was issued — 'the tickets' plural; 'was' singular-ന്; 'were' വേണം.\n• 🪤 PSC Trap: subject plural ആണോ singular ആണോ എന്ന് ശ്രദ്ധിച്ചില്ലെങ്കിൽ was/were തെറ്റും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Same Tense, New Face' — tense മാറില്ല, subject-object സ്ഥാനം മാത്രം മാറും.\n• Rule family: tense-അനുസരിച്ചുള്ള passive formulae ഒരു table ആയി പഠിക്കുക.\n• PSC strategy: ① tense കണ്ടെത്തുക ② object-നെ മുന്നിലേക്ക് ③ was/were + V3."
+    }
+  },
+  {
+    "id": "HC-MODEL-002-Q8",
+    "paperId": "HC-MODEL-002",
+    "questionNumber": 8,
+    "topic": "Antonyms",
+    "topicDetail": "Adjective antonym",
+    "difficulty": "Easy",
+    "questionText": "Choose the antonym of the word in italics.\nThe elders felt the boy's apology was __genuine__.",
+    "optionA": "fake",
+    "optionB": "real",
+    "optionC": "honest",
+    "optionD": "sincere",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) fake\n\n• 'genuine' = യഥാർത്ഥമായ, ആത്മാർത്ഥമായ. അതിന്റെ വിപരീതം 'fake' = വ്യാജമായ.\n• 'ആ കുട്ടിയുടെ ക്ഷമാപണം യഥാർത്ഥമായിരുന്നു' — വിപരീതം 'വ്യാജം'.\n• Antonym ചോദ്യത്തിൽ synonyms trap ആയി വരും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Antonym = വിപരീത അർത്ഥം; ഒരേ അർത്ഥമുള്ളവ (synonyms) trap ആണ്.\n• genuine ↔ fake / counterfeit / artificial.\n• ⭐ PSC ആവർത്തനം: Antonyms സ്ഥിരം ചോദ്യമാണ്.\n• ഉദാഹരണം:\n1. genuine leather ↔ fake leather.\n2. a genuine smile ↔ a fake smile.\n3. genuine currency ↔ counterfeit currency.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) real — genuine-ന്റെ synonym; വിപരീതമല്ല.\n• (C) honest — genuine-നോട് അടുത്ത അർത്ഥം; synonym trap.\n• (D) sincere — 'ആത്മാർത്ഥമായ' — ഇതും synonym.\n• 🪤 PSC Trap: മൂന്ന് synonyms വെച്ച് ഒരു antonym കണ്ടെത്താൻ പറയുന്നു — ശ്രദ്ധിച്ചില്ലെങ്കിൽ വീഴും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'genuine gold vs fake gold' — ഒരു ചിത്രം മനസ്സിൽ വരയ്ക്കുക.\n• Word family: genuine, authentic, sincere (synonyms) vs fake, counterfeit, sham (antonyms).\n• PSC strategy: Antonym ചോദ്യത്തിൽ 'ഏറ്റവും വിപരീതം ഏത്' എന്ന് ഉറപ്പിക്കുക — synonyms മാറ്റിവെക്കുക."
+    }
+  },
+  {
+    "id": "HC-MODEL-002-Q9",
+    "paperId": "HC-MODEL-002",
+    "questionNumber": 9,
+    "topic": "Phrasal Verbs",
+    "topicDetail": "break up",
+    "difficulty": "Medium",
+    "questionText": "Choose the correct meaning of the phrasal verb in italics.\nThe teacher asked the noisy crowd of students to __break up__ and return to their classes.",
+    "optionA": "to suddenly begin",
+    "optionB": "to repair something",
+    "optionC": "to force entry",
+    "optionD": "to disperse or come to an end",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) to disperse or come to an end\n\n• 'break up' = ചിതറിപ്പോകുക / കൂട്ടം പിരിയുക.\n• 'ബഹളമുണ്ടാക്കുന്ന കുട്ടികളോട് പിരിഞ്ഞുപോകാൻ' എന്നർത്ഥം.\n• phrasal verb-ന്റെ അർത്ഥം literal അല്ല — idiomatic ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'break' + particle → ഓരോന്നിനും വ്യത്യസ്ത അർത്ഥം.\n• break up = പിരിയുക/അവസാനിക്കുക; break down = കേടാവുക; break in = അതിക്രമിച്ച് കയറുക; break out = പൊട്ടിപ്പുറപ്പെടുക.\n• ⭐ PSC ആവർത്തനം: ഒരേ base verb-ന്റെ phrasal verbs വേർതിരിക്കാൻ പറയുന്നത് സ്ഥിരം.\n• ഉദാഹരണം:\n1. The meeting broke up at noon.\n2. The crowd broke up peacefully.\n3. Their friendship broke up.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) to suddenly begin — അത് 'break out' (war broke out) ന്റെ അർത്ഥം.\n• (B) to repair — വിപരീതം; 'break' കേടാക്കുന്നതുമായി ബന്ധം.\n• (C) to force entry — അത് 'break in' ന്റെ അർത്ഥം.\n• 🪤 PSC Trap: അതേ base verb-ന്റെ മറ്റ് phrasal അർത്ഥങ്ങൾ options ആയി വെക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'UP = പിരിഞ്ഞ് മുകളിലേക്ക് ചിതറി' → break up = പിരിയുക.\n• Word family: break up / down / in / out / off ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: sentence-ന്റെ context വെച്ച് ഏത് particle-അർത്ഥം ചേരുന്നു എന്ന് നോക്കുക."
+    }
+  },
+  {
+    "id": "HC-MODEL-002-Q10",
+    "paperId": "HC-MODEL-002",
+    "questionNumber": 10,
+    "topic": "Synonyms",
+    "topicDetail": "Adjective synonym",
+    "difficulty": "Medium",
+    "questionText": "Choose the synonym of the word in italics.\nThe Collector gave __meticulous__ instructions before the flood-relief work.",
+    "optionA": "careless",
+    "optionB": "quick",
+    "optionC": "very careful and precise",
+    "optionD": "simple",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) very careful and precise\n\n• 'meticulous' = വളരെ സൂക്ഷ്മതയോടെ, ഓരോ ചെറിയ കാര്യവും ശ്രദ്ധിക്കുന്ന.\n• 'കളക്ടർ വളരെ കൃത്യമായ നിർദ്ദേശങ്ങൾ നൽകി' എന്നർത്ഥം.\n• Latin 'meticulosus' (ഭയത്തോളം സൂക്ഷ്മത) എന്ന വേരിൽ നിന്ന്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Synonym = ഒരേ അർത്ഥം; antonym trap ആയി വരും.\n• meticulous ≈ careful, precise, thorough, scrupulous.\n• ⭐ PSC ആവർത്തനം: sentence-നുള്ളിലെ italic വാക്കിന് synonym ചോദിക്കുന്നത് സ്ഥിരം.\n• ഉദാഹരണം:\n1. a meticulous accountant (കൃത്യതയുള്ള).\n2. meticulous planning.\n3. meticulous records.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) careless — നേരെ വിപരീതം (antonym trap).\n• (B) quick — 'വേഗം' എന്നർത്ഥം; സൂക്ഷ്മതയുമായി ബന്ധമില്ല.\n• (D) simple — 'ലളിതം'; meticulous-ന്റെ അർത്ഥമല്ല.\n• 🪤 PSC Trap: Synonym ചോദ്യത്തിൽ antonym (careless) ആദ്യ option ആയി വെക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'meticulous = micro-കാര്യങ്ങൾ വരെ ശ്രദ്ധിക്കുന്നവൻ'.\n• Word family: meticulous, scrupulous, thorough, painstaking.\n• PSC strategy: Synonym ചോദ്യത്തിൽ ആദ്യം antonym-നെ ഒഴിവാക്കുക, പിന്നെ ഏറ്റവും അടുത്ത അർത്ഥം തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-MODEL-002-Q11",
+    "paperId": "HC-MODEL-002",
+    "questionNumber": 11,
+    "topic": "Foreign Words and Phrases",
+    "topicDetail": "Latin phrase",
+    "difficulty": "Hard",
+    "questionText": "Choose the correct meaning of the foreign phrase in italics.\nAfter the minister resigned, his deputy took charge __pro tempore__.",
+    "optionA": "for the time being / temporarily",
+    "optionB": "permanently and for life",
+    "optionC": "against the rules",
+    "optionD": "without any salary",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) for the time being / temporarily\n\n• 'pro tempore' ഒരു Latin phrase — 'തൽക്കാലത്തേക്ക്, താൽക്കാലികമായി' എന്നർത്ഥം.\n• 'ഉപമന്ത്രി താൽക്കാലികമായി ചുമതലയേറ്റു' എന്നർത്ഥം.\n• 'pro tem' എന്ന ചുരുക്കരൂപവും ഉപയോഗിക്കാറുണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: pro = for; tempore = time → 'for the time' → താൽക്കാലികം.\n• 'tempore' എന്ന വേര് 'temporary'-യുമായി ബന്ധപ്പെട്ടിരിക്കുന്നു — അതാണ് സൂചന.\n• ⭐ PSC ആവർത്തനം: Latin/French phrases (bona fide, status quo, ad hoc) PSC-യിൽ പതിവ്.\n• ഉദാഹരണം:\n1. a chairman pro tempore.\n2. appointed pro tempore.\n3. the Speaker pro tem.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) permanently — നേരെ വിപരീതം; pro tempore താൽക്കാലികമാണ്.\n• (C) against the rules — അത് 'ultra vires' ന്റെ അർത്ഥത്തോട് അടുത്തത്.\n• (D) without salary — 'pro bono' (സൗജന്യമായി) എന്നതുമായി കൂട്ടിക്കുഴയ്ക്കുന്നു.\n• 🪤 PSC Trap: 'pro-' തുടങ്ങുന്ന മറ്റ് Latin phrases (pro bono) വെച്ച് ആശയക്കുഴപ്പം ഉണ്ടാക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'tempore → temporary → തൽക്കാലം'.\n• Word family: pro tempore, ad hoc, status quo, bona fide.\n• PSC strategy: Latin phrase-ന്റെ വേരിലെ പരിചിതമായ English വാക്ക് (temporary) കണ്ടെത്തി അർത്ഥം ഊഹിക്കുക."
+    }
+  },
+  {
+    "id": "HC-MODEL-002-Q12",
+    "paperId": "HC-MODEL-002",
+    "questionNumber": 12,
+    "topic": "Idioms",
+    "topicDetail": "face the music",
+    "difficulty": "Hard",
+    "questionText": "Choose the correct meaning of the idiom in italics.\nWhen the auditor arrived, the clerk had to __face the music__ for the missing files.",
+    "optionA": "enjoy a live concert",
+    "optionB": "accept the unpleasant consequences of one's actions",
+    "optionC": "run away from the office",
+    "optionD": "start a loud argument",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) accept the unpleasant consequences of one's actions\n\n• 'face the music' = സ്വന്തം തെറ്റിന്റെ ശിക്ഷ/അനന്തരഫലം ധൈര്യത്തോടെ നേരിടുക.\n• 'നഷ്ടപ്പെട്ട ഫയലുകൾക്ക് ക്ലർക്കിന് ശിക്ഷ നേരിടേണ്ടിവന്നു' എന്നർത്ഥം.\n• idiom-ന്റെ അർത്ഥം literal 'സംഗീതം' അല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: idiom = വാക്കുകളുടെ നേരർത്ഥമല്ല, ഒളിഞ്ഞിരിക്കുന്ന അർത്ഥം.\n• face the music = അനന്തരഫലം നേരിടുക.\n• ⭐ PSC ആവർത്തനം: idioms മിക്ക പേപ്പറിലും 1–2 എണ്ണം.\n• ഉദാഹരണം:\n1. He broke the rule and had to face the music.\n2. After the scam, the officer faced the music.\n3. Own your mistake and face the music.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) enjoy a concert — literal അർത്ഥം; idiom trap.\n• (C) run away — വിപരീത സ്വഭാവം; 'നേരിടുക'യാണ്, ഓടുകയല്ല.\n• (D) start an argument — idiom-ന്റെ അർത്ഥമല്ല.\n• 🪤 PSC Trap: 'music' കണ്ട് 'concert/enjoy' എന്ന literal അർത്ഥത്തിലേക്ക് വലിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: സ്റ്റേജിൽ കയറി 'music' നേരിടുന്ന നടൻ — തെറ്റിന്റെ ഫലം നേരിടുന്നു എന്ന ചിത്രം.\n• Word family: PSC idioms — 'at the drop of a hat', 'hit the nail on the head', 'under the weather'.\n• PSC strategy: idiom കണ്ടാൽ literal അർത്ഥം ഒഴിവാക്കുക; സന്ദർഭം വെച്ച് ഒളിഞ്ഞ അർത്ഥം കണ്ടെത്തുക."
+    }
+  },
+  {
+    "id": "HC-MODEL-002-Q13",
+    "paperId": "HC-MODEL-002",
+    "questionNumber": 13,
+    "topic": "Subject-Verb Agreement",
+    "topicDetail": "Each of + singular verb",
+    "difficulty": "Medium",
+    "questionText": "Fill in the blank with the correct option.\nEach of the candidates ______ required to bring an original ID card.",
+    "optionA": "is",
+    "optionB": "are",
+    "optionC": "were",
+    "optionD": "have",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) is\n\n• 'Each of + plural noun' എപ്പോഴും singular verb എടുക്കുന്നു → 'is'.\n• 'ഓരോ ഉദ്യോഗാർത്ഥിയും ഒറിജിനൽ ID കൊണ്ടുവരണം' എന്നർത്ഥം.\n• 'candidates' plural ആണെങ്കിലും subject 'each' ആണ് — അത് singular.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Each / Every / Either / Neither + noun → SINGULAR verb.\n• 'of the candidates' എന്നത് വെറും വിശേഷണം; verb-നെ നിയന്ത്രിക്കുന്നത് 'each' ആണ്.\n• ⭐ PSC ആവർത്തനം: 'each of / one of' subject-verb agreement സ്ഥിരം trap.\n• ഉദാഹരണം:\n1. Each of the boys is present.\n2. Every student has a book.\n3. Neither of them is guilty.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) are — plural verb; 'each' singular ആയതിനാൽ തെറ്റ്.\n• (C) were — plural + past; ഇവിടെ present singular വേണം.\n• (D) have — plural verb form; 'each ... has' ആണ് ശരി.\n• 🪤 PSC Trap: തൊട്ടുമുന്നിലെ 'candidates' (plural) കണ്ട് 'are' തിരഞ്ഞെടുക്കിപ്പിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'EACH = ഓരോന്നും വെവ്വേറെ = ഒറ്റയ്ക്ക് = singular'.\n• Rule family: each, every, either, neither, one of → singular.\n• PSC strategy: verb-ന് തൊട്ടുമുന്നിലെ noun നോക്കരുത്; യഥാർത്ഥ subject (each) കണ്ടെത്തുക."
+    }
+  },
+  {
+    "id": "HC-MODEL-002-Q14",
+    "paperId": "HC-MODEL-002",
+    "questionNumber": 14,
+    "topic": "One Word Substitutes",
+    "topicDetail": "Person",
+    "difficulty": "Medium",
+    "questionText": "Choose the one-word substitute for the phrase in italics.\nRaju's grandfather is __a person who cannot read or write__.",
+    "optionA": "invincible",
+    "optionB": "illegible",
+    "optionC": "ineligible",
+    "optionD": "illiterate",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) illiterate\n\n• 'illiterate' = എഴുതാനും വായിക്കാനും അറിയാത്ത ആൾ.\n• Latin 'litera' (അക്ഷരം) + 'il-' (ഇല്ല) → അക്ഷരജ്ഞാനമില്ലാത്തവൻ.\n• 'രാജുവിന്റെ മുത്തച്ഛൻ നിരക്ഷരനാണ്' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'litera' = letter → illiterate = അക്ഷരമറിയാത്തവൻ.\n• One-word substitutes-ൽ വേരിന്റെ (root) അർത്ഥം key ആണ്.\n• ⭐ PSC ആവർത്തനം: look-alike options (il-/in-) വെച്ചുള്ള one-word substitutes സ്ഥിരം.\n• ഉദാഹരണം:\n1. illiterate = read/write അറിയാത്തവൻ.\n2. literate = അക്ഷരജ്ഞാനമുള്ളവൻ.\n3. literacy = സാക്ഷരത.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) invincible — തോൽപ്പിക്കാനാവാത്ത; അർത്ഥം വേറെ.\n• (B) illegible — വായിക്കാൻ പറ്റാത്ത (കൈയക്ഷരം); ആളല്ല, എഴുത്താണ്.\n• (C) ineligible — യോഗ്യതയില്ലാത്ത; വേറെ അർത്ഥം.\n• 🪤 PSC Trap: 'illegible / ineligible' എന്നീ look-alike വാക്കുകൾ ആശയക്കുഴപ്പം ഉണ്ടാക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'illiterate-ൽ letter (litera) ഒളിഞ്ഞിരിക്കുന്നു → അക്ഷരം അറിയാത്തവൻ'.\n• Word family: illegible (വായിക്കാനാവാത്ത എഴുത്ത്) vs illiterate (നിരക്ഷരൻ) — വേർതിരിക്കുക.\n• PSC strategy: option-കളുടെ root കണ്ടെത്തി അർത്ഥം ഊഹിക്കുക; sound-alike-കളെ സൂക്ഷിക്കുക."
+    }
+  },
+  {
+    "id": "HC-MODEL-002-Q15",
+    "paperId": "HC-MODEL-002",
+    "questionNumber": 15,
+    "topic": "Conditionals",
+    "topicDetail": "Type 3",
+    "difficulty": "Hard",
+    "questionText": "Fill in the blank with the correct option.\nIf the KSRTC bus ______ on time, we would not have missed the interview.",
+    "optionA": "came",
+    "optionB": "comes",
+    "optionC": "had come",
+    "optionD": "would come",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) had come\n\n• Main clause-ൽ 'would not have missed' → ഇത് Third Conditional (Type 3) ആണ്.\n• Type 3 Formula: If + had + V3, ... would have + V3.\n• 'ബസ് സമയത്ത് വന്നിരുന്നെങ്കിൽ ഇന്റർവ്യൂ miss ആകില്ലായിരുന്നു' — കഴിഞ്ഞുപോയ, നടക്കാത്ത കാര്യം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Type 3 = If + had + V3 → would have + V3 (past unreal).\n• കഴിഞ്ഞ കാലത്ത് നടക്കാത്ത, സങ്കൽപ്പിക്കുന്ന കാര്യങ്ങൾക്ക് Type 3.\n• ⭐ PSC ആവർത്തനം: 'would have' കണ്ടാൽ if-clause-ൽ 'had + V3' — സ്ഥിരം ചോദ്യം.\n• ഉദാഹരണം:\n1. If I had studied, I would have passed.\n2. If it had rained, the crops would have survived.\n3. If she had called, I would have come.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) came — Type 2 (Second Conditional) form; main clause 'would have' ഉള്ളപ്പോൾ ചേരില്ല.\n• (B) comes — Type 1/present; past unreal സന്ദർഭത്തിന് തെറ്റ്.\n• (D) would come — if-clause-ൽ 'would' ഉപയോഗിക്കില്ല (major error).\n• 🪤 PSC Trap: if-clause-ൽ 'would' വെക്കുന്നത് ഏറ്റവും സാധാരണമായ തെറ്റാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'would HAVE → had HAVE-partner (had + V3)' — ഇവ ജോഡിയായി വരും.\n• Rule family: Type 1 (real) / Type 2 (present unreal) / Type 3 (past unreal).\n• PSC strategy: ആദ്യം main clause നോക്കുക; 'would have + V3' കണ്ടാൽ ഉറപ്പായും if + had + V3."
+    }
+  },
+  {
+    "id": "HC-MODEL-002-Q16",
+    "paperId": "HC-MODEL-002",
+    "questionNumber": 16,
+    "topic": "Articles",
+    "topicDetail": "a/an by sound",
+    "difficulty": "Medium",
+    "questionText": "Fill in the blank with the correct article.\nMy cousin works as ______ MLA's personal assistant in Thiruvananthapuram.",
+    "optionA": "a",
+    "optionB": "an",
+    "optionC": "the",
+    "optionD": "no article",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) an\n\n• 'MLA' എഴുതുമ്പോൾ 'M' വ്യഞ്ജനമാണെങ്കിലും ഉച്ചാരണം 'em' (എം) — vowel sound-ൽ തുടങ്ങുന്നു.\n• Vowel sound-ന് മുന്നിൽ 'an' → an MLA.\n• 'എന്റെ ബന്ധു ഒരു MLA-യുടെ personal assistant ആണ്' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: a/an = അക്ഷരമല്ല, ശബ്ദമാണ് (SOUND) തീരുമാനിക്കുന്നത്.\n• vowel sound → an (an hour, an MLA, an X-ray); consonant sound → a (a university, a one-rupee coin).\n• ⭐ PSC ആവർത്തനം: sound-vs-letter trap PSC-യുടെ പ്രിയപ്പെട്ട ചോദ്യമാണ്.\n• ഉദാഹരണം:\n1. an SSLC certificate.\n2. an honest officer.\n3. a European tourist.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) a — 'M' അക്ഷരം കണ്ട് consonant എന്ന് ധരിക്കുന്നു; പക്ഷേ ശബ്ദം 'em' (vowel).\n• (C) the — ഇവിടെ ഒരു പ്രത്യേക MLA-യെ ചൂണ്ടുന്നില്ല; definite article വേണ്ട.\n• (D) no article — countable singular noun-ന് article നിർബന്ധം.\n• 🪤 PSC Trap: 'M' consonant ആണെന്ന് കണ്ട് 'a' തിരഞ്ഞെടുപ്പിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ചെവി കൊണ്ട് കേൾക്കുക, കണ്ണ് കൊണ്ട് നോക്കരുത്' — ശബ്ദം vowel ആണോ എന്ന് ഉച്ചരിച്ചു നോക്കുക.\n• Rule family: an + vowel-sound (hour, MLA, honour); a + consonant-sound (university, one).\n• PSC strategy: വാക്ക് ഉറക്കെ ഉച്ചരിക്കുക — 'em-el-ay' vowel sound → an."
+    }
+  },
+  {
+    "id": "HC-MODEL-002-Q17",
+    "paperId": "HC-MODEL-002",
+    "questionNumber": 17,
+    "topic": "Types of Sentences",
+    "topicDetail": "Exclamatory",
+    "difficulty": "Easy",
+    "questionText": "Identify the type of the following sentence.\nWhat a thrilling Onam boat race it was!",
+    "optionA": "Declarative",
+    "optionB": "Interrogative",
+    "optionC": "Imperative",
+    "optionD": "Exclamatory",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) Exclamatory\n\n• 'What a ...!' എന്ന് തുടങ്ങി '!' ചിഹ്നത്തിൽ അവസാനിക്കുന്നു → ശക്തമായ വികാരം → Exclamatory sentence.\n• 'എന്തൊരു ആവേശകരമായ ഓണത്തോണി മത്സരം!' എന്നർത്ഥം.\n• വികാരപ്രകടനമാണ് പ്രധാന സൂചന.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: What a...! / How...! + '!' → Exclamatory.\n• Declarative (പ്രസ്താവന, .), Interrogative (ചോദ്യം, ?), Imperative (ആജ്ഞ/അഭ്യർത്ഥന), Exclamatory (വികാരം, !).\n• ⭐ PSC ആവർത്തനം: sentence type തിരിച്ചറിയൽ എളുപ്പ mark ആണ്.\n• ഉദാഹരണം:\n1. How beautiful the sky is! (Exclamatory)\n2. Please close the door. (Imperative)\n3. Where do you live? (Interrogative)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Declarative — വെറും പ്രസ്താവന; ഇവിടെ ശക്തമായ വികാരമുണ്ട്.\n• (B) Interrogative — ചോദ്യമല്ല; '?' ഇല്ല.\n• (C) Imperative — ആജ്ഞയോ അഭ്യർത്ഥനയോ അല്ല.\n• 🪤 PSC Trap: 'What' കണ്ട് Interrogative എന്ന് തെറ്റിദ്ധരിക്കും; പക്ഷേ 'What a...!' exclamatory ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: '!' ചിഹ്നം കണ്ടാൽ = വികാരം = Exclamatory.\n• Rule family: 4 sentence types + അവയുടെ punctuation.\n• PSC strategy: അവസാന punctuation (. ? !) നോക്കി type വേഗം തീരുമാനിക്കുക."
+    }
+  },
+  {
+    "id": "HC-MODEL-002-Q18",
+    "paperId": "HC-MODEL-002",
+    "questionNumber": 18,
+    "topic": "Degrees of Comparison",
+    "topicDetail": "Superlative",
+    "difficulty": "Easy",
+    "questionText": "Choose the correct option to complete the sentence.\nWayanad is one of the ______ hill stations in Kerala.",
+    "optionA": "most beautiful",
+    "optionB": "more beautiful",
+    "optionC": "beautifullest",
+    "optionD": "beautifuller",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) most beautiful\n\n• 'one of the ______ hill stations' — പലതിൽ ഏറ്റവും മുന്നിൽ → Superlative degree.\n• 'beautiful' രണ്ടക്ഷരത്തിലധികമുള്ള വാക്ക് → 'most' ഉപയോഗിക്കുന്നു (most beautiful).\n• 'വയനാട് കേരളത്തിലെ ഏറ്റവും മനോഹരമായ hill stations-ൽ ഒന്നാണ്' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'one of the + Superlative + plural noun'.\n• നീളമുള്ള adjectives: comparative = more + adj; superlative = most + adj.\n• ⭐ PSC ആവർത്തനം: 'one of the most ...' PSC-യിൽ പതിവ്.\n• ഉദാഹരണം:\n1. one of the most famous temples.\n2. the most intelligent student.\n3. a more difficult question.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) more beautiful — Comparative (രണ്ടെണ്ണം താരതമ്യം); 'one of the' superlative ആവശ്യപ്പെടുന്നു.\n• (C) beautifullest — തെറ്റായ രൂപം; നീണ്ട adjective-ന് '-est' ചേർക്കില്ല.\n• (D) beautifuller — തെറ്റായ രൂപം; 'more beautiful' ആണ് ശരി comparative.\n• 🪤 PSC Trap: '-est / -er' നീണ്ട adjectives-ൽ തെറ്റായി ചേർക്കിപ്പിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'one of the' കണ്ടാൽ = MOST (superlative) + plural noun.\n• Rule family: short adj → -er/-est; long adj → more/most.\n• PSC strategy: adjective നീളമുള്ളതാണെങ്കിൽ 'more/most' മാത്രം; '-er/-est' ചേർക്കരുത്."
+    }
+  },
+  {
+    "id": "HC-MODEL-002-Q19",
+    "paperId": "HC-MODEL-002",
+    "questionNumber": 19,
+    "topic": "Correction of Sentences",
+    "topicDetail": "Plural noun 'police'",
+    "difficulty": "Medium",
+    "questionText": "Spot the error in the section in italics and choose the correct option.\nThe police __has arrested__ three suspects in the temple-theft case.",
+    "optionA": "is arrested",
+    "optionB": "has been arrest",
+    "optionC": "have arrested",
+    "optionD": "was arresting",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) have arrested\n\n• 'police' എപ്പോഴും plural noun ആയി പരിഗണിക്കുന്നു → plural verb 'have' വേണം.\n• 'has arrested' തെറ്റ്; ശരി 'have arrested'.\n• 'പോലീസ് മൂന്ന് സംശയികളെ അറസ്റ്റ് ചെയ്തു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: police / people / cattle / poultry → എപ്പോഴും plural verb.\n• 'The police have...', 'The people are...' — singular verb ഒരിക്കലുമില്ല.\n• ⭐ PSC ആവർത്തനം: 'police/people' + verb agreement സ്ഥിരം trap.\n• ഉദാഹരണം:\n1. The police have caught the thief.\n2. People were shouting loudly.\n3. The cattle are grazing.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) is arrested — meaning മാറുന്നു (passive) + singular; സന്ദർഭത്തിന് തെറ്റ്.\n• (B) has been arrest — വ്യാകരണപരമായി തെറ്റ് ('arrest' V3 അല്ല).\n• (D) was arresting — tense/meaning തെറ്റ്; തുടർച്ചയല്ല ഉദ്ദേശിക്കുന്നത്.\n• 🪤 PSC Trap: 'police' singular ആണെന്ന് തോന്നിപ്പിച്ച് 'has' തിരഞ്ഞെടുപ്പിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'പോലീസ് ഒരാളല്ല, ഒരു കൂട്ടമാണ് → plural → have'.\n• Rule family: always-plural nouns — police, people, cattle, poultry, gentry.\n• PSC strategy: ഈ special plural nouns കണ്ടാൽ ഉടനെ plural verb (have/are/were)."
+    }
+  },
+  {
+    "id": "HC-MODEL-002-Q20",
+    "paperId": "HC-MODEL-002",
+    "questionNumber": 20,
+    "topic": "Singular and Plural",
+    "topicDetail": "Greek-origin plural",
+    "difficulty": "Easy",
+    "questionText": "Choose the correct plural form of the word in italics.\nThe science teacher explained a strange natural __phenomenon__ to the class.",
+    "optionA": "phenomenons",
+    "optionB": "phenomenous",
+    "optionC": "phenomenas",
+    "optionD": "phenomena",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) phenomena\n\n• 'phenomenon' എന്ന Greek-origin വാക്കിന്റെ plural 'phenomena' ആണ് (-on → -a).\n• 'അസാധാരണമായ പ്രകൃതി പ്രതിഭാസങ്ങൾ' എന്നർത്ഥം (plural).\n• സാധാരണ '-s' നിയമം ഇവിടെ ബാധകമല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: -on → -a (phenomenon → phenomena; criterion → criteria).\n• Greek/Latin origin വാക്കുകൾക്ക് പ്രത്യേക plural രൂപങ്ങൾ.\n• ⭐ PSC ആവർത്തനം: irregular plurals (crisis→crises, oasis→oases) സ്ഥിരം ചോദ്യം.\n• ഉദാഹരണം:\n1. phenomenon → phenomena.\n2. criterion → criteria.\n3. datum → data.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) phenomenons — സാധാരണ '-s' ചേർത്ത തെറ്റായ രൂപം.\n• (B) phenomenous — adjective പോലെ തോന്നുന്ന വാക്ക്; plural അല്ല.\n• (C) phenomenas — 'phenomena'-യിൽ വീണ്ടും '-s' ചേർത്ത double-plural തെറ്റ്.\n• 🪤 PSC Trap: '-s' ചേർത്താൽ plural ആകുമെന്ന ശീലം ഇവിടെ വീഴ്ത്തുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: '-on → -a' — phenomenON one, phenomenA many.\n• Word family: criterion/criteria, phenomenon/phenomena, bacterium/bacteria.\n• PSC strategy: Greek/Latin വാക്ക് കണ്ടാൽ സാധാരണ '-s' സംശയിക്കുക; പ്രത്യേക plural ഓർക്കുക."
+    }
   }
 ]
