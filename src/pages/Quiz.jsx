@@ -265,7 +265,7 @@ function generateShareCanvas({ score, total, pct, icon, topicStats }) {
   ctx.fillStyle = '#1a9d8e'
   ctx.font = 'bold 22px system-ui, -apple-system, Arial, sans-serif'
   ctx.textAlign = 'center'
-  ctx.fillText('how-come.vercel.app', W / 2, H - 38)
+  ctx.fillText('howcome.in', W / 2, H - 38)
 
   ctx.fillStyle = 'rgba(255,255,255,0.45)'
   ctx.font = '13px system-ui, -apple-system, Arial, sans-serif'
@@ -284,7 +284,7 @@ async function shareResult({ score, total, pct, icon, topicStats }) {
           await navigator.share({
             files: [file],
             title: `HOW COME? Score: ${score}/${total}`,
-            text: `I scored ${pct}% on HOW COME! Kerala PSC English Practice\nPractice free at: how-come.vercel.app`,
+            text: `I scored ${pct}% on HOW COME! Kerala PSC English Practice\nPractice free at: howcome.in`,
           })
         } catch (e) {
           if (e.name !== 'AbortError') {
