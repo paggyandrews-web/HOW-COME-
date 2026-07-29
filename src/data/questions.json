@@ -25144,5 +25144,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Spanish — 'Bona fide' സ്പാനിഷ് ഭാഷയിൽ നിന്ന് വന്ന phrase അല്ല; സ്പാനിഷ് ഭാഷയ്ക്ക് വ്യത്യസ്തമായ പദാവലിയും വ്യാകരണ ഘടനയുമാണ് ഉള്ളത്.\n• 🪤 PSC Trap: ലാറ്റിൻ ഭാഷയിൽ നിന്ന് ഉരുത്തിരിഞ്ഞ ഭാഷകളിൽ (Spanish, French, Italian - Romance languages) ഒന്നായതിനാൽ, 'bona fide' ഈ ഭാഷകളിൽ ഏതെങ്കിലുമൊന്നിൽ നിന്നാണ് എന്ന് തെറ്റിദ്ധരിക്കാൻ സാധ്യതയുണ്ട് — എന്നാൽ ഇത് നേരിട്ട് ലാറ്റിനിൽ നിന്ന് തന്നെ ഇംഗ്ലീഷിലേക്ക് കടമെടുത്തതാണ്.\n• (B) French — 'Bona fide' ഫ്രഞ്ച് ഭാഷയിൽ നിന്ന് വന്ന phrase അല്ല; ഫ്രഞ്ചിൽ നിന്ന് വന്ന ഇംഗ്ലീഷ് phrases-ന് ('déjà vu', 'RSVP' പോലുള്ളവ) വ്യത്യസ്തമായ spelling/pronunciation pattern ഉണ്ട്.\n• (D) Russian — 'Bona fide' റഷ്യൻ ഭാഷയിൽ നിന്ന് വന്നതല്ല; റഷ്യൻ ഭാഷയ്ക്ക് പൂർണ്ണമായും വ്യത്യസ്തമായ script-ഉം പദാവലിയുമാണ് ഉള്ളത്, ഇംഗ്ലീഷിൽ റഷ്യൻ ഉത്ഭവമുള്ള common phrases വളരെ കുറവാണ്.",
       "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: \"BONA FIDE - കോടതിയിലെ ന്യായാധിപൻ ലാറ്റിനിൽ 'നല്ല വിശ്വാസത്തോടെ' എന്ന് പറയുന്നത് സങ്കൽപ്പിക്കൂ!\" — നിയമപരമായ/ഔപചാരികമായ context ലാറ്റിൻ ഉത്ഭവം ഓർക്കാൻ സഹായിക്കും.\n• വാക്ക് കുടുംബം: bona fide, status quo, vice versa, per se, ad hoc, alibi — ഈ common ലാറ്റിൻ phrases ഒരു ലിസ്റ്റായി അർത്ഥസഹിതം പഠിക്കുക.\n• PSC പരീക്ഷാ തന്ത്രം: foreign phrase ഭാഷാ ഉത്ഭവ ചോദ്യങ്ങളിൽ, phrase നിയമപരമോ ഔപചാരികമോ ആയ context-ൽ ഉപയോഗിക്കുന്നതാണെങ്കിൽ ആദ്യം ലാറ്റിൻ ഉത്ഭവം സംശയിക്കുക — ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
     }
+  },
+  {
+    "id": "122-2022-M-Q81",
+    "paperId": "122-2022-M",
+    "questionNumber": 81,
+    "topic": "Question Tags",
+    "questionText": "Choose the correct Question Tag to complete the sentence.\nThey are very hardworking students, __________",
+    "optionA": "isn't they?",
+    "optionB": "aren't they?",
+    "optionC": "don't they?",
+    "optionD": "won't they?",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Aren't they ?\n• 'Sheeja and Ravi are very good friends' എന്ന positive statement-ന്റെ subject 'Sheeja and Ravi' (രണ്ട് പേർ) ഉം auxiliary verb 'are' ഉം ആണ് — question tag-ൽ ഇതേ 'are'-ന്റെ negative രൂപം ('aren't') തന്നെ വരണം.\n• 'ഷീജയും രവിയും വളരെ നല്ല സുഹൃത്തുക്കളാണല്ലേ?' എന്നാണ് അർത്ഥം — subject plural ('two people') ആയതിനാൽ tag-ലെ pronoun 'they' ആയിരിക്കണം, 'their'/'them' അല്ല.\n• Question tag-ലെ pronoun എപ്പോഴും subject-നെ replace ചെയ്യുന്ന subject pronoun ('they') ആയിരിക്കണം — object pronoun ('them') ഓ possessive pronoun ('their') ഓ ഇവിടെ ഉപയോഗിക്കാൻ പാടില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 എളുപ്പ സൂത്രവാക്യം: പോസിറ്റീവ് വാക്യം ➔ നെഗറ്റീവ് ചോദ്യശകലം! ബഹുവചന subject ➔ 'THEY' (subject pronoun മാത്രം, 'them'/'their' അല്ല)!\n• ചോദ്യശകലത്തിൽ (question tag) രണ്ട് കാര്യങ്ങൾ ശരിയാക്കണം — ഒന്ന്, സഹായക ക്രിയയുടെ ധ്രുവത (positive വാക്യത്തിന് negative tag); രണ്ട്, സർവ്വനാമത്തിന്റെ രൂപം (subject pronoun 'they', object 'them' അല്ല).\n• ബന്ധപ്പെട്ട വാക്ക് കൂട്ടം: they (subject pronoun - tag-ൽ ഉപയോഗിക്കുന്നത്), them (object pronoun), their (possessive pronoun) — ഈ മൂന്ന് രൂപങ്ങളും വെവ്വേറെ വ്യാകരണ ധർമ്മം ഉള്ളവയാണ്, ചോദ്യശകലത്തിൽ 'they' മാത്രമേ ശരിയാകൂ.\n• ⭐ PSC ആവർത്തനം: ബഹുവചന subject-ന്റെ ചോദ്യശകലത്തിൽ ശരിയായ സർവ്വനാമ രൂപം ('they' vs 'them'/'their') തിരഞ്ഞെടുക്കൽ PSC പരീക്ഷയിൽ Question Tags വിഭാഗത്തിൽ പതിവായി ചോദിക്കുന്നു!\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. രവിയും ഷീജയും സുഹൃത്തുക്കളാണ്, അല്ലേ? (Ravi and Sheeja are friends, aren't they?) (ബഹുവചനം → they)\n2. ആൺകുട്ടികൾ കളിക്കുകയാണ്, അല്ലേ? (The boys are playing, aren't they?) (ബഹുവചനം → they)\n3. നിന്റെ മാതാപിതാക്കൾ വരുന്നുണ്ട്, അല്ലേ? (Your parents are coming, aren't they?) (ബഹുവചനം → they)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Are they ? — ഇത് ഒരു positive tag ആണ്, എന്നാൽ statement positive ('are very good friends') ആയതിനാൽ tag negative ('aren't they?') ആയിരിക്കണം.\n• 🪤 PSC Trap: 'Are they?' pronoun ('they') ശരിയായി തിരഞ്ഞെടുത്തിരിക്കുന്നതിനാൽ ഭാഗികമായി ശരിയാണെന്ന് തോന്നാം, എന്നാൽ positive-negative പോളാരിറ്റി തെറ്റാണ്.\n• (C) Aren't their ? — 'Their' ഒരു possessive pronoun ആണ് ('അവരുടെ'), question tag-ൽ subject pronoun ('they') ആണ് വേണ്ടത്, possessive അല്ല.\n• (D) Aren't them ? — 'Them' ഒരു object pronoun ആണ്, question tag-ന്റെ subject position-ൽ ഇത് ഉപയോഗിക്കാൻ പാടില്ല; subject pronoun 'they' മാത്രമേ ഇവിടെ ശരിയാകൂ.",
+      "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: \"TAG-ന്റെ അവസാനം എപ്പോഴും SUBJECT PRONOUN (I, you, he, she, it, we, they) മാത്രം — OBJECT/POSSESSIVE ഒരിക്കലും വരില്ല!\" — 'they' ഓർത്താൽ 'them'/'their' confuse ചെയ്യില്ല.\n• വാക്ക് കുടുംബം: they-them-their (subject-object-possessive); he-him-his; she-her-her — ഈ pronoun case-families question tag-ൽ subject form മാത്രം ഉപയോഗിക്കുന്നു എന്ന് ഓർക്കുക.\n• PSC പരീക്ഷാ തന്ത്രം: question tag ചോദ്യങ്ങളിൽ, tag-ന്റെ pronoun ഭാഗം subject pronoun ആണോ എന്ന് ആദ്യം പരിശോധിക്കുക, എന്നിട്ട് auxiliary verb-ന്റെ polarity ശരിയാക്കുക — ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "122-2022-M-Q82",
+    "paperId": "122-2022-M",
+    "questionNumber": 82,
+    "topic": "Prepositions",
+    "questionText": "Choose the correct preposition to fill in the blank.\nWe consider ourselves fortunate __________ winning the lottery.",
+    "optionA": "on",
+    "optionB": "at",
+    "optionC": "of",
+    "optionD": "in",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) In\n• 'My friend is fortunate ______ winning a lottery worth one crore rupees' എന്ന വാക്യത്തിൽ 'fortunate' എന്ന adjective-ന്റെ fixed preposition 'in' ആണ് — 'fortunate in' + gerund ('winning') എന്ന structure ഒരു നേട്ടത്തിലോ വിജയത്തിലോ ഉള്ള ഭാഗ്യത്തെ സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു.\n• 'എന്റെ സുഹൃത്ത് ഒരു കോടി രൂപ വിലയുള്ള ലോട്ടറി അടിച്ചതിൽ ഭാഗ്യവാനാണ്' എന്നാണ് അർത്ഥം — 'fortunate in winning' ഒരു സ്ഥിരം idiomatic collocation ആണ്.\n• Adjective + preposition combinations (fortunate in, interested in, good at) പലപ്പോഴും fixed ആണ്, logic ഉപയോഗിച്ച് ഊഹിക്കാൻ കഴിയാത്തവയാണ് — ഇവ മനഃപാഠമാക്കേണ്ട ഒരു വിഭാഗമാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 എളുപ്പ സൂത്രവാക്യം: FORTUNATE IN + gerund = ഒരു കാര്യത്തിൽ ഭാഗ്യമുള്ള! ഇത് ഒരു fixed adjective-preposition combination ആണ്!\n• 'Fortunate' എന്ന adjective-ന് ശേഷം ഒരു പ്രവർത്തി/നേട്ടം സൂചിപ്പിക്കുമ്പോൾ 'in' + gerund ('in winning', 'in finding') എന്ന structure ഉപയോഗിക്കണം — ഇത് ഇംഗ്ലീഷിലെ ഒരു സ്ഥിരം പ്രയോഗരീതിയാണ്.\n• ബന്ധപ്പെട്ട വാക്ക് കൂട്ടം: fortunate in (ഭാഗ്യമുള്ള), interested in (താൽപ്പര്യമുള്ള), successful in (വിജയകരമായ), skilled in (വൈദഗ്ധ്യമുള്ള) — ഈ 'adjective + in + gerund' pattern ഉള്ള വാക്കുകൾ ഒരുമിച്ച് പഠിക്കുക.\n• ⭐ PSC ആവർത്തനം: 'Fortunate in' പോലുള്ള fixed adjective-preposition collocations PSC പരീക്ഷയിൽ Prepositions വിഭാഗത്തിൽ പതിവായി ചോദിക്കുന്നു!\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. She was fortunate in finding a good job. (fortunate in - ഭാഗ്യമുള്ള)\n2. He is interested in music. (interested in)\n3. They were successful in completing the project. (successful in)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Over — 'Over' സ്ഥലം/മുകളിൽ/സംഖ്യാപരമായ അധികം എന്നീ അർത്ഥങ്ങൾക്ക് ഉപയോഗിക്കുന്നു; 'fortunate' എന്ന adjective-ന്റെ fixed preposition ഇത് അല്ല.\n• 🪤 PSC Trap: 'By' (B) 'വഴി/എന്നതിനാൽ' എന്ന അർത്ഥത്തിൽ ചില contexts-ൽ ശരിയാണെന്ന് തോന്നാം, എന്നാൽ 'fortunate' എന്ന adjective-ന്റെ fixed collocation 'in' തന്നെയാണ്.\n• (C) With — 'With' സഹവർത്തിത്വം/ഉപകരണം സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു; 'fortunate' എന്ന adjective-ന്റെ fixed preposition ഇത് അല്ല.\n• (B) By — 'By' മാർഗ്ഗം/ഏജന്റ് സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു (passive voice-ൽ); 'fortunate' എന്ന adjective-ന് ഇത് fixed preposition അല്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: \"FORTUNATE IN - ഭാഗ്യത്തിന്റെ 'അകത്ത്' (IN) വീണത് പോലെ സങ്കൽപ്പിക്കൂ!\" — 'in' എന്ന preposition ഭാഗ്യത്തിന്റെ ഒരു പ്രത്യേക സന്ദർഭത്തെ സൂചിപ്പിക്കുന്നു.\n• വാക്ക് കുടുംബം: fortunate in, interested in, successful in, skilled in — ഈ 'adjective + in' fixed combinations ഒരു ലിസ്റ്റായി മനഃപാഠമാക്കുക.\n• PSC പരീക്ഷാ തന്ത്രം: adjective + preposition ചോദ്യങ്ങളിൽ, logic ഉപയോഗിക്കാതെ, ഓരോ adjective-ന്റെയും fixed/സ്ഥിരം preposition combination മനഃപാഠമാക്കി വെക്കുക — ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "122-2022-M-Q83",
+    "paperId": "122-2022-M",
+    "questionNumber": 83,
+    "topic": "Conditionals",
+    "questionText": "Choose the correct option to complete the sentence.\nIf we had followed the instructions properly, the increasing Covid cases __________ well.",
+    "optionA": "would decrease",
+    "optionB": "would have decreased",
+    "optionC": "would have been decreased",
+    "optionD": "will decrease",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) would have decreased\n• 'If we had followed the instructions of the Health Department' എന്ന if-clause Past Perfect ('had followed') ആണ് — ഇത് Third Conditional structure ആണ്, main clause-ൽ 'would have + past participle' ആവശ്യമാണ്.\n• 'Covid cases' (കോവിഡ് കേസുകൾ) ഇവിടെ subject ആണ്, 'decrease' എന്ന ക്രിയ ഇവിടെ intransitive ആയി ഉപയോഗിക്കുന്നു (കേസുകളുടെ എണ്ണം സ്വയമേവ 'കുറയുന്നത്' സൂചിപ്പിക്കാൻ, ബാഹ്യ ഏജന്റ് ആവശ്യമില്ലാതെ) — അതിനാൽ passive ('would have been decreased') അല്ല, active ('would have decreased') ആണ് ശരി.\n• 'ആരോഗ്യ വകുപ്പിന്റെ നിർദ്ദേശങ്ങൾ പാലിച്ചിരുന്നെങ്കിൽ, വർദ്ധിച്ചുവരുന്ന കോവിഡ് കേസുകൾ നന്നായി കുറയുമായിരുന്നു' എന്നാണ് അർത്ഥം — 'cases decreased' (കേസുകൾ കുറഞ്ഞു) എന്നത് 'the rain stopped' പോലെ ഒരു സ്വാഭാവിക/intransitive സംഭവമായി കണക്കാക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 എളുപ്പ സൂത്രവാക്യം: IF + HAD + V3 ➔ WOULD HAVE + V3 (മൂന്നാം Conditional)! DECREASE പോലുള്ള ക്രിയകൾ intransitive ആയും ഉപയോഗിക്കാം!\n• 'Decrease', 'increase', 'improve', 'change' പോലുള്ള ചില ക്രിയകൾ transitive ('X decreased Y') ആയും intransitive ('Y decreased') ആയും ഉപയോഗിക്കാം — subject തന്നെ സ്വയമേവ മാറുന്നു എന്ന അർത്ഥത്തിൽ ഇവ passive ആക്കേണ്ട ആവശ്യമില്ല.\n• ബന്ധപ്പെട്ട വാക്ക് കൂട്ടം: cases decreased/increased (intransitive - എണ്ണം സ്വയമേവ മാറുന്നു); prices increased/decreased; temperature rose/fell — ഈ 'അളവ്/എണ്ണം മാറ്റം' സൂചിപ്പിക്കുന്ന ക്രിയകൾ പലപ്പോഴും intransitive ആയി ഉപയോഗിക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: Third Conditional-ൽ intransitive verbs-ന്റെ ('decrease', 'increase') ശരിയായ ഉപയോഗം PSC പരീക്ഷയിൽ Conditionals വിഭാഗത്തിൽ ഒരു സൂക്ഷ്മമായ trap ആണ്!\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. If we had acted sooner, the damage would have decreased. (intransitive - damage decreased)\n2. If sales had improved, profits would have increased. (intransitive - profits increased)\n3. If we had followed the rules, the cases would have decreased. (intransitive - cases decreased)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) would have decrease — ഇവിടെ 'decrease' base form ആണ്, past participle ('decreased') അല്ല; Third Conditional-ന്റെ formula 'would have + past participle' ('would have decreased') ആണ്, 'would have + base form' അല്ല.\n• 🪤 PSC Trap: 'would have decrease' എന്ന structure-ൽ 'have' കണ്ടതിനാൽ ശരിയാണെന്ന് തോന്നാം, എന്നാൽ 'have'-ന് ശേഷം എപ്പോഴും past participle (V3) വേണം, base form (V1) അല്ല.\n• (C) would have been decreased — ഇത് passive voice structure ആണ്, എന്നാൽ 'cases' ഇവിടെ intransitive ആയി 'സ്വയമേവ കുറയുന്നത്' ആയാണ് ഉദ്ദേശിക്കുന്നത് (ഒരു ബാഹ്യ agent ഇല്ലാതെ), അതിനാൽ active ('would have decreased') ആണ് ഔദ്യോഗിക ഉത്തരം.\n• (D) would have be decreased — ഇത് വ്യാകരണപരമായി തെറ്റായ structure ആണ് ('have be' എന്നത് ഒരു correct combination അല്ല); 'have been' ആയിരിക്കണം passive-ന്, എന്നാൽ ഇവിടെ passive തന്നെ ആവശ്യമില്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: \"CASES DECREASED = 'കേസുകൾ സ്വയമേവ കുറഞ്ഞു' (മഴ നിന്നത് പോലെ) — PASSIVE വേണ്ട!\" — count/അളവ് മാറ്റം സൂചിപ്പിക്കുന്ന ക്രിയകൾ പലപ്പോഴും intransitive ആണ്.\n• വാക്ക് കുടുംബം: decrease, increase, improve, rise, fall — ഈ ക്രിയകൾ transitive ('reduce X') ഉം intransitive ('X decreased') ഉം ആയി രണ്ട് വിധത്തിലും ഉപയോഗിക്കാം, context നോക്കി തീരുമാനിക്കണം.\n• PSC പരീക്ഷാ തന്ത്രം: Third Conditional ചോദ്യങ്ങളിൽ, 'have' + past participle formula ഉറപ്പിച്ച ശേഷം, subject സ്വയമേവ മാറുന്നതാണോ (intransitive) അതോ ബാഹ്യ agent ആവശ്യമുണ്ടോ (passive) എന്ന് context വെച്ച് തീരുമാനിക്കുക — ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "122-2022-M-Q84",
+    "paperId": "122-2022-M",
+    "questionNumber": 84,
+    "topic": "Tenses",
+    "questionText": "Choose the correct option to complete the sentence.\nBy the time the doctor arrived, the patient __________ already.",
+    "optionA": "Came",
+    "optionB": "Come",
+    "optionC": "Had come",
+    "optionD": "Comes",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Came\n• 'Rahoof had worked for one year in Bangalore before he _____ here' എന്ന വാക്യത്തിൽ 'had worked' (Past Perfect) ആദ്യം സംഭവിച്ച പ്രവർത്തിയെ സൂചിപ്പിക്കുന്നു — 'before' clause-ലെ പിന്നീട് സംഭവിച്ച പ്രവർത്തി Simple Past ('came') ആയിരിക്കണം.\n• 'റഹൂഫ് ഇവിടെ വരുന്നതിന് മുൻപ് ബാംഗ്ലൂരിൽ ഒരു വർഷം ജോലി ചെയ്തിരുന്നു' എന്നാണ് അർത്ഥം — രണ്ട് past events-ന്റെ ക്രമം (sequence) വ്യക്തമാക്കാൻ, ആദ്യം സംഭവിച്ചത് Past Perfect-ലും, പിന്നീട് സംഭവിച്ചത് Simple Past-ലും ആയിരിക്കണം.\n• 'Before he came here' എന്ന ഘടന standard ആണ് — 'before' + Simple Past, main clause-ൽ Past Perfect ('had worked') ഉള്ളപ്പോൾ ഈ combination ശരിയായ sequence-of-tenses പാലിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 എളുപ്പ സൂത്രവാക്യം: HAD + മൂന്നാം രൂപം (ആദ്യം സംഭവിച്ചത്) ... BEFORE + ലളിത ഭൂതകാലം (പിന്നീട് സംഭവിച്ചത്)!\n• 'Before' clause-ൽ ലളിത ഭൂതകാലം ഉപയോഗിക്കുമ്പോൾ, മുഖ്യ വാക്യത്തിൽ ആ 'before' സംഭവത്തിന് മുൻപ് പൂർത്തിയായ പ്രവർത്തി കാണിക്കാൻ Past Perfect ('had + മൂന്നാം രൂപം') ഉപയോഗിക്കണം — ഇത് 'സമയക്രമം' (sequence of tenses) എന്ന നിയമമാണ്.\n• ബന്ധപ്പെട്ട മാറ്റങ്ങൾ: had worked...before he came (Past Perfect + ലളിത ഭൂതകാലം); had left...before it started raining; had finished...before she arrived — ഈ ഘടനയിൽ 'before'-ന് മുൻപ് Past Perfect, 'before'-ന് ശേഷം ലളിത ഭൂതകാലം വരും.\n• ⭐ PSC ആവർത്തനം: 'Had + മൂന്നാം രൂപം...before + ലളിത ഭൂതകാലം' എന്ന സമയക്രമ pattern PSC പരീക്ഷയിൽ കാലം (Tenses) വിഭാഗത്തിൽ പതിവായി ചോദിക്കുന്നു!\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. അവൻ വരുന്നതിന് മുൻപ് അവൾ ജോലി പൂർത്തിയാക്കിയിരുന്നു (She had finished her work before he came). (had finished → came)\n2. മഴ തുടങ്ങുന്നതിന് മുൻപ് അവർ പോയിരുന്നു (They had left before the rain started). (had left → started)\n3. രാഷ്ട്രീയത്തിൽ ചേരുന്നതിന് മുൻപ് അവൻ നിയമം പഠിച്ചിരുന്നു (He had studied law before he joined politics). (had studied → joined)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) Comes — ഇത് Simple Present tense ആണ്, past context-ലുള്ള ഈ വാക്യത്തിന് (had worked - past) ചേരില്ല; tense consistency ലംഘിക്കപ്പെടുന്നു.\n• 🪤 PSC Trap: 'Comes' ഒരു common/simple form ആയതിനാൽ ചിന്തിക്കാതെ തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്, എന്നാൽ മുഴുവൻ വാക്യവും past context-ൽ ആണ് എന്ന് ശ്രദ്ധിക്കാതെ പോകരുത്.\n• (C) Coming — ഇത് ഒറ്റയ്ക്ക് ഒരു gerund/participle രൂപം മാത്രമാണ്, ഒരു auxiliary verb ഇല്ലാതെ ഇത് main verb ആയി ഒരു clause പൂർത്തിയാക്കാൻ കഴിയില്ല.\n• (D) Had come — ഇത് Past Perfect ആണ്, എന്നാൽ main clause-ലും 'had worked' (Past Perfect) ഉള്ളതിനാൽ, രണ്ട് Past Perfect clauses ഉപയോഗിച്ചാൽ ഏതാണ് ആദ്യം സംഭവിച്ചത് എന്ന sequence വ്യക്തമല്ലാതാകും — 'before' clause-ൽ Simple Past ('came') ആണ് sequence വ്യക്തമാക്കാൻ ശരിയായ തിരഞ്ഞെടുപ്പ്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: \"BEFORE എന്ന വാക്ക് ഒരു 'സമയരേഖ' വരയ്ക്കുന്നു — HAD + V3 ഇടതുവശത്ത് (ആദ്യം), SIMPLE PAST വലതുവശത്ത് (പിന്നീട്)!\" — ഈ സമയരേഖ മനസ്സിൽ വരച്ചാൽ sequence confuse ആകില്ല.\n• വാക്ക് കുടുംബം: had worked-came, had finished-arrived, had left-started — Past Perfect + Simple Past ജോടികൾ 'before'/'after' ഉപയോഗിച്ച് practice ചെയ്യുക.\n• PSC പരീക്ഷാ തന്ത്രം: 'before'/'after' ഉള്ള sentences-ൽ, ഏത് പ്രവർത്തിയാണ് ആദ്യം നടന്നതെന്ന് കണ്ടെത്തി, ആ പ്രവർത്തിക്ക് Past Perfect ഉം പിന്നീടുള്ളതിന് Simple Past ഉം നൽകുക — ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "122-2022-M-Q85",
+    "paperId": "122-2022-M",
+    "questionNumber": 85,
+    "topic": "Correction of Sentences",
+    "questionText": "Spot the error in the sentence and choose the correct option.\nWe are seeking a job where we've applying our skills for the past two years.",
+    "optionA": "we've applied",
+    "optionB": "where we've been applying",
+    "optionC": "where we applies",
+    "optionD": "No error",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) where we've applying\n• 'Where we've applying' എന്ന ഭാഗത്ത് വ്യാകരണപരമായ ഒരു പിശകുണ്ട് — 'we've' (we have) എന്ന വർത്തമാനകാല പൂർണ്ണഭൂത സഹായക ക്രിയയ്ക്ക് ശേഷം 'applying' (ing-രൂപം) നേരിട്ട് വരാൻ പാടില്ല; ഇത് 'we've been applying' എന്ന് ആയിരിക്കണം.\n• 'Have/has' എന്ന സഹായക ക്രിയയ്ക്ക് ശേഷം മൂന്നാം രൂപം ('applied') വരണം, അല്ലെങ്കിൽ തുടരുന്ന പ്രവർത്തിക്ക് 'have been + ing-രൂപം' ('have been applying') വേണം — 'have' + 'applying' (ing-രൂപം മാത്രം) എന്ന കൂട്ടിച്ചേർക്കൽ വ്യാകരണപരമായി അപൂർണ്ണമാണ്, 'been' എന്ന വാക്ക് ഇടയിൽ ചേർക്കാതെ പോയതാണ് ഇവിടത്തെ പിശക്.\n• മറ്റ് മൂന്ന് ഭാഗങ്ങളും വ്യാകരണപരമായി ശരിയായ ഘടനകളാണ് — 'where we've applying' എന്ന ഭാഗത്ത് മാത്രമാണ് ഈ പിശക് കാണുന്നത്, ബാക്കി ഭാഗങ്ങളിൽ ഒരു തെറ്റും ഇല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 എളുപ്പ സൂത്രവാക്യം: HAVE/HAS + VERB-ING (ഒറ്റയ്ക്ക്) = തെറ്റ്! HAVE/HAS BEEN + VERB-ING = ശരി (Present Perfect Continuous)!\n• 'Have/has' എന്ന auxiliary verb-ന് ശേഷം, action തുടരുന്നു എന്ന് കാണിക്കാൻ 'been' + verb-ing ('been applying') വേണം — 'been' ഒഴിവാക്കിയാൽ ('have applying') ഇത് വ്യാകരണപരമായി അസാധുവായ ഒരു structure ആയി മാറും.\n• ബന്ധപ്പെട്ട വാക്ക് കൂട്ടം: have applied (Present Perfect Simple - പൂർത്തിയായ പ്രവർത്തി); have been applying (Present Perfect Continuous - തുടരുന്ന പ്രവർത്തി); have applying (❌ തെറ്റായ combination) — ഈ വ്യത്യാസങ്ങൾ കൃത്യമായി ഓർക്കണം.\n• ⭐ PSC ആവർത്തനം: 'Have/has' + verb-ing (been ഒഴിവാക്കിയത്) പോലുള്ള error-spotting ചോദ്യങ്ങൾ PSC പരീക്ഷയിൽ Correction of Sentences വിഭാഗത്തിൽ പതിവായി ചോദിക്കുന്നു!\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. We have been applying for jobs since June. (have been + applying - ശരി)\n2. She has been working here for years. (has been + working - ശരി)\n3. Wrong: They have working hard. (have + working - തെറ്റ്, 'been' വേണം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) would have looked like me — ഇത് വ്യാകരണപരമായി ശരിയായ structure ആണ് (Third Conditional-ന്റെ ഭാഗം, 'would have + past participle'); ഇവിടെ പിശകില്ല.\n• 🪤 PSC Trap: ഈ ചോദ്യത്തിൽ നാല് complex-ആയി തോന്നുന്ന phrases ഉള്ളതിനാൽ, ഏതെങ്കിലും ഒന്നിൽ പിശക് ഉണ്ടെന്ന് അമിതമായി ചിന്തിച്ച് ശരിയായ ഭാഗങ്ങളെ തെറ്റായി അടയാളപ്പെടുത്താൻ സാധ്യതയുണ്ട് — ഓരോ ഭാഗവും independently പരിശോധിക്കണം.\n• (C) I was mistaken — ഇത് വ്യാകരണപരമായി പൂർണ്ണമായി ശരിയായ ഒരു simple sentence ആണ് (Simple Past, subject-verb agreement ശരി); ഇവിടെ പിശകില്ല.\n• (D) I'll let you see a proof of it — ഇത് വ്യാകരണപരമായി ശരിയായ structure ആണ് ('let' + object + base verb - causative verb pattern); ഇവിടെ പിശകില്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: \"HAVE/HAS കണ്ടാൽ അടുത്തത് 'BEEN' ആണോ 'V3' ആണോ എന്ന് ചെക്ക് ചെയ്യൂ — 'V-ING' ഒറ്റയ്ക്ക് വരാൻ പാടില്ല!\" — 'been' മറന്നാൽ ഈ structure തകരും.\n• വാക്ക് കുടുംബം: have applied (simple perfect), have been applying (perfect continuous) — ഈ രണ്ട് structure-ഉം context അനുസരിച്ച് ഉപയോഗിക്കണം, 'been' ഒരിക്കലും ഒഴിവാക്കരുത്.\n• PSC പരീക്ഷാ തന്ത്രം: error-spotting ചോദ്യങ്ങളിൽ, ഓരോ ഭാഗവും independent ആയി grammar rules വെച്ച് പരിശോധിക്കുക, auxiliary verb + main verb combinations പ്രത്യേകം ശ്രദ്ധിക്കുക — ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "122-2022-M-Q86",
+    "paperId": "122-2022-M",
+    "questionNumber": 86,
+    "topic": "Spelling",
+    "questionText": "Which of the following words is wrongly spelt?",
+    "optionA": "Brutal",
+    "optionB": "Sulphide",
+    "optionC": "Interrepted",
+    "optionD": "Process",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Interrepted\n• 'Interrepted' എന്ന spelling തെറ്റാണ് — 'ഇടയിൽ പ്രവേശിക്കുക/തടസ്സപ്പെടുത്തുക' എന്നർത്ഥമുള്ള ശരിയായ വാക്ക് 'Interrupted' ആണ് (I-N-T-E-R-R-U-P-T-E-D), ഇവിടെ 'u' എന്ന letter-ന് പകരം തെറ്റായി 'e' ഉപയോഗിച്ചിരിക്കുന്നു.\n• 'Brutal' (ക്രൂരമായ), 'Sulphide' (സൾഫൈഡ്, ഒരു രാസ സംയുക്തം), 'Process' (പ്രക്രിയ) എന്നീ മൂന്ന് വാക്കുകളും ശരിയായി spell ചെയ്തിരിക്കുന്നു — ഇവയിൽ spelling പിശകില്ല.\n• 'Interrupted' എന്ന വാക്ക് ലാറ്റിൻ 'inter-' (ഇടയിൽ) + 'rumpere' (തകർക്കുക) എന്നതിൽ നിന്നാണ് — 'rupted' എന്ന ഭാഗത്ത് 'u' ആണ് ശരിയായ letter, 'e' അല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 എളുപ്പ സൂത്രവാക്യം: INTERRUPTED = INTER (ഇടയിൽ) + RUPT (തകർക്കൽ) + ED — 'U' letter ശ്രദ്ധിക്കുക, 'E' അല്ല!\n• 'Rupt' എന്ന ലാറ്റിൻ root (തകർക്കുക/പൊട്ടിക്കുക എന്നർത്ഥം) ഉള്ള വാക്കുകളിൽ ('interrupt', 'erupt', 'disrupt', 'corrupt') 'u' എന്ന vowel സ്ഥിരമായി വരുന്നു — ഇത് ഓർത്താൽ ഈ word family-യിലെ spelling പിശകുകൾ ഒഴിവാക്കാം.\n• ബന്ധപ്പെട്ട വാക്ക് കൂട്ടം: interrupt-erupt-disrupt-corrupt-bankrupt (എല്ലാം 'rupt' root ഉള്ള, 'u' letter നിർബന്ധമായ വാക്കുകൾ) — ഈ word family ഒരുമിച്ച് പഠിക്കുക.\n• ⭐ PSC ആവർത്തനം: 'Rupt' root ഉള്ള വാക്കുകളുടെ spelling ('interrupted', 'disrupted') PSC പരീക്ഷയിൽ Spelling വിഭാഗത്തിൽ പതിവായി ചോദിക്കുന്നു!\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. The meeting was interrupted by a phone call. (interrupted - ശരിയായ spelling)\n2. The volcano erupted suddenly. (erupted - 'rupt' root)\n3. Traffic was disrupted due to the accident. (disrupted - 'rupt' root)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Brutal — ഈ വാക്ക് ശരിയായി spell ചെയ്തിരിക്കുന്നു ('ക്രൂരമായ' എന്നർത്ഥം); ഇതിൽ spelling പിശകില്ല, അതിനാൽ ഈ ഓപ്ഷൻ ഉത്തരമല്ല.\n• 🪤 PSC Trap: 'Sulphide' (B), 'Process' (D) പോലുള്ള technical/common വാക്കുകൾ കണ്ടാൽ spelling പിശകുണ്ടോ എന്ന് സംശയിക്കാൻ സാധ്യതയുണ്ട്, എന്നാൽ ഇവ രണ്ടും ശരിയായി spell ചെയ്തതാണ്.\n• (B) Sulphide — ഈ വാക്ക് ശരിയായി spell ചെയ്തിരിക്കുന്നു (ഒരു രാസ സംയുക്തത്തിന്റെ പേര്); ഇവിടെ പിശകില്ല.\n• (D) Process — ഈ വാക്ക് ശരിയായി spell ചെയ്തിരിക്കുന്നു ('പ്രക്രിയ' എന്നർത്ഥം); ഇവിടെ പിശകില്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: \"INTERRUPTED-ൽ 'RUPT' (തകർക്കൽ) ഭാഗത്ത് 'U' എപ്പോഴും വരും — 'INTERRE' അല്ല, 'INTERRU' ആണ്!\" — 'rupt' root ഉള്ള വാക്കുകളിൽ 'u' നിർബന്ധമാണ് എന്ന് ഓർക്കുക.\n• വാക്ക് കുടുംബം: interrupt, erupt, disrupt, corrupt, bankrupt — ഈ 'rupt' root ഉള്ള വാക്കുകൾ ഒരു ലിസ്റ്റായി spelling ശ്രദ്ധിച്ച് പഠിക്കുക.\n• PSC പരീക്ഷാ തന്ത്രം: wrongly-spelt ചോദ്യങ്ങളിൽ, ഓരോ ഓപ്ഷനും അതിന്റെ root word/etymology-യുമായി താരതമ്യം ചെയ്ത് letter-by-letter പരിശോധിക്കുക — ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "122-2022-M-Q87",
+    "paperId": "122-2022-M",
+    "questionNumber": 87,
+    "topic": "Spelling",
+    "questionText": "Select the correctly spelt word.",
+    "optionA": "Neverthless",
+    "optionB": "Nevardhless",
+    "optionC": "Nevartheless",
+    "optionD": "Nevertheless",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) Nevertheless\n• 'Nevertheless' (എന്നിരുന്നാലും/എന്നിരുന്നാലും) എന്ന വാക്കിന്റെ ശരിയായ spelling N-E-V-E-R-T-H-E-L-E-S-S ആണ് — ഇത് 'never' + 'the' + 'less' എന്നീ മൂന്ന് ഘടകങ്ങൾ ചേർന്നുണ്ടായ compound word ആണ്.\n• ഈ വാക്ക് മൂന്ന് ചെറിയ, പരിചിതമായ വാക്കുകൾ ('never', 'the', 'less') ചേർന്നതാണെന്ന് തിരിച്ചറിഞ്ഞാൽ, spelling ഓർക്കാൻ എളുപ്പമാകും — ഓരോ ഘടകവും അതിന്റെ സ്വന്തം ശരിയായ spelling നിലനിർത്തുന്നു.\n• 'Nevarthless' (C), 'Neverthless' (A), 'Nevardhless' (B) എന്നിവ ഈ മൂന്ന് ഘടക വാക്കുകളുടെ (never+the+less) letters തെറ്റായി ക്രമീകരിച്ചതോ ഒഴിവാക്കിയതോ ആയ variants ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 എളുപ്പ സൂത്രവാക്യം: NEVERTHELESS = NEVER + THE + LESS — മൂന്ന് ചെറിയ വാക്കുകൾ ചേർത്ത് ഓർക്കുക!\n• Compound words-ന്റെ spelling ഓർക്കാൻ ഏറ്റവും എളുപ്പ വഴി, അവയെ ഘടക പദങ്ങളായി വിഭജിച്ച് ഓരോന്നിന്റെയും spelling പ്രത്യേകം ഓർക്കുക എന്നതാണ് — 'nevertheless' = 'never' (N-E-V-E-R) + 'the' (T-H-E) + 'less' (L-E-S-S).\n• ബന്ധപ്പെട്ട വാക്ക് കൂട്ടം: nevertheless (എന്നിരുന്നാലും), notwithstanding (എന്നിരുന്നാലും), however (എന്നിരുന്നാലും) — ഇവയെല്ലാം contrast/concession സൂചിപ്പിക്കുന്ന സമാനാർത്ഥ പദങ്ങളാണ്.\n• ⭐ PSC ആവർത്തനം: 'Nevertheless' spelling PSC പരീക്ഷയിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന ഒരു spelling trap ആണ്, കാരണം ഇത് ഒരു നീണ്ട compound word ആണ്!\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. It was raining; nevertheless, we went out. (nevertheless - ശരിയായ spelling)\n2. She was tired; nevertheless, she finished the work. (nevertheless)\n3. The task was hard, but nevertheless, they succeeded. (nevertheless)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Neverthless — ഇവിടെ 'e' എന്ന letter ('the' എന്ന ഭാഗത്ത്) വിട്ടുപോയിരിക്കുന്നു; ശരിയായ spelling-ൽ 'ther' അല്ല 'the' + 'less' എന്ന ക്രമമാണ് വേണ്ടത്.\n• 🪤 PSC Trap: ഈ നാല് ഓപ്ഷനുകളും ഉച്ചാരണത്തിൽ ഏകദേശം സമാനമായി തോന്നാം ('നെവർദ്‌ലെസ്' എന്ന് ധൃതിയിൽ വായിക്കുമ്പോൾ), letter-by-letter ശ്രദ്ധിക്കാതെ പോയാൽ ശരിയായ spelling തിരിച്ചറിയാൻ ബുദ്ധിമുട്ടാകും.\n• (B) Nevardhless — ഇവിടെ 'er' എന്നത് 'ar' ആയും, 'the' എന്നത് 'dh' ആയും തെറ്റായി മാറിയിരിക്കുന്നു; ഇത് 'never' + 'the' എന്ന ഘടക പദങ്ങളുടെ spelling പൂർണ്ണമായി തെറ്റിച്ചിരിക്കുന്നു.\n• (C) Nevartheless — ഇവിടെ 'never'-ലെ 'e' എന്നത് 'a' ആയി മാറിയിരിക്കുന്നു ('nevar' എന്ന് തെറ്റായി); ഇത് ആദ്യ ഘടക പദത്തിന്റെ (never) spelling തെറ്റാണ്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: \"NEVER-THE-LESS - മൂന്ന് ചെറിയ പരിചിതമായ വാക്കുകൾ ഒരു ട്രെയിനിലെ മൂന്ന് ബോഗികൾ പോലെ ചേർത്തുവെക്കൂ!\" — ഓരോ ബോഗിയുടെയും (never, the, less) spelling പ്രത്യേകം ഓർത്താൽ മുഴുവൻ വാക്കും ശരിയാകും.\n• വാക്ക് കുടുംബം: nevertheless, nonetheless, notwithstanding — ഈ 'എന്നിരുന്നാലും' എന്ന അർത്ഥമുള്ള compound/long words ഒരുമിച്ച് പഠിക്കുക.\n• PSC പരീക്ഷാ തന്ത്രം: നീണ്ട compound words-ന്റെ spelling ചോദ്യങ്ങളിൽ, വാക്കിനെ ചെറിയ ഘടക പദങ്ങളായി വിഭജിച്ച് ഓരോ ഭാഗവും വെവ്വേറെ പരിശോധിക്കുക — ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "122-2022-M-Q88",
+    "paperId": "122-2022-M",
+    "questionNumber": 88,
+    "topic": "Synonyms",
+    "questionText": "Choose the word which best expresses the meaning of the word 'Terrible'.",
+    "optionA": "Raging",
+    "optionB": "Dreadful",
+    "optionC": "Incursive",
+    "optionD": "Dangling",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Dreadful\n• 'Terrible' എന്ന വാക്കിന്റെ അർത്ഥം 'ഭയങ്കരമായ/അതിഭീകരമായ/വളരെ മോശമായ' (extremely bad, causing fear or dread) എന്നാണ് — ഇതിന്റെ ഏറ്റവും അടുത്ത synonym 'Dreadful' ആണ്, ഇതും 'ഭയാനകമായ/ഭീകരമായ' എന്ന അതേ അർത്ഥം നൽകുന്നു.\n• 'Terrible' ഉം 'Dreadful' ഉം രണ്ടും 'dread'/'terror' (ഭയം) എന്ന അടിസ്ഥാന ആശയവുമായി ബന്ധപ്പെട്ട വാക്കുകളാണ് — ഒരു കാര്യം അത്യന്തം മോശമോ ഭയാനകമോ ആണെന്ന് സൂചിപ്പിക്കാൻ ഇവ രണ്ടും ഒരേപോലെ ഉപയോഗിക്കാം.\n• 'Raging' (രോഷാകുലമായ), 'Incursive' (ആക്രമണോത്സുകമായ), 'Dangling' (തൂങ്ങിക്കിടക്കുന്ന) എന്നിവ 'terrible'-ന്റെ അർത്ഥവുമായി നേരിട്ട് ബന്ധമില്ലാത്ത, വ്യത്യസ്ത അർത്ഥമുള്ള വാക്കുകളാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 എളുപ്പ സൂത്രവാക്യം: TERRIBLE = DREADFUL — രണ്ടും 'ഭയങ്കരമായ/അതിഭീകരമായ' എന്ന അതേ അർത്ഥമുള്ള synonyms!\n• Synonym ചോദ്യങ്ങളിൽ, word-ന്റെ intensity (തീവ്രത) കൂടി ശ്രദ്ധിക്കണം — 'terrible', 'dreadful' രണ്ടും 'bad'-നേക്കാൾ ശക്തമായ negative അർത്ഥമുള്ള, ഭയം/ഭീകരത സൂചിപ്പിക്കുന്ന വാക്കുകളാണ്.\n• ബന്ധപ്പെട്ട വാക്ക് കൂട്ടം: terrible-dreadful-horrible-awful (എല്ലാം 'അതിഭീകരമായ' എന്ന അർത്ഥമുള്ള synonym ഗ്രൂപ്പ്); dread-terror-horror (ഭയവുമായി ബന്ധപ്പെട്ട noun forms) — ഈ word family ഒരുമിച്ച് പഠിക്കുക.\n• ⭐ PSC ആവർത്തനം: 'Terrible-dreadful' പോലുള്ള intensity-based synonyms PSC പരീക്ഷയിൽ Synonyms വിഭാഗത്തിൽ പതിവായി ചോദിക്കുന്നു!\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. It was a terrible accident. (terrible - ഭയങ്കരമായ)\n2. The dreadful storm destroyed many homes. (dreadful - terrible-ന്റെ synonym)\n3. The news of the disaster was terrible/dreadful. (രണ്ടും ഒരേ അർത്ഥത്തിൽ ഉപയോഗിക്കാം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Raging — 'അതിരൂക്ഷമായ/രോഷാകുലമായ' എന്നർത്ഥമുള്ള ഈ വാക്ക് കോപത്തിന്റെയോ ശക്തിയുടെയോ ഒരു തീവ്രാവസ്ഥയെ സൂചിപ്പിക്കുന്നു (raging fire, raging anger); 'terrible' (ഭയങ്കരമായ)-ന്റെ നേരിട്ടുള്ള synonym അല്ല.\n• 🪤 PSC Trap: 'Raging' ഉം 'terrible' ഉം രണ്ടും negative/intense അർത്ഥമുള്ള വാക്കുകളായതിനാൽ ബന്ധപ്പെട്ടതായി തോന്നാം, എന്നാൽ 'raging' 'ശക്തി/കോപം' സൂചിപ്പിക്കുന്നു, 'terrible'-ന്റെ 'ഭയം/മോശം' എന്ന അർത്ഥമല്ല.\n• (C) Incursive — 'ആക്രമണോത്സുകമായ/കടന്നുകയറുന്ന' എന്നർത്ഥമുള്ള ഈ വാക്ക് സൈനിക/ആക്രമണ context-ൽ ഉപയോഗിക്കുന്നു; 'terrible'-മായി അർത്ഥപരമായി ബന്ധമില്ല.\n• (D) Dangling — 'തൂങ്ങിക്കിടക്കുന്ന/അലസമായി തൂങ്ങുന്ന' എന്നർത്ഥമുള്ള ഈ വാക്ക് ഭൗതികമായ ഒരു സ്ഥാനത്തെ (position) വിവരിക്കുന്നു; ഇത് 'terrible' എന്ന emotional/quality വാക്കുമായി ബന്ധമില്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: \"TERRIBLE-ഉം DREADFUL-ഉം ഒരേ 'ഭയത്തിന്റെ' കുടുംബത്തിലാണ് — രണ്ടും 'DREAD' (ഭയം) എന്ന root പങ്കിടുന്നു!\" — 'dread' എന്ന അടിസ്ഥാന അർത്ഥം ഓർത്താൽ ഈ synonym pair മറക്കില്ല.\n• വാക്ക് കുടുംബം: terrible-dreadful-horrible-awful (അതിഭീകരമായ synonyms); raging-furious (കോപം); incursive-invasive (ആക്രമണം) — ഈ വ്യത്യസ്ത അർത്ഥ ഗ്രൂപ്പുകൾ വേർതിരിച്ച് പഠിക്കുക.\n• PSC പരീക്ഷാ തന്ത്രം: synonym ചോദ്യങ്ങളിൽ, word-ന്റെ 'core meaning' (അടിസ്ഥാന അർത്ഥം) കൃത്യമായി മനസ്സിലാക്കി, ഓരോ ഓപ്ഷനും ആ അതേ core meaning പങ്കിടുന്നുണ്ടോ എന്ന് പരിശോധിക്കുക — ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "122-2022-M-Q89",
+    "paperId": "122-2022-M",
+    "questionNumber": 89,
+    "topic": "One Word Substitutes",
+    "questionText": "One who deals in clothes and cloth goods",
+    "optionA": "Florist",
+    "optionB": "Satchel",
+    "optionC": "Draper",
+    "optionD": "Wardrobe",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Draper\n• 'One who deals in clothes and cloth goods' എന്ന നിർവചനത്തിന്റെ ഒറ്റ വാക്കിലുള്ള പകരം 'Draper' ആണ് — ഇത് തുണിത്തരങ്ങൾ/വസ്ത്ര സാമഗ്രികൾ വിൽക്കുന്ന ഒരു വ്യാപാരിയെ സൂചിപ്പിക്കുന്നു.\n• 'വസ്ത്രങ്ങളും തുണിസാധനങ്ങളും വിൽക്കുന്ന ആൾ' എന്നാണ് നിർവചനത്തിന്റെ അർത്ഥം — 'Draper' എന്ന വാക്ക് ഈ specific trade/occupation-നെ കൃത്യമായി വിവരിക്കുന്ന traditional ഇംഗ്ലീഷ് പദമാണ്.\n• Etymology: 'Draper' ഫ്രഞ്ച് 'drap' (തുണി) എന്നതിൽ നിന്നാണ് — ഇംഗ്ലണ്ടിൽ പരമ്പരാഗതമായി തുണിവ്യാപാരികളെ 'draper' എന്നാണ് വിളിച്ചിരുന്നത്, ഇത് ഇന്നും ഈ അർത്ഥത്തിൽ ഉപയോഗിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 എളുപ്പ സൂത്രവാക്യം: DRAPER = DRAP (ഫ്രഞ്ച്, തുണി) + ER (ചെയ്യുന്നയാൾ) = തുണി വിൽക്കുന്നയാൾ!\n• Occupation/trade സൂചിപ്പിക്കുന്ന one-word substitutes പലപ്പോഴും ഏത് സാധനമാണ് വിൽക്കുന്നത് എന്നതിനെ അടിസ്ഥാനമാക്കിയാണ് — 'draper' (തുണി), 'florist' (പൂക്കൾ), 'grocer' (പലചരക്ക്) എന്നിങ്ങനെ ഓരോ trade-നും പ്രത്യേക പേരുകൾ ഉണ്ട്.\n• ബന്ധപ്പെട്ട വാക്ക് കൂട്ടം: draper (തുണി വ്യാപാരി), florist (പുഷ്പ വ്യാപാരി), grocer (പലചരക്ക് വ്യാപാരി), jeweller (ആഭരണ വ്യാപാരി), stationer (എഴുത്തുസാമഗ്രി വ്യാപാരി) — ഈ trade-based one-word substitutes ഒരു ലിസ്റ്റായി പഠിക്കുക.\n• ⭐ PSC ആവർത്തനം: Trade/occupation-based one-word substitutes ('draper', 'florist') PSC പരീക്ഷയിൽ One Word Substitutes വിഭാഗത്തിൽ പതിവായി ചോദിക്കുന്നു!\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. The draper showed us fine silk fabrics. (draper - തുണി വ്യാപാരി)\n2. She bought roses from the florist. (florist - പുഷ്പ വ്യാപാരി)\n3. The grocer sold rice and pulses. (grocer - പലചരക്ക് വ്യാപാരി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Florist — 'പുഷ്പ വ്യാപാരി' എന്നർത്ഥമുള്ള ഈ വാക്ക് പൂക്കൾ വിൽക്കുന്ന ആളെയാണ് സൂചിപ്പിക്കുന്നത്, തുണിവ്യാപാരിയെയല്ല; ഇത് നിർവചനവുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'Wardrobe' (D) വസ്ത്രങ്ങളുമായി ബന്ധപ്പെട്ട വാക്കായതിനാൽ ('വസ്ത്രം സൂക്ഷിക്കുന്ന അലമാര') ശരിയാണെന്ന് തോന്നാം, എന്നാൽ ഇത് ഒരു വസ്തു (object) ആണ്, ഒരു വ്യക്തി (person) അല്ല — നിർവചനം 'one who' (ഒരാൾ) എന്നാണ് ചോദിക്കുന്നത്.\n• (B) Satchel — ഇത് ഒരു ചെറിയ ബാഗ്/സഞ്ചി (school bag പോലുള്ളത്) ആണ്, ഒരു വ്യക്തിയെയോ occupation-നെയോ സൂചിപ്പിക്കുന്ന വാക്കല്ല; ഇത് നിർവചനവുമായി പൂർണ്ണമായി ബന്ധമില്ല.\n• (D) Wardrobe — ഇത് വസ്ത്രങ്ങൾ സൂക്ഷിക്കുന്ന ഒരു furniture item (അലമാര) ആണ്, ഒരു വ്യക്തിയല്ല; 'one who deals in' എന്ന നിർവചനത്തിന് ഒരു person-word ആണ് വേണ്ടത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: \"DRAPER - തുണിക്കടയിൽ തുണി അളന്ന് വിൽക്കുന്ന ഒരു വ്യാപാരിയെ സങ്കൽപ്പിക്കൂ, 'DRAPE' (തുണി പുതപ്പിക്കൽ) എന്ന വാക്കിൽ നിന്ന്!\" — 'drape' എന്ന പരിചിതമായ വാക്ക് ഓർത്താൽ 'draper' മറക്കില്ല.\n• വാക്ക് കുടുംബം: draper (തുണി), florist (പൂക്കൾ), grocer (പലചരക്ക്), jeweller (ആഭരണം) — 'one who deals in X' pattern-ലുള്ള ഈ trade words ഒരുമിച്ച് പഠിക്കുക.\n• PSC പരീക്ഷാ തന്ത്രം: 'one who deals in/sells' എന്ന നിർവചനം കണ്ടാൽ, ഉടനെ ഒരു person/occupation word ചിന്തിക്കുക, object words (wardrobe പോലുള്ളവ) ഒഴിവാക്കുക — ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "122-2022-M-Q90",
+    "paperId": "122-2022-M",
+    "questionNumber": 90,
+    "topic": "Idioms",
+    "questionText": "The idiom 'Pull yourself together' means",
+    "optionA": "To secure",
+    "optionB": "To attack",
+    "optionC": "To push something",
+    "optionD": "To calm down",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) To calm down\n• 'Pull yourself together' എന്ന idiom-ന്റെ അർത്ഥം 'സ്വയം നിയന്ത്രിക്കുക/മാനസികമായി ശാന്തനാവുക/വൈകാരിക സമനില വീണ്ടെടുക്കുക' (to calm down, regain composure/self-control) എന്നാണ്.\n• ഈ idiom സാധാരണയായി ഒരാൾ വൈകാരികമായി അസ്വസ്ഥനോ പരിഭ്രാന്തനോ ആയിരിക്കുമ്പോൾ, അവരോട് ശാന്തരാകാൻ/നിയന്ത്രണം വീണ്ടെടുക്കാൻ ഉപദേശിക്കുമ്പോൾ ഉപയോഗിക്കുന്നു — 'Pull yourself together and calm down' എന്ന അർത്ഥത്തിൽ.\n• അക്ഷരാർത്ഥത്തിൽ 'സ്വയം ഒരുമിച്ച് വലിക്കുക' എന്നാണെങ്കിലും, idiomatic അർത്ഥം 'ചിതറിയ മാനസികാവസ്ഥയെ ഒരുമിച്ചുകൂട്ടി ശാന്തത വീണ്ടെടുക്കുക' എന്നതാണ് — ഇത് 'to calm down' എന്ന അർത്ഥവുമായി കൃത്യമായി യോജിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 എളുപ്പ സൂത്രവാക്യം: PULL YOURSELF TOGETHER = ശാന്തനാവുക/സ്വയം നിയന്ത്രിക്കുക (calm down, regain composure)!\n• Idioms-ന്റെ അർത്ഥം അതിന്റെ ഘടക പദങ്ങളുടെ literal അർത്ഥത്തിൽ നിന്ന് വ്യത്യസ്തമായിരിക്കും — 'pull yourself together' എന്നത് ശാരീരികമായി 'വലിക്കുക' എന്ന അർത്ഥമല്ല, മറിച്ച് മാനസികമായി ശാന്തത വീണ്ടെടുക്കുക എന്ന idiomatic അർത്ഥമാണ്.\n• ബന്ധപ്പെട്ട വാക്ക് കൂട്ടം: pull yourself together (ശാന്തനാവുക), calm down (ശാന്തനാവുക), keep your cool (സമനില നിലനിർത്തുക), get a grip (നിയന്ത്രണം വീണ്ടെടുക്കുക) — ഇവയെല്ലാം 'വൈകാരിക നിയന്ത്രണം' എന്ന സമാന ആശയമുള്ള idioms ആണ്.\n• ⭐ PSC ആവർത്തനം: 'Pull yourself together' പോലുള്ള emotional-control idioms PSC പരീക്ഷയിൽ Idioms വിഭാഗത്തിൽ പതിവായി ചോദിക്കുന്നു!\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. Pull yourself together and face the problem calmly. (pull yourself together - ശാന്തനാവുക)\n2. After the shock, she took a moment to pull herself together. (pull herself together)\n3. He told his friend to pull himself together before the interview. (pull himself together)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) To secure — 'സുരക്ഷിതമാക്കുക/നേടിയെടുക്കുക' എന്നർത്ഥമുള്ള ഈ വാക്ക് 'pull yourself together' എന്ന idiom-ന്റെ 'ശാന്തത വീണ്ടെടുക്കൽ' എന്ന അർത്ഥവുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'Pull' എന്ന വാക്ക് കണ്ടാൽ ചിലർ 'വലിച്ചെടുക്കുക/നേടുക' എന്ന literal അർത്ഥത്തിലേക്ക് (secure പോലുള്ളവ) ചിന്തിക്കാൻ സാധ്യതയുണ്ട്, എന്നാൽ idiom-ന്റെ യഥാർത്ഥ അർത്ഥം വൈകാരിക നിയന്ത്രണവുമായി ബന്ധപ്പെട്ടതാണ്.\n• (B) To attack — 'ആക്രമിക്കുക' എന്നർത്ഥമുള്ള ഈ വാക്ക് 'pull yourself together'-ന്റെ ശാന്തതയുമായി ബന്ധപ്പെട്ട അർത്ഥത്തിന് നേരെ വിപരീതമായ, aggressive ആയ ഒരു അർത്ഥമാണ് നൽകുന്നത്.\n• (C) To push something — 'എന്തെങ്കിലും തള്ളുക' എന്ന ഈ literal അർത്ഥം 'pull' എന്ന വാക്കിന്റെ അക്ഷരാർത്ഥവുമായി പോലും (push അല്ല pull) പൊരുത്തപ്പെടുന്നില്ല, മാത്രമല്ല idiom-ന്റെ യഥാർത്ഥ അർത്ഥവുമായി ബന്ധമില്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: \"ചിതറിയ പസിൽ കഷണങ്ങൾ (നിന്റെ വികാരങ്ങൾ) ഒരുമിച്ച് 'PULL' ചെയ്ത് ഒരു ശാന്തമായ ചിത്രം ഉണ്ടാക്കുന്നത് സങ്കൽപ്പിക്കൂ!\" — ഈ ദൃശ്യബിംബം 'ശാന്തത വീണ്ടെടുക്കൽ' എന്ന അർത്ഥം ഓർക്കാൻ സഹായിക്കും.\n• വാക്ക് കുടുംബം: pull yourself together, calm down, keep your cool, get a grip — 'വൈകാരിക നിയന്ത്രണം' എന്ന അർത്ഥമുള്ള idioms ഒരുമിച്ച് പഠിക്കുക.\n• PSC പരീക്ഷാ തന്ത്രം: idiom ചോദ്യങ്ങളിൽ, ഘടക പദങ്ങളുടെ (pull, push, secure) literal അർത്ഥത്തിൽ കുടുങ്ങാതെ, idiom-ന്റെ പരമ്പരാഗത/സ്ഥിരമായ അർത്ഥം ഓർത്തെടുക്കുക — ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
   }
 ]
