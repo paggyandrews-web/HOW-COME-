@@ -452,10 +452,6 @@ export default function Exams() {
               <div className="font-bold text-lg" style={{ color: accent }}>{savedExams.length}</div>
               <div className="text-xs" style={{ color: 'var(--text2)' }}>Saved</div>
             </div>
-            <div className="flex-1 card rounded-xl p-3">
-              <div className="font-bold text-lg" style={{ color: accent }}>{examCalendar.length}</div>
-              <div className="text-xs" style={{ color: 'var(--text2)' }}>Total Exams</div>
-            </div>
           </>
         ) : (
           <>
