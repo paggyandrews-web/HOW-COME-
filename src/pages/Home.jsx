@@ -121,50 +121,6 @@ function PromoBanner({ questionCount, paperCount }) {
 /* ── "New exam dates" announcement ──────────────────────────────────
    Shows while October 2026 still has upcoming exams, then hides itself.
    Reads the exam data directly, so the count stays accurate on its own. */
-function ExamDatesBanner() {
-  const today = new Date(new Date().toDateString())
-  const octUpcoming = exams.filter(e =>
-    !e.cancelled && e.date && e.date.startsWith('2026-10') && new Date(e.date) >= today
-  )
-  if (octUpcoming.length === 0) return null
-
-  return (
-    <Link to="/exams"
-      className="flex items-center gap-3 rounded-2xl p-3"
-      style={{
-        background: 'linear-gradient(135deg, #2a1c05 0%, #1c1303 100%)',
-        border: '1px solid rgba(245,158,11,0.4)',
-        textDecoration: 'none',
-      }}>
-      <div style={{
-        width: 38, height: 38, borderRadius: 10, flexShrink: 0,
-        background: 'rgba(245,158,11,0.16)',
-        border: '1px solid rgba(245,158,11,0.4)',
-        display: 'flex', alignItems: 'center', justifyContent: 'center',
-      }}>
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none"
-          stroke="#f59e0b" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-          <rect x="3" y="4" width="18" height="18" rx="2"/>
-          <line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/>
-          <line x1="3" y1="10" x2="21" y2="10"/>
-        </svg>
-      </div>
-      <div style={{ flex: 1, minWidth: 0 }}>
-        <div className="font-bold text-sm" style={{ color: '#f59e0b' }}>
-          October exam dates are out! 🗓️
-        </div>
-        <div className="text-xs mt-0.5" style={{ color: 'rgba(255,255,255,0.6)' }}>
-          {octUpcoming.length} PSC exams scheduled in October — tap to view
-        </div>
-      </div>
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="none"
-        stroke="#f59e0b" strokeWidth="2" strokeLinecap="round">
-        <path d="M9 18l6-6-6-6"/>
-      </svg>
-    </Link>
-  )
-}
-
 /* ── Circular flame ring for streak ────────────────────────────────── */
 function StreakRing({ days }) {
   const SIZE = 70, R = 28
@@ -439,9 +395,6 @@ export default function Home() {
         </div>
       </div>
 
-      {/* ── New exam dates announcement ───────────────────────────── */}
-      <ExamDatesBanner />
-
       {/* ── Free-period announcement ──────────────────────────────── */}
       <PromoBanner questionCount={questionCount} paperCount={papers.length} />
 
@@ -497,7 +450,7 @@ export default function Home() {
           </svg>
         </div>
         <div style={{ flex: 1 }}>
-          <div className="font-semibold text-sm">Upcoming Exams</div>
+          <div className="font-semibold text-sm">Upcoming Kerala PSC Exams</div>
           <div className="text-xs" style={{ color: 'var(--text2)' }}>Stay prepared, stay ahead.</div>
         </div>
         <div className="flex items-center gap-2">

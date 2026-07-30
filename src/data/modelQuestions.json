@@ -2807,15 +2807,15 @@
     "topicDetail": "Negative subject (nobody) — positive tag",
     "difficulty": "Medium",
     "questionText": "Choose the correct Question Tag to complete the sentence.\nNobody informed the ward member about the meeting, ____________",
-    "optionA": "did he?",
-    "optionB": "didn't they?",
+    "optionA": "didn't they?",
+    "optionB": "do they?",
     "optionC": "did they?",
     "optionD": "wasn't it?",
     "correctAnswer": "C",
     "explanation": {
       "correct": "✅ ശരിയുത്തരം: (C) did they?\n\n• 'Nobody' എന്ന വാക്കിന് negative meaning ആണ് — \"ആരും ഇല്ല\" എന്നർഥം. Statement-ൽ already negative ഉള്ളതുകൊണ്ട് tag positive ആകണം → did.\n• Nobody, everybody, somebody, anybody — ഇവയെല്ലാം tag-ൽ 'they' ആയി മാറും. ഒരാളെയല്ല, ആൾക്കാരെ പൊതുവായി പറയുന്നതുകൊണ്ടാണിത്.\n• Verb 'informed' past tense ആണ്; auxiliary ഇല്ലാത്തതിനാൽ tag-ൽ 'did' വരും.\n• അർഥം: 'ആരും വാർഡ് മെമ്പറെ യോഗത്തെക്കുറിച്ച് അറിയിച്ചില്ല, അല്ലേ?'",
       "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Nobody / No one / None → tag = POSITIVE + they.\n• നിയമം: statement negative ആണെങ്കിൽ tag positive; statement positive ആണെങ്കിൽ tag negative. ഇതാണ് question tag-ന്റെ അടിസ്ഥാനം.\n• 'Nobody' grammar-ൽ singular ആണെങ്കിലും tag-ൽ pronoun 'they' ആണ് എടുക്കുക — ഇത് PSC ഏറ്റവും കൂടുതൽ കുഴപ്പിക്കുന്ന ഭാഗമാണ്.\n• Hidden negative word family: nobody, no one, none, nothing, never, hardly, scarcely, seldom, barely — ഇവയെല്ലാം sentence-നെ negative ആക്കും.\n• ⭐ PSC ആവർത്തനം: കഴിഞ്ഞ 10 പേപ്പറുകളിൽ Question Tags ആണ് ഏറ്റവും കൂടുതൽ വന്ന topic — ഈ ഭാഗം ഉറപ്പിച്ചു പഠിക്കണം!\n• ഉദാഹരണ sentences:\n1. Nobody called you last night, did they? (nobody → positive tag + they)\n2. Nothing was stolen from the shop, was it? (nothing → 'it' ആണ് pronoun)\n3. Everybody enjoyed the trip, didn't they? (everybody → positive statement, negative tag)",
-      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) did he? — polarity ശരിയാണ്, പക്ഷേ pronoun തെറ്റ്. 'Nobody' എന്നത് ഒരു പുരുഷനെ മാത്രം ഉദ്ദേശിക്കുന്നില്ല.\n• 🪤 PSC Trap: 'nobody' singular ആണെന്ന് കരുതി 'he' എടുക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണിയാണിത്.\n\n• (B) didn't they? — pronoun ശരിയാണ്, പക്ഷേ polarity തെറ്റ്. Statement already negative ആയതിനാൽ tag വീണ്ടും negative ആക്കാൻ പറ്റില്ല.\n• ഒരു വാക്യത്തിൽ രണ്ട് negative വന്നാൽ അത് double negative error ആകും.\n\n• (D) wasn't it? — verb 'informed' ആണ്, 'was' അല്ല. Auxiliary തന്നെ തെറ്റാണ്.\n• 🪤 PSC Trap: sentence-ന്റെ അവസാനം നോക്കി തിരക്കിട്ട് ഉത്തരം എഴുതുന്നവർ ഇതിൽ വീഴും.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) didn't they? — pronoun ശരിയാണ്, പക്ഷേ polarity തെറ്റ്. Statement-ൽ 'Nobody' എന്ന negative already ഉള്ളതിനാൽ tag വീണ്ടും negative ആക്കാൻ പറ്റില്ല.\n• 🪤 PSC Trap: \"positive statement → negative tag\" എന്ന നിയമം യാന്ത്രികമായി പ്രയോഗിക്കുന്നവർ ഇതിൽ വീഴും. 'Nobody' ഒരു negative വാക്കാണെന്ന് ആദ്യം തിരിച്ചറിയണം.\n\n• (B) do they? — polarity-യും pronoun-ഉം ശരി, പക്ഷേ tense തെറ്റ്. Verb 'informed' past tense ആയതിനാൽ tag-ൽ 'did' വേണം, 'do' അല്ല.\n• Tag-ലെ auxiliary എപ്പോഴും statement-ലെ verb-ന്റെ അതേ tense-ൽ ആയിരിക്കണം.\n\n• (D) wasn't it? — auxiliary-യും pronoun-ഉം polarity-യും മൂന്നും തെറ്റ്. 'informed' എന്ന verb-ന് 'was' എന്ന auxiliary ചേരില്ല.\n• 🪤 PSC Trap: sentence-ന്റെ അവസാനം മാത്രം നോക്കി തിരക്കിട്ട് ഉത്തരം എഴുതുന്നവർക്കുള്ള കെണി.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"BODY വന്നാൽ THEY കൂടെ\" എന്ന് ഓർക്കുക — nobody, somebody, everybody, anybody എല്ലാത്തിനും tag pronoun 'they'.\n• Rule family: hidden negative words — nobody, none, never, hardly, seldom, scarcely. ഇവ കണ്ടാൽ ഉടനെ tag POSITIVE ആക്കുക.\n• PSC strategy: Question tag ചോദ്യത്തിൽ മൂന്ന് കാര്യം മാത്രം നോക്കുക — (1) auxiliary ഏത്? (2) polarity തിരിക്കണോ? (3) pronoun ഏത്? ഈ മൂന്ന് step ചെയ്താൽ ഒരിക്കലും miss ആകില്ല!"
     }
   },
@@ -2826,14 +2826,14 @@
     "topic": "Question Tags",
     "topicDetail": "Special case — 'Let us' takes 'shall we'",
     "difficulty": "Hard",
-    "questionText": "Choose the correct Question Tag to complete the sentence.\nLet us submit the application before the last date, ____________",
+    "questionText": "Choose the correct Question Tag to complete the sentence.\nLet's submit the application before the last date, ____________",
     "optionA": "shall we?",
     "optionB": "will you?",
     "optionC": "don't we?",
     "optionD": "shan't we?",
     "correctAnswer": "A",
     "explanation": {
-      "correct": "✅ ശരിയുത്തരം: (A) shall we?\n\n• 'Let us' കൊണ്ട് തുടങ്ങുന്ന വാക്യം ഒരു നിർദ്ദേശമാണ് — \"നമുക്ക് ചെയ്യാം\" എന്ന ക്ഷണം. അതിന്റെ ഉറപ്പിച്ച tag 'shall we?' മാത്രമാണ്.\n• 'us' എന്നാൽ ഞാനും നീയും ചേർന്നത്; അതുകൊണ്ട് tag-ൽ pronoun 'we' വരും.\n• ഇത് ഒരു fixed rule ആണ് — polarity നോക്കേണ്ട ആവശ്യമില്ല, മനഃപാഠമാക്കുകയേ വേണ്ടൂ.\n• അർഥം: 'അവസാന തീയതിക്ക് മുൻപ് നമുക്ക് അപേക്ഷ സമർപ്പിക്കാം, അല്ലേ?'",
+      "correct": "✅ ശരിയുത്തരം: (A) shall we?\n\n• \"Let's\" (= Let us) കൊണ്ട് തുടങ്ങുന്ന വാക്യം ഒരു നിർദ്ദേശമാണ് — \"നമുക്ക് ചെയ്യാം\" എന്ന ക്ഷണം. അതിന്റെ ഉറപ്പിച്ച tag 'shall we?' മാത്രമാണ്.\n• ചുരുക്കരൂപം \"Let's\" ആയതിനാൽ ഇത് ഉറപ്പായും suggestion ആണ് — 'ഞങ്ങളെ വിടൂ' എന്ന അനുമതി അർഥം ഇവിടെ വരാൻ വഴിയില്ല.\n• 'us' എന്നാൽ ഞാനും നീയും ചേർന്നത്; അതുകൊണ്ട് tag-ൽ pronoun 'we' വരും.\n• അർഥം: 'അവസാന തീയതിക്ക് മുൻപ് നമുക്ക് അപേക്ഷ സമർപ്പിക്കാം, അല്ലേ?'",
       "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Let us → shall we? | Let me / Let him → will you? | Imperative → will you?\n• നിയമം: 'Let us' (നമുക്ക്) എന്നത് suggestion ആണ്; suggestion-ന്റെ standard tag എപ്പോഴും 'shall we?' ആണ്.\n• 'Let's' എന്ന ചുരുക്കരൂപം വന്നാലും ഉത്തരം അതുതന്നെ — 'shall we?'.\n• ശ്രദ്ധിക്കുക: 'Let us go' (നമുക്ക് പോകാം = suggestion) → shall we? എന്നാൽ 'Let us go' എന്നത് 'ഞങ്ങളെ വിടൂ' എന്ന അപേക്ഷ ആണെങ്കിൽ → will you?\n• ⭐ PSC ആവർത്തനം: Let us / I am / Imperative — ഈ മൂന്ന് special tags PSC-യുടെ ഇഷ്ട ചോദ്യങ്ങളാണ്.\n• ഉദാഹരണ sentences:\n1. Let us start the meeting, shall we? (നിർദ്ദേശം)\n2. Open the window, will you? (Imperative — കൽപ്പന)\n3. Let me carry your bag, will you? (Let me → will you)",
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) will you? — ഇത് imperative sentence-നും 'Let me/Let him'-നും ഉള്ള tag ആണ്. 'Let us' എന്നതിന് ഇത് ചേരില്ല.\n• 🪤 PSC Trap: 'Let' എന്ന വാക്ക് കണ്ടാൽ എല്ലാം 'will you' ആണെന്ന് തെറ്റിദ്ധരിക്കുന്നവരെ പിടിക്കാനുള്ള കെണി.\n\n• (C) don't we? — 'Let us' എന്നതിൽ 'do' എന്ന auxiliary ഇല്ല; ഇത് വ്യാകരണപരമായി തന്നെ തെറ്റാണ്.\n• Suggestion-ന് 'do/does/did' കൊണ്ടുള്ള tag ഒരിക്കലും ഉപയോഗിക്കാറില്ല.\n\n• (D) shan't we? — auxiliary ശരിയാണ്, പക്ഷേ negative ആക്കിയത് തെറ്റ്. 'Let us' ന് fixed positive tag 'shall we' മാത്രമാണുള്ളത്.\n• 🪤 PSC Trap: \"positive statement → negative tag\" എന്ന സാധാരണ നിയമം ഇവിടെയും പ്രയോഗിക്കുന്നവർ ഇതിൽ വീഴും. Special cases-ൽ ആ നിയമം ബാധകമല്ല!",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"LET US → SHALL WE\" — രണ്ടിലും 'നമ്മൾ' ഉണ്ട്! 'us' ഉം 'we' ഉം ഒരേ ടീം എന്ന് ചിത്രമായി ഓർക്കുക.\n• Rule family: മൂന്ന് special tags ഒന്നിച്ചു പഠിക്കൂ — I am → aren't I? | Let us → shall we? | Imperative (Come/Go/Open) → will you?\n• PSC strategy: Question tag ചോദ്യം കണ്ടാൽ ആദ്യം \"ഇത് special case ആണോ?\" എന്ന് നോക്കുക. അല്ലെങ്കിൽ മാത്രം polarity നിയമം പ്രയോഗിക്കുക. ഈ ക്രമം പാലിച്ചാൽ guaranteed mark!"
@@ -2847,15 +2847,15 @@
     "topicDetail": "Silent letters — rhythm",
     "difficulty": "Easy",
     "questionText": "Choose the correctly spelt word to fill the blank.\nThe dancers moved to the steady ______ of the chenda melam.",
-    "optionA": "Rythm",
-    "optionB": "Rhythm",
-    "optionC": "Rhythem",
-    "optionD": "Rythem",
+    "optionA": "rythm",
+    "optionB": "rhythm",
+    "optionC": "rhythem",
+    "optionD": "rythem",
     "correctAnswer": "B",
     "explanation": {
-      "correct": "✅ ശരിയുത്തരം: (B) Rhythm\n\n• ശരിയായ എഴുത്ത്: R-H-Y-T-H-M. ഈ വാക്കിൽ 'h' രണ്ട് തവണ വരുന്നു — ആദ്യത്തെ R-ന് ശേഷവും T-ന് ശേഷവും.\n• അർഥം: താളം, ലയം. സംഗീതത്തിലും കവിതയിലും ഉപയോഗിക്കുന്ന വാക്ക്.\n• ഈ വാക്കിൽ vowel അക്ഷരം ഒന്നുമില്ല എന്നത് ശ്രദ്ധേയം — 'y' ആണ് vowel-ന്റെ ജോലി ചെയ്യുന്നത്.\n• Etymology hint: Greek 'rhythmos' (ഒഴുക്ക്) എന്ന വാക്കിൽ നിന്നാണ് വരവ്. Greek-ൽ നിന്ന് വരുന്ന വാക്കുകളിൽ 'rh' എന്ന കൂട്ടം സാധാരണമാണ്.\n• വാക്യാർഥം: 'ചെണ്ടമേളത്തിന്റെ സ്ഥിരമായ താളത്തിനൊത്ത് നർത്തകർ ചുവടുവെച്ചു.'",
+      "correct": "✅ ശരിയുത്തരം: (B) rhythm\n\n• ശരിയായ എഴുത്ത്: R-H-Y-T-H-M. ഈ വാക്കിൽ 'h' രണ്ട് തവണ വരുന്നു — ആദ്യത്തെ R-ന് ശേഷവും T-ന് ശേഷവും.\n• അർഥം: താളം, ലയം. സംഗീതത്തിലും കവിതയിലും ഉപയോഗിക്കുന്ന വാക്ക്.\n• ഈ വാക്കിൽ vowel അക്ഷരം ഒന്നുമില്ല എന്നത് ശ്രദ്ധേയം — 'y' ആണ് vowel-ന്റെ ജോലി ചെയ്യുന്നത്.\n• Etymology hint: Greek 'rhythmos' (ഒഴുക്ക്) എന്ന വാക്കിൽ നിന്നാണ് വരവ്. Greek-ൽ നിന്ന് വരുന്ന വാക്കുകളിൽ 'rh' എന്ന കൂട്ടം സാധാരണമാണ്.\n• വാക്യാർഥം: 'ചെണ്ടമേളത്തിന്റെ സ്ഥിരമായ താളത്തിനൊത്ത് നർത്തകർ ചുവടുവെച്ചു.'",
       "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: RHYTHM = R + H + Y + T + H + M — \"രണ്ട് H, ഒരു Y, vowel ഒന്നുമില്ല!\"\n• നിയമം: Greek വേരുള്ള ഇംഗ്ലീഷ് വാക്കുകളിൽ 'rh' എന്ന അക്ഷരക്കൂട്ടം വരും; 'h' മൗനമാണ് (silent), പക്ഷേ എഴുതണം.\n• Same family (rh- കുടുംബം): rhyme, rhetoric, rhinoceros, rheumatism, rhombus — എല്ലാത്തിലും 'rh'.\n• ⭐ PSC ആവർത്തനം: Spelling ആണ് കഴിഞ്ഞ 10 പേപ്പറുകളിലെ രണ്ടാമത്തെ ഏറ്റവും വലിയ topic. ഓരോ പേപ്പറിലും ഒന്നോ രണ്ടോ ഉറപ്പ്!\n• ഉദാഹരണ sentences:\n1. The drummer kept a perfect rhythm throughout the temple festival.\n2. Her poem has a lovely rhyme and rhythm.\n3. The doctor treated his rheumatism with regular exercise.",
-      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Rythm — ആദ്യത്തെ 'h' വിട്ടുപോയി. ഉച്ചാരണത്തിൽ ആ 'h' കേൾക്കാത്തതുകൊണ്ടാണ് പലരും ഇത് വിട്ടുപോകുന്നത്.\n• 🪤 PSC Trap: കേൾക്കുന്നത് പോലെ എഴുതുന്നവരെ പിടിക്കാനുള്ള ഏറ്റവും സാധാരണമായ കെണി.\n\n• (C) Rhythem — ഇല്ലാത്ത ഒരു 'e' കൂട്ടിച്ചേർത്തു. 'thm' എന്ന അവസാനത്തിന് ഇടയിൽ vowel വേണ്ട.\n• വാക്ക് ഉച്ചരിക്കുമ്പോൾ 'ത്തം' എന്ന് കേൾക്കുന്നതുകൊണ്ട് 'e' ചേർക്കാൻ തോന്നും — അതാണ് കെണി.\n\n• (D) Rythem — രണ്ട് തെറ്റുകൾ ഒരുമിച്ച്: ആദ്യത്തെ 'h' ഇല്ല, കൂടാതെ അധികമായി 'e' ഉണ്ട്. ഏറ്റവും കൂടുതൽ തെറ്റുള്ള option ഇതാണ്.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) rythm — ആദ്യത്തെ 'h' വിട്ടുപോയി. ഉച്ചാരണത്തിൽ ആ 'h' കേൾക്കാത്തതുകൊണ്ടാണ് പലരും ഇത് വിട്ടുപോകുന്നത്.\n• 🪤 PSC Trap: കേൾക്കുന്നത് പോലെ എഴുതുന്നവരെ പിടിക്കാനുള്ള ഏറ്റവും സാധാരണമായ കെണി.\n\n• (C) rhythem — ഇല്ലാത്ത ഒരു 'e' കൂട്ടിച്ചേർത്തു. 'thm' എന്ന അവസാനത്തിന് ഇടയിൽ vowel വേണ്ട.\n• വാക്ക് ഉച്ചരിക്കുമ്പോൾ 'ത്തം' എന്ന് കേൾക്കുന്നതുകൊണ്ട് 'e' ചേർക്കാൻ തോന്നും — അതാണ് കെണി.\n\n• (D) rythem — രണ്ട് തെറ്റുകൾ ഒരുമിച്ച്: ആദ്യത്തെ 'h' ഇല്ല, കൂടാതെ അധികമായി 'e' ഉണ്ട്. ഏറ്റവും കൂടുതൽ തെറ്റുള്ള option ഇതാണ്.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Rhythm Helps Your Two Hips Move\" — ഓരോ വാക്കിന്റെയും ആദ്യാക്ഷരം ചേർത്താൽ R-H-Y-T-H-M! ഒരു തവണ ഉറക്കെ പറഞ്ഞാൽ ജീവിതകാലം മുഴുവൻ ഓർമ്മയുണ്ടാകും.\n• Word family: rh- കൊണ്ട് തുടങ്ങുന്നവ ഒന്നിച്ചു പഠിക്കൂ — rhyme, rhetoric, rhinoceros, rhombus, rhubarb.\n• PSC strategy: Spelling ചോദ്യത്തിൽ options ഓരോന്നായി അക്ഷരം അക്ഷരമായി വായിക്കുക — വേഗത്തിൽ നോക്കിയാൽ ഒരു അക്ഷരത്തിന്റെ വ്യത്യാസം കണ്ണിൽപ്പെടില്ല. പതുക്കെ വായിച്ചാൽ ഉറപ്പായ മാർക്ക്!"
     }
   },
@@ -2887,7 +2887,7 @@
     "topicDetail": "Future Perfect",
     "difficulty": "Medium",
     "questionText": "Fill in the blank with the correct option.\nBy next Onam, Anju ______ ten years of service in the Health Department.",
-    "optionA": "will complete",
+    "optionA": "completes",
     "optionB": "will have completed",
     "optionC": "has completed",
     "optionD": "would complete",
@@ -2895,7 +2895,7 @@
     "explanation": {
       "correct": "✅ ശരിയുത്തരം: (B) will have completed\n\n• 'By next Onam' എന്ന signal ശ്രദ്ധിക്കൂ — ഭാവിയിലെ ഒരു നിശ്ചിത സമയത്തിന് മുൻപ് പൂർത്തിയാകുന്ന കാര്യം. അതിന് Future Perfect Tense ആണ് വേണ്ടത്.\n• Formula: will have + V3 (past participle) → will have completed.\n• അർഥം: 'അടുത്ത ഓണം ആകുമ്പോഴേക്കും അഞ്ജു ആരോഗ്യ വകുപ്പിൽ പത്തു വർഷത്തെ സേവനം പൂർത്തിയാക്കിയിരിക്കും.'\n• ഭാവിയിലെ ആ സമയത്ത് നിന്നു നോക്കുമ്പോൾ ആ പ്രവൃത്തി 'കഴിഞ്ഞു' എന്ന അവസ്ഥയിലായിരിക്കും — അതാണ് Future Perfect-ന്റെ പ്രത്യേകത.",
       "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: BY + ഭാവി സമയം → will have + V3.\n• നിയമം: ഭാവിയിലെ ഒരു നിശ്ചിത സമയത്തിന് മുൻപായി പൂർത്തിയാകുന്ന പ്രവൃത്തിക്ക് Future Perfect ഉപയോഗിക്കുന്നു.\n• Signal words: by next year, by 2030, by the time you arrive, by tomorrow evening — 'by' എന്ന വാക്ക് കണ്ടാൽ ജാഗ്രത!\n• വ്യത്യാസം ഓർക്കുക: 'By the time... had + V3' = Past Perfect (കഴിഞ്ഞകാലം). 'By next... will have + V3' = Future Perfect (ഭാവി).\n• ⭐ PSC ആവർത്തനം: Tenses മൂന്നാമത്തെ ഏറ്റവും വലിയ topic ആണ്. Signal word കണ്ടുപിടിക്കാൻ പഠിച്ചാൽ tense ചോദ്യങ്ങൾ എളുപ്പമാകും.\n• ഉദാഹരണ sentences:\n1. By December, the new bridge will have opened to the public.\n2. By the time the results come, we will have finished the revision.\n3. She will have written the exam by this time tomorrow.",
-      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) will complete — Simple Future ആണിത്; ഭാവിയിൽ ചെയ്യും എന്ന് മാത്രമേ പറയുന്നുള്ളൂ. 'By next Onam' എന്ന പൂർത്തീകരണ സൂചന ഇതിൽ വരുന്നില്ല.\n• 🪤 PSC Trap: അർഥം ഏകദേശം ശരിയായി തോന്നും — അതുകൊണ്ടാണ് ഇത് ഏറ്റവും അപകടകരമായ option.\n\n• (C) has completed — Present Perfect ആണ്; ഇത് ഇപ്പോൾ വരെ കഴിഞ്ഞ കാര്യത്തിനാണ്. 'next Onam' ഭാവിയായതിനാൽ ചേരില്ല.\n• ഭാവി സൂചനയുള്ള വാക്യത്തിൽ present perfect ഒരിക്കലും ഉപയോഗിക്കരുത്.\n\n• (D) would complete — 'would' സാധാരണയായി past-ലെ ഭാവിക്കോ conditional-നോ ആണ്. ഇവിടെ ഉറപ്പുള്ള ഭാവി കാര്യമാണ് പറയുന്നത്.\n• 🪤 PSC Trap: 'would' എപ്പോഴും മര്യാദയുള്ള രൂപമാണെന്ന് കരുതുന്നവരെ പിടിക്കാനുള്ള കെണി.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) completes — Simple Present ആണിത്; ദിവസേനയുള്ള ശീലത്തിനോ പൊതുസത്യത്തിനോ മാത്രമേ ഇത് ഉപയോഗിക്കാവൂ.\n• 🪤 PSC Trap: subject singular ആയതിനാൽ '-s' ചേർത്ത രൂപം ശരിയാണെന്ന് തോന്നും. പക്ഷേ 'By next Onam' ഭാവിയെക്കുറിച്ചാണ് — present tense ചേരില്ല.\n\n• (C) has completed — Present Perfect ആണ്; ഇത് ഇപ്പോൾ വരെ കഴിഞ്ഞ കാര്യത്തിനാണ്. 'next Onam' ഭാവിയായതിനാൽ ചേരില്ല.\n• ഭാവി സൂചനയുള്ള വാക്യത്തിൽ present perfect ഒരിക്കലും ഉപയോഗിക്കരുത്.\n\n• (D) would complete — 'would' സാധാരണയായി past-ലെ ഭാവിക്കോ conditional-നോ ആണ്. ഇവിടെ ഉറപ്പുള്ള ഭാവി കാര്യമാണ് പറയുന്നത്.\n• 🪤 PSC Trap: 'would' എപ്പോഴും മര്യാദയുള്ള രൂപമാണെന്ന് കരുതുന്നവരെ പിടിക്കാനുള്ള കെണി.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"BY കണ്ടാൽ WILL HAVE ഓർക്കൂ\" — 'by' എന്ന വാക്ക് ഒരു deadline ആണ്; deadline-ന് മുൻപ് പണി തീരണം, അതിനാൽ 'have + V3'.\n• Rule family: മൂന്ന് perfect tenses ഒന്നിച്ചു പഠിക്കൂ — has/have + V3 (Present Perfect), had + V3 (Past Perfect), will have + V3 (Future Perfect). ഒരേ V3, auxiliary മാത്രം മാറ്റം!\n• PSC strategy: Tense ചോദ്യത്തിൽ ആദ്യം time-marker (yesterday / since / by next year / already) അടിവരയിടുക. Signal കിട്ടിയാൽ ഉത്തരം താനേ വരും — guaranteed mark!"
     }
   },
@@ -2929,11 +2929,11 @@
     "questionText": "Choose the synonym of the word in italics.\nThe panchayat took a __prudent__ decision to clean the canals before the monsoon.",
     "optionA": "reckless",
     "optionB": "expensive",
-    "optionC": "wise and careful",
+    "optionC": "sensible",
     "optionD": "sudden",
     "correctAnswer": "C",
     "explanation": {
-      "correct": "✅ ശരിയുത്തരം: (C) wise and careful\n\n• 'Prudent' എന്നാൽ ദീർഘവീക്ഷണത്തോടെ, ശ്രദ്ധയോടെ എടുക്കുന്ന തീരുമാനം — 'വിവേകമുള്ള' എന്നർഥം.\n• മഴയ്ക്ക് മുൻപേ തോട് വൃത്തിയാക്കുക എന്നത് ഭാവിയിലെ വെള്ളപ്പൊക്കം ഒഴിവാക്കാനുള്ള മുൻകരുതലാണ് — അതാണ് 'prudent' എന്ന വാക്കിന്റെ feel.\n• Etymology hint: Latin 'providens' (മുൻകൂട്ടി കാണുന്നത്) എന്ന വാക്കിൽ നിന്നാണ് വരവ്. 'provide', 'providence' എന്നിവയും ഇതേ വേരിൽ നിന്നുള്ളവ.\n• Noun രൂപം: prudence (വിവേകം). Opposite: imprudent (അവിവേകം).",
+      "correct": "✅ ശരിയുത്തരം: (C) sensible\n\n• 'Prudent' എന്നാൽ ദീർഘവീക്ഷണത്തോടെ, ശ്രദ്ധയോടെ എടുക്കുന്ന തീരുമാനം — 'വിവേകമുള്ള' എന്നർഥം.\n• മഴയ്ക്ക് മുൻപേ തോട് വൃത്തിയാക്കുക എന്നത് ഭാവിയിലെ വെള്ളപ്പൊക്കം ഒഴിവാക്കാനുള്ള മുൻകരുതലാണ് — അതാണ് 'prudent' എന്ന വാക്കിന്റെ feel.\n• Etymology hint: Latin 'providens' (മുൻകൂട്ടി കാണുന്നത്) എന്ന വാക്കിൽ നിന്നാണ് വരവ്. 'provide', 'providence' എന്നിവയും ഇതേ വേരിൽ നിന്നുള്ളവ.\n• Noun രൂപം: prudence (വിവേകം). Opposite: imprudent (അവിവേകം).\n• 'Sensible' എന്നാൽ ബുദ്ധിപൂർവ്വം ചിന്തിച്ച് പ്രവർത്തിക്കുന്ന — 'prudent'-ന്റെ ഏറ്റവും അടുത്ത ലളിതമായ പര്യായം.",
       "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: PRUDENT = PRO (മുൻപേ) + VIDENT (കാണുന്നത്) → \"മുൻപേ കാണുന്നവൻ വിവേകി!\"\n• നിയമം: Synonym ചോദ്യത്തിൽ വാക്കിന്റെ നിഘണ്ടു അർഥം മാത്രമല്ല, വാക്യത്തിലെ context കൂടി നോക്കണം.\n• Word family (വിവേകം കുടുംബം): prudent, judicious, sagacious, discreet, circumspect — എല്ലാം 'ശ്രദ്ധയോടെ ചിന്തിക്കുന്ന' എന്ന അർഥത്തിൽ.\n• Etymology hint: pro- (മുൻപ്) എന്ന Latin prefix ഉള്ള വാക്കുകൾ — provide, predict, prevent, prepare. എല്ലാത്തിലും 'മുൻകൂട്ടി' എന്ന ആശയം.\n• ⭐ PSC ആവർത്തനം: Synonyms കഴിഞ്ഞ 10 പേപ്പറുകളിൽ മുൻനിരയിലാണ് — വാക്കിന്റെ വേര് (root) പഠിച്ചാൽ അറിയാത്ത വാക്കും ഊഹിക്കാം.\n• ഉദാഹരണ sentences:\n1. It was prudent of her to save money for the rainy day.\n2. A prudent farmer stores grain for the dry season.\n3. The manager gave prudent advice to the new staff.",
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) reckless — അർഥം 'അശ്രദ്ധമായ, മുൻവിചാരമില്ലാത്ത'. ഇത് 'prudent'-ന്റെ നേരെ വിപരീതമാണ്!\n• 🪤 PSC Trap: Synonym ചോദ്യത്തിൽ antonym കൊടുക്കുക എന്നത് PSC-യുടെ ഒന്നാം നമ്പർ കെണിയാണ്. ചോദ്യം synonym ആണോ antonym ആണോ എന്ന് രണ്ട് തവണ വായിക്കുക!\n\n• (B) expensive — അർഥം 'വിലകൂടിയ'. തീരുമാനത്തിന്റെ ചെലവിനെക്കുറിച്ചല്ല, ബുദ്ധിയെക്കുറിച്ചാണ് ഇവിടെ പറയുന്നത്.\n• വാക്യത്തിൽ പണത്തെക്കുറിച്ച് ഒരു സൂചനയുമില്ല.\n\n• (D) sudden — അർഥം 'പെട്ടെന്നുള്ള'. 'Prudent' തീരുമാനം ആലോചിച്ചെടുക്കുന്നതാണ്, പെട്ടെന്നുള്ളതല്ല.\n• 🪤 PSC Trap: 'prudent' ഉം 'prompt' ഉം കേൾക്കാൻ സാമ്യമുള്ളതിനാൽ ആശയക്കുഴപ്പം ഉണ്ടാക്കാൻ വെച്ച option.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"PRU-dent = PRE-thinking\" — 'pru' എന്നത് 'pre' പോലെ കേൾക്കുന്നു; മുൻപേ ചിന്തിക്കുന്നവൻ വിവേകി. ഒരു കർഷകൻ മഴയ്ക്ക് മുൻപ് തോട് വൃത്തിയാക്കുന്ന ചിത്രം മനസ്സിൽ വെക്കുക.\n• Word family: prudent, judicious, sagacious, discreet — 'ബുദ്ധിപൂർവ്വം' എന്ന ഒരേ കുടുംബം. ഇവയിൽ ഏതു വന്നാലും ഉത്തരം ഒന്നുതന്നെ!\n• PSC strategy: Synonym ചോദ്യത്തിൽ ആദ്യം options-ൽ ഒരു antonym ഉണ്ടോ എന്ന് നോക്കുക — ഉണ്ടെങ്കിൽ അത് ഉടനെ വെട്ടിക്കളയുക. ബാക്കി മൂന്നിൽ നിന്ന് തിരഞ്ഞെടുക്കുന്നത് എളുപ്പമാണ്!"
