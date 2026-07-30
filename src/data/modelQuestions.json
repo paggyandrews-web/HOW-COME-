@@ -2798,5 +2798,405 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) oxes — '-es' ചേർത്ത regular plural; 'ox'-ന് ബാധകമല്ല. 🪤 PSC Trap: ഏറ്റവും സ്വാഭാവിക തെറ്റ്.\n• (B) ox — singular തന്നെ; plural അല്ല.\n• (C) oxos — ഇങ്ങനെ ഒരു വാക്ക് ഇല്ല.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ox + en = oxEN, child + ren = childREN' — '-en/-ren' irregular ജോഡി.\n• Word family: ox→oxen, child→children, brother→brethren (irregular '-en').\n• PSC exam strategy: irregular plurals (man, foot, tooth, ox, child) മനഃപാഠമാക്കുക — '-s' rule പ്രയോഗിക്കരുത്."
     }
+  },
+  {
+    "id": "HC-MODEL-004-Q1",
+    "paperId": "HC-MODEL-004",
+    "questionNumber": 1,
+    "topic": "Question Tags",
+    "topicDetail": "Negative subject (nobody) — positive tag",
+    "difficulty": "Medium",
+    "questionText": "Choose the correct Question Tag to complete the sentence.\nNobody informed the ward member about the meeting, ____________",
+    "optionA": "did he?",
+    "optionB": "didn't they?",
+    "optionC": "did they?",
+    "optionD": "wasn't it?",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) did they?\n\n• 'Nobody' എന്ന വാക്കിന് negative meaning ആണ് — \"ആരും ഇല്ല\" എന്നർഥം. Statement-ൽ already negative ഉള്ളതുകൊണ്ട് tag positive ആകണം → did.\n• Nobody, everybody, somebody, anybody — ഇവയെല്ലാം tag-ൽ 'they' ആയി മാറും. ഒരാളെയല്ല, ആൾക്കാരെ പൊതുവായി പറയുന്നതുകൊണ്ടാണിത്.\n• Verb 'informed' past tense ആണ്; auxiliary ഇല്ലാത്തതിനാൽ tag-ൽ 'did' വരും.\n• അർഥം: 'ആരും വാർഡ് മെമ്പറെ യോഗത്തെക്കുറിച്ച് അറിയിച്ചില്ല, അല്ലേ?'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Nobody / No one / None → tag = POSITIVE + they.\n• നിയമം: statement negative ആണെങ്കിൽ tag positive; statement positive ആണെങ്കിൽ tag negative. ഇതാണ് question tag-ന്റെ അടിസ്ഥാനം.\n• 'Nobody' grammar-ൽ singular ആണെങ്കിലും tag-ൽ pronoun 'they' ആണ് എടുക്കുക — ഇത് PSC ഏറ്റവും കൂടുതൽ കുഴപ്പിക്കുന്ന ഭാഗമാണ്.\n• Hidden negative word family: nobody, no one, none, nothing, never, hardly, scarcely, seldom, barely — ഇവയെല്ലാം sentence-നെ negative ആക്കും.\n• ⭐ PSC ആവർത്തനം: കഴിഞ്ഞ 10 പേപ്പറുകളിൽ Question Tags ആണ് ഏറ്റവും കൂടുതൽ വന്ന topic — ഈ ഭാഗം ഉറപ്പിച്ചു പഠിക്കണം!\n• ഉദാഹരണ sentences:\n1. Nobody called you last night, did they? (nobody → positive tag + they)\n2. Nothing was stolen from the shop, was it? (nothing → 'it' ആണ് pronoun)\n3. Everybody enjoyed the trip, didn't they? (everybody → positive statement, negative tag)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) did he? — polarity ശരിയാണ്, പക്ഷേ pronoun തെറ്റ്. 'Nobody' എന്നത് ഒരു പുരുഷനെ മാത്രം ഉദ്ദേശിക്കുന്നില്ല.\n• 🪤 PSC Trap: 'nobody' singular ആണെന്ന് കരുതി 'he' എടുക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണിയാണിത്.\n\n• (B) didn't they? — pronoun ശരിയാണ്, പക്ഷേ polarity തെറ്റ്. Statement already negative ആയതിനാൽ tag വീണ്ടും negative ആക്കാൻ പറ്റില്ല.\n• ഒരു വാക്യത്തിൽ രണ്ട് negative വന്നാൽ അത് double negative error ആകും.\n\n• (D) wasn't it? — verb 'informed' ആണ്, 'was' അല്ല. Auxiliary തന്നെ തെറ്റാണ്.\n• 🪤 PSC Trap: sentence-ന്റെ അവസാനം നോക്കി തിരക്കിട്ട് ഉത്തരം എഴുതുന്നവർ ഇതിൽ വീഴും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"BODY വന്നാൽ THEY കൂടെ\" എന്ന് ഓർക്കുക — nobody, somebody, everybody, anybody എല്ലാത്തിനും tag pronoun 'they'.\n• Rule family: hidden negative words — nobody, none, never, hardly, seldom, scarcely. ഇവ കണ്ടാൽ ഉടനെ tag POSITIVE ആക്കുക.\n• PSC strategy: Question tag ചോദ്യത്തിൽ മൂന്ന് കാര്യം മാത്രം നോക്കുക — (1) auxiliary ഏത്? (2) polarity തിരിക്കണോ? (3) pronoun ഏത്? ഈ മൂന്ന് step ചെയ്താൽ ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-MODEL-004-Q2",
+    "paperId": "HC-MODEL-004",
+    "questionNumber": 2,
+    "topic": "Question Tags",
+    "topicDetail": "Special case — 'Let us' takes 'shall we'",
+    "difficulty": "Hard",
+    "questionText": "Choose the correct Question Tag to complete the sentence.\nLet us submit the application before the last date, ____________",
+    "optionA": "shall we?",
+    "optionB": "will you?",
+    "optionC": "don't we?",
+    "optionD": "shan't we?",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) shall we?\n\n• 'Let us' കൊണ്ട് തുടങ്ങുന്ന വാക്യം ഒരു നിർദ്ദേശമാണ് — \"നമുക്ക് ചെയ്യാം\" എന്ന ക്ഷണം. അതിന്റെ ഉറപ്പിച്ച tag 'shall we?' മാത്രമാണ്.\n• 'us' എന്നാൽ ഞാനും നീയും ചേർന്നത്; അതുകൊണ്ട് tag-ൽ pronoun 'we' വരും.\n• ഇത് ഒരു fixed rule ആണ് — polarity നോക്കേണ്ട ആവശ്യമില്ല, മനഃപാഠമാക്കുകയേ വേണ്ടൂ.\n• അർഥം: 'അവസാന തീയതിക്ക് മുൻപ് നമുക്ക് അപേക്ഷ സമർപ്പിക്കാം, അല്ലേ?'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Let us → shall we? | Let me / Let him → will you? | Imperative → will you?\n• നിയമം: 'Let us' (നമുക്ക്) എന്നത് suggestion ആണ്; suggestion-ന്റെ standard tag എപ്പോഴും 'shall we?' ആണ്.\n• 'Let's' എന്ന ചുരുക്കരൂപം വന്നാലും ഉത്തരം അതുതന്നെ — 'shall we?'.\n• ശ്രദ്ധിക്കുക: 'Let us go' (നമുക്ക് പോകാം = suggestion) → shall we? എന്നാൽ 'Let us go' എന്നത് 'ഞങ്ങളെ വിടൂ' എന്ന അപേക്ഷ ആണെങ്കിൽ → will you?\n• ⭐ PSC ആവർത്തനം: Let us / I am / Imperative — ഈ മൂന്ന് special tags PSC-യുടെ ഇഷ്ട ചോദ്യങ്ങളാണ്.\n• ഉദാഹരണ sentences:\n1. Let us start the meeting, shall we? (നിർദ്ദേശം)\n2. Open the window, will you? (Imperative — കൽപ്പന)\n3. Let me carry your bag, will you? (Let me → will you)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) will you? — ഇത് imperative sentence-നും 'Let me/Let him'-നും ഉള്ള tag ആണ്. 'Let us' എന്നതിന് ഇത് ചേരില്ല.\n• 🪤 PSC Trap: 'Let' എന്ന വാക്ക് കണ്ടാൽ എല്ലാം 'will you' ആണെന്ന് തെറ്റിദ്ധരിക്കുന്നവരെ പിടിക്കാനുള്ള കെണി.\n\n• (C) don't we? — 'Let us' എന്നതിൽ 'do' എന്ന auxiliary ഇല്ല; ഇത് വ്യാകരണപരമായി തന്നെ തെറ്റാണ്.\n• Suggestion-ന് 'do/does/did' കൊണ്ടുള്ള tag ഒരിക്കലും ഉപയോഗിക്കാറില്ല.\n\n• (D) shan't we? — auxiliary ശരിയാണ്, പക്ഷേ negative ആക്കിയത് തെറ്റ്. 'Let us' ന് fixed positive tag 'shall we' മാത്രമാണുള്ളത്.\n• 🪤 PSC Trap: \"positive statement → negative tag\" എന്ന സാധാരണ നിയമം ഇവിടെയും പ്രയോഗിക്കുന്നവർ ഇതിൽ വീഴും. Special cases-ൽ ആ നിയമം ബാധകമല്ല!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"LET US → SHALL WE\" — രണ്ടിലും 'നമ്മൾ' ഉണ്ട്! 'us' ഉം 'we' ഉം ഒരേ ടീം എന്ന് ചിത്രമായി ഓർക്കുക.\n• Rule family: മൂന്ന് special tags ഒന്നിച്ചു പഠിക്കൂ — I am → aren't I? | Let us → shall we? | Imperative (Come/Go/Open) → will you?\n• PSC strategy: Question tag ചോദ്യം കണ്ടാൽ ആദ്യം \"ഇത് special case ആണോ?\" എന്ന് നോക്കുക. അല്ലെങ്കിൽ മാത്രം polarity നിയമം പ്രയോഗിക്കുക. ഈ ക്രമം പാലിച്ചാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-MODEL-004-Q3",
+    "paperId": "HC-MODEL-004",
+    "questionNumber": 3,
+    "topic": "Spelling",
+    "topicDetail": "Silent letters — rhythm",
+    "difficulty": "Easy",
+    "questionText": "Choose the correctly spelt word to fill the blank.\nThe dancers moved to the steady ______ of the chenda melam.",
+    "optionA": "Rythm",
+    "optionB": "Rhythm",
+    "optionC": "Rhythem",
+    "optionD": "Rythem",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Rhythm\n\n• ശരിയായ എഴുത്ത്: R-H-Y-T-H-M. ഈ വാക്കിൽ 'h' രണ്ട് തവണ വരുന്നു — ആദ്യത്തെ R-ന് ശേഷവും T-ന് ശേഷവും.\n• അർഥം: താളം, ലയം. സംഗീതത്തിലും കവിതയിലും ഉപയോഗിക്കുന്ന വാക്ക്.\n• ഈ വാക്കിൽ vowel അക്ഷരം ഒന്നുമില്ല എന്നത് ശ്രദ്ധേയം — 'y' ആണ് vowel-ന്റെ ജോലി ചെയ്യുന്നത്.\n• Etymology hint: Greek 'rhythmos' (ഒഴുക്ക്) എന്ന വാക്കിൽ നിന്നാണ് വരവ്. Greek-ൽ നിന്ന് വരുന്ന വാക്കുകളിൽ 'rh' എന്ന കൂട്ടം സാധാരണമാണ്.\n• വാക്യാർഥം: 'ചെണ്ടമേളത്തിന്റെ സ്ഥിരമായ താളത്തിനൊത്ത് നർത്തകർ ചുവടുവെച്ചു.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: RHYTHM = R + H + Y + T + H + M — \"രണ്ട് H, ഒരു Y, vowel ഒന്നുമില്ല!\"\n• നിയമം: Greek വേരുള്ള ഇംഗ്ലീഷ് വാക്കുകളിൽ 'rh' എന്ന അക്ഷരക്കൂട്ടം വരും; 'h' മൗനമാണ് (silent), പക്ഷേ എഴുതണം.\n• Same family (rh- കുടുംബം): rhyme, rhetoric, rhinoceros, rheumatism, rhombus — എല്ലാത്തിലും 'rh'.\n• ⭐ PSC ആവർത്തനം: Spelling ആണ് കഴിഞ്ഞ 10 പേപ്പറുകളിലെ രണ്ടാമത്തെ ഏറ്റവും വലിയ topic. ഓരോ പേപ്പറിലും ഒന്നോ രണ്ടോ ഉറപ്പ്!\n• ഉദാഹരണ sentences:\n1. The drummer kept a perfect rhythm throughout the temple festival.\n2. Her poem has a lovely rhyme and rhythm.\n3. The doctor treated his rheumatism with regular exercise.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Rythm — ആദ്യത്തെ 'h' വിട്ടുപോയി. ഉച്ചാരണത്തിൽ ആ 'h' കേൾക്കാത്തതുകൊണ്ടാണ് പലരും ഇത് വിട്ടുപോകുന്നത്.\n• 🪤 PSC Trap: കേൾക്കുന്നത് പോലെ എഴുതുന്നവരെ പിടിക്കാനുള്ള ഏറ്റവും സാധാരണമായ കെണി.\n\n• (C) Rhythem — ഇല്ലാത്ത ഒരു 'e' കൂട്ടിച്ചേർത്തു. 'thm' എന്ന അവസാനത്തിന് ഇടയിൽ vowel വേണ്ട.\n• വാക്ക് ഉച്ചരിക്കുമ്പോൾ 'ത്തം' എന്ന് കേൾക്കുന്നതുകൊണ്ട് 'e' ചേർക്കാൻ തോന്നും — അതാണ് കെണി.\n\n• (D) Rythem — രണ്ട് തെറ്റുകൾ ഒരുമിച്ച്: ആദ്യത്തെ 'h' ഇല്ല, കൂടാതെ അധികമായി 'e' ഉണ്ട്. ഏറ്റവും കൂടുതൽ തെറ്റുള്ള option ഇതാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Rhythm Helps Your Two Hips Move\" — ഓരോ വാക്കിന്റെയും ആദ്യാക്ഷരം ചേർത്താൽ R-H-Y-T-H-M! ഒരു തവണ ഉറക്കെ പറഞ്ഞാൽ ജീവിതകാലം മുഴുവൻ ഓർമ്മയുണ്ടാകും.\n• Word family: rh- കൊണ്ട് തുടങ്ങുന്നവ ഒന്നിച്ചു പഠിക്കൂ — rhyme, rhetoric, rhinoceros, rhombus, rhubarb.\n• PSC strategy: Spelling ചോദ്യത്തിൽ options ഓരോന്നായി അക്ഷരം അക്ഷരമായി വായിക്കുക — വേഗത്തിൽ നോക്കിയാൽ ഒരു അക്ഷരത്തിന്റെ വ്യത്യാസം കണ്ണിൽപ്പെടില്ല. പതുക്കെ വായിച്ചാൽ ഉറപ്പായ മാർക്ക്!"
+    }
+  },
+  {
+    "id": "HC-MODEL-004-Q4",
+    "paperId": "HC-MODEL-004",
+    "questionNumber": 4,
+    "topic": "Spelling",
+    "topicDetail": "Double consonants — questionnaire",
+    "difficulty": "Medium",
+    "questionText": "Choose the correctly spelt word to fill the blank.\nThe Health Department circulated a ______ to collect feedback from the patients.",
+    "optionA": "questionaire",
+    "optionB": "questionnare",
+    "optionC": "questionnaire",
+    "optionD": "questioniare",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) questionnaire\n\n• ശരിയായ എഴുത്ത്: QUESTION + N + AIRE. അതായത് 'question' എന്ന വാക്കിനോട് 'naire' ചേർക്കുക — ആകെ രണ്ട് 'n' വരും.\n• അർഥം: ചോദ്യാവലി — വിവരങ്ങൾ ശേഖരിക്കാൻ തയ്യാറാക്കുന്ന ചോദ്യങ്ങളുടെ പട്ടിക.\n• Etymology hint: French വാക്കാണിത്. French-ൽ നിന്ന് വരുന്ന വാക്കുകൾ '-aire' എന്നാണ് അവസാനിക്കുക — 'air' എന്നല്ല.\n• വാക്യാർഥം: 'ആരോഗ്യ വകുപ്പ് രോഗികളിൽ നിന്ന് അഭിപ്രായം ശേഖരിക്കാൻ ഒരു ചോദ്യാവലി വിതരണം ചെയ്തു.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: QUESTION + NAIRE = questionnaire → \"രണ്ട് N, അവസാനം AIRE!\"\n• നിയമം: French-ൽ നിന്ന് ഇംഗ്ലീഷിലേക്ക് വന്ന വാക്കുകളുടെ അവസാനം '-aire' ആയിരിക്കും, '-air' അല്ല.\n• Same family (-aire കുടുംബം): millionaire, billionaire, doctrinaire, commissionaire — എല്ലാം French വേരുള്ളവ.\n• ഓർക്കുക: 'question' എന്ന വാക്ക് പൂർണ്ണമായി ഉള്ളിലുണ്ട്; അതിനുശേഷം ഒരു 'n' കൂടി ചേർത്ത് 'aire' എഴുതുക.\n• ⭐ PSC ആവർത്തനം: ഇരട്ട consonant ഉള്ള വാക്കുകൾ (accommodation, questionnaire, embarrass, millennium) PSC-യുടെ സ്ഥിരം spelling ചോദ്യങ്ങളാണ്.\n• ഉദാഹരണ sentences:\n1. Every applicant must fill in the questionnaire before the interview.\n2. The millionaire donated the entire amount to the flood relief fund.\n3. The survey questionnaire had twenty short questions.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) questionaire — ഒരു 'n' മാത്രം. രണ്ടാമത്തെ 'n' വിട്ടുപോയി.\n• 🪤 PSC Trap: ഏറ്റവും കൂടുതൽ പേർ വീഴുന്ന option ഇതാണ് — ഉച്ചാരണത്തിൽ ഇരട്ട 'n' കേൾക്കാത്തതുകൊണ്ട്.\n\n• (B) questionnare — രണ്ട് 'n' ശരിയാണ്, പക്ഷേ അവസാനം 'i' വിട്ടുപോയി. '-nare' അല്ല, '-naire' ആണ് വേണ്ടത്.\n• പകുതി ശരിയായ option ആയതുകൊണ്ട് ഇത് അപകടകരമായ കെണിയാണ്.\n\n• (D) questioniare — അക്ഷരങ്ങളുടെ ക്രമം തന്നെ മാറി; 'n' ഒന്ന് മാത്രം, കൂടാതെ 'i' തെറ്റായ സ്ഥാനത്ത്.\n• 🪤 PSC Trap: വേഗത്തിൽ നോക്കുമ്പോൾ ഇത് ശരിയായി തോന്നും — അതാണ് കെണിയുടെ ശക്തി.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"QUESTION + N + AIRE\" എന്ന് മൂന്ന് കഷണമായി മുറിച്ച് ഓർക്കുക. 'question' നിങ്ങൾക്ക് അറിയാം; ബാക്കി 'n' + 'aire' മാത്രം പഠിച്ചാൽ മതി!\n• Word family: -aire കൊണ്ട് അവസാനിക്കുന്നവ — millionaire, billionaire, questionnaire, commissionaire.\n• PSC strategy: നീളമുള്ള വാക്കുകൾ കഷണങ്ങളായി മുറിച്ചു പഠിക്കുക (ac-com-mo-da-tion, ques-tion-naire). മുഴുവൻ വാക്കും ഒന്നിച്ചു കാണാതെ പഠിക്കാൻ ശ്രമിക്കരുത് — ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-MODEL-004-Q5",
+    "paperId": "HC-MODEL-004",
+    "questionNumber": 5,
+    "topic": "Tenses",
+    "topicDetail": "Future Perfect",
+    "difficulty": "Medium",
+    "questionText": "Fill in the blank with the correct option.\nBy next Onam, Anju ______ ten years of service in the Health Department.",
+    "optionA": "will complete",
+    "optionB": "will have completed",
+    "optionC": "has completed",
+    "optionD": "would complete",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) will have completed\n\n• 'By next Onam' എന്ന signal ശ്രദ്ധിക്കൂ — ഭാവിയിലെ ഒരു നിശ്ചിത സമയത്തിന് മുൻപ് പൂർത്തിയാകുന്ന കാര്യം. അതിന് Future Perfect Tense ആണ് വേണ്ടത്.\n• Formula: will have + V3 (past participle) → will have completed.\n• അർഥം: 'അടുത്ത ഓണം ആകുമ്പോഴേക്കും അഞ്ജു ആരോഗ്യ വകുപ്പിൽ പത്തു വർഷത്തെ സേവനം പൂർത്തിയാക്കിയിരിക്കും.'\n• ഭാവിയിലെ ആ സമയത്ത് നിന്നു നോക്കുമ്പോൾ ആ പ്രവൃത്തി 'കഴിഞ്ഞു' എന്ന അവസ്ഥയിലായിരിക്കും — അതാണ് Future Perfect-ന്റെ പ്രത്യേകത.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: BY + ഭാവി സമയം → will have + V3.\n• നിയമം: ഭാവിയിലെ ഒരു നിശ്ചിത സമയത്തിന് മുൻപായി പൂർത്തിയാകുന്ന പ്രവൃത്തിക്ക് Future Perfect ഉപയോഗിക്കുന്നു.\n• Signal words: by next year, by 2030, by the time you arrive, by tomorrow evening — 'by' എന്ന വാക്ക് കണ്ടാൽ ജാഗ്രത!\n• വ്യത്യാസം ഓർക്കുക: 'By the time... had + V3' = Past Perfect (കഴിഞ്ഞകാലം). 'By next... will have + V3' = Future Perfect (ഭാവി).\n• ⭐ PSC ആവർത്തനം: Tenses മൂന്നാമത്തെ ഏറ്റവും വലിയ topic ആണ്. Signal word കണ്ടുപിടിക്കാൻ പഠിച്ചാൽ tense ചോദ്യങ്ങൾ എളുപ്പമാകും.\n• ഉദാഹരണ sentences:\n1. By December, the new bridge will have opened to the public.\n2. By the time the results come, we will have finished the revision.\n3. She will have written the exam by this time tomorrow.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) will complete — Simple Future ആണിത്; ഭാവിയിൽ ചെയ്യും എന്ന് മാത്രമേ പറയുന്നുള്ളൂ. 'By next Onam' എന്ന പൂർത്തീകരണ സൂചന ഇതിൽ വരുന്നില്ല.\n• 🪤 PSC Trap: അർഥം ഏകദേശം ശരിയായി തോന്നും — അതുകൊണ്ടാണ് ഇത് ഏറ്റവും അപകടകരമായ option.\n\n• (C) has completed — Present Perfect ആണ്; ഇത് ഇപ്പോൾ വരെ കഴിഞ്ഞ കാര്യത്തിനാണ്. 'next Onam' ഭാവിയായതിനാൽ ചേരില്ല.\n• ഭാവി സൂചനയുള്ള വാക്യത്തിൽ present perfect ഒരിക്കലും ഉപയോഗിക്കരുത്.\n\n• (D) would complete — 'would' സാധാരണയായി past-ലെ ഭാവിക്കോ conditional-നോ ആണ്. ഇവിടെ ഉറപ്പുള്ള ഭാവി കാര്യമാണ് പറയുന്നത്.\n• 🪤 PSC Trap: 'would' എപ്പോഴും മര്യാദയുള്ള രൂപമാണെന്ന് കരുതുന്നവരെ പിടിക്കാനുള്ള കെണി.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"BY കണ്ടാൽ WILL HAVE ഓർക്കൂ\" — 'by' എന്ന വാക്ക് ഒരു deadline ആണ്; deadline-ന് മുൻപ് പണി തീരണം, അതിനാൽ 'have + V3'.\n• Rule family: മൂന്ന് perfect tenses ഒന്നിച്ചു പഠിക്കൂ — has/have + V3 (Present Perfect), had + V3 (Past Perfect), will have + V3 (Future Perfect). ഒരേ V3, auxiliary മാത്രം മാറ്റം!\n• PSC strategy: Tense ചോദ്യത്തിൽ ആദ്യം time-marker (yesterday / since / by next year / already) അടിവരയിടുക. Signal കിട്ടിയാൽ ഉത്തരം താനേ വരും — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-MODEL-004-Q6",
+    "paperId": "HC-MODEL-004",
+    "questionNumber": 6,
+    "topic": "Prepositions",
+    "topicDetail": "Verb + preposition collocation — accuse of",
+    "difficulty": "Medium",
+    "questionText": "Fill in the blank with the correct preposition.\nThe Village Officer accused the contractor ______ using poor-quality cement.",
+    "optionA": "of",
+    "optionB": "for",
+    "optionC": "with",
+    "optionD": "on",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) of\n\n• 'Accuse' എന്ന verb-ന്റെ കൂടെ എപ്പോഴും 'of' ആണ് വരുന്നത് — accuse somebody OF something. ഇത് ഒരു fixed collocation ആണ്.\n• 'Accuse' എന്നാൽ കുറ്റം ആരോപിക്കുക. ആരോപണം എന്തിനെക്കുറിച്ചാണോ, അതിന് മുൻപ് 'of' വരും.\n• 'of'-ന് ശേഷം verb വന്നാൽ അത് '-ing' രൂപത്തിലാകും → of using. Preposition-ന് ശേഷം gerund എന്നത് ഉറച്ച നിയമമാണ്.\n• അർഥം: 'ഗുണനിലവാരം കുറഞ്ഞ സിമന്റ് ഉപയോഗിച്ചെന്ന് വില്ലേജ് ഓഫീസർ കരാറുകാരനെ കുറ്റപ്പെടുത്തി.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ACCUSE **OF** | BLAME **FOR** | CHARGE **WITH** — മൂന്നും കുറ്റാരോപണം, പക്ഷേ preposition വ്യത്യസ്തം!\n• നിയമം: ഓരോ verb-നും അതിന്റേതായ preposition ഉണ്ട്. ഇത് നിയമമല്ല, ശീലമാണ് — അതുകൊണ്ട് ജോഡിയായി പഠിക്കണം.\n• Preposition-ന് ശേഷം verb വന്നാൽ എപ്പോഴും '-ing' രൂപം (gerund) ആണ്: of using, for coming, in solving.\n• PSC-യുടെ ഇഷ്ട collocation ജോഡികൾ: insist ON, depend ON, congratulate ON, accuse OF, suspect OF, deprive OF, blame FOR, famous FOR, charge WITH, comply WITH.\n• ⭐ PSC ആവർത്തനം: Prepositions കഴിഞ്ഞ 10 പേപ്പറുകളിൽ മുൻനിരയിലുള്ള topic ആണ് — collocation പട്ടിക കാണാതെ പഠിക്കുക!\n• ഉദാഹരണ sentences:\n1. The police accused him of theft. (accuse + of)\n2. Don't blame her for the delay. (blame + for)\n3. He was charged with reckless driving. (charge + with)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) for — 'blame for' ആണ് ശരി, 'accuse for' അല്ല. അർഥം അടുത്താണെങ്കിലും preposition മാറ്റാൻ പറ്റില്ല.\n• 🪤 PSC Trap: 'accuse' ഉം 'blame' ഉം ഒരേ അർഥമായതിനാൽ preposition ഉം ഒന്നാണെന്ന് തെറ്റിദ്ധരിക്കുന്നവരെ പിടിക്കാനുള്ള കെണി.\n\n• (C) with — 'charge with' ആണ് ശരിയായ ജോഡി (He was charged with fraud). 'accuse with' എന്ന പ്രയോഗം ഇംഗ്ലീഷിൽ ഇല്ല.\n• നിയമ ഭാഷയിൽ 'charge' ഉം 'accuse' ഉം ഒന്നിച്ചു വരാറുണ്ട് — അതാണ് ആശയക്കുഴപ്പത്തിന് കാരണം.\n\n• (D) on — 'congratulate on', 'insist on' എന്നിവയ്ക്കുള്ള preposition ആണിത്. 'accuse'-മായി ഒരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: 'on' ആണ് ഏറ്റവും കൂടുതൽ ഉപയോഗിക്കുന്ന preposition എന്നതിനാൽ സംശയം വരുമ്പോൾ പലരും ഇത് തിരഞ്ഞെടുക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ACCUSED OF, BLAMED FOR, CHARGED WITH\" എന്ന് ഒരു കോടതി രംഗം സങ്കൽപ്പിച്ച് മൂന്നും ഒന്നിച്ചു ചൊല്ലി പഠിക്കുക. മൂന്ന് വ്യത്യസ്ത preposition — മൂന്ന് വ്യത്യസ്ത ശബ്ദം!\n• Rule family: OF കുടുംബം — accuse of, suspect of, deprive of, convict of, remind of, consist of.\n• PSC strategy: Preposition ചോദ്യത്തിൽ blank-ന് തൊട്ടുമുൻപുള്ള verb/adjective നോക്കുക — preposition തീരുമാനിക്കുന്നത് അതാണ്, പിന്നാലെ വരുന്ന noun അല്ല. ഇത് ഓർത്തിരുന്നാൽ ഉറപ്പായ മാർക്ക്!"
+    }
+  },
+  {
+    "id": "HC-MODEL-004-Q7",
+    "paperId": "HC-MODEL-004",
+    "questionNumber": 7,
+    "topic": "Synonyms",
+    "topicDetail": "Adjective synonym — prudent",
+    "difficulty": "Medium",
+    "questionText": "Choose the synonym of the word in italics.\nThe panchayat took a __prudent__ decision to clean the canals before the monsoon.",
+    "optionA": "reckless",
+    "optionB": "expensive",
+    "optionC": "wise and careful",
+    "optionD": "sudden",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) wise and careful\n\n• 'Prudent' എന്നാൽ ദീർഘവീക്ഷണത്തോടെ, ശ്രദ്ധയോടെ എടുക്കുന്ന തീരുമാനം — 'വിവേകമുള്ള' എന്നർഥം.\n• മഴയ്ക്ക് മുൻപേ തോട് വൃത്തിയാക്കുക എന്നത് ഭാവിയിലെ വെള്ളപ്പൊക്കം ഒഴിവാക്കാനുള്ള മുൻകരുതലാണ് — അതാണ് 'prudent' എന്ന വാക്കിന്റെ feel.\n• Etymology hint: Latin 'providens' (മുൻകൂട്ടി കാണുന്നത്) എന്ന വാക്കിൽ നിന്നാണ് വരവ്. 'provide', 'providence' എന്നിവയും ഇതേ വേരിൽ നിന്നുള്ളവ.\n• Noun രൂപം: prudence (വിവേകം). Opposite: imprudent (അവിവേകം).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: PRUDENT = PRO (മുൻപേ) + VIDENT (കാണുന്നത്) → \"മുൻപേ കാണുന്നവൻ വിവേകി!\"\n• നിയമം: Synonym ചോദ്യത്തിൽ വാക്കിന്റെ നിഘണ്ടു അർഥം മാത്രമല്ല, വാക്യത്തിലെ context കൂടി നോക്കണം.\n• Word family (വിവേകം കുടുംബം): prudent, judicious, sagacious, discreet, circumspect — എല്ലാം 'ശ്രദ്ധയോടെ ചിന്തിക്കുന്ന' എന്ന അർഥത്തിൽ.\n• Etymology hint: pro- (മുൻപ്) എന്ന Latin prefix ഉള്ള വാക്കുകൾ — provide, predict, prevent, prepare. എല്ലാത്തിലും 'മുൻകൂട്ടി' എന്ന ആശയം.\n• ⭐ PSC ആവർത്തനം: Synonyms കഴിഞ്ഞ 10 പേപ്പറുകളിൽ മുൻനിരയിലാണ് — വാക്കിന്റെ വേര് (root) പഠിച്ചാൽ അറിയാത്ത വാക്കും ഊഹിക്കാം.\n• ഉദാഹരണ sentences:\n1. It was prudent of her to save money for the rainy day.\n2. A prudent farmer stores grain for the dry season.\n3. The manager gave prudent advice to the new staff.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) reckless — അർഥം 'അശ്രദ്ധമായ, മുൻവിചാരമില്ലാത്ത'. ഇത് 'prudent'-ന്റെ നേരെ വിപരീതമാണ്!\n• 🪤 PSC Trap: Synonym ചോദ്യത്തിൽ antonym കൊടുക്കുക എന്നത് PSC-യുടെ ഒന്നാം നമ്പർ കെണിയാണ്. ചോദ്യം synonym ആണോ antonym ആണോ എന്ന് രണ്ട് തവണ വായിക്കുക!\n\n• (B) expensive — അർഥം 'വിലകൂടിയ'. തീരുമാനത്തിന്റെ ചെലവിനെക്കുറിച്ചല്ല, ബുദ്ധിയെക്കുറിച്ചാണ് ഇവിടെ പറയുന്നത്.\n• വാക്യത്തിൽ പണത്തെക്കുറിച്ച് ഒരു സൂചനയുമില്ല.\n\n• (D) sudden — അർഥം 'പെട്ടെന്നുള്ള'. 'Prudent' തീരുമാനം ആലോചിച്ചെടുക്കുന്നതാണ്, പെട്ടെന്നുള്ളതല്ല.\n• 🪤 PSC Trap: 'prudent' ഉം 'prompt' ഉം കേൾക്കാൻ സാമ്യമുള്ളതിനാൽ ആശയക്കുഴപ്പം ഉണ്ടാക്കാൻ വെച്ച option.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"PRU-dent = PRE-thinking\" — 'pru' എന്നത് 'pre' പോലെ കേൾക്കുന്നു; മുൻപേ ചിന്തിക്കുന്നവൻ വിവേകി. ഒരു കർഷകൻ മഴയ്ക്ക് മുൻപ് തോട് വൃത്തിയാക്കുന്ന ചിത്രം മനസ്സിൽ വെക്കുക.\n• Word family: prudent, judicious, sagacious, discreet — 'ബുദ്ധിപൂർവ്വം' എന്ന ഒരേ കുടുംബം. ഇവയിൽ ഏതു വന്നാലും ഉത്തരം ഒന്നുതന്നെ!\n• PSC strategy: Synonym ചോദ്യത്തിൽ ആദ്യം options-ൽ ഒരു antonym ഉണ്ടോ എന്ന് നോക്കുക — ഉണ്ടെങ്കിൽ അത് ഉടനെ വെട്ടിക്കളയുക. ബാക്കി മൂന്നിൽ നിന്ന് തിരഞ്ഞെടുക്കുന്നത് എളുപ്പമാണ്!"
+    }
+  },
+  {
+    "id": "HC-MODEL-004-Q8",
+    "paperId": "HC-MODEL-004",
+    "questionNumber": 8,
+    "topic": "Subject-Verb Agreement",
+    "topicDetail": "'The number of' vs 'A number of'",
+    "difficulty": "Medium",
+    "questionText": "Fill in the blank with the correct option.\nThe number of applicants for the LD Clerk examination ______ increasing every year.",
+    "optionA": "are",
+    "optionB": "is",
+    "optionC": "have",
+    "optionD": "were",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) is\n\n• 'The number of' എന്ന പ്രയോഗം ഒരു എണ്ണത്തെയാണ് (a single figure) കുറിക്കുന്നത് — അതുകൊണ്ട് അത് singular ആണ്, verb ഉം singular ('is').\n• യഥാർഥ subject 'The number' ആണ്; 'of applicants' എന്നത് വെറും വിശേഷണ ഭാഗം മാത്രം. Verb തീരുമാനിക്കുന്നത് 'number' ആണ്.\n• 'every year' എന്ന signal present-ലെ തുടർച്ചയായ പ്രവണത കാണിക്കുന്നു → is increasing.\n• അർഥം: 'എൽ.ഡി. ക്ലർക്ക് പരീക്ഷയ്ക്ക് അപേക്ഷിക്കുന്നവരുടെ എണ്ണം വർഷം തോറും കൂടിവരുന്നു.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: THE number of → **IS** (singular) | A number of → **ARE** (plural). \"THE-ന് ഒറ്റ, A-ക്ക് പല!\"\n• നിയമം: 'The number of' = എണ്ണം എന്ന ഒറ്റ ആശയം → singular verb. 'A number of' = പലത്, ധാരാളം → plural verb.\n• അടിസ്ഥാന നിയമം: 'of'-ന് ശേഷം വരുന്ന noun കണ്ട് വഞ്ചിതരാകരുത്. Verb തീരുമാനിക്കുന്നത് 'of'-ന് മുൻപുള്ള head noun ആണ്.\n• ഇതേ രീതിയിലുള്ളവ: 'One of the boys IS', 'Each of the students HAS', 'The quality of the mangoes IS'.\n• ⭐ PSC ആവർത്തനം: Subject-Verb Agreement കഴിഞ്ഞ 10 പേപ്പറുകളിൽ ഉയർന്ന സ്ഥാനത്താണ്; 'the number/a number' ജോഡി PSC-യുടെ ഇഷ്ട ചോദ്യമാണ്.\n• ഉദാഹരണ sentences:\n1. The number of students in the class is forty. (ഒറ്റ എണ്ണം → is)\n2. A number of students are absent today. (പലർ → are)\n3. The list of selected candidates was published yesterday. (head noun = list → was)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) are — 'applicants' എന്ന plural noun കണ്ടിട്ട് എടുക്കുന്ന ഉത്തരം. പക്ഷേ അത് subject അല്ല, 'of' phrase-ന്റെ ഭാഗമാണ്.\n• 🪤 PSC Trap: ഇതാണ് ഏറ്റവും കൂടുതൽ പേർ വീഴുന്ന കെണി — blank-ന് തൊട്ടുമുൻപുള്ള plural noun നോക്കി ഉത്തരം എഴുതുന്നത്.\n\n• (C) have — 'have' plural auxiliary ആണ്; കൂടാതെ 'have increasing' എന്ന രൂപം വ്യാകരണപരമായി തന്നെ തെറ്റാണ് ('have been increasing' എന്നാകണം).\n• രണ്ട് തെറ്റുകൾ ഒരുമിച്ചുള്ള option.\n\n• (D) were — plural മാത്രമല്ല, past tense കൂടിയാണ്. 'every year' എന്ന signal ഇപ്പോഴും തുടരുന്ന കാര്യമാണ് കാണിക്കുന്നത്.\n• 🪤 PSC Trap: Number-ഉം tense-ഉം ഒരുമിച്ച് തെറ്റിക്കുന്ന option — രണ്ടും ശ്രദ്ധിക്കാത്തവർ വീഴും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"THE number IS one number; A number ARE many numbers\" — 'THE' ചൂണ്ടിക്കാണിക്കുന്നത് ഒരൊറ്റ കണക്കിനെ, 'A' സൂചിപ്പിക്കുന്നത് കൂട്ടത്തെ.\n• Rule family: 'of' കൊണ്ട് കുഴപ്പിക്കുന്നവ ഒന്നിച്ചു പഠിക്കൂ — the number of...is, a number of...are, one of the...is, each of the...has, the quality of...is.\n• PSC strategy: Subject-Verb ചോദ്യത്തിൽ 'of' എന്ന വാക്ക് കണ്ടാൽ ഉടനെ അതിനും ശേഷമുള്ള ഭാഗം കൈകൊണ്ട് മറയ്ക്കുക. ബാക്കി വരുന്നതാണ് യഥാർഥ subject — ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-MODEL-004-Q9",
+    "paperId": "HC-MODEL-004",
+    "questionNumber": 9,
+    "topic": "Antonyms",
+    "topicDetail": "Adjective antonym — humble",
+    "difficulty": "Easy",
+    "questionText": "Choose the antonym of the word in italics.\nEven after winning the State Award, the school teacher remained __humble__.",
+    "optionA": "modest",
+    "optionB": "gentle",
+    "optionC": "silent",
+    "optionD": "arrogant",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) arrogant\n\n• 'Humble' എന്നാൽ വിനയമുള്ള, അഹങ്കാരമില്ലാത്ത. അതിന്റെ നേരെ വിപരീതം 'arrogant' — അഹങ്കാരിയായ, ഗർവുള്ള.\n• വാക്യത്തിന്റെ അർഥം: 'സംസ്ഥാന അവാർഡ് നേടിയിട്ടും ആ അധ്യാപകൻ വിനയാന്വിതനായി തുടർന്നു.'\n• 'Even after' എന്ന പ്രയോഗം സൂചിപ്പിക്കുന്നത് — സാധാരണ ആളുകൾ അവാർഡ് കിട്ടിയാൽ അഹങ്കരിക്കും, പക്ഷേ ഇദ്ദേഹം അങ്ങനെയായില്ല.\n• Etymology hint: Latin 'humilis' (നിലത്തോട് ചേർന്ന്) എന്ന വാക്കിൽ നിന്ന്; 'humus' = മണ്ണ്. വിനയമുള്ളവൻ മണ്ണിനോട് ചേർന്നു നിൽക്കുന്നു!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: HUMBLE (മണ്ണിനോട് ചേർന്ന്) ⇄ ARROGANT (ആകാശത്തോളം ഉയർന്ന്).\n• നിയമം: Antonym ചോദ്യത്തിൽ 'ഏറ്റവും വിപരീതമായത്' തിരഞ്ഞെടുക്കണം — വെറും 'വ്യത്യസ്തമായത്' അല്ല.\n• Word family (വിനയം): humble, modest, meek, unassuming, down-to-earth.\n• Opposite family (അഹങ്കാരം): arrogant, haughty, conceited, vain, pompous, insolent.\n• Etymology hint: humble ← humus (മണ്ണ്). 'Humiliate' (അപമാനിക്കുക) എന്ന വാക്കും ഇതേ വേരിൽ നിന്ന് — ആരെയെങ്കിലും മണ്ണിലേക്ക് താഴ്ത്തുക എന്ന ചിത്രം!\n• ⭐ PSC ആവർത്തനം: Antonyms കഴിഞ്ഞ 10 പേപ്പറുകളിൽ സ്ഥിരം സാന്നിധ്യമാണ് — synonym-antonym ജോഡികളായി പഠിക്കുക.\n• ഉദാഹരണ sentences:\n1. He is a humble man despite his wealth.\n2. Her arrogant reply upset the whole staff room.\n3. The champion was modest about his victory.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) modest — ഇത് 'humble'-ന്റെ synonym ആണ്, antonym അല്ല! രണ്ടും 'വിനയം' എന്ന ഒരേ അർഥത്തിലുള്ളവ.\n• 🪤 PSC Trap: Antonym ചോദ്യത്തിൽ synonym കൊടുക്കുക — ഇത് PSC-യുടെ ക്ലാസിക് കെണിയാണ്. ചോദ്യം ശ്രദ്ധിച്ചു വായിക്കാത്തവർ ഉറപ്പായും വീഴും.\n\n• (B) gentle — അർഥം 'സൗമ്യമായ, മൃദുവായ'. ഇതും 'humble'-നോട് അടുത്ത അർഥമുള്ള വാക്കാണ്, വിപരീതമല്ല.\n• സ്വഭാവത്തെക്കുറിച്ചുള്ള നല്ല വാക്ക് ആയതിനാൽ ഇത് വിപരീതമാകില്ല.\n\n• (C) silent — അർഥം 'നിശ്ശബ്ദനായ'. മിണ്ടാതിരിക്കുന്നതും വിനയവും തമ്മിൽ ബന്ധമില്ല; ഒരു അഹങ്കാരിക്കും മിണ്ടാതിരിക്കാം.\n• 🪤 PSC Trap: 'വിനയമുള്ളവർ അധികം സംസാരിക്കില്ല' എന്ന പൊതു ധാരണ ഉപയോഗിച്ചുള്ള കെണി — പക്ഷേ അത് വാക്കിന്റെ അർഥമല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: രണ്ട് ചിത്രം മനസ്സിൽ വെക്കുക — HUMBLE = തലകുനിച്ചു നിൽക്കുന്ന ആൾ (മണ്ണിനോട് ചേർന്ന്); ARROGANT = മൂക്ക് ഉയർത്തി നടക്കുന്ന ആൾ.\n• Word family: വിനയ കുടുംബം (humble, modest, meek) ⇄ അഹങ്കാര കുടുംബം (arrogant, haughty, conceited, vain). ഒരു ജോഡിയായി പഠിച്ചാൽ synonym-ഉം antonym-ഉം ഒരുമിച്ചു കിട്ടും!\n• PSC strategy: Antonym ചോദ്യത്തിൽ ചോദ്യത്തിലെ 'antonym' എന്ന വാക്കിന് ചുറ്റും വട്ടം വരയ്ക്കുക. എന്നിട്ട് synonym ആയ options ആദ്യം വെട്ടിക്കളയുക — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-MODEL-004-Q10",
+    "paperId": "HC-MODEL-004",
+    "questionNumber": 10,
+    "topic": "Phrasal Verbs",
+    "topicDetail": "turn + particle family",
+    "difficulty": "Medium",
+    "questionText": "Choose the correct meaning of the phrasal verb in italics.\nThe bank __turned down__ Fathima's application for an education loan.",
+    "optionA": "rejected",
+    "optionB": "postponed",
+    "optionC": "reduced the volume of",
+    "optionD": "handed over",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) rejected\n\n• 'Turn down' എന്ന phrasal verb-ന്റെ പ്രധാന അർഥം 'നിരസിക്കുക, തള്ളിക്കളയുക' എന്നാണ്.\n• അപേക്ഷ, ക്ഷണം, ഓഫർ — ഇവയെല്ലാം 'turn down' ചെയ്യാം. അതായത് സ്വീകരിക്കാതെ മടക്കുക.\n• അർഥം: 'ഫാത്തിമയുടെ വിദ്യാഭ്യാസ വായ്പാ അപേക്ഷ ബാങ്ക് നിരസിച്ചു.'\n• ചിത്രമായി ഓർക്കുക: ഒരു കടലാസ് കയ്യിൽ കിട്ടിയപ്പോൾ അത് താഴേക്ക് (down) തിരിച്ചു (turn) വെക്കുന്നു — വേണ്ട എന്ന അർഥം!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: TURN DOWN = NO പറയുക (reject). \"താഴേക്ക് തിരിച്ചാൽ വേണ്ടെന്ന്!\"\n• നിയമം: Phrasal verb-ന്റെ അർഥം അതിലെ വാക്കുകളുടെ നേരിട്ടുള്ള അർഥമല്ല — അത് ഒരു പുതിയ, idiomatic അർഥമാണ്.\n• TURN കുടുംബം മുഴുവൻ ഒന്നിച്ചു പഠിക്കൂ:\n  – turn down = നിരസിക്കുക / ശബ്ദം കുറയ്ക്കുക\n  – turn up = അപ്രതീക്ഷിതമായി എത്തുക\n  – turn in = ഏൽപ്പിക്കുക / സമർപ്പിക്കുക\n  – turn over = മറിക്കുക / കൈമാറുക\n  – turn out = ഒടുവിൽ ആയിത്തീരുക\n• ⭐ PSC ആവർത്തനം: Phrasal Verbs കഴിഞ്ഞ 10 പേപ്പറുകളിൽ ഏഴ് തവണ വന്നു — ഒരേ base verb-ന്റെ എല്ലാ രൂപങ്ങളും അറിഞ്ഞിരിക്കണം.\n• ഉദാഹരണ sentences:\n1. She turned down the job offer in Bengaluru. (നിരസിച്ചു)\n2. He turned up at the wedding without an invitation. (എത്തി)\n3. Please turn in your assignment by Friday. (സമർപ്പിക്കുക)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) postponed — അത് 'put off' എന്ന phrasal verb-ന്റെ അർഥമാണ്. 'Turn down' സമയവുമായി ബന്ധപ്പെട്ടതല്ല.\n• 🪤 PSC Trap: രണ്ടും 'നടക്കാതെ പോയി' എന്ന ഏകദേശ ധാരണ തരുന്നതിനാൽ ആശയക്കുഴപ്പം ഉണ്ടാകും.\n\n• (C) reduced the volume of — ഇത് 'turn down' എന്നതിന്റെ മറ്റൊരു അർഥമാണ് ശരി, പക്ഷേ അത് റേഡിയോ/ടിവി പോലുള്ള ശബ്ദമുള്ള വസ്തുക്കൾക്ക് മാത്രം. ഒരു അപേക്ഷയുടെ 'volume' കുറയ്ക്കാൻ പറ്റില്ല!\n• 🪤 PSC Trap: ഏറ്റവും സൂക്ഷ്മമായ കെണി — അർഥം ശരിയാണ്, പക്ഷേ context തെറ്റ്. Phrasal verb-ന്റെ അർഥം എപ്പോഴും വാക്യത്തിനനുസരിച്ച് തിരഞ്ഞെടുക്കണം.\n\n• (D) handed over — അത് 'turn over' അല്ലെങ്കിൽ 'turn in' എന്നതിന്റെ അർഥമാണ്. ബാങ്ക് അപേക്ഷ കൈമാറിയില്ല, നിരസിക്കുകയാണ് ചെയ്തത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: വിരൽ താഴേക്ക് ചൂണ്ടുന്ന ചിത്രം (👎 thumbs down) ഓർക്കുക — DOWN = NO! 'Turn down' എന്നാൽ താഴേക്കുള്ള വിരൽ, അതായത് നിരസിക്കൽ.\n• Word family: ഒരു base verb എടുത്ത് അതിന്റെ എല്ലാ particles ഉം ഒരുമിച്ചു പഠിക്കുക — turn down/up/in/out/over. PSC ഒരേ base verb-ന്റെ വ്യത്യസ്ത രൂപങ്ങൾ options ആയി തരും!\n• PSC strategy: Phrasal verb ചോദ്യത്തിൽ ആദ്യം വാക്യത്തിന്റെ context നോക്കുക (ഇവിടെ 'application' = അപേക്ഷ). ഒരേ phrasal verb-ന് പല അർഥമുണ്ടെങ്കിൽ context ആണ് തീരുമാനിക്കുന്നത് — ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-MODEL-004-Q11",
+    "paperId": "HC-MODEL-004",
+    "questionNumber": 11,
+    "topic": "Idioms",
+    "topicDetail": "hit the nail on the head",
+    "difficulty": "Hard",
+    "questionText": "Choose the correct meaning of the idiom in italics.\nWhen Devika said the delay was caused by poor planning, she really __hit the nail on the head__.",
+    "optionA": "spoke very angrily",
+    "optionB": "made a serious mistake",
+    "optionC": "described the problem exactly right",
+    "optionD": "hurt someone's feelings",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) described the problem exactly right\n\n• 'Hit the nail on the head' എന്ന idiom-ന്റെ അർഥം: കാര്യത്തിന്റെ കാതൽ കൃത്യമായി പറയുക — 'ഒറ്റയടിക്ക് ശരി പറഞ്ഞു' എന്ന അർഥം.\n• ചിത്രം: ഒരു ആശാരി ചുറ്റിക കൊണ്ട് ആണിയുടെ തലയിൽ കൃത്യമായി അടിക്കുന്നു. ഒന്നു തെറ്റിയാൽ ആണി വളയും; കൃത്യമായാൽ ഒറ്റയടിക്ക് അകത്തുപോകും.\n• Devika പറഞ്ഞ കാരണം കൃത്യമായിരുന്നു — അതാണ് ഈ idiom കൊണ്ട് ഉദ്ദേശിക്കുന്നത്.\n• അർഥം: 'മോശം ആസൂത്രണമാണ് കാലതാമസത്തിന് കാരണമെന്ന് ദേവിക പറഞ്ഞപ്പോൾ അവൾ കാര്യം കൃത്യമായി പറഞ്ഞു.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: HIT THE NAIL ON THE HEAD = \"ആണിയുടെ തലയിൽ കൃത്യം അടി\" = കൃത്യമായി ശരി പറയുക.\n• നിയമം: Idiom-ന്റെ അർഥം അതിലെ വാക്കുകളുടെ നേരിട്ടുള്ള അർഥത്തിൽ നിന്ന് കണ്ടെത്താൻ പറ്റില്ല. അത് ഒരു ചിത്രമായി (image) ഓർക്കുകയാണ് വേണ്ടത്.\n• ഇവിടെ ആരെയും അടിക്കുന്നില്ല, ആണിയുമില്ല — 'കൃത്യത' എന്ന ആശയം മാത്രമാണ് കൈമാറുന്നത്.\n• 'ശരിയായി പറയുക' എന്ന അർഥമുള്ള മറ്റ് പ്രയോഗങ്ങൾ: get to the heart of the matter, be spot on, put one's finger on it.\n• ⭐ PSC ആവർത്തനം: Idioms കഴിഞ്ഞ 10 പേപ്പറുകളിൽ ഏഴ് തവണ വന്നു. ഓരോ ആഴ്ചയും 5 idiom വീതം പഠിച്ചാൽ ഒരു വർഷം കൊണ്ട് 250 idiom സ്വന്തമാകും!\n• ഉദാഹരണ sentences:\n1. You hit the nail on the head when you said the road needed repair, not repainting.\n2. His comment about the traffic problem hit the nail on the head.\n3. The auditor hit the nail on the head about the missing receipts.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) spoke very angrily — 'hit' എന്ന വാക്ക് കണ്ട് ദേഷ്യം എന്ന് ഊഹിക്കുന്നവർക്കുള്ള കെണി. ഈ idiom-ൽ ദേഷ്യമോ അക്രമമോ ഇല്ല.\n• 🪤 PSC Trap: Idiom-ലെ ഒരു വാക്കിന്റെ (hit) നേരിട്ടുള്ള അർഥം വെച്ച് ഊഹിക്കുന്നവരെ പിടിക്കാനുള്ള ഏറ്റവും സാധാരണ കെണി.\n\n• (B) made a serious mistake — ഇത് നേരെ വിപരീത അർഥമാണ്! Idiom പറയുന്നത് അവൾ ശരിയാണ് എന്നാണ്, തെറ്റാണെന്നല്ല.\n• വിപരീത അർഥം option ആയി കൊടുക്കുന്നത് PSC-യുടെ പതിവാണ്.\n\n• (D) hurt someone's feelings — വീണ്ടും 'hit' എന്ന വാക്കിന്റെ നേരിട്ടുള്ള അർഥത്തിൽ നിന്നുള്ള ഊഹം. 'Hit below the belt' എന്ന വേറൊരു idiom-ന്റെ അർഥത്തോട് അടുത്തതാണിത്.\n• 🪤 PSC Trap: സാമ്യമുള്ള മറ്റൊരു idiom-ന്റെ അർഥം കൊടുത്ത് കുഴപ്പിക്കുന്ന സൂക്ഷ്മമായ കെണി.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: ഒരു ആശാരി ചുറ്റികയുമായി നിൽക്കുന്നത് സങ്കൽപ്പിക്കൂ — ആണിയുടെ തലയിൽ (head) കൃത്യം അടി വീണാൽ ഒറ്റത്തവണ കൊണ്ട് പണി തീരും. കൃത്യത = ശരിയായ ഉത്തരം!\n• Rule family: 'ശരിയായി പറയുക' എന്ന idiom കുടുംബം — hit the nail on the head, be spot on, put one's finger on it. നേരെ വിപരീതം: bark up the wrong tree (തെറ്റായ ദിശയിൽ അന്വേഷിക്കുക).\n• PSC strategy: Idiom ചോദ്യത്തിൽ ഒരിക്കലും വാക്കുകളുടെ നേരിട്ടുള്ള അർഥം നോക്കരുത്. പകരം വാക്യത്തിന്റെ tone നോക്കുക — ഇവിടെ 'really' എന്ന വാക്ക് പ്രശംസ സൂചിപ്പിക്കുന്നു, അതിനാൽ നല്ല അർഥമുള്ള option ആണ് ശരി. ഈ tone-reading trick ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-MODEL-004-Q12",
+    "paperId": "HC-MODEL-004",
+    "questionNumber": 12,
+    "topic": "Active and Passive Voice",
+    "topicDetail": "Simple Future — active to passive",
+    "difficulty": "Easy",
+    "questionText": "Change the following sentence into the Passive Voice:\nThe District Collector will inaugurate the new public library.",
+    "optionA": "The new public library is inaugurated by the District Collector.",
+    "optionB": "The new public library will inaugurate the District Collector.",
+    "optionC": "The new public library has been inaugurated by the District Collector.",
+    "optionD": "The new public library will be inaugurated by the District Collector.",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) The new public library will be inaugurated by the District Collector.\n\n• Active വാക്യത്തിൽ tense Simple Future ആണ് ('will inaugurate'). Passive-ലും അതേ tense തന്നെ നിലനിർത്തണം.\n• Simple Future-ന്റെ passive formula: will be + V3 → will be inaugurated.\n• Object 'the new public library' subject ആയി മുന്നിലേക്ക് വരും; പഴയ subject 'the District Collector' 'by'-ക്ക് ശേഷം പോകും.\n• അർഥം: 'പുതിയ പൊതു ഗ്രന്ഥശാല ജില്ലാ കളക്ടർ ഉദ്ഘാടനം ചെയ്യും.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Simple Future Passive = **will be + V3**. \"WILL കണ്ടാൽ WILL BE!\"\n• നിയമം: Active-ലെ tense എന്താണോ, Passive-ലും അതേ tense ആയിരിക്കണം. Tense ഒരിക്കലും മാറ്റരുത് — ഇതാണ് voice change-ന്റെ സുവർണ്ണ നിയമം.\n• മൂന്ന് ഘട്ടങ്ങൾ: (1) Object-നെ മുന്നിൽ കൊണ്ടുവരിക (2) Verb-നെ 'be + V3' രൂപത്തിലാക്കുക (3) പഴയ subject-നെ 'by'-ക്ക് ശേഷം വെക്കുക.\n• Passive formula കുടുംബം:\n  – Simple Present: is/am/are + V3\n  – Simple Past: was/were + V3\n  – Simple Future: will be + V3\n  – Present Perfect: has/have been + V3\n  – Modal: can/must/should + be + V3\n• ⭐ PSC ആവർത്തനം: Active and Passive Voice കഴിഞ്ഞ 10 പേപ്പറുകളിൽ ആറ് തവണ വന്നു — formula പട്ടിക കാണാതെ പഠിച്ചാൽ എളുപ്പ മാർക്ക്!\n• ഉദാഹരണ sentences:\n1. The minister will lay the foundation stone. → The foundation stone will be laid by the minister.\n2. They will announce the results tomorrow. → The results will be announced tomorrow.\n3. She will write the letter. → The letter will be written by her.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) is inaugurated — tense Simple Present ആയി മാറി. Active-ൽ 'will' ഉണ്ടായിരുന്നത് ഇവിടെ അപ്രത്യക്ഷമായി.\n• 🪤 PSC Trap: Voice മാറ്റുമ്പോൾ tense കൂടി മാറ്റുന്നത് ഏറ്റവും സാധാരണമായ തെറ്റാണ്.\n\n• (B) The new public library will inaugurate the District Collector — ഇത് passive അല്ല! വെറും subject-ഉം object-ഉം സ്ഥാനം മാറ്റിവെച്ചു. അർഥം അസംബന്ധമായി — ഗ്രന്ഥശാല കളക്ടറെ ഉദ്ഘാടനം ചെയ്യുകയോ?\n• 🪤 PSC Trap: 'be + V3' ഇല്ലാതെ വെറും സ്ഥാനമാറ്റം മാത്രം ചെയ്യുന്നവരെ പിടിക്കാനുള്ള കെണി.\n\n• (C) has been inaugurated — Present Perfect passive ആണിത്; അതായത് ഉദ്ഘാടനം കഴിഞ്ഞു എന്ന അർഥം. പക്ഷേ Active വാക്യം ഭാവിയെക്കുറിച്ചാണ് പറയുന്നത്.\n• അർഥം തന്നെ നേരെ തിരിഞ്ഞു — ഭാവി ഭൂതകാലമായി!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"OBJECT മുന്നിൽ, BE + V3 നടുവിൽ, BY അവസാനം\" — ഈ മൂന്ന് സ്ഥാനങ്ങൾ ഒരു ട്രെയിനിന്റെ മൂന്ന് ബോഗികളായി ചിത്രീകരിക്കുക. ബോഗികൾ ഒരിക്കലും ക്രമം തെറ്റില്ല!\n• Rule family: എല്ലാ passive-ലും 'be' എന്ന verb ഏതെങ്കിലും രൂപത്തിൽ ഉണ്ടാകും (is/was/will be/has been/being). 'be' ഇല്ലെങ്കിൽ അത് passive അല്ല!\n• PSC strategy: Voice ചോദ്യത്തിൽ ആദ്യം options-ൽ 'be' രൂപം ഇല്ലാത്തവ വെട്ടിക്കളയുക. പിന്നെ tense യോജിക്കാത്തവ വെട്ടുക. അവസാനം ഒരെണ്ണം മാത്രം ബാക്കിയാകും — ഉറപ്പായ മാർക്ക്!"
+    }
+  },
+  {
+    "id": "HC-MODEL-004-Q13",
+    "paperId": "HC-MODEL-004",
+    "questionNumber": 13,
+    "topic": "Foreign Words and Phrases",
+    "topicDetail": "Latin — ad hoc",
+    "difficulty": "Medium",
+    "questionText": "Choose the correct meaning of the foreign phrase in italics.\nThe government appointed an __ad hoc__ committee to study the landslide-affected areas.",
+    "optionA": "permanent and statutory",
+    "optionB": "formed for one particular purpose only",
+    "optionC": "elected by the public",
+    "optionD": "working without payment",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) formed for one particular purpose only\n\n• 'Ad hoc' ഒരു Latin പ്രയോഗമാണ്. അക്ഷരാർഥം: 'ഇതിനുവേണ്ടി' (for this).\n• അതായത് ഒരു പ്രത്യേക ആവശ്യത്തിനുവേണ്ടി മാത്രം ഉണ്ടാക്കുന്നത്; ആ ജോലി കഴിഞ്ഞാൽ അത് ഇല്ലാതാകും.\n• ഉരുൾപൊട്ടൽ പഠിക്കാൻ മാത്രമായി ഉണ്ടാക്കിയ സമിതി — റിപ്പോർട്ട് കൊടുത്താൽ അതിന്റെ ജോലി തീർന്നു.\n• അർഥം: 'ഉരുൾപൊട്ടൽ ബാധിത പ്രദേശങ്ങൾ പഠിക്കാൻ സർക്കാർ ഒരു താൽക്കാലിക (പ്രത്യേക) സമിതിയെ നിയമിച്ചു.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: AD HOC = AD (ഇതിലേക്ക്) + HOC (ഇത്) → \"ഇതിനുവേണ്ടി മാത്രം!\"\n• നിയമം: Foreign phrases അതേപടി ഇംഗ്ലീഷിൽ ഉപയോഗിക്കുന്നു; അവയുടെ അർഥം മനഃപാഠമാക്കുകയേ വഴിയുള്ളൂ.\n• Etymology hint: Latin ആണ് ഉറവിടം. 'ad' എന്ന Latin preposition ഉള്ള മറ്റ് പ്രയോഗങ്ങൾ — ad infinitum (അനന്തമായി), ad interim (ഇടക്കാലത്തേക്ക്), ad valorem (മൂല്യമനുസരിച്ച്).\n• PSC-യുടെ ഇഷ്ട Latin phrases: ad hoc, bona fide, status quo, prima facie, in toto, vice versa, quid pro quo, ex officio, suo motu.\n• ⭐ PSC ആവർത്തനം: Foreign Words and Phrases കഴിഞ്ഞ 10 പേപ്പറുകളിൽ ആറ് തവണ വന്നു — ഭരണഭാഷയിലെ Latin പ്രയോഗങ്ങൾ പ്രത്യേകം പഠിക്കുക!\n• ഉദാഹരണ sentences:\n1. An ad hoc committee was set up to review the exam pattern.\n2. He was given an ad hoc appointment for six months.\n3. The decision was taken on an ad hoc basis, not as a policy.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) permanent and statutory — ഇത് 'ad hoc'-ന്റെ നേരെ വിപരീതമാണ്! Statutory body നിയമപ്രകാരം സ്ഥിരമായി നിലനിൽക്കുന്നതാണ്.\n• 🪤 PSC Trap: വിപരീത അർഥം option ആയി കൊടുക്കുന്നത് PSC-യുടെ സ്ഥിരം രീതി. 'committee' എന്ന വാക്ക് കണ്ട് ഔദ്യോഗികം എന്ന് ഊഹിക്കുന്നവർ വീഴും.\n\n• (C) elected by the public — 'ad hoc' സമിതി നിയമിക്കപ്പെടുന്നതാണ് (appointed), തിരഞ്ഞെടുക്കപ്പെടുന്നതല്ല. വാക്യത്തിൽ തന്നെ 'appointed' എന്ന വാക്കുണ്ട്.\n• വാക്യം ശ്രദ്ധിച്ചു വായിച്ചാൽ ഈ option ഉടനെ വെട്ടാം.\n\n• (D) working without payment — അത് 'honorary' അല്ലെങ്കിൽ 'pro bono' എന്ന വാക്കിന്റെ അർഥമാണ്. 'Ad hoc' ശമ്പളത്തെക്കുറിച്ചല്ല, ഉദ്ദേശ്യത്തെക്കുറിച്ചാണ്.\n• 🪤 PSC Trap: മറ്റൊരു Latin/foreign phrase-ന്റെ അർഥം കൊടുത്ത് കുഴപ്പിക്കുന്ന കെണി.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"AD HOC = ഈ ഒറ്റ പണിക്ക് മാത്രം!\" — ഒരു ദിവസത്തെ പണിക്കായി വിളിക്കുന്ന ജോലിക്കാരൻ പോലെ; പണി കഴിഞ്ഞാൽ പോകും.\n• Word family: 'ad' കൊണ്ട് തുടങ്ങുന്ന Latin phrases ഒന്നിച്ചു പഠിക്കൂ — ad hoc, ad interim, ad infinitum, ad valorem, ad libitum.\n• PSC strategy: പത്രത്തിലെ വാർത്തകളിൽ (ad hoc committee, prima facie evidence, ex officio member) ഈ പ്രയോഗങ്ങൾ സ്ഥിരം വരും. ദിവസവും ഒരു ഇംഗ്ലീഷ് പത്രം വായിച്ചാൽ ഈ topic-ന് പ്രത്യേകം പഠിക്കേണ്ട ആവശ്യമേ വരില്ല — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-MODEL-004-Q14",
+    "paperId": "HC-MODEL-004",
+    "questionNumber": 14,
+    "topic": "One Word Substitutes",
+    "topicDetail": "Medical/condition words",
+    "difficulty": "Hard",
+    "questionText": "Choose the most suitable one-word substitute for the phrase in italics.\nHer grandmother is __a person who is unable to sleep__ even after taking medicine.",
+    "optionA": "an insomniac",
+    "optionB": "a somnambulist",
+    "optionC": "a hypochondriac",
+    "optionD": "a misanthrope",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) an insomniac\n\n• 'Insomniac' എന്നാൽ ഉറക്കമില്ലായ്മ അനുഭവിക്കുന്ന ആൾ — ഉറങ്ങാൻ കഴിയാത്തയാൾ.\n• Insomnia = ഉറക്കമില്ലായ്മ എന്ന രോഗാവസ്ഥ; ആ അവസ്ഥയുള്ള ആൾ = insomniac.\n• Etymology hint: Latin 'in-' (ഇല്ല) + 'somnus' (ഉറക്കം) → ഉറക്കമില്ലാത്തത്. 'Somnus' എന്നത് റോമൻ പുരാണത്തിലെ ഉറക്കത്തിന്റെ ദേവനാണ്!\n• അർഥം: 'മരുന്ന് കഴിച്ചിട്ടും അവളുടെ മുത്തശ്ശിക്ക് ഉറങ്ങാൻ കഴിയുന്നില്ല.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: IN (ഇല്ല) + SOMN (ഉറക്കം) = INSOMNIA → \"ഉറക്കം ഇല്ലാത്ത അവസ്ഥ!\"\n• നിയമം: One Word Substitute ചോദ്യങ്ങളിൽ വാക്കിന്റെ വേര് (root) അറിഞ്ഞാൽ അർഥം ഊഹിക്കാം — മുഴുവൻ വാക്കും കാണാതെ പഠിക്കേണ്ട ആവശ്യമില്ല.\n• SOMN (ഉറക്കം) കുടുംബം:\n  – insomniac = ഉറങ്ങാൻ കഴിയാത്തയാൾ\n  – somnambulist = ഉറക്കത്തിൽ നടക്കുന്നയാൾ (somn + ambulate = നടക്കുക)\n  – somnolent = ഉറക്കം തൂങ്ങുന്ന\n• Etymology hint: 'ambulate' = നടക്കുക (ambulance എന്ന വാക്കും ഇതേ വേരിൽ നിന്ന്!).\n• ⭐ PSC ആവർത്തനം: One Word Substitutes കഴിഞ്ഞ 10 പേപ്പറുകളിൽ ആറ് തവണ വന്നു — root-അടിസ്ഥാനത്തിൽ പഠിക്കുന്നതാണ് ഏറ്റവും ഫലപ്രദം.\n• ഉദാഹരണ sentences:\n1. As an insomniac, he reads books till three in the morning.\n2. The somnambulist walked into the kitchen while fast asleep.\n3. After a heavy lunch, the class felt somnolent.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) a somnambulist — അർഥം 'ഉറക്കത്തിൽ നടക്കുന്നയാൾ'. ഇയാൾ ഉറങ്ങുന്നുണ്ട്, ഉറങ്ങാതിരിക്കുകയല്ല!\n• 🪤 PSC Trap: ഏറ്റവും അപകടകരമായ option — രണ്ടിലും 'somn' എന്ന root ഉണ്ട്. Root മാത്രം നോക്കി ഉത്തരം എഴുതുന്നവർ വീഴും. Root-ഉം prefix-ഉം രണ്ടും നോക്കണം!\n\n• (C) a hypochondriac — അർഥം 'തനിക്ക് രോഗമുണ്ടെന്ന് വെറുതെ ഭയക്കുന്നയാൾ'. ഉറക്കവുമായി ബന്ധമില്ല.\n• മരുന്ന് (medicine) എന്ന വാക്ക് വാക്യത്തിലുള്ളതിനാൽ ഈ option ആകർഷകമായി തോന്നും — അതാണ് കെണി.\n\n• (D) a misanthrope — അർഥം 'മനുഷ്യരെ വെറുക്കുന്നയാൾ' (mis = വെറുപ്പ്, anthropos = മനുഷ്യൻ). ഉറക്കവുമായി യാതൊരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: കേട്ടിട്ടില്ലാത്ത വലിയ വാക്ക് കണ്ട് ഇതായിരിക്കും ശരി എന്ന് ഊഹിക്കുന്നവർക്കുള്ള കെണി.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"IN-SOMN-IAC = ഉറക്കം IN ഇല്ല!\" — 'in' എന്ന prefix 'ഇല്ല' എന്ന അർഥം തരുന്നു (invisible, incomplete, incorrect പോലെ). SOMN = ഉറക്കം. ഉറക്കമില്ലാത്തവൻ!\n• Word family: ഒരു root എടുത്ത് അതിന്റെ എല്ലാ വാക്കുകളും ഒന്നിച്ചു പഠിക്കൂ — SOMN (ഉറക്കം): insomniac, somnambulist, somnolent. ANTHROP (മനുഷ്യൻ): misanthrope, philanthropist, anthropology.\n• PSC strategy: അറിയാത്ത വാക്ക് കണ്ടാൽ പേടിക്കരുത് — വാക്കിനെ കഷണങ്ങളായി മുറിക്കുക (in + somn + iac). ഓരോ കഷണത്തിന്റെയും അർഥം അറിഞ്ഞാൽ മുഴുവൻ വാക്കിന്റെയും അർഥം താനേ കിട്ടും. ഈ വിദ്യ പഠിച്ചാൽ ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-MODEL-004-Q15",
+    "paperId": "HC-MODEL-004",
+    "questionNumber": 15,
+    "topic": "Articles",
+    "topicDetail": "Sound rule — 'one' begins with a consonant sound",
+    "difficulty": "Medium",
+    "questionText": "Fill in the blank with the correct article.\nThe little boy dropped ______ one-rupee coin into the temple hundi.",
+    "optionA": "an",
+    "optionB": "the",
+    "optionC": "no article",
+    "optionD": "a",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) a\n\n• 'One' എന്ന വാക്ക് എഴുതുമ്പോൾ 'o' എന്ന vowel അക്ഷരത്തിലാണ് തുടങ്ങുന്നത്; പക്ഷേ ഉച്ചരിക്കുമ്പോൾ അത് 'wʌn' (വൺ) എന്നാണ് — അതായത് 'w' എന്ന consonant ശബ്ദം!\n• Article തീരുമാനിക്കുന്നത് അക്ഷരമല്ല, ശബ്ദമാണ്. Consonant ശബ്ദം → 'a'.\n• അതുകൊണ്ട് 'a one-rupee coin' ആണ് ശരി, 'an one-rupee coin' അല്ല.\n• അർഥം: 'ആ കുഞ്ഞ് ഒരു രൂപ നാണയം അമ്പലത്തിലെ ഭണ്ഡാരത്തിൽ ഇട്ടു.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: A/AN തീരുമാനിക്കുന്നത് **ശബ്ദം** ആണ്, **അക്ഷരം** അല്ല!\n• നിയമം: Vowel ശബ്ദത്തിന് മുൻപ് 'an'; consonant ശബ്ദത്തിന് മുൻപ് 'a'. കണ്ണുകൊണ്ട് നോക്കാതെ ചെവികൊണ്ട് കേൾക്കുക.\n• Vowel അക്ഷരം പക്ഷേ consonant ശബ്ദം (→ 'a' വേണം):\n  – a one-rupee coin (വൺ)\n  – a university (യൂണിവേഴ്സിറ്റി)\n  – a useful book (യൂസ്ഫുൾ)\n  – a European country (യൂറോപ്യൻ)\n• Consonant അക്ഷരം പക്ഷേ vowel ശബ്ദം (→ 'an' വേണം):\n  – an MLA (എം), an X-ray (എക്സ്), an SSLC certificate (എസ്), an heir (എയർ — 'h' മൗനം)\n• ⭐ PSC ആവർത്തനം: Articles കഴിഞ്ഞ 10 പേപ്പറുകളിൽ അഞ്ച് തവണ വന്നു; ഏതാണ്ട് എപ്പോഴും ഈ 'sound vs letter' കെണിയാണ് ചോദിക്കുക!\n• ഉദാഹരണ sentences:\n1. She gave him a one-way ticket to Kochi. (വൺ → a)\n2. My brother studies in a university in Kannur. (യൂ → a)\n3. He is an honest officer. ('h' മൗനം, ഓ ശബ്ദം → an)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) an — 'one' എന്ന വാക്ക് 'o' എന്ന vowel അക്ഷരത്തിൽ തുടങ്ങുന്നു എന്ന് കണ്ട് എടുക്കുന്ന ഉത്തരം.\n• 🪤 PSC Trap: ഇതാണ് ഈ ചോദ്യത്തിന്റെ പ്രധാന കെണി! അക്ഷരം നോക്കി article തിരഞ്ഞെടുക്കുന്നവർ ഉറപ്പായും ഇതിൽ വീഴും. ഉച്ചരിച്ചു നോക്കിയാൽ 'വൺ' എന്ന consonant ശബ്ദം വ്യക്തമാകും.\n\n• (B) the — 'the' ഒരു definite article ആണ്; ഏതു നാണയം എന്ന് നേരത്തേ പറഞ്ഞിട്ടുണ്ടെങ്കിൽ മാത്രമേ അത് ഉപയോഗിക്കാവൂ.\n• ഇവിടെ ഏതെങ്കിലും ഒരു നാണയത്തെക്കുറിച്ചാണ് ആദ്യമായി പറയുന്നത് — അതിനാൽ indefinite article വേണം.\n\n• (C) no article — 'coin' ഒരു countable singular noun ആണ്; അതിന് മുൻപ് article നിർബന്ധമാണ്.\n• Countable singular noun article ഇല്ലാതെ ഒറ്റയ്ക്ക് നിൽക്കില്ല എന്നത് ഇംഗ്ലീഷിന്റെ അടിസ്ഥാന നിയമമാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"കണ്ണടച്ച് ചെവി തുറക്കൂ!\" — Article ചോദ്യത്തിൽ വാക്ക് നോക്കാതെ ഉറക്കെ ഉച്ചരിക്കുക. 'വൺ' എന്നാണോ 'ഓൺ' എന്നാണോ കേൾക്കുന്നത്? 'വ' കേട്ടാൽ 'a'!\n• Rule family: കെണി വാക്കുകൾ രണ്ട് പട്ടികയായി എഴുതി പഠിക്കൂ — A വേണ്ടവ (one, university, useful, European, unit, uniform) | AN വേണ്ടവ (MLA, MP, X-ray, SSLC, hour, honest, heir).\n• PSC strategy: Article ചോദ്യം കണ്ടാൽ blank-ന് ശേഷമുള്ള വാക്ക് മനസ്സിൽ ഉച്ചരിക്കുക — ആദ്യ ശബ്ദം vowel ആണോ consonant ആണോ എന്ന് മാത്രം നോക്കുക. ഈ ഒറ്റ ശീലം കൊണ്ട് Article ചോദ്യങ്ങൾ എല്ലാം ശരിയാകും — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-MODEL-004-Q16",
+    "paperId": "HC-MODEL-004",
+    "questionNumber": 16,
+    "topic": "Conditionals",
+    "topicDetail": "Mixed conditional — past condition, present result",
+    "difficulty": "Hard",
+    "questionText": "Fill in the blank with the correct option.\nIf Meera ______ the last date for the application, she would be working in the Secretariat now.",
+    "optionA": "did not miss",
+    "optionB": "has not missed",
+    "optionC": "would not miss",
+    "optionD": "had not missed",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) had not missed\n\n• ഇത് ഒരു Mixed Conditional ആണ് — if-clause കഴിഞ്ഞകാലത്തെക്കുറിച്ച്, result-clause ഇപ്പോഴത്തെ അവസ്ഥയെക്കുറിച്ച്.\n• കഴിഞ്ഞ കാലത്ത് നടക്കാതെ പോയ കാര്യം (അപേക്ഷാ തീയതി വിട്ടുപോയി) → if + had + V3 → had not missed.\n• Result-clause-ൽ 'now' എന്ന വാക്കും 'would be working' എന്ന രൂപവും ഉള്ളതിനാൽ ഫലം ഇപ്പോഴത്തെ അവസ്ഥയാണ്.\n• അർഥം: 'മീര അപേക്ഷയുടെ അവസാന തീയതി വിട്ടുപോയില്ലായിരുന്നെങ്കിൽ, അവൾ ഇപ്പോൾ സെക്രട്ടേറിയറ്റിൽ ജോലി ചെയ്യുമായിരുന്നു.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Mixed Conditional = **If + had + V3 → would + be/V1 (now)**.\n• നിയമം: കഴിഞ്ഞകാലത്തെ ഒരു കാര്യം ഇപ്പോഴത്തെ അവസ്ഥയെ ബാധിക്കുമ്പോൾ Mixed Conditional ഉപയോഗിക്കുന്നു.\n• മൂന്ന് അടിസ്ഥാന conditionals + ഒരു mixed:\n  – Type 1 (യഥാർഥ സാധ്യത): If + Simple Present → will + V1\n  – Type 2 (ഇപ്പോഴത്തെ സാങ്കൽപ്പികം): If + Simple Past → would + V1\n  – Type 3 (കഴിഞ്ഞകാല സാങ്കൽപ്പികം): If + had + V3 → would have + V3\n  – Mixed (കഴിഞ്ഞ കാരണം → ഇപ്പോഴത്തെ ഫലം): If + had + V3 → would + V1/be\n• ⭐ PSC ആവർത്തനം: Conditionals കഴിഞ്ഞ 10 പേപ്പറുകളിൽ അഞ്ച് തവണ വന്നു; Mixed conditional ആണ് ഏറ്റവും ബുദ്ധിമുട്ടുള്ളത് — ഇത് അറിഞ്ഞാൽ toppers-ന്റെ കൂട്ടത്തിൽ കയറാം!\n• ഉദാഹരണ sentences:\n1. If he had studied medicine, he would be a doctor today. (കഴിഞ്ഞ കാരണം → ഇന്നത്തെ ഫലം)\n2. If she had taken the earlier bus, she would be at home now.\n3. If they had saved money, they would own a house by now.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) did not miss — ഇത് Type 2 conditional-ന്റെ രൂപമാണ് (If + Simple Past). അത് ഇപ്പോഴത്തെ സാങ്കൽപ്പിക അവസ്ഥയ്ക്കുള്ളതാണ്.\n• 🪤 PSC Trap: Result-ൽ 'would' കണ്ടാൽ if-clause-ൽ Simple Past മതി എന്ന് കരുതുന്നവരെ പിടിക്കാനുള്ള കെണി. പക്ഷേ ഇവിടെ കാരണം കഴിഞ്ഞകാലത്തേതാണ്.\n\n• (B) has not missed — Present Perfect ആണിത്. Conditional sentences-ൽ if-clause-ൽ present perfect ഒരിക്കലും ഉപയോഗിക്കാറില്ല.\n• വ്യാകരണപരമായി തന്നെ തെറ്റായ ഘടന.\n\n• (C) would not miss — ഒരു വാക്യത്തിലെ രണ്ട് ഭാഗത്തും 'would' വരാൻ പാടില്ല എന്നത് conditional-ന്റെ അടിസ്ഥാന നിയമമാണ്.\n• 🪤 PSC Trap: \"If I would...\" എന്ന് പറയുന്നത് സാധാരണ സംഭാഷണത്തിൽ കേൾക്കാറുണ്ട്, പക്ഷേ formal grammar-ൽ അത് തെറ്റാണ്. If-clause-ൽ ഒരിക്കലും 'would' വേണ്ട!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"IF-ൽ WOULD വേണ്ട!\" എന്ന ഒറ്റ വരി ഓർത്താൽ പാതി ചോദ്യങ്ങൾ ശരിയാകും. 'would' എന്നത് എപ്പോഴും result-ന്റെ ഭാഗത്താണ്, if-ന്റെ ഭാഗത്തല്ല.\n• Rule family: Result-ൽ 'would have + V3' ആണെങ്കിൽ → Type 3. Result-ൽ 'would + V1/be' + 'now' ആണെങ്കിൽ → Mixed. ഈ ഒറ്റ വ്യത്യാസമാണ് രണ്ടിനെയും വേർതിരിക്കുന്നത്!\n• PSC strategy: Conditional ചോദ്യത്തിൽ ആദ്യം result-clause വായിക്കുക (blank ഇല്ലാത്ത ഭാഗം). അവിടെയുള്ള രൂപം നോക്കി if-clause തീരുമാനിക്കുക. 'now', 'today' പോലുള്ള വാക്കുകൾ കണ്ടാൽ Mixed ആണെന്ന് ഉറപ്പിക്കാം — ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-MODEL-004-Q17",
+    "paperId": "HC-MODEL-004",
+    "questionNumber": 17,
+    "topic": "Types of Sentences",
+    "topicDetail": "Imperative sentence",
+    "difficulty": "Easy",
+    "questionText": "Identify the type of the following sentence.\nPlease switch off the fan before you leave the reading room.",
+    "optionA": "Assertive",
+    "optionB": "Interrogative",
+    "optionC": "Imperative",
+    "optionD": "Exclamatory",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Imperative\n\n• ഈ വാക്യം ഒരു അഭ്യർഥനയാണ് — 'ദയവായി ഫാൻ ഓഫ് ചെയ്യൂ'. കൽപ്പന, അഭ്യർഥന, ഉപദേശം — ഇവയെല്ലാം Imperative sentence-ൽ വരും.\n• Imperative-ന്റെ ഏറ്റവും വലിയ അടയാളം: subject പുറത്തു കാണില്ല. 'You' എന്നത് മറഞ്ഞിരിക്കുന്നു (hidden subject).\n• വാക്യം തുടങ്ങുന്നത് verb-ന്റെ അടിസ്ഥാന രൂപത്തിലാണ് ('switch'). 'Please' എന്ന വാക്ക് മര്യാദ കൂട്ടുന്നു എന്നു മാത്രം.\n• അർഥം: 'വായനശാലയിൽ നിന്ന് പോകുന്നതിന് മുൻപ് ദയവായി ഫാൻ ഓഫ് ചെയ്യുക.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Subject ഇല്ല + Verb കൊണ്ട് തുടക്കം = **IMPERATIVE**.\n• നിയമം: വാക്യങ്ങൾ അഞ്ച് തരം:\n  – Assertive (പ്രസ്താവന): The library opens at nine. → full stop\n  – Interrogative (ചോദ്യം): Where is the library? → question mark\n  – Imperative (കൽപ്പന/അഭ്യർഥന): Close the door. → subject മറഞ്ഞിരിക്കുന്നു\n  – Exclamatory (വികാരം): What a lovely garden! → What a / How കൊണ്ട് തുടക്കം\n  – Optative (ആശംസ): May you live long!\n• Imperative-ൽ 'Please', 'Kindly', 'Do' എന്നിവ ചേർത്താലും തരം മാറില്ല — അത് മര്യാദ കൂട്ടുക മാത്രമേ ചെയ്യൂ.\n• ⭐ PSC ആവർത്തനം: Types of Sentences കഴിഞ്ഞ 10 പേപ്പറുകളിൽ നാല് തവണ വന്നു — ഏറ്റവും എളുപ്പത്തിൽ മാർക്ക് കിട്ടുന്ന topic!\n• ഉദാഹരണ sentences:\n1. Stand in the queue. (കൽപ്പന — Imperative)\n2. Kindly submit the form today. (അഭ്യർഥന — Imperative)\n3. Never write on the library books. (നിരോധനം — Imperative)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Assertive — പ്രസ്താവന വാക്യങ്ങളിൽ subject വ്യക്തമായി കാണും (He, She, The fan...). ഇവിടെ subject ഇല്ല.\n• 🪤 PSC Trap: വാക്യം full stop-ൽ അവസാനിക്കുന്നതു കൊണ്ട് assertive ആണെന്ന് ഊഹിക്കുന്നവർ വീഴും. Imperative-ഉം full stop-ൽ അവസാനിക്കും!\n\n• (B) Interrogative — ചോദ്യ വാക്യങ്ങൾ question mark (?) കൊണ്ടേ അവസാനിക്കൂ, കൂടാതെ auxiliary verb മുന്നിൽ വരും (Will you...? Is he...?).\n• ഇവിടെ ചോദ്യമില്ല, അഭ്യർഥനയാണ്.\n\n• (D) Exclamatory — വികാര പ്രകടന വാക്യങ്ങൾ 'What a...' അല്ലെങ്കിൽ 'How...' കൊണ്ട് തുടങ്ങും; അവസാനം exclamation mark (!) ഉണ്ടാകും.\n• ഇവിടെ ആശ്ചര്യമോ വികാരമോ ഇല്ല — വെറും ഒരു അഭ്യർഥന മാത്രം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Subject ഒളിച്ചിരിക്കുന്നു → IMPERATIVE!\" — വാക്യം വായിച്ചിട്ട് 'ആരാണ് ഇത് ചെയ്യേണ്ടത്?' എന്ന് ചോദിക്കുക. ഉത്തരം 'നീ' (you) എന്നാണെങ്കിലും വാക്യത്തിൽ 'you' എഴുതിയിട്ടില്ലെങ്കിൽ അത് Imperative!\n• Rule family: വാക്യത്തിന്റെ അവസാനത്തെ ചിഹ്നം നോക്കി പഠിക്കൂ — . (Assertive/Imperative), ? (Interrogative), ! (Exclamatory/Optative).\n• PSC strategy: Types of Sentences ചോദ്യത്തിൽ രണ്ട് കാര്യം മാത്രം നോക്കുക — (1) വാക്യത്തിന്റെ ആദ്യ വാക്ക് എന്താണ്? (2) അവസാന ചിഹ്നം ഏതാണ്? Verb കൊണ്ട് തുടങ്ങി full stop-ൽ അവസാനിച്ചാൽ ഉറപ്പായും Imperative — എളുപ്പ മാർക്ക്!"
+    }
+  },
+  {
+    "id": "HC-MODEL-004-Q18",
+    "paperId": "HC-MODEL-004",
+    "questionNumber": 18,
+    "topic": "Correction of Sentences",
+    "topicDetail": "'along with' does not change the verb",
+    "difficulty": "Medium",
+    "questionText": "Spot the error in the section in italics and choose the correct option.\nThe Headmistress, along with the senior teachers, __were present__ at the Onam celebration.",
+    "optionA": "was present",
+    "optionB": "are present",
+    "optionC": "have been present",
+    "optionD": "is being present",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) was present\n\n• യഥാർഥ subject 'The Headmistress' ആണ് — ഒരാൾ മാത്രം, അതായത് singular. അതിനാൽ verb ഉം singular ('was').\n• 'along with the senior teachers' എന്നത് രണ്ട് കോമകൾക്കിടയിലുള്ള ഒരു അധിക വിവരം മാത്രമാണ്. അത് subject-നെ plural ആക്കില്ല.\n• വാക്യം ഭൂതകാലത്തെക്കുറിച്ചാണ് (ഓണാഘോഷം കഴിഞ്ഞു) — അതിനാൽ 'was' ആണ് ശരി, 'is' അല്ല.\n• അർഥം: 'സീനിയർ അധ്യാപകർക്കൊപ്പം പ്രധാനാധ്യാപികയും ഓണാഘോഷത്തിന് സന്നിഹിതയായിരുന്നു.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: കോമകൾക്കിടയിലുള്ള ഭാഗം **മറയ്ക്കുക** → ബാക്കി വരുന്നതാണ് യഥാർഥ subject!\n• നിയമം: along with, as well as, together with, in addition to, besides, accompanied by, including — ഈ പ്രയോഗങ്ങൾ subject-ന്റെ എണ്ണം മാറ്റില്ല. Verb ആദ്യ subject അനുസരിച്ചാണ്.\n• വ്യത്യാസം ഓർക്കുക: 'and' കൊണ്ട് ചേർത്താൽ subject plural ആകും → 'The Headmistress AND the teachers WERE present.' പക്ഷേ 'along with' കൊണ്ട് ചേർത്താൽ singular തന്നെ.\n• ⭐ PSC ആവർത്തനം: Correction of Sentences കഴിഞ്ഞ 10 പേപ്പറുകളിൽ നാല് തവണ വന്നു; 'as well as / along with' കെണി PSC-യുടെ ഇഷ്ട ചോദ്യമാണ്.\n• ഉദാഹരണ sentences:\n1. The manager, as well as his assistants, was invited. (subject = manager → was)\n2. Ravi, together with his friends, has reached Kochi. (subject = Ravi → has)\n3. Ravi and his friends have reached Kochi. ('and' → plural → have)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) are present — രണ്ട് തെറ്റ്: plural verb ആണ്, കൂടാതെ present tense ആണ്. ഓണാഘോഷം കഴിഞ്ഞ കാര്യമാണ് പറയുന്നത്.\n• 🪤 PSC Trap: 'teachers' എന്ന plural noun blank-ന് തൊട്ടുമുൻപുള്ളതിനാൽ പലരും plural verb എടുക്കും.\n\n• (C) have been present — 'have' plural auxiliary ആണ്; singular subject-ന് 'has' വേണം. കൂടാതെ present perfect ഇവിടെ ചേരുന്നില്ല.\n• കഴിഞ്ഞ ഒരു പ്രത്യേക പരിപാടിയെക്കുറിച്ച് പറയുമ്പോൾ simple past ആണ് സ്വാഭാവികം.\n\n• (D) is being present — 'is being present' എന്നത് ഇംഗ്ലീഷിൽ ഇല്ലാത്ത പ്രയോഗമാണ്. 'Present' എന്ന adjective-നോട് continuous രൂപം ചേരില്ല.\n• 🪤 PSC Trap: വ്യാകരണപരമായി വളരെ സങ്കീർണ്ണമായി തോന്നുന്ന option — 'ബുദ്ധിമുട്ടുള്ളത് ശരിയായിരിക്കും' എന്ന തെറ്റായ ധാരണ ഉപയോഗിച്ചുള്ള കെണി.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"കോമ കണ്ടാൽ കൈകൊണ്ട് മറയ്ക്കൂ!\" — രണ്ട് കോമകൾക്കിടയിലുള്ള ഭാഗം വിരൽ കൊണ്ട് മൂടി വാക്യം വായിക്കുക. 'The Headmistress ___ present' എന്നാകും — ഉത്തരം വ്യക്തം!\n• Rule family: Verb മാറ്റാത്ത ചേരുവകൾ ഒന്നിച്ചു പഠിക്കൂ — along with, as well as, together with, in addition to, besides, accompanied by, including, no less than. ഇവയെല്ലാം subject-നെ തൊടില്ല!\n• PSC strategy: Subject-verb ചോദ്യത്തിൽ blank-ന് തൊട്ടുമുൻപുള്ള noun നോക്കരുത് — വാക്യത്തിന്റെ ആദ്യ noun ആണ് subject. ഈ ഒറ്റ ശീലം കൊണ്ട് ഈ topic-ലെ ചോദ്യങ്ങൾ എല്ലാം ശരിയാകും — ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-MODEL-004-Q19",
+    "paperId": "HC-MODEL-004",
+    "questionNumber": 19,
+    "topic": "Degrees of Comparison",
+    "topicDetail": "Comparative to Positive degree conversion",
+    "difficulty": "Medium",
+    "questionText": "Change the following sentence into the Positive Degree:\nKozhikode is bigger than Kannur.",
+    "optionA": "Kannur is the biggest town.",
+    "optionB": "Kannur is not so big as Kozhikode.",
+    "optionC": "Kozhikode is as big as Kannur.",
+    "optionD": "Kannur is bigger than Kozhikode.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Kannur is not so big as Kozhikode.\n\n• Comparative degree-യിൽ നിന്ന് Positive degree-ലേക്ക് മാറ്റുമ്പോൾ രണ്ട് നാമങ്ങളുടെ സ്ഥാനം പരസ്പരം മാറ്റണം.\n• Original: Kozhikode > Kannur. Positive-ൽ: 'Kannur is not so big as Kozhikode' — ഇപ്പോഴും കോഴിക്കോടാണ് വലുത് എന്ന അതേ അർഥം!\n• Formula: A is bigger than B → **B is not so/as big as A**.\n• അർഥം: 'കണ്ണൂർ കോഴിക്കോടിനോളം വലുതല്ല' — അതായത് കോഴിക്കോട് വലുത്. അർഥം അതേപടി നിലനിൽക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: A is **-er than** B ⇄ B is **not so ... as** A. \"സ്ഥാനം മാറ്റുക, not so ... as ചേർക്കുക!\"\n• നിയമം: Degree മാറ്റുമ്പോൾ വാക്യത്തിന്റെ അർഥം ഒരിക്കലും മാറാൻ പാടില്ല. ആരാണ് വലുത് എന്നത് അതേപടി നിൽക്കണം.\n• മൂന്ന് degrees ഉം തമ്മിലുള്ള മാറ്റം:\n  – Superlative: Kozhikode is the biggest city in Kerala.\n  – Comparative: Kozhikode is bigger than any other city in Kerala.\n  – Positive: No other city in Kerala is so big as Kozhikode.\n• Positive degree-യിൽ 'as ... as' (positive വാക്യത്തിൽ) അല്ലെങ്കിൽ 'so ... as' (negative വാക്യത്തിൽ) ആണ് ഉപയോഗിക്കുക.\n• ⭐ PSC ആവർത്തനം: Degrees of Comparison കഴിഞ്ഞ 10 പേപ്പറുകളിൽ നാല് തവണ വന്നു — degree conversion ആണ് ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന രൂപം.\n• ഉദാഹരണ sentences:\n1. Ravi is taller than Suresh. → Suresh is not so tall as Ravi.\n2. Gold is costlier than silver. → Silver is not so costly as gold.\n3. This road is wider than that one. → That road is not so wide as this one.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Kannur is the biggest town. — ഇത് Superlative degree ആണ്, Positive അല്ല. കൂടാതെ അർഥവും തെറ്റി — കണ്ണൂരാണ് ഏറ്റവും വലുത് എന്ന് പറയുന്നു!\n• 🪤 PSC Trap: Degree മാറ്റം ചോദിക്കുമ്പോൾ വേറൊരു degree-യുടെ രൂപം കൊടുത്ത് കുഴപ്പിക്കുന്ന കെണി.\n\n• (C) Kozhikode is as big as Kannur. — Positive degree രൂപം ശരിയാണ്, പക്ഷേ അർഥം പൂർണ്ണമായും മാറി! ഇത് പറയുന്നത് രണ്ടും തുല്യമാണ് എന്നാണ്.\n• 🪤 PSC Trap: ഏറ്റവും അപകടകരമായ option — 'as ... as' കണ്ട് ഉടനെ ഇത് ശരിയാണെന്ന് കരുതും. പക്ഷേ 'not' ഇല്ലാത്തതിനാൽ അർഥം തുല്യതയായി മാറി.\n\n• (D) Kannur is bigger than Kozhikode. — ഇത് Comparative തന്നെയാണ് (degree മാറിയില്ല), കൂടാതെ അർഥം നേരെ തിരിഞ്ഞു.\n• വെറും സ്ഥാനം മാറ്റിയാൽ മാത്രം പോരാ — 'not so ... as' എന്ന ഘടനയും വേണം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"സ്ഥാനം മാറ്റിയാൽ NOT ചേർക്കണം!\" — രണ്ട് പേരുകളുടെ സ്ഥാനം മാറ്റുമ്പോൾ അർഥം തിരിയാതിരിക്കാൻ 'not' ഒരു ബ്രേക്ക് പോലെ പ്രവർത്തിക്കുന്നു.\n• Rule family: മൂന്ന് degrees ഉം ഒരേ വാക്യത്തിന്റെ മൂന്ന് രൂപങ്ങളായി എഴുതി പഠിക്കൂ. ഒരു വാക്യം എടുത്ത് മൂന്ന് രൂപത്തിലും എഴുതി പരിശീലിക്കുക.\n• PSC strategy: Degree conversion ചോദ്യത്തിൽ ഉത്തരം എഴുതിയ ശേഷം ഒരു ചോദ്യം സ്വയം ചോദിക്കുക — \"ആരാണ് വലുത് എന്ന് ഇപ്പോഴും അതേ ആളാണോ?\" അതെ എന്നാണ് ഉത്തരമെങ്കിൽ ശരി. ഈ ഒറ്റ പരിശോധന കൊണ്ട് guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-MODEL-004-Q20",
+    "paperId": "HC-MODEL-004",
+    "questionNumber": 20,
+    "topic": "Parts of Speech",
+    "topicDetail": "Adverb of manner",
+    "difficulty": "Easy",
+    "questionText": "Identify the part of speech of the word in italics.\nThe children ran __quickly__ towards the school ground.",
+    "optionA": "Adjective",
+    "optionB": "Adverb",
+    "optionC": "Noun",
+    "optionD": "Preposition",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Adverb\n\n• 'Quickly' എന്ന വാക്ക് 'ran' എന്ന verb-നെ വിശേഷിപ്പിക്കുന്നു — എങ്ങനെ ഓടി? വേഗത്തിൽ ഓടി.\n• Verb-നെ വിശേഷിപ്പിക്കുന്ന വാക്ക് Adverb ആണ്. Noun-നെ വിശേഷിപ്പിക്കുന്നത് Adjective.\n• '-ly' എന്ന അവസാനം ഒരു വലിയ സൂചനയാണ് — quickly, slowly, carefully, happily എല്ലാം adverbs.\n• അർഥം: 'കുട്ടികൾ സ്കൂൾ ഗ്രൗണ്ടിലേക്ക് വേഗത്തിൽ ഓടി.'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Verb-നെ വിശേഷിപ്പിച്ചാൽ **ADVERB**; Noun-നെ വിശേഷിപ്പിച്ചാൽ **ADJECTIVE**.\n• നിയമം: Adverb ഒരു verb-നെയോ adjective-നെയോ മറ്റൊരു adverb-നെയോ വിശേഷിപ്പിക്കുന്നു. അത് 'എങ്ങനെ? എപ്പോൾ? എവിടെ? എത്രമാത്രം?' എന്നീ ചോദ്യങ്ങൾക്ക് ഉത്തരം തരുന്നു.\n• എട്ട് Parts of Speech: Noun, Pronoun, Verb, Adverb, Adjective, Preposition, Conjunction, Interjection.\n• ജോഡിയായി ഓർക്കുക: quick (adjective) → quickly (adverb) | careful → carefully | happy → happily.\n• ശ്രദ്ധിക്കുക: '-ly' ഉള്ളതെല്ലാം adverb അല്ല! 'friendly', 'lovely', 'lonely' എന്നിവ adjectives ആണ്.\n• ⭐ PSC ആവർത്തനം: Parts of Speech കഴിഞ്ഞ 10 പേപ്പറുകളിൽ വന്ന topic ആണ് — അടിസ്ഥാനം ഉറപ്പിച്ചാൽ എളുപ്പ മാർക്ക്!\n• ഉദാഹരണ sentences:\n1. She sings beautifully. (എങ്ങനെ പാടുന്നു? → adverb)\n2. She is a beautiful singer. (എങ്ങനെയുള്ള പാട്ടുകാരി? → adjective)\n3. He answered the question correctly. (എങ്ങനെ ഉത്തരം പറഞ്ഞു? → adverb)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Adjective — Adjective noun-നെയാണ് വിശേഷിപ്പിക്കുന്നത്. ഇവിടെ 'quickly' കുട്ടികളെയല്ല, ഓടുന്ന രീതിയെയാണ് വിശേഷിപ്പിക്കുന്നത്.\n• 🪤 PSC Trap: 'quick' ഒരു adjective ആയതിനാൽ 'quickly'-യും adjective ആണെന്ന് കരുതുന്നവർ വീഴും. '-ly' ചേർന്നാൽ adjective, adverb ആയി മാറും!\n\n• (C) Noun — Noun ഒരു വ്യക്തിയുടെയോ വസ്തുവിന്റെയോ സ്ഥലത്തിന്റെയോ പേരാണ്. 'Quickly' ഒരു പേരല്ല.\n• വാക്യത്തിലെ nouns: children, school, ground.\n\n• (D) Preposition — Preposition രണ്ട് വാക്കുകൾ തമ്മിലുള്ള ബന്ധം കാണിക്കുന്നു (in, on, at, towards). ഈ വാക്യത്തിലെ preposition 'towards' ആണ്.\n• 🪤 PSC Trap: വാക്യത്തിൽ ശരിക്കും ഒരു preposition ('towards') ഉള്ളതിനാൽ ഈ option ആകർഷകമായി തോന്നും — പക്ഷേ ചോദ്യം italics-ലുള്ള വാക്കിനെക്കുറിച്ചാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ADVERB = ADD to the VERB\" — പേരിൽ തന്നെ 'verb' ഉണ്ട്! Verb-നോട് ചേർന്നു നിൽക്കുന്നതാണ് adverb.\n• Rule family: Adjective → Adverb ജോഡികൾ എഴുതി പഠിക്കൂ — quick/quickly, careful/carefully, easy/easily, happy/happily. കെണി വാക്കുകൾ: friendly, lovely, lonely, silly (ഇവ '-ly' ഉണ്ടെങ്കിലും adjectives!).\n• PSC strategy: Parts of Speech ചോദ്യത്തിൽ അടിവരയിട്ട വാക്ക് ഏത് വാക്കിനെയാണ് വിശേഷിപ്പിക്കുന്നത് എന്ന് കണ്ടെത്തുക. Verb-നെ ആണെങ്കിൽ adverb, noun-നെ ആണെങ്കിൽ adjective. ഈ ഒറ്റ ചോദ്യം കൊണ്ട് ഉത്തരം കിട്ടും — guaranteed mark!"
+    }
   }
 ]
