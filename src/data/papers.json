@@ -1045,5 +1045,14 @@
     "medium": "M",
     "year": "2022",
     "categoryCode": "Excise"
+  },
+  {
+    "id": "120-2022-M",
+    "paperCode": "120/2022 M",
+    "post": "Data Entry Operator- Degree Level Main Examination",
+    "date": "25-Nov-2022",
+    "medium": "M",
+    "year": "2022",
+    "categoryCode": "ST Development"
   }
 ]
