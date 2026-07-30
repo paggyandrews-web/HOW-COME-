@@ -1,23 +1,5 @@
 [
   {
-    "id": "54-2026-M_q71",
-    "paperId": "54-2026-M",
-    "questionNumber": 71,
-    "topic": "Types of Sentences",
-    "questionText": "Identify the type of sentence:\n\nHow efficiently the inspection team completed the verification!",
-    "optionA": "Assertive",
-    "optionB": "Imperative",
-    "optionC": "Interrogative",
-    "optionD": "Exclamatory",
-    "correctAnswer": "D",
-    "explanation": {
-      "correct": "✅ ശരിയുത്തരം: (D) Exclamatory\n\n• വാക്യം ശക്തമായ വികാരം (ആശ്ചര്യം, അഭിനന്ദനം) പ്രകടിപ്പിക്കുന്നു — അതിനാൽ ഇത് Exclamatory sentence ആണ്.\n• 'How efficiently...!' എന്ന് 'How' കൊണ്ട് തുടങ്ങി ആശ്ചര്യചിഹ്നത്തിൽ (!) അവസാനിക്കുന്നു — ഇത് exclamatory-യുടെ വ്യക്തമായ അടയാളമാണ്.\n• അർത്ഥം: 'പരിശോധനാ സംഘം എത്ര കാര്യക്ഷമമായി verification പൂർത്തിയാക്കി!' — ഒരു അഭിനന്ദന വികാരം.\n• 'How / What' കൊണ്ട് തുടങ്ങി '!' കൊണ്ട് അവസാനിക്കുന്ന വാക്യങ്ങൾ എപ്പോഴും exclamatory ആണ്.",
-      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: How/What കൊണ്ട് തുടങ്ങി ! കൊണ്ട് അവസാനിച്ചാൽ → Exclamatory.\n• നാല് തരം വാക്യങ്ങൾ ഇങ്ങനെ തിരിച്ചറിയാം: Assertive (പ്രസ്താവന, .), Interrogative (ചോദ്യം, ?), Imperative (കൽപന/അഭ്യർത്ഥന), Exclamatory (വികാരം, !).\n• വികാരത്തിന്റെ തീവ്രതയാണ് exclamatory-യെ വേറിട്ട് നിർത്തുന്നത് — സന്തോഷം, ദുഃഖം, ആശ്ചര്യം ഇവ.\n• ⭐ PSC ആവർത്തനം: 'How...!' 'What a...!' ഘടനയുള്ള exclamatory വാക്യങ്ങൾ PSC പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. How beautiful the sunset is! (എത്ര മനോഹരം!)\n  2. What a wonderful performance! (എന്തൊരു അവതരണം!)\n  3. How quickly he ran! (എത്ര വേഗം ഓടി!)",
-      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Assertive — ഇത് ഒരു സാധാരണ പ്രസ്താവനയാണ്, ഫുൾ സ്റ്റോപ്പിൽ (.) അവസാനിക്കും. ഇവിടെ '!' ഉള്ളതിനാൽ അല്ല.\n  🪤 PSC Trap: വാക്യത്തിൽ ഒരു വിവരം ഉള്ളതിനാൽ assertive ആണെന്ന് തോന്നിപ്പിക്കും.\n\n• (B) Imperative — കൽപന, ഉപദേശം, അഭ്യർത്ഥന എന്നിവ പറയുന്ന വാക്യമാണ് (ഉദാ: Complete the work). ഇവിടെ കൽപനയില്ല.\n  🪤 PSC Trap: 'completed the verification' എന്ന ഭാഗം കണ്ട് പ്രവൃത്തിയുമായി കൂട്ടിക്കുഴയ്ക്കും.\n\n• (C) Interrogative — ചോദ്യമാണ്, ചോദ്യചിഹ്നത്തിൽ (?) അവസാനിക്കും. ഇവിടെ ചോദ്യമല്ല, ആശ്ചര്യമാണ്.\n  🪤 PSC Trap: 'How' കൊണ്ട് തുടങ്ങുന്നതിനാൽ ചോദ്യമാണെന്ന് തെറ്റിദ്ധരിക്കും — പക്ഷേ '!' ആണ് അവസാനം.",
-      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: അവസാനത്തെ ചിഹ്നം നോക്കൂ! '!' കണ്ടാൽ Exclamatory ഉറപ്പ്. 'How/What' + '!' = വികാരം.\n• ഒരുമിച്ച് പഠിക്കുക — 4 വാക്യ തരങ്ങൾ: Assertive (.), Interrogative (?), Imperative (കൽപന), Exclamatory (!).\n• PSC strategy: sentence-type ചോദ്യങ്ങളിൽ ആദ്യം അവസാനത്തെ punctuation നോക്കുക — അതാണ് ഏറ്റവും വേഗമുള്ള സൂചന."
-    }
-  },
-  {
     "id": "54-2026-M_q72",
     "paperId": "54-2026-M",
     "questionNumber": 72,
@@ -25485,6 +25467,24 @@
       "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 എളുപ്പ സൂത്രവാക്യം: WHEN-നൊപ്പം Simple Past, ബാക്കി ഭാഗത്ത് HAD+V3 (Past Perfect) — 'when' clause-ൽ പിന്നീട് നടന്ന പ്രവൃത്തി Simple Past ആയിരിക്കും!\n• 'When' ('എപ്പോൾ') എന്ന word ഉപയോഗിച്ച് രണ്ട് ഭൂതകാല സംഭവങ്ങൾ താരതമ്യം ചെയ്യുമ്പോൾ, 'when' clause-ലെ പ്രവൃത്തി (പിന്നീട് നടന്നത്) Simple Past ആയിരിക്കും, മറ്റേ clause-ലെ പ്രവൃത്തി (നേരത്തെ നടന്നത്) Past Perfect ആയിരിക്കും — ഇതാണ് ക്രമം.\n• ബന്ധപ്പെട്ട വാക്ക് കൂട്ടം: വന്നു-പോയിരുന്നു (came-had left), എത്തി-പോയിരുന്നു (arrived-had gone), എത്തിച്ചേർന്നു-കഴിഞ്ഞിരുന്നു (reached-had finished) — ഈ ജോടികൾ ഒരുമിച്ച് പഠിക്കുക.\n• ⭐ PSC ആവർത്തനം: 'When' ഉള്ള വാക്യങ്ങളിൽ Simple Past-ഉം Past Perfect-ഉം ചേർത്തുള്ള ഈ combination PSC-യിൽ Tenses വിഭാഗത്തിൽ പതിവായി ചോദിക്കുന്നു!\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. When the police came, the thief had already left. (പോലീസ് വന്നു - Simple Past; കള്ളൻ പോയിരുന്നു - Past Perfect)\n2. When I reached the station, the train had already departed. (ഞാൻ എത്തി - Simple Past; ട്രെയിൻ പോയിരുന്നു - Past Perfect)\n3. When she arrived, the meeting had already started. (അവൾ എത്തി - Simple Past; യോഗം തുടങ്ങിയിരുന്നു - Past Perfect)",
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) come — ഇത് base form ആണ്, ഇതിന് മുന്നിൽ auxiliary verb ('did', 'have') ഇല്ലാതെ ഒറ്റയ്ക്ക് past context-ൽ ഉപയോഗിക്കാൻ കഴിയില്ല; grammatically incomplete ആണ്.\n• 🪤 PSC Trap: 'came' എന്ന ശരിയായ Simple Past രൂപത്തിനോട് അടുത്ത 'come' (base form) തെറ്റായി തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.\n• (C) was coming — ഇത് Past Continuous ആണ്; ഈ tense ഒരു പ്രവൃത്തി തുടർച്ചയായി നടക്കുന്നു എന്ന് സൂചിപ്പിക്കുന്നു, എന്നാൽ ഇവിടെ ഒരു പൂർത്തിയായ പ്രവൃത്തി (പോലീസ് വന്നു) ആണ് വേണ്ടത്.\n• (D) has come — ഇത് Present Perfect ആണ്; മുഴുവൻ വാക്യവും ഭൂതകാലത്തിലാണ് (had already left), അതിനാൽ Present Perfect ('has come') ചേരില്ല.",
       "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: \"WHEN + വന്നു (Simple Past), അപ്പോഴേക്കും HAD + പോയിരുന്നു (Past Perfect) — രണ്ട് സംഭവങ്ങളുടെ ക്രമം ഓർക്കൂ!\"\n• വാക്ക് കുടുംബം: came-had left, arrived-had gone, reached-had finished — Simple Past + Past Perfect pairs ഒരുമിച്ച് പഠിക്കുക.\n• PSC പരീക്ഷാ തന്ത്രം: 'When' clause-ൽ ഏത് പ്രവൃത്തിയാണ് പിന്നീട് നടന്നത് എന്ന് കണ്ടെത്തുക, ആ പ്രവൃത്തിക്ക് Simple Past നൽകുക, മറ്റേതിന് Past Perfect ഇതിനകം ഉണ്ടെങ്കിൽ അത് മാറ്റേണ്ട — ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "54-2026-M_q71",
+    "paperId": "54-2026-M",
+    "questionNumber": 71,
+    "topic": "Types of Sentences",
+    "questionText": "Identify the type of sentence:\n\nHow efficiently the inspection team completed the verification!",
+    "optionA": "Assertive",
+    "optionB": "Imperative",
+    "optionC": "Interrogative",
+    "optionD": "Exclamatory",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) Exclamatory\n\n• 🏷️ HOW COME ഫിക്സ്: ഒറിജിനൽ KPSC ചോദ്യപേപ്പറിൽ ഈ വാക്യം ആശ്ചര്യചിഹ്നം (!) ഇല്ലാതെ, ഫുൾസ്റ്റോപ്പിൽ (.) മാത്രം അവസാനിക്കുന്ന രീതിയിലാണ് അച്ചടിച്ചു പോയത് — ഈ പ്രിന്റിംഗ് പിശക് കാരണമാണ് KPSC ഈ ചോദ്യം Final Answer Key-യിൽ ഡിലീറ്റ് ചെയ്തത് ('X' എന്ന് അടയാളപ്പെടുത്തി, കാരണം ഫുൾസ്റ്റോപ്പിൽ അവസാനിക്കുന്ന ഈ വാക്യത്തിന് ഒരു definitive sentence-type ഇല്ലാതെയായി). എന്നാൽ വാക്യഘടന ('How + adverb + subject + verb') കൃത്യമായി Exclamatory sentence-ന്റെ ക്ലാസിക് pattern ആയതിനാൽ, ഉദ്ദേശിച്ച ശരിയായ രൂപം ആശ്ചര്യചിഹ്നത്തോടെ ('...verification!') ആണെന്ന് വ്യക്തമാണ് — HOW COME ടീം ഈ പ്രിന്റിംഗ് പിശക് തിരിച്ചറിഞ്ഞ്, വാക്യം ശരിയായ ആശ്ചര്യചിഹ്നത്തോടെ പുനഃസ്ഥാപിച്ചു.\n• വാക്യം ശക്തമായ വികാരം (ആശ്ചര്യം, അഭിനന്ദനം) പ്രകടിപ്പിക്കുന്നു — അതിനാൽ ഇത് Exclamatory sentence ആണ്.\n• 'How efficiently...!' എന്ന് 'How' കൊണ്ട് തുടങ്ങി ആശ്ചര്യചിഹ്നത്തിൽ (!) അവസാനിക്കുന്നു — ഇത് exclamatory-യുടെ വ്യക്തമായ അടയാളമാണ്.\n• അർത്ഥം: 'പരിശോധനാ സംഘം എത്ര കാര്യക്ഷമമായി verification പൂർത്തിയാക്കി!' — ഒരു അഭിനന്ദന വികാരം.\n• 'How / What' കൊണ്ട് തുടങ്ങി '!' കൊണ്ട് അവസാനിക്കുന്ന വാക്യങ്ങൾ എപ്പോഴും exclamatory ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: How/What കൊണ്ട് തുടങ്ങി ! കൊണ്ട് അവസാനിച്ചാൽ → Exclamatory.\n• നാല് തരം വാക്യങ്ങൾ ഇങ്ങനെ തിരിച്ചറിയാം: Assertive (പ്രസ്താവന, .), Interrogative (ചോദ്യം, ?), Imperative (കൽപന/അഭ്യർത്ഥന), Exclamatory (വികാരം, !).\n• വികാരത്തിന്റെ തീവ്രതയാണ് exclamatory-യെ വേറിട്ട് നിർത്തുന്നത് — സന്തോഷം, ദുഃഖം, ആശ്ചര്യം ഇവ.\n• ⚠️ ശ്രദ്ധിക്കുക: ഈ punctuation-ആശ്രിതമായ sentence-type ചോദ്യങ്ങളിൽ, terminal mark ('.', '?', '!') തന്നെയാണ് ഏറ്റവും നിർണായക സൂചന — അച്ചടിയിൽ ഈ mark തെറ്റിയാൽ ചോദ്യം തന്നെ അസാധുവാകാം (ഈ ചോദ്യത്തിൽ സംഭവിച്ചത് പോലെ).\n• ⭐ PSC ആവർത്തനം: 'How...!' 'What a...!' ഘടനയുള്ള exclamatory വാക്യങ്ങൾ PSC പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. How beautiful the sunset is! (എത്ര മനോഹരം!)\n  2. What a wonderful performance! (എന്തൊരു അവതരണം!)\n  3. How quickly he ran! (എത്ര വേഗം ഓടി!)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Assertive — ഇത് ഒരു സാധാരണ പ്രസ്താവനയാണ്, ഫുൾ സ്റ്റോപ്പിൽ (.) അവസാനിക്കും. ഇവിടെ ഉദ്ദേശിച്ച '!' ഉള്ളതിനാൽ അല്ല.\n  🪤 PSC Trap: വാക്യത്തിൽ ഒരു വിവരം ഉള്ളതിനാൽ assertive ആണെന്ന് തോന്നിപ്പിക്കും.\n\n• (B) Imperative — കൽപന, ഉപദേശം, അഭ്യർത്ഥന എന്നിവ പറയുന്ന വാക്യമാണ് (ഉദാ: Complete the work). ഇവിടെ കൽപനയില്ല.\n  🪤 PSC Trap: 'completed the verification' എന്ന ഭാഗം കണ്ട് പ്രവൃത്തിയുമായി കൂട്ടിക്കുഴയ്ക്കും.\n\n• (C) Interrogative — ചോദ്യമാണ്, ചോദ്യചിഹ്നത്തിൽ (?) അവസാനിക്കും. ഇവിടെ ചോദ്യമല്ല, ആശ്ചര്യമാണ്.\n  🪤 PSC Trap: 'How' കൊണ്ട് തുടങ്ങുന്നതിനാൽ ചോദ്യമാണെന്ന് തെറ്റിദ്ധരിക്കും — പക്ഷേ ഉദ്ദേശിച്ചത് '!' ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: അവസാനത്തെ ചിഹ്നം നോക്കൂ! '!' കണ്ടാൽ Exclamatory ഉറപ്പ്. 'How/What' + '!' = വികാരം.\n• ഒരുമിച്ച് പഠിക്കുക — 4 വാക്യ തരങ്ങൾ: Assertive (.), Interrogative (?), Imperative (കൽപന), Exclamatory (!).\n• PSC strategy: sentence-type ചോദ്യങ്ങളിൽ ആദ്യം അവസാനത്തെ punctuation നോക്കുക — അതാണ് ഏറ്റവും വേഗമുള്ള സൂചന. 🏷️ ഈ ചോദ്യത്തിൽ PSC-യുടെ സ്വന്തം പ്രിന്റ് പിശക് (missing '!') കാരണം ചോദ്യം ഡിലീറ്റ് ചെയ്യപ്പെട്ടിരുന്നു — HOW COME ഇത് തിരിച്ചറിഞ്ഞ് ശരിയാക്കി."
     }
   }
 ]
