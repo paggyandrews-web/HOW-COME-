@@ -1,11 +1,35 @@
 import { useState, useEffect, useMemo, useRef, useCallback } from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useSearchParams } from 'react-router-dom'
 import modelPapers from '../data/modelPapers.json'
 import modelQuestions from '../data/modelQuestions.json'
 import { useAuth } from '../contexts/AuthContext'
 import { isPromoActive } from '../utils/freeTier'
 
 const NEGATIVE_MARK = 1 / 3
+const DAY_MS = 24 * 60 * 60 * 1000
+
+/**
+ * Access rule per paper:
+ * - Regular model papers: needs an account AND (active promo or paid) — unchanged.
+ * - Daily mock papers (type: 'daily', with publishedAt): free for EVERYONE for the
+ *   first 24h after publishedAt (no account needed at all). After that window,
+ *   just needs a logged-in account — no paid tier required.
+ */
+function isMockAllowed(paper, user, profile) {
+  if (paper?.type === 'daily' && paper?.publishedAt) {
+    const freeUntil = new Date(paper.publishedAt).getTime() + DAY_MS
+    if (Date.now() < freeUntil) return true
+    return !!user
+  }
+  return !!user && (isPromoActive() || !!profile?.isPaid)
+}
+
+function dailyFreeWindow(paper) {
+  if (paper?.type !== 'daily' || !paper?.publishedAt) return null
+  const freeUntil = new Date(paper.publishedAt).getTime() + DAY_MS
+  const msLeft = freeUntil - Date.now()
+  return { inWindow: msLeft > 0, hoursLeft: Math.max(0, Math.ceil(msLeft / (60 * 60 * 1000))) }
+}
 
 /* ── Question text renderer: supports \n line breaks and __underline__ ── */
 function renderWithUnderlines(line) {
@@ -65,8 +89,8 @@ function fmtClock(secs) {
 function PaperList({ onStart }) {
   const { user, profile } = useAuth()
   const needsSignup = !user
-  // Mock exams require an account, then the same free/paid rule as quizzes.
-  const mockAllowed = !needsSignup && (isPromoActive() || !!profile?.isPaid)
+  // Whether ANY paid-tier model paper is locked right now — drives the generic banner below.
+  const anyPaidLocked = needsSignup || (!isPromoActive() && !profile?.isPaid)
   const counts = useMemo(() => {
     const map = {}
     modelQuestions.forEach(q => { map[q.paperId] = (map[q.paperId] || 0) + 1 })
@@ -102,42 +126,77 @@ function PaperList({ onStart }) {
         </div>
       )}
 
-      {modelPapers.map(p => (
-        <div key={p.id} className="rounded-xl p-4 mb-4"
-          style={{ background: 'var(--card)', border: '1px solid var(--border)' }}>
-          <div className="flex items-start justify-between gap-3 flex-wrap">
-            <div>
-              <div className="font-semibold">{p.title}</div>
-              <div className="text-xs mt-1" style={{ color: 'var(--text2)' }}>
-                {counts[p.id] || 0} questions · {p.durationMinutes} minutes · −{p.negativeMarking} per wrong answer
+      {modelPapers.map(p => {
+        const allowed = isMockAllowed(p, user, profile)
+        const isDaily = p.type === 'daily'
+        const freeWin = dailyFreeWindow(p)
+        const lockedReason = allowed ? null : isDaily ? 'Sign up to keep taking this test' : needsSignup ? 'Sign up to take mock exams' : 'The free period has ended'
+        const shareUrl = isDaily ? `https://howcome.in/mock?paper=${p.id}` : null
+        return (
+          <div key={p.id} className="rounded-xl p-4 mb-4"
+            style={{ background: 'var(--card)', border: '1px solid ' + (isDaily && freeWin?.inWindow ? 'var(--accent)' : 'var(--border)') }}>
+            <div className="flex items-start justify-between gap-3 flex-wrap">
+              <div>
+                <div className="flex items-center gap-2 flex-wrap">
+                  <div className="font-semibold">{p.title}</div>
+                  {isDaily && freeWin?.inWindow && (
+                    <span className="text-xs font-semibold rounded-full px-2 py-0.5"
+                      style={{ background: 'rgba(26,157,142,0.15)', color: 'var(--accent)' }}>
+                      🔴 Free · {freeWin.hoursLeft}h left
+                    </span>
+                  )}
+                  {isDaily && freeWin && !freeWin.inWindow && (
+                    <span className="text-xs font-semibold rounded-full px-2 py-0.5"
+                      style={{ background: 'var(--bg2)', color: 'var(--text2)' }}>
+                      Free window ended
+                    </span>
+                  )}
+                </div>
+                <div className="text-xs mt-1" style={{ color: 'var(--text2)' }}>
+                  {counts[p.id] || 0} questions · {p.durationMinutes} minutes · −{p.negativeMarking} per wrong answer
+                </div>
+                {p.description && (
+                  <div className="text-xs mt-2 leading-relaxed" style={{ color: 'var(--text2)' }}>{p.description}</div>
+                )}
               </div>
-              {p.description && (
-                <div className="text-xs mt-2 leading-relaxed" style={{ color: 'var(--text2)' }}>{p.description}</div>
-              )}
+              <div className="flex flex-col items-end gap-1.5 shrink-0">
+                <button
+                  onClick={() => allowed && onStart(p)}
+                  disabled={!allowed}
+                  title={allowed ? undefined : lockedReason}
+                  className="rounded-lg px-4 py-2 text-sm font-semibold"
+                  style={{
+                    background: allowed ? 'var(--accent)' : 'var(--bg2)',
+                    color: allowed ? 'var(--accent-text)' : 'var(--text2)',
+                    border: allowed ? 'none' : '1px solid var(--border)',
+                    cursor: allowed ? 'pointer' : 'not-allowed',
+                  }}>
+                  {allowed ? 'Start Exam' : '🔒 Sign up'}
+                </button>
+                {isDaily && (
+                  <button
+                    onClick={() => { navigator.clipboard?.writeText(shareUrl); }}
+                    className="text-xs rounded-lg px-3 py-1 cursor-pointer"
+                    style={{ background: 'transparent', border: '1px dashed var(--border)', color: 'var(--text2)' }}>
+                    🔗 Copy share link
+                  </button>
+                )}
+              </div>
             </div>
-            <button
-              onClick={() => mockAllowed && onStart(p)}
-              disabled={!mockAllowed}
-              title={mockAllowed ? undefined : needsSignup ? 'Sign up to take mock exams' : 'The free period has ended'}
-              className="rounded-lg px-4 py-2 text-sm font-semibold"
-              style={{
-                background: mockAllowed ? 'var(--accent)' : 'var(--bg2)',
-                color: mockAllowed ? 'var(--accent-text)' : 'var(--text2)',
-                border: mockAllowed ? 'none' : '1px solid var(--border)',
-                cursor: mockAllowed ? 'pointer' : 'not-allowed',
-              }}>
-              {mockAllowed ? 'Start Exam' : needsSignup ? '🔒 Sign up' : '🔒 Locked'}
-            </button>
           </div>
-        </div>
-      ))}
-      {!mockAllowed && !needsSignup && (
+        )
+      })}
+      {anyPaidLocked && (
         <div className="rounded-xl p-4 mb-4 text-sm leading-relaxed"
           style={{ background: 'rgba(26,157,142,0.08)', border: '1px solid rgba(26,157,142,0.3)' }}>
-          <div className="font-semibold mb-1">The free period has ended</div>
+          <div className="font-semibold mb-1">{needsSignup ? 'Sign up to take mock exams' : 'The free period has ended'}</div>
           <div className="text-xs" style={{ color: 'var(--text2)' }}>
-            Mock exams need an active account with full access.
-            {' '}<Link to="/papers" style={{ color: 'var(--accent)' }}>Browse question papers →</Link>
+            {needsSignup
+              ? 'Full model exams need an account — daily mock tests are free to try for 24h with no account.'
+              : 'Full model exams need an active account with full access.'}
+            {' '}<Link to={needsSignup ? '/register' : '/papers'} style={{ color: 'var(--accent)' }}>
+              {needsSignup ? 'Sign Up Free →' : 'Browse question papers →'}
+            </Link>
           </div>
         </div>
       )}
@@ -469,6 +528,20 @@ export default function Mock() {
   const [answers, setAnswers] = useState({})
   const [timeTaken, setTimeTaken] = useState(0)
   const [examKey, setExamKey] = useState(0)    // remount ExamScreen on retake
+  const [searchParams] = useSearchParams()
+  const { user, profile } = useAuth()
+
+  // Deep link — e.g. /mock?paper=HC-DAILY-2026-08-01 shared in Telegram.
+  // Auto-starts that specific paper if access is currently allowed; otherwise
+  // falls through to the normal list, where the card shows the locked state.
+  useEffect(() => {
+    const paperId = searchParams.get('paper')
+    if (!paperId) return
+    const p = modelPapers.find(mp => mp.id === paperId)
+    if (!p || !isMockAllowed(p, user, profile)) return
+    start(p)
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
 
   const questions = useMemo(() => {
     if (!paper) return []
