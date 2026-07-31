@@ -36,13 +36,17 @@ export function promoDeadlineParts() {
   return { dateStr: iso, timeStr: '00:00' }
 }
 
-// ── August 2026 daily-mock launch week ──
+// ── August 2026 daily-mock launch campaign ──
 // Any daily mock paper *published* in this window stays free for EVERYONE
-// (no account needed at all) until the campaign ends on 9 August — not just
+// (no account needed at all) until the campaign ends on 20 August — not just
 // the usual 24h. Papers published outside this window keep the normal 24h
 // no-signup rule (see Mock.jsx). Bump these two dates to run another campaign.
+//
+// The end date deliberately sits well past the expected Play Store launch
+// (~10 Aug). If review slips, free access must NOT close before the app is
+// actually downloadable — that would kill the funnel at the worst moment.
 const MOCK_CAMPAIGN_START = new Date('2026-08-01T00:00:00+05:30').getTime()
-const MOCK_CAMPAIGN_END = new Date('2026-08-10T00:00:00+05:30').getTime() // end of 9 Aug 2026, IST
+const MOCK_CAMPAIGN_END = new Date('2026-08-21T00:00:00+05:30').getTime() // end of 20 Aug 2026, IST
 
 export function isInMockCampaignWindow(publishedAt) {
   const t = new Date(publishedAt).getTime()
@@ -51,4 +55,12 @@ export function isInMockCampaignWindow(publishedAt) {
 
 export function mockCampaignFreeUntil() {
   return MOCK_CAMPAIGN_END
+}
+
+// Human-readable end of the campaign, for banners. Single source of truth —
+// never hardcode "20 August" in a page.
+export function mockCampaignEndLabel() {
+  return new Date(MOCK_CAMPAIGN_END - 1).toLocaleDateString('en-IN', {
+    day: 'numeric', month: 'long', timeZone: 'Asia/Kolkata',
+  })
 }

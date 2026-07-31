@@ -3,10 +3,14 @@ import { Link, useNavigate } from 'react-router-dom'
 import { useAuth } from '../contexts/AuthContext'
 import papers from '../data/papers.json'
 import exams from '../data/exams.json'
+import modelPapers from '../data/modelPapers.json'
 import FlipClock from '../components/FlipClock'
 import { useStreak } from '../hooks/useStreak'
 import { formatExamMode } from '../utils/examMode'
-import { isPromoActive, promoEndLabel, promoDeadlineParts } from '../utils/freeTier'
+import {
+  isPromoActive, promoEndLabel, promoDeadlineParts,
+  isInMockCampaignWindow, mockCampaignFreeUntil, mockCampaignEndLabel,
+} from '../utils/freeTier'
 
 const MAX_PINS = 5
 
@@ -115,6 +119,77 @@ function PromoBanner({ questionCount, paperCount }) {
         </div>
       </div>
     </div>
+  )
+}
+
+/* ── Free daily mock test banner ─────────────────────────────────────
+   Points at the newest *published* daily mock that is currently open to
+   everyone with no account. Picks the paper itself rather than linking to
+   the bare /mock list, so one tap lands the visitor inside the test.
+
+   Renders nothing once the campaign is over and no free paper remains —
+   no cleanup needed later, and it can never advertise a locked paper. */
+function todaysFreeMock() {
+  const now = Date.now()
+  const open = modelPapers.filter(p => {
+    if (p.type !== 'daily' || !p.publishedAt || p.status === 'draft') return false
+    const published = new Date(p.publishedAt).getTime()
+    if (now < published) return false                      // not out yet
+    const freeUntil = isInMockCampaignWindow(p.publishedAt)
+      ? mockCampaignFreeUntil()
+      : published + 24 * 60 * 60 * 1000
+    return now < freeUntil
+  })
+  // Newest first — that's the one being promoted in Telegram today.
+  open.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
+  return open[0] || null
+}
+
+function FreeMockBanner() {
+  const paper = todaysFreeMock()
+  if (!paper) return null
+
+  return (
+    <Link to={`/mock?paper=${paper.id}`}
+      className="block rounded-2xl p-4 relative overflow-hidden"
+      style={{
+        background: 'linear-gradient(135deg, #06201d 0%, #041a18 100%)',
+        border: '1px solid rgba(26,157,142,0.45)',
+        textDecoration: 'none',
+      }}>
+      <div className="flex items-center gap-3">
+        <div style={{
+          width: 42, height: 42, borderRadius: 10, flexShrink: 0,
+          background: 'rgba(26,157,142,0.14)',
+          border: '1px solid rgba(26,157,142,0.3)',
+          display: 'flex', alignItems: 'center', justifyContent: 'center',
+          fontSize: 20,
+        }}>📝</div>
+
+        <div style={{ flex: 1, minWidth: 0 }}>
+          <div className="flex items-center gap-2 flex-wrap">
+            <span className="font-black text-xs" style={{ color: 'var(--accent)', letterSpacing: '0.07em' }}>
+              FREE DAILY MOCK TEST
+            </span>
+            <span className="text-xs font-bold rounded-full px-2 py-0.5"
+              style={{ background: 'rgba(239,68,68,0.15)', color: '#ef4444' }}>
+              LIVE
+            </span>
+          </div>
+          <div className="font-semibold text-sm mt-0.5" style={{ color: '#fff' }}>
+            {paper.title}
+          </div>
+          <div className="text-xs mt-0.5" style={{ color: 'rgba(255,255,255,0.5)' }}>
+            No sign-up needed · Malayalam explanations · free till {mockCampaignEndLabel()}
+          </div>
+        </div>
+
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" style={{ flexShrink: 0 }}
+          stroke="var(--accent)" strokeWidth="2.5" strokeLinecap="round">
+          <path d="M9 18l6-6-6-6"/>
+        </svg>
+      </div>
+    </Link>
   )
 }
 
@@ -347,9 +422,6 @@ export default function Home() {
 
   function handleUnpin(id) { unpinExam(id); setRemoveTarget(null) }
 
-  const now         = new Date()
-  const today       = new Date(now.toDateString())
-  const upcoming    = exams.filter(e => !e.cancelled && new Date(e.date) >= today).sort((a, b) => new Date(a.date) - new Date(b.date))
   const pinnedExams = exams.filter(e => pinnedIds.includes(e.id)).slice(0, 5)
   const removeExamData = removeTarget ? exams.find(e => e.id === removeTarget) : null
 
@@ -431,39 +503,12 @@ export default function Home() {
         </div>
       )}
 
-      {/* ── Upcoming Exams row ────────────────────────────────────── */}
-      <Link to="/exams"
-        className="flex items-center gap-3 rounded-2xl p-4"
-        style={{ background: 'var(--surface)', border: '1px solid var(--border)', textDecoration: 'none' }}>
-        <div style={{
-          width: 42, height: 42, borderRadius: 10, flexShrink: 0,
-          background: 'rgba(26,157,142,0.1)',
-          border: '1px solid rgba(26,157,142,0.2)',
-          display: 'flex', alignItems: 'center', justifyContent: 'center',
-        }}>
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none"
-            stroke="var(--accent)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-            <rect x="3" y="4" width="18" height="18" rx="2"/>
-            <line x1="16" y1="2" x2="16" y2="6"/>
-            <line x1="8"  y1="2" x2="8"  y2="6"/>
-            <line x1="3"  y1="10" x2="21" y2="10"/>
-          </svg>
-        </div>
-        <div style={{ flex: 1 }}>
-          <div className="font-semibold text-sm">Upcoming Kerala PSC Exams</div>
-          <div className="text-xs" style={{ color: 'var(--text2)' }}>Stay prepared, stay ahead.</div>
-        </div>
-        <div className="flex items-center gap-2">
-          <div className="font-bold text-sm px-2.5 py-1 rounded-full"
-            style={{ background: 'var(--bg2)', color: 'var(--text)' }}>
-            {upcoming.length}
-          </div>
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none"
-            stroke="var(--text2)" strokeWidth="2" strokeLinecap="round">
-            <path d="M9 18l6-6-6-6"/>
-          </svg>
-        </div>
-      </Link>
+      {/* ── Free daily mock banner ────────────────────────────────────
+          Replaced the "Upcoming Kerala PSC Exams" row. Exams are still one
+          tap away in the bottom nav and from the Saved Exams card below;
+          this slot now carries the launch campaign, which is the one thing
+          a first-time visitor from Telegram should see. */}
+      <FreeMockBanner />
 
       {/* ── Saved Exams ──────────────────────────────────────────── */}
       {pinnedExams.length > 0 && (

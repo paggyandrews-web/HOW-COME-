@@ -840,7 +840,7 @@ export default function Quiz() {
   // shared link — e.g. a Telegram poll pointing at one model question).
   // Checks the regular PSC question bank first, then the model-paper bank,
   // so both /quiz?questionId=176-2025-M-Q81 and
-  // /quiz?questionId=HC-MODEL-002-Q5 work as public, ungated deep links.
+  // /quiz?questionId=HC-DAILY-2026-08-01-Q5 work as public, ungated deep links.
   useEffect(() => {
     const qid = searchParams.get('questionId')
     if (!qid) return
