@@ -3,7 +3,7 @@ import { Link, useSearchParams } from 'react-router-dom'
 import modelPapers from '../data/modelPapers.json'
 import modelQuestions from '../data/modelQuestions.json'
 import { useAuth } from '../contexts/AuthContext'
-import { isPromoActive } from '../utils/freeTier'
+import { isPromoActive, isInMockCampaignWindow, mockCampaignFreeUntil } from '../utils/freeTier'
 
 const NEGATIVE_MARK = 1 / 3
 const DAY_MS = 24 * 60 * 60 * 1000
@@ -11,13 +11,23 @@ const DAY_MS = 24 * 60 * 60 * 1000
 /**
  * Access rule per paper:
  * - Regular model papers: needs an account AND (active promo or paid) — unchanged.
- * - Daily mock papers (type: 'daily', with publishedAt): free for EVERYONE for the
- *   first 24h after publishedAt (no account needed at all). After that window,
- *   just needs a logged-in account — no paid tier required.
+ * - Daily mock papers (type: 'daily', with publishedAt): free for EVERYONE (no
+ *   account needed at all) for a window after publishedAt. Normally that window
+ *   is 24h. But if publishedAt falls inside the Aug 2026 launch campaign (see
+ *   freeTier.js), the free-for-everyone window instead runs until the campaign
+ *   ends (9 Aug 2026). After the window closes, just needs a logged-in account
+ *   — no paid tier required.
  */
+function getDailyFreeUntil(paper) {
+  if (paper?.type !== 'daily' || !paper?.publishedAt) return null
+  return isInMockCampaignWindow(paper.publishedAt)
+    ? mockCampaignFreeUntil()
+    : new Date(paper.publishedAt).getTime() + DAY_MS
+}
+
 function isMockAllowed(paper, user, profile) {
-  if (paper?.type === 'daily' && paper?.publishedAt) {
-    const freeUntil = new Date(paper.publishedAt).getTime() + DAY_MS
+  const freeUntil = getDailyFreeUntil(paper)
+  if (freeUntil != null) {
     if (Date.now() < freeUntil) return true
     return !!user
   }
@@ -25,10 +35,14 @@ function isMockAllowed(paper, user, profile) {
 }
 
 function dailyFreeWindow(paper) {
-  if (paper?.type !== 'daily' || !paper?.publishedAt) return null
-  const freeUntil = new Date(paper.publishedAt).getTime() + DAY_MS
+  const freeUntil = getDailyFreeUntil(paper)
+  if (freeUntil == null) return null
   const msLeft = freeUntil - Date.now()
-  return { inWindow: msLeft > 0, hoursLeft: Math.max(0, Math.ceil(msLeft / (60 * 60 * 1000))) }
+  const hoursLeft = Math.max(0, Math.ceil(msLeft / (60 * 60 * 1000)))
+  // Campaign windows can run for days — switch to a day count once it's not
+  // meaningfully "hours left" anymore, so the badge stays readable.
+  const label = hoursLeft > 47 ? Math.ceil(hoursLeft / 24) + 'd left' : hoursLeft + 'h left'
+  return { inWindow: msLeft > 0, hoursLeft, label }
 }
 
 /* ── Question text renderer: supports \n line breaks and __underline__ ── */
@@ -101,6 +115,10 @@ function PaperList({ onStart }) {
     return map
   }, [])
 
+  // Drafts (status: 'draft') are nightly-generated daily mocks awaiting manual
+  // review/approval — never shown in the app, even locally, until published.
+  const visiblePapers = useMemo(() => modelPapers.filter(p => p.status !== 'draft'), [])
+
   return (
     <div className="max-w-3xl mx-auto px-4 py-6">
       <h1 className="font-bold text-2xl mb-1">Mock Exams</h1>
@@ -126,7 +144,7 @@ function PaperList({ onStart }) {
         </div>
       )}
 
-      {modelPapers.map(p => {
+      {visiblePapers.map(p => {
         const allowed = isMockAllowed(p, user, profile)
         const isDaily = p.type === 'daily'
         const freeWin = dailyFreeWindow(p)
@@ -142,7 +160,7 @@ function PaperList({ onStart }) {
                   {isDaily && freeWin?.inWindow && (
                     <span className="text-xs font-semibold rounded-full px-2 py-0.5"
                       style={{ background: 'rgba(26,157,142,0.15)', color: 'var(--accent)' }}>
-                      🔴 Free · {freeWin.hoursLeft}h left
+                      🔴 Free · {freeWin.label}
                     </span>
                   )}
                   {isDaily && freeWin && !freeWin.inWindow && (
@@ -538,7 +556,7 @@ export default function Mock() {
     const paperId = searchParams.get('paper')
     if (!paperId) return
     const p = modelPapers.find(mp => mp.id === paperId)
-    if (!p || !isMockAllowed(p, user, profile)) return
+    if (!p || p.status === 'draft' || !isMockAllowed(p, user, profile)) return
     start(p)
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])

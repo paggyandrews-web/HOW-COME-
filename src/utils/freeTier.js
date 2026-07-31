@@ -35,3 +35,20 @@ export function promoDeadlineParts() {
   }).format(d)
   return { dateStr: iso, timeStr: '00:00' }
 }
+
+// ── August 2026 daily-mock launch week ──
+// Any daily mock paper *published* in this window stays free for EVERYONE
+// (no account needed at all) until the campaign ends on 9 August — not just
+// the usual 24h. Papers published outside this window keep the normal 24h
+// no-signup rule (see Mock.jsx). Bump these two dates to run another campaign.
+const MOCK_CAMPAIGN_START = new Date('2026-08-01T00:00:00+05:30').getTime()
+const MOCK_CAMPAIGN_END = new Date('2026-08-10T00:00:00+05:30').getTime() // end of 9 Aug 2026, IST
+
+export function isInMockCampaignWindow(publishedAt) {
+  const t = new Date(publishedAt).getTime()
+  return t >= MOCK_CAMPAIGN_START && t < MOCK_CAMPAIGN_END
+}
+
+export function mockCampaignFreeUntil() {
+  return MOCK_CAMPAIGN_END
+}
