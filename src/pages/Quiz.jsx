@@ -2,6 +2,7 @@ import { useState, useEffect, useMemo } from 'react'
 import { useSearchParams, Link } from 'react-router-dom'
 import questions from '../data/questions.json'
 import papers from '../data/papers.json'
+import modelQuestions from '../data/modelQuestions.json'
 import Confetti from '../components/Confetti'
 import Dropdown from '../components/Dropdown'
 import { useResults } from '../hooks/useResults'
@@ -835,11 +836,15 @@ export default function Quiz() {
   const q = quizData?.questions[current]
   const secsPerQ = quizData?.secsPerQ || 30
 
-  // Auto-start when a single questionId is passed (from Search page)
+  // Auto-start when a single questionId is passed (from Search page, or a
+  // shared link — e.g. a Telegram poll pointing at one model question).
+  // Checks the regular PSC question bank first, then the model-paper bank,
+  // so both /quiz?questionId=176-2025-M-Q81 and
+  // /quiz?questionId=HC-MODEL-002-Q5 work as public, ungated deep links.
   useEffect(() => {
     const qid = searchParams.get('questionId')
     if (!qid) return
-    const found = questions.find(q => q.id === qid)
+    const found = questions.find(q => q.id === qid) || modelQuestions.find(q => q.id === qid)
     if (!found) return
     handleStart({ questions: [found], mode: 'browse', secsPerQ: 30 })
   // eslint-disable-next-line react-hooks/exhaustive-deps
