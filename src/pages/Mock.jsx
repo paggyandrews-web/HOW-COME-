@@ -8,6 +8,12 @@ import { isPromoActive, isInMockCampaignWindow, mockCampaignFreeUntil, mockCampa
 const NEGATIVE_MARK = 1 / 3
 const DAY_MS = 24 * 60 * 60 * 1000
 
+// Telegram channel promoted at the end of every test. This is the moment the
+// person has just seen the explanations and is most willing to follow — the
+// ask costs one tap and, unlike a sign-up, needs no account or password.
+// ⚠️ Replace with the real channel URL before deploying.
+const TELEGRAM_URL = 'https://t.me/howcomepsc'
+
 /**
  * Access rule per paper:
  * - Regular model papers: needs an account AND (active promo or paid) — unchanged.
@@ -114,6 +120,8 @@ function fmtClock(secs) {
 /* ── Paper list ─────────────────────────────────────────────────────── */
 function PaperList({ onStart, onPractice }) {
   const { user, profile } = useAuth()
+  const [copied, setCopied] = useState(null)         // paperId whose link was just copied
+  const [confirmPaper, setConfirmPaper] = useState(null)  // paper awaiting "Start exam?" confirmation
   const needsSignup = !user
   // Whether ANY paid-tier model paper is locked right now — drives the generic banner below.
   const anyPaidLocked = needsSignup || (!isPromoActive() && !profile?.isPaid)
@@ -174,66 +182,81 @@ function PaperList({ onStart, onPractice }) {
         const lockedReason = allowed ? null : isDaily ? 'Sign up to keep taking this test' : needsSignup ? 'Sign up to take mock exams' : 'The free period has ended'
         const shareUrl = isDaily ? `https://howcome.in/mock?paper=${p.id}` : null
         return (
-          <div key={p.id} className="rounded-xl p-4 mb-4"
-            style={{ background: 'var(--card)', border: '1px solid ' + (isDaily && freeWin?.inWindow ? 'var(--accent)' : 'var(--border)') }}>
-            <div className="flex items-start justify-between gap-3 flex-wrap">
-              <div>
-                <div className="flex items-center gap-2 flex-wrap">
-                  <div className="font-semibold">{p.title}</div>
-                  {isDaily && freeWin?.inWindow && (
-                    <span className="text-xs font-semibold rounded-full px-2 py-0.5"
-                      style={{ background: 'rgba(26,157,142,0.15)', color: 'var(--accent)' }}>
-                      🔴 Free · {freeWin.label}
-                    </span>
-                  )}
-                  {isDaily && freeWin && !freeWin.inWindow && (
-                    <span className="text-xs font-semibold rounded-full px-2 py-0.5"
-                      style={{ background: 'var(--bg2)', color: 'var(--text2)' }}>
-                      Free window ended
-                    </span>
-                  )}
-                </div>
-                <div className="text-xs mt-1" style={{ color: 'var(--text2)' }}>
-                  {counts[p.id] || 0} questions · {p.durationMinutes} minutes · −{p.negativeMarking} per wrong answer
-                </div>
-                {p.description && (
-                  <div className="text-xs mt-2 leading-relaxed" style={{ color: 'var(--text2)' }}>{p.description}</div>
+          /* Same shape as a Papers-tab card: details stacked on top, then one
+             full-width Practice / Timed button row. Keeps the two sections of
+             the app looking like the same app. */
+          <div key={p.id} className="card rounded-xl p-4 mb-3 flex flex-col gap-3"
+            style={{ border: '1px solid ' + (isDaily && freeWin?.inWindow ? 'var(--accent)' : 'var(--border)') }}>
+            <div className="flex-1 min-w-0">
+              <div className="flex items-center gap-2 flex-wrap">
+                <div className="font-semibold text-sm leading-snug">{p.title}</div>
+                {isDaily && freeWin?.inWindow && (
+                  <span className="text-xs font-semibold rounded-full px-2 py-0.5"
+                    style={{ background: 'rgba(26,157,142,0.15)', color: 'var(--accent)' }}>
+                    🔴 Free · {freeWin.label}
+                  </span>
+                )}
+                {isDaily && freeWin && !freeWin.inWindow && (
+                  <span className="text-xs font-semibold rounded-full px-2 py-0.5"
+                    style={{ background: 'var(--bg2)', color: 'var(--text2)' }}>
+                    Free window ended
+                  </span>
                 )}
               </div>
-              <div className="flex flex-col items-end gap-1.5 shrink-0">
-                {/* Practice leads, exam follows. A first-time visitor should be
-                    able to reach an explanation in one tap, not after a timer. */}
-                <button
-                  onClick={() => allowed && onPractice(p)}
-                  disabled={!allowed}
-                  title={allowed ? undefined : lockedReason}
-                  className="rounded-lg px-4 py-2 text-sm font-semibold"
-                  style={{
-                    background: allowed ? 'var(--accent)' : 'var(--bg2)',
-                    color: allowed ? 'var(--accent-text)' : 'var(--text2)',
-                    border: allowed ? 'none' : '1px solid var(--border)',
-                    cursor: allowed ? 'pointer' : 'not-allowed',
-                  }}>
-                  {allowed ? 'Practice' : '🔒 Sign up'}
-                </button>
-                {allowed && (
-                  <button
-                    onClick={() => onStart(p)}
-                    className="rounded-lg px-4 py-1.5 text-xs font-semibold cursor-pointer"
-                    style={{ background: 'var(--bg2)', color: 'var(--text)', border: '1px solid var(--border)' }}>
-                    ⏱ Timed exam
-                  </button>
-                )}
-                {isDaily && (
-                  <button
-                    onClick={() => { navigator.clipboard?.writeText(shareUrl); }}
-                    className="text-xs rounded-lg px-3 py-1 cursor-pointer"
-                    style={{ background: 'transparent', border: '1px dashed var(--border)', color: 'var(--text2)' }}>
-                    🔗 Copy share link
-                  </button>
-                )}
+              <div className="text-xs mt-1.5 flex flex-wrap gap-x-2 gap-y-1" style={{ color: 'var(--text2)' }}>
+                <span>📝 {counts[p.id] || 0} questions</span>
+                <span>·</span>
+                <span>⏱️ {p.durationMinutes} min</span>
+                <span>·</span>
+                <span>−{p.negativeMarking} per wrong</span>
               </div>
             </div>
+
+            {allowed ? (
+              <div className="flex gap-2">
+                <button
+                  onClick={() => onPractice(p)}
+                  className="flex-1 text-center py-2 rounded-xl text-xs font-bold cursor-pointer"
+                  style={{
+                    background: 'var(--accent)', color: 'var(--accent-text)',
+                    border: '2px solid var(--accent)', touchAction: 'manipulation',
+                  }}>
+                  ✏️ Practice
+                </button>
+                <button
+                  onClick={() => setConfirmPaper(p)}
+                  className="flex-1 text-center py-2 rounded-xl text-xs font-bold cursor-pointer"
+                  style={{
+                    background: 'transparent', color: 'var(--accent)',
+                    border: '2px solid var(--accent)', touchAction: 'manipulation',
+                  }}>
+                  ⏱️ Timed
+                </button>
+              </div>
+            ) : (
+              <Link to="/register"
+                title={lockedReason}
+                className="block text-center py-2 rounded-xl text-xs font-bold"
+                style={{
+                  background: 'var(--bg2)', color: 'var(--text2)',
+                  border: '2px solid var(--border)', textDecoration: 'none',
+                }}>
+                🔒 {lockedReason}
+              </Link>
+            )}
+
+            {isDaily && (
+              <button
+                onClick={() => {
+                  navigator.clipboard?.writeText(shareUrl)
+                  setCopied(p.id)
+                  setTimeout(() => setCopied(null), 1800)
+                }}
+                className="text-xs rounded-lg py-1.5 cursor-pointer"
+                style={{ background: 'transparent', border: '1px dashed var(--border)', color: copied === p.id ? 'var(--accent)' : 'var(--text2)' }}>
+                {copied === p.id ? '✓ Link copied' : '🔗 Copy share link'}
+              </button>
+            )}
           </div>
         )
       })}
@@ -258,181 +281,71 @@ function PaperList({ onStart, onPractice }) {
         These are model papers generated in the PSC pattern — not previous question papers.
         For real previous papers, visit the <Link to="/papers" style={{ color: 'var(--accent)' }}>Papers</Link> section.
       </div>
-    </div>
-  )
-}
 
-/* ── Practice screen ────────────────────────────────────────────────────
-   No timer, no negative marking, no submit step. Tap an option and the
-   answer + full Malayalam explanation open immediately.
-
-   This exists because the explanations are the actual product. In the timed
-   exam they only appear after finishing all 20 questions, which a first-time
-   visitor arriving from a shared link will almost never do — so the one thing
-   worth showing them stayed invisible. Practice mode puts it one tap away. */
-function PracticeScreen({ paper, questions, onExit, onStartExam }) {
-  const [current, setCurrent] = useState(0)
-  const [chosen, setChosen] = useState({})   // qIndex -> 'A'|'B'|'C'|'D'
-  const [done, setDone] = useState(false)
-
-  const total = questions.length
-  const q = questions[current]
-  const picked = chosen[current]
-  const revealed = picked != null
-
-  const score = useMemo(
-    () => questions.reduce((n, qq, i) => n + (chosen[i] === qq.correctAnswer ? 1 : 0), 0),
-    [chosen, questions]
-  )
-
-  function pick(letter) {
-    if (revealed) return                       // first answer stands
-    setChosen(c => ({ ...c, [current]: letter }))
-  }
-
-  function next() {
-    if (current < total - 1) { setCurrent(c => c + 1); window.scrollTo(0, 0) }
-    else { setDone(true); window.scrollTo(0, 0) }
-  }
-
-  if (done) {
-    const attempted = Object.keys(chosen).length
-    return (
-      <div className="max-w-3xl mx-auto px-4 py-6 pb-24">
-        <div className="rounded-xl p-6 text-center mb-4"
-          style={{ background: 'var(--card)', border: '1px solid var(--border)' }}>
-          <div className="text-3xl mb-2">🎉</div>
-          <div className="font-bold text-lg mb-1">Practice complete!</div>
-          <div className="font-black" style={{ fontSize: 38, color: 'var(--accent)' }}>
-            {score}<span className="text-lg" style={{ color: 'var(--text2)' }}> / {total}</span>
-          </div>
-          <div className="text-sm mt-1" style={{ color: 'var(--text2)' }}>
-            {attempted} of {total} attempted · no negative marking in practice
-          </div>
-        </div>
-
-        <div className="rounded-xl p-5 text-center mb-4"
-          style={{ background: 'rgba(26,157,142,0.08)', border: '1px solid rgba(26,157,142,0.3)' }}>
-          <div className="font-semibold text-sm mb-1">Ready for the real thing?</div>
-          <div className="text-xs mb-3" style={{ color: 'var(--text2)' }}>
-            ഇതേ paper 15 മിനിറ്റ് timer-ലും negative marking-ലും എഴുതി നോക്കൂ — യഥാർത്ഥ PSC പോലെ.
-          </div>
-          <button onClick={onStartExam}
-            className="w-full py-2.5 rounded-xl font-semibold text-sm cursor-pointer"
-            style={{ background: 'var(--accent)', color: 'var(--accent-text)', border: 'none' }}>
-            Take it as a timed exam →
-          </button>
-          <div className="text-xs mt-3" style={{ color: 'var(--text2)' }}>
-            Want your scores saved and 4,000+ more questions?{' '}
-            <Link to="/register" style={{ color: 'var(--accent)' }}>Create a free account →</Link>
-          </div>
-        </div>
-
-        <button onClick={onExit}
-          className="w-full rounded-lg py-2 text-xs font-semibold cursor-pointer"
-          style={{ background: 'transparent', border: '1px dashed var(--border)', color: 'var(--text2)' }}>
-          All mock tests
-        </button>
-      </div>
-    )
-  }
-
-  return (
-    <div className="max-w-3xl mx-auto px-4 py-4 pb-28">
-      {/* Header: progress, no clock */}
-      <div className="flex items-center justify-between mb-3 sticky top-14 z-10 rounded-lg px-3 py-2"
-        style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
-        <span className="text-sm font-semibold truncate" style={{ maxWidth: '45%' }}>{paper.title}</span>
-        <span className="text-xs" style={{ color: 'var(--text2)' }}>{current + 1} / {total}</span>
-        <span className="text-xs font-semibold" style={{ color: 'var(--accent)' }}>✓ {score}</span>
-      </div>
-
-      <div className="w-full rounded-full h-1 mb-4" style={{ background: 'var(--bg2)' }}>
-        <div className="h-1 rounded-full"
-          style={{ width: ((current + 1) / total) * 100 + '%', background: 'var(--accent)', transition: 'width 0.3s' }} />
-      </div>
-
-      <div className="rounded-xl p-4" style={{ background: 'var(--card)', border: '1px solid var(--border)' }}>
-        <div className="text-xs mb-2" style={{ color: 'var(--text2)' }}>{q.topic}</div>
-        <QuestionText num={current + 1} text={q.questionText} />
-
-        <div className="flex flex-col gap-2 mt-4">
-          {['A', 'B', 'C', 'D'].map(letter => {
-            const isCorrect = q.correctAnswer === letter
-            const isPicked = picked === letter
-            let bg = 'var(--bg2)', border = 'var(--border)'
-            if (revealed && isCorrect) { bg = 'rgba(34,197,94,0.12)'; border = 'var(--accent-green)' }
-            else if (revealed && isPicked) { bg = 'rgba(239,68,68,0.12)'; border = '#ef4444' }
-            return (
-              <button key={letter} onClick={() => pick(letter)} disabled={revealed}
-                className="text-left rounded-lg px-3 py-2.5 text-sm flex gap-2"
-                style={{
-                  background: bg, border: '1px solid ' + border, color: 'var(--text)',
-                  cursor: revealed ? 'default' : 'pointer',
-                }}>
-                <span className="font-bold shrink-0"
-                  style={{ color: revealed && isCorrect ? 'var(--accent-green)' : revealed && isPicked ? '#ef4444' : 'var(--text2)' }}>
-                  ({letter})
-                </span>
-                <span>{q['option' + letter]}</span>
-                {revealed && isCorrect && <span className="ml-auto shrink-0" style={{ color: 'var(--accent-green)' }}>✓</span>}
-                {revealed && isPicked && !isCorrect && <span className="ml-auto shrink-0" style={{ color: '#ef4444' }}>✗</span>}
-              </button>
-            )
-          })}
-        </div>
-
-        {!revealed && (
-          <div className="text-xs mt-3 text-center" style={{ color: 'var(--text2)' }}>
-            ഉത്തരം തൊടൂ — വിശദീകരണം ഉടനെ കാണാം
-          </div>
-        )}
-
-        {revealed && (
-          <>
-            <div className="mt-4 text-sm font-semibold"
-              style={{ color: picked === q.correctAnswer ? 'var(--accent-green)' : '#ef4444' }}>
-              {picked === q.correctAnswer ? '✓ ശരി!' : '✗ തെറ്റി — ശരിയുത്തരം (' + q.correctAnswer + ')'}
+      {/* "Start exam?" gate — a timed run with negative marking should never
+          begin on an accidental tap. Practice has no such gate by design. */}
+      {confirmPaper && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center px-6"
+          style={{ background: 'rgba(0,0,0,0.7)' }}
+          onClick={() => setConfirmPaper(null)}>
+          <div className="rounded-xl p-5 w-full max-w-sm"
+            style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}
+            onClick={e => e.stopPropagation()}>
+            <div className="text-2xl mb-2 text-center">⏱️</div>
+            <div className="font-semibold mb-1 text-center">Start exam?</div>
+            <div className="text-xs mb-3 text-center" style={{ color: 'var(--text2)' }}>
+              {confirmPaper.title}
             </div>
-            <ExplanationBlock explanation={q.explanation} />
-          </>
-        )}
-      </div>
-
-      <div className="flex gap-2 mt-4">
-        <button onClick={() => { setCurrent(c => Math.max(0, c - 1)); window.scrollTo(0, 0) }}
-          disabled={current === 0}
-          className="rounded-lg px-4 py-2.5 text-sm font-semibold cursor-pointer"
-          style={{ background: 'var(--bg2)', border: '1px solid var(--border)', color: current === 0 ? 'var(--text2)' : 'var(--text)' }}>
-          ←
-        </button>
-        <button onClick={next}
-          className="flex-1 rounded-lg py-2.5 text-sm font-semibold cursor-pointer"
-          style={{
-            background: revealed ? 'var(--accent)' : 'var(--bg2)',
-            border: revealed ? 'none' : '1px solid var(--border)',
-            color: revealed ? 'var(--accent-text)' : 'var(--text2)',
-          }}>
-          {current < total - 1 ? (revealed ? 'Next question →' : 'Skip →') : 'Finish practice'}
-        </button>
-      </div>
-
-      <button onClick={onExit}
-        className="w-full mt-3 rounded-lg py-2 text-xs font-semibold cursor-pointer"
-        style={{ background: 'transparent', border: '1px dashed var(--border)', color: 'var(--text2)' }}>
-        Exit practice
-      </button>
+            <div className="rounded-lg p-3 mb-4 text-xs leading-relaxed"
+              style={{ background: 'var(--bg2)', border: '1px solid var(--border)' }}>
+              <div>• {counts[confirmPaper.id] || 0} questions in {confirmPaper.durationMinutes} minutes</div>
+              <div>• −{confirmPaper.negativeMarking} mark for every wrong answer</div>
+              <div>• Timer starts immediately and cannot be paused</div>
+              <div>• Explanations appear only after you submit</div>
+            </div>
+            <div className="flex gap-2">
+              <button onClick={() => setConfirmPaper(null)}
+                className="flex-1 rounded-lg py-2 text-sm font-semibold cursor-pointer"
+                style={{ background: 'var(--bg2)', border: '1px solid var(--border)', color: 'var(--text)' }}>
+                Cancel
+              </button>
+              <button onClick={() => { const p = confirmPaper; setConfirmPaper(null); onStart(p) }}
+                className="flex-1 rounded-lg py-2 text-sm font-semibold cursor-pointer"
+                style={{ background: 'var(--accent-green)', border: 'none', color: '#fff' }}>
+                Start exam
+              </button>
+            </div>
+            <button onClick={() => { const p = confirmPaper; setConfirmPaper(null); onPractice(p) }}
+              className="w-full mt-2 rounded-lg py-2 text-xs font-semibold cursor-pointer"
+              style={{ background: 'transparent', border: '1px dashed var(--border)', color: 'var(--text2)' }}>
+              Not yet — practise it untimed first
+            </button>
+          </div>
+        </div>
+      )}
     </div>
   )
 }
 
 /* ── Exam screen ────────────────────────────────────────────────────── */
-function ExamScreen({ paper, questions, onSubmit }) {
+/**
+ * One screen serves both modes so they cannot drift apart visually.
+ *
+ * practice = true  → no countdown, and answering a question immediately
+ *                    reveals the correct option plus the full Malayalam
+ *                    explanation. Navigation, the palette, mark-for-review,
+ *                    skipping and the final result screen are all identical
+ *                    to the timed exam.
+ * practice = false → the real thing: countdown, auto-submit at zero, and
+ *                    answers stay hidden until submission.
+ */
+function ExamScreen({ paper, questions, onSubmit, practice = false }) {
   const total = questions.length
   const [current, setCurrent] = useState(0)
   const [answers, setAnswers] = useState({})           // qIndex -> 'A'|'B'|'C'|'D'
   const [marked, setMarked] = useState({})             // qIndex -> true
   const [secsLeft, setSecsLeft] = useState(paper.durationMinutes * 60)
+  const [elapsed, setElapsed] = useState(0)            // practice counts up instead
   const [showPalette, setShowPalette] = useState(false)
   const [confirmSubmit, setConfirmSubmit] = useState(false)
   const submittedRef = useRef(false)
@@ -440,10 +353,16 @@ function ExamScreen({ paper, questions, onSubmit }) {
   const doSubmit = useCallback(() => {
     if (submittedRef.current) return
     submittedRef.current = true
-    onSubmit(answers, paper.durationMinutes * 60 - secsLeft)
-  }, [answers, secsLeft, onSubmit, paper.durationMinutes])
+    onSubmit(answers, practice ? elapsed : paper.durationMinutes * 60 - secsLeft)
+  }, [answers, secsLeft, elapsed, practice, onSubmit, paper.durationMinutes])
 
+  // Practice still tracks time (the result screen reports it) but nothing
+  // expires — no auto-submit, no pressure.
   useEffect(() => {
+    if (practice) {
+      const t = setInterval(() => setElapsed(e => e + 1), 1000)
+      return () => clearInterval(t)
+    }
     const t = setInterval(() => {
       setSecsLeft(s => {
         if (s <= 1) { clearInterval(t); doSubmit(); return 0 }
@@ -451,16 +370,25 @@ function ExamScreen({ paper, questions, onSubmit }) {
       })
     }, 1000)
     return () => clearInterval(t)
-  }, [doSubmit])
+  }, [doSubmit, practice])
 
   const q = questions[current]
   const answered = Object.keys(answers).length
   const timeColor = secsLeft > 900 ? 'var(--accent)' : secsLeft > 300 ? '#f59e0b' : '#ef4444'
 
+  // In practice the first answer stands, because the explanation is already
+  // showing — letting it change afterwards would just be copying the key.
+  const revealed = practice && answers[current] != null
+  const score = useMemo(
+    () => questions.reduce((n, qq, i) => n + (answers[i] === qq.correctAnswer ? 1 : 0), 0),
+    [answers, questions]
+  )
+
   function select(letter) {
+    if (revealed) return
     setAnswers(a => {
       const next = { ...a }
-      if (next[current] === letter) delete next[current]  // tap again to clear
+      if (!practice && next[current] === letter) delete next[current]  // tap again to clear
       else next[current] = letter
       return next
     })
@@ -471,9 +399,13 @@ function ExamScreen({ paper, questions, onSubmit }) {
       {/* Header: timer + progress */}
       <div className="flex items-center justify-between mb-3 sticky top-14 z-10 rounded-lg px-3 py-2"
         style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
-        <span className="text-sm font-semibold">{paper.paperCode}</span>
+        <span className="text-sm font-semibold truncate" style={{ maxWidth: '42%' }}>
+          {practice ? '✏️ Practice' : paper.paperCode}
+        </span>
         <span className="text-xs" style={{ color: 'var(--text2)' }}>{answered}/{total} answered</span>
-        <span className="font-mono font-bold text-sm" style={{ color: timeColor }}>{fmtClock(secsLeft)}</span>
+        {practice
+          ? <span className="font-bold text-sm" style={{ color: 'var(--accent)' }}>✓ {score}</span>
+          : <span className="font-mono font-bold text-sm" style={{ color: timeColor }}>{fmtClock(secsLeft)}</span>}
       </div>
 
       {/* Question card */}
@@ -499,27 +431,54 @@ function ExamScreen({ paper, questions, onSubmit }) {
         <div className="flex flex-col gap-2 mt-4">
           {['A', 'B', 'C', 'D'].map(letter => {
             const chosen = answers[current] === letter
+            const isRight = q.correctAnswer === letter
+            // Timed mode never colours by correctness — only practice reveals.
+            let bg = chosen ? 'rgba(26,157,142,0.15)' : 'var(--bg2)'
+            let bd = chosen ? 'var(--accent)' : 'var(--border)'
+            let lc = chosen ? 'var(--accent)' : 'var(--text2)'
+            if (revealed && isRight) { bg = 'rgba(34,197,94,0.12)'; bd = 'var(--accent-green)'; lc = 'var(--accent-green)' }
+            else if (revealed && chosen) { bg = 'rgba(239,68,68,0.12)'; bd = '#ef4444'; lc = '#ef4444' }
             return (
-              <button key={letter} onClick={() => select(letter)}
-                className="text-left rounded-lg px-3 py-2.5 text-sm cursor-pointer flex gap-2"
+              <button key={letter} onClick={() => select(letter)} disabled={revealed}
+                className="text-left rounded-lg px-3 py-2.5 text-sm flex gap-2"
                 style={{
-                  background: chosen ? 'rgba(26,157,142,0.15)' : 'var(--bg2)',
-                  border: '1px solid ' + (chosen ? 'var(--accent)' : 'var(--border)'),
+                  background: bg,
+                  border: '1px solid ' + bd,
                   color: 'var(--text)',
+                  cursor: revealed ? 'default' : 'pointer',
                 }}>
-                <span className="font-bold shrink-0" style={{ color: chosen ? 'var(--accent)' : 'var(--text2)' }}>
-                  ({letter})
-                </span>
+                <span className="font-bold shrink-0" style={{ color: lc }}>({letter})</span>
                 <span>{q['option' + letter]}</span>
+                {revealed && isRight && <span className="ml-auto shrink-0" style={{ color: 'var(--accent-green)' }}>✓</span>}
+                {revealed && chosen && !isRight && <span className="ml-auto shrink-0" style={{ color: '#ef4444' }}>✗</span>}
               </button>
             )
           })}
         </div>
+
+        {/* Practice payoff: the explanation, one tap after answering. */}
+        {practice && !revealed && (
+          <div className="text-xs mt-3 text-center" style={{ color: 'var(--text2)' }}>
+            ഉത്തരം തൊടൂ — വിശദീകരണം ഉടനെ കാണാം · Skip ചെയ്യാനും മടങ്ങാനും ആകും
+          </div>
+        )}
+        {revealed && (
+          <>
+            <div className="mt-4 text-sm font-semibold"
+              style={{ color: answers[current] === q.correctAnswer ? 'var(--accent-green)' : '#ef4444' }}>
+              {answers[current] === q.correctAnswer
+                ? '✓ ശരി!'
+                : '✗ തെറ്റി — ശരിയുത്തരം (' + q.correctAnswer + ')'}
+            </div>
+            <ExplanationBlock explanation={q.explanation} />
+          </>
+        )}
       </div>
 
       {/* Prev / Next */}
       <div className="flex gap-2 mt-4">
-        <button onClick={() => setCurrent(c => Math.max(0, c - 1))} disabled={current === 0}
+        <button onClick={() => { setCurrent(c => Math.max(0, c - 1)); window.scrollTo(0, 0) }}
+          disabled={current === 0}
           className="flex-1 rounded-lg py-2.5 text-sm font-semibold cursor-pointer"
           style={{ background: 'var(--bg2)', border: '1px solid var(--border)', color: current === 0 ? 'var(--text2)' : 'var(--text)' }}>
           ← Previous
@@ -530,16 +489,16 @@ function ExamScreen({ paper, questions, onSubmit }) {
           ⊞
         </button>
         {current < total - 1 ? (
-          <button onClick={() => setCurrent(c => Math.min(total - 1, c + 1))}
+          <button onClick={() => { setCurrent(c => Math.min(total - 1, c + 1)); window.scrollTo(0, 0) }}
             className="flex-1 rounded-lg py-2.5 text-sm font-semibold cursor-pointer"
             style={{ background: 'var(--accent)', border: 'none', color: 'var(--accent-text)' }}>
-            Next →
+            {practice && answers[current] == null ? 'Skip →' : 'Next →'}
           </button>
         ) : (
           <button onClick={() => setConfirmSubmit(true)}
             className="flex-1 rounded-lg py-2.5 text-sm font-semibold cursor-pointer"
             style={{ background: 'var(--accent-green)', border: 'none', color: '#fff' }}>
-            Submit
+            {practice ? 'See result' : 'Submit'}
           </button>
         )}
       </div>
@@ -547,7 +506,7 @@ function ExamScreen({ paper, questions, onSubmit }) {
       <button onClick={() => setConfirmSubmit(true)}
         className="w-full mt-3 rounded-lg py-2 text-xs font-semibold cursor-pointer"
         style={{ background: 'transparent', border: '1px dashed var(--border)', color: 'var(--text2)' }}>
-        Finish exam early
+        {practice ? 'Finish practice & see result' : 'Finish exam early'}
       </button>
 
       {/* Palette */}
@@ -583,7 +542,7 @@ function ExamScreen({ paper, questions, onSubmit }) {
         <div className="fixed inset-0 z-50 flex items-center justify-center px-6"
           style={{ background: 'rgba(0,0,0,0.7)' }}>
           <div className="rounded-xl p-5 w-full max-w-sm" style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
-            <div className="font-semibold mb-2">Submit exam?</div>
+            <div className="font-semibold mb-2">{practice ? 'Finish practice?' : 'Submit exam?'}</div>
             <div className="text-sm mb-4" style={{ color: 'var(--text2)' }}>
               Answered: {answered} · Unanswered: {total - answered}
               <br />Unanswered questions carry no penalty.
@@ -592,7 +551,7 @@ function ExamScreen({ paper, questions, onSubmit }) {
               <button onClick={() => setConfirmSubmit(false)}
                 className="flex-1 rounded-lg py-2 text-sm font-semibold cursor-pointer"
                 style={{ background: 'var(--bg2)', border: '1px solid var(--border)', color: 'var(--text)' }}>
-                Continue exam
+                {practice ? 'Keep practising' : 'Continue exam'}
               </button>
               <button onClick={doSubmit}
                 className="flex-1 rounded-lg py-2 text-sm font-semibold cursor-pointer"
@@ -608,7 +567,46 @@ function ExamScreen({ paper, questions, onSubmit }) {
 }
 
 /* ── Results screen ─────────────────────────────────────────────────── */
-function ResultScreen({ paper, questions, answers, timeTaken, onRetake, onExit }) {
+function TelegramCTA({ score, total }) {
+  const shareText = encodeURIComponent(
+    `HOW COME PSC mock test-ൽ ഞാൻ ${score.toFixed(2)}/${total} നേടി! നിങ്ങളും ശ്രമിക്കൂ 👇\nhttps://howcome.in/mock`
+  )
+  return (
+    <div className="rounded-xl p-4 mb-4"
+      style={{ background: 'linear-gradient(135deg, #06201d 0%, #041a18 100%)', border: '1px solid rgba(26,157,142,0.4)' }}>
+      <div className="flex items-start gap-3">
+        <div style={{
+          width: 38, height: 38, borderRadius: 10, flexShrink: 0, fontSize: 18,
+          background: 'rgba(26,157,142,0.14)', border: '1px solid rgba(26,157,142,0.3)',
+          display: 'flex', alignItems: 'center', justifyContent: 'center',
+        }}>📢</div>
+        <div style={{ flex: 1, minWidth: 0 }}>
+          <div className="font-semibold text-sm" style={{ color: 'var(--accent)' }}>
+            അടുത്ത mock test എപ്പോൾ?
+          </div>
+          <div className="text-xs mt-1 leading-relaxed" style={{ color: 'rgba(255,255,255,0.6)' }}>
+            എല്ലാ പുതിയ mock test-ഉം PDF notes-ഉം ആദ്യം Telegram channel-ൽ. Sign up വേണ്ട, ഒറ്റ tap മതി.
+          </div>
+        </div>
+      </div>
+      <div className="flex gap-2 mt-3">
+        <a href={TELEGRAM_URL} target="_blank" rel="noopener noreferrer"
+          className="flex-1 text-center py-2 rounded-xl text-xs font-bold"
+          style={{ background: 'var(--accent)', color: 'var(--accent-text)', textDecoration: 'none' }}>
+          ➤ Join on Telegram
+        </a>
+        <a href={`https://t.me/share/url?url=https://howcome.in/mock&text=${shareText}`}
+          target="_blank" rel="noopener noreferrer"
+          className="flex-1 text-center py-2 rounded-xl text-xs font-bold"
+          style={{ background: 'transparent', color: 'var(--accent)', border: '2px solid var(--accent)', textDecoration: 'none' }}>
+          Share my score
+        </a>
+      </div>
+    </div>
+  )
+}
+
+function ResultScreen({ paper, questions, answers, timeTaken, onRetake, onExit, practice = false }) {
   const [filter, setFilter] = useState('all')  // all | wrong | skipped
 
   const stats = useMemo(() => {
@@ -657,14 +655,16 @@ function ResultScreen({ paper, questions, answers, timeTaken, onRetake, onExit }
         <div className="flex justify-center gap-2 mt-4">
           <button onClick={onRetake} className="rounded-lg px-4 py-2 text-sm font-semibold cursor-pointer"
             style={{ background: 'var(--accent)', border: 'none', color: 'var(--accent-text)' }}>
-            Retake
+            {practice ? 'Practise again' : 'Retake'}
           </button>
           <button onClick={onExit} className="rounded-lg px-4 py-2 text-sm font-semibold cursor-pointer"
             style={{ background: 'var(--bg2)', border: '1px solid var(--border)', color: 'var(--text)' }}>
-            All Mock Exams
+            All Mock Tests
           </button>
         </div>
       </div>
+
+      <TelegramCTA score={stats.score} total={questions.length} />
 
       {/* Topic-wise breakdown */}
       <div className="rounded-xl p-4 mb-4" style={{ background: 'var(--card)', border: '1px solid var(--border)' }}>
@@ -746,6 +746,7 @@ export default function Mock() {
   const [answers, setAnswers] = useState({})
   const [timeTaken, setTimeTaken] = useState(0)
   const [examKey, setExamKey] = useState(0)    // remount ExamScreen on retake
+  const [wasPractice, setWasPractice] = useState(false)  // which mode produced the result
   const [searchParams] = useSearchParams()
   const { user, profile } = useAuth()
 
@@ -788,6 +789,7 @@ export default function Mock() {
   function start(p) {
     setPaper(p)
     setAnswers({})
+    setWasPractice(false)
     setExamKey(k => k + 1)
     setStage('exam')
     window.scrollTo(0, 0)
@@ -795,6 +797,8 @@ export default function Mock() {
 
   function startPractice(p) {
     setPaper(p)
+    setAnswers({})
+    setWasPractice(true)
     setExamKey(k => k + 1)
     setStage('practice')
     window.scrollTo(0, 0)
@@ -807,19 +811,18 @@ export default function Mock() {
     window.scrollTo(0, 0)
   }
 
-  if (stage === 'practice' && paper) {
+  // Practice and the timed exam are the same screen with the timer and the
+  // instant-reveal behaviour flipped, so the two can never drift apart.
+  if ((stage === 'exam' || stage === 'practice') && paper) {
     return (
-      <PracticeScreen
+      <ExamScreen
         key={examKey}
         paper={paper}
         questions={questions}
-        onExit={() => { setStage('list'); setPaper(null) }}
-        onStartExam={() => start(paper)}
+        onSubmit={handleSubmit}
+        practice={stage === 'practice'}
       />
     )
-  }
-  if (stage === 'exam' && paper) {
-    return <ExamScreen key={examKey} paper={paper} questions={questions} onSubmit={handleSubmit} />
   }
   if (stage === 'result' && paper) {
     return (
@@ -828,7 +831,8 @@ export default function Mock() {
         questions={questions}
         answers={answers}
         timeTaken={timeTaken}
-        onRetake={() => start(paper)}
+        practice={wasPractice}
+        onRetake={() => (wasPractice ? startPractice(paper) : start(paper))}
         onExit={() => { setStage('list'); setPaper(null) }}
       />
     )
