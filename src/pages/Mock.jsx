@@ -117,6 +117,72 @@ function fmtClock(secs) {
   return (h > 0 ? String(h) + ':' : '') + String(m).padStart(2, '0') + ':' + String(s).padStart(2, '0')
 }
 
+/* ── Intro / instructions ────────────────────────────────────────────
+   Shown when someone arrives from a shared link or the Home banner. They
+   tapped a promo, not a "start exam" button, so dropping them into a live
+   test with no explanation of what it is feels like an ambush. This screen
+   states the rules and lets them choose the mode. */
+function IntroScreen({ paper, count, freeWin, onPractice, onExam, onExit }) {
+  return (
+    <div className="max-w-3xl mx-auto px-4 py-6">
+      <div className="card rounded-xl p-5">
+        <div className="flex items-center gap-2 flex-wrap mb-1">
+          <h1 className="font-bold text-xl">{paper.title}</h1>
+          {freeWin?.inWindow && (
+            <span className="text-xs font-semibold rounded-full px-2 py-0.5"
+              style={{ background: 'rgba(26,157,142,0.15)', color: 'var(--accent)' }}>
+              🔴 Free · {freeWin.label}
+            </span>
+          )}
+        </div>
+        <div className="text-xs mb-4" style={{ color: 'var(--text2)' }}>
+          Kerala PSC English · model paper
+        </div>
+
+        <div className="rounded-lg p-3 mb-4 text-sm leading-relaxed"
+          style={{ background: 'var(--bg2)', border: '1px solid var(--border)' }}>
+          <div className="font-semibold text-xs mb-2" style={{ color: 'var(--accent)' }}>
+            WHAT YOU GET
+          </div>
+          <div className="text-xs leading-relaxed" style={{ color: 'var(--text2)' }}>
+            <div>• {count} questions in the real PSC pattern</div>
+            <div>• A full Malayalam explanation for every answer</div>
+            <div>• Topic-wise score breakdown at the end</div>
+            <div>• No sign-up, no payment</div>
+          </div>
+        </div>
+
+        <div className="font-semibold text-sm mb-2">Choose how to take it</div>
+
+        <button onClick={onPractice}
+          className="w-full rounded-xl p-3 mb-2 text-left cursor-pointer"
+          style={{ background: 'var(--accent)', border: '2px solid var(--accent)', color: 'var(--accent-text)' }}>
+          <div className="font-bold text-sm">✏️ Practice — recommended</div>
+          <div className="text-xs mt-0.5" style={{ opacity: 0.85 }}>
+            No timer. The answer and its Malayalam explanation appear as soon as you tap an option.
+          </div>
+        </button>
+
+        <button onClick={onExam}
+          className="w-full rounded-xl p-3 text-left cursor-pointer"
+          style={{ background: 'transparent', border: '2px solid var(--accent)', color: 'var(--accent)' }}>
+          <div className="font-bold text-sm">⏱️ Timed exam</div>
+          <div className="text-xs mt-0.5" style={{ color: 'var(--text2)' }}>
+            {paper.durationMinutes} minutes · −{paper.negativeMarking} for each wrong answer ·
+            explanations only after you submit.
+          </div>
+        </button>
+
+        <button onClick={onExit}
+          className="w-full mt-3 rounded-lg py-2 text-xs font-semibold cursor-pointer"
+          style={{ background: 'transparent', border: '1px dashed var(--border)', color: 'var(--text2)' }}>
+          See all mock tests
+        </button>
+      </div>
+    </div>
+  )
+}
+
 /* ── Paper list ─────────────────────────────────────────────────────── */
 function PaperList({ onStart, onPractice }) {
   const { user, profile } = useAuth()
@@ -456,22 +522,10 @@ function ExamScreen({ paper, questions, onSubmit, practice = false }) {
           })}
         </div>
 
-        {/* Practice payoff: the explanation, one tap after answering. */}
         {practice && !revealed && (
           <div className="text-xs mt-3 text-center" style={{ color: 'var(--text2)' }}>
-            ഉത്തരം തൊടൂ — വിശദീകരണം ഉടനെ കാണാം · Skip ചെയ്യാനും മടങ്ങാനും ആകും
+            Tap an answer to see the explanation
           </div>
-        )}
-        {revealed && (
-          <>
-            <div className="mt-4 text-sm font-semibold"
-              style={{ color: answers[current] === q.correctAnswer ? 'var(--accent-green)' : '#ef4444' }}>
-              {answers[current] === q.correctAnswer
-                ? '✓ ശരി!'
-                : '✗ തെറ്റി — ശരിയുത്തരം (' + q.correctAnswer + ')'}
-            </div>
-            <ExplanationBlock explanation={q.explanation} />
-          </>
         )}
       </div>
 
@@ -502,6 +556,21 @@ function ExamScreen({ paper, questions, onSubmit, practice = false }) {
           </button>
         )}
       </div>
+
+      {/* Explanation sits BELOW the navigation on purpose. Anyone who doesn't
+          want to read it can hit Next without scrolling past a long block of
+          Malayalam text first. */}
+      {revealed && (
+        <div className="rounded-xl p-4 mt-4" style={{ background: 'var(--card)', border: '1px solid var(--border)' }}>
+          <div className="text-sm font-semibold"
+            style={{ color: answers[current] === q.correctAnswer ? 'var(--accent-green)' : '#ef4444' }}>
+            {answers[current] === q.correctAnswer
+              ? '✓ Correct'
+              : '✗ Wrong — correct answer is (' + q.correctAnswer + ')'}
+          </div>
+          <ExplanationBlock explanation={q.explanation} />
+        </div>
+      )}
 
       <button onClick={() => setConfirmSubmit(true)}
         className="w-full mt-3 rounded-lg py-2 text-xs font-semibold cursor-pointer"
@@ -567,10 +636,26 @@ function ExamScreen({ paper, questions, onSubmit, practice = false }) {
 }
 
 /* ── Results screen ─────────────────────────────────────────────────── */
-function TelegramCTA({ score, total }) {
-  const shareText = encodeURIComponent(
-    `HOW COME PSC mock test-ൽ ഞാൻ ${score.toFixed(2)}/${total} നേടി! നിങ്ങളും ശ്രമിക്കൂ 👇\nhttps://howcome.in/mock`
-  )
+function TelegramCTA({ paper, score, total }) {
+  const [shared, setShared] = useState(false)
+  const url = `https://howcome.in/mock?paper=${paper.id}`
+  const text = `I scored ${score.toFixed(2)}/${total} in the ${paper.title} on HOW COME — free Kerala PSC English mock test with full Malayalam explanations. Try it 👇`
+
+  // navigator.share opens the phone's own share sheet, so WhatsApp, Telegram,
+  // Instagram, SMS and everything else the person actually uses show up.
+  // Desktop browsers mostly lack it — fall back to copying the message.
+  async function share() {
+    const payload = { title: 'HOW COME — Free PSC Mock Test', text, url }
+    if (navigator.share) {
+      try { await navigator.share(payload); return } catch { /* cancelled — ignore */ }
+    }
+    try {
+      await navigator.clipboard.writeText(`${text}\n${url}`)
+      setShared(true)
+      setTimeout(() => setShared(false), 1800)
+    } catch { /* clipboard blocked — nothing useful to do */ }
+  }
+
   return (
     <div className="rounded-xl p-4 mb-4"
       style={{ background: 'linear-gradient(135deg, #06201d 0%, #041a18 100%)', border: '1px solid rgba(26,157,142,0.4)' }}>
@@ -582,10 +667,10 @@ function TelegramCTA({ score, total }) {
         }}>📢</div>
         <div style={{ flex: 1, minWidth: 0 }}>
           <div className="font-semibold text-sm" style={{ color: 'var(--accent)' }}>
-            അടുത്ത mock test എപ്പോൾ?
+            When is the next mock test?
           </div>
           <div className="text-xs mt-1 leading-relaxed" style={{ color: 'rgba(255,255,255,0.6)' }}>
-            എല്ലാ പുതിയ mock test-ഉം PDF notes-ഉം ആദ്യം Telegram channel-ൽ. Sign up വേണ്ട, ഒറ്റ tap മതി.
+            Every new mock test and PDF note goes to the Telegram channel first. No sign-up — one tap.
           </div>
         </div>
       </div>
@@ -595,12 +680,11 @@ function TelegramCTA({ score, total }) {
           style={{ background: 'var(--accent)', color: 'var(--accent-text)', textDecoration: 'none' }}>
           ➤ Join on Telegram
         </a>
-        <a href={`https://t.me/share/url?url=https://howcome.in/mock&text=${shareText}`}
-          target="_blank" rel="noopener noreferrer"
-          className="flex-1 text-center py-2 rounded-xl text-xs font-bold"
-          style={{ background: 'transparent', color: 'var(--accent)', border: '2px solid var(--accent)', textDecoration: 'none' }}>
-          Share my score
-        </a>
+        <button onClick={share}
+          className="flex-1 text-center py-2 rounded-xl text-xs font-bold cursor-pointer"
+          style={{ background: 'transparent', color: 'var(--accent)', border: '2px solid var(--accent)' }}>
+          {shared ? '✓ Copied' : 'Share my score'}
+        </button>
       </div>
     </div>
   )
@@ -664,7 +748,7 @@ function ResultScreen({ paper, questions, answers, timeTaken, onRetake, onExit, 
         </div>
       </div>
 
-      <TelegramCTA score={stats.score} total={questions.length} />
+      <TelegramCTA paper={paper} score={stats.score} total={questions.length} />
 
       {/* Topic-wise breakdown */}
       <div className="rounded-xl p-4 mb-4" style={{ background: 'var(--card)', border: '1px solid var(--border)' }}>
@@ -741,7 +825,7 @@ function ResultScreen({ paper, questions, answers, timeTaken, onRetake, onExit, 
 
 /* ── Page ───────────────────────────────────────────────────────────── */
 export default function Mock() {
-  const [stage, setStage] = useState('list')   // list | exam | result
+  const [stage, setStage] = useState('list')   // list | intro | practice | exam | result
   const [paper, setPaper] = useState(null)
   const [answers, setAnswers] = useState({})
   const [timeTaken, setTimeTaken] = useState(0)
@@ -754,17 +838,18 @@ export default function Mock() {
   // Opens that paper if access is currently allowed; otherwise falls through to
   // the normal list, where the card shows the locked state.
   //
-  // Defaults to PRACTICE, not the timed exam. Someone arriving cold from a
-  // shared link has not agreed to sit a 15-minute test, and dropping them into
-  // a running countdown is the fastest way to lose them. Add &mode=exam to
-  // deep-link straight into the timed version.
+  // Lands on the INSTRUCTIONS screen, not inside a running test. The person
+  // tapped a promo link, not a start button — they need to know what this is
+  // and pick a mode first. &mode=practice or &mode=exam skip straight in.
   useEffect(() => {
     const paperId = searchParams.get('paper')
     if (!paperId) return
     const p = modelPapers.find(mp => mp.id === paperId)
     if (!p || !isPublished(p) || !isMockAllowed(p, user, profile)) return
-    if (searchParams.get('mode') === 'exam') start(p)
-    else startPractice(p)
+    const mode = searchParams.get('mode')
+    if (mode === 'exam') start(p)
+    else if (mode === 'practice') startPractice(p)
+    else showIntro(p)
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
@@ -785,6 +870,12 @@ export default function Mock() {
     window.addEventListener('beforeunload', warn)
     return () => window.removeEventListener('beforeunload', warn)
   }, [stage])
+
+  function showIntro(p) {
+    setPaper(p)
+    setStage('intro')
+    window.scrollTo(0, 0)
+  }
 
   function start(p) {
     setPaper(p)
@@ -811,6 +902,18 @@ export default function Mock() {
     window.scrollTo(0, 0)
   }
 
+  if (stage === 'intro' && paper) {
+    return (
+      <IntroScreen
+        paper={paper}
+        count={questions.length}
+        freeWin={dailyFreeWindow(paper)}
+        onPractice={() => startPractice(paper)}
+        onExam={() => start(paper)}
+        onExit={() => { setStage('list'); setPaper(null) }}
+      />
+    )
+  }
   // Practice and the timed exam are the same screen with the timer and the
   // instant-reveal behaviour flipped, so the two can never drift apart.
   if ((stage === 'exam' || stage === 'practice') && paper) {
