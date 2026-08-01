@@ -160,6 +160,7 @@ function IntroScreen({ paper, count, freeWin, onPractice, onExam, onExit }) {
           <div className="font-bold text-sm">✏️ Practice — recommended</div>
           <div className="text-xs mt-0.5" style={{ opacity: 0.85 }}>
             No timer. The answer and its Malayalam explanation appear as soon as you tap an option.
+            Scored with the same −{paper.negativeMarking} penalty as the real exam.
           </div>
         </button>
 
@@ -445,10 +446,19 @@ function ExamScreen({ paper, questions, onSubmit, practice = false }) {
   // In practice the first answer stands, because the explanation is already
   // showing — letting it change afterwards would just be copying the key.
   const revealed = practice && answers[current] != null
-  const score = useMemo(
-    () => questions.reduce((n, qq, i) => n + (answers[i] === qq.correctAnswer ? 1 : 0), 0),
-    [answers, questions]
-  )
+
+  // Running score during practice, carrying the same 1/3 penalty the real exam
+  // applies. Showing a raw correct-count here would teach the wrong instinct —
+  // that guessing is free — which is exactly the habit that loses PSC marks.
+  const score = useMemo(() => {
+    let correct = 0, wrong = 0
+    questions.forEach((qq, i) => {
+      if (answers[i] == null) return
+      if (answers[i] === qq.correctAnswer) correct++
+      else wrong++
+    })
+    return Math.max(0, correct - wrong * NEGATIVE_MARK)
+  }, [answers, questions])
 
   function select(letter) {
     if (revealed) return
@@ -470,7 +480,7 @@ function ExamScreen({ paper, questions, onSubmit, practice = false }) {
         </span>
         <span className="text-xs" style={{ color: 'var(--text2)' }}>{answered}/{total} answered</span>
         {practice
-          ? <span className="font-bold text-sm" style={{ color: 'var(--accent)' }}>✓ {score}</span>
+          ? <span className="font-bold text-sm" style={{ color: 'var(--accent)' }}>{score.toFixed(2)}/{total}</span>
           : <span className="font-mono font-bold text-sm" style={{ color: timeColor }}>{fmtClock(secsLeft)}</span>}
       </div>
 
@@ -565,8 +575,8 @@ function ExamScreen({ paper, questions, onSubmit, practice = false }) {
           <div className="text-sm font-semibold"
             style={{ color: answers[current] === q.correctAnswer ? 'var(--accent-green)' : '#ef4444' }}>
             {answers[current] === q.correctAnswer
-              ? '✓ Correct'
-              : '✗ Wrong — correct answer is (' + q.correctAnswer + ')'}
+              ? '✓ Correct  +1'
+              : '✗ Wrong — correct answer is (' + q.correctAnswer + ')  −' + NEGATIVE_MARK.toFixed(2)}
           </div>
           <ExplanationBlock explanation={q.explanation} />
         </div>

@@ -45,8 +45,7 @@ export function promoDeadlineParts() {
 // The end date deliberately sits well past the expected Play Store launch
 // (~10 Aug). If review slips, free access must NOT close before the app is
 // actually downloadable — that would kill the funnel at the worst moment.
-// TEMPORARY PREVIEW — revert to 2026-08-01T00:00:00+05:30 after checking.
-const MOCK_CAMPAIGN_START = new Date('2026-07-31T00:00:00+05:30').getTime()
+const MOCK_CAMPAIGN_START = new Date('2026-08-01T00:00:00+05:30').getTime()
 const MOCK_CAMPAIGN_END = new Date('2026-08-21T00:00:00+05:30').getTime() // end of 20 Aug 2026, IST
 
 export function isInMockCampaignWindow(publishedAt) {
