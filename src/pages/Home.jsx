@@ -3,14 +3,10 @@ import { Link, useNavigate } from 'react-router-dom'
 import { useAuth } from '../contexts/AuthContext'
 import papers from '../data/papers.json'
 import exams from '../data/exams.json'
-import modelPapers from '../data/modelPapers.json'
 import FlipClock from '../components/FlipClock'
 import { useStreak } from '../hooks/useStreak'
 import { formatExamMode } from '../utils/examMode'
-import {
-  isPromoActive, promoEndLabel, promoDeadlineParts,
-  isInMockCampaignWindow, mockCampaignFreeUntil, mockCampaignEndLabel,
-} from '../utils/freeTier'
+import { isPromoActive, promoEndLabel, promoDeadlineParts } from '../utils/freeTier'
 
 const MAX_PINS = 5
 
@@ -119,77 +115,6 @@ function PromoBanner({ questionCount, paperCount }) {
         </div>
       </div>
     </div>
-  )
-}
-
-/* ── Free daily mock test banner ─────────────────────────────────────
-   Points at the newest *published* daily mock that is currently open to
-   everyone with no account. Picks the paper itself rather than linking to
-   the bare /mock list, so one tap lands the visitor inside the test.
-
-   Renders nothing once the campaign is over and no free paper remains —
-   no cleanup needed later, and it can never advertise a locked paper. */
-function todaysFreeMock() {
-  const now = Date.now()
-  const open = modelPapers.filter(p => {
-    if (p.type !== 'daily' || !p.publishedAt || p.status === 'draft') return false
-    const published = new Date(p.publishedAt).getTime()
-    if (now < published) return false                      // not out yet
-    const freeUntil = isInMockCampaignWindow(p.publishedAt)
-      ? mockCampaignFreeUntil()
-      : published + 24 * 60 * 60 * 1000
-    return now < freeUntil
-  })
-  // Newest first — that's the one being promoted in Telegram today.
-  open.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
-  return open[0] || null
-}
-
-function FreeMockBanner() {
-  const paper = todaysFreeMock()
-  if (!paper) return null
-
-  return (
-    <Link to={`/mock?paper=${paper.id}`}
-      className="block rounded-2xl p-4 relative overflow-hidden"
-      style={{
-        background: 'linear-gradient(135deg, #06201d 0%, #041a18 100%)',
-        border: '1px solid rgba(26,157,142,0.45)',
-        textDecoration: 'none',
-      }}>
-      <div className="flex items-center gap-3">
-        <div style={{
-          width: 42, height: 42, borderRadius: 10, flexShrink: 0,
-          background: 'rgba(26,157,142,0.14)',
-          border: '1px solid rgba(26,157,142,0.3)',
-          display: 'flex', alignItems: 'center', justifyContent: 'center',
-          fontSize: 20,
-        }}>📝</div>
-
-        <div style={{ flex: 1, minWidth: 0 }}>
-          <div className="flex items-center gap-2 flex-wrap">
-            <span className="font-black text-xs" style={{ color: 'var(--accent)', letterSpacing: '0.07em' }}>
-              FREE DAILY MOCK TEST
-            </span>
-            <span className="text-xs font-bold rounded-full px-2 py-0.5"
-              style={{ background: 'rgba(239,68,68,0.15)', color: '#ef4444' }}>
-              LIVE
-            </span>
-          </div>
-          <div className="font-semibold text-sm mt-0.5" style={{ color: '#fff' }}>
-            {paper.title}
-          </div>
-          <div className="text-xs mt-0.5" style={{ color: 'rgba(255,255,255,0.5)' }}>
-            No sign-up needed · Malayalam explanations · free till {mockCampaignEndLabel()}
-          </div>
-        </div>
-
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" style={{ flexShrink: 0 }}
-          stroke="var(--accent)" strokeWidth="2.5" strokeLinecap="round">
-          <path d="M9 18l6-6-6-6"/>
-        </svg>
-      </div>
-    </Link>
   )
 }
 
@@ -499,13 +424,6 @@ export default function Home() {
           </div>
         </div>
       )}
-
-      {/* ── Free daily mock banner ────────────────────────────────────
-          Replaced the "Upcoming Kerala PSC Exams" row. Exams are still one
-          tap away in the bottom nav and from the Saved Exams card below;
-          this slot now carries the launch campaign, which is the one thing
-          a first-time visitor from Telegram should see. */}
-      <FreeMockBanner />
 
       {/* ── Saved Exams ──────────────────────────────────────────── */}
       {pinnedExams.length > 0 && (
