@@ -1090,5 +1090,23 @@
     "medium": "M",
     "year": "2022",
     "categoryCode": "095/2019, 078/2021, 004/2022 etc"
+  },
+  {
+    "id": "106-2022-M",
+    "paperCode": "106/2022 M",
+    "post": "Lower Division Clerk",
+    "date": "02-Nov-2022",
+    "medium": "M",
+    "year": "2022",
+    "categoryCode": "Kerala Water Authority"
+  },
+  {
+    "id": "101-2022-M",
+    "paperCode": "101/2022 M",
+    "post": "Common Preliminary Examination 2022 (Graduate Level) - Stage I",
+    "date": "22-Oct-2022",
+    "medium": "M",
+    "year": "2022",
+    "categoryCode": "Various"
   }
 ]
