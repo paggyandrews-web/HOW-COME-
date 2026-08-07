@@ -1,6 +1,7 @@
 import { useState, useMemo, useCallback, useEffect, useRef } from 'react'
 import fullPapers from '../data/fullPapers.json'
 import fullQuestions from '../data/fullQuestions.json'
+import Confetti from '../components/Confetti'
 
 const NEGATIVE_MARK = 1 / 3
 
@@ -101,6 +102,96 @@ function PaperList({ onStart }) {
   )
 }
 
+/* ── Instructions screen ────────────────────────────────────────────── */
+function InstructionsScreen({ paper, questionCount, onBegin, onBack }) {
+  return (
+    <div className="max-w-2xl mx-auto px-4 py-6 pb-10">
+      <button onClick={onBack}
+        className="text-xs font-semibold mb-3 cursor-pointer"
+        style={{ color: 'var(--text2)' }}>
+        ← Back to papers
+      </button>
+
+      <div className="rounded-xl p-4 mb-4" style={{ background: 'var(--card)', border: '1px solid var(--border)' }}>
+        <div className="font-semibold text-sm leading-snug">{paper.post}</div>
+        <div className="text-xs mt-1.5 flex flex-wrap gap-x-2 gap-y-1" style={{ color: 'var(--text2)' }}>
+          <span>🧾 {paper.paperCode}</span>
+          <span>·</span>
+          <span>📅 {paper.date}</span>
+          <span>·</span>
+          <span>📝 {questionCount} questions</span>
+        </div>
+      </div>
+
+      <h2 className="font-bold text-lg mb-3">Before you start</h2>
+
+      <div className="flex flex-col gap-2.5 mb-5">
+        <div className="rounded-xl p-3.5 flex gap-3" style={{ background: 'var(--card)', border: '1px solid var(--border)' }}>
+          <span className="text-xl shrink-0">⚠️</span>
+          <div>
+            <div className="text-sm font-semibold">Negative marking</div>
+            <div className="text-xs mt-0.5 leading-relaxed" style={{ color: 'var(--text2)' }}>
+              Every wrong answer deducts <b>⅓ (0.33) mark</b>. Unanswered questions carry
+              <b> no penalty</b> — skip a question if you're not sure, rather than guessing blindly.
+            </div>
+          </div>
+        </div>
+
+        <div className="rounded-xl p-3.5 flex gap-3" style={{ background: 'var(--card)', border: '1px solid var(--border)' }}>
+          <span className="text-xl shrink-0">⏱️</span>
+          <div>
+            <div className="text-sm font-semibold">Timing</div>
+            <div className="text-xs mt-0.5 leading-relaxed" style={{ color: 'var(--text2)' }}>
+              There's no fixed time limit — a stopwatch runs in the header so you can track your
+              pace. Try to finish at a real-exam speed (roughly <b>45–60 seconds</b> per question).
+            </div>
+          </div>
+        </div>
+
+        <div className="rounded-xl p-3.5 flex gap-3" style={{ background: 'var(--card)', border: '1px solid var(--border)' }}>
+          <span className="text-xl shrink-0">📊</span>
+          <div>
+            <div className="text-sm font-semibold">Live mark</div>
+            <div className="text-xs mt-0.5 leading-relaxed" style={{ color: 'var(--text2)' }}>
+              Your running score updates in the header the moment you pick an option, so you always
+              know where you stand.
+            </div>
+          </div>
+        </div>
+
+        <div className="rounded-xl p-3.5 flex gap-3" style={{ background: 'var(--card)', border: '1px solid var(--border)' }}>
+          <span className="text-xl shrink-0">🚫</span>
+          <div>
+            <div className="text-sm font-semibold">Deleted questions</div>
+            <div className="text-xs mt-0.5 leading-relaxed" style={{ color: 'var(--text2)' }}>
+              Questions PSC deleted in the Final Answer Key are shown for reference only and don't
+              count toward your score, positively or negatively.
+            </div>
+          </div>
+        </div>
+
+        <div className="rounded-xl p-3.5 flex gap-3" style={{ background: 'var(--card)', border: '1px solid var(--border)' }}>
+          <span className="text-xl shrink-0">🧭</span>
+          <div>
+            <div className="text-sm font-semibold">Navigation</div>
+            <div className="text-xs mt-0.5 leading-relaxed" style={{ color: 'var(--text2)' }}>
+              Move freely between questions with Previous/Next or the ⊞ question palette, and mark
+              questions for review. Once you pick an option the correct answer is revealed
+              immediately — this is a practice run, not a locked exam.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <button onClick={onBegin}
+        className="w-full text-center py-3 rounded-xl text-sm font-bold cursor-pointer"
+        style={{ background: 'var(--accent)', color: 'var(--accent-text)', border: '2px solid var(--accent)', touchAction: 'manipulation' }}>
+        ✅ I understand, start the exam
+      </button>
+    </div>
+  )
+}
+
 /* ── Exam screen ────────────────────────────────────────────────────── */
 function ExamScreen({ paper, questions, onSubmit }) {
   const total = questions.length
@@ -110,6 +201,7 @@ function ExamScreen({ paper, questions, onSubmit }) {
   const [elapsed, setElapsed] = useState(0)
   const [showPalette, setShowPalette] = useState(false)
   const [confirmSubmit, setConfirmSubmit] = useState(false)
+  const [showConfetti, setShowConfetti] = useState(false)
   const submittedRef = useRef(false)
 
   useEffect(() => {
@@ -134,18 +226,46 @@ function ExamScreen({ paper, questions, onSubmit }) {
   const answered = Object.keys(answers).length
   const revealed = !isDeleted && answers[current] != null
 
+  // Live running mark — recalculated the instant an answer is picked, so the
+  // header score always reflects exactly what's been answered so far.
+  const liveMark = useMemo(() => {
+    let correct = 0, wrong = 0
+    Object.keys(answers).forEach(idx => {
+      const qq = questions[idx]
+      if (!qq || qq.status === 'deleted') return
+      if (answers[idx] === qq.correctAnswer) correct++
+      else wrong++
+    })
+    return { correct, wrong, score: Math.max(0, correct - wrong * NEGATIVE_MARK) }
+  }, [answers, questions])
+
   function select(letter) {
     if (revealed || isDeleted) return
     setAnswers(a => ({ ...a, [current]: letter }))
+    if (letter === q.correctAnswer) {
+      setShowConfetti(true)
+      setTimeout(() => setShowConfetti(false), 1600)
+    }
   }
 
   return (
     <div className="max-w-3xl mx-auto px-4 py-4 pb-28">
-      <div className="flex items-center justify-between mb-3 sticky top-14 z-10 rounded-lg px-3 py-2"
+      <Confetti active={showConfetti} />
+      <div className="mb-3 sticky top-14 z-10 rounded-lg px-3 py-2 flex flex-col gap-1.5"
         style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
-        <span className="text-sm font-semibold truncate" style={{ maxWidth: '42%' }}>{paper.paperCode}</span>
-        <span className="text-xs" style={{ color: 'var(--text2)' }}>{answered}/{total} answered</span>
-        <span className="font-mono font-bold text-sm" style={{ color: 'var(--accent)' }}>{fmtClock(elapsed)}</span>
+        <div className="flex items-center justify-between">
+          <span className="text-sm font-semibold truncate" style={{ maxWidth: '42%' }}>{paper.paperCode}</span>
+          <span className="text-xs" style={{ color: 'var(--text2)' }}>{answered}/{total} answered</span>
+          <span className="font-mono font-bold text-sm" style={{ color: 'var(--accent)' }}>{fmtClock(elapsed)}</span>
+        </div>
+        <div className="flex items-center justify-between text-xs pt-1.5" style={{ borderTop: '1px solid var(--border)' }}>
+          <span style={{ color: 'var(--text2)' }}>📊 Live mark</span>
+          <span className="flex items-center gap-2">
+            <span style={{ color: 'var(--accent-green)' }}>✓ {liveMark.correct}</span>
+            <span style={{ color: '#ef4444' }}>✗ {liveMark.wrong}</span>
+            <span className="font-mono font-bold" style={{ color: 'var(--accent)' }}>{liveMark.score.toFixed(2)}</span>
+          </span>
+        </div>
       </div>
 
       <div className="rounded-xl p-4" style={{ background: 'var(--card)', border: '1px solid var(--border)' }}>
@@ -288,6 +408,7 @@ function ExamScreen({ paper, questions, onSubmit }) {
 /* ── Result screen ──────────────────────────────────────────────────── */
 function ResultScreen({ paper, questions, answers, timeTaken, onRetake, onExit }) {
   const [filter, setFilter] = useState('all')
+  const [showConfetti, setShowConfetti] = useState(false)
 
   const stats = useMemo(() => {
     let correct = 0, wrong = 0, skipped = 0, deleted = 0
@@ -304,6 +425,18 @@ function ResultScreen({ paper, questions, answers, timeTaken, onRetake, onExit }
   }, [questions, answers])
 
   const pct = stats.scored ? Math.round((stats.score / stats.scored) * 100) : 0
+  // Big gold burst for a near-perfect/perfect finish, a normal burst for a
+  // solid pass — same threshold the regular Quiz result screen uses.
+  const confettiTier = pct > 90 ? 'big' : 'normal'
+
+  useEffect(() => {
+    if (pct >= 71) {
+      setShowConfetti(true)
+      const t = setTimeout(() => setShowConfetti(false), 4000)
+      return () => clearTimeout(t)
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
 
   const visible = questions
     .map((q, i) => ({ q, i }))
@@ -315,6 +448,7 @@ function ResultScreen({ paper, questions, answers, timeTaken, onRetake, onExit }
 
   return (
     <div className="max-w-3xl mx-auto px-4 py-6 pb-24">
+      <Confetti active={showConfetti} tier={confettiTier} />
       <div className="rounded-xl p-5 text-center mb-4" style={{ background: 'var(--card)', border: '1px solid var(--border)' }}>
         <div className="text-xs mb-1" style={{ color: 'var(--text2)' }}>{paper.post}</div>
         <div className="font-bold" style={{ fontSize: 40, color: 'var(--accent)' }}>
@@ -399,7 +533,7 @@ function ResultScreen({ paper, questions, answers, timeTaken, onRetake, onExit }
 
 /* ── Page ───────────────────────────────────────────────────────────── */
 export default function FullHundred() {
-  const [stage, setStage] = useState('list')   // list | exam | result
+  const [stage, setStage] = useState('list')   // list | instructions | exam | result
   const [paper, setPaper] = useState(null)
   const [answers, setAnswers] = useState({})
   const [timeTaken, setTimeTaken] = useState(0)
@@ -412,7 +546,15 @@ export default function FullHundred() {
       .sort((a, b) => (a.questionNumber || 0) - (b.questionNumber || 0))
   }, [paper])
 
-  function start(p) {
+  // Clicking "Start" shows the instructions screen first (negative marking,
+  // timing, live mark, etc.) rather than dropping straight into the exam.
+  function chooseFromList(p) {
+    setPaper(p)
+    setStage('instructions')
+    window.scrollTo(0, 0)
+  }
+
+  function beginExam(p) {
     setPaper(p)
     setAnswers({})
     setExamKey(k => k + 1)
@@ -427,6 +569,16 @@ export default function FullHundred() {
     window.scrollTo(0, 0)
   }
 
+  if (stage === 'instructions' && paper) {
+    return (
+      <InstructionsScreen
+        paper={paper}
+        questionCount={questions.length}
+        onBegin={() => beginExam(paper)}
+        onBack={() => { setStage('list'); setPaper(null) }}
+      />
+    )
+  }
   if (stage === 'exam' && paper) {
     return <ExamScreen key={examKey} paper={paper} questions={questions} onSubmit={handleSubmit} />
   }
@@ -437,10 +589,10 @@ export default function FullHundred() {
         questions={questions}
         answers={answers}
         timeTaken={timeTaken}
-        onRetake={() => start(paper)}
+        onRetake={() => beginExam(paper)}
         onExit={() => { setStage('list'); setPaper(null) }}
       />
     )
   }
-  return <PaperList onStart={start} />
+  return <PaperList onStart={chooseFromList} />
 }
