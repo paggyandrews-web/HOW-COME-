@@ -11,5 +11,18 @@
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC) — uploaded 28-07-2026",
     "status": "published"
+  },
+  {
+    "id": "49-2026-M",
+    "paperCode": "49/2026/M",
+    "post": "Attender Gr II /Salesman Gr -II/ Saleswoman Gr II/Store keeper- Main",
+    "categoryCode": "037/2024, 328/2024, 377/2024",
+    "date": "18-May-2026",
+    "medium": "M",
+    "year": "2026",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — uploaded 17-06-2026",
+    "status": "published"
   }
 ]
