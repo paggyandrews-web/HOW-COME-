@@ -1072,5 +1072,14 @@
     "medium": "M",
     "year": "2022",
     "categoryCode": "Treasury Service & KPSC"
+  },
+  {
+    "id": "117-2022-T",
+    "paperCode": "117/2022 T",
+    "post": "Sub Inspector of Police, Women Sub Inspector of Police - Degree Level Main Examination",
+    "date": "22-Nov-2022",
+    "medium": "T",
+    "year": "2022",
+    "categoryCode": "Police"
   }
 ]
