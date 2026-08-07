@@ -25486,5 +25486,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Assertive — ഇത് ഒരു സാധാരണ പ്രസ്താവനയാണ്, ഫുൾ സ്റ്റോപ്പിൽ (.) അവസാനിക്കും. ഇവിടെ ഉദ്ദേശിച്ച '!' ഉള്ളതിനാൽ അല്ല.\n  🪤 PSC Trap: വാക്യത്തിൽ ഒരു വിവരം ഉള്ളതിനാൽ assertive ആണെന്ന് തോന്നിപ്പിക്കും.\n\n• (B) Imperative — കൽപന, ഉപദേശം, അഭ്യർത്ഥന എന്നിവ പറയുന്ന വാക്യമാണ് (ഉദാ: Complete the work). ഇവിടെ കൽപനയില്ല.\n  🪤 PSC Trap: 'completed the verification' എന്ന ഭാഗം കണ്ട് പ്രവൃത്തിയുമായി കൂട്ടിക്കുഴയ്ക്കും.\n\n• (C) Interrogative — ചോദ്യമാണ്, ചോദ്യചിഹ്നത്തിൽ (?) അവസാനിക്കും. ഇവിടെ ചോദ്യമല്ല, ആശ്ചര്യമാണ്.\n  🪤 PSC Trap: 'How' കൊണ്ട് തുടങ്ങുന്നതിനാൽ ചോദ്യമാണെന്ന് തെറ്റിദ്ധരിക്കും — പക്ഷേ ഉദ്ദേശിച്ചത് '!' ആണ്.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: അവസാനത്തെ ചിഹ്നം നോക്കൂ! '!' കണ്ടാൽ Exclamatory ഉറപ്പ്. 'How/What' + '!' = വികാരം.\n• ഒരുമിച്ച് പഠിക്കുക — 4 വാക്യ തരങ്ങൾ: Assertive (.), Interrogative (?), Imperative (കൽപന), Exclamatory (!).\n• PSC strategy: sentence-type ചോദ്യങ്ങളിൽ ആദ്യം അവസാനത്തെ punctuation നോക്കുക — അതാണ് ഏറ്റവും വേഗമുള്ള സൂചന. 🏷️ ഈ ചോദ്യത്തിൽ PSC-യുടെ സ്വന്തം പ്രിന്റ് പിശക് (missing '!') കാരണം ചോദ്യം ഡിലീറ്റ് ചെയ്യപ്പെട്ടിരുന്നു — HOW COME ഇത് തിരിച്ചറിഞ്ഞ് ശരിയാക്കി."
     }
+  },
+  {
+    "id": "119-2022-T-Q81",
+    "paperId": "119-2022-T",
+    "questionNumber": 81,
+    "topic": "Question Tags",
+    "questionText": "Fill in the blanks with proper question tag.\nDon't forget it, ________",
+    "optionA": "do it ?",
+    "optionB": "don't it ?",
+    "optionC": "will you ?",
+    "optionD": "do they ?",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) will you ?\n\n• \"Don't forget it\" എന്നത് ഒരു imperative sentence ആണ് — ആജ്ഞയോ അഭ്യർഥനയോ ആണിത്, ഒരു സാധാരണ statement അല്ല. \"അത് മറക്കല്ലേ\" എന്ന അർഥം.\n• Imperative sentence-ന് subject പുറത്ത് കാണില്ല; ഒളിഞ്ഞിരിക്കുന്ന subject 'you' ആണ്. അതുകൊണ്ട് tag-ലും 'you' തന്നെ വരണം.\n• Imperative-ന്റെ tag എപ്പോഴും will you? ആണ് — sentence positive ആയാലും negative ആയാലും മാറ്റമില്ല. അതാണ് ഈ ചോദ്യത്തിന്റെ ആകെ കാര്യം.\n• \"Don't forget it, will you?\" = \"അത് മറക്കല്ലേ, ശരിയല്ലേ?\" എന്ന സ്നേഹത്തോടെയുള്ള ഓർമപ്പെടുത്തൽ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Imperative sentence കണ്ടാൽ tag = will you? — വേറൊന്നും ആലോചിക്കേണ്ട!\n• സാധാരണ question tag-ന്റെ നിയമം: positive statement → negative tag, negative statement → positive tag. പക്ഷേ imperative-ന് ഈ നിയമം ബാധകമല്ല.\n• Imperative family മുഴുവൻ ഒരുമിച്ച് പഠിക്കുക:\n• Order / request (Do... / Don't...) → will you? / won't you?\n• 'Let us' കൊണ്ട് തുടങ്ങിയാൽ → shall we?\n• 'Let me / Let him' കൊണ്ട് തുടങ്ങിയാൽ → will you?\n• ⭐ PSC ആവർത്തനം: Question Tags PSC-യുടെ ഏറ്റവും പ്രിയപ്പെട്ട topic-കളിൽ ഒന്നാണ്. അതിൽത്തന്നെ imperative tag-ഉം 'Let us → shall we' ഉം ഏതാണ്ട് എല്ലാ വർഷവും വരുന്നു.\n• ഉദാഹരണ sentences:\n1. Close the door, will you? (ആജ്ഞ → will you)\n2. Don't be late, will you? (negative ആജ്ഞ ആണെങ്കിലും will you തന്നെ)\n3. Let us go home, shall we? ('Let us' → shall we മാത്രം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) do it ? — ഇത് ഒരു tag-ന്റെ രൂപം പോലുമല്ല. Tag എന്നാൽ auxiliary verb + pronoun മാത്രം; അതിൽ object ('it') ഒരിക്കലും വരില്ല.\n• 🪤 PSC Trap: sentence-ൽ 'it' ഉള്ളതുകൊണ്ട് tag-ലും 'it' വേണമെന്ന് തോന്നിപ്പിക്കാനുള്ള കെണിയാണിത്.\n\n• (B) don't it ? — വ്യാകരണപരമായി ഇങ്ങനെ ഒരു രൂപം ഇംഗ്ലീഷിൽ ഇല്ല. 'Don't' എന്നത് 'do not' ആണ്; അതിനൊപ്പം 'it' ചേർത്താൽ \"doesn't it\" എന്നേ ആകൂ.\n• 🪤 PSC Trap: negative sentence കണ്ടാൽ negative tag വേണമെന്ന ശീലം മുതലെടുക്കുന്ന option ആണിത്.\n\n• (D) do they ? — 'They' എന്ന pronoun ഈ വാക്യത്തിൽ ആരെയും സൂചിപ്പിക്കുന്നില്ല. ഇവിടെ സംസാരിക്കുന്നത് കേൾക്കുന്ന ആളോട് നേരിട്ടാണ്, അതായത് 'you'.\n• 🪤 PSC Trap: subject കാണാതെ വരുമ്പോൾ ഏതെങ്കിലും pronoun തിരഞ്ഞെടുക്കാൻ പ്രേരിപ്പിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ആജ്ഞ കണ്ടാൽ will you — ഒരു തർക്കവുമില്ല!\" Sentence-ന് subject ഇല്ലാതെ verb-ൽ നേരിട്ട് തുടങ്ങുന്നു എന്ന് കണ്ടാൽ ഉടനെ will you? എഴുതി അടുത്ത ചോദ്യത്തിലേക്ക് പോകാം.\n• ഒരുമിച്ച് ഓർക്കേണ്ട tag family: Imperative → will you | Let us → shall we | I am → aren't I | Nobody/Everyone → they | Nothing → it | This/That → it.\n• PSC strategy: Question tag ചോദ്യം കിട്ടിയാൽ ആദ്യം subject തിരയുക. Subject കണ്ടില്ലെങ്കിൽ അത് imperative ആണ് → will you. ഇത് ഓർത്തിരുന്നാൽ ഈ mark ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "119-2022-T-Q82",
+    "paperId": "119-2022-T",
+    "questionNumber": 82,
+    "topic": "Infinitive and Gerunds",
+    "questionText": "Fill up using the appropriate verbal form from the following choices.\nHe is renovating his house with a view to __________ it.",
+    "optionA": "sell",
+    "optionB": "selling",
+    "optionC": "sold",
+    "optionD": "sells",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) selling\n\n• 'With a view to' എന്നത് ഒരു fixed phrase ആണ് — \"…ഉദ്ദേശിച്ചുകൊണ്ട്\", \"…ലക്ഷ്യമിട്ട്\" എന്നർഥം.\n• ഇവിടത്തെ 'to' എന്നത് infinitive-ന്റെ 'to' അല്ല, മറിച്ച് ഒരു preposition ആണ്. അതാണ് ഈ ചോദ്യത്തിന്റെ ഹൃദയം.\n• Preposition-ന് ശേഷം എപ്പോഴും noun അല്ലെങ്കിൽ gerund (verb + ing) ആണ് വരിക. അതുകൊണ്ട് 'sell' അല്ല, 'selling' ആണ് ശരി.\n• വാക്യത്തിന്റെ അർഥം: \"വിൽക്കാൻ ഉദ്ദേശിച്ചുകൊണ്ടാണ് അയാൾ വീട് നവീകരിക്കുന്നത്.\"",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'to' ഒരു preposition ആണെങ്കിൽ പിന്നാലെ verb-ന്റെ -ing രൂപം; 'to' ഒരു infinitive അടയാളമാണെങ്കിൽ verb-ന്റെ ഒന്നാം രൂപം.\n• ഈ വ്യത്യാസം തിരിച്ചറിയാൻ ഒരു എളുപ്പവഴിയുണ്ട് — 'to' കഴിഞ്ഞ് ഒരു noun ചേർത്ത് വായിച്ചുനോക്കുക. അർഥം ശരിയായി വരുന്നുണ്ടെങ്കിൽ ആ 'to' preposition ആണ്, അപ്പോൾ verb വന്നാൽ നിർബന്ധമായും -ing വേണം.\n• 'To' കഴിഞ്ഞ് -ing മാത്രം വരുന്ന പദപ്രയോഗങ്ങൾ ഒരുമിച്ച് മനഃപാഠമാക്കുക — ഇവയാണ് PSC-യുടെ സ്ഥിരം കെണികൾ:\n• with a view to (ഉദ്ദേശിച്ചുകൊണ്ട്), look forward to (കാത്തിരിക്കുക), be used to (ശീലമായിരിക്കുക), accustomed to (പരിചിതമായ), object to (എതിർക്കുക), addicted to (അടിമയായ), prone to (സാധ്യതയുള്ള), owing to (കാരണത്താൽ), in addition to (കൂടാതെ), prior to (മുമ്പ്).\n• ഇവിടെ ഒരു കാര്യം പ്രത്യേകം ശ്രദ്ധിക്കണം: ശീലത്തെ സൂചിപ്പിക്കുന്ന 'be used to'-യും പഴയ ശീലം പറയുന്ന 'used to'-യും വ്യത്യസ്തമാണ്. ആദ്യത്തേതിന് ശേഷം -ing വരും, രണ്ടാമത്തേതിന് ശേഷം verb-ന്റെ ഒന്നാം രൂപവും.\n• ⭐ PSC ആവർത്തനം: മുകളിലെ പട്ടികയിലെ ആദ്യ മൂന്നെണ്ണം PSC ഏറ്റവുമധികം ചോദിക്കുന്ന gerund കെണികളാണ്; ഏതാണ്ട് എല്ലാ വർഷവും ഇവയിലൊന്ന് വരുന്നുണ്ട്.\n• ഉദാഹരണ sentences:\n1. I am looking forward to meeting you. (ഇവിടെ meet അല്ല, meeting ആണ് ശരി)\n2. She is used to waking up early. (നേരത്തേ ഉണരുന്നത് അവളുടെ ശീലമാണ് എന്നർഥം)\n3. He saved money with a view to buying a car. (കാർ വാങ്ങാൻ ഉദ്ദേശിച്ചുകൊണ്ട് പണം സ്വരൂപിച്ചു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) sell — ഇത് bare infinitive ആണ്. 'to sell' എന്ന infinitive ശരിയാകുന്നത് 'in order to sell' പോലെ എഴുതുമ്പോൾ മാത്രം. 'with a view to' എന്ന phrase-ൽ 'to' preposition ആയതിനാൽ ഇവിടെ പറ്റില്ല.\n• 🪤 PSC Trap: 'to' കണ്ടാലുടൻ V1 എഴുതുന്ന ശീലമാണ് ഈ option-ന്റെ ഇര. ഏറ്റവുമധികം പേർ വീഴുന്ന കെണിയും ഇതുതന്നെ.\n\n• (C) sold — past participle രൂപം. ഇത് passive voice-ലോ perfect tense-ലോ മാത്രമേ വരൂ. ഇവിടെ ആ ഘടനയില്ല.\n• 🪤 PSC Trap: 'house' എന്ന വസ്തുവിനോട് ചേർത്ത് passive ആയി ചിന്തിപ്പിക്കാനുള്ള ശ്രമം.\n\n• (D) sells — ഇത് finite verb ആണ്, subject-നോട് ചേരേണ്ടത്. Preposition-ന് ശേഷം finite verb ഒരിക്കലും വരില്ല.\n• 🪤 PSC Trap: 'He' എന്ന singular subject കണ്ട് -s ചേർക്കണമെന്ന് തോന്നിപ്പിക്കുന്നു; പക്ഷേ ഈ verb-ന്റെ subject 'He' അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"View-ന് ശേഷം ING-ന്റെ കാഴ്ച!\" — with a VIEW to + verbING എന്ന് താളത്തിൽ ഉരുവിട്ടാൽ മതി.\n• ഒരുമിച്ച് പഠിക്കേണ്ട family: look forward to + ing | used to (ശീലം) + ing | with a view to + ing | object to + ing | addicted to + ing. ഇവ അഞ്ചും ഒരു കൂട്ടമായി ഓർക്കുക.\n• PSC strategy: വാക്യത്തിൽ 'to' കണ്ടാൽ ഉടനെ ഉത്തരം എഴുതരുത്. ആദ്യം ചോദിക്കുക — ഈ 'to' ഒരു phrase-ന്റെ ഭാഗമാണോ? ആണെങ്കിൽ -ing. അല്ലെങ്കിൽ V1. ഈ ഒരു ചോദ്യം സ്വയം ചോദിച്ചാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "119-2022-T-Q83",
+    "paperId": "119-2022-T",
+    "questionNumber": 83,
+    "topic": "Articles",
+    "questionText": "Choose the correct answer :\nI don't even know what __________ Ouija board is.",
+    "optionA": "an",
+    "optionB": "a",
+    "optionC": "the",
+    "optionD": "some",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) a\n\n• Article തീരുമാനിക്കുന്നത് അക്ഷരമല്ല, ശബ്ദമാണ് — sound, not letter!\n• 'Ouija' എഴുതുന്നത് 'O' എന്ന vowel letter-ൽ ആണെങ്കിലും ഉച്ചാരണം 'വീജ' (wee-ja) എന്നാണ്. അതായത് 'w' എന്ന consonant sound-ൽ ആണ് തുടങ്ങുന്നത് → 'a Ouija board'.\n• ഇവിടെ ഏതെങ്കിലും ഒരു പ്രത്യേക board-നെക്കുറിച്ചല്ല പറയുന്നത്, മറിച്ച് ആ സാധനം എന്താണെന്ന പൊതുവായ അറിവിനെക്കുറിച്ചാണ്. അതുകൊണ്ട് indefinite article തന്നെ വേണം.\n• വാക്യത്തിന്റെ അർഥം: \"Ouija board എന്താണെന്നുപോലും എനിക്കറിയില്ല.\"",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ചെവി കൊണ്ട് കേൾക്കുക, കണ്ണ് കൊണ്ട് നോക്കരുത് — a/an തീരുമാനിക്കുന്നത് SOUND ആണ്!\n• Vowel letter + consonant sound → a: a European, a university, a one-rupee note, a useful book, a Ouija board.\n• Consonant letter + vowel sound → an: an hour, an honest man, an M.L.A., an M.P., an heir.\n• 'What a / what an' എന്ന ഘടനയിൽ singular countable noun-ന് മുമ്പ് article നിർബന്ധമാണ്; ഇവിടെ 'board' singular countable ആണ്.\n• Etymology hint: 'Ouija' എന്ന വാക്ക് ഫ്രഞ്ചിലെ 'oui' (അതെ) + ജർമനിലെ 'ja' (അതെ) എന്നിവ ചേർന്നുണ്ടായതാണ് — 'അതെ-അതെ പലക'. ഉച്ചാരണം 'വീ-ജ' എന്നായത് ഈ ഫ്രഞ്ച് വേരിൽ നിന്നാണ്.\n• ⭐ PSC ആവർത്തനം: a European, an hour, a university, a one-eyed man — ഈ നാലെണ്ണം PSC മാറിമാറി ചോദിച്ചുകൊണ്ടേയിരിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. She studies in a university. ('യൂ' എന്ന consonant sound → a)\n2. He waited for an hour. (h നിശ്ശബ്ദം, 'ഔ' എന്ന vowel sound → an)\n3. That is a one-way street. ('വൺ' എന്ന w sound → a)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) an — 'O' എന്ന vowel letter കണ്ട് 'an' ഇടുന്നതാണ് ഇവിടത്തെ ഏറ്റവും വലിയ കെണി. ഉച്ചാരണം 'വീജ' ആയതിനാൽ 'an' പറ്റില്ല.\n• 🪤 PSC Trap: അക്ഷരം നോക്കി ഉത്തരമെഴുതുന്നവരെ വീഴ്ത്താൻ വേണ്ടിത്തന്നെ ഉണ്ടാക്കിയ option.\n\n• (C) the — 'The' ഉപയോഗിക്കുന്നത് സംസാരിക്കുന്ന രണ്ടുപേർക്കും അറിയാവുന്ന പ്രത്യേക വസ്തുവിനെ ചൂണ്ടിക്കാട്ടുമ്പോൾ. ഇവിടെ പറയുന്നയാൾക്ക് ആ സാധനം എന്താണെന്നുപോലും അറിയില്ല!\n• 🪤 PSC Trap: 'board' എന്ന നിശ്ചിത വസ്തു കണ്ട് definite article തോന്നിപ്പിക്കുന്നു.\n\n• (D) some — 'Some' സാധാരണയായി plural noun-നോടോ uncountable noun-നോടോ ചേരും. 'Board' എന്നത് singular countable ആയതിനാൽ ഇവിടെ യോജിക്കില്ല.\n• 🪤 PSC Trap: അനിശ്ചിതത്വം ('എന്തോ ഒരു board') എന്ന അർഥം ശരിയാണെന്ന് തോന്നിപ്പിക്കുന്നു, പക്ഷേ വ്യാകരണം അനുവദിക്കുന്നില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: വാക്ക് ഉറക്കെ പറഞ്ഞുനോക്കൂ! 'Ouija' എന്നത് 'വീജ' എന്നാണ് കേൾക്കുന്നത് — 'വ' എന്ന ശബ്ദം കേട്ടാൽ 'a' ഉറപ്പ്. ചെവിയാണ് ഇവിടെ ഗുരു, കണ്ണല്ല.\n• ഒരുമിച്ച് ഓർക്കേണ്ട വാക്കുകൾ: 'a' എടുക്കുന്നവ → a European, a university, a uniform, a useful thing, a one-eyed man, a Ouija board | 'an' എടുക്കുന്നവ → an hour, an honest man, an heir, an M.L.A.\n• PSC strategy: Article ചോദ്യം കണ്ടാൽ ആ വാക്ക് മനസ്സിൽ ഉച്ചരിക്കുക, ആദ്യ ശബ്ദം സ്വരമോ വ്യഞ്ജനമോ എന്ന് ചെവിയോട് ചോദിക്കുക. ഇത് ശീലമാക്കിയാൽ ഈ topic-ൽ ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "119-2022-T-Q84",
+    "paperId": "119-2022-T",
+    "questionNumber": 84,
+    "topic": "Singular and Plural",
+    "questionText": "Which out of the following words is a countable noun ?",
+    "optionA": "footwear",
+    "optionB": "scenery",
+    "optionC": "fun",
+    "optionD": "poem",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) poem\n\n• 'Poem' എന്നാൽ ഒരു കവിത. ഇത് എണ്ണാൻ കഴിയുന്ന ഒരു വസ്തുവാണ് — one poem, two poems, many poems എന്നെല്ലാം പറയാം.\n• Countable noun-ന്റെ പരീക്ഷണം വളരെ ലളിതമാണ്: ആ വാക്കിന് മുന്നിൽ 'a/an' ഇടാൻ പറ്റുമോ? plural രൂപം ഉണ്ടോ? 'a poem', 'poems' — രണ്ടും ശരി. അതുകൊണ്ട് ഇത് countable ആണ്.\n• ബാക്കി മൂന്ന് options-ഉം uncountable ആണ്; അവയ്ക്ക് 'a' ചേർക്കാനോ -s ഇടാനോ കഴിയില്ല.\n• ശ്രദ്ധിക്കുക: 'poetry' എന്നത് uncountable ആണ്, പക്ഷേ 'poem' countable — ഈ ജോഡി PSC-ക്ക് വളരെ ഇഷ്ടമാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'a' ചേർക്കാൻ പറ്റുന്നുണ്ടോ? 's' ഇടാൻ പറ്റുന്നുണ്ടോ? — രണ്ടിനും ഉത്തരം അതെ എങ്കിൽ countable.\n• PSC ചോദിക്കുന്ന പ്രധാന uncountable nouns ഒരുമിച്ച് പഠിക്കുക:\n• കൂട്ടത്തെ സൂചിപ്പിക്കുന്നവ: footwear, furniture, luggage, baggage, machinery, stationery, jewellery, crockery, poultry.\n• അമൂർത്തമായവ: fun, advice, information, news, progress, evidence, knowledge, permission, behaviour.\n• കാഴ്ചയും പ്രകൃതിയും: scenery, weather, traffic, music, poetry.\n• ഇവയെ എണ്ണണമെങ്കിൽ ഒരു 'അളവ് വാക്ക്' വേണം: a piece of advice, an item of furniture, a pair of footwear.\n• ⭐ PSC ആവർത്തനം: furniture, information, advice, luggage, scenery — ഈ അഞ്ചെണ്ണം error-spotting ചോദ്യങ്ങളിൽ സ്ഥിരം സാന്നിധ്യമാണ്.\n• ഉദാഹരണ sentences:\n1. He wrote three poems last week. (countable → plural ശരി)\n2. The scenery here is beautiful. (sceneries എന്ന് പറയരുത്)\n3. She gave me a piece of advice. (advices എന്ന് ഒരിക്കലും പറയരുത്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) footwear — ചെരിപ്പ്, ഷൂ തുടങ്ങി കാലിൽ ധരിക്കുന്നവയെ മൊത്തത്തിൽ സൂചിപ്പിക്കുന്ന collective uncountable noun. 'footwears' എന്ന രൂപം ഇംഗ്ലീഷിൽ ഇല്ല.\n• 🪤 PSC Trap: '-wear' കൊണ്ട് അവസാനിക്കുന്ന വാക്കുകൾ (footwear, underwear, sportswear) എല്ലാം uncountable ആണ് — ഇത് അറിയാത്തവരെ വീഴ്ത്താനുള്ള option.\n\n• (B) scenery — പ്രകൃതിദൃശ്യം എന്ന അർഥം. ഇത് uncountable ആണ്; ഒരു പ്രത്യേക കാഴ്ചയെക്കുറിച്ച് പറയാൻ 'a scene' എന്ന countable വാക്കാണ് ഉപയോഗിക്കേണ്ടത്.\n• 🪤 PSC Trap: 'scene' countable ആയതുകൊണ്ട് 'scenery'-യും അങ്ങനെയാകുമെന്ന് തെറ്റിദ്ധരിപ്പിക്കുന്നു.\n\n• (C) fun — സന്തോഷം, രസം എന്ന അമൂർത്ത ആശയം. അമൂർത്തമായ വികാരങ്ങൾ എണ്ണാൻ കഴിയില്ല. 'a fun' എന്ന് പറയില്ല, 'much fun' എന്നേ പറയൂ.\n• 🪤 PSC Trap: 'a funny incident' പോലെ ഉപയോഗിക്കുന്നത് കണ്ട് 'fun' countable ആണെന്ന് തോന്നിപ്പിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"രണ്ടെണ്ണം എടുക്കാമോ?\" എന്ന് സ്വയം ചോദിക്കുക. 'രണ്ട് കവിത' പറയാം → countable. 'രണ്ട് രസം', 'രണ്ട് കാഴ്ചവട്ടം' പറയാൻ പറ്റുന്നില്ല → uncountable. മലയാളത്തിൽ എണ്ണിനോക്കിയാൽ ഉത്തരം തെളിയും.\n• ഒരുമിച്ച് പഠിക്കേണ്ട ജോഡികൾ (uncountable ↔ countable): poetry ↔ poem | scenery ↔ scene | luggage ↔ bag | furniture ↔ chair/table | machinery ↔ machine | jewellery ↔ ornament.\n• PSC strategy: ഈ topic-ൽ ഒരു option-ന്റെ അവസാനം -ery, -age, -ware, -wear കണ്ടാൽ ഏതാണ്ട് ഉറപ്പായും അത് uncountable ആയിരിക്കും. ആ option ആദ്യമേ വെട്ടിക്കളയാം — ഉത്തരം പെട്ടെന്ന് കിട്ടും!"
+    }
+  },
+  {
+    "id": "119-2022-T-Q85",
+    "paperId": "119-2022-T",
+    "questionNumber": 85,
+    "topic": "Types of Sentences",
+    "questionText": "Which of the following is a complex sentence ?",
+    "optionA": "The box is too heavy to carry",
+    "optionB": "The box is very heavy and hence he cannot carry it",
+    "optionC": "The box is so heavy that he cannot carry",
+    "optionD": "The box is very heavy",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) The box is so heavy that he cannot carry\n\n• Complex sentence എന്നാൽ ഒരു main clause-ഉം ഒന്നോ അതിലധികമോ subordinate clause-ഉം ചേർന്ന വാക്യമാണ്.\n• ഇവിടെ 'The box is so heavy' എന്നത് main clause; 'that he cannot carry' എന്നത് subordinate clause. ഇവയെ ബന്ധിപ്പിക്കുന്നത് 'that' എന്ന subordinating conjunction ആണ്.\n• 'So… that' എന്ന ഘടന എപ്പോഴും complex sentence ഉണ്ടാക്കുന്നു — ഇത് ഒരു ഉറപ്പുള്ള അടയാളമാണ്.\n• അർഥം: \"പെട്ടിക്ക് വളരെ ഭാരമുള്ളതിനാൽ അയാൾക്ക് അത് ചുമക്കാൻ കഴിയുന്നില്ല.\" — ഒരു കാരണവും ഫലവും ചേർന്ന വാക്യം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: വാക്യത്തിലെ finite verb-കൾ എണ്ണുക, പിന്നെ അവയെ ചേർത്തുവെച്ച conjunction ഏതെന്ന് നോക്കുക — ഉത്തരം അവിടെയുണ്ട്.\n• Simple sentence എന്നാൽ ഒരൊറ്റ finite verb-ഉം ഒരൊറ്റ ആശയവും മാത്രമുള്ള വാക്യം. അതിനെ പിരിച്ചെടുക്കാൻ കഴിയില്ല.\n• Compound sentence എന്നാൽ തുല്യപ്രാധാന്യമുള്ള രണ്ട് വാക്യങ്ങൾ ചേർത്തുവെച്ചത്. ഇവയെ ബന്ധിപ്പിക്കുന്നത് and, but, or, so, for, nor, yet എന്നിവയോ hence, therefore എന്നിവയോ ആണ്. രണ്ട് ഭാഗവും ഒറ്റയ്ക്ക് നിന്നാലും അർഥം പൂർണമാകും.\n• Complex sentence എന്നാൽ ഒരു പ്രധാന ആശയവും അതിനെ ആശ്രയിച്ചുനിൽക്കുന്ന മറ്റൊരു ആശയവും ചേർന്നത്. ആശ്രിത ഭാഗം ഒറ്റയ്ക്ക് നിന്നാൽ അർഥം പൂർണമാകില്ല — അതാണ് ഏറ്റവും വലിയ അടയാളം.\n• ആശ്രിത ഭാഗത്തെ ബന്ധിപ്പിക്കുന്ന വാക്കുകൾ ഇവയാണ്: that (എന്ന്), because (എന്തുകൊണ്ടെന്നാൽ), although (എങ്കിലും), if (എങ്കിൽ), unless (അല്ലാതെ), when (എപ്പോൾ), while (അതേസമയം), since (മുതൽ), until (വരെ), so…that (അത്രയ്ക്ക്…അതിനാൽ).\n• ⭐ PSC ആവർത്തനം: ഒരേ ആശയം മൂന്ന് ഘടനയിൽ എഴുതുന്ന transformation ചോദ്യങ്ങൾ PSC സ്ഥിരമായി ചോദിക്കുന്നു. 'so…that' എപ്പോഴും complex ആണ്, 'too…to' എപ്പോഴും simple ആണ്, 'and/but/so' എപ്പോഴും compound ആണ് — ഇത് ഉറപ്പിച്ച് ഓർക്കുക.\n• ഉദാഹരണ sentences:\n1. He is so poor that he cannot buy a book. (ആശ്രിത ഭാഗം ഉള്ളതിനാൽ complex)\n2. He is too poor to buy a book. (finite verb ഒന്ന് മാത്രം, അതിനാൽ simple)\n3. He is very poor and hence he cannot buy a book. (തുല്യമായ രണ്ട് ഭാഗം, അതിനാൽ compound)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) The box is too heavy to carry — ഇത് simple sentence ആണ്. 'To carry' എന്നത് ഒരു infinitive മാത്രമാണ്, finite verb അല്ല. Clause ആകണമെങ്കിൽ subject-ഉം finite verb-ഉം വേണം.\n• 🪤 PSC Trap: 'too…to' ഘടനയ്ക്ക് 'so…that'-ന്റെ അതേ അർഥമായതിനാൽ ഘടനയും ഒന്നാണെന്ന് തോന്നിപ്പിക്കുന്നു. അർഥം ഒന്ന്, ഘടന വേറെ!\n\n• (B) The box is very heavy and hence he cannot carry it — ഇത് compound sentence ആണ്. 'And' ഒരു coordinating conjunction ആയതിനാൽ രണ്ട് main clause-കളെ തുല്യപ്രാധാന്യത്തോടെ ചേർക്കുന്നു.\n• 🪤 PSC Trap: ഏറ്റവും നീളമുള്ള option ആയതിനാൽ ഏറ്റവും 'complex' ആണെന്ന് തോന്നിപ്പിക്കുന്നു. നീളമല്ല, ഘടനയാണ് പ്രധാനം.\n\n• (D) The box is very heavy — ഒരൊറ്റ subject-ഉം ഒരൊറ്റ verb-ഉം മാത്രം. ഇത് ഏറ്റവും വ്യക്തമായ simple sentence ആണ്.\n• 🪤 PSC Trap: ഈ option വളരെ എളുപ്പം ഒഴിവാക്കാവുന്നതാണ് — ധൃതിയിൽ വായിക്കുന്നവർക്കുള്ള കെണി മാത്രം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"വാക്കുകൾ എണ്ണരുത്, clause എണ്ണുക!\" — വാക്യത്തിന്റെ നീളം നോക്കി വഞ്ചിതരാകരുത്. ഒരു ചെറിയ വാക്യം complex ആകാം, ഒരു നീണ്ട വാക്യം simple ആകാം. നോക്കേണ്ടത് എത്ര finite verb ഉണ്ട്, അവയെ ഏത് വാക്കാണ് ചേർത്തുവെച്ചത് എന്നതാണ്.\n• ഇങ്ങനെ ഒരു ചിത്രം മനസ്സിൽ വരയ്ക്കുക: compound എന്നാൽ ഒരേ ഉയരമുള്ള രണ്ട് സഹോദരന്മാർ കൈകോർത്ത് നിൽക്കുന്നു; complex എന്നാൽ ഒരു അമ്മയും അവരുടെ കൈപിടിച്ചുനിൽക്കുന്ന കുഞ്ഞും. കുഞ്ഞിന് ഒറ്റയ്ക്ക് നിൽക്കാനാവില്ല — അതാണ് subordinate clause.\n• ഒരുമിച്ച് പഠിക്കേണ്ട വാക്കുകൾ: കൂട്ടിച്ചേർക്കുന്നവ (compound) → and, but, or, so, yet, hence | ആശ്രയിപ്പിക്കുന്നവ (complex) → that, because, since, although, unless, until, while.\n• PSC strategy: ഈ ചോദ്യം കണ്ടാൽ ഓരോ option-ലും 'that', 'because', 'although', 'if', 'when' എന്നിവയിലേതെങ്കിലും ഉണ്ടോ എന്ന് മാത്രം നോക്കുക. ഉള്ളത് ഏതോ അതാണ് complex sentence. ഈ ഒരൊറ്റ നോട്ടത്തിൽ ഉത്തരം കിട്ടും — ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "119-2022-T-Q86",
+    "paperId": "119-2022-T",
+    "questionNumber": 86,
+    "topic": "One Word Substitutes",
+    "questionText": "Inebriate means",
+    "optionA": "One who pretends to be what he is not",
+    "optionB": "A drunken person",
+    "optionC": "One who lives at the expense of the society",
+    "optionD": "A person who has no self control",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) A drunken person\n\n• 'Inebriate' എന്നാൽ മദ്യപിച്ച് ലഹരിയിലായ വ്യക്തി — മലയാളത്തിൽ 'മദ്യപൻ', 'ലഹരിയിലായവൻ'.\n• Noun ആയി ഉപയോഗിക്കുമ്പോൾ 'ഒരു കുടിയൻ' എന്നും verb ആയി ഉപയോഗിക്കുമ്പോൾ 'ലഹരി പിടിപ്പിക്കുക' എന്നും അർഥം.\n• Etymology hint: ലാറ്റിൻ 'ebrius' എന്നാൽ 'മദ്യപിച്ച'. അതിനോട് 'in-' (ഉള്ളിലേക്ക്, ശക്തിപ്പെടുത്തൽ) ചേർന്നാണ് inebriate ഉണ്ടായത്. ഇതേ വേരിൽ നിന്നുതന്നെയാണ് 'ebriety' (മദ്യലഹരി), 'sober' എന്നതിന്റെ വിപരീതമായ പദങ്ങളും വരുന്നത്.\n• ഈ വാക്കിന്റെ വിപരീതം 'sobriety' — ലഹരിയില്ലാത്ത, സ്വബോധത്തിലുള്ള അവസ്ഥ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'ebri' എന്ന വേര് കണ്ടാൽ ഓർക്കുക — അത് മദ്യവുമായി ബന്ധപ്പെട്ടതാണ്.\n• One word substitutes പഠിക്കാൻ ഏറ്റവും നല്ല വഴി വാക്കിന്റെ വേര് (root) മനസ്സിലാക്കുകയാണ്; അപ്പോൾ കാണാതെ പഠിക്കേണ്ടിവരില്ല.\n• ഈ ചോദ്യത്തിലെ options-ന്റെ ശരിയായ വാക്കുകൾ ഒരുമിച്ച് പഠിക്കുക — PSC ഇവ പരസ്പരം മാറ്റി ചോദിക്കാറുണ്ട്:\n• Inebriate → മദ്യപൻ | Hypocrite → കപടനാട്യക്കാരൻ | Parasite → പരാദജീവി, മറ്റുള്ളവരുടെ ചെലവിൽ ജീവിക്കുന്നവൻ | Incontinent → ആത്മനിയന്ത്രണമില്ലാത്തവൻ.\n• മദ്യവുമായി ബന്ധപ്പെട്ട PSC പദകുടുംബം: Teetotaller (മദ്യം തൊടാത്തവൻ) | Bibulous (അമിതമായി കുടിക്കുന്ന) | Sober (ലഹരിയില്ലാത്ത) | Intoxicated (ലഹരി പിടിച്ച).\n• ⭐ PSC ആവർത്തനം: 'Teetotaller' ഉം 'Inebriate' ഉം ഒരുമിച്ചാണ് PSC പലപ്പോഴും ചോദിക്കുന്നത് — ഒന്ന് വിപരീതം, മറ്റേത് പര്യായം.\n• ഉദാഹരണ sentences:\n1. The inebriate man could not walk straight.\n2. He is a teetotaller and never touches alcohol.\n3. Wine inebriates those who drink too much of it.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) One who pretends to be what he is not — ഇതിന്റെ ശരിയായ വാക്ക് 'Hypocrite' ആണ്, അതായത് കപടനാട്യക്കാരൻ. ഗ്രീക്കിലെ 'hypokrites' (നടൻ) എന്ന വാക്കിൽ നിന്നാണിത്.\n• 🪤 PSC Trap: 'Inebriate' എന്ന വാക്കിന്റെ ശബ്ദം അപരിചിതമായതിനാൽ ഏറ്റവും പരിചിതമായ നിർവചനത്തിലേക്ക് ചായാൻ പ്രേരിപ്പിക്കുന്നു.\n\n• (C) One who lives at the expense of the society — ഇതിന്റെ ശരിയായ വാക്ക് 'Parasite' ആണ്. സ്വന്തമായി അധ്വാനിക്കാതെ മറ്റുള്ളവരുടെ ചെലവിൽ ജീവിക്കുന്നവൻ.\n• 🪤 PSC Trap: മദ്യപാനിയും സമൂഹത്തിന് ഭാരമാണ് എന്ന ധാരണ മുതലെടുത്ത് ആശയക്കുഴപ്പം ഉണ്ടാക്കുന്നു.\n\n• (D) A person who has no self control — ഇതിന്റെ ശരിയായ വാക്ക് 'Incontinent' ആണ്. ആത്മസംയമനം ഇല്ലാത്ത വ്യക്തി.\n• 🪤 PSC Trap: ഇതാണ് ഏറ്റവും അപകടകരമായ option! മദ്യപിച്ചാൽ നിയന്ത്രണം നഷ്ടപ്പെടുമല്ലോ എന്ന യുക്തിയിൽ പലരും ഇത് തിരഞ്ഞെടുക്കും. പക്ഷേ 'inebriate' സൂചിപ്പിക്കുന്നത് മദ്യപാനത്തെ മാത്രമാണ്, പൊതുവായ നിയന്ത്രണക്കുറവിനെയല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'InEBRIate'-ൽ ഒളിഞ്ഞിരിക്കുന്ന 'EBRI' എന്നത് 'ബിയർ' (BEER) ആയി സങ്കൽപ്പിക്കുക — \"ഇൻ-ബിയർ-ഏറ്റ്\" = ബിയർ ഉള്ളിൽ ചെന്നവൻ! ഒരിക്കൽ ഈ ചിത്രം മനസ്സിൽ പതിഞ്ഞാൽ പിന്നെ മറക്കില്ല.\n• ഒരുമിച്ച് പഠിക്കേണ്ട 'വ്യക്തിയെ വിശേഷിപ്പിക്കുന്ന' പദകുടുംബം: Inebriate, Teetotaller, Hypocrite, Parasite, Misanthrope (മനുഷ്യവിദ്വേഷി), Philanthropist (മനുഷ്യസ്നേഹി), Egotist (സ്വയം പുകഴ്ത്തുന്നവൻ), Altruist (പരോപകാരി).\n• PSC strategy: One word substitute ചോദ്യത്തിൽ വാക്ക് അറിയില്ലെങ്കിൽ വേര് പിരിച്ചെടുക്കുക. ലാറ്റിൻ-ഗ്രീക്ക് വേരുകൾ അറിഞ്ഞാൽ കാണാത്ത വാക്കിന്റെപോലും അർഥം ഊഹിക്കാം. ഇത് ഓർത്തിരുന്നാൽ ഈ topic-ൽ നിന്ന് ഉറപ്പായ mark കിട്ടും!"
+    }
+  },
+  {
+    "id": "119-2022-T-Q87",
+    "paperId": "119-2022-T",
+    "questionNumber": 87,
+    "topic": "Foreign Words and Phrases",
+    "questionText": "__Sine qua non__ the foreign phrase means",
+    "optionA": "prerequisite",
+    "optionB": "sincerely",
+    "optionC": "indefinitely",
+    "optionD": "non-refundable",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) prerequisite\n\n• 'Sine qua non' എന്നത് ഒരു ലാറ്റിൻ പദപ്രയോഗമാണ് — അത് ഇല്ലാതെ കാര്യം നടക്കില്ല എന്ന അർഥത്തിൽ 'അത്യന്താപേക്ഷിതമായ ഘടകം', 'ഒഴിച്ചുകൂടാനാവാത്ത നിബന്ധന'.\n• Etymology hint: ലാറ്റിനിൽ 'sine' = ഇല്ലാതെ, 'qua' = ഏത്, 'non' = അല്ല. അക്ഷരാർഥത്തിൽ \"അതില്ലാതെ ഇല്ല\" എന്ന്.\n• 'Prerequisite' എന്നാൽ മുൻകൂട്ടി ഉണ്ടായിരിക്കേണ്ട അനിവാര്യ വ്യവസ്ഥ — അതുതന്നെയാണ് sine qua non-ന്റെ കൃത്യമായ ഇംഗ്ലീഷ് പര്യായം.\n• ഉപയോഗ ഉദാഹരണം: \"Hard work is the sine qua non of success\" = \"കഠിനാധ്വാനമാണ് വിജയത്തിന്റെ അനിവാര്യ ഉപാധി.\"",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: sine (ഇല്ലാതെ) + qua non (അല്ലാതെ) = \"അതില്ലാതെ ഒന്നുമില്ല\" → അത്യന്താപേക്ഷിതം.\n• Foreign words and phrases എന്ന topic-ൽ വേരുകൾ അറിഞ്ഞാൽ ഊഹിക്കാൻ എളുപ്പമാണ്. 'Sine' എന്ന ലാറ്റിൻ വേര് ഉള്ള മറ്റൊരു PSC പദം: 'sine die' = അനിശ്ചിതകാലത്തേക്ക് മാറ്റിവയ്ക്കുക.\n• PSC സ്ഥിരമായി ചോദിക്കുന്ന ലാറ്റിൻ പദകുടുംബം ഒരുമിച്ച് പഠിക്കുക:\n• sine qua non = അനിവാര്യ വ്യവസ്ഥ | sine die = അനിശ്ചിതകാലത്തേക്ക് | status quo = നിലവിലുള്ള അവസ്ഥ | ipso facto = വസ്തുതയാൽത്തന്നെ | bona fide = സദുദ്ദേശ്യത്തോടെ | mala fide = ദുരുദ്ദേശ്യത്തോടെ | prima facie = പ്രഥമദൃഷ്ട്യാ | ad hoc = താൽക്കാലികമായ | quid pro quo = പകരം നൽകൽ | in toto = പൂർണമായി.\n• ⭐ PSC ആവർത്തനം: നിയമ-ഭരണ മേഖലയിലെ തസ്തികകളുടെ പരീക്ഷകളിൽ (Jail, Excise, Police) ഈ ലാറ്റിൻ phrases സ്ഥിരം ചോദ്യമാണ്.\n• ഉദാഹരണ sentences:\n1. Trust is the sine qua non of any friendship.\n2. The assembly was adjourned sine die.\n3. He acted in a bona fide manner throughout.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) sincerely — 'ആത്മാർഥമായി' എന്നർഥം. ഇതിന്റെ ലാറ്റിൻ വേര് 'sincerus' ആണ്, 'sine' അല്ല.\n• 🪤 PSC Trap: 'Sine' എന്ന ശബ്ദവും 'sincerely' എന്ന വാക്കിന്റെ തുടക്കവും കേൾക്കാൻ ഒരുപോലെയാണ് — ശബ്ദസാമ്യം കൊണ്ട് വീഴ്ത്താനുള്ള കെണി.\n\n• (C) indefinitely — 'അനിശ്ചിതകാലത്തേക്ക്' എന്നർഥം. ഇത് ശരിയാകുന്നത് 'sine die' എന്ന വേറൊരു ലാറ്റിൻ പ്രയോഗത്തിന് മാത്രമാണ്.\n• 🪤 PSC Trap: ഇതാണ് ഏറ്റവും അപകടകരമായ option! രണ്ടും 'sine' കൊണ്ട് തുടങ്ങുന്നതിനാൽ ഏറെപ്പേർ ഇത് തിരഞ്ഞെടുക്കും. 'Sine die' വേറെ, 'sine qua non' വേറെ — ഇത് വ്യക്തമായി വേർതിരിച്ച് ഓർക്കണം.\n\n• (D) non-refundable — 'തിരികെ നൽകാനാവാത്ത' എന്നർഥം. ഇത് ബാങ്കിങ്-സാമ്പത്തിക രംഗത്തെ ഒരു സാധാരണ പദമാണ്, ലാറ്റിൻ പ്രയോഗമല്ല.\n• 🪤 PSC Trap: phrase-ന്റെ അവസാനത്തെ 'non' കണ്ട് 'non-refundable'-ലേക്ക് കണ്ണ് പോകും. അക്ഷരസാമ്യം മാത്രമാണ്, അർഥബന്ധം ഇല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"സൈൻ ഇല്ലെങ്കിൽ ഫയൽ നീങ്ങില്ല!\" — SINE qua non എന്നത് ഒരു ഫയലിലെ ഒപ്പ് (sign) ആയി സങ്കൽപ്പിക്കുക. ഒപ്പില്ലാതെ ഒരു സർക്കാർ ഫയലും മുന്നോട്ട് പോകില്ല — അതാണ് അനിവാര്യ വ്യവസ്ഥ, prerequisite!\n• വേർതിരിച്ച് ഓർക്കേണ്ട ജോഡി: sine qua non = അനിവാര്യമായത് (വസ്തു/വ്യവസ്ഥ) | sine die = അനിശ്ചിതകാലം (സമയം). ഒന്ന് 'എന്ത്', മറ്റേത് 'എപ്പോൾ'.\n• PSC strategy: Foreign phrases ഒരു പ്രത്യേക നോട്ട്ബുക്കിൽ മലയാളം അർഥത്തോടൊപ്പം എഴുതി സൂക്ഷിക്കുക. ഓരോ വർഷവും ഒന്നോ രണ്ടോ ചോദ്യം ഇവിടെനിന്ന് ഉറപ്പാണ് — ഇത് പഠിച്ചാൽ ആ mark ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "119-2022-T-Q88",
+    "paperId": "119-2022-T",
+    "questionNumber": 88,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Fill in the blanks with the correct option.\nHalf of ___________",
+    "optionA": "my friend lives abroad",
+    "optionB": "my friend is living abroad",
+    "optionC": "my friend living abroad",
+    "optionD": "my friends live abroad",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) my friends live abroad\n\n• 'Half of' പോലുള്ള ഭിന്നസംഖ്യാ പ്രയോഗങ്ങളിൽ verb തീരുമാനിക്കുന്നത് 'of'-ന് ശേഷം വരുന്ന noun ആണ് — 'half' എന്ന വാക്കല്ല.\n• ഇവിടെ 'friends' എന്ന plural noun ആയതിനാൽ verb-ഉം plural വേണം → 'live'. അതുകൊണ്ട് \"Half of my friends live abroad\" ശരിയാകുന്നു.\n• അർഥപരമായും ഇതാണ് യുക്തി: ഒരാളെ പകുതിയാക്കാൻ കഴിയില്ല! 'Half of my friend' എന്ന് പറഞ്ഞാൽ അത് അസംബന്ധമാകും.\n• വാക്യാർഥം: \"എന്റെ സുഹൃത്തുക്കളിൽ പകുതിപ്പേരും വിദേശത്താണ് താമസിക്കുന്നത്.\"",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'of' എന്ന വാക്കിന് ശേഷം വരുന്ന noun ആണ് യഥാർഥ ബോസ് — verb അതിനെയാണ് അനുസരിക്കുന്നത്, മുന്നിലുള്ള അളവുവാക്കിനെയല്ല.\n• അതായത് 'of'-ന് ശേഷം ബഹുവചന നാമം വന്നാൽ verb-ഉം ബഹുവചനം; ഏകവചനമോ എണ്ണാനാവാത്ത നാമമോ വന്നാൽ verb ഏകവചനം.\n• ഈ നിയമം ബാധകമാകുന്ന അളവുവാക്കുകൾ ഒരുമിച്ച് പഠിക്കുക: half (പകുതി), part (ഭാഗം), most (മിക്കതും), some (ചിലത്), none (ഒന്നുമില്ല), all (എല്ലാം), plenty of (ധാരാളം), a lot of (ഏറെ), percentage (ശതമാനം), two-thirds (മൂന്നിൽ രണ്ട്).\n• ⚠️ ഇതിന്റെ നേർവിപരീതമായ ഒരു നിയമവും നിർബന്ധമായും അറിഞ്ഞിരിക്കണം: 'One of', 'Each of', 'Either of', 'Neither of', 'Every one of' എന്നിവയ്ക്ക് ശേഷം ബഹുവചന നാമം വന്നാലും verb എപ്പോഴും ഏകവചനം തന്നെയായിരിക്കും. കാരണം അവിടെ പറയുന്നത് കൂട്ടത്തിലെ ഒരാളെക്കുറിച്ചാണ്.\n• ⭐ PSC ആവർത്തനം: ഈ രണ്ട് നിയമങ്ങളും തമ്മിലുള്ള വ്യത്യാസം വെച്ചാണ് PSC വർഷാവർഷം കുട്ടികളെ കുഴപ്പിക്കുന്നത്. ഒന്ന് കൃത്യമായി വേർതിരിച്ചറിഞ്ഞാൽ രണ്ട് ചോദ്യവും ഒരുമിച്ച് ശരിയാക്കാം.\n• ഉദാഹരണ sentences:\n1. Most of the books are missing. (പുസ്തകങ്ങൾ ബഹുവചനം, അതിനാൽ are)\n2. Most of the water is polluted. (വെള്ളം എണ്ണാനാവാത്തത്, അതിനാൽ is)\n3. One of my friends lives abroad. ('One of' കണ്ടാൽ എപ്പോഴും ഏകവചന verb)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) my friend lives abroad — വ്യാകരണപരമായി verb ശരിയാണെങ്കിലും അർഥപരമായി തെറ്റാണ്. ഒരൊറ്റ സുഹൃത്തിനെ 'പകുതി' ആക്കാൻ കഴിയില്ല; 'Half of' എന്നതിന് വിഭജിക്കാൻ പറ്റുന്ന ഒരു കൂട്ടം വേണം.\n• 🪤 PSC Trap: 'friend' singular, 'lives' singular — ഇവ തമ്മിൽ ചേരുന്നത് കണ്ട് ഇത് ശരിയാണെന്ന് തോന്നും. പക്ഷേ subject-verb agreement മാത്രം നോക്കിയാൽ പോരാ, അർഥവും നോക്കണം.\n\n• (B) my friend is living abroad — ഇതിലും അതേ പ്രശ്നം തന്നെ: ഒരാളെ പകുതിയാക്കാനാവില്ല. കൂടാതെ 'is living' എന്ന present continuous താൽക്കാലിക അവസ്ഥയെയാണ് സൂചിപ്പിക്കുന്നത്; ഇവിടെ ഒരു പൊതു വസ്തുതയാണ് പറയുന്നത്, അതിന് simple present വേണം.\n• 🪤 PSC Trap: continuous tense കൂടുതൽ 'ശരിയായി' തോന്നിപ്പിക്കുന്ന ശൈലീഭംഗി.\n\n• (C) my friend living abroad — ഇവിടെ finite verb ഇല്ല. 'Living' എന്നത് participle മാത്രമാണ്; അതുകൊണ്ട് ഇത് ഒരു പൂർണ വാക്യമേ അല്ല.\n• 🪤 PSC Trap: വായിക്കാൻ ഒഴുക്കുള്ളതിനാൽ ശരിയെന്ന് തോന്നും, പക്ഷേ വാക്യം അപൂർണമാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"OF-ന് ശേഷം എത്തിനോക്കൂ!\" — Half of / Most of / Some of കണ്ടാൽ 'of' എന്ന വാതിലിലൂടെ അപ്പുറത്തേക്ക് നോക്കുക. അവിടെ കാണുന്ന noun ആണ് യഥാർഥ ബോസ്; verb അതിനെയാണ് അനുസരിക്കുന്നത്.\n• എതിർദിശയിൽ ഓർക്കേണ്ട family: 'One of / Each of / Every one of / Either of / Neither of' → ഇവയ്ക്ക് ശേഷം plural noun വന്നാലും verb singular. \"One of the boys IS…\" എന്ന് ഉറക്കെ ഉരുവിടുക.\n• PSC strategy: ഇത്തരം ചോദ്യങ്ങളിൽ ആദ്യം അർഥം കൊണ്ട് അസംബന്ധമായ options വെട്ടിക്കളയുക (ഇവിടെ A, B), പിന്നെ finite verb ഇല്ലാത്തത് വെട്ടുക (C). ബാക്കി വരുന്നതാണ് ഉത്തരം — ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "119-2022-T-Q89",
+    "paperId": "119-2022-T",
+    "questionNumber": 89,
+    "topic": "Active and Passive Voice",
+    "questionText": "Choose the correct passive voice of the following sentence.\nDid she type the passage ?",
+    "optionA": "Whether the passage was typed by her ?",
+    "optionB": "Was the passage typed by her ?",
+    "optionC": "Were the passage typed by her ?",
+    "optionD": "Are the passage typed by her ?",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Was the passage typed by her ?\n\n• Active വാക്യം: \"Did she type the passage?\" — ഇത് simple past tense-ലുള്ള ഒരു interrogative sentence ആണ്.\n• Passive ആക്കുമ്പോൾ object ('the passage') subject ആയി മുന്നിൽ വരും; subject ('she') 'by her' ആയി പിന്നിലേക്ക് മാറും.\n• Simple past-ന്റെ passive രൂപം: was/were + V3. 'Passage' singular ആയതിനാൽ 'was' വേണം → \"Was the passage typed by her?\"\n• Interrogative ആയതിനാൽ auxiliary verb ('was') വാക്യത്തിന്റെ ഏറ്റവും മുന്നിൽത്തന്നെ നിൽക്കണം, ചോദ്യചിഹ്നവും വേണം.\n• അർഥം: \"ആ ഖണ്ഡിക അവൾ ടൈപ്പ് ചെയ്തതാണോ?\"",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Active വാക്യത്തിന്റെ tense എന്തോ അതുതന്നെയായിരിക്കണം passive വാക്യത്തിന്റെയും tense. ഈ നിയമം ഒരിക്കലും ലംഘിക്കപ്പെടില്ല.\n• Passive-ന്റെ അടിസ്ഥാന ഘടന ഇങ്ങനെയാണ്: ആദ്യം object, പിന്നെ tense അനുസരിച്ചുള്ള be-verb, പിന്നെ main verb-ന്റെ മൂന്നാം രൂപം, ഒടുവിൽ 'by' ചേർത്ത് പ്രവർത്തകൻ.\n• ഓരോ tense-നും ചേരുന്ന be-verb ഏതെന്ന് കാണാപ്പാഠമാക്കുക: വർത്തമാനകാലത്തിന് am, is, are | ഭൂതകാലത്തിന് was, were | ഭാവികാലത്തിന് will be | പൂർത്തിയായ വർത്തമാനത്തിന് has been, have been | പൂർത്തിയായ ഭൂതത്തിന് had been.\n• ചോദ്യരൂപത്തിലുള്ള വാക്യങ്ങൾക്ക് ഒരു പ്രത്യേക നിയമമുണ്ട്: Do, Does, Did എന്നിവയിലേതെങ്കിലും കൊണ്ട് തുടങ്ങുന്ന വാക്യമാണെങ്കിൽ passive-ഉം be-verb കൊണ്ടുതന്നെ തുടങ്ങണം, ചോദ്യചിഹ്നവും നിലനിർത്തണം.\n• ഇവിടെ ഒരു കാര്യം പ്രത്യേകം ഓർക്കുക — 'Whether' എന്ന വാക്ക് ഉപയോഗിക്കുന്നത് പരോക്ഷകഥനത്തിൽ മാത്രമാണ്, passive voice-ൽ ഒരിക്കലുമല്ല.\n• ⭐ PSC ആവർത്തനം: ചോദ്യരൂപത്തിലുള്ള വാക്യത്തിന്റെ passive PSC-യുടെ ഏറ്റവും പ്രിയപ്പെട്ട ചോദ്യങ്ങളിലൊന്നാണ്. 'Did' മാറി 'was' അല്ലെങ്കിൽ 'were' ആകുന്ന ഈ രൂപാന്തരം ഏതാണ്ട് എല്ലാ വർഷവും വരുന്നുണ്ട്.\n• ഉദാഹരണ sentences:\n1. Did he write the letter? → Was the letter written by him? (ഭൂതകാലം അതേപടി നിലനിൽക്കുന്നു)\n2. Does she sing songs? → Are songs sung by her? (songs ബഹുവചനം, അതിനാൽ are)\n3. Will they finish the work? → Will the work be finished by them? (ഭാവികാലത്തിന് will be)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Whether the passage was typed by her ? — 'Whether' ഉപയോഗിക്കുന്നത് direct speech-നെ indirect ആക്കുമ്പോൾ മാത്രമാണ് (He asked whether…). Passive voice-ൽ 'whether' ഒരിക്കലും വരില്ല. കൂടാതെ 'whether' കൊണ്ട് തുടങ്ങിയാൽ അത് ചോദ്യരൂപവുമല്ല.\n• 🪤 PSC Trap: be-verb-ഉം V3-ഉം ശരിയായതിനാൽ ('was typed') ഒറ്റനോട്ടത്തിൽ ശരിയെന്ന് തോന്നും. ഏറ്റവും അപകടകരമായ option ഇതാണ് — direct/indirect speech-ഉം passive voice-ഉം കൂട്ടിക്കുഴയ്ക്കുന്നവർ ഇതിൽ വീഴും.\n\n• (C) Were the passage typed by her ? — 'Passage' singular ആയതിനാൽ 'were' ചേരില്ല; 'was' മാത്രമേ പറ്റൂ. Subject-verb agreement ഇവിടെ പാളുന്നു.\n• 🪤 PSC Trap: Passive-ൽ ശ്രദ്ധ മുഴുവൻ tense-ൽ പോകുമ്പോൾ singular/plural മറന്നുപോകുന്നത് മുതലെടുക്കുന്നു.\n\n• (D) Are the passage typed by her ? — 'Are' present tense ആണ്; original വാക്യം past tense-ൽ ('Did') ആയതിനാൽ tense തന്നെ മാറിപ്പോയി. കൂടാതെ singular noun-നോട് 'are' ചേരുകയുമില്ല — രണ്ട് തെറ്റുകൾ ഒരുമിച്ച്.\n• 🪤 PSC Trap: ഏറ്റവും എളുപ്പം ഒഴിവാക്കാവുന്ന option; ധൃതിയിൽ വായിക്കുന്നവർക്കുള്ള കെണി മാത്രം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"DID പോയാൽ WAS/WERE വരും!\" — Active-ൽ 'Did' കണ്ടാൽ passive-ൽ ആ 'did' അപ്രത്യക്ഷമാകും, പകരം was/were മുന്നിൽ വന്നുനിൽക്കും. main verb V1-ൽ നിന്ന് V3-ലേക്ക് മാറും (type → typed).\n• ഒരുമിച്ച് പഠിക്കേണ്ട interrogative passive family: Do → am/is/are | Does → is/are | Did → was/were | Will → will…be | Has/Have → has/have been | Can → can be.\n• PSC strategy: Passive ചോദ്യത്തിൽ മൂന്ന് കാര്യം മാത്രം പരിശോധിക്കുക — ① tense മാറിയോ? ② be-verb പുതിയ subject-നോട് ചേരുന്നുണ്ടോ? ③ main verb V3 ആണോ? ഈ മൂന്നും ശരിയായ option ആണ് ഉത്തരം. ഇത് ശീലമാക്കിയാൽ ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "119-2022-T-Q90",
+    "paperId": "119-2022-T",
+    "questionNumber": 90,
+    "topic": "Idioms",
+    "questionText": "Identify the meaning of the phrase in italics.\nHe is __at loggerheads with__ his many friends.",
+    "optionA": "at strife",
+    "optionB": "in close contact with",
+    "optionC": "away from",
+    "optionD": "discussing",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) at strife\n\n• 'At loggerheads with' എന്ന idiom-ന്റെ അർഥം — ആരോടെങ്കിലും ശക്തമായ അഭിപ്രായവ്യത്യാസത്തിലോ കടുത്ത തർക്കത്തിലോ ആയിരിക്കുക. മലയാളത്തിൽ 'ഇടഞ്ഞുനിൽക്കുക', 'പിണങ്ങിക്കഴിയുക'.\n• 'Strife' എന്നാൽ കലഹം, സംഘർഷം. അതുകൊണ്ട് 'at strife' ആണ് ഏറ്റവും കൃത്യമായ പര്യായം.\n• Etymology hint: 'Loggerhead' എന്നത് പഴയകാലത്ത് ഇരുമ്പ് ഗോളം ഘടിപ്പിച്ച നീളൻ ദണ്ഡായിരുന്നു — ടാർ ചൂടാക്കാൻ ഉപയോഗിച്ചിരുന്നത്. കപ്പൽയാത്രക്കാർ വഴക്കിടുമ്പോൾ ഇത് ആയുധമാക്കിയിരുന്നു. അവിടെനിന്നാണ് 'ഏറ്റുമുട്ടൽ' എന്ന അർഥം വന്നത്.\n• വാക്യാർഥം: \"അയാൾ തന്റെ പല സുഹൃത്തുക്കളുമായും ഇടഞ്ഞുനിൽക്കുകയാണ്.\"",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Loggerhead-ൽ 'HEAD' ഉണ്ട് — രണ്ട് തലകൾ കൂട്ടിമുട്ടുന്നു എന്ന് സങ്കൽപ്പിക്കുക! തലയ്ക്ക് തല ഇടിക്കുക = വഴക്ക്.\n• Idiom-ന്റെ അർഥം അതിലെ വാക്കുകളുടെ നേരിട്ടുള്ള അർഥത്തിൽനിന്ന് ഊഹിക്കാനാവില്ല — ഇത് idiom പഠനത്തിന്റെ അടിസ്ഥാന തത്വമാണ്.\n• വഴക്കും തർക്കവും സൂചിപ്പിക്കുന്ന PSC idiom കുടുംബം ഒരുമിച്ച് പഠിക്കുക:\n• at loggerheads = ഇടഞ്ഞുനിൽക്കുക | at daggers drawn = കൊടിയ ശത്രുതയിൽ | bad blood = പക | bone of contention = തർക്കകാരണം | cross swords = ഏറ്റുമുട്ടുക | fall out with = പിണങ്ങുക | pick a bone with = തർക്കിക്കുക.\n• ഇതിന്റെ വിപരീത idiom കുടുംബം: hand in glove with = അടുത്ത ചങ്ങാത്തത്തിൽ | see eye to eye = അഭിപ്രായ ഐക്യമുണ്ടാവുക | bury the hatchet = വഴക്ക് അവസാനിപ്പിക്കുക.\n• ⭐ PSC ആവർത്തനം: 'at loggerheads', 'at daggers drawn', 'hand in glove' — ഈ മൂന്നും PSC ഒരേ ചോദ്യത്തിൽ options ആയി വെക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. The two ministers are at loggerheads over the new policy.\n2. The neighbours have been at daggers drawn for years.\n3. They finally decided to bury the hatchet.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) in close contact with — 'അടുത്ത ബന്ധത്തിൽ' എന്നർഥം. ഇത് ശരിക്കും 'at loggerheads'-ന്റെ നേർവിപരീതമാണ്! ഇതിനുള്ള ശരിയായ idiom 'hand in glove with' ആണ്.\n• 🪤 PSC Trap: വാക്യത്തിൽ 'friends' എന്ന വാക്ക് ഉള്ളതിനാൽ എന്തോ സൗഹൃദപരമായ അർഥമാകുമെന്ന് തോന്നിപ്പിക്കുന്നു. ഇതാണ് ഏറ്റവും അപകടകരമായ option — സന്ദർഭം തെറ്റായി വായിക്കുന്നവർ ഇതിൽ വീഴും.\n\n• (C) away from — 'അകലെ' എന്ന ഭൗതികമായ ദൂരത്തെയാണ് സൂചിപ്പിക്കുന്നത്. Idiom പറയുന്നത് സ്ഥലപരമായ അകലത്തെക്കുറിച്ചല്ല, മാനസികമായ ഏറ്റുമുട്ടലിനെക്കുറിച്ചാണ്.\n• 🪤 PSC Trap: വഴക്കിട്ടാൽ അകന്നുപോകുമല്ലോ എന്ന യുക്തി ഭാഗികമായി ശരിയാണെന്ന് തോന്നിപ്പിക്കുന്നു; പക്ഷേ idiom-ന്റെ കൃത്യമായ അർഥം അതല്ല.\n\n• (D) discussing — 'ചർച്ച ചെയ്യുന്നു' എന്ന നിഷ്പക്ഷമായ അർഥം. 'At loggerheads' എന്നത് വെറും ചർച്ചയല്ല, തീവ്രമായ എതിർപ്പാണ്.\n• 🪤 PSC Trap: അഭിപ്രായവ്യത്യാസത്തിന്റെ തീവ്രത കുറച്ചുകാണിക്കുന്ന option — അർഥം അടുത്തുവരുന്നെങ്കിലും ശക്തി പോരാ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'LoggerHEADS'-ലെ HEADS ഓർക്കുക — രണ്ട് ആട്ടിൻകൊറ്റന്മാർ തലകൾ കൂട്ടിയിടിക്കുന്ന ചിത്രം മനസ്സിൽ വരയ്ക്കുക. തല കൂട്ടിമുട്ടൽ = ഏറ്റുമുട്ടൽ = at strife. ഈ ചിത്രം ഒരിക്കൽ മനസ്സിൽ പതിഞ്ഞാൽ പിന്നെ മറക്കില്ല!\n• ജോഡിയായി പഠിക്കുക: വഴക്ക് → at loggerheads, at daggers drawn, cross swords, bad blood | ചങ്ങാത്തം → hand in glove, see eye to eye, thick as thieves, hand and glove.\n• PSC strategy: Idiom ചോദ്യത്തിൽ വാക്യത്തിലെ വാക്കുകളുടെ നേരിട്ടുള്ള അർഥം നോക്കി ഊഹിക്കരുത് — PSC അതാണ് കെണിയായി വെക്കുന്നത്. Idiom-കൾ അർഥക്കൂട്ടങ്ങളായി (വഴക്ക്, സൗഹൃദം, ധനം, മരണം) തരംതിരിച്ച് പഠിച്ചാൽ ഈ topic-ൽ ഒരിക്കലും miss ആകില്ല!"
+    }
   }
 ]
