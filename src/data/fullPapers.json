@@ -24,5 +24,18 @@
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC) — uploaded 17-06-2026",
     "status": "published"
+  },
+  {
+    "id": "44-2026-M",
+    "paperCode": "44/2026/M",
+    "post": "Beat Forest Officer",
+    "categoryCode": "431/2025, 432/2025, 433/2025, 434/2025, 435/2025, 856/2025, 857/2025, 858/2025, 859/2025",
+    "date": "06-May-2026",
+    "medium": "M",
+    "year": "2026",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — uploaded 02-06-2026",
+    "status": "published"
   }
 ]
