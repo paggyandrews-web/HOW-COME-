@@ -26926,5 +26926,347 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) will she arrive — Tense Backshift ചെയ്തിട്ടില്ല ('will' അതേപടി നിലനിർത്തി), കൂടാതെ Word Order-ഉം Inverted (Verb-Subject) ആണ് — രണ്ട് പിശകുകൾ.\n  🪤 PSC Trap: Direct Question-ന്റെ അതേ structure അതേപടി കോപ്പി ചെയ്യുന്ന ഏറ്റവും സാധാരണ തെറ്റ്.\n• (C) would she arrive — Tense Backshift ('would') ശരിയായി ചെയ്തിട്ടുണ്ട്, പക്ഷേ Word Order ഇപ്പോഴും Inverted (Verb 'would' Subject 'she'-ന് മുന്നിൽ) ആണ് — Indirect Speech-ൽ ഇത് തെറ്റാണ്.\n  🪤 PSC Trap: Tense മാറ്റം ശ്രദ്ധിച്ചെങ്കിലും Word Order മാറ്റാൻ മറന്നുപോകുന്ന, ഏറ്റവും സൂക്ഷ്മമായ trap.\n• (D) none of these — 'she would arrive' ശരിയായ ഉത്തരം ലഭ്യമായതിനാൽ ഇത് തെറ്റാണ്.\n  🪤 PSC Trap: Indirect Question-ന്റെ Word Order Rule അറിയാത്തവർ confuse ആയി 'none' തിരഞ്ഞെടുക്കും.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Indirect Question = Statement in disguise!\" — Indirect Speech-ൽ Question ഒരു സാധാരണ Statement പോലെ (Subject before Verb) എഴുതണം, ചോദ്യചിഹ്നം (?) പോലും വേണ്ട.\n• Rule family: will→would, can→could, may→might (Modal Backshift); is/are→was/were, has/have→had (Verb Backshift).\n• PSC exam strategy: Indirect Question എഴുതുമ്പോൾ രണ്ട് കാര്യങ്ങൾ ചെക്ക് ചെയ്യുക — (1) Tense Backshift ചെയ്തോ? (2) Word Order Subject-Verb ക്രമത്തിൽ ആണോ (Inverted അല്ലല്ലോ)?"
     }
+  },
+  {
+    "id": "088-2022-T-Q71",
+    "paperId": "088-2022-T",
+    "questionNumber": 71,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Sumathi's parents __________ visited Taj Mahal.",
+    "optionA": "have",
+    "optionB": "has",
+    "optionC": "is",
+    "optionD": "was",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) have\n• 'Parents' എന്നത് plural subject ആണ് (അച്ഛനും അമ്മയും ചേർന്ന്) — അതുകൊണ്ട് plural auxiliary verb 'have' വേണം.\n• Present Perfect Tense ('have/has + V3') ആണ് ഇവിടെ ഉപയോഗിക്കുന്നത് — 'visited' എന്ന past participle-നൊപ്പം.\n• 'Taj Mahal സന്ദർശിച്ചു' എന്ന completed action, present-ൽ relevance ഉള്ളത് കൊണ്ട് Present Perfect ചേരും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Plural subject → have + V3; Singular subject → has + V3\n• 'Parents', 'children', 'people', 'friends' പോലുള്ള plural nouns-ന് 'have' വേണം; 'he/she/it' പോലുള്ള singular-ന് 'has' വേണം.\n• Subject-Verb Agreement rule: auxiliary verb subject-ന്റെ number-നോട് (singular/plural) match ചെയ്യണം.\n• ⭐ PSC ആവർത്തനം: 'have/has' choice ചോദ്യങ്ങൾ almost എല്ലാ PSC പേപ്പറിലും വരും — subject plural ആണോ singular ആണോ എന്ന് ആദ്യം നോക്കുക!\n• ഉദാഹരണ sentences:\n1. My parents have gone to Kerala. (എന്റെ മാതാപിതാക്കൾ കേരളത്തിലേക്ക് പോയി — plural subject, 'have')\n2. She has finished her homework. (അവൾ ഹോംവർക്ക് പൂർത്തിയാക്കി — singular subject, 'has')\n3. The students have submitted their assignments. (വിദ്യാർത്ഥികൾ അസൈൻമെന്റ് സമർപ്പിച്ചു — plural subject, 'have')\n• ഇത്തരം ചോദ്യങ്ങളിൽ subject-ന്റെ number ആദ്യം കണ്ടെത്തുന്നത് ശീലമാക്കിയാൽ, ഉത്തരം കണ്ടെത്താൻ ഒരു നിമിഷം മതി.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) has — ഇത് singular subject-ന് (he/she/it) വേണ്ടിയുള്ളതാണ്; 'parents' plural ആയതിനാൽ ചേരില്ല.\n• 🪤 PSC Trap: 'has' കണ്ടാൽ ചിലർ ശീലം കൊണ്ട് തിരഞ്ഞെടുക്കും — subject-ന്റെ number ശ്രദ്ധിക്കാതെ!\n• (C) is — 'is' ഒരു linking verb ആണ്, 'visited' എന്ന past participle-നൊപ്പം Present Perfect ഉണ്ടാക്കാൻ പറ്റില്ല.\n• (D) was — past tense-ന്റെ 'to be' form ആണ്; ഇവിടെ auxiliary 'have/has' മാത്രമേ വേണ്ടൂ.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Plural-നു Have, Singular-നു Has' എന്ന് താളത്തിൽ ഓർക്കുക!\n• Present Perfect family: have/has + V3 (gone, done, visited, finished) — ഈ pattern എപ്പോഴും ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: ആദ്യം subject നോക്കുക (plural/singular), എന്നിട്ട് have/has തിരഞ്ഞെടുക്കുക. ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!\n• ഓർക്കുക: 'I', 'you', 'we', 'they' എന്നിവയ്ക്കും, plural nouns-നും 'have' ഉപയോഗിക്കണം; 'he', 'she', 'it' എന്നിവയ്ക്കും, singular nouns-നും 'has' ഉപയോഗിക്കണം. ഇത് ഒരിക്കൽ മനസ്സിലാക്കിയാൽ ഒരിക്കലും മറക്കില്ല."
+    }
+  },
+  {
+    "id": "088-2022-T-Q72",
+    "paperId": "088-2022-T",
+    "questionNumber": 72,
+    "topic": "Degrees of Comparison",
+    "questionText": "Helen of Troy was considered as the __________ beautiful woman in the World.",
+    "optionA": "more",
+    "optionB": "very",
+    "optionC": "most",
+    "optionD": "nice",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) most\n• 'The World'-ൽ ഉള്ള എല്ലാ സ്ത്രീകളുമായി താരതമ്യം ചെയ്യുന്നത് കൊണ്ട് Superlative Degree വേണം.\n• 'The + most + adjective' എന്നത് multi-syllable adjectives-ന്റെ (beautiful പോലുള്ളവ) superlative form ആണ്.\n• 'ഏറ്റവും സുന്ദരിയായ സ്ത്രീ' എന്നർത്ഥം വരാൻ 'the most beautiful' എന്ന് വേണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Three or more-ൽ comparison → superlative (the + most/-est)\n• Long adjectives (2+ syllables like beautiful, important, difficult) → 'the most' ചേർക്കുക; short adjectives → '-est' suffix ചേർക്കുക (tall→tallest).\n• 'more' comparative-നും (two things മാത്രം), 'most' superlative-നും (three or more) ഉപയോഗിക്കും.\n• ⭐ PSC ആവർത്തനം: 'most beautiful', 'most intelligent' പോലുള്ള superlative choices PSC പതിവായി ചോദിക്കും.\n• ഉദാഹരണ sentences:\n1. She is the most talented singer in the group. (അവൾ ഗ്രൂപ്പിലെ ഏറ്റവും കഴിവുള്ള ഗായികയാണ്.)\n2. Everest is the highest mountain in the world. (എവറസ്റ്റ് ലോകത്തിലെ ഏറ്റവും ഉയരം കൂടിയ പർവ്വതമാണ്.)\n3. He is the most honest man I have ever met. (ഞാൻ കണ്ടിട്ടുള്ളതിൽ ഏറ്റവും സത്യസന്ധനായ മനുഷ്യൻ അവനാണ്.)\n• ഇത്തരം superlative sentences-ൽ എപ്പോഴും 'the' ഒപ്പം കാണും — ഇത് ഒരു സൂചകമായി ഓർത്തുവെക്കുക.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) more — comparative degree ആണ്, രണ്ട് വസ്തുക്കൾ താരതമ്യം ചെയ്യുമ്പോൾ മാത്രം ഉപയോഗിക്കും ('the' കൂടെ വരില്ല).\n• 🪤 PSC Trap: 'more' 'most'-നോട് സാമ്യമുള്ളത് കൊണ്ട് students confuse ആകും.\n• (B) very — ഇത് ഒരു intensifier മാത്രമാണ്, comparison കാണിക്കില്ല.\n• (D) nice — അർത്ഥപരമായി ചേരില്ല, degree word അല്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Two-ന് More, Three-plus-ന് Most' എന്ന് ഓർക്കുക!\n• Degrees of Comparison family: Positive (beautiful) → Comparative (more beautiful) → Superlative (most beautiful) ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: 'the' ഒപ്പം കാണുന്ന degree ചോദ്യങ്ങളിൽ മിക്കവാറും superlative ('most'/-est') ആയിരിക്കും ഉത്തരം.\n• മൂന്നോ അതിലധികമോ വസ്തുക്കളെ താരതമ്യം ചെയ്യുന്ന context ആണോ എന്ന് ആദ്യം ഉറപ്പാക്കുക — 'in the world', 'of all', 'in the class' പോലുള്ള phrases superlative-ന്റെ സൂചനയാണ്."
+    }
+  },
+  {
+    "id": "088-2022-T-Q73",
+    "paperId": "088-2022-T",
+    "questionNumber": 73,
+    "topic": "Articles",
+    "questionText": "I saw a man. __________ man was standing infront of a gate.",
+    "optionA": "The",
+    "optionB": "An",
+    "optionC": "A",
+    "optionD": "One",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) The\n• ആദ്യ sentence-ൽ 'a man' എന്ന് പറഞ്ഞ ശേഷം, രണ്ടാമത്തെ sentence-ൽ അതേ man-നെ തന്നെ പരാമർശിക്കുന്നത് കൊണ്ട് definite article 'The' വേണം.\n• 'The' ഉപയോഗിക്കുന്നത് specific ആയി, മുൻപ് പരാമർശിച്ച കാര്യത്തെ വീണ്ടും സൂചിപ്പിക്കുമ്പോൾ ആണ്.\n• 'ആ മനുഷ്യൻ ഗേറ്റിന് മുന്നിൽ നിൽക്കുകയായിരുന്നു' എന്ന് specific ആയി പറയാൻ 'The man' വേണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: First mention → a/an; Second mention (same thing) → the\n• ഒരു noun ആദ്യമായി പരാമർശിക്കുമ്പോൾ indefinite article (a/an), അതേ noun വീണ്ടും പരാമർശിക്കുമ്പോൾ definite article (the) ഉപയോഗിക്കും.\n• 'The' specific/particular ആയ കാര്യങ്ങൾക്കും, 'a/an' ഏതെങ്കിലും ഒന്നിനും (non-specific) ഉപയോഗിക്കും.\n• ⭐ PSC ആവർത്തനം: 'a...the' pattern ഉള്ള two-sentence article questions PSC-ൽ സ്ഥിരമായി വരും.\n• ഉദാഹരണ sentences:\n1. I bought a book. The book was very interesting. (ഞാൻ ഒരു പുസ്തകം വാങ്ങി. ആ പുസ്തകം വളരെ രസകരമായിരുന്നു.)\n2. She saw a dog. The dog was barking loudly. (അവൾ ഒരു നായയെ കണ്ടു. ആ നായ ഉച്ചത്തിൽ കുരയ്ക്കുകയായിരുന്നു.)\n3. He met a stranger. The stranger asked for directions. (അവൻ ഒരു അപരിചിതനെ കണ്ടുമുട്ടി. ആ അപരിചിതൻ വഴി ചോദിച്ചു.)\n• രണ്ടാമത്തെ sentence-ൽ 'the' കൊണ്ടുവരുന്നത് ആദ്യം പറഞ്ഞ കാര്യത്തെ specific ആയി തിരിച്ചറിയിക്കാൻ വേണ്ടിയാണ് എന്ന് എപ്പോഴും ഓർക്കുക.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) An — indefinite article ആണ്, ഇത് ആദ്യമായി പരാമർശിക്കുന്ന കാര്യങ്ങൾക്ക് മാത്രമേ ഉപയോഗിക്കാവൂ; ഇവിടെ man നേരത്തെ പരാമർശിച്ചു കഴിഞ്ഞു.\n• (C) A — ഇതും indefinite article ആണ്, second mention-ന് ചേരില്ല.\n• 🪤 PSC Trap: 'a/an' ആദ്യ sentence-ൽ കണ്ടത് കൊണ്ട് അതേ answer ആവർത്തിക്കാൻ students misled ആകും.\n• (D) One — number word ആണ്, article അല്ല; grammatically ഇവിടെ ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ഒന്നാമത് a/an, രണ്ടാമത് the' എന്ന rhyme ഓർക്കുക!\n• Article family: a (consonant sound), an (vowel sound), the (specific/repeated mention) ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: രണ്ട് sentence ചോദ്യങ്ങളിൽ, രണ്ടാം sentence-ൽ ആദ്യം പറഞ്ഞ noun തന്നെ ആണെങ്കിൽ 'the' ആയിരിക്കും ഉത്തരം."
+    }
+  },
+  {
+    "id": "088-2022-T-Q74",
+    "paperId": "088-2022-T",
+    "questionNumber": 74,
+    "topic": "Question Tags",
+    "questionText": "Renju wrote a letter to you, __________ ?",
+    "optionA": "is it",
+    "optionB": "don't he",
+    "optionC": "will you",
+    "optionD": "didn't he",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) didn't he\n• Main sentence 'Renju wrote a letter to you' എന്നത് positive ആയ Past Simple sentence ആണ് ('wrote' എന്ന past tense verb ഉപയോഗിച്ചിരിക്കുന്നു).\n• Question Tag നിയമം അനുസരിച്ച് positive statement-ന് negative tag വേണം — അതുകൊണ്ട് 'didn't he' ശരിയാണ് ('Renju' പുരുഷൻ ആയതിനാൽ pronoun 'he' ഉപയോഗിക്കണം).\n• Past Simple tense-ന്റെ tag auxiliary verb 'did' ആണ്, അത് negative ആക്കിയാൽ 'didn't' ആകും — അതിനുശേഷം subject pronoun ചേർക്കണം.\n• 'റെൻജു നിനക്ക് ഒരു കത്ത് എഴുതി, അല്ലേ?' എന്ന അർത്ഥമാണ് ഈ ചോദ്യം sentence-ന് ഉള്ളത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Positive statement → Negative tag; Negative statement → Positive tag\n• Past Simple sentence-ന്റെ tag 'did/didn't + subject pronoun' ആയിരിക്കും.\n• Subject-നെ pronoun ആക്കി മാറ്റണം: Renju (പുരുഷൻ പേര്) → he.\n• ⭐ PSC ആവർത്തനം: Question Tags PSC-യിലെ ഏറ്റവും പതിവായി വരുന്ന topic-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. She sang a song, didn't she? (അവൾ ഒരു പാട്ട് പാടി, അല്ലേ?)\n2. They played football, didn't they? (അവർ ഫുട്ബോൾ കളിച്ചു, അല്ലേ?)\n3. He didn't come, did he? (അവൻ വന്നില്ല, അല്ലേ? — negative statement-ന് positive tag)\n• Question tag-ന്റെ subject ഭാഗം എപ്പോഴും pronoun ആയിരിക്കണം, name ആയിരിക്കരുത് എന്നത് പ്രത്യേകം ശ്രദ്ധിക്കുക.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) is it — ഇത് verb tense-മായി match ചെയ്യുന്നില്ല; 'wrote' Past Simple ആണ്, 'is' Present tense-ന്റെ tag ആണ്, ഇവ തമ്മിൽ ചേരില്ല.\n• (B) don't he — ഇത് grammatically തെറ്റാണ്; singular subject 'he'-ന് വേണ്ടത് 'doesn't/didn't' ആണ്, 'don't' അല്ല.\n• 🪤 PSC Trap: 'don't he' സംസാരഭാഷയിൽ സ്വാഭാവികമായി തോന്നാമെങ്കിലും, ഇത് grammatically തെറ്റായ prayogam ആണ് — എഴുത്ത് പരീക്ഷയിൽ ഈ കെണിയിൽ വീഴരുത്.\n• (C) will you — ഇത് future tense-ന്റെ tag ആണ്, sentence past tense-ൽ ആയതിനാൽ ഇത് ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Positive-നു Negative Tag, Negative-നു Positive Tag' എന്ന് താളമായി ചൊല്ലുക!\n• Question Tag family: main verb-ന്റെ tense അനുസരിച്ച് auxiliary മാറും (is/isn't, was/wasn't, did/didn't) — ഈ മൂന്ന് ജോഡികളും ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: sentence-ലെ main verb-ന്റെ tense ആദ്യം identify ചെയ്യുക, subject-നെ pronoun ആക്കുക, എന്നിട്ട് opposite polarity tag തിരഞ്ഞെടുക്കുക — മൂന്ന് step-ഉം ക്രമമായി ചെയ്താൽ ഒരിക്കലും തെറ്റില്ല."
+    }
+  },
+  {
+    "id": "088-2022-T-Q75",
+    "paperId": "088-2022-T",
+    "questionNumber": 75,
+    "topic": "Infinitive and Gerunds",
+    "questionText": "Senior Officers reached the accident spot to __________ the rescue operations.",
+    "optionA": "supervising",
+    "optionB": "supervise",
+    "optionC": "supervises",
+    "optionD": "supervised",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) supervise\n• 'to' എന്ന preposition-ന് ശേഷം base form (V1) ആണ് വരേണ്ടത് — 'to supervise' ഒരു infinitive ആണ്.\n• 'Purpose' കാണിക്കാൻ (എന്തിനുവേണ്ടി officers എത്തി എന്ന്) 'to + verb' (infinitive of purpose) ഉപയോഗിക്കും.\n• 'Rescue operations മേൽനോട്ടം വഹിക്കാൻ' എന്ന ലക്ഷ്യം കാണിക്കാൻ 'to supervise' ശരിയാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: to + V1 (base form) = Infinitive; verb+ing = Gerund\n• 'to' ഒരു preposition അല്ലാതെ, infinitive marker ആയി വരുമ്പോൾ അതിന് ശേഷം base verb (V1) മാത്രമേ വരൂ.\n• Purpose സൂചിപ്പിക്കുന്ന sentences-ൽ ('reached to...', 'came to...', 'went to...') infinitive of purpose ഉപയോഗിക്കും.\n• ⭐ PSC ആവർത്തനം: 'to + V1' vs 'V-ing' choice questions PSC-യിൽ സ്ഥിരമായി വരും.\n• ഉദാഹരണ sentences:\n1. She went to the market to buy vegetables. (പച്ചക്കറി വാങ്ങാൻ അവൾ മാർക്കറ്റിൽ പോയി.)\n2. He came here to help us. (ഞങ്ങളെ സഹായിക്കാൻ അവൻ ഇവിടെ വന്നു.)\n3. They worked hard to achieve success. (വിജയം നേടാൻ അവർ കഠിനാധ്വാനം ചെയ്തു.)\n• ഓരോ sentence-ലും 'to + V1' ലക്ഷ്യം (purpose) കാണിക്കുന്നു — 'എന്തിനുവേണ്ടി' എന്ന ചോദ്യത്തിന്റെ ഉത്തരമാണ് ഈ ഭാഗം.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) supervising — gerund/present participle ആണ്; 'to' ന് ശേഷം ഇത് ഉപയോഗിക്കാൻ പറ്റില്ല.\n• 🪤 PSC Trap: '-ing' form കണ്ടാൽ ചിലർ 'continuous action' എന്ന് തെറ്റിദ്ധരിക്കും.\n• (C) supervises — third person singular present tense ആണ്; 'to' ന് ശേഷം ഇത് ഉപയോഗിക്കില്ല.\n• (D) supervised — past tense/past participle ആണ്; infinitive structure-ന് ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'To-യ്ക്ക് ശേഷം എപ്പോഴും V1, -s/-ing/-ed വേണ്ട!' എന്ന് ഓർക്കുക.\n• Infinitive family: to go, to see, to supervise, to help — എല്ലാം base form ആയിരിക്കും.\n• PSC exam strategy: 'to' കണ്ടാൽ ഉടനെ base verb (V1) തിരയുക — s/-ing/-ed suffix ഉള്ള options ഒഴിവാക്കുക.\n• ഈ ഒറ്റ trick മനസ്സിലാക്കിയാൽ 'to + verb' ചോദ്യങ്ങൾ എപ്പോഴും ഒരു നിമിഷം കൊണ്ട് പരിഹരിക്കാം — സമയം ലാഭിക്കാൻ ഉപകാരപ്പെടും."
+    }
+  },
+  {
+    "id": "088-2022-T-Q76",
+    "paperId": "088-2022-T",
+    "questionNumber": 76,
+    "topic": "Tenses",
+    "questionText": "Sheeba __________ the newspaper when her husband returned from office.",
+    "optionA": "is reading",
+    "optionB": "was reading",
+    "optionC": "reads",
+    "optionD": "have been reading",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) was reading\n• 'when her husband returned' എന്ന Past Simple action, മറ്റൊരു ongoing action-നെ interrupt ചെയ്യുന്നു — ഇത് Past Continuous-ന്റെ classic structure ആണ്.\n• Past Continuous (was/were + V-ing) ഒരു action നടന്നുകൊണ്ടിരിക്കുമ്പോൾ വേറൊരു action സംഭവിക്കുന്നത് കാണിക്കാൻ ഉപയോഗിക്കും.\n• 'ഭർത്താവ് തിരിച്ചെത്തിയപ്പോൾ ഷീബ പത്രം വായിച്ചുകൊണ്ടിരിക്കുകയായിരുന്നു' എന്ന അർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: was/were + V-ing + when + Past Simple = ongoing action interrupted\n• Signal word 'when' + past simple verb കണ്ടാൽ, മറ്റേ clause-ൽ Past Continuous വരാൻ സാധ്യത കൂടുതലാണ്.\n• Past Continuous: singular subject-ന് 'was', plural subject-ന് 'were' ഉപയോഗിക്കും.\n• ⭐ PSC ആവർത്തനം: 'when/while' ഉള്ള Past Continuous vs Past Simple ചോദ്യങ്ങൾ PSC-ൽ പതിവാണ്.\n• ഉദാഹരണ sentences:\n1. I was watching TV when the phone rang. (ഫോൺ റിംഗ് ചെയ്തപ്പോൾ ഞാൻ ടിവി കണ്ടുകൊണ്ടിരിക്കുകയായിരുന്നു.)\n2. They were playing cricket when it started raining. (മഴ തുടങ്ങിയപ്പോൾ അവർ ക്രിക്കറ്റ് കളിച്ചുകൊണ്ടിരിക്കുകയായിരുന്നു.)\n3. She was cooking dinner when I arrived. (ഞാൻ എത്തിയപ്പോൾ അവൾ അത്താഴം പാകം ചെയ്തുകൊണ്ടിരിക്കുകയായിരുന്നു.)\n• മൂന്ന് ഉദാഹരണങ്ങളിലും 'when' ക്ലോസിലെ verb Past Simple ആണ്, മറ്റേ ഭാഗം Past Continuous ആണ് എന്ന pattern ശ്രദ്ധിക്കുക.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) is reading — Present Continuous ആണ്; sentence past tense context-ൽ ആയതിനാൽ ചേരില്ല.\n• (C) reads — Simple Present ആണ്, habitual action കാണിക്കും; ഇവിടെ ഒരു specific past moment-നെ കുറിച്ചാണ് പറയുന്നത്.\n• 🪤 PSC Trap: 'reads' short ആയതിനാൽ ചിലർ simple ആയി തിരഞ്ഞെടുക്കും, പക്ഷേ context past ആണ്.\n• (D) have been reading — Present Perfect Continuous ആണ്; ഇത് present-ലേക്ക് തുടരുന്ന action-ന് വേണ്ടിയാണ്, past interrupted action-ന് അല്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'When വന്നാൽ, ongoing action-ന് was/were+ing!' എന്ന് ഓർക്കുക.\n• Tense family: Past Simple (returned) + Past Continuous (was reading) — ഈ combination ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: sentence-ൽ 'when' കണ്ടാൽ, ഏത് clause-ലാണ് ongoing action എന്ന് നോക്കി Past Continuous തിരഞ്ഞെടുക്കുക.\n• 'when' ക്ലോസ് Past Simple ആണെങ്കിൽ, മറ്റേ ക്ലോസ് മിക്കവാറും Past Continuous ആയിരിക്കും — ഈ pattern മനഃപാഠമാക്കുക."
+    }
+  },
+  {
+    "id": "088-2022-T-Q77",
+    "paperId": "088-2022-T",
+    "questionNumber": 77,
+    "topic": "Conditionals",
+    "questionText": "If you had enough money, you __________ a car.",
+    "optionA": "could buy",
+    "optionB": "could have bought",
+    "optionC": "can buy",
+    "optionD": "buy",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) could buy\n• 'If you had enough money' എന്നത് Past Simple ('had') ഉപയോഗിച്ചുള്ള unreal/hypothetical present condition ആണ് — ഇത് Second Conditional ആണ്.\n• Second Conditional structure: If + Past Simple, + would/could + V1 (base form).\n• 'നിനക്ക് ആവശ്യത്തിന് പണം ഉണ്ടായിരുന്നെങ്കിൽ (ഇപ്പോൾ ഇല്ല), നീ ഒരു കാർ വാങ്ങുമായിരുന്നു' എന്ന hypothetical അർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: If + Past Simple → would/could + V1 (Second Conditional)\n• Second Conditional present-ലെ unreal/imaginary സാഹചര്യങ്ങൾ കാണിക്കാൻ ഉപയോഗിക്കും (ഇപ്പോൾ സത്യമല്ലാത്ത കാര്യം).\n• Third Conditional (past unreal) ആണെങ്കിൽ: If + had + V3 → would/could have + V3.\n• ⭐ PSC ആവർത്തനം: Second vs Third Conditional differentiate ചെയ്യുന്ന ചോദ്യങ്ങൾ PSC-ൽ സ്ഥിരമായി വരും.\n• ഉദാഹരണ sentences:\n1. If I were rich, I would travel the world. (ഞാൻ പണക്കാരനായിരുന്നെങ്കിൽ, ലോകം ചുറ്റിക്കാണുമായിരുന്നു.)\n2. If she studied hard, she could pass the exam. (അവൾ കഠിനമായി പഠിച്ചിരുന്നെങ്കിൽ, പരീക്ഷ ജയിക്കാമായിരുന്നു.)\n3. If it rained, we would stay indoors. (മഴ പെയ്തിരുന്നെങ്കിൽ, ഞങ്ങൾ വീടിനുള്ളിൽ തന്നെ നിൽക്കുമായിരുന്നു.)\n• മൂന്ന് ഉദാഹരണങ്ങളും ഇപ്പോൾ സത്യമല്ലാത്ത, hypothetical സാഹചര്യങ്ങളാണ് കാണിക്കുന്നത് എന്ന് ശ്രദ്ധിക്കുക.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) could have bought — ഇത് Third Conditional structure ആണ് (past unreal); 'if' clause 'had had' എന്ന് ഉണ്ടെങ്കിൽ മാത്രമേ ഇത് ചേരൂ.\n• 🪤 PSC Trap: 'could have' കൂടുതൽ grammatically 'correct' ആയി തോന്നും, പക്ഷേ if-clause tense-മായി match ചെയ്യുന്നില്ല.\n• (C) can buy — Present tense ability ആണ്, hypothetical 'if had' structure-മായി ചേരില്ല.\n• (D) buy — bare base form മാത്രമായി modal ഇല്ലാതെ ഉപയോഗിക്കാൻ പറ്റില്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'If + Past → would/could + V1' എന്ന formula മനഃപാഠമാക്കുക!\n• Conditional family: Zero (if+present, present), First (if+present, will), Second (if+past, would/could), Third (if+had+V3, would have+V3) — നാല് തരങ്ങളും ഒരുമിച്ച് ഒരു chart ആയി പഠിക്കുന്നത് നല്ലതാണ്.\n• PSC exam strategy: 'if' clause-ലെ verb tense ശ്രദ്ധയോടെ നോക്കുക — 'had' (past simple, V2) ആണെങ്കിൽ Second Conditional, 'had + V3' ആണെങ്കിൽ Third Conditional എന്ന് തിരിച്ചറിയുക. ഈ വ്യത്യാസം അറിഞ്ഞാൽ conditional ചോദ്യങ്ങൾ എളുപ്പമാകും, ആശയക്കുഴപ്പം ഒഴിവാക്കാം."
+    }
+  },
+  {
+    "id": "088-2022-T-Q78",
+    "paperId": "088-2022-T",
+    "questionNumber": 78,
+    "topic": "Prepositions",
+    "questionText": "Light can pass __________ glass.",
+    "optionA": "on",
+    "optionB": "besides",
+    "optionC": "through",
+    "optionD": "along",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) through\n• 'Light glass-ന് അകത്തുകൂടി കടന്നുപോകും' എന്ന അർത്ഥം കാണിക്കാൻ 'through' (ഒന്നിലൂടെ കടന്നുപോകുക) എന്ന preposition വേണം.\n• 'Pass through' ഒരു fixed collocation ആണ് — ഒരു വസ്തുവിന്റെ ഉള്ളിലൂടെ കടന്നുപോകുന്നത് കാണിക്കാൻ.\n• 'ഗ്ലാസിലൂടെ വെളിച്ചം കടന്നുപോകും' എന്ന ശാസ്ത്രീയ വസ്തുത ഇവിടെ പറയുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: pass THROUGH = ഒന്നിന്റെ അകത്തുകൂടി കടന്നുപോകുക\n• Fixed preposition collocations: pass through, look through, go through — ഇവയെല്ലാം 'ഉള്ളിലൂടെ' എന്ന അർത്ഥത്തിൽ വരും.\n• Prepositions of movement: through (ഉള്ളിലൂടെ), across (കുറുകെ), along (നീളെ), over (മുകളിലൂടെ) — ഓരോന്നിനും വ്യത്യസ്ത അർത്ഥം.\n• ⭐ PSC ആവർത്തനം: Fixed preposition collocations PSC-യിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. Water can pass through a pipe.\n2. She looked through the window.\n3. We walked through the forest.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) on — surface-ന് മുകളിൽ എന്ന അർത്ഥമാണ്; light glass-ന്റെ ഉള്ളിലൂടെ കടക്കുന്നതിനെ കാണിക്കില്ല.\n• (B) besides — 'കൂടാതെ' എന്ന അർത്ഥമുള്ള preposition ആണ്, physical movement കാണിക്കില്ല.\n• 🪤 PSC Trap: 'besides' 'beside'-യുമായി confuse ആകാൻ സാധ്യതയുണ്ട്, രണ്ടും ഇവിടെ ചേരില്ല.\n• (D) along — 'നീളെ' എന്ന അർത്ഥമാണ്, glass-ന്റെ ഉള്ളിലൂടെ കടക്കുന്നത് കാണിക്കില്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Through = ത്രൂ ആൻഡ് ത്രൂ, ഉള്ളിലൂടെ പോ!' എന്ന് ചൊല്ലി ഓർക്കുക.\n• Preposition family: pass through, see through, get through — 'through' ഉള്ള phrasal collocations ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: 'ഒന്നിന്റെ ഉള്ളിലൂടെ കടക്കുക' എന്ന അർത്ഥം വരുന്ന സന്ദർഭങ്ങളിൽ 'through' ആണ് സാധാരണ ഉത്തരം."
+    }
+  },
+  {
+    "id": "088-2022-T-Q79",
+    "paperId": "088-2022-T",
+    "questionNumber": 79,
+    "topic": "Direct and Indirect Speech",
+    "questionText": "The class teacher asked the student __________ he was late.",
+    "optionA": "what",
+    "optionB": "why",
+    "optionC": "that",
+    "optionD": "which",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) why\n• Indirect question ആയി മാറ്റുമ്പോൾ, direct question-ലെ wh-word (why) അതേപടി നിലനിർത്തണം.\n• 'The teacher asked the student why he was late' എന്നാൽ 'അധ്യാപിക വിദ്യാർത്ഥിയോട് എന്തുകൊണ്ട് വൈകി എന്ന് ചോദിച്ചു' എന്ന അർത്ഥം.\n• Reported speech-ൽ wh-questions-ന് 'if/whether' വേണ്ട, original wh-word (why, what, where etc.) തന്നെ ഉപയോഗിക്കണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Wh-question → reported with same wh-word; Yes/No question → reported with if/whether\n• Indirect speech-ൽ word order statement-ന്റെ പോലെ ആകും (subject + verb), question mark വേണ്ട.\n• 'Why was he late?' എന്ന direct question → 'why he was late' എന്ന് indirect ആയി മാറും.\n• ⭐ PSC ആവർത്തനം: Direct-Indirect Speech PSC-യിലെ ഏറ്റവും കൂടുതൽ weight ഉള്ള grammar topic-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. She asked me where I lived. (ഞാൻ എവിടെയാണ് താമസിക്കുന്നത് എന്ന് അവൾ എന്നോട് ചോദിച്ചു.)\n2. He asked her what she wanted. (അവൾക്ക് എന്താണ് വേണ്ടതെന്ന് അവൻ ചോദിച്ചു.)\n3. I asked him if he was coming. (അവൻ വരുന്നുണ്ടോ എന്ന് ഞാൻ ചോദിച്ചു — Yes/No ചോദ്യമായതിനാൽ 'if' ഉപയോഗിച്ചു.)\n• ഈ മൂന്ന് ഉദാഹരണങ്ങളും wh-word/if എങ്ങനെ നിലനിർത്തുന്നു എന്ന് വ്യക്തമായി കാണിക്കുന്നു.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) what — original question 'why' ചോദിച്ചതാണ് ('why was he late'), 'what' meaning മാറ്റും.\n• 🪤 PSC Trap: wh-words തമ്മിൽ students confuse ആകാൻ സാധ്യതയുണ്ട് — original sentence ശ്രദ്ധയോടെ വായിക്കണം.\n• (C) that — statement-കൾക്ക് വേണ്ടിയാണ് ('that'), wh-question-ന് ചേരില്ല.\n• (D) which — choice ചോദിക്കുന്ന wh-word ആണ്, ഇവിടെ 'reason' ('why') ആണ് ചോദിക്കുന്നത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Wh-word അതേപടി കൊണ്ടുപോ, if/whether Yes/No-ന് മാത്രം!' എന്ന് ഈണത്തിൽ ചൊല്ലി ഓർക്കുക.\n• Reported Speech family: wh-questions (same wh-word ഉപയോഗിക്കണം), yes/no questions (if/whether വേണം), statements (that ഉപയോഗിക്കാം) — ഈ മൂന്ന് വിഭാഗവും വെവ്വേറെ മനസ്സിലാക്കി വെക്കുക.\n• PSC exam strategy: original ചോദ്യത്തിലെ wh-word ഏതാണെന്ന് ആദ്യം കണ്ടെത്തുക, അതേ word തന്നെ indirect രൂപത്തിലും ഉപയോഗിക്കുക — word order statement-ന്റെ പോലെ ആക്കാൻ മറക്കരുത്, question mark ആവശ്യമില്ല എന്നും പ്രത്യേകം ഓർത്തുവെക്കുക."
+    }
+  },
+  {
+    "id": "088-2022-T-Q80",
+    "paperId": "088-2022-T",
+    "questionNumber": 80,
+    "topic": "Active and Passive Voice",
+    "questionText": "A book is __________ to Smitha by her uncle.",
+    "optionA": "present",
+    "optionB": "presenting",
+    "optionC": "presentation",
+    "optionD": "presented",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) presented\n• 'A book is _____ to Smitha' എന്നത് Passive Voice-ന്റെ structure ആണ് — 'is + V3 (past participle)' എന്ന ഘടനയാണ് ഇവിടെ ആവശ്യം.\n• Present Simple Passive-ന്റെ formula: am/is/are + past participle. ഇവിടെ 'is presented' എന്നത് ശരിയായ passive form ആണ്.\n• 'സ്മിതയുടെ അമ്മാവൻ അവൾക്ക് ഒരു പുസ്തകം സമ്മാനിക്കുന്നു' എന്ന active sentence-ന്റെ passive രൂപമാണ് ഇത് — object (book) subject സ്ഥാനത്തേക്ക് മാറി, verb passive ആയി.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Passive Voice = am/is/are/was/were + V3 (past participle)\n• Active: Subject + verb + object → Passive: Object + is/was + V3 + by + Subject എന്ന് ഘടന മാറും.\n• 'is/are' + V3 → Present Simple Passive ആണ്; tense എപ്പോഴും Active sentence-ന്റെ tense-ത്തിനോട് തന്നെ match ചെയ്യണം.\n• ⭐ PSC ആവർത്തനം: Active-Passive Voice conversion PSC-യിൽ വളരെ സ്ഥിരമായി ഉള്ള topic ആണ്, എല്ലാ tense-ന്റെയും passive form പഠിക്കേണ്ടത് ആവശ്യമാണ്.\n• ഉദാഹരണ sentences:\n1. The letter is written by him. (ആ കത്ത് അവനാൽ എഴുതപ്പെടുന്നു.)\n2. The cake was baked by her mother. (ആ കേക്ക് അവളുടെ അമ്മ ചുട്ടതാണ്.)\n3. English is spoken all over the world. (ഇംഗ്ലീഷ് ലോകമെമ്പാടും സംസാരിക്കപ്പെടുന്നു.)\n• ഓരോ sentence-ലും 'is/was' + V3 എന്ന passive pattern ആവർത്തിക്കുന്നത് ശ്രദ്ധിക്കുക.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) present — ഇത് base verb form ആണ്, past participle അല്ല; passive structure-ന് V3 രൂപം തന്നെ വേണം.\n• (B) presenting — ഇത് gerund/present participle ആണ്; 'is presenting' (active continuous) ആയി മാത്രമേ ഇത് ചേരൂ, passive voice-ന് അല്ല.\n• (C) presentation — ഇത് ഒരു noun ആണ്, verb form അല്ല; grammatically ഈ sentence-ൽ ഇത് ചേരില്ല.\n• 🪤 PSC Trap: 'presentation' എന്ന word-ന്റെ spelling 'presented'-മായി സാമ്യമുള്ളത് കൊണ്ട് ധൃതിയിൽ students misled ആകാം — verb form ആണോ noun ആണോ എന്ന് ശ്രദ്ധിക്കുക.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'is/was + V3 (ed/en) = Passive!' എന്ന് ഉറക്കെ ചൊല്ലി മനസ്സിൽ ഉറപ്പിക്കുക.\n• Passive Voice family: is done, is written, is presented, is given, is made — എല്ലാം 'is + V3' pattern ഉള്ള words ആണ്, ഇവ ഒരുമിച്ച് നോട്ട് ചെയ്ത് പഠിക്കുക.\n• PSC exam strategy: sentence-ൽ 'is/was/are/were' + blank കണ്ടാൽ, ഉടനെ past participle (V3) form തിരയുക — base verb, gerund, noun forms ഒഴിവാക്കുക, ഇത് എപ്പോഴും ഫലിക്കുന്ന ഒരു ഉറപ്പുള്ള trick ആണ്, മറക്കാതെ ഉപയോഗിക്കുക."
+    }
+  },
+  {
+    "id": "088-2022-T-Q81",
+    "paperId": "088-2022-T",
+    "questionNumber": 81,
+    "topic": "Compound Words",
+    "questionText": "Smitha has got a __________ ache.",
+    "optionA": "tooth",
+    "optionB": "teeth",
+    "optionC": "teeth's",
+    "optionD": "tooth's",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) tooth\n• 'Tooth' + 'ache' ചേർന്നാൽ 'toothache' (പല്ലുവേദന) എന്ന compound word ഉണ്ടാകും.\n• Compound Words രണ്ട് independent words ചേർന്ന് ഒരു പുതിയ അർത്ഥമുള്ള word ഉണ്ടാക്കുന്നതാണ്.\n• 'Smitha-യ്ക്ക് പല്ലുവേദന ഉണ്ട്' എന്ന അർത്ഥം വരാൻ 'tooth' + 'ache' = 'toothache' വേണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Noun + Noun = Compound Word (toothache, headache, backache)\n• Body-part + 'ache' pattern: toothache, headache, backache, stomachache — ഇവയെല്ലാം common compound words ആണ്.\n• Plural/possessive forms ('teeth', 'tooth's') compound word ഉണ്ടാക്കാൻ ഉപയോഗിക്കില്ല.\n• ⭐ PSC ആവർത്തനം: Compound Words PSC vocabulary section-ൽ പതിവായി ചോദിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. I have a terrible headache today. (ഇന്ന് എനിക്ക് കടുത്ത തലവേദനയുണ്ട്.)\n2. She complained of a backache after the trip. (യാത്ര കഴിഞ്ഞ് അവൾക്ക് നടുവേദന ഉണ്ടെന്ന് പരാതി പറഞ്ഞു.)\n3. He visited the dentist for his toothache. (പല്ലുവേദനയ്ക്കായി അവൻ ദന്തഡോക്ടറെ കണ്ടു.)\n• 'ache' ചേരുന്ന എല്ലാ compound words-ഉം body part-ന്റെ singular form-ൽ തന്നെ ആയിരിക്കും എന്ന് ശ്രദ്ധിക്കുക.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) teeth — plural form ആണ്; 'teethache' എന്നൊരു word ഇല്ല.\n• 🪤 PSC Trap: 'ache' 'ദേഹത്തിന്റെ ഭാഗം' ആണെന്ന് കരുതി plural form (teeth) തിരഞ്ഞെടുക്കാൻ students misled ആകും.\n• (C) teeth's — possessive plural ആണ്, ഇത് ഒരു valid compound word അല്ല.\n• (D) tooth's — possessive singular ആണ്; compound word ഉണ്ടാക്കാൻ apostrophe വേണ്ട.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Tooth (singular) + Ache = Toothache' — apostrophe വേണ്ട, plural വേണ്ട, ഒറ്റ വാക്കായി എഴുതണം എന്ന് ഓർക്കുക!\n• Word family: toothache, headache, backache, earache, stomachache — ഇവയെല്ലാം ഒരുമിച്ച് പഠിക്കുക, ഇവയെല്ലാം singular body-part word-ൽ തുടങ്ങി 'ache' ചേർന്നതാണ് എന്ന് ശ്രദ്ധിക്കുക.\n• PSC exam strategy: compound word ചോദ്യങ്ങളിൽ, base singular noun form ആണ് സാധാരണ correct answer — plural-ഉം possessive-ഉം ഒഴിവാക്കുക, spelling സൂക്ഷ്മമായി പരിശോധിച്ച് ഉറപ്പുവരുത്തുക."
+    }
+  },
+  {
+    "id": "088-2022-T-Q82",
+    "paperId": "088-2022-T",
+    "questionNumber": 82,
+    "topic": "Words Often Confused",
+    "questionText": "__________ driving may cause accidents.",
+    "optionA": "drinking",
+    "optionB": "careless",
+    "optionC": "careful",
+    "optionD": "caring",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) careless\n• 'Careless driving' എന്നാൽ 'ശ്രദ്ധയില്ലാത്ത ഡ്രൈവിംഗ്' എന്നർത്ഥം — അപകടങ്ങൾക്ക് കാരണമാകുന്ന negative behaviour.\n• 'Care' + 'less' (ഇല്ലാത്ത/കുറവ്) = careless — 'ശ്രദ്ധ ഇല്ലാത്ത' എന്നർത്ഥം.\n• 'ശ്രദ്ധയില്ലാതെ വണ്ടിയോടിക്കുന്നത് അപകടങ്ങൾക്ക് കാരണമാകും' എന്ന logical അർത്ഥം ഇവിടെ ചേരുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: -less suffix = 'ഇല്ലാത്ത' (without); -ful suffix = 'നിറഞ്ഞ' (full of)\n• 'Careless' (ശ്രദ്ധയില്ലാത്ത) ↔ 'careful' (ശ്രദ്ധയുള്ള) — ഇവ opposite meaning ഉള്ള word pair ആണ്.\n• Adjective + noun structure: careless/careful + driving, careless/careful work.\n• ⭐ PSC ആവർത്തനം: -less/-ful suffix confusable pairs PSC vocabulary-യിൽ പതിവായി വരും.\n• ഉദാഹരണ sentences:\n1. Careless mistakes can cost you the exam. (ശ്രദ്ധയില്ലാത്ത തെറ്റുകൾ പരീക്ഷയിൽ നഷ്ടം ഉണ്ടാക്കും.)\n2. She is a careful driver. (അവൾ ശ്രദ്ധയോടെ വാഹനമോടിക്കുന്ന ആളാണ്.)\n3. His careless attitude led to the accident. (അവന്റെ അശ്രദ്ധയാണ് അപകടത്തിന് കാരണമായത്.)\n• 'careless' എപ്പോഴും negative outcome-കളുമായി ചേർന്നാണ് വരുന്നത് എന്ന് ഈ ഉദാഹരണങ്ങളിൽ നിന്ന് മനസ്സിലാക്കാം.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) drinking — 'മദ്യപിച്ചുകൊണ്ടുള്ള ഡ്രൈവിംഗ്' എന്ന അർത്ഥമാണ്; ഇത് ശരിയായ statement ആണെങ്കിലും 'drinking driving' എന്ന് grammatically correct expression അല്ല ('drunk driving' ആണ് ശരി).\n• (C) careful — ഇത് 'ശ്രദ്ധയുള്ള' എന്ന positive meaning ആണ്; ശ്രദ്ധയോടെ ഓടിച്ചാൽ അപകടം ഉണ്ടാകില്ല, sentence-ന്റെ logic-ന് എതിരാണ്.\n• 🪤 PSC Trap: 'careful' spelling-ൽ 'careless'-മായി സാമ്യമുള്ളത് കൊണ്ട് ധൃതിയിൽ തെറ്റായി തിരഞ്ഞെടുക്കും.\n• (D) caring — 'കരുതലുള്ള' എന്നർത്ഥം; ഇത് accident-മായി logical connection ഇല്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: '-less = കുറവ്/ഇല്ലാത്ത, -ful = നിറഞ്ഞ' എന്ന suffix rule മനസ്സിൽ ഉറപ്പിക്കുക — Careless = No care, Careful = Full of care!\n• Word family: careless/careful, harmless/harmful, useless/useful — opposite suffix pairs ഒരുമിച്ച് നോട്ട് ചെയ്ത് പഠിക്കുക, ഇവ PSC-യിൽ വീണ്ടും വീണ്ടും ആവർത്തിച്ചു വരാറുണ്ട്.\n• PSC exam strategy: sentence-ന്റെ logical meaning ശ്രദ്ധയോടെ വായിക്കുക — negative result (accidents) ആണെങ്കിൽ negative cause (careless) വേണം എന്ന് ഓർക്കുക, spelling-ലെ ഓരോ അക്ഷരവും സൂക്ഷ്മമായി വായിച്ച് ഉറപ്പുവരുത്തുക."
+    }
+  },
+  {
+    "id": "088-2022-T-Q83",
+    "paperId": "088-2022-T",
+    "questionNumber": 83,
+    "topic": "Synonyms",
+    "questionText": "The synonym of the word \"Shiver\".",
+    "optionA": "feel",
+    "optionB": "learn",
+    "optionC": "tremble",
+    "optionD": "shy",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) tremble\n• 'Shiver' എന്നാൽ 'വിറയ്ക്കുക' (തണുപ്പ് കൊണ്ടോ ഭയം കൊണ്ടോ ശരീരം വിറയ്ക്കുക) എന്നർത്ഥം.\n• 'Tremble' എന്നതും 'വിറയ്ക്കുക' എന്ന അതേ അർത്ഥം തന്നെയാണ് — രണ്ടും synonym ആണ്.\n• രണ്ട് words-ഉം physical shaking/trembling motion-നെ സൂചിപ്പിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Shiver = Tremble = Quiver = Shudder (എല്ലാം 'വിറയ്ക്കുക' എന്നർത്ഥം)\n• Synonym words സാധാരണ ഒരേ അർത്ഥമോ, അടുത്ത അർത്ഥമോ ഉള്ള words ആയിരിക്കും.\n• Etymology hint: 'Shiver' Old English 'chiveren'-ൽ നിന്ന്, 'Tremble' Latin 'tremulus' (shaking) എന്നതിൽ നിന്ന്.\n• ⭐ PSC ആവർത്തനം: Body-related action synonyms (shiver, tremble, quiver) PSC-യിൽ ആവർത്തിച്ച് വരും.\n• ഉദാഹരണ sentences:\n1. She shivered with cold. (തണുപ്പ് കൊണ്ട് അവൾ വിറച്ചു.)\n2. His hands trembled with fear. (ഭയം കൊണ്ട് അവന്റെ കൈകൾ വിറച്ചു.)\n3. The leaves quivered in the wind. (കാറ്റിൽ ഇലകൾ വിറച്ചു.)\n• മൂന്ന് sentences-ഉം 'വിറയ്ക്കൽ' എന്ന ഒരേ ആശയം തന്നെയാണ് വ്യത്യസ്ത words ഉപയോഗിച്ച് പറയുന്നത്.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) feel — general അർത്ഥമുള്ള word ആണ് ('അനുഭവപ്പെടുക'), 'shiver'-ന്റെ specific 'വിറയ്ക്കൽ' അർത്ഥം ഇല്ല.\n• (B) learn — 'പഠിക്കുക' എന്നർത്ഥം, 'shiver'-മായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'feel' 'shiver'-മായി loosely ബന്ധപ്പെട്ടത് പോലെ തോന്നാം (feel cold), പക്ഷേ exact synonym അല്ല.\n• (D) shy — 'ലജ്ജയുള്ള' എന്നർത്ഥം, physical trembling-മായി ബന്ധമില്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Shiver-Tremble-Quiver' മൂന്നും 'വിറ' family — ഒരുമിച്ച് ഓർക്കുക!\n• Word family: shiver, tremble, quiver, shudder — 'വിറയ്ക്കൽ' അർത്ഥമുള്ള synonyms ഒരുമിച്ച് പഠിക്കുക, ഇവ ഒരേ group-ൽ mark ചെയ്ത് വെക്കുക.\n• PSC exam strategy: synonym ചോദ്യങ്ങളിൽ, word-ന്റെ exact core meaning ആണ് match ചെയ്യേണ്ടത്, general/loosely-related words തിരഞ്ഞെടുക്കരുത്."
+    }
+  },
+  {
+    "id": "088-2022-T-Q84",
+    "paperId": "088-2022-T",
+    "questionNumber": 84,
+    "topic": "Compound Words",
+    "questionText": "Find out a compound word.",
+    "optionA": "laptop",
+    "optionB": "books",
+    "optionC": "warden",
+    "optionD": "gardening",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) laptop\n• 'Laptop' = 'lap' + 'top' ചേർന്നുണ്ടായ compound word ആണ് — 'മടിയിൽ വെച്ച് ഉപയോഗിക്കാവുന്ന computer' എന്നർത്ഥം.\n• Compound Word രണ്ട് independent words ചേർന്ന് ഒരു പുതിയ, single meaning ഉള്ള word ഉണ്ടാക്കുന്നു.\n• 'Books', 'warden', 'gardening' എന്നിവ compound words അല്ല — ഇവ single root word-കൾ ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Word + Word = Compound Word (single new meaning)\n• Compound words മൂന്ന് തരത്തിൽ എഴുതാം: closed (laptop), hyphenated (mother-in-law), open (post office).\n• Compound word തിരിച്ചറിയാൻ: അതിനെ രണ്ട് independent, meaningful words ആയി വേർതിരിക്കാൻ പറ്റണം (lap + top).\n• ⭐ PSC ആവർത്തനം: Compound Words identification PSC-യിലെ സ്ഥിരം vocabulary topic ആണ്.\n• ഉദാഹരണ sentences:\n1. He bought a new laptop for his studies. (പഠനത്തിനായി അവൻ ഒരു പുതിയ ലാപ്ടോപ്പ് വാങ്ങി.)\n2. The classroom has a blackboard. (ക്ലാസ്‌മുറിയിൽ ഒരു ബ്ലാക്ക്ബോർഡ് ഉണ്ട്.)\n3. She works as a housewife. (അവൾ ഒരു വീട്ടമ്മയായി ജോലി ചെയ്യുന്നു.)\n• മൂന്ന് examples-ഉം രണ്ട് simple words ചേർന്ന് ഒരു പുതിയ noun ഉണ്ടാക്കുന്നത് വ്യക്തമായി കാണിക്കുന്നു.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) books — 'book' എന്ന single word-ന്റെ plural form മാത്രമാണ്, compound word അല്ല.\n• (C) warden — ഒരു single root word ആണ്, രണ്ട് independent words ചേർന്നുണ്ടായതല്ല.\n• 🪤 PSC Trap: 'gardening' 'garden' + '-ing' ആയി തോന്നാമെങ്കിലും, '-ing' ഒരു suffix മാത്രമാണ്, independent word അല്ല — അതുകൊണ്ട് compound word അല്ല.\n• (D) gardening — suffix ചേർത്തുണ്ടാക്കിയ word ആണ് (garden + ing), compound word അല്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Compound Word = Two Full Words Holding Hands!' (lap+top, book+shelf, sun+flower) എന്ന് മനസ്സിൽ ചിത്രീകരിച്ച് ഓർക്കുക.\n• Word family: laptop, notebook, classroom, sunflower, football — എല്ലാം രണ്ട് independent words ചേർന്നുണ്ടായത് ആണ്, ഇവ ഒരുമിച്ച് നോട്ട് ചെയ്ത് പഠിക്കുന്നത് നല്ലതാണ്.\n• PSC exam strategy: ഓരോ option-നെയും രണ്ട് meaningful independent words ആയി വേർതിരിക്കാൻ ശ്രമിക്കുക — സാധിച്ചാൽ അതാണ് ശരിയായ compound word, സാധിച്ചില്ലെങ്കിൽ അത് compound word അല്ല എന്ന് ഉറപ്പിക്കാം."
+    }
+  },
+  {
+    "id": "088-2022-T-Q85",
+    "paperId": "088-2022-T",
+    "questionNumber": 85,
+    "topic": "Antonyms",
+    "questionText": "The antonym of the word 'crowded' is",
+    "optionA": "deserted",
+    "optionB": "busy",
+    "optionC": "calm",
+    "optionD": "warm",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) deserted\n• 'Crowded' എന്നാൽ 'തിരക്കുള്ള' (ധാരാളം ആളുകൾ ഉള്ള) എന്നർത്ഥം.\n• 'Deserted' എന്നാൽ 'ആളൊഴിഞ്ഞ/വിജനമായ' (ആരും ഇല്ലാത്ത) എന്നർത്ഥം — ഇത് 'crowded'-ന്റെ നേരെ എതിരാണ്.\n• രണ്ട് words-ഉം ഒരു സ്ഥലത്തെ ആളുകളുടെ എണ്ണത്തെ കുറിച്ചാണ് പറയുന്നത്, opposite extremes.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Crowded (തിരക്ക്) ↔ Deserted (വിജനം) — Opposite pair\n• Antonym words core meaning-ൽ പൂർണ്ണമായി എതിരായിരിക്കണം, related അല്ലാത്തതോ, loosely opposite ആയതോ പോരാ.\n• Etymology hint: 'Deserted' Latin 'desertus' (abandoned) എന്നതിൽ നിന്ന് വന്നതാണ്.\n• ⭐ PSC ആവർത്തനം: Place-related antonym pairs (crowded/deserted, noisy/quiet) PSC-യിൽ പതിവായി വരും.\n• ഉദാഹരണ sentences:\n1. The market was crowded on Sunday. (ഞായറാഴ്ച മാർക്കറ്റ് തിരക്കുള്ളതായിരുന്നു.)\n2. The old house looked deserted and lonely. (ആ പഴയ വീട് വിജനവും ഏകാന്തവുമായി കാണപ്പെട്ടു.)\n3. The beach was deserted early in the morning. (രാവിലെ നേരത്തെ കടൽത്തീരം ആളൊഴിഞ്ഞതായിരുന്നു.)\n• ആദ്യ sentence 'crowded'-ന്റെയും, ബാക്കി രണ്ട് sentences 'deserted'-ന്റെയും ഉപയോഗം കാണിക്കുന്നു — രണ്ടും opposite meaning.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) busy — 'തിരക്കുള്ള' എന്ന അർത്ഥം തന്നെയാണ്, 'crowded'-ന്റെ synonym-നോട് അടുത്താണ്, antonym അല്ല.\n• 🪤 PSC Trap: 'busy' 'crowded'-മായി ബന്ധപ്പെട്ട word ആയതിനാൽ students confuse ആകും — എന്നാൽ ഇത് synonym ആണ്, antonym അല്ല.\n• (C) calm — 'ശാന്തമായ' എന്നർത്ഥം, ഇത് 'noisy'-ന്റെ antonym ആണ്, 'crowded'-ന്റെ അല്ല.\n• (D) warm — 'ചൂടുള്ള' എന്നർത്ഥം, ആളുകളുടെ എണ്ണവുമായി ബന്ധമില്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Crowd ഉണ്ടെങ്കിൽ Crowded, ആരും ഇല്ലെങ്കിൽ Deserted!' എന്ന് ഓർക്കുക.\n• Word family: crowded/deserted, populated/uninhabited — ആളുകളുടെ സാന്നിധ്യം സൂചിപ്പിക്കുന്ന opposite pairs.\n• PSC exam strategy: antonym options-ൽ synonym-ന് അടുത്ത words (trap) ഉണ്ടാകും — core meaning പൂർണ്ണമായി എതിരാണോ എന്ന് ഉറപ്പാക്കുക."
+    }
+  },
+  {
+    "id": "088-2022-T-Q86",
+    "paperId": "088-2022-T",
+    "questionNumber": 86,
+    "topic": "Phrasal Verbs",
+    "questionText": "Leena __________ new ideas about new year celebration.",
+    "optionA": "put off",
+    "optionB": "set out",
+    "optionC": "put forward",
+    "optionD": "turn off",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) put forward\n• 'Put forward' എന്നാൽ 'അവതരിപ്പിക്കുക/നിർദ്ദേശിക്കുക' (to propose/suggest an idea) എന്നർത്ഥം.\n• 'Leena പുതുവത്സര ആഘോഷത്തെക്കുറിച്ച് പുതിയ ആശയങ്ങൾ അവതരിപ്പിച്ചു' എന്ന അർത്ഥം ഇവിടെ ചേരുന്നു.\n• Phrasal verb-കൾ base verb + preposition/adverb ചേർന്ന്, idiomatic (literal അല്ലാത്ത) അർത്ഥം ഉണ്ടാക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Put forward = Propose/Suggest an idea\n• Phrasal verbs-ന്റെ meaning literal word meaning-ൽ നിന്ന് വ്യത്യസ്തമായിരിക്കും — 'put' + 'forward' ചേർന്നാൽ 'നിർദ്ദേശിക്കുക' എന്ന idiomatic meaning ഉണ്ടാകുന്നു.\n• 'Put' base verb-ന്റെ variants: put off (മാറ്റിവെക്കുക), put forward (നിർദ്ദേശിക്കുക), put up with (സഹിക്കുക).\n• ⭐ PSC ആവർത്തനം: 'Put' phrasal verb family PSC vocabulary section-ൽ വളരെ പതിവായി വരും.\n• ഉദാഹരണ sentences:\n1. She put forward a new proposal at the meeting. (യോഗത്തിൽ അവൾ ഒരു പുതിയ നിർദ്ദേശം അവതരിപ്പിച്ചു.)\n2. He put off the meeting till next week. (അവൻ യോഗം അടുത്ത ആഴ്ചത്തേക്ക് മാറ്റിവെച്ചു.)\n3. They put up with the noise for years. (അവർ വർഷങ്ങളോളം ശബ്ദം സഹിച്ചു.)\n• മൂന്ന് 'put' phrasal verbs-ഉം തീർത്തും വ്യത്യസ്ത അർത്ഥങ്ങളാണ് നൽകുന്നത് എന്ന് ഇവിടെ ശ്രദ്ധിക്കുക.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) put off — 'മാറ്റിവെക്കുക' (to postpone) എന്നർത്ഥം; ഇവിടെ 'ideas അവതരിപ്പിക്കുക' എന്ന അർത്ഥത്തിന് ചേരില്ല.\n• 🪤 PSC Trap: 'put' എന്ന common word എല്ലാ options-ലും ഉള്ളത് കൊണ്ട് preposition ശ്രദ്ധിക്കാതെ തിരഞ്ഞെടുക്കാൻ students misled ആകും.\n• (B) set out — 'യാത്ര ആരംഭിക്കുക/ലക്ഷ്യമിടുക' എന്നർത്ഥം, 'ideas അവതരിപ്പിക്കുക' എന്നല്ല.\n• (D) turn off — 'ഓഫ് ചെയ്യുക' (switch off) എന്നർത്ഥം, ഇവിടെ context-ന് യോജിക്കില്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Put Forward = Forward-ലേക്ക് ഒരു ആശയം Put ചെയ്യുക = Propose!' എന്ന് visualize ചെയ്യുക.\n• Word family: put off, put forward, put up with, put across — 'put' phrasal verbs ഒരുമിച്ച് പഠിക്കുക, ഓരോന്നിന്റെയും വ്യത്യസ്ത meaning പ്രത്യേകം എഴുതി വെക്കുക.\n• PSC exam strategy: phrasal verb ചോദ്യങ്ങളിൽ sentence-ന്റെ context meaning ശ്രദ്ധയോടെ വായിച്ച്, ഏത് idiomatic meaning ചേരും എന്ന് നോക്കി തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "088-2022-T-Q87",
+    "paperId": "088-2022-T",
+    "questionNumber": 87,
+    "topic": "Words Often Confused",
+    "questionText": "Roma stands __________ the bed of her mother.",
+    "optionA": "besides",
+    "optionB": "beside",
+    "optionC": "bed side",
+    "optionD": "sides",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) beside\n• 'Beside' എന്നാൽ 'അരികിൽ/സമീപം' (next to, physical location) എന്നർത്ഥം.\n• 'Roma അമ്മയുടെ കട്ടിലിന് അരികിൽ നിൽക്കുന്നു' എന്ന physical position ആണ് ഇവിടെ പറയുന്നത്.\n• 'Beside' ഒരു preposition of place ആണ്, physical closeness കാണിക്കാൻ ഉപയോഗിക്കും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Beside = Next to (physical location); Besides = In addition to (extra info)\n• 'Beside' ഒരു place preposition ആണ് ('near', 'next to' എന്നിവയ്ക്ക് സമാനം).\n• 'Besides' ഒരു additive word ആണ് ('കൂടാതെ', 'അതിനുപുറമെ' എന്ന അർത്ഥം), physical location കാണിക്കില്ല.\n• ⭐ PSC ആവർത്തനം: 'beside/besides' confusable pair PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിച്ചു വരുന്ന trap ആണ്.\n• ഉദാഹരണ sentences:\n1. She sat beside her friend. (അവൾ കൂട്ടുകാരിയുടെ അരികിൽ ഇരുന്നു.)\n2. Besides English, she speaks French too. (ഇംഗ്ലീഷിന് പുറമെ, അവൾ ഫ്രഞ്ചും സംസാരിക്കും.)\n3. The dog sat beside the fireplace. (നായ തീക്കൂടിന് അരികിൽ ഇരുന്നു.)\n• 1-ഉം 3-ഉം physical location (beside), 2 additional information (besides) കാണിക്കുന്നു എന്ന വ്യത്യാസം ശ്രദ്ധിക്കുക.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) besides — 'കൂടാതെ' എന്ന additive meaning ആണ്; ഇവിടെ physical position ('അരികിൽ') ആണ് ആവശ്യം, അത് 'besides' കാണിക്കില്ല.\n• 🪤 PSC Trap: 'beside' ഉം 'besides' ഉം spelling-ൽ ഒരേ പോലെ തോന്നും — PSC ഏറ്റവും കൂടുതൽ ഉപയോഗിക്കുന്ന classic trap ആണിത്.\n• (C) bed side — രണ്ട് വാക്കുകളായി തെറ്റായി എഴുതിയത്; ശരിയായ compound word 'bedside' ആണ്, അതും ഇവിടെ preposition ആയി ചേരില്ല.\n• (D) sides — 'sides' plural noun ആണ്, preposition അല്ല; grammatically ഇവിടെ ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Beside = By the Side (അരികിൽ); Besides = Extra/Additional (കൂടാതെ)!' എന്ന് ഓർക്കുക.\n• Word family: beside/besides, between/among, over/above — confusable preposition pairs ഒരുമിച്ച് പഠിക്കുക, ഇവ PSC-യിൽ ആവർത്തിച്ചു വരും.\n• PSC exam strategy: sentence physical location കാണിക്കുന്നുവോ, additional information കാണിക്കുന്നുവോ എന്ന് ശ്രദ്ധയോടെ നോക്കി beside/besides ശരിയായി തിരഞ്ഞെടുക്കുക, spelling-ലെ 's' ശ്രദ്ധയോടെ പരിശോധിക്കുക."
+    }
+  },
+  {
+    "id": "088-2022-T-Q88",
+    "paperId": "088-2022-T",
+    "questionNumber": 88,
+    "topic": "Idioms",
+    "questionText": "The meaning of the idiom 'Dutch Courage'.",
+    "optionA": "Courage of Dutch people",
+    "optionB": "Brave",
+    "optionC": "Heroism of fools",
+    "optionD": "False courage acquired by drinking liquor",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) False courage acquired by drinking liquor\n• 'Dutch Courage' എന്ന idiom-ന്റെ അർത്ഥം 'മദ്യപിച്ചതിനു ശേഷം ലഭിക്കുന്ന വ്യാജ ധൈര്യം' എന്നാണ്.\n• ഇത് ഒരു historical idiom ആണ് — Dutch, English soldiers-നെ കുറിച്ചുള്ള ചരിത്രപരമായ പരാമർശത്തിൽ നിന്ന് ഉണ്ടായത്.\n• Idioms-ന്റെ അർത്ഥം literal word meaning-ൽ നിന്ന് വ്യത്യസ്തമായിരിക്കും — ഇവിടെ 'Dutch' രാജ്യവുമായോ 'courage' യഥാർത്ഥ ധൈര്യവുമായോ നേരിട്ട് ബന്ധമില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Idiom meaning ≠ Literal word meaning — context/history അറിയണം\n• 'Dutch Courage' 17-ാം നൂറ്റാണ്ടിലെ Anglo-Dutch യുദ്ധകാലത്ത് ഉണ്ടായ idiom ആണ്, English-Dutch soldiers-ന്റെ മദ്യപാന ശീലങ്ങളെ കുറിച്ചുള്ള stereotype-ൽ നിന്ന്.\n• Idioms പഠിക്കുമ്പോൾ അക്ഷരാർത്ഥം മറക്കുക, മുഴുവൻ phrase-ന്റെ figurative meaning മാത്രം ഓർക്കുക.\n• ⭐ PSC ആവർത്തനം: 'Dutch' idioms (Dutch courage, go Dutch, Dutch uncle) PSC-യിൽ ആവർത്തിച്ചു ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. He needed some Dutch courage before the interview, so he had a drink. (ഇന്റർവ്യൂവിന് മുമ്പ് അവന് വ്യാജ ധൈര്യം വേണ്ടിവന്നു, അതിനാൽ അവൻ ഒരു ഡ്രിങ്ക് കഴിച്ചു.)\n2. Soldiers sometimes rely on Dutch courage before battle. (യുദ്ധത്തിന് മുമ്പ് ചില സൈനികർ മദ്യപാനത്തിലൂടെ ധൈര്യം സംഭരിക്കാറുണ്ട്.)\n3. Her Dutch courage disappeared as soon as she sobered up. (ലഹരി വിട്ടപ്പോൾ അവളുടെ വ്യാജ ധൈര്യം ഇല്ലാതായി.)\n• മൂന്ന് ഉദാഹരണങ്ങളും 'മദ്യം കൊണ്ട് താൽക്കാലികമായി ലഭിക്കുന്ന ധൈര്യം' എന്ന core idea വ്യക്തമാക്കുന്നു.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Courage of Dutch people — literal translation ആണ്, idiom-ന്റെ യഥാർത്ഥ figurative meaning അല്ല.\n• 🪤 PSC Trap: 'Dutch' എന്ന വാക്ക് കണ്ട് 'നെതർലാൻഡ്സ് ജനതയുടെ ധൈര്യം' എന്ന് literal ആയി തെറ്റിദ്ധരിക്കും.\n• (B) Brave — ഇത് വളരെ general ആയ word ആണ്, idiom-ന്റെ 'മദ്യപാനവുമായി ബന്ധപ്പെട്ട' specific meaning ഇല്ല.\n• (C) Heroism of fools — ഇതും idiom-ന്റെ യഥാർത്ഥ അർത്ഥത്തിനോട് അടുത്തല്ല; 'liquor' ബന്ധം ഇവിടെ പരാമർശിക്കുന്നില്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Dutch Courage = Bottle-ൽ നിന്ന് വരുന്ന Courage!' എന്ന് visualize ചെയ്യുക.\n• Idiom family: Dutch courage, liquid courage — 'മദ്യപാനവുമായി ബന്ധപ്പെട്ട ധൈര്യം' എന്ന theme-ൽ ഉള്ള idioms.\n• PSC exam strategy: idiom ചോദ്യങ്ങളിൽ literal meaning ഒരിക്കലും തിരഞ്ഞെടുക്കരുത് — idiom list മനഃപാഠമാക്കി വെക്കുന്നതാണ് ഏറ്റവും നല്ല strategy."
+    }
+  },
+  {
+    "id": "088-2022-T-Q89",
+    "paperId": "088-2022-T",
+    "questionNumber": 89,
+    "topic": "One Word Substitutes",
+    "questionText": "A person who believes that the worst will happen.",
+    "optionA": "Pessimist",
+    "optionB": "Optimist",
+    "optionC": "Atheist",
+    "optionD": "Villain",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Pessimist\n• 'Pessimist' എന്നാൽ 'എപ്പോഴും മോശം കാര്യങ്ങൾ സംഭവിക്കും എന്ന് വിശ്വസിക്കുന്ന വ്യക്തി' എന്നർത്ഥം.\n• 'A person who believes that the worst will happen' എന്ന definition കൃത്യമായി 'Pessimist' എന്ന one-word substitute-നോട് ചേരുന്നു.\n• Etymology: Latin 'pessimus' (worst) എന്നതിൽ നിന്നാണ് 'Pessimist' വന്നത് — 'worst' എന്ന അർത്ഥം word-ന്റെ root-ൽ തന്നെ ഉണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: One Word Substitute = ഒരു നീണ്ട definition-നെ ഒറ്റ word ആക്കി ചുരുക്കുന്നത്\n• 'Pessimist' ↔ 'Optimist' opposite pair ആണ് — Optimist എപ്പോഴും നല്ലത് സംഭവിക്കും എന്ന് വിശ്വസിക്കുന്നയാൾ.\n• Etymology hint: pessimus (Latin: worst) → pessimist; optimus (Latin: best) → optimist.\n• ⭐ PSC ആവർത്തനം: Character/personality-based one-word substitutes (pessimist, optimist, atheist) PSC-യിൽ പതിവായി വരും.\n• ഉദാഹരണ sentences:\n1. He is such a pessimist that he never expects good results. (അവൻ ഒരു കടുത്ത pessimist ആണ്, ഒരിക്കലും നല്ല ഫലം പ്രതീക്ഷിക്കില്ല.)\n2. Being an optimist, she always sees the bright side. (ഒരു optimist ആയതിനാൽ, അവൾ എപ്പോഴും നല്ല വശം കാണുന്നു.)\n3. A pessimist sees difficulty in every opportunity. (ഓരോ അവസരത്തിലും ബുദ്ധിമുട്ട് മാത്രം കാണുന്നയാളാണ് pessimist.)\n• Pessimist, Optimist എന്നീ രണ്ട് words-ഉം ഒരുമിച്ച് താരതമ്യം ചെയ്ത് പഠിക്കുന്നത് നല്ലതാണ്.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) Optimist — ഇത് exact opposite ആണ് — നല്ലത് സംഭവിക്കും എന്ന് വിശ്വസിക്കുന്നയാൾ.\n• 🪤 PSC Trap: Pessimist/Optimist ഒരുമിച്ച് options-ൽ വരുമ്പോൾ definition ശ്രദ്ധയോടെ വായിക്കാതെ students confuse ആകും.\n• (C) Atheist — 'ദൈവവിശ്വാസം ഇല്ലാത്ത വ്യക്തി' എന്നർത്ഥം, 'worst സംഭവിക്കും' എന്ന belief-മായി ബന്ധമില്ല.\n• (D) Villain — 'ദുഷ്ടനായ കഥാപാത്രം' എന്നർത്ഥം, ഒരു belief/mindset അല്ല, character type ആണ്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Pessimist = Worst-ist! (Worst സംഭവിക്കും എന്ന് കരുതുന്നയാൾ)' എന്ന് ഓർക്കുക.\n• Word family: pessimist/optimist, atheist/theist — opposite belief-based one-word substitutes ഒരുമിച്ച് പഠിക്കുക, ഇവ confuse ആകാൻ സാധ്യതയുള്ളവ ആണ്.\n• PSC exam strategy: one-word substitute ചോദ്യങ്ങളിൽ, definition-ലെ key emotion/belief word ('worst', 'best') ശ്രദ്ധിച്ച് അതിനോട് ബന്ധപ്പെട്ട word തിരഞ്ഞെടുക്കുക."
+    }
   }
 ]
