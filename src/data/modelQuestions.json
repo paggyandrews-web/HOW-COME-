@@ -1,1 +1,202 @@
-[]
+[
+  {
+    "id": "HC-DAILY-2026-08-07-Q1",
+    "paperId": "HC-DAILY-2026-08-07",
+    "questionNumber": 1,
+    "topic": "Question Tags",
+    "topicDetail": "",
+    "difficulty": "medium",
+    "questionText": "Choose the correct question tag to complete the sentence.\nShe hardly speaks in meetings, ______?",
+    "optionA": "doesn't she",
+    "optionB": "does she",
+    "optionC": "is she",
+    "optionD": "isn't she",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) does she\n\n• 'Hardly', 'scarcely', 'barely', 'seldom', 'rarely' — ഈ words-ന് 'വളരെ കുറച്ചു മാത്രം / ഏകദേശം ഇല്ല' എന്നർഥം ഉള്ളതുകൊണ്ട് ഇവ semi-negative words ആണ്.\n• Main clause-ൽ hidden negative meaning ഉള്ളതുകൊണ്ട് question tag പോസിറ്റീവ് ആയിരിക്കണം — 'does she'.\n• Subject 'She' ഉം verb 'speaks' ഉം present simple ആയതിനാൽ tag-ലെ auxiliary 'does' തന്നെ വേണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Hidden Negative (hardly/scarcely/barely/seldom) → Positive Tag\n• Main clause-ൽ 'not' എന്ന വാക്ക് ഇല്ലെങ്കിലും, ഈ semi-negative adverbs ഉള്ളപ്പോൾ tag പോസിറ്റീവ് ആയിരിക്കണം — negative-negative ആയാൽ ഇരട്ടി negative ആയി തെറ്റാകും.\n• ⭐ PSC ആവർത്തനം: Question Tags ടോപ്പിക്കിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന trap ഇതാണ് — 'hardly/scarcely' കണ്ടാൽ ഉടനെ ഓർക്കുക.\n• ഉദാഹരണ sentences:\n  1. He hardly eats anything, does he?\n  2. They seldom visit us, do they?\n  3. She can barely walk, can she?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) doesn't she — 'hardly' തന്നെ ഒരു negative signal ആയതിനാൽ, ഒരു negative tag കൂടി ചേർത്താൽ ഇരട്ടി negative ആയി ഗ്രാമർ തെറ്റാകും.\n  🪤 PSC Trap: ഉപരിപ്ലവമായി നോക്കുമ്പോൾ statement 'positive' ആയി തോന്നും (no visible 'not'), അതുകൊണ്ട് വിദ്യാർഥികൾ ഇത് തിരഞ്ഞെടുക്കും.\n• (C) is she — verb 'speaks' ആണ്, 'is' അല്ല. Tag-ലെ auxiliary main verb-മായി match ആകണം.\n  🪤 PSC Trap: 'She' കണ്ടപ്പോൾ 'is she' സ്വാഭാവികമായി തോന്നാം, പക്ഷെ verb form ശ്രദ്ധിക്കാതെ പോയാൽ തെറ്റും.\n• (D) isn't she — auxiliary-ഉം polarity-ഉം രണ്ടും തെറ്റ്.\n  🪤 PSC Trap: ഏറ്റവും 'സ്വാഭാവികമായി' തോന്നുന്ന ഓപ്ഷൻ ആണ്, അതുകൊണ്ടാണ് ഏറ്റവും കൂടുതൽ പേർ ഇത് തിരഞ്ഞെടുക്കുന്നത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HSB-Seldom-Rarely' എന്ന group ഓർത്തിരുന്നാൽ — Hardly, Scarcely, Barely, Seldom, Rarely — ഇവ കണ്ടാൽ ഉടനെ tag പോസിറ്റീവ് ആക്കുക.\n• ഇതേ family-ലെ 'never', 'few', 'little', 'no sooner' എന്നിവയും ഇതേ rule follow ചെയ്യും.\n• PSC exam strategy: Question Tag ചോദ്യങ്ങളിൽ ആദ്യം main clause-ൽ hidden negative word ഉണ്ടോ എന്ന് നോക്കുക — ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-07-Q2",
+    "paperId": "HC-DAILY-2026-08-07",
+    "questionNumber": 2,
+    "topic": "Prepositions",
+    "topicDetail": "",
+    "difficulty": "medium",
+    "questionText": "The manager insisted ______ completing the audit before Friday.",
+    "optionA": "on",
+    "optionB": "for",
+    "optionC": "about",
+    "optionD": "with",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) on\n\n• 'Insist' എന്ന verb-ന് ശേഷം എപ്പോഴും 'on' എന്ന preposition ആണ് വരുന്നത് — 'insist on doing something'.\n• ഇത് ഒരു fixed collocation ആണ്, മാറ്റം ഇല്ല.\n• Real-life connection: 'She insisted on paying the bill' എന്ന common expression ഓർത്താൽ എളുപ്പം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: insist + ON (എപ്പോഴും)\n• ഇത്തരം fixed verb-preposition collocations മാറ്റാൻ പാടില്ല — dictionary rule ആണ്.\n• ⭐ PSC ആവർത്തനം: Prepositions ടോപ്പിക്കിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്നത് ഇത്തരം fixed collocations ആണ് (insist on, depend on, congratulate on, full of).\n• ഉദാഹരണ sentences:\n  1. He insisted on seeing the manager personally.\n  2. They insisted on a written apology.\n  3. She insisted on driving home alone.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) for — 'insist for' എന്ന combination ഇംഗ്ലീഷിൽ ഇല്ല.\n  🪤 PSC Trap: 'for' പലപ്പോഴും 'ask for', 'wait for' പോലുള്ള verbs-മായി ചേരും എന്നതിനാൽ വിദ്യാർഥികൾ confuse ആകും.\n• (C) about — 'insist about' സ്വാഭാവികമായി തോന്നിയേക്കാം, പക്ഷെ standard usage അല്ല.\n  🪤 PSC Trap: 'talk about', 'worry about' പോലുള്ള patterns ഓർത്ത് ഇത് തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.\n• (D) with — 'insist with' എന്നത് ഒരു recognised collocation അല്ല.\n  🪤 PSC Trap: 'agree with' പോലുള്ള verbs-മായി confuse ചെയ്യാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'INSIST ON IT' — 'ON' എപ്പോഴും കൂടെ എന്ന് ഓർക്കുക.\n• Same family: depend ON, rely ON, focus ON, concentrate ON — ഇവയെല്ലാം 'ON' എടുക്കുന്ന verbs ആണ്.\n• PSC exam strategy: Preposition ചോദ്യങ്ങൾ വരുമ്പോൾ verb-preposition collocations ഒരു list ആയി പഠിച്ചു വെക്കുക — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-07-Q3",
+    "paperId": "HC-DAILY-2026-08-07",
+    "questionNumber": 3,
+    "topic": "Subject-Verb Agreement",
+    "topicDetail": "",
+    "difficulty": "hard",
+    "questionText": "Choose the correct verb form.\nThe chairman, along with the committee members, ______ meeting today at noon.",
+    "optionA": "is",
+    "optionB": "are",
+    "optionC": "were",
+    "optionD": "have been",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) is\n\n• Subject 'The chairman' ഒരു singular noun ആണ്.\n• 'along with the committee members' എന്നത് ഒരു parenthetical phrase മാത്രമാണ് — ഇത് subject-നെ plural ആക്കില്ല.\n• അതുകൊണ്ട് verb 'chairman' എന്ന singular subject-മായി agree ചെയ്യണം — 'is'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'along with / as well as / together with / in addition to' — ഈ phrases subject-ന്റെ number മാറ്റില്ല.\n• Verb എപ്പോഴും main subject (ആദ്യത്തെ noun) മായി മാത്രം agree ചെയ്യും, commas-നു ഇടയിലുള്ള phrase-മായി അല്ല.\n• ⭐ PSC ആവർത്തനം: Subject-Verb Agreement-ൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന trap topic ഇതാണ് — 'along with' കണ്ടാൽ ഉടനെ ശ്രദ്ധിക്കുക.\n• ഉദാഹരണ sentences:\n  1. The manager, along with his staff, is attending the conference.\n  2. The teacher, as well as her students, was late.\n  3. The captain, together with the players, has arrived.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) are — 'along with the committee members' plural ആണ് എന്ന് കരുതി ഇത് തിരഞ്ഞെടുക്കും, പക്ഷെ ഈ phrase subject അല്ല.\n  🪤 PSC Trap: 'members' എന്ന plural word verb-നു തൊട്ട് മുൻപ് കാണുന്നത് ആശയക്കുഴപ്പം ഉണ്ടാക്കും.\n• (C) were — number ഉം tense ഉം രണ്ടും തെറ്റ്; sentence-ൽ 'today' ഉള്ളതിനാൽ present ആണ് വേണ്ടത്.\n  🪤 PSC Trap: 'chairman' എന്ന word കണ്ടാൽ past tense ആണെന്ന് ധരിക്കാൻ കാരണമില്ല, എങ്കിലും ചിലർ ശ്രദ്ധിക്കാതെ തിരഞ്ഞെടുക്കും.\n• (D) have been — present perfect plural, രണ്ടു തരത്തിലും തെറ്റ്.\n  🪤 PSC Trap: 'meeting' എന്ന word കണ്ടാൽ 'have been meeting' എന്ന phrase സ്വാഭാവികമായി തോന്നാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Comma-യ്ക്കുള്ളിലെ വാക്കുകൾ 'ignore' ചെയ്ത് വായിക്കുക — 'The chairman ______ meeting today' എന്ന് വായിച്ചാൽ ഉത്തരം എളുപ്പം കിട്ടും.\n• Same family: neither...nor, either...or, along with, as well as — ഇവയെല്ലാം SVA-യിലെ classic traps ആണ്.\n• PSC exam strategy: Verb-നു തൊട്ടു മുൻപുള്ള noun-നെ അല്ല, sentence-ന്റെ ആദ്യത്തെ real subject-നെ നോക്കുക — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-07-Q4",
+    "paperId": "HC-DAILY-2026-08-07",
+    "questionNumber": 4,
+    "topic": "Tenses",
+    "topicDetail": "",
+    "difficulty": "medium",
+    "questionText": "By the time the guests arrive, she ______ dinner.",
+    "optionA": "will have finished",
+    "optionB": "will finish",
+    "optionC": "has finished",
+    "optionD": "finishes",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) will have finished\n\n• 'By the time + present simple (guests arrive)' എന്ന structure ഒരു future time-reference ആണ്.\n• മറ്റൊരു future action-നു മുൻപ് ഒരു action പൂർത്തിയാകും എന്ന് കാണിക്കാൻ Future Perfect Tense ('will have + V3') ഉപയോഗിക്കും.\n• അതുകൊണ്ട് 'she will have finished dinner' എന്നത് ശരിയായ ഉത്തരം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: By the time + Present Simple → will have + V3 (Future Perfect)\n• Signal words: 'by the time', 'by then', 'by next week/month/year' — ഇവ കണ്ടാൽ Future Perfect ഓർക്കുക.\n• ⭐ PSC ആവർത്തനം: Tenses ടോപ്പിക്കിൽ Future Perfect 'by the time' pattern സ്ഥിരമായി വരുന്നു.\n• ഉദാഹരണ sentences:\n  1. By the time you reach the station, the train will have left.\n  2. By next year, she will have completed her degree.\n  3. By the time he wakes up, we will have left for work.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) will finish — simple future ആണ്, completion-before-another-future-event എന്ന idea കാണിക്കില്ല.\n  🪤 PSC Trap: 'will' കണ്ടാൽ ശരി എന്ന് തോന്നും, പക്ഷെ 'have' ഇല്ലാതെ completion sense കിട്ടില്ല.\n• (C) has finished — present perfect ആണ്, future reference ഇല്ല.\n  🪤 PSC Trap: 'finished' എന്ന word കണ്ടാൽ completion ആണെന്ന് തോന്നും, പക്ഷെ tense തന്നെ തെറ്റ്.\n• (D) finishes — present simple, habitual meaning മാത്രം.\n  🪤 PSC Trap: ഏറ്റവും simple ഓപ്ഷൻ ആയതിനാൽ ചിലർ ഇത് guess ചെയ്യും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'By the time' കണ്ടാൽ ഉടനെ 'will have + V3' എന്ന് ഓർക്കുക — ഇത് ഒരു fixed pattern ആണ്.\n• Same family: Third Conditional-ലും 'had + V3' ഉപയോഗിക്കുന്നത് ഓർത്താൽ Future Perfect പഠിക്കാൻ എളുപ്പം.\n• PSC exam strategy: Signal word ('by the time', 'by next week') ആദ്യം കണ്ടെത്തുക, എന്നിട്ട് tense തിരഞ്ഞെടുക്കുക — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-07-Q5",
+    "paperId": "HC-DAILY-2026-08-07",
+    "questionNumber": 5,
+    "topic": "Active and Passive Voice",
+    "topicDetail": "",
+    "difficulty": "medium",
+    "questionText": "They will have completed the project by next month. (Change into Passive Voice)",
+    "optionA": "The project will have been completed by next month.",
+    "optionB": "The project has been completed by next month.",
+    "optionC": "The project will be completed by next month.",
+    "optionD": "The project was completed by next month.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) The project will have been completed by next month.\n\n• Active sentence-ന്റെ tense Future Perfect ('will have completed') ആണ്.\n• Passive voice-ലേക്ക് മാറ്റുമ്പോൾ tense മാറ്റാൻ പാടില്ല — Active tense = Passive tense എപ്പോഴും.\n• Future Perfect Passive structure: 'will have been + V3' — 'will have been completed'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Active tense = Passive tense, ALWAYS\n• Future Perfect Active: subject + will have + V3\n• Future Perfect Passive: object + will have been + V3\n• ⭐ PSC ആവർത്തനം: Active-Passive conversion ചോദ്യങ്ങളിൽ tense മാറ്റുന്നത് ആണ് ഏറ്റവും വലിയ trap.\n• ഉദാഹരണ sentences:\n  1. She will have written the letter. → The letter will have been written (by her).\n  2. They will have painted the house. → The house will have been painted.\n  3. He will have finished the work. → The work will have been finished.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) has been completed — present perfect passive, active sentence future perfect ആയതിനാൽ tense mismatch.\n  🪤 PSC Trap: 'has been completed' സ്വാഭാവികമായി കേൾക്കാൻ correct grammar ആയി തോന്നും.\n• (C) will be completed — 'perfect' aspect (completion-before-a-point) നഷ്ടപ്പെടുന്നു; ഇത് simple future മാത്രം.\n  🪤 PSC Trap: 'will' ഉള്ളതിനാൽ ശരി എന്ന് തോന്നും, പക്ഷെ 'have been' ഇല്ലാതെ incomplete ആണ്.\n• (D) was completed — simple past passive, tense പൂർണമായി തെറ്റ്.\n  🪤 PSC Trap: 'completed' എന്ന past-participle-like word കണ്ട് past tense ആണെന്ന് തെറ്റിദ്ധരിക്കാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Active-ന്റെ Tense, Passive-ന്റെ Tense' — ഇത് ഒരിക്കലും മാറില്ല, ഒരു mirror പോലെ.\n• Future Perfect Passive-ന്റെ formula ('will have been + V3') ഒരു chant ആയി പഠിക്കുക.\n• PSC exam strategy: ആദ്യം active sentence-ന്റെ tense കണ്ടെത്തുക, എന്നിട്ട് അതേ tense-ന്റെ passive structure മാത്രം തിരഞ്ഞെടുക്കുക — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-07-Q6",
+    "paperId": "HC-DAILY-2026-08-07",
+    "questionNumber": 6,
+    "topic": "Spelling",
+    "topicDetail": "",
+    "difficulty": "easy",
+    "questionText": "Choose the correctly spelt word.",
+    "optionA": "Neccessary",
+    "optionB": "Necessary",
+    "optionC": "Neccesary",
+    "optionD": "Necesary",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Necessary\n\n• 'Necessary' എന്ന വാക്കിൽ ഒരു 'c' മാത്രമേ ഉള്ളൂ, പക്ഷെ 's' ഇരട്ടിയായി വരും — Ne-c-e-ss-ary.\n• Latin root 'necessarius'-ൽ നിന്നാണ് ഈ വാക്ക് വന്നത്.\n• ഈ വാക്ക് PSC പരീക്ഷകളിൽ ഏറ്റവും കൂടുതൽ misspell ചെയ്യപ്പെടുന്ന വാക്കുകളിൽ ഒന്നാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'One Collar, Two Socks' — one 'c', two 's'-കൾ (NeCeSSary).\n• Etymology: Latin 'ne-' (not) + 'cedere' (to withdraw) → 'that cannot be avoided'.\n• ⭐ PSC ആവർത്തനം: Spelling ടോപ്പിക്കിൽ ഏറ്റവും frequent ആയി വരുന്ന വാക്കുകളിൽ ഒന്നാണ് 'necessary'.\n• ഉദാഹരണ sentences:\n  1. It is necessary to submit the form before the deadline.\n  2. Water is necessary for survival.\n  3. She took all the necessary precautions.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Neccessary — double 'c' ഉം double 's' ഉം, രണ്ടും തെറ്റ്.\n  🪤 PSC Trap: 'access', 'success' പോലുള്ള double-'c' വാക്കുകളുമായി confuse ചെയ്യാം.\n• (C) Neccesary — double 'c' single 's' — pattern പൂർണമായി മാറിപ്പോയി.\n  🪤 PSC Trap: ക്രമം ഓർമ്മയില്ലാതെ വരുമ്പോൾ ഏറ്റവും കൂടുതൽ പേർ ഈ തെറ്റ് ചെയ്യും.\n• (D) Necesary — single 'c' single 's' — 's' ഇരട്ടിയാക്കാൻ മറന്നു.\n  🪤 PSC Trap: വേഗത്തിൽ എഴുതുമ്പോൾ ഒരു 's' വിട്ടുപോകുന്ന common typo.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'One Collar, Two Socks' (Ne-C-e-SS-ary) — ഒരു ചിത്രം മനസ്സിൽ വരച്ചാൽ ഒരിക്കലും മറക്കില്ല.\n• Similar tricky spellings: 'occasion' (one c, one s, one s — ഓർക്കുക: 'oCCasion' ആണ് ശരി, രണ്ട് c), 'occurrence', 'embarrass'.\n• PSC exam strategy: Spelling ചോദ്യങ്ങൾ വരുമ്പോൾ ഓരോ option-ഉം letter-by-letter compare ചെയ്യുക, guess ചെയ്യരുത് — ഇത് ഓർത്തിരുന്നാൽ miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-07-Q7",
+    "paperId": "HC-DAILY-2026-08-07",
+    "questionNumber": 7,
+    "topic": "Idioms",
+    "topicDetail": "",
+    "difficulty": "easy",
+    "questionText": "'To burn the midnight oil' means",
+    "optionA": "To waste money carelessly",
+    "optionB": "To work late into the night",
+    "optionC": "To start a fire accidentally",
+    "optionD": "To finish a task quickly",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) To work late into the night\n\n• ഈ idiom-ന്റെ അർത്ഥം 'രാത്രി വൈകുവോളം കഠിനമായി ജോലി ചെയ്യുക / പഠിക്കുക' എന്നാണ്.\n• പണ്ട് വൈദ്യുതി ഇല്ലാതിരുന്ന കാലത്ത് ആളുകൾ എണ്ണ വിളക്കിന്റെ (oil lamp) വെളിച്ചത്തിൽ അർദ്ധരാത്രി വരെ ജോലി ചെയ്തിരുന്നു എന്നതിൽ നിന്നാണ് ഈ idiom ഉണ്ടായത്.\n• Exam-നു മുൻപ് രാത്രി വൈകുവോളം പഠിക്കുന്ന വിദ്യാർഥികളെ വിശേഷിപ്പിക്കാൻ ഇത് സാധാരണയായി ഉപയോഗിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Burn the midnight oil = Work/study late at night\n• Idioms-ന്റെ അർത്ഥം literal word-കളിൽ നിന്ന് ഊഹിക്കരുത് — മുഴുവൻ phrase-ന്റെയും figurative meaning പഠിക്കണം.\n• ⭐ PSC ആവർത്തനം: Idioms ടോപ്പിക്കിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന ഒരു classic idiom ആണ് ഇത്.\n• ഉദാഹരണ sentences:\n  1. Students often burn the midnight oil before final exams.\n  2. He burned the midnight oil to finish the project on time.\n  3. She had to burn the midnight oil to meet the deadline.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) To waste money carelessly — ഇത് 'burn a hole in one's pocket' എന്ന വേറൊരു idiom-ന്റെ അർത്ഥമാണ്, ഇതല്ല.\n  🪤 PSC Trap: 'burn' എന്ന word കണ്ടപ്പോൾ പണം കത്തിക്കുന്നത് പോലെ തോന്നാം.\n• (C) To start a fire accidentally — idiom-നെ literal ആയി വായിച്ചാൽ ഇങ്ങനെ തോന്നും, പക്ഷെ figurative meaning വേറെയാണ്.\n  🪤 PSC Trap: 'burn' + 'oil' എന്നീ words literal ആയി വായിക്കുന്നവർക്ക് ഇത് ശരി എന്ന് തോന്നാം.\n• (D) To finish a task quickly — idiom-ന്റെ focus സമയത്തിലാണ് (രാത്രി), വേഗതയിലല്ല.\n  🪤 PSC Trap: 'hard work' എന്ന ആശയവുമായി ബന്ധപ്പെടുത്തി തെറ്റായി ഊഹിക്കാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: ഒരു student രാത്രി വിളക്കിന്റെ വെളിച്ചത്തിൽ പുസ്തകം വായിക്കുന്ന ചിത്രം മനസ്സിൽ വരയ്ക്കുക — 'oil lamp burning at midnight while studying'.\n• Similar idioms: 'early bird catches the worm' (രാവിലെ എഴുന്നേൽക്കുന്നത്), 'burn a hole in one's pocket' (പണം പെട്ടെന്ന് തീരുന്നത്).\n• PSC exam strategy: Idiom ചോദ്യങ്ങളിൽ literal meaning-ൽ വീഴരുത് — എപ്പോഴും figurative meaning ആണ് ചോദിക്കുന്നത് എന്ന് ഓർക്കുക!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-07-Q8",
+    "paperId": "HC-DAILY-2026-08-07",
+    "questionNumber": 8,
+    "topic": "Synonyms",
+    "topicDetail": "",
+    "difficulty": "medium",
+    "questionText": "Replace the word underlined with its synonym.\nThe auditor's __meticulous__ review left no error unnoticed.",
+    "optionA": "careless",
+    "optionB": "careful",
+    "optionC": "hasty",
+    "optionD": "generous",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) careful\n\n• 'Meticulous' എന്നാൽ 'അതീവ ശ്രദ്ധയോടെ, ഓരോ ചെറിയ കാര്യവും ശ്രദ്ധിച്ച്' എന്നർഥം.\n• Sentence-ൽ 'left no error unnoticed' എന്ന ഭാഗം തന്നെ 'careful/thorough' എന്ന അർത്ഥത്തെ സ്ഥിരീകരിക്കുന്നു.\n• Latin root 'metus' (fear) → 'timidly careful' എന്നതിൽ നിന്നാണ് ഈ വാക്ക് വന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Meticulous = Extremely careful / precise / thorough\n• Context clue: 'left no error unnoticed' എന്ന phrase 'careful' എന്ന ആശയത്തെ പിന്തുണക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: Synonym ചോദ്യങ്ങളിൽ context sentence ശ്രദ്ധിച്ചാൽ ഉത്തരം എളുപ്പമാകും.\n• ഉദാഹരണ sentences:\n  1. She is meticulous about keeping records.\n  2. His meticulous planning ensured the event's success.\n  3. The scientist gave a meticulous account of the experiment.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) careless — ഇത് 'meticulous'-ന്റെ antonym ആണ്, synonym അല്ല.\n  🪤 PSC Trap: PSC പലപ്പോഴും antonym-നെ ഒരു option ആയി വെക്കും — വേഗത്തിൽ വായിക്കുന്നവർ ഇത് തിരഞ്ഞെടുക്കും.\n• (C) hasty — 'വേഗത്തിൽ, തിടുക്കത്തിൽ' എന്നർഥം, meticulous-ന്റെ 'careful/slow-and-steady' സ്വഭാവത്തിന് വിപരീതം.\n  🪤 PSC Trap: രണ്ടും 'ഒരു പ്രവൃത്തി ചെയ്യുന്ന രീതി' വിശേഷിപ്പിക്കുന്ന words ആയതിനാൽ confuse ആകാം.\n• (D) generous — 'ഉദാരമായ' എന്നർഥം, meticulous-മായി ഒരു ബന്ധവുമില്ല.\n  🪤 PSC Trap: unrelated ആണെങ്കിലും, ചിലർ context വായിക്കാതെ random ആയി ഇത് തിരഞ്ഞെടുക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'METICulous' → 'meter'-ൽ അളക്കുന്ന പോലെ കൃത്യമായി ചെയ്യുന്നത് എന്ന് ഓർക്കുക.\n• Word family: 'thorough', 'precise', 'painstaking', 'scrupulous' — ഇവയെല്ലാം 'meticulous'-ന്റെ synonyms ആണ്.\n• PSC exam strategy: Synonym ചോദ്യങ്ങളിൽ ആദ്യം antonym-സാധ്യതയുള്ള option ഒഴിവാക്കുക — PSC ഇത് സ്ഥിരമായി trap ആയി വെക്കും!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-07-Q9",
+    "paperId": "HC-DAILY-2026-08-07",
+    "questionNumber": 9,
+    "topic": "Phrasal Verbs",
+    "topicDetail": "",
+    "difficulty": "medium",
+    "questionText": "Fill in the blank with the correct phrasal verb.\nThe company had to _______ several employees due to the recession.",
+    "optionA": "lay off",
+    "optionB": "lay out",
+    "optionC": "lay up",
+    "optionD": "lay down",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) lay off\n\n• 'Lay off' എന്ന phrasal verb-ന്റെ അർത്ഥം 'ജോലിക്കാരെ താൽക്കാലികമായോ സ്ഥിരമായോ പിരിച്ചുവിടുക' എന്നാണ് — സാധാരണയായി സാമ്പത്തിക കാരണങ്ങളാൽ.\n• 'due to the recession' എന്ന context clue ഇത് സ്ഥിരീകരിക്കുന്നു — സാമ്പത്തിക മാന്ദ്യം കാരണം ജോലിക്കാരെ പിരിച്ചുവിടുന്നത് സാധാരണമാണ്.\n• News-ലും business contexts-ലും 'layoffs' എന്ന noun form വളരെ common ആയി ഉപയോഗിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Lay OFF = Dismiss employees (usually for economic reasons)\n• Phrasal verbs-ന്റെ meaning particle (off/out/up/down) മാറുമ്പോൾ പൂർണമായി മാറും — ഇത് idiomatic ആണ്, literal അല്ല.\n• ⭐ PSC ആവർത്തനം: 'Lay' family phrasal verbs PSC-യിൽ സ്ഥിരമായി വരുന്ന ഒരു group ആണ്.\n• ഉദാഹരണ sentences:\n  1. The factory laid off 200 workers last month.\n  2. Many IT companies laid off employees during the downturn.\n  3. He was laid off after the company merger.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) lay out — 'ക്രമീകരിക്കുക / പദ്ധതി തയ്യാറാക്കുക / പണം ചെലവഴിക്കുക' എന്നർഥം, dismissal-മായി ബന്ധമില്ല.\n  🪤 PSC Trap: 'lay' എന്ന അതേ base verb ആയതിനാൽ confuse ആകാം.\n• (C) lay up — 'സൂക്ഷിച്ചു വെക്കുക' അല്ലെങ്കിൽ 'അസുഖം കാരണം കിടപ്പിലാവുക' എന്നർഥം.\n  🪤 PSC Trap: 'lay' family-യിലെ മറ്റൊരു common phrasal verb ആയതിനാൽ confuse ചെയ്യും.\n• (D) lay down — 'നിയമം ഉണ്ടാക്കുക' അല്ലെങ്കിൽ 'സ്ഥാനം ഒഴിയുക' എന്നർഥം.\n  🪤 PSC Trap: 'lay down one's job' എന്ന expression-മായി confuse ചെയ്ത് ഇത് തിരഞ്ഞെടുക്കാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'LAY OFF = Employee goes OFF the payroll' — 'off' എന്ന particle 'പുറത്തേക്ക്' എന്ന ആശയം നൽകുന്നു.\n• 'Lay' family മുഴുവൻ ഒരുമിച്ച് പഠിക്കുക: lay off (dismiss), lay out (plan/spend), lay up (store/ill), lay down (state rule/resign).\n• PSC exam strategy: Phrasal verb ചോദ്യങ്ങളിൽ context sentence-ലെ keyword ('recession', 'due to') ശ്രദ്ധിച്ചാൽ correct particle കണ്ടെത്താം — ഇത് ഓർത്തിരുന്നാൽ miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-07-Q10",
+    "paperId": "HC-DAILY-2026-08-07",
+    "questionNumber": 10,
+    "topic": "One Word Substitutes",
+    "topicDetail": "",
+    "difficulty": "hard",
+    "questionText": "What is the one-word substitute for \"a person who can speak two languages\"?",
+    "optionA": "Bilingual",
+    "optionB": "Multilingual",
+    "optionC": "Linguist",
+    "optionD": "Polyglot",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Bilingual\n\n• 'Bi-' എന്ന prefix-ന്റെ അർത്ഥം 'രണ്ട്' എന്നാണ് (bicycle - രണ്ട് ചക്രം, bilateral - രണ്ട് ഭാഗം).\n• 'Bilingual' = 'bi' (two) + 'lingua' (language, Latin) = 'രണ്ട് ഭാഷകൾ സംസാരിക്കാൻ കഴിയുന്ന ആൾ'.\n• Question-ൽ കൃത്യമായി 'two languages' എന്ന് പറഞ്ഞിരിക്കുന്നതിനാൽ, കൃത്യമായി 'two' എന്നർഥമുള്ള word തന്നെ വേണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Bi- = Two, Multi-/Poly- = Many (more than two)\n• Number-specific prefixes ശ്രദ്ധിക്കുക: uni- (1), bi- (2), tri- (3), multi-/poly- (many).\n• ⭐ PSC ആവർത്തനം: One Word Substitutes ടോപ്പിക്കിൽ ഇത്തരം number-based prefix questions സ്ഥിരമായി വരുന്നു.\n• ഉദാഹരണ sentences:\n  1. Canada is officially a bilingual country (English and French).\n  2. She grew up bilingual, speaking Malayalam and English.\n  3. The bilingual signboard displayed text in two languages.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) Multilingual — 'multi-' എന്നാൽ 'പല' എന്നാണ്, കൃത്യമായി 'രണ്ട്' എന്നല്ല.\n  🪤 PSC Trap: 'languages' എന്ന plural word കണ്ടപ്പോൾ 'multi-' ശരി എന്ന് തോന്നാം, പക്ഷെ question-ൽ 'two' എന്ന് കൃത്യമായി പറഞ്ഞിട്ടുണ്ട്.\n• (C) Linguist — ഭാഷ പഠിക്കുന്ന/ഗവേഷണം ചെയ്യുന്ന ആളാണ്, ഭാഷ സംസാരിക്കുന്ന ആളല്ല.\n  🪤 PSC Trap: 'language' എന്ന word-മായി ബന്ധപ്പെട്ട വാക്ക് ആയതിനാൽ confuse ചെയ്യും.\n• (D) Polyglot — 'poly-' എന്നാൽ 'പല' (many) എന്നാണ്, സാധാരണയായി രണ്ടിൽ കൂടുതൽ ഭാഷകൾ എന്നർഥത്തിൽ ഉപയോഗിക്കുന്നു.\n  🪤 PSC Trap: ഇത് ഒരു 'impressive' സൗണ്ട് ഉള്ള word ആയതിനാൽ പലരും ഇത് correct ആണെന്ന് ഊഹിച്ച് തിരഞ്ഞെടുക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BIcycle-ന് രണ്ട് wheel ഉള്ളത് പോലെ, BIlingual-ന് രണ്ട് language' എന്ന് ഓർക്കുക.\n• Prefix family ഒരുമിച്ച് പഠിക്കുക: unilingual (1), bilingual (2), trilingual (3), multilingual/polyglot (many).\n• PSC exam strategy: One Word Substitute ചോദ്യങ്ങളിൽ exact number/degree question-ൽ പറഞ്ഞിട്ടുണ്ടെങ്കിൽ, ആ number-മായി കൃത്യമായി match ആകുന്ന prefix ഉള്ള word തിരഞ്ഞെടുക്കുക!"
+    }
+  }
+]
