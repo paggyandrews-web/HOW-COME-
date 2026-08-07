@@ -55,6 +55,7 @@ const Profile = lazy(() => import('./pages/Profile'))
 const Search = lazy(() => import('./pages/Search'))
 const Bookmarks = lazy(() => import('./pages/Bookmarks'))
 const Mock = lazy(() => import('./pages/Mock'))
+const FullHundred = lazy(() => import('./pages/FullHundred'))
 
 /* Lightweight fallback shown while a lazy page chunk downloads */
 function PageLoading() {
@@ -160,6 +161,7 @@ function AnimatedRoutes() {
           <Route path="/search" element={<Search />} />
           <Route path="/bookmarks" element={<Bookmarks />} />
           <Route path="/mock" element={<Mock />} />
+          <Route path="/full100" element={<FullHundred />} />
         </Routes>
       </Suspense>
     </div>
