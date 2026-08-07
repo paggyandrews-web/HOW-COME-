@@ -467,9 +467,6 @@ export default function Home() {
         </div>
       </div>
 
-      {/* ── Free-period announcement ──────────────────────────────── */}
-      <PromoBanner questionCount={questionCount} paperCount={papers.length} />
-
       {/* ── Study Streak card ─────────────────────────────────────── */}
       {streak > 0 && (
         <div className="rounded-2xl p-4"
