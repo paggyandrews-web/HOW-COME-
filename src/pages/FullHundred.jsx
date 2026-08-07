@@ -23,7 +23,7 @@ function renderWithUnderlines(line) {
 function QuestionText({ num, text }) {
   const lines = String(text || '').split('\n')
   return (
-    <div className="flex gap-2" style={{ fontFamily: "'Times New Roman', Times, serif", fontSize: 15 }}>
+    <div className="flex gap-2" style={{ fontFamily: "'Manjari', 'Times New Roman', Times, serif", fontSize: 15 }}>
       {num != null && <span className="font-bold shrink-0 self-start">{num}.</span>}
       <div className="font-medium leading-relaxed">
         {lines.map((line, i) => (

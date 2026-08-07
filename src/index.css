@@ -80,7 +80,7 @@ body {
   background-color: var(--bg);
   color: var(--text);
   transition: background-color 0.2s, color 0.2s;
-  font-family: system-ui, -apple-system, sans-serif;
+  font-family: 'Manjari', system-ui, -apple-system, sans-serif;
 }
 
 /* Hide native scrollbar — replaced by custom ScrollIndicator */
