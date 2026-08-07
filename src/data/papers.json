@@ -1081,5 +1081,14 @@
     "medium": "T",
     "year": "2022",
     "categoryCode": "Police"
+  },
+  {
+    "id": "116-2022-M",
+    "paperCode": "116/2022 M",
+    "post": "Common Preliminary Examination 2022 (Graduate Level)- Stage II",
+    "date": "19-Nov-2022",
+    "medium": "M",
+    "year": "2022",
+    "categoryCode": "095/2019, 078/2021, 004/2022 etc"
   }
 ]
