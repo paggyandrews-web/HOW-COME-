@@ -44,13 +44,28 @@ function fmtClock(secs) {
   return String(m).padStart(2, '0') + ':' + String(s).padStart(2, '0')
 }
 
+/* A paper counts as "English" if its medium says so — either a genuine PSC
+   English-medium booklet ("E") or a labelled English study rendering. Every
+   other medium (M, Tamil, Kannada, ...) lands in the Malayalam tab, which is
+   just "everything not English" since Full 100 is overwhelmingly M-medium. */
+function isEnglishPaper(p) {
+  const m = String(p.medium || '').toLowerCase()
+  return m === 'e' || m.includes('english')
+}
+
 /* ── Paper list ─────────────────────────────────────────────────────── */
 function PaperList({ onStart }) {
+  const [tab, setTab] = useState('malayalam') // malayalam | english
+
   const counts = useMemo(() => {
     const map = {}
     fullQuestions.forEach(q => { map[q.paperId] = (map[q.paperId] || 0) + 1 })
     return map
   }, [])
+
+  const malayalamPapers = useMemo(() => fullPapers.filter(p => !isEnglishPaper(p)), [])
+  const englishPapers = useMemo(() => fullPapers.filter(p => isEnglishPaper(p)), [])
+  const shownPapers = tab === 'english' ? englishPapers : malayalamPapers
 
   return (
     <div className="max-w-3xl mx-auto px-4 py-6">
@@ -61,15 +76,31 @@ function PaperList({ onStart }) {
         Final Answer Key, free for everyone.
       </p>
 
-      {fullPapers.length === 0 && (
+      <div className="flex gap-2 mb-4">
+        {[['malayalam', 'മലയാളം', malayalamPapers.length], ['english', 'English', englishPapers.length]].map(([val, label, n]) => (
+          <button key={val} onClick={() => setTab(val)}
+            className="flex-1 rounded-xl py-2.5 text-sm font-bold cursor-pointer"
+            style={{
+              background: tab === val ? 'var(--accent)' : 'var(--bg2)',
+              color: tab === val ? 'var(--accent-text)' : 'var(--text2)',
+              border: '1px solid ' + (tab === val ? 'var(--accent)' : 'var(--border)'),
+            }}>
+            {label} <span style={{ opacity: 0.8, fontWeight: 600 }}>({n})</span>
+          </button>
+        ))}
+      </div>
+
+      {shownPapers.length === 0 && (
         <div className="rounded-xl p-5 text-center" style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
           <div className="text-2xl mb-1">📄</div>
-          <div className="font-semibold text-sm">No papers archived yet</div>
+          <div className="font-semibold text-sm">
+            {tab === 'english' ? 'No English papers archived yet' : 'No papers archived yet'}
+          </div>
           <div className="text-xs mt-1" style={{ color: 'var(--text2)' }}>Check back soon.</div>
         </div>
       )}
 
-      {fullPapers.map(p => (
+      {shownPapers.map(p => (
         <div key={p.id} className="card rounded-xl p-4 mb-3 flex flex-col gap-3"
           style={{ border: '1px solid var(--border)' }}>
           <div>
