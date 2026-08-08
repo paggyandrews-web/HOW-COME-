@@ -50,5 +50,18 @@
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC) — uploaded 17-02-2026",
     "status": "published"
+  },
+  {
+    "id": "115-2025-M",
+    "paperCode": "115/2025-M",
+    "post": "Caretaker",
+    "categoryCode": "045/2025, 046/2025, 129/2025, 130/2025, 586/2024, 647/2024, 648/2024",
+    "date": "21-Jan-2026",
+    "medium": "M",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC)",
+    "status": "published"
   }
 ]
