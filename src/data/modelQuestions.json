@@ -198,5 +198,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) Multilingual — 'multi-' എന്നാൽ 'പല' എന്നാണ്, കൃത്യമായി 'രണ്ട്' എന്നല്ല.\n  🪤 PSC Trap: 'languages' എന്ന plural word കണ്ടപ്പോൾ 'multi-' ശരി എന്ന് തോന്നാം, പക്ഷെ question-ൽ 'two' എന്ന് കൃത്യമായി പറഞ്ഞിട്ടുണ്ട്.\n• (C) Linguist — ഭാഷ പഠിക്കുന്ന/ഗവേഷണം ചെയ്യുന്ന ആളാണ്, ഭാഷ സംസാരിക്കുന്ന ആളല്ല.\n  🪤 PSC Trap: 'language' എന്ന word-മായി ബന്ധപ്പെട്ട വാക്ക് ആയതിനാൽ confuse ചെയ്യും.\n• (D) Polyglot — 'poly-' എന്നാൽ 'പല' (many) എന്നാണ്, സാധാരണയായി രണ്ടിൽ കൂടുതൽ ഭാഷകൾ എന്നർഥത്തിൽ ഉപയോഗിക്കുന്നു.\n  🪤 PSC Trap: ഇത് ഒരു 'impressive' സൗണ്ട് ഉള്ള word ആയതിനാൽ പലരും ഇത് correct ആണെന്ന് ഊഹിച്ച് തിരഞ്ഞെടുക്കും.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BIcycle-ന് രണ്ട് wheel ഉള്ളത് പോലെ, BIlingual-ന് രണ്ട് language' എന്ന് ഓർക്കുക.\n• Prefix family ഒരുമിച്ച് പഠിക്കുക: unilingual (1), bilingual (2), trilingual (3), multilingual/polyglot (many).\n• PSC exam strategy: One Word Substitute ചോദ്യങ്ങളിൽ exact number/degree question-ൽ പറഞ്ഞിട്ടുണ്ടെങ്കിൽ, ആ number-മായി കൃത്യമായി match ആകുന്ന prefix ഉള്ള word തിരഞ്ഞെടുക്കുക!"
     }
+  },
+  {
+    "id": "HC-DAILY-2026-08-08-Q1",
+    "paperId": "HC-DAILY-2026-08-08",
+    "questionNumber": 1,
+    "topic": "Question Tags",
+    "difficulty": "medium",
+    "questionText": "She hardly ever complains about her workload, ________?",
+    "optionA": "does she",
+    "optionB": "doesn't she",
+    "optionC": "did she",
+    "optionD": "will she",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) does she\n\n• 'Hardly ever' എന്നത് ഒരു negative adverb ആണ് — 'വളരെ അപൂർവ്വമായി മാത്രം' എന്നർഥം. വാക്യത്തിൽ ഇതിനകം ഒരു negative meaning ഉള്ളതിനാൽ, question tag positive ആയിരിക്കണം.\n• Main verb 'complains' present simple tense-ൽ ആണ് (she/he/it -> -s ending), അതിനാൽ tag-ലും 'does' തന്നെ വരണം.\n• PSC ചോദ്യങ്ങളിൽ hardly, scarcely, seldom, never, rarely തുടങ്ങിയ negative adverbs ഉള്ള sentences-ന് ഇത് ഒരു classic trap ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Negative sentence -> Positive tag; Positive sentence -> Negative tag.\n• 'Hardly', 'scarcely', 'seldom', 'never', 'rarely', 'barely' എന്നിവ negative adverbs ആണ് — ഇവ ഉള്ള sentences-ന്റെ tag എപ്പോഴും positive ആയിരിക്കും.\n• ⭐ PSC ആവർത്തനം: Question Tags PSC പേപ്പറുകളിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. He hardly ever goes out, does he?\n2. She never lies, does she?\n3. They seldom visit us, do they?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) doesn't she — negative tag ആണ്. വാക്യത്തിൽ 'hardly ever' ഉള്ളതിനാൽ അത് ഇതിനകം negative ആണ്, tag-ഉം negative ആക്കിയാൽ രണ്ട് negatives വരും. 🪤 PSC Trap: 'hardly' ഒരു negative word ആണെന്ന് പലരും ശ്രദ്ധിക്കാറില്ല.\n• (C) did she — past tense auxiliary. വാക്യത്തിലെ verb 'complains' present simple ആണ്, past അല്ല.\n• (D) will she — future tense auxiliary. വാക്യത്തിൽ future reference ഇല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Hardly, Scarcely, Seldom, Never' — ഇവ കണ്ടാൽ ഉടനെ ഓർക്കുക: 'Hidden Negative, Positive Tag!'\n• Negative adverbs-ന്റെ ഒരു list ഉണ്ടാക്കി പഠിക്കുക: hardly, scarcely, seldom, never, rarely, barely, little, few.\n• PSC exam strategy: Tag questions കാണുമ്പോൾ ആദ്യം main clause negative ആണോ എന്ന് പരിശോധിക്കുക — hidden negatives ശ്രദ്ധിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-08-Q2",
+    "paperId": "HC-DAILY-2026-08-08",
+    "questionNumber": 2,
+    "topic": "Prepositions",
+    "difficulty": "medium",
+    "questionText": "He is very keen ________ learning new languages in his free time.",
+    "optionA": "on",
+    "optionB": "in",
+    "optionC": "for",
+    "optionD": "about",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) on\n\n• 'Keen on' എന്നത് ഒരു fixed collocation ആണ് — 'വളരെ താൽപ്പര്യമുള്ള' എന്നർഥത്തിൽ ഉപയോഗിക്കുന്നു.\n• Adjective + preposition combinations മിക്കപ്പോഴും ഓർത്തിരിക്കേണ്ടതാണ്, rule അനുസരിച്ച് predict ചെയ്യാൻ കഴിയില്ല.\n• PSC പേപ്പറുകളിൽ ആവർത്തിച്ചു വരുന്ന ഒരു fixed preposition ചോദ്യമാണിത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Adjective + Preposition combinations fixed collocations ആണ് — rule വച്ച് guess ചെയ്യാൻ പറ്റില്ല, മനഃപാഠമാക്കണം.\n• 'Keen on' = വളരെ താൽപ്പര്യമുള്ള.\n• Related word group: fond of, interested in, keen on, good at, afraid of.\n• ⭐ PSC ആവർത്തനം: Prepositions PSC-യിൽ ഏറ്റവും കൂടുതൽ വരുന്ന topics-ൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. She is keen on painting.\n2. He is fond of music.\n3. They are interested in history.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) in — 'Keen in' എന്നത് standard English-ൽ ഇല്ലാത്ത, തെറ്റായ collocation ആണ്. 🪤 PSC Trap: 'interested in' ഓർത്ത് 'keen in' എഴുതുന്നവർ ഈ trap-ൽ വീഴും.\n• (C) for — 'Keen for' ഒരു fixed expression അല്ല standard usage-ൽ.\n• (D) about — 'Keen about' സാധാരണയായി ഉപയോഗിക്കാറില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'KEEN ON' — രണ്ടും 'K' sound-ൽ തുടങ്ങുന്നു, ഒരുമിച്ച് ഓർക്കുക.\n• Fixed preposition collocations ഒരു list ആയി ദിവസവും ആവർത്തിച്ചു പഠിക്കുക.\n• PSC exam strategy: ഇത്തരം ചോദ്യങ്ങൾക്ക് rule ഇല്ല, word-ഉം preposition-ഉം ഒരുമിച്ച് ഒരു unit ആയി മനഃപാഠമാക്കുകയാണ് വേണ്ടത്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-08-Q3",
+    "paperId": "HC-DAILY-2026-08-08",
+    "questionNumber": 3,
+    "topic": "Subject-Verb Agreement",
+    "difficulty": "medium",
+    "questionText": "Neither the manager nor the employees ________ aware of the new policy changes.",
+    "optionA": "are",
+    "optionB": "is",
+    "optionC": "was",
+    "optionD": "has been",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) are\n\n• 'Neither...nor' കൊണ്ട് ബന്ധിപ്പിച്ച subjects ഉള്ളപ്പോൾ, verb-ന്റെ number, verb-ന് ഏറ്റവും അടുത്തുള്ള subject-നെ ആശ്രയിച്ചാണ് തീരുമാനിക്കുന്നത്.\n• ഇവിടെ verb-നോട് അടുത്ത subject 'the employees' (plural) ആണ്, അതിനാൽ plural verb 'are' വേണം.\n• 🔑 Quick Formula: nearer subject wins!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Neither...nor / Either...or / Not only...but also — verb എപ്പോഴും nearer subject-നോട് agree ചെയ്യും.\n• Related word group: Correlative conjunctions (either/or, neither/nor, not only/but also).\n• ⭐ PSC ആവർത്തനം: Subject-Verb Agreement PSC-യിലെ ഒരു core grammar topic ആണ്.\n• ഉദാഹരണ sentences:\n1. Neither the students nor the teacher was present.\n2. Either you or I am responsible.\n3. Not only the players but also the coach was praised.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) is — singular verb ആണ്, പക്ഷേ nearer subject 'employees' plural ആണ് — agreement തെറ്റാണ്.\n• (C) was — past tense ആണ്, വാക്യത്തിന്റെ context ('new policy changes' recently introduced) present ആണ്, കൂടാതെ number-ഉം തെറ്റാണ്.\n• (D) has been — singular auxiliary ആണ്, plural nearer subject-നോട് ചേരില്ല. 🪤 PSC Trap: 'manager' (singular) ആദ്യം കണ്ട് 'is' തിരഞ്ഞെടുക്കുന്നത് ഒരു common mistake ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Neither-Nor, Nearer wins the war!' — verb എപ്പോഴും അടുത്തുള്ള subject-നെ follow ചെയ്യും.\n• Correlative conjunctions-ന്റെ verb agreement rules ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Neither/nor, either/or sentences കാണുമ്പോൾ verb-ന് തൊട്ടുമുൻപുള്ള subject മാത്രം നോക്കുക, ആദ്യത്തെ subject അവഗണിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-08-Q4",
+    "paperId": "HC-DAILY-2026-08-08",
+    "questionNumber": 4,
+    "topic": "Tenses",
+    "difficulty": "medium",
+    "questionText": "By the time the fire brigade arrived, the flames ________ the entire roof.",
+    "optionA": "had already destroyed",
+    "optionB": "already destroyed",
+    "optionC": "have already destroyed",
+    "optionD": "were already destroying",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) had already destroyed\n\n• 'By the time + past tense verb (arrived)' എന്ന signal phrase, മറ്റൊരു past action-ന് മുൻപ് പൂർത്തിയായ action-നെ സൂചിപ്പിക്കാൻ Past Perfect Tense ആവശ്യപ്പെടുന്നു.\n• 🔑 Quick Formula: Past Perfect (had + V3) = ഒരു past action-ന് മുൻപ് പൂർത്തിയായ action.\n• Roof പൂർണ്ണമായി destroy ചെയ്തത്, fire brigade വരുന്നതിന് മുൻപ് സംഭവിച്ചു കഴിഞ്ഞതിനാൽ completed-before-another-past-action structure ആണ് വേണ്ടത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: By the time + Past Simple → Past Perfect (had + V3) for the earlier action.\n• Signal words: by the time, before, already, just, when (with two past actions).\n• ⭐ PSC ആവർത്തനം: Tenses, especially Past Perfect, PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. By the time we reached the station, the train had already left.\n2. She had finished her homework before her mother came home.\n3. He had already left when I called him.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) already destroyed — Simple Past ആണ്, രണ്ട് past actions തമ്മിലുള്ള sequencing കാണിക്കുന്നില്ല. 🪤 PSC Trap: 'already' ഉള്ളതുകൊണ്ട് ഇത് ശരിയാണെന്ന് തോന്നാം, പക്ഷേ Past Perfect വേണം.\n• (C) have already destroyed — Present Perfect ആണ്, വാക്യം മുഴുവൻ past time frame-ൽ ('arrived') ആയതിനാൽ ചേരില്ല.\n• (D) were already destroying — Past Continuous ആണ്, ongoing action-നെ കാണിക്കുന്നു, completed action അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'By the time... Had already Time!' — 'by the time' കണ്ടാൽ 'had + V3' ഓർക്കുക.\n• Past Perfect-ഉം Simple Past-ഉം ഒരുമിച്ച് practice ചെയ്യുക — രണ്ട് past actions ഉള്ള sentences.\n• PSC exam strategy: 'By the time', 'before', 'after' ഈ words കണ്ടാൽ ഏത് action ആദ്യം നടന്നു എന്ന് നോക്കി Past Perfect തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-08-Q5",
+    "paperId": "HC-DAILY-2026-08-08",
+    "questionNumber": 5,
+    "topic": "Active and Passive Voice",
+    "difficulty": "medium",
+    "questionText": "Change the following sentence from Active to Passive:\nThe librarian will issue new library cards next week.",
+    "optionA": "New library cards will be issued by the librarian next week.",
+    "optionB": "New library cards were issued by the librarian next week.",
+    "optionC": "New library cards will be issuing by the librarian next week.",
+    "optionD": "New library cards will have been issued by the librarian next week.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) New library cards will be issued by the librarian next week.\n\n• 🔑 Quick Formula: Active tense = Passive tense — ALWAYS.\n• Active sentence Simple Future Tense-ൽ ആണ് ('will issue'), അതിനാൽ Passive-ലും Simple Future Passive structure (will + be + V3) തന്നെ വേണം.\n• Object 'new library cards' Passive sentence-ന്റെ subject ആയി മാറുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Active tense = Passive tense — ALWAYS. Tense മാറ്റരുത്.\n• Simple Future Active (will + V1) → Simple Future Passive (will + be + V3).\n• ⭐ PSC ആവർത്തനം: Active-Passive Voice conversion PSC-യിൽ സ്ഥിരമായി വരുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. She will write a letter. -> A letter will be written by her.\n2. They will complete the project. -> The project will be completed by them.\n3. He will paint the wall. -> The wall will be painted by him.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) were issued — Simple Past Passive ആണ്, Active sentence-ന്റെ tense (Simple Future) മാറിപ്പോയി. 🪤 PSC Trap: tense മാറ്റുന്നത് ഏറ്റവും common ആയ Active-Passive തെറ്റാണ്.\n• (C) will be issuing — ഘടന തെറ്റാണ്, Passive Voice-ൽ 'will be issuing' എന്ന form ശരിയായ usage അല്ല (should be 'will be issued').\n• (D) will have been issued — Future Perfect Passive ആണ്, Active sentence Simple Future ആയതിനാൽ ഇത് അധിക aspect ചേർക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Same Tense, New Sense!' — Voice മാറുമ്പോൾ tense മാറില്ല, structure മാത്രം മാറും.\n• എല്ലാ 12 tenses-ന്റെയും Active-Passive formulas ഒരു chart ആയി പഠിക്കുക.\n• PSC exam strategy: ആദ്യം Active sentence-ന്റെ tense തിരിച്ചറിയുക, എന്നിട്ട് Passive-ലും അതേ tense ഉള്ള option തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-08-Q6",
+    "paperId": "HC-DAILY-2026-08-08",
+    "questionNumber": 6,
+    "topic": "Spelling",
+    "difficulty": "medium",
+    "questionText": "Which of the following words is spelled correctly?",
+    "optionA": "Questionaire",
+    "optionB": "Questionnaire",
+    "optionC": "Questionnairre",
+    "optionD": "Quesionnaire",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Questionnaire\n\n• French origin word ആണ് 'questionnaire' — double 'n' ഉം single 'r' ഉം ആണ് ശരിയായ spelling.\n• Etymology hint: French '-aire' suffix ഉള്ള words-ൽ (millionaire, questionnaire) ഇത് ഒരു common pattern ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: '-aire' suffix ഉള്ള French-origin words-ൽ ഇരട്ട letters ശ്രദ്ധിക്കുക.\n• Word family: millionaire, questionnaire, billionaire.\n• ⭐ PSC ആവർത്തനം: Spelling PSC-യിലെ ഏറ്റവും ആവർത്തിക്കുന്ന topics-ൽ ഒന്നാണ്.\n• Etymology hint: French language-ൽ നിന്നും കടം വാങ്ങിയ word ആണ് 'questionnaire'.\n• ഉദാഹരണ sentences:\n1. Please fill out this questionnaire.\n2. The researcher distributed a questionnaire to 200 participants.\n3. A well-designed questionnaire improves survey accuracy.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Questionaire — single 'n' ഉപയോഗിച്ചിരിക്കുന്നു, തെറ്റാണ്. 🪤 PSC Trap: 'question' + 'aire' എന്ന് simple ആയി ചേർത്താൽ ഈ തെറ്റ് വരും.\n• (C) Questionnairre — extra 'r' ചേർത്തിരിക്കുന്നു.\n• (D) Quesionnaire — 't' letter വിട്ടുപോയിരിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Double N, Single R — Questionnaire!'\n• '-aire' ending ഉള്ള words ഒരുമിച്ച് പഠിക്കുക: millionaire, questionnaire.\n• PSC exam strategy: Spelling questions-ൽ word-നെ syllables ആയി പിരിച്ച് ഓരോ ഭാഗവും ശ്രദ്ധയോടെ പരിശോധിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-08-Q7",
+    "paperId": "HC-DAILY-2026-08-08",
+    "questionNumber": 7,
+    "topic": "Idioms",
+    "difficulty": "medium",
+    "questionText": "The idiomatic expression underlined can best be replaced by which of the following?\nAfter months of preparation, the young entrepreneur finally decided to __take the plunge__ and launch her own startup.",
+    "optionA": "take a big risk",
+    "optionB": "take a short break",
+    "optionC": "change her mind",
+    "optionD": "ask for advice",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) take a big risk\n\n• 'Take the plunge' എന്ന idiom-ന്റെ അർഥം — ശ്രദ്ധാപൂർവ്വം ചിന്തിച്ചതിന് ശേഷം ഒരു risky അല്ലെങ്കിൽ decisive step എടുക്കുക എന്നാണ്.\n• Context-ൽ 'months of preparation' ശേഷം 'launch her own startup' എന്നത് ഒരു നിർണായക തീരുമാനത്തെ സൂചിപ്പിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Idioms literal meaning-ൽ അല്ല, figurative meaning-ൽ മനസ്സിലാക്കണം.\n• 'Take the plunge' = ശ്രദ്ധാപൂർവ്വം ചിന്തിച്ച ശേഷം ഒരു risky/decisive step എടുക്കുക.\n• ⭐ PSC ആവർത്തനം: Idioms PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന ഒരു vocabulary topic ആണ്.\n• ഉദാഹരണ sentences:\n1. After years of saving, they finally took the plunge and bought a house.\n2. He took the plunge and quit his stable job to start a business.\n3. She was nervous but decided to take the plunge and audition for the play.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) take a short break — 'plunge' എന്നാൽ break എന്നല്ല, ഇത് ഒരു unrelated meaning ആണ്.\n• (C) change her mind — idiom-ന്റെ അർഥത്തിന് നേരെ വിപരീതം ആണ്; 'take the plunge' commitment കാണിക്കുന്നു, mind മാറ്റുന്നത് അല്ല. 🪤 PSC Trap: decisive action എന്നതിനെ mind മാറ്റലുമായി confuse ചെയ്യുന്നവർ ഈ trap-ൽ വീഴും.\n• (D) ask for advice — advice തേടുന്നതല്ല, സ്വയം തീരുമാനമെടുക്കുന്നതാണ് idiom-ന്റെ അർഥം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: നീന്തൽക്കുളത്തിലേക്ക് ധൈര്യമായി ചാടുന്ന ഒരു ചിത്രം സങ്കൽപ്പിക്കുക — അതാണ് 'take the plunge'!\n• Decision/risk-related idioms ഒരുമിച്ച് പഠിക്കുക: take the plunge, bite the bullet, burn one's boats.\n• PSC exam strategy: Idiom-ന്റെ context sentence വായിച്ച്, മൊത്തത്തിലുള്ള tone (positive/negative, risky/safe) മനസ്സിലാക്കി ഉത്തരം തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-08-Q8",
+    "paperId": "HC-DAILY-2026-08-08",
+    "questionNumber": 8,
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct synonym of the word in italics.\nThe old professor was known for his __erudite__ lectures on ancient philosophy.",
+    "optionA": "scholarly",
+    "optionB": "boring",
+    "optionC": "lengthy",
+    "optionD": "simple",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) scholarly\n\n• 'Erudite' എന്നാൽ — ആഴത്തിലുള്ള അറിവും പാണ്ഡിത്യവുമുള്ള എന്നർഥം.\n• Etymology hint: Latin 'eruditus' (to instruct, to educate) എന്നതിൽ നിന്നും വന്നതാണ് ഈ word.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Synonym ചോദ്യങ്ങളിൽ context sentence-ലെ tone ശ്രദ്ധിക്കുക.\n• 'Erudite' = ആഴത്തിലുള്ള അറിവുള്ള, പണ്ഡിതോചിതമായ.\n• ⭐ PSC ആവർത്തനം: Synonyms PSC-യിലെ ഒരു core vocabulary topic ആണ്.\n• Etymology hint: Latin 'eruditus' (educated, instructed) -> 'e-' (out of) + 'rudis' (rude/unlearned) = 'unlearned അല്ലാത്ത' എന്ന അർഥത്തിലേക്ക് വികസിച്ചു.\n• ഉദാഹരണ sentences:\n1. She gave an erudite explanation of the theory.\n2. His erudite writing impressed the scholars.\n3. The erudite scholar had read thousands of books.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) boring — 'erudite' knowledge-നെ കുറിച്ചാണ്, interesting-ഉം boring-ഉം അല്ല. 🪤 PSC Trap: 'lectures' എന്ന word കണ്ട് 'boring' എന്ന് guess ചെയ്യുന്നവർ ഈ trap-ൽ വീഴും.\n• (C) lengthy — length-നെ കുറിച്ചല്ല, knowledge-ന്റെ depth-നെ കുറിച്ചാണ് 'erudite'.\n• (D) simple — ഇത് 'erudite'-ന് ഏകദേശം വിപരീത അർഥമാണ്; erudite person-ന്റെ knowledge complex ആയിരിക്കും, simple അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Erudite = E for Expert!' — വളരെ അറിവുള്ള ഒരു expert-നെ സങ്കൽപ്പിക്കുക.\n• Knowledge/intelligence-related words ഒരുമിച്ച് പഠിക്കുക: erudite, scholarly, learned, sagacious.\n• PSC exam strategy: Synonym ചോദ്യങ്ങളിൽ word-ന്റെ 'category' (positive/negative, knowledge/emotion/size) ആദ്യം തിരിച്ചറിഞ്ഞ് options-ൽ നിന്ന് അതേ category matching word തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-08-Q9",
+    "paperId": "HC-DAILY-2026-08-08",
+    "questionNumber": 9,
+    "topic": "Phrasal Verbs",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the phrasal verb in italics.\nThe negotiations __broke down__ after both parties failed to agree on the terms.",
+    "optionA": "failed / collapsed",
+    "optionB": "started successfully",
+    "optionC": "were postponed",
+    "optionD": "were recorded",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) failed / collapsed\n\n• 'Break down' (negotiations/talks context-ൽ) എന്നാൽ — പരാജയപ്പെടുക, തുടരാൻ കഴിയാതെ നിലയ്ക്കുക എന്നർഥം.\n• Context clue: 'failed to agree on the terms' ഇത് breakdown-നെ സൂചിപ്പിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Phrasal verbs-ന്റെ meaning idiomatic ആണ്, individual words-ന്റെ literal meaning-ൽ നിന്നും വ്യത്യസ്തമായിരിക്കും.\n• 'Break down' (talks/negotiations context-ൽ) = പരാജയപ്പെടുക, തുടരാൻ കഴിയാതെ നിലയ്ക്കുക.\n• ⭐ PSC ആവർത്തനം: Phrasal Verbs PSC-യിൽ സ്ഥിരമായി വരുന്ന ഒരു vocabulary topic ആണ്.\n• Related word group: break down (fail), break off (stop suddenly), break out (start suddenly - war/fire), break up (end a relationship).\n• ഉദാഹരണ sentences:\n1. The peace talks broke down after the disagreement.\n2. Her car broke down on the highway.\n3. Communication between the two teams broke down completely.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) started successfully — 'broke down' എന്നതിന് നേരെ വിപരീത അർഥം ആണ്. 🪤 PSC Trap: context-ലെ negative outcome ('failed to agree') ശ്രദ്ധിക്കാതെ പോയാൽ ഈ trap-ൽ വീഴും.\n• (C) were postponed — postpone ചെയ്യുക എന്നല്ല 'break down'-ന്റെ അർഥം, ഇത് completely failed ആയി എന്നാണ്.\n• (D) were recorded — ഇതിന് 'break down'-മായി യാതൊരു ബന്ധവുമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: ഒരു car breakdown സങ്കൽപ്പിക്കുക — വണ്ടി നിന്നുപോകുന്നത് പോലെ, negotiations-ഉം നിന്നുപോകുന്നു!\n• 'Break' + preposition family മുഴുവൻ ഒരുമിച്ച് പഠിക്കുക: break down, break off, break out, break up.\n• PSC exam strategy: Phrasal verb ചോദ്യങ്ങളിൽ context sentence-ലെ ബാക്കി വാക്യം (ഇവിടെ 'failed to agree') clue ആയി ഉപയോഗിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-08-Q10",
+    "paperId": "HC-DAILY-2026-08-08",
+    "questionNumber": 10,
+    "topic": "One Word Substitutes",
+    "difficulty": "medium",
+    "questionText": "Choose the most suitable one-word substitute for the phrase in italics.\nThe old manuscript contained words that were __no longer in use__ and had fallen out of common speech.",
+    "optionA": "obsolete",
+    "optionB": "ancient",
+    "optionC": "rare",
+    "optionD": "illegible",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) obsolete\n\n• 'Obsolete' എന്നാൽ — ഇപ്പോൾ ഉപയോഗത്തിലില്ലാത്ത, കാലഹരണപ്പെട്ട എന്നർഥം.\n• 'Ancient' (very old) ഉം 'rare' (uncommon) ഉം 'illegible' (readable അല്ലാത്തത്) ഉം വ്യത്യസ്ത അർഥങ്ങളാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: One-word substitute ചോദ്യങ്ങളിൽ phrase-ന്റെ exact meaning capture ചെയ്യുന്ന word തിരഞ്ഞെടുക്കുക, similar-sounding words-ൽ വീഴരുത്.\n• 'Obsolete' = ഇപ്പോൾ ഉപയോഗത്തിലില്ലാത്ത, കാലഹരണപ്പെട്ട.\n• ⭐ PSC ആവർത്തനം: One Word Substitutes PSC-യിലെ ഒരു core vocabulary topic ആണ്.\n• Etymology hint: Latin 'obsoletus' (grown old, worn out) -> 'ob-' + 'solere' (to be accustomed).\n• ഉദാഹരണ sentences:\n1. Typewriters have become obsolete since computers arrived.\n2. Many old words in the dictionary are now obsolete.\n3. The company replaced its obsolete machinery with modern equipment.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) ancient — 'വളരെ പഴയത്' എന്നർഥം, പക്ഷേ 'no longer in use' എന്ന specific meaning ഇല്ല — ancient ആയ വസ്തുക്കൾ ഇപ്പോഴും use-ൽ ആയിരിക്കാം. 🪤 PSC Trap: 'old manuscript' എന്ന context കണ്ട് 'ancient' choose ചെയ്യുന്നവർ ഈ trap-ൽ വീഴും.\n• (C) rare — 'അപൂർവ്വമായ' എന്നർഥം, usage-മായി നേരിട്ട് ബന്ധമില്ല.\n• (D) illegible — 'വായിക്കാൻ കഴിയാത്ത' എന്നർഥം, completely വ്യത്യസ്തമായ meaning ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'OBSOLETE = OUT OF USE, complete!' — രണ്ടും 'O' sound-ൽ തുടങ്ങുന്നു.\n• Time/usage-related one-word substitutes ഒരുമിച്ച് പഠിക്കുക: obsolete, archaic, contemporary, antiquated.\n• PSC exam strategy: Phrase-ലെ key words ('no longer', 'fallen out of') ശ്രദ്ധിച്ച് exact meaning capture ചെയ്യുന്ന word matching ചെയ്യുക, similar-feeling words-ൽ വീഴരുത്."
+    }
   }
 ]
