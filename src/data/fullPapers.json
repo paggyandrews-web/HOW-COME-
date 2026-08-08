@@ -76,5 +76,31 @@
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC)",
     "status": "published"
+  },
+  {
+    "id": "003-2026-M-EN",
+    "paperCode": "003/2026-M (English study version)",
+    "post": "ADMINISTRATIVE ASSISTANT (KERALA POLICE DEPARTMENT)",
+    "categoryCode": "293/2025",
+    "date": "17-Jan-2026",
+    "medium": "English (study rendering)",
+    "year": "2026",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) -- English rendering for study convenience; PSC did not publish a separate English-medium booklet for this paper (only K/T/M). Q81-90 are genuinely printed in English on the M-medium paper; Q1-80 and Q91-100 are translated from the official Malayalam text.",
+    "status": "published"
+  },
+  {
+    "id": "172-2025-M",
+    "paperCode": "172/2025-M",
+    "post": "Beat Forest Officer",
+    "categoryCode": "211/2025, 212/2025, 213/2025, 214/2025, 250/2025, 251/2025, 252/2025, 253/2025",
+    "date": "20-Dec-2025",
+    "medium": "M",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC)",
+    "status": "published"
   }
 ]
