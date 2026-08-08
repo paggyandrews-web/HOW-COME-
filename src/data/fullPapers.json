@@ -37,5 +37,18 @@
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC) — uploaded 02-06-2026",
     "status": "published"
+  },
+  {
+    "id": "005-2026-M",
+    "paperCode": "005/2026-M",
+    "post": "Female Assistant Prison Officer",
+    "categoryCode": "316/2025,360/2025",
+    "date": "24-Jan-2026",
+    "medium": "M",
+    "year": "2026",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — uploaded 17-02-2026",
+    "status": "published"
   }
 ]
