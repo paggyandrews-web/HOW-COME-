@@ -115,5 +115,18 @@
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC)",
     "status": "published"
+  },
+  {
+    "id": "132-2025-M",
+    "paperCode": "132-2025 M",
+    "post": "LD Typist, Stenographer, Confidential Assistant etc.",
+    "categoryCode": "019/2025,106/2025,107/2025,138/2024,177/2024,178/2024,179/2024,247/2024",
+    "date": "22-Oct-2025",
+    "medium": "E",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC)",
+    "status": "published"
   }
 ]
