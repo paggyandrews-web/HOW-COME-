@@ -128,5 +128,18 @@
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC)",
     "status": "published"
+  },
+  {
+    "id": "89-2025-M",
+    "paperCode": "89/2025 M",
+    "post": "ASSISTANT PRISON OFFICER CUM DRIVER (WARDER DRIVER) (PRISONS)",
+    "categoryCode": "732/2024",
+    "date": "16-Aug-2025",
+    "medium": "M",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC)",
+    "status": "published"
   }
 ]
