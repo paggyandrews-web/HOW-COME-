@@ -63,5 +63,18 @@
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC)",
     "status": "published"
+  },
+  {
+    "id": "003-2026-M",
+    "paperCode": "003/2026-M",
+    "post": "ADMINISTRATIVE ASSISTANT (KERALA POLICE DEPARTMENT)",
+    "categoryCode": "293/2025",
+    "date": "17-Jan-2026",
+    "medium": "M",
+    "year": "2026",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC)",
+    "status": "published"
   }
 ]
