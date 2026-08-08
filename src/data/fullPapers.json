@@ -102,5 +102,18 @@
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC)",
     "status": "published"
+  },
+  {
+    "id": "167-2025-M",
+    "paperCode": "167/2025-M",
+    "post": "Woman Fire & Rescue Officer (Trainee)",
+    "categoryCode": "215/2025",
+    "date": "06-Dec-2025",
+    "medium": "M",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC)",
+    "status": "published"
   }
 ]
