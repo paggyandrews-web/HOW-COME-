@@ -4,6 +4,7 @@ import papers from '../data/papers.json'
 import questions from '../data/questions.json'
 import Dropdown from '../components/Dropdown'
 import { usePaperProgress } from '../hooks/usePaperProgress'
+import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, statusBadgeText } from '../utils/paperStatus'
 
 // Group by the actual year of the test date (not the paper-code year, which
 // can differ — e.g. a 2023-coded paper whose exam was actually held in 2024).
@@ -15,28 +16,7 @@ function testYear(p) {
   return p.year != null ? String(p.year) : p.year
 }
 
-function daysAgo(isoDate) {
-  const days = Math.floor((Date.now() - new Date(isoDate).getTime()) / 86400000)
-  return days
-}
-
-const STATUS_META = {
-  'not-started': { label: 'Not started', color: 'var(--text2)', bg: 'rgba(136,136,136,0.14)' },
-  'in-progress': { label: 'In progress', color: 'var(--accent)', bg: 'rgba(26,157,142,0.14)' },
-  'completed': { label: 'Completed', color: 'var(--accent-green)', bg: 'rgba(34,197,94,0.14)' },
-}
-const DUE_COLOR = '#f59e0b'
-const DUE_BG = 'rgba(245,158,11,0.14)'
-
 const YEARS = [...new Set(papers.map(testYear))].filter(Boolean).sort().reverse()
-
-const STATUS_OPTIONS = [
-  { value: '', label: 'All Statuses' },
-  { value: 'not-started', label: 'Not Started' },
-  { value: 'in-progress', label: 'In Progress' },
-  { value: 'completed', label: 'Completed' },
-  { value: 'due', label: 'Due for Revision' },
-]
 
 export default function Papers() {
   const [search] = useSearchParams()
@@ -64,15 +44,7 @@ export default function Papers() {
     papers
       .filter(p => {
         if (year && testYear(p) !== year) return false
-        if (status) {
-          const prog = progress[p.id]
-          if (!prog) return false
-          if (status === 'due') {
-            if (!prog.dueForRevision) return false
-          } else if (prog.status !== status) {
-            return false
-          }
-        }
+        if (!matchesStatusFilter(progress[p.id], status)) return false
         if (!query) return true
         const q = query.toLowerCase()
         return (
@@ -125,7 +97,7 @@ export default function Papers() {
           onChange={setStatus}
           placeholder="All Statuses"
           className="w-44"
-          options={STATUS_OPTIONS}
+          options={STATUS_FILTER_OPTIONS}
         />
       </div>
 
@@ -153,11 +125,7 @@ export default function Papers() {
                       className="text-[10px] font-bold px-2 py-1 rounded-full whitespace-nowrap"
                       style={{ color: meta.color, background: meta.bg }}
                     >
-                      {prog.status === 'in-progress'
-                        ? `${prog.attempted}/${prog.total} done`
-                        : prog.status === 'completed'
-                          ? `Score: ${prog.score}%`
-                          : meta.label}
+                      {statusBadgeText(prog, meta)}
                     </span>
                   )}
                 </div>

@@ -2,8 +2,18 @@ import { useState, useMemo, useCallback, useEffect, useRef } from 'react'
 import fullPapers from '../data/fullPapers.json'
 import fullQuestions from '../data/fullQuestions.json'
 import Confetti from '../components/Confetti'
+import Dropdown from '../components/Dropdown'
+import { useResults } from '../hooks/useResults'
+import { usePaperProgress } from '../hooks/usePaperProgress'
+import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, statusBadgeText } from '../utils/paperStatus'
+import { getDraft, saveDraft, clearDraft, getAllDrafts, draftAttemptedCount } from '../utils/fullHundredDraft'
 
 const NEGATIVE_MARK = 1 / 3
+
+// PSC-deleted questions are never answerable in the exam UI, so they must be
+// excluded from both the saved result and the progress "total" — otherwise a
+// paper with any deleted question could never reach 100% attempted/completed.
+const SCOREABLE_FULL_QUESTIONS = fullQuestions.filter(q => q.status !== 'deleted')
 
 /* Same \n / __underline__ convention used elsewhere in the app, so a paper
    transcribed with multi-line (i/ii/iii sub-items) questions renders correctly. */
@@ -54,8 +64,32 @@ function isEnglishPaper(p) {
 }
 
 /* ── Paper list ─────────────────────────────────────────────────────── */
-function PaperList({ onStart }) {
+function PaperList({ onStart, onResume }) {
   const [tab, setTab] = useState('malayalam') // malayalam | english
+  const [status, setStatus] = useState('')
+
+  const { progress, loading, summary } = usePaperProgress(fullPapers, SCOREABLE_FULL_QUESTIONS)
+
+  // Local-only autosave drafts (never synced to Firestore — see
+  // utils/fullHundredDraft.js). Read once per mount; PaperList remounts
+  // fresh every time you return here from the exam/result screens.
+  const drafts = useMemo(() => getAllDrafts(), [])
+
+  // Blend committed (submitted) results with any local in-progress draft.
+  // A submitted result always wins — once a paper is completed, a stray
+  // draft (there shouldn't be one; submit clears it) never overrides it.
+  const displayProgress = useMemo(() => {
+    const map = {}
+    fullPapers.forEach(p => {
+      const committed = progress[p.id]
+      if (!committed || committed.status === 'completed') { map[p.id] = committed; return }
+      const attempted = draftAttemptedCount(drafts[p.id])
+      map[p.id] = attempted > 0
+        ? { ...committed, status: 'in-progress', attempted }
+        : committed
+    })
+    return map
+  }, [progress, drafts])
 
   const counts = useMemo(() => {
     const map = {}
@@ -65,7 +99,8 @@ function PaperList({ onStart }) {
 
   const malayalamPapers = useMemo(() => fullPapers.filter(p => !isEnglishPaper(p)), [])
   const englishPapers = useMemo(() => fullPapers.filter(p => isEnglishPaper(p)), [])
-  const shownPapers = tab === 'english' ? englishPapers : malayalamPapers
+  const shownPapers = (tab === 'english' ? englishPapers : malayalamPapers)
+    .filter(p => matchesStatusFilter(displayProgress[p.id], status))
 
   return (
     <div className="max-w-3xl mx-auto px-4 py-6">
@@ -74,6 +109,15 @@ function PaperList({ onStart }) {
         Real, complete PSC question papers — all 100 questions, every subject, exactly as printed
         in the original medium. No translation, no explanations — just the paper and the official
         Final Answer Key, free for everyone.
+        {!loading && (
+          <>
+            {' '}{summary.completed} completed
+            {summary.dueForRevision > 0 && (
+              <span style={{ color: DUE_COLOR }}> · {summary.dueForRevision} due for revision</span>
+            )}
+            .
+          </>
+        )}
       </p>
 
       <div className="flex gap-2 mb-4">
@@ -90,6 +134,14 @@ function PaperList({ onStart }) {
         ))}
       </div>
 
+      <Dropdown
+        value={status}
+        onChange={setStatus}
+        placeholder="All Statuses"
+        className="w-44 mb-4"
+        options={STATUS_FILTER_OPTIONS}
+      />
+
       {shownPapers.length === 0 && (
         <div className="rounded-xl p-5 text-center" style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
           <div className="text-2xl mb-1">📄</div>
@@ -100,29 +152,54 @@ function PaperList({ onStart }) {
         </div>
       )}
 
-      {shownPapers.map(p => (
-        <div key={p.id} className="card rounded-xl p-4 mb-3 flex flex-col gap-3"
-          style={{ border: '1px solid var(--border)' }}>
-          <div>
-            <div className="font-semibold text-sm leading-snug">{p.post}</div>
-            <div className="text-xs mt-1.5 flex flex-wrap gap-x-2 gap-y-1" style={{ color: 'var(--text2)' }}>
-              <span>🧾 {p.paperCode}</span>
-              <span>·</span>
-              <span>📅 {p.date}</span>
-              <span>·</span>
-              <span>📝 {counts[p.id] || 0} questions</span>
+      {shownPapers.map(p => {
+        const prog = displayProgress[p.id]
+        const meta = prog ? STATUS_META[prog.status] : null
+        const due = prog?.dueForRevision
+        const isResumable = prog?.status === 'in-progress'
+        const label = prog?.status === 'completed' ? '🔁 Retake' : isResumable ? '▶️ Resume' : '✏️ Start'
+        return (
+          <div key={p.id} className="card rounded-xl p-4 mb-3 flex flex-col gap-3"
+            style={{ border: '1px solid ' + (due ? DUE_COLOR : 'var(--border)') }}>
+            <div>
+              <div className="flex items-start justify-between gap-2">
+                <div className="font-semibold text-sm leading-snug">{p.post}</div>
+                {meta && !loading && (
+                  <span
+                    className="text-[10px] font-bold px-2 py-1 rounded-full whitespace-nowrap"
+                    style={{ color: meta.color, background: meta.bg }}
+                  >
+                    {statusBadgeText(prog, meta)}
+                  </span>
+                )}
+              </div>
+              <div className="text-xs mt-1.5 flex flex-wrap gap-x-2 gap-y-1" style={{ color: 'var(--text2)' }}>
+                <span>🧾 {p.paperCode}</span>
+                <span>·</span>
+                <span>📅 {p.date}</span>
+                <span>·</span>
+                <span>📝 {counts[p.id] || 0} questions</span>
+              </div>
+              <div className="text-xs mt-1" style={{ color: 'var(--text2)' }}>
+                Category: {p.categoryCode}
+              </div>
+              {due && (
+                <div
+                  className="text-[11px] font-semibold mt-2 px-2 py-1.5 rounded-lg"
+                  style={{ color: DUE_COLOR, background: DUE_BG }}
+                >
+                  ⏰ Due for revision — last practiced {daysAgo(prog.lastAttemptDate)}d ago
+                </div>
+              )}
             </div>
-            <div className="text-xs mt-1" style={{ color: 'var(--text2)' }}>
-              Category: {p.categoryCode}
-            </div>
+            <button onClick={() => (isResumable ? onResume(p) : onStart(p))}
+              className="w-full text-center py-2.5 rounded-xl text-sm font-bold cursor-pointer"
+              style={{ background: 'var(--accent)', color: 'var(--accent-text)', border: '2px solid var(--accent)', touchAction: 'manipulation' }}>
+              {label}
+            </button>
           </div>
-          <button onClick={() => onStart(p)}
-            className="w-full text-center py-2.5 rounded-xl text-sm font-bold cursor-pointer"
-            style={{ background: 'var(--accent)', color: 'var(--accent-text)', border: '2px solid var(--accent)', touchAction: 'manipulation' }}>
-            ✏️ Start
-          </button>
-        </div>
-      ))}
+        )
+      })}
 
       <div className="text-xs mt-4 leading-relaxed" style={{ color: 'var(--text2)' }}>
         These are archived exactly as PSC published them — deleted questions are marked and excluded
@@ -224,12 +301,12 @@ function InstructionsScreen({ paper, questionCount, onBegin, onBack }) {
 }
 
 /* ── Exam screen ────────────────────────────────────────────────────── */
-function ExamScreen({ paper, questions, onSubmit }) {
+function ExamScreen({ paper, questions, onSubmit, initial }) {
   const total = questions.length
-  const [current, setCurrent] = useState(0)
-  const [answers, setAnswers] = useState({})
-  const [marked, setMarked] = useState({})
-  const [elapsed, setElapsed] = useState(0)
+  const [current, setCurrent] = useState(initial?.current ?? 0)
+  const [answers, setAnswers] = useState(initial?.answers ?? {})
+  const [marked, setMarked] = useState(initial?.marked ?? {})
+  const [elapsed, setElapsed] = useState(initial?.elapsed ?? 0)
   const [showPalette, setShowPalette] = useState(false)
   const [confirmSubmit, setConfirmSubmit] = useState(false)
   const [showConfetti, setShowConfetti] = useState(false)
@@ -245,6 +322,16 @@ function ExamScreen({ paper, questions, onSubmit }) {
     window.addEventListener('beforeunload', warn)
     return () => window.removeEventListener('beforeunload', warn)
   }, [])
+
+  // Autosave to localStorage only (no Firestore writes) whenever an answer,
+  // mark, or the current position changes — not on every 1s timer tick, so
+  // this stays a handful of writes per exam rather than hundreds. Lets a
+  // half-finished paper be "Resume"-d later, on this device, instead of
+  // silently vanishing if you never hit Finish.
+  useEffect(() => {
+    saveDraft(paper.id, { answers, marked, current, elapsed })
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [answers, marked, current, paper.id])
 
   const doSubmit = useCallback(() => {
     if (submittedRef.current) return
@@ -569,6 +656,8 @@ export default function FullHundred() {
   const [answers, setAnswers] = useState({})
   const [timeTaken, setTimeTaken] = useState(0)
   const [examKey, setExamKey] = useState(0)
+  const [examInitial, setExamInitial] = useState(null)
+  const { saveResult } = useResults()
 
   const questions = useMemo(() => {
     if (!paper) return []
@@ -585,9 +674,26 @@ export default function FullHundred() {
     window.scrollTo(0, 0)
   }
 
+  // Fresh attempt (first "Start", or "Retake" after a completed paper) —
+  // always blank, and drops any stale draft so the list can't show a leftover
+  // "Resume" for an attempt that's being restarted on purpose.
   function beginExam(p) {
+    clearDraft(p.id)
     setPaper(p)
     setAnswers({})
+    setExamInitial(null)
+    setExamKey(k => k + 1)
+    setStage('exam')
+    window.scrollTo(0, 0)
+  }
+
+  // Continue a half-finished paper from its local autosave — skips the
+  // instructions screen since you've already seen it this attempt.
+  function resumeExam(p) {
+    const draft = getDraft(p.id)
+    setPaper(p)
+    setAnswers(draft?.answers || {})
+    setExamInitial(draft)
     setExamKey(k => k + 1)
     setStage('exam')
     window.scrollTo(0, 0)
@@ -598,6 +704,19 @@ export default function FullHundred() {
     setTimeTaken(secs)
     setStage('result')
     window.scrollTo(0, 0)
+
+    // Persist the attempt so this paper shows up as "practiced" on the list
+    // (and starts its due-for-revision clock) — mirrors the English Papers flow.
+    // Deleted questions are excluded so they don't get wrongly scored as wrong.
+    const scoreable = questions
+      .map((q, i) => ({ q, a: ans[i] }))
+      .filter(({ q }) => q.status !== 'deleted')
+    if (scoreable.length) {
+      saveResult(scoreable.map(s => s.q), scoreable.map(s => s.a), 'full100')
+    }
+    // The submitted result is now the permanent record — the local
+    // in-progress draft has served its purpose.
+    clearDraft(paper.id)
   }
 
   if (stage === 'instructions' && paper) {
@@ -611,7 +730,7 @@ export default function FullHundred() {
     )
   }
   if (stage === 'exam' && paper) {
-    return <ExamScreen key={examKey} paper={paper} questions={questions} onSubmit={handleSubmit} />
+    return <ExamScreen key={examKey} paper={paper} questions={questions} onSubmit={handleSubmit} initial={examInitial} />
   }
   if (stage === 'result' && paper) {
     return (
@@ -625,5 +744,5 @@ export default function FullHundred() {
       />
     )
   }
-  return <PaperList onStart={chooseFromList} />
+  return <PaperList onStart={chooseFromList} onResume={resumeExam} />
 }
