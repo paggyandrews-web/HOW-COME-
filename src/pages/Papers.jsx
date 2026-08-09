@@ -154,9 +154,9 @@ export default function Papers() {
                       style={{ color: meta.color, background: meta.bg }}
                     >
                       {prog.status === 'in-progress'
-                        ? `${prog.attempted}/${prog.total}`
+                        ? `${prog.attempted}/${prog.total} done`
                         : prog.status === 'completed'
-                          ? `${prog.score}%`
+                          ? `Score: ${prog.score}%`
                           : meta.label}
                     </span>
                   )}
