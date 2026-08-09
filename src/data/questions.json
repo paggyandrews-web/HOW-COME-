@@ -27988,5 +27988,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) simple — ഇത് sentence classification-ൽ ഉപയോഗിക്കുന്ന term ആണ് ('Simple Sentence'), single-word formation-ന് ഉപയോഗിക്കുന്ന ശരിയായ term അല്ല, ഇവിടെ context-ന് യോജിക്കില്ല.\n• (B) predicative — ഇത് adjective-ന്റെ sentence-ലെ സ്ഥാനത്തെ (subject-ന് ശേഷം വരുന്ന adjective, ഉദാ: 'she is happy') വിവരിക്കുന്ന grammar term ആണ്, word formation-മായി ഒരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: unrelated grammar terms (simple, predicative, complex) options ആയി നൽകി students-നെ confuse ചെയ്യാൻ PSC ശ്രമിക്കും — ഇവ word-formation terms അല്ല, sentence-level terms ആണ് എന്ന് കൃത്യമായി തിരിച്ചറിയണം.\n• (C) complex — ഇതും sentence classification term ആണ് ('Complex Sentence'), single word-ന്റെ formation category അല്ല; word-level-ൽ ഈ term ഒരിക്കലും ഉപയോഗിക്കാറില്ല എന്ന് ഓർക്കുക.",
       "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Greenhouse = Green + House Holding Hands = Compound!' എന്ന് മനസ്സിൽ ചിത്രീകരിച്ച് ഓർക്കുക.\n• Word family: greenhouse, blackboard, sunflower, notebook, football — എല്ലാം രണ്ട് independent words ചേർന്നുണ്ടായ compound words ആണ്, ഇവയെല്ലാം ഒരുമിച്ച് നോട്ട് ചെയ്ത് പഠിക്കുക.\n• PSC exam strategy: 'simple/complex/compound' എന്ന വാക്ക് word-formation ചോദ്യത്തിൽ വന്നാൽ, ഇത് sentence classification അല്ല, word structure ആണ് എന്ന് ഓർത്ത്, 'compound' ആണ് ശരിയായ context എന്ന് എപ്പോഴും ഉറപ്പിക്കുക."
     }
+  },
+  {
+    "id": "070-2022-M-Q61",
+    "paperId": "070-2022-M",
+    "questionNumber": 61,
+    "topic": "Synonyms",
+    "questionText": "Give the synonym of 'fugacious'.",
+    "optionA": "Ephemeral",
+    "optionB": "Permanent",
+    "optionC": "Admirable",
+    "optionD": "Enthralling",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Ephemeral\n• 'Fugacious' എന്ന വാക്കിന്റെ അർത്ഥം 'ക്ഷണികമായ', 'വേഗം കടന്നുപോകുന്ന' എന്നാണ് — Latin 'fugere' (to flee) എന്ന റൂട്ടിൽ നിന്നാണ് ഈ വാക്ക് വരുന്നത്.\n• 'Ephemeral' എന്ന വാക്കിനും അതേ അർത്ഥം തന്നെയാണ് — 'ഹ്രസ്വകാലം നിലനിൽക്കുന്ന', 'പെട്ടെന്ന് മാഞ്ഞുപോകുന്ന' എന്നർത്ഥം. രണ്ട് വാക്കുകളും 'ക്ഷണികത' എന്ന ഒരേ ആശയത്തെ സൂചിപ്പിക്കുന്നു.\n• Greek 'ephemeros' (ഒരു ദിവസം മാത്രം നിലനിൽക്കുന്നത്) എന്ന റൂട്ടിൽ നിന്നാണ് Ephemeral വരുന്നത് — രണ്ട് വാക്കുകളും 'താൽക്കാലികത' എന്ന ഒരേ അർത്ഥവലയത്തിൽ പെടുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Synonym ചോദ്യങ്ങളിൽ word-ന്റെ 'core meaning' കണ്ടെത്തി, അതേ meaning ഉള്ള option തിരയുക — spelling സാമ്യമല്ല, meaning സാമ്യമാണ് നോക്കേണ്ടത്.\n• 'Fugacious' = ക്ഷണികമായ, വേഗം അപ്രത്യക്ഷമാകുന്ന (transient, short-lived, fleeting).\n• ഇതേ അർത്ഥവലയത്തിലെ മറ്റ് വാക്കുകൾ: transient, transitory, evanescent, fleeting, momentary.\n• ⭐ PSC ആവർത്തനം: Latin/Greek റൂട്ടുകളിൽ നിന്നുള്ള 'uncommon' vocabulary words (fugacious, sagacious, loquacious) PSC പതിവായി ചോദിക്കാറുണ്ട്.\n• Etymology hint: Latin 'fugax/fugere' (to flee) → fugacious, fugitive, refuge എന്നീ വാക്കുകളെല്ലാം ഈ റൂട്ടിൽ നിന്നാണ്.\n• ഉദാഹരണ sentences:\n1. Fame in showbiz is often fugacious. (പ്രശസ്തി പലപ്പോഴും ക്ഷണികമാണ്.)\n2. Youth and beauty are ephemeral. (യൗവനവും സൗന്ദര്യവും ക്ഷണികമാണ്.)\n3. The fugacious joy of winning a lottery soon faded. (ലോട്ടറി അടിച്ച സന്തോഷം പെട്ടെന്ന് മാഞ്ഞുപോയി.)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) Permanent — ഇതിന്റെ അർത്ഥം 'സ്ഥിരമായ', 'എന്നും നിലനിൽക്കുന്ന' എന്നാണ്.\n• 'Fugacious'-ന് നേരെ എതിർ അർത്ഥമാണ് Permanent-ന് — ക്ഷണികതയ്ക്ക് പകരം സ്ഥിരതയാണ് ഇത് സൂചിപ്പിക്കുന്നത്.\n• 🪤 PSC Trap: Synonym ചോദ്യങ്ങളിൽ antonym ആണ് ഏറ്റവും സാധാരണ trap option — ശ്രദ്ധിക്കാതെ ഓടിച്ചു വായിച്ചാൽ ഇതിലേക്ക് വീണുപോകും.\n• (C) Admirable — 'പ്രശംസനീയമായ' എന്നാണ് അർത്ഥം; fugacious-ന്റെ 'ക്ഷണികത' എന്ന അർത്ഥവുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: ഇത് ഒരു പോസിറ്റീവ് ക്വാളിറ്റി വാക്കാണ് എന്നതിനാൽ 'നല്ല അർത്ഥമുള്ള വാക്ക്' എന്ന് തെറ്റിദ്ധരിക്കാൻ സാധ്യതയുണ്ട്.\n• (D) Enthralling — 'ആകർഷകമായ', 'മോഹിപ്പിക്കുന്ന' എന്നാണ് അർത്ഥം; ഇതും ക്ഷണികതയുമായി ബന്ധമില്ലാത്ത വാക്കാണ്.\n• 🪤 PSC Trap: 'fugacious', 'enthralling' എന്നിവ രണ്ടും 'uncommon' വാക്കുകളായതിനാൽ ബന്ധമുണ്ടെന്ന് തോന്നിക്കാം — meaning നോക്കാതെ 'unfamiliar word matches unfamiliar word' എന്ന് ഊഹിക്കരുത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Fugacious' ഓർക്കാൻ — 'Fugitive' (ഒളിച്ചോടുന്നയാൾ) എന്ന വാക്കുമായി ബന്ധപ്പെടുത്തുക. Fugitive എങ്ങനെ വേഗം ഓടിമറയുന്നോ, അതുപോലെ fugacious ആയ കാര്യങ്ങളും വേഗം മാഞ്ഞുപോകും!\n• Word family: fugacious, ephemeral, transient, evanescent, fleeting, momentary — ഇവയെല്ലാം 'ക്ഷണികത' എന്ന ഒരേ group-ൽ പെടുന്ന വാക്കുകളാണ്; ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Synonym ചോദ്യത്തിൽ ഉടനെ ഒരു option തിരഞ്ഞെടുക്കാതെ, ആദ്യം ചോദ്യത്തിലെ വാക്കിന്റെ അർത്ഥം മനസ്സിൽ ഉറപ്പിക്കുക; എന്നിട്ട് ഓരോ option-ന്റെയും അർത്ഥവുമായി match ചെയ്യുക — antonym trap-ൽ വീഴാതിരിക്കാൻ ഇത് സഹായിക്കും."
+    }
+  },
+  {
+    "id": "070-2022-M-Q62",
+    "paperId": "070-2022-M",
+    "questionNumber": 62,
+    "topic": "Phrasal Verbs",
+    "questionText": "Choose the correct option:\nCovid-19 _________ in the relief camps.",
+    "optionA": "breaks away",
+    "optionB": "breaks down",
+    "optionC": "breaks into",
+    "optionD": "breaks out",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) breaks out\n• 'Break out' എന്ന phrasal verb-ന്റെ അർത്ഥം 'പെട്ടെന്ന് ആരംഭിക്കുക' (പകർച്ചവ്യാധി, തീ, യുദ്ധം, ലഹള മുതലായവ) എന്നാണ്.\n• Covid-19 പോലുള്ള ഒരു പകർച്ചവ്യാധി ക്യാമ്പുകളിൽ 'പൊട്ടിപ്പുറപ്പെടുന്നു' എന്ന അർത്ഥത്തിലാണ് ഈ context-ൽ ഉപയോഗിക്കുന്നത് — 'an outbreak of Covid-19' എന്ന noun form-ഉം ഇതിൽ നിന്ന് തന്നെ വരുന്നു.\n• Relief camps പോലുള്ള തിരക്കുള്ള സ്ഥലങ്ങളിൽ രോഗം 'break out' ചെയ്യുന്നു എന്ന് പറയുന്നത് ദിനപത്രങ്ങളിലും PSC ചോദ്യങ്ങളിലും സ്ഥിരമായി കാണുന്ന usage ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Disease/fire/war/riot + break out = പെട്ടെന്ന് പൊട്ടിപ്പുറപ്പെടുക.\n• 'Break out' എപ്പോഴും ഒരു negative/sudden event-ന്റെ ആരംഭത്തെ സൂചിപ്പിക്കുന്നു — fire broke out, war broke out, an epidemic broke out.\n• Related phrasal verbs (break family): break down (തകരാറാവുക/കരയാൻ തുടങ്ങുക), break away (വേർപെടുക), break into (അതിക്രമിച്ചു കയറുക), break up (പിരിയുക).\n• ⭐ PSC ആവർത്തനം: 'Break' എന്ന base verb-ന്റെ phrasal verb variants (break out, break down, break into, break away) PSC-യിൽ ആവർത്തിച്ചു ചോദിക്കുന്ന topic ആണ്.\n• Etymology hint: 'Break' എന്ന Old English വാക്കിൽ നിന്നാണ് ഈ എല്ലാ phrasal verbs-ഉം ഉണ്ടായത്; preposition മാറുമ്പോൾ അർത്ഥം പൂർണമായി മാറും.\n• ഉദാഹരണ sentences:\n1. A fire broke out in the market last night. (ചന്തയിൽ തീപിടിത്തം പൊട്ടിപ്പുറപ്പെട്ടു.)\n2. War broke out between the two countries. (രണ്ട് രാജ്യങ്ങൾക്കിടയിൽ യുദ്ധം പൊട്ടിപ്പുറപ്പെട്ടു.)\n3. A fight broke out among the students. (വിദ്യാർത്ഥികൾക്കിടയിൽ വഴക്ക് പൊട്ടിപ്പുറപ്പെട്ടു.)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) breaks away — ഇതിന്റെ അർത്ഥം 'വേർപെട്ടു പോകുക', 'ബന്ധം വിച്ഛേദിക്കുക' എന്നാണ്; ഒരു disease context-ൽ ഇത് യോജിക്കില്ല.\n• 🪤 PSC Trap: 'break' എന്ന വാക്ക് പൊതുവായതിനാൽ ഏത് preposition-ഉം ശരിയാകും എന്ന് തോന്നിക്കാം.\n• (B) breaks down — ഇതിന്റെ അർത്ഥം 'തകരാറാവുക' (യന്ത്രത്തിന്) അല്ലെങ്കിൽ 'വൈകാരികമായി തകരുക' (മനുഷ്യന്) എന്നാണ്; രോഗം പടരുന്നതിന് ഈ അർത്ഥം ചേരില്ല.\n• 🪤 PSC Trap: 'Covid-19 breaks down' എന്ന് കേൾക്കുമ്പോൾ 'സിസ്റ്റം തകരുന്നു' എന്ന തെറ്റായ ചിന്ത തോന്നാം — എന്നാൽ disease-ന്റെ context-ൽ 'break out' മാത്രമേ ശരിയാകൂ.\n• (C) breaks into — ഇതിന്റെ അർത്ഥം 'അതിക്രമിച്ചു കയറുക' (മോഷ്ടാവ് വീട്ടിലേക്ക് കയറുന്നത് പോലെ) എന്നാണ്; രോഗവുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'into' എന്ന preposition 'camps-ലേക്ക് കടക്കുന്നു' എന്ന അർത്ഥത്തിൽ ശരിയാണെന്ന് തോന്നിക്കും, പക്ഷേ ഇത് physical entry-യെ മാത്രമേ സൂചിപ്പിക്കൂ.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Break OUT' = രോഗം/തീ/യുദ്ധം അകത്ത് നിന്ന് പുറത്തേക്ക് 'പൊട്ടിത്തെറിക്കുന്നു' എന്ന് ചിന്തിക്കുക — OUT എന്ന വാക്ക് തന്നെ 'പുറത്തേക്കുള്ള പൊട്ടിത്തെറി' ഓർമ്മിപ്പിക്കും.\n• Word family: outbreak (noun), break out (verb) — 'an outbreak of Covid-19' = 'Covid-19 broke out' രണ്ടും ഒരേ ആശയം.\n• PSC exam strategy: Phrasal verb ചോദ്യങ്ങളിൽ ഓരോ option-ഉം sentence-ൽ വച്ച് 'അർത്ഥം ശരിയാണോ' എന്ന് മാനസികമായി translate ചെയ്ത് നോക്കുക — literal meaning അല്ല, idiomatic meaning ആണ് നോക്കേണ്ടത്."
+    }
+  },
+  {
+    "id": "070-2022-M-Q63",
+    "paperId": "070-2022-M",
+    "questionNumber": 63,
+    "topic": "Direct and Indirect Speech",
+    "questionText": "Choose the correct indirect speech form of the sentence:\n'Have you understood this topic?' the teacher asked the students.",
+    "optionA": "The teacher asked the students whether they have understood that topic",
+    "optionB": "The teacher asked the students whether they had understood that topic",
+    "optionC": "The teacher questioned the students whether they understood that topic",
+    "optionD": "The teacher asked the students whether they have had understood that topic",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) The teacher asked the students whether they had understood that topic.\n• Direct speech-ലെ ചോദ്യം present perfect tense-ലുള്ള ഒരു Yes/No ചോദ്യമാണ് — 'നിങ്ങൾ മനസ്സിലാക്കിയോ?' എന്ന അർത്ഥം.\n• Indirect speech ആക്കുമ്പോൾ, ചൂണ്ടിക്കാണിക്കുന്ന verb ഭൂതകാലത്തിൽ ആയതിനാൽ, ടെൻസ് ഒരു പടി പിന്നിലേക്ക് നീങ്ങുന്ന നിയമം (backshift) പാലിക്കണം. 'ചെയ്തിട്ടുണ്ട്' എന്നത് 'ചെയ്തിരുന്നു' എന്ന രൂപത്തിലേക്ക് മാറും.\n• Yes/No ചോദ്യങ്ങൾ പരോക്ഷഭാഷണത്തിൽ ആക്കുമ്പോൾ 'whether/if' എന്ന പദം ഉപയോഗിച്ച്, വാക്യക്രമം ഒരു സാധാരണ statement-ന്റേത് പോലെയാക്കണം — ചോദ്യരൂപത്തിലെ auxiliary മുന്നിലേക്ക് വരരുത്.\n• അടുപ്പം കാണിക്കുന്ന 'ഇത്' (this) എന്ന വാക്ക്, റിപ്പോർട്ട് ചെയ്യുമ്പോൾ ദൂരം കാണിക്കുന്ന 'അത്' (that) ആയി മാറും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: ചൂണ്ടിക്കാണിക്കുന്ന verb ഭൂതകാലത്തിൽ ആണെങ്കിൽ, ടെൻസ് ഒരു പടി പിന്നിലേക്ക് (backshift) മാറും — 'ചെയ്തിട്ടുണ്ട്' (Present Perfect) എന്നത് 'ചെയ്തിരുന്നു' (Past Perfect) ആയി മാറും.\n• Yes/No ചോദ്യങ്ങൾ → whether/if എന്ന പദത്തോടൊപ്പം, statement-ന്റെ വാക്യക്രമം (auxiliary മുന്നിലേക്ക് വരില്ല).\n• ടെൻസ് മാറ്റത്തിന്റെ പട്ടിക: വർത്തമാനകാലം → ഭൂതകാലം; 'ചെയ്തിട്ടുണ്ട്' → 'ചെയ്തിരുന്നു'; സാധാരണ ഭൂതകാലം → 'had' + മൂന്നാം രൂപം; 'ചെയ്യും' → 'ചെയ്യുമായിരുന്നു'.\n• സൂചക പദങ്ങളിലെ മാറ്റം: ഇത് → അത്, ഇവ → അവ, ഇവിടെ → അവിടെ, ഇപ്പോൾ → അപ്പോൾ.\n• ⭐ PSC ആവർത്തനം: Yes/No ചോദ്യങ്ങളുടെ പരോക്ഷഭാഷണരൂപം (whether/if ഉപയോഗിച്ചുള്ളവ) PSC പരീക്ഷകളിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന pattern ആണ്.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. 'നിന്റെ ഹോംവർക്ക് തീർത്തോ?' എന്ന് അയാൾ ചോദിച്ചു → താൻ ഹോംവർക്ക് തീർത്തിരുന്നോ എന്ന് അയാൾ ചോദിച്ചു.\n2. 'നിനക്ക് ചായ ഇഷ്ടമാണോ?' എന്ന് അവൾ ചോദിച്ചു → തനിക്ക് ചായ ഇഷ്ടമാണോ എന്ന് അവൾ ചോദിച്ചു.\n3. 'അയാൾ പോയോ?' എന്ന് അവർ ചോദിച്ചു → അയാൾ അതിനകം പോയിരുന്നോ എന്ന് അവർ ചോദിച്ചു.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) whether they have understood that topic — 'have understood' എന്ന present perfect tense backshift ചെയ്യാതെ അതേപടി നിലനിർത്തിയിരിക്കുന്നു; reporting verb past ആയതിനാൽ ഇത് തെറ്റാണ്.\n• 🪤 PSC Trap: tense മാറ്റാൻ മറന്നുപോകുന്നത് ഏറ്റവും സാധാരണമായ student mistake ആണ് — 'asked' past ആണെന്ന് ശ്രദ്ധിക്കാതെ പോകും.\n• (C) questioned the students whether they understood that topic — 'understood' എന്നത് simple past ആണ്, ശരിയായ backshift 'had understood' (past perfect) ആണ്; ഇവിടെ ഒരു step കുറവാണ്.\n• 🪤 PSC Trap: simple past ശരിയാണെന്ന് തോന്നിക്കും, പക്ഷേ present perfect-ന്റെ ശരിയായ backshift past perfect മാത്രമാണ്.\n• (D) whether they have had understood that topic — ഇത് വ്യാകരണപരമായി തന്നെ തെറ്റായ tense structure ആണ് ('have had understood' എന്നൊരു ശരിയായ tense ഇംഗ്ലീഷിൽ ഇല്ല).\n• 🪤 PSC Trap: 'perfect' എന്ന ആശയം കൂടുതൽ ഊന്നിക്കാട്ടാൻ ശ്രമിച്ച് രണ്ട് auxiliary verbs ('have had') ചേർത്ത് confuse ചെയ്യുന്ന trap ആണ് ഇത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Past reports Past' — reporting verb past ആണെങ്കിൽ, tense-ഉം ഒരു പടി പിന്നിലേക്ക് പോകും എന്ന് ഓർക്കുക: 'Present Perfect ഇന്ന് ഉള്ളത്, Past Perfect ഇന്നലെ ഉള്ളത്' എന്ന് സങ്കൽപ്പിക്കുക.\n• Word family: Yes/No questions-ന്റെ indirect speech-ൽ if/whether-നൊപ്പം ഈ backshift pattern എപ്പോഴും ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: ആദ്യം reporting verb-ന്റെ tense നോക്കുക (asked = past), പിന്നെ direct speech-ലെ tense identify ചെയ്യുക, എന്നിട്ട് backshift table അനുസരിച്ച് ഒരു step പിന്നിലേക്ക് മാറ്റുക — ഇത് ചെയ്താൽ ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "070-2022-M-Q64",
+    "paperId": "070-2022-M",
+    "questionNumber": 64,
+    "topic": "Active and Passive Voice",
+    "questionText": "Choose the correct passive form of the sentence:\nPeople will laugh at you if you wear these green pants for the party.",
+    "optionA": "You would be laughed at if these green pants were worn for the party",
+    "optionB": "You would be laughed at if these pants had been worn for the party",
+    "optionC": "You will be laughed at if these green pants are worn for the party",
+    "optionD": "You will be laughed at if these green pants would be worn for the party",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) You will be laughed at if these green pants are worn for the party.\n• മൂലവാക്യത്തിൽ 'ചിരിക്കും' എന്ന ലളിത ഭാവികാലം (simple future) ഉപയോഗിച്ചിരിക്കുന്നതിനാൽ, കർമണിപ്രയോഗത്തിലും (passive) അതേ കാലം — 'ചിരിക്കപ്പെടും' — തന്നെ വരണം.\n• 'if' clause-ലെ 'നീ ധരിക്കുന്നു' എന്ന ലളിത വർത്തമാനകാലം (simple present) കർമണിരൂപത്തിൽ 'ധരിക്കപ്പെടുന്നു' എന്നാകും — കർത്തരി കാലം എപ്പോഴും കർമണി കാലത്തിന് തുല്യമായിരിക്കണം, ഇതാണ് ഏറ്റവും പ്രധാന നിയമം.\n• 'ചിരിക്കുക' എന്ന ക്രിയയ്ക്കൊപ്പം വരുന്ന 'at' എന്ന ചെറുപദം കർമണിരൂപത്തിലും അതേപടി നിലനിർത്തണം — ഇത് ഒഴിവാക്കിയാൽ വാക്യഘടന തെറ്റാകും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: കർത്തരി കാലം = കർമണി കാലം എപ്പോഴും! കാലം മാറ്റാൻ പാടില്ല, വാക്യഘടന മാത്രമേ മാറൂ.\n• ലളിത ഭാവി കർത്തരി (ചെയ്യും) → ലളിത ഭാവി കർമണി (ചെയ്യപ്പെടും).\n• Conditional clause-ലെ ലളിത വർത്തമാന കർത്തരി (ധരിക്കുന്നു) → ലളിത വർത്തമാന കർമണി (ധരിക്കപ്പെടുന്നു).\n• രണ്ട് പദങ്ങൾ ചേർന്ന ക്രിയകൾ (laugh at, look after, take care of) കർമണിരൂപത്തിൽ ആക്കുമ്പോൾ ചെറുപദം (preposition) ഒഴിവാക്കാതെ നിലനിർത്തണം.\n• ⭐ PSC ആവർത്തനം: ഉപാധിവാക്യങ്ങളുടെ (conditional sentences) കർമണിരൂപം — if-clause, main clause രണ്ടും കർമണിയാക്കേണ്ട ചോദ്യങ്ങൾ — PSC-യിൽ സ്ഥിരമായി വരുന്ന കുഴപ്പിക്കുന്ന pattern ആണ്.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. മറ്റുള്ളവരെ സഹായിച്ചാൽ ആളുകൾ നിന്നെ ബഹുമാനിക്കും → മറ്റുള്ളവരെ സഹായിച്ചാൽ നീ ബഹുമാനിക്കപ്പെടും.\n2. നിയമം ലംഘിച്ചാൽ അവർ നിന്നെ ശിക്ഷിക്കും → നിയമം ലംഘിക്കപ്പെട്ടാൽ നീ ശിക്ഷിക്കപ്പെടും.\n3. എല്ലാവരും അയാളെ കളിയാക്കുന്നു → അയാൾ എല്ലാവരാലും കളിയാക്കപ്പെടുന്നു.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) You would be laughed at if these green pants were worn for the party — ഇവിടെ tense 'would'/'were' (Second Conditional) ആയി മാറ്റിയിരിക്കുന്നു; original sentence Simple Future ('will') ആയതിനാൽ ഇത് tense മാറ്റം വരുത്തുന്ന തെറ്റാണ്.\n• 🪤 PSC Trap: Conditional sentences passive ആക്കുമ്പോൾ tense 'accidentally' മാറ്റിക്കളയുന്നത് ഏറ്റവും സാധാരണ തെറ്റാണ് — 'will' എപ്പോഴും 'will' ആയി തന്നെ നിലനിൽക്കണം.\n• (B) You would be laughed at if these pants had been worn for the party — ഇത് Third Conditional (past unreal) structure ആണ്; 'green' എന്ന word-ഉം ഒഴിവാക്കിയിരിക്കുന്നു, tense-ഉം പൂർണമായി തെറ്റാണ്.\n• 🪤 PSC Trap: 'had been worn' എന്ന past perfect passive കേൾക്കുമ്പോൾ 'more grammatically advanced' എന്ന് തോന്നിക്കും, പക്ഷേ ഇത് original tense-മായി യോജിക്കുന്നില്ല.\n• (D) You will be laughed at if these green pants would be worn for the party — ഒരേ sentence-ൽ 'will', 'would' രണ്ടും കൂടിക്കലർത്തിയിരിക്കുന്നു; ഇത് വ്യാകരണപരമായി തന്നെ അസ്വീകാര്യമായ mixed-tense structure ആണ്.\n• 🪤 PSC Trap: Main clause ശരിയായി തോന്നിക്കുന്നതിനാൽ if-clause-ലെ 'would' ശ്രദ്ധിക്കാതെ പോകാൻ സാധ്യതയുണ്ട്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Tense Twins' — Active-ഉം Passive-ഉം എപ്പോഴും ഒരേ tense-ന്റെ 'ഇരട്ടകൾ' ആണ്; ഒന്നിന്റെ tense മാറ്റിയാൽ മറ്റേതും അതേപടി മാറണം, വേറെ tense-ലേക്ക് ചാടരുത്.\n• Word family: Conditional sentences-ന്റെ passive voice practice ചെയ്യുമ്പോൾ if-clause, main clause രണ്ടും വെവ്വേറെ passive ആക്കി പഠിക്കുക.\n• PSC exam strategy: Passive voice ചോദ്യങ്ങളിൽ ആദ്യം original sentence-ന്റെ tense അടയാളപ്പെടുത്തുക, എന്നിട്ട് option-കളിൽ ആ tense മാറ്റമില്ലാതെ നിലനിർത്തിയത് ഏതെന്ന് പരിശോധിക്കുക — tense മാറ്റുന്ന ഏത് option-ഉം ഉടനെ ഒഴിവാക്കാം."
+    }
+  },
+  {
+    "id": "070-2022-M-Q65",
+    "paperId": "070-2022-M",
+    "questionNumber": 65,
+    "topic": "Prepositions",
+    "questionText": "Choose the preposition:\nGovernment has bestowed _________ various privileges to the ethnic group.",
+    "optionA": "In",
+    "optionB": "To",
+    "optionC": "Of",
+    "optionD": "Upon",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) Upon\n• 'Bestow' എന്ന verb-ന്റെ fixed collocation 'bestow upon/on' ആണ് — 'ആരെങ്കിലും ഒരാൾക്ക് എന്തെങ്കിലും (ബഹുമതി, അവകാശം, ആനുകൂല്യം) നൽകുക/സമ്മാനിക്കുക' എന്നാണ് അർത്ഥം.\n• 'Bestow privileges upon the ethnic group' എന്നാൽ 'ആ വംശീയ വിഭാഗത്തിന് ആനുകൂല്യങ്ങൾ നൽകി' എന്നർത്ഥം.\n• ഇത് ഒരു fixed preposition pairing ആണ് — verb മാറ്റാതെ preposition മാത്രം ഓർത്തിരിക്കണം, logic അല്ല convention ആണ് ഇവിടെ നിയമം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Bestow + UPON/ON (ഒരിക്കലും 'in', 'to', 'of' അല്ല).\n• ഇത് ഒരു fixed collocation ആണ് — verb-ഉം preposition-ഉം ജോടിയായി ഓർത്തിരിക്കണം, യുക്തി കൊണ്ട് ഊഹിക്കാൻ പറ്റില്ല.\n• സമാന fixed collocations: insist ON, depend ON, congratulate ON, confer UPON, impose UPON.\n• ⭐ PSC ആവർത്തനം: 'Bestow', 'confer', 'impose' തുടങ്ങിയ formal verbs-ന്റെ fixed prepositions PSC-യിൽ പതിവായി ചോദിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. The university bestowed an honorary degree upon him. (യൂണിവേഴ്സിറ്റി അദ്ദേഹത്തിന് ഓണററി ബിരുദം നൽകി.)\n2. The king conferred a title upon the warrior. (രാജാവ് യോദ്ധാവിന് ഒരു പദവി നൽകി.)\n3. New taxes were imposed upon the citizens. (പുതിയ നികുതികൾ പൗരന്മാരുടെ മേൽ ചുമത്തി.)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) In — 'in' എന്നത് സ്ഥലം/സമയം സൂചിപ്പിക്കുന്ന preposition ആണ്; 'bestow' എന്ന verb-മായി fixed ആയി ചേരില്ല.\n• 🪤 PSC Trap: 'privileges in the group' എന്ന് കേൾക്കുമ്പോൾ സ്ഥലപരമായ അർത്ഥത്തിൽ ശരിയാണെന്ന് തോന്നിക്കും.\n• (B) To — 'give something to someone' എന്ന structure-ൽ 'to' ശരിയാണ്, പക്ഷേ 'bestow' verb-ന്റെ fixed pairing 'upon/on' മാത്രമാണ്; 'to' ഇവിടെ അസ്വീകാര്യമാണ്.\n• 🪤 PSC Trap: 'give to' എന്ന common pattern-മായി confuse ചെയ്ത് 'bestow to' എന്ന് തെറ്റായി തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.\n• (C) Of — 'of' possession/relation സൂചിപ്പിക്കുന്ന preposition ആണ്; 'bestow' verb-ന്റെ കൂടെ ഇത് ഉപയോഗിക്കാറില്ല.\n• 🪤 PSC Trap: ഒരു formal-sounding preposition എന്ന നിലയിൽ 'of' ശരിയാണെന്ന് ഊഹിക്കാൻ students-നെ പ്രേരിപ്പിക്കും.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Bestow UPON, like a crown placed UPON your head!' — ബഹുമതി/ആനുകൂല്യം ഒരാളുടെ 'മേൽ' (upon) വച്ചുകൊടുക്കുന്നു എന്ന ചിത്രം മനസ്സിൽ കാണുക.\n• Word family: bestow upon, confer upon, impose upon — 'ഔപചാരികമായി എന്തെങ്കിലും നൽകുക/ചുമത്തുക' എന്ന അർത്ഥമുള്ള verbs എല്ലാം 'upon' preposition എടുക്കും.\n• PSC exam strategy: Fixed preposition ചോദ്യങ്ങളിൽ logic ഉപയോഗിക്കാതെ, verb-preposition combination ഒരു 'unit' ആയി കാണാൻ പഠിക്കുക — ഇത്തരം collocations ഒരു list ആയി മനഃപാഠമാക്കുന്നതാണ് ഏറ്റവും നല്ല strategy."
+    }
+  },
+  {
+    "id": "070-2022-M-Q66",
+    "paperId": "070-2022-M",
+    "questionNumber": 66,
+    "topic": "Tenses",
+    "questionText": "Give the correct verb form:\nUntil he _________ (join) the office, he _________ (not go) outside his city.",
+    "optionA": "joined, has not gone",
+    "optionB": "had joined, had not gone",
+    "optionC": "has joined, had not gone",
+    "optionD": "joined, had not gone",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) joined, had not gone\n• 'Until' clause-ൽ ഒരു പൂർത്തിയായ past event സൂചിപ്പിക്കാൻ simple past ('joined') ഉപയോഗിക്കുന്നു — ഇത് 'ഏത് സമയത്ത്' എന്ന reference point നൽകുന്നു.\n• Main clause-ൽ, ആ reference point-ന് മുമ്പ് നിലനിന്നിരുന്ന ഒരു അവസ്ഥ സൂചിപ്പിക്കാൻ past perfect ('had not gone') ഉപയോഗിക്കുന്നു — 'join ചെയ്യുന്നതിന് മുമ്പ് അയാൾ പുറത്ത് പോയിരുന്നില്ല' എന്നർത്ഥം.\n• രണ്ട് past events-ന്റെ sequence കാണിക്കാൻ — ആദ്യം നടന്ന കാര്യം (not going out) past perfect-ലും, പിന്നീട് നടന്ന കാര്യം (joining) simple past-ലും വരുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: രണ്ട് past actions ഉള്ളപ്പോൾ — ആദ്യം നടന്നത് Past Perfect (had + V3), പിന്നീട് നടന്നത് Simple Past (V2).\n• 'Until/Till' clause സാധാരണയായി simple past-ൽ ഒരു reference time point നൽകുന്നു.\n• Main clause-ൽ ആ reference point-ന് മുമ്പുള്ള അവസ്ഥ/action past perfect-ൽ വരും.\n• ⭐ PSC ആവർത്തനം: 'Until/By the time/After' തുടങ്ങിയ time conjunctions ഉപയോഗിച്ചുള്ള Past Perfect vs Simple Past sequencing ചോദ്യങ്ങൾ PSC-യിൽ ആവർത്തിച്ചു വരും.\n• ഉദാഹരണ sentences:\n1. Until she arrived, we had not started the meeting. (അവൾ എത്തുന്നതുവരെ, ഞങ്ങൾ മീറ്റിംഗ് തുടങ്ങിയിരുന്നില്ല.)\n2. By the time the police came, the thief had escaped. (പോലീസ് വരുന്നതിന് മുമ്പ്, കള്ളൻ രക്ഷപെട്ടിരുന്നു.)\n3. After he had finished his work, he left the office. (ജോലി പൂർത്തിയാക്കിയ ശേഷം, അയാൾ ഓഫീസ് വിട്ടു.)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) joined, has not gone — 'has not gone' (present perfect) ഒരു past context-ൽ ഉപയോഗിക്കാൻ പറ്റില്ല; sentence മുഴുവൻ past time-നെ കുറിച്ചാണ് സംസാരിക്കുന്നത്.\n• 🪤 PSC Trap: 'has not gone' സ്വാഭാവികമായി ശരിയാണെന്ന് തോന്നിക്കും, പക്ഷേ tense consistency ഇല്ലാത്തതിനാൽ ഇത് തെറ്റാണ്.\n• (B) had joined, had not gone — രണ്ട് clauses-ലും past perfect ഉപയോഗിച്ചാൽ, ഏത് action ആദ്യം നടന്നു എന്ന sequence വ്യക്തമല്ലാതാകും.\n• 🪤 PSC Trap: 'Until' clause-ലും past perfect ഇടുന്നത് 'കൂടുതൽ ശരി' എന്ന് തോന്നിക്കും, പക്ഷേ Until-clause സാധാരണ simple past എടുക്കുന്നതാണ് standard usage.\n• (C) has joined, had not gone — 'has joined' (present perfect) 'had not gone' (past perfect) എന്നിവ tense-ൽ പൊരുത്തപ്പെടുന്നില്ല; ഒരു clause present-ഉം മറ്റേത് past-ഉം ആയി കൂടിക്കലരുന്നു.\n• 🪤 PSC Trap: 'has joined' ഒറ്റയ്ക്ക് ശരിയായി തോന്നാം, പക്ഷേ sentence-ന്റെ overall past narrative-മായി പൊരുത്തപ്പെടില്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Past Perfect = Past-ന്റെ Past' — രണ്ട് past events ഉള്ളപ്പോൾ, ആദ്യം നടന്നത് 'കൂടുതൽ പിന്നിലേക്ക്' (had + V3) പോകും, പിന്നീട് നടന്നത് simple past-ൽ നിൽക്കും.\n• Word family: Until/Till/By the time/After — ഈ time conjunctions ഉള്ള sentences-ൽ Past Perfect + Simple Past combination ഒരുമിച്ച് practice ചെയ്യുക.\n• PSC exam strategy: രണ്ട് blanks ഉള്ള tense ചോദ്യങ്ങളിൽ, ഏത് event ആദ്യം നടന്നു എന്ന് timeline വരച്ച് നോക്കുക — ആദ്യം നടന്നത് എപ്പോഴും 'had + V3' ആയിരിക്കും."
+    }
+  },
+  {
+    "id": "070-2022-M-Q67",
+    "paperId": "070-2022-M",
+    "questionNumber": 67,
+    "topic": "Foreign Words and Phrases",
+    "questionText": "Consider the following phrases:\n(i) annus mirabilis - an auspicious year\n(ii) pro tempore - as appears in the record\n(iii) caveat - for the sake of argument\n(iv) tour de force - a thing accomplished with great skill\nWhich of the phrases and meanings given above are correct?",
+    "optionA": "(i), (iii) and (iv)",
+    "optionB": "(ii) and (iv)",
+    "optionC": "(i) and (iv)",
+    "optionD": "(i), (ii) and (iii)",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) (i) and (iv)\n• 'Annus mirabilis' (Latin) എന്നാൽ 'അത്ഭുതകരമായ/ശുഭകരമായ വർഷം' (a wonderful/auspicious year) എന്നാണ് അർത്ഥം — (i) ശരിയാണ്.\n• 'Tour de force' (French) എന്നാൽ 'അസാമാന്യമായ വൈദഗ്ധ്യത്തോടെ നേടിയ ഒരു നേട്ടം' (a feat accomplished with great skill) എന്നാണ് അർത്ഥം — (iv) ശരിയാണ്.\n• 'Pro tempore' യുടെ യഥാർത്ഥ അർത്ഥം 'താൽക്കാലികമായി' (for the time being) എന്നാണ്, 'record-ൽ കാണുന്നത് പോലെ' എന്നല്ല — (ii) തെറ്റാണ്.\n• 'Caveat' എന്നാൽ 'മുന്നറിയിപ്പ്/ജാഗ്രതാ നിർദ്ദേശം' (a warning or proviso) എന്നാണ് അർത്ഥം, 'വാദത്തിന് വേണ്ടി മാത്രം' എന്നല്ല — (iii) തെറ്റാണ്. അതിനാൽ ശരിയായ ജോഡികൾ (i)-ഉം (iv)-ഉം മാത്രം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: വൈദേശിക പദപ്രയോഗ ചോദ്യങ്ങളിൽ ഓരോ phrase-ന്റെയും കൃത്യമായ അർത്ഥം അറിഞ്ഞിരിക്കണം — ഏകദേശ ഊഹം അപകടകരമാണ്.\n• 'Annus mirabilis' എന്നാൽ അത്ഭുതകരമായ വർഷം; 'tour de force' എന്നാൽ വൈദഗ്ധ്യത്തോടെ നേടിയ മഹത്തായ നേട്ടം.\n• 'Pro tempore' എന്നാൽ താൽക്കാലികമായി; 'caveat' എന്നാൽ ഒരു മുന്നറിയിപ്പ് അല്ലെങ്കിൽ വ്യവസ്ഥ.\n• ⭐ PSC ആവർത്തനം: ലാറ്റിൻ/ഫ്രഞ്ച് ഭാഷകളിൽ നിന്നുള്ള വൈദേശിക പദപ്രയോഗങ്ങൾ (bona fide, ad hoc, status quo, tour de force, caveat) PSC-യുടെ പദസമ്പത്ത് വിഭാഗത്തിൽ ആവർത്തിച്ചു വരുന്ന topic ആണ്.\n• Etymology hint: 'Annus mirabilis' എന്നത് ലാറ്റിൻ 'annus' (വർഷം) + 'mirabilis' (അത്ഭുതകരമായ) എന്നിവയിൽ നിന്നാണ്; 'tour de force' ഫ്രഞ്ച് ഭാഷയിൽ നിന്നാണ്.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. ബഹിരാകാശ പര്യവേഷണത്തിന് 1969 ഒരു അത്ഭുതവർഷമായിരുന്നു.\n2. ആ സിനിമ അഭിനയത്തിന്റെ ഒരു അസാമാന്യ നേട്ടമായിരുന്നു.\n3. കൂടുതൽ തെളിവ് വേണം എന്ന മുന്നറിയിപ്പോടെ ഞാൻ സമ്മതിക്കുന്നു.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) (i), (iii) and (iv) — (iii)-ലെ 'caveat' യുടെ അർത്ഥം 'for the sake of argument' എന്നല്ല, 'a warning/proviso' എന്നാണ്; ഈ combination തെറ്റാണ്.\n• 🪤 PSC Trap: (i)-ഉം (iv)-ഉം ശരിയായതിനാൽ, (iii)-ഉം ശരിയാണെന്ന് ധൃതിയിൽ ഊഹിക്കാൻ സാധ്യതയുണ്ട്.\n• (B) (ii) and (iv) — (ii)-ലെ 'pro tempore' യുടെ അർത്ഥം 'as appears in the record' എന്നല്ല, 'for the time being' എന്നാണ്; ഈ combination തെറ്റാണ്.\n• 🪤 PSC Trap: (iv) ശരിയായതിനാൽ (ii)-യും ശരിയാണെന്ന് തെറ്റിദ്ധരിക്കാം.\n• (D) (i), (ii) and (iii) — ഇതിൽ ശരിയായ (iv) ഒഴിവാക്കുകയും, തെറ്റായ (ii), (iii) ഉൾപ്പെടുത്തുകയും ചെയ്തിരിക്കുന്നു; പൂർണമായി തെറ്റായ combination ആണ്.\n• 🪤 PSC Trap: മൂന്ന് options ഉൾപ്പെടുന്നത് കൂടുതൽ 'complete' ആയി തോന്നിക്കും, പക്ഷേ meaning-കൾ പരിശോധിച്ചാൽ ഇത് തെറ്റാണെന്ന് വ്യക്തമാകും.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Tempore' എന്നാൽ 'temporary' എന്ന ഇംഗ്ലീഷ് വാക്കുമായി ബന്ധപ്പെടുത്തുക — 'pro tempore' = 'for the time being' (താൽക്കാലികമായി) എന്ന് എളുപ്പം ഓർക്കാം. 'Caveat' എന്നാൽ 'CAUTION' (ജാഗ്രത) എന്ന വാക്കുമായി ബന്ധപ്പെടുത്തുക.\n• Word family: Foreign phrases-ന്റെ ഒരു ചെറിയ list ഉണ്ടാക്കി പഠിക്കുക — bona fide, ad hoc, status quo, tour de force, annus mirabilis, caveat, pro tempore.\n• PSC exam strategy: 'Which combination is correct' തരം ചോദ്യങ്ങളിൽ, ഓരോ പെയറും individually ശരി/തെറ്റ് എന്ന് അടയാളപ്പെടുത്തിയ ശേഷം മാത്രം final option തിരഞ്ഞെടുക്കുക — ഒറ്റനോട്ടത്തിൽ ഊഹിക്കരുത്."
+    }
+  },
+  {
+    "id": "070-2022-M-Q68",
+    "paperId": "070-2022-M",
+    "questionNumber": 68,
+    "topic": "Spelling",
+    "questionText": "Identify the correct spelling.",
+    "optionA": "Acqiuesce",
+    "optionB": "Acquiesce",
+    "optionC": "Acqueisce",
+    "optionD": "Acquesce",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Acquiesce\n• 'Acquiesce' എന്ന വാക്കിന്റെ അർത്ഥം 'മൗനസമ്മതം നൽകുക', 'എതിർപ്പില്ലാതെ അംഗീകരിക്കുക' എന്നാണ്.\n• ഈ വാക്കിന്റെ spelling ഓർക്കാൻ പ്രധാന ഭാഗം: A-C-Q-U-I-E-S-C-E — 'cqu' എന്ന അസാധാരണ letter combination ആണ് ഏറ്റവും ശ്രദ്ധിക്കേണ്ടത്.\n• Latin 'acquiescere' (to rest/find rest in) എന്ന റൂട്ടിൽ നിന്നാണ് ഈ വാക്ക് വരുന്നത് — 'quiet/quiescent' എന്നീ വാക്കുകളുമായി ബന്ധമുണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Spelling ചോദ്യങ്ങളിൽ ഓരോ option-ഉം letter-by-letter break ചെയ്ത് correct pattern-മായി compare ചെയ്യുക.\n• 'Acquiesce' spelling break: AC-QUI-ESCE — 'c' ന് ശേഷം 'qu' വരും, 'i' ന് ശേഷം 'e' വരും.\n• Related word family: quiescent, quiet, acquiescence, acquiescent — ഇവയെല്ലാം 'Latin quies' (rest) എന്ന റൂട്ടിൽ നിന്നാണ്.\n• ⭐ PSC ആവർത്തനം: 'cqu' letter combination ഉള്ള tricky spelling words (acquiesce, acquire, acquaint) PSC സ്ഥിരമായി ചോദിക്കുന്നു.\n• Etymology hint: Latin 'ad-' (to) + 'quiescere' (to become quiet/rest) → 'acquiesce' = എതിർക്കാതെ 'അടങ്ങിയിരിക്കുക'.\n• ഉദാഹരണ sentences:\n1. She reluctantly acquiesced to their demands. (അവൾ വൈമനസ്യത്തോടെ അവരുടെ ആവശ്യങ്ങൾക്ക് മൗനസമ്മതം നൽകി.)\n2. He acquiesced in the committee's decision. (അയാൾ കമ്മിറ്റിയുടെ തീരുമാനത്തിന് സമ്മതം നൽകി.)\n3. Silence is sometimes taken as acquiescence. (നിശബ്ദത ചിലപ്പോൾ സമ്മതമായി കണക്കാക്കപ്പെടും.)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Acqiuesce — 'i' ഉം 'u' ഉം തെറ്റായ ക്രമത്തിലാണ് (ശരി: acqUIesce, ഇവിടെ: acqIUesce).\n• 🪤 PSC Trap: 'qui' എന്നത് 'qiu' ആയി മാറ്റിയാൽ ഉച്ചാരണം ഏകദേശം സമാനമായി തോന്നും, letter order ശ്രദ്ധിച്ചില്ലെങ്കിൽ വീണുപോകും.\n• (C) Acqueisce — ഇവിടെ 'i' ഉം 'e' ഉം സ്ഥാനം മാറിയിരിക്കുന്നു (ശരി: acquIEsce, ഇവിടെ: acquEIsce).\n• 🪤 PSC Trap: 'ei' vs 'ie' എന്ന classic spelling confusion ഇവിടെയും trap ആയി ഉപയോഗിച്ചിരിക്കുന്നു.\n• (D) Acquesce — ഇവിടെ 'i' എന്ന letter തന്നെ വിട്ടുപോയിരിക്കുന്നു (ശരി: acquIesce, ഇവിടെ: acquesce).\n• 🪤 PSC Trap: ഒരു letter ഒഴിവാക്കിയാലും വാക്ക് 'വായിക്കാൻ' എളുപ്പമായി തോന്നുന്നതിനാൽ ശ്രദ്ധിച്ചില്ലെങ്കിൽ ഇത് ശരിയാണെന്ന് തോന്നിക്കും.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'A CQUI-ET person ACQUIESCES' — 'quiet' എന്ന വാക്കിനുള്ളിലെ Q-U-I തന്നെ 'acquiesce'-ലും ഉണ്ടെന്ന് ഓർക്കുക: AC-QUIE-SCE.\n• Word family: acquiesce, acquiescence, acquiescent — 'quies' (rest/calm) എന്ന റൂട്ടിലെ എല്ലാ വാക്കുകളും ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Spelling ചോദ്യങ്ങളിൽ വാക്ക് ഭാഗങ്ങളായി തിരിച്ച് (AC-QUI-ESCE) മനസ്സിൽ ഉച്ചരിച്ചു നോക്കുക — letter order-ലെ ചെറിയ മാറ്റങ്ങൾ ഇങ്ങനെ എളുപ്പം കണ്ടുപിടിക്കാം."
+    }
+  },
+  {
+    "id": "070-2022-M-Q69",
+    "paperId": "070-2022-M",
+    "questionNumber": 69,
+    "topic": "Articles",
+    "questionText": "Choose the correct article:\n_________ MLA donated one lakh rupees from _________ MLA fund.",
+    "optionA": "A, a",
+    "optionB": "The, a",
+    "optionC": "A, the",
+    "optionD": "An, the",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) An, the\n• 'MLA' എന്ന abbreviation എഴുതുന്നത് 'M' എന്ന consonant letter-ൽ ആണെങ്കിലും, ഉച്ചരിക്കുമ്പോൾ 'എം' (em) എന്ന vowel sound-ൽ ആണ് തുടങ്ങുന്നത് → അതിനാൽ 'an MLA' ശരിയാണ്.\n• Article തീരുമാനിക്കുന്നത് letter അല്ല, sound ആണ് എന്നതാണ് ഇവിടത്തെ പ്രധാന നിയമം.\n• രണ്ടാമത്തെ blank-ൽ, 'MLA fund' എന്നത് ആദ്യം പരാമർശിച്ച അതേ MLA-യുടെ fund ആണെന്നതിനാൽ — specific reference ആയതിനാൽ definite article 'the' വരും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: a/an sound അനുസരിച്ച്, the specific reference അനുസരിച്ച്.\n• Consonant letter + vowel sound → an: an MLA, an hour, an M.A., an honest man, an heir.\n• ഒരു noun-നെ ആദ്യം പൊതുവായി പരാമർശിച്ച ശേഷം, വീണ്ടും ആ specific noun-നെ പരാമർശിക്കുമ്പോൾ 'the' ഉപയോഗിക്കണം.\n• ⭐ PSC ആവർത്തനം: 'an MLA', 'an M.A.', 'an hour', 'a university' തുടങ്ങിയ letter-vs-sound examples PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന article pattern ആണ്.\n• Etymology hint: ഇത് ഒരു phonetic (ഉച്ചാരണ) നിയമമാണ്, spelling നിയമമല്ല.\n• ഉദാഹരണ sentences:\n1. He is an MLA from this constituency. (അയാൾ ഈ മണ്ഡലത്തിൽ നിന്നുള്ള ഒരു എം.എൽ.എ ആണ്.)\n2. She waited for an hour. (അവൾ ഒരു മണിക്കൂർ കാത്തിരുന്നു.)\n3. I saw a boy. The boy was crying. (ആദ്യ പരാമർശം 'a', രണ്ടാമത്തേത് specific ആയതിനാൽ 'the'.)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) A, a — 'MLA' ഉച്ചരിക്കുന്നത് vowel sound ('em') ൽ ആയതിനാൽ 'a MLA' തെറ്റാണ്; രണ്ടാമത്തെ blank-ലും specific fund-നെ സൂചിപ്പിക്കുന്നതിനാൽ 'a' അല്ല 'the' വേണം.\n• 🪤 PSC Trap: 'M' എന്ന consonant letter കണ്ട് 'a' ഇടുന്നത് ഏറ്റവും സാധാരണ article തെറ്റാണ്.\n• (B) The, a — ആദ്യമായി പരാമർശിക്കുന്ന MLA-യെ 'the' ഉപയോഗിച്ച് specific ആക്കാൻ പറ്റില്ല (ആദ്യ പരാമർശം ആയതിനാൽ 'an' വേണം); രണ്ടാമത്തെ blank-ൽ 'a' ശരിയല്ല, specific fund ആയതിനാൽ 'the' വേണം.\n• 🪤 PSC Trap: രണ്ട് blanks-ന്റെയും article തലകീഴായി മാറ്റിയിരിക്കുന്നു എന്നതാണ് ഇവിടത്തെ trap.\n• (C) A, the — രണ്ടാമത്തെ blank ('the') ശരിയാണെങ്കിലും, ആദ്യ blank-ൽ 'a MLA' എന്നത് sound rule പ്രകാരം തെറ്റാണ്.\n• 🪤 PSC Trap: രണ്ടിൽ ഒരു blank ശരിയായതിനാൽ മുഴുവൻ option ശരിയാണെന്ന് ധൃതിയിൽ തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'MLA' ഉറക്കെ പറഞ്ഞു നോക്കൂ — 'എം.എൽ.എ' എന്ന് തുടങ്ങുന്നത് 'എ' (vowel) sound-ൽ ആണ്, അതിനാൽ 'an' ഉറപ്പ്.\n• Word family: an MLA, an M.A., an M.P., an hour, an honest man — 'letter consonant, sound vowel' ഉള്ള എല്ലാ abbreviations/words-ഉം ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Article ചോദ്യങ്ങളിൽ abbreviation-കൾ കണ്ടാൽ ഉടനെ letter നോക്കാതെ, അത് ഉച്ചരിക്കുന്ന ആദ്യ ശബ്ദം എന്താണെന്ന് മനസ്സിൽ പറഞ്ഞു നോക്കുക."
+    }
+  },
+  {
+    "id": "070-2022-M-Q70",
+    "paperId": "070-2022-M",
+    "questionNumber": 70,
+    "topic": "Idioms",
+    "questionText": "She is astonished to see people of diverse backgrounds live _________ in the village.",
+    "optionA": "Forty winks",
+    "optionB": "Cheek by jowl",
+    "optionC": "Pushing up daisies",
+    "optionD": "Fifth wheel",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Cheek by jowl\n• 'Cheek by jowl' എന്ന idiom-ന്റെ അർത്ഥം 'വളരെ അടുത്ത്/തൊട്ടുരുമ്മി' (very close together, side by side) എന്നാണ്.\n• വൈവിധ്യമാർന്ന പശ്ചാത്തലങ്ങളിൽ നിന്നുള്ള ആളുകൾ ഗ്രാമത്തിൽ 'തൊട്ടുരുമ്മി', അടുത്തടുത്ത് ജീവിക്കുന്നു എന്ന അർത്ഥമാണ് sentence-ന് ചേരുന്നത്.\n• 'Cheek' (കവിൾ), 'jowl' (താടിയെല്ല്) — രണ്ട് മുഖഭാഗങ്ങൾ അടുത്ത് ചേർന്നിരിക്കുന്നത് പോലെ എന്ന visual image-ൽ നിന്നാണ് ഈ idiom ഉണ്ടായത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: 'Cheek by jowl' = very close together / side by side.\n• Idioms-ന്റെ അർത്ഥം literal word meaning-ൽ നിന്ന് നേരിട്ട് ഊഹിക്കാൻ പറ്റില്ല — idiomatic meaning പ്രത്യേകം മനഃപാഠമാക്കണം.\n• Related 'closeness' idioms: hand in glove (അടുത്ത ബന്ധത്തിൽ), rub shoulders with (ഇടപഴകുക).\n• ⭐ PSC ആവർത്തനം: Body-part idioms (cheek by jowl, rub shoulders, elbow room) PSC Vocabulary section-ൽ ആവർത്തിച്ചു വരുന്ന topic ആണ്.\n• Etymology hint: 'Jowl' എന്നാൽ താടിയെല്ല്/കീഴ്ത്താടി; രണ്ട് മുഖങ്ങൾ വളരെ അടുത്ത് വരുന്ന ചിത്രത്തിൽ നിന്നാണ് ഈ idiom-ന്റെ ഉത്ഭവം.\n• ഉദാഹരണ sentences:\n1. In the old city, houses stand cheek by jowl. (പഴയ നഗരത്തിൽ, വീടുകൾ തൊട്ടുരുമ്മി നിൽക്കുന്നു.)\n2. Rich and poor live cheek by jowl in this area. (ഈ പ്രദേശത്ത് ധനികരും ദരിദ്രരും തൊട്ടടുത്ത് ജീവിക്കുന്നു.)\n3. Stalls in the market were packed cheek by jowl. (ചന്തയിലെ കടകൾ തൊട്ടുരുമ്മി നിറഞ്ഞിരുന്നു.)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Forty winks — ഇതിന്റെ അർത്ഥം 'ഒരു ചെറിയ ഉറക്കം/മയക്കം' (a short nap) എന്നാണ്; 'diverse backgrounds live' എന്ന context-മായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'forty' എന്ന സംഖ്യ കാരണം ഇത് ഒരു 'strong' idiom ആയി തോന്നിക്കും, പക്ഷേ meaning പൂർണമായി വേറെയാണ്.\n• (C) Pushing up daisies — ഇതിന്റെ അർത്ഥം 'മരിച്ചു കിടക്കുന്നു' (to be dead and buried) എന്നാണ്; sentence-ന്റെ പോസിറ്റീവ് context-മായി ഒരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: unfamiliar idiom ആയതിനാൽ 'എന്തോ special അർത്ഥം ഉണ്ടാകും' എന്ന് ഊഹിച്ച് തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.\n• (D) Fifth wheel — ഇതിന്റെ അർത്ഥം 'ആവശ്യമില്ലാത്ത/അധികപ്പറ്റായ ഒരാൾ' (an unnecessary/superfluous person) എന്നാണ്; 'ഒരുമിച്ചു ജീവിക്കുന്നു' എന്ന ആശയവുമായി യോജിക്കില്ല.\n• 🪤 PSC Trap: 'wheel' എന്ന വാക്ക് 'അടുപ്പം/ബന്ധം' സൂചിപ്പിക്കുന്നു എന്ന് തെറ്റിദ്ധരിക്കാൻ സാധ്യതയുണ്ട്, യഥാർത്ഥത്തിൽ ഇത് 'അനാവശ്യത'യെ സൂചിപ്പിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Cheek to Cheek, Jowl to Jowl' — രണ്ട് മുഖങ്ങൾ തൊട്ടുരുമ്മി നിൽക്കുന്ന ചിത്രം മനസ്സിൽ കാണുക; അത്രയും അടുത്താണ് 'cheek by jowl' എന്ന അർത്ഥം.\n• Word family: cheek by jowl, hand in glove, rub shoulders with, side by side — 'അടുപ്പം' സൂചിപ്പിക്കുന്ന idioms ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Idiom ചോദ്യങ്ങളിൽ literal word meaning മറന്ന്, sentence-ന്റെ overall context-ന് ചേരുന്ന idiomatic meaning ഏതെന്ന് ചിന്തിക്കുക — 'diverse backgrounds' + 'live' = 'closeness' എന്ന ആശയം സൂചിപ്പിക്കുന്നു."
+    }
   }
 ]
