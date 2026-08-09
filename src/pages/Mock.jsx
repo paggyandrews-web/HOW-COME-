@@ -4,6 +4,7 @@ import modelPapers from '../data/modelPapers.json'
 import modelQuestions from '../data/modelQuestions.json'
 import { useAuth } from '../contexts/AuthContext'
 import { isPromoActive, isInMockCampaignWindow, mockCampaignFreeUntil, mockCampaignEndLabel } from '../utils/freeTier'
+import Confetti from '../components/Confetti'
 
 const NEGATIVE_MARK = 1 / 3
 const DAY_MS = 24 * 60 * 60 * 1000
@@ -415,6 +416,7 @@ function ExamScreen({ paper, questions, onSubmit, practice = false }) {
   const [elapsed, setElapsed] = useState(0)            // practice counts up instead
   const [showPalette, setShowPalette] = useState(false)
   const [confirmSubmit, setConfirmSubmit] = useState(false)
+  const [showConfetti, setShowConfetti] = useState(false)
   const submittedRef = useRef(false)
 
   const doSubmit = useCallback(() => {
@@ -468,10 +470,17 @@ function ExamScreen({ paper, questions, onSubmit, practice = false }) {
       else next[current] = letter
       return next
     })
+    // Only practice reveals correctness immediately — timed mode stays
+    // silent until submission, so no burst there.
+    if (practice && letter === q.correctAnswer) {
+      setShowConfetti(true)
+      setTimeout(() => setShowConfetti(false), 1600)
+    }
   }
 
   return (
     <div className="max-w-3xl mx-auto px-4 py-4 pb-28">
+      <Confetti active={showConfetti} />
       {/* Header: timer + progress */}
       <div className="flex items-center justify-between mb-3 sticky top-14 z-10 rounded-lg px-3 py-2"
         style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
@@ -702,6 +711,7 @@ function TelegramCTA({ paper, score, total }) {
 
 function ResultScreen({ paper, questions, answers, timeTaken, onRetake, onExit, practice = false }) {
   const [filter, setFilter] = useState('all')  // all | wrong | skipped
+  const [showConfetti, setShowConfetti] = useState(false)
 
   const stats = useMemo(() => {
     let correct = 0, wrong = 0, skipped = 0
@@ -721,6 +731,19 @@ function ResultScreen({ paper, questions, answers, timeTaken, onRetake, onExit, 
 
   const pct = Math.round((stats.score / questions.length) * 100)
   const topics = Object.entries(stats.topicMap).sort((a, b) => b[1].total - a[1].total)
+  // Big gold burst for a near-perfect/perfect finish, a normal burst for a
+  // solid pass — same thresholds Quiz.jsx and FullHundred.jsx use, so a good
+  // score feels the same everywhere in the app.
+  const confettiTier = pct > 90 ? 'big' : 'normal'
+
+  useEffect(() => {
+    if (pct >= 71) {
+      setShowConfetti(true)
+      const t = setTimeout(() => setShowConfetti(false), 4000)
+      return () => clearTimeout(t)
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
 
   const visible = questions
     .map((q, i) => ({ q, i }))
@@ -732,6 +755,7 @@ function ResultScreen({ paper, questions, answers, timeTaken, onRetake, onExit, 
 
   return (
     <div className="max-w-3xl mx-auto px-4 py-6 pb-24">
+      <Confetti active={showConfetti} tier={confettiTier} />
       {/* Score card */}
       <div className="rounded-xl p-5 text-center mb-4" style={{ background: 'var(--card)', border: '1px solid var(--border)' }}>
         <div className="text-xs mb-1" style={{ color: 'var(--text2)' }}>{paper.title}</div>
