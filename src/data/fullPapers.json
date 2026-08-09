@@ -141,5 +141,18 @@
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC)",
     "status": "published"
+  },
+  {
+    "id": "109-2025-M-EN",
+    "paperCode": "109/2025 M-EN",
+    "post": "SUB INSPECTOR OF POLICE, ARMED POLICE SUB INSPECTOR (MAIN) 051/24",
+    "categoryCode": "051/2024, 508/2024, 509/2024, 510/2024, 511/2024, 512/2024",
+    "date": "30-Aug-2025",
+    "medium": "M",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — uploaded 2025-10. Paper as printed mixes mediums by section (Q1-90 English, Q91-100 Malayalam); no translation applied, tagged M-EN per house convention.",
+    "status": "published"
   }
 ]
