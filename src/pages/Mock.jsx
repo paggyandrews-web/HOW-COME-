@@ -5,9 +5,28 @@ import modelQuestions from '../data/modelQuestions.json'
 import { useAuth } from '../contexts/AuthContext'
 import { isPromoActive, isInMockCampaignWindow, mockCampaignFreeUntil, mockCampaignEndLabel } from '../utils/freeTier'
 import Confetti from '../components/Confetti'
+import Dropdown from '../components/Dropdown'
+import { useResults } from '../hooks/useResults'
+import { usePaperProgress } from '../hooks/usePaperProgress'
+import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, statusBadgeText } from '../utils/paperStatus'
 
 const NEGATIVE_MARK = 1 / 3
 const DAY_MS = 24 * 60 * 60 * 1000
+
+// The data file keeps extra questions per paper beyond what's actually quizzed
+// (see the `questions` memo below), so progress tracking needs the same
+// questionCount-capped set — otherwise "completed" would need attempts on
+// rows that are never shown, and could never be reached.
+const CAPPED_MODEL_QUESTIONS = (() => {
+  const out = []
+  modelPapers.forEach(p => {
+    const qs = modelQuestions
+      .filter(q => q.paperId === p.id)
+      .sort((a, b) => (a.questionNumber || 0) - (b.questionNumber || 0))
+    out.push(...(p.questionCount ? qs.slice(0, p.questionCount) : qs))
+  })
+  return out
+})()
 
 // Telegram channel promoted at the end of every test. This is the moment the
 // person has just seen the explanations and is most willing to follow — the
@@ -190,6 +209,7 @@ function PaperList({ onStart, onPractice }) {
   const { user, profile } = useAuth()
   const [copied, setCopied] = useState(null)         // paperId whose link was just copied
   const [confirmPaper, setConfirmPaper] = useState(null)  // paper awaiting "Start exam?" confirmation
+  const [status, setStatus] = useState('')
   const needsSignup = !user
   // Whether ANY paid-tier model paper is locked right now — drives the generic banner below.
   const anyPaidLocked = needsSignup || (!isPromoActive() && !profile?.isPaid)
@@ -208,6 +228,12 @@ function PaperList({ onStart, onPractice }) {
   // Papers dated in the future are withheld until their publishedAt arrives.
   const visiblePapers = useMemo(() => modelPapers.filter(isPublished), [])
 
+  const { progress, loading, summary } = usePaperProgress(visiblePapers, CAPPED_MODEL_QUESTIONS)
+  const shownPapers = useMemo(
+    () => visiblePapers.filter(p => matchesStatusFilter(progress[p.id], status)),
+    [visiblePapers, progress, status]
+  )
+
   // Is anything on this page open to a logged-out visitor right now? During the
   // August campaign the answer is yes, so the blanket "sign up first" card would
   // be a lie — and the exact wall this page is meant to remove.
@@ -223,7 +249,25 @@ function PaperList({ onStart, onPractice }) {
         Model papers in the real Kerala PSC pattern. <strong>Practice</strong> is untimed and shows the
         Malayalam explanation the moment you answer — <strong>Timed exam</strong> runs the real clock
         with 1/3 negative marking.
+        {!loading && (
+          <>
+            {' '}{summary.completed} completed
+            {summary.dueForRevision > 0 && (
+              <span style={{ color: DUE_COLOR }}> · {summary.dueForRevision} due for revision</span>
+            )}
+            .
+          </>
+        )}
       </p>
+
+      <Dropdown
+        value={status}
+        onChange={setStatus}
+        placeholder="All Statuses"
+        className="w-44 mb-4"
+        options={STATUS_FILTER_OPTIONS}
+      />
+
       {needsSignup && !anyFreeNow && (
         <div className="rounded-xl p-5 mb-4 text-center"
           style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
@@ -243,18 +287,21 @@ function PaperList({ onStart, onPractice }) {
         </div>
       )}
 
-      {visiblePapers.map(p => {
+      {shownPapers.map(p => {
         const allowed = isMockAllowed(p, user, profile)
         const isDaily = p.type === 'daily'
         const freeWin = dailyFreeWindow(p)
         const lockedReason = allowed ? null : isDaily ? 'Sign up to keep taking this test' : needsSignup ? 'Sign up to take mock exams' : 'The free period has ended'
         const shareUrl = isDaily ? `https://howcome.in/mock?paper=${p.id}` : null
+        const prog = progress[p.id]
+        const meta = prog ? STATUS_META[prog.status] : null
+        const due = prog?.dueForRevision
         return (
           /* Same shape as a Papers-tab card: details stacked on top, then one
              full-width Practice / Timed button row. Keeps the two sections of
              the app looking like the same app. */
           <div key={p.id} className="card rounded-xl p-4 mb-3 flex flex-col gap-3"
-            style={{ border: '1px solid ' + (isDaily && freeWin?.inWindow ? 'var(--accent)' : 'var(--border)') }}>
+            style={{ border: '1px solid ' + (due ? DUE_COLOR : isDaily && freeWin?.inWindow ? 'var(--accent)' : 'var(--border)') }}>
             <div className="flex-1 min-w-0">
               <div className="flex items-center gap-2 flex-wrap">
                 <div className="font-semibold text-sm leading-snug">{p.title}</div>
@@ -270,6 +317,14 @@ function PaperList({ onStart, onPractice }) {
                     Free window ended
                   </span>
                 )}
+                {meta && !loading && (
+                  <span
+                    className="text-[10px] font-bold px-2 py-1 rounded-full whitespace-nowrap"
+                    style={{ color: meta.color, background: meta.bg }}
+                  >
+                    {statusBadgeText(prog, meta)}
+                  </span>
+                )}
               </div>
               <div className="text-xs mt-1.5 flex flex-wrap gap-x-2 gap-y-1" style={{ color: 'var(--text2)' }}>
                 <span>📝 {counts[p.id] || 0} questions</span>
@@ -278,6 +333,14 @@ function PaperList({ onStart, onPractice }) {
                 <span>·</span>
                 <span>−{p.negativeMarking} per wrong</span>
               </div>
+              {due && (
+                <div
+                  className="text-[11px] font-semibold mt-2 px-2 py-1.5 rounded-lg"
+                  style={{ color: DUE_COLOR, background: DUE_BG }}
+                >
+                  ⏰ Due for revision — last practiced {daysAgo(prog.lastAttemptDate)}d ago
+                </div>
+              )}
             </div>
 
             {allowed ? (
@@ -867,6 +930,7 @@ export default function Mock() {
   const [wasPractice, setWasPractice] = useState(false)  // which mode produced the result
   const [searchParams] = useSearchParams()
   const { user, profile } = useAuth()
+  const { saveResult } = useResults()
 
   // Deep link — e.g. /mock?paper=HC-DAILY-2026-08-01 shared in Telegram.
   // Opens that paper if access is currently allowed; otherwise falls through to
@@ -934,6 +998,12 @@ export default function Mock() {
     setTimeTaken(secs)
     setStage('result')
     window.scrollTo(0, 0)
+
+    // Persist the attempt so this paper shows up as "practiced" on the list
+    // (and starts its due-for-revision clock) — mirrors Papers/Full 100.
+    if (questions.length) {
+      saveResult(questions, ans, wasPractice ? 'mock-practice' : 'mock-timed')
+    }
   }
 
   if (stage === 'intro' && paper) {
