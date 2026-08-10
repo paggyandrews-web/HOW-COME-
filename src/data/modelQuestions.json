@@ -578,5 +578,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) Cynic\n  • 'Cynic' എന്നാൽ മറ്റുള്ളവരുടെ ഉദ്ദേശശുദ്ധിയിൽ വിശ്വാസമില്ലാത്ത ആൾ — pain/pleasure-മായി ബന്ധമില്ല.\n  • 🪤 PSC Trap: രണ്ടും 'emotion-related' philosophy words ആയതിനാൽ confuse ആകാൻ സാധ്യതയുണ്ട്.\n\n• (C) Sceptic\n  • 'Sceptic' എന്നാൽ എല്ലാം സംശയത്തോടെ കാണുന്ന ആൾ — doubt-നെ കുറിച്ചാണ്, pain/pleasure-നെ കുറിച്ചല്ല.\n  • 🪤 PSC Trap: 'Sceptic', 'Stoic' spelling-ൽ സാമ്യമുള്ളതിനാൽ students confuse ആകാൻ സാധ്യതയുണ്ട്.\n\n• (D) Ascetic\n  • 'Ascetic' എന്നാൽ മതപരമായ കാരണങ്ങളാൽ സുഖങ്ങൾ ബോധപൂർവ്വം ഉപേക്ഷിക്കുന്ന ആൾ — ഇത് 'active avoidance' ആണ്, 'Stoic'-ന്റെ 'passive indifference' അല്ല.\n  • 🪤 PSC Trap: 'Monk' എന്ന word കാരണം 'Ascetic' ശരിയാണെന്ന് തോന്നാം, പക്ഷേ sentence പറയുന്നത് \"indifference\" ആണ്, \"deliberate renunciation\" അല്ല.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Stoic = STOne-like\" — കല്ലുപോലെ ഭാവഭേദമില്ലാതെ നിൽക്കുന്ന ആൾ എന്ന് സങ്കൽപ്പിക്കുക.\n• Word family: Stoic, Cynic, Sceptic, Ascetic, Epicurean — ഇവയുടെ കൃത്യമായ വ്യത്യാസങ്ങൾ ഒരു table ആയി എഴുതി പഠിക്കുക.\n• PSC exam strategy: One-word substitute options-ൽ 'near-meaning traps' സൂക്ഷിക്കുക — phrase-ലെ ഓരോ വാക്കും ശ്രദ്ധയോടെ വായിച്ച് കൃത്യമായ match കണ്ടെത്തുക."
     }
+  },
+  {
+    "id": "HC-DAILY-2026-08-10-Q1",
+    "paperId": "HC-DAILY-2026-08-10",
+    "questionNumber": 1,
+    "topic": "Subject-Verb Agreement",
+    "difficulty": "medium",
+    "questionText": "Each of the students ________ given a certificate of participation.",
+    "optionA": "has been",
+    "optionB": "have been",
+    "optionC": "were",
+    "optionD": "are",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) has been\n\n• 'Each of the students' എന്ന subject-ൽ 'Each' ആണ് യഥാർത്ഥ subject — ഇത് എപ്പോഴും singular ആണ്, 'of the students' എന്നത് വെറും describing phrase മാത്രമാണ്.\n• അതുകൊണ്ട് verb-ഉം singular ആയിരിക്കണം — 'has been given'.\n• PSC-യിൽ 'Each', 'Every', 'Either', 'Neither' തുടങ്ങിയ words വന്നാൽ verb എപ്പോഴും singular ആണ് എന്നത് guaranteed mark ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Each / Every / Either / Neither + of + plural noun → SINGULAR verb\n• 'of' ന് ശേഷം plural noun വന്നാലും, യഥാർത്ഥ subject ('Each' മുതലായവ) singular ആയതിനാൽ verb singular ആയിരിക്കണം.\n• Related word group: Each, Every, Either, Neither, Everyone, Everybody, Someone, Anybody — ഇവയെല്ലാം singular subject-കൾ ആണ്.\n• ⭐ PSC ആവർത്തനം: SVA topic-ൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന pattern ഇതാണ്.\n• ഉദാഹരണ sentences:\n1. Each of the boys has finished his homework.\n2. Every one of the members was present.\n3. Neither of the answers is correct.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) have been — ഇത് plural verb ആണ്. 'students' plural ആണെന്ന് കണ്ട് ഈ option select ചെയ്യുന്നത് ആണ് സാധാരണ തെറ്റ്.\n• 🪤 PSC Trap: 'of the students' എന്ന phrase കണ്ട് plural verb എടുക്കാൻ students-നെ prompt ചെയ്യുന്ന trap ആണിത്.\n• (C) were — plural ഉം past tense ഉം ആണ്, രണ്ടു കാരണങ്ങളാലും തെറ്റ്.\n• (D) are — plural present tense ആണ്, subject-verb agreement-ലും tense-ലും പിഴവ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'EACH is like ONE person' എന്ന് ഓർക്കുക — Each = 1, അതുകൊണ്ട് verb-ഉം 1 (singular) ആയിരിക്കും.\n• Word family: Each, Every, Either, Neither — ഇവയെല്ലാം ഒരുമിച്ച് പഠിക്കുക, ഇവ എല്ലാം singular verb rule-ന് കീഴിലാണ്.\n• PSC exam strategy: 'of the + plural noun' കണ്ടാൽ ആദ്യം sentence-ന്റെ തുടക്കത്തിലെ word നോക്കുക, അതാണ് യഥാർത്ഥ subject."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-10-Q2",
+    "paperId": "HC-DAILY-2026-08-10",
+    "questionNumber": 2,
+    "topic": "Tenses",
+    "difficulty": "medium",
+    "questionText": "By the time the chief guest arrived, the volunteers ________ all the chairs in rows.",
+    "optionA": "arranged",
+    "optionB": "had arranged",
+    "optionC": "have arranged",
+    "optionD": "were arranging",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) had arranged\n\n• 'By the time the chief guest arrived' എന്നത് past-ലെ ഒരു event ആണ്; volunteers-ന്റെ action അതിനും മുൻപ് complete ആയതാണ് എന്ന് sentence സൂചിപ്പിക്കുന്നു.\n• രണ്ട് past actions-ൽ ആദ്യം നടന്നത് കാണിക്കാൻ Past Perfect Tense ('had + V3') ഉപയോഗിക്കുന്നു.\n• 'By the time' ഇത് past perfect-ന്റെ ഒരു classic signal word ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Two past actions, ആദ്യം നടന്നത് → had + V3 (Past Perfect); പിന്നീട് നടന്നത് → simple past\n• 'By the time', 'before', 'after', 'already', 'until' — ഈ signal words ഉള്ള sentence-കളിൽ ആദ്യം complete ആയ action past perfect ആയിരിക്കണം.\n• ⭐ PSC ആവർത്തനം: Tenses topic-ൽ 'By the time' pattern വളരെ common ആണ്.\n• ഉദാഹരണ sentences:\n1. By the time she reached the station, the train had left.\n2. He had finished his lunch before the meeting started.\n3. They had already left when I called them.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) arranged — Simple past ആണ്; ഇത് രണ്ട് actions-ന്റെ sequence വ്യക്തമായി കാണിക്കുന്നില്ല, past perfect-ന്റെ precision ഇല്ല.\n• 🪤 PSC Trap: Simple past 'sounds okay' എന്ന് തോന്നും, പക്ഷെ 'By the time' pattern-ൽ PSC എപ്പോഴും past perfect ആണ് ശരിയുത്തരമായി set ചെയ്യുന്നത്.\n• (C) have arranged — Present Perfect ആണ്; ഇത് past context-മായി match ആകില്ല ('arrived' എന്നത് past ആണ്).\n• (D) were arranging — Past Continuous ആണ്, action ഇനിയും complete ആയിട്ടില്ല എന്നാണ് ഇത് സൂചിപ്പിക്കുന്നത്, sentence-ന്റെ meaning-ന് എതിരാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'By the time' കണ്ടാൽ ഉടനെ ഓർക്കുക — 'HAD' വേണം, ഇത് ഒരു alarm word ആണ്.\n• Word family: before, after, already, by the time, until — ഇവയെല്ലാം Past Perfect-മായി ബന്ധപ്പെട്ട signal words ആണ്.\n• PSC exam strategy: Sentence-ൽ രണ്ട് past events ഉണ്ടോ എന്ന് നോക്കുക, ഏതാണ് ആദ്യം നടന്നത് എന്ന് കണ്ടെത്തി ആ verb-ന് 'had' കൊടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-10-Q3",
+    "paperId": "HC-DAILY-2026-08-10",
+    "questionNumber": 3,
+    "topic": "Active and Passive Voice",
+    "difficulty": "medium",
+    "questionText": "Change the following sentence from Active to Passive:\nThe manager will finalize the budget report by Friday.",
+    "optionA": "The budget report will be finalized by the manager by Friday.",
+    "optionB": "The budget report is finalized by the manager by Friday.",
+    "optionC": "The budget report will finalize by the manager by Friday.",
+    "optionD": "The budget report was finalized by the manager by Friday.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) The budget report will be finalized by the manager by Friday.\n\n• Active sentence-ലെ tense 'will finalize' (Future Simple) ആണ് — Passive-ലും ഇതേ tense തന്നെ നിലനിർത്തണം.\n• Passive voice formula: will + be + V3 → 'will be finalized'.\n• Object ('the budget report') Passive-ൽ subject ആയി മാറുന്നു, original subject ('the manager') 'by' എന്ന preposition-ന് ശേഷം വരുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Active tense = Passive tense ALWAYS — tense മാറ്റരുത്, structure മാത്രം മാറ്റുക.\n• Future Simple Active (will + V1) → Future Simple Passive (will + be + V3).\n• ⭐ PSC ആവർത്തനം: Active-Passive conversion PSC-യിൽ സ്ഥിരമായി വരുന്ന topic ആണ്, tense table മനഃപാഠമാക്കണം.\n• ഉദാഹരണ sentences:\n1. Active: He will complete the project. → Passive: The project will be completed by him.\n2. Active: They will announce the results tomorrow. → Passive: The results will be announced tomorrow.\n3. Active: She will paint the wall. → Passive: The wall will be painted by her.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) is finalized — Present Simple tense ആണ്; original sentence future ആണ്, ഇവിടെ tense മാറിപ്പോയി.\n• (C) will finalize — 'be' missing ആണ്, ഇത് ശരിയായ Passive structure അല്ല (should be 'will be finalized').\n• 🪤 PSC Trap: 'will finalize' കണ്ട് ഇത് active structure തന്നെ ആണെന്ന് മറന്ന് select ചെയ്യാൻ സാധ്യതയുണ്ട്.\n• (D) was finalized — Past Simple Passive ആണ്; original sentence future ആയതിനാൽ tense mismatch.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Passive-ൽ 'BE' എപ്പോഴും വേണം — 'No BE, not Passive!' എന്ന് ഓർക്കുക.\n• Rule family: Active-Passive tense table മുഴുവനും ഒരുമിച്ച് practice ചെയ്യുക (Simple, Continuous, Perfect — എല്ലാ tense-കളിലും).\n• PSC exam strategy: ആദ്യം active sentence-ന്റെ tense identify ചെയ്യുക, എന്നിട്ട് ആ tense-ന്റെ passive formula apply ചെയ്യുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-10-Q4",
+    "paperId": "HC-DAILY-2026-08-10",
+    "questionNumber": 4,
+    "topic": "Prepositions",
+    "difficulty": "easy",
+    "questionText": "They congratulated him ________ his success in the examination.",
+    "optionA": "on",
+    "optionB": "for",
+    "optionC": "with",
+    "optionD": "at",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) on\n\n• 'Congratulate' എന്ന verb-ന് ശേഷം fixed preposition 'on' ആണ് വരുന്നത് — 'congratulate someone ON something'.\n• ഇത് ഒരു fixed collocation ആണ്, മറ്റ് preposition-കൾ ഇവിടെ ഉപയോഗിക്കാൻ പാടില്ല.\n• 'His success' എന്ന achievement-ന് വേണ്ടിയാണ് അഭിനന്ദനം — അതിനാൽ 'on his success' എന്ന് പറയണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: congratulate + someone + ON + something (achievement)\n• Fixed collocations ('verb + fixed preposition') PSC-യിൽ direct memorization ചെയ്യേണ്ട topic ആണ്.\n• Related word group: insist ON, depend ON, congratulate ON, look forward TO, full OF.\n• ⭐ PSC ആവർത്തനം: Prepositions topic-ൽ fixed collocations ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന pattern ആണ്.\n• ഉദാഹരണ sentences:\n1. They congratulated her on winning the award.\n2. He congratulated the team on their victory.\n3. We congratulated him on passing the exam.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) for — 'congratulate for' എന്നത് standard English-ൽ correct collocation അല്ല, common mistake ആണ്.\n• 🪤 PSC Trap: 'for' എന്നത് 'reason'-നെ സൂചിപ്പിക്കുന്ന preposition ആയതിനാൽ, students ഇത് ശരി എന്ന് തെറ്റിദ്ധരിക്കാറുണ്ട്.\n• (C) with — 'congratulate with' എന്നത് idiomatic അല്ല.\n• (D) at — 'congratulate at' എന്നതും standard usage അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'CONGRATULATIONS ON your success!' എന്ന് ദിവസവും കേൾക്കുന്ന phrase ഓർക്കുക — 'ON' ആണ് ശരി.\n• Word family: congratulate ON, insist ON, depend ON, rely ON — ഇവയെല്ലാം 'ON' എടുക്കുന്ന verbs.\n• PSC exam strategy: Fixed preposition collocations ഒരു list ആയി എഴുതി ദിവസവും ആവർത്തിക്കുക — ഇത് guaranteed marks നൽകും."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-10-Q5",
+    "paperId": "HC-DAILY-2026-08-10",
+    "questionNumber": 5,
+    "topic": "Question Tags",
+    "difficulty": "medium",
+    "questionText": "Nobody informed you about the change in schedule, ________?",
+    "optionA": "did they",
+    "optionB": "did he",
+    "optionC": "didn't they",
+    "optionD": "do they",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) did they\n\n• 'Nobody' എന്ന negative indefinite pronoun ആണ് sentence-ന്റെ subject — ഇത് statement-നെ negative meaning ഉള്ളതാക്കുന്നു.\n• Negative meaning ഉള്ള statement-ന് positive question tag വേണം — അതിനാൽ 'did they' (positive) ശരിയാണ്.\n• 'Nobody', 'No one', 'Nothing' തുടങ്ങിയ words-ന്റെ tag-ൽ pronoun ആയി 'they' ഉപയോഗിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Negative subject (Nobody/No one/Nothing/Few) → POSITIVE tag; pronoun = 'they'\n• Statement-ൽ 'not' ഇല്ലെങ്കിലും 'Nobody', 'Nothing' പോലുള്ള words meaning-ൽ negative ആണ് — അതിനാൽ tag positive ആയിരിക്കും.\n• Related word group: Nobody, No one, Nothing, Neither, Few — ഇവയെല്ലാം negative-meaning subjects, positive tag എടുക്കും.\n• ⭐ PSC ആവർത്തനം: Question Tags topic-ൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന trap ഇതാണ്.\n• ഉദാഹരണ sentences:\n1. Nobody called me yesterday, did they?\n2. Nothing went wrong, did it?\n3. Few students passed the test, did they?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) did he — 'Nobody' tag-ൽ 'he' അല്ല, 'they' ആണ് conventionally ഉപയോഗിക്കുന്നത്.\n• 🪤 PSC Trap: 'Nobody' singular ആണെന്ന് കരുതി 'he/she' select ചെയ്യാൻ students-നെ ഈ option പ്രലോഭിപ്പിക്കുന്നു.\n• (C) didn't they — Statement 'Nobody' കൊണ്ട് ഇതിനകം negative ആണ്; negative tag കൂടി ചേർത്താൽ double negative ആയി മാറും, ഇത് തെറ്റാണ്.\n• (D) do they — Present tense tag ആണ്; sentence-ലെ verb 'informed' past tense ആയതിനാൽ tense mismatch.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NOBODY brings THEY' — Nobody, No one, Nothing എല്ലാം tag-ൽ 'they/it' കൊണ്ടുവരും എന്ന് പാട്ട് പോലെ ഓർക്കുക.\n• Rule family: Negative-meaning subjects + positive tag — ഇത് ഒരു group ആയി പഠിക്കുക.\n• PSC exam strategy: Statement-ൽ 'not' കാണുന്നില്ലെങ്കിലും meaning negative ആണോ എന്ന് ചെക്ക് ചെയ്യുക (Nobody, Nothing, Few, Hardly, Seldom)."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-10-Q6",
+    "paperId": "HC-DAILY-2026-08-10",
+    "questionNumber": 6,
+    "topic": "Spelling",
+    "difficulty": "easy",
+    "questionText": "Identify the correctly spelled word from the options given below.",
+    "optionA": "Concious",
+    "optionB": "Questionnaire",
+    "optionC": "Priviledge",
+    "optionD": "Accomodate",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Questionnaire\n\n• 'Questionnaire' എന്ന word ശരിയായി spell ചെയ്തതാണ് — ഇത് ഒരു set of written questions എന്ന് അർഥം.\n• ബാക്കി മൂന്ന് options-ഉം സാധാരണ തെറ്റായി spell ചെയ്യപ്പെടുന്ന words ആണ്.\n• French origin ('-aire' ending) ഉള്ള words spelling ശ്രദ്ധയോടെ പഠിക്കണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Frequently misspelled words ദിവസവും list ആയി practice ചെയ്യുക.\n• Correct spellings: Conscious (not Concious), Privilege (not Priviledge), Accommodate (not Accomodate — double C, double M).\n• Etymology hint: 'Accommodate' Latin 'accommodare'-ൽ നിന്നാണ് — 'ac' + 'com' + 'modare' എന്ന് break ചെയ്താൽ double letters ഓർക്കാൻ എളുപ്പമാണ്.\n• ⭐ PSC ആവർത്തനം: Spelling topic-ൽ ഈ നാല് words (conscious, privilege, accommodate, questionnaire) ആവർത്തിച്ച് വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. Please fill out this questionnaire carefully.\n2. He felt guilty and conscious of his mistake.\n3. It is a great privilege to be here.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Concious — ശരിയായ spelling 'Conscious' ആണ് ('sc' രണ്ടും വേണം).\n• 🪤 PSC Trap: 'Concious' pronunciation-ന് അടുത്താണ് തോന്നുന്നത്, പക്ഷെ spelling തെറ്റാണ്.\n• (C) Priviledge — ശരിയായ spelling 'Privilege' ആണ് ('d' ഇല്ല).\n• (D) Accomodate — ശരിയായ spelling 'Accommodate' ആണ് (double 'c', double 'm' രണ്ടും വേണം).",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'AccoMModate has room for MM (two Ms) and CC (two Cs)' എന്ന visual ഓർക്കുക.\n• Word family: ഇടയ്ക്കിടെ തെറ്റുന്ന spellings ഒരു personal list ആയി സൂക്ഷിക്കുക — conscious, privilege, accommodate, questionnaire, occurrence, necessary.\n• PSC exam strategy: Spelling questions-ൽ ഓരോ option-ഉം സാവധാനം letter-by-letter വായിച്ച് ചെക്ക് ചെയ്യുക, hurry ചെയ്യരുത്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-10-Q7",
+    "paperId": "HC-DAILY-2026-08-10",
+    "questionNumber": 7,
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct synonym of the word in italics.\nThe professor's __erudite__ explanation impressed all the students.",
+    "optionA": "learned",
+    "optionB": "confusing",
+    "optionC": "boring",
+    "optionD": "brief",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) learned\n\n• 'Erudite' എന്ന word-ന്റെ അർഥം 'വളരെ അറിവുള്ള, പണ്ഡിതോചിതമായ' (having or showing great knowledge/learning) എന്നാണ്.\n• 'Learned' എന്ന word-ന് ഇതേ അർഥം തന്നെയാണ് — deep knowledge ഉള്ള.\n• Professor-ന്റെ explanation-നെ വിശേഷിപ്പിക്കാൻ ഏറ്റവും യോജിക്കുന്ന word ഇതാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Synonym questions-ൽ context sentence-ലെ tone ('impressed the students') ശ്രദ്ധിക്കുക — positive/negative meaning കണ്ടെത്താൻ സഹായിക്കും.\n• 'Erudite' Latin 'eruditus' (educated, freed from rudeness/ignorance) എന്നതിൽ നിന്നാണ് വരുന്നത്.\n• Related word family: scholarly, learned, well-read, knowledgeable, sagacious.\n• ⭐ PSC ആവർത്തനം: High-level vocabulary synonyms Synonyms topic-ൽ സ്ഥിരമായി ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. She gave an erudite lecture on ancient history.\n2. His erudite comments impressed the panel.\n3. The professor is known for his erudite writing style.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) confusing — 'Erudite' explanation confusing അല്ല, മറിച്ച് insightful ആണ്; ഇത് opposite feel ഉള്ള word ആണ്.\n• 🪤 PSC Trap: Difficult-sounding words hard to understand എന്ന് തെറ്റിദ്ധരിച്ച് 'confusing' select ചെയ്യാൻ സാധ്യതയുണ്ട്.\n• (C) boring — Erudite explanations സാധാരണയായി depth of knowledge കൊണ്ട് impress ചെയ്യുന്നവയാണ്, boring അല്ല.\n• (D) brief — 'Erudite' length-നെ കുറിച്ചല്ല, knowledge-ന്റെ depth-നെ കുറിച്ചാണ്; ഇത് completely unrelated meaning ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ERUDITE = ERUdition + white (knowledge shining bright)' എന്ന് visualize ചെയ്യുക — അറിവിന്റെ വെളിച്ചം.\n• Word family: erudite, scholarly, learned, sagacious, knowledgeable — ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Synonym options-ൽ 'positive vs negative' tone വേർതിരിച്ചെടുത്താൽ പകുതി options ഒഴിവാക്കാം."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-10-Q8",
+    "paperId": "HC-DAILY-2026-08-10",
+    "questionNumber": 8,
+    "topic": "Phrasal Verbs",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the phrasal verb in italics.\nThe new employee had to __brush up on__ his presentation skills before the client meeting.",
+    "optionA": "review and improve",
+    "optionB": "completely forget",
+    "optionC": "show off",
+    "optionD": "give away",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) review and improve\n\n• 'Brush up on' എന്ന phrasal verb-ന്റെ അർഥം 'ഒരു skill-നെ practice ചെയ്തോ പഠിച്ചോ വീണ്ടും മെച്ചപ്പെടുത്തുക' എന്നാണ്.\n• Client meeting-ന് മുൻപ് presentation skills 'review and improve' ചെയ്യുക എന്ന logical context-ന് ഈ meaning യോജിക്കുന്നു.\n• Literal meaning ('brush' ഉപയോഗിച്ച് ഉരയ്ക്കുക) അല്ല, idiomatic meaning ആണ് ഇവിടെ പ്രധാനം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Phrasal verbs-ന്റെ meaning literal word-കളിൽ നിന്ന് ഊഹിക്കാൻ ശ്രമിക്കരുത് — idiomatic meaning പഠിക്കണം.\n• 'Brush up (on)' = to refresh/improve a skill through practice or study.\n• Related word family: catch up on, work on, polish up, refresh — ഇവയെല്ലാം 'skill improve ചെയ്യുക' എന്ന അർഥവുമായി ബന്ധപ്പെട്ടത്.\n• ⭐ PSC ആവർത്തനം: Phrasal Verbs topic PSC-യിൽ ഉയർന്ന frequency-യിൽ വരുന്ന ഭാഗമാണ്.\n• ഉദാഹരണ sentences:\n1. I need to brush up on my Spanish before the trip.\n2. She brushed up on her cooking skills over the weekend.\n3. He brushed up on the rules before the exam.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) completely forget — 'brush up on' ന്റെ almost opposite meaning ആണ് ഇത്; brush up എന്നാൽ ഓർത്തെടുക്കുകയാണ്, മറക്കുകയല്ല.\n• 🪤 PSC Trap: 'brush' എന്ന word ഒരു careless gesture ആയി തോന്നാം എന്നതിനാൽ 'forget'-മായി ബന്ധിപ്പിക്കാൻ students-നെ ഈ option തെറ്റിദ്ധരിപ്പിക്കും.\n• (C) show off — completely unrelated meaning ആണ്, phrasal verb-ന്റെ അർഥവുമായി ബന്ധമില്ല.\n• (D) give away — ഇതും unrelated meaning ആണ്, 'brush up on'-മായി യാതൊരു ബന്ധവുമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BRUSH your skills like you BRUSH your teeth — polish them up!' എന്ന image ഓർക്കുക.\n• Word family: brush up on, catch up on, work on, polish — 'skill improve' meaning-ൽ ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Phrasal verb questions-ൽ sentence-ന്റെ context (ഇവിടെ: meeting-ന് മുൻപ്) meaning തിരഞ്ഞെടുക്കാൻ സഹായിക്കും."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-10-Q9",
+    "paperId": "HC-DAILY-2026-08-10",
+    "questionNumber": 9,
+    "topic": "Idioms",
+    "difficulty": "medium",
+    "questionText": "What does the following idiom mean?\n'Burn the midnight oil'",
+    "optionA": "to work or study late into the night",
+    "optionB": "to waste money carelessly",
+    "optionC": "to start a fire accidentally",
+    "optionD": "to finish work early",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) to work or study late into the night\n\n• 'Burn the midnight oil' എന്ന idiom-ന്റെ അർഥം രാത്രി വൈകുവോളം ജോലി ചെയ്യുകയോ പഠിക്കുകയോ ചെയ്യുക എന്നാണ്.\n• പണ്ട് കാലത്ത് വൈദ്യുതി ഇല്ലാതിരുന്നപ്പോൾ oil lamp കത്തിച്ച് രാത്രി വൈകി പഠിക്കുന്ന practice-ൽ നിന്നാണ് ഈ idiom ഉണ്ടായത്.\n• Exam-ന് മുൻപ് വൈകി പഠിക്കുന്ന വിദ്യാർത്ഥികളെ വിശേഷിപ്പിക്കാൻ ഈ idiom സാധാരണ ഉപയോഗിക്കും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Idioms-ന്റെ meaning literal word-കളിൽ നിന്ന് ഊഹിക്കരുത് — ഓരോ idiom-ന്റെയും figurative meaning പ്രത്യേകം പഠിക്കണം.\n• Origin: Oil lamps ഉപയോഗിച്ചിരുന്ന കാലത്ത്, രാത്രി വൈകി ജോലി ചെയ്യുന്നവർ lamp-ന്റെ oil കത്തിച്ചു തീർക്കും — അതിൽ നിന്നാണ് ഈ idiom.\n• Related idiom family: work hard, pull an all-nighter, toil away.\n• ⭐ PSC ആവർത്തനം: Idioms topic PSC English-ൽ high-frequency topic ആണ്.\n• ഉദാഹരണ sentences:\n1. She burned the midnight oil to finish her thesis on time.\n2. Students often burn the midnight oil before final exams.\n3. He had to burn the midnight oil to meet the project deadline.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) to waste money carelessly — ഇത് 'burn money' എന്ന വേറൊരു idiom-ന്റെ meaning ആണ്, 'burn the midnight oil'-മായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'Burn' എന്ന word കണ്ട് money-യുമായി ബന്ധപ്പെടുത്താൻ ഈ option students-നെ പ്രലോഭിപ്പിക്കും.\n• (C) to start a fire accidentally — ഇത് idiom-ന്റെ literal misreading ആണ്, figurative meaning അല്ല.\n• (D) to finish work early — ഇത് idiom-ന്റെ exact opposite meaning ആണ്; idiom പറയുന്നത് വൈകി ജോലി ചെയ്യുന്നതിനെ കുറിച്ചാണ്, നേരത്തെ തീർക്കുന്നതിനെ കുറിച്ചല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Oil lamp കത്തിച്ച് രാത്രി മുഴുവൻ പഠിക്കുന്ന ഒരു വിദ്യാർത്ഥിയുടെ ചിത്രം' മനസ്സിൽ visualize ചെയ്യുക.\n• Word family: burn the midnight oil, pull an all-nighter, work overtime — 'വൈകി ജോലി ചെയ്യുക' എന്ന theme-ൽ ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Idiom questions-ൽ literal meaning-ഉം figurative meaning-ഉം തമ്മിൽ confuse ആകാതെ ശ്രദ്ധിക്കുക — PSC എപ്പോഴും figurative meaning ആണ് ചോദിക്കുന്നത്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-10-Q10",
+    "paperId": "HC-DAILY-2026-08-10",
+    "questionNumber": 10,
+    "topic": "One Word Substitutes",
+    "difficulty": "medium",
+    "questionText": "Choose the most suitable one-word substitute for the phrase in italics.\nA person who __can speak two languages fluently__ is often preferred for international roles.",
+    "optionA": "Bilingual",
+    "optionB": "Polyglot",
+    "optionC": "Linguist",
+    "optionD": "Interpreter",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Bilingual\n\n• 'Bilingual' എന്ന word-ന്റെ അർഥം 'രണ്ട് ഭാഷകൾ fluent-ആയി സംസാരിക്കാൻ കഴിയുന്ന വ്യക്തി' എന്നാണ് — 'bi' = two.\n• Phrase-ൽ 'two languages fluently' എന്ന് exact-ആയി പറഞ്ഞിരിക്കുന്നതിനാൽ, exactly this meaning ഉള്ള word ('Bilingual') ആണ് ശരിയുത്തരം.\n• 'Bi-' എന്ന Latin prefix 'two' എന്നാണ് അർഥമാക്കുന്നത് (bicycle = two wheels പോലെ).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Bi- = TWO, Poly- = MANY (more than two) — one-word substitute-ന്റെ exact number match ചെയ്യുന്ന word തിരഞ്ഞെടുക്കുക.\n• Etymology hint: 'Bilingual' Latin 'bi' (two) + 'lingua' (language) എന്നതിൽ നിന്ന്; 'Polyglot' Greek 'poly' (many) + 'glotta' (tongue) എന്നതിൽ നിന്ന്.\n• Related word family: Monolingual (one language), Bilingual (two languages), Multilingual/Polyglot (many languages).\n• ⭐ PSC ആവർത്തനം: One Word Substitutes topic-ൽ number-based prefixes (mono, bi, poly) സ്ഥിരമായി ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. Canada is officially a bilingual country (English and French).\n2. She is bilingual in Malayalam and English.\n3. Being bilingual helps in international business roles.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) Polyglot — ഇത് 'many/several languages' സംസാരിക്കുന്ന ആളെയാണ് സൂചിപ്പിക്കുന്നത്, exactly 'two' അല്ല.\n• 🪤 PSC Trap: Polyglot ഉം ഭാഷയുമായി ബന്ധപ്പെട്ട word ആയതിനാൽ students confuse ആകാറുണ്ട്, പക്ഷെ number match ചെയ്യുന്നില്ല.\n• (C) Linguist — ഭാഷയെ scientifically പഠിക്കുന്ന വ്യക്തിയാണ്, fluent speaker ആകണമെന്നില്ല.\n• (D) Interpreter — സംസാരിക്കുന്ന ഭാഷ translate ചെയ്യുന്ന professional ആണ്, bilingual ആയിരിക്കുക എന്ന quality-യിൽ നിന്ന് വ്യത്യസ്തമായ ഒരു ജോലി/role ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BI-cycle has TWO wheels, BI-lingual has TWO languages' എന്ന് ഓർക്കുക.\n• Rule family: Mono (1), Bi (2), Tri (3), Poly/Multi (many) — number prefixes ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: One-word substitute questions-ൽ phrase-ലെ exact number/quantity ശ്രദ്ധിക്കുക, ഏതെങ്കിലും related-sounding word-ൽ trap ആകരുത്."
+    }
   }
 ]

@@ -29356,5 +29356,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) Pleased — 'സന്തുഷ്ടനായ' എന്നാണ് അർത്ഥം; ഇത് 'felicitous'-ന്റെ (aptness സൂചിപ്പിക്കുന്ന വാക്ക്) synonym-നോട് അടുത്താണ്, antonym അല്ല.\n  🪤 PSC Trap: 'felicitous'-ന് 'happy'-യുമായി ബന്ധമുള്ളതിനാൽ (felicity=happiness), 'pleased' എതിർപദമാണെന്ന് തെറ്റിദ്ധരിക്കാം.\n\n• (C) Decorous — 'മാന്യമായ / ഉചിതമായ പെരുമാറ്റമുള്ള' എന്നാണ് അർത്ഥം; ഇത് 'felicitous'-ന്റെ synonym ആണ്, antonym അല്ല.\n\n• (D) Relevant — 'പ്രസക്തമായ' എന്നാണ് അർത്ഥം; ഇതും 'felicitous'-നോട് അടുത്ത അർത്ഥമുള്ള വാക്കാണ്, antonym അല്ല.\n  🪤 PSC Trap: Synonym-ഉം antonym-ഉം ഒരുമിച്ച് options-ൽ കൊടുത്ത് confuse ചെയ്യുന്ന PSC-യുടെ സാധാരണ tactic ആണ് ഇത്.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'FELICITOUS' Latin 'FELIX' (happy/fortunate)-ൽ നിന്ന് — 'ഉചിതമായ, ഭാഗ്യകരമായ' തിരഞ്ഞെടുപ്പ്; opposite = 'IN-appropriate'.\n• Word family: felicitous, apt, suitable, appropriate ↔ inappropriate, unsuitable, inept.\n• PSC exam strategy: Antonym ചോദ്യങ്ങളിൽ options-ൽ synonyms ഉം ഉണ്ടാകും എന്ന് ഓർക്കുക — word-ന്റെ കൃത്യമായ അർത്ഥം ഉറപ്പിച്ച ശേഷം മാത്രം exact opposite തിരഞ്ഞെടുക്കുക."
     }
+  },
+  {
+    "id": "018-2022-M-Q61",
+    "paperId": "018-2022-M",
+    "questionNumber": 61,
+    "topic": "Conditionals",
+    "questionText": "If you had told the truth they _________ you.",
+    "optionA": "Will believe",
+    "optionB": "Would have believed",
+    "optionC": "Would believe",
+    "optionD": "May believe",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Would have believed\n\n• ഇത് Third Conditional (Type 3) sentence ആണ് — ഭൂതകാലത്ത് നടക്കാതെ പോയ ഒരു സാങ്കൽപ്പിക (hypothetical) കാര്യത്തെ സൂചിപ്പിക്കുന്നു.\n• 'If you had told the truth' എന്നത് Past Perfect-ൽ (had + V3) ആണ് — യഥാർത്ഥത്തിൽ നീ സത്യം പറഞ്ഞില്ല എന്നാണ് സൂചന.\n• Structure: If + had + V3, ... + would have + V3 → 'If you had told the truth, they would have believed you.'\n• Third Conditional PSC-യിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന conditional type ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: If + had + V3 → would have + V3 (Third Conditional - unreal past).\n• Rule: If-clause-ൽ Past Perfect ഉപയോഗിക്കുമ്പോൾ, main clause-ൽ 'would/could/might have' + past participle (V3) വരണം.\n• Related word group: Conditional types — First (If+Present, will+V1), Second (If+Past, would+V1), Third (If+had+V3, would have+V3).\n• ⭐ PSC ആവർത്തനം: Third Conditional PSC പേപ്പറുകളിൽ സ്ഥിരമായി ചോദിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. If she had studied hard, she would have passed.\n  2. If I had known, I would have helped you.\n  3. If they had left early, they would have caught the train.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Will believe — 'will' First Conditional (If+Present)-ന്റെ ഭാഗമാണ്; if-clause Past Perfect ('had told') ആയതിനാൽ ചേരില്ല.\n  🪤 PSC Trap: 'will'-ന്റെ simple future feel കാരണം തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്, if-clause tense ശ്രദ്ധിക്കാതെ.\n\n• (C) Would believe — ഇത് Second Conditional (If+Past, would+V1)-ന്റെ structure ആണ്; if-clause ഇവിടെ Past Perfect ('had told') ആണ്, Past Simple അല്ല.\n  🪤 PSC Trap: 'would' കണ്ടാൽ ശരിയാണെന്ന് തോന്നും, പക്ഷേ 'have' ഇല്ലാത്തതിനാൽ tense mismatch ആണ്.\n\n• (D) May believe — 'may' possibility സൂചിപ്പിക്കുന്നു; ഇത് hypothetical past situation-ന് ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Had-Would Have' pair ഓർക്കുക — If-clause-ൽ 'had' ഉണ്ടെങ്കിൽ, main clause-ൽ 'would have' വരും.\n• Word family: Third Conditional structures — If+had+V3, would/could/might have+V3.\n• PSC exam strategy: Conditional ചോദ്യങ്ങളിൽ ആദ്യം if-clause-ന്റെ tense (Present/Past/Past Perfect) നോക്കി, matching main clause structure തിരഞ്ഞെടുക്കുക. ഇത് ഓർത്തിരുന്നാൽ ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "018-2022-M-Q62",
+    "paperId": "018-2022-M",
+    "questionNumber": 62,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Neither Raju nor his friends _________ home every week.",
+    "optionA": "goes",
+    "optionB": "go",
+    "optionC": "is going",
+    "optionD": "was going",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) go\n\n• 'Neither...nor' ചേർത്ത് രണ്ട് subjects (Raju, his friends) ഉള്ളപ്പോൾ, verb ഏറ്റവും അടുത്തുള്ള subject-നോട് (his friends - plural) match ചെയ്യണം.\n• 'His friends' plural ആയതിനാൽ verb-ഉം plural ('go') ആയിരിക്കണം.\n• 'Neither Raju nor his friends go home every week' എന്നത് ശരിയായ structure ആണ്.\n• PSC-യിൽ 'neither...nor', 'either...or' ഉള്ള subject-verb agreement ചോദ്യങ്ങൾ പതിവായി വരാറുണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Neither A nor B + verb → verb agrees with B (the NEARER subject).\n• Rule: 'Neither...nor', 'either...or' എന്നിവയിൽ subject-കൾക്ക് വ്യത്യസ്ത number ഉള്ളപ്പോൾ, verb ഏറ്റവും അടുത്തുള്ള (തൊട്ടടുത്ത്) subject-നോടാണ് agree ചെയ്യേണ്ടത്.\n• Related word group: neither...nor, either...or — proximity agreement rule.\n• ⭐ PSC ആവർത്തനം: Correlative conjunctions-ന്റെ subject-verb agreement PSC-യിൽ വളരെ പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. Either the teacher or the students are wrong.\n  2. Neither the students nor the teacher is present.\n  3. Either you or I am responsible.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) goes — Singular verb form ആണ്; ഇത് 'Raju' (singular)-നോട് മാത്രം match ചെയ്യും, പക്ഷേ verb-ന് അടുത്തുള്ള subject 'his friends' (plural) ആണ്.\n  🪤 PSC Trap: ആദ്യം വരുന്ന subject 'Raju' (singular) നോക്കി verb തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്, പക്ഷേ proximity rule ശ്രദ്ധിക്കണം.\n\n• (C) is going — Present continuous ആണ്; sentence-ന്റെ context ('every week' — habitual action) Present Simple ആവശ്യപ്പെടുന്നു, Continuous അല്ല.\n\n• (D) was going — Past tense ആണ്; sentence 'every week' എന്ന habitual present context-ൽ ആയതിനാൽ ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NEITHER...NOR' കണ്ടാൽ verb-നോട് ഏറ്റവും അടുത്തുള്ള subject-നെ മാത്രം നോക്കുക — 'NEAR ONE WINS' എന്ന് ഓർക്കുക.\n• Word family: neither...nor, either...or — proximity agreement group.\n• PSC exam strategy: Correlative subject-verb ചോദ്യങ്ങളിൽ verb-ന് തൊട്ടടുത്തുള്ള subject-ന്റെ number നോക്കി verb തിരഞ്ഞെടുക്കുക. ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "018-2022-M-Q63",
+    "paperId": "018-2022-M",
+    "questionNumber": 63,
+    "topic": "Prepositions",
+    "questionText": "He is senior _________ me in college.",
+    "optionA": "than",
+    "optionB": "for",
+    "optionC": "by",
+    "optionD": "to",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) to\n\n• 'Senior' എന്ന adjective-ന് ശേഷം comparison സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്ന fixed preposition 'to' ആണ് ('senior to', 'junior to').\n• 'He is senior to me in college' എന്നാൽ 'കോളേജിൽ അവൻ എന്നെക്കാൾ സീനിയർ ആണ്' എന്നാണ് അർത്ഥം.\n• ഇത് Latin-origin comparative adjectives (senior, junior, superior, inferior, prior) ന്റെ പ്രത്യേകതയാണ് — ഇവയ്ക്ക് 'than' അല്ല, 'to' ആണ് preposition.\n• PSC-യിൽ ഇത്തരം Latin comparative + 'to' combinations പതിവായി ചോദിക്കാറുണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: SENIOR/JUNIOR/SUPERIOR/INFERIOR/PRIOR + TO (not 'than').\n• Rule: Latin origin comparative adjectives (ending in -ior: senior, junior, superior, inferior, prior) 'than' എടുക്കില്ല; ഇവ 'to' എടുക്കുന്നു.\n• Related word group: senior to, junior to, superior to, inferior to, prior to, preferable to.\n• ⭐ PSC ആവർത്തനം: Latin comparative + preposition ചോദ്യങ്ങൾ PSC-യിൽ സ്ഥിരമായി ആവർത്തിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. This car is superior to that one.\n  2. She is junior to him in rank.\n  3. Health is prior to wealth.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) than — സാധാരണ comparative adjectives-ന് ('taller than', 'better than') 'than' ഉപയോഗിക്കും; പക്ഷേ Latin-origin -ior adjectives ('senior') ന് 'than' തെറ്റാണ്.\n  🪤 PSC Trap: മിക്ക comparative sentences-ലും 'than' ശരിയാകാറുള്ളതിനാൽ, ഇവിടെയും 'than' തിരഞ്ഞെടുക്കാൻ വളരെ സാധ്യതയുണ്ട്.\n\n• (B) for — 'for' ഉദ്ദേശ്യം/ലക്ഷ്യം സൂചിപ്പിക്കാൻ ഉപയോഗിക്കും; comparison-ന് ചേരില്ല.\n\n• (C) by — 'by' agent അല്ലെങ്കിൽ മാർഗ്ഗം സൂചിപ്പിക്കാൻ ഉപയോഗിക്കും; comparison-ന് ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: '-IOR' എന്ന് അവസാനിക്കുന്ന വാക്കുകൾ (senior, junior, superior, inferior) കണ്ടാൽ ഉടനെ 'TO' ഓർക്കുക, 'than' മറക്കുക!\n• Word family: senior to, junior to, superior to, inferior to, prior to.\n• PSC exam strategy: Comparative adjective ചോദ്യങ്ങളിൽ വാക്ക് '-ior'-ൽ അവസാനിക്കുന്നുണ്ടോ എന്ന് നോക്കുക — ഉണ്ടെങ്കിൽ 'to', ഇല്ലെങ്കിൽ 'than' എന്ന് ഓർത്താൽ ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "018-2022-M-Q64",
+    "paperId": "018-2022-M",
+    "questionNumber": 64,
+    "topic": "Question Tags",
+    "questionText": "Everyone passed the examination, _________\nAdd a suitable tag.",
+    "optionA": "doesn't he ?",
+    "optionB": "don't they ?",
+    "optionC": "didn't they ?",
+    "optionD": "didn't he ?",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) didn't they?\n\n• 'Everyone' എന്നത് grammar-പരമായി singular ആണെങ്കിലും, question tag-ൽ ഇതിനെ പരാമർശിക്കാൻ 'they' എന്ന pronoun ആണ് conventional ആയി ഉപയോഗിക്കുന്നത് (gender-neutral reference).\n• Statement 'Everyone passed the examination' positive ഉം Past tense-ലും ആണ് ('passed') — അതിനാൽ tag negative ഉം Past tense-ലും ('didn't') ആയിരിക്കണം.\n• 'Everyone passed the examination, didn't they?' ആണ് ശരിയായ structure.\n• Indefinite pronouns (everyone, everybody, someone, no one) ഉള്ള tag questions-ൽ ഈ 'they' rule PSC-യിൽ പതിവായി ചോദിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Everyone/Everybody/Someone/No one + tag → pronoun 'THEY' ഉപയോഗിക്കുക.\n• Rule: Indefinite pronouns (everyone, everybody, someone, anybody, no one) subject ആയി വരുമ്പോൾ, verb singular ('passes') എടുത്താലും, tag-ലെ pronoun 'they' ആണ് (gender-neutral).\n• Related word group: everyone → they, everybody → they, someone → they, no one → they.\n• ⭐ PSC ആവർത്തനം: Indefinite pronoun tag questions PSC-യിൽ ട്രിക്കി ആയി ചോദിക്കാറുള്ള ഒരു topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. Everybody knows the answer, don't they?\n  2. Someone left the door open, didn't they?\n  3. No one called, did they?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) doesn't he? — Present tense 'doesn't' ആണ്; statement Past tense-ൽ ('passed') ആണ്, tense mismatch.\n\n• (B) don't they? — Pronoun 'they' ശരിയാണ്, പക്ഷേ 'don't' Present tense ആണ്; statement Past ('passed') ആയതിനാൽ 'didn't' വേണം.\n  🪤 PSC Trap: Pronoun ശരിയായി തിരഞ്ഞെടുത്താലും, tense ശ്രദ്ധിക്കാതെ പോയാൽ തെറ്റാകും.\n\n• (D) didn't he? — Tense ('didn't') ശരിയാണ്, പക്ഷേ pronoun 'he' തെറ്റാണ് — 'everyone'-ന് 'they' ആണ് conventional tag pronoun.\n  🪤 PSC Trap: 'everyone' singular ആണെന്ന് കരുതി 'he'/'she' തിരഞ്ഞെടുക്കാൻ വളരെ സാധ്യതയുണ്ട്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'EVERYONE' കണ്ടാൽ ഉടനെ 'THEY' എന്ന് മനസ്സിൽ പറയുക — gender-neutral tag pronoun.\n• Word family: everyone, everybody, someone, anybody, no one — എല്ലാം tag-ൽ 'they' എടുക്കുന്ന group.\n• PSC exam strategy: Question tag ചോദ്യങ്ങളിൽ statement-ന്റെ tense ആദ്യം നോക്കി tag verb തീരുമാനിക്കുക, പിന്നെ subject indefinite pronoun ആണെങ്കിൽ 'they' ഉപയോഗിക്കുക."
+    }
+  },
+  {
+    "id": "018-2022-M-Q65",
+    "paperId": "018-2022-M",
+    "questionNumber": 65,
+    "topic": "Articles",
+    "questionText": "_________ honest man is the noblest work of God.",
+    "optionA": "An",
+    "optionB": "A",
+    "optionC": "The",
+    "optionD": "Both B) and C)",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) An\n\n• 'Honest' എന്ന വാക്കിലെ 'h' silent ആണ് (ഉച്ചരിക്കില്ല) — ഉച്ചാരണം 'onest' എന്ന vowel sound-ൽ തുടങ്ങുന്നു.\n• Article തിരഞ്ഞെടുപ്പ് spelling-നെ അല്ല, ഉച്ചാരണത്തിലെ (sound) ആദ്യ letter-നെ ആണ് ആശ്രയിക്കുന്നത് — vowel sound-ന് 'an'.\n• 'An honest man is the noblest work of God' എന്നത് ശരിയായ structure ആണ്.\n• Silent 'h' ഉള്ള മറ്റ് വാക്കുകൾ: hour, heir, honour — ഇവയ്ക്കും 'an' ഉപയോഗിക്കും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: A/AN തിരഞ്ഞെടുപ്പ് = SOUND അടിസ്ഥാനത്തിൽ, LETTER അല്ല.\n• Rule: അടുത്ത വാക്ക് vowel sound (a,e,i,o,u sound)-ൽ തുടങ്ങിയാൽ 'an'; consonant sound-ൽ തുടങ്ങിയാൽ 'a'. Silent 'h' ഉള്ള വാക്കുകൾ (honest, hour, heir, honour) vowel sound-ൽ തുടങ്ങുന്നു.\n• Related word group: an hour, an honest man, an heir, an honour — silent 'h' group.\n• ⭐ PSC ആവർത്തനം: Silent 'h' articles PSC-യിൽ ഏറ്റവും പതിവായി ചോദിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. He is an honest officer.\n  2. Wait for an hour.\n  3. She is the sole heir — an heir to the property.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) A — Consonant sound-ന് മുന്നിൽ ഉപയോഗിക്കും (e.g., a boy, a university - 'u' sound ആയതിനാൽ); 'honest'-ന്റെ silent 'h' കാരണം ഇവിടെ ചേരില്ല.\n  🪤 PSC Trap: 'h' എന്ന letter കണ്ടാൽ consonant ആണെന്ന് കരുതി 'a' തിരഞ്ഞെടുക്കാൻ വളരെ സാധ്യതയുണ്ട് — silent 'h' ശ്രദ്ധിക്കാതെ.\n\n• (C) The — Definite article ആണ്, ഒരു specific/particular person/thing-നെ പരാമർശിക്കാൻ; ഇവിടെ 'honest man' എന്നത് general/any honest man എന്ന അർത്ഥത്തിലാണ് (indefinite), അതിനാൽ 'the' ചേരില്ല.\n\n• (D) Both B) and C) — B ഉം C ഉം രണ്ടും തെറ്റായതിനാൽ ഈ option-ഉം തെറ്റാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HONEST' എന്ന വാക്കിലെ 'H' ഒളിച്ചിരിക്കുന്നു — കേൾക്കില്ല, അതിനാൽ 'AN' വരും.\n• Word family: an hour, an honest man, an heir, an honour — silent 'h' words.\n• PSC exam strategy: Article ചോദ്യങ്ങളിൽ വാക്ക് എങ്ങനെ ഉച്ചരിക്കുന്നു എന്ന് ചിന്തിക്കുക (spelling അല്ല) — silent letters ശ്രദ്ധിക്കുക."
+    }
+  },
+  {
+    "id": "018-2022-M-Q66",
+    "paperId": "018-2022-M",
+    "questionNumber": 66,
+    "topic": "Parts of Speech",
+    "questionText": "I saw a _________ of bees.",
+    "optionA": "stack",
+    "optionB": "band",
+    "optionC": "swarm",
+    "optionD": "pride",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) swarm\n\n• 'Swarm' എന്നത് തേനീച്ചകൾ, ഉറുമ്പുകൾ പോലുള്ള പ്രാണികളുടെ കൂട്ടത്തെ സൂചിപ്പിക്കുന്ന collective noun ആണ് — 'a swarm of bees' എന്നത് ഒരു fixed/standard collocation ആണ്.\n• 'I saw a swarm of bees' എന്നാൽ 'ഞാൻ ഒരു തേനീച്ചക്കൂട്ടത്തെ കണ്ടു' എന്നാണ് അർത്ഥം.\n• ഓരോ collective noun-ഉം നിർദ്ദിഷ്ട ഒരു group-നോട് മാത്രം ചേരും — bees-ന് 'swarm' തന്നെ standard ആണ്.\n• PSC-യിൽ ഇത്തരം animal/insect collective nouns പതിവായി ചോദിക്കാറുണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: SWARM OF BEES/ANTS/INSECTS — collective noun for insects.\n• Rule: ഓരോ collective noun-ഉം ഒരു specific group-നോട് മാത്രമേ ചേരൂ — ഇവ പരസ്പരം മാറ്റി ഉപയോഗിക്കാൻ പറ്റില്ല.\n• Related word group: swarm (bees/insects), band (musicians/robbers), pride (lions), stack (hay/books).\n• ⭐ PSC ആവർത്തനം: Collective nouns PSC-യിൽ ഏറ്റവും പതിവായി ചോദിക്കുന്ന ഒരു vocabulary topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. A swarm of locusts destroyed the crops.\n  2. We watched a swarm of bees near the hive.\n  3. The swarm of ants moved across the kitchen floor.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) stack — 'a stack of' hay, books, papers പോലുള്ള അടുക്കിവച്ച വസ്തുക്കൾക്ക് ഉപയോഗിക്കും; ജീവികളുടെ കൂട്ടത്തിന് ചേരില്ല.\n\n• (B) band — 'a band of' സംഗീതജ്ഞർ, കൊള്ളക്കാർ എന്നിവയുടെ കൂട്ടത്തിന് ഉപയോഗിക്കും; bees-ന് ചേരില്ല.\n  🪤 PSC Trap: 'band' ഒരു common collective noun ആയതിനാൽ context ശ്രദ്ധിക്കാതെ തിരഞ്ഞെടുക്കാം.\n\n• (D) pride — 'a pride of' സിംഹങ്ങളുടെ (lions) കൂട്ടത്തിന് മാത്രം ഉപയോഗിക്കുന്ന പ്രത്യേക collective noun ആണ്; bees-ന് ചേരില്ല.\n  🪤 PSC Trap: Animal collective nouns പലതും confuse ചെയ്യും — ഏത് group-ന് ഏത് word എന്ന് കൃത്യമായി അറിയണം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'SWARM' എന്ന വാക്ക് കേൾക്കുമ്പോൾ ഒരു കൂട്ടം തേനീച്ചകൾ 'buzz' ചെയ്ത് പറക്കുന്നത് സങ്കൽപ്പിക്കൂ.\n• Word family: swarm (bees), pride (lions), pack (wolves), flock (birds/sheep), herd (cattle).\n• PSC exam strategy: Collective noun ചോദ്യങ്ങളിൽ ഓരോ animal/group-ഉം അതിന്റേതായ specific collective noun-മായി പെയർ ചെയ്ത് ഒരു ലിസ്റ്റായി പഠിക്കുക."
+    }
+  },
+  {
+    "id": "018-2022-M-Q67",
+    "paperId": "018-2022-M",
+    "questionNumber": 67,
+    "topic": "Synonyms",
+    "questionText": "Choose the correct synonym for 'weary'.",
+    "optionA": "tried",
+    "optionB": "tired",
+    "optionC": "titled",
+    "optionD": "timid",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) tired\n\n• 'Weary' എന്ന വാക്കിന്റെ അർത്ഥം 'ക്ഷീണിച്ച' (feeling very tired, especially after prolonged effort) എന്നാണ്.\n• 'Tired' എന്ന വാക്കും അതേ അർത്ഥം — 'ക്ഷീണിച്ച' — തന്നെയാണ് നൽകുന്നത്, അതിനാൽ ഇത് ശരിയായ synonym ആണ്.\n• 'She felt weary after the long journey' = 'She felt tired after the long journey' — ഈ രണ്ട് sentences-ന്റെയും അർത്ഥം ഒന്നുതന്നെ.\n• Etymology hint: Old English 'wērig' എന്നതിൽ നിന്നാണ് 'weary' ഉണ്ടായത്, 'exhausted' എന്ന ആശയവുമായി ബന്ധപ്പെട്ടത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: WEARY = TIRED/EXHAUSTED (ക്ഷീണിച്ച).\n• Rule: Synonym ചോദ്യങ്ങളിൽ, options-ൽ spelling-ൽ സാമ്യമുള്ള (tried, titled, timid) words ഉണ്ടാകും — meaning ശ്രദ്ധിച്ച് മാത്രം തിരഞ്ഞെടുക്കുക.\n• Related word group: weary, tired, exhausted, fatigued, worn out — ക്ഷീണം സൂചിപ്പിക്കുന്ന word family.\n• ⭐ PSC ആവർത്തനം: 'weary' PSC-യിൽ synonym/antonym ആയി ആവർത്തിച്ച് ചോദിക്കുന്ന ഒരു വാക്കാണ്.\n• ഉദാഹരണ sentences:\n  1. The weary travellers rested under a tree.\n  2. He gave a weary sigh after the long meeting.\n  3. Her weary eyes showed how little she had slept.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) tried — 'ശ്രമിച്ചു' (attempted) എന്നാണ് അർത്ഥം, 'weary'-യുമായി spelling-ൽ സാമ്യമുണ്ടെങ്കിലും അർത്ഥത്തിൽ ബന്ധമില്ല.\n  🪤 PSC Trap: 'tried' ഉം 'tired' ഉം spelling-ൽ വളരെ സാമ്യമുള്ളതിനാൽ വേഗത്തിൽ വായിക്കുമ്പോൾ confuse ചെയ്യും.\n\n• (C) titled — 'തലക്കെട്ട് നൽകപ്പെട്ട' (given a title) എന്നാണ് അർത്ഥം; 'weary'-യുമായി ബന്ധമില്ല.\n\n• (D) timid — 'ഭീരുവായ / പേടിയുള്ള' (easily frightened, shy) എന്നാണ് അർത്ഥം; 'weary' (ക്ഷീണം)-യുമായി ബന്ധമില്ല.\n  🪤 PSC Trap: Options എല്ലാം 't-i' എന്ന് തുടങ്ങുന്നതിനാൽ, ശ്രദ്ധിക്കാതെ വായിച്ചാൽ തെറ്റായ option തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'WEARY' എന്നാൽ ഒരു ദിവസം മുഴുവൻ ജോലി ചെയ്ത് 'ടയേർഡ്' (tired) ആയി ഇരിക്കുന്ന ഒരാളെ സങ്കൽപ്പിക്കൂ.\n• Word family: weary, tired, exhausted, fatigued, worn out.\n• PSC exam strategy: Synonym ചോദ്യങ്ങളിൽ spelling സാമ്യമുള്ള trap options (tried/tired പോലുള്ളവ) ശ്രദ്ധിക്കുക — meaning മാത്രം അടിസ്ഥാനമാക്കി തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "018-2022-M-Q68",
+    "paperId": "018-2022-M",
+    "questionNumber": 68,
+    "topic": "Spelling",
+    "questionText": "Select the correctly spelt word from the following options.",
+    "optionA": "Handkarchief",
+    "optionB": "Handkercheif",
+    "optionC": "Handkerchief",
+    "optionD": "Hankerchief",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Handkerchief\n\n• 'Handkerchief' (തൂവാല) എന്നതാണ് ശരിയായ spelling.\n• Word breakdown: HAND + KER + CHIEF എന്നിങ്ങനെ മൂന്ന് ഭാഗങ്ങളായി ഓർത്താൽ spelling എളുപ്പമാകും.\n• ഇത് PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന ഒരു tricky spelling word ആണ്, കാരണം ഇതിന്റെ pronunciation spelling-മായി കൃത്യമായി match ചെയ്യുന്നില്ല.\n• Origin: 'hand' + 'kerchief' (French 'couvre-chef' = head covering) എന്നിവയുടെ combination ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: HAND + KER + CHIEF = HANDKERCHIEF.\n• Rule: Compound-origin words spelling ചെയ്യുമ്പോൾ, അതിന്റെ ഘടക ഭാഗങ്ങൾ (hand + kerchief) വേർതിരിച്ച് ഓർക്കുന്നത് സഹായകമാണ്.\n• Related word group: handkerchief, kerchief — 'chief' spelling pattern ഓർക്കുക.\n• ⭐ PSC ആവർത്തനം: Spelling ചോദ്യങ്ങൾ PSC-യിൽ എല്ലാ പേപ്പറിലും വരുന്ന സ്ഥിരം topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. She wiped her tears with a handkerchief.\n  2. He always carries a clean handkerchief.\n  3. The handkerchief was embroidered with her initials.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Handkarchief — 'ker' എന്നതിന് പകരം 'kar' ഉപയോഗിച്ചത് തെറ്റാണ്.\n\n• (B) Handkercheif — 'chief' എന്നതിലെ 'ie' ക്രമം തെറ്റായി ('ei' ആയി) മാറ്റിയത് തെറ്റാണ്.\n  🪤 PSC Trap: 'receive, ceiling' പോലുള്ള 'ei' words ഓർത്ത് ഇവിടെയും 'ei' എഴുതാൻ സാധ്യതയുണ്ട്.\n\n• (D) Hankerchief — 'hand'-ലെ 'd' ഒഴിവാക്കിയത് തെറ്റാണ്.\n  🪤 PSC Trap: ഉച്ചാരണത്തിൽ 'd' ദുർബലമായി കേൾക്കുന്നതിനാൽ, spelling-ലും അത് വിട്ടുപോകാൻ സാധ്യതയുണ്ട്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HAND-KER-CHIEF' എന്ന് മൂന്ന് syllables ആയി വേർതിരിച്ച് ഉറക്കെ പറഞ്ഞ് പഠിക്കുക.\n• Word family: handkerchief, kerchief — 'chief' spelling group.\n• PSC exam strategy: Spelling ചോദ്യങ്ങളിൽ വാക്കിനെ ചെറിയ ഭാഗങ്ങളായി (syllables) വിഭജിച്ച് ഓരോ ഭാഗവും പ്രത്യേകം ഓർക്കുക."
+    }
+  },
+  {
+    "id": "018-2022-M-Q69",
+    "paperId": "018-2022-M",
+    "questionNumber": 69,
+    "topic": "One Word Substitutes",
+    "questionText": "Select the suitable one word substitute for 'an ability to make good judgements and take quick decisions'.",
+    "optionA": "Acumen",
+    "optionB": "Accuse",
+    "optionC": "Acquit",
+    "optionD": "Accord",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Acumen\n\n• 'Acumen' എന്ന വാക്കിന്റെ അർത്ഥം 'നല്ല തീരുമാനങ്ങൾ എടുക്കാനും വേഗത്തിൽ കാര്യങ്ങൾ തീരുമാനിക്കാനുമുള്ള കഴിവ്' (the ability to make good judgements and take quick decisions) എന്നാണ്.\n• 'Business acumen', 'sharp acumen' എന്നിങ്ങനെ ഈ വാക്ക് പലപ്പോഴും ഉപയോഗിക്കാറുണ്ട്.\n• Latin word 'acuere' (to sharpen) എന്നതിൽ നിന്നാണ് 'acumen' ഉണ്ടായത് — 'മൂർച്ചയുള്ള ബുദ്ധി' എന്ന ആശയം.\n• PSC-യിൽ ഇത്തരം 'ability/skill' സൂചിപ്പിക്കുന്ന one-word substitutes പതിവായി ചോദിക്കാറുണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ACUMEN = SHARP JUDGEMENT/QUICK DECISION-MAKING ABILITY.\n• Rule: 'an ability to___' തരത്തിലുള്ള one-word substitutes-ൽ, definition-ലെ key ആശയം (judgement + quick decisions) കൃത്യമായി capture ചെയ്യുന്ന വാക്ക് തിരഞ്ഞെടുക്കണം.\n• Related word group: acumen (sharp judgement), wisdom (deep understanding), discernment (ability to judge well), sagacity (wise judgement).\n• ⭐ PSC ആവർത്തനം: One-word substitutes PSC-യിൽ എല്ലാ പേപ്പറിലും വരുന്ന ഒരു സ്ഥിരം topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. Her business acumen helped the company grow rapidly.\n  2. He is known for his political acumen.\n  3. The manager's financial acumen impressed the board.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) Accuse — 'കുറ്റം ആരോപിക്കുക' (to blame someone for wrongdoing) എന്നാണ് അർത്ഥം; ability/judgement-മായി ബന്ധമില്ല.\n  🪤 PSC Trap: 'Ac-' എന്ന് തുടങ്ങുന്ന spelling സാമ്യമുള്ള വാക്കായതിനാൽ confuse ചെയ്യും.\n\n• (C) Acquit — 'കുറ്റവിമുക്തനാക്കുക' (to declare someone not guilty) എന്നാണ് അർത്ഥം; ഇവിടെ യോജിക്കില്ല.\n\n• (D) Accord — 'ഒത്തുതീർപ്പ്/ധാരണ' (agreement) എന്നാണ് അർത്ഥം; judgement ability-യുമായി ബന്ധമില്ല.\n  🪤 PSC Trap: Acumen, Accuse, Acquit, Accord — എല്ലാം 'Ac-' spelling-ൽ തുടങ്ങുന്നതിനാൽ, meaning ശ്രദ്ധിക്കാതെ ഊഹിച്ച് തെറ്റായ ഉത്തരം തിരഞ്ഞെടുക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ACUMEN' = ഒരു 'cue' (സൂചന) വേഗത്തിൽ പിടിച്ചെടുത്ത് ബുദ്ധിപൂർവ്വം തീരുമാനിക്കുന്ന ആൾ എന്ന് ഓർക്കുക.\n• Word family: acumen, discernment, sagacity, wisdom — sharp-judgement word group.\n• PSC exam strategy: 'Ac-' തുടങ്ങുന്ന spelling-സാമ്യമുള്ള options കാണുമ്പോൾ പ്രത്യേകം ശ്രദ്ധിക്കുക — ഓരോന്നിന്റെയും കൃത്യമായ അർത്ഥം അറിഞ്ഞിരിക്കണം."
+    }
+  },
+  {
+    "id": "018-2022-M-Q70",
+    "paperId": "018-2022-M",
+    "questionNumber": 70,
+    "topic": "Phrasal Verbs",
+    "questionText": "While walking in the park, I _________ an old friend.",
+    "optionA": "came by",
+    "optionB": "came off",
+    "optionC": "came out",
+    "optionD": "came across",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) came across\n\n• 'Come across' എന്ന phrasal verb-ന്റെ അർത്ഥം 'ആകസ്മികമായി/യാദൃശ്ചികമായി കണ്ടുമുട്ടുക' (to meet or find someone/something by chance) എന്നാണ്.\n• 'While walking in the park, I came across an old friend' എന്നാൽ 'പാർക്കിൽ നടക്കുമ്പോൾ ഞാൻ ഒരു പഴയ സുഹൃത്തിനെ യാദൃശ്ചികമായി കണ്ടു' എന്നാണ് അർത്ഥം.\n• 'While walking' എന്ന phrase തന്നെ ഈ meeting ആകസ്മികമാണെന്ന് സൂചിപ്പിക്കുന്നു — ആസൂത്രിതമല്ല.\n• 'Came across' തന്നെയാണ് unplanned/chance meeting-ന് ഏറ്റവും യോജിക്കുന്ന phrasal verb.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: COME ACROSS (someone/something) = ആകസ്മികമായി കണ്ടുമുട്ടുക/കണ്ടെത്തുക (chance encounter).\n• Rule: 'Come' + preposition combos-ന് വ്യത്യസ്ത അർത്ഥങ്ങളാണ് — ഓരോന്നും പ്രത്യേകം പഠിക്കണം.\n• Related word group: come across (ആകസ്മികമായി കണ്ടെത്തുക), come by (നേടുക), come off (വേർപെടുക/നടക്കുക), come out (പുറത്തുവരുക).\n• ⭐ PSC ആവർത്തനം: 'come' base verb-ന്റെ phrasal variants PSC-യിൽ പതിവായി ചോദിക്കുന്ന ഒരു topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. I came across an interesting book at the library.\n  2. She came across an old photograph while cleaning.\n  3. He came across a snake on his morning walk.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) came by — 'നേടുക/സമ്പാദിക്കുക' (to obtain, often with difficulty) എന്നാണ് അർത്ഥം (e.g., 'How did you come by this money?'); ആകസ്മിക കാഴ്ചയല്ല.\n  🪤 PSC Trap: 'came by' ഉം 'came across' ഉം സാമ്യമുള്ള structure ആയതിനാൽ confuse ചെയ്യും.\n\n• (B) came off — 'വേർപെട്ട് പോകുക' (to become detached) അല്ലെങ്കിൽ 'വിജയകരമായി നടക്കുക' (to happen successfully) എന്നാണ് അർത്ഥം; ഇവിടെ യോജിക്കില്ല.\n\n• (C) came out — 'പുറത്തുവരിക/പ്രസിദ്ധീകരിക്കപ്പെടുക' (to be published/revealed) എന്നാണ് അർത്ഥം; ഒരു സുഹൃത്തിനെ കാണുന്നതുമായി ബന്ധമില്ല.\n  🪤 PSC Trap: 'come' + preposition എല്ലാം ഒരുപോലെ തോന്നും, പക്ഷേ meaning തീർത്തും വ്യത്യസ്തമാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'COME ACROSS' = വഴിയിലൂടെ നടക്കുമ്പോൾ ആരെയെങ്കിലും 'ക്രോസ്' ചെയ്ത് പെട്ടെന്ന് കണ്ടുമുട്ടുന്നത് സങ്കൽപ്പിക്കൂ.\n• Word family: come across, come by, come off, come out — 'come' phrasal verbs ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: 'While Verb-ing...' എന്ന structure കണ്ടാൽ, മിക്കവാറും ആകസ്മിക സംഭവം ആയിരിക്കും സൂചിപ്പിക്കുന്നത് — അതിന് 'come across' യോജിക്കും."
+    }
   }
 ]
