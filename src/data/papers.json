@@ -1178,5 +1178,14 @@
     "medium": "M",
     "year": "2022",
     "categoryCode": "30/2019, 073/2020, 094/2020, 251/2020, 340/2020"
+  },
+  {
+    "id": "021-2022-T",
+    "paperCode": "021/2022 T",
+    "post": "Beat Forest Officer - Forest",
+    "date": "21-Mar-2022",
+    "medium": "T",
+    "year": "2022",
+    "categoryCode": "124/2020"
   }
 ]
