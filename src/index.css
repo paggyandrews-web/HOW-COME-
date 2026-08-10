@@ -76,6 +76,13 @@ html, body {
   overscroll-behavior-y: contain;
 }
 
+/* Prevent mobile browsers from auto-boosting font size on orientation
+   change / zoom heuristics, so layout stays exactly as designed. */
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
 body {
   background-color: var(--bg);
   color: var(--text);

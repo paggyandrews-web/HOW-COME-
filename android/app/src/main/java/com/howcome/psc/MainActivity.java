@@ -70,6 +70,11 @@ public class MainActivity extends Activity {
         settings.setSupportZoom(false);
         settings.setBuiltInZoomControls(false);
         settings.setDisplayZoomControls(false);
+        // Lock text rendering to 100% regardless of the device's system
+        // "Font size" accessibility setting. Without this, WebView inherits
+        // that OS-level scale and blows up every font size and emoji icon
+        // in the app for users who've bumped up their phone's text size.
+        settings.setTextZoom(100);
 
         CookieManager.getInstance().setAcceptCookie(true);
         CookieManager.getInstance().setAcceptThirdPartyCookies(webView, true);
