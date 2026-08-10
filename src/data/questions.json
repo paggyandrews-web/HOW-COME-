@@ -28996,5 +28996,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) what, a Spectacular Sight. — ചെറിയക്ഷരത്തിൽ ('what') തുടങ്ങിയത്, അനാവശ്യമായ കോമ, ഇടയിലെ വാക്കുകൾ capitalize ചെയ്തത് ('Spectacular Sight'), ഫുൾസ്റ്റോപ്പിൽ അവസാനിപ്പിച്ചത് — നാല് പിശകുകൾ.\n  🪤 PSC Trap: ഒന്നിലധികം ചെറിയ പിശകുകൾ ഒരുമിച്ച് ഉള്ളതിനാൽ ശ്രദ്ധിക്കാൻ പ്രയാസമാകും.\n\n• (B) what a spectacular Sight! — ആശ്ചര്യചിഹ്നം ശരിയാണെങ്കിലും, വാക്യം ചെറിയക്ഷരത്തിൽ ('what') തുടങ്ങിയതും, ഇടയിലെ 'Sight' capitalize ചെയ്തതും തെറ്റാണ്.\n  🪤 PSC Trap: '!' ശരിയായതിനാൽ മൊത്തം വാക്യം ശരിയാണെന്ന് തോന്നിക്കും, capitalisation ശ്രദ്ധിക്കാതെ പോകും.\n\n• (D) What a spectacular sight — Capitalisation ശരിയാണെങ്കിലും, ആശ്ചര്യചിഹ്നം (!) ഇല്ല; ഇത് ഒരു exclamatory sentence-ന്റെ അവസാനം അപൂർണ്ണമാക്കുന്നു.\n  🪤 PSC Trap: വാക്യം ശരിയായി തോന്നിക്കും, പക്ഷേ terminal punctuation മറന്നു പോകുന്നത് ശ്രദ്ധിക്കില്ല.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'WHAT A...! ന്റെ അവസാനം എപ്പോഴും ആശ്ചര്യചിഹ്നം (!), ആദ്യം മാത്രം Capital' എന്ന് ചൊല്ലി ഓർക്കൂ.\n• Word family: What a...!, How...! — exclamatory sentence openers ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: punctuation ചോദ്യങ്ങളിൽ മൂന്ന് കാര്യങ്ങൾ പരിശോധിക്കുക: (1) ആദ്യ അക്ഷരം capital ആണോ, (2) ഇടയിലെ വാക്കുകൾ അനാവശ്യമായി capitalize ചെയ്തിട്ടില്ലേ, (3) ശരിയായ terminal punctuation ഉണ്ടോ."
     }
+  },
+  {
+    "id": "017-2022-M-Q61",
+    "paperId": "017-2022-M",
+    "questionNumber": 61,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "The books on the table _______ to our teacher.",
+    "optionA": "belongs",
+    "optionB": "belong",
+    "optionC": "are belonging",
+    "optionD": "were belonging",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) belong\n• ഈ വാക്യത്തിലെ യഥാർത്ഥ subject 'books' ആണ് — plural noun. 'on the table' എന്നത് ഒരു prepositional phrase മാത്രമാണ്, subject-ന്റെ ഭാഗമല്ല.\n• Plural subject-ന് plural verb വേണം — അതുകൊണ്ട് 'belong' ആണ് ശരി, 'belongs' അല്ല.\n• 'മേശപ്പുറത്തുള്ള പുസ്തകങ്ങൾ ഞങ്ങളുടെ അധ്യാപകന്റേതാണ്' എന്നാണ് അർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 എളുപ്പ സൂത്രം: Verb-ന്റെ number തീരുമാനിക്കുമ്പോൾ, ഇടയിൽ വരുന്ന prepositional phrase-നെ പൂർണ്ണമായി അവഗണിച്ച്, വാക്യത്തിന്റെ യഥാർത്ഥ subject മാത്രം നോക്കുക!\n• 'of', 'on', 'in', 'with' തുടങ്ങിയ prepositions കൊണ്ട് തുടങ്ങുന്ന phrase, subject-നും verb-നും ഇടയിൽ വന്നാലും അതിനെ verb-ന്റെ number തീരുമാനത്തിൽ പരിഗണിക്കരുത്.\n• ഇത്തരം വാക്യങ്ങളിൽ plural subjects-ന് 's' ഇല്ലാത്ത verb form തന്നെ വേണം.\n• ⭐ PSC ആവർത്തനം: prepositional phrase ഉപയോഗിച്ച് യഥാർത്ഥ subject-നെ മറച്ചുവെക്കുന്ന ഇത്തരം ചോദ്യങ്ങൾ PSC പരീക്ഷയിൽ വളരെ പതിവായി കാണാറുണ്ട്.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. The keys to the door are missing. (യഥാർത്ഥ subject 'keys' — plural ആയതിനാൽ 'are')\n2. The list of items is on the table. (യഥാർത്ഥ subject 'list' — singular ആയതിനാൽ 'is')\n3. The boys in the class play well. (യഥാർത്ഥ subject 'boys' — plural ആയതിനാൽ 'play')",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) belongs — ഇത് singular subject-ന് ചേരുന്ന verb form ആണ് ('table' എന്ന word-നെ subject ആയി തെറ്റിദ്ധരിച്ചാൽ ഇത് തിരഞ്ഞെടുക്കും).\n  🪤 PSC Trap: 'table' എന്ന singular noun verb-ന് തൊട്ടടുത്ത് നിൽക്കുന്നതിനാൽ അതാണ് subject എന്ന് തോന്നിക്കും.\n• (C) are belonging — 'belong' ഒരു stative verb ആണ് (possession/relationship കാണിക്കുന്നത്), continuous tense-ൽ ഉപയോഗിക്കാറില്ല.\n  🪤 PSC Trap: '-ing' form കണ്ട് ശരിയാണെന്ന് തോന്നാം, പക്ഷേ stative verbs continuous form എടുക്കില്ല.\n• (D) were belonging — ഇതും stative verb-ന്റെ തെറ്റായ continuous past form ആണ്; സന്ദർഭം present ആണ്, past അല്ല.\n  🪤 PSC Trap: 'were' എന്ന past form കൊണ്ട് ചിലർ confuse ആകാം.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Phrase-നെ മറക്കൂ, Subject-നെ പിടിക്കൂ!' — prepositional phrase ഒരു കണ്ണട പോലെയാണ്, subject-നെ മറച്ചുവെക്കും, പക്ഷേ യഥാർത്ഥ ആളെ (subject-നെ) തിരിച്ചറിയണം.\n• Stative verbs family: belong, own, possess, know, believe, love — ഇവയെല്ലാം continuous form-ൽ (belonging, owning...) സാധാരണയായി ഉപയോഗിക്കില്ല.\n• PSC strategy: Subject-Verb Agreement ചോദ്യത്തിൽ verb-ന് തൊട്ടുമുമ്പുള്ള noun-ത്തെ അല്ല, വാക്യത്തിന്റെ ആദ്യം മുതൽ യഥാർത്ഥ subject ഏതെന്ന് കണ്ടെത്തുക. ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "017-2022-M-Q62",
+    "paperId": "017-2022-M",
+    "questionNumber": 62,
+    "topic": "Articles",
+    "questionText": "Which articles are suitable in the sentences?\nHe ordered _______ cake and _______ eclair. _______ cake was not good.",
+    "optionA": "a, an, a",
+    "optionB": "the, an, a",
+    "optionC": "a, an, the",
+    "optionD": "the, an, the",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) a, an, the\n• ആദ്യമായി പരാമർശിക്കുന്ന 'cake' consonant sound-ൽ തുടങ്ങുന്നതിനാൽ 'a cake' ശരിയാണ്.\n• 'eclair' എന്ന word 'e' എന്ന vowel sound-ൽ തുടങ്ങുന്നതിനാൽ 'an eclair' വേണം.\n• മൂന്നാമത്തെ blank-ൽ 'cake' വീണ്ടും പരാമർശിക്കുന്നത് — ഇത് നേരത്തെ പറഞ്ഞ specific cake ആയതിനാൽ definite article 'the cake' വേണം.\n• 'അയാൾ ഒരു കേക്കും ഒരു എക്ലയറും ഓർഡർ ചെയ്തു. ആ കേക്ക് നന്നായിരുന്നില്ല' എന്നാണ് അർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: ആദ്യ പരാമർശം → a/an (indefinite), രണ്ടാമത്തെ പരാമർശം (same noun) → the (definite)!\n• a/an ഉപയോഗിക്കുന്നത് ഒരു പുതിയ, unspecific noun പരിചയപ്പെടുത്താൻ; the ഉപയോഗിക്കുന്നത് നേരത്തെ പറഞ്ഞ specific noun വീണ്ടും പരാമർശിക്കുമ്പോൾ.\n• Sound അടിസ്ഥാനത്തിൽ a/an തിരഞ്ഞെടുക്കുക — vowel sound → an, consonant sound → a.\n• ⭐ PSC ആവർത്തനം: ഒരേ noun രണ്ടുതവണ വരുന്ന ഇത്തരം multi-blank article ചോദ്യങ്ങൾ PSC പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. I bought a pen. The pen was blue. (ആദ്യം a, പിന്നെ the)\n2. She saw an owl. The owl flew away. (vowel sound → an, പിന്നെ the)\n3. He ate an apple and a banana. (an apple, a banana - separate sounds)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) a, an, a — മൂന്നാമത്തെ blank-ൽ 'a' ഉപയോഗിച്ചാൽ അത് ഒരു പുതിയ, unspecific cake ആണെന്ന് തോന്നിക്കും, പക്ഷേ ഇവിടെ നേരത്തെ പറഞ്ഞ specific cake-നെയാണ് ഉദ്ദേശിക്കുന്നത്.\n  🪤 PSC Trap: രണ്ടു 'a' കണ്ട് pattern ശരിയാണെന്ന് തോന്നിക്കാം.\n• (B) the, an, a — ആദ്യ blank-ൽ 'the' തെറ്റാണ്, കാരണം 'cake' ആദ്യമായി പരാമർശിക്കുന്നതാണ് (specific ആയി അറിയപ്പെടുന്നില്ല).\n  🪤 PSC Trap: 'the' ആദ്യം വച്ചാൽ definite ആയി തോന്നും, പക്ഷേ ആദ്യ പരാമർശത്തിന് ഇത് തെറ്റാണ്.\n• (D) the, an, the — ആദ്യ blank-ലും 'the' തെറ്റാണ്, അതേ കാരണം കൊണ്ട്.\n  🪤 PSC Trap: consistency തോന്നിക്കാൻ 'the' ആവർത്തിച്ചിരിക്കുന്നു, പക്ഷേ ആദ്യ പരാമർശം എപ്പോഴും indefinite article വേണം.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ആദ്യം അപരിചിതൻ (a/an), പിന്നെ പരിചിതൻ (the)!' — ഒരാളെ ആദ്യം കാണുമ്പോൾ 'ഒരാൾ' എന്ന് പറയും, പിന്നീട് 'ആ ആൾ' എന്ന് പറയും.\n• Article family: a (consonant sound), an (vowel sound), the (specific/already mentioned) — മൂന്നും ഒരുമിച്ച് practice ചെയ്യുക.\n• PSC strategy: multi-blank article ചോദ്യങ്ങളിൽ ഓരോ blank-ഉം separately check ചെയ്യുക — sound rule, പിന്നെ repetition rule."
+    }
+  },
+  {
+    "id": "017-2022-M-Q63",
+    "paperId": "017-2022-M",
+    "questionNumber": 63,
+    "topic": "Question Tags",
+    "questionText": "Add a suitable question tag.\nMy brother seldom smiles at his classmates, _______?",
+    "optionA": "doesn't he?",
+    "optionB": "does he?",
+    "optionC": "did he?",
+    "optionD": "isn't he?",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) does he?\n• 'seldom' എന്ന word-ന് negative meaning ആണ് — 'വളരെ അപൂർവ്വമായി മാത്രം' എന്നർത്ഥം. ഇത് near-negative adverb ആണ്.\n• Sentence-ന്റെ verb form ('smiles') positive ആണെങ്കിലും, 'seldom' കാരണം അർത്ഥം negative ആണ്. അതുകൊണ്ട് tag positive വേണം.\n• Subject 'my brother' third person singular, present simple tense ആയതിനാൽ auxiliary 'does' വരും — 'does he?'\n• 'എന്റെ സഹോദരൻ അപൂർവ്വമായി മാത്രമേ classmates-നോട് ചിരിക്കാറുള്ളൂ, അല്ലേ?' എന്നാണ് അർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 എളുപ്പ സൂത്രം: near-negative അർത്ഥമുള്ള words (seldom, rarely, hardly, scarcely, never, barely) ഉള്ള വാക്യത്തിന് positive tag തന്നെ വേണം!\n• Question tag-ന്റെ അടിസ്ഥാന നിയമം: വാക്യം positive ആണെങ്കിൽ tag negative ആയിരിക്കും, വാക്യം negative ആണെങ്കിൽ tag positive ആയിരിക്കും.\n• seldom, rarely, hardly, scarcely, barely, never, few, little — ഈ words-എല്ലാം അർത്ഥത്തിൽ negative ആയതിനാൽ, verb form positive ആയാലും tag positive വേണം എന്നത് ഓർത്തിരിക്കുക.\n• ⭐ PSC ആവർത്തനം: 'seldom', 'hardly', 'never' ഉള്ള tag questions PSC-യിൽ എല്ലാ വർഷവും ആവർത്തിച്ചു വരുന്നു.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. He hardly speaks, does he? (hardly ഉള്ളതിനാൽ tag positive)\n2. She never lies, does she? (never ഉള്ളതിനാൽ tag positive)\n3. They rarely visit us, do they? (rarely ഉള്ളതിനാൽ tag positive)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) doesn't he? — sentence-ന്റെ verb form 'smiles' (positive) കണ്ട് negative tag വച്ചാൽ ഇത് തിരഞ്ഞെടുക്കും, പക്ഷേ 'seldom' ഉള്ളതിനാൽ ഇത് തെറ്റാണ്.\n  🪤 PSC Trap: 'smiles' എന്ന positive verb form മാത്രം നോക്കി തീരുമാനിക്കുന്നവർ ഈ trap-ൽ വീഴും.\n• (C) did he? — ഇത് past tense-ന്റെ tag ആണ്, പക്ഷേ sentence present simple ('smiles') ആണ്.\n  🪤 PSC Trap: tense ശ്രദ്ധിക്കാതെ പോയാൽ ഇത് തിരഞ്ഞെടുക്കാം.\n• (D) isn't he? — 'isn't' എന്നത് 'be' verb-ന്റെ tag ആണ്, പക്ഷേ ഇവിടെ main verb 'smiles' ആണ്, 'be' verb അല്ല.\n  🪤 PSC Trap: 'he' എന്ന subject കണ്ട് 'isn't he' സ്വാഭാവികമായി തോന്നാം.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Seldom, Hardly, Never — ഇവർ മൂവരും Negative ആണ്, Tag പോസിറ്റീവ് ആക്കൂ!'\n• Word family: seldom, rarely, hardly, scarcely, barely, never — ഇവയെല്ലാം ഒരുമിച്ച് പഠിക്കുക, എല്ലാം positive tag വേണ്ട words ആണ്.\n• PSC strategy: Question tag ചോദ്യത്തിൽ ആദ്യം sentence-ൽ negative meaning ഉള്ള hidden words (seldom, hardly...) ഉണ്ടോ എന്ന് നോക്കുക, എന്നിട്ട് tag തീരുമാനിക്കുക."
+    }
+  },
+  {
+    "id": "017-2022-M-Q64",
+    "paperId": "017-2022-M",
+    "questionNumber": 64,
+    "topic": "Tenses",
+    "questionText": "When Reena reached her friend's home, she _______ (watch) TV.\nFill in with the correct tense of the word given in bracket.",
+    "optionA": "watched",
+    "optionB": "is watching",
+    "optionC": "has watched",
+    "optionD": "was watching",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) was watching\n• Sentence-ൽ രണ്ട് past actions ഉണ്ട് — 'reached' (short/completed action) ഉം 'watch TV' (ongoing action) ഉം.\n• ഒരു past action നടക്കുമ്പോൾ മറ്റൊരു action already ongoing ആയിരുന്നു എന്ന് കാണിക്കാൻ Past Continuous Tense ('was/were + V-ing') ഉപയോഗിക്കുന്നു.\n• Reena എത്തിയപ്പോൾ (reached - short action) TV കാണൽ (watch TV) already നടന്നുകൊണ്ടിരിക്കുകയായിരുന്നു — അതുകൊണ്ട് 'was watching'.\n• 'റീന കൂട്ടുകാരിയുടെ വീട്ടിലെത്തിയപ്പോൾ അവൾ TV കണ്ടുകൊണ്ടിരിക്കുകയായിരുന്നു' എന്നാണ് അർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 എളുപ്പ സൂത്രം: 'When' എന്ന വാക്കോടെ തുടങ്ങുന്ന ഒരു ഹ്രസ്വ past action-ന്റെ സമയത്ത് നീണ്ടുനിന്ന മറ്റൊരു action കാണിക്കാൻ 'was/were + V-ing' രൂപം വേണം.\n• Past Continuous Tense-ന്റെ ഘടന: subject + was/were + verb+ing.\n• 'When she reached...', 'While he was sleeping...' പോലുള്ള time clauses-ന് ശേഷം, അപ്പോൾ തുടർന്നുകൊണ്ടിരുന്ന action-ന് Past Continuous ഉപയോഗിക്കണം.\n• ⭐ PSC ആവർത്തനം: 'When + past simple + past continuous' എന്ന pattern PSC-യുടെ Tenses വിഭാഗത്തിൽ വളരെ പതിവായി കാണാം.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. When I entered the room, he was reading a book. (വായന ഇതിനകം തുടർന്നുകൊണ്ടിരുന്നു)\n2. When the phone rang, she was cooking dinner. (പാചകം തുടർന്നുകൊണ്ടിരുന്നു)\n3. When we arrived, they were playing football. (കളി തുടർന്നുകൊണ്ടിരുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) watched — ഇത് Simple Past ആണ്, ഇത് രണ്ട് actions ഒരേസമയം sequential ആയി നടന്നു എന്ന് സൂചിപ്പിക്കും, ongoing ആയിരുന്നു എന്നല്ല.\n  🪤 PSC Trap: 'reached' എന്ന simple past കണ്ട് അതേ tense തന്നെ വേണം എന്ന് തെറ്റിദ്ധരിക്കാം.\n• (B) is watching — ഇത് Present Continuous ആണ്, പക്ഷേ sentence past-ൽ ('reached') ആണ് നടക്കുന്നത്.\n  🪤 PSC Trap: 'is' എന്ന present form ശ്രദ്ധിക്കാതെ പോയാൽ ഇത് തിരഞ്ഞെടുക്കാം.\n• (C) has watched — ഇത് Present Perfect ആണ്, past context-ൽ ഉപയോഗിക്കില്ല.\n  🪤 PSC Trap: 'has' എന്ന auxiliary കണ്ടാൽ completed action ആണെന്ന് തോന്നാം, പക്ഷേ ഇവിടെ ongoing action ആണ് വേണ്ടത്.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'When ഒരു snapshot എടുക്കുമ്പോൾ, was/were + ing ബാക്ക്ഗ്രൗണ്ടിൽ ഓടിക്കൊണ്ടിരിക്കും!' — reached ഒരു ക്ഷണികമായ action, watching ഒരു continuous action.\n• Tense family: Past Continuous — was/were + V-ing — 'when/while' clauses-ൽ ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: Tense ചോദ്യങ്ങളിൽ signal words ('when', 'while', 'as soon as') ശ്രദ്ധിക്കുക — ഇവ correct tense തിരഞ്ഞെടുക്കാൻ സഹായിക്കും."
+    }
+  },
+  {
+    "id": "017-2022-M-Q65",
+    "paperId": "017-2022-M",
+    "questionNumber": 65,
+    "topic": "Prepositions",
+    "questionText": "Fill in the sentence with a suitable preposition.\nHe walked into his house and found _______ his surprise that there was water all over the floor.",
+    "optionA": "by",
+    "optionB": "with",
+    "optionC": "to",
+    "optionD": "for",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) to\n• 'to one's surprise' എന്നത് ഒരു fixed collocation ആണ് — 'ആരെയെങ്കിലും അത്ഭുതപ്പെടുത്തുന്ന വിധത്തിൽ' എന്നർത്ഥം.\n• ഈ idiomatic phrase-ൽ 'surprise' എന്ന noun-നു മുമ്പ് എപ്പോഴും 'to' എന്ന preposition തന്നെ വരും — മാറ്റാൻ പറ്റില്ല.\n• 'അയാൾ വീട്ടിലേക്ക് നടന്നു ചെന്നപ്പോൾ, അയാളെ ആശ്ചര്യപ്പെടുത്തിക്കൊണ്ട് നിലം മുഴുവൻ വെള്ളം കണ്ടു' എന്നാണ് അർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 എളുപ്പ സൂത്രം: surprise, delight, disappointment, relief പോലുള്ള emotion words-ന് മുമ്പ് എപ്പോഴും 'to' എന്ന preposition തന്നെ വരും — 'to one's surprise'!\n• ഇത്തരം fixed prepositional phrases (collocations) മാറ്റാൻ പറ്റാത്ത combinations ആണ് — അർത്ഥത്തിൽ നിന്ന് ഊഹിക്കാൻ പറ്റില്ല, ഓർത്തിരിക്കുകയേ വഴിയുള്ളൂ.\n• Emotion + preposition കുടുംബം: to his surprise, to her delight, to our disappointment, to my relief — എല്ലാം 'to' തന്നെ എടുക്കും.\n• ⭐ PSC ആവർത്തനം: insist on, full of, congratulate on, to one's surprise പോലുള്ള fixed collocations PSC-യിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന preposition topic ആണ്.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. To our delight, the team won the match. (സന്തോഷത്തോടെ)\n2. To his disappointment, the shop was closed. (നിരാശയോടെ)\n3. To everyone's relief, the storm passed quickly. (ആശ്വാസത്തോടെ)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) by — 'by surprise' എന്ന phrase ഉണ്ടെങ്കിലും ('caught him by surprise'), ഇവിടെ 'found to his surprise' എന്ന structure-ന് ചേരില്ല.\n  🪤 PSC Trap: 'by surprise' എന്ന common phrase ഓർമ്മ വന്ന് ഇത് തിരഞ്ഞെടുക്കാം.\n• (B) with — 'with surprise' എന്നത് ശരിയായ collocation അല്ല ഈ context-ൽ.\n  🪤 PSC Trap: 'with' പല emotion phrases-ലും വരാറുള്ളതിനാൽ (with joy, with anger) ഇവിടെയും ചേരും എന്ന് തോന്നാം.\n• (D) for — 'for surprise' എന്നത് ശരിയായ ഇംഗ്ലീഷ് പ്രയോഗമല്ല.\n  🪤 PSC Trap: 'for' പല purpose phrases-ലും വരുന്നതിനാൽ confuse ആകാം.",
+      "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: 'TO ആണ് surprise-ന്റെ സ്ഥിരം കൂട്ടുകാരൻ!' — 'to his surprise, to her delight' എന്നിവ ഒരു ജോടിയായി മനസ്സിൽ സൂക്ഷിക്കുക.\n• ഒരുമിച്ച് പഠിക്കേണ്ട emotion collocations: to one's surprise, to one's delight, to one's disappointment, to one's relief, to one's horror — ഇവയെല്ലാം ഒരേ pattern.\n• PSC തന്ത്രം: fixed collocations ഒരു പട്ടികയായി മനഃപാഠമാക്കുക — ഇവ grammar rule കൊണ്ടല്ല, ആവർത്തിച്ചുള്ള practice കൊണ്ടാണ് ഉറപ്പിക്കേണ്ടത്."
+    }
+  },
+  {
+    "id": "017-2022-M-Q66",
+    "paperId": "017-2022-M",
+    "questionNumber": 66,
+    "topic": "Synonyms",
+    "questionText": "\"The young man was __baffled__ by the questions of the policemen.\"\nWhich is an apt synonym for the word 'baffled'?",
+    "optionA": "amused",
+    "optionB": "frightened",
+    "optionC": "bolted",
+    "optionD": "confused",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) confused\n• 'Baffled' എന്നാൽ 'ആശയക്കുഴപ്പത്തിലായ, മനസ്സിലാക്കാൻ കഴിയാത്ത' എന്നർത്ഥം.\n• 'confused' എന്ന word-ന് ഏറ്റവും അടുത്ത meaning ആണ് — രണ്ടും 'എന്താണ് സംഭവിക്കുന്നതെന്ന് മനസ്സിലാകാത്ത അവസ്ഥ' സൂചിപ്പിക്കുന്നു.\n• 'ചെറുപ്പക്കാരൻ പോലീസുകാരുടെ ചോദ്യങ്ങൾ കൊണ്ട് ആശയക്കുഴപ്പത്തിലായി' എന്നാണ് അർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 എളുപ്പ സൂത്രം: Synonym ചോദ്യത്തിൽ context വാക്യം മുഴുവൻ വായിച്ച് word-ന്റെ യഥാർത്ഥ അർത്ഥം മനസ്സിലാക്കുക, ഊഹിക്കാതെ.\n• 'Baffled' എന്ന word-ന്റെ അർത്ഥ കുടുംബം: puzzled, confused, perplexed, bewildered — ഇവയെല്ലാം 'ആശയക്കുഴപ്പം' എന്ന ഒരേ ആശയം പങ്കിടുന്നു.\n• ഈ വാക്കുകൾ ഒരുമിച്ച് ഓർത്തുവെച്ചാൽ synonym ചോദ്യങ്ങൾക്ക് എളുപ്പം ഉത്തരം കണ്ടെത്താം.\n• ⭐ PSC ആവർത്തനം: 'baffled', 'perplexed' പോലുള്ള emotion/state വാക്കുകളുടെ synonyms PSC-യിൽ പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. She was baffled by the complex instructions. (നിർദ്ദേശങ്ങൾ മനസ്സിലാകാതെ കുഴങ്ങി)\n2. His baffled expression showed he didn't understand. (മുഖഭാവത്തിൽ ആശയക്കുഴപ്പം കാണിച്ചു)\n3. The mystery left the detective baffled. (രഹസ്യം ഡിറ്റക്ടീവിനെ കുഴക്കി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) amused — 'രസകരമായി തോന്നിയ' എന്നർത്ഥം; 'baffled'-ന്റെ അർത്ഥവുമായി ബന്ധമില്ല.\n  🪤 PSC Trap: emotion word ആയതിനാൽ ഇത് ശരിയാണെന്ന് തോന്നാം.\n• (B) frightened — 'ഭയപ്പെട്ട' എന്നർത്ഥം; baffled-ന് ഭയവുമായി നേരിട്ട് ബന്ധമില്ല, confusion മാത്രമാണ്.\n  🪤 PSC Trap: 'policemen' എന്ന word കണ്ട് 'frightened' ചേരും എന്ന് context കൊണ്ട് തെറ്റിദ്ധരിക്കാം.\n• (C) bolted — 'ഓടിപ്പോയി' എന്നർത്ഥം (verb ആയി ഉപയോഗിക്കുമ്പോൾ); baffled-ന്റെ meaning-മായി ബന്ധമില്ല.\n  🪤 PSC Trap: sentence-ന്റെ police context-ൽ 'ഓടിപ്പോയി' എന്ന ആശയം ചേരും എന്ന് തോന്നിക്കാം.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'BAFFLED = തലയിൽ കൈവെച്ച് നിൽക്കുന്ന അവസ്ഥ!' — എന്ത് ചെയ്യണമെന്നറിയാതെ confused ആയി നിൽക്കുന്ന ഒരു ചിത്രം മനസ്സിൽ വരയ്ക്കുക.\n• Word family: baffled, confused, puzzled, perplexed, bewildered — ഇവയെല്ലാം ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: Synonym ചോദ്യങ്ങളിൽ sentence-ന്റെ overall context ശ്രദ്ധിക്കുക, individual word matching-ൽ മാത്രം ആശ്രയിക്കരുത്."
+    }
+  },
+  {
+    "id": "017-2022-M-Q67",
+    "paperId": "017-2022-M",
+    "questionNumber": 67,
+    "topic": "Phrasal Verbs",
+    "questionText": "The car __blew up__ after it fell down into the deep pit.\nAnother word for the phrasal verb 'blew up' can be",
+    "optionA": "exploded",
+    "optionB": "overturned",
+    "optionC": "stopped",
+    "optionD": "crashed",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) exploded\n• 'blew up' എന്ന phrasal verb-ന്റെ അർത്ഥം 'പൊട്ടിത്തെറിച്ചു' എന്നാണ്.\n• Context-ൽ 'car fell into a pit and blew up' എന്നത് car പൊട്ടിത്തെറിച്ചു എന്ന് സൂചിപ്പിക്കുന്നു — അതുകൊണ്ട് 'exploded' ശരിയായ synonym.\n• 'കാർ ആഴമുള്ള കുഴിയിലേക്ക് വീണശേഷം പൊട്ടിത്തെറിച്ചു' എന്നാണ് അർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 എളുപ്പ സൂത്രം: Phrasal verb-ന്റെ അർത്ഥം അക്ഷരാർത്ഥത്തിൽ അല്ല, idiomatic ആയി തന്നെ മനസ്സിലാക്കണം!\n• 'blow up' എന്ന phrasal verb-ന് context അനുസരിച്ച് പല അർത്ഥങ്ങൾ ഉണ്ട് — 'പൊട്ടിത്തെറിക്കുക' (explode), 'ദേഷ്യപ്പെടുക' (get angry), 'വലുതാക്കുക' (inflate).\n• ഇവിടെ car, pit എന്നീ context വാക്കുകൾ വച്ച് 'explode' എന്ന അർത്ഥം തന്നെയാണ് ശരി എന്ന് വ്യക്തമാകുന്നു.\n• ⭐ PSC ആവർത്തനം: 'blow up', 'break down', 'call off' പോലുള്ള ഒന്നിലധികം അർത്ഥമുള്ള phrasal verbs PSC-യിൽ പതിവായി വരുന്നു.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. The bomb blew up, destroying the building. (പൊട്ടിത്തെറിച്ചു)\n2. He blew up at his colleague over a small mistake. (ദേഷ്യപ്പെട്ടു)\n3. She blew up the balloon for the party. (ഊതി വീർപ്പിച്ചു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) overturned — 'മറിഞ്ഞുവീണു' എന്നർത്ഥം; ഇത് 'fell down' എന്ന ഭാഗവുമായി ബന്ധപ്പെടും, പക്ഷേ 'blew up'-ന്റെ അർത്ഥമല്ല.\n  🪤 PSC Trap: 'fell down into the pit' എന്ന ഭാഗം വായിച്ച് 'overturned' ചേരും എന്ന് തെറ്റിദ്ധരിക്കാം.\n• (C) stopped — 'നിന്നു' എന്നർത്ഥം; 'blew up'-മായി യാതൊരു ബന്ധവുമില്ല.\n  🪤 PSC Trap: car ഒരു പ്രവർത്തനം നിർത്തി എന്ന് ലളിതമായി ഊഹിച്ചാൽ ഇത് തിരഞ്ഞെടുക്കാം.\n• (D) crashed — 'ഇടിച്ചു' എന്നർത്ഥം; ഇത് accident-നെ സൂചിപ്പിക്കും, പക്ഷേ 'blew up' എന്നത് explosion ആണ്, crash അല്ല.\n  🪤 PSC Trap: pit-ലേക്ക് വീണ car crash ചെയ്തു എന്ന് സ്വാഭാവികമായി തോന്നാം.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'BLEW UP = BOOM!' — ഒരു balloon ഊതി വീർപ്പിച്ച് പൊട്ടിക്കുന്ന ചിത്രം മനസ്സിൽ വരയ്ക്കുക, അതാണ് explosion.\n• Phrasal verb family: blow up (explode/get angry), break down (stop working/cry), burn down (destroy by fire).\n• PSC strategy: Phrasal verb ചോദ്യങ്ങളിൽ context sentence ശ്രദ്ധയോടെ വായിച്ച് ഏത് meaning ആണ് ഉദ്ദേശിക്കുന്നതെന്ന് കണ്ടെത്തുക — ഒരു phrasal verb-ന് പല meanings ഉണ്ടാകാം."
+    }
+  },
+  {
+    "id": "017-2022-M-Q68",
+    "paperId": "017-2022-M",
+    "questionNumber": 68,
+    "topic": "Words Often Confused",
+    "questionText": "Fill in the sentence with the correct word.\nI don't think the authorities will ever _______ to the students' demands.",
+    "optionA": "access",
+    "optionB": "accede",
+    "optionC": "excess",
+    "optionD": "exceed",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) accede\n• 'accede to' എന്നാൽ 'ഒരു ആവശ്യത്തിനോ അഭ്യർത്ഥനയ്ക്കോ സമ്മതിക്കുക, വഴങ്ങുക' എന്നർത്ഥം.\n• 'authorities will accede to the students' demands' എന്നത് അധികാരികൾ ആവശ്യങ്ങൾക്ക് വഴങ്ങും/സമ്മതിക്കും എന്ന് സൂചിപ്പിക്കുന്നു — ഇവിടെ ചേരുന്ന ശരിയായ word ഇതാണ്.\n• 'വിദ്യാർത്ഥികളുടെ ആവശ്യങ്ങൾക്ക് അധികാരികൾ ഒരിക്കലും വഴങ്ങുമെന്ന് ഞാൻ കരുതുന്നില്ല' എന്നാണ് അർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 എളുപ്പ സൂത്രം: accede (സമ്മതിക്കുക) ≠ exceed (കവിയുക) ≠ access (പ്രവേശനം) ≠ excess (അധികം) — spelling-ലെ ചെറിയ വ്യത്യാസം അർത്ഥം പൂർണ്ണമായി മാറ്റും!\n• 'accede to' എപ്പോഴും 'to' എന്ന preposition-നൊപ്പം മാത്രമേ ഉപയോഗിക്കൂ — ഇത് ഒരു fixed collocation ആണ്.\n• Words often confused കുടുംബം: access (പ്രവേശനം), accede (സമ്മതിക്കുക), excess (അധികം), exceed (കവിയുക) — നാലും വേറിട്ട് ഓർത്തുവെക്കണം.\n• ⭐ PSC ആവർത്തനം: spelling സാമ്യമുള്ള ഇത്തരം confusable word pairs PSC vocabulary വിഭാഗത്തിലെ ഏറ്റവും പതിവായ topic ആണ്.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. He finally acceded to their request. (സമ്മതിച്ചു)\n2. The speed limit should not exceed 60 km/h. (കവിയരുത്)\n3. Students need access to the library. (പ്രവേശനം)\n4. There was an excess of food at the party. (അധികം ഭക്ഷണം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) access — 'പ്രവേശനം, ഉപയോഗിക്കാനുള്ള അവകാശം' എന്നർത്ഥം; 'demands-നോട് access ചെയ്യുക' എന്നത് അർത്ഥശൂന്യമാണ്.\n  🪤 PSC Trap: 'accede'-മായി spelling സാമ്യമുള്ളതിനാൽ confuse ആകാൻ സാധ്യതയുണ്ട്.\n• (C) excess — ഇത് ഒരു noun ആണ് ('അധികം' എന്നർത്ഥം), verb ആയി ഇവിടെ ഉപയോഗിക്കാൻ പറ്റില്ല.\n  🪤 PSC Trap: 'accede'-യുടെ spelling-മായി വളരെ അടുത്തതിനാൽ ശ്രദ്ധിക്കാതെ പോയാൽ ഇത് തിരഞ്ഞെടുക്കാം.\n• (D) exceed — 'കവിയുക, മറികടക്കുക' എന്നർത്ഥം; ഇവിടെ 'demands exceed ചെയ്യുക' എന്നത് അർത്ഥത്തിൽ ചേരില്ല.\n  🪤 PSC Trap: 'accede'-യുടെ spelling-മായി ഏറ്റവും സാമ്യമുള്ള word ഇതാണ് — PSC-യുടെ ഏറ്റവും common trap.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ACCEDE = A + CEDE (give way) — വഴങ്ങുക, സമ്മതിക്കുക!' 'CEDE' എന്ന root-ന് 'വിട്ടുകൊടുക്കുക' എന്നർത്ഥം (concede, recede പോലെ).\n• Word family (confused pairs): access/excess/accede/exceed — നാലും ഒരുമിച്ച് table ആയി എഴുതി practice ചെയ്യുക.\n• PSC strategy: Words Often Confused ചോദ്യങ്ങളിൽ ഓരോ word-ന്റെയും exact meaning-ഉം usage-ഉം വേർതിരിച്ച് പഠിക്കുക — spelling സാമ്യം trap ആണ്."
+    }
+  },
+  {
+    "id": "017-2022-M-Q69",
+    "paperId": "017-2022-M",
+    "questionNumber": 69,
+    "topic": "Foreign Words and Phrases",
+    "questionText": "The Government has given the District Collector __carte blanche__ for disaster management in the flood-hit areas.\nWhat does the foreign phrase 'Carte Blanche' mean in this sentence?",
+    "optionA": "the executive orders",
+    "optionB": "the judicial power",
+    "optionC": "the complete freedom to act",
+    "optionD": "the necessary equipment",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) the complete freedom to act\n• 'Carte blanche' എന്നത് ഒരു French foreign phrase ആണ്, അതിന്റെ അർത്ഥം 'പൂർണ്ണ സ്വാതന്ത്ര്യം, എന്തും ചെയ്യാനുള്ള അധികാരം' എന്നാണ്.\n• 'given carte blanche for disaster management' എന്നത് ജില്ലാ കളക്ടർക്ക് ദുരന്ത നിവാരണത്തിനായി പൂർണ്ണ സ്വാതന്ത്ര്യം നൽകി എന്ന് സൂചിപ്പിക്കുന്നു.\n• 'സർക്കാർ ജില്ലാ കളക്ടർക്ക് വെള്ളപ്പൊക്ക ബാധിത പ്രദേശങ്ങളിലെ ദുരന്ത നിവാരണത്തിനായി പൂർണ്ണ സ്വാതന്ത്ര്യം നൽകി' എന്നാണ് അർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 എളുപ്പ സൂത്രം: Carte blanche (French, അക്ഷരാർത്ഥത്തിൽ 'blank paper/card') = എന്തും ചെയ്യാനുള്ള പൂർണ്ണ സ്വാതന്ത്ര്യം.\n• Foreign phrases English-ൽ അതേപടി ഉപയോഗിക്കുന്നു, പക്ഷേ അവയുടെ അർത്ഥം origin ഭാഷയിൽ നിന്ന് വ്യത്യസ്തമായി idiomatic ആയാണ് English-ൽ ഉപയോഗിക്കുന്നത്.\n• Etymology സൂചന: French 'carte' എന്നാൽ card/paper, 'blanche' എന്നാൽ blank/white — ഒപ്പിട്ട ഒരു blank paper കൈമാറുന്നത് പോലെ പൂർണ്ണ അധികാരം കൊടുക്കുന്നു എന്ന ആശയത്തിൽ നിന്നാണ് ഈ phrase ഉണ്ടായത്.\n• ⭐ PSC ആവർത്തനം: carte blanche, status quo, per se, bona fide പോലുള്ള foreign phrases PSC vocabulary വിഭാഗത്തിൽ പതിവായി വരുന്നു.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. The manager gave her carte blanche to redesign the office. (പൂർണ്ണ സ്വാതന്ത്ര്യം നൽകി)\n2. He was given carte blanche in choosing the team members. (തിരഞ്ഞെടുക്കാൻ പൂർണ്ണ സ്വാതന്ത്ര്യം)\n3. The committee has carte blanche to make final decisions. (തീരുമാനമെടുക്കാൻ പൂർണ്ണ അധികാരം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) the executive orders — ഇത് ഒരു specific administrative term ആണ്; 'carte blanche'-ന്റെ അർത്ഥമല്ല, freedom എന്ന ആശയം ഇതിലില്ല.\n  🪤 PSC Trap: 'Government', 'District Collector' പോലുള്ള administrative context വച്ച് ഇത് ചേരും എന്ന് തോന്നിക്കാം.\n• (B) the judicial power — ഇത് കോടതി അധികാരവുമായി ബന്ധപ്പെട്ടതാണ്; 'carte blanche'-ന് judicial-മായി നേരിട്ട് ബന്ധമില്ല.\n  🪤 PSC Trap: 'power' എന്ന വാക്ക് authority-യെ സൂചിപ്പിക്കുന്നതിനാൽ ശരിയാണെന്ന് തോന്നാം.\n• (D) the necessary equipment — 'carte blanche' ഒരു physical object അല്ല, ഒരു abstract freedom ആണ്.\n  🪤 PSC Trap: 'disaster management'-ന് equipment ആവശ്യമാണ് എന്ന logical connection കൊണ്ട് തെറ്റിദ്ധരിക്കാം.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'CARTE BLANCHE = BLANK CARD — എന്ത് വേണമെങ്കിലും എഴുതാം, പൂർണ്ണ സ്വാതന്ത്ര്യം!' ഒരു ഒപ്പിട്ട blank cheque പോലെ സങ്കൽപ്പിക്കുക.\n• Foreign phrase family: carte blanche (complete freedom), status quo (നിലവിലെ അവസ്ഥ), bona fide (genuine), per se (തന്നെ).\n• PSC strategy: Foreign phrase ചോദ്യങ്ങളിൽ context sentence-ൽ നിന്ന് പ്രവർത്തനത്തിന്റെ scope/limit മനസ്സിലാക്കുക — 'carte blanche' എപ്പോഴും 'no restrictions' എന്ന ആശയവുമായി ബന്ധപ്പെട്ടിരിക്കും."
+    }
+  },
+  {
+    "id": "017-2022-M-Q70",
+    "paperId": "017-2022-M",
+    "questionNumber": 70,
+    "topic": "One Word Substitutes",
+    "questionText": "It is a waste of time to argue with a person who is __incapable of being corrected__.\nWhat can be a one-word substitute for the underlined portion?",
+    "optionA": "incongruous",
+    "optionB": "incorrigible",
+    "optionC": "incredulous",
+    "optionD": "incompatible",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) incorrigible\n• 'incapable of being corrected' എന്നാൽ 'തിരുത്താൻ കഴിയാത്ത' എന്നർത്ഥം.\n• ഈ ആശയത്തിന് കൃത്യമായ one-word substitute 'incorrigible' ആണ് — 'തിരുത്താൻ പറ്റാത്ത സ്വഭാവമുള്ള' എന്നർത്ഥം.\n• Etymology: Latin 'in-' (not) + 'corrigere' (to correct) എന്നതിൽ നിന്നാണ് ഈ word വരുന്നത്.\n• 'തിരുത്താൻ കഴിയാത്ത ഒരാളോട് തർക്കിക്കുന്നത് സമയം കളയലാണ്' എന്നാണ് അർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 എളുപ്പ സൂത്രം: One-word substitute ചോദ്യങ്ങളിൽ underline ചെയ്ത phrase-ന്റെ core ആശയം കണ്ടെത്തി, ആ ആശയം പൂർണ്ണമായി ഉൾക്കൊള്ളുന്ന single word തിരയുക.\n• 'incorrigible' എന്നാൽ 'incapable of being corrected/reformed' — സ്ഥിരമായി മോശം സ്വഭാവം കാണിക്കുന്നവർക്ക് ഉപയോഗിക്കുന്ന word.\n• Etymology സൂചന: 'in-' (അല്ല) + 'corrigere' (Latin-ൽ 'തിരുത്തുക') → 'തിരുത്താൻ പറ്റാത്ത' എന്നർത്ഥം.\n• ⭐ PSC ആവർത്തനം: one-word substitutes-ന്റെ etymology (root words) അറിഞ്ഞാൽ അർത്ഥം ഊഹിക്കാൻ എളുപ്പമാണ് — PSC ഇത് പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. His incorrigible laziness annoyed everyone. (തിരുത്താൻ പറ്റാത്ത മടി)\n2. The incorrigible criminal was sent back to prison. (തിരുത്താൻ പറ്റാത്ത കുറ്റവാളി)\n3. She remained incorrigible despite repeated warnings. (മുന്നറിയിപ്പുകൾക്ക് ശേഷവും മാറാതെ)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) incongruous — 'യോജിക്കാത്ത, പൊരുത്തമില്ലാത്ത' എന്നർത്ഥം; 'correction'-മായി ബന്ധമില്ല.\n  🪤 PSC Trap: 'in-' എന്ന prefix പൊതുവായതിനാൽ spelling സാമ്യം confuse ചെയ്യാം.\n• (C) incredulous — 'വിശ്വസിക്കാൻ മടിക്കുന്ന, സംശയാലുവായ' എന്നർത്ഥം; 'correction'-മായി ബന്ധമില്ല.\n  🪤 PSC Trap: 'incorrigible'-യുമായി spelling-ൽ വളരെ സാമ്യമുള്ളതിനാൽ ഏറ്റവും common trap ആണ്.\n• (D) incompatible — 'യോജിക്കാത്ത, ഒത്തുപോകാത്ത' എന്നർത്ഥം (രണ്ട് കാര്യങ്ങൾ തമ്മിൽ); 'correction'-മായി നേരിട്ട് ബന്ധമില്ല.\n  🪤 PSC Trap: 'in-' prefix ഉള്ള മറ്റൊരു word ആയതിനാൽ confuse ആകാം.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'INCORRIGIBLE = CORRECT ചെയ്യാൻ പറ്റാത്തവൻ!' — 'CORRIGIBLE' എന്ന word-ൽ തന്നെ 'correct' ഒളിഞ്ഞിരിക്കുന്നത് ശ്രദ്ധിക്കുക.\n• 'in-' prefix ഉള്ള word family (spelling സാമ്യമുള്ളവ, meaning വ്യത്യസ്തം): incorrigible (തിരുത്താൻ പറ്റാത്ത), incredulous (വിശ്വസിക്കാത്ത), incongruous (യോജിക്കാത്ത), incompatible (ഒത്തുപോകാത്ത).\n• PSC strategy: 'in-' prefix ഉള്ള confusable words വരുമ്പോൾ, word-ന്റെ root part ('corrig-' = correct, 'cred-' = believe) ശ്രദ്ധിച്ച് meaning വേർതിരിക്കുക."
+    }
   }
 ]
