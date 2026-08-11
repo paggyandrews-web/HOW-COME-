@@ -167,5 +167,31 @@
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC) — uploaded 2025-10",
     "status": "published"
+  },
+  {
+    "id": "54-2026-M-EN",
+    "paperCode": "054/2026 M-EN",
+    "post": "Special Branch Asst, Excise Inspector, SI of Police, Assistant, Junior",
+    "categoryCode": "017/2025, 187/2025, 188/2025, 221/2025, 269/2025, 382/2025, 383/2025, 446/2025",
+    "date": "06-Jun-2026",
+    "medium": "E",
+    "year": "2026",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — published 2026-07. Paper as printed mixes mediums by section (Q1-90 English, Q91-100 Malayalam); no translation applied, tagged M-EN per house convention.",
+    "status": "published"
+  },
+  {
+    "id": "54-2026-M",
+    "paperCode": "054/2026 M",
+    "post": "Special Branch Asst, Excise Inspector, SI of Police, Assistant, Junior",
+    "categoryCode": "017/2025, 187/2025, 188/2025, 221/2025, 269/2025, 382/2025, 383/2025, 446/2025",
+    "date": "06-Jun-2026",
+    "medium": "M",
+    "year": "2026",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — published 2026-07",
+    "status": "published"
   }
 ]
