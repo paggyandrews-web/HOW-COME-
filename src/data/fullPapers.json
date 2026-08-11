@@ -48,7 +48,7 @@
     "year": "2026",
     "alphacode": "A",
     "totalQuestions": 100,
-    "answerKeySource": "Final Answer Key (PSC) — uploaded 17-02-2026",
+    "answerKeySource": "Final Answer Key (PSC) — uploaded 17-02-2026 | Audited 2026-08-11: corrected Q81 (was B, official key is C).",
     "status": "published"
   },
   {
@@ -217,7 +217,7 @@
     "year": "2026",
     "alphacode": "A",
     "totalQuestions": 100,
-    "answerKeySource": "Final Answer Key (PSC)",
+    "answerKeySource": "Final Answer Key (PSC) | Audited 2026-08-11: corrected Q17 (was D, official key is A) and Q18 (was A, official key is C).",
     "status": "published"
   },
   {
@@ -244,6 +244,19 @@
     "alphacode": "A",
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC) — uploaded 18-06-2026. English rendering for study convenience; PSC did not publish an English-medium booklet for paper 043/2026 (only M/K/T). Note: PSC separately held a genuine English-medium session for this same post under paper code 48/2026 (16-May-2026, different sitting, already archived as id 48-2026-E) — this entry is NOT that paper. Q71-90 are printed in English on the official M-medium paper (unchanged); Q91-100 are the Malayalam-language subject questions (kept in Malayalam, untranslated); Q1-70 are translated from the official Malayalam text of 043/2026 M.",
+    "status": "published"
+  },
+  {
+    "id": "038-2026-M",
+    "paperCode": "038/2026 M",
+    "post": "ASSISTANT PRISON OFFICER (PRISONS AND CORRECTIONAL SERVICES)",
+    "categoryCode": "420/2025",
+    "date": "18-Apr-2026",
+    "medium": "M",
+    "year": "2026",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — uploaded 12-05-2026. Note: the source answer-key transcription had 3 discrepancies against the official PDF (Q79, Q84, Q85) — corrected here to match the PSC PDF exactly (source of truth).",
     "status": "published"
   }
 ]
