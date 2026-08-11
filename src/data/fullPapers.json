@@ -232,5 +232,18 @@
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC) — uploaded 18-06-2026",
     "status": "published"
+  },
+  {
+    "id": "043-2026-M-EN",
+    "paperCode": "043/2026-M (English study version)",
+    "post": "Special Branch Asst, Excise Inspector, SI of Police, Assistant, Junior",
+    "categoryCode": "017/2025, 187/2025, 188/2025, 221/2025, 269/2025, 382/2025, 383/2025, 446/2025",
+    "date": "02-May-2026",
+    "medium": "English (study rendering)",
+    "year": "2026",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — uploaded 18-06-2026. English rendering for study convenience; PSC did not publish an English-medium booklet for paper 043/2026 (only M/K/T). Note: PSC separately held a genuine English-medium session for this same post under paper code 48/2026 (16-May-2026, different sitting, already archived as id 48-2026-E) — this entry is NOT that paper. Q71-90 are printed in English on the official M-medium paper (unchanged); Q91-100 are the Malayalam-language subject questions (kept in Malayalam, untranslated); Q1-70 are translated from the official Malayalam text of 043/2026 M.",
+    "status": "published"
   }
 ]
