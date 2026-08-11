@@ -97,7 +97,7 @@ export default function Register() {
     setLoading(true)
     try {
       await signup(form.email, form.password, form.name, form.district, form.mobile)
-      setTheme(form.gender === 'female' ? 'pink' : 'black')
+      setTheme('black')
       navigate('/')
     } catch (err) {
       setError(err.message || 'Registration failed. Try again.')

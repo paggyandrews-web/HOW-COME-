@@ -193,5 +193,18 @@
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC) — published 2026-07",
     "status": "published"
+  },
+  {
+    "id": "51-2026-M",
+    "paperCode": "051/2026 M",
+    "post": "Civil Excise Officer (Trainee)/Women Civil Excise Officer (Trainee)",
+    "categoryCode": "247/2025, 340/2025, 341/2025, 342/2025, 343/2025, 344/2025, 345/2025, 346/2025",
+    "date": "23-May-2026",
+    "medium": "M",
+    "year": "2026",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — published 2026-07",
+    "status": "published"
   }
 ]
