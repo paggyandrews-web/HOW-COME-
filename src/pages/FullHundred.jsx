@@ -1,8 +1,10 @@
 import { useState, useMemo, useCallback, useEffect, useRef } from 'react'
+import { Link } from 'react-router-dom'
 import fullPapers from '../data/fullPapers.json'
 import fullQuestions from '../data/fullQuestions.json'
 import Confetti from '../components/Confetti'
 import Dropdown from '../components/Dropdown'
+import { useAuth } from '../contexts/AuthContext'
 import { useResults } from '../hooks/useResults'
 import { usePaperProgress } from '../hooks/usePaperProgress'
 import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, statusBadgeText } from '../utils/paperStatus'
@@ -67,6 +69,8 @@ function isEnglishPaper(p) {
 function PaperList({ onStart, onResume }) {
   const [tab, setTab] = useState('malayalam') // malayalam | english
   const [status, setStatus] = useState('')
+  const { user } = useAuth()
+  const needsSignup = !user
 
   const { progress, loading, summary } = usePaperProgress(fullPapers, SCOREABLE_FULL_QUESTIONS)
 
@@ -108,7 +112,7 @@ function PaperList({ onStart, onResume }) {
       <p className="text-sm mb-5" style={{ color: 'var(--text2)' }}>
         Real, complete PSC question papers — all 100 questions, every subject, exactly as printed
         in the original medium. No translation, no explanations — just the paper and the official
-        Final Answer Key, free for everyone.
+        Final Answer Key. Free to use, sign up to start.
         {!loading && (
           <>
             {' '}{summary.completed} completed
@@ -141,6 +145,26 @@ function PaperList({ onStart, onResume }) {
         className="w-44 mb-4"
         options={STATUS_FILTER_OPTIONS}
       />
+
+      {needsSignup && (
+        <div className="rounded-xl p-5 mb-4 text-center"
+          style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
+          <div className="text-2xl mb-1">👋</div>
+          <div className="font-semibold text-sm mb-2">Sign up to take Full 100 papers</div>
+          <div className="text-xs mb-3" style={{ color: 'var(--text2)' }}>
+            These are scored, timed attempts and your progress is saved to your profile —
+            that needs an account.
+          </div>
+          <Link to="/register"
+            className="inline-block w-full py-2.5 rounded-xl font-semibold text-sm"
+            style={{ background: 'var(--accent)', color: 'var(--accent-text)', textDecoration: 'none' }}>
+            Sign Up Free →
+          </Link>
+          <div className="text-xs mt-2">
+            <Link to="/login" style={{ color: 'var(--accent)' }}>Already have an account? Log in</Link>
+          </div>
+        </div>
+      )}
 
       {shownPapers.length === 0 && (
         <div className="rounded-xl p-5 text-center" style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
@@ -192,11 +216,20 @@ function PaperList({ onStart, onResume }) {
                 </div>
               )}
             </div>
-            <button onClick={() => (isResumable ? onResume(p) : onStart(p))}
-              className="w-full text-center py-2.5 rounded-xl text-sm font-bold cursor-pointer"
-              style={{ background: 'var(--accent)', color: 'var(--accent-text)', border: '2px solid var(--accent)', touchAction: 'manipulation' }}>
-              {label}
-            </button>
+            {needsSignup ? (
+              <Link to="/register"
+                title="Sign up to take Full 100 papers"
+                className="block w-full text-center py-2.5 rounded-xl text-sm font-bold"
+                style={{ background: 'var(--bg2)', color: 'var(--text2)', border: '2px solid var(--border)', textDecoration: 'none' }}>
+                🔒 Sign up to start
+              </Link>
+            ) : (
+              <button onClick={() => (isResumable ? onResume(p) : onStart(p))}
+                className="w-full text-center py-2.5 rounded-xl text-sm font-bold cursor-pointer"
+                style={{ background: 'var(--accent)', color: 'var(--accent-text)', border: '2px solid var(--accent)', touchAction: 'manipulation' }}>
+                {label}
+              </button>
+            )}
           </div>
         )
       })}

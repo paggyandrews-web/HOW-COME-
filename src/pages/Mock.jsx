@@ -3,7 +3,7 @@ import { Link, useSearchParams } from 'react-router-dom'
 import modelPapers from '../data/modelPapers.json'
 import modelQuestions from '../data/modelQuestions.json'
 import { useAuth } from '../contexts/AuthContext'
-import { isPromoActive, isInMockCampaignWindow, mockCampaignFreeUntil, mockCampaignEndLabel } from '../utils/freeTier'
+import { isInMockCampaignWindow, mockCampaignFreeUntil } from '../utils/freeTier'
 import Confetti from '../components/Confetti'
 import Dropdown from '../components/Dropdown'
 import { useResults } from '../hooks/useResults'
@@ -35,14 +35,10 @@ const CAPPED_MODEL_QUESTIONS = (() => {
 const TELEGRAM_URL = 'https://t.me/howcomepsc'
 
 /**
- * Access rule per paper:
- * - Regular model papers: needs an account AND (active promo or paid) — unchanged.
- * - Daily mock papers (type: 'daily', with publishedAt): free for EVERYONE (no
- *   account needed at all) for a window after publishedAt. Normally that window
- *   is 24h. But if publishedAt falls inside the Aug 2026 launch campaign (see
- *   freeTier.js), the free-for-everyone window instead runs until the campaign
- *   ends (9 Aug 2026). After the window closes, just needs a logged-in account
- *   — no paid tier required.
+ * Access rule per paper: Mock tests are free for everyone, no account and no
+ * payment required — this applies to every paper, daily or regular. Kept as
+ * a function (rather than inlining `true` at call sites) so the decision
+ * lives in one place if that policy ever needs to change again.
  */
 function getDailyFreeUntil(paper) {
   if (paper?.type !== 'daily' || !paper?.publishedAt) return null
@@ -51,13 +47,8 @@ function getDailyFreeUntil(paper) {
     : new Date(paper.publishedAt).getTime() + DAY_MS
 }
 
-function isMockAllowed(paper, user, profile) {
-  const freeUntil = getDailyFreeUntil(paper)
-  if (freeUntil != null) {
-    if (Date.now() < freeUntil) return true
-    return !!user
-  }
-  return !!user && (isPromoActive() || !!profile?.isPaid)
+function isMockAllowed() {
+  return true
 }
 
 /**
@@ -206,13 +197,9 @@ function IntroScreen({ paper, count, freeWin, onPractice, onExam, onExit }) {
 
 /* ── Paper list ─────────────────────────────────────────────────────── */
 function PaperList({ onStart, onPractice }) {
-  const { user, profile } = useAuth()
   const [copied, setCopied] = useState(null)         // paperId whose link was just copied
   const [confirmPaper, setConfirmPaper] = useState(null)  // paper awaiting "Start exam?" confirmation
   const [status, setStatus] = useState('')
-  const needsSignup = !user
-  // Whether ANY paid-tier model paper is locked right now — drives the generic banner below.
-  const anyPaidLocked = needsSignup || (!isPromoActive() && !profile?.isPaid)
   const counts = useMemo(() => {
     const map = {}
     modelQuestions.forEach(q => { map[q.paperId] = (map[q.paperId] || 0) + 1 })
@@ -232,14 +219,6 @@ function PaperList({ onStart, onPractice }) {
   const shownPapers = useMemo(
     () => visiblePapers.filter(p => matchesStatusFilter(progress[p.id], status)),
     [visiblePapers, progress, status]
-  )
-
-  // Is anything on this page open to a logged-out visitor right now? During the
-  // August campaign the answer is yes, so the blanket "sign up first" card would
-  // be a lie — and the exact wall this page is meant to remove.
-  const anyFreeNow = useMemo(
-    () => visiblePapers.some(p => { const f = getDailyFreeUntil(p); return f != null && Date.now() < f }),
-    [visiblePapers]
   )
 
   return (
@@ -268,30 +247,9 @@ function PaperList({ onStart, onPractice }) {
         options={STATUS_FILTER_OPTIONS}
       />
 
-      {needsSignup && !anyFreeNow && (
-        <div className="rounded-xl p-5 mb-4 text-center"
-          style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
-          <div className="text-2xl mb-1">👋</div>
-          <div className="font-semibold text-sm mb-2">Sign up to take mock exams</div>
-          <div className="text-xs mb-3" style={{ color: 'var(--text2)' }}>
-            Mock exams are timed and your score is saved to your profile — that needs an account.
-          </div>
-          <Link to="/register"
-            className="inline-block w-full py-2.5 rounded-xl font-semibold text-sm"
-            style={{ background: 'var(--accent)', color: 'var(--accent-text)', textDecoration: 'none' }}>
-            Sign Up Free →
-          </Link>
-          <div className="text-xs mt-2">
-            <Link to="/login" style={{ color: 'var(--accent)' }}>Already have an account? Log in</Link>
-          </div>
-        </div>
-      )}
-
       {shownPapers.map(p => {
-        const allowed = isMockAllowed(p, user, profile)
         const isDaily = p.type === 'daily'
         const freeWin = dailyFreeWindow(p)
-        const lockedReason = allowed ? null : isDaily ? 'Sign up to keep taking this test' : needsSignup ? 'Sign up to take mock exams' : 'The free period has ended'
         const shareUrl = isDaily ? `https://howcome.in/mock?paper=${p.id}` : null
         const prog = progress[p.id]
         const meta = prog ? STATUS_META[prog.status] : null
@@ -343,38 +301,26 @@ function PaperList({ onStart, onPractice }) {
               )}
             </div>
 
-            {allowed ? (
-              <div className="flex gap-2">
-                <button
-                  onClick={() => onPractice(p)}
-                  className="flex-1 text-center py-2 rounded-xl text-xs font-bold cursor-pointer"
-                  style={{
-                    background: 'var(--accent)', color: 'var(--accent-text)',
-                    border: '2px solid var(--accent)', touchAction: 'manipulation',
-                  }}>
-                  ✏️ Practice
-                </button>
-                <button
-                  onClick={() => setConfirmPaper(p)}
-                  className="flex-1 text-center py-2 rounded-xl text-xs font-bold cursor-pointer"
-                  style={{
-                    background: 'transparent', color: 'var(--accent)',
-                    border: '2px solid var(--accent)', touchAction: 'manipulation',
-                  }}>
-                  ⏱️ Timed
-                </button>
-              </div>
-            ) : (
-              <Link to="/register"
-                title={lockedReason}
-                className="block text-center py-2 rounded-xl text-xs font-bold"
+            <div className="flex gap-2">
+              <button
+                onClick={() => onPractice(p)}
+                className="flex-1 text-center py-2 rounded-xl text-xs font-bold cursor-pointer"
                 style={{
-                  background: 'var(--bg2)', color: 'var(--text2)',
-                  border: '2px solid var(--border)', textDecoration: 'none',
+                  background: 'var(--accent)', color: 'var(--accent-text)',
+                  border: '2px solid var(--accent)', touchAction: 'manipulation',
                 }}>
-                🔒 {lockedReason}
-              </Link>
-            )}
+                ✏️ Practice
+              </button>
+              <button
+                onClick={() => setConfirmPaper(p)}
+                className="flex-1 text-center py-2 rounded-xl text-xs font-bold cursor-pointer"
+                style={{
+                  background: 'transparent', color: 'var(--accent)',
+                  border: '2px solid var(--accent)', touchAction: 'manipulation',
+                }}>
+                ⏱️ Timed
+              </button>
+            </div>
 
             {isDaily && (
               <button
@@ -391,23 +337,14 @@ function PaperList({ onStart, onPractice }) {
           </div>
         )
       })}
-      {anyPaidLocked && (
-        <div className="rounded-xl p-4 mb-4 text-sm leading-relaxed"
-          style={{ background: 'rgba(26,157,142,0.08)', border: '1px solid rgba(26,157,142,0.3)' }}>
-          <div className="font-semibold mb-1">
-            {needsSignup ? 'No account needed for the free daily tests' : 'The free period has ended'}
-          </div>
-          <div className="text-xs" style={{ color: 'var(--text2)' }}>
-            {needsSignup
-              ? 'The daily mock tests above are open to everyone until ' + mockCampaignEndLabel() +
-                '. An account only adds saved scores, bookmarks and the full model papers.'
-              : 'Full model exams need an active account with full access.'}
-            {' '}<Link to={needsSignup ? '/register' : '/papers'} style={{ color: 'var(--accent)' }}>
-              {needsSignup ? 'Create a free account →' : 'Browse question papers →'}
-            </Link>
-          </div>
+      <div className="rounded-xl p-4 mb-4 text-sm leading-relaxed"
+        style={{ background: 'rgba(26,157,142,0.08)', border: '1px solid rgba(26,157,142,0.3)' }}>
+        <div className="font-semibold mb-1">No account needed</div>
+        <div className="text-xs" style={{ color: 'var(--text2)' }}>
+          Every mock test above — daily and model papers alike — is free for everyone, no sign-up
+          required. Creating an account just adds saved scores and bookmarks across devices.
         </div>
-      )}
+      </div>
       <div className="text-xs mt-6 leading-relaxed" style={{ color: 'var(--text2)' }}>
         These are model papers generated in the PSC pattern — not previous question papers.
         For real previous papers, visit the <Link to="/papers" style={{ color: 'var(--accent)' }}>Papers</Link> section.
