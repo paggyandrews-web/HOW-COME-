@@ -768,5 +768,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) Polyglot — ഇത് 'many/several languages' സംസാരിക്കുന്ന ആളെയാണ് സൂചിപ്പിക്കുന്നത്, exactly 'two' അല്ല.\n• 🪤 PSC Trap: Polyglot ഉം ഭാഷയുമായി ബന്ധപ്പെട്ട word ആയതിനാൽ students confuse ആകാറുണ്ട്, പക്ഷെ number match ചെയ്യുന്നില്ല.\n• (C) Linguist — ഭാഷയെ scientifically പഠിക്കുന്ന വ്യക്തിയാണ്, fluent speaker ആകണമെന്നില്ല.\n• (D) Interpreter — സംസാരിക്കുന്ന ഭാഷ translate ചെയ്യുന്ന professional ആണ്, bilingual ആയിരിക്കുക എന്ന quality-യിൽ നിന്ന് വ്യത്യസ്തമായ ഒരു ജോലി/role ആണ്.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BI-cycle has TWO wheels, BI-lingual has TWO languages' എന്ന് ഓർക്കുക.\n• Rule family: Mono (1), Bi (2), Tri (3), Poly/Multi (many) — number prefixes ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: One-word substitute questions-ൽ phrase-ലെ exact number/quantity ശ്രദ്ധിക്കുക, ഏതെങ്കിലും related-sounding word-ൽ trap ആകരുത്."
     }
+  },
+  {
+    "id": "HC-DAILY-2026-08-11-Q1",
+    "paperId": "HC-DAILY-2026-08-11",
+    "questionNumber": 1,
+    "topic": "Subject-Verb Agreement",
+    "difficulty": "medium",
+    "questionText": "Choose the correct verb form to complete the sentence.\nEach of the candidates ______ required to submit the necessary documents by Friday.",
+    "optionA": "is",
+    "optionB": "are",
+    "optionC": "were",
+    "optionD": "have been",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) is\n\n• 'Each' എന്ന word ആണ് ഇവിടെ യഥാർത്ഥ subject — 'of the candidates' എന്നത് വെറും prepositional phrase മാത്രമാണ്, അത് verb-നെ ബാധിക്കില്ല.\n• 'Each', 'Every', 'Either', 'Neither' എന്നിവ എപ്പോഴും singular ആയി കണക്കാക്കണം, subject-ന് ശേഷം plural noun വന്നാലും.\n• PSC പരീക്ഷകളിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന SVA trap ആണിത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Each/Every/Either/Neither + of + plural noun → SINGULAR verb\n• ഈ words-ന് ശേഷം 'of the students/candidates/members' എന്നൊക്കെ വന്നാലും, verb എപ്പോഴും singular (is/was/has) ആയിരിക്കണം.\n• ⭐ PSC ആവർത്തനം: ഈ topic മിക്കവാറും എല്ലാ paper-ലും ഒരു question എങ്കിലും ഉണ്ടാകും.\n• ഉദാഹരണ sentences:\n1. Each of the boys has a bicycle.\n2. Every one of the answers is correct.\n3. Neither of the options was acceptable.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) are — 'candidates' എന്ന plural noun കണ്ട് 'are' തിരഞ്ഞെടുക്കാൻ തോന്നും, പക്ഷേ യഥാർത്ഥ subject 'Each' ആണ്.\n• 🪤 PSC Trap: verb-ന് തൊട്ടടുത്തുള്ള noun (candidates) നോക്കി plural verb തിരഞ്ഞെടുക്കുന്നതാണ് ഏറ്റവും സാധാരണ തെറ്റ്.\n• (C) were — Past tense ആണ്, sentence context future/present ആണ് ('by Friday' സൂചിപ്പിക്കുന്നത് വരാനിരിക്കുന്ന deadline ആണ്).\n• (D) have been — plural auxiliary ആണ്, singular subject 'Each'-ന് ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'EACH is ONE' — Each എപ്പോഴും ഒറ്റയ്ക്ക് (singular) നിൽക്കുന്നു എന്ന് ഓർക്കുക.\n• Each, Every, Either, Neither, Everyone, Everybody, Somebody — ഇവയെല്ലാം ഒരേ family, എല്ലാം singular verb എടുക്കും.\n• PSC exam strategy: 'of the' എന്ന phrase കണ്ടാൽ അതിനെ ignore ചെയ്ത്, അതിന് മുൻപുള്ള word നോക്കി verb തീരുമാനിക്കുക — ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-11-Q2",
+    "paperId": "HC-DAILY-2026-08-11",
+    "questionNumber": 2,
+    "topic": "Tenses",
+    "difficulty": "medium",
+    "questionText": "Choose the correct tense form to complete the sentence.\nBy the time the manager arrives tomorrow, the team ______ the report.",
+    "optionA": "has completed",
+    "optionB": "had completed",
+    "optionC": "will complete",
+    "optionD": "will have completed",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) will have completed\n\n• 'By the time' എന്ന phrase ഒരു future action-ന് മുൻപ് മറ്റൊരു action പൂർത്തിയാകും എന്ന് സൂചിപ്പിക്കുന്ന classic future perfect signal ആണ്.\n• 'the manager arrives' (simple present, future sense) എന്നത് reference point ആണ്; team-ന്റെ റിപ്പോർട്ട് പൂർത്തിയാക്കൽ അതിന് മുൻപേ നടക്കും.\n• Future Perfect Tense (will have + V3) ആണ് ഇവിടെ ശരിയായ structure.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: By the time + Subject + Present Tense... , Subject + will have + V3\n• 'By the time', 'before', 'by' തുടങ്ങിയ time-markers ഒരു future deadline-ന് മുൻപ് പൂർത്തിയാകുന്ന action സൂചിപ്പിക്കുമ്പോൾ Future Perfect ഉപയോഗിക്കണം.\n• ⭐ PSC ആവർത്തനം: Tenses topic എല്ലാ PSC paper-ലും 1-2 questions ഉറപ്പായും വരും.\n• ഉദാഹരണ sentences:\n1. By the time you reach home, I will have finished cooking.\n2. She will have left before the train arrives.\n3. By 10 o'clock, they will have completed the project.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) has completed — Present Perfect ആണ്, ഇത് past-ൽ പൂർത്തിയായ action-ന് ഉപയോഗിക്കുന്നു, future deadline-ന് ചേരില്ല.\n• (B) had completed — Past Perfect ആണ്, ഇത് past-ലെ രണ്ട് events തമ്മിലുള്ള sequence കാണിക്കാൻ ഉപയോഗിക്കുന്നു, ഇവിടെ context future ആണ്.\n• (C) will complete — Simple Future ആണ്, completion 'by the time' deadline-ന് മുൻപ് ആണെന്ന് ഇത് കാണിക്കുന്നില്ല.\n• 🪤 PSC Trap: 'will complete' സ്വാഭാവികമായി തോന്നും, പക്ഷേ 'By the time' clue മിസ്സ് ചെയ്യരുത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'By the time' കണ്ടാൽ ഉടനെ 'will have + V3' ഓർക്കുക — ഇത് ഒരു fixed pair ആണ്.\n• Future Perfect family: will have + completed/finished/left/arrived — ഇവയെല്ലാം ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: sentence-ൽ 'By the time' / 'before' + present tense clause കണ്ടാൽ, മറ്റെ clause-ൽ future perfect തിരയുക — ഇത് ഒരിക്കലും miss ആകില്ല."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-11-Q3",
+    "paperId": "HC-DAILY-2026-08-11",
+    "questionNumber": 3,
+    "topic": "Question Tags",
+    "difficulty": "medium",
+    "questionText": "Choose the correct question tag to complete the sentence.\nNothing could stop her from succeeding, ______?",
+    "optionA": "couldn't it",
+    "optionB": "could she",
+    "optionC": "couldn't she",
+    "optionD": "could it",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) could it\n\n• 'Nothing' എന്നത് ഒരു negative subject ആണ് — ഇത് 'not anything' എന്നതിന് തുല്യമാണ്.\n• Negative subject/statement ആയാൽ, question tag ALWAYS positive ആയിരിക്കണം.\n• Subject 'Nothing' ഒരു thing ആയതിനാൽ, pronoun 'it' ആണ് ഉപയോഗിക്കേണ്ടത്, 'she' അല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Negative statement → Positive tag; Positive statement → Negative tag\n• 'Nothing', 'No one', 'Nobody', 'Never', 'Hardly', 'Scarcely' തുടങ്ങിയ words ഉള്ള sentences negative ആയി കണക്കാക്കി positive tag ഉപയോഗിക്കണം.\n• ⭐ PSC ആവർത്തനം: Question Tags PSC-യിലെ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. Nothing can stop him, can it?\n2. Nobody called, did they?\n3. She never lies, does she?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) couldn't it — negative tag ആണ്, പക്ഷേ statement തന്നെ negative ('Nothing') ആയതിനാൽ tag positive വേണം.\n• (B) could she — 'she' എന്ന pronoun തെറ്റാണ്, subject 'Nothing' ആണ്, ഒരു person അല്ല.\n• (C) couldn't she — രണ്ട് തെറ്റുകളും ഒരുമിച്ച്: wrong polarity + wrong pronoun.\n• 🪤 PSC Trap: sentence-ൽ 'her' എന്ന word കണ്ട് 'she' തിരഞ്ഞെടുക്കാൻ students തെറ്റിദ്ധരിക്കും — എന്നാൽ grammatical subject 'Nothing' ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NOTHING is always IT' — Nothing/Everything/Something എല്ലാം 'it' എടുക്കും, person pronoun എടുക്കില്ല.\n• Negative-word family: Nothing, No one, Nobody, Never, Rarely, Seldom — ഇവയെല്ലാം positive tag ആവശ്യപ്പെടും.\n• PSC exam strategy: sentence-ലെ ആദ്യ word/subject മാത്രം നോക്കുക, sentence-ന്റെ ബാക്കി ഭാഗത്തെ pronouns (her, him) കണ്ട് confuse ആകരുത്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-11-Q4",
+    "paperId": "HC-DAILY-2026-08-11",
+    "questionNumber": 4,
+    "topic": "Prepositions",
+    "difficulty": "medium",
+    "questionText": "Fill in the blank with the correct preposition.\nThe committee insisted ______ conducting a thorough investigation before finalizing the report.",
+    "optionA": "for",
+    "optionB": "on",
+    "optionC": "with",
+    "optionD": "at",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) on\n\n• 'Insist on' എന്നത് ഒരു fixed collocation (preposition pairing) ആണ് — 'ഒരു കാര്യത്തിൽ ഉറച്ചുനിൽക്കുക' എന്ന അർത്ഥത്തിൽ.\n• ഇത് ഒരു idiomatic usage ആണ്, logic വെച്ച് derive ചെയ്യാൻ പറ്റില്ല — memorize ചെയ്യേണ്ട fixed preposition ആണ്.\n• 'The committee insisted on conducting...' എന്നത് standard, correct English usage ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: insist + ON (never for/at/with)\n• Fixed verb-preposition collocations മാറ്റാൻ പറ്റില്ല — ഓരോന്നും അതിന്റെ fixed partner-നോടൊപ്പം മാത്രമേ ശരിയാകൂ.\n• ⭐ PSC ആവർത്തനം: Prepositions PSC paper-ൽ ഏറ്റവും കൂടുതൽ വരുന്ന topic-കളിൽ ഒന്നാണ്, fixed collocations പ്രത്യേകം ശ്രദ്ധിക്കുക.\n• ഉദാഹരണ sentences:\n1. He insisted on paying the bill.\n2. She insists on being right.\n3. They insisted on an immediate refund.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) for — 'insist for' എന്നത് ശരിയായ English collocation അല്ല.\n• (C) with — 'insist with' എന്നും ഉപയോഗിക്കാറില്ല.\n• (D) at — 'insist at' എന്നതും തെറ്റായ collocation ആണ്.\n• 🪤 PSC Trap: Malayalam-ൽ 'നിർബന്ധിക്കുക' എന്നതിന്റെ direct translation ചിന്തിച്ച് preposition തെറ്റായി തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'INSIST ON IT' എന്ന phrase ഉറക്കെ പറഞ്ഞ് ഓർക്കുക — 'on' എപ്പോഴും 'insist'-ന്റെ കൂടെ.\n• Fixed collocation family ഒരുമിച്ച് പഠിക്കുക: insist ON, depend ON, congratulate ON, rely ON.\n• PSC exam strategy: verb + preposition collocations ഒരു list ആയി എഴുതി ദിവസവും revise ചെയ്യുക — ഇത് guaranteed marks നൽകുന്ന topic ആണ്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-11-Q5",
+    "paperId": "HC-DAILY-2026-08-11",
+    "questionNumber": 5,
+    "topic": "Active and Passive Voice",
+    "difficulty": "medium",
+    "questionText": "Choose the correct passive form of the sentence given below:\nThe authorities have postponed the annual inspection due to heavy rainfall.",
+    "optionA": "The annual inspection was postponed by the authorities due to heavy rainfall.",
+    "optionB": "The annual inspection is postponed by the authorities due to heavy rainfall.",
+    "optionC": "The annual inspection has been postponed by the authorities due to heavy rainfall.",
+    "optionD": "The annual inspection had been postponed by the authorities due to heavy rainfall.",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) The annual inspection has been postponed by the authorities due to heavy rainfall.\n\n• Active sentence-ലെ tense ആണ് Present Perfect ('have postponed') — Passive-ലും അതേ tense തന്നെ നിലനിർത്തണം.\n• Present Perfect Active (have/has + V3) → Present Perfect Passive (has/have been + V3).\n• Object 'the annual inspection' Passive-ൽ subject ആകുന്നു, 'by the authorities' agent ആയി ചേർക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Active tense = Passive tense, ALWAYS.\n• Active: have/has + V3 → Passive: has/have been + V3\n• Tense മാറ്റാൻ പാടില്ല — Voice മാറുമ്പോൾ structure മാറും, tense മാറില്ല.\n• ⭐ PSC ആവർത്തനം: Active-Passive conversion എല്ലാ PSC paper-ലും സ്ഥിരമായി വരുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. She has completed the work. → The work has been completed by her.\n2. They have cancelled the event. → The event has been cancelled by them.\n3. He has written the letter. → The letter has been written by him.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) was postponed — Simple Past Passive ആണ്, Active sentence Present Perfect ('have postponed') ആയതിനാൽ tense മാറി പോയി, തെറ്റാണ്.\n• (B) is postponed — Simple Present Passive ആണ്, ഇതും tense mismatch.\n• (D) had been postponed — Past Perfect Passive ആണ്, ഇത് Active-ൽ 'had postponed' ഉണ്ടെങ്കിൽ മാത്രമേ ശരിയാകൂ.\n• 🪤 PSC Trap: Passive sentence 'ശരിയായി' തോന്നിയാലും, Active sentence-ലെ exact tense match ചെയ്യുന്നുണ്ടോ എന്ന് നോക്കാതെ students തെറ്റായ option തിരഞ്ഞെടുക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Active-ലെ auxiliary verb ('have/has/had/will') അതേപടി Passive-ലും കൊണ്ടുവരിക, 'been' ചേർത്ത് V3 വെക്കുക.\n• Tense family ഒരുമിച്ച് പഠിക്കുക: Present Perfect Active ↔ has/have been + V3.\n• PSC exam strategy: ആദ്യം Active sentence-ലെ tense ഏതാണെന്ന് കണ്ടെത്തുക, എന്നിട്ട് അതേ tense-ലുള്ള Passive option മാത്രം തിരയുക — ബാക്കി options ignore ചെയ്യാം."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-11-Q6",
+    "paperId": "HC-DAILY-2026-08-11",
+    "questionNumber": 6,
+    "topic": "Spelling",
+    "difficulty": "easy",
+    "questionText": "Choose the correctly spelt word.",
+    "optionA": "Embarassment",
+    "optionB": "Embarrasment",
+    "optionC": "Embarrassment",
+    "optionD": "Embarassement",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Embarrassment\n\n• 'Embarrassment' എന്ന word-ൽ 'rr' (double r) ഉം 'ss' (double s) ഉം ഉണ്ട് — ഇത് ഓർത്തിരിക്കേണ്ട tricky spelling ആണ്.\n• French origin 'embarrasser' ('to block/hinder') എന്നതിൽ നിന്നാണ് ഈ word വരുന്നത്.\n• Correct spelling: E-M-B-A-R-R-A-S-S-M-E-N-T.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Double letters ഉള്ള words-ൽ രണ്ട് letter-കളും കൃത്യമായി ഓർക്കുക — 'rr' + 'ss' രണ്ടും ഇവിടെ വേണം.\n• Etymology hint: French origin ഉള്ള words-ൽ പലപ്പോഴും double consonants കാണാം (embarrass, harass, occurrence).\n• ⭐ PSC ആവർത്തനം: Spelling PSC paper-ൽ സ്ഥിരമായി വരുന്ന, easy marks നേടാവുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. She felt great embarrassment after the mistake.\n2. His embarrassment was visible on his face.\n3. To avoid embarrassment, he apologized immediately.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Embarassment — ഒരു 'r' മാത്രം, 'rr' മിസ്സ് ആയി.\n• (B) Embarrasment — ഒരു 's' മാത്രം, 'ss' മിസ്സ് ആയി.\n• (D) Embarassement — രണ്ട് letter-കളും തെറ്റ്, കൂടാതെ extra 'e' യും ചേർത്തിരിക്കുന്നു.\n• 🪤 PSC Trap: Double letters ഉള്ള words-ൽ ഒരു letter മാത്രം ഒഴിവാക്കി തെറ്റായ spelling options ഉണ്ടാക്കുന്നത് PSC-യുടെ സ്ഥിരം trick ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Two R's, Two S's' എന്ന് താളത്തിൽ ഓർക്കുക — Embar-RR-a-SS-ment.\n• Double-letter word family: embarrass, harass, occurrence, necessary (ONE c, TWO s) — ഇവയെല്ലാം ഒരുമിച്ച് practice ചെയ്യുക.\n• PSC exam strategy: spelling questions-ൽ word ഉറക്കെ syllable-syllable ആയി പറഞ്ഞ് നോക്കുക, double letters ഉള്ള ഭാഗം പ്രത്യേകം ശ്രദ്ധിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-11-Q7",
+    "paperId": "HC-DAILY-2026-08-11",
+    "questionNumber": 7,
+    "topic": "Idioms",
+    "difficulty": "medium",
+    "questionText": "What does the idiom 'to burn the midnight oil' mean?",
+    "optionA": "To start a fire accidentally",
+    "optionB": "To waste money carelessly",
+    "optionC": "To work or study late into the night",
+    "optionD": "To finish a task quickly",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) To work or study late into the night\n\n• 'Burn the midnight oil' എന്ന idiom പഴയകാലത്ത് oil lamp-ന്റെ വെളിച്ചത്തിൽ രാത്രി വൈകി പഠിക്കുകയോ ജോലി ചെയ്യുകയോ ചെയ്തിരുന്നതിൽ നിന്ന് വന്നതാണ്.\n• ഇത് 'hard work' / 'late-night effort' എന്ന അർത്ഥത്തിൽ ഉപയോഗിക്കുന്നു, literal fire-യുമായി ബന്ധമില്ല.\n• Exam-ന് മുൻപ് വൈകി പഠിക്കുന്ന ഒരു student-നെ വിവരിക്കാൻ ഈ idiom നല്ലൊരു ഉദാഹരണമാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Idioms-ന്റെ meaning literal word-കളിൽ നിന്ന് derive ചെയ്യാൻ പറ്റില്ല — ഓരോന്നും context-ൽ വച്ച് memorize ചെയ്യണം.\n• 'Midnight oil' = പഴയകാല oil lamp, 'burn' = ഉപയോഗിക്കുക (consume) എന്ന അർത്ഥത്തിൽ — combined meaning 'late night work/study'.\n• ⭐ PSC ആവർത്തനം: Idioms PSC-യിലെ സ്ഥിരം topic ആണ്, common idioms list ചെയ്ത് പഠിക്കുന്നത് നല്ലതാണ്.\n• ഉദാഹരണ sentences:\n1. She had to burn the midnight oil to finish her thesis.\n2. He burned the midnight oil before the final exam.\n3. The team burned the midnight oil to meet the deadline.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) To start a fire accidentally — ഇത് 'burn' എന്ന word-ന്റെ literal meaning മാത്രം എടുത്ത misreading ആണ്.\n• (B) To waste money carelessly — ഇത് 'burn money' എന്ന വേറൊരു idiom-മായി confuse ചെയ്യുന്നതാണ്.\n• (D) To finish a task quickly — ഈ idiom-ന് 'quickness'-മായി ബന്ധമില്ല, 'late night effort'-മായി മാത്രമേ ബന്ധമുള്ളൂ.\n• 🪤 PSC Trap: 'burn' എന്ന word കണ്ട് fire/money idioms-മായി confuse ആകുന്നത് സാധാരണമാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: ഒരു student oil lamp-ന്റെ വെളിച്ചത്തിൽ അർദ്ധരാത്രി വരെ പഠിക്കുന്ന ചിത്രം മനസ്സിൽ കാണുക — അതാണ് ഈ idiom.\n• Similar idiom family: 'work round the clock', 'pull an all-nighter' — ഇവയും സമാന അർത്ഥമുള്ള idioms ആണ്.\n• PSC exam strategy: idiom questions-ൽ literal meaning-ൽ വീഴരുത്, idiom-ന്റെ ചരിത്രപരമായ ഉത്ഭവം (origin story) ഓർത്താൽ meaning എളുപ്പം ഓർക്കാം."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-11-Q8",
+    "paperId": "HC-DAILY-2026-08-11",
+    "questionNumber": 8,
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct synonym of the word in italics.\nThe manager's __candid__ remarks surprised the entire team.",
+    "optionA": "hostile",
+    "optionB": "frank",
+    "optionC": "cautious",
+    "optionD": "evasive",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) frank\n\n• 'Candid' എന്നാൽ 'തുറന്ന്, സത്യസന്ധമായി സംസാരിക്കുന്ന' എന്നാണ് അർത്ഥം — 'frank' എന്ന word-ന് ഇതേ അർത്ഥം തന്നെയാണ്.\n• Latin root 'candidus' (white, pure, honest) എന്നതിൽ നിന്നാണ് 'candid' വരുന്നത്.\n• 'The manager's frank remarks' എന്നത് sentence-ന്റെ meaning മാറ്റാതെ replace ചെയ്യാം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Candid = Frank = Honest = Open (in speech)\n• Synonym questions-ൽ context നോക്കി ഏറ്റവും അടുത്ത meaning ഉള്ള word തിരഞ്ഞെടുക്കണം.\n• Etymology hint: 'candidus' (Latin, 'white/pure') → പിന്നീട് 'honest, straightforward' എന്ന അർത്ഥത്തിലേക്ക് വികസിച്ചു.\n• ⭐ PSC ആവർത്തനം: Synonyms PSC paper-ൽ സ്ഥിരമായി വരുന്ന, vocabulary-based easy marks topic ആണ്.\n• ഉദാഹരണ sentences:\n1. He gave a candid opinion about the project.\n2. Her candid (frank) answer surprised everyone.\n3. I appreciate your candid feedback.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) hostile — 'ശത്രുതാപരമായ' എന്നാണ് അർത്ഥം, 'candid'-ന്റെ honest/open meaning-മായി ബന്ധമില്ല.\n• (C) cautious — 'ജാഗ്രതയോടെയുള്ള' എന്നാണ് അർത്ഥം, candid-ന്റെ 'openness' meaning-മായി ബന്ധമില്ല.\n• (D) evasive — ഇത് 'candid'-ന്റെ direct opposite (antonym) ആണ് — 'ഒളിച്ചുകളിക്കുന്ന, മറച്ചുവയ്ക്കുന്ന' എന്നർത്ഥം.\n• 🪤 PSC Trap: Antonym-നെ synonym ആയി തെറ്റിദ്ധരിക്കുന്നത് PSC-യുടെ ഏറ്റവും common trap ആണ് — 'evasive' ഇവിടെ exact opposite ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'CANDID is like a CANDLE' — candle-ന്റെ വെളിച്ചം പോലെ transparent/honest ആണ് candid person.\n• Word family: candid, frank, forthright, straightforward — ഇവയെല്ലാം 'honest speech' എന്ന ഒരേ group-ൽ പഠിക്കുക.\n• PSC exam strategy: options-ൽ exact opposite meaning ഉള്ള word ഉണ്ടോ എന്ന് ആദ്യം check ചെയ്യുക — അതാണ് മിക്കവാറും trap option."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-11-Q9",
+    "paperId": "HC-DAILY-2026-08-11",
+    "questionNumber": 9,
+    "topic": "Phrasal Verbs",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the phrasal verb in italics.\nThe new policy will __do away with__ unnecessary paperwork.",
+    "optionA": "postpone",
+    "optionB": "review",
+    "optionC": "eliminate",
+    "optionD": "simplify",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) eliminate\n\n• 'Do away with' എന്ന phrasal verb-ന്റെ meaning 'ഇല്ലാതാക്കുക, ഒഴിവാക്കുക' (to get rid of / abolish) എന്നാണ്.\n• Sentence-ൽ 'unnecessary paperwork' ഒഴിവാക്കുക എന്ന context-ന് 'eliminate' കൃത്യമായി യോജിക്കുന്നു.\n• Formal/administrative context-ൽ ഈ phrasal verb സാധാരണയായി policy-കൾ, rules, procedures എന്നിവ നിർത്തലാക്കാൻ ഉപയോഗിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Do away with = Abolish = Eliminate = Get rid of\n• Phrasal verbs-ന്റെ meaning idiomatic ആണ് — individual words (do, away, with) കൂട്ടിച്ചേർത്ത് literal meaning derive ചെയ്യാൻ പറ്റില്ല.\n• ⭐ PSC ആവർത്തനം: Phrasal Verbs PSC-യിൽ സ്ഥിരമായി വരുന്ന topic ആണ്, common phrasal verbs list ചെയ്ത് പഠിക്കണം.\n• ഉദാഹരണ sentences:\n1. The government decided to do away with the old tax system.\n2. We should do away with unnecessary rules.\n3. The company did away with the dress code policy.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) postpone — ഇത് 'put off' എന്ന വേറൊരു phrasal verb-ന്റെ meaning ആണ്, 'do away with'-മായി ബന്ധമില്ല.\n• (B) review — 'പരിശോധിക്കുക' എന്നാണ് അർത്ഥം, ഇത് 'ഇല്ലാതാക്കുക' എന്ന meaning-ൽ നിന്ന് വ്യത്യസ്തമാണ്.\n• (D) simplify — 'ലളിതമാക്കുക' എന്നാണ് അർത്ഥം; paperwork ഒഴിവാക്കുന്നതും ലളിതമാക്കുന്നതും വ്യത്യസ്ത actions ആണ് — 'do away with' പൂർണ്ണമായി ഒഴിവാക്കുക എന്നാണ്, ലളിതമാക്കൽ അല്ല.\n• 🪤 PSC Trap: 'simplify' എന്ന option 'paperwork'-മായി ബന്ധപ്പെട്ട് സ്വാഭാവികമായി തോന്നും, പക്ഷേ idiom-ന്റെ കൃത്യമായ meaning 'completely remove' ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'DO AWAY WITH' = 'THROW AWAY' — രണ്ടിലും 'AWAY' ഉണ്ട്, രണ്ടും 'ഒഴിവാക്കുക' എന്ന അർത്ഥത്തിൽ.\n• Similar phrasal verb family: do away with, get rid of, dispose of, abolish — ഇവയെല്ലാം 'eliminate' group-ൽ പഠിക്കുക.\n• PSC exam strategy: phrasal verb-ന്റെ individual words നോക്കാതെ, മുഴുവൻ phrase-ന്റെ idiomatic meaning ഓർത്തിരിക്കുക — 'simplify' പോലുള്ള close-sounding traps ഒഴിവാക്കാൻ ഇത് സഹായിക്കും."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-11-Q10",
+    "paperId": "HC-DAILY-2026-08-11",
+    "questionNumber": 10,
+    "topic": "One Word Substitutes",
+    "difficulty": "medium",
+    "questionText": "Choose the one-word substitute for 'one who knows everything'.",
+    "optionA": "Omnipotent",
+    "optionB": "Omnipresent",
+    "optionC": "Omnivorous",
+    "optionD": "Omniscient",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) Omniscient\n\n• 'Omniscient' എന്നാൽ 'എല്ലാം അറിയുന്ന' (all-knowing) എന്നാണ് അർത്ഥം — Latin 'omni' (all) + 'scire' (to know) എന്നതിൽ നിന്ന്.\n• 'One who knows everything' എന്ന definition-ന് കൃത്യമായി യോജിക്കുന്ന word ഇതാണ്.\n• Literature-ൽ 'omniscient narrator' എന്ന term പ്രശസ്തമാണ് — എല്ലാ characters-ന്റെയും ചിന്തകൾ അറിയുന്ന narrator.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: OMNI (all) + SCIRE (know) = Omniscient (all-knowing)\n• 'Omni-' എന്ന Latin prefix 'എല്ലാം' എന്ന അർത്ഥത്തിൽ പല words-ലും വരുന്നു — suffix മാറുമ്പോൾ meaning മാറും.\n• ⭐ PSC ആവർത്തനം: One Word Substitutes PSC-യിൽ സ്ഥിരമായി വരുന്ന, etymology അറിഞ്ഞാൽ എളുപ്പം answer ചെയ്യാവുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. In the novel, the omniscient narrator knows every character's thoughts.\n2. Many believe God to be omniscient.\n3. The omniscient teacher seemed to know all our secrets.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Omnipotent — 'omni' (all) + 'potent' (power) = 'എല്ലാം ചെയ്യാൻ കഴിവുള്ള' (all-powerful), 'knowing' അല്ല 'power'-മായി ബന്ധപ്പെട്ടത്.\n• (B) Omnipresent — 'omni' (all) + 'present' = 'എല്ലായിടത്തും ഉള്ള' (present everywhere), location-മായി ബന്ധപ്പെട്ടത്, knowledge അല്ല.\n• (C) Omnivorous — 'omni' (all) + 'vorare' (to eat) = 'എല്ലാം ഭക്ഷിക്കുന്ന' (eating everything), food habit-മായി ബന്ധപ്പെട്ടത്.\n• 🪤 PSC Trap: നാല് options-ഉം 'Omni-' prefix ഷെയർ ചെയ്യുന്നതിനാൽ confuse ആകാൻ എളുപ്പമാണ് — suffix-ന്റെ meaning കൃത്യമായി അറിയണം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'SCIRE = SCIENCE = KNOWLEDGE' — Omniscient-ലെ 'sci' science-മായി ബന്ധപ്പെടുത്തി ഓർക്കുക.\n• Omni- word family ഒരുമിച്ച് പഠിക്കുക: Omniscient (know), Omnipotent (power), Omnipresent (place), Omnivorous (eat).\n• PSC exam strategy: 'Omni-' തുടങ്ങുന്ന words കണ്ടാൽ, suffix-ന്റെ root meaning (scire/potent/present/vorare) ഓർത്ത് correct option തിരഞ്ഞെടുക്കുക."
+    }
   }
 ]

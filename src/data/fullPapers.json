@@ -206,5 +206,31 @@
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC) — published 2026-07",
     "status": "published"
+  },
+  {
+    "id": "48-2026-E",
+    "paperCode": "048/2026",
+    "post": "Special Branch Asst, Excise Inspector, SI of Police, Assistant, Junior",
+    "categoryCode": "017/2025, 187/2025, 188/2025, 221/2025, 269/2025, 382/2025, 383/2025, 446/2025",
+    "date": "16-May-2026",
+    "medium": "E",
+    "year": "2026",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC)",
+    "status": "published"
+  },
+  {
+    "id": "043-2026-M",
+    "paperCode": "043/2026 M",
+    "post": "Special Branch Asst, Excise Inspector, SI of Police, Assistant, Junior",
+    "categoryCode": "017/2025, 187/2025, 188/2025, 221/2025, 269/2025, 382/2025, 383/2025, 446/2025",
+    "date": "02-May-2026",
+    "medium": "M",
+    "year": "2026",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — uploaded 18-06-2026",
+    "status": "published"
   }
 ]
