@@ -1213,5 +1213,23 @@
     "date": "26-Feb-2022",
     "medium": "M",
     "year": "2022"
+  },
+  {
+    "id": "023-2022-M",
+    "paperCode": "023/2022 M",
+    "post": "Office Superintendent (SR for SC/ST) (Plus 2 Level Main Examination)",
+    "date": "21-Feb-2022",
+    "medium": "M",
+    "year": "2022",
+    "categoryCode": ""
+  },
+  {
+    "id": "136-2021-M",
+    "paperCode": "136/2021 M",
+    "post": "Village Extension Officer (Up to SSLC Level- Main Exam) - Rural Development",
+    "date": "27-Dec-2021",
+    "medium": "M",
+    "year": "2021",
+    "categoryCode": ""
   }
 ]
