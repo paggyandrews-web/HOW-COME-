@@ -33,18 +33,89 @@ function renderWithUnderlines(line) {
   })
 }
 
+/* Some archived PSC papers (mostly Maths / Mental Ability grids and GK
+   "match the following" questions) were transcribed with a raw markdown-style
+   table embedded in questionText — rows of "cell | cell | cell", sometimes
+   with a "| :--- | :--- |" header-separator line. Left alone, that just prints
+   as literal pipe characters. Detect those lines and render a real table. */
+function isTableSeparatorRow(cells) {
+  return cells.length > 0 && cells.every(c => /^:?-{2,}:?$/.test(c.trim()))
+}
+
+function splitTableRow(line) {
+  let cells = line.split('|').map(c => c.trim())
+  if (cells.length && cells[0] === '') cells = cells.slice(1)
+  if (cells.length && cells[cells.length - 1] === '') cells = cells.slice(0, -1)
+  return cells
+}
+
+function TableBlock({ lines }) {
+  const rows = lines.map(splitTableRow)
+  // A markdown table has its separator row ("| :--- | :--- |") immediately
+  // after the header. Plain number grids (no header) never have one.
+  const hasHeader = rows.length > 1 && isTableSeparatorRow(rows[1])
+  const headerRow = hasHeader ? rows[0] : null
+  const bodyRows = hasHeader ? rows.slice(2) : rows
+
+  return (
+    <table className="my-2" style={{ borderCollapse: 'collapse', fontSize: 14 }}>
+      {headerRow && (
+        <thead>
+          <tr>
+            {headerRow.map((cell, i) => (
+              <th key={i} className="text-left font-bold"
+                style={{ border: '1px solid var(--border)', padding: '4px 10px', background: 'var(--bg2)' }}>
+                {renderWithUnderlines(cell)}
+              </th>
+            ))}
+          </tr>
+        </thead>
+      )}
+      <tbody>
+        {bodyRows.map((row, ri) => (
+          <tr key={ri}>
+            {row.map((cell, ci) => (
+              <td key={ci} style={{ border: '1px solid var(--border)', padding: '4px 10px' }}>
+                {renderWithUnderlines(cell)}
+              </td>
+            ))}
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  )
+}
+
 function QuestionText({ num, text }) {
-  const lines = String(text || '').split('\n')
+  const rawLines = String(text || '').split('\n')
+
+  // Group consecutive lines into "table" runs (any line containing '|') vs
+  // plain text runs, so a table embedded mid-question renders as a table
+  // while the surrounding instruction lines still render as normal text.
+  const blocks = []
+  rawLines.forEach(line => {
+    const type = line.includes('|') ? 'table' : 'text'
+    const last = blocks[blocks.length - 1]
+    if (last && last.type === type) last.lines.push(line)
+    else blocks.push({ type, lines: [line] })
+  })
+
   return (
     <div className="flex gap-2" style={{ fontFamily: "'Times New Roman', Times, serif", fontSize: 15 }}>
       {num != null && <span className="font-bold shrink-0 self-start">{num}.</span>}
       <div className="font-medium leading-relaxed">
-        {lines.map((line, i) => (
-          <span key={i}>
-            {i > 0 && <br />}
-            {renderWithUnderlines(line)}
-          </span>
-        ))}
+        {blocks.map((block, bi) => {
+          if (block.type === 'table') {
+            const tableLines = block.lines.filter(l => l.trim() !== '')
+            return tableLines.length ? <TableBlock key={bi} lines={tableLines} /> : null
+          }
+          return block.lines.map((line, li) => (
+            <span key={bi + '-' + li}>
+              {(bi > 0 || li > 0) && <br />}
+              {renderWithUnderlines(line)}
+            </span>
+          ))
+        })}
       </div>
     </div>
   )
