@@ -65,7 +65,7 @@ export default function Navbar() {
               <span style={{ color: '#ffffff' }}>COME</span>
               <span style={{ color: '#1a9d8e' }}>?</span>
             </div>
-            <div className="hidden md:block text-xs leading-tight whitespace-nowrap overflow-hidden text-ellipsis" style={{ color: 'rgba(255,255,255,0.4)' }}>
+            <div className="text-xs leading-tight whitespace-nowrap overflow-hidden text-ellipsis" style={{ color: 'rgba(255,255,255,0.4)' }}>
               Every failure is a lesson.
             </div>
           </div>
