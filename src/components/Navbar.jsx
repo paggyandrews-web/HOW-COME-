@@ -56,9 +56,9 @@ export default function Navbar() {
       }}
       className="z-50"
     >
-      <div className="max-w-5xl mx-auto px-4 min-h-14 py-2 flex items-center justify-between">
+      <div className="max-w-6xl mx-auto px-4 min-h-14 py-2 flex items-center justify-between">
         {/* Logo */}
-        <Link to="/" className="flex items-center gap-2 min-w-0 shrink">
+        <Link to="/" className="flex items-center gap-2 min-w-0 shrink-0">
           <img src="/logo.png" alt="HOW COME?" className="h-10 w-10 rounded-full object-contain shrink-0" />
           <div className="min-w-0 overflow-hidden">
             <div className="leading-tight whitespace-nowrap overflow-hidden text-ellipsis" style={{ fontFamily: "'Sifonn', sans-serif", fontSize: '1.25rem', letterSpacing: '0.03em' }}>
@@ -66,19 +66,19 @@ export default function Navbar() {
               <span style={{ color: '#ffffff' }}>COME</span>
               <span style={{ color: '#1a9d8e' }}>?</span>
             </div>
-            <div className="text-xs leading-tight whitespace-nowrap overflow-hidden text-ellipsis" style={{ color: 'rgba(255,255,255,0.4)' }}>
+            <div className="hidden md:block text-xs leading-tight whitespace-nowrap overflow-hidden text-ellipsis" style={{ color: 'rgba(255,255,255,0.4)' }}>
               Every failure is a lesson.
             </div>
           </div>
         </Link>
 
         {/* Nav links — hidden on mobile (BottomNav handles mobile nav) */}
-        <div className="hidden sm:flex items-center gap-1 sm:gap-4 shrink-0">
+        <div className="hidden sm:flex items-center gap-1 sm:gap-2 lg:gap-4 shrink-0">
           {navLinks.map(link => (
             <Link
               key={link.to}
               to={link.to}
-              className="px-2 sm:px-3 py-1 rounded text-sm font-medium transition-colors"
+              className="px-1.5 sm:px-2 lg:px-3 py-1 rounded text-sm font-medium transition-colors"
               style={{
                 color: isActive(link.to) ? '#1a9d8e' : '#888888',
                 background: isActive(link.to) ? '#111111' : 'transparent',

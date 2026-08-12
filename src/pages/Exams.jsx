@@ -454,16 +454,10 @@ export default function Exams() {
             </div>
           </>
         ) : (
-          <>
-            <div className="flex-1 card rounded-xl p-3">
-              <div className="font-bold text-lg" style={{ color: accent }}>{confirmCalendar.length}</div>
-              <div className="text-xs" style={{ color: 'var(--text2)' }}>Open to confirm</div>
-            </div>
-            <div className="flex-1 card rounded-xl p-3">
-              <div className="font-bold text-lg" style={{ color: accent }}>{examCalendar.length}</div>
-              <div className="text-xs" style={{ color: 'var(--text2)' }}>Total Exams</div>
-            </div>
-          </>
+          <div className="flex-1 card rounded-xl p-3">
+            <div className="font-bold text-lg" style={{ color: accent }}>{confirmCalendar.length}</div>
+            <div className="text-xs" style={{ color: 'var(--text2)' }}>Open to confirm</div>
+          </div>
         )}
       </div>
 
