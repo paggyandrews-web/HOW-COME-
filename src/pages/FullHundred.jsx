@@ -17,19 +17,59 @@ const NEGATIVE_MARK = 1 / 3
 // paper with any deleted question could never reach 100% attempted/completed.
 const SCOREABLE_FULL_QUESTIONS = fullQuestions.filter(q => q.status !== 'deleted')
 
+/* Printed PSC papers set fractions as a stacked numerator/denominator (see
+   Maths / Mental Ability questions like "7/9" or the mixed number "16 2/3%").
+   Archived plain-text transcriptions instead wrote them inline as "7/9" or
+   "16(2/3)%", which reads far worse than the original. Detect three shapes —
+   a whole number glued to a parenthesized fraction ("16(2/3)"), a whole
+   number + space + fraction ("10 10/11"), and a bare fraction ("7/9") — and
+   render each as a real stacked fraction instead of raw slash text. */
+const FRACTION_RE = /(\d+)\((\d+)\/(\d+)\)|(\d+)\s(\d+)\/(\d+)\b|(\d+)\/(\d+)/g
+
+function Frac({ n, d }) {
+  return (
+    <span className="inline-flex flex-col items-center mx-0.5" style={{ verticalAlign: '-0.35em', lineHeight: 1 }}>
+      <span style={{ fontSize: '0.72em', padding: '0 2px' }}>{n}</span>
+      <span style={{ borderTop: '1.2px solid currentColor', width: '100%' }} />
+      <span style={{ fontSize: '0.72em', padding: '0 2px' }}>{d}</span>
+    </span>
+  )
+}
+
+function renderMathText(str, keyPrefix) {
+  const re = new RegExp(FRACTION_RE)
+  const nodes = []
+  let last = 0, m, k = 0
+  while ((m = re.exec(str)) !== null) {
+    if (m.index > last) nodes.push(str.slice(last, m.index))
+    if (m[1] !== undefined) {
+      nodes.push(<span key={keyPrefix + '-f' + (k++)}>{m[1]}<Frac n={m[2]} d={m[3]} /></span>)
+    } else if (m[4] !== undefined) {
+      nodes.push(<span key={keyPrefix + '-f' + (k++)}>{m[4]} <Frac n={m[5]} d={m[6]} /></span>)
+    } else {
+      nodes.push(<Frac key={keyPrefix + '-f' + (k++)} n={m[7]} d={m[8]} />)
+    }
+    last = re.lastIndex
+  }
+  if (last < str.length) nodes.push(str.slice(last))
+  return nodes
+}
+
 /* Same \n / __underline__ convention used elsewhere in the app, so a paper
-   transcribed with multi-line (i/ii/iii sub-items) questions renders correctly. */
+   transcribed with multi-line (i/ii/iii sub-items) questions renders
+   correctly — plus fraction detection (above) inside both plain and
+   underlined text. */
 function renderWithUnderlines(line) {
-  const parts = line.split(/(__[^_]+__)/)
+  const parts = String(line || '').split(/(__[^_]+__)/)
   return parts.map((part, i) => {
     if (part.startsWith('__') && part.endsWith('__')) {
       return (
         <span key={i} style={{ textDecoration: 'underline', textUnderlineOffset: 3, color: 'var(--accent)' }}>
-          {part.slice(2, -2)}
+          {renderMathText(part.slice(2, -2), 'u' + i)}
         </span>
       )
     }
-    return <span key={i}>{part}</span>
+    return <span key={i}>{renderMathText(part, 'p' + i)}</span>
   })
 }
 
@@ -530,7 +570,7 @@ function ExamScreen({ paper, questions, onSubmit, initial }) {
                 className="text-left rounded-lg px-3 py-2.5 text-sm flex gap-2"
                 style={{ background: bg, border: '1px solid ' + bd, color: 'var(--text)', cursor: (revealed || isDeleted) ? 'default' : 'pointer' }}>
                 <span className="font-bold shrink-0" style={{ color: lc }}>({letter})</span>
-                <span>{q['option' + letter]}</span>
+                <span>{renderWithUnderlines(q['option' + letter])}</span>
                 {revealed && isRight && <span className="ml-auto shrink-0" style={{ color: 'var(--accent-green)' }}>✓</span>}
                 {revealed && chosen && !isRight && <span className="ml-auto shrink-0" style={{ color: '#ef4444' }}>✗</span>}
               </button>
@@ -736,7 +776,7 @@ function ResultScreen({ paper, questions, answers, timeTaken, onRetake, onExit }
                       style={{ color: isCorrect ? 'var(--accent-green)' : isChosen ? '#ef4444' : 'var(--text2)' }}>
                       ({letter})
                     </span>
-                    <span>{q['option' + letter]}</span>
+                    <span>{renderWithUnderlines(q['option' + letter])}</span>
                     {isCorrect && <span className="ml-auto shrink-0" style={{ color: 'var(--accent-green)' }}>✓</span>}
                     {isChosen && !isCorrect && <span className="ml-auto shrink-0" style={{ color: '#ef4444' }}>✗</span>}
                   </div>
