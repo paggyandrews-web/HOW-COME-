@@ -1255,5 +1255,22 @@
     "date": "08-Dec-2021",
     "medium": "M",
     "year": "2021"
+  },
+  {
+    "id": "125-2021-M",
+    "paperCode": "125/2021 M",
+    "post": "Medical Photographer - Medical Education",
+    "date": "06-Dec-2021",
+    "medium": "M",
+    "year": "2021"
+  },
+  {
+    "id": "124-2021-TM",
+    "paperCode": "124/2021",
+    "post": "LD Clerk (Tamil & Malayalam knowing) - Various",
+    "date": "28-Nov-2021",
+    "medium": "TM",
+    "year": "2021",
+    "categoryCode": "470/2019, 523/2020"
   }
 ]
