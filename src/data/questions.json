@@ -30436,5 +30436,545 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Intelligent — \"ബുദ്ധിശക്തിയുള്ള\" എന്നർത്ഥം, ഇത് 'affluent' (സാമ്പത്തിക അവസ്ഥ)-മായി ബന്ധമില്ല.\n• 🪤 PSC Trap: അപ്രസക്തമായ വാക്ക്, confuse ചെയ്യാൻ വേണ്ടി മാത്രം.\n• (C) Stupid — \"ബുദ്ധിശൂന്യമായ\" എന്നർത്ഥം, ഇതും സാമ്പത്തിക അവസ്ഥയുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'Intelligent'-ന്റെ വിപരീതമായി തോന്നിക്കുമെങ്കിലും ചോദ്യത്തിന്റെ വാക്കുമായി (affluent) ബന്ധമില്ല.\n• (D) None of these — ശരിയായ ഉത്തരം (B) നിലവിലുള്ളതിനാൽ തെറ്റ്.\n• 🪤 PSC Trap: Distractor option.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"AFFLUENT sounds like 'FLOW of money' — its opposite is POOR, no money flow!\"\n• Word family: affluent/wealthy/prosperous ↔ poor/needy — ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: antonym ചോദ്യങ്ങളിൽ വാക്കിന്റെ domain (money/intelligence/emotion) ആദ്യം തിരിച്ചറിഞ്ഞ്, അതേ domain-ലെ വിപരീതം മാത്രം തിരയുക."
     }
+  },
+  {
+    "id": "128-2021-M-Q61",
+    "paperId": "128-2021-M",
+    "questionNumber": 61,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Choose the appropriate verb to fill in the blank.\nEvery boy and every girl _____ given a packet of chocolates.",
+    "optionA": "was",
+    "optionB": "were",
+    "optionC": "are",
+    "optionD": "has",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) was\n\n• 'Every boy and every girl' എന്നത് 'and' കൊണ്ട് ചേർത്തിരിക്കുന്നെങ്കിലും, 'every' എന്ന word ഓരോ ആളെയും individually refer ചെയ്യുന്നു — അതായത് 'each one, separately' എന്നർഥം.\n• അതുകൊണ്ട് ഇത് grammatically ഒരു Singular Subject ആയാണ് കണക്കാക്കുന്നത്, verb-ഉം singular ആയിരിക്കണം.\n• Subject past tense-ൽ ആയതിനാൽ 'was' ആണ് ശരിയായ ഉത്തരം — 'were' അല്ല.\n• PSC-യിൽ ഈ 'every/each + and' pattern വളരെ common ആണ്, careful ആയി ശ്രദ്ധിക്കുക.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Every/Each + Noun and Noun → Singular Verb\n• 'Every', 'each', 'either', 'neither' എന്നീ words subject-നെ individually consider ചെയ്യുന്നതിനാൽ, 'and' കൊണ്ട് ചേർത്താലും verb എപ്പോഴും Singular ആയിരിക്കും.\n• Related word group: every, each, everybody, everyone, everything — ഇവയെല്ലാം Singular verb എടുക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: Subject-Verb Agreement PSC പരീക്ഷകളിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. Every man and every woman was present at the meeting.\n2. Each boy and each girl has a book.\n3. Every teacher and every student was happy with the result.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) were\n  • 'And' കണ്ട് ഇത് plural subject ആണെന്ന് തെറ്റിദ്ധരിച്ചാൽ ഈ ഉത്തരം തിരഞ്ഞെടുക്കും.\n  • 🪤 PSC Trap: 'Every...and every...' കാണുമ്പോൾ automatic ആയി plural verb select ചെയ്യുന്നത് ഒഴിവാക്കുക — ഇതാണ് PSC ഇവിടെ വെച്ച trap.\n\n• (C) are\n  • Present tense verb ആണ്; sentence-ന്റെ context past ആയതിനാൽ ഇത് ചേരില്ല.\n\n• (D) has\n  • 'Has' ഒരു auxiliary verb ആണ്, ഇവിടെ 'given' എന്ന Past participle-നൊപ്പം passive voice-ന് 'was/were' തന്നെ വേണം, 'has' ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Every' ഒറ്റയാനാണ് — 'Every' comes alone, so verb should stand alone (Singular)!\n• Word family to learn together: every, each, everybody, everyone, everything, anybody, somebody — എല്ലാം Singular verb എടുക്കുന്നു.\n• PSC exam strategy: Question-ൽ 'every' അല്ലെങ്കിൽ 'each' കണ്ടാൽ ഉടനെ Singular verb-നായി നോക്കുക, 'and' ന്റെ കാര്യം ignore ചെയ്യുക."
+    }
+  },
+  {
+    "id": "128-2021-M-Q62",
+    "paperId": "128-2021-M",
+    "questionNumber": 62,
+    "topic": "Articles",
+    "questionText": "Fill in the blank with the appropriate article.\n_____ banyan is a kind of fig tree.",
+    "optionA": "An",
+    "optionB": "The",
+    "optionC": "A",
+    "optionD": "None of the above",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) The\n\n• 'Banyan' എന്നത് ഒരു specific, well-known tree species ആണ് — അതുകൊണ്ട് definite article 'The' ആണ് ഉപയോഗിക്കേണ്ടത്.\n• Species/class-നെ പൊതുവായി refer ചെയ്യുമ്പോൾ (generic reference) 'The + singular noun' എന്ന pattern ഉപയോഗിക്കാം — 'The banyan is a kind of fig tree' എന്നത് ഒരു generic statement ആണ്.\n• 'A/An' ഉപയോഗിച്ചാൽ 'ഏതെങ്കിലും ഒരു banyan tree' എന്ന് മാത്രമേ അർഥം വരൂ, ഇവിടെ ഉദ്ദേശിക്കുന്നത് 'ബന്യൻ എന്ന species' ആണ്.\n• 🔑 ഈ pattern ('The + singular noun for a whole species') PSC-യിൽ പലപ്പോഴും ചോദിക്കാറുണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: The + Singular Noun = Whole species/class-നെ represent ചെയ്യാൻ\n• Definite article 'The' ഒരു class/species-നെ പൊതുവായി പറയാൻ ഉപയോഗിക്കാം. ഉദാ: The cow, The tiger, The banyan.\n• Related word group: The dog is a loyal animal / The rose is a beautiful flower — ഇതേ pattern.\n• ⭐ PSC ആവർത്തനം: Articles topic PSC English section-ൽ almost എല്ലാ പേപ്പറിലും ഒരു question എങ്കിലും ഉണ്ടാകും.\n• ഉദാഹരണ sentences:\n1. The elephant is the largest land animal.\n2. The rose is called the queen of flowers.\n3. The banyan tree gives wide shade.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) An\n  • 'An' ഒരു single, unspecified item-നെ മാത്രമേ refer ചെയ്യൂ, species-നെ പൊതുവായി പറയാൻ ചേരില്ല.\n  • 🪤 PSC Trap: 'Banyan' vowel sound-ൽ തുടങ്ങുന്നില്ല എന്നത് ശ്രദ്ധിക്കുക — 'b' consonant sound ആണ്, അതുകൊണ്ട് 'An' ഒരിക്കലും ശരിയാകില്ല.\n\n• (C) A\n  • Indefinite article ആയതിനാൽ ഒരു generic/specific species reference-ന് ചേരില്ല.\n\n• (D) None of the above\n  • Article ആവശ്യമുള്ള സ്ഥലത്ത് article ഇല്ലാതെ വിടാൻ പറ്റില്ല, അതുകൊണ്ട് ഈ option തെറ്റാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'The Tree family' — The banyan, The mango, The neem — species പറയുമ്പോൾ എപ്പോഴും 'The'!\n• Word family: The + animal/plant/species names ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Sentence ഒരു 'general truth about a species/class' ആണെങ്കിൽ 'The' ആണ് മിക്കവാറും ശരിയായ ഉത്തരം."
+    }
+  },
+  {
+    "id": "128-2021-M-Q63",
+    "paperId": "128-2021-M",
+    "questionNumber": 63,
+    "topic": "Direct and Indirect Speech",
+    "questionText": "Report the given sentence and choose the correct option.\nHe said to me, \"Please help me.\"",
+    "optionA": "He told me if I could help him",
+    "optionB": "He said to me that I help him",
+    "optionC": "He told me please help him",
+    "optionD": "He requested me to help him",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) He requested me to help him\n\n• Direct speech-ൽ 'please help me' എന്നത് ഒരു Request (അപേക്ഷ) ആണ് — command അല്ല.\n• Requests-നെ Indirect speech-ലേക്ക് മാറ്റുമ്പോൾ reporting verb 'said' ➝ 'requested' ആയി മാറും, 'to + V1' structure ഉപയോഗിക്കും.\n• 'Please' എന്ന word ഉണ്ടെങ്കിൽ അത് സാധാരണ Request ആണെന്ന് സൂചിപ്പിക്കുന്നു — command-ന് 'ordered/told' ഉപയോഗിക്കും.\n• Pronoun 'me' ➝ 'him' ആയി മാറും (speaker മൂന്നാമതൊരാളെ പറ്റി പറയുമ്പോൾ).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Please + Imperative → Requested + Object + to + V1\n• Imperative sentences reported speech-ലേക്ക് മാറ്റുമ്പോൾ: Command → 'ordered/told + to+V1'; Request (please) → 'requested + to+V1'; Advice → 'advised + to+V1'.\n• Related word group: told, ordered, requested, advised, warned, forbade — എല്ലാം imperative reporting verbs ആണ്.\n• ⭐ PSC ആവർത്തനം: Direct-Indirect speech conversion PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന topic ആണ്, especially imperative sentences.\n• ഉദാഹരണ sentences:\n1. He said to me, \"Please open the door.\" → He requested me to open the door.\n2. She said to him, \"Please wait for me.\" → She requested him to wait for her.\n3. The teacher said to the students, \"Please be quiet.\" → The teacher requested the students to be quiet.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) He told me if I could help him\n  • 'If' Yes/No questions report ചെയ്യുമ്പോൾ ഉപയോഗിക്കുന്നതാണ്, ഇവിടെ ഇത് ഒരു request ആണ്, question അല്ല.\n  • 🪤 PSC Trap: 'If/whether' കണ്ടാൽ ചിലർ confuse ആകും — ഇത് Yes/No Question-നു മാത്രമേ ചേരൂ.\n\n• (B) He said to me that I help him\n  • Direct speech quotes നിലനിർത്തിയത് തെറ്റാണ്; 'that' clause statements-ന് ഉപയോഗിക്കും, request-ന് 'to+V1' structure വേണം.\n\n• (C) He told me please help him\n  • Direct speech-ലെ 'please' അതേപടി നിലനിർത്തിയത് തെറ്റാണ് — Indirect speech-ൽ quotation marks/'please' നീക്കം ചെയ്യണം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Please ➝ Requested please!' — 'please' കണ്ടാൽ ഉടനെ 'requested + to' ഓർക്കുക.\n• Word family: told (command), requested (please), advised (suggestion), warned (danger) — ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Imperative sentence-ൽ 'please' ഉണ്ടെങ്കിൽ 'requested' ആണ് answer എന്ന് ഉടനെ mark ചെയ്യുക."
+    }
+  },
+  {
+    "id": "128-2021-M-Q64",
+    "paperId": "128-2021-M",
+    "questionNumber": 64,
+    "topic": "Active and Passive Voice",
+    "questionText": "Choose the passive form of the given sentence.\nI know him.",
+    "optionA": "I have known him",
+    "optionB": "He is known to me",
+    "optionC": "He knows me",
+    "optionD": "I knew him",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) He is known to me\n\n• 'I know him' എന്നത് Simple Present tense ആണ് (Subject + V1 + Object).\n• Passive voice-ലേക്ക് മാറ്റുമ്പോൾ Object ('him') Subject ആകും, Verb 'am/is/are + V3' രൂപത്തിലാകും.\n• 'Know' എന്ന verb-ന്റെ Past Participle 'known' ആണ്, subject 'He' ആയതിനാൽ 'is' ഉപയോഗിക്കണം.\n• 'Know' പോലുള്ള stative verbs-ന്റെ Passive-ൽ 'by' നു പകരം സാധാരണ 'to' ഉപയോഗിക്കും — 'known to me'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Active Tense = Passive Tense — എപ്പോഴും!\n• Simple Present Active (Subject+V1+Object) → Simple Present Passive (Object+am/is/are+V3+by/to+Subject).\n• Related word group: know→known, see→seen, understand→understood — stative verbs.\n• ⭐ PSC ആവർത്തനം: Active-Passive conversion ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന grammar topic-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. I know her. → She is known to me.\n2. He loves music. → Music is loved by him.\n3. We understand the problem. → The problem is understood by us.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) I have known him\n  • ഇത് Present Perfect Active ആണ്, tense തന്നെ മാറിപ്പോയി — Passive അല്ല.\n  • 🪤 PSC Trap: Subject 'I' തന്നെ നിലനിർത്തിയത് ശ്രദ്ധിക്കുക, Passive-ൽ Object subject ആകണം.\n\n• (C) He knows me\n  • ഇത് വേറൊരു Active sentence ആണ് (meaning തന്നെ മാറി), Passive അല്ല.\n\n• (D) I knew him\n  • ഇത് Simple Past Active ആണ്, tense മാറി, Passive structure ഇല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Object മുന്നിൽ വരും, Subject പിന്നിൽ പോകും' — Passive-ൽ ക്രമം മാറും എന്ന് ഓർക്കുക.\n• Word family: know-known, see-seen, do-done — Past Participle list പഠിക്കുക.\n• PSC exam strategy: Active-Passive question കണ്ടാൽ ആദ്യം tense identify ചെയ്യുക, എന്നിട്ട് Object-നെ Subject ആക്കി V3 ഉപയോഗിക്കുക."
+    }
+  },
+  {
+    "id": "128-2021-M-Q65",
+    "paperId": "128-2021-M",
+    "questionNumber": 65,
+    "topic": "Question Tags",
+    "questionText": "Choose the appropriate question tag to complete the sentence.\nI am working hard, __________?",
+    "optionA": "amn't I?",
+    "optionB": "aren't I?",
+    "optionC": "am I?",
+    "optionD": "isn't it?",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) aren't I?\n\n• Statement 'I am working hard' Positive ആണ്, അതുകൊണ്ട് Tag Negative ആയിരിക്കണം.\n• 'Am' എന്ന verb-ന്റെ Negative Tag-ന് grammatically 'am not I?' ശരിയാണെങ്കിലും, spoken/standard English-ൽ ഇത് ഉപയോഗിക്കാറില്ല — പകരം special exception ആയി 'aren't I?' ഉപയോഗിക്കുന്നു.\n• ഇത് ഒരു Irregular/Exception rule ആണ്, PSC-യിൽ പലപ്പോഴും ചോദിക്കും.\n• 'Amn't I' ചില British dialects-ൽ കാണാമെങ്കിലും Standard English-ൽ ഇത് accepted അല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: I am + Positive → aren't I? (Exception rule!)\n• Positive statement-ന് Negative tag, Negative statement-ന് Positive tag എന്നതാണ് പൊതു നിയമം.\n• Related word group: 'I am' ന്റെ tag എപ്പോഴും 'aren't I?' ആണ് — ഇത് ഒരു fixed exception ആണ്, ഓർത്തിരിക്കുക.\n• ⭐ PSC ആവർത്തനം: Question Tags ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന PSC topic-കളിൽ ഒന്നാണ്, ഈ 'I am → aren't I' exception പല തവണ ചോദിച്ചിട്ടുണ്ട്.\n• ഉദാഹരണ sentences:\n1. I am late, aren't I?\n2. I am your friend, aren't I?\n3. I am not wrong, am I?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) amn't I?\n  • Standard English-ൽ ഗ്രാമർ ശരിയായി തോന്നിയാലും ഇത് ഉപയോഗിക്കാറില്ല — Non-standard ആണ്.\n  • 🪤 PSC Trap: Logical ആയി തോന്നുന്ന ഈ option തിരഞ്ഞെടുക്കാൻ students misled ആകും, പക്ഷേ ഇത് exam-ൽ accept ചെയ്യില്ല.\n\n• (C) am I?\n  • Positive statement-ന് Positive tag ചേരില്ല — നിയമപ്രകാരം തെറ്റ്.\n\n• (D) isn't it?\n  • ഇത് 'it' subject-ന് ഉപയോഗിക്കുന്ന tag ആണ്, ഇവിടെ subject 'I' ആണ്, 'it' അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'I am, aren't I am' — song പോലെ ഓർത്തിരുന്നാൽ ഒരിക്കലും miss ആകില്ല!\n• Word family: I am→aren't I; You are→aren't you; He is→isn't he — tag family ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: 'I am' കണ്ടാൽ ഉടനെ 'aren't I?' ഓർക്കുക — guaranteed mark!"
+    }
+  },
+  {
+    "id": "128-2021-M-Q66",
+    "paperId": "128-2021-M",
+    "questionNumber": 66,
+    "topic": "Spelling",
+    "questionText": "Choose the correctly spelt word.",
+    "optionA": "pronounciation",
+    "optionB": "pronunsiation",
+    "optionC": "pronunciation",
+    "optionD": "pronounsiation",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) pronunciation\n\n• 'Pronunciation' എന്ന word 'pronounce' എന്ന verb-ൽ നിന്നാണ് വരുന്നത്, പക്ഷേ noun form-ൽ 'o' ഇല്ല — ഇത് പലരും തെറ്റിക്കുന്ന ഒരു spelling ആണ്.\n• Root: Latin 'pronuntiare' (to proclaim) → pronunciation.\n• Verb 'pronounce' ➝ Noun 'pronunciation' എന്ന spelling change ശ്രദ്ധിക്കുക — 'ou' 'u' ആയി മാറും.\n• Correct spelling: p-r-o-n-u-n-c-i-a-t-i-o-n.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: pronounce (verb) → pronunciation (noun) — 'ou' മാറി 'u' ആകും!\n• ഇത് ഒരു irregular noun-formation ആണ്, most verbs 'e' ചേർത്ത് noun ആക്കുമെങ്കിലും ഇവിടെ spelling തന്നെ മാറും.\n• Related word group: announce-announcement (regular), denounce-denunciation, renounce-renunciation — ഇതേ pattern.\n• ⭐ PSC ആവർത്തനം: Spelling questions PSC-യിൽ എല്ലാ പേപ്പറിലും ഉണ്ടാകും, 'pronunciation' ഒരു favourite trap word ആണ്.\n• ഉദാഹരണ sentences:\n1. Her pronunciation of English words is excellent.\n2. Correct pronunciation helps in clear communication.\n3. He practiced the pronunciation of difficult words.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) pronounciation\n  • Verb 'pronounce'-ലെ spelling അതേപടി noun-ലേക്ക് കൊണ്ടുവന്നതാണ് ഈ തെറ്റ്.\n  • 🪤 PSC Trap: ഇത് ഏറ്റവും കൂടുതൽ പേർ തിരഞ്ഞെടുക്കുന്ന തെറ്റായ spelling ആണ് — verb spelling-ൽ നിന്ന് guess ചെയ്യരുത്.\n\n• (B) pronunsiation\n  • 'ci' യ്ക്ക് പകരം 'si' ഉപയോഗിച്ചത് തെറ്റാണ്; 'tion/cian/cial' word-കളിൽ 'ci' ആണ് standard.\n\n• (D) pronounsiation\n  • ഇത് രണ്ട് തെറ്റുകളും (ou + si) ചേർന്ന combination ആണ്, ഏറ്റവും തെറ്റായ spelling.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'PRO-NUN-CI-ATION' — 'nun' ഒരു NUN (കന്യാസ്ത്രീ) ആണെന്ന് ഓർത്താൽ spelling മറക്കില്ല, 'ou' ഇല്ല!\n• Word family: denounce-denunciation, renounce-renunciation, announce-announcement — verb-noun spelling changes ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Spelling questions-ൽ familiar-ആയി തോന്നുന്ന word തിരഞ്ഞെടുക്കാതെ, letter by letter ശ്രദ്ധയോടെ പരിശോധിക്കുക."
+    }
+  },
+  {
+    "id": "128-2021-M-Q67",
+    "paperId": "128-2021-M",
+    "questionNumber": 67,
+    "topic": "One Word Substitutes",
+    "questionText": "Choose the one-word substitute for the following phrase.\n__A person who undergoes training in any trade or occupation.__",
+    "optionA": "A candidate",
+    "optionB": "A fellow",
+    "optionC": "An apprentice",
+    "optionD": "An examiner",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) An apprentice\n\n• 'Apprentice' എന്നാൽ ഒരു trade-ലോ occupation-ലോ training നേടുന്ന ആൾ എന്നാണ് അർഥം.\n• Root: Old French 'aprendre' (to learn) — 'apprehend, apprentice' ഇവ ഒരേ root-ൽ നിന്ന് വരുന്നു.\n• PSC one-word-substitute questions-ൽ ഇത് ഒരു favourite word ആണ്.\n• 'Trainee' എന്ന word-മായി ഇതിന് അടുത്ത ബന്ധം ഉണ്ട്, പക്ഷേ 'apprentice' specific ആയി trade/craft learning-നെ സൂചിപ്പിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Person who learns a trade/occupation = Apprentice\n• One-word substitutes പഠിക്കുമ്പോൾ definition-ലെ key words ('trade', 'occupation', 'training') ശ്രദ്ധിക്കുക.\n• Related word group: apprentice (trainee in trade), novice (beginner), amateur (non-professional), veteran (experienced).\n• ⭐ PSC ആവർത്തനം: One Word Substitutes PSC English section-ൽ സ്ഥിരമായി ചോദിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. He joined as an apprentice in the workshop.\n2. The apprentice learned carpentry from the master craftsman.\n3. Apprentices are usually paid a small stipend during training.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) A candidate\n  • 'Candidate' എന്നാൽ ഒരു post-ന് apply ചെയ്യുന്ന/മത്സരിക്കുന്ന ആൾ ആണ്, training-മായി ബന്ധമില്ല.\n  • 🪤 PSC Trap: 'Training'-ഉം 'candidate'-ഉം (ഇന്റർവ്യൂ candidate) തമ്മിൽ students confuse ആകാറുണ്ട്.\n\n• (B) A fellow\n  • 'Fellow' എന്നാൽ ഒരു സഹപ്രവർത്തകൻ/സാധാരണ വ്യക്തി എന്നാണ്, ഇതിന് training-മായി ബന്ധമില്ല.\n\n• (D) An examiner\n  • 'Examiner' എന്നാൽ പരീക്ഷ നടത്തുന്ന/വിലയിരുത്തുന്ന ആൾ ആണ് — training നേടുന്ന ആൾ അല്ല, നേരെ വിപരീതം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'APPRENTICE = A-PRENTICE (learning a PRE-ntice/trade)' — training with a master, ഓർത്തിരുന്നാൽ guaranteed mark!\n• Word family: apprentice, trainee, novice, learner — ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: One-word substitute questions-ൽ definition-ലെ ഓരോ word-ഉം carefully read ചെയ്ത് exact match കണ്ടെത്തുക."
+    }
+  },
+  {
+    "id": "128-2021-M-Q68",
+    "paperId": "128-2021-M",
+    "questionNumber": 68,
+    "topic": "Idioms",
+    "questionText": "Find the appropriate meaning of the underlined idiom.\nWe are planning a surprise party for our son. Be careful not to __let the cat out of the bag__.",
+    "optionA": "Reveal a secret by mistake",
+    "optionB": "Do not make judgement",
+    "optionC": "We are gifting a cat",
+    "optionD": "Do not let the cat run away",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Reveal a secret by mistake\n\n• 'Let the cat out of the bag' എന്ന idiom-ന്റെ അർഥം അബദ്ധത്തിൽ ഒരു രഹസ്യം വെളിപ്പെടുത്തുക എന്നാണ്.\n• Sentence context: surprise party ആസൂത്രണം ചെയ്യുന്നു, secret ആയി വെക്കണം — അതുകൊണ്ട് 'careful not to reveal it by mistake' എന്ന അർഥമാണ് ഇവിടെ ചേരുന്നത്.\n• History: പഴയകാലത്ത് markets-ൽ pig-നു പകരം cat ഒരു bag-ൽ വെച്ച് വിൽക്കാൻ ശ്രമിക്കുന്ന fraud-നെ പറ്റിയാണ് ഈ idiom ഉണ്ടായത് — bag തുറന്നാൽ 'secret' (fraud) വെളിപ്പെടും.\n• PSC idiom questions-ൽ ഇത് ഒരു favourite idiom ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Let the cat out of the bag = Reveal a secret (accidentally)\n• Idioms-ന്റെ literal meaning അല്ല, figurative meaning ആണ് നോക്കേണ്ടത്.\n• Related word group: spill the beans (secret വെളിപ്പെടുത്തുക), keep under wraps (രഹസ്യമായി വെക്കുക) — ഇവയും similar meaning idioms ആണ്.\n• ⭐ PSC ആവർത്തനം: Idioms and Phrases PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന topic ആണ്, ഈ idiom മുൻപും വന്നിട്ടുണ്ട്.\n• ഉദാഹരണ sentences:\n1. Don't let the cat out of the bag about the surprise gift.\n2. He accidentally let the cat out of the bag about the merger.\n3. She almost let the cat out of the bag before the announcement.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) Do not make judgement\n  • ഈ idiom judgement-മായി ബന്ധപ്പെട്ടതല്ല, secret revealing ആണ് അർഥം.\n  • 🪤 PSC Trap: idiom-ലെ 'cat'/'bag' word-കൾ കണ്ട് വേറെ എന്തെങ്കിലും meaning guess ചെയ്യാൻ students misled ആകും.\n\n• (C) We are gifting a cat\n  • Idiom-ന്റെ literal meaning ('cat', 'bag') എടുത്ത് guess ചെയ്താൽ ഈ തെറ്റായ ഉത്തരം വരും — idioms literal ആയി വായിക്കരുത്.\n\n• (D) Do not let the cat run away\n  • ഇതും literal interpretation ആണ്, idiom-ന്റെ figurative meaning ('secret reveal ചെയ്യുക') അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Bag-ൽ ഒളിപ്പിച്ച secret cat പുറത്തുചാടുന്നത് visualize ചെയ്യുക — secret പുറത്തുവരുന്നു എന്ന ചിത്രം ഓർത്തിരുന്നാൽ miss ആകില്ല!\n• Word family: spill the beans, blow the whistle, give the game away — 'secret reveal' idioms ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Idiom questions-ൽ literal word meaning നോക്കാതെ, context-ൽ നിന്ന് figurative sense കണ്ടെത്തുക."
+    }
+  },
+  {
+    "id": "128-2021-M-Q69",
+    "paperId": "128-2021-M",
+    "questionNumber": 69,
+    "topic": "Words Often Confused",
+    "questionText": "Choose the word which best suits the blank.\nI ordered pineapple pudding for _____ after my dinner.",
+    "optionA": "desert",
+    "optionB": "dessert",
+    "optionC": "disert",
+    "optionD": "dissert",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) dessert\n\n• 'Dessert' എന്നാൽ ഭക്ഷണത്തിന് ശേഷം കഴിക്കുന്ന മധുരപലഹാരം (sweet dish after meal) എന്നാണ് അർഥം — 'pineapple pudding' ഒരു dessert ആണ്.\n• 'Desert' (noun, stress on 1st syllable) എന്നാൽ മരുഭൂമി; 'desert' (verb, stress on 2nd syllable) എന്നാൽ ഉപേക്ഷിക്കുക.\n• Spelling trick: Dessert-ന് രണ്ട് 's' ഉണ്ട് — Sweet things ന് 'S' കൂടുതൽ വേണം എന്ന് ഓർക്കുക.\n• Context 'after dinner' ഭക്ഷണം കഴിഞ്ഞ് കഴിക്കുന്ന sweet dish-നെ സൂചിപ്പിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: DeSSert (2 S's) = Sweet dish; DeSert (1 S) = Sandy place/to abandon\n• Words Often Confused topic-ൽ spelling-ലെ ചെറിയ വ്യത്യാസം ശ്രദ്ധിക്കണം.\n• Related word group: desert (noun-മരുഭൂമി), desert (verb-ഉപേക്ഷിക്കുക), dessert (sweet dish) — മൂന്നും വേറെ വേറെ meanings.\n• ⭐ PSC ആവർത്തനം: Words Often Confused PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന topic ആണ്, desert/dessert ഒരു classic pair ആണ്.\n• ഉദാഹരണ sentences:\n1. We had ice cream for dessert.\n2. The camel crossed the vast desert.\n3. Soldiers must never desert their post.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) desert\n  • ഇത് 'മരുഭൂമി' അല്ലെങ്കിൽ 'ഉപേക്ഷിക്കുക' എന്നാണ് അർഥം, sweet dish അല്ല.\n  • 🪤 PSC Trap: 'Desert'-ഉം 'dessert'-ഉം spelling-ൽ ഒരു letter മാത്രമേ വ്യത്യാസമുള്ളൂ, ഇത് PSC-യുടെ favourite trap ആണ്.\n\n• (C) disert\n  • ഇത് ശരിയായ English word അല്ല, spelling തന്നെ തെറ്റാണ്.\n\n• (D) dissert\n  • ഇതും ശരിയായ word അല്ല, 'dissertation'-മായി confuse ചെയ്ത ഒരു wrong spelling ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Sweet things need extra Sugar, extra S' — Dessert-ന് 2 S വേണം, Sweet ആയതുകൊണ്ട്!\n• Word family: desert (noun/verb), dessert (noun) — spelling difference ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Words Often Confused questions-ൽ context (ഭക്ഷണം/സ്ഥലം/പ്രവർത്തി) നോക്കി correct spelling തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "128-2021-M-Q70",
+    "paperId": "128-2021-M",
+    "questionNumber": 70,
+    "topic": "Antonyms",
+    "questionText": "Find the word opposite in meaning to 'Loquacious'.",
+    "optionA": "Liability",
+    "optionB": "Relevant",
+    "optionC": "Reticent",
+    "optionD": "Stale",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Reticent\n\n• 'Loquacious' എന്നാൽ വളരെ സംസാരിക്കുന്ന, അധികം സംസാരപ്രിയമായ എന്നാണ് അർഥം (talkative).\n• 'Reticent' എന്നാൽ മിതഭാഷിയായ, കുറച്ചു മാത്രം സംസാരിക്കുന്ന എന്നാണ് അർഥം — ഇത് 'loquacious'-ന്റെ നേരെ വിപരീതം.\n• Root: 'Loquacious' Latin 'loqui' (to speak) എന്നതിൽ നിന്നും; 'Reticent' Latin 'reticere' (to keep silent) എന്നതിൽ നിന്നും വരുന്നു.\n• PSC vocabulary questions-ൽ ഈ pair ഒരു favourite ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Loquacious (talkative) ↔ Reticent (silent/reserved)\n• Antonym questions-ൽ word-ന്റെ exact meaning അറിയാതെ guess ചെയ്യരുത്, root word നോക്കി മനസ്സിലാക്കുക.\n• Related word group: talkative, garrulous, voluble (loquacious-ന്റെ synonyms) vs reticent, taciturn, reserved (antonyms).\n• ⭐ PSC ആവർത്തനം: Antonyms/Synonyms PSC English section-ൽ എല്ലാ പേപ്പറിലും ഉണ്ടാകുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. He is loquacious, but his brother is reticent.\n2. The reticent old man rarely spoke at meetings.\n3. Her loquacious nature made her popular at parties.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Liability\n  • ഇത് 'ബാധ്യത' എന്നാണ് അർഥം, talkative-ന്റെ opposite അല്ല.\n  • 🪤 PSC Trap: അപരിചിതമായ word ആയതിനാൽ students ഇത് guess ചെയ്ത് തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.\n\n• (B) Relevant\n  • ഇത് 'പ്രസക്തമായ' എന്നാണ് അർഥം, talkative/silent-മായി ബന്ധമില്ല.\n\n• (D) Stale\n  • ഇത് 'പഴകിയ, freshness ഇല്ലാത്ത' എന്നാണ് അർഥം, loquacious-ന്റെ opposite അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Loquacious = LOTS of talking; Reticent = REST your tongue!' — rhyme ഓർത്താൽ miss ആകില്ല.\n• Word family: garrulous, voluble, talkative (loquacious synonyms) vs reticent, taciturn, reserved (antonyms) — ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Antonym questions-ൽ ആദ്യം root word-ന്റെ meaning ഉറപ്പിക്കുക, എന്നിട്ട് exact opposite തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "127-2021-M-Q81",
+    "paperId": "127-2021-M",
+    "questionNumber": 81,
+    "topic": "Question Tags",
+    "questionText": "You have got to arrive before ten, _____?",
+    "optionA": "didn't you?",
+    "optionB": "did you?",
+    "optionC": "haven't you?",
+    "optionD": "have you?",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) haven't you?\n\n• 'Have got to' എന്നത് 'have to' (നിർബന്ധം/obligation) എന്നർഥം വരുന്ന ഒരു Present Perfect structure ആണ്.\n• Question Tag ഉണ്ടാക്കുമ്പോൾ sentence-ലെ Auxiliary verb ('have') തന്നെയാണ് tag-ലും ഉപയോഗിക്കേണ്ടത്, അല്ലാതെ main verb ('arrive') അല്ല.\n• Statement Positive ആയതിനാൽ Tag Negative ആയിരിക്കണം — 'have' ➝ 'haven't'.\n• Subject 'You' ആയതിനാൽ Tag-ലും 'you' തന്നെ ഉപയോഗിക്കും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'Have got to/has got to' → Tag-ൽ 'have/has' തന്നെ ഉപയോഗിക്കുക\n• Sentence-ൽ Auxiliary verb ഉണ്ടെങ്കിൽ (have, has, is, are, can, will...) ആ Auxiliary തന്നെ Tag-ലും (negative/positive ആക്കി) ആവർത്തിക്കും.\n• Related word group: have got to, has got to, must, need to — Obligation സൂചിപ്പിക്കുന്ന structures.\n• ⭐ PSC ആവർത്തനം: Question Tags-ൽ 'have got to' pattern PSC-യിൽ ആവർത്തിച്ച് വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. You have got to finish this today, haven't you?\n2. She has got to leave early, hasn't she?\n3. They have got to submit the report, haven't they?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) didn't you?\n  • Simple Past tense-ന് ഉപയോഗിക്കുന്ന tag ആണ്, ഇവിടെ sentence Present Perfect ('have got to') ആണ്.\n  • 🪤 PSC Trap: 'arrive' എന്ന main verb കണ്ട് past tense ആണെന്ന് തെറ്റിദ്ധരിക്കരുത്.\n\n• (B) did you?\n  • Positive statement-ന് Positive tag ചേരില്ല, മാത്രമല്ല tense-ഉം തെറ്റാണ്.\n\n• (D) have you?\n  • Positive statement-ന് Positive tag ചേരില്ല — tag Negative ആയിരിക്കണം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Got to' എന്നാൽ 'Have'-നെ mind-ൽ hold ചെയ്യുക — tag-ലും 'have' തന്നെ വരും!\n• Word family: have got to, has got to, ought to, need to — Obligation modals ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Question Tag ചോദ്യങ്ങളിൽ sentence-ലെ Auxiliary verb ആദ്യം കണ്ടെത്തുക, main verb-നെ ആശ്രയിക്കരുത്."
+    }
+  },
+  {
+    "id": "127-2021-M-Q82",
+    "paperId": "127-2021-M",
+    "questionNumber": 82,
+    "topic": "Active and Passive Voice",
+    "questionText": "Change the following sentence to Passive Voice:\nLet them build a hospital here.",
+    "optionA": "Let them build hospital here",
+    "optionB": "Let a hospital be build here by them",
+    "optionC": "Let a hospital be built here by them",
+    "optionD": "Let them built a hospital here",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Let a hospital be built here by them\n\n• 'Let' കൊണ്ട് തുടങ്ങുന്ന Imperative sentences Passive ആക്കുമ്പോൾ structure: 'Let + Object + be + V3' എന്നാണ്.\n• 'Build' എന്ന verb-ന്റെ Past Participle 'built' ആണ് (build-built-built), 'build' അല്ല.\n• Object 'a hospital' Passive-ൽ Subject-സ്ഥാനത്ത് വരും, Agent 'by them' ചേർക്കും.\n• Spelling ശ്രദ്ധിക്കുക: 'be built' ആണ് ശരി, 'be build' തെറ്റാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Let + Object + Verb (Imperative) → Let + Object + be + V3 (Passive)\n• 'Let' Imperative sentences-ന്റെ Passive രൂപത്തിൽ 'be' + Past Participle ഉപയോഗിക്കും.\n• Related word group: build-built-built, make-made-made, do-done — Irregular verbs Past Participle.\n• ⭐ PSC ആവർത്തനം: Imperative sentences (Let/Please) Passive voice-ലേക്ക് മാറ്റുന്നത് PSC-യിൽ പതിവായി ചോദിക്കും.\n• ഉദാഹരണ sentences:\n1. Let them open the door. → Let the door be opened by them.\n2. Let her write the letter. → Let the letter be written by her.\n3. Let us build a school here. → Let a school be built here by us.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Let them build hospital here\n  • ഇത് Active voice തന്നെ ആണ്, ഒരു മാറ്റവും വരുത്തിയിട്ടില്ല — മാത്രമല്ല 'a' article ഇല്ലാതെ പോയി.\n  • 🪤 PSC Trap: മാറ്റം വരുത്താതെ അതേപടി ഉള്ള option ചിലപ്പോൾ students confuse ചെയ്യും.\n\n• (B) Let a hospital be build here by them\n  • 'Build' എന്ന Base Form ആണ് ഇവിടെ ഉപയോഗിച്ചത്, Past Participle 'built' വേണ്ടിടത്ത് — spelling/grammar തെറ്റ്.\n\n• (D) Let them built a hospital here\n  • ഇത് Active voice തന്നെ ആണ്, 'built' എന്ന Past tense form തെറ്റായി ചേർത്തിരിക്കുന്നു, Passive structure ('be + V3') ഇല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Let it BE + Past Participle' — 'Let it BE' പാട്ട് ഓർത്താൽ Passive structure മറക്കില്ല!\n• Word family: build-built-built, buy-bought-bought — Irregular verb forms ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: 'Let' Passive ചോദ്യങ്ങളിൽ 'be + V3' spelling correct ആണോ എന്ന് പ്രത്യേകം പരിശോധിക്കുക."
+    }
+  },
+  {
+    "id": "127-2021-M-Q83",
+    "paperId": "127-2021-M",
+    "questionNumber": 83,
+    "topic": "Auxiliary Verbs",
+    "questionText": "Which is the correct sentence?",
+    "optionA": "The children had better wear their coats",
+    "optionB": "You had better to consult a doctor",
+    "optionC": "The driver had better wore seat belt",
+    "optionD": "I had not better to be late",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) The children had better wear their coats\n\n• 'Had better' എന്നത് ഉപദേശം (advice) നൽകാൻ ഉപയോഗിക്കുന്ന ഒരു semi-modal expression ആണ്.\n• Structure: Subject + had better + V1 (base form) — 'to' ഉപയോഗിക്കില്ല.\n• 'Had better wear' ശരിയായ structure ആണ് — 'to wear' അല്ല, 'wore' അല്ല.\n• ഇത് 'should' എന്നതിനേക്കാൾ ശക്തമായ advice/warning ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Had better + V1 (NO 'to', NO past form!)\n• 'Had better' എപ്പോഴും Base Form (V1) വേണം, Infinitive ('to+V1') അല്ല, Past form അല്ല.\n• Related word group: would rather + V1, had better + V1 — Semi-modals without 'to'.\n• ⭐ PSC ആവർത്തനം: 'Had better' structure PSC Correction of Sentences-ൽ പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. You had better see a doctor.\n2. We had better leave now.\n3. He had better finish his homework.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) You had better to consult a doctor\n  • 'Had better'-ന് ശേഷം 'to' ഉപയോഗിക്കരുത് — ഇത് ഏറ്റവും common ആയ തെറ്റാണ്.\n  • 🪤 PSC Trap: 'to' ഇടാൻ തോന്നുന്ന natural tendency-യാണ് PSC-യുടെ trap.\n\n• (C) The driver had better wore seat belt\n  • 'Had better'-ന് ശേഷം Past form ('wore') തെറ്റാണ്, Base form ('wear') വേണം. കൂടാതെ 'a seat belt' എന്ന article ഇല്ല.\n\n• (D) I had not better to be late\n  • Negative form 'had better not + V1' ആണ് ശരി ('had not better' തെറ്റാണ്), കൂടാതെ 'to' ഉം അധികമായി ചേർത്തിരിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Had Better — No TO, No Bother!' — 'had better'-ന് ശേഷം 'to' വേണ്ട എന്ന് rhyme ആയി ഓർക്കുക.\n• Word family: had better + V1, would rather + V1, must + V1 — 'to' ഇല്ലാത്ത modal-like expressions ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: 'Had better' കണ്ടാൽ ഉടനെ 'to' ഇല്ലാത്തതും Base Form ഉള്ളതുമായ option തിരയുക."
+    }
+  },
+  {
+    "id": "127-2021-M-Q84",
+    "paperId": "127-2021-M",
+    "questionNumber": 84,
+    "topic": "Auxiliary Verbs",
+    "questionText": "You _____ wash those glasses. They are clean.",
+    "optionA": "wont",
+    "optionB": "daren't",
+    "optionC": "can't",
+    "optionD": "needn't",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) needn't\n\n• Sentence-ന്റെ അർഥം: ഗ്ലാസുകൾ clean ആയതിനാൽ, കഴുകേണ്ട ആവശ്യമില്ല — ഇത് 'lack of necessity' (ആവശ്യമില്ലായ്മ) ആണ്.\n• 'Needn't' എന്നത് 'don't need to' എന്നതിന്റെ modal രൂപമാണ്, 'no necessity' സൂചിപ്പിക്കാൻ ഉപയോഗിക്കും.\n• Context ('They are clean') ഇത് 'permission to not do' എന്ന അർഥമാണ് നൽകുന്നത്, prohibition ('can't', 'daren't') അല്ല.\n• Second sentence ('They are clean') ആണ് ഈ answer-ന്റെ key clue.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Needn't = No necessity (ആവശ്യമില്ല); Can't = No ability/permission (സാധ്യമല്ല); Daren't = No courage (ധൈര്യമില്ല)\n• Modal verbs-ന്റെ meaning context അനുസരിച്ച് മാറും — 'needn't' lack of necessity സൂചിപ്പിക്കുന്നു.\n• Related word group: needn't, don't need to, don't have to — 'no obligation' modals.\n• ⭐ PSC ആവർത്തനം: Modal verbs-ന്റെ correct usage PSC-യിൽ context-based questions ആയി വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. You needn't bring an umbrella; it's not raining.\n2. She needn't worry about the exam; she is well-prepared.\n3. We needn't hurry; we have plenty of time.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) wont\n  • 'Wont' എന്നത് 'will not'-ന്റെ correct spelling അല്ല ('won't' ആണ് ശരി), മാത്രമല്ല ഇവിടെ Future intention അല്ല context.\n  • 🪤 PSC Trap: spelling mistake ('wont' vs 'won't') ശ്രദ്ധിക്കാതെ students തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.\n\n• (B) daren't\n  • 'Daren't' എന്നാൽ 'ധൈര്യമില്ല' എന്നാണ് അർഥം, ഈ context-ന് ചേരില്ല — glasses clean ആയതിനാൽ ധൈര്യക്കുറവല്ല കാരണം.\n\n• (C) can't\n  • 'Can't' എന്നാൽ 'സാധ്യമല്ല/അനുവാദമില്ല' എന്നാണ്, ഇവിടെ meaning 'necessity ഇല്ല' എന്നതാണ് വേണ്ടത്, prohibition അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Clean ആണെങ്കിൽ, Need ഇല്ല!' — Needn't = No Need, context clue 'clean' ഓർക്കുക.\n• Word family: needn't, don't need to, don't have to — necessity ഇല്ലായ്മ സൂചിപ്പിക്കുന്ന modals ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Modal verb ചോദ്യങ്ങളിൽ context sentence (second sentence) ശ്രദ്ധയോടെ വായിച്ച് meaning കണ്ടെത്തുക."
+    }
+  },
+  {
+    "id": "127-2021-M-Q85",
+    "paperId": "127-2021-M",
+    "questionNumber": 85,
+    "topic": "Correction of Sentences",
+    "questionText": "Which part of the sentence has an error?\nThe Leader / has took / the responsibility / No error",
+    "optionA": "The Leader",
+    "optionB": "has took",
+    "optionC": "the responsibility",
+    "optionD": "No error",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) has took\n\n• 'Has' എന്ന Present Perfect Auxiliary-നൊപ്പം Past Participle ('taken') വേണം, Simple Past form ('took') അല്ല.\n• Present Perfect structure: has/have + V3 (Past Participle).\n• 'Take' എന്ന verb-ന്റെ forms: take-took-taken. 'Has took' എന്നത് 'has taken' ആയി തിരുത്തണം.\n• ഇത് ഒരു classic PSC error-spotting trap ആണ് — Present Perfect-ൽ Past tense form ഉപയോഗിക്കുന്ന തെറ്റ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Has/Have + V3 (Past Participle) — NEVER V2 (Past Simple)!\n• Present Perfect Tense-ൽ Auxiliary ('has/have')-നൊപ്പം എപ്പോഴും Past Participle (3rd form) ഉപയോഗിക്കണം.\n• Related word group: take-took-taken, go-went-gone, see-saw-seen — Irregular verb 3 forms മനഃപാഠമാക്കുക.\n• ⭐ PSC ആവർത്തനം: Error-spotting/Correction of Sentences-ൽ 'has/have + V2' തെറ്റ് PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന trap ആണ്.\n• ഉദാഹരണ sentences:\n1. He has taken the book. (Correct) — He has took the book. (Wrong)\n2. They have gone home. (Correct) — They have went home. (Wrong)\n3. She has seen the movie. (Correct) — She has saw the movie. (Wrong)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) The Leader\n  • Subject ഭാഗം ശരിയാണ്, ഇവിടെ error ഇല്ല.\n  • 🪤 PSC Trap: Error verb phrase-ൽ ആണ് എന്ന് അറിയാതെ വേറെ ഭാഗം select ചെയ്യാൻ students misled ആകും.\n\n• (C) the responsibility\n  • Object ഭാഗം ശരിയാണ്, ഇവിടെ grammatical error ഇല്ല.\n\n• (D) No error\n  • Sentence-ൽ 'has took' എന്ന clear error ഉള്ളതിനാൽ 'No error' തെറ്റായ ഉത്തരമാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HAS TOOK? NO, HAS TAKEN!' — ഈ combination കേട്ടാൽ ഉടനെ ചെവിക്ക് പിടിക്കണം, Present Perfect-ൽ V3 മാത്രം!\n• Word family: take-took-taken, write-wrote-written, break-broke-broken — Irregular verb 3rd forms ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Error-spotting questions-ൽ Auxiliary verb ('has/have/had')-ന് തൊട്ടടുത്ത verb form ആദ്യം പരിശോധിക്കുക."
+    }
+  },
+  {
+    "id": "127-2021-M-Q86",
+    "paperId": "127-2021-M",
+    "questionNumber": 86,
+    "topic": "One Word Substitutes",
+    "questionText": "One word for 'The state of being unmarried'.",
+    "optionA": "Mariology",
+    "optionB": "Celibacy",
+    "optionC": "Spinster",
+    "optionD": "Fiancée",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Celibacy\n\n• 'Celibacy' എന്നാൽ വിവാഹം കഴിക്കാതെ ഇരിക്കുന്ന അവസ്ഥ (the state of being unmarried, especially by choice or religious vow) എന്നാണ് അർഥം.\n• Root: Latin 'caelebs' (unmarried).\n• 'Spinster' ഒരു specific unmarried woman-നെ (person) സൂചിപ്പിക്കുന്നു, 'state/condition' അല്ല — അതുകൊണ്ട് ഇത് ചേരില്ല.\n• PSC one-word-substitute questions-ൽ 'state of being' pattern ശ്രദ്ധിക്കണം — അത് ഒരു abstract noun ആയിരിക്കും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'State of being unmarried' = Celibacy (abstract noun, not a person!)\n• 'State of being X' pattern-ന് answer എപ്പോഴും ഒരു abstract noun ആയിരിക്കും, person-നെ സൂചിപ്പിക്കുന്ന word അല്ല.\n• Related word group: celibacy (state), spinster (unmarried woman), bachelor (unmarried man), widow/widower (spouse died).\n• ⭐ PSC ആവർത്തനം: One Word Substitutes-ൽ 'state of being' pattern PSC-യിൽ പതിവായി വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. He has chosen a life of celibacy.\n2. Celibacy is common among certain religious orders.\n3. The monk took a vow of celibacy.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Mariology\n  • ഇത് 'മറിയത്തെ (Virgin Mary) കുറിച്ചുള്ള theological പഠനം' എന്നാണ് അർഥം, unmarried state-മായി ബന്ധമില്ല.\n  • 🪤 PSC Trap: 'Marriage'-മായി word sound സാമ്യമുള്ളതിനാൽ students confuse ആകും.\n\n• (C) Spinster\n  • ഇത് ഒരു unmarried woman (person) ആണ്, 'state/condition' അല്ല — question ചോദിക്കുന്നത് 'state' ആണ്.\n\n• (D) Fiancée\n  • ഇത് 'വിവാഹനിശ്ചയം കഴിഞ്ഞ സ്ത്രീ' എന്നാണ് അർഥം, unmarried state-മായി നേരിട്ട് ബന്ധമില്ല, മറിച്ചാണ് സൂചന.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'CELIBACY = CELL (single room, alone) + state' — ഒറ്റയ്ക്കുള്ള അവസ്ഥ ഓർത്താൽ മറക്കില്ല!\n• Word family: celibacy (state), spinster/bachelor (person) — 'state vs person' distinction ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: 'State of being' definition കണ്ടാൽ person-word-കൾ (spinster, bachelor) ഒഴിവാക്കി abstract noun തിരയുക."
+    }
+  },
+  {
+    "id": "127-2021-M-Q88",
+    "paperId": "127-2021-M",
+    "questionNumber": 88,
+    "topic": "Idioms",
+    "questionText": "The idiom \"Let the cat out of the bag\" means:",
+    "optionA": "Do things carefully and regularly",
+    "optionB": "Get oneself into trouble",
+    "optionC": "To make something public",
+    "optionD": "Not restart a debate",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) To make something public\n\n• 'Let the cat out of the bag' എന്ന idiom-ന്റെ അർഥം ഒരു രഹസ്യം (secret) വെളിപ്പെടുത്തുക/പരസ്യമാക്കുക എന്നാണ്.\n• നൽകിയിരിക്കുന്ന options-ൽ ഈ meaning-നോട് ഏറ്റവും അടുത്തുനിൽക്കുന്നത് 'To make something public' ആണ്.\n• History: പഴയകാലത്ത് markets-ൽ pig-നു പകരം cat ഒരു bag-ൽ വെച്ച് വിൽക്കാൻ ശ്രമിക്കുന്ന fraud-നെ പറ്റിയാണ് ഈ idiom ഉണ്ടായത് — bag തുറന്നാൽ secret (fraud) പുറത്തുവരും.\n• PSC idiom questions-ൽ ഇത് ഒരു favourite idiom ആണ്, ഈ paper-ലും previous papers-ലും ആവർത്തിച്ച് വന്നിട്ടുണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Let the cat out of the bag = Reveal a secret / Make something public\n• Idioms-ന്റെ literal meaning അല്ല, figurative meaning ആണ് നോക്കേണ്ടത്.\n• Related word group: spill the beans, blow the whistle, give the game away — 'reveal secret/make public' idioms.\n• ⭐ PSC ആവർത്തനം: Idioms and Phrases PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. The minister let the cat out of the bag about the new policy.\n2. Reporters let the cat out of the bag before the official announcement.\n3. She let the cat out of the bag about the wedding date.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Do things carefully and regularly\n  • ഇത് idiom-ന്റെ meaning-മായി ബന്ധമില്ല, മറ്റൊരു idiom-നെ (routine/careful action) സൂചിപ്പിക്കുന്നു.\n  • 🪤 PSC Trap: Similar sounding idioms confuse ചെയ്യാൻ ഇടയാക്കും.\n\n• (B) Get oneself into trouble\n  • ഇത് 'get into hot water' പോലുള്ള വേറൊരു idiom-ന്റെ meaning ആണ്, 'let the cat out of the bag' അല്ല.\n\n• (D) Not restart a debate\n  • ഇത് 'let sleeping dogs lie' എന്ന idiom-ന്റെ meaning-നോട് അടുത്താണ്, ഈ idiom-ന്റെതല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Bag-ൽ ഒളിപ്പിച്ച secret cat പുറത്തുചാടി എല്ലാവരും കാണുന്നത് visualize ചെയ്യുക — 'secret പരസ്യമാകുന്നു' എന്ന ചിത്രം!\n• Word family: spill the beans, blow the whistle, break the news — 'reveal/make public' idioms ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Idiom options-ൽ സമാനമായ മറ്റ് idioms-ന്റെ meanings കൂടി ഉള്ളപ്പോൾ, ഓരോന്നും അതത് idiom-മായി മാത്രം match ചെയ്യുക, mix ചെയ്യരുത്."
+    }
+  },
+  {
+    "id": "127-2021-M-Q89",
+    "paperId": "127-2021-M",
+    "questionNumber": 89,
+    "topic": "Synonyms",
+    "questionText": "The synonym of the word \"Bait\".",
+    "optionA": "Allure",
+    "optionB": "Achieve",
+    "optionC": "Ardent",
+    "optionD": "Admit",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Allure\n\n• 'Bait' എന്നാൽ (noun/verb ആയി) ആകർഷിക്കുക, പ്രലോഭിപ്പിക്കുക (to attract or tempt) എന്നാണ് അർഥം.\n• 'Allure' എന്നാലും അതേ അർഥം തന്നെ — ആകർഷിക്കുക, മോഹിപ്പിക്കുക.\n• രണ്ട് words-ഉം 'to tempt/attract someone' എന്ന core meaning share ചെയ്യുന്നു, അതുകൊണ്ട് ഇവ synonyms ആണ്.\n• Fishing-ൽ 'bait' മീനിനെ ആകർഷിക്കാൻ ഉപയോഗിക്കുന്നത് പോലെ, figurative-ആയി 'bait/allure' ആളുകളെ ആകർഷിക്കാൻ ഉപയോഗിക്കും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Bait = Allure = Tempt/Attract\n• Synonym questions-ൽ word-ന്റെ core meaning കണ്ടെത്തി, അതേ meaning ഉള്ള option തിരയുക.\n• Related word group: bait, allure, entice, tempt, lure — എല്ലാം 'ആകർഷിക്കുക' എന്ന അർഥമുള്ള words.\n• ⭐ PSC ആവർത്തനം: Synonyms PSC English section-ൽ എല്ലാ പേപ്പറിലും ഉണ്ടാകുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. The shop window's bright display was a bait for customers.\n2. The allure of the city attracted many tourists.\n3. Advertisers use attractive offers to bait/allure customers.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) Achieve\n  • ഇത് 'നേടുക/സാധിക്കുക' എന്നാണ് അർഥം, 'ആകർഷിക്കുക' എന്ന meaning-മായി ബന്ധമില്ല.\n  • 🪤 PSC Trap: 'Bait'-മായി spelling/sound സാമ്യമില്ലാത്ത word ആണെങ്കിലും students confuse ആകാം.\n\n• (C) Ardent\n  • ഇത് 'ഉത്സാഹമുള്ള, തീവ്രമായ' (passionate/enthusiastic) എന്നാണ് അർഥം, 'bait'-ന്റെ meaning അല്ല.\n\n• (D) Admit\n  • ഇത് 'സമ്മതിക്കുക/പ്രവേശിപ്പിക്കുക' എന്നാണ് അർഥം, 'ആകർഷിക്കുക' എന്നതുമായി ബന്ധമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BAIT ➝ മീനിനെ ALLURE ചെയ്യാൻ hook-ൽ ഇടുന്നത്' — fishing image ഓർത്താൽ meaning മറക്കില്ല!\n• Word family: bait, allure, entice, tempt, lure, attract — 'ആകർഷിക്കുക' എന്ന അർഥമുള്ള words ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Synonym questions-ൽ unfamiliar word ആണെങ്കിൽ, context/root clue ഉപയോഗിച്ച് closest meaning ഊഹിക്കുക."
+    }
+  },
+  {
+    "id": "127-2021-M-Q90",
+    "paperId": "127-2021-M",
+    "questionNumber": 90,
+    "topic": "Compound Words",
+    "questionText": "An example of compound word.",
+    "optionA": "Optimist",
+    "optionB": "Railroad",
+    "optionC": "Counselor",
+    "optionD": "General",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Railroad\n\n• 'Railroad' എന്നത് 'Rail' + 'Road' എന്നീ രണ്ട് complete words ചേർന്നുണ്ടായ Compound Word ആണ്.\n• Compound Word എന്നാൽ രണ്ടോ അതിലധികമോ words ചേർന്ന് ഒരു പുതിയ meaning ഉള്ള word ഉണ്ടാക്കുന്നതാണ്.\n• 'Rail' (ഒരു noun) + 'Road' (ഒരു noun) = 'Railroad' (പുതിയ noun, 'തീവണ്ടിപ്പാത').\n• മറ്റ് options ('Optimist', 'Counselor', 'General') suffix/prefix ചേർന്ന words ആണ്, compound words അല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Compound Word = Word + Word (രണ്ടും independent words ആയിരിക്കണം)\n• Compound words മൂന്ന് തരത്തിൽ എഴുതാം: closed (railroad), hyphenated (mother-in-law), open (post office) — എല്ലാം രണ്ട് independent words ചേർന്നുണ്ടാകുന്നത്.\n• Related word group: railroad, football, notebook, sunflower, blackboard — closed compound words.\n• ⭐ PSC ആവർത്തനം: Compound Words PSC Vocabulary section-ൽ പതിവായി ചോദിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. The railroad connects the two cities.\n2. He plays football every evening.\n3. She wrote in her notebook.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Optimist\n  • ഇത് 'Optim' (root) + '-ist' (suffix) ചേർന്ന word ആണ്, '-ist' ഒരു independent word അല്ല — compound word അല്ല.\n  • 🪤 PSC Trap: Suffix ചേർന്ന words-നെ compound words ആണെന്ന് തെറ്റിദ്ധരിക്കാൻ സാധ്യതയുണ്ട്.\n\n• (C) Counselor\n  • ഇത് 'Counsel' (root) + '-or' (suffix) ചേർന്ന word ആണ്, '-or' independent word അല്ല.\n\n• (D) General\n  • ഇത് ഒരു single root word ആണ്, രണ്ട് independent words ചേർന്നതല്ല — compound word അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Compound Word = Two FULL words holding hands!' — Rail + Road ഒരുമിച്ച് നടക്കുന്നത് visualize ചെയ്യുക.\n• Word family: railroad, notebook, football, blackboard, sunflower — closed compound words ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Compound word ചോദ്യങ്ങളിൽ word-നെ split ചെയ്ത് നോക്കുക — രണ്ട് ഭാഗവും independent, meaningful words ആണോ എന്ന് ഉറപ്പിക്കുക."
+    }
+  },
+  {
+    "id": "127-2021-M-Q87",
+    "paperId": "127-2021-M",
+    "questionNumber": 87,
+    "topic": "Word Formation",
+    "questionText": "A _____ of Journalists.",
+    "optionA": "regiment",
+    "optionB": "troop",
+    "optionC": "swam",
+    "optionD": "scoop",
+    "correctAnswer": "Deleted",
+    "explanation": {
+      "correct": "⚠️ ഈ ചോദ്യം PSC ഔദ്യോഗികമായി ക്യാൻസൽ ചെയ്തു (DELETED)\n\n• PSC-യുടെ Final Answer Key (Question Code 127/2021, Malayalam Medium)-ൽ ഈ ചോദ്യം 'X' എന്ന് മാർക്ക് ചെയ്തിരിക്കുന്നു — അതായത് ഔദ്യോഗികമായി റദ്ദാക്കിയ (deleted/cancelled) ചോദ്യമാണ്.\n• നൽകിയ നാല് options-ലും ('regiment', 'troop', 'swam', 'scoop') 'Journalists'-ന്റെ ശരിയായ Collective Noun ഇല്ലാത്തതാകാം കാരണം — standard ആയി അംഗീകരിക്കപ്പെട്ട collective noun 'A Corps of Journalists' എന്നാണ്, അത് ഒരു option ആയി ഇല്ല.\n• 'Swam' എന്നത് ഒരു Collective Noun അല്ല (അത് 'swim' എന്ന verb-ന്റെ Past Tense ആണ്) — ഇത് ഒരു typo/error ആയിരിക്കാം ('swarm' ഉദ്ദേശിച്ചിട്ടുണ്ടാകാം), ഇതും deletion-ന് ഒരു കാരണമായിരിക്കാം.\n• ഈ ചോദ്യത്തിന് മാർക്ക് നൽകാൻ പാടില്ല/എല്ലാവർക്കും മാർക്ക് നൽകാം എന്ന് PSC തീരുമാനിച്ചിട്ടുണ്ടാകും — സാധാരണയായി deletion ഇത്തരം ambiguity/error കാരണങ്ങളാലാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Collective Noun for Journalists = A Corps of Journalists (PSC options-ൽ ഇല്ലാത്തത് ശ്രദ്ധിക്കുക)\n• Collective Nouns എന്നാൽ ഒരു group of people/animals/things-നെ പൊതുവായി വിളിക്കാൻ ഉപയോഗിക്കുന്ന ഒറ്റ word ആണ്.\n• Related word group: a corps of journalists, a pride of lions, a flock of birds, a swarm of bees — ഓരോ group-നും specific collective noun ഉണ്ട്.\n• ⭐ PSC ആവർത്തനം: Collective Nouns PSC vocabulary questions-ൽ ഇടയ്ക്കിടെ വരാറുണ്ട്, options ശ്രദ്ധയോടെ വായിക്കണം.\n• ഉദാഹരണ sentences:\n1. A corps of journalists covered the press conference.\n2. A swarm of bees attacked the farmer.\n3. A pride of lions rested under the tree.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ (ചോദ്യം deleted ആയതിനാൽ ഇവ ശരി/തെറ്റ് എന്ന് ഔദ്യോഗികമായി വിലയിരുത്തിയിട്ടില്ല)\n\n• (A) regiment\n  • ഇത് സൈനികരുടെ (soldiers) ഒരു group-നെ സൂചിപ്പിക്കുന്ന collective noun ആണ്, journalists-ന്റേതല്ല.\n\n• (B) troop\n  • ഇതും സൈനികരുടെ/സ്കൗട്ട്സ്-ന്റെ group-നെ സൂചിപ്പിക്കുന്നു, journalists-ന്റേതല്ല.\n\n• (D) scoop\n  • ഇത് ഒരു Collective Noun അല്ല — 'scoop' എന്നാൽ journalism-ൽ 'exclusive news story' എന്നാണ് അർഥം, group-നെ സൂചിപ്പിക്കുന്ന word അല്ല.\n\n• 🪤 PSC Trap: 'scoop' journalism-മായി ബന്ധപ്പെട്ട word ആയതിനാൽ students ഇത് ശരി ആണെന്ന് തെറ്റിദ്ധരിക്കാൻ സാധ്യതയുണ്ട് — എന്നാൽ ഇത് Collective Noun അല്ല, ഇതും ചോദ്യം deletion-ന് കാരണമായേക്കാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Deleted ചോദ്യങ്ങൾ practice-ന് ഉപകാരപ്പെടും, പക്ഷേ ഇവയ്ക്ക് മാർക്ക് ലഭിക്കില്ല എന്ന് ഓർക്കുക — 'A Corps of Journalists' എന്ന ശരിയായ collective noun പഠിച്ചു വെക്കുക.\n• Word family: corps (journalists/officers), swarm (bees/insects), flock (birds/sheep), pride (lions) — Collective Nouns ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Answer Key-ൽ 'X' മാർക്ക് ചെയ്ത ചോദ്യങ്ങൾ (deleted questions) score calculation-ൽ ഉൾപ്പെടുത്തില്ല — ഇത്തരം ചോദ്യങ്ങൾ knowledge-നായി മാത്രം പഠിച്ചാൽ മതി."
+    }
+  },
+  {
+    "id": "126-2021-M-Q61",
+    "paperId": "126-2021-M",
+    "questionNumber": 61,
+    "topic": "Active and Passive Voice",
+    "questionText": "Choose the passive voice of the given sentence.\nThey have cut all telephone wires.",
+    "optionA": "They cut all telephone wires.",
+    "optionB": "All telephone wires have been cut.",
+    "optionC": "The telephone wires were cut.",
+    "optionD": "All telephone wires had been cut.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) All telephone wires have been cut.\n\n• 'They have cut all telephone wires' എന്നത് Present Perfect Tense Active ആണ് (Subject+have/has+V3+Object).\n• Passive voice-ലേക്ക് മാറ്റുമ്പോൾ Object ('all telephone wires') Subject ആകും, verb 'have/has been + V3' രൂപത്തിലാകും.\n• 'Cut' എന്ന verb-ന്റെ 3 forms ഒരേപോലെ ആണ് (cut-cut-cut), അതുകൊണ്ട് Past Participle 'cut' തന്നെ.\n• Present Perfect Passive structure: 'have/has been + V3' — ഇവിടെ 'wires' plural ആയതിനാൽ 'have been cut'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Present Perfect Active (have/has+V3) → Present Perfect Passive (have/has been+V3)\n• Active Tense = Passive Tense എപ്പോഴും ഒരേപോലെ ആയിരിക്കും.\n• Related word group: cut-cut-cut, put-put-put, hit-hit-hit — Same 3 forms ഉള്ള irregular verbs.\n• ⭐ PSC ആവർത്തനം: Present Perfect Active-Passive conversion PSC-യിൽ പതിവായി ചോദിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. They have finished the work. → The work has been finished.\n2. She has written the letter. → The letter has been written.\n3. We have cut the trees. → The trees have been cut.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) They cut all telephone wires.\n  • ഇത് Simple Past Active ആണ്, tense മാറി, Passive അല്ല.\n  • 🪤 PSC Trap: 'cut' spelling മാറാത്തതിനാൽ tense മാറിയത് ശ്രദ്ധിക്കാതെ പോകാൻ സാധ്യതയുണ്ട്.\n\n• (C) The telephone wires were cut.\n  • ഇത് Simple Past Passive ആണ് ('were cut'), Present Perfect ('have been cut') അല്ല — tense മാറിപ്പോയി.\n\n• (D) All telephone wires had been cut.\n  • ഇത് Past Perfect Passive ആണ് ('had been cut'), Present Perfect ('have been cut') അല്ല — തെറ്റായ tense.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HAVE/HAS + BEEN + V3' — Present Perfect Passive-ന്റെ formula മൂന്ന് വാക്കുകളായി ഓർക്കുക!\n• Word family: cut-cut-cut, put-put-put, hit-hit-hit, cost-cost-cost — same 3 forms verbs ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Active-Passive ചോദ്യങ്ങളിൽ ആദ്യം tense identify ചെയ്യുക, എന്നിട്ട് ആ tense-ന്റെ Passive formula exact ആയി apply ചെയ്യുക."
+    }
+  },
+  {
+    "id": "126-2021-M-Q62",
+    "paperId": "126-2021-M",
+    "questionNumber": 62,
+    "topic": "Idioms",
+    "questionText": "The idiom 'a bolt from the blue' means:",
+    "optionA": "A flash of lightning",
+    "optionB": "An electric shock",
+    "optionC": "A sudden and unexpected event or news",
+    "optionD": "A bad omen",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) A sudden and unexpected event or news\n\n• 'A bolt from the blue' എന്ന idiom-ന്റെ അർഥം പെട്ടെന്ന്, പ്രതീക്ഷിക്കാതെ സംഭവിക്കുന്ന ഒരു കാര്യം/വാർത്ത എന്നാണ്.\n• 'Blue' എന്നത് തെളിഞ്ഞ ആകാശത്തെ (clear sky) സൂചിപ്പിക്കുന്നു — തെളിഞ്ഞ ആകാശത്ത് പെട്ടെന്ന് ഇടിമിന്നൽ (bolt) വരുന്നത് പോലെ, പ്രതീക്ഷിക്കാത്ത സംഭവം എന്നാണ് ഉദ്ദേശം.\n• Idioms-ന്റെ literal meaning (lightning, electric shock) അല്ല, figurative meaning (unexpected event) ആണ് നോക്കേണ്ടത്.\n• PSC idiom questions-ൽ ഇത് ഒരു favourite idiom ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: A bolt from the blue = A sudden, unexpected event/news\n• Weather-based idioms-ന്റെ literal meaning-ൽ നിന്ന് figurative meaning വേറെയായിരിക്കും എന്നത് എപ്പോഴും ഓർക്കുക.\n• Related word group: out of the blue (പെട്ടെന്ന്), thunderbolt (ഇടിമിന്നൽ) — similar imagery ഉള്ള expressions.\n• ⭐ PSC ആവർത്തനം: Idioms and Phrases PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. His resignation came as a bolt from the blue.\n2. The news of the accident was a bolt from the blue for the family.\n3. Her sudden departure was a bolt from the blue to everyone.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) A flash of lightning\n  • ഇത് idiom-ന്റെ literal meaning ആണ്, figurative meaning അല്ല.\n  • 🪤 PSC Trap: idiom-ലെ 'bolt' word കണ്ട് literal ആയി lightning എന്ന് guess ചെയ്യാൻ students misled ആകും.\n\n• (B) An electric shock\n  • ഇതും literal interpretation ആണ്, idiom-ന്റെ യഥാർഥ figurative meaning അല്ല.\n\n• (D) A bad omen\n  • 'Bolt from the blue' നല്ലതോ ചീത്തയോ ആയ ഏത് unexpected event-നും ഉപയോഗിക്കാം, ഇത് 'bad omen' മാത്രമായി പരിമിതപ്പെടുത്തുന്നത് തെറ്റാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: തെളിഞ്ഞ നീല ആകാശത്ത് പെട്ടെന്ന് ഇടി വീഴുന്നത് visualize ചെയ്യുക — 'ആരും പ്രതീക്ഷിക്കാത്ത സംഭവം' എന്ന ചിത്രം ഓർത്തിരുന്നാൽ miss ആകില്ല!\n• Word family: out of the blue, thunderstruck, unforeseen — 'sudden/unexpected' idioms ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Weather-related idioms (bolt, storm, cloud) കാണുമ്പോൾ literal meaning-ൽ നിന്ന് മാറി figurative sense തിരയുക."
+    }
+  },
+  {
+    "id": "126-2021-M-Q63",
+    "paperId": "126-2021-M",
+    "questionNumber": 63,
+    "topic": "Prepositions",
+    "questionText": "The building is _____ the river.",
+    "optionA": "beside",
+    "optionB": "in",
+    "optionC": "besides",
+    "optionD": "into",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) beside\n\n• 'Beside' എന്നാൽ 'അടുത്ത്/സൈഡിൽ' (next to) എന്നാണ് അർഥം — building river-ന്റെ അടുത്താണ് എന്ന് പറയാൻ ഇത് correct ആണ്.\n• 'Beside' ഒരു Preposition of Place ആണ്, physical location സൂചിപ്പിക്കുന്നു.\n• Context: 'The building is beside the river' = കെട്ടിടം നദിയുടെ അരികിലാണ്.\n• 'Besides' (with 's') വേറൊരു meaning ആണ് — 'കൂടാതെ' (in addition to) എന്നാണ് അർഥം, ഇത് location അല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Beside = Next to (location); Besides = In addition to (extra info)\n• 'Beside' ഉം 'Besides' ഉം spelling-ൽ ഒരു 's' മാത്രം വ്യത്യാസമുള്ളതിനാൽ ഇവ PSC-യുടെ favourite confusable pair ആണ്.\n• Related word group: beside (next to), besides (in addition to), between (two things), among (more than two).\n• ⭐ PSC ആവർത്തനം: Prepositions PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic-കളിൽ ഒന്നാണ്, 'beside/besides' pair പലതവണ ചോദിച്ചിട്ടുണ്ട്.\n• ഉദാഹരണ sentences:\n1. The chair is beside the table.\n2. Besides English, she knows French.\n3. He sat beside his friend.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) in\n  • 'In' ഒരു enclosed space-നെ സൂചിപ്പിക്കുന്നു, building river-ന്റെ 'അകത്ത്' അല്ല 'അരികിൽ' ആണ് context.\n  • 🪤 PSC Trap: Location preposition ചോദിക്കുമ്പോൾ 'in' സ്വാഭാവികമായി തോന്നാമെങ്കിലും ഇവിടെ ചേരില്ല.\n\n• (C) besides\n  • ഇത് 'കൂടാതെ' (in addition to) എന്നാണ് അർഥം, physical location അല്ല — spelling similarity കാരണം ഏറ്റവും കൂടുതൽ ആളുകൾ തിരഞ്ഞെടുക്കുന്ന തെറ്റായ ഉത്തരമാണ്.\n\n• (D) into\n  • 'Into' ഒരു movement/direction സൂചിപ്പിക്കുന്നു ('അകത്തേക്ക് നീങ്ങുക'), static location-നെ അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BESIDE (no S) = Beside your friend (next to)'; 'BESIDES (with S) = Some more info' — 'S' extra ഉള്ളപ്പോൾ 'extra information' എന്ന് ഓർക്കുക!\n• Word family: beside, besides, between, among — location/addition prepositions ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: 'Beside/Besides' കണ്ടാൽ context physical location ആണോ additional information ആണോ എന്ന് നോക്കി തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "126-2021-M-Q64",
+    "paperId": "126-2021-M",
+    "questionNumber": 64,
+    "topic": "Phrasal Verbs",
+    "questionText": "Find the meaning of the underlined phrasal verb in the following sentence.\nThe angry passengers __held up__ the bus.",
+    "optionA": "All the passengers carried the bus by force.",
+    "optionB": "The angry passengers got down from the bus.",
+    "optionC": "The angry passengers threw stones at the bus.",
+    "optionD": "The angry passengers stopped the bus by threats.",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) The angry passengers stopped the bus by threats.\n\n• 'Held up' എന്ന phrasal verb-ന്റെ അർഥം ബലം/ഭീഷണി ഉപയോഗിച്ച് എന്തെങ്കിലും തടയുക അല്ലെങ്കിൽ കൊള്ളയടിക്കുക (to stop/rob by force or threat) എന്നാണ്.\n• Context: 'angry passengers' ദേഷ്യപ്പെട്ട് bus-നെ ഭീഷണിപ്പെടുത്തി നിർത്തിച്ചു എന്നാണ് sentence-ന്റെ അർഥം.\n• 'Hold up' ബാങ്ക് കൊള്ളയടിക്കുന്നതിനും (bank hold-up) ഈ അർഥത്തിൽ തന്നെ ഉപയോഗിക്കാറുണ്ട് — force/threat ഉപയോഗിച്ച് തടയുക/നിർത്തുക.\n• Literal meaning ('carry by force', 'get down') അല്ല, idiomatic meaning ആണ് ശരി.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Hold up = Stop/Rob by force or threat\n• Phrasal verbs-ന്റെ meaning literal word meanings ('hold' + 'up') കൂട്ടിച്ചേർത്ത് ഊഹിക്കരുത്, idiomatic meaning പഠിക്കണം.\n• Related word group: hold up (delay/rob), hold on (wait), hold back (restrain), hold out (last/resist).\n• ⭐ PSC ആവർത്തനം: Phrasal Verbs PSC vocabulary section-ൽ സ്ഥിരമായി ചോദിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. The robbers held up the bank.\n2. Traffic held up our journey by an hour.\n3. The strike held up production for a week.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) All the passengers carried the bus by force.\n  • ഇത് 'hold up' word-കളുടെ literal meaning ('hold' = carry, 'up' = lift) എടുത്ത guess ആണ്, ശരിയായ idiomatic meaning അല്ല.\n  • 🪤 PSC Trap: Phrasal verb-ന്റെ words separate ആയി translate ചെയ്യുന്ന ഈ തെറ്റ് വളരെ common ആണ്.\n\n• (B) The angry passengers got down from the bus.\n  • ഇത് 'held up'-ന്റെ അർഥമല്ല, മറ്റൊരു unrelated action ആണ്.\n\n• (C) The angry passengers threw stones at the bus.\n  • ഇത് 'attacked/pelted' എന്ന അർഥമാണ്, 'held up' (stopped by threat) എന്നല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HOLD UP = STICK UP (ബാങ്ക് കൊള്ള)' — robbery scene visualize ചെയ്യുക, force/threat ഉപയോഗിച്ച് നിർത്തിക്കൽ!\n• Word family: hold up, hold on, hold back, hold out — 'hold' phrasal verbs ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Phrasal verb questions-ൽ context sentence വായിച്ച് idiomatic meaning ഊഹിക്കുക, word-by-word translate ചെയ്യരുത്."
+    }
+  },
+  {
+    "id": "126-2021-M-Q65",
+    "paperId": "126-2021-M",
+    "questionNumber": 65,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "The principal along with his staff _____ going on a tour.",
+    "optionA": "are",
+    "optionB": "were",
+    "optionC": "is",
+    "optionD": "have",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) is\n\n• 'The principal along with his staff' എന്ന subject-ൽ 'along with his staff' ഒരു Parenthetical phrase ആണ് — ഇത് subject-ന്റെ number-നെ ബാധിക്കില്ല.\n• Main subject 'The principal' (singular) ആണ്, അതുകൊണ്ട് verb-ഉം Singular ('is') ആയിരിക്കണം.\n• 'Along with', 'together with', 'as well as', 'accompanied by' എന്നീ phrases subject-നെ plural ആക്കില്ല.\n• Verb എപ്പോഴും main subject-നോട് ('the principal') മാത്രം agree ചെയ്യും, 'along with' ന് ശേഷമുള്ള noun ('staff') അല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Subject + (along with/together with/as well as + Noun) → Verb agrees with Subject only!\n• 'Along with', 'together with', 'as well as', 'accompanied by', 'in addition to' എന്നീ phrases-ന് ശേഷമുള്ള noun verb-ന്റെ number decide ചെയ്യില്ല.\n• Related word group: along with, together with, as well as, besides, accompanied by — എല്ലാം ഇതേ rule follow ചെയ്യുന്ന phrases.\n• ⭐ PSC ആവർത്തനം: Subject-Verb Agreement-ൽ ഈ 'along with' pattern PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന trap ആണ്.\n• ഉദാഹരണ sentences:\n1. The manager along with his team is attending the meeting.\n2. The teacher, together with the students, is going on a trip.\n3. Ram, as well as his friends, is coming to the party.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) are\n  • 'Staff' plural ആണെന്ന് കരുതി verb plural ആക്കിയാൽ ഈ തെറ്റ് വരും, പക്ഷേ 'along with' phrase subject-നെ ബാധിക്കില്ല.\n  • 🪤 PSC Trap: 'along with his staff' കണ്ട് plural verb select ചെയ്യുന്നതാണ് PSC-യുടെ ഏറ്റവും വലിയ trap.\n\n• (B) were\n  • Past tense-ഉം plural-ഉം ആണ്, രണ്ടും തെറ്റ് — sentence Present tense ആണ്, subject Singular ആണ്.\n\n• (D) have\n  • Plural auxiliary ആണ്, Singular subject 'the principal'-ന് ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Along With' Along-ഉം ignore ചെയ്യുക — Main subject മാത്രം നോക്കുക!\n• Word family: along with, together with, as well as, accompanied by, besides — ignore ചെയ്യേണ്ട phrases ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Subject-Verb Agreement ചോദ്യങ്ങളിൽ 'along with/together with/as well as' കണ്ടാൽ ആ phrase മുഴുവൻ bracket-ൽ ഇട്ട് ignore ചെയ്ത് main subject മാത്രം നോക്കുക."
+    }
+  },
+  {
+    "id": "126-2021-M-Q66",
+    "paperId": "126-2021-M",
+    "questionNumber": 66,
+    "topic": "Articles",
+    "questionText": "She is _____ university player.",
+    "optionA": "an",
+    "optionB": "there",
+    "optionC": "a",
+    "optionD": "are",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) a\n\n• 'University' എന്ന word 'y' letter-ൽ തുടങ്ങുന്നെങ്കിലും, ഉച്ചാരണം (pronunciation) 'yoo-ni-versity' എന്നാണ് — 'y' sound ഒരു Consonant sound ആണ്.\n• Article തിരഞ്ഞെടുക്കുന്നത് letter അല്ല, Sound അനുസരിച്ചാണ് — Consonant sound-ന് 'a' ഉപയോഗിക്കണം.\n• 'University' മുന്നിൽ 'a' ആണ് ശരി, 'an' അല്ല — ഇത് PSC-യിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന trap word ആണ്.\n• Similar words: 'a European', 'a uniform', 'a one-rupee coin' — എല്ലാം 'yoo/wuh' consonant sound-ൽ തുടങ്ങുന്നവ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: A/An = SOUND അനുസരിച്ച്, LETTER അനുസരിച്ചല്ല!\n• Vowel letter-ൽ തുടങ്ങിയാലും Consonant sound ('yoo', 'wuh') ആണെങ്കിൽ 'a' ഉപയോഗിക്കും.\n• Related word group: university, uniform, European, one-eyed, useful — 'yoo' sound-ൽ തുടങ്ങുന്ന 'a' words.\n• ⭐ PSC ആവർത്തനം: Articles-ൽ 'university/European/uniform' PSC-യുടെ ഏറ്റവും favourite trap words ആണ്.\n• ഉദാഹരണ sentences:\n1. She is a university student.\n2. He is a European citizen.\n3. I need a uniform for school.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) an\n  • 'University' vowel letter 'u'-ൽ തുടങ്ങുന്നു എന്ന് കണ്ട് 'an' select ചെയ്യുന്നത് ഏറ്റവും common ആയ തെറ്റാണ്.\n  • 🪤 PSC Trap: ഇത് PSC-യുടെ ഏറ്റവും ക്ലാസിക് ആയ Articles trap ആണ് — Letter നോക്കാതെ Sound നോക്കുക.\n\n• (B) there\n  • ഇത് ഒരു article അല്ല, adverb/pronoun ആണ്, blank-ന് grammatically ചേരില്ല.\n\n• (D) are\n  • ഇത് ഒരു verb ആണ്, article അല്ല — 'She is ___ university player' എന്ന structure-ന് article മാത്രമേ ചേരൂ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'UNIVERSITY sounds like YOU-niversity' — 'You' consonant sound ആണെന്ന് ഓർത്താൽ 'a' ഉറപ്പിക്കാം!\n• Word family: university, uniform, European, useful, one-rupee — 'yoo' sound consonant-like words ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Article ചോദ്യങ്ങളിൽ word ഉറക്കെ വായിച്ച് ആദ്യത്തെ sound (letter അല്ല) ശ്രദ്ധിക്കുക."
+    }
+  },
+  {
+    "id": "126-2021-M-Q67",
+    "paperId": "126-2021-M",
+    "questionNumber": 67,
+    "topic": "Conditionals",
+    "questionText": "If you _____ with me, I would show you the house.",
+    "optionA": "come",
+    "optionB": "had come",
+    "optionC": "came",
+    "optionD": "will come",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) came\n\n• 'I would show you the house' എന്നത് Second Conditional-ന്റെ Main clause ആണ് ('would + V1').\n• Second Conditional structure: If + Subject + Past Simple, Subject + would + V1 — ഇത് present/future-ലെ hypothetical (സാധ്യതയില്ലാത്ത/unlikely) situation സൂചിപ്പിക്കുന്നു.\n• 'If' clause-ൽ Past Simple ('came') വേണം, Present ('come') അല്ല, Past Perfect ('had come') അല്ല.\n• ഈ sentence ഒരു hypothetical situation ആണ് — 'നീ എന്നോടൊപ്പം വന്നിരുന്നെങ്കിൽ' എന്ന അർഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: If + Past Simple, Would + V1 (Second Conditional)\n• Second Conditional Present/Future-ലെ hypothetical/unlikely situations-നെ സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു.\n• Related word group: First Conditional (If+Present, will+V1), Second Conditional (If+Past, would+V1), Third Conditional (If+Past Perfect, would have+V3).\n• ⭐ PSC ആവർത്തനം: Conditionals PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന grammar topic-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. If I had money, I would buy a car.\n2. If she came early, she would catch the bus.\n3. If we knew the answer, we would tell you.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) come\n  • Present tense ആണ്, Second Conditional-ന് Past Simple ('came') വേണം.\n  • 🪤 PSC Trap: Main clause-ൽ 'would' കണ്ട് if-clause-ലും Present ഉപയോഗിക്കാൻ students misled ആകും.\n\n• (B) had come\n  • ഇത് Third Conditional structure ആണ് ('If+Past Perfect, would have+V3'), പക്ഷേ Main clause 'would show' (V1) ആണ്, 'would have shown' അല്ല — mismatch.\n\n• (D) will come\n  • Future tense if-clause-ൽ ഉപയോഗിക്കില്ല, First Conditional-ൽ പോലും if-clause Present ആയിരിക്കും, Future അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'If + PAST, Would + BASE' — Second Conditional-ന്റെ formula rhyme ആയി ഓർക്കുക!\n• Word family: If+Present+will (1st), If+Past+would (2nd), If+Past Perfect+would have (3rd) — മൂന്ന് Conditionals ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Main clause-ൽ 'would' കണ്ടാൽ if-clause-ൽ Past Simple തിരയുക, Present/Future അല്ല."
+    }
+  },
+  {
+    "id": "126-2021-M-Q68",
+    "paperId": "126-2021-M",
+    "questionNumber": 68,
+    "topic": "Synonyms",
+    "questionText": "The synonym of 'MUSTER' is:",
+    "optionA": "Disperse",
+    "optionB": "Gather",
+    "optionC": "Prosperous",
+    "optionD": "Mustard seed",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Gather\n\n• 'Muster' എന്നാൽ ഒരുമിച്ചു കൂട്ടുക, സംഘടിപ്പിക്കുക (to assemble/collect, especially soldiers or people) എന്നാണ് അർഥം.\n• 'Gather' എന്നാലും അതേ അർഥം — ഒരുമിച്ചു കൂട്ടുക/ചേർക്കുക.\n• Military context-ൽ 'muster' സൈനികരെ ഒരുമിച്ചു കൂട്ടുന്നതിന് ഉപയോഗിക്കും ('muster the troops'), പൊതുവായും 'collect/assemble' എന്ന അർഥത്തിൽ ഉപയോഗിക്കാം.\n• Root: Old French 'mostrer' (to show/display), പിന്നീട് 'assemble for inspection' എന്ന അർഥത്തിലേക്ക് വികസിച്ചു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Muster = Gather = Assemble/Collect\n• Synonym questions-ൽ word-ന്റെ core meaning കണ്ടെത്തി, അതേ meaning ഉള്ള option തിരയുക.\n• Related word group: muster, gather, assemble, collect, congregate — 'ഒരുമിച്ചു കൂട്ടുക' എന്ന അർഥമുള്ള words.\n• ⭐ PSC ആവർത്തനം: Synonyms PSC English section-ൽ എല്ലാ പേപ്പറിലും ഉണ്ടാകുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. The general mustered his troops for battle.\n2. Villagers mustered at the town hall.\n3. She could barely muster the courage to speak.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Disperse\n  • ഇത് 'Muster'-ന്റെ Antonym ആണ് — 'ചിതറിക്കുക/പിരിഞ്ഞുപോകുക' എന്നാണ് അർഥം, gather-ന്റെ നേരെ വിപരീതം.\n  • 🪤 PSC Trap: Antonym-നെ Synonym ആയി തെറ്റിദ്ധരിക്കുന്ന classic PSC trap ആണിത്.\n\n• (C) Prosperous\n  • ഇത് 'സമ്പന്നമായ' എന്നാണ് അർഥം, 'muster'-മായി ബന്ധമില്ല — spelling സാമ്യം കൊണ്ട് മാത്രം confuse ചെയ്യും.\n\n• (D) Mustard seed\n  • ഇത് 'Muster'-മായി spelling/sound സാമ്യമുള്ള വേറൊരു word ('Mustard') ആണ്, meaning ബന്ധമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'MUSTER the troops, GATHER the crowd' — രണ്ടും ഒരുമിച്ചു കൂട്ടുന്ന action ആണെന്ന് ഓർക്കുക!\n• Word family: muster, gather, assemble, collect, congregate — ഒരുമിച്ച് പഠിക്കുക; disperse, scatter (antonyms) വേറെ ഗ്രൂപ്പ്.\n• PSC exam strategy: Synonym options-ൽ spelling സാമ്യമുള്ള (mustard) വാക്കുകൾ trap ആണെന്ന് തിരിച്ചറിയുക, meaning മാത്രം നോക്കുക."
+    }
+  },
+  {
+    "id": "126-2021-M-Q69",
+    "paperId": "126-2021-M",
+    "questionNumber": 69,
+    "topic": "One Word Substitutes",
+    "questionText": "A place where wild animals live:",
+    "optionA": "Nest",
+    "optionB": "Lair",
+    "optionC": "Kennel",
+    "optionD": "Liar",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Lair\n\n• 'Lair' എന്നാൽ ഒരു wild animal-ന്റെ താമസസ്ഥലം/ഒളിസ്ഥലം (the den or resting place of a wild animal) എന്നാണ് അർഥം.\n• 'Nest' പക്ഷികൾക്കും ചെറിയ ജീവികൾക്കും ഉള്ള വാസസ്ഥലമാണ്, 'wild animal' എന്ന പൊതു term-ന് കൃത്യമായി ചേരില്ല.\n• 'Kennel' നായ്ക്കൾക്ക് (domesticated dogs) വേണ്ടിയുള്ള വീടാണ്, wild animal-ന്റേതല്ല.\n• 'Liar' എന്നത് completely വേറൊരു word ആണ് (നുണ പറയുന്ന ആൾ), spelling similarity കൊണ്ട് മാത്രം confuse ചെയ്യാൻ ഇടയുള്ള word ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Lair = Den of a wild animal (Nest=birds, Kennel=dogs)\n• Animal habitat words ഓരോ animal category-ക്കും specific ആണ് — PSC-യിൽ ഇവ confuse ചെയ്യാൻ സാധ്യതയുള്ള trap questions ആണ്.\n• Related word group: lair (wild animal), nest (bird), kennel (dog), stable (horse), sty (pig), hive (bees).\n• ⭐ PSC ആവർത്തനം: One Word Substitutes-ൽ animal habitat words PSC-യിൽ പതിവായി ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. The tiger returned to its lair after hunting.\n2. The fox hid in its lair.\n3. Hunters tracked the wolf to its lair.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Nest\n  • ഇത് പക്ഷികളുടെയോ ചെറിയ പ്രാണികളുടെയോ വാസസ്ഥലമാണ്, 'wild animal' (larger animals) എന്ന term-ന് കൃത്യമായി ചേരില്ല.\n  • 🪤 PSC Trap: 'Nest' ഒരു common word ആയതിനാൽ students ഇത് തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.\n\n• (C) Kennel\n  • ഇത് വളർത്തുനായ്ക്കൾക്ക് (domesticated dogs) വേണ്ടിയുള്ള structure ആണ്, 'wild animal'-ന്റേതല്ല — നേരെ വിപരീതം (domestic vs wild).\n\n• (D) Liar\n  • ഇത് 'Lair'-മായി spelling/sound സാമ്യമുള്ള completely വേറൊരു word ആണ് ('നുണയൻ' എന്നർഥം), animal habitat-മായി ബന്ധമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'LAIR = Lion's Lair!' — സിംഹത്തിന്റെ ഗുഹ visualize ചെയ്താൽ wild animal habitat ഓർമ്മ വരും!\n• Word family: lair (wild animal), nest (bird), kennel (dog), stable (horse), sty (pig) — animal homes ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Animal habitat questions-ൽ 'wild/domestic/bird' category ശ്രദ്ധയോടെ തിരിച്ചറിഞ്ഞ് correct word തിരയുക, spelling-similar traps ('liar') ഒഴിവാക്കുക."
+    }
+  },
+  {
+    "id": "126-2021-M-Q70",
+    "paperId": "126-2021-M",
+    "questionNumber": 70,
+    "topic": "Antonyms",
+    "questionText": "The antonym of 'IMPULSIVE' is:",
+    "optionA": "Smart",
+    "optionB": "Sensitive",
+    "optionC": "Cautious",
+    "optionD": "Brilliant",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Cautious\n\n• 'Impulsive' എന്നാൽ ചിന്തിക്കാതെ പെട്ടെന്ന് പ്രവർത്തിക്കുന്ന (acting without thinking, on sudden urges) എന്നാണ് അർഥം.\n• 'Cautious' എന്നാൽ ജാഗ്രതയോടെ, ശ്രദ്ധയോടെ പ്രവർത്തിക്കുന്ന എന്നാണ് അർഥം — ഇത് 'impulsive'-ന്റെ നേരെ വിപരീതം.\n• Impulsive-ന്റെ core idea 'thinking before acting ഇല്ലായ്മ' ആണ്, Cautious-ന്റെ core idea 'careful thinking/planning' ആണ് — exact opposites.\n• Root: 'Impulsive' Latin 'impellere' (to drive/push) എന്നതിൽ നിന്ന്; 'Cautious' Latin 'cavere' (to be on guard) എന്നതിൽ നിന്ന്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Impulsive (sudden, unplanned) ↔ Cautious (careful, planned)\n• Antonym questions-ൽ word-ന്റെ core meaning identify ചെയ്ത് exact opposite തിരയുക, similar-sounding words-ൽ confuse ആകരുത്.\n• Related word group: impulsive, rash, hasty, reckless (synonyms) vs cautious, careful, prudent, wary (antonyms).\n• ⭐ PSC ആവർത്തനം: Antonyms/Synonyms PSC English section-ൽ എല്ലാ പേപ്പറിലും ഉണ്ടാകുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. He is impulsive, but his sister is cautious.\n2. Being cautious, she checked everything twice before deciding.\n3. His impulsive decision led to unexpected trouble.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Smart\n  • ഇത് 'ബുദ്ധിശാലി' എന്നാണ് അർഥം, impulsive-ന്റെ direct opposite അല്ല — ഒരു impulsive person-ഉം smart ആയിരിക്കാം.\n  • 🪤 PSC Trap: Positive-sounding word ആയതിനാൽ students ഇത് antonym ആണെന്ന് guess ചെയ്യാൻ സാധ്യതയുണ്ട്.\n\n• (B) Sensitive\n  • ഇത് 'വൈകാരികമായി പ്രതികരിക്കുന്ന' എന്നാണ് അർഥം, impulsive-ന്റെ opposite അല്ല.\n\n• (D) Brilliant\n  • ഇത് 'മിടുക്കുള്ള/പ്രഭയുള്ള' എന്നാണ് അർഥം, impulsive/cautious-മായി നേരിട്ട് ബന്ധമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'IMPULSIVE = Jump first, think later; CAUTIOUS = Think first, jump later!' — action order ഓർത്താൽ opposite മറക്കില്ല.\n• Word family: rash, hasty, reckless (impulsive synonyms) vs cautious, careful, prudent, wary (antonyms) — ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Antonym questions-ൽ options-ൽ 'positive sounding' words (smart, brilliant) കണ്ടാൽ misled ആകാതെ, exact core-meaning opposite തിരയുക."
+    }
   }
 ]
