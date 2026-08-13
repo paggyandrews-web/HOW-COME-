@@ -310,5 +310,57 @@
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC) -- uploaded 27-02-2026. English rendering for study convenience; PSC did not publish an English-medium booklet for paper 11/2026 (only M/K/T). Q61-70 are printed in English on the official M-medium paper (unchanged); Q71-80 are the Malayalam-language subject questions (kept in Malayalam, untranslated); Q1-60 and Q81-100 are translated from the official Malayalam text of 11/2026 M.",
     "status": "published"
+  },
+  {
+    "id": "174-2025-M-EN",
+    "paperCode": "174/2025 M-EN",
+    "post": "Junior Time Keeper/Sales Assistant",
+    "categoryCode": "055/2025, 062/2025",
+    "date": "29-Dec-2025",
+    "medium": "E",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) -- uploaded 06-01-2026. English rendering for study convenience; PSC did not publish an English-medium booklet for paper 174/2025 (only M/K/T). Confirmed against the official Malayalam-medium paper (174-2025-M): Q81-90 are printed in English on the official M-medium paper (unchanged); Q91-100 are the Malayalam-language subject questions (kept in Malayalam, untranslated); Q1-80 are translated from the official Malayalam text of 174/2025 M.",
+    "status": "published"
+  },
+  {
+    "id": "174-2025-M",
+    "paperCode": "174/2025 M",
+    "post": "Junior Time Keeper/Sales Assistant",
+    "categoryCode": "055/2025, 062/2025",
+    "date": "29-Dec-2025",
+    "medium": "M",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) -- uploaded 06-01-2026.",
+    "status": "published"
+  },
+  {
+    "id": "173-2025-M-EN",
+    "paperCode": "173/2025 M-EN",
+    "post": "OFFICE ASSISTANT (Kerala Tourism Development Corpn. Ltd.)",
+    "categoryCode": "197/2025",
+    "date": "23-Dec-2025",
+    "medium": "E",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) -- uploaded 04-02-2026. English rendering for study convenience; PSC did not publish an English-medium booklet for paper 173/2025 (only M/K/T). Confirmed against the official Malayalam-medium paper (173-2025-M), verbatim byte-identical: Q61-80 (including the reading-comprehension passage) are printed in English on the official M-medium paper (unchanged); Q81-100 are the Malayalam-language subject questions (kept in Malayalam, untranslated); Q1-60 are translated from the official Malayalam text of 173/2025 M.",
+    "status": "published"
+  },
+  {
+    "id": "173-2025-M",
+    "paperCode": "173/2025 M",
+    "post": "OFFICE ASSISTANT (Kerala Tourism Development Corpn. Ltd.)",
+    "categoryCode": "197/2025",
+    "date": "23-Dec-2025",
+    "medium": "M",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) -- uploaded 04-02-2026.",
+    "status": "published"
   }
 ]

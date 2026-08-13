@@ -1148,5 +1148,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) antiseptic - ഇത് അണുബാധ (infection) തടയുന്ന വസ്തുവാണ്; ഉറക്കവുമായി ബന്ധമില്ല.\n  🪤 PSC Trap: medical terms ആയതിനാൽ confuse ചെയ്യിക്കാൻ വേണ്ടി PSC ഇത് option ആയി വയ്ക്കും.\n\n• (C) analgesic - ഇത് വേദന കുറയ്ക്കുന്ന മരുന്നാണ് (pain reliever); ഉറക്കം വരുത്തുന്നതല്ല.\n\n• (D) antidote - ഇത് വിഷബാധയ്ക്ക് (poison) എതിരെ ഉപയോഗിക്കുന്ന മരുന്നാണ്; ഉറക്കവുമായി ബന്ധമില്ല.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'SOPORIFIC' - 'SLEEP-o-rific' എന്ന് ഓർക്കുക, 'sleep' ശബ്ദം 'sopor'-ൽ ഒളിച്ചിരിക്കുന്നു.\n• Medical one-word substitutes ഒരുമിച്ച് പഠിക്കുക: soporific (sleep), analgesic (pain), antiseptic (infection), antidote (poison).\n• PSC exam strategy: medical-related one-word substitute options വന്നാൽ ഓരോന്നിന്റെയും specific function (sleep/pain/infection/poison) വേർതിരിച്ചറിയുക."
     }
+  },
+  {
+    "id": "HC-DAILY-2026-08-13-Q1",
+    "paperId": "HC-DAILY-2026-08-13",
+    "questionNumber": 1,
+    "topic": "Question Tags",
+    "difficulty": "medium",
+    "questionText": "Choose the correct question tag to complete the sentence.\nBarely anyone turned up for the meeting, __________?",
+    "optionA": "hadn't they",
+    "optionB": "weren't they",
+    "optionC": "did they",
+    "optionD": "didn't they",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) did they\n\n• 'Barely' എന്ന word-ന് 'hardly, scarcely' എന്ന അർത്ഥമാണ് — ഇത് ഒരു semi-negative adverb ആണ്, അതായത് ഈ sentence അർത്ഥത്തിൽ already negative ആണ് ('almost nobody turned up' എന്നാണ് meaning).\n• Main clause negative ആയതിനാൽ, question tag positive ആയിരിക്കണം.\n• Main verb 'turned up' (Simple Past) ആയതിനാൽ, tag-ലും do-auxiliary 'did' തന്നെ വരണം.\n• Subject 'anyone' ഒരു indefinite pronoun ആയതിനാൽ, tag-ൽ 'they' ഉപയോഗിക്കുന്നു (PSC-യുടെ standard convention).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Semi-negative word (hardly/scarcely/barely/rarely/seldom) ഉള്ള sentence-ന് → POSITIVE tag.\n• Question tag-ന്റെ അടിസ്ഥാന നിയമം: Positive statement → Negative tag; Negative statement → Positive tag.\n• 'Barely', 'hardly', 'scarcely', 'rarely', 'seldom', 'little', 'few' ഇവയെല്ലാം അർത്ഥത്തിൽ negative ആണ്, അതുകൊണ്ട് ഇവയുള്ള sentence-കൾക്ക് tag-ൽ auxiliary/verb negative ആക്കരുത്.\n• ⭐ PSC ആവർത്തനം: Question Tags PSC പേപ്പറുകളിൽ സ്ഥിരമായി വരുന്ന topic ആണ് — semi-negative words trap ചെയ്യാൻ വേണ്ടി ഉപയോഗിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. She hardly ever smiles, does she?\n  2. He seldom comes late, does he?\n  3. There is little hope left, is there?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (D) didn't they — ഇത് negative tag ആണ്. Sentence already 'barely' കൊണ്ട് negative ആയതിനാൽ, tag-ലും negative ഇട്ടാൽ double-negative ആയി മാറും — ഇത് തെറ്റാണ്.\n• 🪤 PSC Trap: 'Barely' കണ്ടിട്ട് ചിലർ sentence positive ആണെന്ന് കരുതി negative tag ഇടും — അതാണ് ഈ trap.\n• (B) weren't they — ഇത് 'to be' verb-ന്റെ tag ആണ്, പക്ഷേ main verb 'turned up' ഒരു action verb ആണ്, 'to be' അല്ല.\n• 🪤 PSC Trap: Auxiliary verb തിരഞ്ഞെടുക്കുമ്പോൾ main verb ഏതെന്ന് നോക്കാതെ ഊഹിക്കുന്നവർക്കുള്ള trap.\n• (A) hadn't they — ഇത് Past Perfect tense-ന്റെ tag ആണ്, പക്ഷേ sentence Simple Past ('turned up') ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Barely, Hardly, Scarcely, Rarely, Seldom' — ഇവ 'BHSRS' Squad ആണ്, ഇവ കണ്ടാൽ ഉടനെ ഓർക്കുക: 'ഇവർ already negative ആണ്, tag-ൽ positive വേണം!'\n• ഈ word family മുഴുവനും ഒരുമിച്ച് പഠിക്കുക: hardly, barely, scarcely, rarely, seldom, little, few, no sooner.\n• PSC exam strategy: Question tag ചോദ്യത്തിൽ ആദ്യം sentence-ൽ semi-negative word ഉണ്ടോ എന്ന് നോക്കുക, എന്നിട്ട് matching auxiliary verb (do/be/have/modal) കണ്ടെത്തുക. ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-13-Q2",
+    "paperId": "HC-DAILY-2026-08-13",
+    "questionNumber": 2,
+    "topic": "Prepositions",
+    "difficulty": "medium",
+    "questionText": "Fill in the blank with the correct preposition.\nEvery responsible citizen must abide __________ the laws of the land.",
+    "optionA": "by",
+    "optionB": "with",
+    "optionC": "to",
+    "optionD": "for",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) by\n\n• 'Abide by' എന്നത് ഒരു fixed collocation (ഉറച്ച preposition-കൂട്ട്) ആണ് — 'നിയമങ്ങളോ നിയമങ്ങളോ അനുസരിക്കുക/പാലിക്കുക' എന്നാണ് അർത്ഥം.\n• 'Abide' എന്ന verb-ന് ശേഷം എപ്പോഴും 'by' മാത്രമേ വരൂ — ഇത് ഒരു idiomatic pairing ആണ്, translate ചെയ്ത് ഊഹിക്കാൻ പറ്റില്ല.\n• PSC പേപ്പറുകളിൽ ഇത്തരം fixed verb+preposition combinations സ്ഥിരമായി ചോദിക്കാറുണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: abide + BY (എപ്പോഴും, exception ഇല്ല).\n• ഇത് ഒരു fixed collocation ആണ് — verb-ഉം preposition-ഉം ഒരുമിച്ച് ഒരു unit ആയി മനഃപാഠമാക്കണം.\n• Related word group: insist ON, depend ON, congratulate ON, comply WITH, adhere TO — ഇവയെല്ലാം similar meaning (rule/law പാലിക്കൽ) ഉള്ള verbs ആണ്, പക്ഷേ ഓരോന്നിനും വ്യത്യസ്ത fixed preposition ആണ്.\n• ⭐ PSC ആവർത്തനം: Prepositions PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic-കളിൽ ഒന്നാണ് — fixed collocations പഠിക്കുന്നത് ഏറ്റവും സ്കോർ കിട്ടുന്ന വഴിയാണ്.\n• ഉദാഹരണ sentences:\n  1. Students must abide by the rules of the school.\n  2. We should abide by our promises.\n  3. He always abides by the law.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) with — 'Abide with' എന്ന combination standard English-ൽ ഇല്ല ('അനുസരിക്കുക' എന്ന അർത്ഥത്തിൽ).\n• 🪤 PSC Trap: 'Comply with' എന്ന similar-meaning verb-മായി confuse ചെയ്യിക്കാൻ വേണ്ടി ഇടുന്ന option ആണിത്.\n• (C) to — 'Adhere to' എന്ന verb-മായി confuse ചെയ്യിക്കാൻ വേണ്ടിയുള്ള trap ആണ്; 'abide to' എന്നത് തെറ്റാണ്.\n• (D) for — 'Abide for' എന്ന combination meaningless ആണ്; ഈ preposition ഇവിടെ ഒരു തരത്തിലും ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Abide BY the law, or BUY trouble!' — 'by' rhyme ആയി ഓർക്കുക.\n• Rule family ഒരുമിച്ച് പഠിക്കുക: abide BY, comply WITH, adhere TO, conform TO/WITH — meaning ഒന്നാണെങ്കിലും preposition വ്യത്യാസമുണ്ട്.\n• PSC exam strategy: Preposition ചോദ്യങ്ങളിൽ verb ഏതെന്ന് നോക്കി, ആ verb-ന്റെ fixed preposition ഓർമ്മയിൽ നിന്ന് നേരിട്ട് പിടിക്കുക — grammar rule-ൽ നിന്ന് derive ചെയ്യാൻ ശ്രമിക്കരുത്, ഇത് vocabulary പോലെ പഠിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-13-Q3",
+    "paperId": "HC-DAILY-2026-08-13",
+    "questionNumber": 3,
+    "topic": "Subject-Verb Agreement",
+    "difficulty": "medium",
+    "questionText": "Choose the correct verb form to complete the sentence.\nThe number of unemployed youth in the district __________ increasing every year.",
+    "optionA": "have been",
+    "optionB": "were",
+    "optionC": "are",
+    "optionD": "is",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) is\n\n• 'The number of' എന്ന phrase-ൽ യഥാർത്ഥ subject 'the number' (singular) ആണ്, 'youth' അല്ല.\n• അതുകൊണ്ട് verb-ഉം singular ആയിരിക്കണം — 'is'.\n• ഇത് PSC-യിൽ വളരെ സാധാരണയായി ചോദിക്കുന്ന ഒരു trap topic ആണ്, 'A number of' എന്നതുമായി confuse ചെയ്യരുത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'THE number of' + Singular verb  |  'A number of' + Plural verb.\n• 'The number of' ഉപയോഗിക്കുമ്പോൾ, ശ്രദ്ധ 'number' എന്ന word-ലേക്കാണ് (അത് ഒരു single entity ആണ്) — അതുകൊണ്ട് singular verb.\n• 'A number of' ഉപയോഗിക്കുമ്പോൾ, meaning 'several/many' ആണ് — അതുകൊണ്ട് plural verb.\n• ⭐ PSC ആവർത്തനം: ഈ 'the number of / a number of' contrast Subject-Verb Agreement-ൽ ഏറ്റവും repeat ആകുന്ന trap-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n  1. The number of accidents on this road is alarming.\n  2. A number of students were absent today.\n  3. The number of visitors has increased this year.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (C) are — ഇത് 'youth' plural ആണെന്ന് കരുതി തിരഞ്ഞെടുക്കുന്ന തെറ്റാണ്; യഥാർത്ഥ subject 'the number' ആണ്.\n• 🪤 PSC Trap: ഏറ്റവും common trap — 'The number of' കണ്ടിട്ട് 'A number of' ആണെന്ന് തെറ്റിദ്ധരിച്ച് plural verb ഇടുന്നത്.\n• (A) have been — Plural, Present Perfect Continuous ഘടനയും ചേരില്ല; subject singular ആണ്.\n• (B) were — Plural, Past tense ആണ്; sentence-ന്റെ context ('every year') ongoing/present ആണ്, past അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'THE number IS one number' (singular) — 'A number ARE many' (plural). 'THE' = ഒരു definite single figure, 'A' = പലതും.\n• Rule family: Collective-looking subjects (the number of, a pair of, a group of, the majority of) ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: 'number of' കണ്ടാൽ ഉടനെ 'THE' ആണോ 'A' ആണോ എന്ന് ആദ്യം നോക്കുക — ബാക്കി sentence വായിക്കാതെ തന്നെ answer decide ചെയ്യാം!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-13-Q4",
+    "paperId": "HC-DAILY-2026-08-13",
+    "questionNumber": 4,
+    "topic": "Tenses",
+    "difficulty": "medium",
+    "questionText": "Choose the correct tense form to complete the sentence.\nBy this time next year, she __________ her postgraduate degree.",
+    "optionA": "has completed",
+    "optionB": "will have completed",
+    "optionC": "completes",
+    "optionD": "will complete",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) will have completed\n\n• 'By this time next year' എന്ന phrase ഒരു future point-ലെ completion signal ആണ് — ഇത് Future Perfect Tense-ന്റെ classic signal ആണ്.\n• Future Perfect ഉപയോഗിക്കുന്നത് ഒരു future action, മറ്റൊരു future time point-ന് മുൻപ് പൂർത്തിയാകും എന്ന് പറയാനാണ്.\n• Formula: will + have + V3 (completed).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: By + future time reference → will have + V3 (Future Perfect Tense).\n• Signal words: 'by this time next year', 'by next month', 'by 2030', 'by the time he arrives (future context)'.\n• Future Perfect action, ആ future point-ന് മുൻപേ പൂർത്തിയായിരിക്കും എന്ന് കാണിക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: Tenses-ൽ Perfect forms (Present/Past/Future Perfect) signal-word based questions സ്ഥിരമായി വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. By next year, he will have finished his studies.\n  2. By 2030, the company will have opened ten new branches.\n  3. By the time you return, I will have cooked dinner.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (D) will complete — ഇത് Simple Future ആണ്; action നടക്കും എന്ന് പറയുന്നു എന്നല്ലാതെ, ഒരു future time-ന് മുൻപ് 'completed ആയിരിക്കും' എന്ന meaning ഇതിൽ ഇല്ല.\n• 🪤 PSC Trap: 'will' കണ്ടിട്ട് simple future മതി എന്ന് കരുതുന്നവർക്കുള്ള trap — 'have' കൂടി വേണം എന്നത് പലരും miss ചെയ്യും.\n• (A) has completed — Present Perfect ആണ്; ഇത് ഇപ്പോൾ പൂർത്തിയായി എന്നാണ് അർത്ഥം, പക്ഷേ sentence future-നെ കുറിച്ചാണ് പറയുന്നത്.\n• (C) completes — Simple Present ആണ്; ഇത് habitual/general truth-ന് ഉപയോഗിക്കുന്നതാണ്, future completion കാണിക്കില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BY + Future time = WILL HAVE + V3' — 'BY' എന്ന വാക്ക് കണ്ടാൽ ഉടനെ 'will have' ഓർക്കുക.\n• Word family: Future Perfect (will have + V3) vs Future Perfect Continuous (will have been + V-ing) — രണ്ടും ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Tense ചോദ്യങ്ങളിൽ ആദ്യം signal word (by, since, for, yesterday, next year) കണ്ടെത്തുക — signal word തന്നെ correct tense പറഞ്ഞുതരും, sentence മുഴുവൻ വായിക്കണ്ട ആവശ്യമില്ല."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-13-Q5",
+    "paperId": "HC-DAILY-2026-08-13",
+    "questionNumber": 5,
+    "topic": "Active and Passive Voice",
+    "difficulty": "medium",
+    "questionText": "Change the following sentence from Active to Passive:\nYou should submit the assignment before the deadline.",
+    "optionA": "The assignment should have been submitted before the deadline.",
+    "optionB": "The assignment should submit before the deadline.",
+    "optionC": "The assignment should be submitted before the deadline.",
+    "optionD": "The assignment was submitted before the deadline by you.",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) The assignment should be submitted before the deadline.\n\n• Modal verb ('should') ഉള്ള sentence-ന്റെ Passive Voice ഉണ്ടാക്കുമ്പോൾ formula: Modal + BE + V3.\n• Active-ലെ 'should' Passive-ലും അതേപടി നിലനിർത്തണം — tense/modal മാറ്റരുത്.\n• 'by you' പോലുള്ള obvious/generic agent, natural passive sentence-ൽ ഒഴിവാക്കുന്നതാണ് standard practice.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Active tense/modal = Passive tense/modal, EPPOZHUM (എപ്പോഴും) same.\n• Modal verb sentences-ന്റെ Passive: Subject + Modal + BE + V3 + (by + agent).\n• Object (assignment) Passive-ൽ Subject ആയി മാറുന്നു; original Subject (you) 'by'-യോടെ ഒടുവിൽ വരും അല്ലെങ്കിൽ obvious ആണെങ്കിൽ drop ചെയ്യാം.\n• ⭐ PSC ആവർത്തനം: Modal verbs (should, must, can, will) ഉള്ള Active-Passive conversion PSC-യിൽ സ്ഥിരം വരുന്ന pattern ആണ്.\n• ഉദാഹരണ sentences:\n  1. You must complete the form. → The form must be completed.\n  2. She can solve this problem. → This problem can be solved by her.\n  3. They will announce the results. → The results will be announced.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) should have been submitted — ഇത് 'should have + V3' (perfect modal, past obligation not fulfilled) ഘടനയാണ്; original sentence-ൽ അങ്ങനെ ഒരു meaning ഇല്ല, ഇത് tense മാറ്റുന്നു.\n• 🪤 PSC Trap: Modal Passive-ൽ 'have been' കൂട്ടിച്ചേർത്ത് meaning മാറ്റുന്ന common mistake.\n• (C) should submit — ഇവിടെ 'be' verb ഇല്ല, ഇത് Passive ഘടന തന്നെ അല്ല; grammatically incomplete ആണ്.\n• (D) was submitted...by you — ഇത് Simple Past ആണ്, modal 'should' പൂർണ്ണമായി ഒഴിവാക്കിയിരിക്കുന്നു — original sentence-ന്റെ modal meaning നഷ്ടപ്പെടുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Modal-നു ശേഷം BE + V3 വരണം' — SHOULD BE, MUST BE, CAN BE, WILL BE... ഇത് ഒരു chant പോലെ ഓർക്കുക.\n• Rule family: എല്ലാ Modal verbs-ന്റെയും Passive ഘടന ഒരേ pattern ആണ് — Modal + BE + V3.\n• PSC exam strategy: Active-Passive ചോദ്യങ്ങളിൽ ആദ്യം sentence-ന്റെ tense/modal identify ചെയ്യുക, എന്നിട്ട് Object-നെ Subject ആക്കി, ആ tense/modal അതേപടി Passive-ൽ apply ചെയ്യുക — tense മാറ്റാൻ പാടില്ല എന്നത് ഏറ്റവും പ്രധാനം."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-13-Q6",
+    "paperId": "HC-DAILY-2026-08-13",
+    "questionNumber": 6,
+    "topic": "Spelling",
+    "difficulty": "medium",
+    "questionText": "Choose the correctly spelled word.",
+    "optionA": "flambouyant",
+    "optionB": "flamboyent",
+    "optionC": "flamboient",
+    "optionD": "flamboyant",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) flamboyant\n\n• 'Flamboyant' എന്നാൽ 'വർണ്ണശബളമായ, ശ്രദ്ധ ആകർഷിക്കുന്ന style-ലുള്ള' എന്നാണ് അർത്ഥം.\n• Spelling ശ്രദ്ധിക്കുക: F-L-A-M-B-O-Y-A-N-T — 'boy' എന്ന ഭാഗം അതേപടി ഉള്ളിൽ ഉണ്ടെന്ന് ഓർക്കുക ('flam-BOY-ant').\n• ഇത് French origin word ആണ് ('flamboyer' = to blaze/flame) — 'oy' spelling French words-ൽ common ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: flam-BOY-ant — ഉള്ളിൽ 'BOY' എന്ന word spot ചെയ്താൽ spelling ഒരിക്കലും തെറ്റില്ല.\n• Etymology hint: French 'flamboyer' (to blaze) → Latin 'flamma' (flame) എന്നിവയിൽ നിന്നാണ് ഈ word വന്നത്.\n• Common misspelling patterns: 'oy' → 'ey' (flamboyent ✗), 'ou' (flambouyant ✗) എന്നിവ ശ്രദ്ധിക്കുക.\n• ⭐ PSC ആവർത്തനം: Spelling PSC-യിലെ ഏറ്റവും repeat ആകുന്ന topic-കളിൽ ഒന്നാണ് — 'silent letters', 'French-origin words' ഇവ പ്രത്യേകം ശ്രദ്ധിക്കണം.\n• ഉദാഹരണ sentences:\n  1. She wore a flamboyant red dress to the party.\n  2. His flamboyant personality made him popular.\n  3. The dancer's flamboyant moves impressed everyone.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) flamboyent — 'ant' എന്നതിന് പകരം 'ent' എഴുതിയത് തെറ്റാണ്; ഇംഗ്ലീഷിൽ ഈ word 'ant' ending ആണ്.\n• 🪤 PSC Trap: '-ant' vs '-ent' ending confusion ഏറ്റവും common spelling trap ആണ്.\n• (A) flambouyant — 'oy' എന്നതിന് പകരം 'ou' ഇട്ടത് തെറ്റാണ്; തെറ്റായ vowel combination.\n• (C) flamboient — 'oy' vowel combination തന്നെ വിട്ടുപോയി, ഇത് word-ന്റെ core spelling തെറ്റിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'A flam-BOY-ant boy loves to show off!' — 'BOY' spot ചെയ്ത് spelling ഓർക്കുക.\n• Word family: '-ant' ending ഉള്ള adjectives (flamboyant, vigilant, arrogant, ignorant) ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Spelling ചോദ്യങ്ങളിൽ word-നെ ചെറിയ chunks ആയി പിരിച്ച് (flam-boy-ant) നോക്കുക — ഇത് ഏത് spelling-ഉം എളുപ്പത്തിൽ ഓർക്കാൻ സഹായിക്കും."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-13-Q7",
+    "paperId": "HC-DAILY-2026-08-13",
+    "questionNumber": 7,
+    "topic": "Idioms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the idiom in italics.\nThe workers finished the stadium __at the eleventh hour__, just before the opening ceremony.",
+    "optionA": "very early in the morning",
+    "optionB": "at the last possible moment",
+    "optionC": "after a delay of many years",
+    "optionD": "during the eleventh attempt",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) at the last possible moment\n\n• 'At the eleventh hour' എന്ന idiom-ന്റെ അർത്ഥം 'അവസാന നിമിഷത്തിൽ, deadline-ന് തൊട്ടുമുൻപ്' എന്നാണ്.\n• ഈ idiom Bible-ലെ ഒരു parable-ൽ നിന്നാണ് വന്നത് — അവിടെ പന്ത്രണ്ട് മണിക്കൂർ ജോലി ദിവസത്തിൽ പതിനൊന്നാം മണിക്കൂറിൽ (അവസാന മണിക്കൂറിൽ) ജോലിക്ക് ചേർന്നവരെ കുറിച്ചാണ് പറയുന്നത്.\n• Sentence-ൽ 'just before the opening ceremony' എന്നത് context clue ആയി 'last moment' meaning-നെ confirm ചെയ്യുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'At the eleventh hour' = ഒരു deadline-ന്റെ അവസാന നിമിഷം (just in time / very last moment).\n• Idiom-ന്റെ literal meaning (പതിനൊന്നാം മണിക്കൂർ) അല്ല, figurative meaning (അവസാന നിമിഷം) ആണ് ചോദ്യത്തിൽ ചോദിക്കുന്നത് എന്നത് എപ്പോഴും ഓർക്കുക.\n• Related idioms: 'in the nick of time', 'down to the wire' — ഇവയും similar 'last-moment' meaning ഉള്ളവയാണ്.\n• ⭐ PSC ആവർത്തനം: Idioms PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന high-weightage topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. He submitted his application at the eleventh hour.\n  2. The team scored the winning goal at the eleventh hour.\n  3. She always finishes her work at the eleventh hour.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) very early in the morning — ഇത് idiom-ന്റെ literal 'hour' എന്ന word കണ്ട് ഊഹിച്ചെടുക്കുന്ന തെറ്റായ meaning ആണ്; idiom-ന് time-of-day-മായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'hour' എന്ന വാക്ക് കണ്ടിട്ട് 'സമയം' എന്ന് നേരിട്ട് ബന്ധപ്പെടുത്തുന്നവർക്കുള്ള trap.\n• (C) after a delay of many years — ഇത് 'delay' എന്ന ആശയത്തെ അതിശയോക്തിപരമായി extend ചെയ്യുന്നു; idiom 'moments' അല്ല 'years' സൂചിപ്പിക്കുന്നത്.\n• (D) during the eleventh attempt — 'eleventh' എന്ന number-നെ literal ആയി 'attempt count' ആയി തെറ്റിദ്ധരിക്കുന്ന distractor ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Eleventh hour = clock is almost striking twelve!' — 12 മണിക്ക് തൊട്ടുമുൻപുള്ള last moment ആയി visualize ചെയ്യുക.\n• Word family: 'last-moment' idioms ഒരുമിച്ച് പഠിക്കുക — at the eleventh hour, in the nick of time, down to the wire.\n• PSC exam strategy: Idiom ചോദ്യങ്ങളിൽ literal word meaning-ൽ വീഴരുത് — idiom എപ്പോഴും ഒരു group ആയി figurative meaning-ൽ മാത്രം read ചെയ്യുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-13-Q8",
+    "paperId": "HC-DAILY-2026-08-13",
+    "questionNumber": 8,
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct synonym of the word in italics.\nThe opposition leader was __vociferous__ in his criticism of the new tax policy.",
+    "optionA": "loud and forceful",
+    "optionB": "hesitant and unsure",
+    "optionC": "polite and formal",
+    "optionD": "silent and reserved",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) loud and forceful\n\n• 'Vociferous' എന്നാൽ 'ഉച്ചത്തിലും ശക്തിയോടെയും അഭിപ്രായം പ്രകടിപ്പിക്കുന്ന' എന്നാണ് അർത്ഥം.\n• Latin root 'vox/voc' (voice) + 'ferre' (to carry) — 'ശബ്ദം ഉച്ചത്തിൽ കൊണ്ടുപോകുന്ന' എന്ന etymology തന്നെ meaning സൂചിപ്പിക്കുന്നു.\n• Sentence-ൽ 'criticism' എന്ന word context clue ആയി 'loud, forceful opposition' എന്ന meaning-നെ support ചെയ്യുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: VOCiferous → VOICE ഉച്ചത്തിൽ ഉപയോഗിക്കുന്നത് (loud + forceful expression).\n• Vociferous, vocal, vocation, vocabulary — ഇവയെല്ലാം 'vox/voc' (voice) എന്ന Latin root-ൽ നിന്ന് വരുന്ന word family ആണ്.\n• ⭐ PSC ആവർത്തനം: Synonyms-ൽ Latin/Greek root ഉള്ള advanced vocabulary words സ്ഥിരമായി repeat ആകാറുണ്ട്.\n• Etymology hint: Latin 'vox' (voice) + 'ferre' (to bear/carry) = 'ശബ്ദം carry ചെയ്യുന്ന', അതായത് ഉച്ചത്തിൽ പറയുന്ന.\n• ഉദാഹരണ sentences:\n  1. The protesters were vociferous in demanding justice.\n  2. She gave a vociferous defence of her decision.\n  3. The crowd was vociferous in support of the team.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (D) silent and reserved — ഇത് 'vociferous'-ന്റെ exact opposite (antonym) ആണ്; ഇത് 'reticent' എന്ന word-ന്റെ meaning ആണ്.\n• 🪤 PSC Trap: Synonym ചോദ്യങ്ങളിൽ antonym ഒരു option ആയി ഇടുന്നത് ഏറ്റവും common trap ആണ് — ശ്രദ്ധിച്ചില്ലെങ്കിൽ എളുപ്പം വീഴും.\n• (B) hesitant and unsure — ഇത് 'vociferous'-ന്റെ meaning-മായി ഒരു ബന്ധവുമില്ല; confidence കുറവ് സൂചിപ്പിക്കുന്ന word ആണ്.\n• (C) polite and formal — 'Vociferous' ആയ ഒരാൾ necessarily polite ആയിരിക്കണമെന്നില്ല; ഇത് tone/manner-നെ കുറിച്ചല്ല, volume/force-നെ കുറിച്ചാണ് word.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'VOCiferous = VOICE ഉച്ചത്തിൽ' — 'voc' കണ്ടാൽ ഉടനെ 'voice/sound' ഓർക്കുക.\n• Rule family: 'voc/vox' root ഉള്ള words ഒരുമിച്ച് പഠിക്കുക — vocal, vociferous, advocate, evoke, invoke.\n• PSC exam strategy: Synonym MCQ-കളിൽ ഒരു option എപ്പോഴും antonym ആയിരിക്കും — അത് ആദ്യം identify ചെയ്ത് eliminate ചെയ്യുക, ബാക്കി മൂന്നിൽ നിന്ന് closest meaning തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-13-Q9",
+    "paperId": "HC-DAILY-2026-08-13",
+    "questionNumber": 9,
+    "topic": "Phrasal Verbs",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the phrasal verb in italics.\nWhen his savings ran out, he had to __fall back on__ his old skills as a carpenter.",
+    "optionA": "give away for free",
+    "optionB": "criticize openly",
+    "optionC": "rely on as a last resort",
+    "optionD": "forget about completely",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) rely on as a last resort\n\n• 'Fall back on' എന്ന phrasal verb-ന്റെ meaning 'മറ്റ് വഴികളില്ലാതെ വരുമ്പോൾ ഒരു backup option ഉപയോഗിക്കുക' എന്നാണ്.\n• Sentence-ൽ 'savings ran out' എന്നത് context clue ആയി 'വേറെ ഒരു resource ഇല്ലാതെ വന്നപ്പോൾ പഴയ skill ഉപയോഗിച്ചു' എന്ന meaning-നെ support ചെയ്യുന്നു.\n• ഇത് idiomatic ആണ് — 'fall' + 'back' + 'on' ചേർത്ത് literal meaning-ൽ നിന്ന് വ്യത്യസ്തമായ ഒരു meaning ഉണ്ടാക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: fall back ON X = X-നെ backup/last-resort ആയി use ചെയ്യുക.\n• Phrasal verbs-ന്റെ meaning individual words (fall, back, on) കൂട്ടിച്ചേർത്ത് ഊഹിക്കാൻ പറ്റില്ല — idiomatic ആയി മനഃപാഠമാക്കണം.\n• Related phrasal verbs: 'count on' (rely on), 'depend on' (rely on), 'resort to' (use as last option) — ഇവയും similar meaning family ആണ്.\n• ⭐ PSC ആവർത്തനം: Phrasal Verbs PSC-യിൽ high-frequency topic ആണ് — everyday-use verbs (call, look, put, fall, get) അടിസ്ഥാനമാക്കിയ combinations ശ്രദ്ധിക്കുക.\n• ഉദാഹരണ sentences:\n  1. If the plan fails, we can always fall back on our original strategy.\n  2. She had no savings to fall back on during the crisis.\n  3. He fell back on his family for support after losing his job.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (D) forget about completely — ഇത് 'fall back on'-ന്റെ opposite meaning ആണ്; ഇവിടെ ഒരു skill 'ഉപയോഗിക്കുന്നു', 'മറക്കുന്നു' അല്ല.\n• 🪤 PSC Trap: 'fall' എന്ന word കണ്ട് 'ഉപേക്ഷിക്കുക/മറക്കുക' എന്ന് തെറ്റായി ബന്ധപ്പെടുത്തുന്നവർക്കുള്ള trap.\n• (B) criticize openly — ഇത് 'fall out with' (വഴക്കുണ്ടാക്കുക) എന്ന വേറൊരു phrasal verb-ന്റെ meaning ആണ്; confuse ചെയ്യരുത്.\n• (A) give away for free — ഇതിന് 'fall back on'-മായി യാതൊരു ബന്ധവുമില്ല; skill 'ഉപയോഗിക്കുന്നു' എന്നല്ലാതെ 'കൊടുക്കുന്നു' എന്ന meaning ഇവിടെ ഇല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Fall BACK ON something' = 'പുറകോട്ട് വീണ് ഒരു support-ൽ ചാരുക' — ഒരു cushion-ൽ വീഴുന്നത് പോലെ visualize ചെയ്യുക.\n• Word family: 'fall' ഉപയോഗിച്ചുള്ള phrasal verbs ഒരുമിച്ച് പഠിക്കുക — fall back on, fall through, fall out (with), fall for.\n• PSC exam strategy: Phrasal verb ചോദ്യങ്ങളിൽ sentence-ന്റെ context (ഇവിടെ 'savings ran out') ശ്രദ്ധിക്കുക — context തന്നെ correct meaning-ലേക്ക് നയിക്കും."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-13-Q10",
+    "paperId": "HC-DAILY-2026-08-13",
+    "questionNumber": 10,
+    "topic": "One Word Substitutes",
+    "difficulty": "medium",
+    "questionText": "Choose the most suitable one-word substitute for the phrase in italics.\nMy uncle became __a person who lives in complete solitude, avoiding the company of others__ after he retired.",
+    "optionA": "philanthropist",
+    "optionB": "extrovert",
+    "optionC": "socialite",
+    "optionD": "recluse",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) recluse\n\n• 'Recluse' എന്നാൽ 'മറ്റുള്ളവരുടെ കൂട്ട് ഒഴിവാക്കി ഏകാന്തമായി ജീവിക്കുന്ന വ്യക്തി' എന്നാണ് അർത്ഥം.\n• Latin root 'recludere/reclusus' (to shut away/seclude) — 'സ്വയം അടച്ചിടുന്ന' എന്ന etymology തന്നെ meaning സൂചിപ്പിക്കുന്നു.\n• Sentence-ലെ 'lives in complete solitude, avoiding the company of others' എന്ന phrase exact-ആയി 'recluse'-ന്റെ definition ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: RECLUSE = ഏകാന്തജീവിതം നയിക്കുന്ന വ്യക്തി (solitude-seeking person).\n• One-word substitute ചോദ്യങ്ങളിൽ, phrase-ന്റെ പൂർണ്ണ definition ഒരു single word-ൽ capture ചെയ്യുന്നതാണ് key skill.\n• ⭐ PSC ആവർത്തനം: One Word Substitutes PSC-യിൽ സ്ഥിരമായി വരുന്ന high-scoring topic ആണ് — 'person who...' definitions പ്രത്യേകം ശ്രദ്ധിക്കണം.\n• Etymology hint: Latin 'reclusus' (shut up, secluded) → French 'reclus' → English 'recluse'.\n• ഉദാഹരണ sentences:\n  1. After the scandal, the actor became a recluse.\n  2. The old writer lived as a recluse in the mountains.\n  3. She turned into a recluse after her husband's death.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) philanthropist — ഇത് 'മറ്റുള്ളവരെ സഹായിക്കാൻ ഉദാരമായി പണം/സമയം നൽകുന്ന വ്യക്തി' എന്നാണ് അർത്ഥം — 'solitude'-മായി ബന്ധമില്ല, opposite ആശയം.\n• 🪤 PSC Trap: 'become...after retired' എന്ന context കണ്ട് 'സാമൂഹിക സേവനത്തിലേക്ക് തിരിഞ്ഞു' എന്ന് തെറ്റായി ഊഹിക്കുന്നവർക്കുള്ള trap.\n• (B) extrovert — ഇത് 'സാമൂഹികമായി സജീവവും പുറംലോകത്തോട് ഇടപെടാൻ താല്പര്യമുള്ളവനും' ആയ വ്യക്തിയാണ് — 'recluse'-ന്റെ നേരെ opposite.\n• (C) socialite — ഇത് 'സാമൂഹിക പരിപാടികളിൽ സജീവമായി പങ്കെടുക്കുന്ന, പ്രശസ്തനായ വ്യക്തി' എന്നാണ് അർത്ഥം — ഇതും 'solitude'-ന്റെ exact opposite ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'RE-CLOSE the door on the world' — 'recluse' സ്വയം door അടച്ച് ലോകത്തിൽ നിന്ന് ഒളിക്കുന്നു എന്ന് visualize ചെയ്യുക.\n• Word family: solitude-related one-word substitutes ഒരുമിച്ച് പഠിക്കുക — recluse, hermit (religious seclusion), misanthrope (hates people).\n• PSC exam strategy: One-word substitute ചോദ്യങ്ങളിൽ phrase-ലെ key idea (ഇവിടെ 'avoiding company of others') identify ചെയ്ത്, ബാക്കി മൂന്ന് options 'opposite' ആണോ എന്ന് ആദ്യം check ചെയ്യുക."
+    }
   }
 ]
