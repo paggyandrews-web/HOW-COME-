@@ -1272,5 +1272,21 @@
     "medium": "TM",
     "year": "2021",
     "categoryCode": "470/2019, 523/2020"
+  },
+  {
+    "id": "117-2021-M",
+    "paperCode": "117/2021",
+    "post": "LD Clerk - Various",
+    "date": "20-Nov-2021",
+    "medium": "M",
+    "year": "2021"
+  },
+  {
+    "id": "075-2021-M",
+    "paperCode": "075/2021 M",
+    "post": "Common Preliminary Examination (Degree Level) Stage I - Various",
+    "date": "13-Nov-2021",
+    "medium": "M",
+    "year": "2021"
   }
 ]
