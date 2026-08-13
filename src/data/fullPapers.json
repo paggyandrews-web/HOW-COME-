@@ -258,5 +258,18 @@
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC) — uploaded 12-05-2026. Note: the source answer-key transcription had 3 discrepancies against the official PDF (Q79, Q84, Q85) — corrected here to match the PSC PDF exactly (source of truth). | Audited 2026-08-11 against official page image (Q51-60): corrected Q52 option order (source had B/C/D scrambled — correct order is A=5^(3/5), B=5, C=5^(2/5), D=5^(7/3)) and Q57 option text (source had A=11/47, C=10 — correct is A=11, C=47). Both fixes keep the same correctAnswer letter (D), only the text under B/C/D was wrong.",
     "status": "published"
+  },
+  {
+    "id": "176-2025-M-EN",
+    "paperCode": "176/2025 M-EN",
+    "post": "Deputy Superintendent of Police (Trainee) (Kerala Police Service)",
+    "categoryCode": "265/2025",
+    "date": "31-Dec-2025",
+    "medium": "E",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) -- uploaded 20-01-2026. Paper as printed mixes mediums by section (Q1-90 English, Q91-100 Malayalam); no translation applied, tagged M-EN per house convention.",
+    "status": "published"
   }
 ]
