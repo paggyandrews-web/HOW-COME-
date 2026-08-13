@@ -2,6 +2,8 @@ import { useState, useMemo, useEffect } from 'react'
 import { useSearchParams, Link } from 'react-router-dom'
 import questions from '../data/questions.json'
 import papers from '../data/papers.json'
+import SignupGate from '../components/SignupGate'
+import { useAuth } from '../contexts/AuthContext'
 
 const paperMap = {}
 papers.forEach(p => { paperMap[p.id] = p })
@@ -16,6 +18,7 @@ function highlight(text, query) {
 }
 
 export default function Search() {
+  const { user } = useAuth()
   const [params, setParams] = useSearchParams()
   const [query, setQuery] = useState(params.get('q') || '')
   const [inputValue, setInputValue] = useState(params.get('q') || '')
@@ -59,6 +62,15 @@ export default function Search() {
 
   const isSearching = query.trim().length >= 2
   const hasResults = results.length > 0
+
+  if (!user) {
+    return (
+      <SignupGate
+        title="Sign up to search questions"
+        subtitle="Searching the full PSC question bank by keyword or topic needs an account."
+      />
+    )
+  }
 
   return (
     <div className="max-w-2xl mx-auto px-4 py-6">

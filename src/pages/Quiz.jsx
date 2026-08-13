@@ -7,7 +7,6 @@ import Confetti from '../components/Confetti'
 import Dropdown from '../components/Dropdown'
 import { useResults } from '../hooks/useResults'
 import { useAuth } from '../contexts/AuthContext'
-import { isPromoActive, promoDaysLeft, promoEndLabel } from '../utils/freeTier'
 import { useBookmarks } from '../hooks/useBookmarks'
 import { useStreak, isStreakMilestone } from '../hooks/useStreak'
 import { unlockAudio } from '../utils/sound'
@@ -337,7 +336,7 @@ function TimerBar({ secs, total }) {
 
 const TIMING_OPTIONS = [15, 20, 25, 30]
 
-function QuizSetup({ onStart, locked, needsSignup, daysLeft }) {
+function QuizSetup({ onStart, needsSignup }) {
   const [search] = useSearchParams()
   const initPaper = search.get('paper') || ''
   const initTopic = search.get('topic') || ''
@@ -526,38 +525,23 @@ function QuizSetup({ onStart, locked, needsSignup, daysLeft }) {
           <div className="text-2xl mb-1">👋</div>
           <div className="font-semibold text-sm mb-2">Sign up to start practicing</div>
           <div className="text-xs mb-3" style={{ color: 'var(--text2)' }}>
-            Free to use until {promoEndLabel()} — just create an account first.
+            Just create an account first.
           </div>
           <Link to="/register"
             className="inline-block w-full py-2.5 rounded-xl font-semibold text-sm"
             style={{ background: 'var(--accent)', color: 'var(--accent-text)' }}>
-            Sign Up Free →
+            Sign Up →
           </Link>
           <div className="text-xs mt-2">
             <Link to="/login" style={{ color: 'var(--accent)' }}>Already have an account? Log in</Link>
           </div>
         </div>
-      ) : locked && !isBrowse ? (
-        <div className="p-4 rounded-xl text-center" style={{ background: 'var(--surface)', border: '1px solid var(--accent-pink)' }}>
-          <div className="text-2xl mb-1">🔒</div>
-          <div className="font-semibold text-sm mb-1" style={{ color: 'var(--accent-pink)' }}>Free promo ended</div>
-          <div className="text-xs" style={{ color: 'var(--text2)' }}>
-            The free period ended {promoEndLabel()}. Upgrade to keep practicing.
-          </div>
-        </div>
       ) : (
-        <>
-          <button onClick={handleStart} disabled={availableQs.length === 0}
-            className="w-full py-3 rounded-xl font-semibold text-sm"
-            style={{ background: 'var(--accent)', color: 'var(--accent-text)', opacity: availableQs.length === 0 ? 0.5 : 1 }}>
-            {isBrowse ? 'Browse Questions →' : 'Start Quiz →'}
-          </button>
-          {typeof daysLeft === 'number' && !isBrowse && (
-            <div className="text-xs text-center mt-2" style={{ color: 'var(--text2)' }}>
-              Free until {promoEndLabel()} {daysLeft > 0 ? `— ${daysLeft} day${daysLeft === 1 ? '' : 's'} left` : '— last day'}
-            </div>
-          )}
-        </>
+        <button onClick={handleStart} disabled={availableQs.length === 0}
+          className="w-full py-3 rounded-xl font-semibold text-sm"
+          style={{ background: 'var(--accent)', color: 'var(--accent-text)', opacity: availableQs.length === 0 ? 0.5 : 1 }}>
+          {isBrowse ? 'Browse Questions →' : 'Start Quiz →'}
+        </button>
       )}
     </div>
   )
@@ -723,7 +707,7 @@ function QuizResult({ questions, answers, onRetry, onHome, streakMilestone }) {
           <Link to="/register"
             className="block text-center py-2 rounded-lg text-sm font-semibold"
             style={{ background: 'var(--accent)', color: 'var(--accent-text)' }}>
-            Sign Up Free →
+            Sign Up →
           </Link>
         </div>
       )}
@@ -824,12 +808,10 @@ export default function Quiz() {
   const { saveResult } = useResults()
   const { toggle: toggleBookmark, isBookmarked } = useBookmarks()
   const { updateStreak } = useStreak()
-  const { user, profile } = useAuth()
+  const { user } = useAuth()
   const [searchParams] = useSearchParams()
 
   const needsSignup = !user
-  const isLocked = !needsSignup && !profile?.isPaid && !isPromoActive()
-  const daysLeft = (!needsSignup && !profile?.isPaid) ? promoDaysLeft() : null
 
   const isTimed = quizData?.mode === 'timed'
   const isBrowse = quizData?.mode === 'browse'
@@ -864,7 +846,7 @@ export default function Quiz() {
   }, [quizState, isTimed, timeLeft, timedOut, selected])
 
   function handleStart({ questions, mode, secsPerQ }) {
-    if (mode !== 'browse' && (needsSignup || isLocked)) return // must be signed up, and within the free promo or paid
+    if (mode !== 'browse' && needsSignup) return // must be signed up
     if (questions.length === 0) return
     setQuizData({ questions, mode, secsPerQ })
     setAnswers(new Array(questions.length).fill(null))
@@ -946,7 +928,7 @@ export default function Quiz() {
     setShowPalette(false)
   }
 
-  if (quizState === 'setup') return <QuizSetup onStart={handleStart} locked={isLocked} needsSignup={needsSignup} daysLeft={daysLeft} />
+  if (quizState === 'setup') return <QuizSetup onStart={handleStart} needsSignup={needsSignup} />
 
   if (quizState === 'result') {
     return (

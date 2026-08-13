@@ -3,7 +3,6 @@ import { Link, useSearchParams } from 'react-router-dom'
 import modelPapers from '../data/modelPapers.json'
 import modelQuestions from '../data/modelQuestions.json'
 import { useAuth } from '../contexts/AuthContext'
-import { isInMockCampaignWindow, mockCampaignFreeUntil } from '../utils/freeTier'
 import Confetti from '../components/Confetti'
 import Dropdown from '../components/Dropdown'
 import { useResults } from '../hooks/useResults'
@@ -11,7 +10,6 @@ import { usePaperProgress } from '../hooks/usePaperProgress'
 import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, statusBadgeText } from '../utils/paperStatus'
 
 const NEGATIVE_MARK = 1 / 3
-const DAY_MS = 24 * 60 * 60 * 1000
 
 // The data file keeps extra questions per paper beyond what's actually quizzed
 // (see the `questions` memo below), so progress tracking needs the same
@@ -40,38 +38,18 @@ const TELEGRAM_URL = 'https://t.me/howcomepsc'
  * a function (rather than inlining `true` at call sites) so the decision
  * lives in one place if that policy ever needs to change again.
  */
-function getDailyFreeUntil(paper) {
-  if (paper?.type !== 'daily' || !paper?.publishedAt) return null
-  return isInMockCampaignWindow(paper.publishedAt)
-    ? mockCampaignFreeUntil()
-    : new Date(paper.publishedAt).getTime() + DAY_MS
-}
-
 function isMockAllowed() {
   return true
 }
 
 /**
  * A daily paper scheduled for a future date must stay hidden until its
- * publishedAt actually arrives. Without this the whole August series would
- * appear at once, because the campaign window (not publishedAt) is what
- * decides the free deadline — so tomorrow's paper would already be unlocked.
+ * publishedAt actually arrives.
  */
 function isPublished(paper) {
   if (paper?.status === 'draft') return false
   if (!paper?.publishedAt) return true
   return Date.now() >= new Date(paper.publishedAt).getTime()
-}
-
-function dailyFreeWindow(paper) {
-  const freeUntil = getDailyFreeUntil(paper)
-  if (freeUntil == null) return null
-  const msLeft = freeUntil - Date.now()
-  const hoursLeft = Math.max(0, Math.ceil(msLeft / (60 * 60 * 1000)))
-  // Campaign windows can run for days — switch to a day count once it's not
-  // meaningfully "hours left" anymore, so the badge stays readable.
-  const label = hoursLeft > 47 ? Math.ceil(hoursLeft / 24) + 'd left' : hoursLeft + 'h left'
-  return { inWindow: msLeft > 0, hoursLeft, label }
 }
 
 /* ── Question text renderer: supports \n line breaks and __underline__ ── */
@@ -133,18 +111,12 @@ function fmtClock(secs) {
    tapped a promo, not a "start exam" button, so dropping them into a live
    test with no explanation of what it is feels like an ambush. This screen
    states the rules and lets them choose the mode. */
-function IntroScreen({ paper, count, freeWin, onPractice, onExam, onExit }) {
+function IntroScreen({ paper, count, onPractice, onExam, onExit }) {
   return (
     <div className="max-w-3xl mx-auto px-4 py-6">
       <div className="card rounded-xl p-5">
         <div className="flex items-center gap-2 flex-wrap mb-1">
           <h1 className="font-bold text-xl">{paper.title}</h1>
-          {freeWin?.inWindow && (
-            <span className="text-xs font-semibold rounded-full px-2 py-0.5"
-              style={{ background: 'rgba(26,157,142,0.15)', color: 'var(--accent)' }}>
-              🔴 Free · {freeWin.label}
-            </span>
-          )}
         </div>
         <div className="text-xs mb-4" style={{ color: 'var(--text2)' }}>
           Kerala PSC English · model paper
@@ -249,7 +221,6 @@ function PaperList({ onStart, onPractice }) {
 
       {shownPapers.map(p => {
         const isDaily = p.type === 'daily'
-        const freeWin = dailyFreeWindow(p)
         const shareUrl = isDaily ? `https://howcome.in/mock?paper=${p.id}` : null
         const prog = progress[p.id]
         const meta = prog ? STATUS_META[prog.status] : null
@@ -259,22 +230,10 @@ function PaperList({ onStart, onPractice }) {
              full-width Practice / Timed button row. Keeps the two sections of
              the app looking like the same app. */
           <div key={p.id} className="card rounded-xl p-4 mb-3 flex flex-col gap-3"
-            style={{ border: '1px solid ' + (due ? DUE_COLOR : isDaily && freeWin?.inWindow ? 'var(--accent)' : 'var(--border)') }}>
+            style={{ border: '1px solid ' + (due ? DUE_COLOR : 'var(--border)') }}>
             <div className="flex-1 min-w-0">
               <div className="flex items-center gap-2 flex-wrap">
                 <div className="font-semibold text-sm leading-snug">{p.title}</div>
-                {isDaily && freeWin?.inWindow && (
-                  <span className="text-xs font-semibold rounded-full px-2 py-0.5"
-                    style={{ background: 'rgba(26,157,142,0.15)', color: 'var(--accent)' }}>
-                    🔴 Free · {freeWin.label}
-                  </span>
-                )}
-                {isDaily && freeWin && !freeWin.inWindow && (
-                  <span className="text-xs font-semibold rounded-full px-2 py-0.5"
-                    style={{ background: 'var(--bg2)', color: 'var(--text2)' }}>
-                    Free window ended
-                  </span>
-                )}
                 {meta && !loading && (
                   <span
                     className="text-[10px] font-bold px-2 py-1 rounded-full whitespace-nowrap"
@@ -948,7 +907,6 @@ export default function Mock() {
       <IntroScreen
         paper={paper}
         count={questions.length}
-        freeWin={dailyFreeWindow(paper)}
         onPractice={() => startPractice(paper)}
         onExam={() => start(paper)}
         onExit={() => { setStage('list'); setPaper(null) }}

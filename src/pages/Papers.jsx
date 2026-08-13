@@ -3,6 +3,8 @@ import { useSearchParams, Link } from 'react-router-dom'
 import papers from '../data/papers.json'
 import questions from '../data/questions.json'
 import Dropdown from '../components/Dropdown'
+import SignupGate from '../components/SignupGate'
+import { useAuth } from '../contexts/AuthContext'
 import { usePaperProgress } from '../hooks/usePaperProgress'
 import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, statusBadgeText } from '../utils/paperStatus'
 
@@ -19,12 +21,22 @@ function testYear(p) {
 const YEARS = [...new Set(papers.map(testYear))].filter(Boolean).sort().reverse()
 
 export default function Papers() {
+  const { user } = useAuth()
   const [search] = useSearchParams()
   const [year, setYear] = useState(search.get('year') || '')
   const [status, setStatus] = useState('')
   const [query, setQuery] = useState('')
 
   const { progress, loading, summary } = usePaperProgress(papers, questions)
+
+  if (!user) {
+    return (
+      <SignupGate
+        title="Sign up to browse previous question papers"
+        subtitle="Every archived PSC paper, topic-wise breakdown and progress tracker needs an account."
+      />
+    )
+  }
 
   const qCountByPaper = useMemo(() => {
     const map = {}

@@ -223,7 +223,7 @@ function PaperList({ onStart, onResume }) {
       <p className="text-sm mb-5" style={{ color: 'var(--text2)' }}>
         Real, complete PSC question papers — all 100 questions, every subject, exactly as printed
         in the original medium. No translation, no explanations — just the paper and the official
-        Final Answer Key. Free to use, sign up to start.
+        Final Answer Key. Sign up to start.
         {!loading && (
           <>
             {' '}{summary.completed} completed
@@ -269,7 +269,7 @@ function PaperList({ onStart, onResume }) {
           <Link to="/register"
             className="inline-block w-full py-2.5 rounded-xl font-semibold text-sm"
             style={{ background: 'var(--accent)', color: 'var(--accent-text)', textDecoration: 'none' }}>
-            Sign Up Free →
+            Sign Up →
           </Link>
           <div className="text-xs mt-2">
             <Link to="/login" style={{ color: 'var(--accent)' }}>Already have an account? Log in</Link>

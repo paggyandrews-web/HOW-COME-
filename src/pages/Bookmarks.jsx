@@ -1,6 +1,8 @@
 import { Link } from 'react-router-dom'
 import { useBookmarks } from '../hooks/useBookmarks'
 import questions from '../data/questions.json'
+import SignupGate from '../components/SignupGate'
+import { useAuth } from '../contexts/AuthContext'
 
 /* ── Saved questions ─────────────────────────────────────────────── */
 function QuestionsTab() {
@@ -89,6 +91,17 @@ function QuestionsTab() {
 
 /* ══ Bookmarks Page ═════════════════════════════════════════════════ */
 export default function Bookmarks() {
+  const { user } = useAuth()
+
+  if (!user) {
+    return (
+      <SignupGate
+        title="Sign up to save questions"
+        subtitle="Bookmarking questions to revisit later needs an account."
+      />
+    )
+  }
+
   return (
     <div className="max-w-2xl mx-auto px-4 py-5">
       <h1 className="font-bold text-xl mb-4">Saved Questions</h1>

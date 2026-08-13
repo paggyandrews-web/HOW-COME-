@@ -1,6 +1,8 @@
 import { useMemo } from 'react'
 import { Link } from 'react-router-dom'
 import questions from '../data/questions.json'
+import SignupGate from '../components/SignupGate'
+import { useAuth } from '../contexts/AuthContext'
 
 // Official Kerala PSC English Syllabus — in order
 const GRAMMAR_TOPICS = [
@@ -85,6 +87,7 @@ function SectionHeader({ title, subtitle, color }) {
 }
 
 export default function Topics() {
+  const { user } = useAuth()
   const countMap = useMemo(() => {
     const map = {}
     questions.forEach(function(q) {
@@ -95,6 +98,15 @@ export default function Topics() {
 
   const grammarTotal = GRAMMAR_TOPICS.reduce(function(s, t) { return s + (countMap[t.name] || 0) }, 0)
   const vocabTotal   = VOCABULARY_TOPICS.reduce(function(s, t) { return s + (countMap[t.name] || 0) }, 0)
+
+  if (!user) {
+    return (
+      <SignupGate
+        title="Sign up to practice by topic"
+        subtitle="Grammar and vocabulary questions grouped by the official PSC syllabus need an account."
+      />
+    )
+  }
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-6">

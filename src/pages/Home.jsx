@@ -6,7 +6,6 @@ import exams from '../data/exams.json'
 import FlipClock from '../components/FlipClock'
 import { useStreak } from '../hooks/useStreak'
 import { formatExamMode } from '../utils/examMode'
-import { isPromoActive, promoEndLabel, promoDeadlineParts } from '../utils/freeTier'
 
 const MAX_PINS = 5
 
@@ -68,59 +67,6 @@ function BookIllustration() {
   )
 }
 
-/* ── Free-period announcement ───────────────────────────────────────
-   Same visual language as the Study Streak card, one size down.
-   Auto-hides the moment the promo ends — no cleanup needed later.
-   Counts are read from the data files, so they rise on their own each
-   time a paper is added. No price is named here, deliberately.        */
-function PromoBanner({ questionCount, paperCount }) {
-  if (!isPromoActive()) return null
-  const { dateStr, timeStr } = promoDeadlineParts()
-
-  return (
-    <div className="rounded-2xl p-3"
-      style={{
-        background: 'linear-gradient(135deg, #06201d 0%, #041a18 100%)',
-        border: '1px solid rgba(26,157,142,0.3)',
-      }}>
-      <div className="flex items-start gap-3">
-        <div style={{
-          width: 38, height: 38, borderRadius: 10, flexShrink: 0,
-          background: 'rgba(26,157,142,0.14)',
-          border: '1px solid rgba(26,157,142,0.3)',
-          display: 'flex', alignItems: 'center', justifyContent: 'center',
-          fontSize: 18,
-        }}>🎁</div>
-
-        {/* Left: headline on top, counts below */}
-        <div style={{ flex: 1, minWidth: 0 }}>
-          <div className="font-bold text-sm" style={{ color: 'var(--accent)' }}>
-            Free to use until {promoEndLabel()}
-          </div>
-          <div className="text-xs" style={{ color: 'rgba(255,255,255,0.55)', marginTop: 10 }}>
-            {questionCount != null ? questionCount.toLocaleString('en-IN') : '—'} questions
-            {' · '}{paperCount} question papers
-          </div>
-        </div>
-
-        {/* Right: live counter, no D/H/M/S captions */}
-        <div style={{ flexShrink: 0, textAlign: 'right' }}>
-          <div className="text-xs" style={{ color: 'rgba(255,255,255,0.4)' }}>
-            Time left
-          </div>
-          <div style={{ marginTop: 6 }}>
-            <FlipClock dateStr={dateStr} timeStr={timeStr} compact hideLabels
-              overLabel="Free period over" />
-          </div>
-        </div>
-      </div>
-    </div>
-  )
-}
-
-/* ── "New exam dates" announcement ──────────────────────────────────
-   Shows while October 2026 still has upcoming exams, then hides itself.
-   Reads the exam data directly, so the count stays accurate on its own. */
 /* ── Circular flame ring for streak ────────────────────────────────── */
 function StreakRing({ days }) {
   const SIZE = 70, R = 28
