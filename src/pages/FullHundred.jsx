@@ -36,7 +36,27 @@ function Frac({ n, d }) {
   )
 }
 
-function renderMathText(str, keyPrefix) {
+/* Printed papers also raise a fractional power as a small stacked
+   numerator/denominator sitting above the base, e.g. "(32)^(1/5)" for the
+   fifth root of 32. Same stacked-fraction shape as Frac, just smaller and
+   lifted onto the baseline like a real exponent. */
+function ExpFrac({ n, d }) {
+  return (
+    <span className="inline-flex flex-col items-center mx-0.5" style={{ verticalAlign: 'super', fontSize: '0.62em', lineHeight: 1 }}>
+      <span style={{ padding: '0 1px' }}>{n}</span>
+      <span style={{ borderTop: '1.1px solid currentColor', width: '100%' }} />
+      <span style={{ padding: '0 1px' }}>{d}</span>
+    </span>
+  )
+}
+
+/* Matches a base number — optionally parenthesized, e.g. "(32)" or "8" —
+   followed by a fractional exponent written as "^(n/d)". Pulled out before
+   ordinary fraction detection so the "(1/5)" inside the exponent doesn't
+   also get caught by FRACTION_RE. */
+const EXPONENT_RE = /(\(?\d+\)?)\^\((\d+)\/(\d+)\)/g
+
+function renderFractions(str, keyPrefix) {
   const re = new RegExp(FRACTION_RE)
   const nodes = []
   let last = 0, m, k = 0
@@ -52,6 +72,23 @@ function renderMathText(str, keyPrefix) {
     last = re.lastIndex
   }
   if (last < str.length) nodes.push(str.slice(last))
+  return nodes
+}
+
+function renderMathText(str, keyPrefix) {
+  const re = new RegExp(EXPONENT_RE)
+  const nodes = []
+  let last = 0, m, k = 0
+  while ((m = re.exec(str)) !== null) {
+    if (m.index > last) nodes.push(...renderFractions(str.slice(last, m.index), keyPrefix + '-b' + k))
+    nodes.push(
+      <span key={keyPrefix + '-e' + (k++)}>
+        {m[1]}<ExpFrac n={m[2]} d={m[3]} />
+      </span>
+    )
+    last = re.lastIndex
+  }
+  if (last < str.length) nodes.push(...renderFractions(str.slice(last), keyPrefix + '-tail'))
   return nodes
 }
 
