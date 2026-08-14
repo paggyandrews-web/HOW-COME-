@@ -3234,10 +3234,9 @@
     "mode": "Online / OMR",
     "medium": "English",
     "admissionFrom": "2026-09-16",
-    "candidates": 1580,
+    "candidates": 1246,
     "duration": "1 Hour 30 Minutes",
-    "confirmBy": "2026-08-11",
-    "confirmTime": "23:59"
+    "time": "09:00"
   },
   {
     "id": "oct-02",
@@ -3250,10 +3249,9 @@
     "mode": "Online / OMR",
     "medium": "English",
     "admissionFrom": "2026-09-18",
-    "candidates": 128061,
+    "candidates": 91597,
     "duration": "1 Hour 30 Minutes",
-    "confirmBy": "2026-08-11",
-    "confirmTime": "23:59"
+    "time": "13:30"
   },
   {
     "id": "oct-03",
@@ -3266,10 +3264,9 @@
     "mode": "Online / OMR",
     "medium": "English",
     "admissionFrom": "2026-09-22",
-    "candidates": 16,
+    "candidates": 15,
     "duration": "PAPER I & II - 1 Hour 30 Minutes each",
-    "confirmBy": "2026-08-11",
-    "confirmTime": "23:59"
+    "time": "09:30"
   },
   {
     "id": "oct-04",
@@ -3282,10 +3279,9 @@
     "mode": "Online / OMR",
     "medium": "English",
     "admissionFrom": "2026-09-22",
-    "candidates": 34,
+    "candidates": 32,
     "duration": "PAPER I & II - 1 Hour 30 Minutes each",
-    "confirmBy": "2026-08-11",
-    "confirmTime": "23:59"
+    "time": "09:30"
   },
   {
     "id": "oct-05",
@@ -3298,10 +3294,9 @@
     "mode": "Online / OMR",
     "medium": "Part I, Part II(3,4), Part III – M/T/K , Part II (1)- Malayalam Part II(2) – English",
     "admissionFrom": "2026-09-23",
-    "candidates": 132,
+    "candidates": 66,
     "duration": "1 Hour 30 Minutes",
-    "confirmBy": "2026-08-11",
-    "confirmTime": "23:59"
+    "time": "09:00"
   },
   {
     "id": "oct-06",
@@ -3314,10 +3309,9 @@
     "mode": "Online / OMR",
     "medium": "English",
     "admissionFrom": "2026-09-23",
-    "candidates": 304,
+    "candidates": 184,
     "duration": "1 Hour 30 Minutes",
-    "confirmBy": "2026-08-11",
-    "confirmTime": "23:59"
+    "time": "09:00"
   },
   {
     "id": "oct-07",
@@ -3332,8 +3326,7 @@
     "admissionFrom": "2026-09-23",
     "candidates": 2,
     "duration": "1 Hour 30 Minutes",
-    "confirmBy": "2026-08-11",
-    "confirmTime": "23:59"
+    "time": "09:00"
   },
   {
     "id": "oct-08",
@@ -3346,10 +3339,9 @@
     "mode": "Online / OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-09-23",
-    "candidates": 47,
+    "candidates": 32,
     "duration": "1 Hour 30 Minutes",
-    "confirmBy": "2026-08-11",
-    "confirmTime": "23:59"
+    "time": "09:00"
   },
   {
     "id": "oct-09",
@@ -3362,10 +3354,9 @@
     "mode": "Online / OMR",
     "medium": "English",
     "admissionFrom": "2026-09-28",
-    "candidates": 18,
+    "candidates": 14,
     "duration": "1 Hour 30 Minutes",
-    "confirmBy": "2026-08-11",
-    "confirmTime": "23:59"
+    "time": "08:00"
   },
   {
     "id": "oct-10",
@@ -3378,10 +3369,9 @@
     "mode": "Online / OMR",
     "medium": "English",
     "admissionFrom": "2026-09-28",
-    "candidates": 8,
+    "candidates": 5,
     "duration": "1 Hour 30 Minutes",
-    "confirmBy": "2026-08-11",
-    "confirmTime": "23:59"
+    "time": "08:00"
   },
   {
     "id": "oct-11",
@@ -3394,10 +3384,9 @@
     "mode": "Online / OMR",
     "medium": "English",
     "admissionFrom": "2026-09-28",
-    "candidates": 1528,
+    "candidates": 1051,
     "duration": "1 Hour 30 Minutes",
-    "confirmBy": "2026-08-11",
-    "confirmTime": "23:59"
+    "time": "08:00"
   },
   {
     "id": "oct-12",
@@ -3410,10 +3399,9 @@
     "mode": "Online / OMR",
     "medium": "English",
     "admissionFrom": "2026-09-28",
-    "candidates": 1658,
+    "candidates": 1133,
     "duration": "1 Hour 30 Minutes",
-    "confirmBy": "2026-08-11",
-    "confirmTime": "23:59"
+    "time": "08:00"
   },
   {
     "id": "oct-13",
@@ -3426,10 +3414,9 @@
     "mode": "Online / OMR",
     "medium": "English",
     "admissionFrom": "2026-09-28",
-    "candidates": 1108,
+    "candidates": 742,
     "duration": "1 Hour 30 Minutes",
-    "confirmBy": "2026-08-11",
-    "confirmTime": "23:59"
+    "time": "08:00"
   },
   {
     "id": "oct-14",
@@ -3442,10 +3429,9 @@
     "mode": "Online / OMR",
     "medium": "English",
     "admissionFrom": "2026-09-28",
-    "candidates": 1051,
+    "candidates": 725,
     "duration": "1 Hour 30 Minutes",
-    "confirmBy": "2026-08-11",
-    "confirmTime": "23:59"
+    "time": "08:00"
   },
   {
     "id": "oct-15",
@@ -3459,7 +3445,8 @@
     "medium": "Part I, II, III- English & M/T/K , Part IV- English, Part V – M/T/K",
     "admissionFrom": "2026-09-29",
     "candidates": 0,
-    "duration": "1 Hour 30 Minutes"
+    "duration": "1 Hour 30 Minutes",
+    "time": "07:00"
   },
   {
     "id": "oct-16",
@@ -3472,10 +3459,9 @@
     "mode": "Online / OMR",
     "medium": "English",
     "admissionFrom": "2026-09-30",
-    "candidates": 103,
+    "candidates": 88,
     "duration": "1 Hour 30 Minutes",
-    "confirmBy": "2026-08-11",
-    "confirmTime": "23:59"
+    "time": "09:00"
   },
   {
     "id": "oct-17",
@@ -3488,10 +3474,9 @@
     "mode": "Online / OMR",
     "medium": "English",
     "admissionFrom": "2026-09-30",
-    "candidates": 15,
+    "candidates": 13,
     "duration": "1 Hour 30 Minutes",
-    "confirmBy": "2026-08-11",
-    "confirmTime": "23:59"
+    "time": "09:00"
   },
   {
     "id": "oct-18",
@@ -3504,10 +3489,9 @@
     "mode": "Online / OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-09-30",
-    "candidates": 2402,
+    "candidates": 715,
     "duration": "1 Hour 30 Minutes",
-    "confirmBy": "2026-08-11",
-    "confirmTime": "23:59"
+    "time": "09:00"
   },
   {
     "id": "oct-19",
@@ -3521,7 +3505,8 @@
     "medium": "Part I, II, III & V – M/T/K; Part IV – English",
     "admissionFrom": "2026-10-01",
     "candidates": 30357,
-    "duration": "1 Hour 30 Minutes"
+    "duration": "1 Hour 30 Minutes",
+    "time": "13:30"
   },
   {
     "id": "oct-20",
@@ -3535,7 +3520,8 @@
     "medium": "Part I, II, III & V – M/T/K; Part IV – English",
     "admissionFrom": "2026-10-01",
     "candidates": 25104,
-    "duration": "1 Hour 30 Minutes"
+    "duration": "1 Hour 30 Minutes",
+    "time": "13:30"
   },
   {
     "id": "oct-21",
@@ -3549,7 +3535,8 @@
     "medium": "Part I, II, III & V – M/T/K; Part IV – English",
     "admissionFrom": "2026-10-01",
     "candidates": 39616,
-    "duration": "1 Hour 30 Minutes"
+    "duration": "1 Hour 30 Minutes",
+    "time": "13:30"
   },
   {
     "id": "oct-22",
@@ -3563,7 +3550,8 @@
     "medium": "Part I, II, III & V – M/T/K; Part IV – English",
     "admissionFrom": "2026-10-01",
     "candidates": 44216,
-    "duration": "1 Hour 30 Minutes"
+    "duration": "1 Hour 30 Minutes",
+    "time": "13:30"
   },
   {
     "id": "oct-23",
@@ -3577,7 +3565,8 @@
     "medium": "Part I, II, III & V – M/T/K; Part IV – English",
     "admissionFrom": "2026-10-01",
     "candidates": 17576,
-    "duration": "1 Hour 30 Minutes"
+    "duration": "1 Hour 30 Minutes",
+    "time": "13:30"
   },
   {
     "id": "oct-24",
@@ -3590,10 +3579,9 @@
     "mode": "Online / OMR",
     "medium": "English",
     "admissionFrom": "2026-10-12",
-    "candidates": 2882,
+    "candidates": 1685,
     "duration": "1 Hour 30 Minutes",
-    "confirmBy": "2026-08-11",
-    "confirmTime": "23:59"
+    "time": "08:00"
   },
   {
     "id": "oct-25",
@@ -3607,7 +3595,8 @@
     "medium": "Part I, II, III -English & M/T/K , Part - IV – English; Part V – M/T/K",
     "admissionFrom": "2026-10-13",
     "candidates": 0,
-    "duration": "1 Hour 30 Minutes"
+    "duration": "1 Hour 30 Minutes",
+    "time": "07:00"
   },
   {
     "id": "oct-26",
@@ -3620,10 +3609,9 @@
     "mode": "Online / OMR",
     "medium": "English",
     "admissionFrom": "2026-10-14",
-    "candidates": 140,
+    "candidates": 129,
     "duration": "1 Hour 30 Minutes",
-    "confirmBy": "2026-08-11",
-    "confirmTime": "23:59"
+    "time": "09:00"
   },
   {
     "id": "oct-27",
@@ -3637,7 +3625,8 @@
     "medium": "English",
     "admissionFrom": "2026-10-14",
     "candidates": 2,
-    "duration": "1 Hour 30 Minutes"
+    "duration": "1 Hour 30 Minutes",
+    "time": "09:00"
   },
   {
     "id": "oct-28",
@@ -3650,10 +3639,9 @@
     "mode": "Online / OMR",
     "medium": "English",
     "admissionFrom": "2026-10-14",
-    "candidates": 1770,
+    "candidates": 1148,
     "duration": "1 Hour 30 Minutes",
-    "confirmBy": "2026-08-11",
-    "confirmTime": "23:59"
+    "time": "09:00"
   },
   {
     "id": "oct-29",
@@ -3666,10 +3654,9 @@
     "mode": "Online / OMR",
     "medium": "English",
     "admissionFrom": "2026-10-14",
-    "candidates": 3,
+    "candidates": 2,
     "duration": "1 Hour 30 Minutes",
-    "confirmBy": "2026-08-11",
-    "confirmTime": "23:59"
+    "time": "09:00"
   },
   {
     "id": "oct-30",
@@ -3683,7 +3670,8 @@
     "medium": "Part I, II, III & V – M/T/K; Part IV – English",
     "admissionFrom": "2026-10-16",
     "candidates": 42784,
-    "duration": "1 Hour 30 Minutes"
+    "duration": "1 Hour 30 Minutes",
+    "time": "13:30"
   },
   {
     "id": "oct-31",
@@ -3697,7 +3685,8 @@
     "medium": "Part I, II, III & V – M/T/K; Part IV – English",
     "admissionFrom": "2026-10-16",
     "candidates": 37503,
-    "duration": "1 Hour 30 Minutes"
+    "duration": "1 Hour 30 Minutes",
+    "time": "13:30"
   },
   {
     "id": "oct-32",
@@ -3711,7 +3700,8 @@
     "medium": "Part I, II, III & V – M/T/K; Part IV – English",
     "admissionFrom": "2026-10-16",
     "candidates": 46847,
-    "duration": "1 Hour 30 Minutes"
+    "duration": "1 Hour 30 Minutes",
+    "time": "13:30"
   },
   {
     "id": "oct-33",
@@ -3725,6 +3715,7 @@
     "medium": "Part I, II, III & V – M/T/K; Part IV – English",
     "admissionFrom": "2026-10-16",
     "candidates": 31809,
-    "duration": "1 Hour 30 Minutes"
+    "duration": "1 Hour 30 Minutes",
+    "time": "13:30"
   }
 ]
