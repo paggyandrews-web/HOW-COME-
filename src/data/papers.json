@@ -1306,5 +1306,23 @@
     "medium": "M",
     "year": "2021",
     "categoryCode": "105/2021"
+  },
+  {
+    "id": "096-2021-M",
+    "paperCode": "096/2021",
+    "post": "Common Preliminary Examination (Degree Level)- Stage II - Various",
+    "date": "30-Oct-2021",
+    "medium": "M",
+    "year": "2021",
+    "categoryCode": "096/2021"
+  },
+  {
+    "id": "100-2021-M",
+    "paperCode": "100/2021",
+    "post": "LD Clerk/ Clerk (Ex-Servicemen only) - NCC/ Sainik Welfare",
+    "date": "07-Oct-2021",
+    "medium": "M",
+    "year": "2021",
+    "categoryCode": "100/2021"
   }
 ]
