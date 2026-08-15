@@ -492,5 +492,31 @@
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC) — same key as 62-2026-M. English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 062/2026 (Malayalam medium only — Kannada and Tamil mediums also exist for this sitting, but no English). This is a full English translation of all 100 questions from the official Malayalam-medium paper (62-2026-M) — a general knowledge/aptitude paper with no native English-testing section, so every question including the quantitative/reasoning section (Q81-100) was translated.",
     "status": "published"
+  },
+  {
+    "id": "89-2025-M-EN",
+    "paperCode": "89/2025 M-EN",
+    "post": "ASSISTANT PRISON OFFICER CUM DRIVER (WARDER DRIVER) (PRISONS)",
+    "categoryCode": "732/2024",
+    "date": "16-Aug-2025",
+    "medium": "E",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — same key as 89-2025-M. English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 89/2025 (only Kannada, Tamil, and Malayalam mediums exist for this sitting — confirmed via PSC site search). This is a full English translation of all 100 questions from the official Malayalam-medium paper (89-2025-M) — a general knowledge/aptitude paper with no native English-testing section, so every question was translated. Note: the user-supplied English translation had options A and D transposed for Q7 relative to the official Malayalam structure/key — corrected here to match the official option order so the shared answer key (D) applies correctly.",
+    "status": "published"
+  },
+  {
+    "id": "115-2025-M-EN",
+    "paperCode": "115/2025-M (English study version)",
+    "post": "Caretaker",
+    "categoryCode": "045/2025, 046/2025, 129/2025, 130/2025, 586/2024, 647/2024, 648/2024",
+    "date": "21-Jan-2026",
+    "medium": "English (study rendering)",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — same key as 115-2025-M. English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 115/2025 (only Kannada, Tamil, and Malayalam mediums exist for this sitting — confirmed via PSC site search). Confirmed against the official Malayalam-medium paper (115-2025-M): Q81-90 are printed in English on the official M-medium paper (unchanged, reused verbatim); Q91-100 are the Malayalam-language subject questions (kept in Malayalam, untranslated, reused verbatim); Q1-80 are translated from the official Malayalam text of 115/2025-M. Note: the user-supplied English translation had 5 questions (Q3, Q8, Q19, Q52, Q56) with distractor-option combinations that didn't match the official Malayalam structure — corrected here so option text matches the true statement combinations at each letter (Q19 and Q52 affected the displayed text of the correct answer itself; Q3/Q8/Q56 affected only distractor options).",
+    "status": "published"
   }
 ]
