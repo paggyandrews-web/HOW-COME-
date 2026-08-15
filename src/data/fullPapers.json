@@ -388,5 +388,57 @@
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC) -- uploaded 04-02-2026.",
     "status": "published"
+  },
+  {
+    "id": "128-2025-M",
+    "paperCode": "128/2025 M",
+    "post": "Store Keeper (Main), Theatre Assistant (Additional Main)",
+    "categoryCode": "134/2023,259/2023,729/2022",
+    "date": "16-Oct-2025",
+    "medium": "M",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — published for paper 128/2025 M.",
+    "status": "published"
+  },
+  {
+    "id": "125-2025-M",
+    "paperCode": "125/2025 M",
+    "post": "Assistant Time Keeper (Main Examination)",
+    "categoryCode": "446/2023",
+    "date": "07-Oct-2025",
+    "medium": "M",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — published for paper 125/2025 M.",
+    "status": "published"
+  },
+  {
+    "id": "128-2025-M-EN",
+    "paperCode": "128/2025 M-EN",
+    "post": "Store Keeper (Main), Theatre Assistant (Additional Main)",
+    "categoryCode": "134/2023,259/2023,729/2022",
+    "date": "16-Oct-2025",
+    "medium": "E",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — same key as 128/2025 M. English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 128/2025 (only M/K/T). Confirmed against the official Malayalam-medium paper (128-2025-M), verbatim: Q81-90 are printed in English on the official M-medium paper (unchanged); Q91-100 are the Malayalam-language subject questions (kept in Malayalam, untranslated); Q1-80 are translated from the official Malayalam text of 128/2025 M.",
+    "status": "published"
+  },
+  {
+    "id": "125-2025-M-EN",
+    "paperCode": "125/2025 M-EN",
+    "post": "Assistant Time Keeper (Main Examination)",
+    "categoryCode": "446/2023",
+    "date": "07-Oct-2025",
+    "medium": "E",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — same key as 125/2025 M. English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 125/2025 (only M/K/T). Confirmed against the official Malayalam-medium paper (125-2025-M), verbatim: Q81-90 are printed in English on the official M-medium paper (unchanged); Q91-100 are the Malayalam-language subject questions (kept in Malayalam, untranslated); Q1-80 are translated from the official Malayalam text of 125/2025 M.",
+    "status": "published"
   }
 ]
