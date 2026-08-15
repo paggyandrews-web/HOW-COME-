@@ -466,5 +466,31 @@
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC) — same key as 66/2026 M. English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 066/2026 (Malayalam medium only). This is a full English translation of all 100 questions from the official Malayalam-medium paper (66-2026-M), including the quantitative/reasoning section (Q81-100), which was also translated for this rendering.",
     "status": "published"
+  },
+  {
+    "id": "62-2026-M",
+    "paperCode": "062-2026 M",
+    "post": "PEON/WATCHMAN, GUARD, LAST GRADE SERVANTS ETC",
+    "categoryCode": "196/2025, 201/2025, 408/2025, 409/2025, 410/2025, 411/2025, 412/2025, 413/2025",
+    "date": "01-Jul-2026",
+    "medium": "M",
+    "year": "2026",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — uploaded 29-07-2026",
+    "status": "published"
+  },
+  {
+    "id": "62-2026-M-EN",
+    "paperCode": "062-2026 M-EN",
+    "post": "PEON/WATCHMAN, GUARD, LAST GRADE SERVANTS ETC",
+    "categoryCode": "196/2025, 201/2025, 408/2025, 409/2025, 410/2025, 411/2025, 412/2025, 413/2025",
+    "date": "01-Jul-2026",
+    "medium": "E",
+    "year": "2026",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — same key as 62-2026-M. English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 062/2026 (Malayalam medium only — Kannada and Tamil mediums also exist for this sitting, but no English). This is a full English translation of all 100 questions from the official Malayalam-medium paper (62-2026-M) — a general knowledge/aptitude paper with no native English-testing section, so every question including the quantitative/reasoning section (Q81-100) was translated.",
+    "status": "published"
   }
 ]
