@@ -74,7 +74,7 @@
     "year": "2026",
     "alphacode": "A",
     "totalQuestions": 100,
-    "answerKeySource": "Final Answer Key (PSC) — uploaded 17-02-2026 | Audited 2026-08-11: corrected Q81 (was B, official key is C).",
+    "answerKeySource": "Final Answer Key (PSC) — uploaded 17-02-2026 | Audited 2026-08-11: corrected Q81 (was B, official key is C). | Q71 option text corrected 2026-08-15 against the official printed scan: A and D are both \"വൃഷ്ടി\", B and C are both \"വ്രഷ്ടി\" (verified from user-supplied scan of the printed paper) — this is how PSC printed it, both A/D and B/C are genuine textual duplicates on the paper itself; correctAnswer left at D per the existing key, unchanged. | CORRECTION 2026-08-15: the prior fix based on a user-submitted scan photo (which read A/D and B/C as duplicate pairs) has been reverted — a second independently-supplied transcription of the printed paper (Q71-80 in native Malayalam, matching the original archived text) confirms all four options are genuinely distinct: A) വൃഷ്ടി, B) വ്രഷ്ടി, C) വൃഷ്ടീ, D) വ്യഷ്ടി. The scan-based reading was a misread of visually similar glyphs, not a real duplicate on the printed paper. correctAnswer remains D.",
     "status": "published"
   },
   {
@@ -136,19 +136,6 @@
     "categoryCode": "215/2025",
     "date": "06-Dec-2025",
     "medium": "M",
-    "year": "2025",
-    "alphacode": "A",
-    "totalQuestions": 100,
-    "answerKeySource": "Final Answer Key (PSC)",
-    "status": "published"
-  },
-  {
-    "id": "132-2025-M",
-    "paperCode": "132-2025 M",
-    "post": "LD Typist, Stenographer, Confidential Assistant etc.",
-    "categoryCode": "019/2025,106/2025,107/2025,138/2024,177/2024,178/2024,179/2024,247/2024",
-    "date": "22-Oct-2025",
-    "medium": "E",
     "year": "2025",
     "alphacode": "A",
     "totalQuestions": 100,
@@ -517,6 +504,71 @@
     "alphacode": "A",
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC) — same key as 115-2025-M. English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 115/2025 (only Kannada, Tamil, and Malayalam mediums exist for this sitting — confirmed via PSC site search). Confirmed against the official Malayalam-medium paper (115-2025-M): Q81-90 are printed in English on the official M-medium paper (unchanged, reused verbatim); Q91-100 are the Malayalam-language subject questions (kept in Malayalam, untranslated, reused verbatim); Q1-80 are translated from the official Malayalam text of 115/2025-M. Note: the user-supplied English translation had 5 questions (Q3, Q8, Q19, Q52, Q56) with distractor-option combinations that didn't match the official Malayalam structure — corrected here so option text matches the true statement combinations at each letter (Q19 and Q52 affected the displayed text of the correct answer itself; Q3/Q8/Q56 affected only distractor options).",
+    "status": "published"
+  },
+  {
+    "id": "132-2025-M-EN",
+    "paperCode": "132/2025 M-EN",
+    "post": "LD Typist, Stenographer, Confidential Assistant etc.",
+    "categoryCode": "019/2025,106/2025,107/2025,138/2024,177/2024,178/2024,179/2024,247/2024",
+    "date": "22-Oct-2025",
+    "medium": "E",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC). Note: this entry's id/paperCode were previously mislabeled as \"132-2025-M\" with medium \"E\" -- corrected to 132-2025-M-EN, since paper code 132-2025 M is officially the Malayalam-medium booklet per PSC's own site (confirmed: only Kannada, Tamil, and Malayalam mediums exist for this paper, no official English booklet). This entry is an English-language rendering of that Malayalam original. Verified against the real PSC scan pages for Q81-100 on 2026-08-15: fixed Q4/Q7/Q9 match-the-following stems (previously corrupted to show the answer-key pairing instead of the raw table), and fixed 3 mis-transcribed options (Q83-A, Q92-C, Q94-B/D) where option text had been swapped with a nearby question's text. Q1-80 have not been checked against the original scan in this session.",
+    "status": "published"
+  },
+  {
+    "id": "132-2025-M",
+    "paperCode": "132/2025 M",
+    "post": "LD Typist, Stenographer, Confidential Assistant etc.",
+    "categoryCode": "019/2025,106/2025,107/2025,138/2024,177/2024,178/2024,179/2024,247/2024",
+    "date": "22-Oct-2025",
+    "medium": "M",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) -- same key as 132-2025-M-EN. This is the official Malayalam-medium paper (confirmed via PSC site: paper code 132-2025 M is Malayalam-medium; K/T/M mediums exist, no official English booklet). Q81-100 transcribed directly from the real PSC scan pages (2026-08-15) and verified correct. Q1-80 are sourced from an AI (Gemini) Malayalam translation of the archived English rendering -- i.e. a translation of a translation, not a direct transcription of the original scan. Cross-checked against the English archive for combination/order consistency, but not verified against the real scan, so residual transcription errors (similar in kind to the ones found and fixed in Q81-100) cannot be ruled out for this range.",
+    "status": "published"
+  },
+  {
+    "id": "167-2025-M-EN",
+    "paperCode": "167/2025 M-EN",
+    "post": "Woman Fire & Rescue Officer (Trainee)",
+    "categoryCode": "215/2025",
+    "date": "06-Dec-2025",
+    "medium": "E",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — same key as 167-2025-M. English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 167/2025 (only Kannada, Tamil, and Malayalam mediums exist for this sitting — confirmed via PSC site search). Confirmed against the official Malayalam-medium paper (167-2025-M): Q81-90 are printed in English on the official M-medium paper (unchanged, reused verbatim); Q91-100 are the Malayalam-language subject questions (kept in Malayalam, untranslated, reused verbatim); Q1-80 are translated from the official Malayalam text of 167/2025 M (option order verified to match the original for all numeric-answer questions).",
+    "status": "published"
+  },
+  {
+    "id": "172-2025-M-EN",
+    "paperCode": "172/2025 M-EN",
+    "post": "Beat Forest Officer",
+    "categoryCode": "211/2025, 212/2025, 213/2025, 214/2025, 250/2025, 251/2025, 252/2025, 253/2025",
+    "date": "20-Dec-2025",
+    "medium": "E",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — same key as 172-2025-M. English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 172/2025 (only Kannada, Tamil, and Malayalam mediums exist for this sitting — confirmed via PSC site search). Confirmed against the official Malayalam-medium paper (172-2025-M): Q81-90 are printed in English on the official M-medium paper (unchanged, reused verbatim from the M-medium archive rather than the user-supplied file — Q86's user-supplied transcription had 'Manoeuvre', the correctly-spelt option, at position A instead of C, which would have misaligned the shared answer key; the M-medium archive's ordering, self-consistent with correctAnswer=C being the correctly-spelt word, was used instead); Q91-100 are the Malayalam-language subject questions (kept in Malayalam, untranslated, reused verbatim from the M-medium archive); Q1-80 are translated from the official Malayalam text of 172/2025 M (option order verified against the M-medium archive for all self-contained/numeric-answer questions, no transpositions found).",
+    "status": "published"
+  },
+  {
+    "id": "005-2026-M-EN",
+    "paperCode": "005/2026 M-EN",
+    "post": "Female Assistant Prison Officer",
+    "categoryCode": "316/2025,360/2025",
+    "date": "24-Jan-2026",
+    "medium": "E",
+    "year": "2026",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — uploaded 17-02-2026, same key as 005-2026-M (which was later audited 2026-08-11: Q81 corrected from B to C — this rendering already reflects that corrected answer). English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 005/2026 (only Kannada, Tamil, and Malayalam mediums exist for this sitting — confirmed via PSC site search). Confirmed against the official Malayalam-medium paper (005-2026-M): Q61-70 are printed in English on the official M-medium paper (unchanged, reused verbatim from the M-medium archive); Q71-80 are the Malayalam-language vocabulary questions (kept in Malayalam, untranslated, reused verbatim from the M-medium archive) — note this paper's native-language section boundary differs from the usual 81-90/91-100 pattern seen in other papers; Q1-60 and Q81-100 are translated from the official Malayalam text of 005/2026 M (option order verified against the M-medium archive for all self-contained/numeric-answer questions across both ranges, no transpositions found). | Q71 option text corrected 2026-08-15 against the official printed scan: A and D are both \"വൃഷ്ടി\", B and C are both \"വ്രഷ്ടി\" (verified from user-supplied scan of the printed paper) — this is how PSC printed it, both A/D and B/C are genuine textual duplicates on the paper itself; correctAnswer left at D per the existing key, unchanged. | CORRECTION 2026-08-15: the prior fix based on a user-submitted scan photo (which read A/D and B/C as duplicate pairs) has been reverted — a second independently-supplied transcription of the printed paper (Q71-80 in native Malayalam, matching the original archived text) confirms all four options are genuinely distinct: A) വൃഷ്ടി, B) വ്രഷ്ടി, C) വൃഷ്ടീ, D) വ്യഷ്ടി. The scan-based reading was a misread of visually similar glyphs, not a real duplicate on the printed paper. correctAnswer remains D.",
     "status": "published"
   }
 ]
