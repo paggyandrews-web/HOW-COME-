@@ -3,7 +3,24 @@
 // TWA/PWA). Reuses a single AudioContext since some browsers cap how many
 // can be created per page.
 
+const STORAGE_KEY = 'cs-sound'
+
 let ctx = null
+
+/**
+ * Whether the person has left sound effects on (Settings, in Profile).
+ * Defaults to on, matching the app's previous always-on behavior.
+ */
+export function isSoundEnabled() {
+  if (typeof localStorage === 'undefined') return true
+  const saved = localStorage.getItem(STORAGE_KEY)
+  return saved === null ? true : saved === 'true'
+}
+
+export function setSoundEnabled(enabled) {
+  if (typeof localStorage === 'undefined') return
+  localStorage.setItem(STORAGE_KEY, String(enabled))
+}
 
 function getCtx() {
   if (typeof window === 'undefined') return null
@@ -50,6 +67,7 @@ export function unlockAudio() {
  */
 export function playChime(kind = 'big') {
   try {
+    if (!isSoundEnabled()) return
     const audioCtx = getCtx()
     if (!audioCtx) return
     const now = audioCtx.currentTime

@@ -2,6 +2,34 @@ import { useState, useEffect } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { useAuth } from '../contexts/AuthContext'
 import { useResults } from '../hooks/useResults'
+import { useTheme, themes } from '../contexts/ThemeContext'
+import { isVibrationEnabled, setVibrationEnabled, tap } from '../utils/haptics'
+import { isSoundEnabled, setSoundEnabled, playChime } from '../utils/sound'
+
+/* ── Reusable toggle row ───────────────────────────────────────────── */
+function ToggleRow({ label, description, checked, onChange }) {
+  return (
+    <div className="flex items-center justify-between gap-3 py-3"
+      style={{ borderBottom: '1px solid var(--border)' }}>
+      <div>
+        <div className="text-sm font-medium">{label}</div>
+        {description && (
+          <div className="text-xs mt-0.5" style={{ color: 'var(--text2)' }}>{description}</div>
+        )}
+      </div>
+      <button
+        type="button"
+        role="switch"
+        aria-checked={checked}
+        aria-label={label}
+        data-on={checked}
+        onClick={() => onChange(!checked)}
+        className="toggle-switch">
+        <span className="toggle-switch-thumb" />
+      </button>
+    </div>
+  )
+}
 
 /* ── Delete Account modal ─────────────────────────────────────────── */
 function DeleteAccountModal({ onClose }) {
@@ -122,6 +150,7 @@ function DeleteAccountModal({ onClose }) {
 export default function Profile() {
   const { user, profile, logout } = useAuth()
   const { getAllResults, getTopicStats } = useResults()
+  const { theme, setTheme } = useTheme()
   const navigate = useNavigate()
   const [showDeleteModal, setShowDeleteModal] = useState(false)
 
@@ -130,6 +159,28 @@ export default function Profile() {
   const [totalAnswered, setTotalAnswered] = useState(0)
   const [totalCorrect, setTotalCorrect] = useState(0)
   const [loading, setLoading] = useState(true)
+
+  // Settings — read from localStorage once on mount (haptics.js/sound.js are
+  // the source of truth so every other page's tap()/playChime() calls stay
+  // in sync with what's toggled here).
+  const [vibration, setVibration] = useState(true)
+  const [sound, setSound] = useState(true)
+  useEffect(() => {
+    setVibration(isVibrationEnabled())
+    setSound(isSoundEnabled())
+  }, [])
+
+  function toggleVibration(next) {
+    setVibrationEnabled(next)
+    setVibration(next)
+    if (next) tap(15) // little confirmation buzz so it's obvious it worked
+  }
+
+  function toggleSound(next) {
+    setSoundEnabled(next)
+    setSound(next)
+    if (next) playChime('normal') // little confirmation chime
+  }
 
   useEffect(() => {
     async function load() {
@@ -185,6 +236,44 @@ export default function Profile() {
             </Link>
           </div>
         )}
+      </div>
+
+      {/* Settings */}
+      <div className="card rounded-2xl p-5 mb-5">
+        <h2 className="font-bold mb-1">Settings</h2>
+        <p className="text-xs mb-1" style={{ color: 'var(--text2)' }}>
+          Personalize how the app feels while you practice.
+        </p>
+
+        <ToggleRow
+          label="Vibration"
+          description="Light haptic tick when you tap an answer."
+          checked={vibration}
+          onChange={toggleVibration}
+        />
+        <ToggleRow
+          label="Sound effects"
+          description="Chime on correct answers and streak milestones."
+          checked={sound}
+          onChange={toggleSound}
+        />
+
+        <div className="pt-3">
+          <div className="text-sm font-medium mb-2">Theme</div>
+          <div className="flex gap-2">
+            {themes.map(t => (
+              <button key={t.id} onClick={() => setTheme(t.id)}
+                className="flex-1 py-2 rounded-lg text-sm font-medium flex items-center justify-center gap-1.5"
+                style={{
+                  background: theme === t.id ? 'var(--accent)' : 'var(--bg2)',
+                  color: theme === t.id ? 'var(--accent-text)' : 'var(--text)',
+                  border: '1px solid ' + (theme === t.id ? 'var(--accent)' : 'var(--border)'),
+                }}>
+                <span>{t.label}</span> {t.title}
+              </button>
+            ))}
+          </div>
+        </div>
       </div>
 
       {/* Overall stats */}

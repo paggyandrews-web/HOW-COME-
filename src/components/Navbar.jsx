@@ -1,14 +1,8 @@
 import { useState, useEffect } from 'react'
 import { Link, useNavigate, useLocation } from 'react-router-dom'
-import { useTheme } from '../contexts/ThemeContext'
+import { useTheme, themes } from '../contexts/ThemeContext'
 import { useAuth } from '../contexts/AuthContext'
 import { useStreak } from '../hooks/useStreak'
-
-const themes = [
-  { id: 'black', label: '⬛', title: 'Black' },
-  { id: 'pink', label: '🌸', title: 'Pink' },
-  { id: 'wine', label: '🍷', title: 'Wine' },
-]
 
 export default function Navbar() {
   const { theme, setTheme } = useTheme()

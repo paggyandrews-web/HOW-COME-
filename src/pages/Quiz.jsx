@@ -9,7 +9,8 @@ import { useResults } from '../hooks/useResults'
 import { useAuth } from '../contexts/AuthContext'
 import { useBookmarks } from '../hooks/useBookmarks'
 import { useStreak, isStreakMilestone } from '../hooks/useStreak'
-import { unlockAudio } from '../utils/sound'
+import { unlockAudio, playChime } from '../utils/sound'
+import { tap } from '../utils/haptics'
 
 function formatQuestion(text) {
   if (!text) return text
@@ -568,15 +569,18 @@ function QuizResult({ questions, answers, onRetry, onHome, streakMilestone }) {
   useEffect(() => {
     if (pct >= 71) {
       setShowConfetti(true)
+      playChime(confettiTier)
       const t = setTimeout(() => setShowConfetti(false), 4000)
       return () => clearTimeout(t)
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [pct])
 
   // Separate ember burst for hitting a streak milestone this session
   useEffect(() => {
     if (streakMilestone) {
       setShowFire(true)
+      playChime('fire')
       const t = setTimeout(() => setShowFire(false), 3500)
       return () => clearTimeout(t)
     }
@@ -867,13 +871,14 @@ export default function Quiz() {
     unlockAudio()
     setSelected(letter)
     setAnswers(prev => { const next = [...prev]; next[current] = letter; return next })
-    // Vibration feedback (haptic + CSS)
-    if (navigator.vibrate) navigator.vibrate(30)
+    // Vibration feedback (haptic + CSS) — respects the Settings toggle
+    tap(30)
     setVibratingOption(letter)
     setTimeout(() => setVibratingOption(null), 350)
     // Confetti only in timed mode when correct
     if (isTimed && q?.correctAnswer && letter === q.correctAnswer) {
       setShowConfetti(true)
+      playChime('normal')
       setTimeout(() => setShowConfetti(false), 3000)
     }
   }
@@ -882,6 +887,7 @@ export default function Quiz() {
     setRevealed(true)
     if (q?.correctAnswer && selected === q.correctAnswer) {
       setShowConfetti(true)
+      playChime('normal')
       setTimeout(() => setShowConfetti(false), 3000)
     }
   }

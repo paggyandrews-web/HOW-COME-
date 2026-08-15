@@ -8,6 +8,8 @@ import Dropdown from '../components/Dropdown'
 import { useResults } from '../hooks/useResults'
 import { usePaperProgress } from '../hooks/usePaperProgress'
 import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, statusBadgeText } from '../utils/paperStatus'
+import { unlockAudio, playChime } from '../utils/sound'
+import { tap } from '../utils/haptics'
 
 const NEGATIVE_MARK = 1 / 3
 
@@ -423,6 +425,10 @@ function ExamScreen({ paper, questions, onSubmit, practice = false }) {
 
   function select(letter) {
     if (revealed) return
+    // Unlock the Web Audio context here, on a real tap — same reasoning as
+    // Quiz.jsx: later playChime() calls from useEffects need a prior gesture.
+    unlockAudio()
+    tap(30)
     setAnswers(a => {
       const next = { ...a }
       if (!practice && next[current] === letter) delete next[current]  // tap again to clear
@@ -433,6 +439,7 @@ function ExamScreen({ paper, questions, onSubmit, practice = false }) {
     // silent until submission, so no burst there.
     if (practice && letter === q.correctAnswer) {
       setShowConfetti(true)
+      playChime('normal')
       setTimeout(() => setShowConfetti(false), 1600)
     }
   }
@@ -698,6 +705,7 @@ function ResultScreen({ paper, questions, answers, timeTaken, onRetake, onExit, 
   useEffect(() => {
     if (pct >= 71) {
       setShowConfetti(true)
+      playChime(confettiTier)
       const t = setTimeout(() => setShowConfetti(false), 4000)
       return () => clearTimeout(t)
     }

@@ -2,6 +2,14 @@ import { createContext, useContext, useEffect, useState } from 'react'
 
 const ThemeContext = createContext()
 
+// Shared with the Navbar's cycle button and the Profile Settings picker, so
+// both surfaces always offer the exact same set of themes.
+export const themes = [
+  { id: 'black', label: '⬛', title: 'Black' },
+  { id: 'pink', label: '🌸', title: 'Pink' },
+  { id: 'wine', label: '🍷', title: 'Wine' },
+]
+
 export function ThemeProvider({ children }) {
   const [theme, setTheme] = useState(() => {
     const saved = localStorage.getItem('cs-theme')
