@@ -182,12 +182,22 @@ export function useStreak() {
         // the user doc (not inside the streak map, which updateStreak rewrites)
         // so it runs exactly once per user. On read failure we leave the flag
         // unset and retry on the next open rather than marking it done.
-        if (!data.streakRebuiltV1) {
+        //
+        // V2: bumped from streakRebuiltV1 because updateStreak() was only ever
+        // called from the Quiz page — Mock and Full 100 attempts were saved to
+        // results/{uid}/quizzes (so they're in the ground truth this function
+        // reads) but never advanced the live streak counter. Anyone whose daily
+        // practice was Mock/Full 100 instead of Quiz saw their streak reset
+        // despite real, continuous activity. Mock/FullHundred now also call
+        // updateStreak(), but everyone who was already affected needs this
+        // second, one-time reconstruction to recover the streak that bug ate.
+        // reconstructFromResults never downgrades, so this is safe to re-run.
+        if (!data.streakRebuiltV2) {
           try {
             s = await reconstructFromResults(user.uid, s)
             await setDoc(
               doc(db, 'users', user.uid),
-              { streak: s, streakRebuiltV1: true },
+              { streak: s, streakRebuiltV1: true, streakRebuiltV2: true },
               { merge: true }
             )
           } catch {}

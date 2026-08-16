@@ -6,6 +6,7 @@ import Confetti from '../components/Confetti'
 import Dropdown from '../components/Dropdown'
 import { useAuth } from '../contexts/AuthContext'
 import { useResults } from '../hooks/useResults'
+import { useStreak } from '../hooks/useStreak'
 import { usePaperProgress } from '../hooks/usePaperProgress'
 import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, statusBadgeText } from '../utils/paperStatus'
 import { getDraft, saveDraft, clearDraft, getAllDrafts, draftAttemptedCount } from '../utils/fullHundredDraft'
@@ -839,6 +840,7 @@ export default function FullHundred() {
   const [examKey, setExamKey] = useState(0)
   const [examInitial, setExamInitial] = useState(null)
   const { saveResult } = useResults()
+  const { updateStreak } = useStreak()
 
   const questions = useMemo(() => {
     if (!paper) return []
@@ -894,6 +896,11 @@ export default function FullHundred() {
       .filter(({ q }) => q.status !== 'deleted')
     if (scoreable.length) {
       saveResult(scoreable.map(s => s.q), scoreable.map(s => s.a), 'full100')
+      // Non-blocking — Full 100 attempts are real daily practice and must
+      // count toward the streak too (previously only the Quiz page called
+      // this, which silently broke the streak for anyone whose daily
+      // practice was Mock/Full 100 instead of Quiz mode).
+      updateStreak()
     }
     // The submitted result is now the permanent record — the local
     // in-progress draft has served its purpose.

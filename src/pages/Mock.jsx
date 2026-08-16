@@ -6,6 +6,7 @@ import { useAuth } from '../contexts/AuthContext'
 import Confetti from '../components/Confetti'
 import Dropdown from '../components/Dropdown'
 import { useResults } from '../hooks/useResults'
+import { useStreak } from '../hooks/useStreak'
 import { usePaperProgress } from '../hooks/usePaperProgress'
 import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, statusBadgeText } from '../utils/paperStatus'
 import { unlockAudio, playChime } from '../utils/sound'
@@ -835,6 +836,7 @@ export default function Mock() {
   const [searchParams] = useSearchParams()
   const { user, profile } = useAuth()
   const { saveResult } = useResults()
+  const { updateStreak } = useStreak()
 
   // Deep link — e.g. /mock?paper=HC-DAILY-2026-08-01 shared in Telegram.
   // Opens that paper if access is currently allowed; otherwise falls through to
@@ -907,6 +909,11 @@ export default function Mock() {
     // (and starts its due-for-revision clock) — mirrors Papers/Full 100.
     if (questions.length) {
       saveResult(questions, ans, wasPractice ? 'mock-practice' : 'mock-timed')
+      // Non-blocking — Mock tests are a primary way people practice daily, so
+      // this has to count toward the streak too (previously only the Quiz
+      // page called this, which silently broke the streak for anyone whose
+      // daily practice was Mock/Full 100 instead of Quiz mode).
+      updateStreak()
     }
   }
 
