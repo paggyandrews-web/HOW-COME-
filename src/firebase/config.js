@@ -6,6 +6,7 @@
 import { initializeApp } from 'firebase/app'
 import { getAuth } from 'firebase/auth'
 import { getFirestore } from 'firebase/firestore'
+import { getMessaging, isSupported } from 'firebase/messaging'
 
 const firebaseConfig = {
   apiKey: "AIzaSyDUVOg7Gjr7wHGD6dhYmaovUgLwcMTbvGY",
@@ -20,4 +21,12 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig)
 export const auth = getAuth(app)
 export const db = getFirestore(app)
+
+// Push notifications (Firebase Cloud Messaging) — not every browser/context
+// supports this (e.g. Safari outside a home-screen install, or plain HTTP),
+// so this resolves to `null` there instead of throwing.
+export const messagingPromise = (typeof window !== 'undefined')
+  ? isSupported().then(ok => (ok ? getMessaging(app) : null)).catch(() => null)
+  : Promise.resolve(null)
+
 export default app

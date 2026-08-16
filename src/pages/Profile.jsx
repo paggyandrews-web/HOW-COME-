@@ -5,6 +5,7 @@ import { useResults } from '../hooks/useResults'
 import { useTheme, themes } from '../contexts/ThemeContext'
 import { isVibrationEnabled, setVibrationEnabled, tap } from '../utils/haptics'
 import { isSoundEnabled, setSoundEnabled, playChime } from '../utils/sound'
+import { enablePushNotifications, getNotificationPermission, isPushSupported } from '../utils/notifications'
 
 /* ── Reusable toggle row ───────────────────────────────────────────── */
 function ToggleRow({ label, description, checked, onChange }) {
@@ -170,6 +171,23 @@ export default function Profile() {
     setSound(isSoundEnabled())
   }, [])
 
+  // Push notification opt-in state: 'unsupported' | 'default' | 'granted' | 'denied'
+  const [pushPermission, setPushPermission] = useState('unsupported')
+  const [pushLoading, setPushLoading] = useState(false)
+  useEffect(() => {
+    isPushSupported().then(supported => {
+      setPushPermission(supported ? getNotificationPermission() : 'unsupported')
+    })
+  }, [])
+
+  async function handleEnablePush() {
+    setPushLoading(true)
+    const token = await enablePushNotifications(user?.uid)
+    setPushPermission(getNotificationPermission())
+    setPushLoading(false)
+    if (token) tap(15)
+  }
+
   function toggleVibration(next) {
     setVibrationEnabled(next)
     setVibration(next)
@@ -257,6 +275,33 @@ export default function Profile() {
           checked={sound}
           onChange={toggleSound}
         />
+
+        {pushPermission !== 'unsupported' && (
+          <div className="flex items-center justify-between gap-3 py-3"
+            style={{ borderBottom: '1px solid var(--border)' }}>
+            <div>
+              <div className="text-sm font-medium">Reminders</div>
+              <div className="text-xs mt-0.5" style={{ color: 'var(--text2)' }}>
+                {pushPermission === 'granted'
+                  ? 'Notifications are on — you’ll get pinged for new papers and daily practice.'
+                  : pushPermission === 'denied'
+                  ? 'Blocked in your browser settings. Enable notifications for this site to turn it back on.'
+                  : 'Get a nudge for new papers and daily practice, even when the app is closed.'}
+              </div>
+            </div>
+            {pushPermission === 'granted' ? (
+              <span className="text-sm shrink-0" style={{ color: 'var(--accent)' }}>✓ On</span>
+            ) : pushPermission === 'denied' ? (
+              <span className="text-xs shrink-0" style={{ color: 'var(--text2)' }}>Blocked</span>
+            ) : (
+              <button onClick={handleEnablePush} disabled={pushLoading}
+                className="text-sm px-3 py-1.5 rounded-lg font-medium shrink-0"
+                style={{ background: 'var(--accent)', color: 'var(--accent-text)', opacity: pushLoading ? 0.6 : 1 }}>
+                {pushLoading ? 'Enabling…' : 'Enable'}
+              </button>
+            )}
+          </div>
+        )}
 
         <div className="pt-3">
           <div className="text-sm font-medium mb-2">Theme</div>

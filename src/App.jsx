@@ -6,6 +6,7 @@ import { AuthProvider } from './contexts/AuthContext'
 import Navbar from './components/Navbar'
 import BottomNav from './components/BottomNav'
 import { tap } from './utils/haptics'
+import { listenForForegroundMessages } from './utils/notifications'
 
 /**
  * Finds the nearest "interactive" ancestor of a touched element — a button,
@@ -133,6 +134,46 @@ function ScrollButton() {
   )
 }
 
+/* Shows a lightweight banner for push notifications that arrive while the
+ * app is already open (foreground messages don't trigger a system
+ * notification on their own). */
+function PushToast() {
+  const [toast, setToast] = useState(null)
+  const timer = useRef(null)
+
+  useEffect(() => {
+    listenForForegroundMessages(payload => {
+      setToast({
+        title: payload.notification?.title || 'HOW COME?',
+        body: payload.notification?.body || '',
+      })
+      clearTimeout(timer.current)
+      timer.current = setTimeout(() => setToast(null), 6000)
+    })
+    return () => clearTimeout(timer.current)
+  }, [])
+
+  if (!toast) return null
+
+  return (
+    <div
+      onClick={() => setToast(null)}
+      style={{
+        position: 'fixed', top: 'calc(env(safe-area-inset-top) + 10px)',
+        left: 12, right: 12, zIndex: 300, cursor: 'pointer',
+        background: 'var(--bg2)', border: '1px solid var(--border)',
+        borderRadius: 14, padding: '12px 14px', maxWidth: 420,
+        margin: '0 auto', boxShadow: '0 8px 24px rgba(0,0,0,0.35)',
+      }}
+    >
+      <div className="text-sm font-semibold" style={{ color: 'var(--text)' }}>{toast.title}</div>
+      {toast.body && (
+        <div className="text-xs mt-0.5" style={{ color: 'var(--text2)' }}>{toast.body}</div>
+      )}
+    </div>
+  )
+}
+
 /* Scroll to top on every route change */
 function ScrollToTop() {
   const location = useLocation()
@@ -175,6 +216,7 @@ export default function App() {
         <BrowserRouter>
           <div style={{ minHeight: '100vh', background: 'var(--bg)', color: 'var(--text)' }}>
             <HapticFeedback />
+            <PushToast />
             <ScrollToTop />
             <Navbar />
             <div
