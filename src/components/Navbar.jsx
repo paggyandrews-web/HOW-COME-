@@ -1,11 +1,9 @@
 import { useState, useEffect } from 'react'
 import { Link, useNavigate, useLocation } from 'react-router-dom'
-import { useTheme, themes } from '../contexts/ThemeContext'
 import { useAuth } from '../contexts/AuthContext'
 import { useStreak } from '../hooks/useStreak'
 
 export default function Navbar() {
-  const { theme, setTheme } = useTheme()
   const { user, logout } = useAuth()
   const navigate = useNavigate()
   const location = useLocation()
@@ -91,21 +89,6 @@ export default function Navbar() {
               🔥 {streak}
             </div>
           )}
-
-          {/* Theme switcher — single cycle button */}
-          {(() => {
-            const current = themes.find(t => t.id === theme) || themes[0]
-            const nextTheme = themes[(themes.findIndex(t => t.id === theme) + 1) % themes.length]
-            return (
-              <button
-                title={`Switch to ${nextTheme.title}`}
-                onClick={() => setTheme(nextTheme.id)}
-                className="px-2.5 py-1.5 rounded-lg text-sm transition-colors"
-                style={{ background: '#111111', border: '1px solid #222222', color: '#ffffff' }}>
-                {current.label}
-              </button>
-            )
-          })()}
 
           {/* Search icon */}
           <Link to="/search"
