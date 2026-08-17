@@ -12,6 +12,7 @@ import {
 } from 'firebase/auth'
 import { doc, setDoc, getDoc, deleteDoc, collection, getDocs } from 'firebase/firestore'
 import { auth, db } from '../firebase/config'
+import { logError } from '../utils/errorLogger'
 
 // Account data kept in localStorage — cleared on account deletion.
 const LOCAL_KEYS_TO_CLEAR = ['cs-pinned', 'cs-quiz-results', 'cs-bookmarks', 'cs-streak']
@@ -30,15 +31,44 @@ export function AuthProvider({ children }) {
   )
   const didSyncPinned = useRef(false)
 
+  // Tracks whether the *app* asked Firebase to sign out (via logout() below).
+  // Used so onAuthStateChanged can tell "the user tapped Log out" apart from
+  // "Firebase silently dropped the session" — only the latter is a bug.
+  const wasSignedIn = useRef(false)
+  const explicitSignOut = useRef(false)
+
   useEffect(() => {
     const unsub = onAuthStateChanged(auth, async (u) => {
       setUser(u)
       if (u) {
-        const snap = await getDoc(doc(db, 'users', u.uid))
-        if (snap.exists()) setProfile(snap.data())
+        wasSignedIn.current = true
+        // A failed profile fetch (flaky network, offline, etc.) must never
+        // block the app forever — the user IS signed in either way. Before
+        // this try/catch, a thrown getDoc() here skipped setLoading(false)
+        // below entirely, leaving the app stuck on the splash screen, which
+        // some users experience/describe as "getting logged out."
+        try {
+          const snap = await getDoc(doc(db, 'users', u.uid))
+          if (snap.exists()) setProfile(snap.data())
+        } catch (e) {
+          console.error('Failed to load profile', e)
+          logError(e, { context: 'auth-profile-fetch-failed' })
+        }
       } else {
         setProfile(null)
         didSyncPinned.current = false
+        // Firebase reported "no user" — if the app never called logout()
+        // itself, this is an unexpected/silent sign-out (e.g. a revoked or
+        // lost session, not a user action). Log it so real occurrences show
+        // up in Firestore → errorLogs with a device/browser fingerprint,
+        // instead of relying on user reports of "I got logged out randomly."
+        if (wasSignedIn.current && !explicitSignOut.current) {
+          logError('Unexpected sign-out: onAuthStateChanged fired null without an explicit logout() call', {
+            context: 'unexpected-signout',
+          })
+        }
+        wasSignedIn.current = false
+        explicitSignOut.current = false
       }
       setLoading(false)
     })
@@ -95,6 +125,7 @@ export function AuthProvider({ children }) {
   }
 
   async function logout() {
+    explicitSignOut.current = true
     await signOut(auth)
     setProfile(null)
   }
@@ -125,6 +156,7 @@ export function AuthProvider({ children }) {
 
     // Delete the Firebase Auth account itself — this can throw
     // auth/requires-recent-login, which the caller must handle.
+    explicitSignOut.current = true
     await deleteUser(current)
 
     // Clear locally-stored account/usage data

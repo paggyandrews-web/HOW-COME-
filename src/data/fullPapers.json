@@ -570,5 +570,18 @@
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC) — uploaded 17-02-2026, same key as 005-2026-M (which was later audited 2026-08-11: Q81 corrected from B to C — this rendering already reflects that corrected answer). English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 005/2026 (only Kannada, Tamil, and Malayalam mediums exist for this sitting — confirmed via PSC site search). Confirmed against the official Malayalam-medium paper (005-2026-M): Q61-70 are printed in English on the official M-medium paper (unchanged, reused verbatim from the M-medium archive); Q71-80 are the Malayalam-language vocabulary questions (kept in Malayalam, untranslated, reused verbatim from the M-medium archive) — note this paper's native-language section boundary differs from the usual 81-90/91-100 pattern seen in other papers; Q1-60 and Q81-100 are translated from the official Malayalam text of 005/2026 M (option order verified against the M-medium archive for all self-contained/numeric-answer questions across both ranges, no transpositions found). | Q71 option text corrected 2026-08-15 against the official printed scan: A and D are both \"വൃഷ്ടി\", B and C are both \"വ്രഷ്ടി\" (verified from user-supplied scan of the printed paper) — this is how PSC printed it, both A/D and B/C are genuine textual duplicates on the paper itself; correctAnswer left at D per the existing key, unchanged. | CORRECTION 2026-08-15: the prior fix based on a user-submitted scan photo (which read A/D and B/C as duplicate pairs) has been reverted — a second independently-supplied transcription of the printed paper (Q71-80 in native Malayalam, matching the original archived text) confirms all four options are genuinely distinct: A) വൃഷ്ടി, B) വ്രഷ്ടി, C) വൃഷ്ടീ, D) വ്യഷ്ടി. The scan-based reading was a misread of visually similar glyphs, not a real duplicate on the printed paper. correctAnswer remains D.",
     "status": "published"
+  },
+  {
+    "id": "48-2026-E-ML",
+    "paperCode": "48/2026 (Malayalam study rendering)",
+    "post": "Special Branch Asst, Excise Inspector, SI of Police, Assistant, Junior",
+    "categoryCode": "017/2025,187/2025,188/2025,221/2025,269/2025,382/2025,383/2025,446/2025",
+    "date": "16-May-2026",
+    "medium": "Malayalam (study rendering)",
+    "year": "2026",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "PSC published this paper only in English medium (Question Paper Code 48/2026, Alphacode A; Final Answer Key) — already archived as 48-2026-E. No official Malayalam-medium booklet exists for this sitting (Date of Test 16-May-2026). This entry is a Malayalam translation / study rendering, not an official PSC booklet: Q1-70 (General Knowledge/Reasoning) are translated from the official English original; Q71-90 (English grammar section) and Q91-100 (Malayalam grammar section) are reproduced in their originally-tested language, unaffected by translation, and match 48-2026-E verbatim for those ranges. Answers sourced from PSC's Final Answer Key, Alphacode A column, and cross-checked question-by-question against the already-audited 48-2026-E archive (100/100 match, including the 2026-08-11 correction to Q17/Q18) — no discrepancies found.",
+    "status": "published"
   }
 ]
