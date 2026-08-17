@@ -348,5 +348,43 @@
     ],
     "publishedAt": "2026-08-16T09:00:00+05:30",
     "status": "published"
+  },
+  {
+    "id": "HC-DAILY-2026-08-17",
+    "paperCode": "HC-DAILY-2026-08-17",
+    "title": "August 17 Free Mock Test",
+    "description": "Trend-driven daily mock - 10 questions, fully explained.",
+    "date": "17-Aug-2026",
+    "year": "2026",
+    "totalQuestions": 10,
+    "totalMarks": 10,
+    "durationMinutes": 15,
+    "negativeMarking": false,
+    "type": "daily",
+    "questionCount": 10,
+    "papers_analyzed": [
+      "069-2026-M",
+      "063-2026-M",
+      "58-2026-M",
+      "54-2026-M",
+      "51-2026-M",
+      "049-2026-M",
+      "048-2026-E",
+      "44-2026-M",
+      "43-2026-M",
+      "038-2026-M",
+      "11-2026-M",
+      "005-2026-M",
+      "115-2025-M",
+      "003-2026-M",
+      "176-2025-M",
+      "174-2025-M",
+      "173-2025-M",
+      "172-2025-M",
+      "167-2025-M",
+      "149-2025-M"
+    ],
+    "publishedAt": "2026-08-17T07:00:00+05:30",
+    "status": "published"
   }
 ]
