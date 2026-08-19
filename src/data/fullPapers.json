@@ -583,5 +583,18 @@
     "totalQuestions": 100,
     "answerKeySource": "PSC published this paper only in English medium (Question Paper Code 48/2026, Alphacode A; Final Answer Key) — already archived as 48-2026-E. No official Malayalam-medium booklet exists for this sitting (Date of Test 16-May-2026). This entry is a Malayalam translation / study rendering, not an official PSC booklet: Q1-70 (General Knowledge/Reasoning) are translated from the official English original; Q71-90 (English grammar section) and Q91-100 (Malayalam grammar section) are reproduced in their originally-tested language, unaffected by translation, and match 48-2026-E verbatim for those ranges. Answers sourced from PSC's Final Answer Key, Alphacode A column, and cross-checked question-by-question against the already-audited 48-2026-E archive (100/100 match, including the 2026-08-11 correction to Q17/Q18) — no discrepancies found.",
     "status": "published"
+  },
+  {
+    "id": "58-2026-M-EN",
+    "paperCode": "58/2026 M-EN",
+    "post": "Police Constable (Trainee) Armed Police Battalion/Woman Police Constable",
+    "categoryCode": "034/2025, 339/2025, 419/2025, 484/2025, 485/2025, 486/2025, 487/2025, 488/2025",
+    "date": "20-Jun-2026",
+    "medium": "E",
+    "year": "2026",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — same key as 58-2026-M. English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 58/2026 (only Kannada, Tamil, and Malayalam mediums exist for this sitting — confirmed via PSC's OMR Final Answer Key listing, tid=126). Confirmed against the official Malayalam-medium paper (58-2026-M): Q61-70 are printed in English on the official M-medium paper (unchanged, reused verbatim from the M-medium archive); Q71-80 are the Malayalam-language vocabulary/grammar questions (kept in Malayalam, untranslated, reused verbatim from the M-medium archive, including Q75 which PSC deleted for this alphacode — correctAnswer null/status deleted, matching 58-2026-M); Q1-60 and Q81-100 are AI-translated from the official Malayalam text of 58/2026 M, supplied by the user as a pre-transcribed markdown file.",
+    "status": "published"
   }
 ]
