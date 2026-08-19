@@ -6,6 +6,7 @@ import { useTheme, themes } from '../contexts/ThemeContext'
 import { isVibrationEnabled, setVibrationEnabled, tap } from '../utils/haptics'
 import { isSoundEnabled, setSoundEnabled, playChime } from '../utils/sound'
 import { enablePushNotifications, getNotificationPermission, isPushSupported } from '../utils/notifications'
+import { FULL100_LANG_OPTIONS, getFull100LangPref, setFull100LangPref } from '../utils/full100Lang'
 
 /* ── Reusable toggle row ───────────────────────────────────────────── */
 function ToggleRow({ label, description, checked, onChange }) {
@@ -166,9 +167,11 @@ export default function Profile() {
   // in sync with what's toggled here).
   const [vibration, setVibration] = useState(true)
   const [sound, setSound] = useState(true)
+  const [full100Lang, setFull100Lang] = useState('both')
   useEffect(() => {
     setVibration(isVibrationEnabled())
     setSound(isSoundEnabled())
+    setFull100Lang(getFull100LangPref())
   }, [])
 
   // Push notification opt-in state: 'unsupported' | 'default' | 'granted' | 'denied'
@@ -198,6 +201,12 @@ export default function Profile() {
     setSoundEnabled(next)
     setSound(next)
     if (next) playChime('normal') // little confirmation chime
+  }
+
+  function chooseFull100Lang(next) {
+    setFull100LangPref(next)
+    setFull100Lang(next)
+    tap(15) // same little confirmation buzz as the other setting changes
   }
 
   useEffect(() => {
@@ -315,6 +324,26 @@ export default function Profile() {
                   border: '1px solid ' + (theme === t.id ? 'var(--accent)' : 'var(--border)'),
                 }}>
                 <span>{t.label}</span> {t.title}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        <div className="pt-4 mt-3" style={{ borderTop: '1px solid var(--border)' }}>
+          <div className="text-sm font-medium mb-0.5">Full 100 language</div>
+          <div className="text-xs mb-2" style={{ color: 'var(--text2)' }}>
+            Which language(s) show up per paper on the Full 100 list.
+          </div>
+          <div className="flex gap-2">
+            {FULL100_LANG_OPTIONS.map(o => (
+              <button key={o.id} onClick={() => chooseFull100Lang(o.id)} title={o.title}
+                className="flex-1 py-2 rounded-lg text-sm font-medium"
+                style={{
+                  background: full100Lang === o.id ? 'var(--accent)' : 'var(--bg2)',
+                  color: full100Lang === o.id ? 'var(--accent-text)' : 'var(--text)',
+                  border: '1px solid ' + (full100Lang === o.id ? 'var(--accent)' : 'var(--border)'),
+                }}>
+                {o.label}
               </button>
             ))}
           </div>

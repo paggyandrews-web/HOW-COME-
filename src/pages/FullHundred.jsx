@@ -10,6 +10,7 @@ import { useStreak } from '../hooks/useStreak'
 import { usePaperProgress } from '../hooks/usePaperProgress'
 import { STATUS_META, DUE_COLOR, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, parsePaperDate } from '../utils/paperStatus'
 import { getDraft, saveDraft, clearDraft, getAllDrafts, draftAttemptedCount } from '../utils/fullHundredDraft'
+import { getFull100LangPref } from '../utils/full100Lang'
 
 const NEGATIVE_MARK = 1 / 3
 
@@ -231,6 +232,14 @@ function PaperList({ onStart, onResume }) {
   const { user } = useAuth()
   const needsSignup = !user
 
+  // Profile → Settings → "Full 100 language". Read once per mount — this
+  // page remounts fresh whenever you navigate back to it, same as drafts
+  // above, so a change made on the Profile page takes effect the moment you
+  // return here.
+  const langPref = useMemo(() => getFull100LangPref(), [])
+  const showMalayalam = langPref !== 'english'
+  const showEnglish = langPref !== 'malayalam'
+
   const { progress, loading, summary } = usePaperProgress(fullPapers, SCOREABLE_FULL_QUESTIONS)
 
   // Local-only autosave drafts (never synced to Firestore — see
@@ -300,11 +309,23 @@ function PaperList({ onStart, onResume }) {
     return fields.some(f => f && f.toLowerCase().includes(trimmedQuery))
   }
 
+  // Which language slot(s) of a group are visible under the current
+  // language preference — a group with nothing left visible (e.g. it only
+  // has an English rendering and the preference is "Malayalam only") is
+  // dropped entirely rather than showing an empty card.
+  function visibleLangs(g) {
+    return [
+      g.malayalam && showMalayalam && { paper: g.malayalam, label: 'മലയാളം', tag: 'മല' },
+      g.english && showEnglish && { paper: g.english, label: 'English', tag: 'EN' },
+    ].filter(Boolean)
+  }
+
   const shownGroups = groups
-    .filter(g =>
-      matchesStatusFilter(displayProgress[g.malayalam?.id], status) ||
-      matchesStatusFilter(displayProgress[g.english?.id], status)
-    )
+    .filter(g => {
+      const langs = visibleLangs(g)
+      if (langs.length === 0) return false
+      return langs.some(({ paper }) => matchesStatusFilter(displayProgress[paper.id], status))
+    })
     .filter(groupMatchesQuery)
 
   return (
@@ -385,10 +406,7 @@ function PaperList({ onStart, onResume }) {
 
       {shownGroups.map(g => {
         const primary = g.malayalam || g.english
-        const langs = [
-          g.malayalam && { paper: g.malayalam, label: 'മലയാളം', tag: 'മല' },
-          g.english && { paper: g.english, label: 'English', tag: 'EN' },
-        ].filter(Boolean)
+        const langs = visibleLangs(g)
         const anyDue = langs.some(({ paper }) => displayProgress[paper.id]?.dueForRevision)
 
         return (
