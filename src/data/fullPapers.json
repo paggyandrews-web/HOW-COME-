@@ -65,6 +65,19 @@
     "status": "published"
   },
   {
+    "id": "49-2026-M-EN",
+    "paperCode": "049/2026 M-EN",
+    "post": "Attender Gr II /Salesman Gr -II/ Saleswoman Gr II/Store keeper- Main",
+    "categoryCode": "037/2024, 328/2024, 377/2024",
+    "date": "18-May-2026",
+    "medium": "E",
+    "year": "2026",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — same key as 49-2026-M. English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 049/2026 (Kannada, Tamil, and Malayalam mediums exist for this sitting — confirmed via PSC's OMR Answer Key listing). Q81-90 are printed natively in English on the official M-medium paper (matches the M-medium archive's Q81-90 verbatim aside from cosmetic blank-length/apostrophe differences between the two source transcriptions); Q91-100 are the Malayalam-language subject questions (kept in Malayalam, untranslated); Q1-80 are translated from the official Malayalam text of 49/2026 M.",
+    "status": "published"
+  },
+  {
     "id": "44-2026-M",
     "paperCode": "044/2026 M",
     "post": "Beat Forest Officer",
@@ -75,6 +88,19 @@
     "alphacode": "A",
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC) — uploaded 02-06-2026",
+    "status": "published"
+  },
+  {
+    "id": "44-2026-M-EN",
+    "paperCode": "044/2026 M-EN",
+    "post": "Beat Forest Officer",
+    "categoryCode": "431/2025, 432/2025, 433/2025, 434/2025, 435/2025, 856/2025, 857/2025, 858/2025, 859/2025",
+    "date": "06-May-2026",
+    "medium": "E",
+    "year": "2026",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — same key as 44-2026-M. English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 044/2026 (Kannada, Tamil, and Malayalam mediums exist for this sitting — confirmed via PSC's OMR Answer Key listing). Q61-70 are printed natively in English on the official M-medium paper (matches the M-medium archive verbatim, aside from trivial spacing); Q71-80 are the Malayalam-language subject questions, reused verbatim from the M-medium archive rather than the user-supplied file — the user-supplied transcription had several spelling-variant options reordered/altered relative to the M archive (most notably Q73, a \"find the correctly-spelled word\" question where the options differ letter by letter), which would have misaligned the shared answer key; Q1-60 and Q81-100 are translated from the official Malayalam text of 44/2026 M.",
     "status": "published"
   },
   {
