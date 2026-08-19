@@ -207,16 +207,25 @@ function fmtClock(secs) {
 
 /* A paper counts as "English" if its medium says so — either a genuine PSC
    English-medium booklet ("E") or a labelled English study rendering. Every
-   other medium (M, Tamil, Kannada, ...) lands in the Malayalam tab, which is
-   just "everything not English" since Full 100 is overwhelmingly M-medium. */
+   other medium (M, Tamil, Kannada, ...) lands in the Malayalam slot of its
+   paper group below, which is just "everything not English" since Full 100
+   is overwhelmingly M-medium. */
 function isEnglishPaper(p) {
   const m = String(p.medium || '').toLowerCase()
   return m === 'e' || m.includes('english')
 }
 
+/* Groups are the real, physical PSC papers — e.g. "176-2025" — regardless of
+   how many medium renderings (native "M", native "E", an "M-EN" English
+   study rendering, or an "E-ML" Malayalam study rendering) got archived for
+   it. Strip the trailing medium suffix off the archive id to recover the
+   group key every rendering of the same paper shares. */
+function paperGroupKey(id) {
+  return String(id).replace(/-(M-EN|E-ML|M|E)$/, '')
+}
+
 /* ── Paper list ─────────────────────────────────────────────────────── */
 function PaperList({ onStart, onResume }) {
-  const [tab, setTab] = useState('malayalam') // malayalam | english
   const [status, setStatus] = useState('')
   const { user } = useAuth()
   const needsSignup = !user
@@ -250,10 +259,29 @@ function PaperList({ onStart, onResume }) {
     return map
   }, [])
 
-  const malayalamPapers = useMemo(() => fullPapers.filter(p => !isEnglishPaper(p)), [])
-  const englishPapers = useMemo(() => fullPapers.filter(p => isEnglishPaper(p)), [])
-  const shownPapers = (tab === 'english' ? englishPapers : malayalamPapers)
-    .filter(p => matchesStatusFilter(displayProgress[p.id], status))
+  // One card per real paper, not per archived medium. Each group carries at
+  // most one Malayalam-flavoured entry (native "M", or an "E-ML" study
+  // rendering) and one English-flavoured entry (native "E", or an "M-EN"
+  // study rendering) — whichever mediums actually got archived for that
+  // paper. A paper archived in only one medium simply has a null slot on the
+  // other side, and the card below renders nothing there instead of a
+  // placeholder.
+  const groups = useMemo(() => {
+    const map = {}
+    const order = []
+    fullPapers.forEach(p => {
+      const key = paperGroupKey(p.id)
+      if (!map[key]) { map[key] = { key, malayalam: null, english: null }; order.push(key) }
+      if (isEnglishPaper(p)) map[key].english = p
+      else map[key].malayalam = p
+    })
+    return order.map(key => map[key])
+  }, [])
+
+  const shownGroups = groups.filter(g =>
+    matchesStatusFilter(displayProgress[g.malayalam?.id], status) ||
+    matchesStatusFilter(displayProgress[g.english?.id], status)
+  )
 
   return (
     <div className="max-w-3xl mx-auto px-4 py-6">
@@ -272,20 +300,6 @@ function PaperList({ onStart, onResume }) {
           </>
         )}
       </p>
-
-      <div className="flex gap-2 mb-4">
-        {[['malayalam', 'മലയാളം', malayalamPapers.length], ['english', 'English', englishPapers.length]].map(([val, label, n]) => (
-          <button key={val} onClick={() => setTab(val)}
-            className="flex-1 rounded-xl py-2.5 text-sm font-bold cursor-pointer"
-            style={{
-              background: tab === val ? 'var(--accent)' : 'var(--bg2)',
-              color: tab === val ? 'var(--accent-text)' : 'var(--text2)',
-              border: '1px solid ' + (tab === val ? 'var(--accent)' : 'var(--border)'),
-            }}>
-            {label} <span style={{ opacity: 0.8, fontWeight: 600 }}>({n})</span>
-          </button>
-        ))}
-      </div>
 
       <Dropdown
         value={status}
@@ -315,70 +329,88 @@ function PaperList({ onStart, onResume }) {
         </div>
       )}
 
-      {shownPapers.length === 0 && (
+      {shownGroups.length === 0 && (
         <div className="rounded-xl p-5 text-center" style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
           <div className="text-2xl mb-1">📄</div>
-          <div className="font-semibold text-sm">
-            {tab === 'english' ? 'No English papers archived yet' : 'No papers archived yet'}
-          </div>
+          <div className="font-semibold text-sm">No papers archived yet</div>
           <div className="text-xs mt-1" style={{ color: 'var(--text2)' }}>Check back soon.</div>
         </div>
       )}
 
-      {shownPapers.map(p => {
-        const prog = displayProgress[p.id]
-        const meta = prog ? STATUS_META[prog.status] : null
-        const due = prog?.dueForRevision
-        const isResumable = prog?.status === 'in-progress'
-        const label = prog?.status === 'completed' ? '🔁 Retake' : isResumable ? '▶️ Resume' : '✏️ Start'
+      {shownGroups.map(g => {
+        const primary = g.malayalam || g.english
+        const langs = [
+          g.malayalam && { paper: g.malayalam, label: 'മലയാളം' },
+          g.english && { paper: g.english, label: 'English' },
+        ].filter(Boolean)
+        const anyDue = langs.some(({ paper }) => displayProgress[paper.id]?.dueForRevision)
+
         return (
-          <div key={p.id} className="card rounded-xl p-4 mb-3 flex flex-col gap-3"
-            style={{ border: '1px solid ' + (due ? DUE_COLOR : 'var(--border)') }}>
+          <div key={g.key} className="card rounded-xl p-4 mb-3 flex flex-col gap-3"
+            style={{ border: '1px solid ' + (anyDue ? DUE_COLOR : 'var(--border)') }}>
             <div>
-              <div className="flex items-start justify-between gap-2">
-                <div className="font-semibold text-sm leading-snug">{p.post}</div>
-                {meta && !loading && (
-                  <span
-                    className="text-[10px] font-bold px-2 py-1 rounded-full whitespace-nowrap"
-                    style={{ color: meta.color, background: meta.bg }}
-                  >
-                    {statusBadgeText(prog, meta)}
-                  </span>
-                )}
-              </div>
+              <div className="font-semibold text-sm leading-snug">{primary.post}</div>
               <div className="text-xs mt-1.5 flex flex-wrap gap-x-2 gap-y-1" style={{ color: 'var(--text2)' }}>
-                <span>🧾 {p.paperCode}</span>
+                <span>📅 {primary.date}</span>
                 <span>·</span>
-                <span>📅 {p.date}</span>
-                <span>·</span>
-                <span>📝 {counts[p.id] || 0} questions</span>
+                <span>🏷️ {primary.categoryCode}</span>
               </div>
-              <div className="text-xs mt-1" style={{ color: 'var(--text2)' }}>
-                Category: {p.categoryCode}
-              </div>
-              {due && (
-                <div
-                  className="text-[11px] font-semibold mt-2 px-2 py-1.5 rounded-lg"
-                  style={{ color: DUE_COLOR, background: DUE_BG }}
-                >
-                  ⏰ Due for revision — last practiced {daysAgo(prog.lastAttemptDate)}d ago
-                </div>
-              )}
             </div>
-            {needsSignup ? (
-              <Link to="/register"
-                title="Sign up to take Full 100 papers"
-                className="block w-full text-center py-2.5 rounded-xl text-sm font-bold"
-                style={{ background: 'var(--bg2)', color: 'var(--text2)', border: '2px solid var(--border)', textDecoration: 'none' }}>
-                🔒 Sign up to start
-              </Link>
-            ) : (
-              <button onClick={() => (isResumable ? onResume(p) : onStart(p))}
-                className="w-full text-center py-2.5 rounded-xl text-sm font-bold cursor-pointer"
-                style={{ background: 'var(--accent)', color: 'var(--accent-text)', border: '2px solid var(--accent)', touchAction: 'manipulation' }}>
-                {label}
-              </button>
-            )}
+
+            <div className="flex flex-col gap-2">
+              {langs.map(({ paper: p, label }) => {
+                const prog = displayProgress[p.id]
+                const meta = prog ? STATUS_META[prog.status] : null
+                const due = prog?.dueForRevision
+                const isResumable = prog?.status === 'in-progress'
+                const btnLabel = prog?.status === 'completed' ? '🔁 Retake' : isResumable ? '▶️ Resume' : '✏️ Start'
+                return (
+                  <div key={p.id} className="rounded-lg p-3 flex flex-col gap-2"
+                    style={{ background: 'var(--bg2)', border: '1px solid ' + (due ? DUE_COLOR : 'var(--border)') }}>
+                    <div className="flex items-start justify-between gap-2">
+                      <div>
+                        <div className="text-xs font-bold">{label}</div>
+                        <div className="text-[11px] mt-0.5 flex flex-wrap gap-x-2 gap-y-0.5" style={{ color: 'var(--text2)' }}>
+                          <span>🧾 {p.paperCode}</span>
+                          <span>·</span>
+                          <span>📝 {counts[p.id] || 0} questions</span>
+                        </div>
+                      </div>
+                      {meta && !loading && (
+                        <span
+                          className="text-[10px] font-bold px-2 py-1 rounded-full whitespace-nowrap"
+                          style={{ color: meta.color, background: meta.bg }}
+                        >
+                          {statusBadgeText(prog, meta)}
+                        </span>
+                      )}
+                    </div>
+                    {due && (
+                      <div
+                        className="text-[11px] font-semibold px-2 py-1.5 rounded-lg"
+                        style={{ color: DUE_COLOR, background: DUE_BG }}
+                      >
+                        ⏰ Due for revision — last practiced {daysAgo(prog.lastAttemptDate)}d ago
+                      </div>
+                    )}
+                    {needsSignup ? (
+                      <Link to="/register"
+                        title="Sign up to take Full 100 papers"
+                        className="block w-full text-center py-2 rounded-lg text-xs font-bold"
+                        style={{ background: 'var(--card)', color: 'var(--text2)', border: '2px solid var(--border)', textDecoration: 'none' }}>
+                        🔒 Sign up to start
+                      </Link>
+                    ) : (
+                      <button onClick={() => (isResumable ? onResume(p) : onStart(p))}
+                        className="w-full text-center py-2 rounded-lg text-xs font-bold cursor-pointer"
+                        style={{ background: 'var(--accent)', color: 'var(--accent-text)', border: '2px solid var(--accent)', touchAction: 'manipulation' }}>
+                        {btnLabel}
+                      </button>
+                    )}
+                  </div>
+                )
+              })}
+            </div>
           </div>
         )
       })}
