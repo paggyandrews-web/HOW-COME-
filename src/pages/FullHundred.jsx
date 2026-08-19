@@ -8,7 +8,7 @@ import { useAuth } from '../contexts/AuthContext'
 import { useResults } from '../hooks/useResults'
 import { useStreak } from '../hooks/useStreak'
 import { usePaperProgress } from '../hooks/usePaperProgress'
-import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, statusBadgeText } from '../utils/paperStatus'
+import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, statusBadgeText, parsePaperDate } from '../utils/paperStatus'
 import { getDraft, saveDraft, clearDraft, getAllDrafts, draftAttemptedCount } from '../utils/fullHundredDraft'
 
 const NEGATIVE_MARK = 1 / 3
@@ -227,6 +227,7 @@ function paperGroupKey(id) {
 /* ── Paper list ─────────────────────────────────────────────────────── */
 function PaperList({ onStart, onResume }) {
   const [status, setStatus] = useState('')
+  const [query, setQuery] = useState('')
   const { user } = useAuth()
   const needsSignup = !user
 
@@ -275,13 +276,36 @@ function PaperList({ onStart, onResume }) {
       if (isEnglishPaper(p)) map[key].english = p
       else map[key].malayalam = p
     })
-    return order.map(key => map[key])
+    // Latest exam date first. A group with no parseable date (shouldn't
+    // happen, but archived data is hand-entered) sinks to the bottom rather
+    // than sorting randomly among dated papers.
+    return order.map(key => map[key]).sort((a, b) => {
+      const da = parsePaperDate((a.malayalam || a.english)?.date)
+      const db = parsePaperDate((b.malayalam || b.english)?.date)
+      if (da == null && db == null) return 0
+      if (da == null) return 1
+      if (db == null) return -1
+      return db - da
+    })
   }, [])
 
-  const shownGroups = groups.filter(g =>
-    matchesStatusFilter(displayProgress[g.malayalam?.id], status) ||
-    matchesStatusFilter(displayProgress[g.english?.id], status)
-  )
+  // Search matches either language's paper code or post name — a paper's
+  // English study rendering sometimes carries a slightly different paperCode
+  // string ("... (English study version)") than its Malayalam original, so
+  // both sides of the group are checked.
+  const trimmedQuery = query.trim().toLowerCase()
+  function groupMatchesQuery(g) {
+    if (!trimmedQuery) return true
+    const fields = [g.malayalam?.paperCode, g.english?.paperCode, g.malayalam?.post, g.english?.post]
+    return fields.some(f => f && f.toLowerCase().includes(trimmedQuery))
+  }
+
+  const shownGroups = groups
+    .filter(g =>
+      matchesStatusFilter(displayProgress[g.malayalam?.id], status) ||
+      matchesStatusFilter(displayProgress[g.english?.id], status)
+    )
+    .filter(groupMatchesQuery)
 
   return (
     <div className="max-w-3xl mx-auto px-4 py-6">
@@ -300,6 +324,24 @@ function PaperList({ onStart, onResume }) {
           </>
         )}
       </p>
+
+      <div className="relative mb-3">
+        <input
+          value={query}
+          onChange={e => setQuery(e.target.value)}
+          placeholder="Search by exam code or exam name..."
+          className="w-full rounded-xl px-4 py-2.5 pr-8 text-sm"
+          style={{ background: 'var(--surface)', border: '1px solid var(--border)', color: 'var(--text)', outline: 'none' }}
+        />
+        {query && (
+          <button onClick={() => setQuery('')}
+            className="absolute right-3 top-1/2 -translate-y-1/2 text-sm cursor-pointer"
+            style={{ color: 'var(--text2)', background: 'transparent', border: 'none' }}
+            aria-label="Clear search">
+            ✕
+          </button>
+        )}
+      </div>
 
       <Dropdown
         value={status}
@@ -332,8 +374,12 @@ function PaperList({ onStart, onResume }) {
       {shownGroups.length === 0 && (
         <div className="rounded-xl p-5 text-center" style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
           <div className="text-2xl mb-1">📄</div>
-          <div className="font-semibold text-sm">No papers archived yet</div>
-          <div className="text-xs mt-1" style={{ color: 'var(--text2)' }}>Check back soon.</div>
+          <div className="font-semibold text-sm">
+            {trimmedQuery ? `No papers match "${query.trim()}"` : 'No papers archived yet'}
+          </div>
+          <div className="text-xs mt-1" style={{ color: 'var(--text2)' }}>
+            {trimmedQuery ? 'Try a different exam code or name.' : 'Check back soon.'}
+          </div>
         </div>
       )}
 
