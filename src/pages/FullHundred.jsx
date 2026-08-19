@@ -413,18 +413,16 @@ function PaperList({ onStart, onResume }) {
                 return (
                   <div key={p.id} className="rounded-lg p-3 flex flex-col gap-2"
                     style={{ background: 'var(--bg2)', border: '1px solid ' + (due ? DUE_COLOR : 'var(--border)') }}>
-                    <div className="flex items-start justify-between gap-2">
-                      <div>
-                        <div className="text-xs font-bold">{label}</div>
-                        <div className="text-[11px] mt-0.5 flex flex-wrap gap-x-2 gap-y-0.5" style={{ color: 'var(--text2)' }}>
-                          <span>🧾 {p.paperCode}</span>
-                          <span>·</span>
-                          <span>📝 {counts[p.id] || 0} questions</span>
-                        </div>
+                    <div className="flex items-center justify-between gap-2">
+                      <div className="text-xs flex items-baseline gap-1.5 min-w-0" style={{ overflow: 'hidden' }}>
+                        <span className="font-bold shrink-0">{label}</span>
+                        <span style={{ color: 'var(--text2)', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
+                          🧾 {p.paperCode} · 📝 {counts[p.id] || 0} questions
+                        </span>
                       </div>
                       {meta && !loading && (
                         <span
-                          className="text-[10px] font-bold px-2 py-1 rounded-full whitespace-nowrap"
+                          className="text-[10px] font-bold px-2 py-1 rounded-full whitespace-nowrap shrink-0"
                           style={{ color: meta.color, background: meta.bg }}
                         >
                           {statusBadgeText(prog, meta)}
