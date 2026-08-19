@@ -8,7 +8,7 @@ import { useAuth } from '../contexts/AuthContext'
 import { useResults } from '../hooks/useResults'
 import { useStreak } from '../hooks/useStreak'
 import { usePaperProgress } from '../hooks/usePaperProgress'
-import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, statusBadgeText, parsePaperDate } from '../utils/paperStatus'
+import { STATUS_META, DUE_COLOR, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, parsePaperDate } from '../utils/paperStatus'
 import { getDraft, saveDraft, clearDraft, getAllDrafts, draftAttemptedCount } from '../utils/fullHundredDraft'
 
 const NEGATIVE_MARK = 1 / 3
@@ -386,72 +386,75 @@ function PaperList({ onStart, onResume }) {
       {shownGroups.map(g => {
         const primary = g.malayalam || g.english
         const langs = [
-          g.malayalam && { paper: g.malayalam, label: 'മലയാളം' },
-          g.english && { paper: g.english, label: 'English' },
+          g.malayalam && { paper: g.malayalam, label: 'മലയാളം', tag: 'മല' },
+          g.english && { paper: g.english, label: 'English', tag: 'EN' },
         ].filter(Boolean)
         const anyDue = langs.some(({ paper }) => displayProgress[paper.id]?.dueForRevision)
 
         return (
-          <div key={g.key} className="card rounded-xl p-4 mb-3 flex flex-col gap-3"
+          <div key={g.key} className="card rounded-xl p-3.5 mb-2.5 flex flex-col gap-2.5"
             style={{ border: '1px solid ' + (anyDue ? DUE_COLOR : 'var(--border)') }}>
             <div>
               <div className="font-semibold text-sm leading-snug">{primary.post}</div>
-              <div className="text-xs mt-1.5 flex flex-wrap gap-x-2 gap-y-1" style={{ color: 'var(--text2)' }}>
+              <div className="text-xs mt-1 flex flex-wrap gap-x-2 gap-y-0.5" style={{ color: 'var(--text2)' }}>
                 <span>📅 {primary.date}</span>
                 <span>·</span>
                 <span>🏷️ {primary.categoryCode}</span>
               </div>
             </div>
 
-            <div className="flex flex-col gap-2">
-              {langs.map(({ paper: p, label }) => {
+            <div className="flex flex-col gap-1.5">
+              {langs.map(({ paper: p, label, tag }) => {
                 const prog = displayProgress[p.id]
                 const meta = prog ? STATUS_META[prog.status] : null
                 const due = prog?.dueForRevision
                 const isResumable = prog?.status === 'in-progress'
-                const btnLabel = prog?.status === 'completed' ? '🔁 Retake' : isResumable ? '▶️ Resume' : '✏️ Start'
-                return (
-                  <div key={p.id} className="rounded-lg p-3 flex flex-col gap-2"
-                    style={{ background: 'var(--bg2)', border: '1px solid ' + (due ? DUE_COLOR : 'var(--border)') }}>
-                    <div className="flex items-center justify-between gap-2">
-                      <div className="text-xs flex items-baseline gap-1.5 min-w-0" style={{ overflow: 'hidden' }}>
-                        <span className="font-bold shrink-0">{label}</span>
-                        <span style={{ color: 'var(--text2)', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
-                          🧾 {p.paperCode} · 📝 {counts[p.id] || 0} questions
-                        </span>
-                      </div>
-                      {meta && !loading && (
-                        <span
-                          className="text-[10px] font-bold px-2 py-1 rounded-full whitespace-nowrap shrink-0"
-                          style={{ color: meta.color, background: meta.bg }}
-                        >
-                          {statusBadgeText(prog, meta)}
-                        </span>
-                      )}
-                    </div>
-                    {due && (
-                      <div
-                        className="text-[11px] font-semibold px-2 py-1.5 rounded-lg"
-                        style={{ color: DUE_COLOR, background: DUE_BG }}
-                      >
-                        ⏰ Due for revision — last practiced {daysAgo(prog.lastAttemptDate)}d ago
-                      </div>
-                    )}
-                    {needsSignup ? (
-                      <Link to="/register"
-                        title="Sign up to take Full 100 papers"
-                        className="block w-full text-center py-2 rounded-lg text-xs font-bold"
-                        style={{ background: 'var(--card)', color: 'var(--text2)', border: '2px solid var(--border)', textDecoration: 'none' }}>
-                        🔒 Sign up to start
-                      </Link>
-                    ) : (
-                      <button onClick={() => (isResumable ? onResume(p) : onStart(p))}
-                        className="w-full text-center py-2 rounded-lg text-xs font-bold cursor-pointer"
-                        style={{ background: 'var(--accent)', color: 'var(--accent-text)', border: '2px solid var(--accent)', touchAction: 'manipulation' }}>
-                        {btnLabel}
-                      </button>
-                    )}
-                  </div>
+                const isCompleted = prog?.status === 'completed'
+                const actionColor = !loading && meta ? meta.color : 'var(--accent)'
+                const actionText = loading || !meta
+                  ? '✏️ Start'
+                  : isCompleted ? `🔁 Retake · ${prog.score}%`
+                  : isResumable ? `▶️ ${prog.attempted}/${prog.total}`
+                  : '✏️ Start'
+
+                const row = (
+                  <>
+                    <span
+                      className="text-[10px] font-bold px-1.5 py-0.5 rounded shrink-0"
+                      style={{ background: 'var(--bg)', color: 'var(--text2)' }}
+                      title={label}
+                    >
+                      {tag}
+                    </span>
+                    <span
+                      className="text-xs min-w-0 flex-1"
+                      style={{ color: 'var(--text2)', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}
+                    >
+                      {p.paperCode} · {counts[p.id] || 0}q
+                      {due && <span style={{ color: DUE_COLOR }}> · due {daysAgo(prog.lastAttemptDate)}d ago</span>}
+                    </span>
+                    <span
+                      className="text-xs font-bold shrink-0 whitespace-nowrap"
+                      style={{ color: needsSignup ? 'var(--text2)' : actionColor }}
+                    >
+                      {needsSignup ? '🔒 Sign up' : actionText}
+                    </span>
+                  </>
+                )
+
+                return needsSignup ? (
+                  <Link key={p.id} to="/register"
+                    title="Sign up to take Full 100 papers"
+                    className="paper-row rounded-lg px-3 py-2.5 flex items-center gap-2"
+                    style={{ background: 'var(--bg2)', border: '1px solid ' + (due ? DUE_COLOR : 'var(--border)'), textDecoration: 'none' }}>
+                    {row}
+                  </Link>
+                ) : (
+                  <button key={p.id} onClick={() => (isResumable ? onResume(p) : onStart(p))}
+                    className="paper-row rounded-lg px-3 py-2.5 flex items-center gap-2 text-left cursor-pointer"
+                    style={{ background: 'var(--bg2)', border: '1px solid ' + (due ? DUE_COLOR : 'var(--border)'), touchAction: 'manipulation' }}>
+                    {row}
+                  </button>
                 )
               })}
             </div>
