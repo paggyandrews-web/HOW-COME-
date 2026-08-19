@@ -217,7 +217,7 @@
     "year": "2026",
     "alphacode": "A",
     "totalQuestions": 100,
-    "answerKeySource": "Final Answer Key (PSC) — published 2026-07",
+    "answerKeySource": "Final Answer Key (PSC) — published 2026-07. CORRECTED 2026-08-19: the previously archived question text/options for roughly 60 of the 100 questions (scattered across the paper, notably Q26-30, Q39-48, Q54-79, Q84-93, Q99-100) had been populated with content from an unrelated/mismatched source and did not match the real printed paper. Corrected against a user-supplied verified Malayalam re-transcription of the actual 51/2026 M paper. The stored correctAnswer/status values were NOT changed — they were independently re-verified by re-fetching PSC's Final Answer Key PDF (fkey-civil-excise-officer-trainee-m.pdf) fresh and confirming all 100 Alphacode-A answers (incl. deletions at Q5,10,35,37,50,76) match exactly what was already stored, so only the question text/options were wrong, not the key.",
     "status": "published"
   },
   {
@@ -585,16 +585,16 @@
     "status": "published"
   },
   {
-    "id": "58-2026-M-EN",
-    "paperCode": "58/2026 M-EN",
-    "post": "Police Constable (Trainee) Armed Police Battalion/Woman Police Constable",
-    "categoryCode": "034/2025, 339/2025, 419/2025, 484/2025, 485/2025, 486/2025, 487/2025, 488/2025",
-    "date": "20-Jun-2026",
+    "id": "51-2026-M-EN",
+    "paperCode": "051/2026 M-EN",
+    "post": "Civil Excise Officer (Trainee)/Women Civil Excise Officer (Trainee)",
+    "categoryCode": "247/2025, 340/2025, 341/2025, 342/2025, 343/2025, 344/2025, 345/2025, 346/2025",
+    "date": "23-May-2026",
     "medium": "E",
     "year": "2026",
     "alphacode": "A",
     "totalQuestions": 100,
-    "answerKeySource": "Final Answer Key (PSC) — same key as 58-2026-M. English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 58/2026 (only Kannada, Tamil, and Malayalam mediums exist for this sitting — confirmed via PSC's OMR Final Answer Key listing, tid=126). Confirmed against the official Malayalam-medium paper (58-2026-M): Q61-70 are printed in English on the official M-medium paper (unchanged, reused verbatim from the M-medium archive); Q71-80 are the Malayalam-language vocabulary/grammar questions (kept in Malayalam, untranslated, reused verbatim from the M-medium archive, including Q75 which PSC deleted for this alphacode — correctAnswer null/status deleted, matching 58-2026-M); Q1-60 and Q81-100 are AI-translated from the official Malayalam text of 58/2026 M, supplied by the user as a pre-transcribed markdown file.",
+    "answerKeySource": "Final Answer Key (PSC) — same key as 51-2026-M (re-verified 2026-08-19 against a fresh fetch of fkey-civil-excise-officer-trainee-m.pdf, Alphacode A column). English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 051/2026 (only Kannada, Tamil, and Malayalam mediums exist for this sitting — confirmed via PSC's site search). Built from a user-supplied English translation, cross-checked against a user-supplied verified Malayalam re-transcription of the same paper (the latter was also used to correct the sibling 51-2026-M archive, which had ~60 questions populated with mismatched content before this correction): Q61-70 are printed natively in English on the official M-medium booklet (unchanged); Q71-80 are the Malayalam vocabulary/grammar section, kept in Malayalam untranslated (reused verbatim from the corrected 51-2026-M); Q1-60 and Q81-100 are AI-translated from the official Malayalam text of 051/2026 M.",
     "status": "published"
   }
 ]
