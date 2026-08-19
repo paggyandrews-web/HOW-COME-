@@ -2288,5 +2288,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) pessimist:\n• ഇത് എപ്പോഴും മോശം കാര്യങ്ങൾ സംഭവിക്കുമെന്ന് വിശ്വസിക്കുന്ന വ്യക്തിയെ കുറിക്കുന്നു — future foresee ചെയ്യുന്ന കഴിവുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'future' എന്ന ആശയം കണ്ട് negative-outlook word-മായി confuse ആകാൻ സാധ്യതയുണ്ട്.\n\n• (C) skeptic:\n• എന്തിനെയും സംശയത്തോടെ കാണുന്ന വ്യക്തി എന്നർഥം — foresight-മായി ഒരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: 'old woman' എന്ന mysterious character-നെ കുറിച്ച് villagers-ന്റെ doubt ആയി തെറ്റായി വായിക്കാം.\n\n• (D) historian:\n• ഭൂതകാലത്തെക്കുറിച്ച് പഠിക്കുന്ന വ്യക്തി എന്നർഥം — 'clairvoyant' ഭാവിയെക്കുറിച്ചാണ്, ഇത് നേരെ വിപരീത time-direction ആണ്.\n• 🪤 PSC Trap: Past-Future direction confuse ചെയ്യാൻ വേണ്ടി ഉൾപ്പെടുത്തിയ option ആണ്.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Clair' = Clear, 'Voyant' = Voyage (യാത്ര) into the future ചെയ്യുന്ന ഒരാൾ എന്ന് ഓർക്കുക — 'Clear Voyage into Tomorrow'!\n• Word family: clairvoyant, prophet, seer, soothsayer — ഇവയെല്ലാം future-foreseeing people-നെ കുറിക്കുന്ന words ആണ്.\n• PSC exam strategy: One-word substitute ചോദ്യങ്ങളിൽ phrase-ലെ key action word (ഇവിടെ 'foresee') ആദ്യം identify ചെയ്യുക, എന്നിട്ട് ആ action ചെയ്യുന്ന വ്യക്തിയെ കുറിക്കുന്ന word ഓർത്തെടുക്കുക."
     }
+  },
+  {
+    "id": "HC-DAILY-2026-08-19-Q1",
+    "paperId": "HC-DAILY-2026-08-19",
+    "questionNumber": 1,
+    "topic": "Question Tags",
+    "difficulty": "medium",
+    "questionText": "Choose the correct question tag to complete the sentence.\nI am the only one who truly understands this project, __________?",
+    "optionA": "aren't I",
+    "optionB": "isn't I",
+    "optionC": "am not I",
+    "optionD": "amn't I",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) aren't I\n\n• 'I am' എന്ന positive statement-ന്റെ tag ചോദിക്കുമ്പോൾ, സാധാരണ രീതിയിൽ 'am' -നെ negative ആക്കി 'I' -നൊപ്പം ചേർക്കണം — പക്ഷേ 'amn't I' എന്നത് standard English-ൽ accept ചെയ്യാറില്ല.\n• അതുകൊണ്ട് ഇംഗ്ലീഷ് grammar-ൽ ഒരു പ്രത്യേക exception ഉണ്ട്: 'I am' -ന്റെ tag എപ്പോഴും 'aren't I?' ആയിരിക്കും.\n• ഇത് Wren & Martin ഉൾപ്പെടെയുള്ള standard grammar-കൾ പഠിപ്പിക്കുന്ന ഒരു fixed rule ആണ്, PSC പേപ്പറുകളിൽ ആവർത്തിച്ചു വരുന്നതും ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: I am ... , aren't I?  (ഒരിക്കലും 'amn't I' അല്ല!)\n• Question Tag rule: statement positive ആണെങ്കിൽ tag negative ആയിരിക്കും, statement negative ആണെങ്കിൽ tag positive ആയിരിക്കും.\n• Auxiliary verb-ന്റെ tense/person tag-ലും match ചെയ്യണം — പക്ഷേ 'am' -ന് മാത്രം ഈ ഒരു exception ഉണ്ട്.\n• ⭐ PSC ആവർത്തനം: 'I am' tag rule PSC പേപ്പറുകളിൽ പലതവണ ചോദിച്ചിട്ടുള്ള ഒരു classic trap ആണ്.\n• ഉദാഹരണ sentences:\n  1. I am late, aren't I?\n  2. I am invited to the party, aren't I?\n  3. I am doing the right thing, aren't I?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) isn't I\n• 'isn't' എന്നത് he/she/it (third person singular) -നൊപ്പം മാത്രമേ ഉപയോഗിക്കാവൂ.\n• 'I' എന്ന subject-നൊപ്പം 'isn't' ഒരിക്കലും ചേരില്ല.\n• 🪤 PSC Trap: subject-verb agreement confuse ചെയ്യാൻ വേണ്ടി ഇടുന്ന option ആണ്.\n\n(C) am not I\n• Word order തെറ്റാണ് — tag-ൽ auxiliary + subject എന്ന ക്രമമേ ശരിയാകൂ, 'am not I' എന്നത് standard tag form അല്ല.\n• 🪤 PSC Trap: 'am not' എന്ന ശരിയായ negative form ഉപയോഗിച്ച് confuse ചെയ്യിക്കാൻ ശ്രമിക്കുന്നു.\n\n(D) amn't I\n• ചില dialects-ൽ (Irish/Scottish English) ഇത് ഉപയോഗിക്കാറുണ്ടെങ്കിലും, standard/exam English-ൽ ഇത് accept ചെയ്യാറില്ല.\n• 🪤 PSC Trap: 'am' -ന്റെ നേരിട്ടുള്ള negative form ആണെന്ന് തോന്നിക്കുന്ന, എന്നാൽ തെറ്റായ option.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"I am, aren't I — never amn't I!\" എന്ന് rhyme ആയി ഓർത്തുവയ്ക്കുക.\n• Question Tags family: positive→negative, negative→positive എന്ന rule-നൊപ്പം ഈ ഒരു exception പ്രത്യേകം പഠിക്കുക.\n• PSC exam strategy: 'I am' കണ്ടാൽ ഉടനെ 'aren't I' എന്ന് ഓർക്കുക — ഇത് guaranteed mark ആണ്, ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-19-Q2",
+    "paperId": "HC-DAILY-2026-08-19",
+    "questionNumber": 2,
+    "topic": "Prepositions",
+    "difficulty": "medium",
+    "questionText": "Fill in the blank with the correct preposition.\nPeople who skip breakfast regularly are often prone ______ fatigue and poor concentration later in the day.",
+    "optionA": "to",
+    "optionB": "with",
+    "optionC": "at",
+    "optionD": "for",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) to\n\n• 'Prone to' എന്നത് ഒരു fixed collocation ആണ് — 'ഒരു കാര്യത്തിന് സാധ്യതയുള്ളവൻ / അതിന് വിധേയനാകാൻ ഇടയുള്ളവൻ' എന്നർഥം.\n• 'Prone' എന്ന adjective-നൊപ്പം എപ്പോഴും 'to' മാത്രമേ ഉപയോഗിക്കൂ — ഇത് മാറ്റാൻ പറ്റാത്ത ഒരു fixed pairing ആണ്.\n• Real-life connection: 'accident-prone', 'error-prone' എന്നിവയിലും ഇതേ 'prone to' pattern കാണാം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: prone + to (ഒരിക്കലും with/at/for അല്ല)\n• ചില adjectives-ന് ഒരു fixed preposition മാത്രമേ ചേരൂ — ഇവയെ 'collocations' എന്ന് പറയും, ഇവ വാക്ക് തോറും മാറാതെ പഠിക്കണം.\n• Related word family: liable to, susceptible to, subject to — ഇവയെല്ലാം 'to' എടുക്കുന്ന similar-meaning adjectives ആണ്.\n• ⭐ PSC ആവർത്തനം: Prepositions PSC പേപ്പറുകളിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n  1. Children are prone to infections during monsoon.\n  2. He is prone to making careless mistakes.\n  3. This area is prone to flooding every year.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) with\n• 'Prone with' എന്ന combination English-ൽ നിലവിലില്ല.\n• 🪤 PSC Trap: 'associated with' പോലുള്ള മറ്റ് phrase-കളുമായി confuse ചെയ്യിക്കാൻ ശ്രമിക്കുന്നു.\n\n(C) at\n• 'at' സ്ഥലം/സമയം സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്ന preposition ആണ്, 'prone' -നൊപ്പം ചേരില്ല.\n• 🪤 PSC Trap: random preposition ഇട്ട് confuse ചെയ്യിക്കുന്ന option.\n\n(D) for\n• 'for' reason/purpose സൂചിപ്പിക്കാൻ ഉപയോഗിക്കാറുണ്ട്, പക്ഷേ 'prone' -ന്റെ fixed pairing അല്ല.\n• 🪤 PSC Trap: 'responsible for' പോലുള്ള മറ്റ് collocations-മായി confuse ചെയ്യിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Prone TO trouble\" എന്ന് ഒരു phrase ആയി ഓർത്തുവയ്ക്കുക — 'to' എപ്പോഴും കൂടെ.\n• Word family: liable to, susceptible to, prone to — ഇവ ഒരുമിച്ചു പഠിക്കുക.\n• PSC exam strategy: fixed preposition collocations ഓരോന്നും ഒരു list ആയി എഴുതി ദിവസവും revise ചെയ്യുക — ഇത് guaranteed mark ആണ്!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-19-Q3",
+    "paperId": "HC-DAILY-2026-08-19",
+    "questionNumber": 3,
+    "topic": "Prepositions",
+    "difficulty": "medium",
+    "questionText": "Fill in the blank with the correct preposition.\nThe doctor advised him to refrain ______ smoking until his lungs had fully recovered.",
+    "optionA": "of",
+    "optionB": "from",
+    "optionC": "with",
+    "optionD": "at",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) from\n\n• 'Refrain from' എന്നാൽ 'ഒരു കാര്യം ചെയ്യാതിരിക്കുക / ഒഴിവാക്കുക' എന്നാണ് അർഥം.\n• 'Refrain' എന്ന verb-നൊപ്പം എപ്പോഴും 'from' മാത്രമേ ഉപയോഗിക്കൂ.\n• Real-life connection: പൊതു സ്ഥലങ്ങളിൽ 'Please refrain from smoking' എന്ന notice നമ്മൾ പലയിടത്തും കണ്ടിട്ടുണ്ടാകും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: refrain + from + V-ing (ഒരിക്കലും of/with/at അല്ല)\n• 'Refrain' -ന് ശേഷം 'from' വരികയും, തുടർന്ന് ഒരു gerund (V-ing) വരികയും ചെയ്യുന്നതാണ് സാധാരണ pattern.\n• Related word family: abstain from, desist from, keep from — ഇവയെല്ലാം 'ഒഴിവാക്കുക' എന്ന അർഥത്തിൽ 'from' എടുക്കുന്ന verbs ആണ്.\n• ⭐ PSC ആവർത്തനം: Verb + fixed preposition collocations PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന ഒരു area ആണ്.\n• ഉദാഹരണ sentences:\n  1. Please refrain from making noise in the library.\n  2. She refrained from commenting on the issue.\n  3. Visitors are requested to refrain from touching the exhibits.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) of\n• 'Refrain of' എന്ന combination നിലവിലില്ല.\n• 🪤 PSC Trap: 'consist of', 'die of' പോലുള്ള മറ്റ് phrase-കളുമായി confuse ചെയ്യിക്കുന്നു.\n\n(C) with\n• 'with' companionship/means സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്ന preposition ആണ്, 'refrain' -ന്റെ fixed pairing അല്ല.\n• 🪤 PSC Trap: random preposition ഇട്ട് confuse ചെയ്യിക്കുന്ന option.\n\n(D) at\n• 'at' സ്ഥലം/സമയം സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു, 'refrain' -നൊപ്പം ചേരില്ല.\n• 🪤 PSC Trap: ഒരു common preposition ആണെന്ന ധാരണയിൽ തിരഞ്ഞെടുക്കാൻ ഇടയാക്കുന്ന option.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Please REFRAIN FROM smoking' എന്ന public notice board ഓർത്താൽ ഈ collocation ഒരിക്കലും മറക്കില്ല.\n• Word family: abstain from, desist from, refrain from — ഒരുമിച്ചു പഠിക്കുക.\n• PSC exam strategy: verb + preposition collocations flashcards ആയി എഴുതി ദിവസവും ഒന്ന് നോക്കുക — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-19-Q4",
+    "paperId": "HC-DAILY-2026-08-19",
+    "questionNumber": 4,
+    "topic": "Subject-Verb Agreement",
+    "difficulty": "medium",
+    "questionText": "Choose the correct verb form to complete the sentence.\nMathematics ______ considered one of the toughest subjects by many students in this batch.",
+    "optionA": "is",
+    "optionB": "are",
+    "optionC": "were",
+    "optionD": "have been",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) is\n\n• 'Mathematics' എന്നത് അക്ഷരത്തിൽ 's' കൊണ്ട് അവസാനിക്കുന്ന ഒരു subject-ന്റെ പേരാണ്, പക്ഷേ അർഥം ഒരു single, unified academic discipline ആണ് — അതുകൊണ്ട് ഇത് grammatically singular ആണ്.\n• Singular subject-ന് singular verb ('is') വേണം.\n• Real-life connection: Physics, Economics, Athletics, Statistics (ഒരൊറ്റ subject എന്ന അർഥത്തിൽ) എന്നിവയും ഇതേ rule പിന്തുടരുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: -ics ൽ അവസാനിക്കുന്ന academic subject names → എപ്പോഴും singular verb.\n• 's' കൊണ്ട് അവസാനിക്കുന്നു എന്നത് നോക്കി verb പ്ലൂറൽ ആക്കരുത് — meaning ആണ് പ്രധാനം, spelling അല്ല.\n• Related word family: Physics is, Economics is, Ethics is (subject എന്ന അർഥത്തിൽ), Statistics is (subject) vs Statistics are (data/figures എന്ന അർഥത്തിൽ വരുമ്പോൾ plural ആകാം).\n• ⭐ PSC ആവർത്തനം: Subject-Verb Agreement-ൽ 'tricky singular nouns' (news, mathematics, physics) ഒരു favourite PSC trap ആണ്.\n• ഉദാഹരണ sentences:\n  1. Physics is my favourite subject.\n  2. Economics is taught in the second semester.\n  3. The news is very disturbing.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) are\n• 'Mathematics' ഒരു single subject ആയതിനാൽ plural verb 'are' തെറ്റാണ്.\n• 🪤 PSC Trap: 's' കൊണ്ട് അവസാനിക്കുന്നത് കണ്ട് plural ആണെന്ന് തെറ്റിദ്ധരിപ്പിക്കുന്നു.\n\n(C) were\n• Past tense plural ആണ് — ഇവിടെ sentence present tense-ലും subject singular ആയതിനാലും ഇത് ചേരില്ല.\n• 🪤 PSC Trap: tense-ഉം number-ഉം ഒരുമിച്ചു തെറ്റിക്കുന്ന option.\n\n(D) have been\n• Present perfect plural form ആണ് — subject singular ആയതിനാൽ 'has been' വേണം, 'have been' അല്ല.\n• 🪤 PSC Trap: correct-ഉം sound ചെയ്യുന്ന, പക്ഷേ number mismatch ഉള്ള option.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"-ics subjects, single tricks\" — Mathematics, Physics, Economics ഇവയെല്ലാം singular verb എടുക്കും എന്ന് ഓർക്കുക.\n• Word family: news, mathematics, physics, economics, ethics — ഇവ 's' ഉണ്ടെങ്കിലും singular ആണ്.\n• PSC exam strategy: 's' കൊണ്ട് അവസാനിക്കുന്ന subject/uncountable noun കണ്ടാൽ ഉടനെ meaning ഓർത്ത് singular/plural തീരുമാനിക്കുക — spelling നോക്കി തീരുമാനിക്കരുത്!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-19-Q5",
+    "paperId": "HC-DAILY-2026-08-19",
+    "questionNumber": 5,
+    "topic": "Tenses",
+    "difficulty": "medium",
+    "questionText": "Choose the correct tense form to complete the sentence.\nBy 2030, engineers ______ fully self-driving vehicles that can operate safely without any human intervention.",
+    "optionA": "will have developed",
+    "optionB": "will develop",
+    "optionC": "have developed",
+    "optionD": "had developed",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) will have developed\n\n• 'By 2030' എന്നത് ഒരു specific future time point സൂചിപ്പിക്കുന്ന signal phrase ആണ്.\n• 'By + future time' ഉള്ളപ്പോൾ, ആ time point-ന് മുൻപ് ഒരു action പൂർത്തിയാകും എന്ന് പറയാൻ Future Perfect Tense (will have + V3) ഉപയോഗിക്കണം.\n• Real-life connection: 'By next year, I will have finished my degree' എന്ന് പറയുന്നത് പോലെ തന്നെയാണ് ഇവിടെയും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: By + future time → will have + V3 (Future Perfect Tense)\n• ഒരു future point-ന് മുൻപ് പൂർത്തിയാകുന്ന action-നെ സൂചിപ്പിക്കാൻ ഈ tense ഉപയോഗിക്കുന്നു.\n• Signal words: by 2030, by next year, by the end of this month, by the time + present tense clause.\n• ⭐ PSC ആവർത്തനം: Future Perfect Tense-ന്റെ 'by + future time' pattern PSC പേപ്പറുകളിൽ സ്ഥിരമായി ആവർത്തിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. By next year, she will have completed her PhD.\n  2. By the end of this month, the workers will have finished the bridge.\n  3. By 2050, this city will have doubled its population.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) will develop\n• Simple Future Tense ആണ് — ഒരു future action-നെ മാത്രം സൂചിപ്പിക്കും, 'ഒരു time point-ന് മുൻപ് പൂർത്തിയാകും' എന്ന idea ഇതിൽ വരില്ല.\n• 🪤 PSC Trap: 'By 2030' എന്ന signal phrase ignore ചെയ്യിക്കാൻ ശ്രമിക്കുന്ന simple-looking option.\n\n(C) have developed\n• Present Perfect Tense ആണ് — ഇത് ഇപ്പോൾ വരെ സംഭവിച്ചത് സൂചിപ്പിക്കും, future-മായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'By 2030' എന്നത് future-നെ കുറിച്ചാണ് എന്ന് മറന്നു പോകുന്നവർക്ക് വേണ്ടിയുള്ള trap.\n\n(D) had developed\n• Past Perfect Tense ആണ് — past-ലെ രണ്ട് actions തമ്മിലുള്ള ബന്ധം സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്നത്, ഇവിടെ future context ആയതിനാൽ ചേരില്ല.\n• 🪤 PSC Trap: 'will have' -മായി tense form ഒരു പോലെ തോന്നിക്കുന്നത് കൊണ്ട് confuse ചെയ്യിക്കുന്ന option.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"BY + future date → WILL HAVE + V3\" എന്ന് ഒരു formula ആയി മനഃപാഠമാക്കുക.\n• Rule family: Future Perfect (will have + V3), Present Perfect (has/have + V3), Past Perfect (had + V3) — മൂന്നും തമ്മിലുള്ള വ്യത്യാസം table ആയി എഴുതി പഠിക്കുക.\n• PSC exam strategy: sentence-ൽ 'by + future time' കണ്ടാൽ ഉടനെ 'will have + V3' എന്ന് ഓർക്കുക — ഇത് guaranteed mark ആണ്!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-19-Q6",
+    "paperId": "HC-DAILY-2026-08-19",
+    "questionNumber": 6,
+    "topic": "Spelling",
+    "difficulty": "medium",
+    "questionText": "Choose the correctly spelled word.",
+    "optionA": "indispensible",
+    "optionB": "indispensable",
+    "optionC": "indispencable",
+    "optionD": "indispensabel",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) indispensable\n\n• 'Indispensable' എന്നാൽ 'ഒഴിച്ചുകൂടാൻ പറ്റാത്തത് / അത്യാവശ്യമായത്' എന്നാണ് അർഥം.\n• ഈ വാക്ക് 'in-' (not) + 'dispensable' (ഒഴിവാക്കാൻ പറ്റുന്നത്) എന്നിങ്ങനെ ചേർന്നതാണ് — 'dispensable' എന്ന root word-ന്റെ spelling ശരിയായി ഓർത്താൽ ഈ വാക്ക് എളുപ്പത്തിൽ എഴുതാം.\n• Etymology hint: Latin 'dispensare' (to weigh out, distribute) എന്നതിൽ നിന്നാണ് ഈ വാക്ക് വരുന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: in + DISPENS + able  (dispense-ൽ നിന്ന്, 'dispence' അല്ല!)\n• '-able' suffix ഉള്ള വാക്കുകളിൽ, root word 'dispense' ആയതിനാൽ spelling 'dispens-able' ആയിരിക്കണം, 'dispenc-able' അല്ല.\n• Related word family: dispense, dispensary, dispensation, indispensability — ഇവയെല്ലാം ഒരേ root-ൽ നിന്നും വരുന്നു.\n• ⭐ PSC ആവർത്തനം: '-able'/'-ible' suffix confusion ഉള്ള വാക്കുകൾ PSC Spelling questions-ൽ പതിവായി വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. Water is indispensable for life.\n  2. She has become an indispensable member of the team.\n  3. Good communication skills are indispensable in this job.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) indispensible\n• '-ible' എന്ന തെറ്റായ suffix ഉപയോഗിച്ചിരിക്കുന്നു — ഇത് ഏറ്റവും സാധാരണമായ misspelling ആണ്.\n• 🪤 PSC Trap: '-able' vs '-ible' confusion മുതലെടുക്കാൻ വേണ്ടി ഇടുന്ന ഏറ്റവും 'natural' തോന്നുന്ന തെറ്റായ option.\n\n(C) indispencable\n• 'dispense' -ന് പകരം 'dispence' എന്ന് തെറ്റായി എഴുതിയിരിക്കുന്നു ('s' -ന് പകരം 'c').\n• 🪤 PSC Trap: 's'/'c' sound confusion ഉപയോഗിച്ചുള്ള trap.\n\n(D) indispensabel\n• അവസാനത്തെ '-able' എന്നത് '-abel' ആയി letters മാറി എഴുതിയിരിക്കുന്നു.\n• 🪤 PSC Trap: വേഗത്തിൽ വായിക്കുമ്പോൾ ശ്രദ്ധിക്കാതെ പോകുന്ന letter-order മാറ്റം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"DISPENSE + ABLE = indispensABLE\" — root word ഓർത്താൽ suffix confusion ഒഴിവാക്കാം.\n• Word family: dispensable, indispensable, dispensary — ഒരുമിച്ചു പഠിക്കുക.\n• PSC exam strategy: '-able'/'-ible' suffix ഉള്ള common PSC words ഒരു list ആയി എഴുതി ദിവസവും revise ചെയ്യുക — ഇത് ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-19-Q7",
+    "paperId": "HC-DAILY-2026-08-19",
+    "questionNumber": 7,
+    "topic": "Idioms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the idiom in italics.\nThe volunteers decided to __go the extra mile__ to make sure every flood victim received food and medical aid.",
+    "optionA": "to make additional effort beyond what is required",
+    "optionB": "to travel a long physical distance",
+    "optionC": "to complete a task quickly",
+    "optionD": "to give up halfway through a task",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) to make additional effort beyond what is required\n\n• 'Go the extra mile' എന്ന idiom-ന്റെ അർഥം 'ആവശ്യമുള്ളതിനേക്കാൾ കൂടുതൽ പരിശ്രമിക്കുക / normal expectation-നു മുകളിൽ effort ഇടുക' എന്നാണ്.\n• ഇവിടെ volunteers flood victims-നെ സഹായിക്കാൻ normal duty-ക്കപ്പുറം extra effort ഇട്ടു എന്നാണ് സൂചിപ്പിക്കുന്നത്.\n• Visual image: ഒരു ദൂരയാത്രയിൽ പോകേണ്ട mile എത്തിയിട്ടും, ഒരാൾ കൂടുതൽ ഒരു mile നടക്കുന്നത് സങ്കൽപ്പിക്കുക — അതാണ് ഈ idiom-ന്റെ അടിസ്ഥാന ഭാവന.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: go the extra mile = extra effort ഇടുക (literal ദൂരയാത്ര അല്ല!)\n• Idioms-ന്റെ meaning literal word-കളിൽ നിന്ന് നേരിട്ട് ഊഹിക്കാൻ പറ്റില്ല — അതിന്റെ figurative sense പഠിക്കണം.\n• Related idiom family: above and beyond (duty), leave no stone unturned, pull out all the stops — ഇവയെല്ലാം 'കൂടുതൽ effort' എന്ന theme പങ്കിടുന്നു.\n• ⭐ PSC ആവർത്തനം: Idioms PSC English പേപ്പറുകളിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന topic-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n  1. Our teacher always goes the extra mile to help weak students.\n  2. The staff went the extra mile to finish the project on time.\n  3. A good doctor goes the extra mile for his patients.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) to travel a long physical distance\n• ഇത് idiom-ന്റെ literal (word-for-word) meaning ആണ്, figurative meaning അല്ല.\n• 🪤 PSC Trap: idiom-ലെ 'mile' എന്ന വാക്ക് കണ്ട് ദൂരയാത്രയാണെന്ന് തെറ്റിദ്ധരിപ്പിക്കുന്നു.\n\n(C) to complete a task quickly\n• 'Go the extra mile' -ന് speed-മായി ഒരു ബന്ധവുമില്ല, effort-ന്റെ അളവിനെക്കുറിച്ചാണ് ഇത് പറയുന്നത്.\n• 🪤 PSC Trap: 'extra' എന്ന വാക്ക് 'വേഗത്തിൽ' എന്ന് തെറ്റായി connect ചെയ്യിക്കാൻ ശ്രമിക്കുന്നു.\n\n(D) to give up halfway through a task\n• ഇത് idiom-ന്റെ exact opposite meaning ആണ് — 'go the extra mile' എന്നാൽ കൂടുതൽ ചെയ്യുക എന്നാണ്, give up ചെയ്യുക അല്ല.\n• 🪤 PSC Trap: negative meaning ഇട്ട് confuse ചെയ്യിക്കുന്ന, idiom-ന്റെ spirit-ന് നേരെ വിപരീതമായ option.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: ഒരു postman ദൂരയാത്ര കഴിഞ്ഞിട്ടും ഒരു mile കൂടെ നടന്ന് കത്ത് കൊടുക്കുന്ന image സങ്കൽപ്പിക്കുക — extra effort!\n• Idiom family: above and beyond, leave no stone unturned, pull out all the stops — ഒരുമിച്ചു പഠിക്കുക.\n• PSC exam strategy: idiom-ലെ literal word-കൾ ignore ചെയ്ത്, മൊത്തം sentence-ന്റെ context നോക്കി figurative meaning കണ്ടെത്തുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-19-Q8",
+    "paperId": "HC-DAILY-2026-08-19",
+    "questionNumber": 8,
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct synonym of the word in italics.\nThe security guard remained __vigilant__ throughout the night shift, watching every entrance carefully.",
+    "optionA": "watchful",
+    "optionB": "careless",
+    "optionC": "drowsy",
+    "optionD": "friendly",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) watchful\n\n• 'Vigilant' എന്നാൽ 'ജാഗ്രതയോടെ / സൂക്ഷ്മമായി ശ്രദ്ധിക്കുന്ന' എന്നാണ് അർഥം — 'watchful' എന്ന വാക്കും ഇതേ അർഥം തന്നെ നൽകുന്നു.\n• Sentence-ൽ security guard 'every entrance carefully watching' ചെയ്യുന്നു എന്ന് പറഞ്ഞിരിക്കുന്നത് 'vigilant' എന്ന വാക്കിന്റെ meaning-നെ സ്ഥിരീകരിക്കുന്നു.\n• Etymology hint: Latin 'vigilare' (to keep watch, stay awake) എന്നതിൽ നിന്നാണ് ഈ വാക്ക് വരുന്നത് — 'vigil' (ഉറക്കമിളച്ചുള്ള കാവൽ) എന്ന വാക്കും ഇതേ root-ൽ നിന്ന് തന്നെ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: vigilant = watchful/alert (ജാഗ്രത)\n• Synonym questions-ൽ, context sentence-ൽ ഉള്ള clue-കൾ (ഇവിടെ 'watching every entrance carefully') ശ്രദ്ധിച്ചാൽ ശരിയായ meaning കണ്ടെത്താം.\n• Related word family: alert, watchful, observant, wary, on guard — ഇവയെല്ലാം 'vigilant' -ന്റെ near-synonyms ആണ്.\n• ⭐ PSC ആവർത്തനം: Synonyms PSC English പേപ്പറുകളിൽ സ്ഥിരമായി വരുന്ന topic ആണ്; context clue ഉപയോഗിച്ച് answer കണ്ടെത്തുന്നത് ശീലിക്കുക.\n• ഉദാഹരണ sentences:\n  1. A vigilant citizen reported the suspicious bag to the police.\n  2. Doctors must remain vigilant for early signs of the disease.\n  3. The referee was vigilant throughout the match.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) careless\n• ഇത് 'vigilant' -ന്റെ exact opposite (antonym) ആണ് — 'ശ്രദ്ധയില്ലാത്ത' എന്നർഥം.\n• 🪤 PSC Trap: synonym ചോദിക്കുമ്പോൾ antonym option വച്ച് confuse ചെയ്യിക്കുന്ന ഏറ്റവും സാധാരണ PSC trick ആണ് ഇത്.\n\n(C) drowsy\n• 'ഉറക്കം വരുന്ന' എന്നാണ് അർഥം — ഇത് sentence-ലെ 'watching carefully' എന്ന ആശയത്തിന് നേരെ എതിരാണ്.\n• 🪤 PSC Trap: 'night shift' എന്ന context വച്ച് 'ഉറക്കം' എന്ന ആശയവുമായി ബന്ധിപ്പിക്കാൻ ശ്രമിക്കുന്ന option.\n\n(D) friendly\n• 'സൗഹൃദപരമായ' എന്ന അർഥമാണ് ഇതിന് — 'vigilant' -മായി യാതൊരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: security guard-മായി ബന്ധപ്പെട്ട ഒരു positive-sounding word ഇട്ട് confuse ചെയ്യിക്കുന്ന option.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'VIGIL' (ഉറക്കമിളച്ചുള്ള കാവൽ) + 'ANT' (ഉറുമ്പ്, എപ്പോഴും active) → VIGILANT = എപ്പോഴും ജാഗ്രതയോടെ.\n• Word family: alert, watchful, observant, wary — ഒരുമിച്ചു പഠിക്കുക.\n• PSC exam strategy: synonym options-ൽ ഒരു antonym trap ഉണ്ടാകുമോ എന്ന് ആദ്യം check ചെയ്യുക — അതാണ് ഏറ്റവും സാധാരണ PSC trick."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-19-Q9",
+    "paperId": "HC-DAILY-2026-08-19",
+    "questionNumber": 9,
+    "topic": "Phrasal Verbs",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the phrasal verb in italics.\nThe mountaineering team __came up against__ severe weather conditions just before reaching the summit.",
+    "optionA": "to encounter a difficulty or obstacle",
+    "optionB": "to overtake someone quickly",
+    "optionC": "to celebrate a success",
+    "optionD": "to abandon a plan completely",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) to encounter a difficulty or obstacle\n\n• 'Come up against' എന്നാൽ 'ഒരു പ്രശ്നമോ തടസ്സമോ അപ്രതീക്ഷിതമായി നേരിടുക' എന്നാണ് അർഥം.\n• Sentence-ൽ mountaineers 'severe weather conditions' എന്ന ഒരു തടസ്സത്തെ summit-ന് മുൻപ് നേരിടുന്നു എന്ന് പറഞ്ഞിരിക്കുന്നത് ഈ meaning-നെ സ്ഥിരീകരിക്കുന്നു.\n• Real-life connection: 'come up against stiff competition', 'come up against strong opposition' എന്നിങ്ങനെ ഈ phrasal verb സാധാരണ ഉപയോഗിക്കാറുണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: come up against + (difficulty/obstacle/opposition) = പ്രശ്നം നേരിടുക\n• Phrasal verbs-ന്റെ meaning idiomatic ആണ് — അതിലെ individual words ('come', 'up', 'against') കൂട്ടിച്ചേർത്ത് literal ആയി അർഥം ഊഹിക്കാൻ പറ്റില്ല.\n• Related phrasal verb family: run into (trouble), face up to, grapple with — ഇവയെല്ലാം 'ഒരു പ്രശ്നം നേരിടുക' എന്ന theme പങ്കിടുന്നു.\n• ⭐ PSC ആവർത്തനം: Phrasal Verbs PSC English പേപ്പറുകളിൽ സ്ഥിരമായി ചോദിക്കുന്ന ഒരു high-frequency topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. The company came up against fierce competition in the new market.\n  2. She came up against strong resistance from her colleagues.\n  3. The researchers came up against several technical problems.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) to overtake someone quickly\n• ഇത് 'ഒരാളെ വേഗത്തിൽ മറികടക്കുക' എന്നാണ് അർഥം — 'come up against' -ന്റെ meaning അല്ല.\n• 🪤 PSC Trap: 'come up' എന്ന ഭാഗം കണ്ട് 'ഒപ്പമെത്തുക/മറികടക്കുക' എന്ന് തെറ്റിദ്ധരിപ്പിക്കുന്ന option ('catch up with' -മായി confuse ചെയ്യിക്കുന്നു).\n\n(C) to celebrate a success\n• 'Come up against' -ന് celebration-മായി യാതൊരു ബന്ധവുമില്ല — ഇത് ഒരു negative/challenging സാഹചര്യത്തെയാണ് സൂചിപ്പിക്കുന്നത്.\n• 🪤 PSC Trap: 'summit' (കൊടുമുടി/വിജയം) എന്ന വാക്കുമായി ബന്ധിപ്പിച്ച് positive meaning ആണെന്ന് തെറ്റിദ്ധരിപ്പിക്കുന്നു.\n\n(D) to abandon a plan completely\n• 'ഒരു പദ്ധതി പൂർണ്ണമായി ഉപേക്ഷിക്കുക' എന്നാണ് ഇതിന്റെ അർഥം — ഇത് 'give up' -ന്റെ meaning ആണ്, 'come up against' -ന്റെ അല്ല.\n• 🪤 PSC Trap: 'severe weather' എന്നത് കണ്ട് 'പദ്ധതി ഉപേക്ഷിച്ചു' എന്ന് sentence-ന്റെ ബാക്കി ഭാഗം ഊഹിച്ചു confuse ചെയ്യിക്കുന്ന option.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: ഒരു മല കയറുന്നയാൾ പെട്ടെന്ന് ഒരു വലിയ പാറ (obstacle) മുന്നിൽ വരുന്നത് സങ്കൽപ്പിക്കുക — അതാണ് 'come up against'.\n• Phrasal verb family: run into (trouble), face up to, grapple with — ഒരുമിച്ചു പഠിക്കുക.\n• PSC exam strategy: phrasal verb-ന് ശേഷം വരുന്ന noun (difficulty, opposition, problem) ശ്രദ്ധിച്ചാൽ പലപ്പോഴും meaning എളുപ്പത്തിൽ മനസ്സിലാക്കാം."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-19-Q10",
+    "paperId": "HC-DAILY-2026-08-19",
+    "questionNumber": 10,
+    "topic": "One Word Substitutes",
+    "difficulty": "medium",
+    "questionText": "Choose the correct one-word substitute for the phrase in italics.\nRamesh is __a person who collects and studies old coins__ as a hobby.",
+    "optionA": "philatelist",
+    "optionB": "numismatist",
+    "optionC": "archivist",
+    "optionD": "antiquarian",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) numismatist\n\n• 'Numismatist' എന്നാൽ 'നാണയങ്ങൾ (coins) ശേഖരിക്കുകയും പഠിക്കുകയും ചെയ്യുന്ന വ്യക്തി' എന്നാണ് അർഥം.\n• Sentence-ൽ Ramesh 'old coins' ശേഖരിക്കുകയും പഠിക്കുകയും ചെയ്യുന്നു എന്ന് വ്യക്തമായി പറഞ്ഞിരിക്കുന്നത് ഈ വാക്കിന്റെ meaning-മായി കൃത്യമായി ചേരുന്നു.\n• Etymology hint: Latin 'numisma' (coin) എന്നതിൽ നിന്നാണ് 'numismatist', 'numismatics' എന്നീ വാക്കുകൾ വരുന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: numismatist = coin collector/studier (നാണയശാസ്ത്ര വിദഗ്ധൻ)\n• One Word Substitute questions-ൽ, phrase-ലെ 'exact object' (ഇവിടെ 'coins') ശ്രദ്ധിച്ചാൽ, similar-sounding trap words ഒഴിവാക്കി ശരിയായ വാക്ക് കണ്ടെത്താം.\n• Related word family: philatelist (stamps), numismatist (coins), archivist (records/documents) — ഇവയെല്ലാം 'collector/keeper' എന്ന theme പങ്കിടുന്നു, പക്ഷേ object വ്യത്യസ്തമാണ്.\n• ⭐ PSC ആവർത്തനം: 'collector' theme-ലുള്ള One Word Substitutes (philatelist, numismatist, bibliophile) PSC പേപ്പറുകളിൽ ആവർത്തിച്ചു വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. As a numismatist, he owns coins from over fifty countries.\n  2. The museum invited a well-known numismatist to identify the ancient coins.\n  3. Numismatists study the history and value of currency.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) philatelist\n• ഇത് 'stamps (തപാൽ സ്റ്റാമ്പുകൾ) ശേഖരിക്കുന്ന ആൾ' എന്നാണ് അർഥം — coins അല്ല stamps ആണ് ഇവിടെ topic.\n• 🪤 PSC Trap: 'collector' theme-ലെ ഏറ്റവും സാധാരണ trap word ആണിത് — numismatist-നു പകരം ഇത് തിരഞ്ഞെടുക്കാൻ വിദ്യാർഥികൾ പലപ്പോഴും തെറ്റുന്നു.\n\n(C) archivist\n• ഇത് 'records/documents സൂക്ഷിക്കുന്ന/manage ചെയ്യുന്ന ആൾ' എന്നാണ് അർഥം — coins-മായി നേരിട്ട് ബന്ധമില്ല.\n• 🪤 PSC Trap: 'old' എന്ന വാക്ക് കണ്ട് 'പഴയ രേഖകൾ സൂക്ഷിക്കുന്ന ആൾ' എന്ന് തെറ്റിദ്ധരിപ്പിക്കുന്നു.\n\n(D) antiquarian\n• ഇത് പൊതുവായി 'പുരാവസ്തുക്കൾ (antiques) ശേഖരിക്കുന്ന/പഠിക്കുന്ന ആൾ' എന്നാണ് അർഥം — coins-ന് മാത്രമായുള്ള specific വാക്കല്ല.\n• 🪤 PSC Trap: 'old' എന്ന വാക്കുമായി ഏറ്റവും അടുത്ത് നിൽക്കുന്നത് പോലെ തോന്നുന്ന, എന്നാൽ less precise ആയ option.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NUMISMATIST' -ലെ 'NUM' എന്നത് 'NUMbers/coins' എന്ന് ഓർത്താൽ 'coin collector' എന്ന അർഥം എളുപ്പത്തിൽ ഓർമ്മ വരും.\n• Word family: philatelist (stamps), numismatist (coins), bibliophile (books) — ഇവ ഒരു table ആയി എഴുതി ഒരുമിച്ചു പഠിക്കുക.\n• PSC exam strategy: One Word Substitute options-ൽ similar-theme trap words (philatelist vs numismatist) വരുമ്പോൾ, phrase-ലെ exact object (stamps/coins/books) ശ്രദ്ധിച്ച് match ചെയ്യുക."
+    }
   }
 ]
