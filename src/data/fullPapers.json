@@ -674,5 +674,83 @@
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC) — uploaded 14-07-2026, Alphacode A column — same key as 46-2026-M. English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 046/2026 (Kannada, Tamil, and Malayalam mediums exist for this sitting — confirmed via PSC's OMR Answer Key listing), so the 'E' in the user-supplied file's own header is a study label, not an official PSC medium designation. This is a full English translation of all 100 questions from the official Malayalam-medium paper (46-2026-M) — a general knowledge / current-affairs / reasoning paper with no native English- or Malayalam-testing section, so every question including the quantitative/reasoning section (Q81-100) was translated. Cross-checked against the verified 46-2026-M archive for all numeric/date-answer questions — option order matches with no mismatches found. The source markdown had several LaTeX fraction/superscript artifacts corrupted into raw tab/form-feed control characters (an export-tool bug, same class as seen in sibling paper 56/2026's files) — these were restored and cleaned to plain text (e.g. Q82's fractions, Q94's ordinal superscripts).",
     "status": "published"
+  },
+  {
+    "id": "12-2026-M",
+    "paperCode": "12/2026 M",
+    "post": "Civil Excise Office Driver",
+    "categoryCode": "386/2025,387/2025",
+    "date": "25-Feb-2026",
+    "medium": "M",
+    "year": "2026",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — Alphacode A column, cross-verified via 3 independent extraction passes of fkey-12-26-m.pdf (Q1-50/Q51-100 split, and a combined Q1-100 alphacode-A-only pass), all three in exact agreement. Transcribed from a user-supplied Gemini markdown export of the official Malayalam-medium booklet. One OCR/export artifact was corrected against the printed Malayalam: a Cyrillic character substituted for a Malayalam letter in Q95 ('പരмаവധി' -> 'പരമാവധി', meaning 'maximum'). No other foreign-script or control-character corruption found anywhere else in the file. Q30 is a genuine match-the-following table, preserved as bullet-formatted pairs. Confirmed via PSC's OMR Answer Key listing that only Malayalam (M), Tamil (T), and Kannada (K) mediums exist for this paper — no official English booklet.",
+    "status": "published"
+  },
+  {
+    "id": "12-2026-M-EN",
+    "paperCode": "12/2026 M-EN",
+    "post": "Civil Excise Office Driver",
+    "categoryCode": "386/2025,387/2025",
+    "date": "25-Feb-2026",
+    "medium": "E",
+    "year": "2026",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — Alphacode A column — same key as 12-2026-M. English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 12/2026 (Kannada, Tamil, and Malayalam mediums exist for this sitting — confirmed via PSC's OMR Answer Key listing). This is a full English translation of all 100 questions from the official Malayalam-medium paper (12-2026-M) — a general knowledge / law / reasoning paper with no native English- or Malayalam-testing section, so every question was translated. Cross-checked option-by-option against the verified 12-2026-M archive for all numeric/date-answer questions — option order (A/B/C/D) matches exactly, with only cosmetic differences (Malayalam using number-words like 'പത്തു'/'രണ്ടു' where the English uses digits, and Q23's date-part ordering); no mismatches that would shift which option letter is correct. Source markdown had no LaTeX artifacts, foreign-script corruption, or stray table markup — it parsed cleanly as-is, including Q30's genuine match-the-following table.",
+    "status": "published"
+  },
+  {
+    "id": "161-2025-M",
+    "paperCode": "161-2025 M",
+    "post": "WATCHMAN/ PEON/ KAVADI/ CAULKER/ AYAH",
+    "categoryCode": "021/2025, 023/2025, 087/2025, 088/2025, 089/2025, 105/2025, 117/2025, 133/2025, 174/2025",
+    "date": "29-Nov-2025",
+    "medium": "M",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — Alphacode A column, cross-verified via 3 independent extraction passes of finalkeyforomr_malayalam.pdf (Q1-50/Q51-100 split, and a combined Q1-100 alphacode-A-only pass), all three in exact agreement. Transcribed from a user-supplied Gemini markdown export of the official Malayalam-medium booklet. Three OCR/export artifacts were corrected against the printed Malayalam, all in the same corruption family seen in earlier papers this session (foreign-script characters visually substituted for Malayalam ones): a Cyrillic 'у' for the Malayalam vowel sign U in Q5(ii) ('ഡബ്ല്യу.സി.' -> 'ഡബ്ല്യു.സി.', i.e. 'W.C.' as in W.C. Banerjee); a Myanmar vowel sign for the Malayalam vowel sign E in Q10 ('ഭေദഗதி' -> 'ഭേദഗதி', meaning 'amendment'); and in Q72 a Cyrillic 'у' that also swallowed the preceding chillu-N and following word-space ('ഉറപ്പാക്കാനуദ്ദേശിച്ച്' -> 'ഉറപ്പാക്കാൻ ഉദ്ദേശിച്ച്', i.e. 'intending to ensure') — required to form valid Malayalam grammar. No other foreign-script or control-character corruption found anywhere else in the file. Confirmed via PSC's OMR Answer Key listing that only Malayalam (M), Tamil (T), and Kannada (K) mediums exist for this paper — no official English booklet.",
+    "status": "published"
+  },
+  {
+    "id": "161-2025-M-EN",
+    "paperCode": "161-2025 M-EN",
+    "post": "WATCHMAN/ PEON/ KAVADI/ CAULKER/ AYAH",
+    "categoryCode": "021/2025, 023/2025, 087/2025, 088/2025, 089/2025, 105/2025, 117/2025, 133/2025, 174/2025",
+    "date": "29-Nov-2025",
+    "medium": "E",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — Alphacode A column — same key as 161-2025-M. English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 161-2025 (Kannada, Tamil, and Malayalam mediums exist for this sitting — confirmed via PSC's OMR Answer Key listing). This is a full English translation of all 100 questions from the official Malayalam-medium paper (161-2025-M) — a general knowledge / science / reasoning paper with no native English- or Malayalam-testing section, so every question was translated. Cross-checked option-by-option against the verified 161-2025-M archive for all numeric-answer questions — zero mismatches found; option order (A/B/C/D) matches exactly, so the same Alphacode-A key applies with the same single deletion (Q27). Source markdown had no LaTeX artifacts beyond standard math notation (cleaned normally, including Q85's radical expression), no foreign-script corruption, and no stray table markup.",
+    "status": "published"
+  },
+  {
+    "id": "145-2025-M",
+    "paperCode": "145/2025 M",
+    "post": "Attender Gr II, Salesman Gr II/Saleswoman Gr II, Attender, Storekeeper etc.",
+    "categoryCode": "037/2024, 199/2024, 328/2024, 377/2024",
+    "date": "08-Nov-2025",
+    "medium": "M",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — Alphacode A column, cross-verified via 3 independent extraction passes of final_key_attender_gr_ii__m_.pdf (Q1-50/Q51-100 split, and a combined Q1-100 alphacode-A-only pass), all three in exact agreement. Transcribed from a user-supplied Gemini markdown export of the official Malayalam-medium booklet. Four OCR/export artifacts were corrected against the printed Malayalam: two foreign-script substitutions in the same corruption family seen in earlier papers this session — Cyrillic 'к'+'у' for Malayalam 'ക'+'ു' in Q40(ii) ('куதிര' -> 'കുതിര', meaning 'horse'), and Tamil 'ப'+'ழ' for Malayalam 'പ'+'ഴ' in Q62's opening word ('பழங്ങളും' -> 'പഴങ്ങളും', meaning 'fruits') — plus the FORM-FEED/TAB-for-LaTeX-escape corruption pattern seen in papers 56/2026 and 46/2026 (literal form-feed characters standing in for '\\f' in '\\frac{}{}', and a literal tab character standing in for '\\t' in '\\times', across Q82, Q87, Q91, Q94, Q96, Q97, Q98) — all restored and cleaned to plain text. No other foreign-script or control-character corruption found anywhere else in the file. Confirmed via PSC's OMR Answer Key listing that only Malayalam (M), Tamil (T), and Kannada (K) mediums exist for this paper — no official English booklet.",
+    "status": "published"
+  },
+  {
+    "id": "145-2025-M-EN",
+    "paperCode": "145/2025 M-EN",
+    "post": "Attender Gr II, Salesman Gr II/Saleswoman Gr II, Attender, Storekeeper etc.",
+    "categoryCode": "037/2024, 199/2024, 328/2024, 377/2024",
+    "date": "08-Nov-2025",
+    "medium": "E",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — Alphacode A column — same key as 145-2025-M. English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 145/2025 (Kannada, Tamil, and Malayalam mediums exist for this sitting — confirmed via PSC's OMR Answer Key listing). This is a full English translation of all 100 questions from the official Malayalam-medium paper (145-2025-M) — a general knowledge / science / reasoning paper with no native English- or Malayalam-testing section, so every question was translated. Cross-checked option-by-option against the verified 145-2025-M archive for all numeric-answer questions — the only differences found were date-part ordering (e.g. 'August 15, 1947' vs Malayalam's '1947 ഓഗസ്റ്റ് 15ന്'), which is cosmetic; option order (A/B/C/D) matches exactly, so the same Alphacode-A key applies with the same single deletion (Q22). Two OCR/export artifacts were corrected: the same FORM-FEED/TAB-for-LaTeX-escape corruption pattern as the Malayalam sibling (literal control characters standing in for '\\f' in '\\frac{}{}' and '\\t' in '\\times', across Q82, Q87, Q91, Q94, Q96, Q97, Q98), and a stray digit '0' inserted mid-word in Q34(iii) ('Prime0 Minister' -> 'Prime Minister').",
+    "status": "published"
   }
 ]
