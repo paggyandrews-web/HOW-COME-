@@ -752,5 +752,31 @@
     "totalQuestions": 100,
     "answerKeySource": "Final Answer Key (PSC) — Alphacode A column — same key as 145-2025-M. English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 145/2025 (Kannada, Tamil, and Malayalam mediums exist for this sitting — confirmed via PSC's OMR Answer Key listing). This is a full English translation of all 100 questions from the official Malayalam-medium paper (145-2025-M) — a general knowledge / science / reasoning paper with no native English- or Malayalam-testing section, so every question was translated. Cross-checked option-by-option against the verified 145-2025-M archive for all numeric-answer questions — the only differences found were date-part ordering (e.g. 'August 15, 1947' vs Malayalam's '1947 ഓഗസ്റ്റ് 15ന്'), which is cosmetic; option order (A/B/C/D) matches exactly, so the same Alphacode-A key applies with the same single deletion (Q22). Two OCR/export artifacts were corrected: the same FORM-FEED/TAB-for-LaTeX-escape corruption pattern as the Malayalam sibling (literal control characters standing in for '\\f' in '\\frac{}{}' and '\\t' in '\\times', across Q82, Q87, Q91, Q94, Q96, Q97, Q98), and a stray digit '0' inserted mid-word in Q34(iii) ('Prime0 Minister' -> 'Prime Minister').",
     "status": "published"
+  },
+  {
+    "id": "135-2025-M",
+    "paperCode": "135/2025 M",
+    "post": "Attender Gr II, Salesman Gr II/Saleswoman Gr II, Attender, Storekeeper etc.",
+    "categoryCode": "037/2024, 199/2024, 328/2024, 377/2024",
+    "date": "25-Oct-2025",
+    "medium": "M",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — Question Paper Code 135-2025 M, uploaded 19-11-2025 (https://www.keralapsc.gov.in/sites/default/files/2025-11/finalkey_malayalam.pdf). Alphacode not visible on the user-supplied Gemini markdown transcription (no cover page/page-corner metadata) — defaulted to Alphacode A per this session's established precedent for markdown-only submissions (see 145-2025-M, 161-2025-M-EN). Alphacode-A column extracted via WebFetch (row-by-row, one line per question) and independently cross-checked against a manual zoomed-screenshot reading of the PDF for Q1-37 and Q51-76 (52 questions) — zero mismatches. Q83 is deleted for Alphacode A (marked X in the key PDF); Q88/Q93/Q98 show X only in other alphacode columns (D/C/B respectively), not in A, so they remain active here. Confirmed via PSC's OMR Answer Key listing that only Kannada, Tamil, and Malayalam mediums exist for paper 135/2025 — no official English booklet, matching the sibling paper 145/2025 (same post family). Several OCR/export corruption artifacts were found and corrected against plain-text reconstruction: a recurring TAB-for-'\\t' pattern that ate the backslash from '\\text{}' (29 instances, e.g. Q73/Q75/Q81/Q84 unit labels) and from '\\triangle' (8 instances, Q90's pattern-shape question), a FORM-FEED-for-'\\f' pattern eating the backslash from '\\frac{}{}' (15 instances, Q86/Q92/Q98/Q100), and a BACKSPACE-for-'\\b' pattern eating the backslash from '\\bigcirc' (8 instances, also Q90) — all restored and rendered as plain text/Unicode (△ □ ○ shapes, · for \\cdot, ° for \\circ, ... for \\dots in Q83) rather than left as LaTeX; plus two foreign-script substitutions in the same corruption family seen in earlier papers this session — Thai 'า' (SARA AA) for Malayalam 'ാ' in Q9 ('ഗาന്ധിജി' -> 'ഗാന്ധിജി', Gandhi) and Cyrillic 'ну' for Malayalam 'നു' in Q35 option D ('അнуച്ഛേദം' -> 'അനുച്ഛേദം', Article). No other foreign-script or control-character corruption found anywhere else in the file.",
+    "status": "published"
+  },
+  {
+    "id": "135-2025-M-EN",
+    "paperCode": "135/2025 M-EN",
+    "post": "Attender Gr II, Salesman Gr II/Saleswoman Gr II, Attender, Storekeeper etc.",
+    "categoryCode": "037/2024, 199/2024, 328/2024, 377/2024",
+    "date": "25-Oct-2025",
+    "medium": "E",
+    "year": "2025",
+    "alphacode": "A",
+    "totalQuestions": 100,
+    "answerKeySource": "Final Answer Key (PSC) — Alphacode A column — same key as 135-2025-M. English rendering for study convenience; PSC did not publish a separate English-medium booklet for paper 135/2025 (Kannada, Tamil, and Malayalam mediums exist for this sitting — confirmed via PSC's OMR Answer Key listing). This is a full English translation of all 100 questions from the official Malayalam-medium paper (135-2025-M) — a general knowledge / science / reasoning paper with no native English- or Malayalam-testing section, so every question was translated. Cross-checked option-by-option against the verified 135-2025-M archive for all 53 pure-numeric-answer options across the paper — zero mismatches found; option order (A/B/C/D) matches exactly, so the same Alphacode-A key applies with the same single deletion (Q83). Source markdown had the identical TAB/FORM-FEED/BACKSPACE LaTeX-escape corruption pattern as the Malayalam sibling (same export pipeline) — '\\text{}' (29 instances), '\\triangle' (8 instances), '\\frac{}{}' (15 instances), and '\\bigcirc' (8 instances) all had their leading backslash consumed by a literal TAB/FF/BS control character — restored and cleaned to plain text/Unicode (△ □ ○, · for \\cdot, ° for \\circ, ... for \\dots) identically to the Malayalam archive. No foreign-script corruption found in this file (English text has no Malayalam glyphs to corrupt).",
+    "status": "published"
   }
 ]
