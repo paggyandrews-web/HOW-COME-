@@ -1342,5 +1342,32 @@
     "medium": "M",
     "year": "2021",
     "categoryCode": "Various"
+  },
+  {
+    "id": "035-2020-M",
+    "paperCode": "035/2020 M",
+    "post": "Stenographer - KSIDC Ltd",
+    "date": "08-Oct-2020",
+    "medium": "M",
+    "year": "2020",
+    "categoryCode": "020/2019"
+  },
+  {
+    "id": "029-2020-E",
+    "paperCode": "029/2020",
+    "post": "Food Safety Officer - Food Safety Department",
+    "date": "29-Sep-2020",
+    "medium": "E",
+    "year": "2020",
+    "categoryCode": "499/2019"
+  },
+  {
+    "id": "018-2020-M",
+    "paperCode": "018/2020 M",
+    "post": "Police Constable IRB (RW) (NCA-SCCC)",
+    "date": "04-Sep-2020",
+    "medium": "M",
+    "year": "2020",
+    "categoryCode": "041/2019"
   }
 ]
