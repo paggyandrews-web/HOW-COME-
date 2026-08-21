@@ -2668,5 +2668,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) hedonist\n  • 'hedonist' എന്നാൽ 'സുഖഭോഗങ്ങളിൽ (pleasure) മാത്രം ജീവിതലക്ഷ്യം കാണുന്ന വ്യക്തി' എന്നാണ് — ഭക്ഷണത്തിൽ മാത്രം ഒതുങ്ങുന്നില്ല, general pleasure-നെ കുറിച്ചാണ്.\n  • 🪤 PSC Trap: Food-ഉം pleasure-ഉം ബന്ധപ്പെട്ടതിനാൽ students ഇത് confuse ചെയ്യാം.\n\n• (C) epicure\n  • 'epicure' എന്നാൽ 'ഭക്ഷണത്തിലും പാനീയത്തിലും refined taste ഉള്ള വ്യക്തി' എന്നാണ് — അമിതമായി കഴിക്കുന്നത് അല്ല, ഗുണനിലവാരം അറിയുന്നത് ആണ് ഇവിടെ പ്രധാനം.\n  • 🪤 PSC Trap: 'ഭക്ഷണം' എന്ന common thread കാരണം students ഇത് glutton-മായി confuse ചെയ്യും.\n\n• (D) ascetic\n  • 'ascetic' എന്നാൽ 'ആഡംബരങ്ങൾ ഉപേക്ഷിച്ച്, ലളിതജീവിതം നയിക്കുന്ന വ്യക്തി' എന്നാണ് — ഇത് 'glutton'-ന്റെ exact opposite ആണ്.\n  • 🪤 PSC Trap: Antonym ഒരു distractor ആയി നൽകുന്നത് PSC-യുടെ common strategy ആണ്.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'GLUTTON sounds like GLUT (excess)' — അമിതമായി (excess) ഭക്ഷണം കഴിക്കുന്ന ആൾ എന്ന് ഓർക്കുക.\n• Food-related one-word substitutes ഒരുമിച്ച് പഠിക്കുക: glutton (അമിതം കഴിക്കുന്നയാൾ), epicure (refined taste ഉള്ളയാൾ), teetotaller (മദ്യം കഴിക്കാത്തയാൾ), gourmet (ഭക്ഷണ വിദഗ്ധൻ).\n• PSC exam strategy: One Word Substitute ചോദ്യങ്ങളിൽ options-ലെ ഓരോ word-ന്റെയും exact definition അറിഞ്ഞിരിക്കണം — similar-sounding options-ൽ കുടുങ്ങരുത്."
     }
+  },
+  {
+    "id": "HC-DAILY-2026-08-21-Q1",
+    "paperId": "HC-DAILY-2026-08-21",
+    "questionNumber": 1,
+    "topic": "Subject-Verb Agreement",
+    "difficulty": "medium",
+    "questionText": "Choose the correct verb to complete the sentence.\nPhysics ____ considered one of the most challenging subjects by first-year engineering students.",
+    "optionA": "is",
+    "optionB": "are",
+    "optionC": "were",
+    "optionD": "have been",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) is\n\n• 'Physics' എന്ന വാക്ക് '-ics'-ൽ അവസാനിക്കുന്ന ഒരു academic subject-ന്റെ പേരാണ് — ഇത് കാഴ്ചയിൽ plural ആണെന്ന് തോന്നിയാലും, meaning-ൽ ഒരു single subject/discipline-നെ മാത്രമേ സൂചിപ്പിക്കുന്നുള്ളൂ, അതിനാൽ ഇത് എപ്പോഴും singular ആയി കണക്കാക്കും.\n• അതുകൊണ്ട് verb-ഉം singular ആയ 'is' തന്നെ വരണം.\n• Mathematics, Physics, Economics, News പോലുള്ള വാക്കുകൾ PSC പരീക്ഷകളിൽ ആവർത്തിച്ചു വരുന്ന ഒരു trap ആണ് — ഇത് ഒരിക്കൽ പഠിച്ചാൽ guaranteed mark!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Subject-name ending in '-ics' (Physics/Mathematics/Economics/Ethics) + IS/WAS (singular verb only)\n• '-ics'-ൽ അവസാനിക്കുന്ന academic subject-കൾ (Physics, Mathematics, Economics, Statistics, Ethics) ഒരു single field of study-യെ സൂചിപ്പിക്കുന്നതിനാൽ എപ്പോഴും singular verb എടുക്കും — 'they' അല്ല 'it' ആണ് ഇവയുടെ pronoun.\n• News, Physics, Mathematics, Economics ഇവ ഒരേ group-ൽ പെട്ട words ആണ് — എല്ലാം singular verb-ഉമായി ചേർത്ത് പഠിക്കുക.\n• ⭐ PSC ആവർത്തനം: ഈ 'ics'-word pattern മിക്ക PSC പേപ്പറുകളിലും ആവർത്തിച്ചു വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. Mathematics is my favourite subject.\n  2. Economics was introduced as a new course this year.\n  3. The news is disturbing.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) are\n  • 'are' plural verb ആണ്, എന്നാൽ 'Physics' ഒരു single subject ആയതിനാൽ plural verb ചേരില്ല.\n  • 🪤 PSC Trap: വാക്കിന്റെ അവസാനത്തിലെ '-s' കണ്ടിട്ട് അത് plural ആണെന്ന് students തെറ്റിദ്ധരിക്കാറുണ്ട്.\n\n• (C) were\n  • ഇത് past tense-ലെ plural verb ആണ് — number-ലും (plural) tense-ലും (past) രണ്ടിലും തെറ്റ്.\n  • 🪤 PSC Trap: sentence-ന്റെ tense ശ്രദ്ധിക്കാതെ students ഇത് guess ചെയ്യാറുണ്ട്.\n\n• (D) have been\n  • 'have been' plural subject-കൾക്കുള്ള present perfect ആണ് — 'Physics' singular ആയതിനാൽ ഇവിടെ simple present ('is') ആണ് ശരിയായ tense.\n  • 🪤 PSC Trap: 'considered' എന്ന past participle കണ്ടിട്ട് perfect tense വേണമെന്ന് students തെറ്റിദ്ധരിക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Physics IS a subject, not subjects' — ഒറ്റ വാക്യമായി മനസ്സിൽ ഉറപ്പിക്കുക.\n• Mathematics, Physics, Economics, Statistics, News, Ethics — ഈ '-ics/-ews' group മുഴുവൻ ഒരുമിച്ചു പഠിക്കുക.\n• PSC exam strategy: subject-ന്റെ അവസാനം '-ics' ഉണ്ടെങ്കിൽ ഉടനെ singular verb ('is/was/has') തിരഞ്ഞെടുക്കുക — ഇത് ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-21-Q2",
+    "paperId": "HC-DAILY-2026-08-21",
+    "questionNumber": 2,
+    "topic": "Tenses",
+    "difficulty": "medium",
+    "questionText": "Fill in the blank with the correct form of the verb.\nBy the time the fire brigade arrived, the flames ____ most of the warehouse.",
+    "optionA": "had already destroyed",
+    "optionB": "have already destroyed",
+    "optionC": "already destroyed",
+    "optionD": "were already destroying",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) had already destroyed\n\n• രണ്ട് past events ഉള്ളപ്പോൾ, ആദ്യം നടന്ന event-ന് Past Perfect Tense (had + V3) ഉപയോഗിക്കണം.\n• ഇവിടെ 'fire brigade arrived' എന്നത് പിന്നീട് നടന്ന event ആണ് (Simple Past), അതിന് മുൻപ് തന്നെ 'flames had destroyed' ചെയ്തിരുന്നു എന്നതാണ് meaning.\n• 'By the time' എന്ന phrase കണ്ടാൽ ഉടനെ Past Perfect ഓർക്കുക — ഇത് PSC-യിൽ guaranteed mark തരുന്ന pattern ആണ്!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: By the time + Simple Past, ... had + V3 (Past Perfect)\n• രണ്ട് past actions-ൽ ആദ്യം സംഭവിച്ചത് കാണിക്കാൻ Past Perfect (had + V3) ഉപയോഗിക്കുന്നു, രണ്ടാമത് സംഭവിച്ചത് Simple Past ആയിരിക്കും.\n• 'Already' എന്ന word Past Perfect-നൊപ്പം സ്വാഭാവികമായി ചേരുന്ന ഒരു signal word ആണ്.\n• ⭐ PSC ആവർത്തനം: 'By the time' + Past Perfect pattern PSC പേപ്പറുകളിൽ വളരെ സ്ഥിരമായി ആവർത്തിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. By the time we reached the station, the train had already left.\n  2. By the time she woke up, her brother had already left for school.\n  3. By the time the police arrived, the thief had already escaped.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) have already destroyed\n  • Present Perfect Tense ('have + V3') ഒരു past reference point-നൊപ്പം (fire brigade arrived) ഉപയോഗിക്കാൻ പറ്റില്ല — ഇത് present-ലേക്ക് ബന്ധപ്പെടുത്തുന്ന tense ആണ്.\n  • 🪤 PSC Trap: 'already' എന്ന word കണ്ടിട്ട് students Present Perfect ആണെന്ന് ധരിച്ചു തിരഞ്ഞെടുക്കും.\n\n• (C) already destroyed\n  • Simple Past ആണ്, എന്നാൽ ഇത് 'fire brigade arrived' എന്ന event-നോട് ഒരേ സമയത്തുള്ള action ആയി മാത്രമേ വായിക്കാൻ പറ്റൂ — ഒരു event മറ്റൊന്നിന് മുൻപ് പൂർത്തിയായി എന്ന sequence കാണിക്കാൻ ഇതിന് കഴിവില്ല.\n  • 🪤 PSC Trap: രണ്ട് past tense-ഉം ഒരേ tense ആണെന്ന് കണ്ട് students ഇത് തിരഞ്ഞെടുക്കാറുണ്ട്.\n\n• (D) were already destroying\n  • Past Continuous ('were destroying') ഒരു ongoing action-നെ കാണിക്കുന്നു, എന്നാൽ 'most of the warehouse' എന്നത് completed ആയ result ആണ് സൂചിപ്പിക്കുന്നത്.\n  • 🪤 PSC Trap: 'destroying' എന്ന -ing form കണ്ടിട്ട് ongoing action ആണെന്ന് students confuse ആകും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'By the time... HAD' — 'By the time' കേട്ടാൽ ഉടനെ 'had' എന്ന് ഓർക്കുക.\n• Past Perfect-ന്റെ മറ്റ് signal words (before, after, already, by 6 o'clock) കൂടെ പഠിക്കുക.\n• PSC exam strategy: sentence-ൽ രണ്ട് past events ഉണ്ടോ എന്ന് നോക്കുക — ഉണ്ടെങ്കിൽ ആദ്യം നടന്നതിന് 'had + V3' ഉപയോഗിക്കാൻ മറക്കരുത്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-21-Q3",
+    "paperId": "HC-DAILY-2026-08-21",
+    "questionNumber": 3,
+    "topic": "Active and Passive Voice",
+    "difficulty": "easy",
+    "questionText": "Change the following sentence from Active to Passive:\nThe committee will announce the results next week.",
+    "optionA": "The results will be announced by the committee next week.",
+    "optionB": "The results are announced by the committee next week.",
+    "optionC": "The results were announced by the committee next week.",
+    "optionD": "The results will announce by the committee next week.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) The results will be announced by the committee next week.\n\n• Active sentence-ലെ tense (Simple Future — 'will announce') Passive-ലും അതേപടി നിലനിർത്തണം.\n• Simple Future Passive-ന്റെ formula 'will be + V3' ആണ് — ഇവിടെ 'will be announced' ശരിയാണ്.\n• Object 'the results' Passive sentence-ന്റെ subject ആയി മാറുന്നു, subject 'the committee' 'by' എന്ന preposition-നൊപ്പം വരുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Active tense = Passive tense, എപ്പോഴും!\n• Simple Future Active (Subject + will + V1 + Object) → Simple Future Passive (Object + will be + V3 + by + Subject)\n• Active-ലെ tense മാറ്റാൻ പാടില്ല — Passive-ലും അതേ tense തന്നെ ഉപയോഗിക്കണം.\n• ⭐ PSC ആവർത്തനം: Active-Passive conversion PSC-യിൽ എല്ലാ tense-ലും സ്ഥിരമായി ചോദിക്കുന്ന ഒരു topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. She will complete the project. → The project will be completed by her.\n  2. They will launch the new product. → The new product will be launched by them.\n  3. He will paint the wall. → The wall will be painted by him.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) The results are announced by the committee next week.\n  • Simple Present ('are announced') ആണ് ഇവിടെ, എന്നാൽ Active sentence Simple Future ('will announce') ആണ് — tense മാറി.\n  • 🪤 PSC Trap: 'next week' എന്ന future time-marker ശ്രദ്ധിക്കാതെ students tense തെറ്റിക്കും.\n\n• (C) The results were announced by the committee next week.\n  • Simple Past ('were announced') ഉപയോഗിച്ചിരിക്കുന്നു, എന്നാൽ Active sentence future-ലാണ് — 'next week' എന്ന future reference-നൊപ്പം past tense ചേരില്ല.\n  • 🪤 PSC Trap: Passive-ൽ 'were' സ്ഥിരമായി ഉപയോഗിക്കുന്ന ശീലം കൊണ്ട് students ഇത് തിരഞ്ഞെടുക്കും.\n\n• (D) The results will announce by the committee next week.\n  • Passive voice-ന് 'be + V3' നിർബന്ധമാണ് — ഇവിടെ 'be' ഇല്ലാതെ 'will announce' എന്ന Active form തന്നെ ഉപയോഗിച്ചിരിക്കുന്നു, ഇത് grammatically തെറ്റാണ്.\n  • 🪤 PSC Trap: 'will' കണ്ടാൽ മാത്രം ശരിയാണെന്ന് കരുതി students 'be' മറന്നുപോകും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Active tense = Passive tense' എപ്പോഴും ഓർക്കുക — tense ഒരിക്കലും മാറ്റരുത്.\n• Simple Future Passive formula (will be + V3) മറ്റ് tense-കളുടെ passive formulas-ഒപ്പം ചാർട്ട് ആയി പഠിക്കുക.\n• PSC exam strategy: ആദ്യം Active sentence-ന്റെ tense identify ചെയ്യുക, എന്നിട്ട് ആ tense-ന്റെ Passive formula മാത്രം apply ചെയ്യുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-21-Q4",
+    "paperId": "HC-DAILY-2026-08-21",
+    "questionNumber": 4,
+    "topic": "Question Tags",
+    "difficulty": "medium",
+    "questionText": "Choose the correct Question Tag to complete the sentence.\nThere is no point in arguing with him any further, ____________?",
+    "optionA": "is there",
+    "optionB": "isn't there",
+    "optionC": "is it",
+    "optionD": "are there",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) is there\n\n• 'No' എന്ന word ഉള്ള sentences (no point, no doubt, no use) meaning-ൽ negative ആണ്, അതിനാൽ tag positive ആയിരിക്കണം.\n• Subject 'there' (existential there) ആയതിനാൽ tag-ലും 'there' തന്നെ നിലനിർത്തണം — 'it' ആയി മാറ്റരുത്.\n• Main verb 'is' (singular, present) ആയതിനാൽ tag-ലും 'is' തന്നെ വരണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: There is + no/never/hardly ... , IS THERE? (there നിലനിർത്തുക, positive tag ഉപയോഗിക്കുക)\n• 'No', 'never', 'hardly', 'scarcely', 'nobody', 'nothing' പോലുള്ള negative-meaning words ഉള്ള sentences-ന്റെ tag എപ്പോഴും positive ആയിരിക്കും.\n• Existential 'There is/are' sentences-ന്റെ tag-ൽ subject 'there' തന്നെ ആവർത്തിക്കും, 'it' ഒരിക്കലും ഉപയോഗിക്കില്ല.\n• ⭐ PSC ആവർത്തനം: 'There is no doubt/point/use' + tag pattern PSC-യിൽ ആവർത്തിച്ചു വരുന്ന ഒരു classic trap ആണ്.\n• ഉദാഹരണ sentences:\n  1. There is no doubt about his honesty, is there?\n  2. There is no use crying over spilt milk, is there?\n  3. There was no one at home, was there?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) isn't there\n  • Sentence-ൽ 'no point' എന്ന negative meaning ഉള്ളതിനാൽ ഇത് ഒരു negative statement ആണ് — tag-ഉം negative ('isn't') ആക്കിയാൽ double negative ആയി മാറും, ഇത് rule-ന് വിരുദ്ധമാണ്.\n  • 🪤 PSC Trap: sentence-ൽ overt 'not' ഇല്ലാത്തതിനാൽ അത് positive ആണെന്ന് തെറ്റിദ്ധരിച്ച് students negative tag തിരഞ്ഞെടുക്കും.\n\n• (C) is it\n  • Subject 'there' ആണെങ്കിലും ഇവിടെ 'it' ഉപയോഗിച്ചിരിക്കുന്നു — existential 'there' sentences-ൽ subject pronoun മാറ്റാൻ പാടില്ല.\n  • 🪤 PSC Trap: 'There' ഒരു 'സ്ഥലം' എന്ന അർത്ഥത്തിൽ കണ്ട് students അതിനെ 'it' ആയി മാറ്റും.\n\n• (D) are there\n  • Main verb 'is' (singular) ആണ്, എന്നാൽ tag-ൽ 'are' (plural) ഉപയോഗിച്ചിരിക്കുന്നു — number mismatch.\n  • 🪤 PSC Trap: 'there' കണ്ടിട്ട് plural ആണെന്ന് ധരിച്ച് students ഇത് തിരഞ്ഞെടുക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'There is no... IS THERE' — 'there' word രണ്ടു തവണ ആവർത്തിക്കുന്നു എന്ന് ഓർക്കുക, 'it' ആയി മാറ്റരുത്.\n• Negative-meaning words (no, never, hardly, scarcely, nobody, nothing) + positive tag rule ഒരുമിച്ചു പഠിക്കുക.\n• PSC exam strategy: sentence 'There is/are/was/were' കൊണ്ട് തുടങ്ങിയാൽ tag-ലും 'there' തന്നെ ഉപയോഗിക്കാൻ മറക്കരുത്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-21-Q5",
+    "paperId": "HC-DAILY-2026-08-21",
+    "questionNumber": 5,
+    "topic": "Prepositions",
+    "difficulty": "easy",
+    "questionText": "Choose the correct preposition to complete the sentence.\nThe court found the defendant guilty ____ fraud after examining all the evidence.",
+    "optionA": "of",
+    "optionB": "with",
+    "optionC": "for",
+    "optionD": "in",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) of\n\n• 'Guilty' എന്ന adjective-നൊപ്പം fixed ആയി ഉപയോഗിക്കുന്ന preposition 'of' ആണ് — 'guilty of a crime/offence' എന്നത് ഒരു collocation ആണ്.\n• ഈ pattern ഓർത്തിരുന്നാൽ 'guilty' വരുന്നിടത്തെല്ലാം 'of' ഉപയോഗിക്കാം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: guilty + OF (never with/for/in)\n• ചില adjectives-ന് ഒരു fixed preposition മാത്രമേ ചേരൂ — 'guilty' ന്റെ fixed partner 'of' ആണ്.\n• Related fixed collocations: accused OF, convicted OF, ashamed OF, proud OF, capable OF — ഇവയെല്ലാം 'of' എടുക്കുന്ന group ആണ്.\n• ⭐ PSC ആവർത്തനം: Fixed preposition collocations PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന ഒരു topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. He was found guilty of theft.\n  2. She pleaded guilty of the charges against her.\n  3. The jury declared him guilty of murder.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) with\n  • 'Guilty with' എന്നത് standard English-ൽ നിലവിലില്ലാത്ത ഒരു combination ആണ്.\n  • 🪤 PSC Trap: 'charged with' എന്ന വേറൊരു fixed collocation-മായി confuse ചെയ്ത് students ഇത് തിരഞ്ഞെടുക്കും.\n\n• (C) for\n  • 'Guilty for' എന്നത് സാധാരണ ചെയ്യുന്ന ഒരു തെറ്റാണ്, എന്നാൽ standard usage-ൽ ഇത് correct അല്ല.\n  • 🪤 PSC Trap: 'responsible for' പോലുള്ള മറ്റ് adjective+preposition combinations-മായി മാറിപ്പോയി students ഇത് guess ചെയ്യും.\n\n• (D) in\n  • 'Guilty in' എന്ന combination standard English-ൽ ഇല്ല.\n  • 🪤 PSC Trap: 'involved in' പോലുള്ള combinations ഓർത്ത് students ഇത് തിരഞ്ഞെടുക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'GUILTY OF' - rhyme പോലെ ഓർക്കുക: 'guilty OF, proud OF, capable OF' — എല്ലാം 'of' family.\n• 'Of' എടുക്കുന്ന adjectives (guilty, proud, capable, afraid, ashamed, aware) ഒരു ലിസ്റ്റ് ആയി പഠിക്കുക.\n• PSC exam strategy: adjective + preposition ചോദ്യങ്ങളിൽ guess ചെയ്യാതെ, ഓരോ adjective-ന്റെയും fixed partner preposition മാത്രം ഓർത്തുവയ്ക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-21-Q6",
+    "paperId": "HC-DAILY-2026-08-21",
+    "questionNumber": 6,
+    "topic": "Spelling",
+    "difficulty": "medium",
+    "questionText": "Identify the correctly spelled word.",
+    "optionA": "irresistable",
+    "optionB": "irresistible",
+    "optionC": "irresistuble",
+    "optionD": "irristible",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) irresistible\n\n• 'Irresistible' എന്ന word 'resist' എന്ന root-ൽ നിന്നും ഉണ്ടായതാണ് — 'ir-' (not) + 'resist' + '-ible' (able to be) എന്നാണ് structure.\n• '-ible' suffix ആണ് ഇവിടെ ശരിയായത്, '-able' അല്ല — Latin-based roots-ൽ നിന്നും വരുന്ന വാക്കുകൾ '-ible' ആയി spell ചെയ്യും.\n• meaning: 'ചെറുക്കാൻ/എതിർക്കാൻ കഴിയാത്ത' — ഒരു desire അല്ലെങ്കിൽ temptation വളരെ ശക്തമായതിനാൽ അതിനെ control ചെയ്യാൻ പറ്റാത്ത അവസ്ഥ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: resist + IBLE = irresistIBLE (never -able)\n• Latin root 'resistere'-ൽ നിന്നും വരുന്ന വാക്കുകൾ (resistible, irresistible) എപ്പോഴും '-ible' suffix എടുക്കും.\n• '-ible' vs '-able' തിരിച്ചറിയാൻ: root word സ്വതന്ത്രമായി നിലനിൽക്കുന്ന ഒരു complete word ആണെങ്കിൽ പലപ്പോഴും '-able' (comfortable), Latin-based incomplete roots-ന് '-ible' (visible, credible, irresistible) ചേരും.\n• ⭐ PSC ആവർത്തനം: '-ible/-able' confusion PSC spelling questions-ൽ ആവർത്തിച്ചു വരുന്ന ഒരു classic trap ആണ്.\n• ഉദാഹരണ sentences:\n  1. The chocolate cake looked irresistible.\n  2. Her offer was simply irresistible.\n  3. He found the temptation to travel irresistible.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) irresistable\n  • '-able' suffix തെറ്റായി ഉപയോഗിച്ചിരിക്കുന്നു — ഈ word '-ible' മാത്രമേ എടുക്കൂ.\n  • 🪤 PSC Trap: '-able' suffix കൂടുതൽ common ആയതിനാൽ students സ്വാഭാവികമായി ഇത് തിരഞ്ഞെടുക്കും.\n\n• (C) irresistuble\n  • ഇടയിലെ vowel 'u' തെറ്റാണ് — ശരിയായ spelling 'i' ('resist-i-ble') ആണ്.\n  • 🪤 PSC Trap: വാക്ക് വേഗത്തിൽ വായിക്കുമ്പോൾ vowel sound confuse ആയി ഈ misspelling students select ചെയ്യും.\n\n• (D) irristible\n  • 'irre-' എന്ന prefix-ലെ ഒരു 'e' നഷ്ടപ്പെട്ടിരിക്കുന്നു ('irresist' അല്ല 'irrist') — ഇത് ഒരു common typing-error ആണ്.\n  • 🪤 PSC Trap: വാക്ക് നീളമുള്ളതിനാൽ letters skip ചെയ്ത് students ഈ തെറ്റായ spelling accept ചെയ്യും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'I can't RESIST anything IBLE' — 'resist' + 'ible' ഒരുമിച്ചു ചൊല്ലി ഓർക്കുക.\n• '-ible' group (visible, credible, terrible, irresistible, flexible) ഒരുമിച്ചു പട്ടികയായി പഠിക്കുക.\n• PSC exam strategy: '-ible/-able' confusion ഉള്ള വാക്കുകൾ കാണുമ്പോൾ, root word Latin-based ആണോ എന്ന് ചിന്തിക്കുക — ആണെങ്കിൽ മിക്കവാറും '-ible' ആയിരിക്കും."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-21-Q7",
+    "paperId": "HC-DAILY-2026-08-21",
+    "questionNumber": 7,
+    "topic": "Idioms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the idiom in italics.\nIf you __read between the lines__ of his resignation letter, you will notice he is unhappy with the management.",
+    "optionA": "understand the hidden meaning behind something",
+    "optionB": "read very slowly and carefully",
+    "optionC": "skip unimportant parts while reading",
+    "optionD": "memorise every word exactly",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) understand the hidden meaning behind something\n\n• 'Read between the lines' എന്ന idiom-ന്റെ അർത്ഥം — ഒരു document-ലോ സംസാരത്തിലോ നേരിട്ട് പറയാത്ത, എന്നാൽ implied ആയ meaning കണ്ടെത്തുക എന്നതാണ്.\n• ഇവിടെ resignation letter-ൽ direct ആയി 'ഞാൻ management-നോട് unhappy ആണ്' എന്ന് പറയുന്നില്ല, എന്നാൽ context വായിച്ചാൽ ആ hidden feeling മനസ്സിലാക്കാം.\n• ഈ idiom-ന്റെ ഉത്ഭവം: newspaper printing-ൽ 'between the lines' എന്നത് literal ആയി ഒരു blank space ആണ് — അവിടെ ഒന്നും എഴുതിയിട്ടില്ലെങ്കിലും 'വായിക്കാൻ' പറയുന്നത് hidden meaning കണ്ടെത്താൻ ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Read between the lines = Find the HIDDEN meaning (not literal reading)\n• Idioms-ന്റെ meaning അതിലെ individual words-ന്റെ literal meaning-ൽ നിന്നും വ്യത്യസ്തമായിരിക്കും — 'read between the lines' എന്നാൽ 'വരികൾക്കിടയിൽ വായിക്കുക' എന്ന literal അർത്ഥമല്ല ഉദ്ദേശിക്കുന്നത്.\n• Communication/hidden-meaning idioms group: read between the lines, beat around the bush, get to the point — ഇവയെല്ലാം communication style-നെ സൂചിപ്പിക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: Communication-related idioms PSC-യിൽ സ്ഥിരമായി വരുന്ന ഒരു category ആണ്.\n• ഉദാഹരണ sentences:\n  1. Politicians often expect voters to read between the lines of their speeches.\n  2. She read between the lines and realised her friend needed help.\n  3. You have to read between the lines to understand his real intentions.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) read very slowly and carefully\n  • ഇത് idiom-ന്റെ literal word-by-word meaning-നെ അടിസ്ഥാനമാക്കിയ ഒരു തെറ്റായ ഊഹമാണ് — idiom-ന് reading speed-മായി ബന്ധമില്ല.\n  • 🪤 PSC Trap: 'read' എന്ന word കണ്ടിട്ട് അതിന്റെ literal action-നെ കുറിച്ച് ചിന്തിച്ച് students ഇത് തിരഞ്ഞെടുക്കും.\n\n• (C) skip unimportant parts while reading\n  • ഇത് idiom-ന്റെ opposite ദിശയിലുള്ള അർത്ഥമാണ് — 'read between the lines' എന്നാൽ കൂടുതൽ ശ്രദ്ധയോടെ hidden meaning കണ്ടെത്തുക എന്നാണ്, ഭാഗങ്ങൾ skip ചെയ്യുക അല്ല.\n  • 🪤 PSC Trap: 'between' എന്ന word 'gaps' എന്ന ധാരണ ഉണ്ടാക്കി students ഇത് select ചെയ്യും.\n\n• (D) memorise every word exactly\n  • Idiom-ന് memorisation-മായി ഒരു ബന്ധവുമില്ല — ഇത് understanding/interpretation-നെ കുറിച്ചാണ്.\n  • 🪤 PSC Trap: 'lines' എന്ന word text/poetry-യുമായി ബന്ധപ്പെടുത്തി students ഇത് തിരഞ്ഞെടുക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: ഒരു detective വരികൾക്കിടയിൽ ഒളിഞ്ഞിരിക്കുന്ന clue കണ്ടെത്തുന്നത് സങ്കൽപ്പിക്കുക — 'read between the lines' = hidden clue കണ്ടെത്തുക.\n• Communication idioms family (beat around the bush, spill the beans, read between the lines) ഒരുമിച്ചു പഠിക്കുക.\n• PSC exam strategy: idiom-ന്റെ meaning ചോദ്യങ്ങളിൽ literal word meaning ഒരിക്കലും ഊഹിക്കാൻ ഉപയോഗിക്കരുത് — idiom ഒരു unit ആയി മാത്രം പഠിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-21-Q8",
+    "paperId": "HC-DAILY-2026-08-21",
+    "questionNumber": 8,
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct synonym of the word in italics.\nThe newly elected minister was criticised for his __ostentatious__ display of wealth during the inauguration ceremony.",
+    "optionA": "modest",
+    "optionB": "showy",
+    "optionC": "discreet",
+    "optionD": "frugal",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) showy\n\n• 'Ostentatious' എന്നാൽ — സമ്പത്തോ status-ഓ മറ്റുള്ളവരെ impress ചെയ്യാൻ വേണ്ടി പ്രകടമായി കാണിക്കുന്നത് എന്നാണ് അർത്ഥം.\n• 'Showy' എന്ന word-ന്റെ അർത്ഥവും അതുതന്നെയാണ് — attention ആകർഷിക്കാൻ വേണ്ടി അമിതമായി പ്രകടിപ്പിക്കുന്നത്.\n• Etymology hint: 'Ostentatious' Latin 'ostentare' (to show, display) എന്ന word-ൽ നിന്നും വന്നതാണ് — 'ostentation' (പ്രകടനം) എന്ന noun-ഉം ഇതേ root-ൽ നിന്നും ഉണ്ടായതാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Ostentatious = Showy = Flashy (excessive display to impress others)\n• 'Ostentatious', 'showy', 'flashy', 'flamboyant' ഇവയെല്ലാം ഒരേ meaning family-യിൽ പെട്ട words ആണ് — അമിതമായ പ്രകടനത്തെ സൂചിപ്പിക്കുന്നു.\n• Etymology: Latin 'ostentare' (to show repeatedly) → 'ostentatious' (showing off).\n• ⭐ PSC ആവർത്തനം: Character/behaviour-related adjectives (ostentatious, frugal, discreet) PSC synonym questions-ൽ സ്ഥിരമായി വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. The couple's ostentatious wedding cost millions of rupees.\n  2. He disliked her ostentatious jewellery.\n  3. The mansion's ostentatious design attracted criticism from the neighbours.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) modest\n  • 'Modest' എന്നാൽ ലളിതവും അമിതമല്ലാത്തതും എന്നാണ് അർത്ഥം — ഇത് 'ostentatious'-ന്റെ നേരെ വിപരീത (antonym) ആണ്.\n  • 🪤 PSC Trap: minister-ന്റെ context-ൽ 'modest' ഒരു positive trait ആയി തോന്നുന്നതിനാൽ students confuse ആകും.\n\n• (C) discreet\n  • 'Discreet' എന്നാൽ ശ്രദ്ധേയമല്ലാതെ, careful ആയി പെരുമാറുന്നത് എന്നാണ് അർത്ഥം — ഇതും 'ostentatious'-ന്റെ opposite ദിശയിലുള്ള word ആണ്.\n  • 🪤 PSC Trap: 'discreet' ഒരു sophisticated-sounding word ആയതിനാൽ students അതിനെ ശരിയായ synonym ആണെന്ന് ഊഹിക്കും.\n\n• (D) frugal\n  • 'Frugal' എന്നാൽ ചെലവ് കുറച്ചു ജീവിക്കുന്നത്/economical ആയിരിക്കുന്നത് എന്നാണ് അർത്ഥം — 'ostentatious' (wealth പ്രകടിപ്പിക്കൽ) എന്നതിന് നേരെ വിപരീതമായ concept ആണ്.\n  • 🪤 PSC Trap: 'wealth' എന്ന word കണ്ടിട്ട് money-യുമായി ബന്ധപ്പെട്ട ഏതെങ്കിലും word ശരിയാകുമെന്ന് students ഊഹിക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'OSTENTATIOUS = ostent(show)-atious' — ഒരാൾ പണം കാണിച്ചു 'show off' ചെയ്യുന്ന image സങ്കൽപ്പിക്കുക.\n• Ostentatious-ന്റെ synonym group (showy, flashy, flamboyant, pretentious) ഒരുമിച്ചും, antonym group (modest, discreet, frugal, humble) വേറെയും പഠിക്കുക.\n• PSC exam strategy: word-ന്റെ context (ഇവിടെ 'display of wealth' — negative/critical tone) ശ്രദ്ധിച്ചാൽ, positive-sounding antonym options (modest, discreet) ഉടനെ ഒഴിവാക്കാം."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-21-Q9",
+    "paperId": "HC-DAILY-2026-08-21",
+    "questionNumber": 9,
+    "topic": "Phrasal Verbs",
+    "difficulty": "easy",
+    "questionText": "Choose the correct meaning of the phrasal verb in italics.\nAfter the investigation, the manager finally decided to __own up to__ his mistake in front of the board.",
+    "optionA": "admit",
+    "optionB": "deny",
+    "optionC": "forget",
+    "optionD": "ignore",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) admit\n\n• 'Own up to' എന്ന phrasal verb-ന്റെ അർത്ഥം — ഒരു തെറ്റോ കുറ്റമോ സ്വയം സമ്മതിക്കുക/admit ചെയ്യുക എന്നാണ്.\n• context-ൽ investigation കഴിഞ്ഞ ശേഷം manager board-ന് മുന്നിൽ തന്റെ mistake സമ്മതിച്ചു എന്നാണ് പറയുന്നത് — ഇത് 'admit' എന്ന meaning-നോട് കൃത്യമായി യോജിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Own up to (something) = Admit / Confess to (something)\n• 'Own' എന്ന word-ന്റെ literal meaning 'സ്വന്തമാക്കുക' ആണെങ്കിലും, 'own up to' എന്ന phrasal verb ആയി ചേരുമ്പോൾ meaning പൂർണ്ണമായി മാറി 'തന്റെ തെറ്റ് സ്വയം സമ്മതിക്കുക' എന്നാകും.\n• Confession-related phrasal verbs group: own up to, admit to, confess to — ഇവയെല്ലാം ഒരേ meaning family.\n• ⭐ PSC ആവർത്തനം: Confession/admission phrasal verbs PSC-യിൽ ആവർത്തിച്ചു വരുന്ന ഒരു category ആണ്.\n• ഉദാഹരണ sentences:\n  1. The student owned up to copying in the exam.\n  2. He finally owned up to breaking the window.\n  3. She owned up to her role in the scandal.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) deny\n  • 'Deny' എന്നാൽ ഒരു കാര്യം സത്യമല്ലെന്ന് പറയുക എന്നാണ് — ഇത് 'own up to' (admit ചെയ്യുക) എന്നതിന്റെ നേരെ വിപരീത meaning ആണ്.\n  • 🪤 PSC Trap: 'mistake' എന്ന negative word കണ്ടിട്ട് students denial-മായി ബന്ധപ്പെട്ട meaning ഊഹിക്കും.\n\n• (C) forget\n  • 'Forget' എന്നത് ഓർമ്മയുമായി ബന്ധപ്പെട്ട word ആണ് — 'own up to' confession-മായി മാത്രമേ ബന്ധപ്പെട്ടിട്ടുള്ളൂ, memory-യുമായി ബന്ധമില്ല.\n  • 🪤 PSC Trap: phrasal verb-ന്റെ meaning അറിയാത്തപ്പോൾ students random ആയി ഇത് guess ചെയ്യും.\n\n• (D) ignore\n  • 'Ignore' എന്നാൽ ശ്രദ്ധിക്കാതിരിക്കുക എന്നാണ് — 'own up to' എന്നത് സജീവമായി ഒരു കാര്യം സമ്മതിക്കുന്ന action ആണ്, ignore ചെയ്യുന്നത് അല്ല.\n  • 🪤 PSC Trap: board-ന് മുന്നിൽ mistake കൈകാര്യം ചെയ്യുന്ന സന്ദർഭത്തിൽ 'ignore' ഒരു plausible-sounding option ആയി തോന്നും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'OWN up TO your mistake' — 'own' എന്നാൽ 'സ്വന്തമാക്കുക', അതായത് തെറ്റിന്റെ ഉത്തരവാദിത്തം 'സ്വന്തമായി ഏറ്റെടുക്കുക' എന്ന് ഓർക്കുക.\n• Confession phrasal verbs (own up to, admit to, confess to, come clean about) ഒരുമിച്ചു പഠിക്കുക.\n• PSC exam strategy: phrasal verb questions-ൽ sentence-ന്റെ overall tone (positive/negative context) നോക്കി antonym options ആദ്യം ഒഴിവാക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-21-Q10",
+    "paperId": "HC-DAILY-2026-08-21",
+    "questionNumber": 10,
+    "topic": "One Word Substitutes",
+    "difficulty": "hard",
+    "questionText": "Choose the most suitable one-word substitute for the phrase in italics.\nThe store detective suspected that the woman was __someone who has an uncontrollable urge to steal, even without financial need__.",
+    "optionA": "kleptomaniac",
+    "optionB": "burglar",
+    "optionC": "vagabond",
+    "optionD": "philanthropist",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) kleptomaniac\n\n• 'Kleptomaniac' എന്നാൽ — സാമ്പത്തിക ആവശ്യമില്ലാതെ തന്നെ മോഷ്ടിക്കാനുള്ള നിയന്ത്രിക്കാൻ പറ്റാത്ത ഒരു psychological urge ഉള്ള വ്യക്തി എന്നാണ് അർത്ഥം.\n• Etymology hint: Greek 'klepto' (to steal) + 'mania' (obsession/uncontrollable urge) എന്നീ രണ്ട് roots ചേർന്നാണ് ഈ word ഉണ്ടായത്.\n• ഇത് ഒരു mental-health condition ആണ് — സാധാരണ മോഷണത്തിൽ നിന്നും വ്യത്യസ്തമായി, ഇവിടെ ആവശ്യമില്ലാതെയും control ചെയ്യാൻ പറ്റാതെയുമാണ് ഈ പ്രവൃത്തി നടക്കുന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Klepto (steal) + Mania (uncontrollable urge) = Kleptomaniac\n• '-mania' suffix ഉള്ള മറ്റ് one-word substitutes: pyromaniac (fire-ന് ഉള്ള uncontrollable urge), megalomaniac (power-ന് ഉള്ള obsession).\n• Psychological-condition one-word substitutes ഒരു പ്രത്യേക group ആണ് — ഇവയെല്ലാം ഒരു 'compulsion/obsession' സൂചിപ്പിക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: '-mania/-phobia/-phile' suffix ഉള്ള one-word substitutes PSC-യിൽ high-difficulty questions ആയി വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. The shop owner installed CCTV cameras to catch kleptomaniacs.\n  2. Doctors diagnosed her as a kleptomaniac after she stole items she didn't need.\n  3. The kleptomaniac was given psychological treatment instead of punishment.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) burglar\n  • 'Burglar' എന്നാൽ വീടോ കടയോ ബലമായി കയറി മോഷ്ടിക്കുന്ന ഒരു criminal ആണ് — ഇത് ഒരു physical crime-നെ സൂചിപ്പിക്കുന്നു, psychological compulsion-നെ അല്ല.\n  • 🪤 PSC Trap: 'steal' എന്ന word കണ്ടിട്ട് 'burglar' ശരിയാണെന്ന് students ധരിക്കും, എന്നാൽ phrase-ൽ പ്രത്യേകം പറഞ്ഞ 'uncontrollable urge' എന്ന mental-condition angle ഇത് miss ചെയ്യുന്നു.\n\n• (C) vagabond\n  • 'Vagabond' എന്നാൽ സ്ഥിര താമസമില്ലാതെ അലഞ്ഞു നടക്കുന്ന ഒരു വ്യക്തിയാണ് — steal ചെയ്യുന്നതുമായി യാതൊരു ബന്ധവുമില്ല.\n  • 🪤 PSC Trap: 'suspicious' സന്ദർഭം കണ്ടിട്ട് ഏതെങ്കിലും 'negative' word ശരിയാകുമെന്ന് students ഊഹിക്കും.\n\n• (D) philanthropist\n  • 'Philanthropist' എന്നാൽ മറ്റുള്ളവർക്ക് ദാനം ചെയ്യുന്ന, സഹായിക്കുന്ന വ്യക്തിയാണ് — ഇത് 'kleptomaniac'-ന്റെ നേരെ വിപരീത സ്വഭാവമുള്ള word ആണ്.\n  • 🪤 PSC Trap: word-ന്റെ meaning അറിയാത്തപ്പോൾ, sound-ൽ complex ആയ words ശരിയാകുമെന്ന് students തെറ്റായി ഊഹിക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'KLEPTO steals, MANIA can't stop' — steal + uncontrollable urge രണ്ടും ചേർന്നാൽ kleptomaniac.\n• '-mania' suffix ഉള്ള words (kleptomaniac, pyromaniac, megalomaniac) ഒരുമിച്ചു ഒരു ലിസ്റ്റ് ആയി പഠിക്കുക.\n• PSC exam strategy: phrase-ൽ 'uncontrollable urge' / 'without need' പോലുള്ള clue words കണ്ടാൽ ഉടനെ psychological-condition one-word substitutes ചിന്തിക്കുക."
+    }
   }
 ]
