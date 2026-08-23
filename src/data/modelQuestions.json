@@ -3048,5 +3048,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Vegan — Vegan ആയ ആൾ മത്സ്യം ഉൾപ്പെടെ ഒരു animal product-ഉം കഴിക്കില്ല; ഇത് sentence-ലെ 'eats fish' എന്നതിന് വിരുദ്ധമാണ്.\n• (C) Carnivore — Carnivore എല്ലാ തരം മാംസവും കഴിക്കുന്ന ആളാണ്; 'avoids other meat' എന്ന restriction ഇതിൽ ഇല്ല.\n• (D) Omnivore — Omnivore സസ്യാഹാരവും മാംസാഹാരവും എല്ലാം കഴിക്കും; ഇത് sentence-ലെ specific restriction (fish only, no other meat) പിടിച്ചെടുക്കുന്നില്ല.\n• 🪤 PSC Trap: 'Vegan', 'Vegetarian' എന്നിവ 'fish' കൂടി ഒഴിവാക്കുന്ന terms ആണെന്ന് തെറ്റിദ്ധരിച്ച് students option (A) തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Pesce = Fish (Italian), Pescatarian = Fish-eating Vegetarian' എന്ന് ഓർത്തുവയ്ക്കുക.\n• Word family: vegan, vegetarian, pescatarian, omnivore, carnivore, herbivore — dietary terms ഒരുമിച്ച് table ആയി പഠിക്കുക.\n• PSC exam strategy: One-word substitute ചോദ്യങ്ങളിൽ phrase-ലെ ഓരോ qualifier-ഉം ('but avoids other meat' പോലുള്ളവ) ശ്രദ്ധയോടെ വായിക്കുക — ഇവയാണ് ശരിയായ option തിരഞ്ഞെടുക്കാൻ സഹായിക്കുന്ന key clues."
     }
+  },
+  {
+    "id": "HC-DAILY-2026-08-23-Q1",
+    "paperId": "HC-DAILY-2026-08-23",
+    "questionNumber": 1,
+    "topic": "Tenses",
+    "difficulty": "medium",
+    "questionText": "Fill in the blank with the correct tense form.\nBy the time the ambulance arrived, the bystanders ______ the patient's bleeding.",
+    "optionA": "had already stabilized",
+    "optionB": "have already stabilized",
+    "optionC": "already stabilized",
+    "optionD": "were already stabilizing",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) had already stabilized\n\n• ഇവിടെ രണ്ട് past events ഉണ്ട് — ambulance വന്നത് (past), bystanders bleeding നിർത്തിയത് (അതിനു മുൻപ് നടന്ന കാര്യം).\n• രണ്ടാമത്തെ event (stabilize ചെയ്തത്) ഒന്നാമത്തെ event-ന് (ambulance arrived) മുൻപ് പൂർത്തിയായതിനാൽ Past Perfect Tense (had + V3) വേണം.\n• 'By the time' + Past Simple ഉള്ള sentence-ൽ, മുൻപ് നടന്ന action-ന് 'had + V3' എന്ന formula ആണ് correct — ഇത് PSC-യിൽ ആവർത്തിച്ചു വരുന്ന classic pattern ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Past event 1 (earlier) → had + V3 | Past event 2 (later) → Simple Past\n• Signal words: 'by the time', 'before', 'after', 'already' (past context-ൽ) — ഇവ കണ്ടാൽ Past Perfect ചിന്തിക്കുക.\n• രണ്ട് past actions-ൽ ആദ്യം നടന്നത് എപ്പോഴും Past Perfect ആയിരിക്കും, രണ്ടാമത്തേത് Simple Past.\n• ⭐ PSC ആവർത്തനം: 'By the time / Before / After' + Past Perfect combination questions മിക്ക പേപ്പറുകളിലും കാണാം — ഉറപ്പായും പഠിക്കേണ്ട topic.\n• ഉദാഹരണ sentences:\n  1. By the time I reached the station, the train had already left.\n  2. She had finished her homework before her mother came home.\n  3. The movie had already started when we entered the theatre.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) have already stabilized — ഇത് Present Perfect ആണ്. Present Perfect ഉപയോഗിക്കുന്നത് past-ൽ ഒരു fixed time reference ('the ambulance arrived') ഇല്ലാത്തപ്പോൾ മാത്രമാണ്.\n  🪤 PSC Trap: 'already' കണ്ടാൽ ഉടനെ Present Perfect ആണെന്ന് കരുതരുത് — context past ആണെങ്കിൽ Past Perfect വേണം.\n• (C) already stabilized — ഇത് Simple Past ആണ്. രണ്ട് past actions തമ്മിലുള്ള time gap കൃത്യമായി കാണിക്കാൻ ഇതിന് കഴിയില്ല.\n  🪤 PSC Trap: Simple Past 'already'-യുമായി ചേർന്നാൽ ശരിയായി തോന്നാമെങ്കിലും formal grammar-ൽ sequence വ്യക്തമാക്കാൻ Past Perfect തന്നെ വേണം.\n• (D) were already stabilizing — ഇത് Past Continuous ആണ്, ഒരു ongoing action കാണിക്കും. പക്ഷേ ഇവിടെ action പൂർത്തിയായതാണ് (completed), ongoing അല്ല.\n  🪤 PSC Trap: Continuous tense-ഉം 'already'-യും ഒരുമിച്ച് grammatically ചേരില്ല എന്നത് പലരും ശ്രദ്ധിക്കാറില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BY THE TIME' കണ്ടാൽ ഉടനെ മനസ്സിൽ പറയുക — 'BTT = Past Perfect'! ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!\n• Word family: before, after, by the time, no sooner...than, hardly...when — ഇവയെല്ലാം Past Perfect-ന്റെ signal words ആണ്, ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Tense questions-ൽ ആദ്യം signal word കണ്ടെത്തുക, എന്നിട്ട് matching tense formula apply ചെയ്യുക — ഒരിക്കലും miss ആകില്ല."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-23-Q2",
+    "paperId": "HC-DAILY-2026-08-23",
+    "questionNumber": 2,
+    "topic": "Subject-Verb Agreement",
+    "difficulty": "medium",
+    "questionText": "Choose the correct verb form to complete the sentence.\nNeither the supervisor nor the trainees ______ aware that the machine had been switched off.",
+    "optionA": "was",
+    "optionB": "were",
+    "optionC": "is",
+    "optionD": "has been",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) were\n\n• 'Neither...nor' ഉപയോഗിക്കുമ്പോൾ verb, subject-ൽ verb-ന് ഏറ്റവും അടുത്തുള്ള noun-മായി (nearer subject rule) agree ചെയ്യണം.\n• ഇവിടെ verb-ന് തൊട്ടുമുൻപ് നിൽക്കുന്നത് 'trainees' (plural) ആണ്, 'supervisor' (singular) അല്ല.\n• അതുകൊണ്ട് plural verb 'were' ആണ് ശരി — ഇത് 'proximity rule' എന്നറിയപ്പെടുന്ന PSC favourite topic ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Neither A nor B + VERB → verb agrees with B (the nearer subject)\n• Either...or, Neither...nor, Not only...but also — ഈ മൂന്ന് structures-ലും verb, രണ്ടാമത്തെ (nearer) subject-നെ ആശ്രയിച്ചാണ് singular/plural തീരുമാനിക്കുന്നത്.\n• ⭐ PSC ആവർത്തനം: Proximity rule Subject-Verb Agreement topic-ൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന rule-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n  1. Either the manager or the staff members are responsible for this.\n  2. Neither the players nor the coach was informed about the delay.\n  3. Not only the students but also the teacher was surprised by the result.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) was — ഇത് 'supervisor' (singular) ആണ് നിയന്ത്രിക്കുന്നത് എന്ന തെറ്റായ ധാരണയിൽ നിന്നാണ് വരുന്നത്. Proximity rule പ്രകാരം ഇത് തെറ്റാണ്.\n  🪤 PSC Trap: ആദ്യം വരുന്ന subject നോക്കി verb തീരുമാനിക്കുന്നത് ഏറ്റവും സാധാരണമായ തെറ്റാണ്.\n• (C) is — Present tense ആണ്, പക്ഷേ sentence past context-ൽ ('had been switched off') ആണ് — tense mismatch.\n• (D) has been — ഇത് Present Perfect ആണ്, context-ന് യോജിക്കാത്ത tense മാത്രമല്ല, 'aware' എന്ന adjective-ന് ശേഷം ഈ structure ഉപയോഗിക്കാറില്ല.\n  🪤 PSC Trap: Perfect tense-ന്റെ auxiliary verbs കണ്ടാൽ ശരിയാണെന്ന് തോന്നാമെങ്കിലും context എപ്പോഴും ശ്രദ്ധിക്കുക.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NEITHER...NOR — verb എപ്പോഴും അടുത്ത ആളെ നോക്കും' എന്ന് ഒരു rhyme പോലെ ഓർക്കുക.\n• Word family: either...or, neither...nor, not only...but also — ഇവ ഒരുമിച്ച് ഒരു group ആയി പഠിക്കുക.\n• PSC exam strategy: verb-ന് തൊട്ടുമുൻപുള്ള noun മാത്രം നോക്കുക, ബാക്കി sentence ignore ചെയ്യാം — ഇത് time ലാഭിക്കും."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-23-Q3",
+    "paperId": "HC-DAILY-2026-08-23",
+    "questionNumber": 3,
+    "topic": "Prepositions",
+    "difficulty": "medium",
+    "questionText": "Choose the correct preposition to complete the sentence.\nThis particular law firm specializes ______ intellectual property disputes.",
+    "optionA": "in",
+    "optionB": "on",
+    "optionC": "at",
+    "optionD": "with",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) in\n\n• 'Specialize' എന്ന verb-ന് ശേഷം fixed preposition 'in' ആണ് ഉപയോഗിക്കുന്നത് — 'specialize in something'.\n• ഇത് ഒരു fixed collocation ആണ്, മാറ്റം വരുത്താൻ പറ്റില്ല.\n• 'She specializes in cardiology', 'The bakery specializes in French pastries' എന്നിങ്ങനെ എല്ലായിടത്തും 'in' തന്നെ വരും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: specialize + IN (ഒരിക്കലും on/at/with അല്ല)\n• ഇത്തരം verb + preposition combinations (fixed collocations) ഓരോന്നും പ്രത്യേകം ഓർത്തിരിക്കണം, rule വഴി derive ചെയ്യാൻ പറ്റില്ല.\n• ⭐ PSC ആവർത്തനം: Prepositions topic-ൽ ഏറ്റവും കൂടുതൽ വരുന്നത് ഇത്തരം fixed verb+preposition collocations ആണ്.\n• ഉദാഹരണ sentences:\n  1. Our team specializes in mobile app development.\n  2. This hospital specializes in pediatric care.\n  3. He wants to specialize in criminal law after graduation.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) on — 'specialize on' എന്ന combination ഇംഗ്ലീഷിൽ നിലവിലില്ല, ഇത് ശരിയായ usage അല്ല.\n  🪤 PSC Trap: 'on' പല topics/subjects-നൊപ്പം ചേരാറുള്ളതിനാൽ (e.g. 'a book on history') ചിലർ തെറ്റായി തിരഞ്ഞെടുക്കും.\n• (C) at — 'specialize at' എന്നത് standard English-ൽ ഇല്ലാത്ത combination ആണ്.\n• (D) with — 'specialize with' എന്നതും തെറ്റായ combination ആണ്, ഇംഗ്ലീഷിൽ ഈ usage നിലവിലില്ല.\n  🪤 PSC Trap: 'work with', 'deal with' പോലുള്ള verbs-ന്റെ pattern വച്ച് 'specialize with' ശരിയാണെന്ന് തെറ്റിദ്ധരിക്കാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'SPECIAL-IN' — specialize-ന്റെ അവസാനം തന്നെ 'in' ചേർത്ത് ഓർക്കുക!\n• Word family: specialize in, major in, excel in, succeed in — ഇവയെല്ലാം 'in' എടുക്കുന്ന verbs ആണ്, ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Preposition questions-ൽ ഓരോ verb-ന്റെയും fixed preposition ഒരു list ആയി എഴുതി ദിവസവും revise ചെയ്യുക — ഇത് ഏറ്റവും ഫലപ്രദമായ രീതിയാണ്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-23-Q4",
+    "paperId": "HC-DAILY-2026-08-23",
+    "questionNumber": 4,
+    "topic": "Active and Passive Voice",
+    "difficulty": "medium",
+    "questionText": "Change the following sentence from Active to Passive Voice:\nThe chef is preparing a three-course meal for the guests.",
+    "optionA": "A three-course meal is being prepared for the guests by the chef.",
+    "optionB": "A three-course meal was prepared for the guests by the chef.",
+    "optionC": "A three-course meal has been prepared for the guests by the chef.",
+    "optionD": "A three-course meal is prepared for the guests by the chef.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) A three-course meal is being prepared for the guests by the chef.\n\n• Active sentence-ന്റെ tense Present Continuous ആണ് ('is preparing') — Passive-ലും അതേ tense തന്നെ നിലനിർത്തണം.\n• Present Continuous Passive formula: is/am/are + being + V3.\n• Active-ലെ object ('a three-course meal') Passive-ൽ subject ആകും, subject ('the chef') 'by' + noun ആയി മാറും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Active tense = Passive tense — ഇത് ഒരിക്കലും മാറില്ല!\n• Present Continuous Active (is/am/are + V-ing) → Present Continuous Passive (is/am/are + being + V3).\n• Object of active sentence → subject of passive; Subject of active → 'by' + agent (ചിലപ്പോൾ ഒഴിവാക്കാം).\n• ⭐ PSC ആവർത്തനം: Active-Passive conversion-ൽ tense മാറ്റാതെ നിലനിർത്തുക എന്നത് ഏറ്റവും കൂടുതൽ തെറ്റ് വരുന്ന ഭാഗമാണ്.\n• ഉദാഹരണ sentences:\n  1. Active: The workers are building a bridge. → Passive: A bridge is being built by the workers.\n  2. Active: She is writing a letter. → Passive: A letter is being written by her.\n  3. Active: They are painting the house. → Passive: The house is being painted by them.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) was prepared — ഇത് Simple Past Passive ആണ്, Active sentence-ന്റെ Present Continuous tense-ന് യോജിക്കുന്നില്ല.\n  🪤 PSC Trap: ചെറിയ ശ്രദ്ധയില്ലായ്മ കാരണം tense മാറ്റം ശ്രദ്ധിക്കാതെ പോകും.\n• (C) has been prepared — Present Perfect Passive ആണ്, ഇതും തെറ്റായ tense ആണ്.\n• (D) is prepared — Simple Present Passive ആണ്; ഇത് 'being' ഒഴിവാക്കുന്നതിനാൽ continuous aspect (action നടന്നുകൊണ്ടിരിക്കുന്നു എന്ന അർത്ഥം) നഷ്ടപ്പെടുന്നു.\n  🪤 PSC Trap: 'being' ഒഴിവാക്കിയാലും sentence ശരിയാണെന്ന് തോന്നും, പക്ഷേ meaning മാറിപ്പോകും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'TENSE TWINS' — Active-ഉം Passive-ഉം എപ്പോഴും tense-ൽ ഇരട്ടകൾ (twins) ആണ്, ഒരിക്കലും വേർപെടില്ല!\n• Word family: Present Continuous Active/Passive, Past Continuous Active/Passive — ഓരോ tense-ന്റെയും Active-Passive formula ജോടിയായി പഠിക്കുക.\n• PSC exam strategy: ആദ്യം Active sentence-ന്റെ tense identify ചെയ്യുക, എന്നിട്ട് ആ tense-ന്റെ Passive formula മാത്രം apply ചെയ്യുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-23-Q5",
+    "paperId": "HC-DAILY-2026-08-23",
+    "questionNumber": 5,
+    "topic": "Question Tags",
+    "difficulty": "medium",
+    "questionText": "Choose the correct question tag to complete the sentence.\nLet's finish the report before the lunch break, ______?",
+    "optionA": "shall we",
+    "optionB": "will we",
+    "optionC": "don't we",
+    "optionD": "can we",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) shall we\n\n• 'Let's' കൊണ്ട് തുടങ്ങുന്ന sentences-ന്റെ tag എപ്പോഴും 'shall we' ആണ് — ഇത് ഒരു fixed exception rule ആണ്.\n• ഈ rule-ന് സാധാരണ Positive→Negative logic ബാധകമല്ല, 'let's' കണ്ടാൽ നേരിട്ട് 'shall we' എഴുതിയാൽ മതി.\n• PSC-യിൽ ഏറ്റവും easy-യായ, ഉറപ്പായി മാർക്ക് കിട്ടുന്ന question tag pattern ആണിത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Let's + ... , SHALL WE? (എപ്പോഴും, exception ഇല്ലാതെ)\n• സാധാരണ rule: Positive sentence → Negative tag, Negative sentence → Positive tag. പക്ഷേ 'Let's' ഒരു special case ആണ്.\n• ⭐ PSC ആവർത്തനം: Question Tags topic-ൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന special-case rules-ൽ ഒന്നാണ് 'Let's...shall we'.\n• ഉദാഹരണ sentences:\n  1. Let's go for a walk, shall we?\n  2. Let's start the meeting now, shall we?\n  3. Let's not waste any more time, shall we?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) will we — 'will' ഭാവികാല tag-കൾക്ക് (imperative sentences-ന്) ഉപയോഗിക്കും ('Close the door, will you?'), 'let's'-ന് അല്ല.\n  🪤 PSC Trap: Imperative tag rule ('will you') ഉം 'let's' tag rule-ഉം തമ്മിൽ പലരും confuse ചെയ്യും.\n• (C) don't we — ഇത് Present Simple statements-ന്റെ (e.g. 'We finish reports daily, don't we?') tag ആണ്, 'let's' sentences-ന് ഉപയോഗിക്കില്ല.\n• (D) can we — 'can' modal-ന്റെ tag ('can't we') ആണ് ശരിയായ pattern, അതും 'let's'-ന് ബാധകമല്ല.\n  🪤 PSC Trap: 'Can we finish...' എന്ന് sentence തന്നെ മാറ്റി വായിച്ചാൽ തോന്നാവുന്ന തെറ്റ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'LET'S SHALL' — രണ്ടും ഒരുമിച്ച് പാടുന്ന rhyme പോലെ ഓർക്കുക, 'Let's' കണ്ടാൽ 'shall we' മാത്രം!\n• Word family: Imperative sentences → will you; Let's sentences → shall we — ഈ രണ്ട് exception rules ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Question Tag ചോദ്യങ്ങളിൽ ആദ്യം sentence-ന്റെ ആദ്യ വാക്ക് നോക്കുക ('Let's' ആണോ എന്ന്) — ഇത് ഏറ്റവും വേഗത്തിൽ ഉത്തരം കണ്ടെത്താൻ സഹായിക്കും."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-23-Q6",
+    "paperId": "HC-DAILY-2026-08-23",
+    "questionNumber": 6,
+    "topic": "Spelling",
+    "difficulty": "medium",
+    "questionText": "Choose the correctly spelled word to complete the sentence.\nThe two departments decided to keep their budgets entirely ______.",
+    "optionA": "seperate",
+    "optionB": "separate",
+    "optionC": "saparate",
+    "optionD": "seperete",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) separate\n\n• 'Separate' എന്ന word-ന്റെ correct spelling-ൽ 'par' എന്ന ഭാഗം ഉണ്ട് — 'se-PAR-ate' എന്ന് ഓർക്കുക.\n• ഇത് ഏറ്റവും കൂടുതൽ ആളുകൾ തെറ്റായി എഴുതുന്ന word-കളിൽ ഒന്നാണ്, കാരണം pronunciation-ൽ 'per' പോലെ തോന്നും.\n• Latin root 'separare' (se- = apart, parare = to prepare) എന്നതിൽ നിന്നാണ് ഈ word വന്നത് — 'par' spelling-ന്റെ കാരണം ഇതാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'There is A RAT in sepARATe' — RAT എന്ന word ഓർത്താൽ correct spelling ഓർമ്മ വരും.\n• Pronunciation-ഉം spelling-ഉം തമ്മിൽ mismatch ഉള്ള words-ൽ ഈ word ഒരു classic example ആണ്.\n• ⭐ PSC ആവർത്തനം: Spelling topic-ൽ 'separate' മുൻപ് പല PSC പേപ്പറുകളിലും ചോദിച്ചിട്ടുള്ള high-frequency word ആണ്.\n• Etymology hint: Latin 'separare' → se (apart) + parare (to prepare/arrange).\n• ഉദാഹരണ sentences:\n  1. Please keep the recyclable waste separate from the rest.\n  2. They lead completely separate lives now.\n  3. The twins were separated at birth.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) seperate — ഏറ്റവും common misspelling, 'par'-ന് പകരം 'per' എഴുതുന്ന തെറ്റ്.\n  🪤 PSC Trap: pronunciation-ൽ 'per' പോലെ കേൾക്കുന്നതിനാൽ ഇത് correct ആണെന്ന് തോന്നും.\n• (C) saparate — 'se' എന്ന ആദ്യ ഭാഗം തന്നെ തെറ്റായി എഴുതിയത്, standard spelling അല്ല.\n• (D) seperete — രണ്ട് ഭാഗത്തും തെറ്റ് ('per' ഉം 'ete' ഉം), completely incorrect spelling.\n  🪤 PSC Trap: ഒന്നിലധികം letters മാറ്റിയ options ചിലപ്പോൾ ശ്രദ്ധിക്കാതെ പോകും, careful ആയി letter-by-letter നോക്കുക.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'sepARATe-ൽ ഒരു RAT ഉണ്ട്' — visual image ആയി ഒരു എലിയെ (rat) സങ്കൽപ്പിച്ചാൽ spelling ഒരിക്കലും മറക്കില്ല!\n• Word family: desperate, temperate പോലുള്ള 'per' ഉള്ള words-ഉം separate പോലുള്ള 'par' ഉള്ള words-ഉം confuse ചെയ്യാതെ വേറെ വേറെ പഠിക്കുക.\n• PSC exam strategy: Spelling questions-ൽ ഓരോ option-ഉം letter-by-letter compare ചെയ്യുക, ഒറ്റ നോട്ടത്തിൽ തീരുമാനിക്കരുത്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-23-Q7",
+    "paperId": "HC-DAILY-2026-08-23",
+    "questionNumber": 7,
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct synonym of the word in italics.\nDespite being new to the city, Meera was remarkably __gregarious__ at the party, chatting easily with strangers.",
+    "optionA": "sociable",
+    "optionB": "reserved",
+    "optionC": "anxious",
+    "optionD": "arrogant",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) sociable\n\n• 'Gregarious' എന്നാൽ ആളുകളുമായി ഇടപഴകാൻ ഇഷ്ടപ്പെടുന്ന, friendly ആയ സ്വഭാവം എന്നാണ് അർത്ഥം — Malayalam-ൽ 'സൗഹൃദപ്രിയമായ, ആളുകളോട് ഇടപഴകുന്ന' എന്ന് പറയാം.\n• Sentence-ൽ 'chatting easily with strangers' എന്ന clue തന്നെ ഈ word-ന്റെ അർത്ഥം സൂചിപ്പിക്കുന്നു.\n• Latin root 'gregarius' (grex = flock/herd) എന്നതിൽ നിന്നാണ് ഈ word വന്നത് — 'group-ൽ ഇഷ്ടപ്പെടുന്ന' എന്ന അടിസ്ഥാന അർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Gregarious = Sociable = Outgoing = Friendly (ഒരു group)\n• Synonym questions-ൽ sentence-ലെ context clues (ഇവിടെ 'chatting easily with strangers') ശ്രദ്ധിച്ചാൽ answer എളുപ്പത്തിൽ കിട്ടും.\n• ⭐ PSC ആവർത്തനം: Personality-related adjectives (gregarious, reticent, gregarious-ന്റെ opposite reticent) PSC-യിൽ common ആയി വരും.\n• Etymology hint: gregarious ← Latin 'grex' (herd/flock) — 'congregate', 'segregate' എന്നീ words-ഉം ഇതേ root-ൽ നിന്നാണ്.\n• ഉദാഹരണ sentences:\n  1. He is a gregarious person who loves attending parties.\n  2. Gregarious animals like elephants live in herds.\n  3. Her gregarious nature made her popular in college.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) reserved — ഇത് 'gregarious'-ന്റെ almost antonym ആണ് (ഒതുങ്ങിയ, സംസാരിക്കാൻ മടിക്കുന്ന സ്വഭാവം).\n  🪤 PSC Trap: Antonym-നെ synonym ആയി തെറ്റിദ്ധരിക്കുന്നത് PSC-യുടെ ഏറ്റവും common trick ആണ്.\n• (C) anxious — ഇതിന് 'ഉത്കണ്ഠ, ടെൻഷൻ' എന്നാണ് അർത്ഥം, sociability-യുമായി ബന്ധമില്ല.\n• (D) arrogant — ഇതിന് 'അഹങ്കാരം' എന്നാണ് അർത്ഥം, gregarious-ന്റെ friendly meaning-മായി യോജിക്കില്ല.\n  🪤 PSC Trap: 'party-യിൽ ശ്രദ്ധാകേന്ദ്രമായ' എന്ന ഭാഗം വച്ച് arrogant ആണെന്ന് തെറ്റായി ചിന്തിക്കാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'GREGARIOUS-ൽ GROUP ഉണ്ട്' — 'greg' = group എന്ന് ഓർത്താൽ 'ആളുകളെ ഇഷ്ടപ്പെടുന്ന' എന്ന അർത്ഥം ഓർമ്മ വരും.\n• Word family: gregarious ↔ reticent/reserved (opposite pair) ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Synonym question-ൽ sentence-ന്റെ ബാക്കി ഭാഗം ഒരു clue ആയി ഉപയോഗിക്കുക — word അറിയില്ലെങ്കിലും context വച്ച് guess ചെയ്യാം."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-23-Q8",
+    "paperId": "HC-DAILY-2026-08-23",
+    "questionNumber": 8,
+    "topic": "Idioms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the idiom in italics.\nAfter months of hesitation, Arjun finally decided to __bite the bullet__ and quit his stable job to start a business.",
+    "optionA": "to accept a difficult situation bravely",
+    "optionB": "to argue loudly with someone",
+    "optionC": "to celebrate a small victory",
+    "optionD": "to postpone an important decision",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) to accept a difficult situation bravely\n\n• 'Bite the bullet' എന്ന idiom-ന്റെ അർത്ഥം ബുദ്ധിമുട്ടുള്ളതോ ധൈര്യം വേണ്ടതോ ആയ ഒരു കാര്യം ധൈര്യപൂർവ്വം സ്വീകരിക്കുക/ചെയ്യുക എന്നാണ്.\n• Sentence-ൽ 'months of hesitation' കഴിഞ്ഞ് ഒരു വലിയ, റിസ്‌കുള്ള തീരുമാനം (stable job ഉപേക്ഷിക്കൽ) എടുക്കുന്നത് ഈ idiom-ന് കൃത്യമായി യോജിക്കുന്നു.\n• Origin: പഴയകാലത്ത് anesthesia ഇല്ലാതെ surgery ചെയ്യുമ്പോൾ രോഗി വേദന സഹിക്കാൻ ഒരു ബുള്ളറ്റ് കടിച്ചു പിടിക്കുമായിരുന്നു എന്നാണ് ഈ idiom-ന്റെ ചരിത്രം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Bite the bullet = Face something painful/difficult with courage\n• Idiom-ന്റെ literal meaning (ബുള്ളറ്റ് കടിക്കുക) അല്ല, figurative meaning ആണ് exam-ൽ ചോദിക്കുന്നത് — ഇത് എപ്പോഴും ഓർക്കുക.\n• ⭐ PSC ആവർത്തനം: Idioms topic PSC-യിൽ ഏറ്റവും കൂടുതൽ മാർക്ക് ഉള്ള vocabulary topics-ൽ ഒന്നാണ്, ദിവസവും 2-3 idioms പഠിക്കുന്നത് നല്ലതാണ്.\n• ഉദാഹരണ sentences:\n  1. The company had to bite the bullet and lay off some employees.\n  2. I finally bit the bullet and went to the dentist.\n  3. She bit the bullet and confronted her boss about the issue.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) to argue loudly with someone — ഇത് 'bite the bullet'-ന്റെ അർത്ഥമല്ല, argument-മായി ബന്ധമില്ല.\n  🪤 PSC Trap: 'bite' എന്ന word-ന്റെ aggressive sound കേട്ട് argument ആണെന്ന് തെറ്റിദ്ധരിക്കാം.\n• (C) to celebrate a small victory — ഇതും തെറ്റാണ്, ഈ idiom celebration-മായി ബന്ധപ്പെട്ടതല്ല, മറിച്ച് ബുദ്ധിമുട്ടുള്ള കാര്യം നേരിടുന്നതാണ്.\n• (D) to postpone an important decision — ഇത് 'bite the bullet'-ന്റെ exact opposite ആണ് — ഈ idiom തീരുമാനം postpone ചെയ്യുന്നതല്ല, ധൈര്യപൂർവ്വം എടുക്കുന്നതാണ്.\n  🪤 PSC Trap: Opposite meaning ഉള്ള option-കൾ PSC മനഃപൂർവ്വം ഉൾപ്പെടുത്താറുണ്ട്, careful ആയിരിക്കുക.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: പട്ടാളക്കാരൻ വേദന സഹിക്കാൻ ബുള്ളറ്റ് കടിച്ചുപിടിക്കുന്ന image മനസ്സിൽ വരയ്ക്കുക — 'ധൈര്യപൂർവ്വം സഹിക്കൽ' എന്ന അർത്ഥം ഓർമ്മ വരും.\n• Word family: face the music, take the plunge, grasp the nettle — courage/acceptance അർത്ഥമുള്ള idioms ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Idiom questions-ൽ sentence-ന്റെ overall tone (positive/negative/courage/fear) നോക്കിയാൽ correct meaning-ന്റെ direction കിട്ടും."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-23-Q9",
+    "paperId": "HC-DAILY-2026-08-23",
+    "questionNumber": 9,
+    "topic": "Phrasal Verbs",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the phrasal verb in italics.\nBefore the interview, I spent the whole weekend trying to __brush up on__ my presentation skills.",
+    "optionA": "improve or refresh a skill",
+    "optionB": "completely forget",
+    "optionC": "show off arrogantly",
+    "optionD": "delay indefinitely",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) improve or refresh a skill\n\n• 'Brush up on' എന്ന phrasal verb-ന്റെ അർത്ഥം മുൻപ് പഠിച്ചതോ അറിഞ്ഞതോ ആയ ഒരു skill/knowledge വീണ്ടും practice ചെയ്ത് മെച്ചപ്പെടുത്തുക എന്നാണ്.\n• Sentence-ൽ 'before the interview' എന്ന context, presentation skills 'improve' ചെയ്യുന്നതിനെ സൂചിപ്പിക്കുന്നു.\n• 'Brush' എന്ന word-ന്റെ literal അർത്ഥം (തുടയ്ക്കുക, വൃത്തിയാക്കുക) ഇവിടെ figurative ആയി 'പൊടി തട്ടിക്കളഞ്ഞ് പുതുക്കുക' എന്ന അർത്ഥത്തിൽ ഉപയോഗിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Brush up (on) something = Refresh/Improve a skill you already have\n• Phrasal verbs-ന്റെ meaning individual words-ൽ നിന്ന് guess ചെയ്യാൻ പറ്റില്ല, idiomatic meaning തന്നെ പഠിക്കണം.\n• ⭐ PSC ആവർത്തനം: Phrasal Verbs PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന high-weightage vocabulary topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. I need to brush up on my French before the trip.\n  2. She brushed up on her cooking skills over the summer.\n  3. Let's brush up on the grammar rules before the test.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) completely forget — ഇത് 'brush up on'-ന്റെ exact opposite ആണ്, forget അല്ല improve ആണ് ഇതിന്റെ അർത്ഥം.\n  🪤 PSC Trap: Opposite meaning options confuse ചെയ്യാൻ വേണ്ടി മനഃപൂർവ്വം ഉൾപ്പെടുത്തുന്നതാണ്.\n• (C) show off arrogantly — ഇതും തെറ്റാണ്, ഈ phrasal verb-ന് pride/arrogance-മായി ബന്ധമില്ല.\n• (D) delay indefinitely — 'brush up' delay-യുമായി ബന്ധപ്പെട്ടതല്ല, ഇത് active ആയി improve ചെയ്യുന്ന പ്രവർത്തിയാണ്.\n  🪤 PSC Trap: Interview-ന് മുൻപ് 'weekend മുഴുവൻ ചെലവഴിച്ചു' എന്നത് കണ്ട് delay ആണെന്ന് തെറ്റായി വായിക്കാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: പഴയ ഒരു ഉപകരണം എടുത്ത് brush കൊണ്ട് പൊടി തട്ടി വൃത്തിയാക്കുന്ന image സങ്കൽപ്പിക്കുക — 'പഴയ skill പുതുക്കൽ' എന്ന അർത്ഥം ഓർമ്മ വരും.\n• Word family: brush up on, catch up on, keep up with — refresh/improve അർത്ഥമുള്ള phrasal verbs ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Phrasal verb questions-ൽ individual word meanings മറന്ന് muzzy ആകാതെ, മുഴുവൻ phrase-ന്റെയും idiomatic meaning ഓർക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-23-Q10",
+    "paperId": "HC-DAILY-2026-08-23",
+    "questionNumber": 10,
+    "topic": "One Word Substitutes",
+    "difficulty": "medium",
+    "questionText": "Choose the correct one-word substitute for the phrase in italics.\nThe new CEO turned out to be __a person with an obsessive desire for power and self-glorification__, alienating most of his senior staff within months.",
+    "optionA": "megalomaniac",
+    "optionB": "philanthropist",
+    "optionC": "hedonist",
+    "optionD": "pragmatist",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) megalomaniac\n\n• 'Megalomaniac' എന്നാൽ അധികാരത്തോടും സ്വയം മഹത്വവൽക്കരണത്തോടും അമിതമായ ആഗ്രഹമുള്ള വ്യക്തി എന്നാണ് അർത്ഥം.\n• Sentence-ലെ 'obsessive desire for power and self-glorification' എന്ന phrase ഈ word-ന്റെ definition-മായി കൃത്യമായി യോജിക്കുന്നു.\n• Greek roots: 'megalo' (great/large) + 'mania' (obsession) — 'വലിപ്പത്തോടുള്ള അമിതമായ ഭ്രമം' എന്ന അടിസ്ഥാന അർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Megalo (great) + mania (obsession) = obsessed with power/greatness\n• One-word substitute questions-ൽ phrase-ലെ key ideas (ഇവിടെ 'power' + 'self-glorification') identify ചെയ്താൽ correct word കണ്ടെത്താൻ എളുപ്പമാകും.\n• ⭐ PSC ആവർത്തനം: '-maniac', '-phile', '-phobia' suffix ഉള്ള one-word substitutes PSC-യിൽ സ്ഥിരമായി വരുന്ന pattern ആണ്.\n• Etymology hint: mega- (Greek: great) + mania (Greek: madness/obsession) → kleptomaniac, pyromaniac പോലുള്ള words-ഉം ഇതേ suffix പങ്കിടുന്നു.\n• ഉദാഹരണ sentences:\n  1. The dictator was widely seen as a megalomaniac obsessed with statues of himself.\n  2. His megalomaniac tendencies made him impossible to work with.\n  3. History has many examples of megalomaniac rulers who destroyed their own kingdoms.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) philanthropist — ഇതിന് 'മറ്റുള്ളവർക്ക് സഹായം ചെയ്യുന്ന, ദാനധർമ്മം ചെയ്യുന്ന വ്യക്തി' എന്നാണ് അർത്ഥം — power-ഉമായി ബന്ധമില്ല, മറിച്ച് opposite സ്വഭാവമാണ്.\n  🪤 PSC Trap: 'CEO' എന്ന positive-sounding സ്ഥാനപ്പേര് കണ്ട് philanthropist ആണെന്ന് തെറ്റായി ചിന്തിക്കാം.\n• (C) hedonist — ഇതിന് 'സുഖഭോഗങ്ങളിൽ മാത്രം ശ്രദ്ധിക്കുന്ന വ്യക്തി' എന്നാണ് അർത്ഥം, power/self-glorification-മായി നേരിട്ട് ബന്ധമില്ല.\n• (D) pragmatist — ഇതിന് 'പ്രായോഗികമായി ചിന്തിക്കുന്ന വ്യക്തി' എന്നാണ് അർത്ഥം, ഇത് ഒരു neutral/positive trait ആണ്, sentence-ന്റെ negative tone-മായി യോജിക്കില്ല.\n  🪤 PSC Trap: '-ist' suffix ഉള്ള മറ്റ് words-മായി confuse ചെയ്യാൻ വേണ്ടി ഉൾപ്പെടുത്തിയ options ആണിവ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'MEGA' = വലുത്, 'MANIAC' = ഭ്രാന്തൻ — 'സ്വയം വലുതാണെന്ന ഭ്രാന്തുള്ള ആൾ' എന്ന് ഓർത്താൽ മറക്കില്ല.\n• Word family: megalomaniac, kleptomaniac, pyromaniac — '-maniac' suffix ഉള്ള words ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: One-word substitute questions-ൽ definition-ലെ ഏറ്റവും strong/unique key word (ഇവിടെ 'power', 'self-glorification') കണ്ടെത്തി അതിനെ ആശ്രയിച്ച് answer തിരയുക."
+    }
   }
 ]
