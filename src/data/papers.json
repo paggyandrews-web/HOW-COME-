@@ -1386,5 +1386,23 @@
     "medium": "M",
     "year": "2019",
     "categoryCode": "276/2018"
+  },
+  {
+    "id": "66-2019-M",
+    "paperCode": "66/2019 M",
+    "post": "Village Extension Officer GR II in Rural Development Dept",
+    "date": "30-Nov-2019",
+    "medium": "M",
+    "year": "2019",
+    "categoryCode": ""
+  },
+  {
+    "id": "063-2019-E",
+    "paperCode": "063/2019 E",
+    "post": "Sales Assistant Gr II - Kerala State Co-operative Coir Marketing Federation Ltd",
+    "date": "26-Nov-2019",
+    "medium": "E",
+    "year": "2019",
+    "categoryCode": ""
   }
 ]
