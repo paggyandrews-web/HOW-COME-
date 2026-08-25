@@ -35837,5 +35837,365 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) very much — 'very much' സാധാരണയായി verbs-നെ modify ചെയ്യാൻ ഉപയോഗിക്കുന്നു (I like it very much), positive adjective-ന് മുൻപ് നേരിട്ട് ഉപയോഗിക്കാറില്ല. 🪤 PSC Trap: 'very' ശരിയാണെന്ന ധാരണയിൽ 'very much' കൂടി ചേർത്ത് select ചെയ്യും.\n• (C) much — adjective-നെ (disappointing) നേരിട്ട് modify ചെയ്യാൻ 'much' ഉപയോഗിക്കാറില്ല ('very' വേണം); 'much' സാധാരണ comparatives/verbs-ന് ഉപയോഗിക്കുന്നു.\n• (D) much very — ഇത് ഒരു valid English phrase അല്ല, ക്രമം തന്നെ തെറ്റാണ്.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"VERY loves ADJECTIVES, MUCH loves VERBS/COMPARATIVES\" — very disappointing, but much better.\n• Rule family: very + adjective/adverb; much + comparative/verb/past participle (much loved).\n• PSC exam strategy: blank-ന് ശേഷം ഒരു plain adjective (-ing/-ed form) വന്നാൽ 'very' ആണ് സാധാരണ ശരിയുത്തരം."
     }
+  },
+  {
+    "id": "062-2019-M-Q71",
+    "paperId": "062-2019-M",
+    "questionNumber": 71,
+    "topic": "Direct and Indirect Speech",
+    "questionText": "“Don't lend Arun any money”, I said to Kavya. “He never pays his debt”\nThe above sentences can be reported as :",
+    "optionA": "I advised Kavya not to lend Arun any money as he never paid his debt",
+    "optionB": "I advised Kavya not to lent Arun any money as he never paid his debt",
+    "optionC": "I advised Kavya not to lend Arun any money as he never pays his debt",
+    "optionD": "I advised Kavya not to lend Arun any money as he always paid  debt",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) I advised Kavya not to lend Arun any money as he never paid his debt\n\n• 'Don't lend...' എന്നത് ഒരു negative imperative sentence ആണ് — reported speech-ൽ ഇത് 'advised/told + not + to + V1' എന്ന structure ആയി മാറും. അതുകൊണ്ട് 'advised Kavya not to lend' ശരിയാണ്.\n• Reporting verb 'said' ഭൂതകാലത്തിൽ ആയതിനാൽ, രണ്ടാമത്തെ sentence-ലെ 'never pays' എന്ന present tense, backshift ചെയ്ത് 'never paid' ആയി മാറണം.\n• 'lend' എന്ന verb-ന്റെ രൂപം മാറ്റേണ്ട ആവശ്യമില്ല — infinitive 'to lend' ആയി തന്നെ നിൽക്കും, 'lent' ആക്കേണ്ട (ഇത് option B-യുടെ കെണിയാണ്).\n• ഇത് ദൈനംദിന ജീവിതത്തിലെ ഒരു ഉപദേശം (advice) reported speech ആക്കുന്ന PSC favourite pattern ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Imperative sentence (Don't + V1) → reported ആയാൽ 'advised/told/ordered + object + not + to + V1' എന്ന ഫോർമുലയിലേക്ക് മാറ്റുക.\n• Reporting verb past ആണെങ്കിൽ, direct speech-ലെ present tense verbs എല്ലാം ഒരു step പുറകോട്ട് backshift ചെയ്യണം: pays എന്നത് paid ആയും, is എന്നത് was ആയും, has എന്നത് had ആയും മാറും.\n• Related family: negative imperatives ഇങ്ങനെ മാറും → \"Don't smoke\" → \"He advised me not to smoke\" (പുകവലിക്കരുതെന്ന് ഉപദേശിച്ചു); \"Don't be late\" → \"She told him not to be late\" (വൈകരുതെന്ന് പറഞ്ഞു).\n• ⭐ PSC ആവർത്തനം: Direct-to-Indirect speech conversion, especially imperative sentences, PSC-യിൽ സ്ഥിരമായി ആവർത്തിക്കുന്ന ഒരു topic ആണ്! മിക്ക പേപ്പറിലും ഒരു ചോദ്യമെങ്കിലും ഇതിൽനിന്ന് വരും.\n• ഉദാഹരണ sentences — ഓരോന്നിന്റെയും അർത്ഥം ശ്രദ്ധിക്കുക:\n1. \"Don't touch the wire,\" the teacher said to the boy. → The teacher warned the boy not to touch the wire. (വയർ തൊടരുതെന്ന് അധ്യാപകൻ മുന്നറിയിപ്പ് നൽകി)\n2. \"Don't waste money,\" my father said to me. → My father advised me not to waste money. (പണം പാഴാക്കരുതെന്ന് അച്ഛൻ ഉപദേശിച്ചു)\n3. \"Don't be late again,\" she said to him. → She told him not to be late again. (വീണ്ടും വൈകരുതെന്ന് അവൾ പറഞ്ഞു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'not to lent Arun any money' — 'to' എന്ന infinitive marker-ന് ശേഷം base form (V1) മാത്രമേ വരൂ; 'lent' എന്നത് past participle/past form ആണ്, അത് 'to' യുടെ ശേഷം ഉപയോഗിക്കാൻ പാടില്ല.\n• 🪤 PSC Trap: 'lend' എന്ന വാക്ക് past tense 'lent' ആയി മാറ്റണം എന്ന് തോന്നിക്കുന്ന ഒരു കെണിയാണ് ഇത് — പക്ഷെ infinitive എപ്പോഴും base form-ൽ തന്നെ നിൽക്കും.\n• (C) 'as he never pays his debt' — backshift ചെയ്യാതെ present tense 'pays' അതേപടി വച്ചിരിക്കുന്നു, reporting verb past ആയതിനാൽ ഇത് തെറ്റാണ്.\n• 🪤 PSC Trap: backshift മറന്നുപോകുന്നത് ഏറ്റവും സാധാരണമായ തെറ്റാണ് — students present tense അതേപടി വിടും.\n• (D) 'as he always paid debt' — 'never' എന്ന word 'always' ആയി മാറ്റിയത് അർത്ഥം പൂർണ്ണമായി മാറ്റുന്നു; original meaning നിലനിർത്തണം.\n• 🪤 PSC Trap: അർത്ഥം മാറ്റുന്ന options, ഉത്തരം ശരിയായി തോന്നിക്കാൻ വേണ്ടി ചേർക്കുന്നതാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Don't → Not to\" ഓർക്കാൻ — 'Don't' എന്ന വാക്ക് കേട്ടാൽ ഉടനെ മനസ്സിൽ 'not to + V1' എന്ന് ചിന്തിക്കുക!\n• Word family: imperative reporting verbs ഒരുമിച്ച് പഠിക്കുക — advise, tell, order, warn, request, ask — ഇവയെല്ലാം 'object + (not) + to + V1' structure എടുക്കും.\n• PSC exam strategy: reported speech ചോദ്യത്തിൽ ആദ്യം reporting verb-ന്റെ tense നോക്കുക (past ആണോ), എന്നിട്ട് direct speech-ലെ എല്ലാ verbs-ഉം backshift ചെയ്യേണ്ടതുണ്ടോ എന്ന് check ചെയ്യുക. ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "062-2019-M-Q72",
+    "paperId": "062-2019-M",
+    "questionNumber": 72,
+    "topic": "Question Tags",
+    "questionText": "He hardly ever makes a mistake, __________\nThe appropriate question tag for the above sentence is :",
+    "optionA": "did he?",
+    "optionB": "doesn't he?",
+    "optionC": "does he?",
+    "optionD": "didn't he?",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) does he?\n\n• 'Hardly ever' എന്നത് ഒരു negative adverb ആണ് — \"വളരെ അപൂർവ്വമായി മാത്രം\" എന്നർത്ഥം. അതുകൊണ്ട് ഈ വാക്യം 'negative meaning' ഉള്ളതായി കണക്കാക്കണം, 'not' എന്ന വാക്ക് നേരിട്ട് ഇല്ലെങ്കിലും.\n• Negative meaning ഉള്ള വാക്യത്തിന് positive question tag വേണം — subject 'He' എന്നതിന് tag 'he' ആയും, verb 'makes' present simple ആയതിനാൽ auxiliary 'does' ആയും വരും.\n• ഇത് \"hidden negative\" words (hardly, scarcely, barely, seldom, never) ഉള്ള വാക്യങ്ങളിൽ PSC സ്ഥിരമായി test ചെയ്യുന്ന ഒരു classic trap ആണ്, ശ്രദ്ധയോടെ വേണം സമീപിക്കാൻ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Positive sentence → Negative tag | Negative sentence → Positive tag — ഇതാണ് question tag-ന്റെ അടിസ്ഥാന നിയമം.\n• 'Hardly, scarcely, barely, seldom, never, rarely' ഈ words ഉള്ള sentences 'negative' ആയി കണക്കാക്കണം, അതുകൊണ്ട് tag 'positive' ആയിരിക്കണം.\n• Related word group: hardly ever, scarcely ever, seldom, rarely — ഇവയെല്ലാം hidden negatives ആണ്, 'not' എന്ന വാക്ക് ഇല്ലെങ്കിലും അർത്ഥം negative ആണ്.\n• ⭐ PSC ആവർത്തനം: 'hardly/scarcely/seldom' ഉള്ള question tag ചോദ്യങ്ങൾ മിക്ക PSC പേപ്പറുകളിലും ആവർത്തിക്കുന്നു — ഇത് ഒരു guaranteed favourite ആണ്!\n• ഉദാഹരണ sentences — അർത്ഥം സഹിതം:\n1. He hardly ever comes late, does he? (അയാൾ ഒരിക്കലും വൈകി വരാറില്ല, അല്ലേ?)\n2. She seldom smiles, does she? (അവൾ അപൂർവ്വമായേ ചിരിക്കാറുള്ളൂ, അല്ലേ?)\n3. They scarcely ever visit us, do they? (അവർ ഞങ്ങളെ കാണാൻ അപൂർവ്വമായേ വരാറുള്ളൂ, അല്ലേ?)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'did he?' — past tense auxiliary ആണ്, പക്ഷെ sentence-ലെ verb 'makes' present simple ആണ്; tense മാച്ച് ആകുന്നില്ല.\n• 🪤 PSC Trap: 'hardly' കണ്ടിട്ട് past tense ഉപയോഗിക്കുന്നത് ഒരു common confusion ആണ്.\n• (B) 'doesn't he?' — 'hardly ever' hidden negative ആണെന്ന് തിരിച്ചറിയാതെ, sentence-നെ positive ആയി കണക്കാക്കി negative tag ഇട്ടതാണ്; ഇത് ഏറ്റവും സാധാരണ തെറ്റാണ്.\n• 🪤 PSC Trap: 'hardly' എന്ന word-ൽ 'not' ഇല്ലാത്തതിനാൽ പലരും sentence positive ആണെന്ന് തെറ്റിദ്ധരിക്കും.\n• (D) 'didn't he?' — tense-ഉം negative-positive rule-ഉം രണ്ടും തെറ്റാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Hardly ever ≈ Never\" — 'Hardly' കണ്ടാൽ ഉടനെ 'Never' എന്ന് മാറ്റി ചിന്തിക്കുക, tag positive ആയിരിക്കുമെന്ന് ഓർക്കുക!\n• Word family: hardly, scarcely, barely, seldom, rarely, never, no sooner, nowhere — ഇവയെല്ലാം ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: question tag ചോദ്യത്തിൽ ആദ്യം ഈ hidden negative words ഉണ്ടോ എന്ന് നോക്കുക. ഉണ്ടെങ്കിൽ ഉടനെ tag positive ആക്കുക — ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "062-2019-M-Q73",
+    "paperId": "062-2019-M",
+    "questionNumber": 73,
+    "topic": "Idioms",
+    "questionText": "She is __as daft as a brush__\nThe underlined idiom means :",
+    "optionA": "very clever",
+    "optionB": "very intelligent",
+    "optionC": "very malicious",
+    "optionD": "very stupid",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) very stupid\n\n• 'As daft as a brush' എന്നത് ഒരു British idiom ആണ് — 'daft' എന്ന വാക്കിന് 'foolish/stupid' എന്നാണ് അർത്ഥം, ചൂലിന് (a brush) ബുദ്ധി ഇല്ലാത്തതുപോലെ വളരെ വിഡ്ഢിയായ ഒരാളെ വിശേഷിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു.\n• ഈ idiom-ന്റെ ശരിയായ അർത്ഥം \"വളരെ വിഡ്ഢിത്തം/മണ്ടത്തരം\" എന്നാണ് — 'very stupid' ആണ് ശരിയായ ഉത്തരം.\n• 'Daft' എന്ന വാക്ക് പഴയ ഇംഗ്ലീഷിൽ 'gentle, mild' എന്നായിരുന്നു അർത്ഥം, പിന്നീട് അത് 'foolish' എന്ന അർത്ഥത്തിലേക്ക് മാറി.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'as + adjective + as + noun' pattern-ൽ ഉള്ള idioms-ന്റെ literal അർത്ഥമല്ല, idiomatic അർത്ഥമാണ് എപ്പോഴും നോക്കേണ്ടത്.\n• Idiom families ഒരുമിച്ച് പഠിക്കുക: 'as daft as a brush' = very stupid (വളരെ വിഡ്ഢി); 'as clever as a fox' = very cunning (വളരെ കൗശലക്കാരൻ); 'as brave as a lion' = very courageous (വളരെ ധൈര്യശാലി).\n• Etymology hint: 'daft' എന്ന വാക്ക് Old English 'gedæfte' (mild, gentle) എന്നതിൽ നിന്ന് വന്നതാണ്, കാലക്രമേണ 'foolish' എന്ന അർത്ഥത്തിലേക്ക് മാറി.\n• ⭐ PSC ആവർത്തനം: idiom meaning ചോദ്യങ്ങൾ PSC-യിൽ സ്ഥിരമായി വരുന്ന ഒരു vocabulary topic ആണ്, ഒരുപാട് idioms മുൻകൂട്ടി പഠിച്ചുവയ്ക്കുന്നത് നല്ലതാണ്!\n• ഉദാഹരണ sentences — അർത്ഥം സഹിതം:\n1. Don't listen to him, he's as daft as a brush. (അവൻ വളരെ വിഡ്ഢിയാണ്, കേൾക്കണ്ട)\n2. My grandfather says silly things sometimes — he's as daft as a brush. (മുത്തച്ഛൻ ചിലപ്പോൾ വിഡ്ഢിത്തരം പറയാറുണ്ട്)\n3. That plan is as daft as a brush; it will never work. (ആ പദ്ധതി തീരെ വിഡ്ഢിത്തമാണ്, ഒരിക്കലും വിജയിക്കില്ല)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'very clever' — ഇത് idiom-ന്റെ എതിർ അർത്ഥമാണ്; 'daft' എന്നാൽ clever അല്ല, foolish ആണ്.\n• 🪤 PSC Trap: 'clever' ഉം 'intelligent' ഉം options ആയി വച്ചിരിക്കുന്നത്, idiom-ന്റെ ശരിയായ അർത്ഥം അറിയാത്തവരെ confuse ചെയ്യാനാണ്.\n• (B) 'very intelligent' — ഇതും idiom-ന്റെ എതിർ അർത്ഥം തന്നെ; 'daft' എന്ന വാക്കിന് ബുദ്ധിശക്തിയുമായി ഒരു ബന്ധവുമില്ല, മറിച്ച് ബുദ്ധിക്കുറവാണ് സൂചിപ്പിക്കുന്നത്.\n• (C) 'very malicious' — 'daft' എന്നതിന് 'ദുഷ്ടത' എന്ന അർത്ഥമില്ല; ഇത് foolishness-നെ കുറിക്കുന്നു, meanness-നെ അല്ല.\n• 🪤 PSC Trap: 'malicious' എന്ന negative-sounding word ഇട്ടാൽ ശരിയാണെന്ന് തോന്നിക്കും, പക്ഷെ idiom-ന്റെ അർത്ഥവുമായി ബന്ധമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Daft as a brush' — ഒരു ചൂലിന് (brush) ചിന്തിക്കാൻ കഴിയില്ലല്ലോ! ആ image മനസ്സിൽ വച്ചാൽ 'very stupid' എന്ന അർത്ഥം ഒരിക്കലും മറക്കില്ല.\n• Word family: daft, foolish, silly, stupid, dim-witted — ഇവയെല്ലാം synonyms ആയി ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: idiom ചോദ്യങ്ങളിൽ literal translation ചെയ്യരുത് — idiom-ന്റെ പൊതുവായ ഉപയോഗം/context ഓർത്തെടുക്കുക. PSC-യുടെ common idiom list ഒരു തവണ പഠിച്ചാൽ മതി!"
+    }
+  },
+  {
+    "id": "062-2019-M-Q74",
+    "paperId": "062-2019-M",
+    "questionNumber": 74,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "The girls as well as their teacher __________ left.",
+    "optionA": "has",
+    "optionB": "have",
+    "optionC": "was",
+    "optionD": "is",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) have\n\n• 'As well as' എന്ന phrase ഒരു connector മാത്രമല്ല, ഇത് 'along with' എന്ന അർത്ഥത്തിൽ ഒരു parenthetical phrase ആണ് — verb-ന്റെ number, 'as well as'-ന് മുമ്പുള്ള subject-നെ (The girls) മാത്രം ആശ്രയിച്ചാണ് തീരുമാനിക്കുന്നത്.\n• 'The girls' plural subject ആയതിനാൽ, verb-ഉം plural ആയിരിക്കണം → 'have left'.\n• 'their teacher' എന്നത് verb-ന്റെ number-നെ സ്വാധീനിക്കില്ല, കാരണം അത് 'as well as' എന്ന phrase-ന്റെ ഭാഗമാണ്, main subject അല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'As well as / along with / together with / in addition to' — ഇവയ്ക്ക് ശേഷം വരുന്ന noun verb-ന്റെ number തീരുമാനിക്കില്ല; ആദ്യത്തെ subject മാത്രം നോക്കുക!\n• Rule statement: Verb എപ്പോഴും main subject-നോട് (phrase-ന് മുമ്പുള്ള subject) agree ചെയ്യണം, parenthetical phrase-നോട് അല്ല എന്നത് നന്നായി ഓർക്കുക.\n• Related word group ഒരുമിച്ച് പഠിക്കുക: as well as, along with, together with, accompanied by, in addition to, besides — ഇവയെല്ലാം ഒരേ rule follow ചെയ്യുന്നു.\n• ⭐ PSC ആവർത്തനം: 'as well as' subject-verb agreement ചോദ്യങ്ങൾ almost എല്ലാ PSC English paper-ലും കാണാം, ഈ topic നന്നായി practice ചെയ്യണം!\n• ഉദാഹരണ sentences — അർത്ഥം സഹിതം:\n1. The manager, along with his staff, has arrived. (മാനേജറും സ്റ്റാഫും എത്തി — 'manager' ആണ് subject)\n2. The players, as well as their coach, are practising. (കളിക്കാരും കോച്ചും practice ചെയ്യുന്നു — 'players' ആണ് subject)\n3. Ramesh, together with his friends, was watching the match. (രമേശും കൂട്ടുകാരും മാച്ച് കണ്ടു — 'Ramesh' ആണ് subject)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'has' — 'their teacher' (singular) നോക്കി verb singular ആക്കിയതാണ്; ഇത് 'as well as'-ന്റെ rule തെറ്റിദ്ധരിച്ചതിന്റെ ഫലമാണ്.\n• 🪤 PSC Trap: 'teacher' എന്ന singular noun verb-ന് ഏറ്റവും അടുത്തായതിനാൽ, students അതിനോട് agree ചെയ്യാൻ ശ്രമിക്കും — ഇത് classic PSC trap ആണ്.\n• (C) 'was' — ഇത് tense-ഉം number-ഉം രണ്ടും തെറ്റാണ്; sentence-ന് 'left' എന്ന past participle main verb ഉള്ളതിനാൽ 'was' യോജിക്കില്ല.\n• (D) 'is' — present tense ആണ്, പക്ഷെ sentence-ൽ 'left' (past participle) main verb ആയതിനാൽ 'have/has' എന്ന auxiliary വേണം; 'is' തീരെ യോജിക്കില്ല.\n• 🪤 PSC Trap: verb form-ന്റെ tense ശ്രദ്ധിക്കാതെ ചിന്തിക്കുന്നവർക്ക് (D) ശരിയാണെന്ന് തോന്നാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'as well as' കണ്ടാൽ ഉടനെ ആ phrase-നെ comma-കൾക്കുള്ളിൽ mentally 'ഒളിപ്പിക്കുക' — ബാക്കി വാക്യം മാത്രം നോക്കി subject കണ്ടെത്തുക!\n• Word family: as well as, along with, together with, accompanied by, in addition to, no less than, besides — ഇവ ഒരു group ആയി പഠിക്കുക, എല്ലാം ഒരേ rule.\n• PSC exam strategy: subject-verb agreement ചോദ്യങ്ങളിൽ verb-ന് തൊട്ടുമുമ്പുള്ള noun-ലേക്ക് ചാടരുത് — യഥാർത്ഥ subject തിരിച്ചറിഞ്ഞ് മാത്രം verb തിരഞ്ഞെടുക്കുക. ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "062-2019-M-Q75",
+    "paperId": "062-2019-M",
+    "questionNumber": 75,
+    "topic": "Infinitive and Gerunds",
+    "questionText": "The boys like (play) games but hate (do) lessons :",
+    "optionA": "play, doing",
+    "optionB": "playing, do",
+    "optionC": "playing, doing",
+    "optionD": "to play, doing",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) playing, doing\n\n• 'Like' ഉം 'hate' ഉം emotion/preference verbs ആണ് — ഇവയ്ക്ക് ശേഷം gerund (V+ing) form സ്വാഭാവികമായി ഉപയോഗിക്കുന്നു, especially ഒരു habitual പ്രവർത്തിയെ സൂചിപ്പിക്കുമ്പോൾ.\n• 'like playing' = കളിക്കുന്നത് ഇഷ്ടപ്പെടുന്നു, 'hate doing' = ചെയ്യുന്നത് വെറുക്കുന്നു — രണ്ടും gerund form ആണ് വരേണ്ടത്.\n• PSC ഈ pattern-ൽ consistent ആയി gerund ഉപയോഗിക്കുന്ന രീതിയിലാണ് ചോദിക്കാറുള്ളത്, options-ൽ രണ്ടും ഒരേ form ആയിരിക്കണം (parallel structure).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: like/love/hate/enjoy/dislike/avoid + V-ing (gerund) — ഇത് ഒരു fixed pattern ആണ്, മനഃപാഠമാക്കുക.\n• Rule statement: Emotion/preference verbs-ന് ശേഷം gerund ഉപയോഗിക്കുന്നത് കൂടുതൽ standard ആണ്, especially general habits/likes പറയുമ്പോൾ.\n• Related word group ഒരുമിച്ച് പഠിക്കുക: like, love, hate, enjoy, dislike, avoid, finish, deny, admit, suggest, consider, imagine, practice — ഇവയെല്ലാം gerund (V-ing) മാത്രം എടുക്കുന്ന verbs.\n• ⭐ PSC ആവർത്തനം: gerund vs infinitive choice PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന ഒരു topic ആണ്, blank rendering-ൽ ശ്രദ്ധിക്കണം!\n• ഉദാഹരണ sentences — അർത്ഥം സഹിതം:\n1. She enjoys reading novels. (അവൾ നോവൽ വായിക്കുന്നത് ആസ്വദിക്കുന്നു)\n2. He avoids eating junk food. (അയാൾ ജങ്ക് ഫുഡ് ഒഴിവാക്കുന്നു)\n3. They finished painting the wall. (അവർ ചുവര് പെയിന്റ് ചെയ്ത് തീർത്തു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'play, doing' — 'play' എന്നത് base form ആണ്, gerund അല്ല; 'like' എന്ന verb-ന് ശേഷം base form നേരിട്ട് വരില്ല.\n• 🪤 PSC Trap: base form-ഉം gerund-ഉം confuse ചെയ്യുന്ന students-നെ വീഴ്ത്താനുള്ള option ആണിത്.\n• (B) 'playing, do' — parallel structure തെറ്റാണ്; രണ്ട് verbs-ഉം ഒരേ form (gerund) ആയിരിക്കണം, ഇവിടെ ആദ്യത്തേത് gerund-ഉം രണ്ടാമത്തേത് base form-ഉം ആണ്.\n• (D) 'to play, doing' — infinitive ('to play') ഉം gerund ('doing') ഉം mix ചെയ്തിരിക്കുന്നു; parallel structure തെറ്റാണ്.\n• 🪤 PSC Trap: mismatched forms ഉള്ള options PSC ബോധപൂർവ്വം ചേർക്കും, parallel structure ശ്രദ്ധിക്കാത്തവരെ പിടിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'LIKE-HATE-LOVE = -ING ലവ്' — ഈ മൂന്ന് വാക്കുകൾ കേട്ടാൽ ഉടനെ '-ing' form ഓർക്കുക!\n• Word family: gerund-only verbs ഒരുമിച്ച് പഠിക്കുക — enjoy, avoid, finish, mind, suggest, practice, consider, admit, deny, risk, keep.\n• PSC exam strategy: രണ്ട് blanks ഉള്ള ചോദ്യങ്ങളിൽ parallel structure ശ്രദ്ധിക്കുക — രണ്ട് verbs-ഉം ഒരേ form (gerund അല്ലെങ്കിൽ infinitive) ആയിരിക്കണം. ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "062-2019-M-Q76",
+    "paperId": "062-2019-M",
+    "questionNumber": 76,
+    "topic": "Auxiliary Verbs",
+    "questionText": "You've spelt it wrong. There __________ be another 's'.",
+    "optionA": "ought to",
+    "optionB": "will",
+    "optionC": "would",
+    "optionD": "shall",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) ought to\n\n• 'Ought to' എന്നത് ഒരു modal auxiliary verb ആണ്, 'should' എന്നതിന് സമാനമായ അർത്ഥത്തിൽ obligation/probability സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു — ഇവിടെ \"മറ്റൊരു 's' ഉണ്ടാകാൻ സാധ്യതയുണ്ട്\" എന്ന അർത്ഥത്തിൽ യോജിക്കുന്നു.\n• Speaker സ്വന്തം എഴുത്ത് തെറ്റാണെന്ന് ഊഹിച്ചു പറയുന്ന context ആണ് — 'ought to' probability/logical deduction സൂചിപ്പിക്കാൻ യോജിക്കും.\n• 'Ought to' എപ്പോഴും 'to' കൂടെ ചേർത്ത് ഉപയോഗിക്കുന്ന അപൂർവ്വമായ modal ആണ്, മറ്റ് modals-ന് 'to' വേണ്ട എന്നത് പ്രത്യേകം ശ്രദ്ധിക്കണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ought + to + V1 — 'ought' എപ്പോഴും 'to' യോടൊപ്പം മാത്രമേ വരൂ, ഇത് മറ്റ് modals-ൽ നിന്ന് വ്യത്യസ്തമാണ്.\n• Rule statement: Modal auxiliaries (can, could, may, might, shall, will, should, must) ന് ശേഷം 'to' വരില്ല, പക്ഷെ 'ought' ന് ശേഷം എപ്പോഴും 'to' വരും.\n• Related word group: should, ought to, must, have to — ഇവയെല്ലാം obligation/probability സൂചിപ്പിക്കുന്ന modals ആണ്, പക്ഷെ 'ought to' മാത്രം 'to' എടുക്കും.\n• ⭐ PSC ആവർത്തനം: modal auxiliary usage, especially 'ought to' vs മറ്റ് modals, PSC-യിൽ ആവർത്തിച്ചു വരുന്ന ഒരു topic ആണ്!\n• ഉദാഹരണ sentences — അർത്ഥം സഹിതം:\n1. You ought to apologise for your mistake. (നീ മാപ്പ് പറയേണ്ടതാണ്)\n2. There ought to be a solution to this problem. (ഇതിന് ഒരു പരിഹാരം ഉണ്ടാകേണ്ടതാണ്)\n3. He ought to have finished the work by now. (അയാൾ ഇപ്പോഴേക്കും ജോലി തീർത്തിരിക്കേണ്ടതാണ്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'will' — ഇത് ഭാവിയിലെ ഒരു certain action-നെ സൂചിപ്പിക്കുന്നു, probability/deduction അല്ല; ഇവിടെ context-ന് യോജിക്കില്ല.\n• 🪤 PSC Trap: 'will' ഒരു common modal ആയതിനാൽ students ഇത് തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്, പക്ഷെ meaning fit ആകില്ല.\n• (C) 'would' — 'would' hypothetical/conditional സൂചിപ്പിക്കുന്നു, ഇവിടെ ഒരു conditional structure ഇല്ല.\n• (D) 'shall' — 'shall' ഭാവി/formal offer സൂചിപ്പിക്കുന്നു, ഈ context-ൽ 'probability' എന്ന അർത്ഥത്തിന് യോജിക്കില്ല.\n• 🪤 PSC Trap: modal verbs-ന്റെ അർത്ഥവ്യത്യാസം അറിയാതെ ഏതെങ്കിലും modal തിരഞ്ഞെടുക്കുന്നവരെ ഈ options വീഴ്ത്തും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Ought TO, Should NO to!\" — 'ought' മാത്രം 'to' കൂടെ വരുന്ന modal ആണെന്ന് ഓർക്കാൻ ഈ rhyme ഉപയോഗിക്കുക.\n• Word family: should, ought to, must, have to, need to — ഇവ ഒരുമിച്ച് പഠിക്കുക, 'ought to' മാത്രമേ 'to' എടുക്കൂ എന്നത് പ്രത്യേകം ശ്രദ്ധിക്കുക.\n• PSC exam strategy: blank-ന് ശേഷം 'be' എന്ന base verb വരുന്നത് ശ്രദ്ധിക്കുക — modal + base verb pattern ആണ് വേണ്ടത്, 'to' ഉള്ള modal ('ought to') മാത്രമേ ഇവിടെ 'be'-യുമായി നേരിട്ട് ചേരൂ. ഇത് ഓർത്തിരുന്നാൽ miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "062-2019-M-Q77",
+    "paperId": "062-2019-M",
+    "questionNumber": 77,
+    "topic": "Active and Passive Voice",
+    "questionText": "We shall have to  tow the car to the garage :\nThe above statement in active voice can be changed into passive voice as",
+    "optionA": "The car must have to be towed to the garage",
+    "optionB": "The car will have to be towed to the garage",
+    "optionC": "The car need to be towed to the garage",
+    "optionD": "The car would have to be towed to the garage",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) The car will have to be towed to the garage\n\n• Active voice-ലെ 'shall have to tow' എന്ന structure, passive ആക്കുമ്പോൾ object ആയ 'the car' subject ആയി മുന്നിലേക്ക് വരും, verb 'be + past participle (towed)' എന്ന രൂപത്തിലേക്ക് മാറും.\n• 'Shall' എന്ന modal, passive voice-ലേക്ക് മാറ്റുമ്പോൾ പൊതുവേ 'will' ആയി മാറ്റുന്നതാണ് ശരിയായ രീതി, അതുകൊണ്ട് 'will have to be towed' എന്നത് ശരിയായ ഉത്തരമായി വരുന്നു.\n• 'Have to' എന്ന phrase-ന്റെ passive രൂപം 'have to be + മൂന്നാം രൂപം (V3)' ആണ് — \"have to tow\" എന്നത് \"have to be towed\" ആയി മാറും എന്ന് ഓർക്കുക.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Modal + have to + V1 (active) → Modal + have to + be + V3 (passive) — ഈ formula മനഃപാഠമാക്കിയാൽ ഇത്തരം ചോദ്യങ്ങൾ എളുപ്പമാകും.\n• Rule statement: Active voice-ലെ object, passive-ൽ subject ആയി മാറും; verb 'be' + past participle ആയി മാറും, modal auxiliary പലപ്പോഴും അതേപടി നിലനിൽക്കും ('shall→will' പോലുള്ള standard മാറ്റത്തോടെ).\n• Related word group ഒരുമിച്ച് പഠിക്കുക: must have to, will have to, shall have to — ഇവയെല്ലാം 'have to' യുടെ passive-ൽ 'have to be + V3' എന്ന ഒരേ pattern follow ചെയ്യും.\n• ⭐ PSC ആവർത്തനം: modal auxiliary ഉള്ള sentences-ന്റെ active-passive conversion PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന ഒരു topic ആണ്, നന്നായി practice ചെയ്യേണ്ടത് ആവശ്യമാണ്!\n• ഉദാഹരണ sentences — അർത്ഥം സഹിതം:\n1. They must complete the project. → The project must be completed. (പദ്ധതി പൂർത്തിയാക്കണം)\n2. We will have to repair the roof. → The roof will have to be repaired. (മേൽക്കൂര നന്നാക്കേണ്ടിവരും)\n3. She can solve the problem. → The problem can be solved. (പ്രശ്നം പരിഹരിക്കാൻ കഴിയും)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'The car must have to be towed to the garage' — 'must' ഉം 'have to' ഉം ഒരുമിച്ച് ഉപയോഗിക്കുന്നത് redundant/ungrammatical ആണ്; ഇവ രണ്ടും ഒരേ meaning-ന്റെ modals ആയതിനാൽ ഒരുമിച്ച് വരില്ല.\n• 🪤 PSC Trap: 'must have to' എന്ന combination തെറ്റാണെന്ന് അറിയാത്തവർ ഇത് തിരഞ്ഞെടുക്കാം.\n• (C) 'The car need to be towed to the garage' — subject 'car' (singular, third person) ആയതിനാൽ 'need' 'needs' ആയി മാറേണ്ടതാണ്; ഇവിടെ subject-verb agreement തെറ്റാണ്, ഒപ്പം original 'shall have to'-യുടെ obligation meaning-ഉം നഷ്ടപ്പെടുന്നു.\n• (D) 'The car would have to be towed to the garage' — 'would' hypothetical/past habitual സൂചിപ്പിക്കുന്നു; original sentence-ലെ 'shall' (future obligation) ന്റെ അർത്ഥവുമായി യോജിക്കില്ല.\n• 🪤 PSC Trap: modal verbs മാറ്റുമ്പോൾ meaning മാറാതെ നോക്കണം — ഈ options meaning subtle ആയി മാറ്റുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"SHALL passive-ൽ ചെല്ലുമ്പോൾ WILL ആയി മാറും!\" — active sentence-ൽ 'shall' കണ്ടാൽ ഉടനെ passive-ൽ 'will' ആയി മാറുമെന്ന് മനസ്സിൽ ഓർത്തുവയ്ക്കുക.\n• Word family: modal + have to constructions ഒരുമിച്ച് പഠിക്കുക — must have to (❌ തെറ്റായ combo), will have to, shall have to, would have to — ശരിയായ combinations മാത്രം എടുക്കുക.\n• PSC exam strategy: active-passive ചോദ്യങ്ങളിൽ modal verb വളരെ ശ്രദ്ധയോടെ handle ചെയ്യുക — object-നെ subject ആക്കുക, verb-നെ 'be+V3' ആക്കുക, modal-ന്റെ അർത്ഥം മാറാതെ നോക്കുക. ഇത് ഓർത്തിരുന്നാൽ guaranteed mark ഉറപ്പ്!"
+    }
+  },
+  {
+    "id": "062-2019-M-Q78",
+    "paperId": "062-2019-M",
+    "questionNumber": 78,
+    "topic": "Antonyms",
+    "questionText": "The antonym of diligent is __________.",
+    "optionA": "hard working",
+    "optionB": "intelligent",
+    "optionC": "humorous",
+    "optionD": "lazy",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) lazy\n\n• 'Diligent' എന്ന വാക്കിന് അർത്ഥം \"കഠിനാധ്വാനം ചെയ്യുന്ന/ഉത്സാഹമുള്ള\" എന്നാണ് — ഇതിന്റെ നേരിട്ടുള്ള വിപരീത പദം (antonym) \"അലസനായ\" എന്നർത്ഥം വരുന്ന 'lazy' ആണ്.\n• 'Diligent' Latin word 'diligentia' (care, attentiveness) എന്നതിൽ നിന്നാണ് വന്നത്, അതിനാൽ ഇതിന്റെ വിപരീതം effort/care ഇല്ലായ്മ സൂചിപ്പിക്കുന്ന വാക്കായിരിക്കണം.\n• ദൈനംദിന ഉപയോഗത്തിൽ \"diligent student\" (കഠിനാധ്വാനി വിദ്യാർത്ഥി) ന്റെ വിപരീതം \"lazy student\" (അലസനായ വിദ്യാർത്ഥി) ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Antonym ചോദ്യങ്ങളിൽ word-ന്റെ core meaning കണ്ടെത്തി, അതിന്റെ നേരിട്ടുള്ള opposite നോക്കുക — synonym-കൾ ആയ options-നെ ഒഴിവാക്കുക.\n• Rule statement: 'diligent' = hardworking; ഇതിന്റെ antonym 'lazy/idle/indolent' ആണ്, synonym 'hardworking/industrious/sedulous' അല്ല.\n• Etymology hint: 'diligent' Latin 'diligere' (to love, to esteem highly, hence to be careful about) എന്നതിൽ നിന്ന് വന്നു.\n• ⭐ PSC ആവർത്തനം: common adjectives-ന്റെ antonyms PSC vocabulary section-ൽ സ്ഥിരമായി ചോദിക്കുന്ന topic ആണ്!\n• ഉദാഹരണ sentences — അർത്ഥം സഹിതം:\n1. He is a diligent worker, unlike his lazy brother. (അയാൾ കഠിനാധ്വാനി ആണ്, അലസനായ സഹോദരനെപ്പോലെയല്ല)\n2. Diligent students always complete their homework. (ഉത്സാഹമുള്ള വിദ്യാർത്ഥികൾ എപ്പോഴും ഹോംവർക്ക് തീർക്കും)\n3. Being lazy will never help you succeed. (അലസത വിജയത്തിന് സഹായിക്കില്ല)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'hard working' — ഇത് 'diligent'-ന്റെ synonym ആണ്, antonym അല്ല; ഇത് ഏറ്റവും സാധാരണമായ trap ആണ്.\n• 🪤 PSC Trap: synonym-നെ antonym ആയി തെറ്റിദ്ധരിക്കുന്ന students-നെ വീഴ്ത്താൻ വേണ്ടി ഇത് ചേർത്തതാണ്.\n• (B) 'intelligent' — ഇത് 'diligent'-മായി ബന്ധമില്ലാത്ത ഒരു വാക്കാണ്; ബുദ്ധിശക്തിയും കഠിനാധ്വാനവും രണ്ട് വ്യത്യസ്ത ഗുണങ്ങളാണ്.\n• (C) 'humorous' — ഇതും 'diligent'-മായി യാതൊരു ബന്ധവുമില്ലാത്ത, തീരെ വ്യത്യസ്തമായ അർത്ഥമുള്ള വാക്കാണ്.\n• 🪤 PSC Trap: spelling/sound-ൽ അല്പം സാമ്യമുള്ള അപ്രസക്തമായ options ചേർത്ത് confuse ചെയ്യാൻ ശ്രമിക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Diligent-ന് opposite ചിന്തിക്കാൻ ഒരു അലസനായ വ്യക്തിയെ ഓർക്കുക!\" — 'diligent' എന്ന വാക്ക് കേട്ടാൽ ഉടനെ ഒരു അലസനായ വ്യക്തിയുടെ image മനസ്സിൽ വരച്ച് അതിന്റെ opposite ചിന്തിക്കുക.\n• Word family: diligent ↔ lazy; industrious ↔ idle; hardworking ↔ indolent — ഈ antonym pairs ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: antonym ചോദ്യങ്ങളിൽ ആദ്യം word-ന്റെ meaning ഉറപ്പിക്കുക, എന്നിട്ട് options-ൽ synonym ഏതെന്നും antonym ഏതെന്നും വേർതിരിക്കുക. Guessing വേണ്ട!"
+    }
+  },
+  {
+    "id": "062-2019-M-Q79",
+    "paperId": "062-2019-M",
+    "questionNumber": 79,
+    "topic": "Parts of Speech",
+    "questionText": "A good student works __hard__ at her books and enjoys learning.\nThe underlined word is :",
+    "optionA": "Conjunction",
+    "optionB": "An adjective",
+    "optionC": "A noun",
+    "optionD": "An adverb",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) An adverb\n\n• 'Hard' എന്ന വാക്ക് ഇവിടെ verb 'works' നെ modify ചെയ്യുന്നു — \"എങ്ങനെ പഠിക്കുന്നു\" (how she works) എന്ന ചോദ്യത്തിന് ഉത്തരം നൽകുന്നു, അതുകൊണ്ട് ഇത് ഒരു adverb ആണ്.\n• 'Hard' ഒരു tricky word ആണ് — noun, adjective ('a hard exam'), അല്ലെങ്കിൽ adverb ('works hard') ആയി ഉപയോഗിക്കാം; context നോക്കി തീരുമാനിക്കണം.\n• ഇവിടെ 'hard' ഒരു verb-നെ (works) modify ചെയ്യുന്നതിനാൽ ഇത് adjective അല്ല, adverb ആണ് എന്ന് ഉറപ്പാക്കാം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Verb-നെ modify ചെയ്യുന്ന word = Adverb | Noun-നെ modify ചെയ്യുന്ന word = Adjective\n• Rule statement: Adverb ഒരു verb, adjective, അല്ലെങ്കിൽ മറ്റൊരു adverb-നെ modify ചെയ്യും; ഇവിടെ 'works' എന്ന verb-നെ 'hard' modify ചെയ്യുന്നു.\n• Related word group: hard/hardly, late/lately, fast/fast — ഇവ പോലുള്ള 'tricky adverbs' ശ്രദ്ധിക്കുക, 'hard' ഉം 'hardly' ഉം വ്യത്യസ്ത അർത്ഥമുള്ള adverbs ആണ് (hard = കഠിനമായി, hardly = ഏകദേശം ഇല്ല എന്ന്).\n• ⭐ PSC ആവർത്തനം: parts of speech identification, especially tricky words like 'hard', 'fast', 'well', PSC-യിൽ ആവർത്തിച്ചു വരുന്നു!\n• ഉദാഹരണ sentences — അർത്ഥം സഹിതം:\n1. She works hard every day. (അവൾ എല്ലാ ദിവസവും കഠിനമായി ജോലി ചെയ്യുന്നു — adverb)\n2. This is a hard question. (ഇത് ഒരു കഠിനമായ ചോദ്യമാണ് — adjective)\n3. He hardly speaks in class. (അയാൾ ക്ലാസ്സിൽ വളരെ കുറച്ചേ സംസാരിക്കൂ — adverb, വ്യത്യസ്ത അർത്ഥം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'Conjunction' — 'hard' രണ്ട് clauses-നെയോ words-നെയോ ബന്ധിപ്പിക്കുന്നില്ല; conjunction അല്ല ഇത്.\n• 🪤 PSC Trap: parts of speech-ന്റെ definitions കൃത്യമായി അറിയാത്തവർ ഏതെങ്കിലും option തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.\n• (B) 'An adjective' — 'hard' ഇവിടെ ഒരു noun-നെയല്ല, verb 'works' നെയാണ് modify ചെയ്യുന്നത്; അതിനാൽ adjective അല്ല.\n• 🪤 PSC Trap: 'hard' സാധാരണയായി adjective ആയി ഉപയോഗിക്കുന്നത് കണ്ടിട്ടുള്ളവർ ഇവിടെയും adjective എന്ന് തെറ്റിദ്ധരിക്കാം.\n• (C) 'A noun' — 'hard' ഒരു person/place/thing-നെ കുറിക്കുന്നില്ല; noun അല്ല ഇത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Verb-നെ തൊട്ടാൽ Adverb, Noun-നെ തൊട്ടാൽ Adjective!\" — word ഏത് word-നെ modify ചെയ്യുന്നു എന്ന് നോക്കി തീരുമാനിക്കുക.\n• Word family: tricky words with same form for adjective/adverb — hard, fast, late, early, high, low, wrong — ഇവയെല്ലാം context അനുസരിച്ച് adjective അല്ലെങ്കിൽ adverb ആകാം.\n• PSC exam strategy: underlined word ഏത് word-നെ describe ചെയ്യുന്നു എന്ന് ചോദിക്കുക — verb ആണെങ്കിൽ adverb, noun ആണെങ്കിൽ adjective. ഇത് ഓർത്തിരുന്നാൽ ഒരിക്കലും തെറ്റില്ല!"
+    }
+  },
+  {
+    "id": "062-2019-M-Q80",
+    "paperId": "062-2019-M",
+    "questionNumber": 80,
+    "topic": "One Word Substitutes",
+    "questionText": "Identify the one word substitution for the following :\nConcluding part of a literary work.",
+    "optionA": "Monologue",
+    "optionB": "Epilogue",
+    "optionC": "Soliloquy",
+    "optionD": "Dialogue",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Epilogue\n\n• 'Epilogue' എന്ന വാക്കിന് അർത്ഥം \"ഒരു സാഹിത്യകൃതിയുടെ അവസാന ഭാഗം/ഉപസംഹാരം\" എന്നാണ് — ഇത് \"concluding part of a literary work\" എന്ന definition-മായി കൃത്യമായി യോജിക്കുന്നു.\n• 'Epilogue' Greek വാക്കുകളായ 'epi' (in addition) + 'logos' (speech/word) എന്നിവയിൽ നിന്ന് ഉരുത്തിരിഞ്ഞതാണ് — \"additional closing words\" എന്ന അർത്ഥം.\n• Novel/play-കളുടെ അവസാനം കഥയുടെ ഭാവി/ഉപസംഹാരം വിവരിക്കുന്ന ഭാഗമാണ് epilogue, ഇത് 'prologue' (തുടക്കത്തിലെ ആമുഖം) ന്റെ എതിർ ഭാഗമാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: One-word substitute ചോദ്യങ്ങളിൽ definition-ലെ പ്രധാന വാക്കുകൾ ('concluding', 'part', 'literary') ശ്രദ്ധയോടെ വായിച്ച് അതിന് കൃത്യമായി യോജിക്കുന്ന വാക്ക് കണ്ടെത്തുക.\n• Rule statement — ഓരോ വാക്കിന്റെയും അർത്ഥം: 'Epilogue' = അവസാന ഭാഗം; 'Prologue' = ആമുഖ ഭാഗം; 'Monologue' = ഒറ്റയാളുടെ നീണ്ട സംസാരം; 'Soliloquy' = തനിച്ചിരുന്ന് സ്വയം സംസാരിക്കൽ (നാടകത്തിൽ); 'Dialogue' = രണ്ടോ അതിലധികമോ പേർ തമ്മിലുള്ള സംഭാഷണം.\n• Etymology hint: Greek 'logos' (വാക്ക്/സംസാരം) എന്ന root ഉള്ള ഈ വാക്കുകൾ എല്ലാം സാഹിത്യപരമായ speech/writing രൂപങ്ങളാണ്.\n• ⭐ PSC ആവർത്തനം: literary terms-ന്റെ one-word substitutes (prologue, epilogue, monologue, soliloquy) PSC-യിൽ സ്ഥിരമായി ആവർത്തിക്കുന്ന ഒരു set ആണ്, ഇവ നാലും ഒരുമിച്ച് പഠിച്ചുവയ്ക്കുക!\n• ഉദാഹരണ sentences — അർത്ഥം സഹിതം:\n1. The epilogue revealed what happened to each character. (ഉപസംഹാരം ഓരോ കഥാപാത്രത്തിനും എന്ത് സംഭവിച്ചു എന്ന് വെളിപ്പെടുത്തി)\n2. The play began with a prologue explaining the setting. (നാടകം പശ്ചാത്തലം വിശദീകരിക്കുന്ന ആമുഖത്തോടെ തുടങ്ങി)\n3. Hamlet's famous soliloquy begins with \"To be or not to be.\" (ഹാംലെറ്റിന്റെ പ്രശസ്തമായ സ്വയം സംഭാഷണം ഇങ്ങനെ തുടങ്ങുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'Monologue' — ഇത് ഒരു കഥാപാത്രം തനിച്ച് സംസാരിക്കുന്ന നീണ്ട speech ആണ് (മറ്റുള്ളവരെ അഭിസംബോധന ചെയ്ത്), ഇത് \"concluding part\" അല്ല.\n• 🪤 PSC Trap: '-logue' എന്ന suffix പൊതുവായുള്ളതിനാൽ ഈ വാക്കുകൾ എളുപ്പം confuse ആകും.\n• (C) 'Soliloquy' — ഇത് ഒരു കഥാപാത്രം സ്വന്തം ചിന്തകൾ ഉറക്കെ, തനിച്ചിരുന്ന് പറയുന്നതാണ് (drama-ൽ), ഇതും \"concluding part\" എന്ന അർത്ഥവുമായി ബന്ധമില്ല.\n• (D) 'Dialogue' — ഇത് രണ്ടോ അതിലധികമോ പേർ തമ്മിലുള്ള സംഭാഷണമാണ്, ഇതും definition-മായി യോജിക്കില്ല.\n• 🪤 PSC Trap: നാല് options-ഉം സാഹിത്യപരമായ '-logue' words ആയതിനാൽ, definition ശ്രദ്ധയോടെ വായിക്കാത്തവരെ ഇത് confuse ചെയ്യും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Epilogue = END-ilogue!\" — 'Epi' എന്നത് 'End' എന്ന വാക്കിനോട് സാമ്യമുള്ളതായി ഓർത്താൽ \"അവസാന ഭാഗം\" എന്ന അർത്ഥം എളുപ്പം ഓർമ്മിക്കാം.\n• Word family: prologue (തുടക്കം), epilogue (അവസാനം), monologue (ഒറ്റയാൾ സംസാരം), dialogue (സംഭാഷണം), soliloquy (സ്വയം സംസാരം) — ഇവ ഒരു group ആയി പഠിക്കുക.\n• PSC exam strategy: literary term one-word substitutes ഒരു fixed list ആണ് — ഇവ മുൻകൂട്ടി പഠിച്ചുവച്ചാൽ exam-ൽ guessing വേണ്ടിവരില്ല. ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "062-2019-M-Q81",
+    "paperId": "062-2019-M",
+    "questionNumber": 81,
+    "topic": "Types of Sentences",
+    "questionText": "Notwithstanding his hard work, he didn't succeed.\nThe above simple sentence can be converted into a compound sentence as :",
+    "optionA": "In spite of his hard work, he didn't succeed",
+    "optionB": "He didn't succeed as he didn't work hard",
+    "optionC": "He worked hard yet didn't succeed",
+    "optionD": "Though he worked hard, he didn't succeed",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) He worked hard yet didn't succeed\n\n• Compound sentence എന്നാൽ രണ്ട് independent clauses-നെ coordinating conjunction (and, but, or, yet, so) ഉപയോഗിച്ച് ബന്ധിപ്പിക്കുന്ന വാക്യമാണ് — ഇവിടെ 'yet' എന്ന coordinating conjunction രണ്ട് സ്വതന്ത്ര വാക്യങ്ങളെ ('He worked hard' + 'he didn't succeed') ബന്ധിപ്പിക്കുന്നു.\n• Original simple sentence-ലെ 'Notwithstanding' (ഒരു preposition) ഒഴിവാക്കി, അതേ അർത്ഥം രണ്ട് independent clauses ആയി എഴുതിയിരിക്കുന്നു.\n• Meaning മാറാതെ, structure മാത്രം simple-ൽ നിന്ന് compound ആയി മാറ്റുന്നതാണ് ഈ ചോദ്യത്തിന്റെ ലക്ഷ്യം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Simple sentence (ഒരു clause മാത്രം) → Compound sentence (independent clause + coordinating conjunction + independent clause) എന്ന ഫോർമുല ഓർത്തുവയ്ക്കുക.\n• Rule statement: Compound sentence-ൽ രണ്ട് clauses-ഉം സ്വതന്ത്രമായി നിലനിൽക്കാൻ കഴിയുന്നവയായിരിക്കണം (independent clauses), ഇവയെ 'and, but, or, yet, so, nor, for' എന്നീ coordinating conjunctions കൊണ്ട് മാത്രമേ ബന്ധിപ്പിക്കാവൂ.\n• Related family — മൂന്ന് sentence types തിരിച്ചറിയാൻ പഠിക്കുക: Simple എന്നാൽ ഒരു clause മാത്രം; Compound എന്നാൽ coordinating conjunction ഉള്ള രണ്ട് independent clauses; Complex എന്നാൽ subordinating conjunction (though, as, because) ഉള്ള ഒരു independent + ഒരു dependent clause.\n• ⭐ PSC ആവർത്തനം: simple-compound-complex sentence conversion PSC-യിൽ വളരെ സ്ഥിരമായി വരുന്ന ഒരു topic ആണ്, ഓരോ പേപ്പറിലും ഇതിൽനിന്ന് ചോദ്യം പ്രതീക്ഷിക്കാം!\n• ഉദാഹരണ sentences — അർത്ഥം സഹിതം:\n1. In spite of the rain, they played. (ഇത് Simple sentence ആണ്) → It rained, but they played. (ഇത് Compound sentence ആയി മാറി — മഴ പെയ്തിട്ടും അവർ കളിച്ചു)\n2. Despite being poor, he was happy. (Simple) → He was poor, yet he was happy. (Compound — ദരിദ്രനായിരുന്നിട്ടും അയാൾ സന്തുഷ്ടനായിരുന്നു)\n3. He is intelligent but lazy. (ഇത് ഒരു Compound sentence ആണ് — 'but' എന്ന വാക്ക് രണ്ട് independent clauses-നെ ബന്ധിപ്പിക്കുന്നു, ബുദ്ധിമാനും അലസനും എന്നർത്ഥം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'In spite of his hard work, he didn't succeed' — ഇത് ഇപ്പോഴും ഒരു simple sentence ആണ് ('in spite of' ഒരു preposition phrase ആണ്, coordinating conjunction അല്ല); original sentence-ന്റെ structure മാറ്റമില്ലാതെ തുടരുന്നു.\n• 🪤 PSC Trap: 'notwithstanding' നെ 'in spite of' ആക്കി മാറ്റിയത് കൊണ്ട് sentence type മാറി എന്ന് തെറ്റിദ്ധരിക്കാം, പക്ഷെ ഇത് ഇപ്പോഴും simple sentence തന്നെ.\n• (B) 'He didn't succeed as he didn't work hard' — ഇത് complex sentence ആണ് ('as' ഒരു subordinating conjunction ആണ്), കൂടാതെ meaning-ഉം മാറിപ്പോയി (originally 'he worked hard' ആയിരുന്നു, ഇവിടെ 'didn't work hard' ആയി).\n• 🪤 PSC Trap: meaning മാറ്റുന്നതും sentence type തെറ്റാക്കുന്നതും രണ്ട് പിഴവുകൾ ഒരുമിച്ച് ഈ option-ൽ ഉണ്ട്.\n• (D) 'Though he worked hard, he didn't succeed' — ഇത് complex sentence ആണ് (subordinating conjunction 'though' ഉപയോഗിച്ചിരിക്കുന്നു), compound അല്ല.\n• 🪤 PSC Trap: compound-ഉം complex-ഉം തമ്മിലുള്ള വ്യത്യാസം അറിയാത്തവർക്ക് ഇത് ശരിയാണെന്ന് തോന്നാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"FANBOYS = Compound-ന്റെ താക്കോൽ!\" — For, And, Nor, But, Or, Yet, So എന്നീ ഏഴ് coordinating conjunctions മനസ്സിൽ ഓർത്താൽ compound sentence എളുപ്പത്തിൽ തിരിച്ചറിയാൻ കഴിയും, ഇത് ഒരു ഉറപ്പായ trick ആണ്.\n• Word family — രണ്ട് ഗ്രൂപ്പ് ആയി തിരിച്ച് ഓർക്കുക: coordinating conjunctions (compound sentence-ന് വേണ്ടത്) — and, but, or, yet, so, nor, for; subordinating conjunctions (complex sentence-ന് വേണ്ടത്) — though, although, as, because, since, while.\n• PSC exam strategy: ഓരോ option-ലെയും conjunction ഏതെന്ന് ആദ്യം സൂക്ഷ്മമായി നോക്കുക — FANBOYS ഗ്രൂപ്പിലെ വാക്കാണെങ്കിൽ compound sentence ആണെന്നും, subordinating word ആണെങ്കിൽ complex sentence ആണെന്നും ഉടനെ തിരിച്ചറിയാം. ഇത് നന്നായി ഓർത്തിരുന്നാൽ ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "062-2019-M-Q82",
+    "paperId": "062-2019-M",
+    "questionNumber": 82,
+    "topic": "Words Often Confused",
+    "questionText": "The Bill, passed by the Parliament, has to obtain the President's __________",
+    "optionA": "assent",
+    "optionB": "ascend",
+    "optionC": "descend",
+    "optionD": "ascent",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) assent\n\n• 'Assent' എന്ന വാക്കിന് അർത്ഥം \"അംഗീകാരം/സമ്മതം\" (approval/agreement) എന്നാണ് — ഒരു Bill (ബിൽ) നിയമമാകാൻ President-ന്റെ ഔദ്യോഗിക അംഗീകാരം ആവശ്യമാണ്, അതിനെയാണ് 'President's assent' എന്ന് പറയുന്നത്.\n• ഇത് ഇന്ത്യൻ ഭരണഘടനാ പ്രക്രിയയിലെ ഒരു സാധാരണ പദപ്രയോഗമാണ് — \"Bill needs the President's assent to become an Act\" (ബിൽ നിയമമാകാൻ രാഷ്ട്രപതിയുടെ അംഗീകാരം വേണം).\n• 'Assent', 'ascend', 'ascent', 'descend' എന്നിവ spelling-ൽ സാമ്യമുള്ള, പക്ഷെ പൂർണ്ണമായും വ്യത്യസ്ത അർത്ഥങ്ങളുള്ള words ആണ് — ഇവിടെ context 'approval' ആയതിനാൽ 'assent' മാത്രമേ ശരിയാകൂ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Assent (noun/verb) = അംഗീകാരം | Ascent (noun) = കയറ്റം | Ascend (verb) = കയറുക | Descend (verb) = ഇറങ്ങുക — ഈ നാല് വാക്കുകൾ spelling-ൽ അടുത്താണെങ്കിലും അർത്ഥം വ്യത്യസ്തമാണ്.\n• Rule statement: 'Assent' 'consent, agreement' എന്ന അർത്ഥത്തിലും, 'ascent/ascend' 'climbing up' എന്ന അർത്ഥത്തിലും, 'descend' 'coming down' എന്ന അർത്ഥത്തിലും ഉപയോഗിക്കുന്നു — ഇവ confuse ചെയ്യരുത്.\n• Related word pairs: assent (agree) vs ascent (climb, noun); ascend (climb, verb) vs descend (come down, verb).\n• ⭐ PSC ആവർത്തനം: 'Words Often Confused' എന്ന category-ൽ assent/ascent പോലുള്ള homophone-സമാന വാക്കുകൾ PSC-യുടെ favourite topic ആണ്!\n• ഉദാഹരണ sentences — അർത്ഥം സഹിതം:\n1. The King gave his assent to the treaty. (രാജാവ് ഉടമ്പടിക്ക് അംഗീകാരം നൽകി)\n2. The ascent to the mountain top was difficult. (മല മുകളിലേക്കുള്ള കയറ്റം ബുദ്ധിമുട്ടായിരുന്നു)\n3. The plane began to descend slowly. (വിമാനം സാവധാനം താഴേക്ക് ഇറങ്ങാൻ തുടങ്ങി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'ascend' — ഇതിന് അർത്ഥം \"കയറുക/മുകളിലേക്ക് പോകുക\" എന്നാണ്; ഇത് ഒരു verb ആണ്, President-ന്റെ അംഗീകാരവുമായി യാതൊരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: spelling-ൽ 'assent'-മായി സാമ്യമുള്ളതിനാൽ ഇത് തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.\n• (C) 'descend' — ഇതിന് അർത്ഥം \"ഇറങ്ങുക/താഴേക്ക് പോകുക\" എന്നാണ്; ഇതും context-മായി ബന്ധമില്ല.\n• (D) 'ascent' — ഇത് 'ascend'-ന്റെ noun form ആണ്, \"കയറ്റം\" എന്നർത്ഥം; spelling 'assent'-മായി വളരെ അടുത്താണെങ്കിലും അർത്ഥം പൂർണ്ണമായും വ്യത്യസ്തമാണ്.\n• 🪤 PSC Trap: 'ascent' ഉം 'assent' ഉം ഉച്ചാരണത്തിലും spelling-ലും വളരെ അടുത്തതിനാൽ, ഇത് PSC-യുടെ ഏറ്റവും classic 'words often confused' trap ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ASSENT-ൽ SENT ഉണ്ട്, സമ്മതം SEND ചെയ്യുന്നു!\" — 'assent' എന്ന വാക്കിനുള്ളിൽ 'sent' എന്ന് കാണാം, ഇത് 'അംഗീകാരം അയക്കുന്നു' എന്ന ആശയവുമായി ബന്ധിപ്പിച്ച് ഓർക്കുക.\n• Word family: assent (agree) ↔ dissent (disagree); ascent (climb up, noun) ↔ descent (climb down, noun); ascend ↔ descend (verbs).\n• PSC exam strategy: Words Often Confused ചോദ്യങ്ങളിൽ ഓരോ വാക്കിന്റെയും exact spelling ഒപ്പം meaning-ഉം ചേർത്ത് പഠിക്കുക — spelling മാത്രം നോക്കി ഊഹിക്കരുത്. ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "062-2019-M-Q83",
+    "paperId": "062-2019-M",
+    "questionNumber": 83,
+    "topic": "Conditionals",
+    "questionText": "Why didn't you say that you were short of money? If I (know) I (lend) you some :",
+    "optionA": "have known, will lend",
+    "optionB": "had known, would have lent",
+    "optionC": "knew, would lent",
+    "optionD": "had known, would have lend",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) had known, would have lent\n\n• ഈ വാക്യം ഒരു Third Conditional ആണ് — ഭൂതകാലത്തിൽ സംഭവിക്കാത്ത ഒരു കാര്യത്തെക്കുറിച്ചുള്ള സങ്കൽപ്പം (\"നീ പണം ഇല്ലെന്ന് പറഞ്ഞില്ല, അതുകൊണ്ട് എനിക്കറിയില്ലായിരുന്നു\") — ഇത്തരം hypothetical past situations-ന് Third Conditional structure വേണം.\n• Third Conditional Formula: If + Past Perfect (had + V3), would have + V3 — 'If I had known' (past perfect) + 'I would have lent' (would have + past participle).\n• 'Why didn't you say...' എന്ന ചോദ്യം തന്നെ ഭൂതകാലത്തിലെ ഒരു നഷ്ടപ്പെട്ട അവസരത്തെ സൂചിപ്പിക്കുന്നു, അതിനാൽ Third Conditional ആണ് ശരി.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: If + had + V3 (past perfect) → would have + V3 (Third Conditional) — ഭൂതകാലത്തിൽ സംഭവിക്കാത്ത കാര്യങ്ങൾക്ക് ഈ formula ഉപയോഗിക്കുക.\n• Rule statement: Third Conditional, യാഥാർത്ഥ്യത്തിന് വിപരീതമായ ഭൂതകാല സാഹചര്യങ്ങൾ (\"ഞാൻ അറിഞ്ഞിരുന്നെങ്കിൽ...\") പ്രകടിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു, ഇത് past-നെ കുറിച്ചുള്ള regret/imagination ആണ്.\n• Related family — എല്ലാ Conditionals ഒരുമിച്ച് ഓർക്കുക: First (If + present, will + V1) = സാധ്യതയുള്ള ഭാവി കാര്യം; Second (If + past, would + V1) = സങ്കൽപ്പിക present/future; Third (If + had+V3, would have+V3) = സാധിക്കാത്ത past കാര്യം.\n• ⭐ PSC ആവർത്തനം: Third Conditional (had+V3 / would have+V3) PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന grammar topics-ൽ ഒന്നാണ്!\n• ഉദാഹരണ sentences — അർത്ഥം സഹിതം:\n1. If I had studied harder, I would have passed the exam. (കൂടുതൽ പഠിച്ചിരുന്നെങ്കിൽ ജയിക്കുമായിരുന്നു)\n2. If she had known about the meeting, she would have come. (മീറ്റിംഗിനെക്കുറിച്ച് അറിഞ്ഞിരുന്നെങ്കിൽ അവൾ വരുമായിരുന്നു)\n3. If they had left early, they would have caught the train. (നേരത്തെ പോയിരുന്നെങ്കിൽ ട്രെയിൻ കിട്ടുമായിരുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'have known, will lend' — ഇത് ശരിയായ tense combination അല്ല; 'have known' present perfect ആണ്, past perfect 'had known' വേണ്ട സ്ഥാനത്ത് ഇത് യോജിക്കില്ല, കൂടാതെ 'will lend' ഭാവി കാര്യമാണ് സൂചിപ്പിക്കുന്നത്, past hypothetical-ന് അല്ല.\n• 🪤 PSC Trap: 'have known' 'had known'-മായി സാമ്യമുള്ളതിനാൽ confuse ചെയ്യാം.\n• (C) 'knew, would lent' — 'knew' Second Conditional-ന്റെ pattern ആണ് (past simple), പക്ഷെ context Third Conditional ആവശ്യപ്പെടുന്നു; കൂടാതെ 'would lent' എന്നത് ഗ്രാമർ പിഴവാണ് — 'would' കഴിഞ്ഞ് base form (lend) വേണം, past form (lent) അല്ല.\n• 🪤 PSC Trap: 'would' കഴിഞ്ഞ് base verb വേണമെന്ന നിയമം മറന്നുപോകുന്നത് സാധാരണ തെറ്റാണ്.\n• (D) 'had known, would have lend' — ആദ്യഭാഗം ശരിയാണ്, പക്ഷെ 'would have' കഴിഞ്ഞ് past participle (lent) വേണം, base form (lend) അല്ല — ഇത് ഒരു common grammar error ആണ്.\n• 🪤 PSC Trap: ഈ option ഏകദേശം ശരിയാണെന്ന് തോന്നിക്കും, പക്ഷെ അവസാന വാക്കിലെ ചെറിയ പിഴവ് ശ്രദ്ധിക്കണം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"HAD + HAD, WOULD HAVE + V3!\" — Third Conditional വാക്യത്തിൽ if-clause-ൽ 'had' ഉം main clause-ൽ 'would have' ഉം ഒരുമിച്ച് ഓർത്തുവയ്ക്കുക, ഇത് ഒരു ജോഡിയായി മാത്രമേ വരൂ.\n• Word family: lend-lent-lent (verb-ന്റെ മൂന്ന് രൂപങ്ങൾ) ഓർക്കുക — 'to lend' (infinitive, base form), 'lent' (past/past participle) — 'would' എന്നതിന് ശേഷം 'lend' എന്ന base form വരും, 'would have' എന്നതിന് ശേഷം 'lent' എന്ന past participle വരും.\n• PSC exam strategy: conditional ചോദ്യങ്ങളിൽ ആദ്യം context ഭൂതകാലമാണോ വർത്തമാന/ഭാവികാലമാണോ എന്ന് നോക്കുക — 'didn't say', 'why didn't' പോലുള്ള past reference ഉണ്ടെങ്കിൽ Third Conditional ഉറപ്പിക്കുക. ഇത് ഓർത്തിരുന്നാൽ guaranteed mark ഉറപ്പ്!"
+    }
+  },
+  {
+    "id": "062-2019-M-Q84",
+    "paperId": "062-2019-M",
+    "questionNumber": 84,
+    "topic": "Tenses",
+    "questionText": "I (buy) a new house last year but I (not sell) my old house yet, so at the moment I have two houses :",
+    "optionA": "bought, have not sold",
+    "optionB": "have bought, didn't sell",
+    "optionC": "brought, didn't sell",
+    "optionD": "bought, not sold",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) bought, have not sold\n\n• 'Last year' എന്ന definite past time signal word ഉള്ളതിനാൽ, ആദ്യ blank Past Simple ('bought') ആയിരിക്കണം — definite/finished past time-നൊപ്പം എപ്പോഴും past simple വരും.\n• 'Yet' ഉം 'at the moment' ഉം Present Perfect-ന്റെ signal words ആണ് — ഇപ്പോഴും തുടരുന്ന ഒരു situation-നെ (വീട് വിറ്റിട്ടില്ല എന്നത് ഇപ്പോഴും സത്യമാണ്) സൂചിപ്പിക്കുന്നു, അതിനാൽ 'have not sold' ശരിയാണ്.\n• 'Buy' ന്റെ past form 'bought' ആണ് (brought എന്നത് 'bring'-ന്റെ past form ആണ്, ഇവിടെ തെറ്റ്), ശ്രദ്ധയോടെ verb forms വേർതിരിക്കണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Definite past time (last year/yesterday) → Past Simple | 'yet/already/since/for/at the moment' → Present Perfect\n• Rule statement: ഒരു വാക്യത്തിൽ രണ്ട് വ്യത്യസ്ത tense signal words ഉണ്ടെങ്കിൽ, ഓരോ ഭാഗവും അതിന്റെ signal word അനുസരിച്ച് വെവ്വേറെ tense എടുക്കും — ഇവിടെ 'last year' ഉം 'yet' ഉം രണ്ട് വ്യത്യസ്ത tenses ആവശ്യപ്പെടുന്നു.\n• Related word group: buy-bought-bought (ക്രമരഹിത verb), bring-brought-brought — ഇവ രണ്ടും spelling-ൽ അടുത്താണ്, confuse ചെയ്യരുത്.\n• ⭐ PSC ആവർത്തനം: past simple vs present perfect distinguish ചെയ്യുന്ന ചോദ്യങ്ങൾ PSC tenses topic-ൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്നു!\n• ഉദാഹരണ sentences — അർത്ഥം സഹിതം:\n1. I bought this phone last month, but I have not used it yet. (കഴിഞ്ഞ മാസം ഫോൺ വാങ്ങി, പക്ഷെ ഇതുവരെ ഉപയോഗിച്ചിട്ടില്ല)\n2. She finished her degree in 2020 but hasn't found a job yet. (2020-ൽ ഡിഗ്രി പൂർത്തിയാക്കി, പക്ഷെ ജോലി കിട്ടിയിട്ടില്ല)\n3. He wrote the letter yesterday but has not posted it yet. (ഇന്നലെ കത്ത് എഴുതി, പക്ഷെ ഇതുവരെ പോസ്റ്റ് ചെയ്തിട്ടില്ല)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'have bought, didn't sell' — രണ്ട് tenses-ഉം തിരിച്ചുപോയിരിക്കുന്നു; 'last year' definite past-നൊപ്പം present perfect ('have bought') തെറ്റാണ്, 'yet' ഉള്ളപ്പോൾ past simple ('didn't sell') തെറ്റാണ്.\n• 🪤 PSC Trap: രണ്ട് blanks-ന്റെയും tense പരസ്പരം മാറ്റിവച്ച് confuse ചെയ്യുന്ന ഒരു classic trap.\n• (C) 'brought, didn't sell' — 'brought' എന്നത് 'bring' എന്ന വേറൊരു verb-ന്റെ past form ആണ്, 'buy'-യുടെ അല്ല; spelling similarity കൊണ്ടുള്ള തെറ്റാണ്. രണ്ടാം ഭാഗവും 'yet' ഉള്ളതിനാൽ present perfect വേണം.\n• 🪤 PSC Trap: buy/bring, bought/brought എന്നിവ spelling-ൽ വളരെ അടുത്തതിനാൽ ഏറ്റവും സാധാരണ തെറ്റാണ്.\n• (D) 'bought, not sold' — ആദ്യഭാഗം ശരിയാണ്, പക്ഷെ രണ്ടാം ഭാഗത്ത് auxiliary verb 'have' വിട്ടുപോയിരിക്കുന്നു; 'not sold' മാത്രം ഒരു complete verb phrase അല്ല, 'have not sold' വേണം.\n• 🪤 PSC Trap: auxiliary verb ഒഴിവാക്കിയ incomplete phrase ശ്രദ്ധിക്കാതെ പോകുന്നവരെ ഇത് വീഴ്ത്തും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"YET-ന് HAVE വേണം, LAST YEAR-ന് വേണ്ട!\" — 'yet' എന്ന വാക്ക് കണ്ടാൽ ഉടനെ 'have/has' എന്ന auxiliary ചേർക്കുക, definite past time ('last year' പോലുള്ളവ) കണ്ടാൽ simple past മാത്രം മതി എന്ന് ഓർക്കുക.\n• Word family — signal words രണ്ട് ഗ്രൂപ്പ് ആയി പഠിക്കുക: Past Simple-ന് — yesterday, last week, in 2019, ago; Present Perfect-ന് — yet, already, since, for, just, ever, never.\n• PSC exam strategy: ഒരു sentence-ൽ രണ്ട് blanks ഉണ്ടെങ്കിൽ, ഓരോന്നിനും അടുത്തുള്ള time-signal word പ്രത്യേകം ശ്രദ്ധയോടെ നോക്കുക — രണ്ടും ഒരേ tense തന്നെ ആകണമെന്നില്ല. ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "062-2019-M-Q85",
+    "paperId": "062-2019-M",
+    "questionNumber": 85,
+    "topic": "Articles",
+    "questionText": "When __________ Titanic was crossing __________ Atlantic, she struck an iceberg.",
+    "optionA": "the, a",
+    "optionB": "a, the",
+    "optionC": "the, the",
+    "optionD": "a, a",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) the, the\n\n• 'Titanic' ഒരു കപ്പലിന്റെ പേരാണ് — famous ships, rivers, oceans, seas എന്നിവയുടെ പേരുകൾക്ക് മുമ്പ് എപ്പോഴും definite article 'the' വരും → 'the Titanic'.\n• 'Atlantic' (Atlantic Ocean) ഒരു സമുദ്രത്തിന്റെ പേരാണ് — ഇത് ഭൂമിശാസ്ത്രപരമായ unique/specific ആയ ഒരു entity ആയതിനാൽ ഇതിനും 'the' തന്നെ വേണം → 'the Atlantic'.\n• ഇവിടെ രണ്ട് blanks-ഉം specific, unique ആയ പേരുകൾക്ക് മുമ്പ് ആയതിനാൽ രണ്ടിടത്തും 'the' ഉപയോഗിക്കണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Ships, rivers, seas, oceans, mountain ranges, famous buildings-ന്റെ പേരുകൾക്ക് മുമ്പ് എപ്പോഴും definite article 'the' വരും — ഈ നിയമം ഉറപ്പായി ഓർത്തുവയ്ക്കുക.\n• Rule statement — 'the' നിർബന്ധമായി വരുന്ന geographical names: നദികൾ (the Ganges), സമുദ്രങ്ങൾ (the Atlantic, the Pacific), പർവ്വത നിരകൾ (the Himalayas), കപ്പലുകൾ (the Titanic), പ്രശസ്തമായ കെട്ടിടങ്ങൾ (the Taj Mahal).\n• Related word group — 'the' വേണ്ടാത്ത geographical names ഓർക്കുക: ഒറ്റ പർവ്വതങ്ങൾ (Everest), ഒറ്റ തടാകങ്ങൾ (Lake Victoria), ഭൂഖണ്ഡങ്ങൾ (Asia), മിക്ക രാജ്യങ്ങളും (India) — ഇവയ്ക്ക് article ആവശ്യമില്ല.\n• ⭐ PSC ആവർത്തനം: geographical names-ന്റെ article usage PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന ഒരു tricky topic ആണ്, ഈ list മനഃപാഠമാക്കുന്നത് നല്ലതാണ്!\n• ഉദാഹരണ sentences — അർത്ഥം സഹിതം:\n1. The Ganges flows through Varanasi. (ഗംഗാ നദി വാരണാസിയിലൂടെ ഒഴുകുന്നു)\n2. The Himalayas are the highest mountains in the world. (ഹിമാലയം ലോകത്തിലെ ഏറ്റവും ഉയരമുള്ള പർവ്വതങ്ങളാണ്)\n3. The Queen Mary sailed across the Pacific. (ക്വീൻ മേരി കപ്പൽ പസഫിക്കിലൂടെ സഞ്ചരിച്ചു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'the, a' — രണ്ടാം blank-ൽ 'a' തെറ്റാണ്; 'Atlantic' ഒരു specific, unique ocean ആയതിനാൽ indefinite article 'a' യോജിക്കില്ല, 'the' തന്നെ വേണം.\n• 🪤 PSC Trap: ആദ്യ blank ശരിയാക്കി, രണ്ടാമത്തേത് തെറ്റാക്കുന്ന ഒരു half-correct option ആണ്.\n• (B) 'a, the' — ആദ്യ blank-ൽ 'a' തെറ്റാണ്; 'Titanic' ഒരു specific ship-ന്റെ പേരാണ്, 'a Titanic' എന്നത് അർത്ഥശൂന്യമാണ് (ഏതെങ്കിലും ഒരു Titanic എന്നാകില്ല ഉദ്ദേശിക്കുന്നത്).\n• (D) 'a, a' — രണ്ട് blanks-ഉം തെറ്റാണ്; specific ship-നും specific ocean-നും indefinite article ഒരിക്കലും ഉപയോഗിക്കില്ല.\n• 🪤 PSC Trap: ships/oceans-ന്റെ പേരുകൾക്ക് 'the' നിർബന്ധമാണെന്ന നിയമം അറിയാത്തവർ 'a' തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Ships and Seas love THE!\" — കപ്പലുകളുടെയും സമുദ്രങ്ങളുടെയും പേരുകൾ കേട്ടാൽ ഉടനെ 'the' ചേർക്കാൻ ഓർക്കുക.\n• Word family: the Titanic, the Atlantic, the Pacific, the Ganges, the Himalayas, the Taj Mahal — ഈ 'the' group ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: proper noun ഒരു ship/river/sea/ocean/mountain range ആണോ എന്ന് നോക്കുക — ആണെങ്കിൽ 'the' ഉറപ്പിക്കുക, single mountain/lake/country ആണെങ്കിൽ article വേണ്ട. ഇത് ഓർത്തിരുന്നാൽ ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "062-2019-M-Q86",
+    "paperId": "062-2019-M",
+    "questionNumber": 86,
+    "topic": "Word Formation",
+    "questionText": "After a brief speech the Minister __________ the new statue.",
+    "optionA": "disveiled",
+    "optionB": "overveiled",
+    "optionC": "inveiled",
+    "optionD": "unveiled",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) unveiled\n\n• 'Unveil' എന്ന വാക്കിന് അർത്ഥം \"മൂടിയത് നീക്കി കാണിക്കുക\" (to remove a covering/veil and reveal) എന്നാണ് — പ്രതിമ, ഫലകം തുടങ്ങിയവയുടെ ഔദ്യോഗിക പ്രകാശനത്തിന് ഉപയോഗിക്കുന്ന standard word ആണിത്.\n• Prefix 'un-' എന്നത് 'reverse/remove' എന്ന അർത്ഥം നൽകുന്ന ഒരു correct prefix ആണ് — 'veil' (മൂടുക) എന്നതിന്റെ വിപരീത പ്രവർത്തി 'un-veil' (മൂടിയത് നീക്കുക) ആണ്.\n• മറ്റ് മൂന്ന് options-ഉം ('dis-', 'over-', 'in-') തെറ്റായ prefixes ആണ് — ഇംഗ്ലീഷിൽ ഇവ 'veil' എന്ന root-നോട് ചേർത്ത് നിലവിലുള്ള വാക്കുകൾ അല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: un- + veil = unveil (correct); dis-, over-, in- + veil = നിലവിലില്ലാത്ത വാക്കുകൾ (incorrect).\n• Rule statement: Prefix 'un-' സാധാരണയായി ഒരു action-നെ reverse ചെയ്യാൻ ഉപയോഗിക്കുന്നു — cover→uncover, tie→untie, veil→unveil, lock→unlock, dress→undress.\n• Related word group: un- prefix ഉള്ള reversal verbs ഒരുമിച്ച് പഠിക്കുക — unveil, uncover, untie, unlock, undo, undress, unwrap — ഇവയെല്ലാം ഒരു പ്രവർത്തി മാറ്റിമറിക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: correct prefix identify ചെയ്യുന്ന word formation ചോദ്യങ്ങൾ PSC vocabulary section-ൽ ആവർത്തിച്ചു വരുന്നു!\n• ഉദാഹരണ sentences — അർത്ഥം സഹിതം:\n1. She unveiled the new painting at the exhibition. (പ്രദർശനത്തിൽ അവൾ പുതിയ ചിത്രം പ്രകാശനം ചെയ്തു)\n2. He untied the knot carefully. (അയാൾ കെട്ട് ശ്രദ്ധയോടെ അഴിച്ചു)\n3. Please uncover the dish before serving. (വിളമ്പുന്നതിന് മുമ്പ് പാത്രത്തിന്റെ മൂടി നീക്കുക)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'disveiled' — 'dis-' എന്ന prefix 'veil' എന്ന word-ൽ ചേർത്ത് ഒരു നിലവിലുള്ള ഇംഗ്ലീഷ് വാക്ക് ഉണ്ടാകുന്നില്ല; ഇത് ഒരു invalid word ആണ്.\n• 🪤 PSC Trap: 'dis-' ഒരു common negative prefix ആയതിനാൽ ('disagree', 'disappear' പോലെ) students ഇത് correct ആണെന്ന് തെറ്റിദ്ധരിക്കാം.\n• (B) 'overveiled' — 'over-' എന്ന prefix ('excess' എന്നർത്ഥം) 'veil' എന്ന word-മായി ചേരില്ല; ഇതും ഒരു നിലവിലില്ലാത്ത വാക്കാണ്.\n• (C) 'inveiled' — 'in-' എന്ന prefix-ഉം 'veil'-മായി ചേർന്ന് ശരിയായ ഒരു വാക്ക് ഉണ്ടാക്കുന്നില്ല.\n• 🪤 PSC Trap: നാല് options-ഉം ഒരേ root word 'veil'-നോട് വ്യത്യസ്ത prefixes ചേർത്തതാണ് — ശരിയായ prefix ഏതെന്ന് കൃത്യമായി അറിയാത്തവരെ confuse ചെയ്യാൻ വേണ്ടിയാണ് ഇത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"UN-VEIL = മൂടി UN ചെയ്യുക!\" — 'un-' എന്നാൽ ഒരു പ്രവർത്തി തിരിച്ചാക്കുക (reverse) എന്നാണ്, 'veil' (മൂടുക) തിരിച്ചാക്കിയാൽ 'unveil' (മൂടിയത് നീക്കുക) ആകും.\n• Word family: un- prefix ഉള്ള verbs ഒരുമിച്ച് പഠിക്കുക — unveil, uncover, untie, unlock, undo, undress, unwrap, unfold.\n• PSC exam strategy: word formation ചോദ്യങ്ങളിൽ ഓരോ prefix-ന്റെയും meaning അറിഞ്ഞിരിക്കണം — തെറ്റായ prefix options 'sound-alike' ആയിരിക്കും, meaning ശ്രദ്ധയോടെ ചിന്തിച്ച് ശരിയായ, നിലവിലുള്ള വാക്ക് തിരഞ്ഞെടുക്കുക. ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "062-2019-M-Q87",
+    "paperId": "062-2019-M",
+    "questionNumber": 87,
+    "topic": "Degrees of Comparison",
+    "questionText": "It is __________ to go by train than  by car.",
+    "optionA": "more cheaper",
+    "optionB": "cheapest",
+    "optionC": "most cheap",
+    "optionD": "cheaper",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) cheaper\n\n• വാക്യത്തിൽ 'than' എന്ന word ഉള്ളത് രണ്ട് കാര്യങ്ങൾ തമ്മിലുള്ള താരതമ്യം (comparison) സൂചിപ്പിക്കുന്നു — 'train' ഉം 'car' ഉം എന്ന രണ്ട് കാര്യങ്ങൾ താരതമ്യം ചെയ്യുന്നതിനാൽ Comparative Degree വേണം.\n• 'Cheap' എന്ന ഒറ്റ syllable adjective-ന്റെ comparative form 'cheap + er' = 'cheaper' ആണ് — ഒറ്റ/രണ്ട് syllable ഉള്ള short adjectives-ന് '-er' suffix ചേർത്താണ് comparative ഉണ്ടാക്കുന്നത്.\n• 'Than' എന്ന word കണ്ടാൽ ഉടനെ comparative degree ('-er' അല്ലെങ്കിൽ 'more') ഓർക്കണം, superlative ('-est'/'most') അല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'than' എന്ന വാക്ക് ഉള്ള sentence-ൽ → Comparative Degree (adjective + er, അല്ലെങ്കിൽ more + adjective) വേണം — 'most/-est' ഒരിക്കലും 'than'-നൊപ്പം വരില്ല.\n• Rule statement: ഒറ്റ syllable ഉള്ളതും ചില രണ്ട് syllable ഉള്ളതുമായ adjectives-ന് comparative-ന് '-er' എന്ന സഫിക്സ് ചേർക്കും (cheap→cheaper, tall→taller); കൂടുതൽ syllables ഉള്ള adjectives-ന് 'more' ചേർക്കും (beautiful→more beautiful) — രണ്ടും ഒരുമിച്ച് ('more cheaper') ഒരിക്കലും ഉപയോഗിക്കരുത്, ഇത് ഒരു double comparative ആണ്.\n• Related word group — ഈ short adjectives-ന്റെ comparative/superlative രൂപങ്ങൾ ഒരുമിച്ച് പഠിക്കുക: cheap-cheaper-cheapest, tall-taller-tallest, fast-faster-fastest, small-smaller-smallest.\n• ⭐ PSC ആവർത്തനം: double comparative errors ('more cheaper' പോലുള്ളവ) കണ്ടെത്തി ഒഴിവാക്കുന്ന ചോദ്യങ്ങൾ PSC-യിൽ വളരെ സ്ഥിരമായി ആവർത്തിക്കുന്നു, ഇത് നന്നായി ശ്രദ്ധിക്കണം!\n• ഉദാഹരണ sentences — അർത്ഥം സഹിതം:\n1. This book is cheaper than that one. (ഈ പുസ്തകം അതിനെക്കാൾ വിലകുറഞ്ഞതാണ്)\n2. She is taller than her sister. (അവൾ സഹോദരിയെക്കാൾ ഉയരമുള്ളവളാണ്)\n3. This is the cheapest shop in town. (superlative — ഇത് പട്ടണത്തിലെ ഏറ്റവും വിലകുറഞ്ഞ കടയാണ്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'more cheaper' — ഇത് ഒരു double comparative ആണ് — '-er' ഉം 'more' ഉം ഒരുമിച്ച് ഉപയോഗിക്കുന്നത് grammatically തെറ്റാണ്; ഒന്ന് മാത്രമേ ഉപയോഗിക്കാവൂ.\n• 🪤 PSC Trap: ദൈനംദിന സംസാരത്തിൽ ഈ തെറ്റ് സാധാരണമായതിനാൽ, ഇത് ശരിയാണെന്ന് പലരും തെറ്റിദ്ധരിക്കും.\n• (B) 'cheapest' — ഇത് Superlative Degree ആണ് (മൂന്നോ അതിലധികമോ കാര്യങ്ങൾക്കിടയിൽ താരതമ്യം ചെയ്യുമ്പോൾ ഉപയോഗിക്കുന്നത്), പക്ഷെ ഇവിടെ 'than' ഉപയോഗിച്ച് രണ്ട് കാര്യങ്ങൾ മാത്രമേ താരതമ്യം ചെയ്യുന്നുള്ളൂ.\n• (C) 'most cheap' — ഇതും Superlative ആണ്, കൂടാതെ 'cheap' ഒരു short adjective ആയതിനാൽ 'most' എടുക്കില്ല, '-est' മാത്രമേ എടുക്കൂ.\n• 🪤 PSC Trap: 'than' ഉള്ളപ്പോൾ superlative forms തിരഞ്ഞെടുക്കുന്നത് comparative/superlative confuse ചെയ്യുന്നവരുടെ common തെറ്റാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"THAN കണ്ടാൽ -ER മാത്രം, MORE വേണ്ട ഇരട്ടിക്കാൻ!\" — 'than' കണ്ടാൽ comparative ('-er' or 'more', ഒന്ന് മാത്രം) ഓർക്കുക, രണ്ടും കൂട്ടിച്ചേർക്കരുത്.\n• Word family: short adjectives '-er/-est' എടുക്കും (cheap, tall, fast); long adjectives 'more/most' എടുക്കും (beautiful, intelligent) — ഇവ രണ്ടും കൂട്ടിക്കലർത്തരുത്.\n• PSC exam strategy: blank-ന് ശേഷം 'than' ഉണ്ടോ എന്ന് നോക്കുക — ഉണ്ടെങ്കിൽ comparative ('-er'), 'the' ഉം superlative context-ഉം ഉണ്ടെങ്കിൽ '-est' തിരഞ്ഞെടുക്കുക. ഇത് ഓർത്തിരുന്നാൽ ഒരിക്കലും തെറ്റില്ല!"
+    }
+  },
+  {
+    "id": "062-2019-M-Q88",
+    "paperId": "062-2019-M",
+    "questionNumber": 88,
+    "topic": "Phrasal Verbs",
+    "questionText": "The wedding has been __________ until June.",
+    "optionA": "put on",
+    "optionB": "put off",
+    "optionC": "put up",
+    "optionD": "put out",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) put off\n\n• 'Put off' എന്ന phrasal verb-ന് അർത്ഥം \"മാറ്റിവയ്ക്കുക/postpone ചെയ്യുക\" എന്നാണ് — വിവാഹം ജൂൺ വരെ മാറ്റിവച്ചു എന്ന അർത്ഥത്തിന് ഇത് കൃത്യമായി യോജിക്കുന്നു.\n• 'Until June' എന്ന time phrase ഒരു postponement-നെ സൂചിപ്പിക്കുന്നു — ഒരു event ഭാവിയിലേക്ക് നീട്ടിവച്ചു എന്ന അർത്ഥം 'put off' മാത്രമേ നൽകുന്നുള്ളൂ.\n• Passive voice-ൽ 'has been put off' എന്ന structure ശരിയായി ഉപയോഗിച്ചിരിക്കുന്നു — 'put off' എന്ന phrasal verb-ന്റെ past participle 'put' തന്നെയാണ് (put-put-put).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: put off = postpone (മാറ്റിവയ്ക്കുക) — ഈ meaning കൃത്യമായി ഓർത്തുവയ്ക്കുക.\n• Rule statement: 'Put' എന്ന verb-നൊപ്പം വ്യത്യസ്ത particles ചേരുമ്പോൾ പൂർണ്ണമായും വ്യത്യസ്ത meanings ഉണ്ടാകുന്നു — put on (ധരിക്കുക), put off (മാറ്റിവയ്ക്കുക), put up (നിർമ്മിക്കുക/താമസിപ്പിക്കുക), put out (കെടുത്തുക).\n• Related word group ഒരുമിച്ച് പഠിക്കുക: postpone-ന് സമാനമായ phrasal verbs — put off, put back, hold off, defer.\n• ⭐ PSC ആവർത്തനം: 'put' എന്ന verb-ന്റെ വിവിധ phrasal verb combinations PSC-യിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന vocabulary topic ആണ്!\n• ഉദാഹരണ sentences — അർത്ഥം സഹിതം:\n1. The meeting has been put off to next week. (മീറ്റിംഗ് അടുത്ത ആഴ്ചയിലേക്ക് മാറ്റിവച്ചു)\n2. He put on his coat and left. (അയാൾ കോട്ട് ധരിച്ച് പോയി)\n3. Firefighters put out the fire quickly. (അഗ്നിശമന സേനക്കാർ വേഗം തീ കെടുത്തി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'put on' — ഇതിന് അർത്ഥം \"ധരിക്കുക/അണിയുക\" (wear) എന്നാണ്; ഒരു wedding-നെ 'ധരിക്കാൻ' കഴിയില്ല, meaning യോജിക്കുന്നില്ല.\n• 🪤 PSC Trap: 'put' ഉള്ള എല്ലാ phrasal verbs-ഉം ഒരുപോലെ തോന്നിക്കുന്നതിനാൽ, meaning കൃത്യമായി അറിയാത്തവരെ confuse ചെയ്യും.\n• (C) 'put up' — ഇതിന് അർത്ഥം \"നിർമ്മിക്കുക (a building)\" അല്ലെങ്കിൽ \"താമസിക്കാൻ ഇടം നൽകുക\" എന്നാണ്; wedding postpone ചെയ്യുക എന്ന അർത്ഥത്തിന് യോജിക്കില്ല.\n• (D) 'put out' — ഇതിന് അർത്ഥം \"കെടുത്തുക (fire/light)\" അല്ലെങ്കിൽ \"പുറത്തിറക്കുക\" എന്നാണ്; wedding-മായി ബന്ധമില്ല.\n• 🪤 PSC Trap: ഈ നാല് phrasal verbs-ഉം 'put' എന്ന ഒരേ base verb ഉള്ളതിനാൽ, particle-ന്റെ meaning കൃത്യമായി അറിയാത്തവരെ പിടിക്കാൻ വേണ്ടിയുള്ള classic trap ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"PUT OFF = പിന്നത്തേക്ക് OFF ചെയ്യുക!\" — 'off' എന്നാൽ ഒരു event-നെ അകറ്റിവയ്ക്കുന്നു (postpone) എന്ന് ചിന്തിച്ചാൽ ഓർമ്മിക്കാൻ എളുപ്പം.\n• Word family: put on (wear), put off (postpone), put up (build/accommodate), put out (extinguish), put away (store) — ഇവ അഞ്ചും ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: phrasal verb ചോദ്യങ്ങളിൽ context (event, time reference, action) ശ്രദ്ധയോടെ വായിച്ച് ഏത് particle-ന്റെ meaning യോജിക്കുന്നു എന്ന് നോക്കുക. ഒരു fixed list പഠിച്ചുവച്ചാൽ guessing വേണ്ട!"
+    }
+  },
+  {
+    "id": "062-2019-M-Q89",
+    "paperId": "062-2019-M",
+    "questionNumber": 89,
+    "topic": "Prepositions",
+    "questionText": "If you do not comply __________ the traffic regulations you will get __________\ntrouble __________ the police.",
+    "optionA": "with, into, with",
+    "optionB": "towards, into, with",
+    "optionC": "with, to, by",
+    "optionD": "by, into, with",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) with, into, with\n\n• 'Comply with' എന്നത് ഒരു fixed collocation ആണ് — \"നിയമങ്ങൾ പാലിക്കുക\" എന്ന അർത്ഥത്തിൽ 'comply' എപ്പോഴും 'with' എന്ന preposition എടുക്കും.\n• 'Get into trouble' എന്നത് മറ്റൊരു fixed idiom/collocation ആണ് — \"കുഴപ്പത്തിൽ പെടുക\" എന്ന അർത്ഥത്തിൽ 'into' ഉപയോഗിക്കുന്നു.\n• 'Trouble with the police' എന്നത് \"പോലീസുമായി പ്രശ്നം\" എന്ന അർത്ഥത്തിൽ 'with' എടുക്കുന്ന മൂന്നാമത്തെ fixed collocation ആണ് — മൂന്നും വെവ്വേറെ പഠിക്കേണ്ട fixed combinations ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: comply WITH, get INTO trouble, trouble WITH someone — ഈ മൂന്ന് fixed collocations മനഃപാഠമാക്കുക.\n• Rule statement: Prepositions പലപ്പോഴും logic അനുസരിച്ചല്ല, fixed collocation ആയാണ് വരുന്നത് — ഓരോ verb/noun-ഉം ഏത് preposition-മായി ചേരും എന്ന് പ്രത്യേകം പഠിക്കണം.\n• Related word group: insist ON, depend ON, full OF, congratulate ON, comply WITH, agree WITH/TO, apologise FOR — ഇവ ഒരുമിച്ച് പഠിക്കുക.\n• ⭐ PSC ആവർത്തനം: fixed preposition collocations PSC-യിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന topic-കളിൽ ഒന്നാണ്, മൂന്ന് blanks ഉള്ള ചോദ്യങ്ങൾ പ്രത്യേകിച്ചും ആവർത്തിക്കുന്നു!\n• ഉദാഹരണ sentences — അർത്ഥം സഹിതം:\n1. All employees must comply with the safety rules. (എല്ലാ ജീവനക്കാരും സുരക്ഷാ നിയമങ്ങൾ പാലിക്കണം)\n2. He got into trouble for being late. (വൈകി വന്നതിന് അയാൾ കുഴപ്പത്തിൽ പെട്ടു)\n3. She had trouble with her neighbours. (അവൾക്ക് അയൽക്കാരുമായി പ്രശ്നമുണ്ടായി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'towards, into, with' — 'comply towards' എന്നത് ഒരു നിലവിലില്ലാത്ത collocation ആണ്; 'comply' എപ്പോഴും 'with' മാത്രമേ എടുക്കൂ, 'towards' തെറ്റാണ്.\n• 🪤 PSC Trap: 'towards' 'direction' സൂചിപ്പിക്കുന്ന ഒരു സാധാരണ preposition ആയതിനാൽ ശരിയാണെന്ന് തോന്നിക്കാം.\n• (C) 'with, to, by' — രണ്ടാം ഭാഗം 'get to trouble' എന്നത് തെറ്റായ collocation ആണ് ('get into trouble' ആണ് ശരി); മൂന്നാം ഭാഗം 'trouble by the police' എന്നതും natural അല്ല ('trouble with the police' ആണ് ശരി).\n• (D) 'by, into, with' — ആദ്യഭാഗം 'comply by' എന്നത് തെറ്റാണ്; 'comply' 'with' മാത്രമേ എടുക്കൂ.\n• 🪤 PSC Trap: മൂന്ന് blanks-ൽ ഒന്നോ രണ്ടോ മാത്രം ശരിയാക്കി ബാക്കി തെറ്റാക്കുന്ന 'half-correct' options ആണ് ഇവയെല്ലാം — എല്ലാ blanks-ഉം ശരിയായാൽ മാത്രമേ ഉത്തരം ശരിയാകൂ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"COMPLY WITH, GET INTO, TROUBLE WITH!\" — ഈ മൂന്ന് collocations ഒരു sentence ആയി ഈണത്തിൽ ചൊല്ലി മനസ്സിൽ ഉറപ്പിക്കുക.\n• Word family — 'trouble' ഉള്ള collocations ഒരുമിച്ച് പഠിക്കുക: get into trouble (കുഴപ്പത്തിൽ പെടുക), trouble with someone (ആരുമായെങ്കിലും പ്രശ്നം), trouble for someone (ആർക്കെങ്കിലും ബുദ്ധിമുട്ട്), ask for trouble (സ്വയം കുഴപ്പം ക്ഷണിച്ചുവരുത്തുക).\n• PSC exam strategy: multiple-blank preposition ചോദ്യങ്ങളിൽ ഓരോ blank-ഉം വേറെ വേറെ fixed collocation ആയി ഓർത്തുവയ്ക്കുക — ഒരു blank മാത്രം തെറ്റിയാലും മുഴുവൻ option തെറ്റാകും എന്നത് പ്രത്യേകം ഓർക്കണം. ഇത് നന്നായി പഠിച്ചാൽ guaranteed mark ഉറപ്പ്!"
+    }
+  },
+  {
+    "id": "062-2019-M-Q90",
+    "paperId": "062-2019-M",
+    "questionNumber": 90,
+    "topic": "Spelling",
+    "questionText": "The boy looked much __________.",
+    "optionA": "relevied",
+    "optionB": "releaved",
+    "optionC": "relieved",
+    "optionD": "reliefed",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) relieved\n\n• 'Relieved' എന്നതാണ് 'relieve' (ആശ്വാസം നൽകുക) എന്ന verb-ന്റെ ശരിയായ past participle/adjective form — \"ആശ്വാസം തോന്നിയ\" എന്ന അർത്ഥത്തിൽ ശരിയായി spell ചെയ്ത വാക്ക് ഇതാണ്.\n• 'I before E except after C' എന്ന classic spelling rule ഇവിടെ ബാധകമാണ് — 'relieve' എന്ന വാക്കിൽ 'liev' (l-i-e-v) എന്ന ക്രമത്തിലാണ് അക്ഷരങ്ങൾ വരുന്നത്, 'C' ന് ശേഷം അല്ലാത്തതിനാൽ 'ie' ക്രമം ശരിയാണ്.\n• മറ്റ് മൂന്ന് options-ഉം 'relieve' എന്ന വാക്കിന്റെ letters മാറ്റിയോ തെറ്റായ suffix ചേർത്തോ ഉള്ള incorrect spellings ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'I before E, except after C' — relieve, believe, achieve പോലുള്ള വാക്കുകളിൽ ഈ spelling rule ബാധകമാണ്.\n• Rule statement: 'Relieve' (verb) → 'relieved' (past tense/adjective) — spelling-ൽ 'lie' എന്ന ക്രമം കൃത്യമായി ഓർക്കണം, 'lev', 'liev' എന്നിങ്ങനെ letters മാറ്റരുത്.\n• Related word group: 'ie' spelling pattern ഉള്ള മറ്റ് വാക്കുകൾ — believe, achieve, grieve, thief, chief — ഇവയെല്ലാം 'ie' ക്രമം follow ചെയ്യുന്നു.\n• ⭐ PSC ആവർത്തനം: commonly misspelt words correct ആയി തിരിച്ചറിയുന്ന Spelling ചോദ്യങ്ങൾ PSC-യിൽ സ്ഥിരമായി വരുന്ന ഒരു topic ആണ്!\n• ഉദാഹരണ sentences — അർത്ഥം സഹിതം:\n1. She felt relieved after the exam. (പരീക്ഷയ്ക്ക് ശേഷം അവൾക്ക് ആശ്വാസം തോന്നി)\n2. I believe you are right. (നീ പറയുന്നത് ശരിയാണെന്ന് ഞാൻ വിശ്വസിക്കുന്നു)\n3. He achieved his goal after years of hard work. (വർഷങ്ങളുടെ കഠിനാധ്വാനത്തിന് ശേഷം അയാൾ ലക്ഷ്യം നേടി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'relevied' — ഇത് 'relieve' എന്ന വാക്കിന്റെ letters തെറ്റായി ക്രമീകരിച്ച ഒരു spelling ആണ്; 'e' ഉം 'i' ഉം സ്ഥാനം മാറിപ്പോയിരിക്കുന്നു, ഇത് ഒരു നിലവിലില്ലാത്ത വാക്കാണ്.\n• 🪤 PSC Trap: ഉച്ചാരണത്തിൽ 'relieved'-മായി സാമ്യം തോന്നിക്കുന്നതിനാൽ ഇത് ശരിയാണെന്ന് തെറ്റിദ്ധരിക്കാം.\n• (B) 'releaved' — ഇവിടെ 'ie' എന്നതിന് പകരം 'ea' ഉപയോഗിച്ചിരിക്കുന്നു, ഇത് spelling rule തെറ്റിക്കുന്നു; 'relieve' യുടെ ശരിയായ spelling അല്ല ഇത്.\n• (D) 'reliefed' — 'relief' (noun) എന്ന വാക്കിനോട് നേരിട്ട് '-ed' ചേർത്തിരിക്കുന്നു, പക്ഷെ 'relief' ഒരു noun ആണ്, verb 'relieve' അല്ല; verb form 'relieved' ആണ് ശരി.\n• 🪤 PSC Trap: 'relief' (noun) ഉം 'relieve/relieved' (verb) ഉം confuse ചെയ്യുന്നത് ഒരു സാധാരണ തെറ്റാണ്, ഇത് exploit ചെയ്യാൻ വേണ്ടിയാണ് ഈ option.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"RELIEVE-ൽ LIE ഉണ്ട്, IE ഓർക്കുക!\" — 'relieve' എന്ന വാക്കിനുള്ളിൽ 'lie' എന്ന് കാണാം, ഇത് 'ie' ക്രമം ഓർക്കാൻ സഹായിക്കും.\n• Word family: 'ie' spelling ഉള്ള വാക്കുകൾ ഒരുമിച്ച് പഠിക്കുക — believe, relieve, achieve, grieve, niece, chief, thief.\n• PSC exam strategy: spelling ചോദ്യങ്ങളിൽ ഓരോ option-ഉം സൂക്ഷ്മമായി അക്ഷരം അക്ഷരമായി വായിച്ച് ശരിയായ, common ആയ spelling ഏതെന്ന് കണ്ടെത്തുക. ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
   }
 ]
