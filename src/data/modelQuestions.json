@@ -3428,5 +3428,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) plagiarist — ഇതിന് 'മറ്റുള്ളവരുടെ എഴുത്ത്/ആശയങ്ങൾ മോഷ്ടിക്കുന്ന വ്യക്തി' എന്നാണ് അർത്ഥം, storytelling-മായി ബന്ധമില്ല, തികച്ചും negative meaning ആണ്.\n  🪤 PSC Trap: '-ist' suffix കണ്ട് person-related word ആണെന്ന് ശരിയാണെന്ന് തോന്നാം.\n• (C) linguist — ഇതിന് 'ഭാഷകൾ പഠിക്കുന്ന/വിദഗ്ധനായ വ്യക്തി' എന്നാണ് അർത്ഥം, storytelling skill-മായി നേരിട്ട് ബന്ധമില്ല.\n• (D) orator — ഇതിന് 'പൊതു വേദികളിൽ പ്രസംഗിക്കുന്ന വിദഗ്ധൻ' എന്നാണ് അർത്ഥം — സംസാരവുമായി ബന്ധപ്പെട്ടതാണെങ്കിലും, ഇത് formal speeches-നെക്കുറിച്ചാണ്, casual anecdotes/stories പറയുന്നതിനെക്കുറിച്ചല്ല.\n  🪤 PSC Trap: 'Orator' ഉം 'raconteur' ഉം രണ്ടും 'സംസാരവുമായി' ബന്ധപ്പെട്ടതിനാൽ confuse ചെയ്യാൻ സാധ്യതയുള്ള trap ആണ്.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'RACONTEUR' എന്ന വാക്കിനുള്ളിൽ 'RE-COUNT' (വീണ്ടും പറയുക) ഒളിഞ്ഞിരിക്കുന്നു എന്ന് ഓർത്താൽ 'കഥ പറച്ചിൽ' meaning ഓർമ്മ വരും.\n• Word family: raconteur (storyteller) vs orator (public speaker) vs polyglot (multilingual person) — person-describing words-ന്റെ കൃത്യമായ വ്യത്യാസം പഠിക്കുക.\n• PSC exam strategy: One-word substitute questions-ൽ phrase-ലെ context (casual stories vs. formal speech vs. writing) ശ്രദ്ധിച്ചാൽ സമാനമായ options-ൽ നിന്ന് കൃത്യമായത് തിരഞ്ഞെടുക്കാം."
     }
+  },
+  {
+    "id": "HC-DAILY-2026-08-25-Q1",
+    "paperId": "HC-DAILY-2026-08-25",
+    "questionNumber": 1,
+    "topic": "Active and Passive Voice",
+    "questionText": "The workers had completed the bridge before the deadline. (Change into Passive Voice)",
+    "optionA": "The bridge had been completed by the workers before the deadline.",
+    "optionB": "The bridge was completed by the workers before the deadline.",
+    "optionC": "The bridge has been completed by the workers before the deadline.",
+    "optionD": "The bridge is completed by the workers before the deadline.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) The bridge had been completed by the workers before the deadline.\n\n• Active sentence-ൽ verb \"had completed\" (Past Perfect Tense) ആണ് ഉപയോഗിച്ചിരിക്കുന്നത്.\n• Passive voice-ലേക്ക് മാറ്റുമ്പോൾ tense മാറ്റരുത് — Active tense = Passive tense എപ്പോഴും.\n• Past Perfect Active (had + V3) → Past Perfect Passive (had been + V3) ആയി മാറും.\n• \"by the workers\" എന്നത് Object ആയി object-ന്റെ സ്ഥാനത്ത് വരും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: had + V3 (Active) → had been + V3 (Passive)\n• Passive voice ഉണ്ടാക്കുമ്പോൾ tense മാറ്റാൻ പാടില്ല — subject-object മാത്രം മാറും, tense അതേപടി നിലനിർത്തണം.\n• ⭐ PSC ആവർത്തനം: Active-Passive conversion PSC-യിൽ എല്ലാ tense-കൾക്കും ചോദിക്കാറുണ്ട്, especially Perfect tenses.\n• ഉദാഹരണ sentences:\n  1. She had finished the work. → The work had been finished by her.\n  2. They had built the house. → The house had been built by them.\n  3. He had written the letter. → The letter had been written by him.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) \"was completed\" — ഇത് Simple Past Tense-ന്റെ passive ആണ് (was/were + V3), Past Perfect അല്ല.\n  • Tense മാറ്റം വന്നതിനാൽ തെറ്റ്.\n  • 🪤 PSC Trap: \"before the deadline\" എന്ന phrase കണ്ട് students simple past ആണെന്ന് തെറ്റിദ്ധരിക്കാം.\n• (C) \"has been completed\" — ഇത് Present Perfect Passive ആണ് (has/have been + V3).\n  • Active sentence past perfect ആയതിനാൽ ഇത് തെറ്റ്.\n• (D) \"is completed\" — ഇത് Simple Present Passive ആണ് (is/are + V3).\n  • Tense പൂർണമായും മാറിയതിനാൽ തെറ്റ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Passive voice-ൽ tense \"copy-paste\" ചെയ്യുക — verb form മാത്രം passive structure-ലേക്ക് മാറ്റുക, tense അതേപടി വയ്ക്കുക.\n• Perfect tense family ഒരുമിച്ച് പഠിക്കുക: has/have/had + been + V3.\n• PSC exam strategy: ആദ്യം Active sentence-ലെ tense identify ചെയ്യുക, എന്നിട്ട് ആ tense-ന്റെ passive formula മാത്രം apply ചെയ്യുക. ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-25-Q2",
+    "paperId": "HC-DAILY-2026-08-25",
+    "questionNumber": 2,
+    "topic": "Direct and Indirect Speech",
+    "questionText": "The teacher said to the students, \"Submit your assignments immediately.\" Rewrite into indirect speech.",
+    "optionA": "The teacher told the students to submit their assignments immediately.",
+    "optionB": "The teacher said the students to submit their assignments immediately.",
+    "optionC": "The teacher told the students that they submit their assignments immediately.",
+    "optionD": "The teacher asked the students to submit their assignments immediately.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) The teacher told the students to submit their assignments immediately.\n\n• Direct speech-ൽ ഇത് ഒരു Command/Order ആണ് (\"Submit your assignments immediately\" - imperative sentence).\n• Imperative sentences indirect speech-ലേക്ക് മാറ്റുമ്പോൾ reporting verb \"told\"/\"ordered\"/\"commanded\" ഉപയോഗിക്കണം, \"said\" അല്ല.\n• Imperative verb \"Submit\" → \"to submit\" (to + infinitive) ആയി മാറും.\n• \"your\" → \"their\" ആയി pronoun മാറും (subject-ന് അനുസരിച്ച്).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Said to + Command → told + object + to + V1\n• Command/Order reported ചെയ്യുമ്പോൾ: said → told (please ഉണ്ടെങ്കിൽ → requested)\n• Request ആണെങ്കിൽ (\"please\" ഉള്ളപ്പോൾ) → \"requested\" ഉപയോഗിക്കുക; Question ആണെങ്കിൽ → \"asked\" ഉപയോഗിക്കുക.\n• ⭐ PSC ആവർത്തനം: Direct-Indirect Speech-ൽ Command/Request/Question വേർതിരിച്ചറിയുന്നത് ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. He said to me, \"Leave the room.\" → He told me to leave the room.\n  2. She said to him, \"Please help me.\" → She requested him to help her.\n  3. Mother said to the child, \"Don't touch the stove.\" → Mother told the child not to touch the stove.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) \"said the students to submit\" — \"said\" എന്ന verb-ന് direct object ആയി person-നെ എടുക്കാൻ പറ്റില്ല (\"said to the students\" എന്നേ പറയാൻ പറ്റൂ, \"said the students\" അല്ല).\n  • 🪤 PSC Trap: \"said\" യഥാർത്ഥ direct speech-ൽ ഉള്ളതുകൊണ്ട് students അതേപടി നിലനിർത്താൻ ശ്രമിക്കും.\n• (C) \"told...that they submit\" — Imperative (Command) sentences \"that\" clause ഉപയോഗിച്ച് report ചെയ്യില്ല; \"to + infinitive\" മാത്രമേ ശരിയാവൂ.\n  • Structure തന്നെ തെറ്റാണ്.\n• (D) \"asked the students to submit\" — \"asked\" request/question-ന് വേണ്ടിയാണ് ഉപയോഗിക്കുന്നത്. ഇവിടെ \"immediately\" എന്ന word ശക്തമായ order/command സൂചിപ്പിക്കുന്നു, request അല്ല.\n  • 🪤 PSC Trap: \"asked\" ഒരു natural-sounding reporting verb ആയി തോന്നും, പക്ഷേ command-ന് correct verb \"told\" ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"TOLD for ORDER, REQUESTED for PLEASE, ASKED for QUESTION\" — ഈ മൂന്ന് വാക്കുകൾ ഒരു rhyme ആയി ഓർത്തിരിക്കുക.\n• Reporting verb family ഒരുമിച്ച് പഠിക്കുക: told/ordered/commanded (Command), requested/begged (Request), asked/enquired (Question).\n• PSC exam strategy: Direct speech-ൽ \"please\" ഉണ്ടോ എന്ന് നോക്കുക — ഇല്ലെങ്കിൽ, tone strong ആണെങ്കിൽ \"told\" ഉപയോഗിക്കുക. ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-25-Q3",
+    "paperId": "HC-DAILY-2026-08-25",
+    "questionNumber": 3,
+    "topic": "Prepositions",
+    "questionText": "She has been suffering _____ a severe headache since morning.",
+    "optionA": "about",
+    "optionB": "from",
+    "optionC": "in",
+    "optionD": "for",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) from\n\n• \"Suffer from\" എന്നത് ഒരു fixed collocation ആണ് — രോഗം/അസുഖം എന്നിവ പറയുമ്പോൾ ഉപയോഗിക്കുന്നു.\n• \"She suffers from a headache/fever/illness\" എന്ന pattern PSC papers-ൽ സ്ഥിരമായി കാണാം.\n• Present Perfect Continuous Tense (\"has been suffering\") ആണെങ്കിലും preposition rule മാറില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: suffer + FROM + illness/ailment\n• ഇത് ഒരു fixed preposition collocation ആണ് — verb \"suffer\"-ന് ശേഷം എപ്പോഴും \"from\" വരും (physical/health context-ൽ).\n• ⭐ PSC ആവർത്തനം: Preposition collocations (insist on, keen on, congratulate on, suffer from, prone to) PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. He suffers from diabetes.\n  2. Many people suffer from anxiety these days.\n  3. She has been suffering from a cold for a week.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) \"about\" — \"suffer about\" എന്നൊരു collocation ഇംഗ്ലീഷിൽ ഇല്ല.\n  • 🪤 PSC Trap: \"about\" പൊതുവേ topics/subjects പറയുമ്പോൾ ഉപയോഗിക്കുന്നതിനാൽ ചിലർ തെറ്റായി തിരഞ്ഞെടുക്കും.\n• (C) \"in\" — \"suffer in\" എന്നത് standard collocation അല്ല (\"suffer in silence\" പോലുള്ള idiomatic phrase-കളിൽ മാത്രം കാണാം, ഇവിടെ ബാധകമല്ല).\n• (D) \"for\" — \"suffer for\" എന്നാൽ ഒരാളുടെ പ്രവൃത്തിയുടെ/തീരുമാനത്തിന്റെ അനന്തരഫലം അനുഭവിക്കുക എന്നാണ് അർത്ഥം (e.g. \"suffer for one's mistakes\"), physical ailment-ന് ബാധകമല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Suffer FROM Fever\" — രണ്ടും F ആയി തുടങ്ങുന്നു, ഇത് ഓർത്തിരിക്കാൻ എളുപ്പം!\n• Fixed collocation family ഒരുമിച്ച് പഠിക്കുക: suffer from, die from/of, recover from, benefit from.\n• PSC exam strategy: Preposition questions കാണുമ്പോൾ verb + preposition combination ഒരു fixed unit ആയി മനഃപാഠമാക്കി വയ്ക്കുക, sentence meaning വച്ച് guess ചെയ്യാതിരിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-25-Q4",
+    "paperId": "HC-DAILY-2026-08-25",
+    "questionNumber": 4,
+    "topic": "Correlatives",
+    "questionText": "She not only won the state championship _______ also set a new record.",
+    "optionA": "but",
+    "optionB": "and",
+    "optionC": "or",
+    "optionD": "than",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) but\n\n• \"Not only...but also\" എന്നത് ഒരു fixed correlative conjunction pair ആണ്.\n• രണ്ട് കാര്യങ്ങൾ ഒരുമിച്ച് emphasize ചെയ്യാൻ ഉപയോഗിക്കുന്നു — \"won the championship\" ഉം \"set a new record\" ഉം.\n• Correlative pairs-ൽ രണ്ട് ഭാഗങ്ങളും ഒരുമിച്ചേ ഉപയോഗിക്കാവൂ, mix ചെയ്യാൻ പാടില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: NOT ONLY ... BUT ALSO — ഒരിക്കലും വേറെ വാക്ക് ചേർക്കരുത്!\n• Correlative conjunctions എപ്പോഴും fixed pairs ആയാണ് വരുന്നത്: either...or, neither...nor, no sooner...than, hardly/scarcely...when, not only...but also.\n• ⭐ PSC ആവർത്തനം: Correlatives PSC-യിൽ സ്ഥിരമായി repeat ചെയ്യുന്ന topic ആണ്, especially \"not only...but also\" ഉം \"no sooner...than\" ഉം.\n• ഉദാഹരണ sentences:\n  1. He is not only intelligent but also hardworking.\n  2. She not only sings well but also dances beautifully.\n  3. The team not only won the match but also broke the record.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) \"and\" — \"not only...and\" എന്നൊരു correlative pair ഇല്ല; \"and\" ഒരു simple conjunction ആണ്, correlative structure പൂർത്തിയാക്കില്ല.\n  • 🪤 PSC Trap: \"and\" സ്വാഭാവികമായി തോന്നും, പക്ഷേ fixed pair rule ലംഘിക്കുന്നു.\n• (C) \"or\" — \"or\" alternative/choice സൂചിപ്പിക്കുന്നു, ഇവിടെ രണ്ട് കാര്യങ്ങളും ഒരുമിച്ച് സംഭവിച്ചു എന്നാണ് പറയേണ്ടത്, choice അല്ല.\n• (D) \"than\" — \"than\" comparison-ന് ഉപയോഗിക്കുന്നു (\"no sooner...than\" പോലുള്ള വേറെ pair-ൽ), \"not only\" കൂടെ ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"NOT ONLY... BUT ALSO\" ഒരൊറ്റ couple ആണ് — വിവാഹം കഴിഞ്ഞ പോലെ, ഒരിക്കലും വേർപെടുത്തരുത്!\n• Correlative pairs ഒരുമിച്ച് പട്ടികയാക്കി പഠിക്കുക: either-or, neither-nor, not only-but also, no sooner-than, hardly/scarcely-when, lest-should.\n• PSC exam strategy: ആദ്യ പകുതി (not only, either, neither) കണ്ടാൽ ഉടൻ അതിന്റെ fixed partner ഓർത്തെടുക്കുക — ഇത് ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-25-Q5",
+    "paperId": "HC-DAILY-2026-08-25",
+    "questionNumber": 5,
+    "topic": "Auxiliary Verbs",
+    "questionText": "He _____ to have apologized for his rude behaviour, but he never did.",
+    "optionA": "ought",
+    "optionB": "should",
+    "optionC": "must",
+    "optionD": "need",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) ought\n\n• Blank-ന് ശേഷം \"to have apologized\" എന്ന് വരുന്നു — \"to\" complementizer ഉള്ളതിനാൽ \"ought\" മാത്രമേ ചേരൂ.\n• \"Ought to have + V3\" എന്നത് past-ൽ ചെയ്യേണ്ടിയിരുന്ന, പക്ഷേ ചെയ്യാതിരുന്ന ഒരു obligation-നെ സൂചിപ്പിക്കുന്നു (unfulfilled past obligation).\n• \"but he never did\" എന്ന phrase ഇത് confirm ചെയ്യുന്നു — apologize ചെയ്യേണ്ടിയിരുന്നു, പക്ഷേ ചെയ്തില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: OUGHT TO + V1 (present) / OUGHT TO HAVE + V3 (past obligation missed)\n• \"Ought\" ഒരു semi-modal ആണ് — മറ്റ് modal verbs (should, must, can, will) പോലെയല്ല, ഇതിന് ശേഷം \"to\" നിർബന്ധമായും വരും.\n• Should/must/can/will പോലുള്ള modals-ന് ശേഷം \"to\" വരില്ല (should do, must do — should to do അല്ല).\n• ⭐ PSC ആവർത്തനം: \"ought to\" modal PSC Auxiliary Verbs section-ൽ ആവർത്തിച്ച് വരുന്ന ഒരു trap topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. You ought to respect your elders.\n  2. He ought to have finished the work by now.\n  3. They ought to have informed us earlier.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) \"should\" — \"should\" ന് ശേഷം \"to\" വരില്ല (\"should have apologized\" എന്നേ പറയാവൂ, \"should to have\" അല്ല).\n  • 🪤 PSC Trap: അർത്ഥത്തിൽ \"should\" ശരിയായി തോന്നും, പക്ഷേ grammar structure (blank-ന് ശേഷം \"to\" ഉള്ളത്) ഇത് reject ചെയ്യുന്നു.\n• (C) \"must\" — \"must\" ന് ശേഷവും \"to\" വരില്ല (\"must have apologized\" ശരി, \"must to have\" തെറ്റ്).\n  • Same structural trap പോലെ \"should\".\n• (D) \"need\" — \"need\" modal ആയി ഉപയോഗിക്കുമ്പോൾ സാധാരണയായി negative/question sentences-ൽ മാത്രമേ വരൂ (\"need not have apologized\"). affirmative sentence-ൽ ഈ structure fit ആവില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"OUGHT നു TO വേണം കൂട്ടിന്\" — ought എപ്പോഴും \"to\" യുടെ കൂടെയേ നടക്കൂ, മറ്റ് modals ഒറ്റയ്ക്ക് നടക്കും.\n• Modal + \"to\" family: ought to, used to, going to, have to, need to (main verb ആയി ഉപയോഗിക്കുമ്പോൾ).\n• PSC exam strategy: Blank-ന് തൊട്ടുപിന്നാലെ \"to\" ഉണ്ടോ എന്ന് നോക്കുക — ഉണ്ടെങ്കിൽ should/must/can/will ഒഴിവാക്കി ought/need/used പരിഗണിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-25-Q6",
+    "paperId": "HC-DAILY-2026-08-25",
+    "questionNumber": 6,
+    "topic": "Idioms",
+    "questionText": "The idiom \"to be in hot water\" means",
+    "optionA": "to be in a state of celebration",
+    "optionB": "to be in trouble or difficulty",
+    "optionC": "to be extremely comfortable",
+    "optionD": "to be full of energy",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) to be in trouble or difficulty\n\n• \"In hot water\" എന്ന idiom-ന്റെ അർത്ഥം \"പ്രശ്നത്തിൽ/ബുദ്ധിമുട്ടിൽ അകപ്പെടുക\" എന്നാണ്.\n• ചൂടുവെള്ളത്തിൽ വീണാൽ ഉണ്ടാകുന്ന അസ്വസ്ഥത/അപകടം എന്ന image-ൽ നിന്നാണ് ഈ idiom ഉണ്ടായത്.\n• \"He was in hot water with his boss for missing the deadline\" പോലുള്ള sentences-ൽ കാണാം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: IN HOT WATER = IN TROUBLE\n• Idiomatic meaning-ന് literal meaning-മായി (ചൂടുവെള്ളം) ബന്ധമില്ല — figurative sense മാത്രം പഠിക്കുക.\n• ⭐ PSC ആവർത്തനം: \"Trouble/difficulty\" അർത്ഥം വരുന്ന idioms (in hot water, in a fix, in a pickle, in a tight spot) PSC-യിൽ പലതവണ ആവർത്തിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. The minister found himself in hot water after the scandal.\n  2. She will be in hot water if she misses the deadline again.\n  3. The company is in hot water over the tax issue.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) \"to be in a state of celebration\" — ഇത് idiom-ന്റെ അർത്ഥത്തിന് നേരെ വിപരീതം ആണ്; celebration അല്ല, trouble ആണ് ഇവിടെ അർത്ഥം.\n  • 🪤 PSC Trap: \"hot\" എന്ന word-ന്റെ positive feel (excitement) കണ്ട് ചിലർ തെറ്റായി choose ചെയ്യും.\n• (C) \"to be extremely comfortable\" — ഇതും വിപരീത അർത്ഥമാണ്; \"hot water\" comfort അല്ല, danger/trouble ആണ് സൂചിപ്പിക്കുന്നത്.\n• (D) \"to be full of energy\" — ഇത് idiom-മായി ബന്ധമില്ലാത്ത, unrelated meaning ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: ചൂടുവെള്ളത്തിൽ കൈ വച്ചാൽ പൊള്ളും — അതുപോലെ \"hot water\"-ൽ അകപ്പെട്ടാൽ പ്രശ്നത്തിൽ പെടും എന്ന visual image ഓർത്തിരിക്കുക.\n• \"Trouble\" idioms family ഒരുമിച്ച് പഠിക്കുക: in hot water, in a fix, in a pickle, in deep water.\n• PSC exam strategy: Idiom meaning ചോദ്യങ്ങളിൽ, literal translation ചെയ്യാതെ context-ലെ emotional tone (positive/negative) ആദ്യം identify ചെയ്യുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-25-Q7",
+    "paperId": "HC-DAILY-2026-08-25",
+    "questionNumber": 7,
+    "topic": "Words Often Confused",
+    "questionText": "Choose the correct word to complete the sentence.\nThe soldiers used a thick fog to _______ their approach on the enemy camp.",
+    "optionA": "envelope",
+    "optionB": "envelop",
+    "optionC": "develop",
+    "optionD": "devolve",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) envelop\n\n• \"Envelop\" (verb) എന്നാൽ \"പൊതിയുക/ചുറ്റിവളയുക\" എന്നാണ് അർത്ഥം — stress രണ്ടാമത്തെ syllable-ൽ (en-VEL-op).\n• Sentence-ൽ \"to ____ their approach\" എന്ന structure-ൽ verb ആണ് വേണ്ടത് (to + verb), noun അല്ല.\n• Fog സൈനികരുടെ approach-നെ \"മറയ്ക്കുക/ചുറ്റിവളയുക\" ചെയ്യുന്നു എന്ന അർത്ഥമാണ് ഇവിടെ ഉദ്ദേശിക്കുന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ENVELOP (verb, to cover) vs ENVELOPE (noun, കത്ത് ഇടുന്ന cover)\n• Part of speech നോക്കിയാൽ വേർതിരിക്കാം — \"to + verb\" structure-ൽ \"envelop\" വരും, article (a/an/the) കൂടെ \"envelope\" (noun) വരും.\n• Etymology hint: രണ്ടും French word \"envelopper\" (to wrap) എന്നതിൽ നിന്നാണ് വന്നത്, പക്ഷേ ഇംഗ്ലീഷിൽ verb ഉം noun ഉം ആയി വേർതിരിഞ്ഞു.\n• ⭐ PSC ആവർത്തനം: ഇത്തരം noun-verb pair confusions (advice/advise, effect/affect) PSC Words Often Confused section-ൽ ഒരു സ്ഥിരം trap ആണ്.\n• ഉദാഹരണ sentences:\n  1. Darkness began to envelop the village. (verb)\n  2. She sealed the letter in an envelope. (noun)\n  3. The mist will envelop the entire valley by dawn. (verb)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) \"envelope\" — ഇത് noun ആണ് (കത്തിടാനുള്ള cover), ഇവിടെ verb വേണ്ട സ്ഥാനത്ത് noun ചേരില്ല.\n  • 🪤 PSC Trap: spelling ഒരുപോലെ ഇരിക്കുന്നതിനാൽ students confuse ആകും — stress/part of speech ശ്രദ്ധിക്കണം.\n• (C) \"develop\" — \"വളരുക/വികസിക്കുക\" എന്നാണ് അർത്ഥം, \"മറയ്ക്കുക/ചുറ്റുക\" എന്ന അർത്ഥമല്ല ഇവിടെ വേണ്ടത്.\n• (D) \"devolve\" — \"അധികാരം/ചുമതല കൈമാറുക\" എന്നാണ് അർത്ഥം, fog-മായി യാതൊരു ബന്ധവുമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ENVELOP-ൽ ഒരു O കുറവ്\" — verb-ൽ അക്ഷരം കുറവാണ് (envelop), noun-ൽ അധികം E ഉണ്ട് (envelope). \"E for End\" — noun-ന്റെ അവസാനം E ഉണ്ട്!\n• Word family ഒരുമിച്ച് പഠിക്കുക: verb-noun confusable pairs — advice/advise, practice/practise, envelop/envelope.\n• PSC exam strategy: Sentence-ൽ \"to ___\" ഉണ്ടെങ്കിൽ verb വരും, article (a/an/the) ഉണ്ടെങ്കിൽ noun വരും — structure നോക്കി തീരുമാനിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-25-Q8",
+    "paperId": "HC-DAILY-2026-08-25",
+    "questionNumber": 8,
+    "topic": "Word Formation",
+    "questionText": "Pick out the correct suffix to form the noun of the word __arrive__.",
+    "optionA": "-tion",
+    "optionB": "-al",
+    "optionC": "-ment",
+    "optionD": "-ance",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) -al (arrival)\n\n• \"Arrive\" (verb) + \"-al\" (suffix) = \"Arrival\" (noun) — ഇത് ശരിയായ, നിലവിലുള്ള ഇംഗ്ലീഷ് word ആണ്.\n• \"-al\" suffix പല verbs-നെയും nouns ആക്കി മാറ്റാൻ ഉപയോഗിക്കുന്നു (arrive→arrival, refuse→refusal, dismiss→dismissal).\n• മറ്റ് options (-tion, -ment, -ance) ചേർത്താൽ യഥാർത്ഥ ഇംഗ്ലീഷ് words ഉണ്ടാകില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ARRIVE + AL = ARRIVAL\n• Noun-forming suffixes verb-ന് അനുസരിച്ച് മാറും — ഓരോ verb-നും അതിന്റേതായ correct suffix മാത്രമേ ഉള്ളൂ, arbitrary ആയി ചേർക്കാൻ പറ്റില്ല.\n• ⭐ PSC ആവർത്തനം: Word Formation (prefix/suffix) PSC Vocabulary section-ൽ സ്ഥിരമായി വരുന്ന topic ആണ്.\n• Etymology hint: \"-al\" suffix Latin \"-alis\" എന്നതിൽ നിന്നാണ് വന്നത്, \"relating to\" എന്ന അർത്ഥം നൽകുന്നു.\n• ഉദാഹരണ sentences:\n  1. His arrival was delayed by two hours.\n  2. The refusal to comply led to a fine.\n  3. His dismissal from the job shocked everyone.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) \"-tion\" — \"arrivation\" എന്നൊരു word ഇംഗ്ലീഷിൽ ഇല്ല.\n  • 🪤 PSC Trap: \"-tion\" വളരെ common suffix ആയതിനാൽ (information, education) students ഇത് guess ചെയ്യും.\n• (C) \"-ment\" — \"arrivement\" എന്നൊരു word നിലവിലില്ല.\n• (D) \"-ance\" — \"arrivance\" എന്നൊരു word നിലവിലില്ല.\n  • ഇവ മൂന്നും real words അല്ലാത്തതിനാൽ clearly തെറ്റ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ARRIVE-ന് ARRIVAL\" — rhyme ചെയ്യുന്ന വാക്കുകൾ ഓർത്തിരിക്കുക.\n• Suffix family ഒരുമിച്ച് പഠിക്കുക: -al (arrival, refusal), -tion (information, education), -ment (agreement, development), -ance (appearance, acceptance).\n• PSC exam strategy: Options-ൽ ഏതൊക്കെ real English words ഉണ്ടാക്കുന്നു എന്ന് ആദ്യം eliminate ചെയ്യുക — fake words ഒഴിവാക്കിയാൽ correct answer വേഗം കണ്ടെത്താം."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-25-Q9",
+    "paperId": "HC-DAILY-2026-08-25",
+    "questionNumber": 9,
+    "topic": "Compound Words",
+    "questionText": "A group of crows is called a ______.",
+    "optionA": "murder",
+    "optionB": "flock",
+    "optionC": "herd",
+    "optionD": "swarm",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) murder\n\n• \"A murder of crows\" എന്നത് കാക്കകളുടെ കൂട്ടത്തിന് ഉപയോഗിക്കുന്ന പ്രത്യേക (unique) collective noun ആണ്.\n• ഇംഗ്ലീഷ് ഭാഷയിൽ ഓരോ മൃഗത്തിനും/പക്ഷിക്കും വ്യത്യസ്തമായ collective noun ഉണ്ട് — ഇത് പലപ്പോഴും arbitrary ആയി തോന്നാമെങ്കിലും fixed usage ആണ്.\n• PSC exams-ൽ ഇത്തരം unique collective nouns സ്ഥിരമായി ചോദിക്കാറുണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: CROWS = A MURDER OF CROWS\n• ഓരോ collective noun ഉം ഓരോ പ്രത്യേക മൃഗം/പക്ഷിക്ക് matched ആയി മാത്രമേ ശരിയാവൂ — herd, flock, swarm എന്നിവ പൊതുവായി ഉപയോഗിക്കുന്നവയാണ്, പക്ഷേ crows-ന് \"murder\" മാത്രമേ correct ആയിട്ടുള്ളൂ.\n• ⭐ PSC ആവർത്തനം: Collective nouns (pride of lions, herd of elephants, flock of sheep, school of fish) PSC Compound Words/Vocabulary section-ൽ ആവർത്തിച്ച് വരുന്നു.\n• ഉദാഹരണ sentences:\n  1. A murder of crows gathered on the old oak tree.\n  2. A pride of lions rested in the shade.\n  3. A flock of sheep grazed in the meadow.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) \"flock\" — ഇത് സാധാരണയായി ആടുകൾ, പക്ഷികൾ (sheep, birds പൊതുവായി) എന്നിവയ്ക്ക് ഉപയോഗിക്കുന്നു, crows-ന് specific ആയി \"murder\" ആണ് ശരി.\n  • 🪤 PSC Trap: \"flock\" പക്ഷികൾക്ക് പൊതുവായി ഉപയോഗിക്കുന്നത് കൊണ്ട് ചിലർ ഇത് തിരഞ്ഞെടുക്കും.\n• (C) \"herd\" — ഇത് വലിയ മൃഗങ്ങൾക്ക് (cattle, elephants, deer) ഉപയോഗിക്കുന്നു, പക്ഷികൾക്ക് അല്ല.\n• (D) \"swarm\" — ഇത് പ്രാണികൾക്ക് (bees, insects) ഉപയോഗിക്കുന്നു, പക്ഷികൾക്ക് ബാധകമല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: കാക്കകൾ കൂട്ടമായി വന്നാൽ ചീത്ത ശകുനം/മരണം (murder) എന്ന് പഴയ നാടോടി വിശ്വാസം — ഇത് visualize ചെയ്ത് ഓർത്തിരിക്കുക.\n• Collective noun family ഒരുമിച്ച് പഠിക്കുക: pride (lions), herd (elephants/cattle), flock (sheep/birds), swarm (bees), murder (crows), school (fish).\n• PSC exam strategy: Unusual/unique collective nouns (murder of crows, parliament of owls) പ്രത്യേകം ശ്രദ്ധിച്ച് പഠിക്കുക — ഇവ PSC-യിൽ trap ആയി വരാറുണ്ട്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-25-Q10",
+    "paperId": "HC-DAILY-2026-08-25",
+    "questionNumber": 10,
+    "topic": "Abbreviations",
+    "questionText": "What is the full form of \"OPEC\"?",
+    "optionA": "Organization of Persian Exporting Countries",
+    "optionB": "Organization of the Petroleum Exporting Countries",
+    "optionC": "Organization of Petrol Export Corporation",
+    "optionD": "Overseas Petroleum Export Council",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Organization of the Petroleum Exporting Countries\n\n• \"OPEC\" എന്നത് പെട്രോളിയം ഉൽപാദക രാജ്യങ്ങളുടെ ഒരു അന്താരാഷ്ട്ര സംഘടനയാണ്.\n• ഇതിന്റെ ഔദ്യോഗിക പൂർണരൂപം \"Organization of the Petroleum Exporting Countries\" ആണ് — \"the\" ഉൾപ്പെടെ കൃത്യമായി ഓർത്തിരിക്കണം.\n• 1960-ൽ സ്ഥാപിതമായ ഈ സംഘടനയിൽ എണ്ണ കയറ്റുമതി ചെയ്യുന്ന രാജ്യങ്ങൾ അംഗങ്ങളാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: OPEC = Organization of the Petroleum Exporting Countries\n• Abbreviations പഠിക്കുമ്പോൾ ഓരോ letter-ഉം ഏത് word-നെ represent ചെയ്യുന്നു എന്ന് കൃത്യമായി ഓർത്തിരിക്കണം, similar-sounding words (Petroleum vs Persian) confuse ആകാൻ സാധ്യതയുണ്ട്.\n• ⭐ PSC ആവർത്തനം: അന്താരാഷ്ട്ര സംഘടനകളുടെ abbreviations (OPEC, UNESCO, NATO, SAARC) PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. OPEC controls a significant share of the world's oil production.\n  2. Member countries of OPEC meet regularly to decide oil prices.\n  3. OPEC was founded in Baghdad in 1960.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) \"Organization of Persian Exporting Countries\" — \"Persian\" എന്നത് \"Petroleum\" എന്നതിന്റെ തെറ്റായ replacement ആണ്, യഥാർത്ഥ പേരല്ല.\n  • 🪤 PSC Trap: \"Persian Gulf\" എന്ന പ്രദേശവുമായി OPEC ബന്ധപ്പെട്ടിരിക്കുന്നതിനാൽ ഈ trap word confuse ചെയ്യിക്കും.\n• (C) \"Organization of Petrol Export Corporation\" — ഘടന തന്നെ തെറ്റാണ് (\"Corporation\" എന്നത് ഒരു organization-ന്റെ പേരിൽ ഇവിടെ fit ആവില്ല), \"the\" ഇല്ലാത്തതും ശ്രദ്ധിക്കുക.\n• (D) \"Overseas Petroleum Export Council\" — ഇത് പൂർണമായും കെട്ടിച്ചമച്ച (fabricated) പേരാണ്, OPEC-മായി ഒരു ബന്ധവുമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"O-P-E-C\" — Organization, Petroleum, Exporting, Countries എന്ന ക്രമത്തിൽ ആദ്യ അക്ഷരങ്ങൾ ചേർത്ത് ഓർത്തിരിക്കുക.\n• Abbreviation family ഒരുമിച്ച് പഠിക്കുക: OPEC, UNESCO, NATO, SAARC, WHO, UNICEF — ഇവയുടെ full forms ഒരു list ആയി എഴുതി പഠിക്കുക.\n• PSC exam strategy: Abbreviation ചോദ്യങ്ങളിൽ options സൂക്ഷ്മമായി വായിക്കുക — ഒരു word മാത്രം മാറ്റി (Persian vs Petroleum) trap options ഉണ്ടാക്കാറുണ്ട്."
+    }
   }
 ]
