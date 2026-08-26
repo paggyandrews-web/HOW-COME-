@@ -3608,5 +3608,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) \"Organization of Persian Exporting Countries\" — \"Persian\" എന്നത് \"Petroleum\" എന്നതിന്റെ തെറ്റായ replacement ആണ്, യഥാർത്ഥ പേരല്ല.\n  • 🪤 PSC Trap: \"Persian Gulf\" എന്ന പ്രദേശവുമായി OPEC ബന്ധപ്പെട്ടിരിക്കുന്നതിനാൽ ഈ trap word confuse ചെയ്യിക്കും.\n• (C) \"Organization of Petrol Export Corporation\" — ഘടന തന്നെ തെറ്റാണ് (\"Corporation\" എന്നത് ഒരു organization-ന്റെ പേരിൽ ഇവിടെ fit ആവില്ല), \"the\" ഇല്ലാത്തതും ശ്രദ്ധിക്കുക.\n• (D) \"Overseas Petroleum Export Council\" — ഇത് പൂർണമായും കെട്ടിച്ചമച്ച (fabricated) പേരാണ്, OPEC-മായി ഒരു ബന്ധവുമില്ല.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"O-P-E-C\" — Organization, Petroleum, Exporting, Countries എന്ന ക്രമത്തിൽ ആദ്യ അക്ഷരങ്ങൾ ചേർത്ത് ഓർത്തിരിക്കുക.\n• Abbreviation family ഒരുമിച്ച് പഠിക്കുക: OPEC, UNESCO, NATO, SAARC, WHO, UNICEF — ഇവയുടെ full forms ഒരു list ആയി എഴുതി പഠിക്കുക.\n• PSC exam strategy: Abbreviation ചോദ്യങ്ങളിൽ options സൂക്ഷ്മമായി വായിക്കുക — ഒരു word മാത്രം മാറ്റി (Persian vs Petroleum) trap options ഉണ്ടാക്കാറുണ്ട്."
     }
+  },
+  {
+    "id": "HC-DAILY-2026-08-26-Q1",
+    "paperId": "HC-DAILY-2026-08-26",
+    "questionNumber": 1,
+    "topic": "Correction of Sentences",
+    "questionText": "Identify the correct sentence:",
+    "optionA": "He suggested me to consult a specialist.",
+    "optionB": "He suggested that I should consult a specialist.",
+    "optionC": "He suggested to consult a specialist.",
+    "optionD": "He suggested me consulting a specialist.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) He suggested that I should consult a specialist.\n\n• \"Suggest\" എന്ന verb-ന് ശേഷം person-നെ direct object ആയി എടുത്ത് \"to + V1\" ചേർക്കാൻ പറ്റില്ല (advise/ask പോലുള്ള verbs-ൽ നിന്ന് വ്യത്യസ്തം).\n• \"Suggest that + subject + should + V1\" എന്നതാണ് standard, ശരിയായ structure.\n• Mandative \"should\" (British/Indian English style) ഇവിടെ ഉപയോഗിക്കുന്നു — PSC ഈ convention ആണ് പിന്തുടരുന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: SUGGEST THAT + SUBJECT + SHOULD + V1\n• \"Suggest\" ഒരിക്കലും \"suggest + object + to-infinitive\" pattern-ൽ വരില്ല (suggest me to go ✗) — ഇത് PSC-യിലെ ഏറ്റവും സാധാരണമായ error-correction trap ആണ്.\n• Alternative correct pattern: \"suggest + gerund\" (suggested consulting a specialist) അല്ലെങ്കിൽ \"suggested my consulting\" (possessive + gerund).\n• ⭐ PSC ആവർത്തനം: advise/suggest/recommend പോലുള്ള verbs-ന്റെ correct complementation pattern PSC-യിൽ ആവർത്തിച്ച് വരുന്നു.\n• ഉദാഹരണ sentences:\n  1. The doctor suggested that she should take rest.\n  2. He suggested that we should leave early.\n  3. She suggested going for a walk. (gerund pattern)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) \"suggested me to consult\" — \"suggest\" object+infinitive pattern എടുക്കില്ല; ഇത് \"advise\"-ന്റെ pattern ആണ് (advised me to consult ✓), \"suggest\"-ന്റെ അല്ല.\n  • 🪤 PSC Trap: advise/suggest ഒരേ അർത്ഥമുള്ളതിനാൽ students structure-ഉം ഒരേപോലെ ആണെന്ന് തെറ്റിദ്ധരിക്കും.\n• (C) \"suggested to consult\" — ഈ sentence-ൽ \"to consult\" ചെയ്യുന്നത് ആരാണെന്ന് (subject) വ്യക്തമല്ല, structure അപൂർണമാണ്.\n• (D) \"suggested me consulting\" — \"suggest + object + gerund\" എന്ന pattern ശരിയായ ഇംഗ്ലീഷിൽ ഇല്ല; possessive വേണം (\"suggested my consulting\").",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"SUGGEST-ന് ശേഷം ആരും വേണ്ട, THAT വേണം\" — suggest-ന് ശേഷം നേരിട്ട് person വരാൻ പാടില്ല എന്ന് ഓർത്തിരിക്കുക.\n• Verb family ഒരുമിച്ച് പഠിക്കുക: advise/ask/tell/order (+ object + to-infinitive) vs suggest/recommend/propose (+ that-clause / + gerund).\n• PSC exam strategy: \"suggest/recommend/propose\" കണ്ടാൽ ഉടൻ \"that + should\" അല്ലെങ്കിൽ gerund pattern ആണോ എന്ന് പരിശോധിക്കുക — object+infinitive ഉള്ള option നേരിട്ട് eliminate ചെയ്യാം."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-26-Q2",
+    "paperId": "HC-DAILY-2026-08-26",
+    "questionNumber": 2,
+    "topic": "Degrees of Comparison",
+    "questionText": "Choose the correctly written sentence.",
+    "optionA": "Kochi is the largest city in Kerala than any other city.",
+    "optionB": "Kochi is larger than any other city in Kerala.",
+    "optionC": "Kochi is the larger city than any other city in Kerala.",
+    "optionD": "Kochi is more larger than any other city in Kerala.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Kochi is larger than any other city in Kerala.\n\n• ഒരു group-ലെ ബാക്കി എല്ലാവരുമായി ഒരാളെ/ഒന്നിനെ compare ചെയ്യുമ്പോൾ \"Comparative degree + than any other + singular noun\" എന്ന structure ഉപയോഗിക്കുന്നു.\n• \"largest\" (superlative) എന്ന അർത്ഥം തന്നെ \"larger than any other\" എന്ന comparative structure വഴി പ്രകടിപ്പിക്കാം.\n• ഈ pattern PSC-യിൽ superlative meaning-നെ comparative structure ഉപയോഗിച്ച് ചോദിക്കുന്ന ക്ലാസിക് രീതിയാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: COMPARATIVE + THAN ANY OTHER + SINGULAR NOUN (superlative meaning-ന്)\n• Superlative degree (\"the largest\") ഉം \"than\" ഉം ഒരുമിച്ച് ഉപയോഗിക്കാൻ പാടില്ല — ഇത് ഒരു double-comparison error ആണ്.\n• \"more\" + already-comparative adjective (more larger) ഉപയോഗിക്കാൻ പാടില്ല — double comparative error.\n• ⭐ PSC ആവർത്തനം: Degrees of Comparison-ൽ ഈ മൂന്ന് error types (superlative+than, article+comparative+than, double comparative) PSC-യിൽ ആവർത്തിച്ച് വരുന്നു.\n• ഉദാഹരണ sentences:\n  1. Ravi is taller than any other student in the class.\n  2. Everest is higher than any other mountain in the world.\n  3. This is more beautiful than any other painting here. (not \"most beautiful than\")",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) \"the largest city...than any other city\" — Superlative (\"the largest\") ഉം \"than\" ഉം കൂടിച്ചേർത്തിരിക്കുന്നു, ഇത് structurally തെറ്റാണ് — superlative-ന് \"than\" വേണ്ട.\n  • 🪤 PSC Trap: \"largest\" ശരിയായ word ആണെന്ന് തോന്നും, പക്ഷേ \"than\" കൂടെ ചേർത്തതാണ് പ്രശ്നം.\n• (C) \"the larger city than\" — Comparative-ന്റെ മുന്നിൽ \"the\" article ചേർത്തിരിക്കുന്നു, ഇത് superlative-ന്റെ pattern ആണ്; comparative + \"than\"-ന് article വേണ്ട.\n• (D) \"more larger\" — \"larger\" തന്നെ comparative ആയതിനാൽ \"more\" വീണ്ടും ചേർക്കുന്നത് double comparative error ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"THAN ANY OTHER\"-ന് മുന്നിൽ എപ്പോഴും plain COMPARATIVE (article ഇല്ലാതെ) മാത്രം — 'the' വേണ്ട, 'more' + comparative വേണ്ട!\n• Comparison error family ഒരുമിച്ച് പഠിക്കുക: double comparative (more bigger ✗), superlative+than (biggest than ✗), article+comparative+than (the bigger than ✗).\n• PSC exam strategy: \"than any other\" phrase കണ്ടാൽ ഉടനെ അതിന് മുന്നിൽ plain comparative (article/more ഇല്ലാതെ) ഉണ്ടോ എന്ന് പരിശോധിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-26-Q3",
+    "paperId": "HC-DAILY-2026-08-26",
+    "questionNumber": 3,
+    "topic": "Types of Sentences",
+    "questionText": "Identify the type of sentence:\nWhat a magnificent view this is!",
+    "optionA": "Assertive",
+    "optionB": "Imperative",
+    "optionC": "Interrogative",
+    "optionD": "Exclamatory",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) Exclamatory\n\n• \"What a + adjective + noun...!\" എന്ന structure ശക്തമായ വികാരം (surprise/admiration) പ്രകടിപ്പിക്കുന്ന Exclamatory sentence-ന്റെ standard pattern ആണ്.\n• Sentence-ന്റെ അവസാനം exclamation mark (!) ഉണ്ട് — ഇത് Exclamatory sentence-ന്റെ പ്രധാന അടയാളമാണ്.\n• \"magnificent\" എന്ന adjective view-നോടുള്ള ആശ്ചര്യം/ആദരവ് പ്രകടിപ്പിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: WHAT/HOW + ADJECTIVE + (NOUN) + SUBJECT + VERB + !\n• Exclamatory sentences \"What\" അല്ലെങ്കിൽ \"How\" ഉപയോഗിച്ചാണ് സാധാരണയായി തുടങ്ങുന്നത്, ശക്തമായ വികാരം പ്രകടിപ്പിക്കാൻ.\n• Sentence type തിരിച്ചറിയാൻ: Assertive (statement, full stop), Imperative (order/request), Interrogative (question, ?), Exclamatory (strong feeling, !).\n• ⭐ PSC ആവർത്തനം: Sentence type classification PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന ഒരു basic-level topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. What a beautiful sunset it is!\n  2. How wonderful this news is!\n  3. What a shame that he lost the match!",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) \"Assertive\" — Assertive sentences ഒരു plain statement/fact പറയുന്നു (e.g. \"This is a magnificent view.\"), വികാരം emphasize ചെയ്യുന്ന \"What a...!\" structure അല്ല.\n  • 🪤 PSC Trap: word order (subject-verb) നോക്കി ചിലർ ഇതിനെ statement ആയി തെറ്റിദ്ധരിക്കും, പക്ഷേ \"What a\" opener ഉം \"!\" ഉം exclamatory ആണെന്ന് വ്യക്തമാക്കുന്നു.\n• (B) \"Imperative\" — Imperative sentences order/request/advice നൽകുന്നു (e.g. \"Look at the view.\"), ഇവിടെ അതല്ല ഉദ്ദേശം.\n• (C) \"Interrogative\" — Interrogative sentences ചോദ്യം ചോദിക്കുന്നു, \"?\" ഉപയോഗിക്കുന്നു; ഇവിടെ \"!\" ആണ് ഉള്ളത്, ചോദ്യമല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"WHAT A/HOW + ! = Exclamatory\" — ഈ ഫോർമുല ഓർത്തിരുന്നാൽ ഒരിക്കലും miss ആകില്ല!\n• Sentence type family ഒരുമിച്ച് പഠിക്കുക: Assertive (.), Interrogative (?), Imperative (command), Exclamatory (!).\n• PSC exam strategy: Sentence-ന്റെ അവസാനത്തെ punctuation mark ആദ്യം നോക്കുക — \"!\" ഉണ്ടെങ്കിൽ, \"What/How\" opener ഉണ്ടോ എന്ന് confirm ചെയ്ത് Exclamatory ആണെന്ന് ഉറപ്പിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-26-Q4",
+    "paperId": "HC-DAILY-2026-08-26",
+    "questionNumber": 4,
+    "topic": "Parts of Speech",
+    "questionText": "Identify the part of speech of the underlined word.\nShe walked __briskly__ towards the exit.",
+    "optionA": "Adjective",
+    "optionB": "Adverb",
+    "optionC": "Preposition",
+    "optionD": "Conjunction",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Adverb\n\n• \"Briskly\" എന്ന word \"walked\" എന്ന verb-നെ modify ചെയ്യുന്നു — എങ്ങനെ നടന്നു (How?) എന്ന ചോദ്യത്തിന് ഉത്തരം നൽകുന്നു.\n• Verb-നെ modify ചെയ്യുന്ന, \"-ly\" ending ഉള്ള words സാധാരണയായി Adverb of Manner ആണ്.\n• \"Briskly\" = വേഗത്തിൽ/ഊർജസ്വലതയോടെ എന്ന് manner വിശദീകരിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: VERB + \"-LY\" WORD (How?) = ADVERB OF MANNER\n• Adverb verb, adjective, അല്ലെങ്കിൽ മറ്റൊരു adverb-നെ modify ചെയ്യും; Adjective noun-നെ മാത്രം modify ചെയ്യും.\n• Test: word-ന് \"How/When/Where/To what extent\" എന്നീ ചോദ്യങ്ങൾക്ക് ഉത്തരം നൽകാൻ കഴിയുമോ എന്ന് നോക്കുക — കഴിയുമെങ്കിൽ Adverb.\n• ⭐ PSC ആവർത്തനം: Parts of Speech identification (especially adverb vs adjective) PSC-യിൽ ഏറ്റവും അടിസ്ഥാനപരമായ, ആവർത്തിച്ച് വരുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. He spoke softly. (adverb, modifies 'spoke')\n  2. She is a soft-spoken girl. (adjective, modifies 'girl')\n  3. The car moved swiftly down the road. (adverb, modifies 'moved')",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) \"Adjective\" — Adjective noun-നെ describe ചെയ്യും (e.g. \"a brisk walk\"), ഇവിടെ \"briskly\" verb-നെ ആണ് modify ചെയ്യുന്നത്, noun-നെ അല്ല.\n  • 🪤 PSC Trap: \"brisk\" (adjective) ഉം \"briskly\" (adverb) ഉം spelling-ൽ സാമ്യമുള്ളതിനാൽ students confuse ആകും.\n• (C) \"Preposition\" — Preposition noun/pronoun-ന് മുന്നിൽ വന്ന് സ്ഥലം/സമയം/ബന്ധം കാണിക്കുന്ന word ആണ് (e.g. \"towards\" ആണ് ഇവിടെ preposition), \"briskly\" അല്ല.\n• (D) \"Conjunction\" — Conjunction രണ്ട് words/clauses-നെ ബന്ധിപ്പിക്കുന്ന word ആണ് (and, but, or); \"briskly\"-ന് ഈ function ഇല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"-LY\" കണ്ടാൽ മിക്കവാറും ADVERB — \"quickly, slowly, briskly, carefully\" എല്ലാം verb-നെ describe ചെയ്യുന്നു.\n• Word family ഒരുമിച്ച് പഠിക്കുക: adjective→adverb pairs — quick→quickly, brisk→briskly, careful→carefully, slow→slowly.\n• PSC exam strategy: Underlined word verb-നെ modify ചെയ്യുന്നുണ്ടോ എന്ന് നോക്കുക — ചെയ്യുന്നെങ്കിൽ Adverb, noun-നെ ആണെങ്കിൽ Adjective."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-26-Q5",
+    "paperId": "HC-DAILY-2026-08-26",
+    "questionNumber": 5,
+    "topic": "Infinitive and Gerunds",
+    "questionText": "Choose the grammatically correct sentence.",
+    "optionA": "She is looking forward to meet you.",
+    "optionB": "She is looking forward to meeting you.",
+    "optionC": "She is looking forward for meeting you.",
+    "optionD": "She is looking forward meeting you.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) She is looking forward to meeting you.\n\n• \"Look forward to\" എന്ന phrase-ലെ \"to\" ഒരു Preposition ആണ്, \"to-infinitive\"-ന്റെ ഭാഗമല്ല.\n• Preposition-ന് ശേഷം എപ്പോഴും Gerund (verb+ing) വരണം, base verb (to+V1) അല്ല.\n• അതുകൊണ്ട് \"to meeting\" ആണ് ശരി, \"to meet\" അല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: LOOK FORWARD TO + GERUND (V-ing)\n• \"To\" രണ്ട് തരത്തിൽ ഉപയോഗിക്കാം: (1) to-infinitive-ന്റെ ഭാഗം (to go, to eat), (2) preposition (look forward to, object to, used to + noun/gerund).\n• Preposition ആയ \"to\"-ന് ശേഷം gerund മാത്രമേ വരൂ — ഇത് PSC-യിലെ ഏറ്റവും trap ആയ grammar point ആണ്.\n• ⭐ PSC ആവർത്തനം: \"look forward to\", \"object to\", \"used to\" (preposition sense) PSC-യിൽ ആവർത്തിച്ച് വരുന്ന phrasal preposition group ആണ്.\n• ഉദാഹരണ sentences:\n  1. I look forward to hearing from you soon.\n  2. He objects to being treated unfairly.\n  3. She is used to working late nights. (used to + gerund, habit sense)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) \"looking forward to meet\" — \"to\" ഇവിടെ preposition ആയതിനാൽ base verb (\"meet\") വരില്ല, gerund വേണം.\n  • 🪤 PSC Trap: \"to\" കണ്ടാൽ students സ്വാഭാവികമായി infinitive (to+V1) ആണെന്ന് കരുതും.\n• (C) \"looking forward for meeting\" — \"for\" എന്നത് \"look forward to\"-യുടെ ശരിയായ preposition അല്ല; fixed phrase-ൽ \"to\" മാത്രമേ correct ആയിട്ടുള്ളൂ.\n• (D) \"looking forward meeting\" — \"to\" പൂർണമായും ഒഴിവാക്കിയിരിക്കുന്നു, ഇത് structure incomplete ആക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"LOOK FORWARD TO-യിലെ TO ഒരു PREPOSITION ആണ്, INFINITIVE അല്ല\" — ഈ വാചകം ഉരുവിട്ട് പഠിക്കുക.\n• Phrase family ഒരുമിച്ച് പഠിക്കുക: look forward to, object to, be used to, in addition to, with a view to — എല്ലാം + gerund.\n• PSC exam strategy: \"to\" കണ്ടാൽ ഉടനെ V1 എഴുതാതെ, ആ phrase fixed preposition ആണോ എന്ന് ആദ്യം ചിന്തിക്കുക — ആണെങ്കിൽ gerund ഉപയോഗിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-26-Q6",
+    "paperId": "HC-DAILY-2026-08-26",
+    "questionNumber": 6,
+    "topic": "Foreign Words and Phrases",
+    "questionText": "Choose the correct meaning of the phrase \"in absentia\".",
+    "optionA": "in front of everyone",
+    "optionB": "in one's absence",
+    "optionC": "without permission",
+    "optionD": "at the last minute",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) in one's absence\n\n• \"In absentia\" ഒരു Latin phrase ആണ്, അക്ഷരാർത്ഥത്തിൽ \"in the absence of\" എന്നാണ് അർത്ഥം.\n• നിയമപരമായ/അക്കാദമിക് സന്ദർഭങ്ങളിൽ ഒരാൾ physically present അല്ലാതെ ഒരു കാര്യം നടക്കുമ്പോൾ ഈ phrase ഉപയോഗിക്കുന്നു (e.g. \"tried in absentia\", \"awarded a degree in absentia\").\n• Court trials, degree ceremonies എന്നിവയിൽ സാധാരണയായി കാണുന്ന ഒരു common Latin legal term ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: IN ABSENTIA = IN (ONE'S) ABSENCE\n• Latin foreign phrases-ന്റെ meaning അക്ഷരാർത്ഥം (literal root meaning) വച്ച് ഓർത്തിരിക്കുന്നത് എളുപ്പമാണ് — \"absentia\" എന്നത് \"absence\" (Latin: absens) എന്ന word-മായി ബന്ധപ്പെട്ടിരിക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: Foreign words and phrases (Latin/French/Greek origin) PSC Vocabulary section-ൽ സ്ഥിരമായി ചോദിക്കുന്ന topic ആണ്.\n• Etymology hint: Latin \"absens\" (being away) → \"absentia\" (the state of being away).\n• ഉദാഹരണ sentences:\n  1. The former dictator was sentenced in absentia.\n  2. He received the award in absentia as he was abroad.\n  3. The court proceeded with the case in absentia of the accused.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) \"in front of everyone\" — ഇത് \"in absentia\"-യുടെ നേരെ വിപരീത അർത്ഥമാണ് (presence, absence-ന് പകരം).\n  • 🪤 PSC Trap: \"absentia\" എന്ന word-ന്റെ spelling അപരിചിതമായതിനാൽ students random ആയി guess ചെയ്യും.\n• (C) \"without permission\" — ഇത് \"absentia\"-യുമായി ബന്ധമില്ലാത്ത അർത്ഥമാണ്; permission അല്ല, presence/absence ആണ് ഈ phrase സൂചിപ്പിക്കുന്നത്.\n• (D) \"at the last minute\" — ഇത് സമയവുമായി ബന്ധപ്പെട്ട അർത്ഥമാണ് (e.g. \"at the eleventh hour\"), \"in absentia\"-യുടെ അർത്ഥമല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ABSENTIA\" എന്ന word-ൽ \"ABSENT\" (ഹാജരല്ലാത്ത) എന്ന ഇംഗ്ലീഷ് word ഒളിഞ്ഞിരിക്കുന്നു — ഇത് നോക്കി meaning ഓർത്തിരിക്കുക.\n• Latin phrase family ഒരുമിച്ച് പഠിക്കുക: in absentia (in absence), in situ (in original place), in camera (in private), bona fide (in good faith).\n• PSC exam strategy: Foreign phrase-ൽ ഇംഗ്ലീഷ് word-മായി സാമ്യമുള്ള ഭാഗം (absent-ia) കണ്ടെത്തി meaning guess ചെയ്യാൻ ശ്രമിക്കുക — പല Latin phrases-ഉം ഇംഗ്ലീഷ് words-ന്റെ root ആണ്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-26-Q7",
+    "paperId": "HC-DAILY-2026-08-26",
+    "questionNumber": 7,
+    "topic": "Singular and Plural",
+    "questionText": "Choose the correct plural form of the word \"CRISIS\".",
+    "optionA": "Crisises",
+    "optionB": "Crises",
+    "optionC": "Crisis's",
+    "optionD": "Crisi",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Crises\n\n• \"Crisis\" ഗ്രീക്ക് ഭാഷയിൽ നിന്നും വന്ന word ആണ്, \"-is\" ending ഉള്ള ഇത്തരം words-ന്റെ plural \"-es\" ആയി മാറും.\n• \"Crisis\" → \"Crises\" (uച്ചാരണം: \"CRY-seez\") ആണ് ശരിയായ plural form.\n• ഈ pattern \"thesis→theses\", \"analysis→analyses\", \"basis→bases\" പോലുള്ള മറ്റ് Greek-origin words-ലും കാണാം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: -IS (Greek origin) → -ES (Plural)\n• Regular English plurals \"-s\"/\"-es\" ചേർത്താണ് ഉണ്ടാക്കുന്നത്, പക്ഷേ Greek/Latin origin ഉള്ള irregular nouns-ന് പ്രത്യേക plural rules ഉണ്ട്.\n• ⭐ PSC ആവർത്തനം: Irregular plurals (Greek/Latin origin words) PSC Singular-Plural section-ൽ സ്ഥിരമായി ചോദിക്കുന്ന topic ആണ്.\n• Word family: -is → -es (crisis→crises, thesis→theses, analysis→analyses, oasis→oases, basis→bases).\n• ഉദാഹരണ sentences:\n  1. The country is facing multiple economic crises.\n  2. Her thesis and his theses were both well-researched.\n  3. Scientific analyses require careful methodology.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) \"Crisises\" — ഇത് regular \"-es\" ending ചേർത്തുള്ള, തെറ്റായ plural ആണ്; \"crisis\" ഒരു irregular Greek-origin noun ആയതിനാൽ ഈ pattern ബാധകമല്ല.\n  • 🪤 PSC Trap: regular plural rule (add -es) ബാധകമാണെന്ന് students തെറ്റിദ്ധരിക്കും.\n• (C) \"Crisis's\" — ഇത് possessive form ആണ് (crisis-ന്റെ ഉടമസ്ഥത കാണിക്കാൻ), plural അല്ല.\n• (D) \"Crisi\" — ഇത് ഒരു real English word അല്ല, തെറ്റായ spelling ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"CRISIS-ന് CRISES\" — IS-നെ ES ആക്കി മാറ്റുക, extra letters ചേർക്കരുത്.\n• Irregular plural family ഒരുമിച്ച് പഠിക്കുക: crisis-crises, thesis-theses, analysis-analyses, oasis-oases, axis-axes, basis-bases.\n• PSC exam strategy: Word \"-is\" ൽ അവസാനിക്കുന്നത് Greek/Latin origin ആണെങ്കിൽ, \"-es\" ആയി മാറ്റുക (\"-s\" മാത്രം ചേർക്കരുത്) എന്ന് ഓർത്തിരിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-26-Q8",
+    "paperId": "HC-DAILY-2026-08-26",
+    "questionNumber": 8,
+    "topic": "Synonyms",
+    "questionText": "Choose the word closest in meaning to \"conspicuous\".",
+    "optionA": "hidden",
+    "optionB": "noticeable",
+    "optionC": "doubtful",
+    "optionD": "ordinary",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) noticeable\n\n• \"Conspicuous\" എന്നാൽ \"എളുപ്പത്തിൽ ശ്രദ്ധിക്കപ്പെടുന്ന/എടുത്തുകാണുന്ന\" എന്നാണ് അർത്ഥം.\n• \"Noticeable\" ഇതേ core meaning പങ്കിടുന്നു — ശ്രദ്ധയിൽപ്പെടുന്ന, easily seen എന്ന അർത്ഥം.\n• ചിലപ്പോൾ \"conspicuous\"-ന് നെഗറ്റീവ് നിറം (അനാവശ്യമായി ശ്രദ്ധ ആകർഷിക്കുന്ന) ഉണ്ടാകാമെങ്കിലും, core denotation \"noticeable\" തന്നെയാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: CONSPICUOUS = STANDING OUT / EASILY NOTICED\n• Synonym choosing ചെയ്യുമ്പോൾ core meaning (denotation) ആണ് പ്രധാനം, connotation (positive/negative shade) അല്ല.\n• ⭐ PSC ആവർത്തനം: Synonyms PSC English Vocabulary section-ൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന topic ആണ്.\n• Etymology hint: Latin \"conspicuus\" (visible) ← \"conspicere\" (to look at attentively) — \"look at\" എന്ന root ഓർത്താൽ meaning എളുപ്പം ഓർക്കാം.\n• ഉദാഹരണ sentences:\n  1. Her red dress was conspicuous in the crowd.\n  2. The building's unusual design made it conspicuous from afar.\n  3. He tried not to be conspicuous during the meeting.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) \"hidden\" — ഇത് \"conspicuous\"-ന്റെ നേരെ വിപരീത അർത്ഥമാണ് (antonym), synonym അല്ല.\n  • 🪤 PSC Trap: word-ന്റെ meaning അറിയാത്തവർ opposite meaning ഉള്ള option തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.\n• (C) \"doubtful\" — ഇത് ഉറപ്പില്ലായ്മ (uncertainty) സൂചിപ്പിക്കുന്നു, \"conspicuous\"-മായി ബന്ധമില്ല.\n• (D) \"ordinary\" — ഇത് സാധാരണത്വം സൂചിപ്പിക്കുന്നു, ഏതാണ്ട് \"conspicuous\"-ന്റെ വിപരീതാർത്ഥം തന്നെ (conspicuous = standing out from ordinary).",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"CON-SPICUOUS\"-ലെ \"SPIC\" = \"look\" (spectacle, spectator പോലുള്ള words-ലും ഈ root ഉണ്ട്) — \"കാണാൻ എളുപ്പമുള്ളത്\" എന്ന് ഓർത്തിരിക്കുക.\n• Word family ഒരുമിച്ച് പഠിക്കുക: conspicuous, noticeable, prominent, salient, obvious — എല്ലാം \"easily seen/noticed\" എന്ന core meaning പങ്കിടുന്നു.\n• PSC exam strategy: Synonym options-ൽ opposite meaning ഉള്ള word (antonym trap) ആദ്യം identify ചെയ്ത് eliminate ചെയ്യുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-26-Q9",
+    "paperId": "HC-DAILY-2026-08-26",
+    "questionNumber": 9,
+    "topic": "Phrasal Verbs",
+    "questionText": "Choose the correct meaning of the phrasal verb in italics.\nRegular exercise can help __stave off__ illness as we age.",
+    "optionA": "invite",
+    "optionB": "delay or prevent",
+    "optionC": "cure completely",
+    "optionD": "ignore",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) delay or prevent\n\n• \"Stave off\" എന്ന phrasal verb-ന്റെ അർത്ഥം \"എന്തെങ്കിലും മോശം കാര്യം സംഭവിക്കുന്നത് തടയുക/നീട്ടിവയ്ക്കുക\" എന്നാണ്.\n• Exercise രോഗം പൂർണമായി ഇല്ലാതാക്കുന്നില്ല, മറിച്ച് അത് വരുന്നത് വൈകിപ്പിക്കുകയോ തടയുകയോ ചെയ്യുന്നു എന്ന അർത്ഥമാണ് ഇവിടെ.\n• Danger, illness, hunger പോലുള്ള negative കാര്യങ്ങളെ temporarily/permanently തടയുന്ന context-ലാണ് ഈ phrasal verb ഉപയോഗിക്കുന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: STAVE OFF = KEEP SOMETHING BAD AWAY (delay/prevent)\n• Phrasal verb meaning literal word meanings-ൽ നിന്ന് ഊഹിക്കാൻ പറ്റില്ല — idiomatic meaning മനഃപാഠമാക്കുക.\n• ⭐ PSC ആവർത്തനം: Phrasal Verbs PSC English section-ൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന topics-ൽ ഒന്നാണ്.\n• Similar-meaning phrasal verb family: ward off, fend off, hold off — എല്ലാം \"തടയുക/അകറ്റി നിർത്തുക\" എന്ന അർത്ഥം പങ്കിടുന്നു.\n• ഉദാഹരണ sentences:\n  1. He ate a snack to stave off hunger before dinner.\n  2. The vaccine helps stave off the disease.\n  3. She used positive thinking to stave off depression.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) \"invite\" — ഇത് \"stave off\"-ന്റെ നേരെ വിപരീത അർത്ഥമാണ്; stave off എന്തെങ്കിലും അകറ്റി നിർത്തുന്നു, ക്ഷണിക്കുന്നില്ല.\n  • 🪤 PSC Trap: phrasal verb-ന്റെ meaning അറിയാത്തവർ context confuse ചെയ്ത് ഇത് തിരഞ്ഞെടുക്കും.\n• (C) \"cure completely\" — \"Stave off\" temporary prevention/delay ആണ് സൂചിപ്പിക്കുന്നത്, permanent cure അല്ല — ഇത് ഒരു പ്രധാന distinction ആണ്.\n• (D) \"ignore\" — ഇത് \"stave off\"-മായി ബന്ധമില്ലാത്ത അർത്ഥമാണ്; stave off active ആയി തടയുന്ന പ്രവൃത്തി ആണ്, ignore ചെയ്യുന്നത് അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"STAVE\" = ഒരു വടി/കമ്പ് ഉപയോഗിച്ച് എന്തെങ്കിലും അകറ്റി നിർത്തുന്ന image ഓർത്തിരിക്കുക — \"off\" = അകലേക്ക്.\n• Phrasal verb family ഒരുമിച്ച് പഠിക്കുക: stave off, ward off, fend off, hold off, keep at bay — എല്ലാം \"തടയുക/അകറ്റി നിർത്തുക\" എന്ന അർത്ഥം.\n• PSC exam strategy: \"off\" ഉള്ള phrasal verbs പലപ്പോഴും \"away from/prevention\" എന്ന അർത്ഥം സൂചിപ്പിക്കും (stave off, ward off, put off, keep off) — ഈ pattern ശ്രദ്ധിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-26-Q10",
+    "paperId": "HC-DAILY-2026-08-26",
+    "questionNumber": 10,
+    "topic": "One Word Substitutes",
+    "questionText": "Which word means \"a person who hates or is prejudiced against women\"?",
+    "optionA": "misogamist",
+    "optionB": "misogynist",
+    "optionC": "misanthrope",
+    "optionD": "philanderer",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) misogynist\n\n• \"Misogynist\" എന്ന word-ന്റെ അർത്ഥം \"സ്ത്രീകളെ വെറുക്കുന്ന/സ്ത്രീകളോട് വിവേചനം കാണിക്കുന്ന ആൾ\" എന്നാണ്.\n• Greek \"misos\" (hatred) + \"gyne\" (woman) എന്നീ roots ചേർന്നാണ് ഈ word ഉണ്ടായത്.\n• Confusable word pair-കളിൽ ശ്രദ്ധിക്കേണ്ട ഒരു ക്ലാസിക് PSC vocabulary trap ആണിത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: MISO (hatred) + GYNE (woman) = MISOGYNIST\n• \"Mis-\"/\"Miso-\" prefix ഉള്ള one-word substitutes എല്ലാം \"hatred/dislike\" എന്ന അർത്ഥം സൂചിപ്പിക്കുന്നു, root word മാറുന്നതനുസരിച്ച് ആരെ/എന്തിനെ വെറുക്കുന്നു എന്ന് മാറും.\n• ⭐ PSC ആവർത്തനം: One Word Substitutes-ൽ \"miso-\" family confusable words (misogynist, misogamist, misanthrope, misandrist) PSC-യിൽ ആവർത്തിച്ച് ചോദിക്കുന്ന trap topic ആണ്.\n• Etymology hint: gyne (Greek: woman) → gynecology (സ്ത്രീരോഗ ചികിത്സ) എന്ന word-ലും ഇതേ root കാണാം.\n• ഉദാഹരണ sentences:\n  1. The novel's protagonist was criticized for his misogynist views.\n  2. She wrote an essay exposing misogynist attitudes in the workplace.\n  3. His misogynist remarks caused public outrage.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) \"misogamist\" — ഇത് \"വിവാഹത്തെ വെറുക്കുന്ന ആൾ\" എന്നാണ് അർത്ഥം (\"gamos\" = marriage), സ്ത്രീകളെ അല്ല, marriage-നെ ആണ് വെറുക്കുന്നത്.\n  • 🪤 PSC Trap: spelling \"misogynist\"-മായി വളരെ സാമ്യമുള്ളതിനാൽ students confuse ആകും — ഇത് PSC-യുടെ favourite trap pair ആണ്.\n• (C) \"misanthrope\" — ഇത് \"മനുഷ്യരാശിയെ മുഴുവൻ വെറുക്കുന്ന ആൾ\" എന്നാണ് അർത്ഥം (\"anthropos\" = mankind), സ്ത്രീകളെ മാത്രമല്ല, എല്ലാവരെയും.\n• (D) \"philanderer\" — ഇത് സ്ത്രീകളെ വെറുക്കുന്ന ആൾ അല്ല, മറിച്ച് പല സ്ത്രീകളുമായി casual ബന്ധം പുലർത്തുന്ന പുരുഷനെ സൂചിപ്പിക്കുന്നു — അർത്ഥം പൂർണമായും വ്യത്യസ്തം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"GYNIST = GYNE (woman)\" — misoGYNist-ലെ GYN, GYNecology-യിലെ GYN ഒരുപോലെ — സ്ത്രീയുമായി ബന്ധപ്പെട്ടത് എന്ന് ഓർത്തിരിക്കുക.\n• Confusable \"miso-\" family ഒരുമിച്ച് പഠിക്കുക: misogynist (hates women), misogamist (hates marriage), misanthrope (hates mankind), misandrist (hates men).\n• PSC exam strategy: \"miso-\" prefix ഉള്ള options കണ്ടാൽ, രണ്ടാം പകുതി (gyne/gamos/anthropos) ശ്രദ്ധിച്ച് ഏതിനെയാണ് വെറുക്കുന്നത് എന്ന് കൃത്യമായി വേർതിരിക്കുക."
+    }
   }
 ]

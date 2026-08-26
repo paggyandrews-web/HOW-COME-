@@ -641,5 +641,23 @@
     "papers_analyzed": [],
     "publishedAt": "2026-08-25T00:00:00+05:30",
     "status": "published"
+  },
+  {
+    "id": "HC-DAILY-2026-08-26",
+    "paperCode": "HC-DAILY-2026-08-26",
+    "title": "August 26 Free Mock Test",
+    "description": "Trend-driven daily mock - 10 questions, fully explained.",
+    "date": "26-Aug-2026",
+    "year": "2026",
+    "totalQuestions": 10,
+    "totalMarks": 10,
+    "durationMinutes": 15,
+    "negativeMarking": false,
+    "type": "daily",
+    "questionCount": 10,
+    "weekday": "Wednesday",
+    "papers_analyzed": [],
+    "publishedAt": "2026-08-26T00:00:00+05:30",
+    "status": "published"
   }
 ]
