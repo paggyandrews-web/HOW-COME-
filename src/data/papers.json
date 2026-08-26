@@ -1422,5 +1422,23 @@
     "medium": "M",
     "year": "2019",
     "categoryCode": ""
+  },
+  {
+    "id": "050-2019-M",
+    "paperCode": "050/2019 M",
+    "post": "Lower Division Clerk (Kannada & Malayalam Knowing) - Various",
+    "date": "22-Oct-2019",
+    "medium": "M",
+    "year": "2019",
+    "categoryCode": "459/16 & 460/16"
+  },
+  {
+    "id": "048-2019-M",
+    "paperCode": "048/2019 M",
+    "post": "Village Extension Officer Gr II - Rural Development Dept (TVM, KKD)",
+    "date": "12-Oct-2019",
+    "medium": "M",
+    "year": "2019",
+    "categoryCode": "276/2018"
   }
 ]
