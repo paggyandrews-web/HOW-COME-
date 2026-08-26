@@ -373,6 +373,20 @@ function QuizSetup({ onStart, needsSignup }) {
   const filteredPapers = useMemo(() =>
     papers.filter(p => !year || p.year === year), [year])
 
+  // Raw bookmark/mistake counts include PSC-cancelled questions, but those
+  // are always excluded from the actual quiz pool (see isDeletedByPsc below)
+  // except when drilling one exact paper. Track the *usable* counts
+  // separately so the mode cards never promise more than Start Quiz can
+  // actually deliver.
+  const usableBookmarkCount = useMemo(
+    () => questions.filter(q => bookmarks.includes(q.id) && !isDeletedByPsc(q)).length,
+    [bookmarks]
+  )
+  const usableMistakeCount = useMemo(
+    () => questions.filter(q => mistakeIds.includes(q.id) && !isDeletedByPsc(q)).length,
+    [mistakeIds]
+  )
+
   const availableQs = useMemo(() => {
     // Deleted/cancelled PSC questions only allowed when practicing that exact paper
     // (paperId selected, no topic mixing) — never in topic, mixed, saved or mistakes pools.
@@ -419,15 +433,27 @@ function QuizSetup({ onStart, needsSignup }) {
           {[
             { id: 'practice', label: '📖 Practice', sub: 'No timer · Explanations' },
             { id: 'timed', label: '⏱ Timed', sub: 'Timer per question' },
-            { id: 'saved', label: '🔖 Saved', sub: bookmarks.length > 0 ? `${bookmarks.length} bookmarked` : 'No bookmarks yet' },
-            { id: 'mistakes', label: '❌ Mistakes', sub: mistakeIds.length > 0 ? `${mistakeIds.length} to retry` : 'No mistakes yet' },
+            { id: 'saved', label: '🔖 Saved', sub: bookmarks.length === 0
+              ? 'No bookmarks yet'
+              : usableBookmarkCount === 0
+                ? `All ${bookmarks.length} cancelled by PSC`
+                : usableBookmarkCount < bookmarks.length
+                  ? `${usableBookmarkCount} usable (${bookmarks.length - usableBookmarkCount} cancelled)`
+                  : `${bookmarks.length} bookmarked` },
+            { id: 'mistakes', label: '❌ Mistakes', sub: mistakeIds.length === 0
+              ? 'No mistakes yet'
+              : usableMistakeCount === 0
+                ? `All ${mistakeIds.length} cancelled by PSC`
+                : usableMistakeCount < mistakeIds.length
+                  ? `${usableMistakeCount} to retry (${mistakeIds.length - usableMistakeCount} cancelled)`
+                  : `${mistakeIds.length} to retry` },
           ].map(m => (
             <button key={m.id} onClick={() => setMode(m.id)}
               className="p-3 rounded-xl text-left border-2 transition-all"
               style={{
                 borderColor: mode === m.id ? 'var(--accent)' : 'var(--border)',
                 background: mode === m.id ? 'var(--bg2)' : 'var(--surface)',
-                opacity: (m.id === 'saved' && bookmarks.length === 0) || (m.id === 'mistakes' && mistakeIds.length === 0) ? 0.5 : 1,
+                opacity: (m.id === 'saved' && usableBookmarkCount === 0) || (m.id === 'mistakes' && usableMistakeCount === 0) ? 0.5 : 1,
               }}>
               <div className="font-medium text-sm">{m.label}</div>
               <div className="text-xs mt-0.5" style={{ color: 'var(--text2)' }}>{m.sub}</div>
@@ -517,9 +543,22 @@ function QuizSetup({ onStart, needsSignup }) {
         </div>
       )}
 
-      <div className="text-sm mb-4 font-semibold" style={{ color: 'var(--accent)' }}>
+      <div className="text-sm mb-1 font-semibold" style={{ color: 'var(--accent)' }}>
         {availableQs.length} questions available
       </div>
+      {mode === 'saved' && bookmarks.length > usableBookmarkCount && (
+        <div className="text-xs mb-3" style={{ color: 'var(--text2)' }}>
+          {bookmarks.length - usableBookmarkCount} of your {bookmarks.length} bookmarked question{bookmarks.length - usableBookmarkCount === 1 ? '' : 's'} {bookmarks.length - usableBookmarkCount === 1 ? 'was' : 'were'} later cancelled by PSC in the Final Answer Key, so {bookmarks.length - usableBookmarkCount === 1 ? "it isn't" : "they aren't"} included here.
+        </div>
+      )}
+      {mode === 'mistakes' && mistakeIds.length > usableMistakeCount && (
+        <div className="text-xs mb-3" style={{ color: 'var(--text2)' }}>
+          {mistakeIds.length - usableMistakeCount} of your {mistakeIds.length} past mistake{mistakeIds.length - usableMistakeCount === 1 ? '' : 's'} {mistakeIds.length - usableMistakeCount === 1 ? 'was' : 'were'} later cancelled by PSC in the Final Answer Key, so {mistakeIds.length - usableMistakeCount === 1 ? "it isn't" : "they aren't"} included here.
+        </div>
+      )}
+      {!(mode === 'saved' && bookmarks.length > usableBookmarkCount) && !(mode === 'mistakes' && mistakeIds.length > usableMistakeCount) && (
+        <div className="mb-3" />
+      )}
 
       {needsSignup && !isBrowse ? (
         <div className="p-4 rounded-xl text-center" style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
