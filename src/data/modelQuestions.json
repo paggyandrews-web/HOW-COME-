@@ -3978,5 +3978,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) inlegible\n  • 'in-' 'l' എന്ന letter-ന് മുന്നിൽ assimilate ചെയ്യാതെ അതേപടി വച്ചിരിക്കുന്നു — ഇത് English-ൽ നിലവിലില്ലാത്ത word ആണ്.\n  • 🪤 PSC Trap: 'in-' എപ്പോഴും ഒരേപോലെ ഉപയോഗിക്കാം എന്ന തെറ്റിദ്ധാരണ.\n• (B) unlegible\n  • 'un-' prefix ഇവിടെ ശരിയായ choice അല്ല — 'legible'-ന്റെ standard negative prefix 'in-/il-' ആണ്, 'un-' അല്ല.\n  • 🪤 PSC Trap: 'un-' ഏറ്റവും common negative prefix ആയതിനാൽ ഇത് ശരിയാണെന്ന് തോന്നിക്കും.\n• (D) disslegible\n  • 'diss-' എന്ന prefix തന്നെ നിലവിലില്ല, അധിക 's' കൂടി തെറ്റാണ്.\n  • 🪤 PSC Trap: അപരിചിതമായ, തെറ്റായ ഒരു prefix ചേർത്ത് confuse ചെയ്യുന്ന distractor.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'L LOVES IL' — 'l'-ൽ തുടങ്ങുന്ന words-ന് 'in-' എപ്പോഴും 'il-' ആയി മാറും എന്ന് ഓർത്തിരിക്കുക.\n• Word family: il- (illegible, illegal, illiterate, illogical), im- (impossible, immature), ir- (irregular, irresponsible) — ഗ്രൂപ്പ് ആയി പഠിക്കുക.\n• PSC exam strategy: Prefix questions-ൽ root word-ന്റെ ആദ്യ letter നോക്കി ഏത് assimilation rule ബാധകം എന്ന് ആദ്യം identify ചെയ്യുക."
     }
+  },
+  {
+    "id": "HC-DAILY-2026-08-28-Q1",
+    "paperId": "HC-DAILY-2026-08-28",
+    "questionNumber": 1,
+    "topic": "Conditionals",
+    "difficulty": "medium",
+    "questionText": "Complete the sentence with the correct conditional form:\nIf he had left earlier, he __________ the train.",
+    "optionA": "will catch",
+    "optionB": "would catch",
+    "optionC": "would have caught",
+    "optionD": "had caught",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) would have caught\n\n• ഇത് Third Conditional ആണ് — past-ൽ നടക്കാതെ പോയ ഒരു കാര്യത്തിന്റെ hypothetical result പറയുന്നു.\n• 'If he had left earlier' എന്നത് unreal past condition ആണ് (യഥാർത്ഥത്തിൽ അയാൾ നേരത്തെ പോയില്ല).\n• അതുകൊണ്ട് result clause-ൽ 'would have + V3' (would have caught) വരണം.\n• PSC-യിൽ ഇത് ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന Conditional pattern ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: If + Past Perfect (had + V3), ... would have + V3\n• Third Conditional — past-ൽ സംഭവിക്കാതെ പോയ ഒരു കാര്യത്തെക്കുറിച്ചും അതിന്റെ imaginary result-നെക്കുറിച്ചും പറയുമ്പോൾ ഉപയോഗിക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: Conditionals — especially Second, Third — മിക്ക PSC പേപ്പറുകളിലും ആവർത്തിച്ചു വരുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. If she had studied, she would have passed.\n  2. If they had called, we would have known.\n  3. If I had known earlier, I would have helped.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) will catch — 'will' എന്നത് First Conditional-ൽ (real future) ഉപയോഗിക്കുന്നതാണ്; ഇവിടെ past unreal condition ആയതിനാൽ ചേരില്ല.\n  • 🪤 PSC Trap: students 'if' കണ്ടാൽ future-മായി ബന്ധിപ്പിക്കാൻ ശ്രമിക്കും — condition clause നോക്കാതെ.\n• (B) would catch — ഇത് Second Conditional structure ആണ് (If + Past Simple, would + V1), 'had left' (Past Perfect) നോട് ചേരില്ല.\n  • 🪤 PSC Trap: 'would' കണ്ടാൽ ശരിയാണെന്ന് തോന്നും, പക്ഷേ tense mismatch ഉണ്ട്.\n• (D) had caught — 'would have' ഒഴിവാക്കി വെറും Past Perfect ആവർത്തിക്കുന്നു, modal verb ഇല്ലാതെ result clause പൂർത്തിയാകില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HAD + HAD = WOULD HAVE' എന്ന് ഓർക്കുക — if-clause-ൽ had ഉണ്ടെങ്കിൽ, result-ൽ would have വരും.\n• Second ഉം Third Conditional ഉം ഒരുമിച്ച് പഠിക്കുക — tense mismatch ആണ് PSC-യുടെ favourite trap.\n• PSC exam strategy: if-clause-ലെ tense ആദ്യം identify ചെയ്യുക, എന്നിട്ട് result clause-ന്റെ structure അതിനോട് match ചെയ്യുന്നുണ്ടോ എന്ന് നോക്കുക — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-28-Q2",
+    "paperId": "HC-DAILY-2026-08-28",
+    "questionNumber": 2,
+    "topic": "Direct and Indirect Speech",
+    "difficulty": "medium",
+    "questionText": "Choose the correct indirect speech form of the sentence:\nShe said to me, \"Where do you live?\"",
+    "optionA": "She asked me where did I live.",
+    "optionB": "She asked me where I lived.",
+    "optionC": "She asked me where I live.",
+    "optionD": "She asked me where do I live.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) She asked me where I lived.\n\n• Reported speech-ൽ 'Wh-question' ആണെങ്കിൽ, question word (where) നിലനിർത്തി, statement word order (subject + verb) ഉപയോഗിക്കണം.\n• 'do' പോലുള്ള auxiliary verb ഒഴിവാക്കണം.\n• Tense backshift: 'live' (present) → 'lived' (past), reporting verb 'asked' past ആയതിനാൽ.\n• ഇത് PSC-യിൽ ഏറ്റവും സാധാരണയായി ചോദിക്കുന്ന Indirect Speech pattern ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Wh-word + Subject + Verb (no auxiliary, backshifted tense)\n• Direct Question-ൽ auxiliary+subject order ഉണ്ടെങ്കിൽ, Indirect-ൽ അത് statement order ആയി മാറും.\n• Reporting verb 'said to' → 'asked' ആയി മാറും (questions report ചെയ്യുമ്പോൾ).\n• ⭐ PSC ആവർത്തനം: Direct-Indirect conversion, especially Wh-questions, മിക്ക പേപ്പറുകളിലും വരുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. He said, \"What is your name?\" → He asked what my name was.\n  2. She said, \"When will you come?\" → She asked when I would come.\n  3. They said, \"Why did you leave?\" → They asked why I had left.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) She asked me where did I live. — auxiliary 'did' നിലനിർത്തിയത് തെറ്റാണ്; Indirect Speech-ൽ question order വേണ്ട.\n  • 🪤 PSC Trap: direct question habit-ൽ 'did' automatically ചേർക്കുന്നത് ഏറ്റവും സാധാരണമായ mistake.\n• (C) She asked me where I live. — tense backshift ചെയ്തിട്ടില്ല ('live' മാറ്റിയില്ല); reporting verb past ആയതിനാൽ ഇത് സ്റ്റാൻഡേർഡ് ടെസ്റ്റിംഗ് കൺവെൻഷൻ പ്രകാരം തെറ്റാണ്.\n• (D) She asked me where do I live. — question word order ('do I live') നിലനിർത്തിയത് പൂർണമായും തെറ്റായ structure ആണ്.\n  • 🪤 PSC Trap: word-for-word translation ശീലം ഉള്ളവർ ഈ ഓപ്ഷൻ തിരഞ്ഞെടുക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Question ചോദിക്കുമ്പോൾ Auxiliary പോകും, Statement ആയി മാറും' എന്ന് ചൊല്ലായി ഓർക്കുക.\n• Backshift table (present→past, will→would, can→could) ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: ആദ്യം auxiliary verb ഉണ്ടോ എന്ന് നോക്കുക, എന്നിട്ട് അത് ഒഴിവാക്കിയ ഓപ്ഷൻ തിരഞ്ഞെടുക്കുക — ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-28-Q3",
+    "paperId": "HC-DAILY-2026-08-28",
+    "questionNumber": 3,
+    "topic": "Subject-Verb Agreement",
+    "difficulty": "medium",
+    "questionText": "Choose the correct verb to complete the sentence:\nThe number of applicants for the government job __________ increasing every year.",
+    "optionA": "is",
+    "optionB": "are",
+    "optionC": "were",
+    "optionD": "have been",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) is\n\n• 'The number of' എന്ന phrase ആണ് subject-ന്റെ head — ഇത് എപ്പോഴും Singular verb എടുക്കും.\n• 'A number of' ആണെങ്കിൽ Plural verb (are/were) വരും — ഇത് രണ്ടും തമ്മിൽ confuse ചെയ്യരുത്.\n• 'applicants' plural ആണെങ്കിലും, യഥാർത്ഥ subject 'the number' (singular) ആണ്.\n• PSC-യിൽ ഈ 'The number of' vs 'A number of' distinction ഏറ്റവും repeat ആകുന്ന trap ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: THE number of + plural noun + SINGULAR verb | A number of + plural noun + PLURAL verb\n• 'The number of' = a specific quantity (singular concept) → singular verb.\n• 'A number of' = several/many (plural meaning) → plural verb.\n• ⭐ PSC ആവർത്തനം: Subject-Verb Agreement-ൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന topics-ൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n  1. The number of students is increasing.\n  2. A number of students are absent today.\n  3. The number of accidents has decreased this year.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) are — 'applicants' plural ആണെന്ന് കണ്ട് select ചെയ്യുന്ന common mistake; യഥാർത്ഥ subject 'the number' ആണ്.\n  • 🪤 PSC Trap: nearest noun-നെ subject ആയി തെറ്റിദ്ധരിക്കുന്നത്.\n• (C) were — plural ഉം past tense ഉം രണ്ടും തെറ്റാണ്; sentence-ന് present continuous meaning ആണ് വേണ്ടത്.\n• (D) have been — plural auxiliary ആയതിനാൽ 'the number' എന്ന singular subject-നോട് ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'THE = ONE (singular), A = MANY (plural)' — ഈ short-cut ഓർത്താൽ മതി.\n• 'The number of' / 'A number of' pair ഒരുമിച്ച് practice ചെയ്യുക — PSC ഇത് swap ചെയ്ത് ചോദിക്കാറുണ്ട്.\n• PSC exam strategy: sentence തുടങ്ങുന്ന word 'The' ആണോ 'A' ആണോ എന്ന് ആദ്യം നോക്കുക — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-28-Q4",
+    "paperId": "HC-DAILY-2026-08-28",
+    "questionNumber": 4,
+    "topic": "Correlatives",
+    "difficulty": "easy",
+    "questionText": "Choose the correct correlative conjunction to complete the sentence:\nHe was not only talented __________ also incredibly humble.",
+    "optionA": "but",
+    "optionB": "and",
+    "optionC": "or",
+    "optionD": "so",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) but\n\n• 'Not only... but also...' എന്നത് ഒരു fixed correlative pair ആണ് — ഇത് ഒരിക്കലും വേറെ word-കളുമായി mix ചെയ്യരുത്.\n• Sentence-ന്റെ meaning: അയാൾ talented മാത്രമല്ല, humble കൂടിയാണ് — രണ്ട് ഗുണങ്ങളും ഒരുമിച്ച് emphasize ചെയ്യുന്നു.\n• 'but also' എന്ന combination തന്നെ correct structure ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: NOT ONLY ... BUT ALSO ... (never mix with 'and', 'or', 'so')\n• Correlative Conjunctions എപ്പോഴും fixed pairs ആയാണ് വരുന്നത് — either...or, neither...nor, not only...but also, both...and.\n• ⭐ PSC ആവർത്തനം: Correlatives-ന്റെ pairing rule PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n  1. She is not only intelligent but also diligent.\n  2. Either you apologize or you leave.\n  3. Neither the teacher nor the students were present.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) and — 'not only...and' എന്നൊരു pairing ഇംഗ്ലീഷ് grammar-ൽ ഇല്ല.\n  • 🪤 PSC Trap: 'and' സാധാരണ conjunction ആയതിനാൽ safe choice ആണെന്ന് തോന്നിക്കും.\n• (C) or — 'or' 'either' നോടാണ് pair ആകുന്നത്, 'not only' നോടല്ല.\n• (D) so — 'so' result സൂചിപ്പിക്കുന്ന word ആണ്, correlative pair അല്ല.\n  • 🪤 PSC Trap: sentence-ന്റെ meaning ശരിയാണെന്ന് തോന്നിക്കുമെങ്കിലും grammatically fixed pair തെറ്റാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NOT ONLY... BUT ALSO' — ഇത് ഒരു couple പോലെ ഓർക്കുക, അവർ ഒരിക്കലും വേറെ partner-നെ swap ചെയ്യില്ല!\n• എല്ലാ correlative pairs ഉം ഒരു list ആയി ഓർത്തുവെക്കുക: either-or, neither-nor, not only-but also, both-and.\n• PSC exam strategy: ആദ്യ pair-word (not only, either, neither) കണ്ടാൽ ഉടനെ അതിന്റെ fixed partner ഏതെന്ന് ഓർക്കുക — ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-28-Q5",
+    "paperId": "HC-DAILY-2026-08-28",
+    "questionNumber": 5,
+    "topic": "Correction of Sentences",
+    "difficulty": "hard",
+    "questionText": "Choose the grammatically correct sentence:",
+    "optionA": "She is one of the students who is always punctual.",
+    "optionB": "She is one of the students who are always punctual.",
+    "optionC": "She is one of the students who was always punctual.",
+    "optionD": "She is one of the students who has always punctual.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) She is one of the students who are always punctual.\n\n• 'One of the + plural noun + who' structure-ൽ, relative pronoun 'who' refer ചെയ്യുന്നത് plural noun-നെ (students) ആണ്, 'one' എന്ന subject-നെ അല്ല.\n• അതുകൊണ്ട് 'who' യുടെ verb plural ('are') ആയിരിക്കണം.\n• ഇത് PSC-യിൽ ആവർത്തിച്ചു വരുന്ന classic Correction of Sentences pattern ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: One of the + plural noun + WHO + PLURAL verb\n• Relative clause-ലെ verb, 'who' തൊട്ടടുത്തുള്ള plural noun-നോട് ആണ് agree ചെയ്യേണ്ടത് — closest plural antecedent rule.\n• ⭐ PSC ആവർത്തനം: 'One of the...who' structure Correction of Sentences-ൽ frequently ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. He is one of the boys who play football well.\n  2. This is one of the books that are on the shelf.\n  3. She is one of the few people who understand the issue.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) who is — singular verb ആണ് ഉപയോഗിച്ചത്, 'students' plural ആയതിനാൽ ഇത് തെറ്റാണ്.\n  • 🪤 PSC Trap: 'she'/'one' എന്ന singular subject കണ്ട് verb-ഉം singular ആക്കുന്ന common mistake.\n• (C) who was — singular ഉം wrong tense ഉം; sentence-ന് general truth/present habit meaning ആണ് വേണ്ടത്.\n• (D) who has always punctual — 'has' എന്ന auxiliary-ന് ശേഷം 'been' ഇല്ലാതെ adjective നേരിട്ട് വരുന്നത് structurally തെറ്റാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ONE OF THE + PLURAL, WHO LOVES PLURAL TOO' — who എപ്പോഴും തൊട്ടടുത്ത plural noun-നെ പിന്തുടരും.\n• 'One of the...who/that/which' pattern പ്രത്യേകം practice ചെയ്യുക.\n• PSC exam strategy: 'who' ന് തൊട്ടു മുൻപുള്ള noun plural ആണോ നോക്കുക, subject-നെ അല്ല — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-28-Q6",
+    "paperId": "HC-DAILY-2026-08-28",
+    "questionNumber": 6,
+    "topic": "One Word Substitutes",
+    "difficulty": "medium",
+    "questionText": "Choose the one word for the phrase:\nAn abnormal fear of open or crowded spaces.",
+    "optionA": "claustrophobia",
+    "optionB": "agoraphobia",
+    "optionC": "acrophobia",
+    "optionD": "xenophobia",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) agoraphobia\n\n• 'Agoraphobia' എന്നാൽ open അല്ലെങ്കിൽ crowded spaces-നോടുള്ള അസാധാരണ ഭയം ആണ്.\n• Greek word 'agora' (marketplace/open space) + 'phobia' (fear) എന്നിവയിൽ നിന്നാണ് ഈ word ഉണ്ടായത്.\n• Phobia-related one-word substitutes PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന ഒരു category ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: -phobia suffix = an abnormal fear of something\n• 'agora' (Greek: open space/marketplace) → agoraphobia = fear of open/crowded spaces.\n• ⭐ PSC ആവർത്തനം: Phobia words (claustrophobia, acrophobia, agoraphobia, xenophobia) PSC-യിൽ ആവർത്തിച്ചു ചോദിക്കുന്നു — ഒരുമിച്ച് പഠിക്കുക.\n• Etymology hint: Greek 'phobos' = fear; ഈ root അറിഞ്ഞാൽ എല്ലാ phobia words-ഉം എളുപ്പം ഓർക്കാം.\n• ഉദാഹരണ sentences:\n  1. Her agoraphobia kept her from visiting crowded markets.\n  2. He avoids malls because of his agoraphobia.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) claustrophobia — ഇത് confined/closed spaces-നോടുള്ള ഭയം ആണ്, open spaces അല്ല — exact opposite concept.\n  • 🪤 PSC Trap: രണ്ടും 'space'-മായി ബന്ധപ്പെട്ട phobia ആയതിനാൽ confuse ചെയ്യും.\n• (C) acrophobia — ഇത് ഉയരങ്ങളോടുള്ള (heights) ഭയം ആണ്.\n• (D) xenophobia — ഇത് അപരിചിതർ/വിദേശികളോടുള്ള ഭയം അല്ലെങ്കിൽ വെറുപ്പ് ആണ്, spaces-മായി ബന്ധമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'AGOR-a = open market' → Agoraphobia = fear of OPEN spaces/crowds.\n• Phobia word family ഒരു table ആയി പഠിക്കുക: claustro(closed), acro(height), agora(open/crowd), xeno(strangers).\n• PSC exam strategy: phobia word ചോദിച്ചാൽ, root word (agora/claustro/acro/xeno) ആദ്യം identify ചെയ്യുക — ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-28-Q7",
+    "paperId": "HC-DAILY-2026-08-28",
+    "questionNumber": 7,
+    "topic": "Phrasal Verbs",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the phrasal verb in italics.\nHe worked overtime all week to __make up for__ the days he missed due to illness.",
+    "optionA": "compensate",
+    "optionB": "apologize",
+    "optionC": "postpone",
+    "optionD": "forget",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) compensate\n\n• 'Make up for' എന്ന phrasal verb-ന്റെ അർത്ഥം 'നഷ്ടപ്പെട്ടതോ കുറവായതോ ആയ ഒന്നിന് പകരം കൊടുക്കുക/നികത്തുക' (to compensate) എന്നാണ്.\n• Sentence-ൽ, അയാൾ missed ആയ days-ന് പകരം overtime work ചെയ്യുന്നത് ആണ് — അതായത് compensate ചെയ്യുന്നു.\n• Phrasal verbs-ന്റെ idiomatic meaning-ആണ് ചോദ്യം ചെയ്യുന്നത്, literal meaning അല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Make up for = compensate for a loss/deficiency\n• 'Make up' ന്റെ base verb-ൽ നിന്ന് different meanings ഉള്ള phrasal verbs ഉണ്ട് — 'make up' (invent/reconcile), 'make up for' (compensate) — preposition മാറുമ്പോൾ meaning മാറും.\n• ⭐ PSC ആവർത്തനം: Phrasal Verbs PSC English section-ൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന topic ആണ് (6%+ share).\n• ഉദാഹരണ sentences:\n  1. She worked extra hours to make up for lost time.\n  2. He tried to make up for his mistake with a gift.\n  3. The team made up for their early loss with a strong finish.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) apologize — ഇത് 'ക്ഷമ ചോദിക്കുക' എന്നാണ്, 'make up for' ന്റെ meaning-ൽ apology ഉൾപ്പെടുന്നില്ല, action/effort ആണ് സൂചിപ്പിക്കുന്നത്.\n  • 🪤 PSC Trap: 'make up for' എന്നത് ഒരു 'sorry' പറയലാണെന്ന് തെറ്റിദ്ധരിക്കും.\n• (C) postpone — 'മാറ്റിവെക്കുക' എന്നാണ് അർത്ഥം, ഇത് 'put off' എന്ന വേറെ phrasal verb-ന്റെ meaning ആണ്.\n• (D) forget — 'മറക്കുക' എന്നത് പൂർണമായും വിപരീത concept ആണ്, ഇവിടെ ഓർത്ത് action എടുക്കുകയാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'MAKE UP FOR = FILL THE GAP' — നഷ്ടപ്പെട്ടത് നികത്തുന്നു എന്ന image മനസ്സിൽ വരയ്ക്കുക.\n• 'Make' family phrasal verbs ഒരുമിച്ച് പഠിക്കുക: make up (invent/reconcile), make up for (compensate), make for (head towards).\n• PSC exam strategy: phrasal verb-ന്റെ base verb-ൽ മാത്രം ശ്രദ്ധിക്കാതെ, preposition കൂടി നോക്കുക — meaning പൂർണമായി മാറും!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-28-Q8",
+    "paperId": "HC-DAILY-2026-08-28",
+    "questionNumber": 8,
+    "topic": "Compound Words",
+    "difficulty": "easy",
+    "questionText": "Choose the word that is a compound word.",
+    "optionA": "beautiful",
+    "optionB": "grandmother",
+    "optionC": "quickly",
+    "optionD": "wonderful",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) grandmother\n\n• 'Grandmother' എന്നത് 'grand' + 'mother' എന്നീ രണ്ട് independent words ചേർന്നുണ്ടായ Compound Word ആണ്.\n• Compound words രണ്ടോ അതിലധികമോ words ചേർന്ന് ഒരു പുതിയ meaning ഉള്ള word ഉണ്ടാക്കുന്നു.\n• മറ്റ് options (beautiful, quickly, wonderful) suffix ചേർത്തുണ്ടായ words ആണ്, compound words അല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Compound Word = independent word + independent word (both have standalone meaning)\n• Suffix ചേർത്തുണ്ടാകുന്ന words (-ful, -ly, -tion) compound words അല്ല — അവ Word Formation/Derivatives ആണ്.\n• ⭐ PSC ആവർത്തനം: Compound Words vs Derived Words distinction PSC-യിൽ ആവർത്തിച്ചു ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. Grandmother, classroom, and sunflower are compound words.\n  2. 'Beautiful' is not a compound word — it's 'beauty' + suffix '-ful'.\n  3. 'Blackboard' = black + board, a true compound word.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) beautiful — 'beauty' (root) + '-ful' (suffix) ചേർന്നതാണ്; suffix ഒരു independent word അല്ലാത്തതിനാൽ compound word അല്ല.\n  • 🪤 PSC Trap: രണ്ട് parts ഉള്ള word ആയതിനാൽ compound word ആണെന്ന് തെറ്റിദ്ധരിക്കും.\n• (C) quickly — 'quick' + '-ly' suffix, ഇതും derived word ആണ്, compound word അല്ല.\n• (D) wonderful — 'wonder' + '-ful' suffix, same pattern — suffix independent word അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'രണ്ട് WORDS നിൽക്കാൻ കഴിയുന്നവ ഒറ്റയ്ക്ക് → Compound; ഒറ്റയ്ക്ക് നിൽക്കാത്ത suffix ചേർന്നാൽ → Derived'.\n• Test: രണ്ട് parts ഉം separate ആയി dictionary-ൽ word ആയി നിൽക്കുമോ എന്ന് നോക്കുക.\n• PSC exam strategy: '-ful', '-ly', '-tion', '-ness' പോലുള്ള suffix കണ്ടാൽ ഉടനെ ഒഴിവാക്കുക — ബാക്കിയുള്ളതിൽ നിന്ന് true compound word തിരയുക!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-28-Q9",
+    "paperId": "HC-DAILY-2026-08-28",
+    "questionNumber": 9,
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "questionText": "Choose the word most similar in meaning to the word in italics.\nThe scientist's __meager__ funding limited the scope of her research.",
+    "optionA": "abundant",
+    "optionB": "scanty",
+    "optionC": "generous",
+    "optionD": "sufficient",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) scanty\n\n• 'Meager' എന്നാൽ 'വളരെ കുറഞ്ഞ, അപര്യാപ്തമായ' എന്നാണ് അർത്ഥം — 'scanty' ഇതേ അർത്ഥം തന്നെ നൽകുന്നു.\n• Sentence-ൽ, scientist-ന്റെ funding കുറവായതിനാൽ research-ന്റെ scope limited ആയി എന്നാണ് പറയുന്നത്.\n• 'Meager' ഉം 'scanty' ഉം രണ്ടും insufficient quantity സൂചിപ്പിക്കുന്ന words ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Meager = Scanty = Insufficient/Inadequate in amount\n• 'Meager' Latin 'macer' (thin/lean) എന്ന word-ൽ നിന്നാണ് ഉണ്ടായത് — thin/insufficient എന്ന core meaning നിലനിർത്തുന്നു.\n• ⭐ PSC ആവർത്തനം: Synonyms PSC English-ൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന topics-ൽ ഒന്നാണ് (6%+ share).\n• Etymology hint: Latin 'macer' = thin, lean → meager.\n• ഉദാഹരണ sentences:\n  1. The family survived on meager resources.\n  2. His meager salary was barely enough for rent.\n  3. Scanty rainfall led to a poor harvest.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) abundant — 'ധാരാളം' എന്നാണ് അർത്ഥം, ഇത് 'meager' ന്റെ exact opposite (antonym) ആണ്.\n  • 🪤 PSC Trap: synonym ചോദിക്കുമ്പോൾ antonym option ചേർക്കുന്നത് PSC-യുടെ ഏറ്റവും സാധാരണ trap ആണ്.\n• (C) generous — 'ഉദാരമായ' എന്നാണ് അർത്ഥം, quantity-യെക്കുറിച്ചല്ല, giving nature-നെക്കുറിച്ചാണ്.\n• (D) sufficient — 'മതിയായ' എന്നാണ് അർത്ഥം, ഇതും 'meager' ന്റെ opposite concept ആണ് (adequate vs inadequate).",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'MEAGER-ൽ MEA (little) ഉണ്ട്' എന്ന് ഓർക്കുക — little/less amount.\n• Insufficient-meaning words ഒരുമിച്ച് പഠിക്കുക: meager, scanty, sparse, paltry.\n• PSC exam strategy: Synonym ചോദ്യങ്ങളിൽ ആദ്യം antonym-പോലിരിക്കുന്ന option ഒഴിവാക്കുക — PSC അതാണ് ഏറ്റവും കൂടുതൽ ഉപയോഗിക്കുന്ന trap!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-28-Q10",
+    "paperId": "HC-DAILY-2026-08-28",
+    "questionNumber": 10,
+    "topic": "Abbreviations",
+    "difficulty": "easy",
+    "questionText": "Choose the correct full form of the abbreviation ASAP.",
+    "optionA": "As Soon As Possible",
+    "optionB": "As Simple As Possible",
+    "optionC": "At Some Available Point",
+    "optionD": "As Soon As Permitted",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) As Soon As Possible\n\n• 'ASAP' എന്നത് 'As Soon As Possible' എന്നതിന്റെ ചുരുക്കപ്പേരാണ് — 'കഴിയുന്നത്ര വേഗം' എന്നർത്ഥം.\n• Daily communication-ലും official emails-ലും വളരെ സാധാരണയായി ഉപയോഗിക്കുന്ന abbreviation ആണ്.\n• Urgency സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്ന common English abbreviation ആണിത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ASAP = As Soon As Possible\n• Common everyday abbreviations PSC-യുടെ Abbreviations section-ൽ ചോദിക്കാറുണ്ട് — technical മാത്രമല്ല, daily-use abbreviations ഉം പഠിക്കണം.\n• ⭐ PSC ആവർത്തനം: Abbreviations topic-ൽ acronyms (first-letter combinations) ഏറ്റവും കൂടുതൽ വരുന്ന pattern ആണ്.\n• ഉദാഹരണ sentences:\n  1. Please send the report ASAP.\n  2. The manager asked for the files ASAP.\n  3. We need your confirmation ASAP.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) As Simple As Possible — ഇത് ASAP-ന്റെ യഥാർത്ഥ full form അല്ല, sound-similar ആയ misleading option ആണ്.\n  • 🪤 PSC Trap: 'As...As Possible' pattern match ചെയ്യുന്നതിനാൽ confuse ചെയ്യും.\n• (C) At Some Available Point — ഇതും fabricated expansion ആണ്, ASAP-ന്റെ official meaning അല്ല.\n• (D) As Soon As Permitted — 'Possible' ന് പകരം 'Permitted' ഉപയോഗിച്ച് sound-alike trap ഉണ്ടാക്കിയിരിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ASAP = Action Soon, All Prepared' എന്ന ഒരു funny phrase ഓർത്താൽ 'As Soon As Possible' എളുപ്പം ഓർമ്മ വരും.\n• Daily-use abbreviations ഒരു list ആയി പഠിക്കുക: ASAP, RSVP, FYI, ETA.\n• PSC exam strategy: sound-similar options-ൽ trap ഉണ്ടാകാം — ഓരോ word-ഉം സൂക്ഷ്മമായി വായിച്ച് match ചെയ്യുക!"
+    }
   }
 ]
