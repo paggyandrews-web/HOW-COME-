@@ -9,6 +9,7 @@ import { useResults } from '../hooks/useResults'
 import { useStreak } from '../hooks/useStreak'
 import { usePaperProgress } from '../hooks/usePaperProgress'
 import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, statusBadgeText } from '../utils/paperStatus'
+import { getRevisionDaysPref } from '../utils/revisionDays'
 import { unlockAudio, playChime } from '../utils/sound'
 import { tap } from '../utils/haptics'
 
@@ -190,7 +191,11 @@ function PaperList({ onStart, onPractice }) {
   // Papers dated in the future are withheld until their publishedAt arrives.
   const visiblePapers = useMemo(() => modelPapers.filter(isPublished), [])
 
-  const { progress, loading, summary } = usePaperProgress(visiblePapers, CAPPED_MODEL_QUESTIONS)
+  // Profile → Settings → "Revision reminder". Read once per mount, same
+  // pattern as the Full 100 language pref below — a change on the Profile
+  // page takes effect the next time this page mounts.
+  const revisionDays = useMemo(() => getRevisionDaysPref(), [])
+  const { progress, loading, summary } = usePaperProgress(visiblePapers, CAPPED_MODEL_QUESTIONS, revisionDays)
   const shownPapers = useMemo(
     () => visiblePapers.filter(p => matchesStatusFilter(progress[p.id], status)),
     [visiblePapers, progress, status]

@@ -7,6 +7,7 @@ import SignupGate from '../components/SignupGate'
 import { useAuth } from '../contexts/AuthContext'
 import { usePaperProgress } from '../hooks/usePaperProgress'
 import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, statusBadgeText } from '../utils/paperStatus'
+import { getRevisionDaysPref } from '../utils/revisionDays'
 
 // Group by the actual year of the test date (not the paper-code year, which
 // can differ — e.g. a 2023-coded paper whose exam was actually held in 2024).
@@ -27,7 +28,11 @@ export default function Papers() {
   const [status, setStatus] = useState('')
   const [query, setQuery] = useState('')
 
-  const { progress, loading, summary } = usePaperProgress(papers, questions)
+  // Profile → Settings → "Revision reminder". Read once per mount — this
+  // page remounts fresh whenever you navigate back to it, so a change made
+  // on the Profile page takes effect the moment you return here.
+  const revisionDays = useMemo(() => getRevisionDaysPref(), [])
+  const { progress, loading, summary } = usePaperProgress(papers, questions, revisionDays)
 
   if (!user) {
     return (

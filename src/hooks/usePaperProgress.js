@@ -1,9 +1,6 @@
 import { useState, useEffect, useMemo, useCallback } from 'react'
 import { useResults } from './useResults'
-
-// A completed paper is flagged "due for revision" once this many days have
-// passed since it was last attempted in full.
-export const REVISION_DAYS = 14
+import { DEFAULT_REVISION_DAYS } from '../utils/revisionDays'
 
 /**
  * Per-paper practice status, derived entirely from existing quiz results
@@ -12,9 +9,13 @@ export const REVISION_DAYS = 14
  *   - attempted / total: unique questions answered at least once vs paper size
  *   - score: % correct on the most recent attempt of each question (once completed)
  *   - lastAttemptDate: ISO date of the most recent attempt touching this paper
- *   - dueForRevision: completed AND lastAttemptDate is REVISION_DAYS+ days old
+ *   - dueForRevision: completed AND lastAttemptDate is revisionDays+ days old
+ *
+ * revisionDays is user-configurable (Profile → Settings → Revision reminder,
+ * see utils/revisionDays.js) — callers pass the current preference in;
+ * defaults to DEFAULT_REVISION_DAYS for any caller that doesn't.
  */
-export function usePaperProgress(papers, questions) {
+export function usePaperProgress(papers, questions, revisionDays = DEFAULT_REVISION_DAYS) {
   const { getAllResults } = useResults()
   const [results, setResults] = useState(null) // null = still loading
   const [refreshKey, setRefreshKey] = useState(0)
@@ -80,7 +81,7 @@ export function usePaperProgress(papers, questions) {
           entry.score = Math.round((entry.correct / entry.attempted) * 100)
           if (entry.lastAttemptDate) {
             const days = (now - new Date(entry.lastAttemptDate).getTime()) / 86400000
-            entry.dueForRevision = days >= REVISION_DAYS
+            entry.dueForRevision = days >= revisionDays
           }
         } else {
           entry.status = 'in-progress'
@@ -89,7 +90,7 @@ export function usePaperProgress(papers, questions) {
     }
 
     return map
-  }, [results, papers, totalByPaper, paperIdByQuestionId])
+  }, [results, papers, totalByPaper, paperIdByQuestionId, revisionDays])
 
   const summary = useMemo(() => {
     const vals = Object.values(progress)

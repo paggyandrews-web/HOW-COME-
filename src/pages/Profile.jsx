@@ -7,6 +7,7 @@ import { isVibrationEnabled, setVibrationEnabled, tap } from '../utils/haptics'
 import { isSoundEnabled, setSoundEnabled, playChime } from '../utils/sound'
 import { enablePushNotifications, getNotificationPermission, isPushSupported } from '../utils/notifications'
 import { FULL100_LANG_OPTIONS, getFull100LangPref, setFull100LangPref } from '../utils/full100Lang'
+import { REVISION_DAYS_OPTIONS, getRevisionDaysPref, setRevisionDaysPref } from '../utils/revisionDays'
 
 /* ── Reusable toggle row ───────────────────────────────────────────── */
 function ToggleRow({ label, description, checked, onChange }) {
@@ -168,10 +169,12 @@ export default function Profile() {
   const [vibration, setVibration] = useState(true)
   const [sound, setSound] = useState(true)
   const [full100Lang, setFull100Lang] = useState('both')
+  const [revisionDays, setRevisionDays] = useState(14)
   useEffect(() => {
     setVibration(isVibrationEnabled())
     setSound(isSoundEnabled())
     setFull100Lang(getFull100LangPref())
+    setRevisionDays(getRevisionDaysPref())
   }, [])
 
   // Push notification opt-in state: 'unsupported' | 'default' | 'granted' | 'denied'
@@ -206,6 +209,12 @@ export default function Profile() {
   function chooseFull100Lang(next) {
     setFull100LangPref(next)
     setFull100Lang(next)
+    tap(15) // same little confirmation buzz as the other setting changes
+  }
+
+  function chooseRevisionDays(next) {
+    setRevisionDaysPref(next)
+    setRevisionDays(next)
     tap(15) // same little confirmation buzz as the other setting changes
   }
 
@@ -342,6 +351,26 @@ export default function Profile() {
                   background: full100Lang === o.id ? 'var(--accent)' : 'var(--bg2)',
                   color: full100Lang === o.id ? 'var(--accent-text)' : 'var(--text)',
                   border: '1px solid ' + (full100Lang === o.id ? 'var(--accent)' : 'var(--border)'),
+                }}>
+                {o.label}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        <div className="pt-4 mt-3" style={{ borderTop: '1px solid var(--border)' }}>
+          <div className="text-sm font-medium mb-0.5">Revision reminder</div>
+          <div className="text-xs mb-2" style={{ color: 'var(--text2)' }}>
+            How many days after finishing a paper before it's flagged "Due for Revision".
+          </div>
+          <div className="flex gap-2">
+            {REVISION_DAYS_OPTIONS.map(o => (
+              <button key={o.id} onClick={() => chooseRevisionDays(o.id)}
+                className="flex-1 py-2 rounded-lg text-sm font-medium"
+                style={{
+                  background: revisionDays === o.id ? 'var(--accent)' : 'var(--bg2)',
+                  color: revisionDays === o.id ? 'var(--accent-text)' : 'var(--text)',
+                  border: '1px solid ' + (revisionDays === o.id ? 'var(--accent)' : 'var(--border)'),
                 }}>
                 {o.label}
               </button>

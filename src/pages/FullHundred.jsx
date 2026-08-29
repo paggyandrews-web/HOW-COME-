@@ -11,6 +11,7 @@ import { usePaperProgress } from '../hooks/usePaperProgress'
 import { STATUS_META, DUE_COLOR, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, parsePaperDate } from '../utils/paperStatus'
 import { getDraft, saveDraft, clearDraft, getAllDrafts, draftAttemptedCount } from '../utils/fullHundredDraft'
 import { getFull100LangPref } from '../utils/full100Lang'
+import { getRevisionDaysPref } from '../utils/revisionDays'
 
 const NEGATIVE_MARK = 1 / 3
 
@@ -240,7 +241,10 @@ function PaperList({ onStart, onResume }) {
   const showMalayalam = langPref !== 'english'
   const showEnglish = langPref !== 'malayalam'
 
-  const { progress, loading, summary } = usePaperProgress(fullPapers, SCOREABLE_FULL_QUESTIONS)
+  // Profile → Settings → "Revision reminder". Read once per mount, same
+  // pattern as langPref above.
+  const revisionDays = useMemo(() => getRevisionDaysPref(), [])
+  const { progress, loading, summary } = usePaperProgress(fullPapers, SCOREABLE_FULL_QUESTIONS, revisionDays)
 
   // Local-only autosave drafts (never synced to Firestore — see
   // utils/fullHundredDraft.js). Read once per mount; PaperList remounts
