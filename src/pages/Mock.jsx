@@ -5,6 +5,7 @@ import modelQuestions from '../data/modelQuestions.json'
 import { useAuth } from '../contexts/AuthContext'
 import Confetti from '../components/Confetti'
 import Dropdown from '../components/Dropdown'
+import RevisionDots from '../components/RevisionDots'
 import { useResults } from '../hooks/useResults'
 import { useStreak } from '../hooks/useStreak'
 import { usePaperProgress } from '../hooks/usePaperProgress'
@@ -254,6 +255,9 @@ function PaperList({ onStart, onPractice }) {
                   >
                     {statusBadgeText(prog, meta)}
                   </span>
+                )}
+                {prog?.status === 'completed' && revisionEnabled && (
+                  <RevisionDots revisionsDone={prog.revisionsDone} due={due} />
                 )}
               </div>
               <div className="text-xs mt-1.5 flex flex-wrap gap-x-2 gap-y-1" style={{ color: 'var(--text2)' }}>

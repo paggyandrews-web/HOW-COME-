@@ -3,6 +3,7 @@ import { useSearchParams, Link } from 'react-router-dom'
 import papers from '../data/papers.json'
 import questions from '../data/questions.json'
 import Dropdown from '../components/Dropdown'
+import RevisionDots from '../components/RevisionDots'
 import SignupGate from '../components/SignupGate'
 import { useAuth } from '../contexts/AuthContext'
 import { usePaperProgress } from '../hooks/usePaperProgress'
@@ -151,6 +152,11 @@ export default function Papers() {
                     </span>
                   )}
                 </div>
+                {prog?.status === 'completed' && revisionEnabled && (
+                  <div className="mt-1.5">
+                    <RevisionDots revisionsDone={prog.revisionsDone} due={due} />
+                  </div>
+                )}
                 <div className="text-xs mt-1.5 flex flex-wrap gap-x-2 gap-y-1" style={{ color: 'var(--text2)' }}>
                   {paper.date && <span>📅 {paper.date}</span>}
                   <span>·</span>
