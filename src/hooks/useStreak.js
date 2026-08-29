@@ -4,6 +4,13 @@ import { db } from '../firebase/config'
 
 const STORAGE_KEY = 'cs-streak'
 
+// A streak survives a gap of up to this many hours of inactivity before it
+// resets. 72h = "missed a day or two is fine, missed three days breaks it" —
+// more forgiving than a strict calendar-day check, and immune to someone
+// squeaking in right before midnight one day and right after midnight two
+// days later (which is only ~24h apart in real time but 2 calendar days).
+const GRACE_HOURS = 72
+
 // Local (device timezone) date string — NOT UTC.
 // toISOString() would flip the day at 5:30 AM IST and break streaks.
 function localDateStr(d = new Date()) {
@@ -14,29 +21,16 @@ function todayStr() {
   return localDateStr()
 }
 
-function yesterdayStr() {
-  const d = new Date()
-  d.setDate(d.getDate() - 1)
-  return localDateStr(d)
-}
-
-// The local date string one day after the given 'YYYY-MM-DD'.
-function nextDay(dstr) {
-  const [y, m, d] = dstr.split('-').map(Number)
-  const dt = new Date(y, m - 1, d)
-  dt.setDate(dt.getDate() + 1)
-  return localDateStr(dt)
-}
-
 function readLocal() {
   try {
     return JSON.parse(localStorage.getItem(STORAGE_KEY) || 'null') || {
       currentStreak: 0,
       longestStreak: 0,
       lastActivityDate: null,
+      lastActivityAt: null,
     }
   } catch {
-    return { currentStreak: 0, longestStreak: 0, lastActivityDate: null }
+    return { currentStreak: 0, longestStreak: 0, lastActivityDate: null, lastActivityAt: null }
   }
 }
 
@@ -56,7 +50,22 @@ function mostAdvanced(a, b) {
   return (a?.currentStreak || 0) >= (b?.currentStreak || 0) ? a : b
 }
 
+// The timestamp to measure the grace window from. Records written before
+// lastActivityAt existed only have lastActivityDate — treat those as if the
+// activity happened at the very end of that local day, the most generous
+// reading available, so migrated users aren't punished for a field that
+// didn't used to exist.
+function effectiveLastTimestamp(existing) {
+  if (existing?.lastActivityAt) return new Date(existing.lastActivityAt)
+  if (existing?.lastActivityDate) {
+    const [y, m, d] = existing.lastActivityDate.split('-').map(Number)
+    return new Date(y, m - 1, d, 23, 59, 59, 999)
+  }
+  return null
+}
+
 function computeNewStreak(existing) {
+  const now = new Date()
   const today = todayStr()
   const { lastActivityDate, currentStreak, longestStreak } = existing
 
@@ -65,30 +74,29 @@ function computeNewStreak(existing) {
     return existing
   }
 
-  const yesterday = new Date()
-  yesterday.setDate(yesterday.getDate() - 1)
-  const yesterdayStr = localDateStr(yesterday)
+  const lastTs = effectiveLastTimestamp(existing)
+  const hoursSinceLast = lastTs ? (now - lastTs) / 3_600_000 : Infinity
 
-  let newStreak
-  if (lastActivityDate === yesterdayStr) {
-    // Consecutive day — increment
-    newStreak = currentStreak + 1
-  } else {
-    // Missed a day or first time — reset to 1
-    newStreak = 1
-  }
+  // Within the grace window — the streak survives even if a day (or two)
+  // was skipped, as long as it's been under 72h since the last activity.
+  // Past it — too long a gap, start over.
+  const newStreak = hoursSinceLast <= GRACE_HOURS ? currentStreak + 1 : 1
 
   return {
     currentStreak: newStreak,
     longestStreak: Math.max(longestStreak, newStreak),
     lastActivityDate: today,
+    lastActivityAt: now.toISOString(),
   }
 }
 
 // Rebuild a streak record from the user's real quiz history. Every completed
-// quiz is saved to results/{uid}/quizzes with a `date`, so the set of distinct
-// LOCAL activity days is ground truth. This repairs streaks that the storage/
-// domain-change bug reset to 1 — using real data, never a guessed number.
+// quiz is saved to results/{uid}/quizzes with a `date` (a full ISO
+// timestamp), so the sequence of real activity timestamps is ground truth.
+// This repairs streaks that the storage/domain-change bug reset to 1 — using
+// real data, never a guessed number — and applies the same 72h grace rule
+// retroactively, so a gap that wouldn't have broken the streak under the
+// current rule doesn't wrongly zero it out here either.
 // Throws if the results read fails, so the caller can retry rather than mark
 // the repair "done" on a transient error.
 async function reconstructFromResults(uid, existing) {
@@ -96,31 +104,47 @@ async function reconstructFromResults(uid, existing) {
   const dates = []
   snap.forEach(d => {
     const v = d.data().date
-    if (v) dates.push(localDateStr(new Date(v)))
+    if (v) dates.push(new Date(v))
   })
   if (dates.length === 0) return existing
 
-  const uniq = [...new Set(dates)].sort() // ascending YYYY-MM-DD
+  // One entry per local calendar day, timestamped at that day's LATEST
+  // activity — that's what would have been saved as lastActivityAt if the
+  // real app had recorded it live that day.
+  const byDay = new Map()
+  for (const d of dates) {
+    const key = localDateStr(d)
+    const prev = byDay.get(key)
+    if (!prev || d > prev) byDay.set(key, d)
+  }
+  const entries = [...byDay.entries()].sort((a, b) => a[1] - b[1]) // ascending by timestamp
+
   let longest = 1, run = 1
-  for (let i = 1; i < uniq.length; i++) {
-    run = uniq[i] === nextDay(uniq[i - 1]) ? run + 1 : 1
+  for (let i = 1; i < entries.length; i++) {
+    const gapHours = (entries[i][1] - entries[i - 1][1]) / 3_600_000
+    run = gapHours <= GRACE_HOURS ? run + 1 : 1
     if (run > longest) longest = run
   }
-  // Length of the consecutive run ending on the most recent active day.
+  // Length of the run ending on the most recent active day.
   let current = 1
-  for (let i = uniq.length - 1; i > 0; i--) {
-    if (uniq[i] === nextDay(uniq[i - 1])) current++
+  for (let i = entries.length - 1; i > 0; i--) {
+    const gapHours = (entries[i][1] - entries[i - 1][1]) / 3_600_000
+    if (gapHours <= GRACE_HOURS) current++
     else break
   }
-  const lastActive = uniq[uniq.length - 1]
-  const alive = lastActive === todayStr() || lastActive === yesterdayStr()
+  const [lastActiveDay, lastActiveTs] = entries[entries.length - 1]
+  const alive = (new Date() - lastActiveTs) / 3_600_000 <= GRACE_HOURS
 
   // Never downgrade: keep the best of stored vs reconstructed.
   return {
     currentStreak: Math.max(existing?.currentStreak || 0, alive ? current : 0),
     longestStreak: Math.max(existing?.longestStreak || 0, longest, current),
     lastActivityDate:
-      (existing?.lastActivityDate || '') >= lastActive ? existing.lastActivityDate : lastActive,
+      (existing?.lastActivityDate || '') >= lastActiveDay ? existing.lastActivityDate : lastActiveDay,
+    lastActivityAt:
+      existing?.lastActivityAt && new Date(existing.lastActivityAt) >= lastActiveTs
+        ? existing.lastActivityAt
+        : lastActiveTs.toISOString(),
   }
 }
 
@@ -178,9 +202,10 @@ export function useStreak() {
         let s = data.streak || readLocal()
 
         // One-time repair: rebuild the streak from real quiz history to undo
-        // resets caused by the storage/domain-change bug. Guarded by a flag on
-        // the user doc (not inside the streak map, which updateStreak rewrites)
-        // so it runs exactly once per user. On read failure we leave the flag
+        // resets caused by the storage/domain-change bug, and to apply the
+        // 72h grace-period rule retroactively. Guarded by a flag on the user
+        // doc (not inside the streak map, which updateStreak rewrites) so it
+        // runs exactly once per user. On read failure we leave the flag
         // unset and retry on the next open rather than marking it done.
         //
         // V2: bumped from streakRebuiltV1 because updateStreak() was only ever
@@ -191,13 +216,19 @@ export function useStreak() {
         // despite real, continuous activity. Mock/FullHundred now also call
         // updateStreak(), but everyone who was already affected needs this
         // second, one-time reconstruction to recover the streak that bug ate.
+        //
+        // V3: bumped again for the 72h-grace-period change — under the old
+        // strict "must be exactly yesterday" rule, gaps of ~2 days wrongly
+        // reset streaks that should have survived under the new rule. This
+        // re-reconstruction gives existing users the benefit of the grace
+        // period retroactively.
         // reconstructFromResults never downgrades, so this is safe to re-run.
-        if (!data.streakRebuiltV2) {
+        if (!data.streakRebuiltV3) {
           try {
             s = await reconstructFromResults(user.uid, s)
             await setDoc(
               doc(db, 'users', user.uid),
-              { streak: s, streakRebuiltV1: true, streakRebuiltV2: true },
+              { streak: s, streakRebuiltV1: true, streakRebuiltV2: true, streakRebuiltV3: true },
               { merge: true }
             )
           } catch {}

@@ -67,6 +67,25 @@ function BookIllustration() {
   )
 }
 
+/* ── Streak tagline — scales with the real week/month count instead of a
+   fixed "two weeks" that goes stale the moment you pass day 14 ─────────── */
+function streakTagline(days) {
+  if (days >= 30) {
+    const months = Math.floor(days / 30)
+    return months >= 2
+      ? `${months} months unstoppable! Legend 🏆`
+      : 'Unstoppable! Legend 🏆'
+  }
+  if (days >= 7) {
+    const weeks = Math.floor(days / 7)
+    return weeks === 1
+      ? 'One full week! Keep it up! 💪'
+      : `${weeks} weeks of dedication! ⚡`
+  }
+  if (days >= 3) return "Building momentum! Don't stop!"
+  return 'Great start! Keep the streak alive!'
+}
+
 /* ── Circular flame ring for streak ────────────────────────────────── */
 function StreakRing({ days }) {
   const SIZE = 70, R = 28
@@ -352,11 +371,7 @@ export default function Home() {
                 {streak} {streak === 1 ? 'DAY' : 'DAYS'}
               </div>
               <div className="text-xs mt-1" style={{ color: 'rgba(255,255,255,0.55)' }}>
-                {streak >= 30 ? 'Unstoppable! Legend 🏆'
-                  : streak >= 14 ? 'Two weeks of dedication! ⚡'
-                  : streak >= 7  ? 'One full week! Keep it up! 💪'
-                  : streak >= 3  ? "Building momentum! Don't stop!"
-                  : 'Great start! Keep the streak alive!'}
+                {streakTagline(streak)}
               </div>
             </div>
             <div style={{ textAlign: 'right' }}>
