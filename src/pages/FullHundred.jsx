@@ -11,7 +11,7 @@ import { usePaperProgress } from '../hooks/usePaperProgress'
 import { STATUS_META, DUE_COLOR, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, parsePaperDate } from '../utils/paperStatus'
 import { getDraft, saveDraft, clearDraft, getAllDrafts, draftAttemptedCount } from '../utils/fullHundredDraft'
 import { getFull100LangPref } from '../utils/full100Lang'
-import { getRevisionDaysPref } from '../utils/revisionDays'
+import { getRevisionGapsPref, isRevisionScheduleEnabled } from '../utils/revisionSchedule'
 
 const NEGATIVE_MARK = 1 / 3
 
@@ -241,10 +241,15 @@ function PaperList({ onStart, onResume }) {
   const showMalayalam = langPref !== 'english'
   const showEnglish = langPref !== 'malayalam'
 
-  // Profile → Settings → "Revision reminder". Read once per mount, same
+  // Profile → Settings → "Revision schedule". Read once per mount, same
   // pattern as langPref above.
-  const revisionDays = useMemo(() => getRevisionDaysPref(), [])
-  const { progress, loading, summary } = usePaperProgress(fullPapers, SCOREABLE_FULL_QUESTIONS, revisionDays)
+  const revisionGaps = useMemo(() => getRevisionGapsPref(), [])
+  const revisionEnabled = useMemo(() => isRevisionScheduleEnabled(), [])
+  const { progress, loading, summary } = usePaperProgress(fullPapers, SCOREABLE_FULL_QUESTIONS, revisionGaps, revisionEnabled)
+  const statusFilterOptions = useMemo(
+    () => revisionEnabled ? STATUS_FILTER_OPTIONS : STATUS_FILTER_OPTIONS.filter(o => o.value !== 'due'),
+    [revisionEnabled]
+  )
 
   // Local-only autosave drafts (never synced to Firestore — see
   // utils/fullHundredDraft.js). Read once per mount; PaperList remounts
@@ -373,7 +378,7 @@ function PaperList({ onStart, onResume }) {
         onChange={setStatus}
         placeholder="All Statuses"
         className="w-44 mb-4"
-        options={STATUS_FILTER_OPTIONS}
+        options={statusFilterOptions}
       />
 
       {needsSignup && (

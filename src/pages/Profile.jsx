@@ -7,7 +7,11 @@ import { isVibrationEnabled, setVibrationEnabled, tap } from '../utils/haptics'
 import { isSoundEnabled, setSoundEnabled, playChime } from '../utils/sound'
 import { enablePushNotifications, getNotificationPermission, isPushSupported } from '../utils/notifications'
 import { FULL100_LANG_OPTIONS, getFull100LangPref, setFull100LangPref } from '../utils/full100Lang'
-import { REVISION_DAYS_OPTIONS, getRevisionDaysPref, setRevisionDaysPref } from '../utils/revisionDays'
+import {
+  REVISION_GAP_OPTIONS, DEFAULT_REVISION_GAPS,
+  getRevisionGapsPref, setRevisionGapsPref, cumulativeRevisionDays,
+  isRevisionScheduleEnabled, setRevisionScheduleEnabled,
+} from '../utils/revisionSchedule'
 
 /* ── Reusable toggle row ───────────────────────────────────────────── */
 function ToggleRow({ label, description, checked, onChange }) {
@@ -169,12 +173,14 @@ export default function Profile() {
   const [vibration, setVibration] = useState(true)
   const [sound, setSound] = useState(true)
   const [full100Lang, setFull100Lang] = useState('both')
-  const [revisionDays, setRevisionDays] = useState(14)
+  const [revisionGaps, setRevisionGaps] = useState(DEFAULT_REVISION_GAPS)
+  const [revisionEnabled, setRevisionEnabled] = useState(true)
   useEffect(() => {
     setVibration(isVibrationEnabled())
     setSound(isSoundEnabled())
     setFull100Lang(getFull100LangPref())
-    setRevisionDays(getRevisionDaysPref())
+    setRevisionGaps(getRevisionGapsPref())
+    setRevisionEnabled(isRevisionScheduleEnabled())
   }, [])
 
   // Push notification opt-in state: 'unsupported' | 'default' | 'granted' | 'denied'
@@ -212,9 +218,19 @@ export default function Profile() {
     tap(15) // same little confirmation buzz as the other setting changes
   }
 
-  function chooseRevisionDays(next) {
-    setRevisionDaysPref(next)
-    setRevisionDays(next)
+  function toggleRevisionEnabled(next) {
+    setRevisionScheduleEnabled(next)
+    setRevisionEnabled(next)
+    if (next) tap(15) // little confirmation buzz, same as the other setting changes
+  }
+
+  // stageIdx: 0 = 1st revision, 1 = 2nd, 2 = 3rd. Each stage's gap is the
+  // number of days after the PREVIOUS stage (or after finishing the paper,
+  // for the 1st) — full user control over their own spaced-revision plan.
+  function chooseRevisionGap(stageIdx, days) {
+    const next = revisionGaps.map((g, i) => (i === stageIdx ? days : g))
+    setRevisionGapsPref(next)
+    setRevisionGaps(next)
     tap(15) // same little confirmation buzz as the other setting changes
   }
 
@@ -359,23 +375,56 @@ export default function Profile() {
         </div>
 
         <div className="pt-4 mt-3" style={{ borderTop: '1px solid var(--border)' }}>
-          <div className="text-sm font-medium mb-0.5">Revision reminder</div>
-          <div className="text-xs mb-2" style={{ color: 'var(--text2)' }}>
-            How many days after finishing a paper before it's flagged "Due for Revision".
+          <div className="text-sm font-medium mb-0.5">Revision schedule</div>
+          <div className="text-xs mb-3" style={{ color: 'var(--text2)' }}>
+            Get flagged "Due for Revision" on papers you've already
+            completed, on your own schedule. Turn it off if you'd rather not
+            be reminded at all.
           </div>
-          <div className="flex gap-2">
-            {REVISION_DAYS_OPTIONS.map(o => (
-              <button key={o.id} onClick={() => chooseRevisionDays(o.id)}
-                className="flex-1 py-2 rounded-lg text-sm font-medium"
-                style={{
-                  background: revisionDays === o.id ? 'var(--accent)' : 'var(--bg2)',
-                  color: revisionDays === o.id ? 'var(--accent-text)' : 'var(--text)',
-                  border: '1px solid ' + (revisionDays === o.id ? 'var(--accent)' : 'var(--border)'),
-                }}>
-                {o.label}
-              </button>
-            ))}
+          <ToggleRow
+            label="Revision reminders"
+            description={revisionEnabled ? 'On — see your schedule below' : 'Off — papers never get flagged for revision'}
+            checked={revisionEnabled}
+            onChange={toggleRevisionEnabled}
+          />
+          {revisionEnabled && (
+          <div className="rounded-xl overflow-hidden mt-3" style={{ border: '1px solid var(--border)' }}>
+            <table className="w-full text-sm" style={{ borderCollapse: 'collapse' }}>
+              <thead>
+                <tr style={{ background: 'var(--bg2)' }}>
+                  <th className="text-left font-medium px-3 py-2">Revision</th>
+                  <th className="text-left font-medium px-3 py-2">When to do it</th>
+                  <th className="text-left font-medium px-3 py-2">Gap from previous</th>
+                </tr>
+              </thead>
+              <tbody>
+                {['1st', '2nd', '3rd'].map((label, i) => {
+                  const cumulativeDay = cumulativeRevisionDays(revisionGaps)[i]
+                  const whenToDoIt = i === 0 && revisionGaps[0] === 1
+                    ? `Tomorrow (Day ${cumulativeDay})`
+                    : `Day ${cumulativeDay}`
+                  return (
+                    <tr key={label} style={i > 0 ? { borderTop: '1px solid var(--border)' } : undefined}>
+                      <td className="px-3 py-2.5 font-medium">{label}</td>
+                      <td className="px-3 py-2.5" style={{ color: 'var(--text2)' }}>{whenToDoIt}</td>
+                      <td className="px-3 py-2.5">
+                        <select
+                          value={revisionGaps[i]}
+                          onChange={e => chooseRevisionGap(i, Number(e.target.value))}
+                          className="text-sm px-2 py-1.5 rounded-lg"
+                          style={{ background: 'var(--bg2)', color: 'var(--text)', border: '1px solid var(--border)' }}>
+                          {REVISION_GAP_OPTIONS.map(o => (
+                            <option key={o.id} value={o.id}>{o.label}</option>
+                          ))}
+                        </select>
+                      </td>
+                    </tr>
+                  )
+                })}
+              </tbody>
+            </table>
           </div>
+          )}
         </div>
       </div>
 

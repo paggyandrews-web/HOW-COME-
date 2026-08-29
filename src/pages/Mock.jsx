@@ -9,7 +9,7 @@ import { useResults } from '../hooks/useResults'
 import { useStreak } from '../hooks/useStreak'
 import { usePaperProgress } from '../hooks/usePaperProgress'
 import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, statusBadgeText } from '../utils/paperStatus'
-import { getRevisionDaysPref } from '../utils/revisionDays'
+import { getRevisionGapsPref, isRevisionScheduleEnabled } from '../utils/revisionSchedule'
 import { unlockAudio, playChime } from '../utils/sound'
 import { tap } from '../utils/haptics'
 
@@ -191,11 +191,16 @@ function PaperList({ onStart, onPractice }) {
   // Papers dated in the future are withheld until their publishedAt arrives.
   const visiblePapers = useMemo(() => modelPapers.filter(isPublished), [])
 
-  // Profile → Settings → "Revision reminder". Read once per mount, same
+  // Profile → Settings → "Revision schedule". Read once per mount, same
   // pattern as the Full 100 language pref below — a change on the Profile
   // page takes effect the next time this page mounts.
-  const revisionDays = useMemo(() => getRevisionDaysPref(), [])
-  const { progress, loading, summary } = usePaperProgress(visiblePapers, CAPPED_MODEL_QUESTIONS, revisionDays)
+  const revisionGaps = useMemo(() => getRevisionGapsPref(), [])
+  const revisionEnabled = useMemo(() => isRevisionScheduleEnabled(), [])
+  const { progress, loading, summary } = usePaperProgress(visiblePapers, CAPPED_MODEL_QUESTIONS, revisionGaps, revisionEnabled)
+  const statusFilterOptions = useMemo(
+    () => revisionEnabled ? STATUS_FILTER_OPTIONS : STATUS_FILTER_OPTIONS.filter(o => o.value !== 'due'),
+    [revisionEnabled]
+  )
   const shownPapers = useMemo(
     () => visiblePapers.filter(p => matchesStatusFilter(progress[p.id], status)),
     [visiblePapers, progress, status]
@@ -224,7 +229,7 @@ function PaperList({ onStart, onPractice }) {
         onChange={setStatus}
         placeholder="All Statuses"
         className="w-44 mb-4"
-        options={STATUS_FILTER_OPTIONS}
+        options={statusFilterOptions}
       />
 
       {shownPapers.map(p => {

@@ -1,6 +1,6 @@
 import { useState, useEffect, useMemo, useCallback } from 'react'
 import { useResults } from './useResults'
-import { DEFAULT_REVISION_DAYS } from '../utils/revisionDays'
+import { DEFAULT_REVISION_GAPS, nextRevisionGap } from '../utils/revisionSchedule'
 
 /**
  * Per-paper practice status, derived entirely from existing quiz results
@@ -9,13 +9,20 @@ import { DEFAULT_REVISION_DAYS } from '../utils/revisionDays'
  *   - attempted / total: unique questions answered at least once vs paper size
  *   - score: % correct on the most recent attempt of each question (once completed)
  *   - lastAttemptDate: ISO date of the most recent attempt touching this paper
- *   - dueForRevision: completed AND lastAttemptDate is revisionDays+ days old
+ *   - revisionsDone: how many distinct days this paper was practiced again
+ *     AFTER it was first fully completed — i.e. which revision stage you're on
+ *   - dueForRevision: completed AND lastAttemptDate is old enough for the
+ *     current stage's gap (see revisionGaps)
  *
- * revisionDays is user-configurable (Profile → Settings → Revision reminder,
- * see utils/revisionDays.js) — callers pass the current preference in;
- * defaults to DEFAULT_REVISION_DAYS for any caller that doesn't.
+ * revisionGaps is the user-configurable 3-stage schedule, and revisionEnabled
+ * is the master on/off switch for the whole feature (Profile → Settings →
+ * Revision schedule, see utils/revisionSchedule.js) — callers pass the
+ * current preferences in; default to DEFAULT_REVISION_GAPS / enabled for any
+ * caller that doesn't. When disabled, revisionsDone stays 0 and
+ * dueForRevision stays false for every paper — the tracking work is skipped
+ * entirely rather than computed and hidden.
  */
-export function usePaperProgress(papers, questions, revisionDays = DEFAULT_REVISION_DAYS) {
+export function usePaperProgress(papers, questions, revisionGaps = DEFAULT_REVISION_GAPS, revisionEnabled = true) {
   const { getAllResults } = useResults()
   const [results, setResults] = useState(null) // null = still loading
   const [refreshKey, setRefreshKey] = useState(0)
@@ -49,6 +56,7 @@ export function usePaperProgress(papers, questions, revisionDays = DEFAULT_REVIS
         score: null,
         lastAttemptDate: null,
         status: 'not-started',
+        revisionsDone: 0,
         dueForRevision: false,
       }
     })
@@ -72,16 +80,53 @@ export function usePaperProgress(papers, questions, revisionDays = DEFAULT_REVIS
         if (!entry.lastAttemptDate || date > entry.lastAttemptDate) entry.lastAttemptDate = date
       })
 
+      // Walk every past quiz session in order to find, per paper, the date it
+      // was FIRST fully completed, then count the distinct days it was
+      // practiced again after that — that count is "which revision stage
+      // you're on", used below to pick the right gap out of revisionGaps.
+      // Skipped entirely when the feature is switched off — no point paying
+      // for a computation whose result is never read.
+      const revisionDaysByPaper = {} // paperId -> Set of 'YYYY-MM-DD' seen after completion
+      if (revisionEnabled) {
+        const seenByPaper = {} // paperId -> Set of question ids seen so far
+        const firstCompletionDate = {} // paperId -> date string
+        sorted.forEach(r => {
+          const day = (r.date || '').slice(0, 10)
+          const touchedToday = new Set()
+          ;(r.answers || []).forEach(({ id }) => {
+            const paperId = id && paperIdByQuestionId[id]
+            if (!paperId) return
+            if (!seenByPaper[paperId]) seenByPaper[paperId] = new Set()
+            seenByPaper[paperId].add(id)
+            touchedToday.add(paperId)
+            if (!firstCompletionDate[paperId] &&
+                totalByPaper[paperId] &&
+                seenByPaper[paperId].size >= totalByPaper[paperId]) {
+              firstCompletionDate[paperId] = r.date
+            }
+          })
+          touchedToday.forEach(paperId => {
+            if (firstCompletionDate[paperId] && r.date > firstCompletionDate[paperId]) {
+              if (!revisionDaysByPaper[paperId]) revisionDaysByPaper[paperId] = new Set()
+              revisionDaysByPaper[paperId].add(day)
+            }
+          })
+        })
+      }
+
       const now = Date.now()
-      Object.values(map).forEach(entry => {
+      Object.entries(map).forEach(([paperId, entry]) => {
         if (entry.attempted === 0) {
           entry.status = 'not-started'
         } else if (entry.total > 0 && entry.attempted >= entry.total) {
           entry.status = 'completed'
           entry.score = Math.round((entry.correct / entry.attempted) * 100)
-          if (entry.lastAttemptDate) {
-            const days = (now - new Date(entry.lastAttemptDate).getTime()) / 86400000
-            entry.dueForRevision = days >= revisionDays
+          if (revisionEnabled) {
+            entry.revisionsDone = revisionDaysByPaper[paperId]?.size || 0
+            if (entry.lastAttemptDate) {
+              const days = (now - new Date(entry.lastAttemptDate).getTime()) / 86400000
+              entry.dueForRevision = days >= nextRevisionGap(revisionGaps, entry.revisionsDone)
+            }
           }
         } else {
           entry.status = 'in-progress'
@@ -90,7 +135,7 @@ export function usePaperProgress(papers, questions, revisionDays = DEFAULT_REVIS
     }
 
     return map
-  }, [results, papers, totalByPaper, paperIdByQuestionId, revisionDays])
+  }, [results, papers, totalByPaper, paperIdByQuestionId, revisionGaps, revisionEnabled])
 
   const summary = useMemo(() => {
     const vals = Object.values(progress)
