@@ -9,7 +9,7 @@ import { enablePushNotifications, getNotificationPermission, isPushSupported } f
 import { FULL100_LANG_OPTIONS, getFull100LangPref, setFull100LangPref } from '../utils/full100Lang'
 import {
   REVISION_GAP_OPTIONS, DEFAULT_REVISION_GAPS,
-  getRevisionGapsPref, setRevisionGapsPref, cumulativeRevisionDays,
+  getRevisionGapsPref, setRevisionGapsPref, cumulativeRevisionDays, activeRevisionStages,
   isRevisionScheduleEnabled, setRevisionScheduleEnabled,
 } from '../utils/revisionSchedule'
 
@@ -379,7 +379,8 @@ export default function Profile() {
           <div className="text-xs mb-3" style={{ color: 'var(--text2)' }}>
             Get flagged "Due for Revision" on papers you've already
             completed, on your own schedule. Turn it off if you'd rather not
-            be reminded at all.
+            be reminded at all — or set any stage below to "Off" if you only
+            want 1 or 2 revisions instead of the full 3.
           </div>
           <ToggleRow
             label="Revision reminders"
@@ -398,29 +399,35 @@ export default function Profile() {
                 </tr>
               </thead>
               <tbody>
-                {['1st', '2nd', '3rd'].map((label, i) => {
-                  const cumulativeDay = cumulativeRevisionDays(revisionGaps)[i]
-                  const whenToDoIt = i === 0 && revisionGaps[0] === 1
-                    ? `Tomorrow (Day ${cumulativeDay})`
-                    : `Day ${cumulativeDay}`
-                  return (
-                    <tr key={label} style={i > 0 ? { borderTop: '1px solid var(--border)' } : undefined}>
-                      <td className="px-3 py-2.5 font-medium">{label}</td>
-                      <td className="px-3 py-2.5" style={{ color: 'var(--text2)' }}>{whenToDoIt}</td>
-                      <td className="px-3 py-2.5">
-                        <select
-                          value={revisionGaps[i]}
-                          onChange={e => chooseRevisionGap(i, Number(e.target.value))}
-                          className="text-sm px-2 py-1.5 rounded-lg"
-                          style={{ background: 'var(--bg2)', color: 'var(--text)', border: '1px solid var(--border)' }}>
-                          {REVISION_GAP_OPTIONS.map(o => (
-                            <option key={o.id} value={o.id}>{o.label}</option>
-                          ))}
-                        </select>
-                      </td>
-                    </tr>
-                  )
-                })}
+                {(() => {
+                  const active = activeRevisionStages(revisionGaps)
+                  const cumulativeDays = cumulativeRevisionDays(revisionGaps)
+                  return ['1st', '2nd', '3rd'].map((label, i) => {
+                    const reachable = i < active
+                    const whenToDoIt = !reachable
+                      ? 'Off'
+                      : i === 0 && revisionGaps[0] === 1
+                        ? `Tomorrow (Day ${cumulativeDays[i]})`
+                        : `Day ${cumulativeDays[i]}`
+                    return (
+                      <tr key={label} style={i > 0 ? { borderTop: '1px solid var(--border)' } : undefined}>
+                        <td className="px-3 py-2.5 font-medium" style={{ opacity: reachable ? 1 : 0.5 }}>{label}</td>
+                        <td className="px-3 py-2.5" style={{ color: 'var(--text2)', opacity: reachable ? 1 : 0.5 }}>{whenToDoIt}</td>
+                        <td className="px-3 py-2.5">
+                          <select
+                            value={revisionGaps[i]}
+                            onChange={e => chooseRevisionGap(i, Number(e.target.value))}
+                            className="text-sm px-2 py-1.5 rounded-lg"
+                            style={{ background: 'var(--bg2)', color: 'var(--text)', border: '1px solid var(--border)' }}>
+                            {REVISION_GAP_OPTIONS.map(o => (
+                              <option key={o.id} value={o.id}>{o.label}</option>
+                            ))}
+                          </select>
+                        </td>
+                      </tr>
+                    )
+                  })
+                })()}
               </tbody>
             </table>
           </div>

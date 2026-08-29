@@ -8,7 +8,7 @@ import SignupGate from '../components/SignupGate'
 import { useAuth } from '../contexts/AuthContext'
 import { usePaperProgress } from '../hooks/usePaperProgress'
 import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, statusBadgeText } from '../utils/paperStatus'
-import { getRevisionGapsPref, isRevisionScheduleEnabled } from '../utils/revisionSchedule'
+import { getRevisionGapsPref, isRevisionScheduleEnabled, activeRevisionStages } from '../utils/revisionSchedule'
 
 // Group by the actual year of the test date (not the paper-code year, which
 // can differ — e.g. a 2023-coded paper whose exam was actually held in 2024).
@@ -34,6 +34,7 @@ export default function Papers() {
   // on the Profile page takes effect the moment you return here.
   const revisionGaps = useMemo(() => getRevisionGapsPref(), [])
   const revisionEnabled = useMemo(() => isRevisionScheduleEnabled(), [])
+  const revisionStages = useMemo(() => activeRevisionStages(revisionGaps), [revisionGaps])
   const { progress, loading, summary } = usePaperProgress(papers, questions, revisionGaps, revisionEnabled)
   const statusFilterOptions = useMemo(
     () => revisionEnabled ? STATUS_FILTER_OPTIONS : STATUS_FILTER_OPTIONS.filter(o => o.value !== 'due'),
@@ -151,9 +152,9 @@ export default function Papers() {
                     </span>
                   )}
                 </div>
-                {prog?.status === 'completed' && revisionEnabled && (
+                {prog?.status === 'completed' && revisionEnabled && revisionStages > 0 && (
                   <div className="mt-1.5">
-                    <RevisionDots revisionsDone={prog.revisionsDone} due={due} />
+                    <RevisionDots revisionsDone={prog.revisionsDone} due={due} totalStages={revisionStages} />
                   </div>
                 )}
                 <div className="text-xs mt-1.5 flex flex-wrap gap-x-2 gap-y-1" style={{ color: 'var(--text2)' }}>

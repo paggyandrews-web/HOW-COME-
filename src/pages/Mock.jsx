@@ -10,7 +10,7 @@ import { useResults } from '../hooks/useResults'
 import { useStreak } from '../hooks/useStreak'
 import { usePaperProgress } from '../hooks/usePaperProgress'
 import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, statusBadgeText } from '../utils/paperStatus'
-import { getRevisionGapsPref, isRevisionScheduleEnabled } from '../utils/revisionSchedule'
+import { getRevisionGapsPref, isRevisionScheduleEnabled, activeRevisionStages } from '../utils/revisionSchedule'
 import { unlockAudio, playChime } from '../utils/sound'
 import { tap } from '../utils/haptics'
 
@@ -197,6 +197,7 @@ function PaperList({ onStart, onPractice }) {
   // page takes effect the next time this page mounts.
   const revisionGaps = useMemo(() => getRevisionGapsPref(), [])
   const revisionEnabled = useMemo(() => isRevisionScheduleEnabled(), [])
+  const revisionStages = useMemo(() => activeRevisionStages(revisionGaps), [revisionGaps])
   const { progress, loading, summary } = usePaperProgress(visiblePapers, CAPPED_MODEL_QUESTIONS, revisionGaps, revisionEnabled)
   const statusFilterOptions = useMemo(
     () => revisionEnabled ? STATUS_FILTER_OPTIONS : STATUS_FILTER_OPTIONS.filter(o => o.value !== 'due'),
@@ -255,8 +256,8 @@ function PaperList({ onStart, onPractice }) {
                     {statusBadgeText(prog, meta)}
                   </span>
                 )}
-                {prog?.status === 'completed' && revisionEnabled && (
-                  <RevisionDots revisionsDone={prog.revisionsDone} due={due} />
+                {prog?.status === 'completed' && revisionEnabled && revisionStages > 0 && (
+                  <RevisionDots revisionsDone={prog.revisionsDone} due={due} totalStages={revisionStages} />
                 )}
               </div>
               <div className="text-xs mt-1.5 flex flex-wrap gap-x-2 gap-y-1" style={{ color: 'var(--text2)' }}>

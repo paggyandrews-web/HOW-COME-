@@ -1,6 +1,6 @@
 import { useState, useEffect, useMemo, useCallback } from 'react'
 import { useResults } from './useResults'
-import { DEFAULT_REVISION_GAPS, nextRevisionGap } from '../utils/revisionSchedule'
+import { DEFAULT_REVISION_GAPS, nextRevisionGap, activeRevisionStages } from '../utils/revisionSchedule'
 
 /**
  * Per-paper practice status, derived entirely from existing quiz results
@@ -84,10 +84,11 @@ export function usePaperProgress(papers, questions, revisionGaps = DEFAULT_REVIS
       // was FIRST fully completed, then count the distinct days it was
       // practiced again after that — that count is "which revision stage
       // you're on", used below to pick the right gap out of revisionGaps.
-      // Skipped entirely when the feature is switched off — no point paying
-      // for a computation whose result is never read.
+      // Skipped entirely when the feature is switched off, or every stage is
+      // set to "Off" — no point paying for a computation whose result is
+      // never read.
       const revisionDaysByPaper = {} // paperId -> Set of 'YYYY-MM-DD' seen after completion
-      if (revisionEnabled) {
+      if (revisionEnabled && activeRevisionStages(revisionGaps) > 0) {
         const seenByPaper = {} // paperId -> Set of question ids seen so far
         const firstCompletionDate = {} // paperId -> date string
         sorted.forEach(r => {
@@ -124,8 +125,14 @@ export function usePaperProgress(papers, questions, revisionGaps = DEFAULT_REVIS
           if (revisionEnabled) {
             entry.revisionsDone = revisionDaysByPaper[paperId]?.size || 0
             if (entry.lastAttemptDate) {
-              const days = (now - new Date(entry.lastAttemptDate).getTime()) / 86400000
-              entry.dueForRevision = days >= nextRevisionGap(revisionGaps, entry.revisionsDone)
+              // null means every configured stage is either "Off" or already
+              // done with no further maintenance cadence — nothing left to
+              // schedule, so it just stays not-due (see nextRevisionGap).
+              const gap = nextRevisionGap(revisionGaps, entry.revisionsDone)
+              if (gap != null) {
+                const days = (now - new Date(entry.lastAttemptDate).getTime()) / 86400000
+                entry.dueForRevision = days >= gap
+              }
             }
           }
         } else {
