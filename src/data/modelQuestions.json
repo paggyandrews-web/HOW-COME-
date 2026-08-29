@@ -4168,5 +4168,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) As Simple As Possible — ഇത് ASAP-ന്റെ യഥാർത്ഥ full form അല്ല, sound-similar ആയ misleading option ആണ്.\n  • 🪤 PSC Trap: 'As...As Possible' pattern match ചെയ്യുന്നതിനാൽ confuse ചെയ്യും.\n• (C) At Some Available Point — ഇതും fabricated expansion ആണ്, ASAP-ന്റെ official meaning അല്ല.\n• (D) As Soon As Permitted — 'Possible' ന് പകരം 'Permitted' ഉപയോഗിച്ച് sound-alike trap ഉണ്ടാക്കിയിരിക്കുന്നു.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ASAP = Action Soon, All Prepared' എന്ന ഒരു funny phrase ഓർത്താൽ 'As Soon As Possible' എളുപ്പം ഓർമ്മ വരും.\n• Daily-use abbreviations ഒരു list ആയി പഠിക്കുക: ASAP, RSVP, FYI, ETA.\n• PSC exam strategy: sound-similar options-ൽ trap ഉണ്ടാകാം — ഓരോ word-ഉം സൂക്ഷ്മമായി വായിച്ച് match ചെയ്യുക!"
     }
+  },
+  {
+    "id": "HC-DAILY-2026-08-29-Q1",
+    "paperId": "HC-DAILY-2026-08-29",
+    "questionNumber": 1,
+    "topic": "Auxiliary Verbs",
+    "difficulty": "medium",
+    "questionText": "Choose the correctly formed sentence using the modal auxiliary 'need'.",
+    "optionA": "He need not to worry about the exam results.",
+    "optionB": "He need not worry about the exam results.",
+    "optionC": "He needs not worry about the exam results.",
+    "optionD": "He need not worried about the exam results.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) He need not worry about the exam results.\n\n• 'Need' ഒരു modal auxiliary ആയി negative sentence-ൽ വരുമ്പോൾ, അതിനു ശേഷം 'to' വേണ്ട, bare form (worry) മാത്രം മതി.\n• Modal auxiliary-കൾക്ക് (can, may, must, need, dare) third person singular ആയാലും -s ചേർക്കില്ല.\n• 'need to worry' എന്ന main verb usage-ൽ നിന്ന് ഇത് വ്യത്യസ്തമാണ് — modal ആയി വരുമ്പോൾ 'to' വരില്ല.\n• PSC-യിൽ ഇത് ഒരു സ്ഥിരം ചോദ്യമാണ്, guaranteed mark!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Modal + bare verb (no 'to', no -s)\n• Modal auxiliary 'need' negative/question sentence-ൽ ഉപയോഗിക്കുമ്പോൾ 'to' ഒഴിവാക്കണം.\n• Related word group: can, could, may, might, must, shall, should, will, would, dare, need — എല്ലാം ഒരേ രീതി പിന്തുടരുന്നു.\n• ⭐ PSC ആവർത്തനം: Auxiliary Verbs topic-ൽ ഈ 'need' modal usage പതിവായി വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. You need not bring your laptop tomorrow.\n2. She need not apologize for that.\n3. They need not wait any longer.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) He need not to worry about the exam results.\n  - modal 'need'-ന് ശേഷം 'to' ചേർക്കുന്നത് തെറ്റാണ്.\n  - 🪤 PSC Trap: 'need to' main verb usage-മായി confuse ചെയ്യാൻ വച്ചത്.\n\n• (C) He needs not worry about the exam results.\n  - Modal auxiliary-കൾ third person singular-ൽ -s എടുക്കില്ല.\n  - 🪤 PSC Trap: സാധാരണ verb agreement rule തെറ്റായി apply ചെയ്യുന്ന student-നെ കുടുക്കും.\n\n• (D) He need not worried about the exam results.\n  - Modal-ന് ശേഷം bare form (worry) വേണം, past form (worried) തെറ്റാണ്.\n  - 🪤 PSC Trap: tense confusion ഉണ്ടാക്കാൻ വച്ച option ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Modal ഒരിക്കലും -s എടുക്കില്ല, 'to' കൊണ്ടുവരില്ല' എന്ന് ഓർക്കുക.\n• Word family: can, could, may, might, must, shall, should, will, would, need, dare.\n• PSC exam strategy: 'to' ഉണ്ടോ, subject-ന് -s ചേർത്തിട്ടുണ്ടോ എന്ന് നോക്കുക — രണ്ടും ഇല്ലാത്ത option ആണ് ശരിയുത്തരം."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-29-Q2",
+    "paperId": "HC-DAILY-2026-08-29",
+    "questionNumber": 2,
+    "topic": "Infinitive and Gerunds",
+    "difficulty": "medium",
+    "questionText": "Choose the sentence with the correct use of a gerund or infinitive.",
+    "optionA": "He risked to lose his job by criticizing his boss publicly.",
+    "optionB": "He risked losing his job by criticizing his boss publicly.",
+    "optionC": "He risk losing his job by criticizing his boss publicly.",
+    "optionD": "He risked lose his job by criticizing his boss publicly.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) He risked losing his job by criticizing his boss publicly.\n\n• 'Risk' എന്ന verb-ന് ശേഷം gerund (-ing) മാത്രമേ വരൂ, infinitive വരില്ല.\n• 'Risked losing' എന്നാൽ ജോലി പോകാൻ സാധ്യതയുള്ള കാര്യം സ്വീകരിച്ചു എന്നർഥം.\n• enjoy, avoid, risk, admit, suggest തുടങ്ങിയ verbs gerund മാത്രം എടുക്കും.\n• PSC-യിൽ ഇത്തരം gerund-only verbs ഓർത്തിരുന്നാൽ guaranteed mark!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: risk/enjoy/avoid/suggest/admit + V-ing (never + to-V)\n• ഈ verbs-ന് ശേഷം gerund (-ing) മാത്രമേ വരൂ എന്നത് ഒരു fixed rule ആണ്.\n• Related word group: enjoy, avoid, risk, suggest, admit, consider, practice, finish, mind, deny.\n• ⭐ PSC ആവർത്തനം: Infinitive and Gerunds topic-ൽ ഈ gerund-only verb list പതിവായി വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. She avoided answering the difficult question.\n2. They suggested postponing the meeting.\n3. He admitted making a mistake in the report.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) He risked to lose his job by criticizing his boss publicly.\n  - 'risk' + infinitive ഒരിക്കലും ശരിയായ structure അല്ല.\n  - 🪤 PSC Trap: to-infinitive ആണ് സാധാരണ എന്ന് കരുതുന്ന student-നെ കുടുക്കും.\n\n• (C) He risk losing his job by criticizing his boss publicly.\n  - Subject 'He'-ക്ക് ശേഷം bare verb 'risk' ഉപയോഗിച്ചത് verb form പിശകാണ്.\n  - 🪤 PSC Trap: gerund ശരിയായി ഉപയോഗിച്ചെങ്കിലും verb tense ശ്രദ്ധിക്കാത്ത student-നെ കുടുക്കും.\n\n• (D) He risked lose his job by criticizing his boss publicly.\n  - 'risked'-ന് ശേഷം bare form (lose) വരില്ല.\n  - 🪤 PSC Trap: gerund ending വിട്ടുപോയ option ആണിത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: risk, enjoy, avoid, suggest, admit — ഈ verbs-ക്ക് ശേഷം എപ്പോഴും -ing എന്ന് ഓർക്കുക.\n• Word family: gerund-only verbs ഒരു list ആയി പഠിക്കുക.\n• PSC exam strategy: verb കണ്ടാൽ ഉടനെ 'ഇത് gerund-only ആണോ' എന്ന് ചോദിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-29-Q3",
+    "paperId": "HC-DAILY-2026-08-29",
+    "questionNumber": 3,
+    "topic": "Degrees of Comparison",
+    "difficulty": "medium",
+    "questionText": "Choose the correctly formed comparative sentence.",
+    "optionA": "This problem is more difficult than that one.",
+    "optionB": "This problem is difficulter than that one.",
+    "optionC": "This problem is more difficulter than that one.",
+    "optionD": "This problem is most difficult than that one.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) This problem is more difficult than that one.\n\n• 'Difficult' ഒരു multi-syllable adjective ആണ്, ഇത്തരം adjectives-ന് 'more' + adjective + than ഉപയോഗിക്കണം.\n• '-er' suffix ഒറ്റ-syllable അല്ലെങ്കിൽ ചില two-syllable adjectives-ന് (happy→happier) മാത്രമേ ശരിയാകൂ.\n• ഇത് comparative degree-യുടെ ഒരു classic PSC-favourite ചോദ്യമാണ്.\n• Guaranteed mark, ഒരിക്കലും miss ആകില്ല!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Long adjectives → more + adjective + than; Short adjectives → adjective + er + than\n• Multi-syllable adjectives (difficult, beautiful, important) 'more/most' എടുക്കും; short adjectives (tall, big, fast) '-er/-est' എടുക്കും.\n• Related word group: comfortable→more comfortable, interesting→more interesting, careful→more careful.\n• ⭐ PSC ആവർത്തനം: Degrees of Comparison topic-ൽ double comparatives ഒരു സ്ഥിരം trap ആണ്.\n• ഉദാഹരണ sentences:\n1. This exam is more challenging than the last one.\n2. She is more intelligent than her brother.\n3. This road is more dangerous than that one.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) This problem is difficulter than that one.\n  - 'difficulter' ഒരു word അല്ല — multi-syllable adjective-ന് '-er' ചേർക്കില്ല.\n  - 🪤 PSC Trap: short-adjective rule overgeneralize ചെയ്യുന്ന student-നെ കുടുക്കും.\n\n• (C) This problem is more difficulter than that one.\n  - 'more' ഉം '-er' ഉം ഒരുമിച്ച് ഉപയോഗിക്കുന്നത് double comparative ആണ്, എപ്പോഴും തെറ്റ്.\n  - 🪤 PSC Trap: 'more' ചേർത്താൽ safe ആണ് എന്ന് കരുതുന്ന student-നെ കുടുക്കും.\n\n• (D) This problem is most difficult than that one.\n  - 'most' superlative ആണ്, 'than' comparative structure-മായി ചേരില്ല.\n  - 🪤 PSC Trap: superlative-ഉം comparative-ഉം confuse ചെയ്യുന്ന student-നെ കുടുക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Long word-ന് MORE, Short word-ന് -ER' എന്ന് ഓർക്കുക.\n• Word family: comparative (more...than) vs superlative (most...) വേറെ വേറെ പഠിക്കുക.\n• PSC exam strategy: 'more' ഉം '-er' ഉം ഒരുമിച്ച് കണ്ടാൽ ഉടനെ reject ചെയ്യുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-29-Q4",
+    "paperId": "HC-DAILY-2026-08-29",
+    "questionNumber": 4,
+    "topic": "Types of Sentences",
+    "difficulty": "medium",
+    "questionText": "Identify the type of the following sentence:\n'What a beautiful sunset it is!'",
+    "optionA": "Declarative",
+    "optionB": "Interrogative",
+    "optionC": "Exclamatory",
+    "optionD": "Imperative",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Exclamatory\n\n• 'What a beautiful sunset it is!' എന്ന sentence 'What' കൊണ്ട് തുടങ്ങുകയും strong emotion പ്രകടിപ്പിക്കുകയും exclamation mark ഉപയോഗിക്കുകയും ചെയ്യുന്നു.\n• Exclamatory sentences സന്തോഷം, ആശ്ചര്യം തുടങ്ങിയ strong feelings പ്രകടിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു.\n• 'What' + noun phrase + subject + verb + '!' എന്ന pattern ഓർത്തിരുന്നാൽ ഒരിക്കലും miss ആകില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: What/How + adjective/noun + subject + verb + ! = Exclamatory sentence\n• Four types of sentences: Declarative (statement), Interrogative (question), Imperative (command), Exclamatory (strong feeling).\n• Related word group: 'What a...!' , 'How...!' — exclamatory sentences-ന്റെ സ്ഥിരം openers.\n• ⭐ PSC ആവർത്തനം: Types of Sentences topic-ൽ exclamatory vs interrogative confusion ഒരു സ്ഥിരം test ആണ്.\n• ഉദാഹരണ sentences:\n1. What a wonderful performance that was!\n2. How brave she is!\n3. What a shame it is that he failed!",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Declarative\n  - Declarative sentences fact പറയുന്നു, exclamation mark ഇല്ല.\n  - 🪤 PSC Trap: subject-verb structure കണ്ട് declarative എന്ന് കരുതുന്ന student-നെ കുടുക്കും.\n\n• (B) Interrogative\n  - Interrogative sentences question ആണ്, '?' ഉപയോഗിക്കുന്നു — ഇവിടെ '!' ആണ് ഉള്ളത്.\n  - 🪤 PSC Trap: 'What' കൊണ്ട് തുടങ്ങുന്നതിനാൽ question ആണ് എന്ന് കരുതുന്ന student-നെ കുടുക്കും.\n\n• (D) Imperative\n  - Imperative sentences order/request ആണ് — ഇവിടെ ഒരു command ഇല്ല, admiration മാത്രം.\n  - 🪤 PSC Trap: imperative-ഉം exclamatory-ഉം confuse ചെയ്യുന്ന student-നെ കുടുക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: '! കണ്ടാൽ Exclamatory, ? കണ്ടാൽ Interrogative' എന്ന് ഓർക്കുക.\n• Word family: 'What a...!' , 'How...!' openers ഒരു group ആയി പഠിക്കുക.\n• PSC exam strategy: sentence-ന്റെ ending punctuation ആദ്യം നോക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-29-Q5",
+    "paperId": "HC-DAILY-2026-08-29",
+    "questionNumber": 5,
+    "topic": "Parts of Speech",
+    "difficulty": "medium",
+    "questionText": "Identify the part of speech of the word in italics in the following sentence.\nShe __quickly__ finished her homework before dinner.",
+    "optionA": "Adjective",
+    "optionB": "Adverb",
+    "optionC": "Noun",
+    "optionD": "Preposition",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Adverb\n\n• 'Quickly' എന്ന word verb 'finished'-നെ modify ചെയ്യുന്നു — 'എങ്ങനെ' എന്ന ചോദ്യത്തിന് ഉത്തരം നൽകുന്നു, അതുകൊണ്ട് adverb ആണ്.\n• '-ly' suffix ഉള്ള മിക്ക words-ഉം (manner) adverbs ആണ് — quickly, slowly, carefully.\n• Adverbs verb, adjective, അല്ലെങ്കിൽ മറ്റൊരു adverb-നെ modify ചെയ്യും.\n• PSC-യിൽ '-ly' word identification ഒരു guaranteed mark topic ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Adjective + ly = Adverb (manner) — modifies verb, not noun\n• Adverbs of manner 'how' എന്ന ചോദ്യത്തിന് ഉത്തരം നൽകുന്നു.\n• Related word group: quick(adj)→quickly(adv), slow(adj)→slowly(adv), careful(adj)→carefully(adv).\n• ⭐ PSC ആവർത്തനം: Parts of Speech topic-ൽ adverb vs adjective identification സ്ഥിരമായി ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. He drives carefully on busy roads.\n2. She sings beautifully at every concert.\n3. They finished the project quickly.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Adjective\n  - Adjectives noun-നെ modify ചെയ്യും — ഇവിടെ 'quickly' verb 'finished'-നെയാണ് modify ചെയ്യുന്നത്.\n  - 🪤 PSC Trap: root word 'quick' adjective ആയതിനാൽ 'quickly'-യും adjective ആണെന്ന് കരുതുന്ന student-നെ കുടുക്കും.\n\n• (C) Noun\n  - Noun ഒരു person/place/thing-നെ സൂചിപ്പിക്കും — 'quickly' action എങ്ങനെ നടന്നു എന്ന് പറയുന്നു.\n  - 🪤 PSC Trap: basic distractor, careless students-നെ കുടുക്കാൻ.\n\n• (D) Preposition\n  - Preposition relationship കാണിക്കും ('before dinner' ആണ് ഇവിടെ preposition phrase) — 'quickly' അതല്ല.\n  - 🪤 PSC Trap: sentence-ൽ 'before' എന്ന preposition ഉള്ളതിനാൽ confuse ചെയ്യാൻ വച്ചത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: '-LY കണ്ടാൽ verb-നെ modify ചെയ്യുന്നോ എന്ന് നോക്കുക — അതെയെങ്കിൽ Adverb!'\n• Word family: quick→quickly, slow→slowly, careful→carefully.\n• PSC exam strategy: underlined word ഏത് word-നെ describe ചെയ്യുന്നു എന്ന് നോക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-29-Q6",
+    "paperId": "HC-DAILY-2026-08-29",
+    "questionNumber": 6,
+    "topic": "Foreign Words and Phrases",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the phrase in italics.\nHelping students crack the PSC exam is the __raison d'être__ of this coaching institute.",
+    "optionA": "the most important reason for something's existence",
+    "optionB": "a temporary solution to a problem",
+    "optionC": "an unofficial agreement between two parties",
+    "optionD": "a formal complaint lodged against an authority",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) the most important reason for something's existence\n\n• 'Raison d'être' ഫ്രഞ്ച് ഭാഷയിൽ നിന്നുള്ള phrase ആണ്, അക്ഷരാർത്ഥത്തിൽ 'reason for being' എന്നാണ് അർഥം.\n• ഒരു institution, project, അല്ലെങ്കിൽ person-ന്റെ ഏറ്റവും പ്രധാനപ്പെട്ട existence-കാരണം എന്നാണ് ഇത് സൂചിപ്പിക്കുന്നത്.\n• Etymology hint: 'raison' = reason, 'être' = to be (French).\n• PSC-യിൽ ഇത്തരം French loan phrases പതിവായി ചോദിക്കാറുണ്ട്, guaranteed mark!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Raison d'être = 'reason for being' → the core purpose of existence\n• Foreign phrases (French/Latin) English-ൽ അതേപടി ഉപയോഗിക്കുന്നു, ഓരോന്നിനും ഒരു fixed meaning ഉണ്ട്.\n• Related word group: modus operandi (method of working), status quo (existing state), bona fide (genuine).\n• ⭐ PSC ആവർത്തനം: Foreign Words and Phrases topic PSC-യിൽ ഉയർന്ന frequency-യിൽ വരുന്ന ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. Teaching has always been her raison d'être.\n2. Innovation is the raison d'être of this company.\n3. Serving the community is the club's raison d'être.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) a temporary solution to a problem\n  - ഇത് 'stopgap' എന്ന വാക്കിന്റെ അർഥമാണ്, 'raison d'être'-യുടെ അല്ല.\n  - 🪤 PSC Trap: unrelated എന്നാൽ plausible-ആയി തോന്നുന്ന meaning.\n\n• (C) an unofficial agreement between two parties\n  - ഇത് 'modus vivendi' എന്ന വേറൊരു French phrase-ന്റെ അർഥമാണ്.\n  - 🪤 PSC Trap: മറ്റൊരു similar-sounding foreign phrase-മായി confuse ചെയ്യാൻ വച്ചത്.\n\n• (D) a formal complaint lodged against an authority\n  - ഇതിന് 'raison d'être'-യുമായി യാതൊരു ബന്ധവുമില്ല.\n  - 🪤 PSC Trap: basic distractor, careless students-നെ കുടുക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Raison = Reason, être = to be' — 'Reason-to-be' എന്ന് split ചെയ്ത് ഓർക്കുക.\n• Word family: raison d'être, status quo, modus vivendi, carte blanche — ഒരു list ആയി പഠിക്കുക.\n• PSC exam strategy: foreign phrase ചോദ്യങ്ങളിൽ literal translation ആദ്യം ചെയ്ത് നോക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-29-Q7",
+    "paperId": "HC-DAILY-2026-08-29",
+    "questionNumber": 7,
+    "topic": "Singular and Plural",
+    "difficulty": "medium",
+    "questionText": "Choose the correct plural form of the noun 'analysis'.",
+    "optionA": "analysises",
+    "optionB": "analyses",
+    "optionC": "analysis's",
+    "optionD": "analysiss",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) analyses\n\n• 'Analysis' ഗ്രീക്ക് ഭാഷയിൽ നിന്ന് വന്ന word ആണ്, '-sis'-ൽ അവസാനിക്കുന്ന words-ന്റെ plural form '-ses' ആയി മാറും.\n• 'Analysis' → 'Analyses' എന്നതാണ് ശരിയായ irregular plural.\n• ഇത് crisis→crises, thesis→theses, basis→bases പോലുള്ള Greek-origin nouns-ന്റെ ഒരു fixed pattern ആണ്.\n• PSC-യിൽ ഈ '-sis→-ses' pattern ഒരു സ്ഥിരം ചോദ്യമാണ്, guaranteed mark!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Noun ending in -sis → plural ends in -ses (analysis→analyses)\n• Greek-origin nouns ending -sis എപ്പോഴും plural-ൽ -ses ആയി മാറും — '-s' മാത്രം ചേർക്കില്ല.\n• Related word group: crisis→crises, thesis→theses, basis→bases, hypothesis→hypotheses, diagnosis→diagnoses.\n• ⭐ PSC ആവർത്തനം: Singular and Plural topic-ൽ irregular Greek/Latin plurals പതിവായി ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. The scientists conducted several analyses of the water samples.\n2. Both hypotheses were tested in the lab.\n3. The crises of the last decade reshaped the economy.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) analysises\n  - ഇത് ഒരു real word അല്ല — '-sis' നാമങ്ങൾക്ക് '-s' നേരിട്ട് ചേർക്കുന്ന രീതി ശരിയല്ല.\n  - 🪤 PSC Trap: regular plural rule (add -s) blindly apply ചെയ്യുന്ന student-നെ കുടുക്കും.\n\n• (C) analysis's\n  - ഇത് possessive form ആണ്, plural അല്ല.\n  - 🪤 PSC Trap: apostrophe-s-നെ plural-മായി confuse ചെയ്യുന്ന student-നെ കുടുക്കും.\n\n• (D) analysiss\n  - ഇത് ഒരു spelling error മാത്രമാണ്, real word അല്ല.\n  - 🪤 PSC Trap: careless reading ചെയ്യുന്ന student-നെ കുടുക്കാൻ വച്ച basic distractor.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: '-SIS മാറി -SES ആകും' എന്ന് ഓർക്കുക.\n• Word family: analysis, crisis, thesis, basis, hypothesis, diagnosis — ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: word '-sis'-ൽ അവസാനിക്കുന്നത് കണ്ടാൽ ഉടനെ '-ses' plural ആണോ എന്ന് ചെക്ക് ചെയ്യുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-29-Q8",
+    "paperId": "HC-DAILY-2026-08-29",
+    "questionNumber": 8,
+    "topic": "Idioms",
+    "difficulty": "medium",
+    "questionText": "Choose the meaning of the idiom in italics.\nAfter losing money in that scheme, he refused to invest again — __once bitten, twice shy__.",
+    "optionA": "cautious after a previous unpleasant experience",
+    "optionB": "eager to take up new opportunities",
+    "optionC": "unaware of past mistakes",
+    "optionD": "confident regardless of past failures",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) cautious after a previous unpleasant experience\n\n• 'Once bitten, twice shy' എന്ന idiom-ന്റെ അർഥം: ഒരു മോശം അനുഭവം ഉണ്ടായ ശേഷം ആ വ്യക്തി സമാനമായ situations-ൽ കൂടുതൽ ജാഗ്രത കാണിക്കും എന്നാണ്.\n• Sentence-ൽ, പണം നഷ്ടപ്പെട്ട ശേഷം വീണ്ടും invest ചെയ്യാൻ വിസമ്മതിക്കുന്നത് ഈ caution-നെ കാണിക്കുന്നു.\n• ഇത് 'a burnt child dreads the fire' എന്ന idiom-മായി സമാനമായ meaning ഉള്ള idiom ആണ്.\n• PSC-യിൽ caution-related idioms പതിവായി ചോദിക്കാറുണ്ട്, guaranteed mark!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Once bitten, twice shy = പഴയ മോശം അനുഭവം → ഇപ്പോൾ extra caution\n• Idioms literal meaning-ൽ നിന്ന് വ്യത്യസ്തമായ figurative meaning ഉള്ള fixed expressions ആണ്.\n• Related word group: 'a burnt child dreads the fire', 'better safe than sorry' — caution-related idioms.\n• ⭐ PSC ആവർത്തനം: Idioms topic PSC-യിൽ ഏറ്റവും ഉയർന്ന frequency-യിൽ വരുന്ന ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. After being cheated once, she never trusts strangers with money again — once bitten, twice shy.\n2. He double-checks every contract now; once bitten, twice shy.\n3. Once bitten, twice shy — that's why the company now audits every vendor.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) eager to take up new opportunities\n  - ഇത് idiom-ന്റെ അർഥത്തിന് നേരെ വിപരീതം ആണ്.\n  - 🪤 PSC Trap: opposite meaning വച്ച് confuse ചെയ്യാൻ ഉള്ള classic trap.\n\n• (C) unaware of past mistakes\n  - ഇത് idiom-ന്റെ അർഥത്തിന് നേരെ വിപരീതം ആണ് — idiom past mistake ഓർത്തിരിക്കുന്നതിനെ സൂചിപ്പിക്കുന്നു.\n  - 🪤 PSC Trap: 'awareness' vs 'unawareness' confuse ചെയ്യാൻ വച്ചത്.\n\n• (D) confident regardless of past failures\n  - ഇത് idiom-ന്റെ caution-ന് നേരെ വിപരീതമായ overconfidence-നെ സൂചിപ്പിക്കുന്നു.\n  - 🪤 PSC Trap: idiom-ന്റെ tone (caution) confidence ആയി തെറ്റിദ്ധരിപ്പിക്കാൻ വച്ചത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: പാമ്പ് കടിച്ച കുട്ടി അടുത്ത തവണ പാമ്പിന്റെ അടുത്ത് പോകാൻ പേടിക്കും എന്ന് ചിന്തിക്കുക.\n• Word family: caution idioms ഒരു group ആയി പഠിക്കുക — 'burnt child dreads fire', 'better safe than sorry'.\n• PSC exam strategy: idiom ചോദ്യങ്ങളിൽ sentence-ന്റെ overall tone ആദ്യം identify ചെയ്യുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-29-Q9",
+    "paperId": "HC-DAILY-2026-08-29",
+    "questionNumber": 9,
+    "topic": "Words Often Confused",
+    "difficulty": "medium",
+    "questionText": "Choose the correct word to complete the sentence:\nHe always tends to __________ the rules of the club.",
+    "optionA": "flaunt",
+    "optionB": "flout",
+    "optionC": "float",
+    "optionD": "flounce",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) flout\n\n• 'Flout' എന്നാൽ ഒരു rule, law, അല്ലെങ്കിൽ convention-നെ openly അവഗണിക്കുക/ലംഘിക്കുക എന്നാണ് അർഥം — 'the rules' എന്ന object-ന് ഇത് കൃത്യമായി യോജിക്കുന്നു.\n• 'Flaunt' എന്നാൽ എന്തെങ്കിലും show off ചെയ്യുക (wealth, beauty) എന്നാണ് അർഥം — rules-നെ 'flaunt' ചെയ്യാൻ കഴിയില്ല.\n• ഈ രണ്ട് words spelling-ൽ സമാനമായതിനാൽ PSC-യിൽ ഒരു classic confusable pair ആണ്.\n• Guaranteed mark topic — 'flout the rules', 'flaunt wealth' എന്ന് ഓർത്തിരുന്നാൽ ഒരിക്കലും miss ആകില്ല!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Flout = disobey/violate (rules/law); Flaunt = show off (wealth/beauty)\n• 'Flout' നിയമങ്ങൾ/norms-നൊപ്പം ഉപയോഗിക്കുന്നു; 'Flaunt' possessions/qualities-നൊപ്പം ഉപയോഗിക്കുന്നു.\n• Related word group: flout (violate), flaunt (show off), float (stay on water), flounce (move dramatically).\n• ⭐ PSC ആവർത്തനം: Words Often Confused topic-ൽ flout/flaunt pair പതിവായി ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. The company was fined for flouting safety regulations.\n2. She loves to flaunt her new jewellery at parties.\n3. Wooden logs float on water.\n4. He flounced out of the room in anger.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) flaunt\n  - 'Flaunt' = show off ചെയ്യുക, rules-നൊപ്പം object ആയി ഉപയോഗിക്കില്ല.\n  - 🪤 PSC Trap: spelling-ൽ 'flout'-മായി സാമ്യമുള്ളതിനാൽ ഏറ്റവും common confusion.\n\n• (C) float\n  - 'Float' = വെള്ളത്തിൽ പൊങ്ങിക്കിടക്കുക — rules-നൊപ്പം അർഥപരമായി യോജിക്കില്ല.\n  - 🪤 PSC Trap: spelling similarity വച്ച് careless student-നെ കുടുക്കും.\n\n• (D) flounce\n  - 'Flounce' = ദേഷ്യത്തോടെ നാടകീയമായി നീങ്ങുക — ഇത് rules-നൊപ്പം object ആയി ഉപയോഗിക്കില്ല.\n  - 🪤 PSC Trap: spelling-ൽ 'flout'-മായി അടുത്ത് നിൽക്കുന്ന advanced distractor.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'FLOUT ends in OUT — rules go OUT the window when you flout them.'\n• Word family: flout/flaunt/float/flounce — spelling സാമ്യമുള്ള ഈ നാല് words ഒരു group ആയി പഠിക്കുക.\n• PSC exam strategy: object word നോക്കുക — 'rules/law' ആണെങ്കിൽ flout, 'wealth/beauty' ആണെങ്കിൽ flaunt."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-08-29-Q10",
+    "paperId": "HC-DAILY-2026-08-29",
+    "questionNumber": 10,
+    "topic": "Antonyms",
+    "difficulty": "medium",
+    "questionText": "Choose the antonym of the word in italics.\nThe professor's __verbose__ explanation confused most of the students.",
+    "optionA": "concise",
+    "optionB": "elaborate",
+    "optionC": "lengthy",
+    "optionD": "wordy",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) concise\n\n• 'Verbose' എന്നാൽ ആവശ്യത്തിലധികം words ഉപയോഗിക്കുന്ന/വാചാലമായ എന്നാണ് അർഥം — ഇതിന്റെ exact antonym 'concise' (ചുരുക്കി, കൃത്യമായി പറയുന്ന) ആണ്.\n• 'Concise' എന്നാൽ ചുരുക്കത്തിലും വ്യക്തമായും പറയുന്നത് എന്നാണ് — verbose-ന്റെ നേരെ വിപരീതം.\n• Etymology hint: 'Verbose' ലാറ്റിൻ 'verbosus' (wordy) എന്നതിൽ നിന്ന്; 'Concise' ലാറ്റിൻ 'concisus' (cut short) എന്നതിൽ നിന്ന്.\n• PSC-യിൽ verbose/concise pair ഒരു സ്ഥിരം antonym ചോദ്യമാണ്, guaranteed mark!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Verbose (too many words) ↔ Concise (few, clear words)\n• Antonym ചോദ്യങ്ങളിൽ distractors പലപ്പോഴും target word-ന്റെ synonyms ആയിരിക്കും.\n• Related word group: verbose, wordy, lengthy, elaborate (synonyms); concise, brief, succinct, terse (antonyms).\n• ⭐ PSC ആവർത്തനം: Antonyms topic PSC-യിൽ ഏറ്റവും ഉയർന്ന frequency-യിൽ വരുന്ന ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. Please give a concise summary instead of a verbose report.\n2. Her concise answer impressed the interview panel.\n3. Unlike his verbose colleague, he was known for being concise.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) elaborate\n  - 'Elaborate' = വിശദമായി/സങ്കീർണ്ണമായി — ഇത് 'verbose'-ന്റെ synonym-നോട് അടുത്താണ്, antonym അല്ല.\n  - 🪤 PSC Trap: synonym-നെ antonym ആയി തെറ്റിദ്ധരിപ്പിക്കാൻ വച്ച classic trap.\n\n• (C) lengthy\n  - 'Lengthy' = നീണ്ട, verbose-ന്റെ direct synonym ആണ്.\n  - 🪤 PSC Trap: verbose-ന്റെ meaning-മായി ഏറ്റവും അടുത്ത് നിൽക്കുന്ന distractor.\n\n• (D) wordy\n  - 'Wordy' = ആവശ്യത്തിലധികം words ഉപയോഗിക്കുന്ന — ഇത് verbose-ന്റെ നേരിട്ടുള്ള synonym ആണ്.\n  - 🪤 PSC Trap: 'verbose' എന്ന word-ന്റെ definition തന്നെയായ word വച്ച് confuse ചെയ്യാൻ വച്ചത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'CONCISE = CON + CISE (cut) → words CUT SHORT' എന്ന് etymology വച്ച് ഓർക്കുക.\n• Word family: verbose/wordy/lengthy/elaborate (synonyms) vs concise/brief/succinct/terse (antonyms).\n• PSC exam strategy: antonym ചോദ്യങ്ങളിൽ ആദ്യം target word-ന്റെ synonyms ഏതെല്ലാം എന്ന് identify ചെയ്യുക."
+    }
   }
 ]
