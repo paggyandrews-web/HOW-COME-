@@ -3,7 +3,7 @@
 // feel identical even though they track different question sets.
 
 export const STATUS_META = {
-  'not-started': { label: 'Not started', color: 'var(--text2)', bg: 'rgba(136,136,136,0.14)' },
+  'not-started': { label: 'Not started', color: '#f87171', bg: 'rgba(248,113,113,0.14)' },
   'in-progress': { label: 'In progress', color: 'var(--accent)', bg: 'rgba(26,157,142,0.14)' },
   'completed': { label: 'Completed', color: 'var(--accent-green)', bg: 'rgba(34,197,94,0.14)' },
 }

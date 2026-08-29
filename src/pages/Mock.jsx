@@ -243,8 +243,7 @@ function PaperList({ onStart, onPractice }) {
           /* Same shape as a Papers-tab card: details stacked on top, then one
              full-width Practice / Timed button row. Keeps the two sections of
              the app looking like the same app. */
-          <div key={p.id} className="card rounded-xl p-4 mb-3 flex flex-col gap-3"
-            style={{ border: '1px solid ' + (due ? DUE_COLOR : 'var(--border)') }}>
+          <div key={p.id} className="card rounded-xl p-4 mb-3 flex flex-col gap-3">
             <div className="flex-1 min-w-0">
               <div className="flex items-center gap-2 flex-wrap">
                 <div className="font-semibold text-sm leading-snug">{p.title}</div>

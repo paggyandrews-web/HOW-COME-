@@ -7,10 +7,11 @@ import { DUE_COLOR } from '../utils/paperStatus'
  * next to the title, status badge, and due banner. Hover/long-press for the
  * plain-English version via the title tooltip.
  *
- *   ● ● ●   all 3 stages done, comfortably ahead of schedule
+ *   ● ● ●   all 3 stages done — that's the whole signal once you get here,
+ *           whether or not another maintenance round is due (the due
+ *           banner elsewhere on the card already says so)
  *   ● ● ○   2 done, 3rd not due yet (dashed, empty)
  *   ● ▲ ○   2 done, 3rd is due right now (solid amber)
- *   ● ● ●  (amber ring) — past the 3-stage plan, due for another round
  */
 export default function RevisionDots({ revisionsDone = 0, due = false }) {
   const filled = Math.min(revisionsDone, 3)
@@ -19,13 +20,9 @@ export default function RevisionDots({ revisionsDone = 0, due = false }) {
     if (i === filled && due) return 'due'
     return 'upcoming'
   })
-  // Already cycled through all 3 stages at least once, and it's due again —
-  // flag the last dot with a ring rather than leaving all 3 looking like
-  // there's nothing left to do.
-  if (filled >= 3 && due) dots[2] = 'due-again'
 
   const stageLabel = filled >= 3
-    ? (due ? 'Due for another revision round' : 'All 3 revisions done')
+    ? 'All 3 revisions done'
     : due
       ? `Revision ${filled + 1} of 3 — due now`
       : `Revision ${filled + 1} of 3 — not due yet`
@@ -35,11 +32,8 @@ export default function RevisionDots({ revisionsDone = 0, due = false }) {
       {dots.map((state, i) => (
         <div key={i} style={{
           width: 7, height: 7, borderRadius: '50%',
-          background: state === 'done' || state === 'due-again'
-            ? 'var(--accent-green)'
-            : state === 'due' ? DUE_COLOR : 'transparent',
+          background: state === 'done' ? 'var(--accent-green)' : state === 'due' ? DUE_COLOR : 'transparent',
           border: state === 'upcoming' ? '1.5px dashed var(--border)' : 'none',
-          boxShadow: state === 'due-again' ? `0 0 0 2px ${DUE_COLOR}` : 'none',
         }} />
       ))}
     </div>

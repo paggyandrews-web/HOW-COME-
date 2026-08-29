@@ -416,11 +416,9 @@ function PaperList({ onStart, onResume }) {
       {shownGroups.map(g => {
         const primary = g.malayalam || g.english
         const langs = visibleLangs(g)
-        const anyDue = langs.some(({ paper }) => displayProgress[paper.id]?.dueForRevision)
 
         return (
-          <div key={g.key} className="card rounded-xl p-3.5 mb-2.5 flex flex-col gap-2.5"
-            style={{ border: '1px solid ' + (anyDue ? DUE_COLOR : 'var(--border)') }}>
+          <div key={g.key} className="card rounded-xl p-3.5 mb-2.5 flex flex-col gap-2.5">
             <div>
               <div className="font-semibold text-sm leading-snug">{primary.post}</div>
               <div className="text-xs mt-1 flex flex-wrap gap-x-2 gap-y-0.5" style={{ color: 'var(--text2)' }}>
@@ -473,13 +471,13 @@ function PaperList({ onStart, onResume }) {
                   <Link key={p.id} to="/register"
                     title="Sign up to take Full 100 papers"
                     className="paper-row rounded-lg px-3 py-2.5 flex items-center gap-2"
-                    style={{ background: 'var(--bg2)', border: '1px solid ' + (due ? DUE_COLOR : 'var(--border)'), textDecoration: 'none' }}>
+                    style={{ background: 'var(--bg2)', border: '1px solid var(--border)', textDecoration: 'none' }}>
                     {row}
                   </Link>
                 ) : (
                   <button key={p.id} onClick={() => (isResumable ? onResume(p) : onStart(p))}
                     className="paper-row rounded-lg px-3 py-2.5 flex items-center gap-2 text-left cursor-pointer"
-                    style={{ background: 'var(--bg2)', border: '1px solid ' + (due ? DUE_COLOR : 'var(--border)'), touchAction: 'manipulation' }}>
+                    style={{ background: 'var(--bg2)', border: '1px solid var(--border)', touchAction: 'manipulation' }}>
                     {row}
                   </button>
                 )

@@ -136,7 +136,6 @@ export default function Papers() {
             <div
               key={paper.id}
               className="card rounded-xl p-4 flex flex-col gap-3"
-              style={due ? { border: `1px solid ${DUE_COLOR}` } : undefined}
             >
               <div className="flex-1 min-w-0">
                 <div className="flex items-start justify-between gap-2">
