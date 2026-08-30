@@ -3,15 +3,15 @@ import { Link } from 'react-router-dom'
 import fullPapers from '../data/fullPapers.json'
 import fullQuestions from '../data/fullQuestions.json'
 import Confetti from '../components/Confetti'
-import Dropdown from '../components/Dropdown'
+import StatusTabs from '../components/StatusTabs'
 import { useAuth } from '../contexts/AuthContext'
 import { useResults } from '../hooks/useResults'
 import { useStreak } from '../hooks/useStreak'
 import { usePaperProgress } from '../hooks/usePaperProgress'
-import { STATUS_META, DUE_COLOR, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, parsePaperDate } from '../utils/paperStatus'
+import { STATUS_META, DUE_COLOR, daysAgo, matchesRevisionBucket, revisionBucket, parsePaperDate } from '../utils/paperStatus'
 import { getDraft, saveDraft, clearDraft, getAllDrafts, draftAttemptedCount } from '../utils/fullHundredDraft'
 import { getFull100LangPref } from '../utils/full100Lang'
-import { getRevisionGapsPref, isRevisionScheduleEnabled } from '../utils/revisionSchedule'
+import { getRevisionGapsPref, isRevisionScheduleEnabled, activeRevisionStages } from '../utils/revisionSchedule'
 
 const NEGATIVE_MARK = 1 / 3
 
@@ -245,11 +245,9 @@ function PaperList({ onStart, onResume }) {
   // pattern as langPref above.
   const revisionGaps = useMemo(() => getRevisionGapsPref(), [])
   const revisionEnabled = useMemo(() => isRevisionScheduleEnabled(), [])
+  const revisionStages = useMemo(() => activeRevisionStages(revisionGaps), [revisionGaps])
+  const effectiveStages = revisionEnabled ? revisionStages : 0
   const { progress, loading, summary } = usePaperProgress(fullPapers, SCOREABLE_FULL_QUESTIONS, revisionGaps, revisionEnabled)
-  const statusFilterOptions = useMemo(
-    () => revisionEnabled ? STATUS_FILTER_OPTIONS : STATUS_FILTER_OPTIONS.filter(o => o.value !== 'due'),
-    [revisionEnabled]
-  )
 
   // Local-only autosave drafts (never synced to Firestore — see
   // utils/fullHundredDraft.js). Read once per mount; PaperList remounts
@@ -271,6 +269,12 @@ function PaperList({ onStart, onResume }) {
     })
     return map
   }, [progress, drafts])
+
+  const bucketCounts = useMemo(() => {
+    const c = { 'not-started': 0, pending: 0, completed: 0 }
+    Object.values(displayProgress).forEach(p => { c[revisionBucket(p, effectiveStages)]++ })
+    return c
+  }, [displayProgress, effectiveStages])
 
   const counts = useMemo(() => {
     const map = {}
@@ -333,7 +337,7 @@ function PaperList({ onStart, onResume }) {
     .filter(g => {
       const langs = visibleLangs(g)
       if (langs.length === 0) return false
-      return langs.some(({ paper }) => matchesStatusFilter(displayProgress[paper.id], status))
+      return langs.some(({ paper }) => matchesRevisionBucket(displayProgress[paper.id], status, effectiveStages))
     })
     .filter(groupMatchesQuery)
 
@@ -373,13 +377,9 @@ function PaperList({ onStart, onResume }) {
         )}
       </div>
 
-      <Dropdown
-        value={status}
-        onChange={setStatus}
-        placeholder="All Statuses"
-        className="w-44 mb-4"
-        options={statusFilterOptions}
-      />
+      <div className="mb-4">
+        <StatusTabs value={status} onChange={setStatus} counts={bucketCounts} loading={loading} />
+      </div>
 
       {needsSignup && (
         <div className="rounded-xl p-5 mb-4 text-center"
@@ -433,6 +433,7 @@ function PaperList({ onStart, onResume }) {
                 const prog = displayProgress[p.id]
                 const meta = prog ? STATUS_META[prog.status] : null
                 const due = prog?.dueForRevision
+                const fullyRevised = !due && revisionBucket(prog, effectiveStages) === 'completed' && prog?.lastAttemptDate
                 const isResumable = prog?.status === 'in-progress'
                 const isCompleted = prog?.status === 'completed'
                 const actionColor = !loading && meta ? meta.color : 'var(--accent)'
@@ -457,6 +458,7 @@ function PaperList({ onStart, onResume }) {
                     >
                       {p.paperCode} · {counts[p.id] || 0}q
                       {due && <span style={{ color: DUE_COLOR }}> · due {daysAgo(prog.lastAttemptDate)}d ago</span>}
+                      {fullyRevised && <span style={{ color: 'var(--accent-green)' }}> · revision completed {daysAgo(prog.lastAttemptDate)}d ago</span>}
                     </span>
                     <span
                       className="text-xs font-bold shrink-0 whitespace-nowrap"

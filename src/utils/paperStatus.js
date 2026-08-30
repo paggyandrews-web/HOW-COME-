@@ -29,6 +29,41 @@ export function parsePaperDate(str) {
   return new Date(Number(m[3]), month, Number(m[1])).getTime()
 }
 
+// Simplified 3-bucket view for the "revision tracker" tabs (Papers / Full 100
+// / Mock) — collapses the underlying per-paper progress into the three
+// buckets that map onto a Not Started / Revision Pending / Revision
+// Completed tab strip:
+//   - 'not-started'  never attempted
+//   - 'pending'      partially attempted, OR fully completed but hasn't yet
+//                     gone through every configured revision stage
+//   - 'completed'    fully completed AND every configured revision stage is
+//                     done (mirrors RevisionDots' ●●● state — once you get
+//                     there it stays "completed" even if an ongoing
+//                     maintenance round comes due later; the due banner
+//                     elsewhere on the card is the separate signal for that)
+//
+// totalStages is the caller's effective stage count for THIS bucketing —
+// pass 0 (or omit) when the revision-schedule feature is switched off, so a
+// plain "completed" is enough on its own rather than waiting on a schedule
+// that isn't being tracked.
+export const REVISION_BUCKET_META = {
+  'not-started': { label: 'Not Started', color: '#f87171', bg: 'rgba(248,113,113,0.14)' },
+  'pending': { label: 'Revision Pending', color: DUE_COLOR, bg: DUE_BG },
+  'completed': { label: 'Revision Completed', color: 'var(--accent-green)', bg: 'rgba(34,197,94,0.14)' },
+}
+
+export function revisionBucket(prog, totalStages = 0) {
+  if (!prog || prog.status === 'not-started') return 'not-started'
+  if (prog.status !== 'completed') return 'pending'
+  if (totalStages > 0 && (prog.revisionsDone || 0) < totalStages) return 'pending'
+  return 'completed'
+}
+
+export function matchesRevisionBucket(prog, bucket, totalStages = 0) {
+  if (!bucket) return true
+  return revisionBucket(prog, totalStages) === bucket
+}
+
 export const STATUS_FILTER_OPTIONS = [
   { value: '', label: 'All Statuses' },
   { value: 'not-started', label: 'Not Started' },

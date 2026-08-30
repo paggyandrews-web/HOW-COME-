@@ -3,11 +3,12 @@ import { useSearchParams, Link } from 'react-router-dom'
 import papers from '../data/papers.json'
 import questions from '../data/questions.json'
 import Dropdown from '../components/Dropdown'
+import StatusTabs from '../components/StatusTabs'
 import RevisionDots from '../components/RevisionDots'
 import SignupGate from '../components/SignupGate'
 import { useAuth } from '../contexts/AuthContext'
 import { usePaperProgress } from '../hooks/usePaperProgress'
-import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, statusBadgeText } from '../utils/paperStatus'
+import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, matchesRevisionBucket, revisionBucket, statusBadgeText } from '../utils/paperStatus'
 import { getRevisionGapsPref, isRevisionScheduleEnabled, activeRevisionStages } from '../utils/revisionSchedule'
 
 // Group by the actual year of the test date (not the paper-code year, which
@@ -36,10 +37,16 @@ export default function Papers() {
   const revisionEnabled = useMemo(() => isRevisionScheduleEnabled(), [])
   const revisionStages = useMemo(() => activeRevisionStages(revisionGaps), [revisionGaps])
   const { progress, loading, summary } = usePaperProgress(papers, questions, revisionGaps, revisionEnabled)
-  const statusFilterOptions = useMemo(
-    () => revisionEnabled ? STATUS_FILTER_OPTIONS : STATUS_FILTER_OPTIONS.filter(o => o.value !== 'due'),
-    [revisionEnabled]
-  )
+  // "Fully done" for bucketing purposes only means something while the
+  // revision-schedule feature is actually on — otherwise every completed
+  // paper would sit in "Revision Pending" forever, waiting on a schedule
+  // nobody is tracking.
+  const effectiveStages = revisionEnabled ? revisionStages : 0
+  const bucketCounts = useMemo(() => {
+    const c = { 'not-started': 0, pending: 0, completed: 0 }
+    Object.values(progress).forEach(p => { c[revisionBucket(p, effectiveStages)]++ })
+    return c
+  }, [progress, effectiveStages])
 
   if (!user) {
     return (
@@ -68,7 +75,7 @@ export default function Papers() {
     papers
       .filter(p => {
         if (year && testYear(p) !== year) return false
-        if (!matchesStatusFilter(progress[p.id], status)) return false
+        if (!matchesRevisionBucket(progress[p.id], status, effectiveStages)) return false
         if (!query) return true
         const q = query.toLowerCase()
         return (
@@ -79,7 +86,7 @@ export default function Papers() {
         )
       })
       .sort((a, b) => parseDate(b.date) - parseDate(a.date)),
-    [year, status, query, progress])
+    [year, status, query, progress, effectiveStages])
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-6">
@@ -97,7 +104,7 @@ export default function Papers() {
       </p>
 
       {/* Filters */}
-      <div className="flex flex-wrap gap-3 mb-6">
+      <div className="flex flex-wrap gap-3 mb-3">
         <input
           type="text"
           placeholder="Search by post name or code..."
@@ -116,13 +123,10 @@ export default function Papers() {
             ...YEARS.map(y => ({ value: y, label: y })),
           ]}
         />
-        <Dropdown
-          value={status}
-          onChange={setStatus}
-          placeholder="All Statuses"
-          className="w-44"
-          options={statusFilterOptions}
-        />
+      </div>
+
+      <div className="mb-6">
+        <StatusTabs value={status} onChange={setStatus} counts={bucketCounts} loading={loading} />
       </div>
 
       {/* Papers grid */}
@@ -132,6 +136,12 @@ export default function Papers() {
           const prog = progress[paper.id]
           const meta = prog ? STATUS_META[prog.status] : null
           const due = prog?.dueForRevision
+          // Fully through every configured revision stage (the same signal
+          // that puts this paper in the green "Revision Completed" tab) —
+          // shown as its own banner only when nothing is due right now, so
+          // a card never shows both an amber "due" and a green "done" line
+          // at once.
+          const fullyRevised = !due && revisionBucket(prog, effectiveStages) === 'completed' && prog?.lastAttemptDate
 
           return (
             <div
@@ -173,6 +183,14 @@ export default function Papers() {
                     style={{ color: DUE_COLOR, background: DUE_BG }}
                   >
                     ⏰ Due for revision — last practiced {daysAgo(prog.lastAttemptDate)}d ago
+                  </div>
+                )}
+                {fullyRevised && (
+                  <div
+                    className="text-[11px] font-semibold mt-2 px-2 py-1.5 rounded-lg"
+                    style={{ color: 'var(--accent-green)', background: 'rgba(34,197,94,0.14)' }}
+                  >
+                    ✅ Revision completed {daysAgo(prog.lastAttemptDate)}d ago
                   </div>
                 )}
               </div>

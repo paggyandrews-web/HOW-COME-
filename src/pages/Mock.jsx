@@ -4,12 +4,12 @@ import modelPapers from '../data/modelPapers.json'
 import modelQuestions from '../data/modelQuestions.json'
 import { useAuth } from '../contexts/AuthContext'
 import Confetti from '../components/Confetti'
-import Dropdown from '../components/Dropdown'
+import StatusTabs from '../components/StatusTabs'
 import RevisionDots from '../components/RevisionDots'
 import { useResults } from '../hooks/useResults'
 import { useStreak } from '../hooks/useStreak'
 import { usePaperProgress } from '../hooks/usePaperProgress'
-import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, STATUS_FILTER_OPTIONS, matchesStatusFilter, statusBadgeText } from '../utils/paperStatus'
+import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, matchesRevisionBucket, revisionBucket, statusBadgeText } from '../utils/paperStatus'
 import { getRevisionGapsPref, isRevisionScheduleEnabled, activeRevisionStages } from '../utils/revisionSchedule'
 import { unlockAudio, playChime } from '../utils/sound'
 import { tap } from '../utils/haptics'
@@ -199,13 +199,15 @@ function PaperList({ onStart, onPractice }) {
   const revisionEnabled = useMemo(() => isRevisionScheduleEnabled(), [])
   const revisionStages = useMemo(() => activeRevisionStages(revisionGaps), [revisionGaps])
   const { progress, loading, summary } = usePaperProgress(visiblePapers, CAPPED_MODEL_QUESTIONS, revisionGaps, revisionEnabled)
-  const statusFilterOptions = useMemo(
-    () => revisionEnabled ? STATUS_FILTER_OPTIONS : STATUS_FILTER_OPTIONS.filter(o => o.value !== 'due'),
-    [revisionEnabled]
-  )
+  const effectiveStages = revisionEnabled ? revisionStages : 0
+  const bucketCounts = useMemo(() => {
+    const c = { 'not-started': 0, pending: 0, completed: 0 }
+    Object.values(progress).forEach(p => { c[revisionBucket(p, effectiveStages)]++ })
+    return c
+  }, [progress, effectiveStages])
   const shownPapers = useMemo(
-    () => visiblePapers.filter(p => matchesStatusFilter(progress[p.id], status)),
-    [visiblePapers, progress, status]
+    () => visiblePapers.filter(p => matchesRevisionBucket(progress[p.id], status, effectiveStages)),
+    [visiblePapers, progress, status, effectiveStages]
   )
 
   return (
@@ -226,13 +228,9 @@ function PaperList({ onStart, onPractice }) {
         )}
       </p>
 
-      <Dropdown
-        value={status}
-        onChange={setStatus}
-        placeholder="All Statuses"
-        className="w-44 mb-4"
-        options={statusFilterOptions}
-      />
+      <div className="mb-4">
+        <StatusTabs value={status} onChange={setStatus} counts={bucketCounts} loading={loading} />
+      </div>
 
       {shownPapers.map(p => {
         const isDaily = p.type === 'daily'
@@ -240,6 +238,7 @@ function PaperList({ onStart, onPractice }) {
         const prog = progress[p.id]
         const meta = prog ? STATUS_META[prog.status] : null
         const due = prog?.dueForRevision
+        const fullyRevised = !due && revisionBucket(prog, effectiveStages) === 'completed' && prog?.lastAttemptDate
         return (
           /* Same shape as a Papers-tab card: details stacked on top, then one
              full-width Practice / Timed button row. Keeps the two sections of
@@ -273,6 +272,14 @@ function PaperList({ onStart, onPractice }) {
                   style={{ color: DUE_COLOR, background: DUE_BG }}
                 >
                   ⏰ Due for revision — last practiced {daysAgo(prog.lastAttemptDate)}d ago
+                </div>
+              )}
+              {fullyRevised && (
+                <div
+                  className="text-[11px] font-semibold mt-2 px-2 py-1.5 rounded-lg"
+                  style={{ color: 'var(--accent-green)', background: 'rgba(34,197,94,0.14)' }}
+                >
+                  ✅ Revision completed {daysAgo(prog.lastAttemptDate)}d ago
                 </div>
               )}
             </div>
