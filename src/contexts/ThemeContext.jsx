@@ -8,10 +8,8 @@ export const themes = [
   { id: 'black', label: '⬛', title: 'Black' },
   { id: 'pink', label: '🌸', title: 'Pink' },
   { id: 'wine', label: '🍷', title: 'Wine' },
-  { id: 'crimson', label: '🔴', title: 'Crimson' },
   { id: 'mauve', label: '💜', title: 'Mauve' },
   { id: 'moss', label: '🌿', title: 'Moss' },
-  { id: 'nocturne', label: '🌙', title: 'Nocturne' },
 ]
 
 export function ThemeProvider({ children }) {
