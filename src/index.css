@@ -68,6 +68,66 @@
   --come-color: #96325f;
 }
 
+[data-theme="crimson"] {
+  --bg: #000000;
+  --bg2: #111111;
+  --surface: #111111;
+  --border: #2b1717;
+  --text: #f1f5f9;
+  --text2: #cfa6a6;
+  --accent: #a60303;
+  --accent-hover: #8d0303;
+  --accent-text: #ffffff;
+  --card: #111111;
+  --shadow: 0 1px 3px rgba(166,3,3,0.15);
+  --come-color: #a60303;
+}
+
+[data-theme="mauve"] {
+  --bg: #000000;
+  --bg2: #111111;
+  --surface: #111111;
+  --border: #24172b;
+  --text: #f1f5f9;
+  --text2: #c0a6cf;
+  --accent: #725980;
+  --accent-hover: #614d6d;
+  --accent-text: #ffffff;
+  --card: #111111;
+  --shadow: 0 1px 3px rgba(114,89,128,0.15);
+  --come-color: #725980;
+}
+
+[data-theme="moss"] {
+  --bg: #000000;
+  --bg2: #111111;
+  --surface: #111111;
+  --border: #292b17;
+  --text: #f1f5f9;
+  --text2: #cacfa6;
+  --accent: #95a322;
+  --accent-hover: #7f8a1d;
+  --accent-text: #1f2207;
+  --card: #111111;
+  --shadow: 0 1px 3px rgba(149,163,34,0.15);
+  --come-color: #95a322;
+}
+
+[data-theme="nocturne"] {
+  --bg: #000000;
+  --bg2: #111111;
+  --surface: #111111;
+  --border: #171d2b;
+  --text: #f1f5f9;
+  --text2: #a6b3cf;
+  --accent: #09142c;
+  --accent-hover: #081125;
+  --accent-text: #ffffff;
+  --card: #111111;
+  --shadow: 0 1px 3px rgba(9,20,44,0.15);
+  --come-color: #09142c;
+}
+
 /* Disable pull-to-refresh (and the rubber-band overscroll glow) on mobile.
    `contain` rather than `none`: it stops the gesture from reaching the browser
    chrome, but still allows normal scrolling inside the page and nested
@@ -130,6 +190,38 @@ body {
 
 [data-theme="wine"] .card:hover {
   box-shadow: 0 4px 16px rgba(150,50,95,0.2), 0 16px 40px rgba(0,0,0,0.35);
+}
+
+[data-theme="crimson"] .card {
+  box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
+}
+
+[data-theme="crimson"] .card:hover {
+  box-shadow: 0 4px 16px rgba(166,3,3,0.2), 0 16px 40px rgba(0,0,0,0.35);
+}
+
+[data-theme="mauve"] .card {
+  box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
+}
+
+[data-theme="mauve"] .card:hover {
+  box-shadow: 0 4px 16px rgba(114,89,128,0.2), 0 16px 40px rgba(0,0,0,0.35);
+}
+
+[data-theme="moss"] .card {
+  box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
+}
+
+[data-theme="moss"] .card:hover {
+  box-shadow: 0 4px 16px rgba(149,163,34,0.2), 0 16px 40px rgba(0,0,0,0.35);
+}
+
+[data-theme="nocturne"] .card {
+  box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
+}
+
+[data-theme="nocturne"] .card:hover {
+  box-shadow: 0 4px 16px rgba(9,20,44,0.2), 0 16px 40px rgba(0,0,0,0.35);
 }
 
 /* ── Compact paper-language row (Full 100 list) ── */
@@ -353,7 +445,11 @@ select option {
     box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
   }
   [data-theme="pink"] .card:hover,
-  [data-theme="wine"] .card:hover {
+  [data-theme="wine"] .card:hover,
+  [data-theme="crimson"] .card:hover,
+  [data-theme="mauve"] .card:hover,
+  [data-theme="moss"] .card:hover,
+  [data-theme="nocturne"] .card:hover {
     box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
   }
 }

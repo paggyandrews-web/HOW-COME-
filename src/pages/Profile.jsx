@@ -339,11 +339,12 @@ export default function Profile() {
 
         <div className="pt-3">
           <div className="text-sm font-medium mb-2">Theme</div>
-          <div className="flex gap-2">
+          <div className="flex flex-wrap gap-2">
             {themes.map(t => (
               <button key={t.id} onClick={() => setTheme(t.id)}
-                className="flex-1 py-2 rounded-lg text-sm font-medium flex items-center justify-center gap-1.5"
+                className="py-2 px-2 rounded-lg text-sm font-medium flex items-center justify-center gap-1.5"
                 style={{
+                  flex: '1 1 calc(33.333% - 0.5rem)',
                   background: theme === t.id ? 'var(--accent)' : 'var(--bg2)',
                   color: theme === t.id ? 'var(--accent-text)' : 'var(--text)',
                   border: '1px solid ' + (theme === t.id ? 'var(--accent)' : 'var(--border)'),
