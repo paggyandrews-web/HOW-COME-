@@ -7,6 +7,7 @@ import Confetti from '../components/Confetti'
 import StatusTabs from '../components/StatusTabs'
 import RevisionDots from '../components/RevisionDots'
 import { useResults } from '../hooks/useResults'
+import { useBookmarks } from '../hooks/useBookmarks'
 import { useStreak } from '../hooks/useStreak'
 import { usePaperProgress } from '../hooks/usePaperProgress'
 import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, matchesRevisionBucket, revisionBucket, statusBadgeText } from '../utils/paperStatus'
@@ -401,6 +402,7 @@ function ExamScreen({ paper, questions, onSubmit, practice = false }) {
   const [confirmSubmit, setConfirmSubmit] = useState(false)
   const [showConfetti, setShowConfetti] = useState(false)
   const submittedRef = useRef(false)
+  const { toggle: toggleBookmark, isBookmarked } = useBookmarks()
 
   const doSubmit = useCallback(() => {
     if (submittedRef.current) return
@@ -487,16 +489,25 @@ function ExamScreen({ paper, questions, onSubmit, practice = false }) {
           <span className="text-xs font-semibold" style={{ color: 'var(--text2)' }}>
             Question {current + 1} of {total}
           </span>
-          <button
-            onClick={() => setMarked(m => ({ ...m, [current]: !m[current] }))}
-            className="text-xs rounded-full px-3 py-1 cursor-pointer"
-            style={{
-              background: marked[current] ? 'rgba(236,72,153,0.15)' : 'var(--bg2)',
-              color: marked[current] ? 'var(--accent-pink)' : 'var(--text2)',
-              border: '1px solid ' + (marked[current] ? 'var(--accent-pink)' : 'var(--border)'),
-            }}>
-            {marked[current] ? '★ Marked' : '☆ Mark for review'}
-          </button>
+          <div className="flex items-center gap-2">
+            <button
+              onClick={() => toggleBookmark(q.id)}
+              title={isBookmarked(q.id) ? 'Remove bookmark' : 'Bookmark this question'}
+              className="shrink-0 text-base transition-transform active:scale-125 cursor-pointer"
+              style={{ lineHeight: 1 }}>
+              {isBookmarked(q.id) ? '🔖' : '🏷️'}
+            </button>
+            <button
+              onClick={() => setMarked(m => ({ ...m, [current]: !m[current] }))}
+              className="text-xs rounded-full px-3 py-1 cursor-pointer"
+              style={{
+                background: marked[current] ? 'rgba(236,72,153,0.15)' : 'var(--bg2)',
+                color: marked[current] ? 'var(--accent-pink)' : 'var(--text2)',
+                border: '1px solid ' + (marked[current] ? 'var(--accent-pink)' : 'var(--border)'),
+              }}>
+              {marked[current] ? '★ Marked' : '☆ Mark for review'}
+            </button>
+          </div>
         </div>
 
         <QuestionText num={current + 1} text={q.questionText} />
@@ -700,6 +711,7 @@ function TelegramCTA({ paper, score, total }) {
 function ResultScreen({ paper, questions, answers, timeTaken, onRetake, onExit, practice = false }) {
   const [filter, setFilter] = useState('all')  // all | wrong | skipped
   const [showConfetti, setShowConfetti] = useState(false)
+  const { toggle: toggleBookmark, isBookmarked } = useBookmarks()
 
   const stats = useMemo(() => {
     let correct = 0, wrong = 0, skipped = 0
@@ -812,7 +824,16 @@ function ResultScreen({ paper, questions, answers, timeTaken, onRetake, onExit, 
         const chosen = answers[i]
         return (
           <div key={q.id} className="rounded-xl p-4 mb-3" style={{ background: 'var(--card)', border: '1px solid var(--border)' }}>
-            <div className="text-xs mb-2" style={{ color: 'var(--text2)' }}>{q.topic} · {q.difficulty}</div>
+            <div className="flex items-center justify-between gap-2 mb-2">
+              <div className="text-xs" style={{ color: 'var(--text2)' }}>{q.topic} · {q.difficulty}</div>
+              <button
+                onClick={() => toggleBookmark(q.id)}
+                title={isBookmarked(q.id) ? 'Remove bookmark' : 'Bookmark this question'}
+                className="shrink-0 text-base transition-transform active:scale-125 cursor-pointer"
+                style={{ lineHeight: 1 }}>
+                {isBookmarked(q.id) ? '🔖' : '🏷️'}
+              </button>
+            </div>
             <QuestionText num={i + 1} text={q.questionText} />
             <div className="flex flex-col gap-1.5 mt-3">
               {['A', 'B', 'C', 'D'].map(letter => {

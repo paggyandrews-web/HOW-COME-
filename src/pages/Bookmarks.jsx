@@ -1,13 +1,17 @@
 import { Link } from 'react-router-dom'
 import { useBookmarks } from '../hooks/useBookmarks'
 import questions from '../data/questions.json'
+import modelQuestions from '../data/modelQuestions.json'
 import SignupGate from '../components/SignupGate'
 import { useAuth } from '../contexts/AuthContext'
 
 /* ── Saved questions ─────────────────────────────────────────────── */
 function QuestionsTab() {
   const { bookmarks, toggle } = useBookmarks()
-  const saved = questions.filter(q => bookmarks.includes(q.id))
+  // Bookmarks can point at either a regular PSC paper question or a
+  // mock-test (model paper) question — the bookmark itself is just an id,
+  // so both banks are searched, same as the /quiz?questionId= deep link.
+  const saved = [...questions, ...modelQuestions].filter(q => bookmarks.includes(q.id))
 
   if (saved.length === 0) {
     return (
