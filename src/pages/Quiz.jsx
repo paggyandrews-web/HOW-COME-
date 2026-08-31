@@ -12,6 +12,11 @@ import { useStreak, isStreakMilestone } from '../hooks/useStreak'
 import { unlockAudio, playChime } from '../utils/sound'
 import { tap } from '../utils/haptics'
 
+// Bookmarks and past-mistake ids can point at a regular PSC paper question
+// or a mock-test (model paper) question — same as the /quiz?questionId=
+// deep link, the 'Saved' and 'Mistakes' pools below search both banks.
+const ALL_QUESTIONS = [...questions, ...modelQuestions]
+
 function formatQuestion(text) {
   if (!text) return text
   const breaks = [
@@ -379,11 +384,11 @@ function QuizSetup({ onStart, needsSignup }) {
   // separately so the mode cards never promise more than Start Quiz can
   // actually deliver.
   const usableBookmarkCount = useMemo(
-    () => questions.filter(q => bookmarks.includes(q.id) && !isDeletedByPsc(q)).length,
+    () => ALL_QUESTIONS.filter(q => bookmarks.includes(q.id) && !isDeletedByPsc(q)).length,
     [bookmarks]
   )
   const usableMistakeCount = useMemo(
-    () => questions.filter(q => mistakeIds.includes(q.id) && !isDeletedByPsc(q)).length,
+    () => ALL_QUESTIONS.filter(q => mistakeIds.includes(q.id) && !isDeletedByPsc(q)).length,
     [mistakeIds]
   )
 
@@ -394,10 +399,10 @@ function QuizSetup({ onStart, needsSignup }) {
     const stripDeleted = qs => isExactPaperOnly ? qs : qs.filter(q => !isDeletedByPsc(q))
 
     if (mode === 'saved') {
-      return stripDeleted(questions.filter(q => bookmarks.includes(q.id)))
+      return stripDeleted(ALL_QUESTIONS.filter(q => bookmarks.includes(q.id)))
     }
     if (mode === 'mistakes') {
-      return stripDeleted(questions.filter(q => mistakeIds.includes(q.id)))
+      return stripDeleted(ALL_QUESTIONS.filter(q => mistakeIds.includes(q.id)))
     }
     return stripDeleted(questions.filter(q =>
       (!paperId || q.paperId === paperId) &&
