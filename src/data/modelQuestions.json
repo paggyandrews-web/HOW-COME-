@@ -4738,5 +4738,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) survelliance — 'ei' ക്രമം തെറ്റായി 'el' ആയി മാറ്റിയിരിക്കുന്നു, letters position തെറ്റാണ്.\n  • 🪤 PSC Trap: ഉച്ചാരണത്തിൽ 'ei'/'el' order വേർതിരിച്ചറിയാൻ ബുദ്ധിമുട്ട് ഉള്ളതിനാൽ ഇത് ശരിയാണെന്ന് തോന്നാം.\n• (B) surveilance — Double 'l' missing ആണ് — spelling incomplete ആണ്.\n  • 🪤 PSC Trap: single 'l' ഉച്ചാരണത്തിൽ വ്യത്യാസം അനുഭവപ്പെടാത്തതിനാൽ ഇത് ശരിയാണെന്ന് കരുതും.\n• (D) surveillence — ending '-ence' ആയി മാറ്റിയിരിക്കുന്നു, യഥാർത്ഥ ending '-ance' ആണ്.\n  • 🪤 PSC Trap: '-ance'/'-ence' endings ഉച്ചാരണത്തിൽ സമാനമായതിനാൽ ഏറ്റവും കൂടുതൽ confuse ചെയ്യുന്ന spelling trap ആണ്.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'SUR-VEIL-LANCE' — മൂന്ന് ഭാഗങ്ങളായി split ചെയ്യുക: SUR + VEIL (മൂടുപടം/നിരീക്ഷണം) + LANCE.\n• Word family: '-ance' ending French words ഒരുമിച്ച് പഠിക്കുക — surveillance, maintenance, allowance, resemblance.\n• PSC exam strategy: '-ance' vs '-ence' ending confuse ആകുന്ന words-ന്റെ ഒരു പ്രത്യേക list ഉണ്ടാക്കി പഠിക്കുക — ഇത് PSC Spelling ചോദ്യങ്ങളിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന trap ആണ്."
     }
+  },
+  {
+    "id": "HC-DAILY-2026-09-01-Q1",
+    "paperId": "HC-DAILY-2026-09-01",
+    "questionNumber": 1,
+    "topic": "Active and Passive Voice",
+    "difficulty": "medium",
+    "questionText": "Change the following sentence from Active to Passive:\nThe workers had repaired the bridge before the monsoon rains began.",
+    "optionA": "The bridge had been repaired by the workers before the monsoon rains began.",
+    "optionB": "The bridge has been repaired by the workers before the monsoon rains began.",
+    "optionC": "The bridge was repaired by the workers before the monsoon rains began.",
+    "optionD": "The bridge had repaired by the workers before the monsoon rains began.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) The bridge had been repaired by the workers before the monsoon rains began.\n\n• Active sentence-ൽ 'had repaired' (Past Perfect) ആണ് ഉപയോഗിച്ചിരിക്കുന്നത് — 'before the monsoon rains began' എന്ന clue, ഒരു past action മറ്റൊരു past action-ന് മുൻപ് നടന്നു എന്ന് കാണിക്കുന്നു.\n• Passive voice-ലേക്ക് മാറ്റുമ്പോൾ tense മാറ്റരുത് — Active tense = Passive tense എപ്പോഴും.\n• Past Perfect Active (had + V3) → Past Perfect Passive (had been + V3) എന്ന formula അതേപടി follow ചെയ്യണം.\n• PSC പേപ്പറുകളിൽ ഈ tense-preservation rule ആണ് Active-Passive questions-ന്റെ അടിസ്ഥാനം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Active tense = Passive tense — എപ്പോഴും ഒരേ tense തന്നെ ഉപയോഗിക്കണം.\n• Past Perfect Active: Subject + had + V3 + Object\n• Past Perfect Passive: Object + had been + V3 + by + Subject\n• ⭐ PSC ആവർത്തനം: Active-Passive conversion questions എല്ലാ PSC പേപ്പറിലും സ്ഥിരമായി വരുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. Active: She had finished her homework before dinner. → Passive: Her homework had been finished by her before dinner.\n2. Active: They had painted the house before the guests arrived. → Passive: The house had been painted by them before the guests arrived.\n3. Active: He had submitted the report before the deadline. → Passive: The report had been submitted by him before the deadline.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'has been repaired' — ഇത് Present Perfect Passive ആണ്. Active sentence-ലെ 'had repaired' (Past Perfect) tense-മായി match ആകുന്നില്ല.\n• 🪤 PSC Trap: Present Perfect, Past Perfect രണ്ടും 'completed action' സൂചിപ്പിക്കുന്നതുകൊണ്ട് students confuse ആകും — എന്നാൽ time-frame വ്യത്യസ്തമാണ്.\n\n• (C) 'was repaired' — ഇത് Simple Past Passive ആണ്. Original sentence-ലെ 'had repaired' എന്ന Past Perfect-ന്റെ 'ഒരു സംഭവത്തിന് മുൻപ് നടന്ന മറ്റൊരു സംഭവം' എന്ന അർത്ഥം ഇത് നൽകുന്നില്ല.\n• 🪤 PSC Trap: Simple Past ഉം reasonable ആയി തോന്നും, പക്ഷേ tense-transformation rule പ്രകാരം കൃത്യമായ tense തന്നെ നിലനിർത്തണം.\n\n• (D) 'had repaired' (without 'been') — ഇത് വ്യാകരണപരമായി തെറ്റാണ്. Passive voice-ന് 'be' verb-ന്റെ past participle form ('been') നിർബന്ധമായും വേണം.\n• 🪤 PSC Trap: 'been' ഒഴിവാക്കുന്നത് ഒരു സാധാരണ spelling/grammar ട്രാപ്പ് ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Same Tense, New Dress' — Active-നെ Passive ആക്കുമ്പോൾ tense മാറ്റാതെ, subject-object സ്ഥാനം മാത്രം മാറ്റുക.\n• Perfect tenses (Present Perfect, Past Perfect, Future Perfect) ന്റെ Passive form എപ്പോഴും 'been + V3' എന്ന pattern follow ചെയ്യും.\n• PSC exam strategy: Active sentence-ലെ auxiliary verb ആദ്യം identify ചെയ്യുക (has/have/had/will), എന്നിട്ട് അതേ auxiliary + been + V3 എന്ന formula ഉപയോഗിക്കുക — ഇത് guaranteed mark ആണ്!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-01-Q2",
+    "paperId": "HC-DAILY-2026-09-01",
+    "questionNumber": 2,
+    "topic": "Direct and Indirect Speech",
+    "difficulty": "medium",
+    "questionText": "Change the following sentence into Indirect Speech:\nShe said to me, \"Where are you going?\"",
+    "optionA": "She asked me where I was going.",
+    "optionB": "She told me where I was going.",
+    "optionC": "She asked me where was I going.",
+    "optionD": "She asked me where you were going.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) She asked me where I was going.\n\n• 'Where are you going?' എന്നത് ഒരു Wh-question ആണ് — reporting verb 'said' → 'asked' ആയി മാറും.\n• Indirect speech-ൽ questions-ന് statement word order ഉപയോഗിക്കണം (Subject + Verb), question word order (Verb + Subject) അല്ല.\n• 'you' എന്നത് speaker സ്വയം പറയുമ്പോൾ 'I' ആയി മാറും, കാരണം 'you' എന്നത് listener-നെ (ഇപ്പോൾ report ചെയ്യുന്ന ആൾ) സൂചിപ്പിക്കുന്നു.\n• Present tense 'are going' → Past tense 'was going' ആയി backshift ചെയ്യും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Wh-question → asked + Wh-word + Subject + Verb (statement order)\n• 'said to' → 'asked' (questions report ചെയ്യുമ്പോൾ)\n• Pronoun shift: you → I/we (context അനുസരിച്ച്), Tense backshift: Present → Past\n• ⭐ PSC ആവർത്തനം: Direct-Indirect Speech conversion, especially Wh-questions, PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. He said to her, \"What is your name?\" → He asked her what her name was.\n2. She said to me, \"When will you come?\" → She asked me when I would come.\n3. They said to him, \"Why are you late?\" → They asked him why he was late.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'told' — 'tell' എന്ന verb question report ചെയ്യാൻ ഉപയോഗിക്കില്ല. Questions report ചെയ്യുമ്പോൾ 'asked' മാത്രമേ ശരിയായ reporting verb ആകൂ.\n• 🪤 PSC Trap: 'told' ഉം 'said' ഉം സാധാരണ statements-ന് ഉപയോഗിക്കുന്നതുകൊണ്ട് students ഇത് confuse ചെയ്യും.\n\n• (C) 'where was I going' — ഇത് question word order ആണ് (Verb + Subject). Indirect speech-ൽ reported questions statement word order ('Subject + Verb') ഉപയോഗിക്കണം.\n• 🪤 PSC Trap: Direct question-ന്റെ word order അതേപടി നിലനിർത്തുന്നത് ഒരു common mistake ആണ്.\n\n• (D) 'you were going' — pronoun shift ചെയ്യാതെ 'you' നിലനിർത്തിയത് തെറ്റാണ്. 'you' എന്നത് listener-നെ (ഇപ്പോൾ 'ഞാൻ' എന്ന് report ചെയ്യുന്നയാളെ) സൂചിപ്പിക്കുന്നതിനാൽ 'I' ആയി മാറണം.\n• 🪤 PSC Trap: Pronoun reference ശരിയായി track ചെയ്യാതെ, direct speech-ലെ pronoun അതേപടി എഴുതുന്നത് ഒരു സാധാരണ തെറ്റാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'SAW' Rule — Statement order, Asked (for questions), Word/tense backshift.\n• Wh-questions family: what, where, when, why, who, how — ഇവയെല്ലാം 'asked + Wh-word + statement order' എന്ന ഒരേ pattern follow ചെയ്യും.\n• PSC exam strategy: ആദ്യം reporting verb ('said' → 'asked') ശരിയാക്കുക, പിന്നെ word order check ചെയ്യുക, അവസാനം pronouns/tense backshift ചെയ്യുക — ഈ മൂന്ന് step ഓർത്താൽ ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-01-Q3",
+    "paperId": "HC-DAILY-2026-09-01",
+    "questionNumber": 3,
+    "topic": "Prepositions",
+    "difficulty": "medium",
+    "questionText": "Choose the correct preposition to complete the sentence:\nThe success of the plan depends __________ everyone's cooperation.",
+    "optionA": "on",
+    "optionB": "of",
+    "optionC": "with",
+    "optionD": "at",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) on\n\n• 'depend on' എന്നത് ഒരു fixed collocation ആണ് — 'depend' എന്ന verb-ന് സ്ഥിരമായി 'on' എന്ന preposition-ഉം ചേർന്നാണ് വരുന്നത്.\n• ഈ combination ('depend on') idiomatic ആണ്, മറ്റ് preposition-കൾ ഇവിടെ ചേരില്ല.\n• 'The success depends on cooperation' = വിജയം സഹകരണത്തെ ആശ്രയിച്ചിരിക്കുന്നു എന്ന അർത്ഥം ശരിയായി നൽകുന്നു.\n• Etymology hint: 'depend' ലാറ്റിൻ 'dependere' (to hang from) എന്നതിൽ നിന്നാണ് വന്നത് — 'hang on/from' എന്ന ബന്ധം ഓർത്താൽ 'on' സ്വാഭാവികമായി വരും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: depend + ON (എപ്പോഴും, മറ്റൊരു preposition ഇല്ല)\n• ഇത് ഒരു fixed verb-preposition collocation ആണ് — grammar rule അല്ല, usage convention ആണ്, അതുകൊണ്ട് ഓർത്തിരിക്കണം.\n• Related word group: rely on, count on, depend on — ഇവയെല്ലാം ഒരേ 'on' preposition group-ൽ പെടുന്നു.\n• ⭐ PSC ആവർത്തനം: Prepositions PSC-യിലെ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic-കളിൽ ഒന്നാണ് — fixed collocations പഠിക്കുന്നത് നിർബന്ധമാണ്.\n• ഉദാഹരണ sentences:\n1. Children depend on their parents for support.\n2. The outcome depends on how well we prepare.\n3. You can always depend on him for help.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'of' — 'depend of' എന്നൊരു combination ഇംഗ്ലീഷിൽ ഇല്ല. ഇത് French 'dépendre de' എന്നതിന്റെ direct translation-ന്റെ സ്വാധീനം ആയിരിക്കാം, പക്ഷേ ഇംഗ്ലീഷിൽ തെറ്റാണ്.\n• 🪤 PSC Trap: മറ്റ് ഭാഷകളിലെ direct translation ഇംഗ്ലീഷ് preposition തിരഞ്ഞെടുക്കുമ്പോൾ students-നെ misled ചെയ്യും.\n\n• (C) 'with' — 'depend with' എന്ന combination ഇല്ല. 'with' സാധാരണ association/accompaniment കാണിക്കാൻ ഉപയോഗിക്കുന്നു, dependency അല്ല.\n• 🪤 PSC Trap: 'with' പല verb-കൾക്കൊപ്പം (deal with, agree with) ചേരുന്നതുകൊണ്ട് ഇവിടെയും ചേരും എന്ന് തെറ്റിദ്ധരിക്കും.\n\n• (D) 'at' — 'depend at' എന്നൊരു ശരിയായ combination ഇല്ല. 'at' സ്ഥലം/സമയം സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു.\n• 🪤 PSC Trap: Random preposition choice ആയി 'at' ഇടുന്നത് ഒരു സാധാരണ guess-error ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'DON' — Depend ON — 'Don' എന്ന പേര് ഓർത്താൽ 'depend on' മറക്കില്ല!\n• Word family: rely on, count on, depend on, bank on — ഇവയെല്ലാം ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Verb-preposition collocations ഒരു ലിസ്റ്റ് ആയി എഴുതി സ്ഥിരമായി revise ചെയ്യുക — ഇത് PSC-യിൽ ഏറ്റവും കൂടുതൽ മാർക്ക് നേടാൻ സഹായിക്കുന്ന topic ആണ്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-01-Q4",
+    "paperId": "HC-DAILY-2026-09-01",
+    "questionNumber": 4,
+    "topic": "Correlatives",
+    "difficulty": "medium",
+    "questionText": "Choose the correct correlative conjunction pair to complete the sentence:\n__________ the manager __________ his assistant was available to attend the meeting, so the client had to reschedule.",
+    "optionA": "Neither...nor",
+    "optionB": "Either...or",
+    "optionC": "Both...and",
+    "optionD": "Whether...or",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Neither...nor\n\n• Sentence-ന്റെ അർത്ഥം: 'manager-ഉം assistant-ഉം meeting-ന് ലഭ്യമായിരുന്നില്ല, അതുകൊണ്ട് reschedule ചെയ്യേണ്ടി വന്നു' — ഇത് രണ്ട് പേരും 'not available' എന്ന negative അർത്ഥം സൂചിപ്പിക്കുന്നു.\n• 'Neither...nor' എന്നത് രണ്ട് negative ഘടകങ്ങളെ ബന്ധിപ്പിക്കാൻ ഉപയോഗിക്കുന്ന correlative conjunction ആണ്.\n• Verb agreement: 'assistant' (nearest subject) singular ആയതിനാൽ 'was' എന്ന singular verb ശരിയാണ്.\n• 'so the client had to reschedule' എന്ന result, രണ്ട് പേരും ലഭ്യമല്ലായിരുന്നു എന്ന അർത്ഥത്തെ സാധൂകരിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Neither + Subject1 + Nor + Subject2 + Verb (verb agrees with nearest subject)\n• Correlative pairs ഒരിക്കലും mix ചെയ്യരുത്: neither...nor, either...or, both...and, not only...but also.\n• Verb agreement rule: Neither/Either...or/nor sentences-ൽ verb, തൊട്ടടുത്ത subject-നോട് agree ചെയ്യും.\n• ⭐ PSC ആവർത്തനം: Correlatives PSC-യിൽ കുറവ് വരുന്ന topic ആണെങ്കിലും, verb-agreement trap-ഉള്ള questions സ്ഥിരമായി ആവർത്തിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. Neither the teacher nor the students were present.\n2. Either you or I am responsible for this.\n3. Both the manager and his assistant were absent.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'Either...or' — ഇത് 'ഒരാൾ എങ്കിലും ലഭ്യമായിരുന്നു' എന്ന positive അർത്ഥം നൽകും, ഇത് 'reschedule ചെയ്യേണ്ടി വന്നു' എന്ന result-മായി contradict ചെയ്യുന്നു.\n• 🪤 PSC Trap: 'Either...or' ഉം 'Neither...nor' ഉം സമാന structure ആയതിനാൽ students confuse ആകും — meaning ശ്രദ്ധിക്കണം.\n\n• (C) 'Both...and' — ഇത് ഉപയോഗിച്ചാൽ verb 'were' ആയിരിക്കണം (plural), 'was' അല്ല. Grammar mismatch ഉണ്ട്.\n• 🪤 PSC Trap: 'Both...and' സ്വാഭാവികമായി തോന്നും, പക്ഷേ verb agreement തെറ്റാണ്.\n\n• (D) 'Whether...or' — ഇത് ഒരു subordinate/conditional clause-ന് ഉപയോഗിക്കുന്ന structure ആണ്, ഇവിടെ ഒരു main clause ആയി പൂർണ്ണമാകില്ല (incomplete sentence structure ഉണ്ടാകും).\n• 🪤 PSC Trap: 'Whether...or' 'either...or'-മായി confuse ചെയ്യപ്പെടുന്ന ഒരു common pair ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NN = Negative-Negative' — Neither...Nor രണ്ടും negative ആണെന്ന് ഓർക്കുക.\n• Correlative family ഒരുമിച്ച് പഠിക്കുക: either...or, neither...nor, both...and, not only...but also — ഇവ ഒരിക്കലും mix ചെയ്യരുത്.\n• PSC exam strategy: ആദ്യം sentence-ന്റെ overall meaning (positive/negative) മനസിലാക്കുക, എന്നിട്ട് correlative pair തിരഞ്ഞെടുക്കുക, അവസാനം verb agreement (nearest subject rule) check ചെയ്യുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-01-Q5",
+    "paperId": "HC-DAILY-2026-09-01",
+    "questionNumber": 5,
+    "topic": "Auxiliary Verbs",
+    "difficulty": "medium",
+    "questionText": "Choose the correct auxiliary verb to complete the sentence:\nBy this time next year, she __________ completed her degree.",
+    "optionA": "will have",
+    "optionB": "has",
+    "optionC": "had",
+    "optionD": "is",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) will have\n\n• 'By this time next year' എന്ന signal phrase Future Perfect Tense-നെ സൂചിപ്പിക്കുന്നു — ഭാവിയിലെ ഒരു നിശ്ചിത സമയത്തിന് മുൻപ് പൂർത്തിയാകുന്ന action.\n• Future Perfect formula: will + have + V3 (completed).\n• 'she will have completed her degree' = ഭാവിയിൽ ആ സമയമാകുമ്പോഴേക്കും ബിരുദം പൂർത്തിയായിരിക്കും എന്ന അർത്ഥം.\n• 'By this time next year' പോലുള്ള phrases (by then, by 2030) എപ്പോഴും Future Perfect-നെ signal ചെയ്യുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: By + future time → will have + V3 (Future Perfect)\n• Signal words: by this time next year, by then, by the end of, by 2030\n• Related tense family: Present Perfect (has/have + V3), Past Perfect (had + V3), Future Perfect (will have + V3)\n• ⭐ PSC ആവർത്തനം: Tenses, especially Perfect tenses, PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. By next month, he will have finished the project.\n2. By the time you arrive, we will have left.\n3. By 2030, scientists will have discovered new treatments.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'has' — Present Perfect ('has completed') ആണ്, പക്ഷേ 'by this time next year' ഭാവി സമയത്തെ സൂചിപ്പിക്കുന്നു, present-നെ അല്ല.\n• 🪤 PSC Trap: 'has completed' ശരിയായി തോന്നും, പക്ഷേ signal word ('next year') ശ്രദ്ധിക്കാതെ പോയാൽ ഈ തെറ്റ് സംഭവിക്കും.\n\n• (C) 'had' — Past Perfect ('had completed') ആണ്, ഇത് past-ലെ ഒരു സംഭവത്തിന് മുൻപ് നടന്ന കാര്യത്തിന് ഉപയോഗിക്കുന്നു, ഭാവിയിൽ അല്ല.\n• 🪤 PSC Trap: 'had' കണ്ടാൽ ഉടൻ past എന്ന് കരുതി തിരഞ്ഞെടുക്കുന്നത് ഒരു common mistake ആണ്.\n\n• (D) 'is' — 'is completed' എന്നത് simple present passive ആണ്, ഇത് Future Perfect-ന്റെ meaning ('by a future point, action will be finished') നൽകുന്നില്ല.\n• 🪤 PSC Trap: 'completed' ഒരു adjective ആയി തോന്നിക്കുന്നതിനാൽ 'is' ചേരും എന്ന് തെറ്റിദ്ധരിക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BY = Bring Your Future Perfect' — 'By' എന്ന word കണ്ടാൽ ഉടൻ Future Perfect ('will have + V3') ഓർക്കുക.\n• Signal word family: by this time, by then, by next year, by the time — ഇവയെല്ലാം Future Perfect-ന്റെ 'red flag' ആണ്.\n• PSC exam strategy: Tense questions-ൽ ആദ്യം signal word കണ്ടെത്തുക, എന്നിട്ട് ആ tense-ന്റെ formula apply ചെയ്യുക — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-01-Q6",
+    "paperId": "HC-DAILY-2026-09-01",
+    "questionNumber": 6,
+    "topic": "Idioms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the idiom in italics.\nAs the wedding day approached, Rahul suddenly __got cold feet__ and wanted to call off the ceremony.",
+    "optionA": "became extremely happy",
+    "optionB": "lost the courage to go through with something",
+    "optionC": "fell seriously ill",
+    "optionD": "became very angry",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) lost the courage to go through with something\n\n• 'get cold feet' എന്ന idiom-ന്റെ അർത്ഥം, ഒരു കാര്യം ചെയ്യാൻ തീരുമാനിച്ചതിന് ശേഷം, അവസാന നിമിഷം ധൈര്യം നഷ്ടപ്പെടുക അല്ലെങ്കിൽ പേടിക്കുക എന്നാണ്.\n• 'Rahul suddenly got cold feet and wanted to call off the ceremony' — വിവാഹത്തിന് മുൻപ് പേടിച്ച്, തീരുമാനത്തിൽ നിന്ന് പിന്മാറാൻ ആഗ്രഹിക്കുന്നു എന്ന context ഇതിനെ സാധൂകരിക്കുന്നു.\n• ഈ idiom പലപ്പോഴും വിവാഹം, പുതിയ ജോലി, വലിയ തീരുമാനങ്ങൾ എന്നിവയുടെ context-ൽ ഉപയോഗിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: get/have cold feet = last-minute nervousness/loss of courage before a big decision\n• Idiom family: get cold feet, back out, chicken out — ഇവയെല്ലാം 'പിന്മാറൽ/പേടി' എന്ന theme-ൽ പെടുന്നു.\n• ⭐ PSC ആവർത്തനം: Idioms PSC-യിലെ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic ആണ് — physical/emotional idioms സ്ഥിരമായി ചോദിക്കും.\n• Etymology hint: ഈ idiom-ന്റെ ഉത്ഭവം, പേടിക്കുമ്പോൾ കാലുകൾ തണുക്കുന്നു എന്ന ശാരീരിക പ്രതികരണത്തിൽ നിന്നാണ് എന്ന് വിശ്വസിക്കപ്പെടുന്നു.\n• ഉദാഹരണ sentences:\n1. He got cold feet before his job interview and almost didn't go.\n2. She was excited about skydiving, but got cold feet at the last minute.\n3. Many entrepreneurs get cold feet before launching their first business.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'became extremely happy' — ഇത് 'get cold feet'-ന്റെ നേരെ വിപരീത അർത്ഥമാണ്. ഈ idiom negative/nervous emotion-നെ സൂചിപ്പിക്കുന്നു, positive emotion-നെ അല്ല.\n• 🪤 PSC Trap: idiom-ലെ വാക്കുകൾ literal ആയി വായിക്കാതെ, context-ൽ നിന്ന് meaning ഊഹിക്കാൻ ശ്രമിക്കുമ്പോൾ ഈ തെറ്റ് സംഭവിക്കും.\n\n• (C) 'fell seriously ill' — ഈ idiom health/illness-മായി ബന്ധപ്പെട്ടതല്ല. ഇത് emotional/psychological state-നെ കുറിച്ചാണ്.\n• 🪤 PSC Trap: 'cold' എന്ന word കണ്ടാൽ 'fever/illness' ആയി ബന്ധപ്പെടുത്തുന്നത് ഒരു common misreading ആണ്.\n\n• (D) 'became very angry' — ഇത് idiom-ന്റെ യഥാർത്ഥ അർത്ഥവുമായി ഒരു ബന്ധവുമില്ല. ഇത് nervousness/fear-നെ കുറിച്ചാണ്, anger-നെ അല്ല.\n• 🪤 PSC Trap: Emotion-based idioms-ൽ, തെറ്റായ emotion (anger vs fear) തിരഞ്ഞെടുക്കുന്നത് ഒരു സാധാരണ trap ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: കാൽ തണുത്ത് വിറയ്ക്കുന്നത് സങ്കൽപ്പിക്കുക — പേടിച്ച് പിന്മാറാൻ തോന്നുന്ന feeling ആണ് 'cold feet'.\n• Word family: back out, chicken out, have second thoughts — ഇവയെല്ലാം ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Idiom questions-ൽ, idiom-ലെ വാക്കുകൾ literal ആയി translate ചെയ്യാതെ, മുഴുവൻ context sentence-ഉം വായിച്ച് overall emotion/situation മനസിലാക്കുക — ഇത് ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-01-Q7",
+    "paperId": "HC-DAILY-2026-09-01",
+    "questionNumber": 7,
+    "topic": "Words Often Confused",
+    "difficulty": "medium",
+    "questionText": "Choose the correct word to complete the sentence:\nThe child was __________ into a small, quiet town in the countryside.",
+    "optionA": "born",
+    "optionB": "borne",
+    "optionC": "bourne",
+    "optionD": "barn",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) born\n\n• 'born' എന്നത് ജനനവുമായി ബന്ധപ്പെട്ട context-ൽ ഉപയോഗിക്കുന്നു — 'born into [a place/family/situation]' എന്നത് ഒരു fixed, idiomatic expression ആണ്.\n• 'The child was born into a small, quiet town' = ആ കുട്ടി ആ ചെറിയ, ശാന്തമായ പട്ടണത്തിൽ ജനിച്ചു എന്ന അർത്ഥം.\n• 'born' 'bear' എന്ന verb-ന്റെ passive past participle ആണ്, ജനനത്തിന്റെ context-ൽ മാത്രം ഉപയോഗിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: BORN = Birth context (was born, born into); BORNE = Carry/endure context (has borne, borne by)\n• 'born' — ജനനവുമായി ബന്ധപ്പെട്ട context-ൽ മാത്രം ('was/were born')\n• 'borne' — 'carry, endure, tolerate' എന്ന അർത്ഥത്തിൽ ('she has borne the pain', 'borne by the wind')\n• ⭐ PSC ആവർത്തനം: Words Often Confused topic-ൽ born/borne ഒരു classic pair ആണ്, PSC-യിൽ ആവർത്തിച്ച് വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. She was born in Kerala in 1990.\n2. He has borne many hardships in his life.\n3. The cost will be borne by the company.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'borne' — ഇത് 'carry/endure' എന്ന അർത്ഥത്തിൽ ഉപയോഗിക്കുന്നു ('has borne'), ജനനത്തിന്റെ passive context-ൽ ('was borne into a town') സാധാരണ ഉപയോഗിക്കില്ല.\n• 🪤 PSC Trap: born/borne spelling-ൽ ഒരു അക്ഷരം മാത്രം വ്യത്യാസമുള്ളതിനാൽ, ഇത് PSC-യിലെ ഏറ്റവും common confusable pair ആണ്.\n\n• (C) 'bourne' — ഇത് ഒരു പഴയ/സാഹിത്യ പദമാണ്, 'boundary' അല്ലെങ്കിൽ 'destination' എന്ന അർത്ഥത്തിൽ. ഈ context-ൽ ഇത് ചേരില്ല.\n• 🪤 PSC Trap: 'bourne' 'born'-മായി spelling-ൽ സാമ്യമുള്ളതിനാൽ confuse ചെയ്യപ്പെടും.\n\n• (D) 'barn' — ഇത് ഒരു കാർഷിക കെട്ടിടം (cattle/hay സൂക്ഷിക്കുന്ന സ്ഥലം) ആണ്, ഈ sentence-ന്റെ meaning-മായി യാതൊരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: spelling-ൽ സാമ്യമുള്ള unrelated word ഇടുന്നത് ഒരു distractor technique ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BORN = Birthday' (രണ്ടിലും 'B-O-R' ഉണ്ട്, birth-മായി ബന്ധം); 'BORNE = Bag ചുമക്കുന്നത്' (carry/endure).\n• Word family: born vs borne, born vs bourne — spelling confusable pairs ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: 'was/were + ___' എന്ന context കണ്ടാൽ, ജനനത്തെ കുറിച്ചാണോ അതോ carry/endure-നെ കുറിച്ചാണോ എന്ന് ചിന്തിക്കുക — ജനനം ആണെങ്കിൽ 'born', അല്ലെങ്കിൽ 'borne'."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-01-Q8",
+    "paperId": "HC-DAILY-2026-09-01",
+    "questionNumber": 8,
+    "topic": "Word Formation",
+    "difficulty": "medium",
+    "questionText": "Choose the correctly formed noun from the verb 'educate':\nThe government launched a new campaign to improve __________ in rural areas.",
+    "optionA": "education",
+    "optionB": "educative",
+    "optionC": "educational",
+    "optionD": "educator",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) education\n\n• 'improve __________ in rural areas' എന്ന blank-ന് ഒരു Noun ആണ് വേണ്ടത്, കാരണം 'improve' എന്ന verb-ന് ശേഷം ഒരു object (noun) വരണം.\n• 'educate' (verb) → 'education' (noun) — ഇത് ശരിയായ noun form ആണ്, '-ion' suffix ചേർത്ത് verb-നെ abstract noun ആക്കുന്നു.\n• 'improve education' = വിദ്യാഭ്യാസം മെച്ചപ്പെടുത്തുക എന്ന അർത്ഥം ശരിയായി നൽകുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Verb + -ion/-ation = Abstract Noun (educate→education, inform→information, decide→decision)\n• Word Formation-ൽ suffix അനുസരിച്ച് word-ന്റെ part of speech മാറും: -ive/-al (adjective), -or/-er (person), -ion (noun).\n• Related word family: educate (verb), education (noun), educational (adjective), educator (person)\n• ⭐ PSC ആവർത്തനം: Word Formation PSC-യിൽ കുറവ് ആണെങ്കിലും, verb-to-noun suffix questions സ്ഥിരമായി ആവർത്തിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. The government invested heavily in education this year.\n2. His decision surprised everyone.\n3. The organization provided vital information to the public.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'educative' — ഇത് ഒരു Adjective ആണ് (meaning: tending to educate), noun ആയി blank-ൽ ചേരില്ല.\n• 🪤 PSC Trap: '-ive' suffix ഉള്ള word noun ആണെന്ന് തെറ്റിദ്ധരിക്കും, പക്ഷേ ഇത് adjective ആണ്.\n\n• (C) 'educational' — ഇത് ഒരു Adjective ആണ് (meaning: related to education), noun slot-ൽ ചേരില്ല ('improve educational' എന്നത് incomplete ആണ്).\n• 🪤 PSC Trap: 'educational' ഒരു സാധാരണ word ആയതിനാൽ, meaning ശരിയാണെന്ന് തോന്നിയാലും grammatically wrong ആണ്.\n\n• (D) 'educator' — ഇത് ഒരു Person noun ആണ് (അധ്യാപകൻ/വിദ്യാഭ്യാസ വിദഗ്ധൻ), 'improve educator' എന്നത് അർത്ഥശൂന്യമാണ് — 'improve education' (abstract concept) ആണ് വേണ്ടത്, ഒരു വ്യക്തിയെ 'improve' ചെയ്യുക എന്നല്ല context ഉദ്ദേശിക്കുന്നത്.\n• 🪤 PSC Trap: '-or' suffix ഉള്ള word-കൾ 'person nouns' ആണെന്ന് മറന്നുപോകും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: '-ION = Concept/Noun', '-AL/-IVE = Adjective', '-OR/-ER = Person' — ഈ suffix pattern ഓർത്താൽ Word Formation questions എളുപ്പമാകും.\n• Word family: educate-education-educational-educator — ഒരു verb-ൽ നിന്ന് ഉണ്ടാകുന്ന എല്ലാ forms-ഉം ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: ആദ്യം blank-ന് ഏത് part of speech (noun/adjective/verb) വേണം എന്ന് sentence structure-ൽ നിന്ന് കണ്ടെത്തുക, എന്നിട്ട് അതിന് ചേരുന്ന suffix ഉള്ള word തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-01-Q9",
+    "paperId": "HC-DAILY-2026-09-01",
+    "questionNumber": 9,
+    "topic": "Compound Words",
+    "difficulty": "medium",
+    "questionText": "Choose the correctly formed compound word:\nShe wrote down her homework in a __________.",
+    "optionA": "notebook",
+    "optionB": "book-note",
+    "optionC": "noting-book",
+    "optionD": "book-noting",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) notebook\n\n• 'notebook' എന്നത് 'note' + 'book' എന്നീ രണ്ട് independent words ചേർന്നുണ്ടായ ഒരു ശരിയായ Compound Word ആണ്.\n• 'She wrote down her homework in a notebook' = അവൾ homework ഒരു notebook-ൽ എഴുതി എന്ന അർത്ഥം ശരിയായി നൽകുന്നു.\n• Compound words രണ്ട് വാക്കുകൾ ചേർന്ന് ഒരു പുതിയ, single meaning ഉള്ള word ഉണ്ടാക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Word1 + Word2 = Compound Word (correct order matters!)\n• Compound words-ൽ word order മാറ്റിയാൽ അർത്ഥം മാറുകയോ അല്ലെങ്കിൽ word ഇല്ലാതാവുകയോ ചെയ്യും (note+book = notebook ✓, book+note = ✗ not a standard word).\n• Related word family: notebook, textbook, handbook, workbook — എല്ലാം '-book' suffix pattern-ൽ.\n• ⭐ PSC ആവർത്തനം: Compound Words PSC-യിൽ കുറവ് വരുന്ന topic ആണെങ്കിലും, everyday-word compounds സ്ഥിരമായി ചോദിക്കും.\n• ഉദാഹരണ sentences:\n1. He kept all his ideas in a notebook.\n2. The textbook covers the entire syllabus.\n3. She referred to the handbook for instructions.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'book-note' — word order തിരിച്ചിട്ടത് ഒരു standard English word അല്ല. Compound words-ൽ order നിശ്ചിതമാണ്.\n• 🪤 PSC Trap: രണ്ട് ശരിയായ words ചേർത്താലും, തെറ്റായ order-ൽ ചേർത്താൽ അത് valid word ആകില്ല.\n\n• (C) 'noting-book' — 'noting' (gerund form) 'book'-മായി ചേർന്ന് ഒരു standard compound word ഉണ്ടാക്കുന്നില്ല.\n• 🪤 PSC Trap: verb-ന്റെ '-ing' form ചേർത്താൽ compound word ആകും എന്ന തെറ്റായ ധാരണ.\n\n• (D) 'book-noting' — ഇതും ഒരു standard English word അല്ല, രണ്ട് elements-ഉം തെറ്റായ form-ലും order-ലും ആണ്.\n• 🪤 PSC Trap: unfamiliar-sounding combinations ശരിയായ word ആണെന്ന് തെറ്റിദ്ധരിക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Note ആദ്യം, Book പിന്നെ' — notebook എന്ന word-ന്റെ correct order ഓർക്കാൻ ഇത് സഹായിക്കും.\n• Word family: notebook, textbook, handbook, workbook, cookbook — ഇവയെല്ലാം ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Compound word questions-ൽ, ഏത് word ആണ് ദൈനംദിന ജീവിതത്തിൽ യഥാർത്ഥത്തിൽ ഉപയോഗിക്കുന്നത് എന്ന് ചിന്തിക്കുക — familiar, real words മാത്രമേ correct ആകൂ."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-01-Q10",
+    "paperId": "HC-DAILY-2026-09-01",
+    "questionNumber": 10,
+    "topic": "Abbreviations",
+    "difficulty": "medium",
+    "questionText": "Choose the correct expansion of the abbreviation 'WHO':\nThe __________ issued new guidelines on vaccine distribution.",
+    "optionA": "World Health Organization",
+    "optionB": "World Humanitarian Organization",
+    "optionC": "World Health Office",
+    "optionD": "World Human Organization",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) World Health Organization\n\n• 'WHO' എന്നത് 'World Health Organization' എന്നതിന്റെ ശരിയായ abbreviation ആണ് — ആരോഗ്യവുമായി ബന്ധപ്പെട്ട അന്താരാഷ്ട്ര സംഘടന.\n• United Nations-ന്റെ ഒരു specialized agency ആണ് WHO, ആഗോള ആരോഗ്യ പ്രശ്നങ്ങളിൽ guidelines നൽകുന്നു.\n• 'The WHO issued new guidelines on vaccine distribution' = ആരോഗ്യ സംഘടന വാക്സിൻ വിതരണത്തെ കുറിച്ച് പുതിയ മാർഗ്ഗനിർദ്ദേശങ്ങൾ നൽകി എന്ന അർത്ഥം ശരിയായി യോജിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: WHO = World Health Organization (ഓരോ അക്ഷരവും ഓർക്കുക: W-H-O)\n• അന്താരാഷ്ട്ര സംഘടനകളുടെ (organisations) abbreviations PSC-യിൽ സ്ഥിരമായി ചോദിക്കാറുണ്ട് — UN, WHO, UNESCO, UNICEF, OPEC.\n• ⭐ PSC ആവർത്തനം: Abbreviations topic-ൽ, ആരോഗ്യം/അന്താരാഷ്ട്ര സംഘടനകളുടെ abbreviations വളരെ common ആണ്.\n• ഉദാഹരണ sentences:\n1. WHO recommends regular hand-washing to prevent disease.\n2. The WHO headquarters is located in Geneva, Switzerland.\n3. WHO works closely with national governments during health emergencies.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'World Humanitarian Organization' — ഇങ്ങനെ ഒരു ഔദ്യോഗിക സംഘടന ഇല്ല; 'Humanitarian' എന്ന word 'Health'-മായി confuse ചെയ്യാൻ വേണ്ടി ചേർത്തതാണ്.\n• 🪤 PSC Trap: സമാനമായി തോന്നുന്ന word ('Humanitarian' vs 'Health') ഉപയോഗിച്ച് confuse ചെയ്യുന്ന ഒരു classic trap.\n\n• (C) 'World Health Office' — 'Office' എന്നത് ശരിയായ word അല്ല; ഔദ്യോഗിക നാമം 'Organization' ആണ്.\n• 🪤 PSC Trap: ഏകദേശം ശരിയായ meaning ഉള്ള പക്ഷേ തെറ്റായ word ('Office' vs 'Organization') ഉപയോഗിച്ചുള്ള distractor.\n\n• (D) 'World Human Organization' — 'Human' എന്നത് 'Health' അല്ല; ഇത് പൂർണ്ണമായും തെറ്റായ full-form ആണ്.\n• 🪤 PSC Trap: spelling-ൽ സാമ്യമുള്ള word ('Human' vs 'Health') ഉപയോഗിച്ചുള്ള distractor technique.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'WHO cares about Health' — WHO എന്ന് കേൾക്കുമ്പോൾ ഉടൻ 'Health' എന്ന word ഓർക്കുക.\n• Word family: UN agencies-ന്റെ full forms ഒരുമിച്ച് പഠിക്കുക: WHO, UNESCO, UNICEF, UNDP, WTO.\n• PSC exam strategy: Abbreviation questions-ൽ, ഓരോ അക്ഷരവും (W-H-O) ഏത് word-നെ represent ചെയ്യുന്നു എന്ന് ക്രമമായി ഓർത്തെടുക്കുക — ഒരിക്കലും miss ആകില്ല!"
+    }
   }
 ]
