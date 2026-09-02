@@ -2211,7 +2211,7 @@
     "dept": "Health Services",
     "scope": "Thiruvananthapuram",
     "date": "2026-09-12",
-    "time": "13:30",
+    "time": "10:30",
     "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-08-29",
@@ -2228,7 +2228,7 @@
     "dept": "Health Services",
     "scope": "Alapuzha",
     "date": "2026-09-12",
-    "time": "13:30",
+    "time": "10:30",
     "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-08-29",
@@ -2245,7 +2245,7 @@
     "dept": "Health Services",
     "scope": "Idukki",
     "date": "2026-09-12",
-    "time": "13:30",
+    "time": "10:30",
     "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-08-29",
@@ -2262,7 +2262,7 @@
     "dept": "Health Services",
     "scope": "Ernakulam",
     "date": "2026-09-12",
-    "time": "13:30",
+    "time": "10:30",
     "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-08-29",
@@ -2279,7 +2279,7 @@
     "dept": "Health Services",
     "scope": "Thrissur",
     "date": "2026-09-12",
-    "time": "13:30",
+    "time": "10:30",
     "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-08-29",
@@ -2296,7 +2296,7 @@
     "dept": "Health Services",
     "scope": "Palakkad",
     "date": "2026-09-12",
-    "time": "13:30",
+    "time": "10:30",
     "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-08-29",
@@ -2313,7 +2313,7 @@
     "dept": "Health Services",
     "scope": "Wayanad",
     "date": "2026-09-12",
-    "time": "13:30",
+    "time": "10:30",
     "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-08-29",
@@ -2330,7 +2330,7 @@
     "dept": "Health Services",
     "scope": "Kannur",
     "date": "2026-09-12",
-    "time": "13:30",
+    "time": "10:30",
     "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-08-29",
@@ -2354,7 +2354,9 @@
     "candidates": null,
     "duration": "1 Hour 30 Minutes",
     "confirmBy": null,
-    "confirmTime": "23:59"
+    "confirmTime": "23:59",
+    "cancelled": true,
+    "cancelledNote": "Main Examination postponed from 14.09.2026 to 11 November 2026 (Modification published 13.08.2026) — see nov-19."
   },
   {
     "id": "sep-21",
@@ -2371,7 +2373,9 @@
     "candidates": null,
     "duration": "1 Hour 30 Minutes",
     "confirmBy": null,
-    "confirmTime": "23:59"
+    "confirmTime": "23:59",
+    "cancelled": true,
+    "cancelledNote": "Main Examination postponed from 14.09.2026 to 11 November 2026 (Modification published 13.08.2026) — see nov-20."
   },
   {
     "id": "sep-22",
@@ -2388,7 +2392,9 @@
     "candidates": null,
     "duration": "1 Hour 30 Minutes",
     "confirmBy": null,
-    "confirmTime": "23:59"
+    "confirmTime": "23:59",
+    "cancelled": true,
+    "cancelledNote": "Main Examination postponed from 14.09.2026 to 11 November 2026 (Modification published 13.08.2026) — see nov-21."
   },
   {
     "id": "sep-23",
@@ -2677,7 +2683,9 @@
     "candidates": 1,
     "duration": "1 Hour 30 Minutes",
     "confirmBy": "2026-07-12",
-    "confirmTime": "23:59"
+    "confirmTime": "23:59",
+    "cancelled": true,
+    "cancelledNote": "Deleted from the September 2026 PSC examination programme (Modification published 13.08.2026)."
   },
   {
     "id": "sep-49",
@@ -2898,7 +2906,9 @@
     "candidates": null,
     "duration": "1 Hour 30 Minutes",
     "confirmBy": null,
-    "confirmTime": "23:59"
+    "confirmTime": "23:59",
+    "cancelled": true,
+    "cancelledNote": "Main Examination postponed from 28.09.2026 to 17 November 2026 (Modification published 13.08.2026) — see nov-27."
   },
   {
     "id": "sep-62",
@@ -2915,7 +2925,9 @@
     "candidates": null,
     "duration": "1 Hour 30 Minutes",
     "confirmBy": null,
-    "confirmTime": "23:59"
+    "confirmTime": "23:59",
+    "cancelled": true,
+    "cancelledNote": "Main Examination postponed from 28.09.2026 to 17 November 2026 (Modification published 13.08.2026) — see nov-28."
   },
   {
     "id": "sep-63",
