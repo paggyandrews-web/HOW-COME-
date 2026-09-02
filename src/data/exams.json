@@ -4302,8 +4302,8 @@
     "admissionFrom": "2026-11-09",
     "duration": "1 Hour 30 Minutes",
     "candidates": 47,
-    "confirmBy": "2026-09-11",
-    "confirmTime": "23:59"
+    "cancelled": true,
+    "cancelledNote": "Deleted from the November 2026 PSC examination programme (Modification published 01.09.2026)."
   },
   {
     "id": "nov-42",
@@ -4670,8 +4670,8 @@
     "admissionFrom": "2026-11-12",
     "duration": "1 Hour 30 Minutes",
     "candidates": 31,
-    "confirmBy": "2026-09-11",
-    "confirmTime": "23:59"
+    "cancelled": true,
+    "cancelledNote": "Deleted from the November 2026 PSC examination programme (Modification published 01.09.2026)."
   },
   {
     "id": "nov-65",

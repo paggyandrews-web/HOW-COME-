@@ -423,8 +423,6 @@ function PaperList({ onStart, onResume }) {
               <div className="font-semibold text-sm leading-snug">{primary.post}</div>
               <div className="text-xs mt-1 flex flex-wrap gap-x-2 gap-y-0.5" style={{ color: 'var(--text2)' }}>
                 <span>📅 {primary.date}</span>
-                <span>·</span>
-                <span>🏷️ {primary.categoryCode}</span>
               </div>
             </div>
 
