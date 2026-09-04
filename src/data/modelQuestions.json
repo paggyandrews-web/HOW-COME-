@@ -5308,5 +5308,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) dismobile — 'dis-' prefix 'mobile'-നൊപ്പം standard English-ൽ ഉപയോഗിക്കാറില്ല; ഇത് ഒരു valid word അല്ല.\n  • 🪤 PSC Trap: 'dis-' ഒരു സാധാരണ negative prefix ആയതിനാൽ ശരിയാണെന്ന് തോന്നാം.\n• (C) unmobile — 'un-' prefix ഈ word-നൊപ്പം standard usage-ൽ ഇല്ല; 'immobile' തന്നെയാണ് accepted form.\n• (D) irmobile — 'ir-' prefix 'r'-ൽ തുടങ്ങുന്ന words-ന് മാത്രമേ ഉപയോഗിക്കൂ (regular→irregular); 'mobile' 'm'-ൽ തുടങ്ങുന്നതിനാൽ ഇത് തെറ്റാണ്, ഒരു valid word അല്ല.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"IM before M and P, like IMPOSSIBLE and IMMOBILE\" — 'm'/'p' rhyme വച്ച് ഓർക്കുക.\n• Prefix family: im- (immobile, impossible), il- (illegal, illegible), ir- (irregular, irresponsible), in- (inactive, incomplete).\n• PSC exam strategy: base word-ന്റെ ആദ്യ letter നോക്കി ഏത് prefix variant വേണമെന്ന് തീരുമാനിക്കുക — ഇത് ഒരു fixed rule ആണ്, exception വളരെ കുറവാണ്."
     }
+  },
+  {
+    "id": "HC-DAILY-2026-09-04-Q1",
+    "paperId": "HC-DAILY-2026-09-04",
+    "questionNumber": 1,
+    "topic": "Conditionals",
+    "difficulty": "medium",
+    "questionText": "Fill in the blank with the correct conditional form:\nIf he __________ (leave) early, he would have caught the train.",
+    "optionA": "left",
+    "optionB": "had left",
+    "optionC": "leaves",
+    "optionD": "would leave",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) had left\n\n• ഈ sentence-ൽ main clause \"would have caught\" (would have + V3) ആണ് ഉള്ളത് — ഇത് Third Conditional-ന്റെ അടയാളമാണ്.\n• Third Conditional-ൽ if-clause \"had + V3\" (Past Perfect) ഫോമിൽ ആയിരിക്കണം.\n• അതായത് \"If he had left early, he would have caught the train\" — ഭൂതകാലത്തിൽ നടക്കാതെ പോയ ഒരു സാധ്യതയെക്കുറിച്ചാണ് (unreal past condition) ഇത് പറയുന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: If + Past Perfect (had + V3), ... would have + V3\n• Third Conditional ഭൂതകാലത്തിൽ സംഭവിക്കാതെ പോയ ഒരു കാര്യത്തിന്റെ സാങ്കൽപിക ഫലത്തെ (imaginary result) കുറിച്ചാണ് പറയുന്നത് — യാഥാർഥ്യത്തിൽ അത് സംഭവിച്ചില്ല.\n• ⭐ PSC ആവർത്തനം: Conditionals PSC പേപ്പറുകളിൽ സ്ഥിരമായി വരുന്ന ഒരു topic ആണ് — മൂന്ന് തരം conditional-കളും (First, Second, Third) നന്നായി പഠിക്കുക.\n• ഉദാഹരണ sentences:\n  1. If she had studied harder, she would have passed the exam.\n  2. If they had left home earlier, they would have avoided the traffic.\n  3. If I had known about the meeting, I would have attended it.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) left — ഇത് Simple Past ആണ്, Second Conditional-ൽ (If + Past, ...would + V1) ഉപയോഗിക്കുന്നത്. ഇവിടെ main clause \"would have caught\" ആയതിനാൽ ഇത് ചേരില്ല.\n  🪤 PSC Trap: Simple Past കണ്ടാൽ പെട്ടെന്ന് ശരി എന്ന് തോന്നും, പക്ഷേ main clause ശ്രദ്ധിച്ചാൽ tense mismatch കാണാം.\n• (C) leaves — Present Simple ആണ്, Zero/First Conditional-ൽ ഉപയോഗിക്കുന്നത്. Past Perfect main clause-മായി ചേരില്ല.\n• (D) would leave — ഇത് if-clause-ൽ ഒരിക്കലും വരില്ല; \"would\" if-clause-ൽ അല്ല, main clause-ൽ ആണ് വരേണ്ടത്.\n  🪤 PSC Trap: രണ്ട് clause-ലും \"would\" ഇടുന്ന തെറ്റ് വിദ്യാർത്ഥികൾ പലപ്പോഴും ചെയ്യും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Had-Had-Would have\" എന്ന് ഓർക്കുക — Third Conditional-ൽ if-clause-ൽ \"had\", main clause-ൽ \"would have\".\n• Conditionals family മുഴുവൻ ഒരുമിച്ച് പഠിക്കുക: Zero (If+Present, Present), First (If+Present, will), Second (If+Past, would), Third (If+Past Perfect, would have).\n• PSC exam strategy: main clause-ലെ verb form ആദ്യം നോക്കുക — അതിൽ നിന്ന് ഏത് conditional ആണെന്ന് കണ്ടെത്തി if-clause-ന്റെ ശരിയായ ഫോം തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-04-Q2",
+    "paperId": "HC-DAILY-2026-09-04",
+    "questionNumber": 2,
+    "topic": "Direct and Indirect Speech",
+    "difficulty": "medium",
+    "questionText": "Choose the correct indirect speech for the sentence:\nShe said, \"I am writing a letter now.\"",
+    "optionA": "She said that she was writing a letter then.",
+    "optionB": "She said that she is writing a letter now.",
+    "optionC": "She said that she writes a letter now.",
+    "optionD": "She said that she has written a letter then.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) She said that she was writing a letter then.\n\n• Direct speech reporting verb \"said\" Past Tense-ൽ ആയതിനാൽ, quoted sentence-ലെ tense ഒരു step പുറകോട്ട് മാറ്റണം (backshift).\n• Present Continuous (\"am writing\") → Past Continuous (\"was writing\") ആയി മാറും.\n• Time word \"now\" → \"then\" ആയി മാറും, കാരണം reported speech-ൽ സമയം മാറിയിരിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Reporting verb Past-ൽ ആണെങ്കിൽ → Tense ഒരു step backshift ചെയ്യുക; now→then, today→that day, here→there.\n• Present Continuous → Past Continuous ആണ് ഈ ചോദ്യത്തിലെ പ്രധാന rule.\n• ⭐ PSC ആവർത്തനം: Direct-Indirect conversion PSC-യിൽ വളരെ സ്ഥിരമായി ആവർത്തിക്കുന്ന topic ആണ് — tense backshift table നന്നായി മന:പാഠമാക്കുക.\n• ഉദാഹരണ sentences:\n  1. He said, \"I am reading a book.\" → He said that he was reading a book.\n  2. She said, \"I am cooking now.\" → She said that she was cooking then.\n  3. They said, \"We are watching a movie.\" → They said that they were watching a movie.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) she is writing a letter now — tense backshift ചെയ്യാതെ Present Continuous അതേപടി നിർത്തിയിരിക്കുന്നു; \"now\" എന്ന word-ഉം മാറ്റിയിട്ടില്ല.\n  🪤 PSC Trap: ഒറ്റനോട്ടത്തിൽ ശരി എന്ന് തോന്നും, കാരണം original sentence-മായി വാക്കുകൾ ഏറെക്കുറെ ഒരുപോലെ.\n• (C) she writes a letter now — Simple Present ആണ്, ഇത് തെറ്റായ tense ആണ്, backshift rule പാലിക്കുന്നില്ല.\n• (D) she has written a letter then — Present Perfect ആണ്, ഇത് Present Continuous-ന്റെ ശരിയായ backshift അല്ല; മാത്രമല്ല \"then\" എന്ന word Present Perfect-മായി ചേരില്ല.\n  🪤 PSC Trap: \"has written\" completed action സൂചിപ്പിക്കുന്നു, എന്നാൽ യഥാർത്ഥ sentence ഒരു ongoing action ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"am/is/are writing\" → \"was/were writing\" — continuous-ന്റെ continuous തന്നെ, tense മാത്രം past ആയി.\n• Backshift word family ഒരുമിച്ച് പഠിക്കുക: now→then, today→that day, tomorrow→the next day, yesterday→the day before.\n• PSC exam strategy: ആദ്യം reporting verb-ന്റെ tense നോക്കുക, എന്നിട്ട് quoted sentence-ലെ tense-ഉം time word-ഉം backshift ചെയ്യുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-04-Q3",
+    "paperId": "HC-DAILY-2026-09-04",
+    "questionNumber": 3,
+    "topic": "Subject-Verb Agreement",
+    "difficulty": "medium",
+    "questionText": "Choose the correct sentence.",
+    "optionA": "Neither the manager nor the employees was informed about the meeting.",
+    "optionB": "Neither the manager nor the employees were informed about the meeting.",
+    "optionC": "Neither the manager nor the employees is informed about the meeting.",
+    "optionD": "Neither the manager nor the employees has been informed about the meeting.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Neither the manager nor the employees were informed about the meeting.\n\n• \"Neither...nor\" ഉപയോഗിക്കുമ്പോൾ verb, തൊട്ടടുത്തുള്ള (nearer) subject-നോട് agree ചെയ്യണം — ഇവിടെ \"employees\" (plural) ആണ് verb-ന് തൊട്ടടുത്തുള്ളത്.\n• Plural subject-ന് \"were\" ആണ് ശരിയായ Past tense verb form.\n• ഇത് Proximity Rule എന്നറിയപ്പെടുന്ന, PSC-യിൽ വളരെ common ആയ ഒരു SVA rule ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Neither/Either...nor/or → Verb agrees with the subject nearest to it (Proximity Rule).\n• \"the manager\" singular ആണെങ്കിലും, \"employees\" (plural, verb-നോട് ഏറ്റവും അടുത്ത subject) ആണ് verb-ന്റെ form തീരുമാനിക്കുന്നത്.\n• ⭐ PSC ആവർത്തനം: Neither-nor, Either-or SVA questions PSC-യിൽ ഉയർന്ന frequency-യിൽ ആവർത്തിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. Neither the teacher nor the students were late.\n  2. Either the players or the coach is responsible.\n  3. Neither the books nor the pen was on the table.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) was — Singular verb ആണ്, പക്ഷേ nearer subject \"employees\" plural ആയതിനാൽ ഇത് തെറ്റ്.\n  🪤 PSC Trap: \"the manager\" ആദ്യം കാണുന്നതിനാൽ singular verb ശരി എന്ന് തെറ്റിദ്ധരിക്കും, പക്ഷേ rule നോക്കേണ്ടത് nearer subject-നെ.\n• (C) is — Present tense ആണ്, sentence context Past-ൽ ആയതിനാൽ tense mismatch കൂടാതെ singular-plural mismatch-ഉം ഉണ്ട്.\n• (D) has been — Singular auxiliary (\"has\") ആണ്, plural subject \"employees\"-ന് \"have been\" ആണ് വേണ്ടത്.\n  🪤 PSC Trap: Passive voice structure ആയതിനാൽ ശ്രദ്ധ auxiliary verb-ൽ നിന്ന് മാറിപ്പോകും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Neither-nor, verb-ന്റെ friend അടുത്തുള്ള subject മാത്രം\" — verb എപ്പോഴും തൊട്ടടുത്തുള്ള subject-നെ നോക്കും.\n• Correlative-SVA family ഒരുമിച്ച് പഠിക്കുക: neither-nor, either-or, not only-but also — എല്ലാത്തിലും Proximity Rule ബാധകം.\n• PSC exam strategy: verb-ന് തൊട്ടുമുമ്പുള്ള subject ഏതാണെന്ന് നോക്കി, അതിന്റെ number (singular/plural) അനുസരിച്ച് verb തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-04-Q4",
+    "paperId": "HC-DAILY-2026-09-04",
+    "questionNumber": 4,
+    "topic": "Correlatives",
+    "difficulty": "medium",
+    "questionText": "Choose the correct sentence using the appropriate correlative conjunction.",
+    "optionA": "He not only missed the flight but also lost his passport.",
+    "optionB": "He not only missed the flight but lost also his passport.",
+    "optionC": "He not only missed the flight but also his passport lost.",
+    "optionD": "He not only the flight missed but also lost his passport.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) He not only missed the flight but also lost his passport.\n\n• \"Not only...but also\" ഉപയോഗിക്കുമ്പോൾ, രണ്ട് ഭാഗങ്ങളും parallel structure-ൽ (verb + object) ആയിരിക്കണം.\n• \"not only [missed the flight] but also [lost his passport]\" — രണ്ടും verb+object structure-ൽ ആണ്, അതിനാൽ correct.\n• Correlative conjunctions-ന്റെ ഏറ്റവും പ്രധാന rule ഇത് തന്നെയാണ് — Parallelism.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Not only + [verb phrase] + but also + [matching verb phrase] — രണ്ട് ഭാഗവും ഒരേ grammatical structure-ൽ ആയിരിക്കണം.\n• Correlative conjunctions എപ്പോഴും ജോഡിയായി വരും: either-or, neither-nor, not only-but also, both-and.\n• ⭐ PSC ആവർത്തനം: Correlatives PSC-യിൽ കുറഞ്ഞ frequency ആണെങ്കിലും, വരുമ്പോൾ parallelism-ന്റെ അടിസ്ഥാനത്തിലാണ് ചോദിക്കുക.\n• ഉദാഹരണ sentences:\n  1. She not only sang the song but also danced beautifully.\n  2. Either you apologize or you leave the room.\n  3. Both the teacher and the students enjoyed the trip.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) but lost also his passport — \"also\" തെറ്റായ സ്ഥാനത്ത് (misplaced) ആണ്; \"also\" \"lost\"-ന് മുമ്പേ വരണം, അല്ലാതെ ശേഷമല്ല.\n  🪤 PSC Trap: \"also\" എവിടെയെങ്കിലും ഇട്ടാൽ മതി എന്ന് തെറ്റിദ്ധരിക്കും, പക്ഷേ word order പ്രധാനമാണ്.\n• (C) but also his passport lost — Subject-Verb order മാറിപ്പോയിരിക്കുന്നു (\"his passport lost\" ആണ് should be \"lost his passport\"), ഇത് unnatural structure ആണ്.\n• (D) not only the flight missed but also lost his passport — ആദ്യ ഭാഗത്തിൽ \"the flight missed\" എന്ന word order തെറ്റാണ്; parallelism പൂർണ്ണമായി തകർന്നിരിക്കുന്നു.\n  🪤 PSC Trap: രണ്ട് ഭാഗങ്ങളും structure-ൽ പൊരുത്തപ്പെടാത്തത് ശ്രദ്ധിക്കാതെ പോകാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Not only-but also\" ഒരു mirror പോലെ — ഒരു ഭാഗത്തിന്റെ structure മറുഭാഗത്തിലും അതേപടി പ്രതിഫലിക്കണം.\n• Correlative family ഒരുമിച്ച് പഠിക്കുക: either-or, neither-nor, not only-but also, both-and, no sooner-than, lest-should — ഒരിക്കലും mix ചെയ്യരുത്.\n• PSC exam strategy: രണ്ട് ഭാഗങ്ങളും verb+object structure ഒരേപോലെയാണോ എന്ന് check ചെയ്യുക, word order ശ്രദ്ധിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-04-Q5",
+    "paperId": "HC-DAILY-2026-09-04",
+    "questionNumber": 5,
+    "topic": "Correction of Sentences",
+    "difficulty": "medium",
+    "questionText": "Choose the sentence that needs no correction.",
+    "optionA": "She don't like coffee.",
+    "optionB": "He didn't wanted to go.",
+    "optionC": "They have been working here since five years.",
+    "optionD": "He has been working here for five years.",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) He has been working here for five years.\n\n• ഈ sentence-ൽ Present Perfect Continuous (\"has been working\") ശരിയായ tense ആണ്, കൂടാതെ duration-നു മുന്നിൽ \"for\" ശരിയായ preposition ആണ്.\n• \"for\" duration/length of time-നു മുന്നിൽ ഉപയോഗിക്കും (for five years, for two hours).\n• Subject \"He\" singular ആയതിനാൽ \"has\" ശരിയായ auxiliary ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: SINCE + point of time (since 2020, since Monday); FOR + duration/period (for five years, for two hours).\n• \"since five years\" എന്നത് Indian English-ൽ സാധാരണ കാണുന്ന ഒരു common error ആണ് — PSC ഇത് പ്രത്യേകം ടെസ്റ്റ് ചെയ്യാറുണ്ട്.\n• ⭐ PSC ആവർത്തനം: Correction of Sentences-ൽ preposition errors, tense errors, subject-verb agreement errors എന്നിവ ഏറ്റവും സാധാരണമായി വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. I have lived here since 2015. (correct — point of time)\n  2. I have lived here for ten years. (correct — duration)\n  3. She has been waiting for two hours. (correct — duration)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) She don't like coffee — Subject \"She\" third person singular ആയതിനാൽ \"doesn't\" വേണം, \"don't\" അല്ല.\n  🪤 PSC Trap: \"don't/doesn't\" confusion very common ആണ്, especially spoken English-ന്റെ സ്വാധീനം കൊണ്ട്.\n• (B) He didn't wanted to go — \"didn't\" തന്നെ Past tense സൂചിപ്പിക്കുന്നു, അതിനുശേഷം base form \"want\" മതി; \"wanted\" ഇടേണ്ട ആവശ്യമില്ല (double past marking).\n• (C) They have been working here since five years — മുകളിൽ പറഞ്ഞപോലെ \"since\" ന് പകരം \"for\" ആണ് duration-ന് വേണ്ടത്.\n  🪤 PSC Trap: \"since\" \"years\" പോലുള്ള duration word-കൾക്ക് മുന്നിൽ വരാം എന്ന് പലരും തെറ്റിദ്ധരിക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"SINCE = a POINT (starting time), FOR = a PERIOD (length)\" — S for Start-point, F for length oF time.\n• Preposition-tense error family ഒരുമിച്ച് പഠിക്കുക: since/for, don't/doesn't, double past marking (didn't + V2).\n• PSC exam strategy: ഓരോ option-ലും subject-verb agreement, tense, preposition എന്നിവ വെവ്വേറെ check ചെയ്യുക — ഒരു ചെറിയ പിശക് പോലും ശ്രദ്ധിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-04-Q6",
+    "paperId": "HC-DAILY-2026-09-04",
+    "questionNumber": 6,
+    "topic": "One Word Substitutes",
+    "difficulty": "medium",
+    "questionText": "Choose the one word for the phrase in italics.\n__A person who deliberately destroys or damages public property__ should be punished severely.",
+    "optionA": "vandal",
+    "optionB": "miser",
+    "optionC": "hermit",
+    "optionD": "nomad",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) vandal\n\n• \"Vandal\" എന്നാൽ പൊതു സ്വത്ത് അല്ലെങ്കിൽ മറ്റുള്ളവരുടെ വസ്തുവകകൾ മനഃപൂർവ്വം നശിപ്പിക്കുന്ന/കേടുവരുത്തുന്ന ആൾ എന്നാണ് അർത്ഥം.\n• ഈ word 5-ാം നൂറ്റാണ്ടിലെ \"Vandals\" എന്ന ഗോത്രത്തിന്റെ പേരിൽ നിന്നാണ് വന്നത് — അവർ റോമിലെ കലാസൃഷ്ടികളും കെട്ടിടങ്ങളും നശിപ്പിച്ചിരുന്നു.\n• PSC-യിൽ ഇത്തരം \"a person who...\" definitions നന്നായി ആവർത്തിക്കുന്ന ഒരു pattern ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: \"a person who deliberately destroys property\" = vandal — definition-ന്റെ key words (deliberately + destroys/damages + property) ഓർത്തുവെക്കുക.\n• One Word Substitutes-ൽ പല വാക്കുകളും ഒരാളുടെ സ്വഭാവം/പ്രവൃത്തി വിവരിക്കുന്നവയാണ് — context clue-കൾ ശ്രദ്ധിക്കുക.\n• ⭐ PSC ആവർത്തനം: One Word Substitutes PSC-യിൽ ഏറ്റവും ഉയർന്ന frequency ഉള്ള topic-കളിൽ ഒന്നാണ്.\n• Etymology hint: \"Vandal\" — ജർമ്മാനിക് ഗോത്രത്തിന്റെ പേരിൽ നിന്ന് (Latin \"Vandalus\" വഴി) ഉത്ഭവിച്ചത്.\n• ഉദാഹരണ sentences:\n  1. The vandals sprayed graffiti on the historic monument.\n  2. CCTV cameras caught the vandal in the act.\n  3. The park benches were damaged by vandals last night.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) miser — പണം ചെലവഴിക്കാൻ മടിക്കുന്ന, പിശുക്കനായ ആൾ എന്നാണ് അർത്ഥം — property നശിപ്പിക്കുന്നതുമായി ഒരു ബന്ധവുമില്ല.\n  🪤 PSC Trap: \"miser\" സാധാരണ character-word ആയതിനാൽ confuse ചെയ്യാൻ സാധ്യതയുണ്ട്.\n• (C) hermit — സമൂഹത്തിൽ നിന്ന് അകന്ന്, ഏകാന്തതയിൽ ജീവിക്കുന്ന ആൾ എന്നാണ് അർത്ഥം — destruction-മായി ബന്ധമില്ല.\n• (D) nomad — സ്ഥിരമായ വീടില്ലാതെ, സ്ഥലം മാറി മാറി ജീവിക്കുന്ന ആൾ എന്നാണ് അർത്ഥം — ഇതും property destruction-മായി ബന്ധമില്ല.\n  🪤 PSC Trap: മൂന്ന് wrong options-ഉം \"a person who...\" പാറ്റേൺ ഉള്ള common OWS words ആയതിനാൽ confusion ഉണ്ടാക്കാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Vandal\" → \"Van\" ഓടിച്ച് കയറി damage ചെയ്യുന്ന ആൾ എന്ന് ഒരു visual image സങ്കൽപ്പിക്കുക.\n• \"a person who...\" definitions ഒരു group ആയി പഠിക്കുക — vandal, miser, hermit, nomad പോലുള്ള character-words separate ആയി list ചെയ്ത് ഓർക്കുക.\n• PSC exam strategy: definition-ലെ key action word (ഇവിടെ \"destroys/damages\") കണ്ടെത്തി, ആ action-മായി ബന്ധപ്പെട്ട word മാത്രം തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-04-Q7",
+    "paperId": "HC-DAILY-2026-09-04",
+    "questionNumber": 7,
+    "topic": "Phrasal Verbs",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the phrasal verb in italics.\nShe is __looking forward to__ her sister's wedding next month.",
+    "optionA": "anticipating with pleasure",
+    "optionB": "worrying about",
+    "optionC": "forgetting about",
+    "optionD": "complaining about",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) anticipating with pleasure\n\n• \"Look forward to\" എന്ന phrasal verb-ന്റെ അർത്ഥം ഒരു കാര്യം സന്തോഷത്തോടെ, ആകാംക്ഷയോടെ കാത്തിരിക്കുക എന്നാണ്.\n• ഇവിടെ \"her sister's wedding\" ഒരു സന്തോഷകരമായ സംഭവം ആയതിനാൽ, \"anticipating with pleasure\" ആണ് ശരിയായ അർത്ഥം.\n• ശ്രദ്ധിക്കുക: \"look forward to\" യിലെ \"to\" ഒരു preposition ആണ്, അതിനുശേഷം noun/gerund വരും (looking forward to seeing you).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Look forward to = eagerly/happily await something in the future.\n• \"To\" ഇവിടെ preposition ആണ്, infinitive marker അല്ല — അതുകൊണ്ട് \"look forward to doing\" ശരിയാണ്, \"look forward to do\" തെറ്റാണ്.\n• ⭐ PSC ആവർത്തനം: Phrasal Verbs PSC-യിൽ ഉയർന്ന frequency ഉള്ള topic ആണ് — \"look\" ഉപയോഗിച്ചുള്ള phrasal verbs (look into, look after, look up, look forward to) പ്രത്യേകം ശ്രദ്ധിക്കുക.\n• ഉദാഹരണ sentences:\n  1. I am looking forward to meeting you soon.\n  2. We look forward to your reply.\n  3. The children are looking forward to the summer vacation.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) worrying about — ഇത് \"look forward to\"-യുടെ വിപരീത feeling ആണ്; negative emotion സൂചിപ്പിക്കുന്നു, എന്നാൽ ഈ phrasal verb positive anticipation മാത്രമേ സൂചിപ്പിക്കൂ.\n  🪤 PSC Trap: \"wedding\" പോലുള്ള future event-കളുമായി ബന്ധപ്പെട്ട് \"worry\" എന്നത് സ്വാഭാവികമായി തോന്നാമെങ്കിലും, ഈ phrasal verb-ന്റെ അർത്ഥം അതല്ല.\n• (C) forgetting about — പൂർണ്ണമായും വിപരീത അർത്ഥം; \"look forward to\" ഓർത്തിരിക്കുകയും ആകാംക്ഷയോടെ കാത്തിരിക്കുകയും ചെയ്യുന്നതാണ്.\n• (D) complaining about — ഇതും negative meaning ആണ്; \"look forward to\"-യുമായി യാതൊരു ബന്ധവുമില്ല.\n  🪤 PSC Trap: നാല് options-ഉം emotion-related ആയതിനാൽ ശ്രദ്ധയോടെ വേണം തിരഞ്ഞെടുക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Forward\" = മുന്നോട്ട് നോക്കുക = ഭാവിയിലെ ഒരു നല്ല കാര്യത്തിനായി സന്തോഷത്തോടെ കാത്തിരിക്കുക.\n• \"Look\" family ഒരുമിച്ച് പഠിക്കുക: look into (investigate), look after (care for), look up (search/improve), look forward to (anticipate happily).\n• PSC exam strategy: phrasal verb-ന്റെ context (ഇവിടെ \"wedding\" — positive event) ശ്രദ്ധിച്ചാൽ positive/negative meaning ഉള്ള options-ൽ നിന്ന് എളുപ്പം ശരിയായത് കണ്ടെത്താം."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-04-Q8",
+    "paperId": "HC-DAILY-2026-09-04",
+    "questionNumber": 8,
+    "topic": "Compound Words",
+    "difficulty": "medium",
+    "questionText": "Identify the compound word in the sentence:\nThe lifeguard rescued the swimmer from the rough sea.",
+    "optionA": "lifeguard",
+    "optionB": "rescued",
+    "optionC": "rough",
+    "optionD": "swimmer",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) lifeguard\n\n• \"Lifeguard\" രണ്ട് സ്വതന്ത്ര വാക്കുകൾ ചേർന്നുണ്ടായതാണ് — \"life\" + \"guard\" — ഇത് ഒരു Compound Word ആണ്.\n• Compound word എന്നാൽ രണ്ടോ അതിലധികമോ സ്വതന്ത്ര words ചേർന്ന് ഒരു പുതിയ അർത്ഥമുള്ള word ഉണ്ടാക്കുന്നതാണ്.\n• \"Lifeguard\" = കടലിലോ pool-ലോ സുരക്ഷ നോക്കുന്ന ആൾ എന്ന പുതിയ അർത്ഥം ഉണ്ടാക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Compound Word = free word + free word (both parts can stand alone as separate words).\n• \"rescued\" (rescue+ed suffix), \"rough\" (single word), \"swimmer\" (swim+er suffix) — suffix ചേർത്തുണ്ടാക്കുന്നത് compound word അല്ല, കാരണം \"-ed\", \"-er\" സ്വതന്ത്ര words അല്ല.\n• ⭐ PSC ആവർത്തനം: Compound Words PSC-യിൽ കുറഞ്ഞ frequency ആണെങ്കിലും, sentence-ൽ നിന്ന് കണ്ടെത്താൻ ചോദിക്കുന്ന pattern സ്ഥിരമായി ആവർത്തിക്കും.\n• ഉദാഹരണ sentences:\n  1. She kept her documents in a briefcase. (brief+case)\n  2. The sunflower bloomed early this year. (sun+flower)\n  3. He works as a lifeguard at the beach. (life+guard)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) rescued — \"rescue\" + \"-ed\" (past tense suffix); suffix ഒരു സ്വതന്ത്ര word അല്ലാത്തതിനാൽ compound word അല്ല.\n  🪤 PSC Trap: ഒരു word-ന്റെ നീളം കണ്ട് compound word ആണെന്ന് തെറ്റിദ്ധരിക്കാം, പക്ഷേ structure ആണ് നോക്കേണ്ടത്.\n• (C) rough — ഇത് ഒരൊറ്റ, mono-morphemic word ആണ്; രണ്ട് ഭാഗങ്ങളായി വേർതിരിക്കാൻ കഴിയില്ല.\n• (D) swimmer — \"swim\" + \"-er\" (agent suffix); ഇവിടെയും \"-er\" സ്വതന്ത്ര word അല്ലാത്തതിനാൽ compound word അല്ല.\n  🪤 PSC Trap: \"swimmer\", \"rescued\" പോലുള്ള suffix-word-കൾ compound word ആണെന്ന് പലരും തെറ്റിദ്ധരിക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"രണ്ട് വാക്കും ഒറ്റയ്ക്ക് നിൽക്കുമോ?\" എന്ന് ചോദിക്കുക — \"life\" ഒറ്റയ്ക്ക് word ആണ്, \"guard\" ഒറ്റയ്ക്കും word ആണ് → compound word.\n• Compound word family ഓർക്കുക: lifeguard, sunflower, blockhead, notebook, breakthrough, railroad — എല്ലാം രണ്ട് free words ചേർന്നത്.\n• PSC exam strategy: ഓരോ option-ഉം രണ്ടായി പിരിച്ച് നോക്കുക — രണ്ട് ഭാഗവും independent words ആണെങ്കിൽ മാത്രം അത് compound word ആണ്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-04-Q9",
+    "paperId": "HC-DAILY-2026-09-04",
+    "questionNumber": 9,
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "questionText": "Choose the word most similar in meaning to the word in italics.\nThe mountaineers made an __audacious__ attempt to climb the peak without oxygen support.",
+    "optionA": "daring",
+    "optionB": "foolish",
+    "optionC": "reluctant",
+    "optionD": "cautious",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) daring\n\n• \"Audacious\" എന്നാൽ ധൈര്യപൂർവ്വം, റിസ്ക് എടുത്ത് ചെയ്യുന്ന — \"daring\" ആണ് ഏറ്റവും അടുത്ത synonym.\n• ഇവിടെ context \"climb the peak without oxygen support\" — അപകടസാധ്യതയുള്ള, ധൈര്യമുള്ള ഒരു ശ്രമത്തെയാണ് വിവരിക്കുന്നത്.\n• \"Audacious\" ന് ചെറിയ positive/impressive shade ഉണ്ട് — bold-ഉം daring-ഉം ആണ് ഏറ്റവും ചേരുന്ന synonyms.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Audacious = extremely bold or daring, often risking failure or disapproval.\n• Etymology hint: Latin \"audax\" (bold) എന്ന വാക്കിൽ നിന്നാണ് \"audacious\" ഉത്ഭവിച്ചത് — \"audacity\" (noun form)-ഉം ഇതേ root-ൽ നിന്നാണ്.\n• ⭐ PSC ആവർത്തനം: Synonyms PSC-യിൽ ഏറ്റവും ഉയർന്ന frequency ഉള്ള topic-കളിൽ ഒന്നാണ് — context-based meaning ശ്രദ്ധിക്കുക.\n• ഉദാഹരണ sentences:\n  1. It was an audacious plan to escape from the fortress.\n  2. The audacious young entrepreneur launched a bold new venture.\n  3. Her audacious remarks shocked the entire committee.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) foolish — \"foolish\" എന്നാൽ ബുദ്ധിശൂന്യമായ, ചിന്തയില്ലാത്ത എന്നാണ് അർത്ഥം — negative connotation ആണ്; \"audacious\"-ന് അതിലും കൂടുതൽ ധൈര്യത്തിന്റെ positive shade ഉണ്ട്.\n  🪤 PSC Trap: risky action ആയതിനാൽ \"foolish\" ശരി എന്ന് തോന്നാമെങ്കിലും, \"audacious\" ധൈര്യത്തെ കൂടുതൽ emphasize ചെയ്യുന്നു.\n• (C) reluctant — \"reluctant\" എന്നാൽ മടിയോടെ, മനസ്സില്ലാമനസ്സോടെ ചെയ്യുന്നത് എന്നാണ്; \"audacious\" ന്റെ നേർവിപരീതം.\n• (D) cautious — \"cautious\" എന്നാൽ സൂക്ഷ്മതയോടെ, ജാഗ്രതയോടെ പ്രവർത്തിക്കുന്നത് എന്നാണ് — \"audacious\"-ന്റെ opposite meaning ആണ്.\n  🪤 PSC Trap: \"cautious\" ഉം \"audacious\"ഉം spelling-ൽ ചെറിയ സാമ്യമുള്ളതിനാൽ confuse ചെയ്യാൻ സാധ്യതയുണ്ട്, പക്ഷേ meaning പൂർണ്ണമായും വിപരീതം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Audacious\" ഒരു \"audience\"-ന് മുന്നിൽ ധൈര്യത്തോടെ എന്തും ചെയ്യുന്ന ആൾ എന്ന് സങ്കൽപ്പിക്കുക.\n• Boldness word family ഒരുമിച്ച് പഠിക്കുക: audacious, daring, bold, brave, fearless — ഇവയെല്ലാം near-synonyms ആണ്, opposite family: cautious, timid, reluctant.\n• PSC exam strategy: sentence context-ൽ ഒരു risky/bold action ഉണ്ടോ എന്ന് നോക്കുക — positive-shade word matching ചെയ്യുക, negative connotation ഉള്ള options ഒഴിവാക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-04-Q10",
+    "paperId": "HC-DAILY-2026-09-04",
+    "questionNumber": 10,
+    "topic": "Abbreviations",
+    "difficulty": "easy",
+    "questionText": "Expand the abbreviation 'FAQ'.",
+    "optionA": "Frequently Asked Questions",
+    "optionB": "Fully Answered Query",
+    "optionC": "Formal Assessment Quiz",
+    "optionD": "Final Answer Quotient",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Frequently Asked Questions\n\n• \"FAQ\" എന്നത് \"Frequently Asked Questions\" എന്നതിന്റെ ചുരുക്കപ്പേരാണ് — ഇടയ്ക്കിടെ ചോദിക്കപ്പെടുന്ന ചോദ്യങ്ങൾ എന്നാണ് അർത്ഥം.\n• Websites, apps, product manuals എന്നിവയിൽ പൊതുവായ സംശയങ്ങൾക്കുള്ള ഉത്തരങ്ങൾ നൽകുന്ന section-ന് ഈ പേര് ഉപയോഗിക്കാറുണ്ട്.\n• ദൈനംദിന ജീവിതത്തിലും ഓഫീസ് ജോലിയിലും വളരെ സാധാരണയായി ഉപയോഗിക്കുന്ന ഒരു abbreviation ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: FAQ = Frequently Asked Questions — ഓരോ letter-ഉം ഓരോ word-ന്റെ ആദ്യാക്ഷരമാണ് (F-A-Q).\n• Abbreviations പഠിക്കുമ്പോൾ ഓരോ letter-ഉം represent ചെയ്യുന്ന full word ക്രമമായി ഓർക്കുക.\n• ⭐ PSC ആവർത്തനം: Abbreviations PSC-യിൽ കുറഞ്ഞ frequency ആണെങ്കിലും, common everyday abbreviations (FAQ, ATM, CEO, WHO) സ്ഥിരമായി ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. Please check the FAQ section before contacting support.\n  2. The company's FAQ page answers most customer queries.\n  3. This FAQ document was updated last month.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) Fully Answered Query — ഇത് ഒരു യഥാർത്ഥ standard expansion അല്ല, കേൾക്കാൻ സമാനം തോന്നുമെങ്കിലും ശരിയായ term അല്ല.\n  🪤 PSC Trap: \"Q\" for \"Query\" എന്ന് തെറ്റിദ്ധരിക്കാം, പക്ഷേ ശരിയായ word \"Questions\" ആണ്.\n• (C) Formal Assessment Quiz — ഇതും ഒരു fabricated expansion ആണ്, \"FAQ\"-യുടെ യഥാർത്ഥ അർത്ഥവുമായി ബന്ധമില്ല.\n• (D) Final Answer Quotient — ഇത് ഒരു mathematical-sounding പദമാണ്, \"FAQ\"-യുടെ standard usage-മായി യാതൊരു ബന്ധവുമില്ല.\n  🪤 PSC Trap: മൂന്ന് wrong options-ഉം F-A-Q letters-മായി പൊരുത്തപ്പെടുന്ന വാക്കുകൾ ഉപയോഗിച്ചാണ് confuse ചെയ്യാൻ ശ്രമിക്കുന്നത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"FAQ\" കാണുമ്പോൾ ഉടനെ ഓർക്കുക — \"Frequently\" (ഇടയ്ക്കിടെ) + \"Asked\" (ചോദിക്കുന്ന) + \"Questions\" (ചോദ്യങ്ങൾ).\n• Common Tech/Office abbreviations ഒരുമിച്ച് പഠിക്കുക: FAQ, ATM, CEO, WHO, UPI, QR Code.\n• PSC exam strategy: ഓരോ letter-ഉം separately expand ചെയ്ത് നോക്കുക — fabricated options-ൽ ഏതെങ്കിലും ഒരു letter യഥാർത്ഥ word-മായി ചേരാതെ വരും."
+    }
   }
 ]
