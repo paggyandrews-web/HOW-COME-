@@ -1,0 +1,192 @@
+{
+  "paper": {
+    "id": "24-2019-M",
+    "paperCode": "24/2019 M",
+    "post": "Assistant - Universities in Kerala",
+    "date": "15-Jun-2019",
+    "medium": "M",
+    "year": "2019"
+  },
+  "questions": [
+    {
+      "id": "24-2019-M-Q71",
+      "paperId": "24-2019-M",
+      "questionNumber": 71,
+      "topic": "Subject-Verb Agreement",
+      "questionText": "Fill in the blank :\nThe shop-keeper, along with his helpers, ________ the shop at 10 O'clock everyday.",
+      "optionA": "opens",
+      "optionB": "open",
+      "optionC": "is opening",
+      "optionD": "are opening",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) opens\n• 'The shop-keeper, along with his helpers,' എന്ന വാക്യത്തിൽ 'along with his helpers' എന്നത് ഒരു parenthetical phrase (ഇടയിൽ ചേർത്ത വിവരണം) മാത്രമാണ് — യഥാർത്ഥ subject 'The shop-keeper' (singular) തന്നെയാണ്.\n• 'everyday' എന്ന signal word ഒരു ദിനചര്യ/habitual action സൂചിപ്പിക്കുന്നു — ഇതിന് Simple Present Tense ('opens') ആണ് ശരിയായ tense.\n• \"കടയുടമ തന്റെ സഹായികളോടൊപ്പം എല്ലാ ദിവസവും 10 മണിക്ക് കട തുറക്കുന്നു\" എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: 'along with/as well as/together with/accompanied by' എന്നീ phrase-കൾക്ക് ശേഷം subject-ന്റെ number ഒരിക്കലും മാറില്ല!\n• 'along with', 'as well as', 'together with', 'in addition to', 'accompanied by' എന്നീ phrases രണ്ട് comma-കൾക്കിടയിൽ ഒരു additional വ്യക്തിയെയോ വസ്തുവിനെയോ പരാമർശിക്കുന്നു എങ്കിലും, verb-ന്റെ number decide ചെയ്യുന്നത് ആ additional വ്യക്തിയല്ല — ആദ്യത്തെ main subject മാത്രമാണ് verb-നെ നിയന്ത്രിക്കുന്നത്.\n• ഒരേ കുടുംബത്തിലെ വാക്കുകൾ: 'and' എന്ന conjunction മാത്രമേ രണ്ട് subjects-നെ യഥാർത്ഥത്തിൽ ചേർത്ത് plural verb ഉണ്ടാക്കൂ; 'along with' പോലുള്ള phrases ഒരിക്കലും subject-നെ plural ആക്കില്ല, കാരണം അവ conjunction അല്ല, preposition phrase മാത്രമാണ്.\n• ⭐ PSC ആവർത്തനം: 'along with/as well as' + comma-ക്കിടയിലുള്ള phrase-ന്റെ ഈ subject-verb agreement trap PSC പരീക്ഷകളിൽ വളരെ പതിവായി ആവർത്തിച്ചു ചോദിക്കുന്ന ഒരു topic ആണ് — ഇത് നന്നായി ഓർത്തുവയ്ക്കുക.\n• ഉദാഹരണ sentences (ഓരോന്നിനും ശ്രദ്ധിക്കുക):\n1. The teacher, along with her students, visits the museum every month. (യഥാർത്ഥ subject 'teacher' singular ആയതിനാൽ → visits)\n2. The manager, as well as his staff, works overtime today. (subject 'manager' singular → works)\n3. The captain, accompanied by his team, arrives early. (subject 'captain' singular → arrives)\nഈ മൂന്ന് ഉദാഹരണങ്ങളിലും comma-കൾക്കിടയിലുള്ള ഭാഗം ignore ചെയ്ത് ആദ്യ പദം മാത്രം നോക്കിയാൽ ഉത്തരം എളുപ്പമാകും.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) open — plural verb ആണ്; യഥാർത്ഥ subject 'shop-keeper' singular ആയതിനാൽ ഇത് ചേരില്ല.\n• 🪤 PSC Trap: 'helpers' എന്ന plural noun കണ്ട് verb-ഉം plural ആക്കി തെറ്റിക്കുന്നത് PSC-യുടെ ക്ലാസിക് trick ആണ് — യഥാർത്ഥ subject 'shop-keeper' മാത്രമാണെന്ന് മറക്കരുത്.\n• (C) is opening — ഇത് Present Continuous ആണ്, ഒരു നിശ്ചിത moment-ൽ നടക്കുന്ന action-ന് ഉപയോഗിക്കുന്നു; 'everyday' എന്ന habitual action-ന് ഇത് ചേരില്ല.\n• (D) are opening — ഇത് Present Continuous plural ആണ്; tense-ഉം number-ഉം രണ്ടും ഇവിടെ തെറ്റാണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"ALONG WITH-ന് ശേഷം വരുന്നത് ഒരു EXTRA INFO മാത്രം — Main Subject മാറില്ല!\"\n• Word family ഒരുമിച്ചു പഠിക്കുക: along with, as well as, together with, in addition to, accompanied by — ഇവയെല്ലാം subject-ന്റെ number മാറ്റാത്ത phrases.\n• PSC strategy: വാക്യത്തിൽ comma-കൾക്കിടയിൽ ഒരു phrase കണ്ടാൽ ('along with...', 'as well as...') അത് ignore ചെയ്ത്, ആദ്യത്തെ main subject മാത്രം നോക്കി verb-ന്റെ number തീരുമാനിക്കുക."
+      }
+    },
+    {
+      "id": "24-2019-M-Q72",
+      "paperId": "24-2019-M",
+      "questionNumber": 72,
+      "topic": "Words Often Confused",
+      "questionText": "Choose the meaning of the underlined word :\nA __disinterested__ referee controlled the title clash.",
+      "optionA": "impartial",
+      "optionB": "inexperienced",
+      "optionC": "experienced",
+      "optionD": "corrupt",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "⚠️ ഈ ചോദ്യം PSC ഔദ്യോഗികമായി റദ്ദാക്കി (CANCELLED) — Final Answer Key-ൽ ഈ ചോദ്യത്തിന് നേരെ 'X' എന്നാണ് രേഖപ്പെടുത്തിയിരിക്കുന്നത്, അതായത് എല്ലാ candidates-നും ഈ ചോദ്യത്തിന് ഒരുപോലെ മാർക്ക് നൽകും.\n✅ റഫറൻസിനായി മാത്രം: (A) impartial\n• 'Disinterested' എന്ന വാക്കിന്റെ ശരിയായ അർത്ഥം \"പക്ഷഭേദമില്ലാത്ത/നിഷ്പക്ഷമായ\" (impartial, unbiased) എന്നാണ് — 'uninterested' (താൽപ്പര്യമില്ലാത്ത) എന്ന വാക്കുമായി confuse ചെയ്യരുത്.\n• ഈ ചോദ്യം cancel ചെയ്യാൻ സാധ്യതയുള്ള കാരണം: യഥാർത്ഥ PSC പേപ്പറിൽ underline 'referee' എന്ന വാക്കിന് അടിയിലാണ് കാണിച്ചിരിക്കുന്നത്, പക്ഷെ ചോദ്യത്തിന്റെ options (impartial/inexperienced/experienced/corrupt) വ്യക്തമായും 'disinterested' എന്ന വാക്കിന്റെ അർത്ഥത്തെയാണ് സൂചിപ്പിക്കുന്നത് — ഈ printing mismatch ചോദ്യത്തെ ambiguous ആക്കിയത് ആകാം cancellation-ന് കാരണം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: DISINTERESTED = IMPARTIAL (നിഷ്പക്ഷം); UNINTERESTED = NOT INTERESTED (താൽപ്പര്യമില്ല) — ഈ രണ്ട് വാക്കുകളും ഒരിക്കലും മാറ്റിക്കൂട്ടരുത്!\n• 'Disinterested' ഉം 'uninterested' ഉം spelling-ൽ അടുത്ത് നിൽക്കുന്ന, പക്ഷെ അർത്ഥത്തിൽ പൂർണ്ണമായും വ്യത്യസ്തമായ ഒരു classic confusable pair ആണ്.\n• Related word family: neutral (നിഷ്പക്ഷം), unbiased (പക്ഷഭേദമില്ലാത്ത), fair (നീതിപൂർവ്വം) — ഇവയെല്ലാം 'disinterested'-ന്റെ synonyms ആണ്.\n• ⭐ PSC ആവർത്തനം: disinterested/uninterested confusable pair PSC-യിൽ വളരെ പതിവായി ചോദിക്കുന്ന ഒരു topic ആണ്, ഈ specific ചോദ്യം cancel ആയെങ്കിലും topic വീണ്ടും വരാൻ സാധ്യതയുണ്ട്.\n• ഉദാഹരണ sentences:\n1. A judge must be disinterested while deciding a case. (നിഷ്പക്ഷം)\n2. He seemed completely uninterested in the discussion. (താൽപ്പര്യമില്ല)\n3. We need a disinterested observer to referee the match. (നിഷ്പക്ഷം)",
+        "wrong": "❌ മറ്റ് options എന്തുകൊണ്ട് ചേരില്ല (റഫറൻസിന്)\n• (B) inexperienced — ഇതിന്റെ അർത്ഥം \"പരിചയമില്ലാത്ത\" എന്നാണ്; 'disinterested'-ന്റെ അർത്ഥവുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'disinterested' എന്ന വാക്ക് കണ്ട് 'uninterested' (താൽപ്പര്യമില്ലാത്ത)-ന്റെ അർത്ഥത്തിലേക്ക് ചായുന്നത് ഏറ്റവും സാധാരണമായ തെറ്റാണ്.\n• (C) experienced — ഇതിന്റെ അർത്ഥം \"പരിചയസമ്പന്നൻ\" എന്നാണ്; 'disinterested'-മായി ഒരു ബന്ധവുമില്ല.\n• (D) corrupt — ഇതിന്റെ അർത്ഥം \"അഴിമതിക്കാരൻ\" എന്നാണ്; ഇത് 'disinterested' (നിഷ്പക്ഷം)-ന്റെ ഏകദേശം opposite ആയ ഒരു അർത്ഥമാണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"DISinterested = DECIDE ചെയ്യാൻ പക്ഷം പിടിക്കാത്ത ആൾ (impartial)! UNinterested = താൽപ്പര്യമേ ഇല്ലാത്ത ആൾ!\"\n• Word family ഒരുമിച്ചു പഠിക്കുക: disinterested (impartial), uninterested (not interested), neutral, unbiased — ഇവയെല്ലാം വേറിട്ട് ഓർത്തുവയ്ക്കുക.\n• PSC strategy: 'disinterested/uninterested' confusable pair കണ്ടാൽ context ശ്രദ്ധിക്കുക — referee/judge പോലുള്ള context-ൽ 'impartial' (disinterested) ആണ് ഉദ്ദേശിക്കുന്നത്; ഈ ചോദ്യം cancel ആയെങ്കിലും ഈ rule ഭാവിയിലേക്ക് ഓർത്തുവയ്ക്കുക."
+      }
+    },
+    {
+      "id": "24-2019-M-Q73",
+      "paperId": "24-2019-M",
+      "questionNumber": 73,
+      "topic": "Articles",
+      "questionText": "Fill in the blank :\nCreativity is a quality that ________ architect must possess.",
+      "optionA": "an",
+      "optionB": "a",
+      "optionC": "all",
+      "optionD": "the",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) an\n• 'Architect' എന്ന വാക്ക് എഴുതുന്നത് 'a'-യിൽ ആണെങ്കിലും, ഉച്ചാരണം 'ആർ-ക്കി-ടെക്റ്റ്' എന്ന vowel sound-ൽ (ആ) ആണ് തുടങ്ങുന്നത് — അതിനാൽ 'an' വേണം.\n• \"സർഗ്ഗാത്മകത ഒരു architect-ന് ഉണ്ടായിരിക്കേണ്ട ഗുണമാണ്\" എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം — ഏതെങ്കിലും ഒരു architect (generic reference) എന്ന അർത്ഥത്തിലാണ് ഇവിടെ ഉപയോഗിച്ചിരിക്കുന്നത്.\n• Article തീരുമാനിക്കുന്നത് അക്ഷരമല്ല (letter), ഉച്ചാരണം (sound) ആണ് എന്ന അടിസ്ഥാന നിയമം ഇവിടെയും ബാധകമാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: a/an തീരുമാനിക്കുന്നത് എഴുതുന്ന അക്ഷരമല്ല, ഉച്ചരിക്കുന്ന ശബ്ദമാണ്!\n• Vowel sound (അ, എ, ഇ, ഒ, ഉ പോലുള്ള സ്വരശബ്ദം)-ൽ തുടങ്ങുന്ന ഏതൊരു singular countable noun-ന് മുൻപും 'an' വരും — 'architect', 'hour', 'umbrella' എന്നിവ മൂന്നും ഈ ഒരേ നിയമം പിന്തുടരുന്നു, എഴുത്തിൽ consonant letter-ൽ തുടങ്ങിയാലും ശരി.\n• ഒരേ കുടുംബത്തിലെ വാക്കുകൾ ഒരുമിച്ചു ഓർക്കുക: an architect, an engineer, an artist, an actor — ഇവയെല്ലാം സ്വരശബ്ദത്തിൽ തുടങ്ങുന്ന professions ആണ്.\n• ⭐ PSC ആവർത്തനം: 'a/an' sound-based selection എന്നത് PSC പരീക്ഷകളിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിച്ചു വരുന്ന ഒരു classic topic ആണ് — ഈ trick മറക്കാതിരിക്കുക.\n• ഉദാഹരണ sentences (ഓരോന്നും ഉറക്കെ ഉച്ചരിച്ചു നോക്കുക):\n1. She wants to become an architect. (സ്വരശബ്ദത്തിൽ തുടങ്ങുന്നു → an)\n2. He waited for an hour. (h നിശ്ശബ്ദമായതിനാൽ സ്വരശബ്ദമാണ് കേൾക്കുന്നത് → an)\n3. My uncle is an honest officer. (h നിശ്ശബ്ദം → an)\nഈ മൂന്നിലും അക്ഷരമല്ല, ചെവിയിൽ കേൾക്കുന്ന ആദ്യ ശബ്ദമാണ് തീരുമാനിക്കുന്നത് എന്നത് ശ്രദ്ധിക്കുക.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) a — 'architect' vowel sound-ൽ തുടങ്ങുന്നതിനാൽ 'a' ചേരില്ല, 'an' മാത്രമേ ശരിയാവൂ.\n• 🪤 PSC Trap: 'architect' consonant letter 'a'-യിൽ തുടങ്ങുന്നു എന്ന് (തെറ്റായി) ചിന്തിക്കുന്നവർ 'a' തിരഞ്ഞെടുക്കും, പക്ഷെ ഉച്ചാരണമാണ് പ്രധാനം.\n• (C) all — ഇത് ഒരു article അല്ല, quantifier ആണ്; ഇവിടെ ഒരു single architect-നെ ആണ് സൂചിപ്പിക്കുന്നത്, 'all architects' എന്ന അർത്ഥമല്ല.\n• (D) the — 'the' ഒരു specific-ആയി അറിയപ്പെടുന്ന architect-നെ സൂചിപ്പിക്കും; ഇവിടെ generic reference ('any architect') ആയതിനാൽ 'the' ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"ചെവി കൊണ്ട് കേൾക്കൂ, കണ്ണ് കൊണ്ട് നോക്കരുത്!\" — 'architect' ഉച്ചരിച്ചുനോക്കൂ, 'ആ' sound കേട്ടാൽ 'an' ഉറപ്പ്.\n• 'an' എടുക്കുന്ന വാക്കുകൾ ഒരുമിച്ചു പഠിക്കുക: an architect, an hour, an honest man, an umbrella, an M.L.A.\n• PSC strategy: Article ചോദ്യത്തിൽ വാക്ക് മനസ്സിൽ ഉച്ചരിക്കുക — ആദ്യ ശബ്ദം സ്വരമോ വ്യഞ്ജനമോ എന്ന് ചെവിയോട് ചോദിക്കുക, letter നോക്കി തീരുമാനിക്കരുത്."
+      }
+    },
+    {
+      "id": "24-2019-M-Q74",
+      "paperId": "24-2019-M",
+      "questionNumber": 74,
+      "topic": "Prepositions",
+      "questionText": "Fill in the blank :\nThe customers are quite pleased ________ the new product.",
+      "optionA": "in",
+      "optionB": "by",
+      "optionC": "at",
+      "optionD": "with",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) with\n• 'Pleased with' എന്നത് ഒരു fixed adjective-preposition collocation ആണ് — \"ഒരു സാധനത്തിലോ വ്യക്തിയിലോ സംതൃപ്തി\" പ്രകടിപ്പിക്കാൻ 'pleased with' ആണ് standard ആയി ഉപയോഗിക്കുന്നത്.\n• \"ഉപഭോക്താക്കൾ പുതിയ ഉൽപ്പന്നത്തിൽ വളരെ സന്തുഷ്ടരാണ്\" എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം.\n• 'Pleased' എന്ന adjective-ന്റെ fixed partner 'with' ആണ്, മറ്റൊരു preposition-ഉം ഇവിടെ ചേരില്ല.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: PLEASED-ന്റെ കൂടെ എപ്പോഴും WITH മാത്രം വരും — ഇത് മാറ്റാൻ പാടില്ല!\n• ചില adjectives-ന് ഒരു fixed preposition partner ഉണ്ടാകും — ഈ combination ഭാഷയിൽ സ്ഥിരമായി അങ്ങനെ തന്നെ ഉപയോഗിക്കുന്നതാണ്, logic വച്ചല്ല, ഓർത്തുവയ്ക്കുകയാണ് വേണ്ടത്. 'pleased' എപ്പോഴും 'with' എന്ന preposition തന്നെ എടുക്കും, മറ്റൊന്നും ചേരില്ല.\n• ഒരേ കുടുംബത്തിലെ വാക്കുകൾ: satisfied with, happy with, delighted with, content with — ഇവയെല്ലാം 'with' എടുക്കുന്ന feeling-adjectives ആണ്, ഒരുമിച്ചു പഠിച്ചാൽ എളുപ്പമാകും.\n• ⭐ PSC ആവർത്തനം: Fixed adjective-preposition collocations എന്നത് PSC പരീക്ഷകളിൽ വളരെ പതിവായി ചോദിക്കുന്ന ഒരു topic ആണ് — ഇത്തരം combinations പട്ടികയാക്കി പഠിക്കുന്നത് നല്ലതാണ്.\n• ഉദാഹരണ sentences (ഓരോന്നിലും 'with' ശ്രദ്ധിക്കുക):\n1. The teacher is pleased with the students' performance. (അധ്യാപിക സന്തുഷ്ടയാണ്)\n2. I am quite satisfied with this service. (ഞാൻ തൃപ്തനാണ്)\n3. She was delighted with her new job. (അവൾ സന്തോഷവതിയാണ്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) in — 'pleased in' എന്ന combination ഇംഗ്ലീഷിൽ നിലവിലില്ല; ഇത് ഒരു തെറ്റായ preposition ആണ്.\n• 🪤 PSC Trap: Fixed collocations-ൽ 'in/at/by' പോലുള്ള common prepositions സ്വാഭാവികമായി ചേരും എന്ന് തോന്നിക്കാമെങ്കിലും, 'pleased' എന്ന adjective-ന്റെ fixed partner 'with' മാത്രമാണ്.\n• (B) by — 'pleased by' ചിലപ്പോൾ passive sentences-ൽ ('I was pleased by his response') കാണാമെങ്കിലും, ഇവിടെ standard collocation 'with' തന്നെയാണ്.\n• (C) at — 'pleased at' എന്നത് സാധാരണ ഉപയോഗത്തിൽ ഇല്ലാത്ത ഒരു combination ആണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"PLEASED WITH — സന്തോഷം WITH ആരോടോ/എന്തിനോടോ ആണ്!\" എന്ന് ഓർത്താൽ മതി.\n• Word family ഒരുമിച്ചു പഠിക്കുക: pleased with, satisfied with, happy with, delighted with — എല്ലാം 'with' എടുക്കുന്ന feeling adjectives.\n• PSC strategy: Fixed collocation ചോദ്യങ്ങളിൽ ആ adjective-ന്റെ സ്ഥിരം preposition partner എന്താണെന്ന് മനഃപാഠമാക്കിവയ്ക്കുക — logic അല്ല, memorization ആണ് ഇവിടെ വേണ്ടത്."
+      }
+    },
+    {
+      "id": "24-2019-M-Q75",
+      "paperId": "24-2019-M",
+      "questionNumber": 75,
+      "topic": "Direct and Indirect Speech",
+      "questionText": "Choose the correct reported form of the following sentence :\n\"Did you have your lunch ?\", Mother told the child.",
+      "optionA": "Mother asked the child whether did he have his lunch.",
+      "optionB": "Mother asked the child whether he had his lunch.",
+      "optionC": "Mother asked the child whether did you have your lunch.",
+      "optionD": "Mother asked the child whether you had your lunch.",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) Mother asked the child whether he had his lunch.\n• Yes/No ചോദ്യം indirect speech ആക്കുമ്പോൾ 'whether/if' ഉപയോഗിക്കണം, കൂടാതെ statement word order (subject + verb, 'did' ഇല്ലാതെ) തിരികെ വരണം.\n• Pronoun shift ശ്രദ്ധിക്കുക: direct speech-ൽ 'you' (child-നെ അഭിസംബോധന ചെയ്യുന്നത്) indirect speech-ൽ മൂന്നാം വ്യക്തി ('he') ആയി മാറും, കൂടാതെ 'your' → 'his' ആയും മാറും.\n• Tense backshift: 'Did have' (simple past) → 'had' (past perfect-ന് അടുത്ത രൂപം) ആയി മാറുന്നു — reporting verb 'asked' past tense ആയതിനാൽ.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Yes/No ചോദ്യം → WHETHER/IF ചേർക്കുക + Statement word order വരണം ('did/does/do' പാടില്ല)!\n• Direct speech-ലെ Yes/No ചോദ്യങ്ങൾ ('Did you...?', 'Are you...?') indirect speech ആക്കുമ്പോൾ മൂന്ന് മാറ്റങ്ങൾ വരണം: reporting verb 'asked' ആയി മാറും; 'whether' അല്ലെങ്കിൽ 'if' ചേർക്കും; question word order പോയി statement word order ('subject + verb') വരും, അതായത് 'did/does' എന്ന auxiliary പൂർണ്ണമായി നീക്കം ചെയ്യണം.\n• Pronoun-കളുടെ മാറ്റം: നേരിട്ട് സംസാരിക്കുന്ന 'you' എന്നത് കഥ പറയുന്ന ആൾ മൂന്നാം വ്യക്തിയായി മാറുമ്പോൾ 'he' അല്ലെങ്കിൽ 'she' ആയി മാറും; അതുപോലെ 'your' → 'his'/'her' ആയും മാറും — ഇത് context അനുസരിച്ചാണ്.\n• ⭐ PSC ആവർത്തനം: Yes/No question-ന്റെ indirect speech, pronoun-ഉം tense-ഉം ഒരുമിച്ച് മാറ്റേണ്ട ഈ topic PSC പരീക്ഷകളിൽ ഏറ്റവും ആവർത്തിച്ചു വരുന്നതാണ്.\n• ഉദാഹരണ sentences (മൂന്ന് മാറ്റങ്ങളും ശ്രദ്ധിക്കുക):\n1. \"Are you coming?\" she asked. → She asked whether/if I was coming. (word order മാറി, tense backshift)\n2. \"Does he know the truth?\" they asked. → They asked whether he knew the truth. (does പോയി, tense past ആയി)\n3. \"Did she call you?\" he asked. → He asked whether she had called me. (did പോയി, you→me pronoun മാറി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Mother asked the child whether did he have his lunch — pronoun ('he') ശരിയാണെങ്കിലും 'did he have' എന്ന question word order ഇവിടെ തെറ്റാണ്; indirect speech-ൽ statement word order ('he had') വേണം, 'did' നിലനിർത്താൻ പാടില്ല.\n• 🪤 PSC Trap: ചോദ്യചിഹ്നം (?) ഉള്ള direct speech ആയതിനാൽ indirect speech-ലും ആ question word order അതേപടി നിലനിർത്തും എന്ന് പലരും തെറ്റായി ധരിക്കും — ഇത് ഏറ്റവും സാധാരണമായ തെറ്റാണ്.\n• (C) Mother asked the child whether did you have your lunch — ഇവിടെ രണ്ട് തെറ്റുകൾ ഒരുമിച്ചു കാണാം: 'did you have' എന്ന question word order മാറ്റിയിട്ടില്ല, കൂടാതെ 'you/your' എന്ന pronoun 'he/his' ആയി shift ചെയ്തിട്ടുമില്ല.\n• (D) Mother asked the child whether you had your lunch — word order ശരിയാണ് ('had' ഉപയോഗിച്ചത് നല്ലത്), പക്ഷെ 'you/your' pronoun-കൾ 'he/his' ആയി മാറ്റാത്തതിനാൽ ഇത് തെറ്റാണ് — ഇവിടെ mother മൂന്നാം വ്യക്തിയായി child-നെക്കുറിച്ച് പറയുന്നതിനാൽ 'he' എന്ന് തന്നെ വരണം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"WHETHER വന്നാൽ DID പോകും, STATEMENT ORDER വരും!\" എന്ന് ഓർത്താൽ മതി.\n• Word family ഒരുമിച്ചു പഠിക്കുക: whether/if (Yes/No questions), pronoun backshift (you→he/she), tense backshift (did→had) — മൂന്നും ഒരുമിച്ച് ചെക്ക് ചെയ്യണം.\n• PSC strategy: Yes/No question indirect speech ചോദ്യങ്ങളിൽ മൂന്ന് കാര്യങ്ങൾ ഒരുമിച്ചു ചെക്ക് ചെയ്യുക — 'whether/if' ഉണ്ടോ, 'did/does' നീക്കം ചെയ്തോ, pronoun-കൾ ശരിയായി shift ചെയ്തോ."
+      }
+    },
+    {
+      "id": "24-2019-M-Q76",
+      "paperId": "24-2019-M",
+      "questionNumber": 76,
+      "topic": "Active and Passive Voice",
+      "questionText": "The Panchayat is constructing a community hall in our ward.\nChoose the correct passive form of the above sentence.",
+      "optionA": "A community hall is constructed in our ward.",
+      "optionB": "A community hall has been being constructed in our ward.",
+      "optionC": "A community hall is being constructed in our ward.",
+      "optionD": "A community hall has been constructed in our ward.",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) A community hall is being constructed in our ward.\n• Active sentence-ലെ tense 'is constructing' എന്ന Present Continuous Tense ആണ് — passive voice ആക്കുമ്പോൾ tense മാറ്റാൻ പാടില്ല, tense അതേപടി Present Continuous ആയി തന്നെ നിലനിർത്തണം.\n• Present Continuous Passive-ന്റെ formula 'is/am/are + being + V3' ആണ്; 'construct' എന്ന verb-ന്റെ V3 form 'constructed' ആണ്, അതിനാൽ 'is being constructed' ശരിയാകുന്നു.\n• \"നമ്മുടെ വാർഡിൽ ഒരു കമ്മ്യൂണിറ്റി ഹാൾ നിർമ്മിക്കപ്പെട്ടുകൊണ്ടിരിക്കുന്നു\" എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം — 'Panchayat' (agent) ഒഴിവാക്കിയത് ശ്രദ്ധിക്കുക, passive voice-ൽ agent പലപ്പോഴും 'by' ഉപയോഗിച്ചോ ഒഴിവാക്കിയോ ചേർക്കാം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: ACTIVE വാക്യത്തിന്റെ TENSE എപ്പോഴും PASSIVE വാക്യത്തിലും അതേപടി തുടരണം — ടെൻസ് ഒരിക്കലും മാറ്റാൻ പാടില്ല!\n• ഓരോ tense-നും അതിന്റേതായ ഒരു പ്രത്യേക passive formula ഉണ്ട്: Simple Present-ന് am/is/are + V3 (മൂന്നാം രൂപം) വേണം; Present Continuous-ന് am/is/are + being + V3 വേണം; Present Perfect-ന് has/have + been + V3 വേണം. ഈ ചോദ്യത്തിലെ active വാക്യം Present Continuous ('is constructing') ആയതിനാൽ, passive-ലും 'is being + V3' എന്ന formula തന്നെ ഉപയോഗിക്കണം.\n• ഒരേ കുടുംബത്തിലെ ഉദാഹരണ രൂപങ്ങൾ ഓർത്തുവയ്ക്കുക: is constructing (active) മാറി is being constructed (passive) ആകുന്നു; അതുപോലെ is writing മാറി is being written ആകും; is building മാറി is being built ആകും — എല്ലാം ഒരേ pattern പിന്തുടരുന്നു.\n• ⭐ PSC ആവർത്തനം: Active-Passive വാക്യ പരിവർത്തനം, പ്രത്യേകിച്ച് Continuous tense-കളുടെ passive രൂപം, PSC പരീക്ഷകളിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിച്ചു വരുന്ന topic-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences (ടെൻസ് മാറാതെ ശ്രദ്ധിക്കുക):\n1. She is writing a letter. → A letter is being written by her. (Present Continuous അതേപടി നിലനിർത്തി)\n2. They are building a bridge. → A bridge is being built by them. (Continuous tense മാറ്റമില്ലാതെ)\n3. He is painting the wall. → The wall is being painted by him. (ടെൻസിൽ ഒരു മാറ്റവുമില്ല)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) A community hall is constructed in our ward — ഇത് Simple Present Passive ('is constructed') ആണ്; ഇത് ഒരു ദിനചര്യ/habitual action-ന് ഉപയോഗിക്കുന്നതാണ്, ഇപ്പോൾ നടന്നുകൊണ്ടിരിക്കുന്ന ('is constructing') action-ന് ഇത് ചേരില്ല.\n• 🪤 PSC Trap: Continuous tense-ന്റെ അടയാളമായ 'being' എന്ന വാക്ക് വിട്ടുപോയി Simple Present passive ('is constructed') തിരഞ്ഞെടുക്കുന്നത് വിദ്യാർത്ഥികൾ ചെയ്യുന്ന ഏറ്റവും സാധാരണമായ തെറ്റാണ് — 'being' ഒഴിവാക്കിയാൽ ടെൻസ് തന്നെ മാറിപ്പോകും എന്നത് മറക്കരുത്.\n• (B) A community hall has been being constructed in our ward — ഈ structure വ്യാകരണപരമായി തന്നെ തെറ്റാണ്; 'has been being' എന്ന combination സാധാരണ ഇംഗ്ലീഷിൽ ഉപയോഗിക്കാറില്ല, ഇത് Present Perfect Continuous Passive ആണ് (ആ ടെൻസ് ആയിരുന്നില്ല original വാക്യത്തിൽ ഉണ്ടായിരുന്നത്).\n• (D) A community hall has been constructed in our ward — ഇത് Present Perfect Passive ('has been constructed') ആണ്, ഒരു പൂർത്തിയായ action-ന് ഉപയോഗിക്കുന്നത്; original വാക്യത്തിൽ action ഇപ്പോഴും തുടർന്നുകൊണ്ടിരിക്കുന്നു ('is constructing') എന്നതിനാൽ ഇത് ഇവിടെ ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"IS + BEING + V3 — ACTION ഇപ്പോൾ നടന്നുകൊണ്ടിരിക്കുന്നു എന്ന് ഓർക്കാൻ 'BEING' ആണ് താക്കോൽ!\"\n• Word family ഒരുമിച്ചു പഠിക്കുക: tense identify ചെയ്യുക (Present Continuous), എന്നിട്ട് ആ tense-ന്റെ passive formula മാത്രം apply ചെയ്യുക — is/am/are + being + V3.\n• PSC strategy: Active-Passive ചോദ്യങ്ങളിൽ ആദ്യം active sentence-ന്റെ tense എന്താണെന്ന് കണ്ടെത്തുക, എന്നിട്ട് ആ tense-ന്റെ passive formula മാത്രം ഓർത്ത് apply ചെയ്യുക — tense മാറ്റരുത് എന്നത് ഒരിക്കലും മറക്കരുത്."
+      }
+    },
+    {
+      "id": "24-2019-M-Q77",
+      "paperId": "24-2019-M",
+      "questionNumber": 77,
+      "topic": "Synonyms",
+      "questionText": "\"Intrepid\" means",
+      "optionA": "Brave",
+      "optionB": "Cowardly",
+      "optionC": "Wise",
+      "optionD": "Foolish",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) Brave\n• 'Intrepid' എന്ന വാക്കിന്റെ അർത്ഥം \"ധൈര്യശാലിയായ/നിർഭയനായ\" (fearless, brave) എന്നാണ് — അപകടത്തെയോ ബുദ്ധിമുട്ടിനെയോ ഭയക്കാതെ നേരിടുന്ന വ്യക്തിയെ വിശേഷിപ്പിക്കാൻ ഉപയോഗിക്കുന്ന വാക്കാണ് ഇത്.\n• ഈ വാക്ക് Latin 'intrepidus' (in- = not + trepidus = alarmed) എന്നതിൽ നിന്നാണ് വന്നത് — \"ഭയപ്പെടാത്ത\" എന്ന അർത്ഥം അതിൽ തന്നെ അടങ്ങിയിരിക്കുന്നു.\n• \"An intrepid explorer\" എന്നാൽ \"ഒരു നിർഭയനായ പര്യവേക്ഷകൻ\" എന്നാണ് അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: INTREPID = FEARLESS/BRAVE — ഭയമില്ലാത്ത, ധൈര്യശാലി എന്നർത്ഥം!\n• Etymology hint: 'in-' (not എന്ന negative prefix) + 'trepidus' (Latin-ൽ 'alarmed/afraid' എന്നർത്ഥം) ചേർന്നാണ് 'intrepid' ഉണ്ടായത് — \"ഭയപ്പെടാത്ത\" എന്ന literal അർത്ഥം തന്നെ.\n• Related word family: brave, fearless, bold, courageous, valiant, dauntless — ഇവയെല്ലാം 'intrepid'-ന്റെ synonyms ആണ്.\n• ⭐ PSC ആവർത്തനം: Synonym-based vocabulary ചോദ്യങ്ങൾ PSC പരീക്ഷകളിൽ സ്ഥിരമായി വരുന്ന ഒരു topic ആണ്, adjectives-ന്റെ അർത്ഥം അറിഞ്ഞിരിക്കുന്നത് വളരെ പ്രധാനമാണ്.\n• ഉദാഹരണ sentences:\n1. The intrepid soldier led the attack without fear. (നിർഭയനായ പട്ടാളക്കാരൻ)\n2. She made an intrepid journey across the desert alone. (ധൈര്യപൂർവ്വമായ യാത്ര)\n3. His intrepid spirit inspired the whole team. (നിർഭയമായ മനോഭാവം)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) Cowardly — ഇതിന്റെ അർത്ഥം \"ഭീരുത്വമുള്ള\" എന്നാണ്; ഇത് 'intrepid'-ന്റെ നേരെ opposite ആയ അർത്ഥമാണ്.\n• 🪤 PSC Trap: 'intrepid' എന്ന വാക്ക് പരിചയമില്ലാത്തവർ 'trepid'/'trepidation' (ഭയം) എന്ന വാക്കുമായി confuse ചെയ്ത് 'cowardly' തിരഞ്ഞെടുക്കും — 'in-' എന്ന negative prefix ശ്രദ്ധിക്കാതെ പോകുന്നതാണ് ഈ തെറ്റിന് കാരണം.\n• (C) Wise — ഇതിന്റെ അർത്ഥം \"ബുദ്ധിശാലിയായ\" എന്നാണ്; ധൈര്യവുമായി നേരിട്ട് ബന്ധമില്ല.\n• (D) Foolish — ഇതിന്റെ അർത്ഥം \"വിഡ്ഢിത്തമുള്ള\" എന്നാണ്; 'intrepid'-ന്റെ അർത്ഥവുമായി ഒരു ബന്ധവുമില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"IN-TREPID = NOT TREMBLING (വിറയ്ക്കാത്തവൻ) — ഭയമില്ലാതെ മുന്നോട്ട് പോകുന്നവൻ!\"\n• Word family ഒരുമിച്ചു പഠിക്കുക: intrepid, fearless, bold, valiant, dauntless — ഇവയെല്ലാം ധൈര്യം സൂചിപ്പിക്കുന്ന synonyms ആയി ഒരുമിച്ചു പഠിക്കുക.\n• PSC exam strategy: 'in-'/'un-'/'dis-' പോലുള്ള negative prefix ഉള്ള വാക്കുകൾ കാണുമ്പോൾ, ആ prefix ഒഴിവാക്കി root word-ന്റെ അർത്ഥം ആദ്യം കണ്ടെത്തി, എന്നിട്ട് negative ചേർത്ത് ശരിയായ അർത്ഥത്തിൽ എത്തുക."
+      }
+    },
+    {
+      "id": "24-2019-M-Q78",
+      "paperId": "24-2019-M",
+      "questionNumber": 78,
+      "topic": "Synonyms",
+      "questionText": "'Ewe' is a female ________.",
+      "optionA": "elephant",
+      "optionB": "parrot",
+      "optionC": "sheep",
+      "optionD": "boar",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) sheep\n• 'Ewe' എന്ന വാക്കിന്റെ അർത്ഥം \"പെൺ ചെമ്മരിയാട്\" (female sheep) എന്നാണ് — ഇംഗ്ലീഷിൽ പല മൃഗങ്ങൾക്കും ആണ്/പെൺ വ്യത്യാസത്തിന് പ്രത്യേകം വാക്കുകൾ ഉണ്ട്, 'ewe' അതിലൊന്നാണ്.\n• ശ്രദ്ധിക്കുക: 'ewe' എന്ന വാക്ക് 'you' എന്ന വാക്കുപോലെയാണ് ഉച്ചരിക്കുന്നത് — spelling വ്യത്യസ്തമാണെങ്കിലും ഉച്ചാരണം സമാനമാണ്, ഇത് ഓർത്തുവയ്ക്കാൻ സഹായകമാണ്.\n• 'sheep' എന്ന വർഗ്ഗത്തിൽ ആൺ ആടിനെ 'ram' എന്നും, കുഞ്ഞാടിനെ 'lamb' എന്നും വിളിക്കുന്നു — ഈ മൂന്ന് വാക്കുകളും ഒരുമിച്ച് ഓർത്തുവയ്ക്കുന്നത് നല്ലതാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: EWE = FEMALE SHEEP (പെൺ ചെമ്മരിയാട്) — RAM = MALE SHEEP, LAMB = BABY SHEEP!\n• ഇംഗ്ലീഷിൽ gender-specific animal names എന്ന ഒരു പ്രത്യേക vocabulary category ഉണ്ട് — ചില മൃഗങ്ങൾക്ക് ആണ്/പെൺ/കുഞ്ഞ് എന്നിവയ്ക്ക് വ്യത്യസ്ത വാക്കുകൾ ഉപയോഗിക്കുന്നു, ഇത് PSC പരീക്ഷകളിൽ പതിവായി ചോദിക്കുന്ന ഒരു topic ആണ്.\n• Related word family (sheep group): ewe (female), ram (male), lamb (baby) — ഇതുപോലെ tiger-ൽ tigress (female), cub (baby); lion-ൽ lioness (female), cub (baby) എന്നിവയും ഓർത്തുവയ്ക്കുക.\n• ⭐ PSC ആവർത്തനം: Gender-specific animal/bird vocabulary PSC-യിൽ ആവർത്തിച്ചു വരുന്ന ഒരു classic vocabulary topic ആണ്.\n• ഉദാഹരണ sentences:\n1. The ewe grazed peacefully with its lamb. (പെൺ ചെമ്മരിയാട് കുഞ്ഞാടിനൊപ്പം മേഞ്ഞു)\n2. A ram has curved horns. (ആൺ ചെമ്മരിയാടിന് വളഞ്ഞ കൊമ്പുകൾ ഉണ്ട്)\n3. The farmer keeps ewes for wool. (കർഷകൻ കമ്പിളിക്കായി പെൺ ആടുകളെ വളർത്തുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) elephant — പെൺ ആനയെ 'cow' എന്നാണ് വിളിക്കുന്നത് (bull = ആൺ ആന); 'ewe' ആനയുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: gender-specific animal names പലതും ഓർമ്മയിൽ കൂടിക്കലരാൻ സാധ്യതയുണ്ട് — ഓരോ മൃഗത്തിനും അതിന്റേതായ പ്രത്യേക പെൺ/ആൺ വാക്കുകൾ ഉണ്ടെന്ന് ഓർക്കാതെ ഊഹിച്ച് ഉത്തരം എഴുതുന്നത് ഒഴിവാക്കണം.\n• (B) parrot — parrot-ന് പ്രത്യേകം gender-specific വാക്ക് സാധാരണ ഉപയോഗിക്കാറില്ല; 'ewe'-മായി ബന്ധമില്ല.\n• (D) boar — 'boar' എന്നത് തന്നെ ആൺ പന്നിയെ സൂചിപ്പിക്കുന്ന വാക്കാണ് (female = sow); ഇത് 'ewe'-ന്റെ എതിർ ലിംഗമായ വാക്കാണ്, ഒരു confusion trap ആണിത്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"EWE സൗണ്ട്സ് ലൈക്ക് 'YOU' — പെൺ ചെമ്മരിയാട് 'ewe' ആണ്, ആൺ 'ram', കുഞ്ഞ് 'lamb'!\"\n• Word family ഒരുമിച്ചു പഠിക്കുക: ewe/ram/lamb (sheep), cow/bull/calf (cattle), tigress/tiger/cub (tiger), hen/cock/chick (fowl) — ഇവ ഒരു ലിസ്റ്റ് ആയി പഠിച്ചുവയ്ക്കുന്നത് നല്ലതാണ്.\n• PSC exam strategy: gender-specific animal name ചോദ്യങ്ങൾക്ക് ഒരു ചെറിയ പട്ടിക (table) ഉണ്ടാക്കി മനഃപാഠമാക്കുന്നത് ഏറ്റവും ഫലപ്രദമായ രീതിയാണ് — സാധാരണ 8-10 മൃഗങ്ങൾ മാത്രമേ ഇത്തരം ചോദ്യങ്ങളിൽ ആവർത്തിച്ചു വരാറുള്ളൂ."
+      }
+    },
+    {
+      "id": "24-2019-M-Q79",
+      "paperId": "24-2019-M",
+      "questionNumber": 79,
+      "topic": "Antonyms",
+      "questionText": "Replace the underlined word with one which is OPPOSITE to its meaning :\nOnly __indigent__ customers use this product.",
+      "optionA": "poor",
+      "optionB": "quality-conscious",
+      "optionC": "affluent",
+      "optionD": "local",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) affluent\n• 'Indigent' എന്ന വാക്കിന്റെ അർത്ഥം \"ദരിദ്രനായ/സാമ്പത്തികമായി പിന്നാക്കമുള്ള\" (poor, needy) എന്നാണ് — ഇതിന്റെ വിപരീത അർത്ഥം \"സമ്പന്നനായ\" (wealthy, rich) ആണ്, അതായത് 'affluent'.\n• \"സമ്പന്നരായ ഉപഭോക്താക്കൾ മാത്രമേ ഈ ഉൽപ്പന്നം ഉപയോഗിക്കുന്നുള്ളൂ\" എന്നാണ് ശരിയായ വാക്യത്തിന്റെ അർത്ഥം — 'indigent' (ദരിദ്രൻ)-ന് പകരം 'affluent' (സമ്പന്നൻ) ചേർത്താൽ opposite meaning ലഭിക്കും.\n• Question ചോദിക്കുന്നത് synonym അല്ല, ANTONYM (വിപരീത അർത്ഥം) ആണ് എന്നത് ശ്രദ്ധിക്കുക — ഇത് ചോദ്യത്തിലെ പ്രധാന trap ആണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: INDIGENT എന്നാൽ ദരിദ്രൻ, AFFLUENT എന്നാൽ സമ്പന്നൻ — ഇവ രണ്ടും പൂർണ്ണമായും വിപരീത അർത്ഥമുള്ള antonym ജോഡിയാണ്!\n• Antonym ചോദ്യങ്ങൾ വരുമ്പോൾ ആദ്യം underlined word-ന്റെ അർത്ഥം കൃത്യമായി മനസ്സിലാക്കണം, എന്നിട്ട് മാത്രമേ അതിന്റെ നേരെ വിപരീതം (opposite) ഏതാണെന്ന് options-ൽ തിരയാവൂ — ഒരിക്കലും synonym-മായി confuse ചെയ്യരുത് എന്നത് പ്രധാനമാണ്.\n• ഒരേ കുടുംബത്തിലെ വാക്കുകൾ വേറിട്ട് ഓർത്തുവയ്ക്കുക: ദാരിദ്ര്യം സൂചിപ്പിക്കുന്ന indigent, poor, needy, impoverished എന്നിവ ഒരു ഗ്രൂപ്പ്; സമ്പന്നത സൂചിപ്പിക്കുന്ന affluent, rich, wealthy, prosperous എന്നിവ മറ്റൊരു ഗ്രൂപ്പ്.\n• ⭐ PSC ആവർത്തനം: Antonym അടിസ്ഥാനമാക്കിയുള്ള vocabulary ചോദ്യങ്ങൾ, പ്രത്യേകിച്ച് 'Replace the underlined word with its OPPOSITE' എന്ന pattern, PSC പരീക്ഷകളിൽ വളരെ പതിവായി ആവർത്തിച്ചു വരുന്ന ഒരു topic ആണ്.\n• ഉദാഹരണ sentences (ഓരോന്നിലും വിപരീത ജോഡി ശ്രദ്ധിക്കുക):\n1. The indigent family struggled to pay rent. → The affluent family owned two houses. (ദരിദ്ര കുടുംബം ↔ സമ്പന്ന കുടുംബം)\n2. NGOs help indigent communities with food and shelter. → Affluent communities rarely need such help. (ദരിദ്ര സമൂഹങ്ങൾ ↔ സമ്പന്ന സമൂഹങ്ങൾ)\n3. He was born indigent but became affluent through hard work. (ദരിദ്രനായി ജനിച്ച് സമ്പന്നനായി മാറി എന്നർത്ഥം)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) poor — ഇത് 'indigent'-ന്റെ SYNONYM ആണ് (അതേ അർത്ഥം), OPPOSITE അല്ല; ചോദ്യം ആവശ്യപ്പെടുന്നത് antonym ആണെന്നത് ശ്രദ്ധിക്കാതെ പോയാൽ ഈ തെറ്റ് സംഭവിക്കും.\n• 🪤 PSC Trap: ഈ ഏറ്റവും സാധാരണമായ PSC trick ആണ് — synonym ഉം antonym ഉം confuse ചെയ്യിക്കാൻ ഒരു synonym-നെ ഒരു option ആയി തന്നെ വയ്ക്കുന്നു, ചോദ്യം ശ്രദ്ധിച്ചു വായിക്കാത്തവർ ഈ trap-ൽ വീഴും.\n• (B) quality-conscious — ഇതിന് 'indigent'-മായി നേരിട്ട് ബന്ധമില്ല; സാമ്പത്തിക നിലയല്ല, ഗുണനിലവാരത്തെക്കുറിച്ചുള്ള ജാഗ്രതയാണ് ഇത് സൂചിപ്പിക്കുന്നത്.\n• (D) local — ഇതിന്റെ അർത്ഥം \"പ്രാദേശികമായ\" എന്നാണ്; 'indigent' (സാമ്പത്തിക നില)-മായി യാതൊരു ബന്ധവുമില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"INDIGENT-ൽ 'IN' കണ്ടാൽ 'ഇല്ലായ്മ' (lack) ഓർക്കുക — പണം ഇല്ലാത്തവൻ! AFFLUENT-ൽ 'FLU' ഒഴുകുന്നത് പോലെ പണം ഒഴുകുന്നവൻ!\"\n• Word family ഒരുമിച്ചു പഠിക്കുക: indigent/poor/needy/impoverished (ദരിദ്രൻ) ↔ affluent/rich/wealthy/prosperous (സമ്പന്നൻ) — ഈ രണ്ട് groups ആയി വേർതിരിച്ചു പഠിക്കുക.\n• PSC exam strategy: 'OPPOSITE'/'ANTONYM' എന്ന വാക്ക് ചോദ്യത്തിൽ കണ്ടാൽ, ആദ്യം underlined word-ന്റെ അർത്ഥം കണ്ടെത്തി, എന്നിട്ട് അതിന്റെ synonym ആയ options ഒഴിവാക്കി വിപരീത അർത്ഥമുള്ള option മാത്രം തിരഞ്ഞെടുക്കുക."
+      }
+    },
+    {
+      "id": "24-2019-M-Q80",
+      "paperId": "24-2019-M",
+      "questionNumber": 80,
+      "topic": "Idioms",
+      "questionText": "\"Be abreast of something\" means",
+      "optionA": "keep away from",
+      "optionB": "be better than",
+      "optionC": "be similar to",
+      "optionD": "be up to date with",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) be up to date with\n• 'Be abreast of something' എന്ന idiom-ന്റെ അർത്ഥം \"ഒരു കാര്യത്തെക്കുറിച്ച് ഏറ്റവും പുതിയ വിവരങ്ങൾ അറിഞ്ഞിരിക്കുക\" (to be up to date, well-informed) എന്നാണ്.\n• \"He tries to keep abreast of the latest technology\" എന്നാൽ \"അയാൾ ഏറ്റവും പുതിയ സാങ്കേതികവിദ്യയെക്കുറിച്ച് അപ്ഡേറ്റ് ആയി തുടരാൻ ശ്രമിക്കുന്നു\" എന്നാണ് അർത്ഥം.\n• 'Abreast' എന്ന വാക്കിന്റെ literal അർത്ഥം \"ഒരേ വരിയിൽ, ഒപ്പം\" (side by side) എന്നാണ് — വിവരങ്ങളുടെ കൂടെ \"ഒപ്പം നടക്കുക\" എന്ന ആശയത്തിൽ നിന്നാണ് ഈ idiomatic meaning വന്നത്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: BE ABREAST OF = BE UP TO DATE WITH (ഏറ്റവും പുതിയ വിവരം അറിഞ്ഞിരിക്കുക)!\n• Idioms-ന്റെ അർത്ഥം അതിലെ individual വാക്കുകളിൽ നിന്ന് നേരിട്ട് ഊഹിക്കാൻ കഴിയില്ല — ഓരോ idiom-ഉം ഒരു ഒറ്റ യൂണിറ്റ് ആയി അതിന്റെ പ്രത്യേക അർത്ഥത്തോടെ തന്നെ മനഃപാഠമാക്കണം.\n• Related word family: keep abreast of, stay updated on, be in the know about, be current with — ഇവയെല്ലാം \"പുതിയ വിവരം അറിഞ്ഞിരിക്കുക\" എന്ന അർത്ഥമുള്ള expressions ആണ്.\n• ⭐ PSC ആവർത്തനം: Idiomatic expressions PSC പരീക്ഷകളിൽ വളരെ പതിവായി ചോദിക്കുന്ന ഒരു topic ആണ്, 'abreast of' പോലുള്ള common idioms പ്രത്യേകം ശ്രദ്ധിക്കേണ്ടതാണ്.\n• ഉദാഹരണ sentences:\n1. Doctors must keep abreast of new medical research. (പുതിയ ഗവേഷണങ്ങൾ അറിഞ്ഞിരിക്കണം)\n2. She reads newspapers daily to stay abreast of current affairs. (വർത്തമാന കാര്യങ്ങൾ അറിഞ്ഞിരിക്കാൻ)\n3. It is important to be abreast of changes in technology. (സാങ്കേതികവിദ്യയിലെ മാറ്റങ്ങൾ അറിഞ്ഞിരിക്കുക)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) keep away from — ഇതിന്റെ അർത്ഥം \"അകന്നു നിൽക്കുക\" എന്നാണ്; 'abreast of'-ന്റെ അർത്ഥവുമായി യാതൊരു ബന്ധവുമില്ല, ഇത് ഏകദേശം opposite ആശയമാണ്.\n• 🪤 PSC Trap: 'abreast' എന്ന വാക്ക് കേൾക്കുമ്പോൾ 'a-breast' (ദൂരം/സ്ഥാനം സൂചിപ്പിക്കുന്നത് പോലെ) എന്ന് തെറ്റായി വ്യാഖ്യാനിച്ച് options (A)/(C) പോലുള്ളവ തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട് — idiom-ന്റെ യഥാർത്ഥ meaning അറിഞ്ഞിരിക്കുകയാണ് വേണ്ടത്.\n• (B) be better than — ഇതിന്റെ അർത്ഥം \"മികച്ചതാവുക\" എന്നാണ്; 'abreast of'-ന്റെ അർത്ഥവുമായി ബന്ധമില്ല.\n• (C) be similar to — ഇതിന്റെ അർത്ഥം \"സമാനമായിരിക്കുക\" എന്നാണ്; 'up to date' എന്ന ആശയവുമായി നേരിട്ട് ബന്ധമില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"ABREAST = A-BREAST-ൽ (ഒപ്പം) നടക്കുക — വിവരങ്ങളുടെ ഒപ്പം നടന്നാൽ അപ്ഡേറ്റ് ആയിരിക്കും!\"\n• Word family ഒരുമിച്ചു പഠിക്കുക: be abreast of, keep up with, stay updated on, be in the loop — ഇവയെല്ലാം \"പുതിയ വിവരം അറിഞ്ഞിരിക്കുക\" എന്ന ഒരേ ആശയമുള്ള idioms/phrases ആണ്.\n• PSC exam strategy: idiom ചോദ്യങ്ങളിൽ വാക്കുകളുടെ literal അർത്ഥത്തിൽ കുടുങ്ങാതെ, ആ idiom മൊത്തത്തിൽ എന്ത് സന്ദർഭത്തിലാണ് ഉപയോഗിക്കുന്നത് എന്ന് ഓർത്തുവയ്ക്കുക — ഒരു ചെറിയ idioms ലിസ്റ്റ് ഉണ്ടാക്കി പതിവായി ആവർത്തിക്കുന്നത് സഹായകമാണ്."
+      }
+    }
+  ]
+}

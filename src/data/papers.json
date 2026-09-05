@@ -1467,5 +1467,31 @@
     "medium": "E",
     "year": "2019",
     "categoryCode": "196-205/2018"
+  },
+  {
+    "id": "32-2019-M",
+    "paperCode": "32/2019 M",
+    "post": "Assistant Gr II (Direct & By Transfer) - Kerala State Housing Board",
+    "date": "20-Jul-2019",
+    "medium": "M",
+    "year": "2019",
+    "categoryCode": "579/2017 & 580/2017"
+  },
+  {
+    "id": "31-2019-M",
+    "paperCode": "31/2019 M",
+    "post": "L.D.Clerk (By Transfer) - Kerala Water Authority",
+    "date": "18-Jul-2019",
+    "medium": "M",
+    "year": "2019",
+    "categoryCode": "413/2017"
+  },
+  {
+    "id": "24-2019-M",
+    "paperCode": "24/2019 M",
+    "post": "Assistant - Universities in Kerala",
+    "date": "15-Jun-2019",
+    "medium": "M",
+    "year": "2019"
   }
 ]

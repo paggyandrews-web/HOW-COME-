@@ -1,0 +1,193 @@
+{
+  "paper": {
+    "id": "32-2019-M",
+    "paperCode": "32/2019 M",
+    "post": "Assistant Gr II (Direct & By Transfer) - Kerala State Housing Board",
+    "date": "20-Jul-2019",
+    "medium": "M",
+    "year": "2019",
+    "categoryCode": "579/2017 & 580/2017"
+  },
+  "questions": [
+    {
+      "id": "32-2019-M-Q71",
+      "paperId": "32-2019-M",
+      "questionNumber": 71,
+      "topic": "Subject-Verb Agreement",
+      "questionText": "Neither of the boys ________ left.",
+      "optionA": "are",
+      "optionB": "has",
+      "optionC": "being",
+      "optionD": "have",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) has\n• 'Neither of the boys' എന്നതിൽ 'of' ന് ശേഷം plural noun (boys) വന്നാലും, 'Neither' എന്നത് തന്നെ എപ്പോഴും singular ആണ് — അതുകൊണ്ട് verb-ഉം singular വേണം.\n• 'has left' എന്നത് present perfect tense ആണ് — രണ്ട് ആൺകുട്ടികളിൽ ആരും പോയിട്ടില്ല എന്ന അർത്ഥത്തിലാണ് ഇത് പറയുന്നത്.\n• \"രണ്ടു ആൺകുട്ടികളിലും ആരും പോയിട്ടില്ല\" എന്നാണ് ഈ വാക്യത്തിന്റെ അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Neither/Either + of + plural noun → എപ്പോഴും SINGULAR verb!\n• 'Neither', 'Either', 'Each', 'Every', 'None' എന്നിവ subject ആയി വരുമ്പോൾ, \"of the + plural noun\" വന്നാലും verb എപ്പോഴും singular തന്നെ വേണം — plural noun-നെ കണ്ട് കൺഫ്യൂസ് ആകരുത്.\n• ഇതേ family-ൽ വരുന്ന വാക്കുകൾ: Each of, Either of, None of, Neither of — ഇവയെല്ലാം എപ്പോഴും singular verb മാത്രം എടുക്കും.\n• ⭐ PSC ആവർത്തനം: 'Neither of the boys has/is' എന്ന pattern PSC പേപ്പറുകളിൽ വീണ്ടും വീണ്ടും ആവർത്തിച്ചു വരുന്ന ഒരു classic trap ആണ്!\n• ഉദാഹരണ sentences (ഓരോന്നും ശ്രദ്ധിക്കുക):\n1. Neither of the students has submitted the assignment. (ഒരു student-ഉം submit ചെയ്തിട്ടില്ല — singular verb 'has')\n2. Either of the roads leads to the temple. (ഏതെങ്കിലും ഒരു റോഡ് മാത്രം — singular verb 'leads')\n3. Each of the players was given a medal. (ഓരോ player-ക്കും ഒറ്റയ്ക്ക് — singular verb 'was')",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) are — plural verb ആണ്; 'Neither' subject singular ആയതിനാൽ ഇത് ചേരില്ല.\n• 🪤 PSC Trap: 'boys' എന്ന plural noun കണ്ട് പലരും verb-ഉം plural ആക്കി തെറ്റിക്കും — യഥാർത്ഥ subject 'Neither' ആണെന്ന് മറക്കരുത്.\n• (C) being — ഇത് ഒരു gerund/participle ആണ്, main verb ആയി ഒറ്റയ്ക്ക് നിൽക്കാൻ കഴിയില്ല.\n• (D) have — plural verb; അതേ കാരണത്താൽ ഇവിടെ ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"Neither, Either, Each, Every, None — എല്ലാം ഒറ്റക്കാർ (singular)!\" എന്ന് ഓർത്താൽ മതി.\n• ഇതേ rule ബാധകമായ word family: Neither of, Either of, Each of, None of, Every one of.\n• PSC strategy: Subject-ൽ 'Neither/Either/Each' കണ്ടാൽ ഉടനെ verb singular ആണോ എന്ന് ചെക്ക് ചെയ്യുക — 'of' ന് ശേഷമുള്ള plural noun-നെ അവഗണിക്കുക. ഗ്യാരണ്ടീഡ് മാർക്ക്!"
+      }
+    },
+    {
+      "id": "32-2019-M-Q72",
+      "paperId": "32-2019-M",
+      "questionNumber": 72,
+      "topic": "Direct and Indirect Speech",
+      "questionText": "Write the indirect speech of \"Don't Sleep\":",
+      "optionA": "You ordered not to sleep",
+      "optionB": "You ordered to not sleep",
+      "optionC": "You are instructed not to sleep",
+      "optionD": "You are advised to not sleep",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) You are instructed not to sleep\n• \"Don't sleep\" എന്ന negative command-നെ ഒരു ഔപചാരികമായ നിർദ്ദേശം (instruction) ആയി റിപ്പോർട്ട് ചെയ്യുമ്പോൾ 'instructed' എന്ന reporting verb ആണ് ശരിയായ standard രൂപം.\n• Passive structure \"You are instructed + not to + V1\" എന്നത് ഒരു command-നെ ഔദ്യോഗികമായി അറിയിക്കുന്ന രീതിയാണ് — \"നിങ്ങളോട് ഉറങ്ങരുതെന്ന് നിർദ്ദേശിച്ചിരിക്കുന്നു\" എന്നാണ് അർത്ഥം.\n• 'not' എപ്പോഴും 'to' യുടെ മുൻപ് വരും ('not to sleep') — ഇത് ഇവിടെയും കൃത്യമായി പാലിക്കപ്പെട്ടിട്ടുണ്ട്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Don't + V1 → You are instructed/ordered + NOT TO + V1 (passive reporting)\n• ഒരു specific speaker ('he said' പോലുള്ളവ) പരാമർശിക്കാതെ ഒരു bare command ('Don't sleep') റിപ്പോർട്ട് ചെയ്യുമ്പോൾ, \"You are instructed/ordered + not to + V1\" എന്ന passive-ഘടനയാണ് ഇവിടെ standard ആയി ഉപയോഗിക്കുന്നത്.\n• 'not to' എന്നത് എപ്പോഴും ശരിയായ ക്രമമാണ്, 'to not' എന്ന ക്രമം ഒരിക്കലും ശരിയല്ല എന്നത് പ്രത്യേകം ഓർക്കുക.\n• ⭐ PSC ആവർത്തനം: Negative command-നെ ഇംപേഴ്സണൽ/പാസീവ് reported form ആക്കുന്ന ചോദ്യങ്ങൾ PSC പേപ്പറുകളിൽ ആവർത്തിച്ചു വരാറുണ്ട്.\n• ഉദാഹരണ sentences (ഓരോന്നും ശ്രദ്ധയോടെ വായിക്കുക):\n1. \"Don't smoke here.\" → You are instructed not to smoke here. (ഔദ്യോഗിക നിർദ്ദേശം)\n2. \"Don't enter.\" → You are instructed not to enter. (പ്രവേശനം വിലക്കുന്ന നിർദ്ദേശം)\n3. \"Don't touch the exhibits.\" → Visitors are instructed not to touch the exhibits. (പൊതു നിർദ്ദേശം)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) You ordered not to sleep — ഇവിടെ 'You' എന്ന subject 'ordered' (active, past tense) ചെയ്തതായി തെറ്റായി വായിക്കപ്പെടും; യഥാർത്ഥത്തിൽ 'You' ആണ് കൽപ്പന കിട്ടിയ ആൾ, കൊടുത്ത ആളല്ല. Passive form ('are instructed') ആണ് ഇവിടെ ശരി.\n• 🪤 PSC Trap: 'ordered' എന്ന word ശരിയായ reporting verb ആയി തോന്നിക്കുമെങ്കിലും, active voice structure (\"You ordered...\") അർത്ഥവ്യത്യാസം ഉണ്ടാക്കുന്നു.\n• (B) You ordered to not sleep — 'to not sleep' എന്ന word order തെറ്റാണ്; 'not' എപ്പോഴും 'to' യുടെ മുൻപ് വരണം.\n• (D) You are advised to not sleep — Passive structure ('are advised') ശരിയാണെങ്കിലും, 'to not sleep' എന്ന തെറ്റായ word order ഇതിനെ അയോഗ്യമാക്കുന്നു; കൂടാതെ 'advised' ഒരു നിർദ്ദേശ (suggestion) tone ആണ്, command-ന് ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"Bare command കണ്ടാൽ passive-ൽ 'You are instructed/ordered not to...' എന്ന് ഓർത്തുകൊള്ളുക!\"\n• ഇതേ family-ൽ ഒരുമിച്ചു പഠിക്കേണ്ട structure: You are instructed/ordered/advised + not + to + V1 — ഇതൊരു passive reporting formula ആണ്.\n• PSC strategy: ആദ്യം word order ('not to' ആണോ, 'to not' അല്ലല്ലോ എന്ന്) ചെക്ക് ചെയ്ത് തെറ്റായ options ഒഴിവാക്കുക, എന്നിട്ട് reporting verb-ന്റെ tone command-ന് ചേരുന്നതാണോ ('instructed/ordered') എന്ന് നോക്കി ശരിയായ ഉത്തരം കണ്ടെത്തുക — 'advised' നിർദ്ദേശത്തിനാണ്, command-ന് അല്ല എന്നത് പ്രത്യേകം ഓർക്കുക."
+      }
+    },
+    {
+      "id": "32-2019-M-Q73",
+      "paperId": "32-2019-M",
+      "questionNumber": 73,
+      "topic": "Active and Passive Voice",
+      "questionText": "People play football all over the world. (Report the sentence)",
+      "optionA": "People all over the world is played football",
+      "optionB": "All the people played football",
+      "optionC": "Football was played by all people in the world",
+      "optionD": "Foot ball is played all over the world",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "⚠️ ഈ ചോദ്യം PSC ഔദ്യോഗികമായി റദ്ദാക്കി (CANCELLED) — Final Answer Key-ൽ ഈ ചോദ്യത്തിന് നേരെ 'X' എന്നാണ് രേഖപ്പെടുത്തിയിരിക്കുന്നത്, അതായത് എല്ലാ candidates-നും ഈ ചോദ്യത്തിന് ഒരുപോലെ മാർക്ക് നൽകും (ആരും തെറ്റിക്കുകയോ ശരിയാക്കുകയോ ഇല്ല എന്ന് കണക്കാക്കപ്പെടും).\n✅ റഫറൻസിനായി മാത്രം: (D) Foot ball is played all over the world.\n• Active voice-ൽ 'People' എന്ന generic subject ആണെങ്കിൽ, passive voice-ലേക്ക് മാറ്റുമ്പോൾ 'by people' എന്ന agent ഒഴിവാക്കാം, tense present ('is played') ആയി തുടരണം.\n• ഈ ചോദ്യം cancel ചെയ്യാൻ കാരണം option (D)-ൽ 'Foot ball' എന്ന് രണ്ട് വാക്കുകളായി എഴുതിയത് (ശരിയായ spelling 'Football' ആണ്) പോലുള്ള ഒരു പിശക് ആകാം എന്ന് ഊഹിക്കാവുന്നതാണ് — ഇത് സ്ഥിരീകരിക്കപ്പെട്ട കാരണമല്ല, PSC ഇതിന്റെ കാരണം പരസ്യമായി പറഞ്ഞിട്ടില്ല.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Active tense = Passive tense — എപ്പോഴും ഒരുപോലെ ആയിരിക്കണം, മാറ്റാൻ പാടില്ല!\n• Subject 'People/They/Someone' പോലുള്ള അജ്ഞാതമോ പൊതുവായതോ ആയ (generic) agents ആണെങ്കിൽ, passive voice-ലേക്ക് മാറ്റുമ്പോൾ 'by' phrase പൂർണ്ണമായി ഒഴിവാക്കാം.\n• Formula മനഃപാഠമാക്കുക: Active-ൽ Subject + V1(s/es) വരുന്നത്, Passive-ൽ Object + is/am/are + V3 ആയി മാറും.\n• ⭐ PSC ആവർത്തനം: Present tense-ലെ active-to-passive മാറ്റം PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന ഒരു voice pattern ആണ് — ഈ specific ചോദ്യം cancel ആയെങ്കിലും, topic തന്നെ വീണ്ടും വരാൻ സാധ്യതയുണ്ട്.\n• ഉദാഹരണ sentences:\n1. People speak English here. → English is spoken here. (agent ആവശ്യമില്ല, ഒഴിവാക്കി)\n2. They grow rice in Kerala. → Rice is grown in Kerala. (present tense അതേപടി നിലനിർത്തുന്നു)\n3. Someone has stolen my bag. → My bag has been stolen. (present perfect-ന് ചേരുന്ന passive രൂപം)",
+        "wrong": "❌ മറ്റ് options എന്തുകൊണ്ട് ചേരില്ല (റഫറൻസിന്)\n• (A) People all over the world is played football — subject-verb mismatch ('People...is' തെറ്റ്), കൂടാതെ structure പൂർണ്ണമായും തെറ്റായ, അസ്വാഭാവികമായ passive രൂപവുമാണ്.\n• 🪤 ശ്രദ്ധിക്കുക: വാക്കുകൾ ശരിയാണെന്ന് ആദ്യം കണ്ടാൽ തോന്നിക്കുന്ന, എന്നാൽ സൂക്ഷ്മമായി നോക്കിയാൽ grammatically absurd ആയ ഒരു option ആണിത്.\n• (B) All the people played football — ഇത് passive voice തന്നെ അല്ല, വെറും active voice-ന്റെ past tense-ലുള്ള ഒരു പുനരാവിഷ്കാരം മാത്രമാണ്; tense-ഉം ഇവിടെ മാറിപ്പോയി.\n• (C) Football was played by all people in the world — passive structure ശരിയാണെങ്കിലും, 'was' എന്ന past tense ഉപയോഗിച്ചത് തെറ്റാണ് — original sentence present tense ('play') ആയതിനാൽ passive-ഉം present tense ആയിരിക്കണം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"Active-ന്റെ Tense തന്നെ Passive-ലും വരണം — മാറ്റാൻ പാടില്ല!\"\n• ഇതേ family: Present simple active ↔ 'is/am/are + V3' passive.\n• PSC strategy: ഈ ചോദ്യം cancel ചെയ്യപ്പെട്ടതിനാൽ ഇതിന് മാർക്ക് നഷ്ടപ്പെടില്ല എന്നത് ഓർക്കുക — എങ്കിലും 'active tense = passive tense' rule പഠിച്ചുവയ്ക്കുന്നത് ഭാവി ചോദ്യങ്ങൾക്ക് ഗുണം ചെയ്യും."
+      }
+    },
+    {
+      "id": "32-2019-M-Q74",
+      "paperId": "32-2019-M",
+      "questionNumber": 74,
+      "topic": "Articles",
+      "questionText": "________ Rich should help ________ poor.",
+      "optionA": "a, the",
+      "optionB": "the, the",
+      "optionC": "the, a",
+      "optionD": "an, the",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) the, the\n• 'The + Adjective' (the rich, the poor) എന്ന structure ഒരു class/group of people-നെ സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു — \"സമ്പന്നർ\", \"ദരിദ്രർ\" എന്നൊക്കെ അർത്ഥം.\n• 'Rich' എന്നും 'Poor' എന്നും ഇവിടെ adjectives ആണ്, അവ noun ആയി ഒരു group-നെ represent ചെയ്യുമ്പോൾ 'the' നിർബന്ധമായും വേണം.\n• \"സമ്പന്നർ ദരിദ്രരെ സഹായിക്കണം\" എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: THE + Adjective = ഒരു ഗ്രൂപ്പ് ആളുകൾ (the rich, the poor, the blind, the deaf)\n• ഈ structure-ൽ adjective ഒരു plural noun ആയി പ്രവർത്തിക്കുന്നു, verb-ഉം plural ആയിരിക്കും (the rich are...).\n• ഇതേ family-ൽ വരുന്ന വാക്കുകൾ ഓർത്തുവയ്ക്കുക: the young, the old, the sick, the wounded, the unemployed.\n• ⭐ PSC ആവർത്തനം: 'the + adjective' എന്ന group-noun pattern PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന ഒരു topic ആണ്.\n• ഉദാഹരണ sentences:\n1. The rich should help the poor. (രണ്ട് ഗ്രൂപ്പുകളും — 'the' നിർബന്ധം)\n2. The blind need our support. (അന്ധരായ എല്ലാവരും)\n3. The young must respect the old. (യുവാക്കളും വൃദ്ധരും — രണ്ടും group)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) a, the — 'a rich' എന്നത് ഒരു single സമ്പന്നനെ മാത്രമേ സൂചിപ്പിക്കൂ, ഇവിടെ ഉദ്ദേശിക്കുന്നത് സമ്പന്നരായ എല്ലാവരെയും ആണ്.\n• (C) the, a — 'a poor' എന്നത് ഒരു single ദരിദ്രനെ മാത്രമേ അർത്ഥമാക്കൂ; group meaning ശരിയാവില്ല.\n• 🪤 PSC Trap: 'a/an' ഉപയോഗിച്ചാൽ ഒറ്റ വ്യക്തിയെ മാത്രമേ സൂചിപ്പിക്കൂ എന്ന് പലരും ശ്രദ്ധിക്കാറില്ല.\n• (D) an, the — 'Rich' 'R' എന്ന consonant sound-ൽ തുടങ്ങുന്നതിനാൽ 'an' ഒരിക്കലും ചേരില്ല; group meaning-നും 'the' തന്നെ വേണം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"THE + Adjective = ആ ഗ്രൂപ്പ് മുഴുവൻ!\" — the rich = എല്ലാ സമ്പന്നരും.\n• ഇതേ family: the poor, the rich, the young, the old, the blind, the deaf, the disabled.\n• PSC strategy: Adjective ഒറ്റയ്ക്ക് ഒരു group of people-നെ represent ചെയ്യുന്നുണ്ടോ എന്ന് നോക്കുക — ഉണ്ടെങ്കിൽ 'the' ഉറപ്പായും വേണം."
+      }
+    },
+    {
+      "id": "32-2019-M-Q75",
+      "paperId": "32-2019-M",
+      "questionNumber": 75,
+      "topic": "Subject-Verb Agreement",
+      "questionText": "Neither food nor water ________ to be found there.",
+      "optionA": "was",
+      "optionB": "were",
+      "optionC": "is",
+      "optionD": "are",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) is\n• 'Neither food nor water' എന്ന correlative structure-ൽ verb-ന്റെ number നിശ്ചയിക്കുന്നത് 'nor'-ന് ശേഷമുള്ള nearest noun ('water') ആണ് — 'water' singular ആയതിനാൽ verb-ഉം singular വേണം.\n• ഈ വാക്യം ഒരു പൊതു അവസ്ഥയെ (\"സാധാരണയായി അവിടെ ഭക്ഷണമോ വെള്ളമോ ലഭ്യമല്ല\") സൂചിപ്പിക്കുന്നതിനാൽ present tense ('is') ആണ് ഇവിടെ ശരിയായ രൂപം.\n• \"അവിടെ ഭക്ഷണമോ വെള്ളമോ ലഭ്യമല്ല\" എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Neither A nor B → verb-ന്റെ number തീരുമാനിക്കുന്നത് NEARER noun (B) ആണ്!\n• 'Either...or', 'Neither...nor' എന്നീ correlative conjunctions ഉപയോഗിക്കുമ്പോൾ, verb-ന്റെ number decide ചെയ്യുന്നത് 'or'/'nor'-ന് തൊട്ടു മുൻപുള്ള (nearer) noun ആണ് എന്നത് എപ്പോഴും ഓർക്കുക — ആദ്യത്തെ noun-നെ അല്ല നോക്കേണ്ടത്.\n• Tense-ഉം ശ്രദ്ധിക്കണം: വാക്യം ഒരു പൊതു/സ്ഥിരം അവസ്ഥയെ (general truth) സൂചിപ്പിക്കുന്നെങ്കിൽ present tense ('is/are') തന്നെ ഉപയോഗിക്കണം.\n• ഇതേ family-ൽ വരുന്ന structure-കൾ: Either...or, Neither...nor, Not only...but also — എല്ലാത്തിനും ഇതേ 'nearer noun' rule ബാധകമാണ്.\n• ⭐ PSC ആവർത്തനം: ഈ 'nearer noun rule' correlatives topic-ൽ PSC-യുടെ ഏറ്റവും പ്രിയപ്പെട്ട ഒരു trap ആയി വീണ്ടും വീണ്ടും വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. Neither the teacher nor the students are present. (students എന്ന nearer noun-നോട് agree — plural, present)\n2. Either you or he is responsible. (he എന്ന nearer noun-നോട് agree — singular)\n3. Neither food nor water is to be found there. (water എന്ന nearer noun-നോട് agree — singular, present)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) was — past tense; വാക്യം ഒരു general/present അവസ്ഥയെ സൂചിപ്പിക്കുന്നതിനാൽ ഇവിടെ ചേരില്ല.\n• 🪤 PSC Trap: 'to be found' എന്ന phrase കണ്ട് പലരും past tense ആണെന്ന് തെറ്റിദ്ധരിക്കും, പക്ഷെ ഇത് 'is to be found' എന്ന fixed present structure-ന്റെ ഭാഗമാണ്.\n• (B) were — plural verb; 'water' (nearer noun) singular ആയതിനാൽ ഇത് ചേരില്ല.\n• (D) are — plural verb; 'water' singular ആയതിനാൽ ഇത് ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"Neither...nor-ൽ, അവസാനത്തെ ആളെ നോക്കി verb തീരുമാനിക്കൂ!\" — nearest noun wins, tense-ഉം context അനുസരിച്ച് ശ്രദ്ധിക്കുക.\n• ഇതേ family: Either...or, Neither...nor, Not only...but also — എല്ലാത്തിനും nearer-noun rule ബാധകം.\n• PSC strategy: Correlative conjunctions കണ്ടാൽ, 'nor'/'or'-ന് തൊട്ടടുത്ത noun ഏതെന്ന് നോക്കുക, പിന്നെ വാക്യത്തിന്റെ tense context കൂടി ചെക്ക് ചെയ്ത് ശരിയായ verb form തിരഞ്ഞെടുക്കുക."
+      }
+    },
+    {
+      "id": "32-2019-M-Q76",
+      "paperId": "32-2019-M",
+      "questionNumber": 76,
+      "topic": "Prepositions",
+      "questionText": "I hope the work will be finished ________ December.",
+      "optionA": "in",
+      "optionB": "by",
+      "optionC": "on",
+      "optionD": "at",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) by\n• 'By' എന്ന preposition ഒരു deadline സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു — \"December-ന് മുൻപോ, December ആകുമ്പോഴേക്കുമോ\" പണി പൂർത്തിയാകും എന്നാണ് അർത്ഥം.\n• 'finish' പോലുള്ള completion സൂചിപ്പിക്കുന്ന verbs-നൊപ്പം 'by + time' എന്ന combination സ്ഥിരമായി ഉപയോഗിക്കുന്നു.\n• \"ഡിസംബർ ആകുമ്പോഴേക്കും പണി തീരും എന്ന് ഞാൻ പ്രതീക്ഷിക്കുന്നു\" എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: BY + time = ഒരു DEADLINE-ന് മുൻപ് (completion സൂചിപ്പിക്കാൻ)\n• 'by' ഒരു നിശ്ചിത സമയത്തിനുള്ളിൽ ഒരു കാര്യം സംഭവിക്കും/പൂർത്തിയാകും എന്ന് കാണിക്കുമ്പോൾ ഉപയോഗിക്കുന്നു — deadline meaning.\n• Related word family: by Monday, by next week, by the end of this year, by 5 o'clock.\n• ⭐ PSC ആവർത്തനം: Preposition topic-ൽ 'by' vs 'in/on/at' vs 'till/until' എന്നിവയുടെ വ്യത്യാസം PSC-യിൽ വളരെ പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. Please submit the report by Friday. (Friday-ക്ക് മുൻപ് പൂർത്തിയാക്കണം)\n2. The train should arrive by 6 pm. (6 മണിക്ക് മുൻപ്/അപ്പോൾ)\n3. I will finish this by next month. (അടുത്ത മാസത്തിനുള്ളിൽ)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) in — 'in December' എന്നാൽ \"ഡിസംബർ മാസത്തിൽ എപ്പോഴെങ്കിലും\" എന്ന പൊതു അർത്ഥമാണ്; deadline/completion അർത്ഥം ഇതിന് ഇല്ല.\n• 🪤 PSC Trap: 'in' ഒരു month-നൊപ്പം സ്വാഭാവികമായി ചേരും എന്ന് തോന്നിക്കും, പക്ഷെ 'hope...will be finished' എന്ന deadline-സൂചന ഇവിടെ 'by' ആവശ്യപ്പെടുന്നു.\n• (C) on — 'on' സാധാരണയായി specific dates/days-നൊപ്പം (on Monday, on 5th December) ഉപയോഗിക്കുന്നു, മാസങ്ങൾക്കൊപ്പം അല്ല.\n• (D) at — 'at' സമയങ്ങൾക്കൊപ്പം (at 5 o'clock, at noon) ഉപയോഗിക്കുന്നു, മാസങ്ങൾക്കൊപ്പം ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"BY = ഡെഡ്‌ലൈൻ ബോയ്‌!\" — 'by' കേട്ടാൽ ഉടനെ 'അതിനുള്ളിൽ പൂർത്തിയാക്കണം' എന്ന് ഓർക്കുക.\n• ഇതേ family: in (month/year), on (date/day), at (time), by (deadline) — നാലും വേറിട്ട് ഓർത്തുവയ്ക്കുക.\n• PSC strategy: വാക്യത്തിൽ 'finish', 'complete', 'submit', 'deliver' പോലുള്ള completion-verbs കണ്ടാൽ, deadline meaning വേണോ എന്ന് നോക്കി 'by' ആണോ എന്ന് ചെക്ക് ചെയ്യുക."
+      }
+    },
+    {
+      "id": "32-2019-M-Q77",
+      "paperId": "32-2019-M",
+      "questionNumber": 77,
+      "topic": "Synonyms",
+      "questionText": "Write the Synonym of the word – 'sad' :",
+      "optionA": "Happy",
+      "optionB": "Pathetic",
+      "optionC": "Cruel",
+      "optionD": "Unhappy",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) Unhappy\n• 'Sad' എന്നാൽ \"ദുഃഖമുള്ള\" എന്നാണ് അർത്ഥം — 'Unhappy' എന്ന വാക്കിനും ഇതേ അർത്ഥം തന്നെയാണ്, അതിനാൽ ഇത് exact synonym ആണ്.\n• 'un-' എന്ന prefix 'happy'-യുടെ opposite ഉണ്ടാക്കുന്നു — \"സന്തോഷമില്ലാത്ത\" എന്ന അർത്ഥം sad-ന്റെ meaning-മായി പൂർണ്ണമായി ചേരുന്നു.\n• \"അയാൾ ദുഃഖിതനാണ്\" എന്ന് പറയാൻ 'He is sad' എന്നും 'He is unhappy' എന്നും ഒരുപോലെ ഉപയോഗിക്കാം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Synonym = ഒരേ അർത്ഥമുള്ള വാക്ക്; Antonym = എതിർ അർത്ഥമുള്ള വാക്ക് — ഇവ രണ്ടും മാറ്റിക്കൂട്ടരുത്!\n• Word family (sad-ന്റെ synonyms): unhappy, sorrowful, gloomy, downcast, dejected, melancholy.\n• Etymology hint: 'Sad' പഴയ ഇംഗ്ലീഷിൽ 'satisfied/weary' എന്ന അർത്ഥത്തിൽ നിന്നാണ് വന്നത്, കാലക്രമേണ 'unhappy' എന്ന അർത്ഥത്തിലേക്ക് മാറി.\n• ⭐ PSC ആവർത്തനം: Synonym/Antonym ചോദ്യങ്ങളിൽ 'antonym' ആയ option (ഇവിടെ 'Happy') trap ആയി വയ്ക്കുന്നത് PSC-യുടെ സ്ഥിരം രീതിയാണ്.\n• ഉദാഹരണ sentences:\n1. She felt sad after hearing the news. = She felt unhappy after hearing the news.\n2. His sad face showed his sorrow. (sad = unhappy/sorrowful)\n3. It was a sad story. (a gloomy, unhappy story)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Happy — ഇത് 'sad'-ന്റെ Antonym (എതിർ വാക്ക്) ആണ്, Synonym അല്ല.\n• 🪤 PSC Trap: Synonym ചോദ്യങ്ങളിൽ antonym-നെ ഒരു option ആയി വച്ച് students-നെ confuse ചെയ്യുന്നത് PSC-യുടെ ക്ലാസിക് trick ആണ്.\n• (B) Pathetic — 'Pathetic' എന്നാൽ \"ദയനീയമായ/സഹതാപം ഉളവാക്കുന്ന\" എന്നാണ് അർത്ഥം; ഇത് sad-നോട് അടുത്ത feeling ആണെങ്കിലും exact synonym അല്ല, കൂടുതൽ negative/insulting tone ഉള്ള വാക്കാണ്.\n• (C) Cruel — 'Cruel' എന്നാൽ \"ക്രൂരമായ\" എന്നാണ് അർത്ഥം; ഇത് sad-മായി യാതൊരു ബന്ധവുമില്ലാത്ത, പൂർണ്ണമായും വ്യത്യസ്തമായ ഒരു വാക്കാണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"UN + HAPPY = NOT HAPPY = SAD!\" — 'un-' prefix opposite ഉണ്ടാക്കും എന്ന് ഓർത്താൽ ഈ ചോദ്യം എളുപ്പമാകും.\n• Word family ഒരുമിച്ചു പഠിക്കുക: sad, unhappy, sorrowful, gloomy, downcast — എല്ലാം ദുഃഖം സൂചിപ്പിക്കുന്ന വാക്കുകൾ.\n• PSC strategy: Synonym ചോദ്യങ്ങളിൽ ആദ്യം antonym ആയ option ഏതെന്ന് കണ്ടെത്തി ഒഴിവാക്കുക (ഇവിടെ 'Happy'), ബാക്കിയുള്ളവയിൽ exact meaning match ചെയ്യുന്നത് തിരഞ്ഞെടുക്കുക."
+      }
+    },
+    {
+      "id": "32-2019-M-Q78",
+      "paperId": "32-2019-M",
+      "questionNumber": 78,
+      "topic": "Phrasal Verbs",
+      "questionText": "It is there he is hoping to ________ his message of hope.",
+      "optionA": "get at",
+      "optionB": "get into",
+      "optionC": "get across",
+      "optionD": "get away with",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) get across\n• 'Get across' എന്ന phrasal verb-ന്റെ അർത്ഥം \"ഒരു ആശയമോ സന്ദേശമോ മറ്റുള്ളവരെ മനസ്സിലാക്കിക്കൊടുക്കുക/എത്തിക്കുക\" എന്നാണ്.\n• 'his message of hope' എന്ന object-ന് ചേരുന്നത് 'communicate successfully' എന്ന അർത്ഥമുള്ള 'get across' മാത്രമാണ്.\n• \"തന്റെ പ്രത്യാശയുടെ സന്ദേശം ആളുകളിലേക്ക് എത്തിക്കാൻ അയാൾ ആഗ്രഹിക്കുന്നു\" എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: GET ACROSS (a message/idea) = ആശയം മറ്റുള്ളവരെ മനസ്സിലാക്കിക്കൊടുക്കുക\n• Phrasal verbs-ന്റെ അർത്ഥം idiomatic ആണ്, individual words-ന്റെ literal meaning കൂട്ടിച്ചേർത്തല്ല മനസ്സിലാക്കേണ്ടത്.\n• 'Get' ഉപയോഗിച്ചുള്ള related family: get at (സൂചിപ്പിക്കുക/എത്തിച്ചേരുക), get into (അകത്ത് കയറുക/ഒരു ശീലത്തിലാവുക), get away with (ശിക്ഷ കിട്ടാതെ രക്ഷപ്പെടുക).\n• ⭐ PSC ആവർത്തനം: 'Get' + preposition combinations (get across, get away with, get at, get into) PSC വാക്യങ്ങളിൽ ആവർത്തിച്ചു വരുന്ന ഒരു topic ആണ്.\n• ഉദാഹരണ sentences:\n1. The teacher tried to get her point across to the students. (ആശയം മനസ്സിലാക്കിക്കൊടുക്കൽ)\n2. He couldn't get his idea across in the meeting.\n3. Good speakers know how to get their message across clearly.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) get at — ഇതിന്റെ അർത്ഥം \"സൂചിപ്പിക്കുക/എത്തിച്ചേരാൻ ശ്രമിക്കുക\" (to imply/to reach) എന്നാണ്; 'a message'-നെ 'get at' ചെയ്യുക എന്നത് ഇവിടെ ചേരില്ല.\n• 🪤 PSC Trap: 'get' എന്ന ഒരേ base verb ഉള്ള നാല് phrasal verbs ഒരുമിച്ചു നൽകി confuse ചെയ്യുന്ന PSC-യുടെ classic trick ആണിത്.\n• (B) get into — ഇതിന്റെ അർത്ഥം \"അകത്ത് കടക്കുക/ഒരു അവസ്ഥയിൽ എത്തുക\" (enter/become involved) എന്നാണ്; 'message'-നെ 'get into' ചെയ്യുക എന്നത് അർത്ഥശൂന്യമാണ്.\n• (D) get away with — ഇതിന്റെ അർത്ഥം \"ശിക്ഷ കിട്ടാതെ എന്തെങ്കിലും ചെയ്ത് രക്ഷപ്പെടുക\" എന്നാണ്; ഇത് 'hope'-ന്റെ positive context-മായി ഒട്ടും ചേരാത്ത, negative meaning ഉള്ള phrase ആണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"GET ACROSS = ആശയം അക്കരെ എത്തിക്കുക (across = അക്കരെ/മറുവശത്തേക്ക്)!\" എന്ന് visual ആയി ഓർക്കുക.\n• Word family ഒരുമിച്ചു പഠിക്കുക: get across (communicate), get at (imply), get into (enter/involve), get away with (escape punishment).\n• PSC strategy: Phrasal verb ചോദ്യങ്ങളിൽ ആദ്യം object എന്താണെന്ന് നോക്കുക ('message', 'idea' പോലുള്ളവ 'get across' മാത്രമേ ചേരൂ), എന്നിട്ട് ബാക്കിയുള്ള options-ന്റെ meaning context-ന് ചേരുന്നില്ല എന്ന് ഉറപ്പുവരുത്തുക."
+      }
+    },
+    {
+      "id": "32-2019-M-Q79",
+      "paperId": "32-2019-M",
+      "questionNumber": 79,
+      "topic": "One Word Substitutes",
+      "questionText": "Write one word for \"Killing of one's own brother\" ________.",
+      "optionA": "Fratricide",
+      "optionB": "Oedipus complex",
+      "optionC": "Fatalist",
+      "optionD": "Fenaticide",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) Fratricide\n• 'Fratricide' എന്ന വാക്കിന്റെ അർത്ഥം \"സ്വന്തം സഹോദരനെ കൊല്ലുന്ന പ്രവൃത്തി\" എന്നാണ് — Latin 'frater' (സഹോദരൻ) + '-cide' (കൊല്ല്) എന്നിവ ചേർന്നാണ് ഈ വാക്ക് ഉണ്ടായത്.\n• ഇതേ '-cide' suffix ഉള്ള മറ്റ് വാക്കുകൾ ഓർത്താൽ ഈ topic എളുപ്പമാകും — homicide (മനുഷ്യക്കൊല), suicide (ആത്മഹത്യ), regicide (രാജാവിനെ കൊല്ല്).\n• \"സ്വന്തം സഹോദരനെ കൊല്ലുന്നതിന്\" ഒറ്റ വാക്കിൽ പറയാൻ 'Fratricide' എന്ന് ഉപയോഗിക്കുന്നു.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: '-CIDE' suffix = കൊല്ല് (killing) എന്ന അർത്ഥം എപ്പോഴും സൂചിപ്പിക്കുന്നു!\n• Etymology hint: Latin 'caedere' (to kill/cut) എന്നതിൽ നിന്നാണ് '-cide' suffix വന്നത് — fratricide, homicide, suicide, matricide (അമ്മയെ കൊല്ല്), patricide (അച്ഛനെ കൊല്ല്) എന്നിവയെല്ലാം ഈ family-ൽ പെടും.\n• Related word family: fratricide (സഹോദരൻ), matricide (അമ്മ), patricide (അച്ഛൻ), regicide (രാജാവ്), genocide (വംശഹത്യ).\n• ⭐ PSC ആവർത്തനം: '-cide' family one-word substitutes PSC-യിൽ വളരെ പതിവായി ചോദിക്കുന്ന ഒരു topic ആണ്.\n• ഉദാഹരണ sentences:\n1. He was accused of fratricide after his brother's death.\n2. Matricide is considered one of the gravest crimes.\n3. The ancient king feared patricide from his own son.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) Oedipus complex — ഇത് ഒരു psychological term ആണ്, ആൺകുട്ടിക്ക് അമ്മയോട് തോന്നുന്ന ഒരു psychological attachment-നെ സൂചിപ്പിക്കുന്നു; 'killing of brother'-മായി യാതൊരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: 'Oedipus' എന്ന Greek mythology-യിലെ പേര് കേട്ടാൽ ബന്ധപ്പെട്ട term ആണെന്ന് തോന്നിക്കും, പക്ഷെ ഇത് completely വ്യത്യസ്തമായ ഒരു concept ആണ്.\n• (C) Fatalist — ഇതിന്റെ അർത്ഥം \"വിധിയിൽ വിശ്വസിക്കുന്ന ആൾ\" (one who believes in fate) എന്നാണ്; killing-മായി ബന്ധമില്ല.\n• (D) Fenaticide — ഇത് ശരിയായ ഒരു ഇംഗ്ലീഷ് വാക്കേ അല്ല (spelling ട്രാപ്പ് ആയി 'Fratricide'-നോട് സാമ്യമുള്ള രീതിയിൽ ഉണ്ടാക്കിയത് മാത്രമാണ്).",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"FRATER = BROTHER, so FRATRICIDE = BROTHER-KILLING!\" — 'fraternity' (സാഹോദര്യം) എന്ന വാക്കുമായി ബന്ധിപ്പിച്ചാൽ ഓർക്കാൻ എളുപ്പമാകും.\n• Word family ഒരുമിച്ചു പഠിക്കുക: fratricide, matricide, patricide, regicide, homicide, suicide, genocide — എല്ലാം '-cide' = killing.\n• PSC strategy: '-cide' കണ്ടാൽ killing-മായി ബന്ധപ്പെട്ട വാക്കാണെന്ന് ഉടനെ മനസ്സിലാക്കുക, spelling trap ('Fenaticide' പോലുള്ളവ) options ശ്രദ്ധയോടെ ഒഴിവാക്കുക."
+      }
+    },
+    {
+      "id": "32-2019-M-Q80",
+      "paperId": "32-2019-M",
+      "questionNumber": 80,
+      "topic": "Spelling",
+      "questionText": "It is a ________ store.",
+      "optionA": "Stationary",
+      "optionB": "Stationery",
+      "optionC": "Stationry",
+      "optionD": "Steitionary",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) Stationery\n• 'Stationery' (with an 'e') എന്നാൽ പേന, പേപ്പർ, പെൻസിൽ പോലുള്ള എഴുത്ത് സാധനങ്ങൾ വിൽക്കുന്ന കട/സാധനങ്ങൾ എന്നാണ് അർത്ഥം.\n• 'Stationary' (with an 'a') എന്ന വാക്ക് സമാനമായി ഉച്ചരിക്കപ്പെടുന്നെങ്കിലും അർത്ഥം വേറെയാണ് — \"ചലിക്കാത്ത/നിശ്ചലമായ\" എന്നാണ്.\n• \"ഇതൊരു എഴുത്ത് സാധനങ്ങളുടെ കടയാണ്\" എന്നാണ് ഈ വാക്യത്തിന്റെ അർത്ഥം, അതിനാൽ 'Stationery' (E) ആണ് ശരി.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: StationERy (paper/pen) — 'E' for 'Envelope'! StationARy (not moving) — 'A' for 'stAy'!\n• ഈ രണ്ട് വാക്കുകളും (Stationery/Stationary) Words Often Confused എന്ന category-ൽ പെടുന്ന homophones ആണ് — ഉച്ചാരണം ഒന്നാണെങ്കിലും spelling-ഉം meaning-ഉം വ്യത്യസ്തമാണ്.\n• Etymology hint: 'Stationery' എന്ന വാക്ക് പണ്ട് ഒരു സ്ഥലത്ത് സ്ഥിരമായി (station) ഇരുന്ന് സാധനങ്ങൾ വിൽക്കുന്ന വ്യാപാരികളിൽ നിന്നാണ് ഉരുത്തിരിഞ്ഞത്.\n• ⭐ PSC ആവർത്തനം: Stationery vs Stationary spelling trap PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന ഒരു classic ചോദ്യമാണ്.\n• ഉദാഹരണ sentences:\n1. She bought stationery items like pens and notebooks.\n2. The car remained stationary at the signal.\n3. He works at a stationery shop near his house.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Stationary — ഇത് ശരിയായ spelling ആണെങ്കിലും അർത്ഥം \"ചലിക്കാത്ത/നിശ്ചലമായ\" എന്നാണ്; 'store' (കട) എന്ന context-ന് ഇത് ചേരില്ല.\n• 🪤 PSC Trap: 'Stationary' vs 'Stationery' ഈ homophone pair PSC-യുടെ ഏറ്റവും പ്രിയപ്പെട്ട spelling trap ആണ് — ഉച്ചാരണം ഒന്നായതിനാൽ students എളുപ്പം തെറ്റിക്കും.\n• (C) Stationry — ഇത് ഒരു spelling പിശകാണ്; 'e' വിട്ടുപോയ തെറ്റായ രൂപം.\n• (D) Steitionary — ഇത് പൂർണ്ണമായും തെറ്റായ ഒരു spelling ആണ്, ശരിയായ ഇംഗ്ലീഷ് വാക്ക് അല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"StationERy-ൽ പേപ്പറും പേനയും ഉണ്ട് — E for pEn, papEr! StationARy ഒരിടത്ത് നിൽക്കും — A for stAy!\" ഈ trick ഒരിക്കൽ പഠിച്ചാൽ ഒരിക്കലും മറക്കില്ല.\n• Word family ഒരുമിച്ചു പഠിക്കുക: Stationery എന്നാൽ എഴുത്ത് സാധനങ്ങൾ, Stationary എന്നാൽ ചലിക്കാത്തത് — രണ്ടും PSC-യുടെ പ്രിയപ്പെട്ട confusable pair ആണ്.\n• PSC strategy: വാക്യത്തിൽ 'store/shop' (കട) എന്ന context കണ്ടാൽ ഉടനെ 'Stationery' (E) ആണ് എന്ന് ഓർക്കുക; 'not moving/parked' (ചലിക്കാത്തത്) എന്ന context കണ്ടാൽ 'Stationary' (A) എന്ന് ഓർക്കുക."
+      }
+    }
+  ]
+}
