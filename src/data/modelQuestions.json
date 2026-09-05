@@ -5498,5 +5498,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) Fully Answered Query — ഇത് ഒരു യഥാർത്ഥ standard expansion അല്ല, കേൾക്കാൻ സമാനം തോന്നുമെങ്കിലും ശരിയായ term അല്ല.\n  🪤 PSC Trap: \"Q\" for \"Query\" എന്ന് തെറ്റിദ്ധരിക്കാം, പക്ഷേ ശരിയായ word \"Questions\" ആണ്.\n• (C) Formal Assessment Quiz — ഇതും ഒരു fabricated expansion ആണ്, \"FAQ\"-യുടെ യഥാർത്ഥ അർത്ഥവുമായി ബന്ധമില്ല.\n• (D) Final Answer Quotient — ഇത് ഒരു mathematical-sounding പദമാണ്, \"FAQ\"-യുടെ standard usage-മായി യാതൊരു ബന്ധവുമില്ല.\n  🪤 PSC Trap: മൂന്ന് wrong options-ഉം F-A-Q letters-മായി പൊരുത്തപ്പെടുന്ന വാക്കുകൾ ഉപയോഗിച്ചാണ് confuse ചെയ്യാൻ ശ്രമിക്കുന്നത്.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"FAQ\" കാണുമ്പോൾ ഉടനെ ഓർക്കുക — \"Frequently\" (ഇടയ്ക്കിടെ) + \"Asked\" (ചോദിക്കുന്ന) + \"Questions\" (ചോദ്യങ്ങൾ).\n• Common Tech/Office abbreviations ഒരുമിച്ച് പഠിക്കുക: FAQ, ATM, CEO, WHO, UPI, QR Code.\n• PSC exam strategy: ഓരോ letter-ഉം separately expand ചെയ്ത് നോക്കുക — fabricated options-ൽ ഏതെങ്കിലും ഒരു letter യഥാർത്ഥ word-മായി ചേരാതെ വരും."
     }
+  },
+  {
+    "id": "HC-DAILY-2026-09-05-Q1",
+    "paperId": "HC-DAILY-2026-09-05",
+    "questionNumber": 1,
+    "topic": "Auxiliary Verbs",
+    "difficulty": "medium",
+    "questionText": "Choose the correct auxiliary verb to complete the sentence.\nBy the time the manager arrived, the workers ____ already left the site.",
+    "optionA": "has",
+    "optionB": "have",
+    "optionC": "had",
+    "optionD": "having",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) had\n\n• 'By the time the manager arrived' എന്നത് ഒരു past time reference ആണ് — അതിനു മുൻപേ നടന്ന ഒരു action ('already left') സൂചിപ്പിക്കാൻ Past Perfect Tense (had + V3) വേണം.\n• 'had left' എന്ന form, 'arrived' എന്ന past action-നു മുൻപ് നടന്ന കാര്യം കാണിക്കുന്നു — രണ്ട് past actions-ന്റെ sequence വ്യക്തമാക്കാൻ ഇത് അത്യാവശ്യമാണ്.\n• PSC പേപ്പറുകളിൽ 'by the time', 'before', 'after' തുടങ്ങിയ time markers ഉള്ള sentences-ൽ Past Perfect ചോദിക്കുന്നത് സാധാരണമാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Past Perfect = had + V3 (Past Participle) — രണ്ട് past actions-ൽ ആദ്യം നടന്നതിന് ഉപയോഗിക്കുന്നു.\n• Rule: ഒരു past sentence-ൽ 'by the time', 'before', 'after', 'already' എന്നീ words ഉള്ളപ്പോൾ, ആദ്യം നടന്ന action-ന് Past Perfect (had + V3) ഉപയോഗിക്കണം.\n• Related family: has/have/had എല്ലാം perfect tense-ന്റെ auxiliary verbs ആണ് — has/have (Present Perfect), had (Past Perfect).\n• ⭐ PSC ആവർത്തനം: Auxiliary verb ചോദ്യങ്ങൾ മിക്കവാറും tense sequencing testing ചെയ്യുന്നു — ഇത് PSC-യിൽ പതിവായി വരുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. She had finished her homework before dinner.\n2. By the time I reached the station, the train had left.\n3. He had already eaten when we arrived.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) has — ഇത് Present Perfect Tense-ന്റെ auxiliary ആണ്, present time-നെ സൂചിപ്പിക്കുന്നു. ഈ sentence past time-ൽ ആണ് നടക്കുന്നത് എന്നതിനാൽ ഇത് യോജിക്കില്ല.\n• 🪤 PSC Trap: 'has' ഉം 'had' ഉം തമ്മിലുള്ള confusion ഉണ്ടാക്കാൻ വേണ്ടിയാണ് ഈ option.\n• (B) have — plural subject-നൊപ്പം ഉപയോഗിക്കുന്ന Present Perfect auxiliary ആണ്, ഇവിടെയും tense തെറ്റാണ്.\n• 🪤 PSC Trap: 'workers' plural ആയതിനാൽ 'have' ശരിയാണെന്ന് തോന്നിക്കും, പക്ഷേ tense sequencing ആണ് ഇവിടെ പ്രധാനം.\n• (D) having — ഇത് ഒരു finite verb form അല്ല, gerund/participle ആണ്. Main verb ആയി ഇത് ഉപയോഗിക്കാൻ പറ്റില്ല.\n• 🪤 PSC Trap: 'having left' എന്ന phrase ശരിയാണെങ്കിലും, ഇവിടെ 'already' ന് ശേഷം ഒരു finite auxiliary വേണം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HAD + Past-ൽ-Past' — രണ്ട് past events ഉള്ളപ്പോൾ ആദ്യം നടന്നതിന് HAD ഓർക്കുക.\n• Family to learn together: has (present perfect) → have (present perfect plural) → had (past perfect) — ഇവ മൂന്നും ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Sentence-ൽ 'by the time', 'before', 'after', 'already' കണ്ടാൽ ഉടനെ Past Perfect ചിന്തിക്കുക — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-05-Q2",
+    "paperId": "HC-DAILY-2026-09-05",
+    "questionNumber": 2,
+    "topic": "Infinitive and Gerunds",
+    "difficulty": "medium",
+    "questionText": "Choose the correct option to complete the sentence.\nThe committee postponed ____ a decision until all reports were reviewed.",
+    "optionA": "to make",
+    "optionB": "making",
+    "optionC": "make",
+    "optionD": "to making",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) making\n\n• 'Postpone' എന്ന verb-ന് ശേഷം എപ്പോഴും Gerund (V+ing) വരണം, Infinitive (to + V) അല്ല.\n• 'postpone making a decision' എന്നാൽ 'തീരുമാനം എടുക്കുന്നത് നീട്ടിവയ്ക്കുക' എന്നാണ് അർഥം.\n• ഇത് ഓർത്തിരുന്നാൽ ഒരിക്കലും miss ആകില്ല — postpone, avoid, enjoy, suggest, admit തുടങ്ങിയ verbs എല്ലാം gerund മാത്രമേ എടുക്കൂ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: postpone/avoid/enjoy/suggest/admit/finish + V-ing (never to + V).\n• Rule: ചില verbs-ന് ശേഷം gerund മാത്രമേ വരാൻ പാടുള്ളൂ — ഇത് ഒരു fixed grammatical rule ആണ്, exception ഇല്ല.\n• Related family: Gerund-only verbs — postpone, avoid, enjoy, suggest, admit, finish, mind, consider, deny, risk.\n• ⭐ PSC ആവർത്തനം: Infinitive vs Gerund questions PSC-യിൽ വളരെ common ആണ്, especially 'verb + verb' pattern.\n• ഉദാഹരണ sentences:\n1. He avoided answering the question.\n2. She enjoys reading novels.\n3. They suggested going for a walk.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) to make — Infinitive form ആണ്. 'Postpone' ഒരിക്കലും infinitive എടുക്കില്ല — ഇത് ഒരു fixed grammatical rule ആണ്.\n• 🪤 PSC Trap: പല verbs-നും infinitive സ്വാഭാവികമായി തോന്നുന്നതിനാൽ students ഇത് തിരഞ്ഞെടുക്കും.\n• (C) make — Bare infinitive (without 'to') ആണ്, ഇത് 'postpone' ന് ശേഷം ഒരിക്കലും ഉപയോഗിക്കില്ല.\n• (D) to making — 'to' + gerund എന്ന combination തന്നെ grammatically തെറ്റാണ് — 'to' ന് ശേഷം base verb അല്ലെങ്കിൽ noun വേണം, ഈ form നിലവിലില്ല.\n• 🪤 PSC Trap: 'to' ഉള്ളതിനാൽ ചിലർക്ക് ഇത് ശരിയാണെന്ന് തോന്നാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'PAESA' — Postpone, Avoid, Enjoy, Suggest, Admit — എല്ലാം gerund മാത്രം എടുക്കുന്ന verbs.\n• Word family: gerund-only verbs ഒരു ലിസ്റ്റായി പഠിക്കുക, ഇത് PSC-യിൽ ആവർത്തിച്ചു വരും.\n• PSC exam strategy: 'verb + blank + noun' pattern കണ്ടാൽ ആദ്യം verb ഏതെന്ന് നോക്കി gerund/infinitive rule apply ചെയ്യുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-05-Q3",
+    "paperId": "HC-DAILY-2026-09-05",
+    "questionNumber": 3,
+    "topic": "Degrees of Comparison",
+    "difficulty": "medium",
+    "questionText": "Choose the correct sentence.",
+    "optionA": "This is the most unique painting in the gallery.",
+    "optionB": "This is the more unique painting in the gallery.",
+    "optionC": "This is the uniquest painting in the gallery.",
+    "optionD": "This is a unique painting in the gallery.",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) This is a unique painting in the gallery.\n\n• 'Unique' എന്ന word-ന്റെ അർഥം 'ഒരേയൊരു, തുല്യമില്ലാത്തത്' എന്നാണ് — ഇത് സാധാരണയായി ഒരു Non-gradable Adjective ആയി കണക്കാക്കപ്പെടുന്നു.\n• Formal/exam English-ൽ ഇതിന് comparative (more) അല്ലെങ്കിൽ superlative (most) forms ഉപയോഗിക്കാൻ പാടില്ല.\n• 'a unique painting' എന്ന simple positive form മാത്രമാണ് PSC exam convention അനുസരിച്ച് ശരി.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Non-gradable adjectives (unique, perfect, complete, dead, round, square) → formal exam English-ൽ comparative/superlative ഉപയോഗിക്കരുത്.\n• Rule: ഈ adjectives-ന് ഇതിനകം തന്നെ 'maximum' degree meaning ഉള്ളതിനാൽ 'more/most' ചേർക്കുന്നത് standard/formal exam usage-ൽ തെറ്റായി കണക്കാക്കുന്നു (സംസാര English-ൽ ചിലപ്പോൾ 'more unique' കേൾക്കാറുണ്ടെങ്കിലും, PSC-യുടെ formal convention ഇത് അംഗീകരിക്കുന്നില്ല).\n• Related family: unique, perfect, complete, infinite, eternal, universal, supreme — ഇവയെല്ലാം non-gradable adjectives.\n• ⭐ PSC ആവർത്തനം: 'most unique', 'more perfect' തുടങ്ങിയ തെറ്റുകൾ PSC ആവർത്തിച്ച് test ചെയ്യുന്നു.\n• ഉദാഹരണ sentences:\n1. This solution is perfect (not 'more perfect').\n2. The circle is round (not 'most round').\n3. His knowledge is complete (not 'most complete').",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) most unique — Superlative form ('most') non-gradable adjective-നൊപ്പം ചേർത്തിരിക്കുന്നു, ഇത് formal exam English-ൽ തെറ്റാണ്.\n• 🪤 PSC Trap: ഇത് ഏറ്റവും common ആയി കാണുന്ന തെറ്റാണ്, media-യിലും സാധാരണ സംസാരത്തിലും ഇത് കേൾക്കാറുണ്ട്.\n• (B) more unique — Comparative form ('more') ഉപയോഗിച്ചിരിക്കുന്നു, ഇതും exam convention-നു ചേരില്ല.\n• (C) uniquest — ഇത് ഒരു word തന്നെ അല്ല; '-est' suffix ചേർത്ത് ഉണ്ടാക്കിയ ഈ form standard English-ൽ നിലവിലില്ല.\n• 🪤 PSC Trap: short adjectives-ന് '-est' ചേർക്കുന്ന pattern (tall→tallest) ഇവിടെ തെറ്റായി apply ചെയ്തിരിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'UNIQUE ഒരൊറ്റ പീസ്' — ഒരൊറ്റ item-ന് 'more/most' വേണ്ട!\n• Word family: non-gradable adjectives ഒരു ഗ്രൂപ്പ് ആയി പഠിക്കുക — unique, perfect, complete, infinite.\n• PSC exam strategy: Options-ൽ 'most/more' + adjective കണ്ടാൽ ആ adjective non-gradable ആണോ എന്ന് ആദ്യം ചെക്ക് ചെയ്യുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-05-Q4",
+    "paperId": "HC-DAILY-2026-09-05",
+    "questionNumber": 4,
+    "topic": "Types of Sentences",
+    "difficulty": "medium",
+    "questionText": "Identify the type of the following sentence.\nShut the door and switch off the lights before you leave.",
+    "optionA": "Declarative",
+    "optionB": "Interrogative",
+    "optionC": "Imperative",
+    "optionD": "Exclamatory",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Imperative\n\n• 'Shut the door and switch off the lights before you leave' എന്ന sentence ഒരു കമാൻഡ് അല്ലെങ്കിൽ നിർദ്ദേശം ആണ് — ഇത് Imperative Sentence ആണ്.\n• Imperative sentences സാധാരണയായി base verb-ൽ (Shut, switch off) തുടങ്ങുന്നു, subject ('You') hidden/implied ആയിരിക്കും.\n• Commands, requests, instructions എല്ലാം imperative sentences ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Imperative = Command/Request → Base verb-ൽ തുടങ്ങുന്നു, subject 'You' hidden.\n• Rule: Sentence types നാലെണ്ണം ഉണ്ട് — Declarative (statement), Interrogative (question), Imperative (command), Exclamatory (strong emotion).\n• Related family: Imperative sentences-ന്റെ ഘടന — Verb + Object (+ Please/Kindly optional).\n• ⭐ PSC ആവർത്തനം: Sentence type identification PSC-യിൽ പതിവായി ചോദിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. Close the window. (Imperative)\n2. Please sit down. (Imperative)\n3. Do not touch that wire. (Imperative)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Declarative — ഒരു fact അല്ലെങ്കിൽ statement പറയുന്ന sentence ആണിത് (e.g. 'He shuts the door'). ഇവിടെ command ആണ്, statement അല്ല.\n• 🪤 PSC Trap: Sentence period (.) ഇൽ അവസാനിക്കുന്നതിനാൽ declarative ആണെന്ന് തെറ്റിദ്ധരിക്കാം.\n• (B) Interrogative — Question ചോദിക്കുന്ന sentence ആണിത്, ഇവിടെ '?' ഇല്ല, question structure-ഉം ഇല്ല.\n• (D) Exclamatory — ശക്തമായ emotion പ്രകടിപ്പിക്കുന്ന sentence ആണ് ('!' ഉപയോഗിച്ച്), ഇവിടെയും അതും ഇല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Imperative = Verb ആദ്യം, Boss-ന്റെ ടോൺ' — order/request ആണെങ്കിൽ imperative.\n• Word family: Declarative, Interrogative, Imperative, Exclamatory — ഈ നാലും ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Sentence base verb-ൽ തുടങ്ങുന്നുണ്ടോ എന്ന് ആദ്യം നോക്കുക — അതാണ് imperative-ന്റെ ഏറ്റവും വലിയ clue."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-05-Q5",
+    "paperId": "HC-DAILY-2026-09-05",
+    "questionNumber": 5,
+    "topic": "Parts of Speech",
+    "difficulty": "medium",
+    "questionText": "Identify the part of speech of the underlined word in the sentence.\nShe spoke __candidly__ about the challenges she faced.",
+    "optionA": "Adjective",
+    "optionB": "Adverb",
+    "optionC": "Noun",
+    "optionD": "Preposition",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Adverb\n\n• 'Candidly' എന്ന word 'spoke' എന്ന verb-നെ modify ചെയ്യുന്നു — അതായത് 'എങ്ങനെ സംസാരിച്ചു' എന്ന് പറയുന്നു.\n• Verb-നെ modify ചെയ്യുന്ന words Adverbs ആണ്, especially '-ly' suffix ഉള്ളവ മിക്കതും adverbs ആണ്.\n• 'spoke candidly' = 'തുറന്ന് സംസാരിച്ചു' എന്നർഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Adjective + -ly = Adverb (candid → candidly, honest → honestly).\n• Rule: Adverbs verb, adjective, അല്ലെങ്കിൽ മറ്റൊരു adverb-നെ modify ചെയ്യുന്നു — how, when, where, to what extent എന്നിവ കാണിക്കുന്നു.\n• Related family: -ly adverbs — quickly, slowly, honestly, candidly, carefully.\n• ⭐ PSC ആവർത്തനം: Parts of speech identification, especially adverb vs adjective confusion, PSC-യിൽ പതിവാണ്.\n• ഉദാഹരണ sentences:\n1. He answered honestly. (Adverb)\n2. She smiled warmly. (Adverb)\n3. They worked quietly. (Adverb)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Adjective — Adjectives nouns-നെ മാത്രമേ modify ചെയ്യൂ, ഇവിടെ 'candidly' verb-നെയാണ് modify ചെയ്യുന്നത്.\n• 🪤 PSC Trap: 'candid' എന്ന adjective form ഓർമ്മ വരുന്നതിനാൽ ഇത് തിരഞ്ഞെടുക്കാം, പക്ഷേ '-ly' suffix ചേർന്നപ്പോൾ ഇത് adverb ആയി മാറി.\n• (C) Noun — Noun ഒരു person/place/thing/idea-യെ സൂചിപ്പിക്കുന്നു, ഇവിടെ ഒരു action-ന്റെ manner ആണ് പറയുന്നത്.\n• (D) Preposition — Preposition ഒരു noun/pronoun-നും മറ്റൊരു word-നും ഇടയിലുള്ള relationship കാണിക്കുന്നു, ഇവിടെ അതൊന്നും ബാധകമല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: '-LY കണ്ടാൽ Adverb-ലേക്ക് ചാടുക!' — എളുപ്പം ഓർക്കാൻ.\n• Word family: adjective-adverb pairs പഠിക്കുക — candid/candidly, honest/honestly, quick/quickly.\n• PSC exam strategy: Underlined word verb-നെ describe ചെയ്യുന്നുണ്ടോ എന്ന് ചെക്ക് ചെയ്യുക — ഉണ്ടെങ്കിൽ അത് adverb ആണ്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-05-Q6",
+    "paperId": "HC-DAILY-2026-09-05",
+    "questionNumber": 6,
+    "topic": "Foreign Words and Phrases",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the phrase in italics.\nThe minister's resignation came as a __fait accompli__ that no one could reverse.",
+    "optionA": "a lucky coincidence",
+    "optionB": "an accomplished fact, something already done",
+    "optionC": "a temporary arrangement",
+    "optionD": "an official announcement",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) an accomplished fact, something already done\n\n• 'Fait accompli' എന്നത് ഒരു French phrase ആണ്, അതിന്റെ അർഥം 'ഇതിനകം സംഭവിച്ചു കഴിഞ്ഞ, മാറ്റാൻ പറ്റാത്ത കാര്യം' എന്നാണ്.\n• 'came as a fait accompli' എന്നാൽ 'ഒരു തീരുമാനിക്കപ്പെട്ട, മാറ്റാൻ പറ്റാത്ത കാര്യമായി വന്നു' എന്നർഥം.\n• Etymology: French 'fait' = done, 'accompli' = accomplished — അതായത് 'ചെയ്തു കഴിഞ്ഞ കാര്യം'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: fait accompli = 'already done, cannot be undone'.\n• Rule: Foreign phrases-ന്റെ meaning അതിന്റെ context-ൽ നിന്ന് മനസ്സിലാക്കണം — literal translation മാത്രം പോരാ.\n• Etymology hint: French language-ൽ നിന്ന് വന്ന phrase ആണ്, legal/political contexts-ൽ common ആയി ഉപയോഗിക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: Foreign words and phrases PSC-യിൽ സ്ഥിരമായി വരുന്ന ഒരു topic ആണ് — fait accompli, bona fide, prima facie തുടങ്ങിയവ ശ്രദ്ധിക്കുക.\n• ഉദാഹരണ sentences:\n1. The merger was presented to shareholders as a fait accompli.\n2. By resigning suddenly, he made his departure a fait accompli.\n3. The new policy became a fait accompli before anyone could object.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) a lucky coincidence — ഇത് 'fait accompli'യുടെ അർഥവുമായി ഒരു ബന്ധവുമില്ല; coincidence എന്നാൽ യാദൃശ്ചികത, ഇവിടെ ഉദ്ദേശിക്കുന്നത് 'ചെയ്തു കഴിഞ്ഞ' കാര്യമാണ്.\n• (C) a temporary arrangement — 'fait accompli' സൂചിപ്പിക്കുന്നത് permanent, മാറ്റാൻ പറ്റാത്ത അവസ്ഥയാണ്, temporary അല്ല.\n• 🪤 PSC Trap: ഇത് opposite meaning ആയതിനാൽ ശ്രദ്ധിക്കണം.\n• (D) an official announcement — Announcement എന്നത് ഒരു പ്രഖ്യാപനം മാത്രമാണ്, 'already accomplished/irreversible' എന്ന core meaning ഇവിടെ ഇല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Fait Accompli = Fully Complete' — sound-ൽ തന്നെ 'complete' ഓർക്കാം.\n• Word family: French legal/political phrases ഒരുമിച്ച് പഠിക്കുക — fait accompli, bona fide, prima facie, modus operandi.\n• PSC exam strategy: Foreign phrase questions-ൽ context sentence ശ്രദ്ധയോടെ വായിച്ചാൽ meaning ഊഹിക്കാൻ എളുപ്പമാണ്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-05-Q7",
+    "paperId": "HC-DAILY-2026-09-05",
+    "questionNumber": 7,
+    "topic": "Singular and Plural",
+    "difficulty": "medium",
+    "questionText": "Choose the correct plural form of the word given.\n'Oasis'",
+    "optionA": "oasises",
+    "optionB": "oases",
+    "optionC": "oasiss",
+    "optionD": "oasi",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) oases\n\n• 'Oasis' എന്ന word Greek origin ഉള്ള ഒരു irregular noun ആണ് — '-is' എന്ന ending '-es' ആയി മാറ്റിയാണ് plural ഉണ്ടാക്കുന്നത്.\n• 'oasis' → 'oases' എന്നത് 'crisis' → 'crises', 'analysis' → 'analyses' എന്നിവ പോലെ ഒരേ pattern പിന്തുടരുന്നു.\n• ഇത് ഒരു fixed irregular plural ആണ്, '-s' ചേർത്ത് ഉണ്ടാക്കാൻ പറ്റില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: -is ending Greek nouns → -es (oasis→oases, crisis→crises, analysis→analyses).\n• Rule: ഇത്തരം Greek/Latin-derived nouns-ന് സാധാരണ '-s' ചേർത്തുള്ള plural rule ബാധകമല്ല — ഓരോന്നിനും specific irregular form ഓർത്തിരിക്കണം.\n• Related family: crisis-crises, thesis-theses, hypothesis-hypotheses, oasis-oases — ഇവയെല്ലാം ഒരേ pattern.\n• ⭐ PSC ആവർത്തനം: Irregular plurals PSC-യിൽ പതിവായി ചോദിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. The travelers found an oasis in the desert.\n2. Several oases dot the vast Sahara desert.\n3. Each oasis provides fresh water to nearby settlements.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) oasises — ഇത് regular '-s' rule തെറ്റായി apply ചെയ്ത form ആണ്; ഇത് standard English-ൽ നിലവിലില്ല.\n• 🪤 PSC Trap: മിക്ക students-ഉം regular plural rule ('-s' ചേർക്കൽ) എല്ലാ words-നും apply ചെയ്യാൻ ശ്രമിക്കും.\n• (C) oasiss — ഇത് ഒരു valid spelling അല്ല, അർഥശൂന്യമായ form ആണ്.\n• (D) oasi — ഇത് Italian language-ലെ plural form ആണ്, English-ൽ accepted അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: '-IS പോയാൽ -ES വരും' — crisis, oasis, analysis എല്ലാം ഇതേ rule.\n• Word family: -is → -es pattern ഉള്ള words ഒരു list ആയി പഠിക്കുക.\n• PSC exam strategy: Word Greek/Latin origin ആണെന്ന് തോന്നിയാൽ ('-is' ending) irregular plural ഓർക്കുക, '-s' ചേർക്കാൻ ശ്രമിക്കരുത്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-05-Q8",
+    "paperId": "HC-DAILY-2026-09-05",
+    "questionNumber": 8,
+    "topic": "Idioms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the idiom in italics.\nBy blaming her publicly for the mistake, he only __added insult to injury__.",
+    "optionA": "made an already bad situation even worse",
+    "optionB": "apologized sincerely for the mistake",
+    "optionC": "tried to find a peaceful solution",
+    "optionD": "gave helpful advice",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) made an already bad situation even worse\n\n• 'Add insult to injury' എന്ന idiom-ന്റെ അർഥം 'ഇതിനകം മോശമായ ഒരു അവസ്ഥയെ കൂടുതൽ മോശമാക്കുക' എന്നാണ്.\n• 'injury' (ദ്രോഹം) കൂടാതെ 'insult' (അപമാനം) കൂടി ചേർക്കുന്നു എന്ന literal image-ൽ നിന്നാണ് ഈ idiom ഉണ്ടായത്.\n• അവളെ പരസ്യമായി കുറ്റപ്പെടുത്തിയത് ഇതിനകം മോശമായ situation-നെ കൂടുതൽ വഷളാക്കി എന്നാണ് ഈ sentence-ന്റെ അർഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Add insult to injury = Bad situation + More harm = Worse situation.\n• Rule: Idioms-ന്റെ meaning literal word meanings-ൽ നിന്ന് വ്യത്യസ്തമായിരിക്കും — context ഉപയോഗിച്ച് മാത്രമേ correct meaning കണ്ടെത്താൻ പറ്റൂ.\n• Related family: worsening-situation idioms — 'add fuel to the fire', 'rub salt in the wound', 'add insult to injury' — എല്ലാം ഒരേ ആശയം.\n• ⭐ PSC ആവർത്തനം: Idioms PSC English പേപ്പറുകളിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. Losing the match was bad enough, but the referee's unfair decision added insult to injury.\n2. First they cut his salary, then fired him — adding insult to injury.\n3. She was late for the interview, and to add insult to injury, she forgot her documents.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) apologized sincerely for the mistake — ഇത് idiom-ന്റെ അർഥത്തിന് നേരെ വിപരീതമാണ്; apology സാഹചര്യം മെച്ചപ്പെടുത്തും, ഇവിടെ idiom പറയുന്നത് കൂടുതൽ വഷളാക്കുന്നു എന്നാണ്.\n• 🪤 PSC Trap: 'blaming' എന്ന word കണ്ടിട്ട് ഇത് ഒരു apology-യുമായി ബന്ധപ്പെട്ടതാണെന്ന് തെറ്റിദ്ധരിക്കാം.\n• (C) tried to find a peaceful solution — ഇതും idiom-ന്റെ negative meaning-ന് വിപരീതമാണ്; ഇവിടെ പ്രശ്നം പരിഹരിക്കുകയല്ല, വഷളാക്കുകയാണ്.\n• (D) gave helpful advice — ഇതും idiom-ന്റെ അർഥവുമായി ഒരു ബന്ധവുമില്ല, 'insult' എന്ന negative word ഇവിടെ പൂർണമായും അവഗണിക്കപ്പെടുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Insult + Injury = Double Trouble' — രണ്ട് negative words ചേർന്നാൽ situation കൂടുതൽ വഷളാകും എന്ന് ഓർക്കുക.\n• Word family: 'add fuel to the fire', 'rub salt in the wound' എന്നിവയും ഇതേ ആശയമുള്ള idioms — ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Idiom options-ൽ negative/positive polarity ആദ്യം ചെക്ക് ചെയ്യുക — idiom negative ആണെങ്കിൽ positive meaning ഉള്ള options ഒഴിവാക്കാം."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-05-Q9",
+    "paperId": "HC-DAILY-2026-09-05",
+    "questionNumber": 9,
+    "topic": "Words Often Confused",
+    "difficulty": "medium",
+    "questionText": "Choose the word that correctly completes the sentence.\nMany employees are ____ to working overtime without additional pay.",
+    "optionA": "adverse",
+    "optionB": "averse",
+    "optionC": "advert",
+    "optionD": "avert",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) averse\n\n• 'Averse' എന്നാൽ 'ശക്തമായി എതിർക്കുന്ന, ഇഷ്ടപ്പെടാത്ത' എന്നാണ് അർഥം — 'averse to' എന്ന fixed collocation ആണ് ഇവിടെ ശരി.\n• 'Many employees are averse to working overtime' = 'പല ജീവനക്കാരും overtime ജോലി ചെയ്യാൻ താൽപര്യമില്ലാത്തവരാണ്' എന്നർഥം.\n• 'Adverse' (harmful) ഉം 'averse' (opposed) ഉം sound-ൽ സാമ്യമുള്ളതിനാൽ confuse ചെയ്യാൻ സാധ്യതയുണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Averse (person + opposed to) vs. Adverse (condition + harmful).\n• Rule: 'Averse' ഒരു person-ന്റെ attitude/feeling വിവരിക്കുന്നു ('averse to'), 'Adverse' ഒരു situation/condition വിവരിക്കുന്നു ('adverse effects', 'adverse weather') — ഈ distinction Fowler's/Garner's തുടങ്ങിയ standard usage guides-ലും സ്ഥിരമായി ഉറപ്പിട്ടതാണ്.\n• Related family: 'advert' (refer to) ഉം 'avert' (prevent) ഉം വേറെ meanings ഉള്ള വാക്കുകൾ ആണ്.\n• ⭐ PSC ആവർത്തനം: Words Often Confused PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. She is averse to taking risks.\n2. The adverse weather delayed the flight.\n3. He tried to avert the accident by braking suddenly.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) adverse — ഇത് 'ദോഷകരമായ' എന്നാണ് അർഥം, conditions/effects-നെ വിവരിക്കാൻ ഉപയോഗിക്കുന്നു — ഇവിടെ ഒരു person-ന്റെ attitude വിവരിക്കുകയാണ്, അതിനാൽ 'adverse' ചേരില്ല.\n• 🪤 PSC Trap: 'adverse', 'averse' spelling-ൽ വളരെ സാമ്യമുള്ളതിനാൽ ഏറ്റവും common confusion ആണ്.\n• (C) advert — ഇതിന്റെ അർഥം 'പരാമർശിക്കുക' എന്നാണ്, ഇവിടെ ഒരു ബന്ധവുമില്ല.\n• (D) avert — ഇതിന്റെ അർഥം 'തടയുക/ഒഴിവാക്കുക' എന്നാണ്, 'to working' എന്ന construction-നൊപ്പം grammatically ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'AveRSE = peRSon' (person-ന്റെ feeling), 'AdVERSE = conditions VERSUS you' (harmful condition).\n• Word family: adverse-averse-advert-avert — നാലും ഒരുമിച്ച് table ആയി പഠിക്കുക.\n• PSC exam strategy: Sentence subject person ആണോ condition ആണോ എന്ന് നോക്കി averse/adverse തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-05-Q10",
+    "paperId": "HC-DAILY-2026-09-05",
+    "questionNumber": 10,
+    "topic": "Antonyms",
+    "difficulty": "medium",
+    "questionText": "Choose the word that is most nearly OPPOSITE in meaning to the word in italics.\nThe professor was known for being extremely __loquacious__ during lectures.",
+    "optionA": "verbose",
+    "optionB": "articulate",
+    "optionC": "taciturn",
+    "optionD": "eloquent",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) taciturn\n\n• 'Loquacious' എന്നാൽ 'സംസാരപ്രിയമായ, വാചാലമായ' എന്നാണ് അർഥം; ഇതിന്റെ വിപരീതം 'taciturn' ആണ് — 'മൗനിയായ, കുറച്ചു മാത്രം സംസാരിക്കുന്ന' എന്നർഥം.\n• Etymology: 'loquacious' Latin 'loqui' (to speak) എന്നതിൽ നിന്നും, 'taciturn' Latin 'tacitus' (silent) എന്നതിൽ നിന്നും ഉണ്ടായതാണ് — അർഥം തന്നെ വിപരീതം.\n• Professor extremely talkative ആയിരുന്നു എന്നാൽ, opposite word 'reserved/silent' എന്നർഥമുള്ള word ആണ് ഇവിടെ വേണ്ടത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Loquacious (talkative) ↔ Taciturn (silent/reserved).\n• Rule: Antonym questions-ൽ ആദ്യം target word-ന്റെ exact meaning ഉറപ്പിക്കുക, പിന്നെ അതിന്റെ direct opposite നോക്കുക — near-synonyms options ആയി വരാം.\n• Etymology hint: Latin roots പഠിച്ചാൽ ഇത്തരം words എളുപ്പം ഓർക്കാം — 'loqui' = speak, 'tacitus' = silent.\n• ⭐ PSC ആവർത്തനം: Antonyms PSC English പേപ്പറുകളിൽ മിക്കവാറും എല്ലാ പേപ്പറിലും വരുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. Unlike his loquacious brother, Raj is quite taciturn.\n2. She remained taciturn throughout the meeting.\n3. His taciturn nature made him seem unfriendly.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) verbose — ഇതും 'അധികം വാക്കുകൾ ഉപയോഗിക്കുന്ന' എന്നർഥമുള്ള word ആണ് — 'loquacious'-ന്റെ synonym ആണ്, antonym അല്ല.\n• 🪤 PSC Trap: 'verbose' 'loquacious'-മായി അർഥത്തിൽ അടുത്തതിനാൽ students confuse ആകും.\n• (B) articulate — 'വ്യക്തമായി സംസാരിക്കാൻ കഴിവുള്ള' എന്നാണ് അർഥം — ഇത് speaking ability-യെ കുറിച്ചാണ്, talkative/silent എന്ന spectrum-മായി നേരിട്ട് ബന്ധമില്ല.\n• (D) eloquent — 'വാക്ചാതുര്യമുള്ള' എന്നാണ് അർഥം, ഇതും speaking skill-നെ കുറിച്ചാണ്, quantity of speech (talkative vs silent) അല്ല സൂചിപ്പിക്കുന്നത്.\n• 🪤 PSC Trap: eloquent, articulate രണ്ടും positive speaking traits ആയതിനാൽ loquacious-ന്റെ opposite ആണെന്ന് തെറ്റിദ്ധരിക്കാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'TACiturn = TACit (മൗനം)' — 'tacit' എന്ന word 'മൗനസമ്മതം' എന്നർഥമുള്ളത് ഓർത്താൽ 'taciturn' എളുപ്പം ഓർക്കാം.\n• Word family: loquacious-taciturn, garrulous-reticent — ഇവയെല്ലാം talkative/silent spectrum-ലെ word pairs.\n• PSC exam strategy: Antonym options-ൽ synonym trap ഒഴിവാക്കാൻ, ആദ്യം target word-ന്റെ 'more/less' direction ഏതെന്ന് നോക്കുക."
+    }
   }
 ]

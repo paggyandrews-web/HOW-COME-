@@ -1,0 +1,192 @@
+{
+  "paper": {
+    "id": "23-2019-M",
+    "paperCode": "23/2019 M",
+    "post": "Senior Supdt/Accounts Officer-Kerala State Insurance Sr.Supdt (Sr from ST only)-Dairy Development",
+    "date": "29-May-2019",
+    "medium": "M",
+    "year": "2019"
+  },
+  "questions": [
+    {
+      "id": "23-2019-M-Q71",
+      "paperId": "23-2019-M",
+      "questionNumber": 71,
+      "topic": "Subject-Verb Agreement",
+      "questionText": "Fill in the blank :\nUsually, the player who scores the highest number of goals ________ awarded the Golden Boot.",
+      "optionA": "is",
+      "optionB": "are",
+      "optionC": "have been",
+      "optionD": "have",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) is\n• വാക്യത്തിലെ യഥാർത്ഥ subject 'the player' (ഏകവചനം/singular) ആണ് — 'who scores the highest number of goals' എന്നത് ഒരു relative clause മാത്രമാണ്, ഇത് subject-ന്റെ number മാറ്റില്ല.\n• പൊതുവായ സത്യങ്ങൾക്കും പതിവ് നടപടികൾക്കും (general truths/habitual facts) Simple Present Tense ആണ് ഉപയോഗിക്കുന്നത് — 'Usually' എന്ന signal word ഇത് സ്ഥിരീകരിക്കുന്നു.\n• \"സാധാരണയായി, ഏറ്റവും കൂടുതൽ ഗോളുകൾ നേടുന്ന കളിക്കാരനാണ് ഗോൾഡൻ ബൂട്ട് ലഭിക്കുന്നത്\" എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Relative clause ('who/which/that...') ignore ചെയ്ത് യഥാർത്ഥ Subject മാത്രം നോക്കി verb തിരഞ്ഞെടുക്കുക!\n• 'The player who scores the highest number of goals' എന്ന phrase-ൽ 'the player' ആണ് main subject; 'who scores...' എന്നത് അതിനെ വിശദീകരിക്കുന്ന relative clause മാത്രമാണ്, ഇത് verb-ന്റെ number decide ചെയ്യില്ല.\n• Passive Voice ('is awarded') ആണ് ഇവിടെ ഉപയോഗിച്ചിരിക്കുന്നത് — 'the player ... is awarded the Golden Boot' (കളിക്കാരന് ഗോൾഡൻ ബൂട്ട് നൽകപ്പെടുന്നു).\n• ⭐ PSC ആവർത്തനം: Subject + relative clause + verb എന്ന ഘടനയിലെ agreement PSC പരീക്ഷകളിൽ ആവർത്തിച്ചു വരുന്ന ഒരു classic trap ആണ്.\n• ഉദാഹരണ sentences:\n1. The student who solves all the puzzles wins the prize. (subject 'student' singular → wins)\n2. The players who train hard usually perform well. (subject 'players' plural → perform)\n3. The book that contains these stories is very popular. (subject 'book' singular → is)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) are — Plural verb ആണ്; യഥാർത്ഥ subject 'the player' singular ആയതിനാൽ ഇത് ചേരില്ല.\n• 🪤 PSC Trap: 'goals' എന്ന plural noun-ന്റെ സാമീപ്യം കണ്ട് verb-ഉം plural ആക്കി തെറ്റിക്കുന്നതാണ് ഈ ചോദ്യത്തിന്റെ trap — 'goals' subject അല്ല, object ആണ്.\n• (C) have been — ഇത് Present Perfect Passive ആണ്, ഒരു പൂർത്തിയായ പ്രവർത്തി സൂചിപ്പിക്കുന്നു; 'Usually' എന്ന habitual context-ന് ഇത് യോജിക്കില്ല, കൂടാതെ number-ഉം plural ആണ്.\n• (D) have — ഇത് auxiliary verb 'have'-ന്റെ plural രൂപമാണ്; ഇവിടെ Passive structure-ന് 'be' verb ('is/are') ആണ് വേണ്ടത്, 'have' അല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"WHO/WHICH/THAT വന്നാൽ അതിനെ മറന്നേക്കൂ — അതിന് മുൻപുള്ള Subject മാത്രം നോക്കൂ!\"\n• Word family ഒരുമിച്ചു പഠിക്കുക: relative pronouns (who, which, that, whom) തുടങ്ങുന്ന clauses എല്ലാം ഇതേ rule പിന്തുടരുന്നു.\n• PSC exam strategy: നീണ്ട subject ഉള്ള വാക്യങ്ങളിൽ ആദ്യം relative clause ബ്രാക്കറ്റിൽ ഇട്ട് മാറ്റിവയ്ക്കുക, എന്നിട്ട് ബാക്കിയുള്ള മെയിൻ subject മാത്രം നോക്കി verb തിരഞ്ഞെടുക്കുക."
+      }
+    },
+    {
+      "id": "23-2019-M-Q72",
+      "paperId": "23-2019-M",
+      "questionNumber": 72,
+      "topic": "Articles",
+      "questionText": "Fill in the blank, if necessary :\nAbout 70% of ________ earth is covered with water.",
+      "optionA": "no article necessary",
+      "optionB": "an",
+      "optionC": "a",
+      "optionD": "the",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) the\n• 'Earth' (ഭൂമി) എന്നത് ഒരു unique, ഒറ്റത്തവണ മാത്രമുള്ള വസ്തുവാണ് (only one Earth exists) — ഇത്തരം unique nouns-ന് definite article 'the' ആണ് ഉപയോഗിക്കേണ്ടത്.\n• \"ഭൂമിയുടെ ഏകദേശം 70% ഭാഗം വെള്ളത്താൽ മൂടപ്പെട്ടിരിക്കുന്നു\" എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം — ഇവിടെ 'the earth' എന്നത് നമ്മുടെ ഗ്രഹത്തെ specific ആയി പരാമർശിക്കുന്നു.\n• Sun, moon, sky, earth, world, universe പോലുള്ള unique നാമങ്ങൾക്ക് മുന്നിൽ എപ്പോഴും 'the' വരും.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: UNIQUE OBJECTS (sun, moon, earth, sky, sea) → എപ്പോഴും THE!\n• ലോകത്ത് ഒന്നേയുള്ളൂ എന്നറിയപ്പെടുന്ന വസ്തുക്കൾക്ക് (unique/one-of-a-kind nouns) definite article 'the' നിർബന്ധമായി ഉപയോഗിക്കണം.\n• Related word family: the sun, the moon, the sky, the earth, the sea, the universe, the equator — ഇവയെല്ലാം ഇതേ rule പിന്തുടരുന്നു.\n• ⭐ PSC ആവർത്തനം: Articles topic-ൽ 'unique nouns' rule PSC പരീക്ഷകളിൽ വളരെ പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. The sun rises in the east. (unique object → the)\n2. The moon looks bright tonight. (unique object → the)\n3. Scientists are studying the atmosphere of the earth. (unique object → the)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) no article necessary — 'earth' ഇവിടെ ഒരു common/uncountable noun ആയിട്ടല്ല, ഒരു specific unique planet ആയിട്ടാണ് ഉപയോഗിച്ചിരിക്കുന്നത്; അതിനാൽ article ഒഴിവാക്കാൻ പറ്റില്ല.\n• 🪤 PSC Trap: 'earth' എന്ന വാക്ക് ചിലപ്പോൾ 'മണ്ണ്' (soil, uncountable) എന്ന അർത്ഥത്തിലും ഉപയോഗിക്കാറുണ്ട് (ഉദാ: 'covered with earth') — അപ്പോൾ article വേണ്ട; ഇവിടെ 'planet Earth' എന്ന അർത്ഥത്തിലാണ് ഉപയോഗിച്ചിരിക്കുന്നത് എന്ന വ്യത്യാസം ശ്രദ്ധിക്കണം.\n• (B) an — 'an' ഉപയോഗിക്കുന്നത് vowel sound-ൽ തുടങ്ങുന്ന indefinite (ഏതെങ്കിലും ഒന്ന്) നാമങ്ങൾക്കാണ്; 'earth' ഇവിടെ ഒരു specific/unique വസ്തുവായതിനാൽ indefinite article ചേരില്ല.\n• (C) a — ഇതും indefinite article ആണ്; 'earth' ഒരു എണ്ണമറ്റ അനേകം വസ്തുക്കളിൽ ഒന്നല്ല, ഒരേയൊരു specific ഗ്രഹമായതിനാൽ ഇത് ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"ആകാശത്ത് ഒന്നേയുള്ളൂ എങ്കിൽ THE വരും — SUN, MOON, EARTH, SKY!\"\n• Word family ഒരുമിച്ചു പഠിക്കുക: the sun, the moon, the earth, the sky, the sea, the world — ഇവയെല്ലാം 'the' നിർബന്ധമായ unique nouns.\n• PSC exam strategy: Article ചോദ്യങ്ങളിൽ noun 'ഒന്നേയുള്ളൂ' (one-of-a-kind) ആണോ എന്ന് ആദ്യം ചിന്തിക്കുക — ആണെങ്കിൽ 'the' തിരഞ്ഞെടുക്കുക."
+      }
+    },
+    {
+      "id": "23-2019-M-Q73",
+      "paperId": "23-2019-M",
+      "questionNumber": 73,
+      "topic": "Prepositions",
+      "questionText": "Fill in the blank :\nThe milkmaid poured the entire milk ________ a large bottle.",
+      "optionA": "in",
+      "optionB": "to",
+      "optionC": "into",
+      "optionD": "onto",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) into\n• 'Into' എന്ന preposition movement ഒരു സ്ഥലത്തിന് പുറത്തുനിന്ന് അകത്തേക്ക് (movement from outside to inside) സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു — ഇവിടെ പാൽ കുപ്പിക്ക് പുറത്തുനിന്ന് അകത്തേക്ക് ഒഴിക്കുന്നു.\n• \"പാൽക്കാരി മുഴുവൻ പാലും ഒരു വലിയ കുപ്പിയിലേക്ക് ഒഴിച്ചു\" എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം.\n• 'Pour' എന്ന verb-ന്റെ കൂടെ ഒരു container-ലേക്ക് ദ്രാവകം ഒഴിക്കുമ്പോൾ സ്ഥിരമായി 'into' ആണ് ഉപയോഗിക്കുന്നത് (fixed collocation: pour ... into).",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: POUR/PUT/PLACE + സാധനം + INTO + കണ്ടെയ്‌നർ (പുറത്തുനിന്ന് അകത്തേക്ക്)!\n• 'Into' എന്നത് ഒരു movement preposition ആണ് — ഒരു വസ്തു ഒരു സ്ഥലത്തിന്റെ പുറത്തുനിന്ന് അകത്തേക്ക് പോകുന്ന പ്രവർത്തി സൂചിപ്പിക്കുന്നു. 'In' എന്നത് ഒരു സ്ഥലത്തിനകത്ത് ഇതിനകം ഉള്ളതിനെ (static position) സൂചിപ്പിക്കുന്നു.\n• Related word family: pour into, put into, jump into, walk into, fall into — ഇവയെല്ലാം 'പുറത്തുനിന്ന് അകത്തേക്കുള്ള movement' സൂചിപ്പിക്കുന്ന fixed collocations.\n• ⭐ PSC ആവർത്തനം: 'in/into/to/onto' തമ്മിലുള്ള വ്യത്യാസം PSC പരീക്ഷകളിൽ വളരെ പതിവായി ചോദിക്കുന്ന ഒരു topic ആണ്.\n• ഉദാഹരണ sentences:\n1. She poured the juice into a glass. (പുറത്തുനിന്ന് അകത്തേക്ക് → into)\n2. He jumped into the swimming pool. (movement → into)\n3. The children ran into the classroom. (movement → into)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) in — ഇത് ഒരു സ്ഥലത്തിനകത്ത് ഇതിനകം സ്ഥിതി ചെയ്യുന്നതിനെ (static location) സൂചിപ്പിക്കുന്നു, movement സൂചിപ്പിക്കില്ല; 'pour ... in a bottle' എന്നത് ശരിയായ collocation അല്ല.\n• 🪤 PSC Trap: 'in' എന്ന ചെറിയ വാക്ക് 'into'-യുടെ അർത്ഥത്തിന് അടുത്താണെന്ന് തോന്നിക്കുന്നതിനാൽ പലരും തെറ്റായി തിരഞ്ഞെടുക്കുന്നു — എന്നാൽ movement-ന് 'into' തന്നെ വേണം.\n• (B) to — 'to' ഒരു ദിശ (direction towards) സൂചിപ്പിക്കുന്നു, എന്നാൽ 'അകത്തേക്ക് പ്രവേശിക്കൽ' എന്ന ആശയം നൽകില്ല; 'pour to a bottle' എന്നത് ശരിയായ പ്രയോഗമല്ല.\n• (D) onto — ഇത് ഒരു പ്രതലത്തിന് 'മുകളിൽ' (on top of a surface) എന്ന ആശയം നൽകുന്നു; ഇവിടെ പാൽ കുപ്പിക്ക് മുകളിലല്ല, അകത്താണ് ഒഴിക്കുന്നത് എന്നതിനാൽ ഇത് ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"INTO = IN + TO = പുറത്തുനിന്ന് അകത്തേക്കുള്ള യാത്ര!\"\n• Word family ഒരുമിച്ചു പഠിക്കുക: pour into, put into, go into, look into, break into — ഇവയെല്ലാം movement സൂചിപ്പിക്കുന്ന into-collocations.\n• PSC exam strategy: വാക്യത്തിൽ ഒരു വസ്തു ഒരു സ്ഥലത്തേക്ക് 'നീങ്ങുന്നു/പ്രവേശിക്കുന്നു' എന്ന് തോന്നിയാൽ 'into' ആണ് സാധാരണയായി ശരിയായ ഉത്തരം."
+      }
+    },
+    {
+      "id": "23-2019-M-Q74",
+      "paperId": "23-2019-M",
+      "questionNumber": 74,
+      "topic": "Direct and Indirect Speech",
+      "questionText": "Choose the correct reported form : The doctor said, \"Where do you live\" ?",
+      "optionA": "The doctor asked where I lived",
+      "optionB": "The doctor asked where did I live",
+      "optionC": "The doctor asked where do you live",
+      "optionD": "The doctor asked where do I live",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) The doctor asked where I lived\n• Indirect speech-ലേക്ക് മാറ്റുമ്പോൾ Wh-questions-ൽ auxiliary verb 'do/does/did' ഒഴിവാക്കി, statement-ന്റെ word order (subject + verb) പിന്തുടരണം — 'where do you live' → 'where I lived' ആയി മാറുന്നു.\n• Direct speech-ലെ Present Tense ('do you live') reported speech-ൽ Past Tense-ലേക്ക് ('lived') backshift ചെയ്യുന്നു, കാരണം reporting verb 'said' Past Tense ആണ്.\n• Pronoun 'you' (ഡോക്ടർ രോഗിയോട് ചോദിച്ചത്) reported ചെയ്യുമ്പോൾ speaker-ന്റെ perspective അനുസരിച്ച് 'I' ആയി മാറുന്നു.\n• \"ഡോക്ടർ ഞാൻ എവിടെയാണ് താമസിക്കുന്നത് എന്ന് ചോദിച്ചു\" എന്നാണ് അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: WH-QUESTION → NO DO/DOES/DID + STATEMENT WORD ORDER + BACKSHIFT TENSE!\n• Direct speech-ലെ Wh-question indirect speech ആക്കുമ്പോൾ: (1) 'do/does/did' auxiliary പൂർണ്ണമായി ഒഴിവാക്കുക, (2) verb-ന്റെ tense ഒരു step പിന്നിലേക്ക് (backshift) മാറ്റുക, (3) question mark ഒഴിവാക്കി statement structure (Subject + Verb) പിന്തുടരുക.\n• Related word family: Wh-words (where, why, when, what, how) തുടങ്ങുന്ന എല്ലാ questions-ഉം reported ചെയ്യുമ്പോൾ ഇതേ pattern പിന്തുടരുന്നു — reporting verb-ന് ശേഷം 'if/whether' വേണ്ട, wh-word തന്നെ conjunction ആയി ഉപയോഗിക്കും.\n• ⭐ PSC ആവർത്തനം: Direct-Indirect speech-ലെ Wh-question transformation PSC പരീക്ഷകളിൽ വളരെ പതിവായി ആവർത്തിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n1. She said, \"What is your name?\" → She asked what my name was. (do ഒഴിവാക്കി, backshift)\n2. He said, \"Where does she work?\" → He asked where she worked. (does ഒഴിവാക്കി)\n3. They said, \"When will the train arrive?\" → They asked when the train would arrive. (will → would)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) The doctor asked where did I live — 'did' എന്ന auxiliary verb ഇവിടെ അനാവശ്യമായി നിലനിർത്തിയിരിക്കുന്നു; indirect speech-ൽ auxiliary + subject order (question order) പാടില്ല.\n• 🪤 PSC Trap: Direct speech-ന്റെ question structure ('did I') അതേപടി നിലനിർത്തുന്നത് ഏറ്റവും സാധാരണമായ തെറ്റാണ് — reported speech statement order ('subject + verb') ആയിരിക്കണം എന്നത് പലരും മറക്കുന്നു.\n• (C) The doctor asked where do you live — ഇവിടെ tense backshift ചെയ്തിട്ടില്ല ('do' നിലനിർത്തി), കൂടാതെ pronoun 'you' മാറ്റിയിട്ടുമില്ല; രണ്ട് തെറ്റുകളും ഉണ്ട്.\n• (D) The doctor asked where do I live — pronoun 'I' ആക്കിയെങ്കിലും 'do' എന്ന auxiliary ഒഴിവാക്കിയിട്ടില്ല, ഇത് question structure തന്നെയാണ്, statement structure അല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"WH-QUESTION REPORT ചെയ്യുമ്പോൾ DO/DOES/DID-നെ വീട്ടിൽ വിട്ടേക്കൂ!\"\n• Word family ഒരുമിച്ചു പഠിക്കുക: reported Wh-questions എല്ലാം 'ask + wh-word + subject + verb' എന്ന ഒരേ structure പിന്തുടരുന്നു.\n• PSC exam strategy: Options-ൽ 'do/does/did' ഉള്ളവ ആദ്യം ഒഴിവാക്കുക (മിക്കവാറും തെറ്റാണ്), ബാക്കിയുള്ളവയിൽ pronoun ഉം tense ഉം ശരിയായി മാറിയോ എന്ന് പരിശോധിക്കുക."
+      }
+    },
+    {
+      "id": "23-2019-M-Q75",
+      "paperId": "23-2019-M",
+      "questionNumber": 75,
+      "topic": "Conditionals",
+      "questionText": "Had you participated/ in the workshop,/ you would have been selected to the post.\n(a)                    (b)                    (c)\nWhich part of the above sentence contains an error, if any ?",
+      "optionA": "(a)",
+      "optionB": "(b)",
+      "optionC": "(c)",
+      "optionD": "no error",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) no error\n• ഈ വാക്യം ഒരു Third Conditional-ന്റെ inverted (auxiliary-first) രൂപമാണ് — 'If you had participated in the workshop, you would have been selected to the post' എന്നതിന്റെ formal/inverted version ആണ് 'Had you participated in the workshop, you would have been selected to the post.'\n• Third Conditional-ൽ 'If' ഒഴിവാക്കി auxiliary 'had' subject-ന് മുൻപ് കൊണ്ടുവരുന്നത് (inversion) വ്യാകരണപരമായി പൂർണ്ണമായും ശരിയായ, formal ആയ ഒരു ശൈലിയാണ്.\n• \"നിങ്ങൾ ആ വർക്ക്ഷോപ്പിൽ പങ്കെടുത്തിരുന്നെങ്കിൽ, ആ തസ്തികയിലേക്ക് തിരഞ്ഞെടുക്കപ്പെടുമായിരുന്നു\" (എന്നാൽ പങ്കെടുത്തില്ല, തിരഞ്ഞെടുക്കപ്പെട്ടതുമില്ല) എന്നാണ് അർത്ഥം — ഘടനയിൽ ഒരു തെറ്റുമില്ല.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: IF + HAD + V3 → WOULD HAVE + V3 (Third Conditional) = HAD + SUBJECT + V3 → WOULD HAVE + V3 (Inverted, 'if' ഇല്ലാതെ)!\n• Third Conditional (യാഥാർത്ഥ്യമല്ലാത്ത ഭൂതകാല സാഹചര്യങ്ങൾക്ക്) സാധാരണ structure: 'If + Subject + had + V3, Subject + would have + V3'. ഇതിന്റെ ഒരു formal/inverted ബദൽ രൂപമാണ് 'Had + Subject + V3, Subject + would have + V3' — ഇവിടെ 'If' പൂർണ്ണമായി ഒഴിവാക്കി 'had' തന്നെ subject-ന് മുൻപ് വരുന്നു.\n• Related word family: Were/Should/Had എന്നിവ ഉപയോഗിച്ചുള്ള inversion — 'Were I you...', 'Should you need help...', 'Had I known...' — എല്ലാം conditional sentences-ന്റെ formal inverted രൂപങ്ങളാണ്.\n• ⭐ PSC ആവർത്തനം: Conditional inversion PSC പരീക്ഷകളിൽ 'error spotting' ചോദ്യങ്ങളിൽ ഒരു common trap ആയി വരാറുണ്ട് — ശരിയായ ഘടനയെ തെറ്റാണെന്ന് തെറ്റിദ്ധരിക്കാൻ സാധ്യതയുണ്ട്.\n• ഉദാഹരണ sentences:\n1. Had I known about the meeting, I would have attended it. (= If I had known...)\n2. Had she studied harder, she would have passed the exam. (= If she had studied harder...)\n3. Had they left earlier, they would have caught the train. (= If they had left earlier...)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) (a) — 'Had you participated' എന്ന ഭാഗം Third Conditional-ന്റെ ശരിയായ inverted structure ആണ്; ഇതിൽ തെറ്റില്ല.\n• 🪤 PSC Trap: 'If' ഇല്ലാതെ 'Had' കൊണ്ട് വാക്യം തുടങ്ങുന്നത് കണ്ട് ഇത് അപൂർണ്ണമോ തെറ്റോ ആണെന്ന് തെറ്റിദ്ധരിക്കുന്നതാണ് ഈ ചോദ്യത്തിന്റെ trap — ഇത് conditional sentence-ന്റെ അംഗീകൃതമായ formal ശൈലിയാണ്.\n• (B) (b) — 'in the workshop,' എന്ന ഭാഗം 'participated' എന്ന verb-ന് ചേരുന്ന preposition phrase ആണ്; ഘടനാപരമായി ശരിയാണ്.\n• (C) (c) — 'you would have been selected to the post' എന്നത് Third Conditional-ന്റെ ശരിയായ main clause ('would have + been + V3' passive form) ആണ്; ഇതിലും തെറ്റില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"HAD തുടങ്ങിയാൽ പേടിക്കേണ്ട — അത് 'IF'-ന്റെ ഒളിഞ്ഞിരിക്കുന്ന formal രൂപം മാത്രമാണ്!\"\n• Word family ഒരുമിച്ചു പഠിക്കുക: Had + S + V3 (=If...had), Were + S (=If...were), Should + S + V1 (=If...should) — മൂന്നും inverted conditional forms.\n• PSC exam strategy: Error-spotting ചോദ്യങ്ങളിൽ ഒരു ഭാഗവും വ്യക്തമായി തെറ്റ് കാണിക്കുന്നില്ലെങ്കിൽ, 'no error' ഒരു സാധുവായ ഉത്തരമാണ് എന്ന് മറക്കരുത് — എല്ലാ ചോദ്യത്തിനും ഒരു തെറ്റ് ഉണ്ടാകണം എന്ന് നിർബന്ധമില്ല."
+      }
+    },
+    {
+      "id": "23-2019-M-Q76",
+      "paperId": "23-2019-M",
+      "questionNumber": 76,
+      "topic": "Synonyms",
+      "questionText": "'to preen' means :",
+      "optionA": "to insult",
+      "optionB": "to clean",
+      "optionC": "to learn",
+      "optionD": "to forget",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) to clean\n• 'Preen' എന്ന വാക്കിന്റെ യഥാർത്ഥ അർത്ഥം ഒരു പക്ഷി തന്റെ ചിറകുകൾ കൊക്കുകൊണ്ട് വൃത്തിയാക്കുകയും ശരിയാക്കുകയും ചെയ്യുന്ന പ്രവർത്തിയാണ് (a bird cleaning and smoothing its feathers with its beak) — ഇവിടെ നിന്നാണ് 'വൃത്തിയാക്കുക/ഒരുക്കുക' എന്ന പൊതു അർത്ഥം വന്നത്.\n• മനുഷ്യരെക്കുറിച്ച് പറയുമ്പോൾ 'preen oneself' എന്നാൽ സ്വയം ഒരുങ്ങുക, appearance ശ്രദ്ധയോടെ ശരിയാക്കുക എന്നും അർത്ഥമുണ്ട് — ഇത് 'to clean/groom' എന്ന ആശയവുമായി അടുത്ത ബന്ധമുള്ളതാണ്.\n• \"He preened his feathers before flying off\" (പറന്നുപോകും മുൻപ് അത് ചിറകുകൾ വൃത്തിയാക്കി) എന്ന ഉദാഹരണം ഓർക്കുക.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: PREEN = CLEAN/GROOM ONESELF (പക്ഷികൾ ചിറകുകൾ ഒരുക്കുന്നത് പോലെ സ്വയം ഒരുങ്ങുക)!\n• Vocabulary ചോദ്യങ്ങളിൽ ഇത്തരം word-meaning questions നേരിട്ട് നിഘണ്ടു അർത്ഥം ചോദിക്കുന്നു — root/etymology ഓർത്താൽ എളുപ്പം ഓർമ്മിക്കാം.\n• Etymology hint: 'Preen' പഴയ ഇംഗ്ലീഷ് 'proynen' എന്ന വാക്കിൽ നിന്നാണ് വന്നത്, ഇത് പക്ഷികളുടെ ചിറക് വൃത്തിയാക്കുന്ന പ്രവർത്തിയെ സൂചിപ്പിക്കുന്നു.\n• Related word family: groom, spruce up, tidy, primp — ഇവയെല്ലാം 'സ്വയം വൃത്തിയായി/ഒരുക്കി കാണിക്കുക' എന്ന അർത്ഥമുള്ള പദങ്ങളാണ്.\n• ⭐ PSC ആവർത്തനം: ഇത്തരം direct word-meaning ചോദ്യങ്ങൾ PSC Vocabulary വിഭാഗത്തിൽ പതിവായി വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. The peacock preened its feathers in the sun. (ചിറകുകൾ വൃത്തിയാക്കി)\n2. She preened herself in front of the mirror before the party. (സ്വയം ഒരുങ്ങി)\n3. The cat sat preening itself after its meal. (സ്വയം വൃത്തിയാക്കി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) to insult — ഇതിന്റെ അർത്ഥം 'അപമാനിക്കുക' എന്നാണ്; 'preen'-ന്റെ അർത്ഥവുമായി യാതൊരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: 'preen' എന്ന വാക്ക് 'proud' (അഹങ്കാരം) എന്ന ആശയവുമായി ബന്ധപ്പെടുത്തി ചിലർ 'to insult' പോലുള്ള negative അർത്ഥങ്ങൾ തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട് — എന്നാൽ 'preen'-ന്റെ അടിസ്ഥാന അർത്ഥം 'വൃത്തിയാക്കൽ/ഒരുങ്ങൽ' മാത്രമാണ്.\n• (C) to learn — ഇതിന്റെ അർത്ഥം 'പഠിക്കുക' എന്നാണ്; ഇതിനും 'preen'-ന്റെ അർത്ഥവുമായി ബന്ധമില്ല.\n• (D) to forget — ഇതിന്റെ അർത്ഥം 'മറക്കുക' എന്നാണ്; 'preen'-മായി യാതൊരു ബന്ധവുമില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"PREEN = പക്ഷി ചിറകുകൾ ക്ലീൻ ചെയ്യുന്നത് പോലെ!\" (PREEN-ലെ 'REEN' ശബ്ദം 'CLEAN'-മായി ബന്ധിപ്പിച്ച് ഓർക്കുക)\n• Word family ഒരുമിച്ചു പഠിക്കുക: preen, groom, spruce up, primp — എല്ലാം 'സ്വയം ഒരുക്കുക/വൃത്തിയാക്കുക' എന്ന അർത്ഥമുള്ള പദങ്ങൾ.\n• PSC exam strategy: ഇത്തരം direct meaning ചോദ്യങ്ങളിൽ വാക്കിന്റെ ഒരു visual/action image മനസ്സിൽ സൃഷ്ടിച്ചാൽ (ഇവിടെ: ഒരു പക്ഷി ചിറകൊരുക്കുന്നത്) ഓർമ്മിക്കാൻ എളുപ്പമാകും."
+      }
+    },
+    {
+      "id": "23-2019-M-Q77",
+      "paperId": "23-2019-M",
+      "questionNumber": 77,
+      "topic": "Synonyms",
+      "questionText": "My __loquacious__ room-mate goes to bed early.\nChoose the option which is SYNONYMOUS with the underlined word in the above sentence.",
+      "optionA": "Systematic",
+      "optionB": "Talkative",
+      "optionC": "Studious",
+      "optionD": "Pious",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) Talkative\n• 'Loquacious' എന്ന വാക്കിന്റെ അർത്ഥം 'അധികം സംസാരിക്കുന്ന, വാചാലനായ' (talking a lot, chatty) എന്നാണ്.\n• \"എന്റെ വാചാലനായ റൂംമേറ്റ് നേരത്തെ ഉറങ്ങാൻ പോകുന്നു\" എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം — ഇവിടെ 'loquacious' room-mate-ന്റെ സ്വഭാവത്തെ വിശേഷിപ്പിക്കുന്നു.\n• 'Talkative' എന്ന വാക്കും 'അധികം സംസാരിക്കുന്ന' എന്ന അതേ അർത്ഥം തന്നെ നൽകുന്നു, അതിനാൽ ഇത് ശരിയായ synonym ആണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: LOQUACIOUS = TALKATIVE (അധികം സംസാരിക്കുന്ന)!\n• Etymology hint: 'Loquacious' ലാറ്റിൻ 'loqui' (സംസാരിക്കുക) എന്ന root-ൽ നിന്നാണ് വന്നത് — 'loquor' = 'I speak'. ഇതേ root-ൽ നിന്ന് 'eloquent' (വാക്ചാതുര്യമുള്ള), 'colloquial' (സംഭാഷണ ശൈലി) തുടങ്ങിയ വാക്കുകളും വരുന്നു.\n• Related word family: talkative, garrulous, verbose, chatty, voluble — ഇവയെല്ലാം 'അധികം സംസാരിക്കുന്ന' എന്ന അർത്ഥമുള്ള പദങ്ങളാണ്.\n• ⭐ PSC ആവർത്തനം: Synonym ചോദ്യങ്ങളിൽ 'loqu-' root ഉള്ള വാക്കുകൾ (loquacious, eloquent, colloquial) PSC പരീക്ഷകളിൽ ആവർത്തിച്ചു വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. The loquacious salesman talked for an hour. (വാചാലനായ)\n2. She became loquacious after a few drinks. (അധികം സംസാരിക്കുന്ന)\n3. His loquacious nature makes him popular at parties. (വാചാലത)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Systematic — ഇതിന്റെ അർത്ഥം 'ചിട്ടയായ, ക്രമബദ്ധമായ' എന്നാണ്; 'loquacious'-ന്റെ അർത്ഥവുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'Loquacious'-ന്റെ ഉച്ചാരണം കേൾക്കുമ്പോൾ ഏതെങ്കിലും 'ബുദ്ധിപരമായ' ഗുണവിശേഷണം ആണെന്ന് തെറ്റിദ്ധരിച്ച് (A) 'Systematic' അല്ലെങ്കിൽ (C) 'Studious' തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട് — എന്നാൽ ഇത് 'സംസാരം'-മായി മാത്രം ബന്ധപ്പെട്ട വാക്കാണ്.\n• (C) Studious — ഇതിന്റെ അർത്ഥം 'പഠനത്തിൽ ശ്രദ്ധയുള്ള' എന്നാണ്; 'loquacious'-മായി ബന്ധമില്ല.\n• (D) Pious — ഇതിന്റെ അർത്ഥം 'ഭക്തിയുള്ള' എന്നാണ്; 'loquacious'-മായി യാതൊരു ബന്ധവുമില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"LOQUACIOUS-ൽ 'LO-QUA' എന്നാൽ 'ക്വാ ക്വാ' എന്ന് സംസാരിച്ചുകൊണ്ടേയിരിക്കുന്ന ആൾ!\" (loqu- = speak എന്ന root ഓർക്കുക)\n• Word family ഒരുമിച്ചു പഠിക്കുക: loquacious, eloquent, colloquial, soliloquy — എല്ലാം 'loqu' (സംസാരിക്കുക) root-ൽ നിന്ന് വന്ന വാക്കുകൾ.\n• PSC exam strategy: Synonym ചോദ്യങ്ങളിൽ വാക്കിന്റെ root/prefix തിരിച്ചറിഞ്ഞാൽ അർത്ഥം ഊഹിക്കാൻ എളുപ്പമാകും — 'loqu/loc' = സംസാരം എന്ന് ഓർത്തുവയ്ക്കുക."
+      }
+    },
+    {
+      "id": "23-2019-M-Q78",
+      "paperId": "23-2019-M",
+      "questionNumber": 78,
+      "topic": "Idioms",
+      "questionText": "\"take somebody for a ride\" means :",
+      "optionA": "help somebody",
+      "optionB": "deceive somebody",
+      "optionC": "love somebody",
+      "optionD": "hate somebody",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) deceive somebody\n• 'Take somebody for a ride' എന്ന idiom-ന്റെ അർത്ഥം ഒരാളെ കബളിപ്പിക്കുക, വഞ്ചിക്കുക (to deceive, cheat, or trick someone) എന്നാണ്.\n• \"He took me for a ride when he sold that faulty car\" എന്നാൽ \"ആ കേടായ കാർ വിറ്റപ്പോൾ അയാൾ എന്നെ കബളിപ്പിച്ചു\" എന്നാണ് അർത്ഥം.\n• ഈ idiom-ന്റെ ഉത്ഭവം ഒരാളെ ഒരു യാത്രയ്ക്ക് കൊണ്ടുപോയി വഴിതെറ്റിക്കുകയോ കബളിപ്പിക്കുകയോ ചെയ്യുന്ന പഴയ പ്രയോഗത്തിൽ നിന്നാണ് എന്ന് കരുതപ്പെടുന്നു.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: TAKE SOMEBODY FOR A RIDE = DECEIVE/CHEAT SOMEBODY (ആരെയെങ്കിലും കബളിപ്പിക്കുക)!\n• Idioms-ന്റെ അർത്ഥം വാക്കുകളുടെ literal അർത്ഥത്തിൽ നിന്ന് വ്യത്യസ്തമായിരിക്കും — ഓരോ idiom-ഉം ഒരു single unit ആയി അതിന്റെ അർത്ഥത്തോടെ പഠിക്കണം.\n• Related word family: pull someone's leg (തമാശയ്ക്ക് കളിയാക്കുക), con someone (തട്ടിപ്പ് നടത്തുക), rip someone off (പണം തട്ടിയെടുക്കുക) — ഇവയെല്ലാം വഞ്ചന/കബളിപ്പിക്കൽ എന്ന ആശയവുമായി ബന്ധപ്പെട്ട idioms/phrases ആണ്.\n• ⭐ PSC ആവർത്തനം: Idiomatic expressions PSC പരീക്ഷകളിൽ വളരെ പതിവായി ചോദിക്കുന്ന ഒരു topic ആണ്; 'take someone for a ride' ഒരു common idiom ആണ്.\n• ഉദാഹരണ sentences:\n1. The fraudster took several investors for a ride. (നിക്ഷേപകരെ കബളിപ്പിച്ചു)\n2. Don't let that salesman take you for a ride. (നിന്നെ കബളിപ്പിക്കാൻ അനുവദിക്കരുത്)\n3. She realized too late that she had been taken for a ride. (താൻ കബളിപ്പിക്കപ്പെട്ടു എന്ന് മനസ്സിലായി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) help somebody — ഇതിന്റെ അർത്ഥം 'സഹായിക്കുക' എന്നാണ്; ഇത് idiom-ന്റെ യഥാർത്ഥ അർത്ഥത്തിന് നേരെ വിപരീതമാണ്.\n• 🪤 PSC Trap: 'ride' എന്ന വാക്ക് 'യാത്ര' (journey) എന്ന positive ആശയവുമായി ബന്ധപ്പെടുത്തി (A) 'help somebody' പോലുള്ള positive options തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട് — എന്നാൽ ഈ idiom-ന്റെ യഥാർത്ഥ അർത്ഥം negative ആണ് (കബളിപ്പിക്കൽ).\n• (C) love somebody — ഇതിന്റെ അർത്ഥം 'സ്നേഹിക്കുക' എന്നാണ്; idiom-ന്റെ അർത്ഥവുമായി ബന്ധമില്ല.\n• (D) hate somebody — ഇതിന്റെ അർത്ഥം 'വെറുക്കുക' എന്നാണ്; ഇതും idiom-ന്റെ അർത്ഥവുമായി പൊരുത്തപ്പെടുന്നില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"ഒരാളെ 'RIDE'-ന് കൊണ്ടുപോയി വഴിതെറ്റിച്ചു കബളിപ്പിച്ചു എന്ന് ഓർക്കുക!\"\n• Word family ഒരുമിച്ചു പഠിക്കുക: take for a ride, pull someone's leg, con, dupe, hoodwink — എല്ലാം കബളിപ്പിക്കൽ/വഞ്ചന എന്ന അർത്ഥമുള്ള idioms/words.\n• PSC exam strategy: Idiom ചോദ്യങ്ങളിൽ വാക്കുകളുടെ literal അർത്ഥത്തിൽ കുടുങ്ങാതെ, ആ idiom മൊത്തത്തിൽ ഏത് സന്ദർഭത്തിലാണ് സാധാരണ ഉപയോഗിക്കുന്നത് എന്ന് ഓർത്തുവയ്ക്കുക — ഒരു ചെറിയ idioms ലിസ്റ്റ് ഉണ്ടാക്കി പതിവായി ആവർത്തിക്കുന്നത് സഹായകമാണ്."
+      }
+    },
+    {
+      "id": "23-2019-M-Q79",
+      "paperId": "23-2019-M",
+      "questionNumber": 79,
+      "topic": "Antonyms",
+      "questionText": "Which among the four is the ANTONYM of \"frivolous\" ?",
+      "optionA": "serious",
+      "optionB": "hard-working",
+      "optionC": "lazy",
+      "optionD": "powerful",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) serious\n• 'Frivolous' എന്ന വാക്കിന്റെ അർത്ഥം 'ഗൗരവമില്ലാത്ത, നിസ്സാരമായ, കാര്യമായി എടുക്കാത്ത' (not serious, silly, trivial) എന്നാണ്.\n• ഇതിന്റെ വിപരീത അർത്ഥം (antonym) 'serious' (ഗൗരവമുള്ള) ആണ് — ഗൗരവമില്ലായ്മയുടെ നേരെ വിപരീതം ഗൗരവം തന്നെയാണ്.\n• \"Her frivolous attitude towards work worried her boss\" (ജോലിയോടുള്ള അവളുടെ ഗൗരവമില്ലാത്ത മനോഭാവം ബോസിനെ വിഷമിപ്പിച്ചു) എന്ന ഉദാഹരണം ഓർക്കുക — ഇതിന് വിപരീതമായി 'serious attitude' എന്ന് പറയാം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: FRIVOLOUS ↔ SERIOUS (ഗൗരവമില്ലായ്മ ↔ ഗൗരവം)!\n• Antonym ചോദ്യങ്ങളിൽ ആദ്യം കൊടുത്ത വാക്കിന്റെ കൃത്യമായ അർത്ഥം മനസ്സിലാക്കുക, എന്നിട്ട് options-ൽ അതിന് നേരെ വിപരീത അർത്ഥമുള്ള വാക്ക് കണ്ടെത്തുക.\n• Etymology hint: 'Frivolous' ലാറ്റിൻ 'frivolus' (നിസ്സാരമായ, വിലയില്ലാത്ത) എന്ന വാക്കിൽ നിന്നാണ് വന്നത്.\n• Related word family: trivial, silly, superficial, flippant (ഇവയെല്ലാം 'frivolous'-ന്റെ synonyms); serious, grave, earnest, solemn (ഇവയെല്ലാം 'frivolous'-ന്റെ antonyms).\n• ⭐ PSC ആവർത്തനം: Antonym ചോദ്യങ്ങൾ PSC Vocabulary വിഭാഗത്തിൽ സ്ഥിരമായി ചോദിക്കുന്ന ഒരു topic ആണ്.\n• ഉദാഹരണ sentences:\n1. He made a frivolous excuse for being late. (ഗൗരവമില്ലാത്ത)\n2. The court dismissed the frivolous lawsuit. (നിസ്സാരമായ)\n3. She takes a serious approach to her studies, unlike her frivolous brother. (ഗൗരവം vs ഗൗരവമില്ലായ്മ)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) hard-working — ഇതിന്റെ അർത്ഥം 'കഠിനാധ്വാനിയായ' എന്നാണ്; 'frivolous'-ന്റെ direct antonym അല്ല, ഇത് ഒരു വ്യത്യസ്ത ഗുണവിശേഷണമാണ്.\n• 🪤 PSC Trap: 'frivolous' എന്ന വാക്കിന് 'അലസത'-യുമായി ബന്ധമുണ്ടെന്ന് തെറ്റിദ്ധരിച്ച് അതിന്റെ വിപരീതം 'hard-working' ആണെന്ന് കരുതാൻ സാധ്യതയുണ്ട് — എന്നാൽ 'frivolous' എന്നാൽ 'ഗൗരവമില്ലായ്മ' ആണ്, 'അലസത' അല്ല.\n• (C) lazy — ഇത് 'frivolous'-ന്റെ synonym പോലും അല്ല, മറിച്ച് ബന്ധമില്ലാത്ത ഒരു വാക്കാണ്; ഇത് 'hard-working'-ന്റെ antonym ആണ്, 'frivolous'-ന്റെയല്ല.\n• (D) powerful — ഇതിന്റെ അർത്ഥം 'ശക്തിയുള്ള' എന്നാണ്; 'frivolous'-മായി യാതൊരു ബന്ധവുമില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"FRIVOLOUS = 'FREE-വോലസ്' ജീവിതം, ഗൗരവമില്ലാതെ ചെലവഴിക്കുന്നത് — ഇതിന് വിപരീതം SERIOUS!\"\n• Word family ഒരുമിച്ചു പഠിക്കുക: frivolous ↔ serious; trivial ↔ significant; superficial ↔ profound — ഗൗരവം സംബന്ധിച്ച antonym pairs ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Antonym ചോദ്യങ്ങളിൽ ആദ്യം വാക്കിന്റെ 'tone' (positive/negative) തിരിച്ചറിയുക, എന്നിട്ട് exact opposite tone-ഉള്ള option തിരഞ്ഞെടുക്കുക — related എന്നാൽ opposite അല്ലാത്ത options (trap options) ഒഴിവാക്കുക."
+      }
+    },
+    {
+      "id": "23-2019-M-Q80",
+      "paperId": "23-2019-M",
+      "questionNumber": 80,
+      "topic": "Antonyms",
+      "questionText": "Choose the ANTONYM of the word underlined :\nHell has no fury like a woman __scorned__.",
+      "optionA": "respected",
+      "optionB": "abused",
+      "optionC": "helped",
+      "optionD": "ridiculed",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) respected\n• 'Scorned' എന്ന വാക്കിന്റെ അർത്ഥം 'നിന്ദിക്കപ്പെട്ട, പുച്ഛിക്കപ്പെട്ട, അവഗണിക്കപ്പെട്ട' (treated with contempt, rejected, despised) എന്നാണ്.\n• ഇതിന്റെ വിപരീത അർത്ഥം (antonym) 'respected' (ബഹുമാനിക്കപ്പെട്ട) ആണ് — നിന്ദയുടെ നേരെ വിപരീതം ബഹുമാനം തന്നെയാണ്.\n• \"Hell has no fury like a woman scorned\" എന്ന പ്രശസ്തമായ quote-ന്റെ അർത്ഥം \"നിരസിക്കപ്പെട്ട/അവഗണിക്കപ്പെട്ട ഒരു സ്ത്രീയുടെ കോപത്തേക്കാൾ വലിയ കോപം നരകത്തിൽ പോലുമില്ല\" എന്നാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: SCORNED ↔ RESPECTED (നിന്ദിക്കപ്പെട്ടത് ↔ ബഹുമാനിക്കപ്പെട്ടത്)!\n• 'Scorn' എന്ന വാക്ക് noun ആയും verb ആയും ഉപയോഗിക്കാം — 'to scorn' എന്നാൽ പുച്ഛിക്കുക/നിരസിക്കുക, 'scorned' എന്നത് past participle/adjective ആയി ഉപയോഗിക്കുമ്പോൾ 'നിന്ദിക്കപ്പെട്ട' എന്ന അർത്ഥം നൽകുന്നു.\n• Related word family: scorn, contempt, disdain, disrespect (ഇവയെല്ലാം 'scorned'-ന്റെ ബന്ധപ്പെട്ട negative പദങ്ങൾ); respect, admire, honour, esteem (ഇവയെല്ലാം antonyms).\n• ⭐ PSC ആവർത്തനം: 'underlined word'-ന്റെ antonym കണ്ടെത്തുന്ന ചോദ്യങ്ങൾ PSC പരീക്ഷകളിൽ വളരെ പതിവായി വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. He felt scorned when his idea was rejected in the meeting. (നിന്ദിക്കപ്പെട്ടതായി തോന്നി)\n2. A scorned lover can be very bitter. (നിരസിക്കപ്പെട്ട)\n3. She is respected by everyone for her honesty. (ബഹുമാനിക്കപ്പെടുന്നു — 'scorned'-ന്റെ വിപരീതം)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) abused — ഇതിന്റെ അർത്ഥം 'ദുരുപയോഗം ചെയ്യപ്പെട്ട/ദ്രോഹിക്കപ്പെട്ട' എന്നാണ്; ഇത് 'scorned'-ന്റെ synonym-ന് അടുത്താണ്, antonym അല്ല.\n• 🪤 PSC Trap: 'scorned' എന്ന വാക്ക് negative ആയതിനാൽ, മറ്റൊരു negative വാക്കായ (B) 'abused' തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട് — എന്നാൽ ചോദ്യം ചോദിക്കുന്നത് antonym (വിപരീതം) ആണ്, similar meaning അല്ല.\n• (C) helped — ഇതിന്റെ അർത്ഥം 'സഹായിക്കപ്പെട്ട' എന്നാണ്; 'scorned'-ന്റെ നേരിട്ടുള്ള വിപരീതമല്ല, ഇത് ഒരു വ്യത്യസ്ത ആശയമാണ്.\n• (D) ridiculed — ഇതിന്റെ അർത്ഥം 'പരിഹസിക്കപ്പെട്ട' എന്നാണ്; ഇതും 'scorned'-ന്റെ synonym ആണ്, antonym അല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"SCORNED = പുച്ഛിക്കപ്പെട്ടത്, RESPECTED = ബഹുമാനിക്കപ്പെട്ടത് — ഇവ രണ്ടും കൃത്യമായ എതിർ ധ്രുവങ്ങൾ!\"\n• Word family ഒരുമിച്ചു പഠിക്കുക: scorn ↔ respect; contempt ↔ admiration; disdain ↔ esteem — അപമാനം/ബഹുമാനം സംബന്ധിച്ച antonym pairs ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Antonym ചോദ്യങ്ങളിൽ options-ൽ synonym-ഉം antonym-ഉം ഇടകലർത്തി വച്ചിരിക്കും (ഇവിടെ B, D synonyms ആണ്) — ചോദ്യം 'ANTONYM' ആണെന്ന് ഉറപ്പിച്ച ശേഷം മാത്രം ഉത്തരം തിരഞ്ഞെടുക്കുക."
+      }
+    }
+  ]
+}
