@@ -45,28 +45,48 @@ export function useResults() {
   }
 
   async function getAllResults() {
-    // Registered users: try Firestore first (most recent RESULTS_LIMIT quizzes)
-    if (user) {
-      try {
-        const q = query(
-          collection(db, 'results', user.uid, 'quizzes'),
-          orderBy('date', 'desc'),
-          limit(RESULTS_LIMIT)
-        )
-        const snap = await getDocs(q)
-        if (!snap.empty) {
-          return snap.docs.map(d => d.data())
-        }
-      } catch (e) {
-        console.error('Firestore read failed', e)
-      }
+    // localStorage is always read first — saveResult writes here
+    // synchronously, before the (unawaited) Firestore write even starts, so
+    // it's never behind. It's the fallback for guests, and for registered
+    // users it's also the safety net against a real race: finishing a quiz
+    // and immediately navigating back to a papers list calls saveResult
+    // (fire-and-forget) and then reads results right away, often before the
+    // Firestore addDoc() has round-tripped. Trusting Firestore alone in that
+    // window used to make a just-completed paper flash back to "not
+    // started"/"in progress" until the write eventually landed.
+    let local = []
+    try {
+      local = JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]')
+    } catch (e) {
+      local = []
     }
 
-    // Guests (or fallback): localStorage
+    if (!user) return local
+
+    // Registered users: merge in Firestore (most recent RESULTS_LIMIT
+    // quizzes, for cross-device history) rather than trusting it
+    // exclusively. Dedupe on `date` — saveResult stamps one ISO timestamp
+    // per result and writes that same object to both stores, so it's a
+    // reliable key.
     try {
-      return JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]')
+      const q = query(
+        collection(db, 'results', user.uid, 'quizzes'),
+        orderBy('date', 'desc'),
+        limit(RESULTS_LIMIT)
+      )
+      const snap = await getDocs(q)
+      const byDate = new Map()
+      snap.docs.forEach(d => {
+        const data = d.data()
+        if (data?.date) byDate.set(data.date, data)
+      })
+      local.forEach(r => {
+        if (r?.date && !byDate.has(r.date)) byDate.set(r.date, r)
+      })
+      return [...byDate.values()]
     } catch (e) {
-      return []
+      console.error('Firestore read failed', e)
+      return local
     }
   }
 

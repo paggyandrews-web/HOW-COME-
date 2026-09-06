@@ -9,6 +9,10 @@ import { formatExamMode } from '../utils/examMode'
 
 const MAX_PINS = 5
 
+// Same channel promoted on the Mock results screen (see Mock.jsx) — kept as
+// its own constant here too since Home doesn't share that module.
+const TELEGRAM_URL = 'https://t.me/howcomepsc'
+
 function formatTime12h(timeStr) {
   if (!timeStr) return timeStr
   const [h, m] = timeStr.split(':').map(Number)
@@ -292,6 +296,39 @@ function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
 }
 
 /* ══ Main Home page ═════════════════════════════════════════════════ */
+/* ── Telegram banner — sits right below the Study Streak card so it's the
+   next thing you see on every Home visit, not just after finishing a quiz. */
+function TelegramBanner() {
+  return (
+    <div className="rounded-2xl p-4"
+      style={{
+        background: 'linear-gradient(135deg, #06201d 0%, #041a18 100%)',
+        border: '1px solid rgba(26,157,142,0.4)',
+      }}>
+      <div className="flex items-center gap-3">
+        <div style={{
+          width: 42, height: 42, borderRadius: 12, flexShrink: 0, fontSize: 20,
+          background: 'rgba(26,157,142,0.14)', border: '1px solid rgba(26,157,142,0.3)',
+          display: 'flex', alignItems: 'center', justifyContent: 'center',
+        }}>📢</div>
+        <div style={{ flex: 1, minWidth: 0 }}>
+          <div className="font-semibold text-sm" style={{ color: 'var(--accent)' }}>
+            Join the HOW COME Telegram channel
+          </div>
+          <div className="text-xs mt-0.5 leading-relaxed" style={{ color: 'rgba(255,255,255,0.6)' }}>
+            New papers, mock tests and PDF notes go there first. No sign-up — one tap.
+          </div>
+        </div>
+        <a href={TELEGRAM_URL} target="_blank" rel="noopener noreferrer"
+          className="shrink-0 text-center py-2 px-3.5 rounded-xl text-xs font-bold"
+          style={{ background: 'var(--accent)', color: '#fff', textDecoration: 'none', whiteSpace: 'nowrap' }}>
+          Join Now
+        </a>
+      </div>
+    </div>
+  )
+}
+
 export default function Home() {
   const { user, pinnedExams: pinnedIds, pinExam, unpinExam } = useAuth()
   const navigate = useNavigate()
@@ -385,6 +422,8 @@ export default function Home() {
           </div>
         </div>
       )}
+
+      <TelegramBanner />
 
       {/* ── Saved Exams ──────────────────────────────────────────── */}
       {pinnedExams.length > 0 && (
