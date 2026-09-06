@@ -313,10 +313,10 @@ function TelegramBanner() {
         }}>📢</div>
         <div style={{ flex: 1, minWidth: 0 }}>
           <div className="font-semibold text-sm" style={{ color: 'var(--accent)' }}>
-            Join the HOW COME Telegram channel
+            PDF notes available on Telegram
           </div>
           <div className="text-xs mt-0.5 leading-relaxed" style={{ color: 'rgba(255,255,255,0.6)' }}>
-            New papers, mock tests and PDF notes go there first. No sign-up — one tap.
+            Join our channel for free study notes.
           </div>
         </div>
         <a href={TELEGRAM_URL} target="_blank" rel="noopener noreferrer"
