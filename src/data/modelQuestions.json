@@ -5688,5 +5688,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) verbose — ഇതും 'അധികം വാക്കുകൾ ഉപയോഗിക്കുന്ന' എന്നർഥമുള്ള word ആണ് — 'loquacious'-ന്റെ synonym ആണ്, antonym അല്ല.\n• 🪤 PSC Trap: 'verbose' 'loquacious'-മായി അർഥത്തിൽ അടുത്തതിനാൽ students confuse ആകും.\n• (B) articulate — 'വ്യക്തമായി സംസാരിക്കാൻ കഴിവുള്ള' എന്നാണ് അർഥം — ഇത് speaking ability-യെ കുറിച്ചാണ്, talkative/silent എന്ന spectrum-മായി നേരിട്ട് ബന്ധമില്ല.\n• (D) eloquent — 'വാക്ചാതുര്യമുള്ള' എന്നാണ് അർഥം, ഇതും speaking skill-നെ കുറിച്ചാണ്, quantity of speech (talkative vs silent) അല്ല സൂചിപ്പിക്കുന്നത്.\n• 🪤 PSC Trap: eloquent, articulate രണ്ടും positive speaking traits ആയതിനാൽ loquacious-ന്റെ opposite ആണെന്ന് തെറ്റിദ്ധരിക്കാം.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'TACiturn = TACit (മൗനം)' — 'tacit' എന്ന word 'മൗനസമ്മതം' എന്നർഥമുള്ളത് ഓർത്താൽ 'taciturn' എളുപ്പം ഓർക്കാം.\n• Word family: loquacious-taciturn, garrulous-reticent — ഇവയെല്ലാം talkative/silent spectrum-ലെ word pairs.\n• PSC exam strategy: Antonym options-ൽ synonym trap ഒഴിവാക്കാൻ, ആദ്യം target word-ന്റെ 'more/less' direction ഏതെന്ന് നോക്കുക."
     }
+  },
+  {
+    "id": "HC-DAILY-2026-09-06-Q1",
+    "paperId": "HC-DAILY-2026-09-06",
+    "questionNumber": 1,
+    "topic": "Tenses",
+    "difficulty": "medium",
+    "questionText": "Choose the correct form of the verb to complete the sentence.\nBy the time the rescue team arrived, the trapped miners ______ for over twelve hours.",
+    "optionA": "wait",
+    "optionB": "had been waiting",
+    "optionC": "have been waiting",
+    "optionD": "were waiting",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) had been waiting\n\n• ഇവിടെ രണ്ട് past events ഉണ്ട് — 'rescue team arrived' (past simple) ഉം 'miners waiting for twelve hours' (അതിനു മുൻപ് തുടങ്ങിയ ഒരു പ്രവൃത്തി) ഉം.\n• ഒരു past event-ന് മുൻപ് തുടങ്ങി, ദൈർഘ്യത്തോടെ (duration - 'for twelve hours') തുടർന്ന പ്രവൃത്തി കാണിക്കാൻ Past Perfect Continuous (had been + V-ing) ആണ് ഉപയോഗിക്കുന്നത്.\n• 'for over twelve hours' എന്ന duration phrase ആണ് ഇവിടെ key clue — ഇത് perfect continuous tense-ന്റെ classic signal ആണ്.\n• PSC പരീക്ഷകളിൽ 'by the time' + past tense sentence-കളിൽ ഇത് ആവർത്തിച്ചു വരുന്ന pattern ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: had been + V-ing + duration (for/since) + by the time + past event\n• രണ്ട് past actions ഉള്ളപ്പോൾ, നേരത്തെ തുടങ്ങിയ, ദൈർഘ്യമുള്ള പ്രവൃത്തി കാണിക്കാൻ Past Perfect Continuous ഉപയോഗിക്കുക.\n• Signal words: 'by the time', 'before', 'for + duration', 'since'.\n• ⭐ PSC ആവർത്തനം: Tenses വിഭാഗത്തിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന pattern-കളിൽ ഒന്നാണ് Past Perfect vs Past Perfect Continuous.\n• ഉദാഹരണ sentences:\n1. She had been studying for three hours when the power went off.\n2. They had been waiting at the station since morning when the train finally came.\n3. He had been working there for five years before he got promoted.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) wait — ഇത് base form ആണ്, ഒരു tense-നെയും represent ചെയ്യുന്നില്ല. Sentence-ൽ ഗ്രാമർപരമായി ചേരില്ല.\n  • 🪤 PSC Trap: ചിലർ blank-ലേക്ക് simple ആയി verb വെക്കും എന്ന് കരുതി തിരഞ്ഞെടുക്കും.\n• (C) have been waiting — ഇത് Present Perfect Continuous ആണ്, present-മായി ബന്ധപ്പെട്ട tense. എന്നാൽ sentence മുഴുവനും past-ൽ ആണ് (arrived - past), അതിനാൽ ചേരില്ല.\n  • 🪤 PSC Trap: 'for over twelve hours' എന്ന duration കണ്ട് present perfect ആണെന്ന് തെറ്റിദ്ധരിക്കാം.\n• (D) were waiting — ഇത് Past Continuous ആണ്, ഒരു specific past moment-ൽ നടക്കുന്ന പ്രവൃത്തി കാണിക്കും, പക്ഷേ 'for twelve hours' എന്ന completed duration-നെ ശരിയായി ബന്ധിപ്പിക്കില്ല.\n  • 🪤 PSC Trap: 'waiting' എന്ന continuous word കണ്ട് ഇത് ശരിയാണെന്ന് തോന്നാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'By the time X happened, Y had been V-ing for duration' — ഈ pattern ഒരു formula ആയി മനഃപാഠമാക്കുക.\n• Tenses topic-ൽ 'by the time', 'before', 'after' തുടങ്ങിയ time connectors കാണുമ്പോൾ, രണ്ട് past actions തമ്മിലുള്ള sequence ശ്രദ്ധിക്കുക.\n• PSC exam strategy: Duration phrase (for/since) + past reference point ഉണ്ടെങ്കിൽ Past Perfect Continuous ആണ് സാധാരണ ശരിയുത്തരം."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-06-Q2",
+    "paperId": "HC-DAILY-2026-09-06",
+    "questionNumber": 2,
+    "topic": "Prepositions",
+    "difficulty": "medium",
+    "questionText": "Fill in the blank with the correct preposition.\nAll new employees must adhere ______ the company's code of conduct.",
+    "optionA": "to",
+    "optionB": "with",
+    "optionC": "on",
+    "optionD": "for",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) to\n\n• 'Adhere to' എന്നത് ഒരു fixed prepositional phrase ആണ് — 'ഒരു നിയമത്തിലോ തത്വത്തിലോ ഉറച്ചുനിൽക്കുക' എന്നാണ് അർഥം.\n• 'Adhere' എപ്പോഴും 'to' എന്ന preposition-മായി മാത്രമേ ചേരൂ — ഇത് ഒരു fixed collocation ആണ്, മാറ്റാൻ പറ്റില്ല.\n• Real-world connection: 'Follow the rules strictly' എന്ന അർഥത്തിൽ ജോലിസ്ഥലങ്ങളിലും നിയമങ്ങളിലും ഇത് സാധാരണ ഉപയോഗിക്കുന്ന phrase ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: adhere + to (എപ്പോഴും)\n• ചില verbs-ന് ഒരു preposition മാത്രമേ ശരിയായി ചേരൂ — ഇവ fixed collocations ആണ്, മീനിംഗ് വെച്ച് ഊഹിക്കാൻ പറ്റില്ല, മനഃപാഠമാക്കണം.\n• Related word group: conform to, stick to, comply with, abide by — ഇവയെല്ലാം 'നിയമം പാലിക്കുക' എന്ന അർഥമുള്ള സമാന phrases ആണ്, പക്ഷേ ഓരോന്നിനും വ്യത്യസ്ത preposition ആണ്.\n• ⭐ PSC ആവർത്തനം: Prepositions വിഭാഗത്തിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന topic ആണ് — fixed collocations എപ്പോഴും പഠിക്കണം.\n• ഉദാഹരണ sentences:\n1. Drivers must adhere to traffic rules at all times.\n2. The team adhered to the project timeline strictly.\n3. She always adheres to her principles, no matter the pressure.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) with — 'Adhere with' എന്നൊരു phrase ഇംഗ്ലീഷിൽ ഇല്ല. ഇത് grammatically തെറ്റാണ്.\n  • 🪤 PSC Trap: 'agree with', 'comply with' എന്നിവയുമായി confuse ചെയ്ത് ഇത് തിരഞ്ഞെടുക്കാം.\n• (C) on — 'Adhere on' നിലവിലില്ലാത്ത combination ആണ്.\n  • 🪤 PSC Trap: 'insist on', 'depend on' പോലുള്ള മറ്റ് verb+preposition combinations-മായി തെറ്റിദ്ധരിക്കാം.\n• (D) for — 'Adhere for' എന്നതും തെറ്റായ combination ആണ്, ഇംഗ്ലീഷിൽ നിലവിലില്ല.\n  • 🪤 PSC Trap: 'wait for', 'apply for' പോലുള്ള patterns ഓർത്ത് തെറ്റായി തിരഞ്ഞെടുക്കാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Adhere To the rules, like glue Sticks TO a surface' — 'to' എപ്പോഴും adhere-ന്റെ കൂടെ ഒട്ടിനിൽക്കും എന്ന് ഓർക്കുക.\n• Word family: conform to, stick to, adhere to — ഇവ ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Fixed collocations ചോദിക്കുമ്പോൾ verb മാത്രം നോക്കി preposition ഓർത്തെടുക്കുക, sentence-ന്റെ meaning വെച്ച് ഊഹിക്കരുത്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-06-Q3",
+    "paperId": "HC-DAILY-2026-09-06",
+    "questionNumber": 3,
+    "topic": "Active and Passive Voice",
+    "difficulty": "medium",
+    "questionText": "Change the following sentence from Active to Passive voice.\nThe librarian is cataloguing the new arrivals this week.",
+    "optionA": "The new arrivals are cataloguing by the librarian this week.",
+    "optionB": "The new arrivals are being catalogued by the librarian this week.",
+    "optionC": "The new arrivals were catalogued by the librarian this week.",
+    "optionD": "The new arrivals have been catalogued by the librarian this week.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) The new arrivals are being catalogued by the librarian this week.\n\n• Active sentence 'is cataloguing' എന്നത് Present Continuous Tense ആണ്.\n• Present Continuous Active → Present Continuous Passive ആയി മാറ്റുമ്പോൾ formula: is/am/are + being + V3.\n• Active tense-ഉം Passive tense-ഉം എപ്പോഴും ഒരുപോലെ ആയിരിക്കണം — ഇതാണ് Active-Passive conversion-ന്റെ ഏറ്റവും പ്രധാന നിയമം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Active tense = Passive tense എപ്പോഴും (Tense മാറ്റരുത്)\n• Present Continuous: is/am/are + V-ing (active) → is/am/are + being + V3 (passive)\n• Object-ഉം Subject-ഉം സ്ഥാനം മാറും, 'by' ചേർക്കും.\n• ⭐ PSC ആവർത്തനം: Active-Passive conversion tense-matching തെറ്റുകൾ ആണ് PSC ഏറ്റവും കൂടുതൽ test ചെയ്യുന്നത്.\n• ഉദാഹരണ sentences:\n1. Active: The chef is preparing the dish. → Passive: The dish is being prepared by the chef.\n2. Active: They are building a new bridge. → Passive: A new bridge is being built by them.\n3. Active: The teacher is explaining the lesson. → Passive: The lesson is being explained by the teacher.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) are cataloguing — ഇത് ഗ്രാമർപരമായി തെറ്റാണ്; passive voice-ൽ verb V3 (catalogued) ആയിരിക്കണം, 'being' കൂടി വേണം.\n  • 🪤 PSC Trap: 'are' കണ്ട് ശരിയാണെന്ന് തോന്നാം, പക്ഷേ 'being + V3' missing ആണ്.\n• (C) were catalogued — ഇത് Past Simple Passive ആണ്, tense തെറ്റാണ് (active sentence Present Continuous ആയിരുന്നു).\n  • 🪤 PSC Trap: simple passive structure കണ്ട് correct ആണെന്ന് കരുതാം.\n• (D) have been catalogued — ഇത് Present Perfect Passive ആണ്, ഇതും tense mismatch ആണ്.\n  • 🪤 PSC Trap: 'have been' എന്ന structure കണ്ട് confuse ആകാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Continuous ➜ being + V3' — 'being' ഉണ്ടെങ്കിൽ മാത്രമേ continuous passive ശരിയാകൂ.\n• Rule family: Active-Passive tense table മുഴുവനും ഒരുമിച്ച് പഠിക്കുക (simple, continuous, perfect - present/past/future).\n• PSC exam strategy: ആദ്യം active sentence-ന്റെ tense identify ചെയ്യുക, എന്നിട്ട് ആ tense-ന്റെ passive formula മാത്രം apply ചെയ്യുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-06-Q4",
+    "paperId": "HC-DAILY-2026-09-06",
+    "questionNumber": 4,
+    "topic": "Question Tags",
+    "difficulty": "medium",
+    "questionText": "Choose the correct question tag to complete the sentence.\nNobody in the office remembered to lock the storeroom, ______?",
+    "optionA": "did they",
+    "optionB": "didn't they",
+    "optionC": "did he",
+    "optionD": "didn't he",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) did they\n\n• 'Nobody' എന്നത് ഒരു negative indefinite pronoun ആണ് — ഇത് ഇതിനകം negative meaning ഉള്ളതിനാൽ, question tag positive ആയിരിക്കണം.\n• Indefinite pronouns (nobody, no one, none, everybody, somebody) tag ചെയ്യുമ്പോൾ 'they' എന്ന pronoun ആണ് ഉപയോഗിക്കുന്നത്, gender സൂചിപ്പിക്കാത്തതിനാൽ.\n• 'Remembered' എന്ന past simple verb-നാൽ auxiliary 'did' ആണ് tag-ൽ വരേണ്ടത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Negative meaning subject (nobody/no one/none) → Positive tag + they\n• Positive statement → Negative tag; Negative statement/negative-meaning subject → Positive tag.\n• Indefinite pronouns-ന് tag-ൽ 'they' ഉപയോഗിക്കുക, 'he/she/it' അല്ല.\n• ⭐ PSC ആവർത്തനം: Question Tags PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന topic ആണ്, പ്രത്യേകിച്ച് indefinite pronoun-കൾ ഉള്ള sentences.\n• ഉദാഹരണ sentences:\n1. Nobody called you, did they?\n2. No one wants to fail, do they?\n3. Everybody enjoyed the party, didn't they?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) didn't they — Tag negative ആണ്, പക്ഷേ 'nobody' ഇതിനകം negative ആയതിനാൽ tag positive ആയിരിക്കണം. Double negative തെറ്റാണ്.\n  • 🪤 PSC Trap: sentence-ൽ 'not' കാണാത്തതിനാൽ ഇത് positive statement ആണെന്ന് തെറ്റിദ്ധരിക്കാം.\n• (C) did he — Pronoun തെറ്റാണ്; 'nobody' gender-neutral ആയതിനാൽ 'they' വേണം, 'he' അല്ല.\n  • 🪤 PSC Trap: 'nobody' singular ആണെന്ന് കരുതി 'he/she' തിരഞ്ഞെടുക്കാം.\n• (D) didn't he — രണ്ട് തെറ്റുകളും ഒരുമിച്ച് ഉണ്ട് — negative tag ഉം തെറ്റായ pronoun ഉം.\n  • 🪤 PSC Trap: രണ്ട് സാധാരണ തെറ്റുകളും ഒരുമിച്ച് ഉള്ള trap option ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NOBODY is already Negative, so the Tag must be Positive' — 'N' രണ്ടിടത്തും വരില്ല എന്ന് ഓർക്കുക.\n• Word family: nobody, no one, none, neither — ഇവയെല്ലാം positive tag + they എടുക്കുന്ന group.\n• PSC exam strategy: Question tag ചോദ്യങ്ങളിൽ ആദ്യം subject-ന്റെ meaning (positive/negative) നോക്കുക, sentence-ൽ 'not' ഉണ്ടോ എന്ന് മാത്രമല്ല."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-06-Q5",
+    "paperId": "HC-DAILY-2026-09-06",
+    "questionNumber": 5,
+    "topic": "Articles",
+    "difficulty": "medium",
+    "questionText": "Choose the correct article to complete the sentence.\nShe wanted to become ______ MBA graduate before joining her family's business.",
+    "optionA": "a",
+    "optionB": "an",
+    "optionC": "the",
+    "optionD": "no article",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) an\n\n• Article തിരഞ്ഞെടുക്കുന്നത് വാക്കിന്റെ ആദ്യ അക്ഷരം (spelling) വെച്ചല്ല, ആദ്യ ശബ്ദം (sound) വെച്ചാണ്.\n• 'MBA' എന്ന് ഉച്ചരിക്കുമ്പോൾ 'em-bee-ay' എന്നാണ് — ഇത് ഒരു vowel sound ('e') ആയി തുടങ്ങുന്നു, അതിനാൽ 'an' വേണം.\n• ഇത് PSC-യിൽ സ്ഥിരമായി test ചെയ്യുന്ന rule ആണ് — 'an hour', 'an MBA', 'a European' പോലുള്ള examples.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Sound decides the article, not the spelling!\n• Vowel sound (a, e, i, o, u sound) → 'an'; Consonant sound → 'a'.\n• Related word group: an hour, an heir, an MBA, an SMS (vowel sound though consonant letter); a university, a European, a one-way (consonant sound though vowel letter).\n• ⭐ PSC ആവർത്തനം: Articles topic-ൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന trap ആണിത്.\n• ഉദാഹരണ sentences:\n1. He completed an MBA in Finance last year.\n2. It took her an hour to reach the venue.\n3. She is a European citizen living in India.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) a — Letter 'M' consonant ആണെങ്കിലും, ഉച്ചാരണം vowel sound ('em') ആയതിനാൽ 'a' തെറ്റാണ്.\n  • 🪤 PSC Trap: 'M' എന്ന letter കണ്ട് consonant rule apply ചെയ്യാൻ ശ്രമിക്കാം.\n• (C) the — 'The' specific/particular reference കാണിക്കാൻ ഉപയോഗിക്കുന്നു, ഇവിടെ ഏതെങ്കിലും ഒരു MBA graduate എന്ന generic അർഥമേ വേണ്ടതുള്ളൂ.\n  • 🪤 PSC Trap: 'graduate' എന്ന specific role കണ്ട് 'the' ശരിയാണെന്ന് തോന്നാം.\n• (D) no article — Singular countable noun ('MBA graduate') ഉള്ളപ്പോൾ article ഒഴിവാക്കാൻ പറ്റില്ല.\n  • 🪤 PSC Trap: article വേണ്ടെന്ന് കരുതി ഒഴിവാക്കാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'MBA sounds like Em-bee-ay — Em begins like Elephant' — vowel sound ഓർക്കാൻ.\n• Rule family: an hour, an honest man, an MBA, an SOS — sound-based article exceptions ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Abbreviations/acronyms കാണുമ്പോൾ അത് ഉച്ചരിച്ചു നോക്കുക, spelling നോക്കരുത്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-06-Q6",
+    "paperId": "HC-DAILY-2026-09-06",
+    "questionNumber": 6,
+    "topic": "Spelling",
+    "difficulty": "medium",
+    "questionText": "Choose the correctly spelled word.",
+    "optionA": "Greivance",
+    "optionB": "Grievance",
+    "optionC": "Grievence",
+    "optionD": "Greivence",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Grievance\n\n• 'Grievance' എന്നാൽ ഒരു പരാതി അല്ലെങ്കിൽ അനീതിക്കെതിരായ complaint എന്നാണ് അർഥം.\n• Spelling order: G-R-I-E-V-A-N-C-E — 'ie' ആണ് ശരി ('ei' അല്ല), അവസാനം '-ance' ആണ് ('-ence' അല്ല).\n• 'Grieve' (to feel sorrow/complain) എന്ന root word-ൽ നിന്നാണ് 'Grievance' ഉണ്ടാകുന്നത് — 'grieve' + 'ance'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: GRIEVE + ANCE = GRIEVANCE ('ie' before 'v', '-ance' at the end)\n• 'i before e except after c' എന്ന classic rule ഇവിടെ ബാധകമാണ് — 'v' ന് മുൻപ് അതിനാൽ 'ie' ആണ്.\n• Related word group: relieve, believe, achieve — ഇവയെല്ലാം 'ie' pattern പിന്തുടരുന്നു.\n• ⭐ PSC ആവർത്തനം: Spelling topic PSC-യിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന വിഭാഗങ്ങളിൽ ഒന്നാണ്.\n• Etymology hint: Old French 'grever' (to burden) → 'grieve' → 'grievance'.\n• ഉദാഹരണ sentences:\n1. The workers filed a formal grievance against the management.\n2. She addressed every grievance raised by the staff.\n3. The union presented a list of grievances to the employer.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Greivance — 'ei' എന്ന തെറ്റായ order ആണ്; ശരി 'ie' ആണ്.\n  • 🪤 PSC Trap: വേഗത്തിൽ ടൈപ്പ് ചെയ്യുമ്പോൾ/വായിക്കുമ്പോൾ 'ei' ഉം 'ie' ഉം confuse ആകാൻ സാധ്യതയുണ്ട്.\n• (C) Grievence — അവസാനം '-ence' ആണ് ഉപയോഗിച്ചിരിക്കുന്നത്, ശരി '-ance' ആണ്.\n  • 🪤 PSC Trap: 'occurrence', 'reference' പോലുള്ള '-ence' വാക്കുകളുമായി confuse ചെയ്യാം.\n• (D) Greivence — രണ്ട് തെറ്റുകളും ഒരുമിച്ച് — 'ei' ഉം '-ence' ഉം.\n  • 🪤 PSC Trap: രണ്ട് സാധാരണ spelling തെറ്റുകളും combine ചെയ്ത trap option.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'GRIEVE-ANCE' — ആദ്യം 'grieve' എഴുതുക, പിന്നെ 'ance' ചേർക്കുക, spelling ഒരിക്കലും miss ആകില്ല!\n• Word family: relieve, believe, achieve, grieve — 'ie' pattern words ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Spelling ചോദ്യങ്ങളിൽ word-നെ ചെറിയ ഭാഗങ്ങളായി (root + suffix) split ചെയ്ത് പരിശോധിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-06-Q7",
+    "paperId": "HC-DAILY-2026-09-06",
+    "questionNumber": 7,
+    "topic": "One Word Substitutes",
+    "difficulty": "medium",
+    "questionText": "Choose the one word for the given phrase.\nA person who collects and studies postage stamps",
+    "optionA": "Philatelist",
+    "optionB": "Numismatist",
+    "optionC": "Archivist",
+    "optionD": "Antiquarian",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Philatelist\n\n• 'Philatelist' എന്നാൽ postage stamps ശേഖരിക്കുകയും പഠിക്കുകയും ചെയ്യുന്ന ആൾ എന്നാണ് അർഥം.\n• Greek 'philos' (loving) + 'ateleia' (freedom from tax/exempt — stamps മുൻപ് postage exempt ആയിരുന്നു) എന്നിവയിൽ നിന്നാണ് ഈ word ഉണ്ടായത്.\n• PSC-യിൽ hobby/collector related one-word substitutes സ്ഥിരമായി ചോദിക്കാറുണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Stamps → Philatelist; Coins → Numismatist; Books/Records → Archivist\n• ഓരോ 'collector' word-ഉം എന്താണ് ശേഖരിക്കുന്നത് എന്നതിനെ അടിസ്ഥാനമാക്കി വ്യത്യസ്തമാണ് — confuse ചെയ്യരുത്.\n• ⭐ PSC ആവർത്തനം: One Word Substitutes-ൽ 'collector/enthusiast' category പതിവായി വരുന്നു.\n• Etymology hint: 'Phil-' (Greek: loving) എന്ന prefix ഉള്ള മറ്റ് words — philanthropist (loving mankind), bibliophile (loving books).\n• ഉദാഹരണ sentences:\n1. As a philatelist, he owns rare stamps from over 50 countries.\n2. The philatelist society organizes an annual stamp exhibition.\n3. Her grandfather was a passionate philatelist all his life.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) Numismatist — ഇത് coins/currency ശേഖരിക്കുന്ന ആളാണ്, stamps അല്ല.\n  • 🪤 PSC Trap: രണ്ടും 'collector' words ആയതിനാൽ confuse ചെയ്യാം.\n• (C) Archivist — ഇത് records/documents സൂക്ഷിക്കുകയും manage ചെയ്യുകയും ചെയ്യുന്ന professional ആണ്, hobby collector അല്ല.\n  • 🪤 PSC Trap: 'collecting and studying' എന്ന phrase കണ്ട് archivist ശരിയാണെന്ന് തോന്നാം.\n• (D) Antiquarian — ഇത് പഴയ വസ്തുക്കൾ/antiques ശേഖരിക്കുന്ന ആളാണ്, specifically stamps അല്ല.\n  • 🪤 PSC Trap: 'collector of old things' എന്ന broad meaning stamps-നെയും ഉൾപ്പെടുത്തും എന്ന് തെറ്റിദ്ധരിക്കാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'PHILA-telist loves stamps, like PHILA-nthropist loves people' — 'Phil' = love എന്ന് ഓർക്കുക.\n• Word family: philatelist (stamps), numismatist (coins), bibliophile (books) — collector words ഒരുമിച്ച് പട്ടികയാക്കി പഠിക്കുക.\n• PSC exam strategy: One Word Substitute ചോദ്യങ്ങളിൽ 'what exactly is being collected/done' എന്ന് കൃത്യമായി ശ്രദ്ധിക്കുക — similar meaning ഉള്ള options-ൽ confuse ആകരുത്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-06-Q8",
+    "paperId": "HC-DAILY-2026-09-06",
+    "questionNumber": 8,
+    "topic": "Phrasal Verbs",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the phrasal verb in italics.\nThe new irrigation project is expected to __bring about__ a significant improvement in crop yield.",
+    "optionA": "delay",
+    "optionB": "produce",
+    "optionC": "prevent",
+    "optionD": "reduce",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) produce\n\n• 'Bring about' എന്ന phrasal verb-ന്റെ അർഥം 'ഒരു കാര്യം സംഭവിക്കാൻ കാരണമാവുക/ഉണ്ടാക്കുക' എന്നാണ്.\n• Sentence-ന്റെ അർഥം: irrigation project മെച്ചപ്പെട്ട വിളവ് 'ഉണ്ടാക്കും/produce ചെയ്യും' എന്നാണ്.\n• PSC-യിൽ 'cause/result-related' phrasal verbs സ്ഥിരമായി ചോദിക്കാറുണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Bring about = Cause/Produce (a result or change)\n• ഈ phrasal verb പലപ്പോഴും positive അല്ലെങ്കിൽ significant changes/results-നെ സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു.\n• Related word group: bring about, result in, lead to, give rise to — എല്ലാം 'കാരണമാവുക' എന്ന അർഥമുള്ള phrases.\n• ⭐ PSC ആവർത്തനം: Phrasal Verbs PSC-യിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന വിഭാഗങ്ങളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. The new policy brought about major changes in the education system.\n2. Her hard work brought about a remarkable improvement in her grades.\n3. The treaty brought about lasting peace between the two nations.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) delay — 'Bring about' postpone ചെയ്യുക എന്നല്ല അർഥം, ഇത് വിപരീത ദിശയിലുള്ള അർഥമാണ്.\n  • 🪤 PSC Trap: 'about' എന്ന word കണ്ട് 'around/postpone' എന്ന് തെറ്റിദ്ധരിക്കാം.\n• (C) prevent — ഇത് പൂർണമായും വിപരീത അർഥമാണ് — 'bring about' എന്തെങ്കിലും സംഭവിപ്പിക്കുകയാണ്, തടയുകയല്ല.\n  • 🪤 PSC Trap: negative context ഇല്ലാത്തതിനാൽ ഇത് ശരിയല്ലെന്ന് വേഗം identify ചെയ്യാം, പക്ഷേ ചിലർ confuse ആകാം.\n• (D) reduce — 'Bring about' ഒരു കാര്യം കുറയ്ക്കുക എന്നല്ല, ഉണ്ടാക്കുക/സംഭവിപ്പിക്കുക എന്നാണ്.\n  • 🪤 PSC Trap: 'improvement' കുറയുന്നതായി തെറ്റായി വായിച്ചാൽ ഈ option ശരിയാണെന്ന് തോന്നാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BRING ABOUT a Baby' — ഒരു പുതിയ കാര്യം 'ഉണ്ടാക്കുന്നത്' പോലെ ഓർക്കുക (produce/cause).\n• Word family: bring about, result in, give rise to, lead to — 'cause' meaning ഉള്ള phrasal verbs/phrases ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Phrasal verb meaning ചോദ്യങ്ങളിൽ ആദ്യം sentence-ന്റെ overall context (positive/negative result) മനസ്സിലാക്കുക, എന്നിട്ട് ആ ദിശയിലുള്ള option തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-06-Q9",
+    "paperId": "HC-DAILY-2026-09-06",
+    "questionNumber": 9,
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "questionText": "Choose the word that is the closest synonym of the word in italics.\nThe auditor's __assiduous__ attention to detail uncovered several errors in the report.",
+    "optionA": "diligent",
+    "optionB": "careless",
+    "optionC": "hasty",
+    "optionD": "indifferent",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) diligent\n\n• 'Assiduous' എന്നാൽ 'സൂക്ഷ്മതയോടെയും കഠിനാധ്വാനത്തോടെയും ചെയ്യുന്ന' എന്നാണ് അർഥം — 'diligent' (ജാഗ്രതയുള്ള, ശ്രദ്ധയോടെയുള്ള) എന്നതാണ് ഏറ്റവും അടുത്ത synonym.\n• Sentence-ൽ auditor-ന്റെ 'attention to detail' errors കണ്ടെത്തി എന്ന് പറയുന്നതിനാൽ, 'careful/hardworking' എന്ന positive അർഥമാണ് ഉദ്ദേശിക്കുന്നത്.\n• Etymology hint: Latin 'assiduus' (sitting close to, persistent) എന്നതിൽ നിന്നാണ് ഈ word ഉണ്ടായത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Assiduous = Diligent + Persistent + Careful (positive meaning)\n• Context clue: 'uncovered several errors' എന്നത് positive/careful action-നെ സൂചിപ്പിക്കുന്നു, അതിനാൽ negative meaning ഉള്ള options ഒഴിവാക്കാം.\n• Related word group: diligent, industrious, painstaking, meticulous — എല്ലാം 'careful hard work' എന്ന അർഥമുള്ള synonyms.\n• ⭐ PSC ആവർത്തനം: Synonyms topic PSC-യിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന വിഭാഗങ്ങളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. She is an assiduous student who never misses her studies.\n2. His assiduous efforts finally paid off with a promotion.\n3. The assiduous researcher spent years collecting data.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) careless — ഇത് 'assiduous'-ന്റെ നേരെ വിപരീത അർഥമാണ് (antonym), synonym അല്ല.\n  • 🪤 PSC Trap: hasty reading-ൽ word-ന്റെ അർഥം അറിയാതെ ഇത് തിരഞ്ഞെടുക്കാം.\n• (C) hasty — 'തിടുക്കത്തിലുള്ള' എന്നാണ് അർഥം, ഇത് 'assiduous' (careful, thorough) ന്റെ വിപരീത സ്വഭാവമാണ്.\n  • 🪤 PSC Trap: 'attention to detail' എന്നത് വേഗതയുമായി ബന്ധപ്പെടുത്തി confuse ചെയ്യാം.\n• (D) indifferent — 'താൽപര്യമില്ലാത്ത' എന്നാണ് അർഥം, ഇതും 'assiduous'-ന്റെ (dedicated) വിപരീത അർഥമാണ്.\n  • 🪤 PSC Trap: unfamiliar word ആണെങ്കിൽ ക്രമരഹിതമായി negative option തിരഞ്ഞെടുക്കാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ASSIDUOUS student SITS and studies' (Latin assiduus = sitting close/persistent) — ഇരുന്ന് കഠിനാധ്വാനം ചെയ്യുന്നത് ഓർക്കുക.\n• Word family: diligent, industrious, painstaking, meticulous, assiduous — 'hardworking' group ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Synonym ചോദ്യങ്ങളിൽ sentence-ന്റെ overall tone (positive/negative) ആദ്യം identify ചെയ്യുക, unfamiliar word-ന്റെ അർഥം അറിയില്ലെങ്കിലും context clue സഹായിക്കും."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-06-Q10",
+    "paperId": "HC-DAILY-2026-09-06",
+    "questionNumber": 10,
+    "topic": "Word Formation",
+    "difficulty": "medium",
+    "questionText": "Choose the correct adjective form of the noun 'sympathy'.",
+    "optionA": "Sympathic",
+    "optionB": "Sympathetic",
+    "optionC": "Sympathish",
+    "optionD": "Sympathous",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Sympathetic\n\n• 'Sympathy' (noun) → 'Sympathetic' (adjective) ആണ് ശരിയായ word formation.\n• 'Sympathetic' എന്നാൽ 'മറ്റുള്ളവരുടെ ദുഃഖത്തിൽ പങ്കുചേരുന്ന/കരുണയുള്ള' എന്നാണ് അർഥം.\n• '-y' അവസാനിക്കുന്ന ചില Greek-origin nouns-ന് adjective ഉണ്ടാക്കുമ്പോൾ '-etic' suffix ചേർക്കും (sympathy → sympathetic, energy → energetic).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Sympathy (noun) + '-etic' pattern = Sympathetic (adjective)\n• Greek-origin '-y' nouns പലതും adjective ആക്കുമ്പോൾ '-etic' suffix എടുക്കും — ഇത് ഒരു fixed pattern ആണ്, സാധാരണ '-ic' ചേർക്കൽ അല്ല.\n• Related word group: energy → energetic, sympathy → sympathetic, pathos → pathetic — ഇവയെല്ലാം സമാന suffix pattern പിന്തുടരുന്നു.\n• ⭐ PSC ആവർത്തനം: Word Formation topic-ൽ noun-to-adjective conversions സ്ഥിരമായി ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. She gave a sympathetic response to his problem.\n2. The doctor was very sympathetic towards the patient's fears.\n3. His sympathetic nature makes him popular among colleagues.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Sympathic — ഇംഗ്ലീഷിൽ നിലവിലില്ലാത്ത word ആണ്, ശരിയായ suffix ഇല്ല.\n  • 🪤 PSC Trap: simple '-ic' ചേർത്താൽ മതി എന്ന് കരുതി തെറ്റായി ഉണ്ടാക്കുന്ന word.\n• (C) Sympathish — ഇതും ഇംഗ്ലീഷിൽ നിലവിലില്ലാത്ത, തെറ്റായി ഉണ്ടാക്കിയ word ആണ്.\n  • 🪤 PSC Trap: '-ish' suffix മറ്റ് words-ൽ (childish, foolish) കണ്ട് confuse ചെയ്യാം.\n• (D) Sympathous — ഇതും നിലവിലില്ലാത്ത word ആണ്, തെറ്റായ suffix combination.\n  • 🪤 PSC Trap: '-ous' suffix (famous, generous) മറ്റ് words-ൽ കണ്ട് ഇവിടെയും ശരിയാകും എന്ന് തെറ്റിദ്ധരിക്കാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'sympatheTIC — Energetic and Sympathetic go together (both -etic)' — ഈ suffix family ഓർക്കുക.\n• Word family: sympathy-sympathetic, energy-energetic, pathos-pathetic — '-etic' suffix group ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Word Formation ചോദ്യങ്ങളിൽ, തെറ്റായ options പലപ്പോഴും 'ഇംഗ്ലീഷിൽ ഇല്ലാത്ത' fake words ആയിരിക്കും — ശരിക്കും നിലവിലുള്ള word ഏതെന്ന് ഓർത്തെടുക്കുക."
+    }
   }
 ]
