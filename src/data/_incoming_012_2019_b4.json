@@ -1,0 +1,95 @@
+{
+  "paper": null,
+  "questions": [
+    {
+      "id": "12-2019-M-Q86",
+      "paperId": "12-2019-M",
+      "questionNumber": 86,
+      "topic": "Active and Passive Voice",
+      "questionText": "Peter posted the letter.\n(Change the voice of the verb)",
+      "optionA": "The letter is posted by Peter.",
+      "optionB": "The letter was posted by Peter.",
+      "optionC": "The letter were posted by Peter.",
+      "optionD": "The letters are posted by Peter.",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) The letter was posted by Peter.\n• Original sentence 'Peter posted the letter' Simple Past Tense-ൽ ആണ് — Active-ൽ നിന്ന് Passive ആക്കുമ്പോൾ tense മാറ്റാൻ പാടില്ല, Simple Past Passive ('was/were + V3') ഉപയോഗിക്കണം.\n• Object 'the letter' (singular) ആയതിനാൽ 'was' ('is/are' അല്ല) ഉപയോഗിക്കണം — Passive-ൽ object ആണ് പുതിയ subject ആകുന്നത്.\n• അർത്ഥം: 'കത്ത് പീറ്റർ പോസ്റ്റ് ചെയ്തു' എന്നതിന്റെ Passive രൂപം 'കത്ത് പീറ്ററാൽ പോസ്റ്റ് ചെയ്യപ്പെട്ടു' എന്നാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Active tense = Passive tense എപ്പോഴും! Simple Past Active (V2) → Simple Past Passive (was/were + V3) ആയി മാറും, tense മാറ്റാൻ പാടില്ല.\n• Structure ഓർക്കുക: Object (ഇത് പുതിയ subject ആകും) + was/were + Past Participle (V3) + by + original subject.\n• ഒരേ കുടുംബത്തിലെ tenses: Simple Present (writes → is/are written), Simple Past (wrote → was/were written), Simple Future (will write → will be written) — ഓരോ tense-ലും auxiliary മാത്രം മാറും, structure-ന്റെ അടിസ്ഥാന രീതി ഒന്നുതന്നെ.\n• ⭐ PSC ആവർത്തനം: Active-Passive voice conversion PSC-യിൽ വളരെ പതിവായി ചോദിക്കുന്ന ഒരു topic ആണ് — tense-ഉം object-ന്റെ എണ്ണവും (number) ശരിയായി പൊരുത്തപ്പെടണം എന്നത് വളരെ പ്രധാനമാണ്, ഇത് മറക്കാതിരിക്കുക.\n• ഉദാഹരണ sentences (ഓരോന്നും ശ്രദ്ധിക്കുക):\n1. She wrote a letter. (അവൾ ഒരു കത്ത് എഴുതി) → A letter was written by her. (ഒരു കത്ത് അവളാൽ എഴുതപ്പെട്ടു)\n2. They built the bridge. (അവർ പാലം നിർമ്മിച്ചു) → The bridge was built by them. (singular object ആയതിനാൽ 'was')\n3. The teachers checked the papers. (അധ്യാപകർ പേപ്പറുകൾ പരിശോധിച്ചു) → The papers were checked by the teachers. (plural object ആയതിനാൽ 'were')",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) The letter is posted by Peter — ഇത് Simple Present Passive ആണ് ('is + V3'); original sentence Simple Past ('posted') ആയതിനാൽ tense തെറ്റാണ്.\n• 🪤 PSC Trap: Passive voice-ന്റെ ഏറ്റവും സാധാരണ 'default' രൂപം 'is/are + V3' ആണെന്ന് ധരിച്ച് tense ശ്രദ്ധിക്കാതെ ഈ option തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.\n• (C) The letter were posted by Peter — object 'the letter' singular ആണ്, പക്ഷേ 'were' (plural auxiliary) ഉപയോഗിച്ചിരിക്കുന്നു; ഇത് number agreement തെറ്റാണ്.\n• (D) The letters are posted by Peter — object 'letters' plural ആക്കി മാറ്റിയിരിക്കുന്നു (original-ൽ 'the letter' singular ആണ്), കൂടാതെ tense-ഉം Present ആയി തെറ്റായി മാറ്റിയിരിക്കുന്നു.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'TENSE ടെൻഷൻ എടുക്കാതെ, ACTIVE-ലെ TENSE അതേപടി PASSIVE-ലേക്ക് കൊണ്ടുപോകുക!' — tense മാറ്റേണ്ട ആവശ്യമില്ല എന്ന് എപ്പോഴും ഓർക്കുക.\n• Word family ഒരുമിച്ചു പഠിക്കുക: Simple Present (is/am/are), Simple Past (was/were), Simple Future (will be) + Past Participle (V3) — ഇവ tense അനുസരിച്ച് മാറും.\n• PSC strategy: Voice ചോദ്യങ്ങളിൽ ആദ്യം original sentence-ന്റെ tense എന്താണെന്ന് കണ്ടെത്തുക, എന്നിട്ട് object-ന്റെ number (singular/plural) നോക്കി ശരിയായ auxiliary ('was' സിംഗുലാർ, 'were' പ്ലൂറൽ) തിരഞ്ഞെടുക്കുക."
+      }
+    },
+    {
+      "id": "12-2019-M-Q87",
+      "paperId": "12-2019-M",
+      "questionNumber": 87,
+      "topic": "Subject-Verb Agreement",
+      "questionText": "Neither Susan nor Tom _________ available.",
+      "optionA": "are",
+      "optionB": "were",
+      "optionC": "is",
+      "optionD": "have",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) is\n• 'Neither...nor' എന്ന correlative conjunction രണ്ട് singular subjects-നെ (Susan, Tom) ബന്ധിപ്പിക്കുമ്പോൾ, verb-ഉം SINGULAR ('is') ആയിരിക്കണം.\n• 'Neither...nor'-ന്റെ ശരിയായ നിയമം: verb-ന്റെ number തീരുമാനിക്കുന്നത് 'nor'-ന് ഏറ്റവും അടുത്തുള്ള subject ആണ് — ഇവിടെ 'Tom' (singular) ആണ് അടുത്തുള്ളത്, അതിനാൽ singular verb 'is' വേണം.\n• അർത്ഥം: 'സൂസനോ ടോമോ ആരും ലഭ്യമല്ല' എന്നാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Neither...nor ഉപയോഗിക്കുമ്പോൾ verb-ന്റെ number തീരുമാനിക്കുന്നത് 'nor'-ന് ഏറ്റവും അടുത്തുള്ള subject ആണ് (ഇതിനെ Proximity Rule എന്ന് പറയുന്നു).\n• രണ്ട് subjects-ഉം singular ആണെങ്കിൽ verb-ഉം singular ('is/was/has') ആയിരിക്കും; രണ്ടും plural ആണെങ്കിൽ verb-ഉം plural ('are/were/have') ആയിരിക്കും — ഇടകലർന്നാൽ അടുത്തുള്ള subject മാത്രം നോക്കുക.\n• ഒരേ നിയമം പിന്തുടരുന്ന മറ്റൊരു correlative: Either...or — ഇതിനും ഇതേ Proximity Rule ബാധകമാണ്, 'Either the boys or the girl is responsible' എന്ന ഉദാഹരണം പോലെ.\n• ⭐ PSC ആവർത്തനം: Neither...nor, Either...or correlatives-ന്റെ subject-verb agreement PSC-യിൽ വളരെ പതിവായി ചോദിക്കുന്ന ഒരു trap topic ആണ് — ഇത് നന്നായി ഓർത്തുവയ്ക്കുക.\n• ഉദാഹരണ sentences (ഓരോന്നും ശ്രദ്ധിക്കുക):\n1. Neither the manager nor the employees were present. (plural 'employees' അടുത്തുള്ളതിനാൽ → were)\n2. Neither the students nor the teacher was late. (singular 'teacher' അടുത്തുള്ളതിനാൽ → was)\n3. Either you or I am wrong. (singular 'I' അടുത്തുള്ളതിനാൽ → am)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) are — plural verb ആണ്; രണ്ട് subjects-ഉം (Susan, Tom) singular ആയതിനാൽ ഇത് ചേരില്ല.\n• 🪤 PSC Trap: 'Neither Susan nor Tom' എന്നത് രണ്ട് പേരെ ചേർത്ത് പറയുന്നതിനാൽ plural verb വേണം എന്ന് വിദ്യാർത്ഥികൾ തെറ്റിദ്ധരിക്കും, പക്ഷേ 'neither...nor' ഒരിക്കലും 'and' പോലെ subjects-നെ കൂട്ടിച്ചേർക്കുന്നില്ല.\n• (B) were — plural past tense verb ആണ്; ഇത് number-ഉം tense-ഉം രണ്ടും ഈ context-ന് ചേരില്ല.\n• (D) have — 'have' auxiliary verb ആണ്, ഇവിടെ 'available' എന്ന adjective-ന് മുന്നിൽ 'be' verb ('is/are/was/were') ആണ് വേണ്ടത്, 'have' അല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'NEITHER...NOR-ൽ, NOR-ന് അടുത്തുള്ള ആളെ മാത്രം നോക്കി verb തീരുമാനിക്കുക — അകലെയുള്ള ആളെ മറന്നേക്കൂ!'\n• Word family ഒരുമിച്ചു പഠിക്കുക: neither...nor, either...or — രണ്ടിനും Proximity Rule ബാധകം; 'both...and' മാത്രം എപ്പോഴും plural verb എടുക്കും.\n• PSC strategy: 'neither...nor'/'either...or' ചോദ്യങ്ങളിൽ 'nor'/'or'-ന് തൊട്ടുപിന്നാലെയുള്ള subject മാത്രം നോക്കി, അതിന്റെ number അനുസരിച്ച് verb തിരഞ്ഞെടുക്കുക."
+      }
+    },
+    {
+      "id": "12-2019-M-Q88",
+      "paperId": "12-2019-M",
+      "questionNumber": 88,
+      "topic": "Subject-Verb Agreement",
+      "questionText": "Which of the following sentence is wrong ?",
+      "optionA": "One of the students write the examination.",
+      "optionB": "Bread and butter is good for health.",
+      "optionC": "The accident took place two days ago.",
+      "optionD": "My room is upstairs.",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) One of the students write the examination.\n• 'One of the students' എന്ന phrase-ൽ യഥാർത്ഥ subject 'One' (ഏകവചനം) ആണ് — 'of the students' എന്നത് ഒരു prepositional phrase മാത്രമാണ്, ഇത് verb-ന്റെ എണ്ണത്തെ (number) ബാധിക്കില്ല.\n• അതിനാൽ verb 'writes' (singular) ആയിരിക്കണം, 'write' (plural) ഇവിടെ തെറ്റാണ് — ഈ sentence grammatically തെറ്റാണ്, ബാക്കി മൂന്ന് sentences ശരിയാണ്.\n• ശരിയായ sentence: 'One of the students writes the examination.' — 'ഒരു വിദ്യാർത്ഥി പരീക്ഷ എഴുതുന്നു' എന്ന അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: 'One of the + plural noun' → verb എപ്പോഴും SINGULAR ('writes', 'is', 'has') ആയിരിക്കും, കാരണം യഥാർത്ഥ subject 'One' ആണ്.\n• 'One of the students', 'one of the books', 'one of my friends' എന്നിങ്ങനെയുള്ള phrases-ൽ 'of' എന്ന preposition-ന് ശേഷമുള്ള noun plural ആയാലും, verb 'One'-നെ അനുസരിച്ച് singular ആയിരിക്കണം.\n• ⭐ PSC ആവർത്തനം: 'One of the...' എന്ന structure-ന്റെ subject-verb agreement PSC-യിൽ ആവർത്തിച്ചു ചോദിക്കുന്ന ഒരു ക്ലാസിക് trap ആണ്.\n• മറ്റ് options ശരിയാണ് എന്നത് ശ്രദ്ധിക്കുക: (B) 'Bread and butter' ഒരു single dish ആയി കണക്കാക്കുന്നതിനാൽ singular verb 'is' ശരിയാണ്; (C) Simple Past Tense ശരിയായി ഉപയോഗിച്ചിരിക്കുന്നു; (D) singular subject 'room'-ന് 'is' ശരിയായി ചേരുന്നു.\n• ഉദാഹരണ sentences:\n1. One of the boys is missing. (ശരി — 'One' singular → is)\n2. One of my books was stolen. (ശരി — 'One' singular → was)\n3. Each of the players has a jersey. (similar rule — 'Each' singular → has)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ (ബാക്കി മൂന്ന് sentences ശരിയാണ്)\n• (B) Bread and butter is good for health — ഇത് ശരിയായ sentence ആണ്; 'Bread and butter' ഒരു single item/dish ആയി കണക്കാക്കുന്നതിനാൽ (compound subject ഒരൊറ്റ ആശയമായി പ്രവർത്തിക്കുമ്പോൾ) singular verb 'is' ശരിയാണ്.\n• 🪤 PSC Trap: 'Bread and butter' രണ്ട് വസ്തുക്കൾ ('and' കൊണ്ട് ചേർത്തത്) ആയതിനാൽ plural verb വേണം എന്ന് തെറ്റിദ്ധരിക്കാൻ സാധ്യതയുണ്ട്, പക്ഷേ ഇത് ഒരു fixed idiomatic phrase ആയതിനാൽ singular ആയി പെരുമാറും.\n• (C) The accident took place two days ago — ഇത് ശരിയായ sentence ആണ്; Simple Past Tense ('took place') ശരിയായി ഉപയോഗിച്ചിരിക്കുന്നു, 'two days ago' എന്ന time marker-നോട് ചേരും.\n• (D) My room is upstairs — ഇത് ശരിയായ sentence ആണ്; singular subject 'room'-ന് singular verb 'is' കൃത്യമായി ചേരുന്നു.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ONE OF THE... = ONE ആണ് താരം, ബാക്കി എല്ലാം സൈഡ്-കഥാപാത്രം മാത്രം!' — 'of' എന്നതിന് ശേഷമുള്ള plural noun verb-നെ ബാധിക്കില്ല എന്ന് ഓർക്കുക.\n• Word family ഒരുമിച്ചു പഠിക്കുക: one of, each of, either of, neither of, every one of — ഇവയെല്ലാം SINGULAR verb എടുക്കുന്ന structures ആണ്.\n• PSC strategy: 'Which sentence is wrong' ചോദ്യങ്ങളിൽ ഓരോ sentence-ഉം separately പരിശോധിക്കുക — subject-verb agreement, tense, fixed phrases (bread and butter പോലുള്ളവ) പ്രത്യേകം ശ്രദ്ധിക്കുക."
+      }
+    },
+    {
+      "id": "12-2019-M-Q89",
+      "paperId": "12-2019-M",
+      "questionNumber": 89,
+      "topic": "Auxiliary Verbs",
+      "questionText": "You had better _________.",
+      "optionA": "consulted a doctor",
+      "optionB": "consulting a doctor",
+      "optionC": "consult a doctor",
+      "optionD": "to consult a doctor",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) consult a doctor\n• 'Had better' എന്ന semi-modal phrase-ന് ശേഷം എപ്പോഴും BASE FORM (V1, 'to' ഇല്ലാതെ) വരണം — ഇത് 'should' പോലെ ഉപദേശം നൽകാൻ ഉപയോഗിക്കുന്ന ഒരു fixed structure ആണ്.\n• 'You had better consult a doctor' എന്നാൽ 'നീ ഒരു ഡോക്ടറെ കാണുന്നതാണ് നല്ലത്' എന്ന ഉപദേശപരമായ അർത്ഥം നൽകുന്നു.\n• 'Had better' ഭൂതകാല tense (had) ഉപയോഗിക്കുന്നുണ്ടെങ്കിലും, ഇത് വർത്തമാന/ഭാവി കാലത്തെ ഉപദേശത്തിനാണ് ഉപയോഗിക്കുന്നത് — ഇത് ഒരു idiomatic modal expression ആണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Had better + BASE FORM (V1) — 'to' ചേർക്കരുത്, '-ing' ചേർക്കരുത്, past form ചേർക്കരുത്!\n• 'Had better' എന്നത് 'should/ought to' എന്നതിന് സമാനമായ ഉപദേശം നൽകുന്ന semi-modal ആണ് — modal verbs-ന് ശേഷം എപ്പോഴും base form ആണ് വരുന്നത്.\n• Related family: had better + V1, would rather + V1, must + V1, should + V1, can/could + V1 — എല്ലാ modal verbs-നും ശേഷം base form തന്നെ.\n• ⭐ PSC ആവർത്തനം: 'Had better' + base form structure PSC Auxiliary Verbs/Modals ചോദ്യങ്ങളിൽ ആവർത്തിച്ചു വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. You had better leave now. (ഇപ്പോൾ പോകുന്നതാണ് നല്ലത്)\n2. We had better hurry, or we will miss the bus. (വേഗം പോകുന്നതാണ് നല്ലത്, അല്ലെങ്കിൽ ബസ് നഷ്ടപ്പെടും)\n3. She had better apologize to him. (അവൾ അയാളോട് ക്ഷമ ചോദിക്കുന്നതാണ് നല്ലത്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) consulted a doctor — Past tense form ആണ്; 'had better'-ന് ശേഷം base form വേണം, past form അല്ല.\n• 🪤 PSC Trap: 'had' എന്ന past auxiliary കണ്ട് ബാക്കി verb-ഉം past ആക്കണം എന്ന് വിദ്യാർത്ഥികൾ തെറ്റിദ്ധരിക്കും, പക്ഷേ 'had better' ഒരു fixed idiomatic modal phrase ആണ്.\n• (B) consulting a doctor — '-ing' form (gerund) ആണ്; 'had better'-ന് ശേഷം ഇത് ഉപയോഗിക്കാൻ പാടില്ല.\n• (D) to consult a doctor — 'to' + infinitive ആണ്; modal verbs-ന് ('had better' ഉൾപ്പെടെ) ശേഷം 'to' ചേർക്കാൻ പാടില്ല, base form മാത്രം മതി.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'HAD BETTER, NO TO, NO ING, NO PAST — BASE FORM മാത്രം!' — modal-ന് ശേഷം എപ്പോഴും base form എന്ന് ഒരു ചൊല്ല് പോലെ ഓർത്തുവയ്ക്കുക.\n• Word family ഒരുമിച്ചു പഠിക്കുക: had better, would rather, must, should, can, could, may, might — ഇവയെല്ലാം modal/semi-modal verbs ആണ്, എല്ലാറ്റിനും ശേഷം base form.\n• PSC strategy: ചോദ്യത്തിൽ 'had better/would rather' കണ്ടാൽ ഉടൻ base form (to ഇല്ലാതെ, -ing ഇല്ലാതെ, past ഇല്ലാതെ) ഉള്ള option തിരയുക."
+      }
+    },
+    {
+      "id": "12-2019-M-Q90",
+      "paperId": "12-2019-M",
+      "questionNumber": 90,
+      "topic": "Tenses",
+      "questionText": "We _________ here for an hour.",
+      "optionA": "been waiting",
+      "optionB": "have been waiting",
+      "optionC": "waits",
+      "optionD": "have waiting",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) have been waiting\n• 'For an hour' എന്ന time duration signal word, ഭൂതകാലത്ത് തുടങ്ങി ഇപ്പോഴും തുടരുന്ന ഒരു action-നെ സൂചിപ്പിക്കുന്നു — ഇതിന് Present Perfect Continuous Tense ('have/has been + V-ing') ആണ് ശരിയായ structure.\n• 'We have been waiting here for an hour' എന്നാൽ 'ഞങ്ങൾ ഇവിടെ ഒരു മണിക്കൂറായി കാത്തിരിക്കുകയാണ് (ഇപ്പോഴും കാത്തിരിക്കുന്നു)' എന്നർത്ഥം.\n• Subject 'We' plural ആയതിനാൽ auxiliary 'have' (has അല്ല) ഉപയോഗിക്കണം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Present Perfect Continuous = have/has + been + V-ing — 'for/since' എന്ന duration marker ഉള്ളപ്പോൾ, ഭൂതകാലത്ത് തുടങ്ങി ഇപ്പോഴും തുടരുന്ന action-ന് ഉപയോഗിക്കുന്നു.\n• 'For' ഉപയോഗിക്കുന്നത് ഒരു duration/കാലയളവ് (an hour, two years) സൂചിപ്പിക്കാനാണ്; 'Since' ഉപയോഗിക്കുന്നത് ഒരു specific point in time (2020, Monday) സൂചിപ്പിക്കാനാണ് — രണ്ടും Present Perfect (Continuous)-നൊപ്പം ഉപയോഗിക്കുന്ന signal words ആണ്.\n• Related family: Present Perfect Simple (have/has + V3) - completed action with present relevance; Present Perfect Continuous (have/has been + V-ing) - action started in past, still continuing.\n• ⭐ PSC ആവർത്തനം: 'for/since' signal words ഉള്ള Tense ചോദ്യങ്ങൾ PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. She has been studying since morning. (രാവിലെ മുതൽ പഠിക്കുന്നു, ഇപ്പോഴും തുടരുന്നു)\n2. They have been playing for two hours. (രണ്ട് മണിക്കൂറായി കളിക്കുന്നു)\n3. I have been living here since 2015. (2015 മുതൽ ഇവിടെ താമസിക്കുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) been waiting — ഇവിടെ auxiliary 'have/has' ഇല്ല; 'been waiting' മാത്രം ഒരു complete verb phrase അല്ല, structure അപൂർണ്ണമാണ്.\n• 🪤 PSC Trap: 'have' ഒഴിവാക്കി 'been waiting' മാത്രം ഉപയോഗിക്കുന്നത് ഒരു സാധാരണ അശ്രദ്ധ തെറ്റാണ്.\n• (C) waits — ഇത് Simple Present Tense ആണ്; 'for an hour' എന്ന duration marker-നൊപ്പം ഈ tense ഉപയോഗിക്കാൻ പാടില്ല, തുടർച്ചയായ പ്രവർത്തി സൂചിപ്പിക്കാൻ ഇത് പര്യാപ്തമല്ല.\n• (D) have waiting — 'have' കഴിഞ്ഞ് നേരിട്ട് '-ing' form വരാൻ പാടില്ല; ഇടയിൽ 'been' നിർബന്ധമായും വേണം ('have been waiting').",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'FOR/SINCE കണ്ടാൽ, HAVE/HAS BEEN + ING ഓർക്കുക — തുടരുന്ന പ്രവൃത്തിയാണ്!'\n• Word family ഒരുമിച്ചു പഠിക്കുക: for + duration (an hour, two years, a week), since + point in time (2020, Monday, morning) — രണ്ടും Present Perfect Continuous-നെ സൂചിപ്പിക്കുന്ന signal words.\n• PSC strategy: sentence-ൽ 'for' അല്ലെങ്കിൽ 'since' കണ്ടാൽ ഉടൻ Present Perfect (Continuous) ആണെന്ന് തിരിച്ചറിഞ്ഞ്, action ഇപ്പോഴും തുടരുന്നതാണോ എന്ന് നോക്കി Continuous form ('have/has been + V-ing') തിരഞ്ഞെടുക്കുക."
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "paper": null,
+  "questions": [
+    {
+      "id": "12-2019-M-Q76",
+      "paperId": "12-2019-M",
+      "questionNumber": 76,
+      "topic": "Direct and Indirect Speech",
+      "questionText": "Report the following sentence :\nRaju says, \"I am a farmer.\"",
+      "optionA": "Raju said that he was a farmer.",
+      "optionB": "Raju says that he was a farmer.",
+      "optionC": "Raju says that he is a farmer.",
+      "optionD": "Raju said that he is a farmer.",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) Raju says that he is a farmer.\n• Reporting verb 'says' Present Tense-ൽ ആയതിനാൽ, reported speech-ലെ tense മാറ്റേണ്ട ആവശ്യമില്ല (No Backshift) — 'am' എന്നത് 'is' ആയി മാറുന്നത് pronoun മാറ്റത്തിന് (I → he) വേണ്ടി മാത്രമാണ്, tense മാറ്റത്തിന് വേണ്ടിയല്ല.\n• Direct speech-ലെ 'I' (ഒന്നാം പുരുഷൻ) reported speech-ൽ subject 'Raju'-യെ സൂചിപ്പിക്കുന്ന 'he' ആയി മാറും.\n• അർത്ഥം: 'രാജു താൻ ഒരു കർഷകനാണെന്ന് പറയുന്നു'.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Reporting verb PRESENT TENSE ആണെങ്കിൽ (says/tells) → reported speech-ലെ tense മാറില്ല, pronoun മാത്രം മാറും!\n• Backshift (tense പിന്നിലേക്ക് മാറ്റുന്ന പ്രക്രിയ) നടക്കുന്നത് reporting verb PAST TENSE ('said') ആയിരിക്കുമ്പോൾ മാത്രമാണ്.\n• ഒരേ കുടുംബത്തിലെ വാക്കുകൾ: says/tells (present) → tense മാറ്റം വേണ്ട; said/told (past) → am/is/are എന്നത് was/were ആയും, will എന്നത് would ആയും, can എന്നത് could ആയും backshift ചെയ്യണം.\n• ⭐ PSC ആവർത്തനം: reporting verb 'says' ഉള്ള ഇത്തരം ചോദ്യങ്ങൾ PSC-യിൽ ആവർത്തിച്ചു വരുന്ന ഒരു trap ആണ് — വിദ്യാർത്ഥികൾ എപ്പോഴും backshift ചെയ്യണം എന്ന് തെറ്റിദ്ധരിക്കും, ഇത് ശ്രദ്ധിക്കുക.\n• ഉദാഹരണ sentences (ഓരോന്നും ശ്രദ്ധിക്കുക):\n1. She says, \"I am tired.\" → She says that she is tired. (reporting verb present ആയതിനാൽ tense മാറ്റം വേണ്ട)\n2. He said, \"I am tired.\" → He said that he was tired. (reporting verb past ആയതിനാൽ backshift ചെയ്യണം)\n3. They say, \"We will come.\" → They say that they will come. (present reporting verb → മാറ്റം വേണ്ട)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Raju said that he was a farmer — reporting verb 'said' (past) ഉപയോഗിച്ചിരിക്കുന്നു, പക്ഷേ original sentence-ൽ 'says' (present) ആണ്; reporting verb മാറ്റാൻ പാടില്ല.\n• 🪤 PSC Trap: മിക്ക students-ഉം reported speech കാണുമ്പോൾ ഉടനെ 'said/was' pattern-ലേക്ക് മാറും, പക്ഷേ ഇവിടെ original verb 'says' തന്നെ നിലനിർത്തണം.\n• (B) Raju says that he was a farmer — reporting verb 'says' ശരിയാണ്, പക്ഷേ 'was' എന്ന് ദോഷമായി backshift ചെയ്തിരിക്കുന്നു; present reporting verb-ന് backshift വേണ്ട.\n• (D) Raju said that he is a farmer — ഇവിടെ reporting verb തെറ്റായി 'said' ആക്കുകയും, tense 'is' ആയി നിലനിർത്തുകയും ചെയ്തിരിക്കുന്നു — രണ്ടും പൊരുത്തപ്പെടുന്നില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'PRESENT reporting verb = PRESENT stays PRESENT!' — 'says/tells' കണ്ടാൽ ഉടൻ ഓർക്കുക, tense മാറ്റേണ്ട, pronoun മാത്രം മാറ്റിയാൽ മതി.\n• Rule family ഒരുമിച്ചു പഠിക്കുക: says/tells (no backshift), said/told (backshift ചെയ്യണം), pronoun മാറ്റം എപ്പോഴും ബാധകം.\n• PSC strategy: reported speech ചോദ്യത്തിൽ ആദ്യം reporting verb ('says' ആണോ 'said' ആണോ) നോക്കുക — അതനുസരിച്ച് tense മാറ്റണോ വേണ്ടയോ എന്ന് തീരുമാനിക്കുക."
+      }
+    },
+    {
+      "id": "12-2019-M-Q77",
+      "paperId": "12-2019-M",
+      "questionNumber": 77,
+      "topic": "Conditionals",
+      "questionText": "If Sachin had played _________.",
+      "optionA": "they would have won",
+      "optionB": "they would win",
+      "optionC": "they will have win",
+      "optionD": "they will win",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) they would have won\n• 'If Sachin had played' എന്നത് Third Conditional-ന്റെ 'If clause' (If + Past Perfect: had + V3) ആണ് — ഭൂതകാലത്തിൽ നടക്കാത്ത ഒരു കാര്യത്തെക്കുറിച്ചാണ് ഇത് പറയുന്നത്.\n• Third Conditional-ന്റെ main clause-ന്റെ ശരിയായ structure 'would have + V3' ആണ് — അതായത് 'they would have won'.\n• അർത്ഥം: 'സച്ചിൻ കളിച്ചിരുന്നെങ്കിൽ, അവർ ജയിക്കുമായിരുന്നു' — യഥാർത്ഥത്തിൽ സച്ചിൻ കളിച്ചില്ല, അതിനാൽ അവർ ജയിച്ചതുമില്ല എന്നാണ് സൂചന.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Third Conditional → If + had + V3 (Past Perfect), main clause + would have + V3.\n• ഈ conditional ഭൂതകാലത്തിലെ hypothetical/സാങ്കൽപ്പിക സാഹചര്യങ്ങൾക്ക് ഉപയോഗിക്കുന്നു — യഥാർത്ഥത്തിൽ സംഭവിക്കാത്ത ഒരു കാര്യത്തിന്റെ ഫലം സങ്കൽപ്പിക്കുകയാണ്.\n• Related family: First Conditional (If + Present, will + V1) — ഭാവിയിലെ സാധ്യത; Second Conditional (If + Past, would + V1) — വർത്തമാനകാല സാങ്കൽപ്പികം; Third Conditional (If + had+V3, would have+V3) — ഭൂതകാല സാങ്കൽപ്പികം.\n• ⭐ PSC ആവർത്തനം: Conditionals, പ്രത്യേകിച്ച് Third Conditional, PSC-യിൽ വളരെ പതിവായി ചോദിക്കുന്ന ഒരു topic ആണ്.\n• ഉദാഹരണ sentences:\n1. If I had studied harder, I would have passed the exam. (ഞാൻ കൂടുതൽ പഠിച്ചിരുന്നെങ്കിൽ, ജയിക്കുമായിരുന്നു)\n2. If she had left early, she would have caught the train. (നേരത്തെ പോയിരുന്നെങ്കിൽ ട്രെയിൻ കിട്ടുമായിരുന്നു)\n3. If they had invited me, I would have attended the party. (ക്ഷണിച്ചിരുന്നെങ്കിൽ ഞാൻ പാർട്ടിക്ക് പോകുമായിരുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) they would win — ഇത് Second Conditional-ന്റെ structure ആണ് (would + V1); 'If clause'-ൽ 'had played' (Past Perfect) ഉള്ളതിനാൽ ഇത് ചേരില്ല.\n• 🪤 PSC Trap: 'would' കണ്ടാൽ ഉടൻ 'would + V1' ശരിയാണെന്ന് വിദ്യാർത്ഥികൾ കരുതും, 'have' ചേർക്കാൻ മറന്നുപോകും.\n• (C) they will have win — ഇത് grammatically തെറ്റായ structure ആണ്; 'will have' കഴിഞ്ഞ് V3 (won) വരണം, base form (win) അല്ല.\n• (D) they will win — ഇത് First Conditional-ന്റെ pattern ആണ് (will + V1); ഭൂതകാല സാങ്കൽപ്പിക സാഹചര്യത്തിന് ഇത് ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'HAD + WOULD HAVE' — രണ്ടും ഭൂതകാലത്തിലേക്ക് നോക്കുന്ന 'H' words ആണെന്ന് ഓർത്താൽ Third Conditional-ന്റെ pattern എളുപ്പം ഓർമ്മ വരും.\n• Conditional family ഒരുമിച്ചു പഠിക്കുക: If+Present→will+V1 (ഒന്നാം), If+Past→would+V1 (രണ്ടാം), If+had+V3→would have+V3 (മൂന്നാം).\n• PSC strategy: 'If' clause-ൽ 'had + V3' കണ്ടാൽ ഉടൻ Third Conditional ആണെന്ന് തിരിച്ചറിഞ്ഞ്, main clause-ൽ 'would have + V3' തിരയുക."
+      }
+    },
+    {
+      "id": "12-2019-M-Q78",
+      "paperId": "12-2019-M",
+      "questionNumber": 78,
+      "topic": "Prepositions",
+      "questionText": "Happiness consists largely _________ contentment.",
+      "optionA": "on",
+      "optionB": "of",
+      "optionC": "in",
+      "optionD": "for",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) in\n• 'Consist in' എന്ന phrase ഉപയോഗിക്കുന്നത് ഒരു അമൂർത്തമായ (abstract) കാര്യത്തിന്റെ അടിസ്ഥാന ഘടകം/സാരാംശം എന്താണെന്ന് പറയാനാണ് — 'consist of' (ഭൗതികമായി എന്തിൽ നിന്ന് നിർമ്മിതം) എന്നതിൽ നിന്ന് ഇത് വ്യത്യസ്തമാണ്.\n• 'Happiness consists largely in contentment' എന്നാൽ 'സന്തോഷത്തിന്റെ സാരാംശം/അടിസ്ഥാനം പ്രധാനമായും സംതൃപ്തിയിലാണ് കിടക്കുന്നത്' എന്നർത്ഥം — ഇത് ഒരു classic ആയ, പുസ്തകങ്ങളിൽ പലപ്പോഴും കാണുന്ന പ്രയോഗമാണ്.\n• Happiness പോലുള്ള abstract ആശയങ്ങൾക്ക് 'consist in' ആണ് ശരിയായ collocation — 'consist of' ഭൗതിക ഘടകങ്ങൾക്കാണ് (a committee consists of members പോലെ).",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Consist IN = അമൂർത്ത സാരാംശം (abstract essence/lie in); Consist OF = ഭൗതിക ഘടകങ്ങൾ (physical composition).\n• 'Consist in' ഉപയോഗിക്കുന്നത് ഒരു ആശയത്തിന്റെ/ഗുണത്തിന്റെ അടിസ്ഥാന സ്വഭാവം എന്താണ് എന്ന് പറയാനാണ് — happiness, success, wisdom പോലുള്ള abstract nouns-നൊപ്പം ഇത് സാധാരണം.\n• 'Consist of' ഉപയോഗിക്കുന്നത് ഒരു വസ്തു/സംഘം എന്തെല്ലാം ഭാഗങ്ങൾ ചേർന്നതാണ് എന്ന് പറയാനാണ് — a team consists of players പോലെ.\n• ⭐ PSC ആവർത്തനം: 'consist in' vs 'consist of' എന്ന വ്യത്യാസം PSC preposition ചോദ്യങ്ങളിൽ ശ്രദ്ധാപൂർവ്വം ചോദിക്കാറുള്ള ഒരു trap ആണ് — 'Happiness consists in contentment' എന്ന exact പ്രയോഗം PSC-യുടെ ഔദ്യോഗിക final answer key പ്രകാരം സ്ഥിരീകരിച്ചതാണ്.\n• ഉദാഹരണ sentences:\n1. True happiness consists in a contented mind. (യഥാർത്ഥ സന്തോഷത്തിന്റെ സാരാംശം സംതൃപ്ത മനസ്സിലാണ്)\n2. His greatness consists in his humility. (അദ്ദേഹത്തിന്റെ മഹത്വത്തിന്റെ അടിസ്ഥാനം അദ്ദേഹത്തിന്റെ വിനയത്തിലാണ്)\n3. The committee consists of ten members. (ഇവിടെ ഭൗതിക ഘടകം ആയതിനാൽ 'of' ഉപയോഗിക്കുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) on — 'consist on' എന്നൊരു collocation ഇംഗ്ലീഷിൽ ഇല്ല; ഇത് grammatically തെറ്റാണ്.\n• 🪤 PSC Trap: 'depend on', 'insist on' പോലുള്ള മറ്റ് verb+preposition combinations-മായി confuse ചെയ്ത് 'on' തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.\n• (B) of — ഇത് ഒരു സാധാരണ തെറ്റാണ്, കാരണം 'consist of' എന്ന collocation സാധാരണ കൂടുതൽ കേട്ടിട്ടുള്ളതാണ്; പക്ഷേ happiness പോലുള്ള abstract ആശയത്തിന്റെ 'സാരാംശം' എന്ന അർത്ഥത്തിന് ഇവിടെ 'in' ആണ് ഔദ്യോഗികമായി ശരി.\n• 🪤 PSC Trap: 'of' കൂടുതൽ പരിചിതമായ preposition ആയതിനാൽ മിക്ക വിദ്യാർത്ഥികളും ഇത് തിരഞ്ഞെടുക്കും — 'largely' എന്ന വാക്ക് 'of'-നോട് സ്വാഭാവികമായി ചേരും എന്ന് തോന്നിക്കുന്നതും ഒരു കാരണമാണ്.\n• (D) for — 'consist for' എന്നൊരു collocation ഇല്ല; ഇത് അർത്ഥശൂന്യമായ combination ആണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'CONSIST IN = ININER (അകത്തുള്ള) സാരാംശം' — abstract ആശയങ്ങളുടെ 'അകത്തെ അടിസ്ഥാനം' എന്നാൽ 'in' എന്ന് ഓർക്കുക.\n• Word family ഒരുമിച്ചു പഠിക്കുക: consist in (abstract സാരാംശം - happiness, success, wisdom), consist of (ഭൗതിക ഘടകങ്ങൾ - committee, book, mixture).\n• PSC strategy: 'consist' എന്ന വാക്കിന് ശേഷമുള്ള noun abstract ആണോ (happiness, success) concrete ആണോ (members, chapters) എന്ന് നോക്കുക — abstract ആണെങ്കിൽ 'in', concrete ആണെങ്കിൽ 'of' എന്ന് തീരുമാനിക്കുക."
+      }
+    },
+    {
+      "id": "12-2019-M-Q79",
+      "paperId": "12-2019-M",
+      "questionNumber": 79,
+      "topic": "Question Tags",
+      "questionText": "'Nobody wants to be poor.' Its question tag is",
+      "optionA": "Does they ?",
+      "optionB": "Do they ?",
+      "optionC": "Don't they ?",
+      "optionD": "Doesn't they ?",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) Do they ?\n• 'Nobody' എന്ന word അർത്ഥത്തിൽ NEGATIVE (ആരും ഇല്ല എന്ന്) ആണ് — statement അർത്ഥപരമായി negative ആയതിനാൽ, question tag POSITIVE ആയിരിക്കണം.\n• 'Nobody, everybody, someone' തുടങ്ങിയ indefinite pronouns-ന്റെ tag-ൽ pronoun 'they' ആയി മാറുന്നു (gender-neutral convention), അതോടൊപ്പം auxiliary verb-ഉം ആ 'they'-യുടെ plural രൂപത്തിന് അനുസരിച്ച് 'do/don't' ആണ് വരുന്നത് — 'does/doesn't' അല്ല, ഇത് PSC-യുടെ ഔദ്യോഗിക final answer key പ്രകാരം സ്ഥിരീകരിച്ച standard convention ആണ്.\n• അതിനാൽ 'Nobody wants to be poor, do they?' എന്നത് ശരിയായ tag ആണ് — 'ആർക്കും ദരിദ്രനാകാൻ ആഗ്രഹമില്ല, അല്ലേ?' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Indefinite pronouns (nobody/everybody/someone/anyone) ന്റെ tag-ൽ pronoun 'they' ഉപയോഗിക്കും, auxiliary-യും ആ 'they'-ക്ക് ചേരുന്ന 'do/don't' ആയിരിക്കും — 'does/doesn't' എടുക്കരുത്.\n• Question Tag-ന്റെ അടിസ്ഥാന നിയമം ഓർക്കുക: Positive statement ആണെങ്കിൽ → Negative tag; Negative meaning ഉള്ള statement ആണെങ്കിൽ → Positive tag.\n• 'Nobody, none, no one, nothing, neither' തുടങ്ങിയ negative pronouns ഉള്ള statements അർത്ഥത്തിൽ negative ആയതിനാൽ, ഇവയുടെ tag എപ്പോഴും POSITIVE ആയിരിക്കണം എന്നത് പ്രത്യേകം ശ്രദ്ധിക്കുക.\n• ⭐ PSC ആവർത്തനം: 'Nobody/Everybody/Someone' തുടങ്ങിയ indefinite pronouns-ന്റെ question tag PSC-യിൽ വളരെ പതിവായി ചോദിക്കുന്ന ഒരു trap topic ആണ് — pronoun 'they' ആയി മാറുന്നതോടൊപ്പം auxiliary-യും plural 'do/don't' ആയി മാറും എന്നത് ഓർത്തുവയ്ക്കുക.\n• ഉദാഹരണ sentences (ഓരോന്നും ശ്രദ്ധിക്കുക):\n1. Nobody came late, did they? (ആരും വൈകി വന്നില്ല, അല്ലേ? — negative subject → positive tag, 'they' + 'did')\n2. Everybody knows the answer, don't they? (എല്ലാവർക്കും ഉത്തരം അറിയാം, അല്ലേ? — positive statement → negative tag, 'they' + 'don't')\n3. Someone has taken my pen, haven't they? (ആരോ എന്റെ പേന എടുത്തു, അല്ലേ? — 'they' + 'haven't')",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Does they ? — 'wants' എന്ന main verb singular ('-s' ending) ആയതിനാൽ auxiliary 'does' ശരിയാണെന്ന് തോന്നാമെങ്കിലും, tag-ലെ pronoun 'they' plural ആയതിനാൽ auxiliary-യും അതിന് ചേരുന്ന 'do' ആയിരിക്കണം എന്നതാണ് ഔദ്യോഗിക convention.\n• 🪤 PSC Trap: main clause-ലെ verb-ന്റെ number ('wants' singular) നോക്കി auxiliary തീരുമാനിക്കാൻ ശ്രമിക്കുന്നത് സ്വാഭാവികമായ ഒരു തെറ്റാണ് — എന്നാൽ tag-ലെ pronoun 'they' തന്നെയാണ് auxiliary-യുടെ number തീരുമാനിക്കുന്നത്.\n• (C) Don't they ? — ഇത് NEGATIVE tag ആണ്; 'Nobody' സ്വയം negative meaning ഉള്ളതിനാൽ, tag-ഉം negative ആക്കിയാൽ രണ്ട് negatives ചേർന്ന് അർത്ഥം ആശയക്കുഴപ്പത്തിലാകും.\n• (D) Doesn't they ? — ഇവിടെ auxiliary-യുടെ number ('does') തെറ്റാണ്, കൂടാതെ 'n't' ചേർത്ത് negative ആക്കിയതും തെറ്റാണ് — 'Nobody' negative ആയതിനാൽ tag positive ആയിരിക്കണം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'NOBODY-ന്റെ TAG-ൽ THEY വന്നാൽ, കൂടെ DO/DON'T മാത്രമേ വരൂ, DOES/DOESN'T വരില്ല!' — pronoun 'they' plural ആയതിനാൽ auxiliary-യും plural ('do') ആയിരിക്കും എന്ന് ഓർത്തുവയ്ക്കുക.\n• Rule കുടുംബം ഒരുമിച്ചു പഠിക്കേണ്ട വാക്കുകൾ: nobody, no one, none, nothing, neither — ഇവയെല്ലാം negative meaning ഉള്ളവയാണ്, tag positive ആയിരിക്കും; everybody, everyone, somebody, someone — ഇവയുടെ tag-ലും pronoun 'they' + അതിന് ചേരുന്ന auxiliary ('do/don't/have/haven't') വരും.\n• PSC strategy: statement-ൽ nobody/everybody/someone പോലുള്ള indefinite pronoun കണ്ടാൽ, tag-ൽ pronoun 'they' ഇടുക, എന്നിട്ട് auxiliary-യും ആ 'they'-ക്ക് ചേരുന്ന plural രൂപത്തിൽ (do/don't) തിരഞ്ഞെടുക്കുക — main verb-ന്റെ singular/plural രൂപം auxiliary-യെ ബാധിക്കില്ല."
+      }
+    },
+    {
+      "id": "12-2019-M-Q80",
+      "paperId": "12-2019-M",
+      "questionNumber": 80,
+      "topic": "Synonyms",
+      "questionText": "Who is a 'Misogynist' ?",
+      "optionA": "A man who loves women.",
+      "optionB": "A man who hates women.",
+      "optionC": "A man who hates men.",
+      "optionD": "A man who loves animals.",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) A man who hates women.\n• 'Misogynist' എന്ന word-ന്റെ അർത്ഥം 'സ്ത്രീകളോട് വെറുപ്പോ വിദ്വേഷമോ ഉള്ള വ്യക്തി' എന്നാണ്.\n• Greek word 'misos' (വെറുപ്പ്) + 'gyne' (സ്ത്രീ) ചേർന്നാണ് ഈ word ഉണ്ടായത് — 'സ്ത്രീ-വെറുപ്പ്' എന്ന നേരിട്ടുള്ള അർത്ഥം ഓർത്താൽ meaning എളുപ്പം ഓർമ്മിക്കാം.\n• 'He was known as a misogynist because of his disrespectful attitude towards women' എന്നാൽ 'സ്ത്രീകളോടുള്ള അനാദരവുള്ള മനോഭാവം കാരണം അയാൾ misogynist ആയി അറിയപ്പെട്ടു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Misogynist = Woman-hater (സ്ത്രീ വിദ്വേഷി); 'miso-' = hate, 'gyn-' = woman.\n• ഇത് ഒരു Vocabulary/Synonym-based ചോദ്യമാണ് — Greek/Latin roots അറിയാമെങ്കിൽ അർത്ഥം എളുപ്പത്തിൽ കണ്ടെത്താം.\n• Etymology hint: Greek 'misos' (hatred) + 'gyne' (woman) → misogynist; ഇതേ 'miso-' prefix 'misanthrope' (മനുഷ്യവിദ്വേഷി) എന്ന വാക്കിലും കാണാം.\n• ⭐ PSC ആവർത്തനം: '-ist/-phile/-phobe' suffix ഉള്ള Greek-derived character words (misogynist, misanthrope, philanthropist) PSC vocabulary-യിൽ ആവർത്തിച്ചു വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. His misogynist comments offended many people. (അയാളുടെ സ്ത്രീവിരുദ്ധ പരാമർശങ്ങൾ പലരെയും വേദനിപ്പിച്ചു)\n2. The novel criticizes misogynist attitudes in society. (സമൂഹത്തിലെ സ്ത്രീവിദ്വേഷ മനോഭാവങ്ങളെ ആ നോവൽ വിമർശിക്കുന്നു)\n3. A misandrist is the opposite of a misogynist — one who hates men. (misandrist എന്നത് misogynist-ന്റെ വിപരീതം — പുരുഷ വിദ്വേഷി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) A man who loves women — ഇത് 'misogynist'-ന്റെ നേരെ വിപരീത അർത്ഥമാണ്; സ്ത്രീകളെ സ്നേഹിക്കുന്ന വ്യക്തിക്ക് 'philogynist' എന്നാണ് പറയുക.\n• 🪤 PSC Trap: word-ന്റെ ഉച്ചാരണം സ്ത്രീ-ബന്ധിതമായതിനാൽ 'സ്നേഹം' എന്ന positive അർത്ഥം തെറ്റായി ഊഹിക്കാൻ വിദ്യാർത്ഥികളെ ഇത് പ്രേരിപ്പിക്കും.\n• (C) A man who hates men — ഇത് 'misandrist' എന്ന വാക്കിന്റെ അർത്ഥമാണ് ('andro' = man), 'misogynist' അല്ല.\n• (D) A man who loves animals — 'misogynist'-മായി യാതൊരു ബന്ധവുമില്ലാത്ത അർത്ഥമാണ് ഇത്; ഇത് 'animal lover' എന്ന വാക്കിനോട് ചേരും.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'MISO = MISS-ing OUT ON LOVE = HATE' — 'miso-' prefix ഉള്ള word കണ്ടാൽ ഉടൻ 'വെറുപ്പ്' എന്ന് ഓർക്കുക, 'gyne' = സ്ത്രീ എന്ന് ചേർത്ത് 'സ്ത്രീ വിദ്വേഷി' എന്ന അർത്ഥം എടുക്കുക.\n• Word family ഒരുമിച്ചു പഠിക്കുക: misogynist (സ്ത്രീ വിദ്വേഷി), misandrist (പുരുഷ വിദ്വേഷി), misanthrope (മനുഷ്യ വിദ്വേഷി), philanthropist (മനുഷ്യ സ്നേഹി).\n• PSC strategy: '-gyn-' (സ്ത്രീ), '-andr-' (പുരുഷൻ), '-anthrop-' (മനുഷ്യൻ), 'mis-/miso-' (വെറുപ്പ്), 'phil-' (സ്നേഹം) തുടങ്ങിയ Greek roots പഠിച്ചുവച്ചാൽ ഇത്തരം character-word ചോദ്യങ്ങൾ എളുപ്പമാകും."
+      }
+    }
+  ]
+}
