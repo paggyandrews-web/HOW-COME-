@@ -1526,5 +1526,30 @@
     "date": "13-Oct-2018",
     "medium": "M",
     "year": "2018"
+  },
+  {
+    "id": "102-2018-M",
+    "paperCode": "102/2018 M",
+    "post": "Lab Assistant - Higher Secondary Education (Thrissur, Wayanad, Alappuzha, Idukki, Malappuram Districts)",
+    "date": "29-Sep-2018",
+    "medium": "M",
+    "year": "2018"
+  },
+  {
+    "id": "097-2018-M",
+    "paperCode": "097/2018 M",
+    "post": "Lab Assistant in HSE DEPT (Kollam, Kottayam, Palakkad, Kannur)",
+    "date": "15-Sep-2018",
+    "medium": "M",
+    "year": "2018",
+    "categoryCode": "419/2017"
+  },
+  {
+    "id": "082-2018-M",
+    "paperCode": "082/2018 M",
+    "post": "Lab Assistant - Higher Secondary Education",
+    "date": "28-Jul-2018",
+    "medium": "M",
+    "year": "2018"
   }
 ]

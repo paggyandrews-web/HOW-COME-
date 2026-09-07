@@ -1,0 +1,372 @@
+{
+  "paper": {
+    "id": "082-2018-M",
+    "paperCode": "082/2018 M",
+    "post": "Lab Assistant - Higher Secondary Education",
+    "date": "28-Jul-2018",
+    "medium": "M",
+    "year": "2018"
+  },
+  "questions": [
+    {
+      "id": "082-2018-M-Q61",
+      "paperId": "082-2018-M",
+      "questionNumber": 61,
+      "topic": "Parts of Speech",
+      "questionText": "Identify the part of speech that is underlined :\nShe has a __beautiful__ handwriting.",
+      "optionA": "Adjective",
+      "optionB": "Adverb",
+      "optionC": "Noun",
+      "optionD": "Verb",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) Adjective\n• 'Beautiful' എന്ന വാക്ക് 'handwriting' എന്ന noun-നെ describe ചെയ്യുന്നു — അതായത് ഏത് തരം handwriting എന്ന് പറയുന്നു.\n• Noun-നെ describe ചെയ്യുന്ന/qualify ചെയ്യുന്ന വാക്കാണ് adjective എന്ന് വിളിക്കുന്നത്.\n• 'അവൾക്ക് മനോഹരമായ കൈയക്ഷരമുണ്ട്' എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം — 'മനോഹരമായ' എന്ന വിശേഷണ പദമാണ് 'beautiful'.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Noun-നു മുൻപ് നിന്ന് അതിനെ describe ചെയ്യുന്ന വാക്ക് = Adjective!\n• Adjective എപ്പോഴും ഒരു noun-നെയോ pronoun-നെയോ describe ചെയ്യും — എങ്ങനെയുള്ളത്, എത്ര എണ്ണം, ഏത് എന്നിങ്ങനെയുള്ള ചോദ്യങ്ങൾക്ക് ഉത്തരം നൽകും.\n• Adverb ആണെങ്കിൽ verb-നെയോ adjective-നെയോ മറ്റൊരു adverb-നെയോ ആണ് describe ചെയ്യുക.\n• ⭐ PSC ആവർത്തനം: Underlined word-ന്റെ part of speech ചോദിക്കുന്ന ചോദ്യങ്ങൾ PSC പതിവായി ചോദിക്കാറുണ്ട് — noun-ന് തൊട്ടുമുൻപുള്ള word ആണെങ്കിൽ മിക്കവാറും adjective ആയിരിക്കും.\n• ഉദാഹരണ sentences:\n1. She has a beautiful handwriting. (beautiful → adjective, handwriting-നെ describe ചെയ്യുന്നു)\n2. She writes beautifully. (beautifully → adverb, writes എന്ന verb-നെ describe ചെയ്യുന്നു)\n3. He is a clever boy. (clever → adjective, boy എന്ന noun-നെ describe ചെയ്യുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) Adverb — Adverb എപ്പോഴും verb-നെ ആണ് describe ചെയ്യുക. ഇവിടെ 'beautiful' verb-നെ അല്ല, noun-നെ ആണ് describe ചെയ്യുന്നത്, അതിനാൽ adverb ആകില്ല.\n• 🪤 PSC Trap: '-ful' എന്ന് അവസാനിക്കുന്നത് കണ്ട് ചിലർ confuse ആകും, പക്ഷേ ending അല്ല function ആണ് പ്രധാനം.\n• (C) Noun — 'Beautiful' ഒരു വസ്തുവിന്റെയോ വ്യക്തിയുടെയോ പേരല്ല, മറ്റൊരു വാക്കിനെ describe ചെയ്യുന്ന വാക്കാണ്.\n• (D) Verb — വാക്യത്തിൽ 'has' ആണ് main verb; 'beautiful' ഒരു action-ഉം കാണിക്കുന്നില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: 'Noun-ന്റെ തൊട്ടുമുൻപ് നിൽക്കുന്ന വിശേഷണ വാക്ക് = Adjective' എന്ന് മനസ്സിൽ ഉറപ്പിക്കുക.\n• Adjective family: beautiful, clever, tall, honest — ഇവയെല്ലാം noun-നെ describe ചെയ്യും. Adverb family: beautifully, cleverly, quickly — ഇവ verb-നെ describe ചെയ്യും.\n• PSC strategy: Underlined word ഏത് word-നെ ബന്ധപ്പെട്ടിരിക്കുന്നു എന്ന് ആദ്യം നോക്കുക — noun ആണെങ്കിൽ adjective, verb ആണെങ്കിൽ adverb ആയിരിക്കും മിക്കവാറും ഉത്തരം."
+      }
+    },
+    {
+      "id": "082-2018-M-Q62",
+      "paperId": "082-2018-M",
+      "questionNumber": 62,
+      "topic": "Question Tags",
+      "questionText": "Roy stood first in the test, ________ ?",
+      "optionA": "hadn't he ?",
+      "optionB": "didn't he ?",
+      "optionC": "won't he ?",
+      "optionD": "wasn't he ?",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) didn't he ?\n• 'Stood' എന്നത് 'stand' എന്ന verb-ന്റെ Simple Past Tense രൂപമാണ് (ordinary verb, auxiliary അല്ല).\n• Statement positive ആയതിനാൽ (no 'not'), tag negative ആയിരിക്കണം; ordinary verb-ന്റെ past tense-ന് 'did' എന്ന auxiliary ഉപയോഗിച്ചാണ് tag ഉണ്ടാക്കുന്നത്.\n• 'റോയ് ടെസ്റ്റിൽ ഒന്നാമതായി, അല്ലേ?' എന്നാണ് അർത്ഥം — confirm ചെയ്യാൻ ചോദിക്കുന്ന ഒരു tag question ആണിത്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Statement positive ആണെങ്കിൽ Tag negative, Statement negative ആണെങ്കിൽ Tag positive!\n• Statement-ൽ auxiliary verb ഇല്ലാത്ത ordinary verb (നടക്കുക, പോകുക, കഴിക്കുക പോലുള്ള actions — stood, went, ate) ആണെങ്കിൽ, tag-ൽ tense അനുസരിച്ച് do/does/did കൊണ്ടുവരണം.\n• Past tense-ലുള്ള ordinary verb-ന് → 'did' + not + subject pronoun ആണ് ശരിയായ tag.\n• ⭐ PSC ആവർത്തനം: Ordinary verb-ന്റെ tag ചോദിക്കുന്ന ചോദ്യങ്ങളിൽ 'did/didn't' മറന്ന് was/were/had പോലുള്ള auxiliary options തിരഞ്ഞെടുക്കുന്ന തെറ്റ് വിദ്യാർത്ഥികൾ പതിവായി ചെയ്യാറുണ്ട്.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. Roy stood first in the test, didn't he? (റോയ് ഒന്നാമതായി, അല്ലേ?)\n2. She sang well, didn't she? (അവൾ നന്നായി പാടി, അല്ലേ?)\n3. They played cricket yesterday, didn't they? (അവർ ഇന്നലെ കളിച്ചു, അല്ലേ?)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) hadn't he ? — 'had' auxiliary ഉപയോഗിക്കുന്നത് past perfect tense-ന് ('had stood') ആണ്; ഇവിടെ simple past ('stood') മാത്രമേ ഉള്ളൂ.\n• 🪤 PSC Trap: 'stood' എന്ന വാക്ക് 'stand' ന്റെ past perfect ആണെന്ന് തെറ്റിദ്ധരിച്ച് 'hadn't' തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.\n• (C) won't he ? — 'won't' എന്നത് future tense-ന് ഉപയോഗിക്കുന്നതാണ്; വാക്യം past tense-ൽ ആണ്, future അല്ല.\n• (D) wasn't he ? — 'was/wasn't' 'be' verb-ന്റെ tag ആണ്; ഇവിടെ main verb 'stood' ആണ്, 'be' verb അല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: Ordinary verb-ന്റെ past tense കണ്ടാൽ ഉടനെ 'didn't' ഓർക്കുക — stood, went, ate, wrote എല്ലാം 'didn't' എന്ന tag-ൽ അവസാനിക്കും.\n• Word family: stood-didn't, went-didn't, ate-didn't, wrote-didn't — ഇവയെല്ലാം ഒരേ pattern പിന്തുടരുന്നു.\n• PSC strategy: ആദ്യം statement-ലെ verb auxiliary ആണോ ordinary ആണോ എന്ന് നോക്കുക; ordinary ആണെങ്കിൽ do/does/did തിരഞ്ഞെടുക്കുക, tense ശ്രദ്ധിക്കുക."
+      }
+    },
+    {
+      "id": "082-2018-M-Q63",
+      "paperId": "082-2018-M",
+      "questionNumber": 63,
+      "topic": "Degrees of Comparison",
+      "questionText": "Shreya is the ________ student in her class.",
+      "optionA": "clever",
+      "optionB": "cleverer",
+      "optionC": "cleverest",
+      "optionD": "more clever",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) cleverest\n• 'the' + comparison 'in her class' (ഒരു group-നുള്ളിൽ ഏറ്റവും മുന്നിൽ) എന്ന സൂചന ഉള്ളതിനാൽ superlative degree വേണം.\n• 'Clever' ഒരു short adjective ആയതിനാൽ '-est' ചേർത്ത് superlative ഉണ്ടാക്കുന്നു: clever → cleverest.\n• 'ഷ്രേയ ക്ലാസിലെ ഏറ്റവും മിടുക്കിയായ വിദ്യാർത്ഥിനിയാണ്' എന്നാണ് അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: 'the' + superlative + group — ഒരു group-ൽ ഒന്നാമത് എന്ന് പറയുമ്പോൾ superlative വേണം!\n• ചെറിയ adjectives (ഒന്നോ രണ്ടോ syllable) → '-est' ചേർത്ത് superlative ഉണ്ടാക്കുന്നു: ഉയരം കൂടിയത് → tallest, മിടുക്ക് കൂടിയത് → cleverest, ചെറുത് → smallest.\n• 'more' എന്ന വാക്ക് ചെറിയ adjectives-ന് (clever പോലുള്ളവ) ഒരിക്കലും ചേരില്ല — 'more/most' നീണ്ട adjectives-ന് മാത്രമേ ഉപയോഗിക്കാവൂ.\n• ⭐ PSC ആവർത്തനം: 'the + superlative + in her class/school/family' എന്ന structure PSC ആവർത്തിച്ച് ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. Shreya is the cleverest student in her class. (ക്ലാസിലെ ഏറ്റവും മിടുക്കി)\n2. This is the tallest building in the city. (നഗരത്തിലെ ഏറ്റവും ഉയരമുള്ള കെട്ടിടം)\n3. He is the strongest man in the village. (ഗ്രാമത്തിലെ ഏറ്റവും ശക്തൻ)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) clever — ഇത് positive degree ആണ്, ഒരു comparison-ഉം സൂചിപ്പിക്കുന്നില്ല; 'the' എന്ന article-ന് ശേഷം plain adjective ചേരില്ല.\n• (B) cleverer — ഇത് comparative degree ആണ് (രണ്ട് പേരെ compare ചെയ്യാൻ ഉപയോഗിക്കും, കൂടെ 'than' വേണം); ഇവിടെ ഒരു group-ലെ ഒന്നാമത് ആണ് പറയുന്നത്, അതിനാൽ superlative വേണം, comparative അല്ല.\n• 🪤 PSC Trap: 'her class' എന്ന group-reference കണ്ട് തിടുക്കത്തിൽ comparative ('cleverer') തിരഞ്ഞെടുക്കുന്ന തെറ്റ് വിദ്യാർത്ഥികൾ ചെയ്യാറുണ്ട്.\n• (D) more clever — 'more' short adjectives-ന് (clever പോലുള്ളവ) ഉപയോഗിക്കില്ല; ഇത് 'more beautiful', 'more intelligent' പോലുള്ള നീണ്ട adjectives-ന് മാത്രം ഉപയോഗിക്കുന്ന form ആണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: 'THE' കണ്ടാൽ 'EST' ഓർക്കുക! (The + -est = superlative, group-ൽ ഒന്നാമത്)\n• Word family ഒരുമിച്ച് പഠിക്കുക: tall-taller-tallest, clever-cleverer-cleverest, small-smaller-smallest — ഈ ക്രമം മനഃപാഠമാക്കുക.\n• PSC strategy: വാക്യത്തിൽ 'in her class/school/family/world' പോലുള്ള group-reference കണ്ടാൽ ഉടനെ superlative ('-est' അല്ലെങ്കിൽ 'most') തിരഞ്ഞെടുക്കുക, ഒരിക്കലും comparative അല്ല."
+      }
+    },
+    {
+      "id": "082-2018-M-Q64",
+      "paperId": "082-2018-M",
+      "questionNumber": 64,
+      "topic": "Direct and Indirect Speech",
+      "questionText": "Change into reported speech.\nAnu said to him, “When’ll you marry me ?”",
+      "optionA": "Anu asked him when would he marry her.",
+      "optionB": "Anu asked him when he would marry her.",
+      "optionC": "Anu asked him when would he married her.",
+      "optionD": "Anu asked him when he would married her.",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) Anu asked him when he would marry her.\n• ഇത് ഒരു Wh-question ആയതിനാൽ, reporting verb 'said to' എന്നത് 'asked' ആയി മാറും.\n• Reported speech-ൽ question-ന്റെ ക്രമം (word order) സാധാരണ statement-ന്റെ ക്രമം ആയി മാറും — auxiliary-subject മറിച്ചിടൽ (inversion) ഇല്ല, question mark-ഉം ഇല്ല.\n• Tense പിന്നോട്ട് മാറും (backshift): 'will' → 'would'. Pronoun-കൾ മാറും: 'you' (Anu ആരോട് പറയുന്നോ ആ ആൾ) → 'he'; 'me' (Anu സ്വയം) → 'her'.\n• 'Anu അവനോട്, അവൻ എപ്പോൾ അവളെ വിവാഹം കഴിക്കുമെന്ന് ചോദിച്ചു' എന്നാണ് അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Wh-question → 'asked' + Wh-word + Subject + Verb, statement-ന്റെ ക്രമം തന്നെ, മറിച്ചിടൽ ഇല്ല!\n• Tense പിന്നോട്ട് മാറ്റുന്ന പട്ടിക: will→would, am/is/are→was/were, has/have→had, can→could.\n• Pronoun-കൾ സംസാരിക്കുന്ന ആളിന്റെയും കേൾക്കുന്ന ആളിന്റെയും കാഴ്ചപ്പാടിൽ നിന്ന് മാറ്റണം — 'you' എന്നത് കേൾവിക്കാരൻ ആരാണോ ആ ആളായി (he/she) മാറും, 'me' എന്നത് സംസാരിക്കുന്ന ആൾ തന്നെ (he/she) ആയി മാറും.\n• ⭐ PSC ആവർത്തനം: Wh-question reported speech-ൽ ക്രമം മാറ്റാൻ മറന്നുപോകുന്നത് ഏറ്റവും സാധാരണ തെറ്റാണ് — PSC ഇത് ആവർത്തിച്ച് test ചെയ്യുന്നു.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. He said to her, 'When will you come?' → He asked her when she would come. (അവൻ അവളോട് അവൾ എപ്പോൾ വരുമെന്ന് ചോദിച്ചു)\n2. She said to me, 'Where do you live?' → She asked me where I lived. (ഞാൻ എവിടെ താമസിക്കുന്നു എന്ന് ചോദിച്ചു)\n3. Anu said to him, 'When'll you marry me?' → Anu asked him when he would marry her.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) 'when would he marry her' — ഇവിടെ auxiliary-subject മറിച്ചിട്ട ('would he') ക്രമം ഉപയോഗിച്ചിരിക്കുന്നു; ഇത് direct question-ന്റെ ക്രമം ആണ്. Reported speech-ൽ 'he would' എന്ന സാധാരണ statement ക്രമം വേണം.\n• 🪤 PSC Trap: Direct speech-ന്റെ question ക്രമം അതേപോലെ നിലനിർത്തുന്നത് ഏറ്റവും സാധാരണ trap ആണ്.\n• (C) 'when would he married her' — മറിച്ചിട്ട ക്രമത്തിന് പുറമെ, auxiliary 'would'-ന് ശേഷം past form 'married' ഉപയോഗിച്ചത് തെറ്റാണ്; 'would' + base verb 'marry' വേണം.\n• (D) 'when he would married her' — ക്രമം ശരിയാണെങ്കിലും, 'would' + 'married' എന്ന combination തെറ്റാണ്; base form 'marry' ആണ് ശരി, past participle അല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: 'Question mark പോയാൽ, ക്രമവും സാധാരണ statement പോലെയാകും' എന്ന് ഓർക്കുക.\n• Rule family: Direct question → Indirect question എപ്പോഴും 'Wh-word + Subject + Verb' ക്രമം; auxiliary-subject മറിച്ചിടൽ ഇല്ല.\n• PSC strategy: 'would' കണ്ടാൽ അതിന് ശേഷം എപ്പോഴും base form verb (marry, come, go) വരണം — past form (married) ഒരിക്കലും വരില്ല എന്ന് ഓർക്കുക."
+      }
+    },
+    {
+      "id": "082-2018-M-Q65",
+      "paperId": "082-2018-M",
+      "questionNumber": 65,
+      "topic": "Conditionals",
+      "questionText": "If he hadn't fallen sick, he ________ the exam.",
+      "optionA": "would has written",
+      "optionB": "would have been written",
+      "optionC": "would have written",
+      "optionD": "would write",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) would have written\n• 'If' clause-ൽ 'hadn't fallen' (past perfect) ഉള്ളതിനാൽ ഇത് Third Conditional ആണ് — ഭൂതകാലത്തിൽ സംഭവിക്കാത്ത ഒരു കാര്യത്തെക്കുറിച്ചാണ് പറയുന്നത്.\n• Third Conditional-ന്റെ main clause-ന്റെ structure: 'would have + past participle' — അതായത് 'would have written'.\n• 'അവന് അസുഖം വന്നില്ലായിരുന്നെങ്കിൽ, പരീക്ഷ എഴുതുമായിരുന്നു' എന്നാണ് അർത്ഥം — യാഥാർത്ഥ്യത്തിന് വിപരീതമായ ഒരു ഭൂതകാല സാഹചര്യം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: If-ന് ശേഷം Past Perfect (had + past participle) വന്നാൽ, main clause-ൽ would have + past participle വരണം — ഇതാണ് Third Conditional!\n• ഈ structure ഭൂതകാലത്തിലെ ഒരു സാങ്കൽപ്പിക സാഹചര്യത്തെ കുറിച്ചാണ് സംസാരിക്കുന്നത് — 'സംഭവിക്കാമായിരുന്നത്, പക്ഷേ യഥാർത്ഥത്തിൽ സംഭവിച്ചില്ല' എന്നർത്ഥം.\n• Subject തന്നെ action ചെയ്യുന്നതിനാൽ (he എഴുതും) active voice ('would have written') ആണ് ശരി, passive voice അല്ല.\n• ⭐ PSC ആവർത്തനം: Third Conditional-ന്റെ 'would have + past participle' structure PSC പതിവായി test ചെയ്യുന്ന ഒരു topic ആണ്.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. If he hadn't fallen sick, he would have written the exam. (അസുഖം വന്നില്ലായിരുന്നെങ്കിൽ എഴുതുമായിരുന്നു)\n2. If she had studied hard, she would have passed the test. (നന്നായി പഠിച്ചിരുന്നെങ്കിൽ ജയിക്കുമായിരുന്നു)\n3. If they had left early, they would have caught the train. (നേരത്തെ പോയിരുന്നെങ്കിൽ ട്രെയിൻ കിട്ടുമായിരുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) would has written — 'would' എന്ന auxiliary-ന് ശേഷം എപ്പോഴും base form ('have') വരണം, 'has' ഒരിക്കലും വരില്ല; ഇത് വ്യാകരണപരമായി തന്നെ തെറ്റായ ഒരു combination ആണ്.\n• (B) would have been written — ഇത് Passive Voice ആണ്; 'he' എന്ന subject തന്നെ 'എഴുതപ്പെട്ടു' എന്ന് അർത്ഥം വരും, ഇത് അസംബന്ധമാണ്. Subject തന്നെ action ചെയ്യുന്നതിനാൽ active voice വേണം.\n• 🪤 PSC Trap: 'been' ചേർത്ത് ഉണ്ടാക്കുന്ന passive structure ശരിയായി തോന്നിക്കുന്ന ഒരു common trap ആണ്.\n• (D) would write — ഇത് Second Conditional-ന്റെ structure ആണ് (would + base verb); 'If' clause past perfect ('hadn't fallen') ആയതിനാൽ main clause-ലും perfect form ('have written') തന്നെ വേണം, ordinary base form പോരാ.",
+        "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: 'HAD' രണ്ടിടത്തും കണ്ടാൽ ആശയക്കുഴപ്പം വേണ്ട — If-ഭാഗത്ത് 'had' വന്നാൽ, മറുഭാഗത്ത് 'would have' ആണ് വരേണ്ടത് എന്ന് ഉറക്കെ ഓർത്തുവയ്ക്കുക.\n• Conditional-കളുടെ രണ്ട് വീട് ഒരുമിച്ച് പഠിക്കുക — ഒരു വീട്ടിൽ 'Past + would + base verb' താമസിക്കുന്നു, മറ്റേ വീട്ടിൽ 'Past Perfect + would have + past participle' താമസിക്കുന്നു; ഈ രണ്ട് വീടും കൂട്ടിക്കലർത്തരുത്.\n• PSC strategy: 'If' ഭാഗത്ത് 'had/hadn't' കണ്ടാൽ ഉടനെ മറുഭാഗത്ത് 'would have' തിരയുക, ഒപ്പം subject തന്നെയാണോ പ്രവൃത്തി ചെയ്യുന്നത് എന്ന് നോക്കി active voice ഉറപ്പുവരുത്തുക — ഇത് ശീലമാക്കിയാൽ ഇനി ഈ topic-ൽ മാർക്ക് നഷ്ടപ്പെടില്ല!"
+      }
+    },
+    {
+      "id": "082-2018-M-Q66",
+      "paperId": "082-2018-M",
+      "questionNumber": 66,
+      "topic": "Prepositions",
+      "questionText": "She comes to school ________ bus.",
+      "optionA": "by",
+      "optionB": "on",
+      "optionC": "to",
+      "optionD": "in",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) by\n• Vehicle/transport മാർഗ്ഗം സൂചിപ്പിക്കാൻ ('bus, car, train, plane' മുഖേന യാത്ര ചെയ്യുക) preposition 'by' ആണ് ഉപയോഗിക്കുന്നത്.\n• 'By bus' എന്നാൽ 'ബസ്സ് മുഖേന/ബസ്സിൽ' എന്നർത്ഥം.\n• 'അവൾ ബസ്സിൽ സ്കൂളിൽ വരുന്നു' എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Transport-ന്റെ mode പറയാൻ 'by' + vehicle (article ഇല്ലാതെ) — by bus, by car, by train, by air, by sea!\n• 'നടക്കുന്നത്' സൂചിപ്പിക്കാൻ ഒരു exception ഉണ്ട് — 'by foot' അല്ല, 'on foot' ആണ് ശരി.\n• Vehicle-ന്റെ പേരിന് മുൻപ് article ('a/the') ചേർക്കരുത് — 'by a bus' തെറ്റാണ്, 'by bus' ആണ് ശരി.\n• ⭐ PSC ആവർത്തനം: Transport preposition ('by bus/car/train') PSC വളരെ പതിവായി ചോദിക്കുന്ന ഒരു topic ആണ്.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. She comes to school by bus. (ബസ്സിൽ വരുന്നു)\n2. He travels by train every day. (ട്രെയിനിൽ യാത്ര ചെയ്യുന്നു)\n3. They go to office on foot. (നടന്നുപോകുന്നു — ഒരു exception)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) on — 'on' സാധാരണ ഒരു ഉപരിതലത്തിൽ ('on the table') എന്തെങ്കിലും ഉണ്ടെന്ന് കാണിക്കാൻ ഉപയോഗിക്കും; mode of transport പറയാൻ ഇത് ഉപയോഗിക്കില്ല.\n• 🪤 PSC Trap: 'on the bus' (ബസ്സിനുള്ളിൽ ഇരിക്കുന്നു എന്ന അർത്ഥത്തിൽ) ശരിയാകാമെങ്കിലും, mode of transport പറയുന്ന ഇവിടെ 'on bus' തെറ്റാണ്.\n• (C) to — 'to' direction/destination സൂചിപ്പിക്കാൻ ഉപയോഗിക്കും ('to school'), mode of transport-ന് അല്ല.\n• (D) in — 'in' ഒരു container-നുള്ളിൽ എന്ന അർത്ഥത്തിൽ ഉപയോഗിക്കും; standard mode-of-transport pattern 'by bus' ആണ്, 'in bus' അല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: 'BY BUS, BY CAR, BY TRAIN — എല്ലാം BY!' എന്ന് താളത്തിൽ ഓർത്തുവയ്ക്കുക.\n• Word family: by bus, by car, by train, by air, by sea, by road — ഇവയെല്ലാം ഒരേ pattern; exception: on foot.\n• PSC strategy: Transport-ന്റെ പേര് കണ്ടാൽ ഉടനെ 'by' ഓർക്കുക — 'foot' മാത്രമേ 'on' എടുക്കൂ എന്നത് പ്രത്യേകം ഓർക്കുക."
+      }
+    },
+    {
+      "id": "082-2018-M-Q67",
+      "paperId": "082-2018-M",
+      "questionNumber": 67,
+      "topic": "General Knowledge",
+      "questionText": "How much is a baker's dozen ?",
+      "optionA": "12",
+      "optionB": "13",
+      "optionC": "24",
+      "optionD": "20",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) 13\n• 'A baker's dozen' എന്ന പ്രയോഗം പരമ്പരാഗതമായി 13 എണ്ണത്തെ സൂചിപ്പിക്കുന്നു, സാധാരണ dozen (12) അല്ല.\n• പഴയകാലത്ത് bakers-മാർ ഉപഭോക്താക്കൾക്ക് കുറവ് തൂക്കം കൊടുക്കുന്നത് ഒഴിവാക്കാൻ ഒരു extra item സൗജന്യമായി ചേർത്തിരുന്നു എന്നതിൽ നിന്നാണ് ഈ പ്രയോഗം വന്നത്.\n• 'ബേക്കറുടെ ഡസൻ' എന്നാൽ '13' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Dozen = 12, പക്ഷേ 'Baker's dozen' = 13 — ഇത് ഒരു special fixed expression ആണ്!\n• Etymology hint: ഇംഗ്ലണ്ടിലെ പഴയ നിയമപ്രകാരം bread-ന്റെ weight കുറഞ്ഞാൽ bakers-ന് ശിക്ഷ ലഭിക്കുമായിരുന്നു, അതിനാൽ അവർ 13 എണ്ണം (ഒരു extra) നൽകി സുരക്ഷിതരായി.\n• ഇത് പോലുള്ള fixed number expressions (a score, a dozen, a gross) English vocabulary-യിൽ പ്രത്യേകം ശ്രദ്ധിക്കേണ്ട ഭാഗമാണ്.\n• ⭐ PSC ആവർത്തനം: ഇത്തരം number-based vocabulary trivia PSC ചിലപ്പോൾ ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. A baker's dozen is thirteen. (13 ആണ്)\n2. A dozen eggs means twelve eggs. (12 ആണ്)\n3. A score of years means twenty years. (20 ആണ്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) 12 — ഇത് സാധാരണ 'dozen' ആണ്; 'baker's dozen' എന്ന special expression-ന് ഒരു extra item കൂടി ചേർത്ത് 13 ആണ്.\n• 🪤 PSC Trap: 'dozen' എന്ന വാക്ക് മാത്രം കണ്ട് ചിന്തിക്കാതെ 12 തിരഞ്ഞെടുക്കുന്നത് ഏറ്റവും സാധാരണ trap ആണ് — 'baker's' എന്ന prefix ശ്രദ്ധിക്കാതെ പോകുന്നതാണ് കാരണം.\n• (C) 24 — ഇത് രണ്ട് dozen (2×12) ആണ്, baker's dozen-ന്റെ അർത്ഥമല്ല.\n• (D) 20 — ഇത് 'a score' എന്ന വേറൊരു fixed expression-ന്റെ അർത്ഥമാണ്, baker's dozen-ന്റെ അല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: 'Baker എപ്പോഴും ഒരെണ്ണം extra തരും' എന്ന ചിത്രം മനസ്സിൽ വരയ്ക്കുക — പന്ത്രണ്ടും ഒന്നും ചേർത്താൽ പതിമൂന്ന്!\n• Number-family fixed expressions ഒരുമിച്ച് പഠിക്കുക: dozen, baker's dozen, score, gross — ഓരോന്നിനും വേറെ എണ്ണം.\n• PSC strategy: Fixed number expressions ചോദിക്കുമ്പോൾ literal meaning-ൽ കുടുങ്ങാതെ, പ്രത്യേക പ്രയോഗങ്ങളുടെ പരമ്പരാഗത അർത്ഥം ഓർത്തെടുക്കുക."
+      }
+    },
+    {
+      "id": "082-2018-M-Q68",
+      "paperId": "082-2018-M",
+      "questionNumber": 68,
+      "topic": "Synonyms",
+      "questionText": "Choose the synonym of – ludicrous",
+      "optionA": "absurd",
+      "optionB": "absolve",
+      "optionC": "abjure",
+      "optionD": "None of the above",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) absurd\n• 'Ludicrous' എന്ന വാക്കിന്റെ അർത്ഥം 'വിചിത്രമായ/ചിരിപ്പിക്കുന്ന വിധം അസംബന്ധമായ' എന്നാണ് — 'absurd' എന്ന വാക്കിനും ഇതേ അർത്ഥം തന്നെയാണ്.\n• Etymology: 'Ludicrous' Latin 'ludicrus' (playful, sportive) എന്നതിൽ നിന്നാണ് വന്നത് — എന്നാൽ modern English-ൽ ഇത് 'absurd, ridiculous' എന്ന negative അർത്ഥത്തിലാണ് ഉപയോഗിക്കുന്നത്.\n• 'ആ idea തികച്ചും ludicrous ആയിരുന്നു' എന്നു പറഞ്ഞാൽ 'ആ ആശയം തികച്ചും അസംബന്ധമായിരുന്നു' എന്നാണ് അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Ludicrous = Absurd = Ridiculous — മൂന്നും ഒരേ അർത്ഥത്തിലുള്ള synonym group ആണ്!\n• Synonym ചോദ്യങ്ങളിൽ, ചോദ്യത്തിലെ വാക്കിന്റെ അർത്ഥം ആദ്യം മനസ്സിലാക്കി, ഏറ്റവും അടുത്ത അർത്ഥമുള്ള option തിരഞ്ഞെടുക്കുക.\n• Etymology hint: Latin 'ludicrus' (കളിയായ) → English-ൽ 'ludicrous' (അസംബന്ധമായ, ചിരിപ്പിക്കുന്ന).\n• ⭐ PSC ആവർത്തനം: Synonym ചോദ്യങ്ങൾ PSC-യുടെ ഏറ്റവും സ്ഥിരമായി വരുന്ന ഒരു topic ആണ്.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. His excuse was ludicrous. (അസംബന്ധം)\n2. That is an absurd idea. (അസംബന്ധമായ ആശയം)\n3. The plan sounded ridiculous to everyone. (ചിരിപ്പിക്കുന്ന പദ്ധതി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) absolve — ഇതിന്റെ അർത്ഥം 'കുറ്റത്തിൽ നിന്ന് ഒഴിവാക്കുക/മോചിപ്പിക്കുക' എന്നാണ്; 'ludicrous'-മായി അർത്ഥബന്ധം ഇല്ല.\n• 🪤 PSC Trap: 'absolve' എന്ന വാക്ക് 'absurd' പോലെ 'ab-' എന്ന് തുടങ്ങുന്നതിനാൽ spelling-ൽ confuse ആകാൻ സാധ്യതയുണ്ട്.\n• (C) abjure — ഇതിന്റെ അർത്ഥം 'ഒരു കാര്യം ഔദ്യോഗികമായി ഉപേക്ഷിക്കുക/നിരസിക്കുക' എന്നാണ്; ludicrous-ന്റെ അർത്ഥവുമായി ബന്ധമില്ല.\n• (D) None of the above — ശരിയായ synonym (A) 'absurd' ലിസ്റ്റിൽ ഉള്ളതിനാൽ ഈ option ബാധകമല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: 'Ludicrous കേട്ടാൽ ചിരി വരുന്ന അസംബന്ധം' എന്ന് ചിത്രീകരിക്കുക — absurd-ഉം അതേ അർത്ഥം.\n• Word family: ludicrous, absurd, ridiculous, preposterous — ഇവയെല്ലാം 'അസംബന്ധമായ' എന്ന അർത്ഥ ഗ്രൂപ്പിൽ പെടും.\n• PSC strategy: 'ab-' prefix ഉള്ള വാക്കുകൾ (absolve, abjure) കണ്ട് confuse ആകാതെ, ഓരോ വാക്കിന്റെയും യഥാർത്ഥ അർത്ഥം ഓർത്തെടുക്കുക."
+      }
+    },
+    {
+      "id": "082-2018-M-Q69",
+      "paperId": "082-2018-M",
+      "questionNumber": 69,
+      "topic": "Word Formation",
+      "questionText": "What is a female sheep called ?",
+      "optionA": "Ram",
+      "optionB": "Lamb",
+      "optionC": "Ewe",
+      "optionD": "Calf",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) Ewe\n• ആടിന്റെ (sheep) സ്ത്രീലിംഗ രൂപത്തിന് (female) പ്രത്യേകം ഉപയോഗിക്കുന്ന വാക്കാണ് 'Ewe' (ഉച്ചാരണം: 'യൂ').\n• English-ൽ പല മൃഗങ്ങൾക്കും ആണ്/പെണ്ണ്/കുഞ്ഞ് എന്നിവയ്ക്ക് പ്രത്യേകം വാക്കുകൾ ഉണ്ട് — sheep-ന്റെ കാര്യത്തിൽ ram (ആൺ), ewe (പെൺ), lamb (കുഞ്ഞ്).\n• 'Ewe ഒരു female sheep ആണ്' എന്നാണ് ചോദ്യത്തിന്റെ ഉത്തരം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Sheep family — Ram (ആൺ), Ewe (പെൺ), Lamb (കുഞ്ഞ്) — മൂന്നും വേറെ വാക്കുകൾ!\n• English-ൽ gender-specific animal noun-കൾ എന്ന category-യിൽ പെടുന്ന വാക്കുകളാണ് ഇവ — cow/bull, hen/cock, tigress/tiger പോലുള്ളവ ഈ pattern പിന്തുടരും.\n• ഇവ പ്രത്യേകം മനഃപാഠമാക്കേണ്ട ഒരു vocabulary category ആണ്, PSC ആവർത്തിച്ച് ഇത്തരം ചോദ്യങ്ങൾ ചോദിക്കാറുണ്ട്.\n• ⭐ PSC ആവർത്തനം: 'female tiger', 'female sheep', 'young one of...' പോലുള്ള animal-vocabulary ചോദ്യങ്ങൾ PSC-യുടെ സ്ഥിരം topic ആണ്.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. What is a female sheep called? — Ewe. (പെൺ ആട്)\n2. What is a female tiger called? — Tigress. (പെൺ കടുവ)\n3. What is the young one of a sheep called? — Lamb. (ആട്ടിൻകുട്ടി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Ram — ഇത് ആൺ ആടിനെയാണ് (male sheep) സൂചിപ്പിക്കുന്നത്, female sheep-നെ അല്ല.\n• 🪤 PSC Trap: Ram, Ewe, Lamb എന്നീ മൂന്ന് വാക്കുകളും ഒരേ topic-ൽ ഒരുമിച്ച് വരുന്നതിനാൽ confuse ചെയ്ത് തെറ്റായ gender തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.\n• (B) Lamb — ഇത് ആടിന്റെ കുഞ്ഞിനെ (young sheep) സൂചിപ്പിക്കുന്നു, gender-നെ അല്ല — പ്രായത്തെ അടിസ്ഥാനമാക്കിയ വാക്കാണ്.\n• (D) Calf — ഇത് പശുവിന്റെയോ ആനയുടെയോ കുഞ്ഞിനെ സൂചിപ്പിക്കുന്ന വാക്കാണ്, ആടിന്റെ അല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: 'RAM-EWE-LAMB' എന്ന മൂന്ന് വാക്ക് ഒരു കുടുംബ ചിത്രം പോലെ ഓർക്കുക — അച്ഛൻ (Ram), അമ്മ (Ewe), കുഞ്ഞ് (Lamb).\n• Animal gender-family word groups ഒരുമിച്ച് പഠിക്കുക: Ram-Ewe-Lamb (sheep), Bull-Cow-Calf (cattle), Cock-Hen-Chick (fowl), Tiger-Tigress-Cub (tiger).\n• PSC strategy: Animal-vocabulary ചോദ്യങ്ങളിൽ ആൺ/പെൺ/കുഞ്ഞ് ഏതാണ് ചോദിക്കുന്നത് എന്ന് ശ്രദ്ധയോടെ വായിക്കുക, ഈ മൂന്ന് categories confuse ചെയ്യാതിരിക്കുക."
+      }
+    },
+    {
+      "id": "082-2018-M-Q70",
+      "paperId": "082-2018-M",
+      "questionNumber": 70,
+      "topic": "Antonyms",
+      "questionText": "Antonym of – bravery",
+      "optionA": "courage",
+      "optionB": "cowardice",
+      "optionC": "conceal",
+      "optionD": "construct",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) cowardice\n• 'Bravery' എന്നാൽ 'ധൈര്യം/നിർഭയത്വം' എന്നാണ് അർത്ഥം; ഇതിന്റെ നേരെ വിപരീതം 'cowardice' (ഭീരുത്വം) ആണ്.\n• Etymology: 'Coward' എന്ന വാക്കിൽ നിന്നാണ് 'cowardice' ഉണ്ടായത് — ഭയം കാരണം പിന്മാറുന്ന സ്വഭാവം എന്നർത്ഥം.\n• 'അവന്റെ bravery എല്ലാവരും പ്രശംസിച്ചു' എന്നതിന് വിപരീതമായി 'അവന്റെ cowardice എല്ലാവരും കുറ്റപ്പെടുത്തി' എന്ന് പറയാം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Bravery ↔ Cowardice — ധൈര്യത്തിന്റെയും ഭീരുത്വത്തിന്റെയും standard antonym പെയർ!\n• Antonym ചോദ്യങ്ങളിൽ, ചോദ്യത്തിലെ വാക്കിന്റെ അർത്ഥം ആദ്യം ഉറപ്പിച്ച ശേഷം, കൃത്യമായി എതിർ അർത്ഥമുള്ള option തിരഞ്ഞെടുക്കുക — synonym options trap ആയി വരാം.\n• 'Bravery' ഒരു positive quality (ധൈര്യം), 'cowardice' ഒരു negative quality (ഭീരുത്വം) ആണ് — ഈ contrast ഓർത്തുവയ്ക്കുക.\n• ⭐ PSC ആവർത്തനം: Antonym ചോദ്യങ്ങൾ PSC-യുടെ സ്ഥിരം ഭാഗമാണ്, quality/character-related വാക്കുകൾ ആവർത്തിച്ച് വരും.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. Bravery is admired; cowardice is despised. (ധൈര്യം ബഹുമാനിക്കപ്പെടുന്നു; ഭീരുത്വം അപമാനിക്കപ്പെടുന്നു)\n2. He showed great bravery in the war. (യുദ്ധത്തിൽ വലിയ ധൈര്യം കാണിച്ചു)\n3. Running away was seen as an act of cowardice. (ഓടിപ്പോകൽ ഭീരുത്വമായി കാണപ്പെട്ടു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) courage — ഇത് 'bravery'-ന്റെ synonym ആണ് (ഏകദേശം ഒരേ അർത്ഥം — ധൈര്യം), antonym അല്ല.\n• 🪤 PSC Trap: Synonym-നെ antonym ആയി തെറ്റിദ്ധരിക്കുന്നത് ഏറ്റവും സാധാരണ trap ആണ് — 'courage' 'bravery'യുടെ അതേ അർത്ഥമുള്ള വാക്കാണ്.\n• (C) conceal — ഇതിന്റെ അർത്ഥം 'മറച്ചുവയ്ക്കുക/ഒളിപ്പിക്കുക' എന്നാണ്; ധൈര്യവുമായി നേരിട്ട് ബന്ധമില്ല.\n• (D) construct — ഇതിന്റെ അർത്ഥം 'നിർമ്മിക്കുക' എന്നാണ്; ഇതും bravery-യുടെ അർത്ഥവുമായി ബന്ധപ്പെട്ടതല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: 'Brave മനുഷ്യൻ മുന്നോട്ട്, Coward പിന്നോട്ട്' എന്ന ചിത്രം മനസ്സിൽ വരയ്ക്കുക.\n• Word family: bravery-courage-valour (synonyms, ധൈര്യം) vs cowardice-timidity (synonyms, ഭീരുത്വം) — രണ്ട് ഗ്രൂപ്പുകൾ വേറെ വേറെ ഓർക്കുക.\n• PSC strategy: Antonym ചോദ്യങ്ങളിൽ ആദ്യം options-ൽ synonym ഉണ്ടോ എന്ന് പരിശോധിക്കുക (trap ആയി വരാം), എന്നിട്ട് യഥാർത്ഥ എതിർ അർത്ഥമുള്ള വാക്ക് തിരഞ്ഞെടുക്കുക."
+      }
+    },
+    {
+      "id": "082-2018-M-Q71",
+      "paperId": "082-2018-M",
+      "questionNumber": 71,
+      "topic": "Idioms",
+      "questionText": "Select the idiom which means 'unable to reach a decision' :",
+      "optionA": "Miss the boat",
+      "optionB": "Once in blue moon",
+      "optionC": "Sit on the fence",
+      "optionD": "The last straw",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) Sit on the fence\n• 'Sit on the fence' എന്ന idiom-ന്റെ അർത്ഥം 'ഒരു തീരുമാനവും എടുക്കാതെ നിഷ്പക്ഷമായി നിൽക്കുക/രണ്ട് പക്ഷത്തും ചേരാതിരിക്കുക' എന്നാണ്.\n• ഒരു വേലിയുടെ (fence) മുകളിൽ ഇരിക്കുന്ന ഒരാൾക്ക് ഏത് വശത്തേക്ക് ചാടണം എന്ന് തീരുമാനിക്കാൻ കഴിയാത്ത അവസ്ഥയെ സൂചിപ്പിക്കുന്ന ഒരു ചിത്രാത്മക പ്രയോഗമാണിത്.\n• 'അവൻ ആ വിഷയത്തിൽ sit on the fence ചെയ്യുകയാണ്' എന്നാൽ 'അവൻ ആ വിഷയത്തിൽ ഒരു തീരുമാനവും എടുക്കാതെ നിൽക്കുകയാണ്' എന്നാണ് അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: 'Sit on the fence' = തീരുമാനമെടുക്കാൻ കഴിയാതെ നിഷ്പക്ഷമായി നിൽക്കുക!\n• Idiom-കൾ അവയുടെ literal അർത്ഥത്തിൽ നിന്ന് വ്യത്യസ്തമായ ഒരു figurative അർത്ഥമാണ് നൽകുന്നത് — ഇവ ഓരോന്നും ഒരു ചിത്രം ആയി ഓർത്തുവയ്ക്കുന്നത് എളുപ്പമാക്കും.\n• 'Fence' (വേലി) രണ്ട് വശങ്ങളെ വേർതിരിക്കുന്ന ഒരു അതിർത്തി ആയതിനാൽ, അതിന്റെ മുകളിൽ ഇരിക്കുന്നത് 'ഒരു വശവും തിരഞ്ഞെടുക്കാതിരിക്കൽ' എന്നതിന്റെ ഒരു perfect ചിത്രമാണ്.\n• ⭐ PSC ആവർത്തനം: Idiom meaning ചോദ്യങ്ങൾ PSC-യുടെ സ്ഥിരം ഭാഗമാണ്; തീരുമാനം, ബുദ്ധിമുട്ട്, സന്തോഷം related idioms ആവർത്തിച്ച് വരും.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. He is sitting on the fence about the new policy. (തീരുമാനമെടുക്കാതെ നിൽക്കുന്നു)\n2. Stop sitting on the fence and make a choice! (തീരുമാനിക്കൂ!)\n3. The politician sat on the fence during the debate. (നിഷ്പക്ഷമായി നിന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Miss the boat — ഇതിന്റെ അർത്ഥം 'ഒരു അവസരം നഷ്ടപ്പെടുത്തുക' എന്നാണ്, തീരുമാനമെടുക്കാൻ കഴിയാത്തതുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: രണ്ട് idioms-ഉം 'ഒരു action ചെയ്യാതിരിക്കുക' എന്ന ആശയത്തോട് ഉപരിപ്ലവമായി ബന്ധപ്പെട്ടതായി തോന്നാമെങ്കിലും, 'miss the boat' അവസരനഷ്ടത്തെക്കുറിച്ചാണ്, തീരുമാനക്കുറവിനെക്കുറിച്ചല്ല.\n• (B) Once in blue moon — ഇതിന്റെ അർത്ഥം 'വളരെ അപൂർവ്വമായി സംഭവിക്കുന്നത്' എന്നാണ്, തീരുമാനവുമായി ബന്ധമില്ല.\n• (D) The last straw — ഇതിന്റെ അർത്ഥം 'സഹിഷ്ണുതയുടെ പരിധി കടക്കുന്ന അവസാന സംഭവം' എന്നാണ്, തീരുമാനമെടുക്കാൻ കഴിയാത്തതുമായി ബന്ധമില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: 'വേലിയുടെ മുകളിൽ ഇരിക്കുന്ന ആൾക്ക് ഏത് വശത്തേക്ക് ചാടണം എന്ന് അറിയില്ല' എന്ന ചിത്രം മനസ്സിൽ വരയ്ക്കുക.\n• തീരുമാനവുമായി ബന്ധപ്പെട്ട idioms ഒരുമിച്ച് പഠിക്കുക: sit on the fence (തീരുമാനിക്കാതിരിക്കൽ), make up one's mind (തീരുമാനിക്കൽ), think twice (രണ്ടാമതൊന്ന് ചിന്തിക്കൽ).\n• PSC strategy: Idiom ചോദ്യങ്ങളിൽ ആദ്യം meaning-ലെ key concept (ഇവിടെ 'തീരുമാനിക്കാൻ കഴിയാത്ത അവസ്ഥ') കണ്ടെത്തി, അതിന് ഏറ്റവും അടുത്ത ചിത്രാത്മക idiom തിരഞ്ഞെടുക്കുക."
+      }
+    },
+    {
+      "id": "082-2018-M-Q72",
+      "paperId": "082-2018-M",
+      "questionNumber": 72,
+      "topic": "Phrasal Verbs",
+      "questionText": "It is difficult to ________ his rude behaviour.",
+      "optionA": "put on",
+      "optionB": "put up with",
+      "optionC": "put into",
+      "optionD": "put in",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) put up with\n• 'Put up with' എന്ന phrasal verb-ന്റെ അർത്ഥം 'സഹിക്കുക/ക്ഷമയോടെ അംഗീകരിക്കുക' എന്നാണ്.\n• വാക്യത്തിൽ 'his rude behaviour' (അവന്റെ പരുഷമായ പെരുമാറ്റം) 'സഹിക്കാൻ' ബുദ്ധിമുട്ടാണ് എന്ന അർത്ഥമാണ് വേണ്ടത്.\n• 'അവന്റെ പരുഷമായ പെരുമാറ്റം സഹിക്കുക പ്രയാസമാണ്' എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Put up with = Tolerate/Bear (സഹിക്കുക) — ഒരു idiomatic meaning ആണ്, literal അല്ല!\n• Phrasal verbs-ന്റെ അർത്ഥം അതിലെ ഓരോ വാക്കിന്റെയും അർത്ഥത്തിൽ നിന്ന് ഊഹിക്കാൻ കഴിയില്ല — 'put' + 'up' + 'with' ചേർന്നാൽ 'സഹിക്കുക' എന്ന പുതിയ അർത്ഥം ഉണ്ടാകുന്നു.\n• 'Put' എന്ന base verb-ന്റെ വ്യത്യസ്ത phrasal forms വ്യത്യസ്ത അർത്ഥങ്ങൾ നൽകും — ഓരോന്നും പ്രത്യേകം പഠിക്കണം.\n• ⭐ PSC ആവർത്തനം: Phrasal verb meaning ചോദ്യങ്ങൾ PSC-യുടെ ഏറ്റവും സ്ഥിരമായി വരുന്ന topic-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. It is difficult to put up with his rude behaviour. (സഹിക്കാൻ പ്രയാസം)\n2. She has to put up with a lot of noise at work. (ബഹളം സഹിക്കണം)\n3. I can't put up with this delay anymore. (ഈ താമസം സഹിക്കാൻ വയ്യ)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) put on — ഇതിന്റെ അർത്ഥം 'ധരിക്കുക/അഭിനയിക്കുക' എന്നാണ്, സഹിക്കുക എന്ന അർത്ഥമല്ല.\n• 🪤 PSC Trap: 'Put' എന്ന ഒരേ base verb ഉള്ള phrasal verbs (put on, put up with, put into, put in) തമ്മിൽ confuse ആകാൻ വളരെ സാധ്യതയുണ്ട്.\n• (C) put into — ഇതിന്റെ അർത്ഥം 'എന്തെങ്കിലും ഒരു കാര്യത്തിലേക്ക് ചെലുത്തുക/നിക്ഷേപിക്കുക' എന്നാണ്, സഹിക്കുക എന്ന അർത്ഥമല്ല.\n• (D) put in — ഇതിന്റെ അർത്ഥം 'സമർപ്പിക്കുക/ഇൻസ്റ്റാൾ ചെയ്യുക' എന്നാണ്, സഹിക്കുക എന്ന അർത്ഥവുമായി ബന്ധമില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: 'UP WITH = സഹിച്ചു നിൽക്കുക' എന്ന് ബന്ധിപ്പിച്ച് ഓർക്കുക — ബുദ്ധിമുട്ട് സഹിച്ചു കൂടെ നിൽക്കുക എന്നർത്ഥം.\n• 'Put' family ഒരുമിച്ച് പട്ടിക ഉണ്ടാക്കി പഠിക്കുക: put on (ധരിക്കുക), put up with (സഹിക്കുക), put off (മാറ്റിവയ്ക്കുക), put down (താഴെ വയ്ക്കുക) — ഇവയെല്ലാം വ്യത്യസ്ത meanings.\n• PSC strategy: Phrasal verb ചോദ്യങ്ങളിൽ വാക്യത്തിന്റെ context ശ്രദ്ധയോടെ വായിച്ച്, ഏത് idiomatic meaning-ആണ് ചേരുന്നത് എന്ന് കണ്ടെത്തുക."
+      }
+    },
+    {
+      "id": "082-2018-M-Q73",
+      "paperId": "082-2018-M",
+      "questionNumber": 73,
+      "topic": "Active and Passive Voice",
+      "questionText": "He will do the work. (Change into passive voice)",
+      "optionA": "The work will done by him.",
+      "optionB": "The work will be do by him.",
+      "optionC": "The work will be did by him.",
+      "optionD": "The work will be done by him.",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) The work will be done by him.\n• Active voice-ലെ 'He will do the work' എന്ന വാക്യത്തെ passive voice ആക്കുമ്പോൾ object ('the work') subject ആയി മാറും, verb 'be + past participle' രൂപത്തിലേക്ക് മാറും.\n• 'will do' എന്ന future simple tense-ന്റെ passive രൂപം 'will be done' ആണ് — 'do' എന്ന verb-ന്റെ past participle 'done' ആണ്.\n• 'ജോലി അവനാൽ ചെയ്യപ്പെടും' എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Active-ൽ ഏത് tense ആണോ, Passive-ലും അതേ tense തന്നെ വരണം — ഇത് ഒരിക്കലും മാറില്ല!\n• Future Simple-ന്റെ Active structure 'subject + will + base verb' ആണെങ്കിൽ, അതിന്റെ Passive structure 'object + will be + past participle + by + subject' ആയി മാറും.\n• 'Do' എന്ന irregular verb-ന്റെ മൂന്ന് രൂപങ്ങൾ ഓർത്തുവയ്ക്കുക — ഇപ്പോൾ ചെയ്യുന്നത് 'do', ഭൂതകാലത്തിൽ ചെയ്തത് 'did', 'be' എന്ന auxiliary-ക്ക് ശേഷം വരേണ്ട രൂപം 'done' എന്നാണ്; ഈ മൂന്നും തമ്മിൽ മാറിപ്പോകരുത്.\n• ⭐ PSC ആവർത്തനം: Active-Passive conversion PSC-യുടെ ഏറ്റവും സ്ഥിരമായി വരുന്ന grammar topic ആണ്; irregular verb-യുടെ ശരിയായ രൂപം തിരിച്ചറിയാൻ ഇത് ആവർത്തിച്ച് പരിശീലിക്കണം.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. He will do the work. → The work will be done by him. (ജോലി ചെയ്യപ്പെടും എന്നർത്ഥം)\n2. She will write the letter. → The letter will be written by her. (കത്ത് എഴുതപ്പെടും എന്നർത്ഥം)\n3. They will build the house. → The house will be built by them. (വീട് പണിയപ്പെടും എന്നർത്ഥം)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) The work will done by him. — ഇവിടെ 'be' എന്ന auxiliary verb വിട്ടുപോയി; Passive voice-ന് 'will be + past participle' എന്ന structure-ൽ 'be' നിർബന്ധമായും വേണം.\n• 🪤 PSC Trap: 'be' auxiliary വിട്ടുപോകുന്നത് വളരെ സാധാരണമായ ഒരു careless mistake ആണ് — ശ്രദ്ധയോടെ structure പരിശോധിക്കണം.\n• (B) The work will be do by him. — ഇവിടെ base form 'do' ഉപയോഗിച്ചു, past participle 'done' അല്ല; 'be'-ന് ശേഷം എപ്പോഴും past participle വേണം.\n• (C) The work will be did by him. — ഇവിടെ past tense form 'did' ഉപയോഗിച്ചു; passive-ന് past participle 'done' ആണ് വേണ്ടത്, simple past 'did' അല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: 'BE + DONE — ജോലി ചെയ്യപ്പെടും!' എന്ന് താളത്തിൽ ഓർത്തുവയ്ക്കുക; 'do-did-done' മൂന്ന് forms confuse ആകാതെ വേർതിരിച്ചറിയുക.\n• Irregular verb family ഒരുമിച്ച് പഠിക്കുക: do-did-done, write-wrote-written, build-built-built — ഓരോ verb-ന്റെയും മൂന്ന് forms മനഃപാഠമാക്കുക.\n• PSC strategy: Passive voice ചോദ്യങ്ങളിൽ ആദ്യം tense ഏതാണ് എന്ന് കണ്ടെത്തി, എന്നിട്ട് 'be' auxiliary-യും ശരിയായ past participle-യും ഉണ്ടോ എന്ന് പരിശോധിക്കുക."
+      }
+    },
+    {
+      "id": "082-2018-M-Q74",
+      "paperId": "082-2018-M",
+      "questionNumber": 74,
+      "topic": "Spelling",
+      "questionText": "Choose the correctly spelt word :",
+      "optionA": "Twelfth",
+      "optionB": "Twelveth",
+      "optionC": "Twelvth",
+      "optionD": "None of the above",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) Twelfth\n• 'Twelfth' (പന്ത്രണ്ടാമത്തെ) എന്ന ordinal number-ന്റെ ശരിയായ spelling ആണിത് — 'twelve' എന്ന വാക്കിലെ 'v' മാറി 'f' ആയാണ് ഈ വാക്ക് ഉണ്ടാകുന്നത്.\n• മറ്റ് options-ൽ letter ക്രമം തെറ്റായി വന്നിരിക്കുന്നു ('Twelveth', 'Twelvth').\n• 'ജനുവരി പന്ത്രണ്ടാം തീയതി' എന്ന് പറയാൻ 'the twelfth of January' എന്നാണ് ഉപയോഗിക്കുന്നത്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Twelve → Twelfth ('v' മാറി 'f' ആകുന്നു, 'e' പോകുന്നു)! ordinal number-ന്റെ spelling പ്രത്യേകം ഓർക്കണം.\n• Etymology hint: Old English-ൽ 'twelf' എന്നായിരുന്നു 'twelve'-ന്റെ പഴയ രൂപം, അതിൽ നിന്നാണ് 'twelfth' എന്ന ordinal രൂപം വന്നത് — അതുകൊണ്ടാണ് 've' അല്ല 'f' വരുന്നത്.\n• Number spelling-ൽ ഇത് പോലുള്ള irregular patterns ഉള്ള മറ്റ് വാക്കുകൾ: five→fifth, nine→ninth, twelve→twelfth.\n• ⭐ PSC ആവർത്തനം: Spelling ചോദ്യങ്ങൾ PSC-യുടെ സ്ഥിരം ഭാഗമാണ്; ordinal numbers-ന്റെ spelling ആവർത്തിച്ച് ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. Today is the twelfth of December. (പന്ത്രണ്ടാം തീയതി)\n2. He came fifth in the race. (അഞ്ചാമത്)\n3. She celebrated her ninth birthday. (ഒൻപതാം ജന്മദിനം)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) Twelveth — 'v' നിലനിർത്തി 'th' ചേർത്തത് തെറ്റാണ്; ശരിയായ spelling-ൽ 'v' മാറി 'f' ആകും.\n• 🪤 PSC Trap: 'Twelve' എന്ന base word-ന്റെ spelling അതേപടി നിലനിർത്തി 'th' ചേർക്കുന്നത് സ്വാഭാവികമായി തോന്നുന്ന ഒരു common trap ആണ്.\n• (C) Twelvth — ഇവിടെ 'e' കൂടി വിട്ടുപോയി, ഇത് പൂർണ്ണമായി തെറ്റായ spelling ആണ്.\n• (D) None of the above — ശരിയായ spelling (A) 'Twelfth' options-ൽ ഉള്ളതിനാൽ ഈ option ബാധകമല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: 'V പോയി F വരും' എന്ന് ചൊല്ലായി ഓർക്കുക — twelve→twelfth, five→fifth.\n• Ordinal spelling family ഒരുമിച്ച് പഠിക്കുക: five-fifth, nine-ninth, twelve-twelfth — ഇവയെല്ലാം base word-ൽ നിന്ന് ചെറിയ മാറ്റം വരുന്നവ.\n• PSC strategy: Spelling ചോദ്യങ്ങളിൽ ഓരോ option-ഉം letter-by-letter സൂക്ഷ്മമായി പരിശോധിക്കുക, base word-ൽ നിന്ന് എന്ത് മാറ്റമാണ് വന്നത് എന്ന് ഓർത്തെടുക്കുക."
+      }
+    },
+    {
+      "id": "082-2018-M-Q75",
+      "paperId": "082-2018-M",
+      "questionNumber": 75,
+      "topic": "Singular and Plural",
+      "questionText": "What do you call a group of owls ?",
+      "optionA": "Pride",
+      "optionB": "Pandemonium",
+      "optionC": "Party",
+      "optionD": "Parliament",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) Parliament\n• ഒരു കൂട്ടം മൂങ്ങകൾക്ക് (a group of owls) പ്രത്യേകമായി ഉപയോഗിക്കുന്ന collective noun ആണ് 'Parliament'.\n• ഇംഗ്ലീഷ് ഭാഷയിൽ പല മൃഗക്കൂട്ടങ്ങൾക്കും ഇത്തരം പ്രത്യേകം, രസകരമായ പേരുകൾ ഉണ്ട്.\n• 'മൂങ്ങകളുടെ ഒരു കൂട്ടത്തെ Parliament എന്ന് വിളിക്കുന്നു' എന്നാണ് ഉത്തരം — മൂങ്ങയുടെ 'ജ്ഞാനിയായ' പ്രതിച്ഛായ കാരണമാകാം ഈ പേര് വന്നത്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: A Parliament of Owls — ഓരോ മൃഗക്കൂട്ടത്തിനും ഒരു പ്രത്യേക collective noun ഓർത്തുവയ്ക്കണം!\n• Collective nouns മൃഗക്കൂട്ടങ്ങളെ ഒറ്റ unit ആയി സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്ന special വാക്കുകളാണ് — ഇവ പലപ്പോഴും ആ മൃഗത്തിന്റെ സ്വഭാവവുമായി ബന്ധപ്പെട്ട ഒരു കാവ്യാത്മക പേരായിരിക്കും.\n• 'Parliament' എന്ന വാക്ക് സാധാരണ 'നിയമനിർമ്മാണസഭ' എന്ന അർത്ഥത്തിൽ ഉപയോഗിക്കുമെങ്കിലും, മൂങ്ങകളുടെ കാര്യത്തിൽ ഇത് ഒരു collective noun ആയി മാറുന്നു.\n• ⭐ PSC ആവർത്തനം: 'A group of ___ is called' എന്ന collective noun ചോദ്യങ്ങൾ PSC ആവർത്തിച്ച് ചോദിക്കുന്ന ഒരു topic ആണ്.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. A parliament of owls sat silently in the tree. (മൂങ്ങകളുടെ കൂട്ടം)\n2. A pride of lions rested near the waterhole. (സിംഹക്കൂട്ടം)\n3. A flock of birds flew across the sky. (പക്ഷിക്കൂട്ടം)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Pride — ഇത് സിംഹങ്ങളുടെ (lions) കൂട്ടത്തിന് ഉപയോഗിക്കുന്ന collective noun ആണ്, മൂങ്ങകൾക്കുള്ളതല്ല.\n• 🪤 PSC Trap: വ്യത്യസ്ത മൃഗക്കൂട്ടങ്ങൾക്കുള്ള collective nouns (pride, parliament, pandemonium) ഒരേ ചോദ്യത്തിൽ options ആയി വരുമ്പോൾ confuse ആകാൻ എളുപ്പമാണ്.\n• (B) Pandemonium — ഇത് തത്തകളുടെ (parrots) കൂട്ടത്തിന് ഉപയോഗിക്കുന്ന collective noun ആണ്, മൂങ്ങകൾക്കുള്ളതല്ല.\n• (C) Party — ഇത് ഒരു generic വാക്കാണ്, മൂങ്ങകൾക്കായി ഔദ്യോഗികമായി അംഗീകരിക്കപ്പെട്ട collective noun അല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: 'മൂങ്ങകൾ ജ്ഞാനികളാണ്, അതുകൊണ്ട് അവർക്ക് ഒരു Parliament (സഭ) തന്നെ വേണം!' എന്ന രസകരമായ ചിത്രം ഓർത്തുവയ്ക്കുക.\n• Collective noun family ഒരുമിച്ച് പഠിക്കുക: a parliament of owls, a pride of lions, a pandemonium of parrots, a flock of birds, a herd of cattle.\n• PSC strategy: 'A group of ___ is called' ചോദ്യങ്ങൾക്ക് ഓരോ common animal-ന്റെയും collective noun ഒരു list ആയി മനഃപാഠമാക്കി വയ്ക്കുക — PSC ഇവ ആവർത്തിച്ച് ചോദിക്കും."
+      }
+    },
+    {
+      "id": "082-2018-M-Q76",
+      "paperId": "082-2018-M",
+      "questionNumber": 76,
+      "topic": "Idioms",
+      "questionText": "Fools rush in where angels fear to ________.",
+      "optionA": "tread",
+      "optionB": "thread",
+      "optionC": "threat",
+      "optionD": "treat",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) tread\n• 'Fools rush in where angels fear to tread' എന്നത് ഒരു പ്രശസ്തമായ ഇംഗ്ലീഷ് പഴഞ്ചൊല്ല് ആണ് — 'വിവേകമുള്ളവർ (angels) പോലും ഭയന്ന് പിന്മാറുന്ന കാര്യങ്ങളിലേക്ക് വിഡ്ഢികൾ (fools) ചിന്തിക്കാതെ എടുത്തുചാടും' എന്നാണ് അർത്ഥം.\n• 'Tread' എന്നാൽ 'കാലുവയ്ക്കുക/ചവിട്ടുക/മുന്നോട്ട് നീങ്ങുക' എന്നാണ് അർത്ഥം — 'fear to tread' എന്നാൽ 'മുന്നോട്ട് പോകാൻ ഭയപ്പെടുക' എന്നാണ്.\n• ഈ പഴഞ്ചൊല്ല് അമിത ധൈര്യമോ ചിന്താശൂന്യതയോ ഉള്ള പെരുമാറ്റത്തെ വിമർശിക്കാൻ ഉപയോഗിക്കുന്നു.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: 'Fear to + base verb' — 'tread' ആണ് ഇവിടെ ചേരുന്ന base verb form.\n• ഇത് ഒരു fixed proverb ആയതിനാൽ, ഇതിലെ ഓരോ വാക്കും കൃത്യമായി ഓർത്തുവയ്ക്കണം — spelling മാറ്റിയാൽ പോലും അർത്ഥം മാറിപ്പോകും.\n• 'Tread, thread, threat, treat' എന്നീ നാല് വാക്കുകളും spelling-ൽ സാമ്യമുള്ളവയാണ്, പക്ഷേ അർത്ഥത്തിൽ പൂർണ്ണമായും വ്യത്യസ്തമാണ്.\n• ⭐ PSC ആവർത്തനം: Fixed proverbs/idioms-ന്റെ ഒരു വാക്ക് missing ആയി കൊടുത്ത് fill ചെയ്യിക്കുന്ന ചോദ്യങ്ങൾ PSC-യുടെ സ്ഥിരം ഭാഗമാണ്.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. Fools rush in where angels fear to tread. (മുഴുവൻ പഴഞ്ചൊല്ല്)\n2. He treads carefully on the icy path. (ശ്രദ്ധയോടെ കാലുവയ്ക്കുന്നു)\n3. She threaded the needle quickly. (നൂൽ കോർത്തു — വേറെ വാക്ക്, 'thread')",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) thread — ഇതിന്റെ അർത്ഥം 'നൂൽ' അല്ലെങ്കിൽ 'നൂൽ കോർക്കുക' എന്നാണ്; proverb-ന്റെ അർത്ഥവുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'tread' ഉം 'thread' ഉം spelling-ൽ വളരെ സാമ്യമുള്ളതിനാൽ ശ്രദ്ധയില്ലാതെ 'thread' തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.\n• (C) threat — ഇതിന്റെ അർത്ഥം 'ഭീഷണി' എന്നാണ്, ഇത് ഒരു noun ആണ്, 'fear to' ന് ശേഷം base verb ആണ് വേണ്ടത്.\n• (D) treat — ഇതിന്റെ അർത്ഥം 'പെരുമാറുക/ചികിത്സിക്കുക' എന്നാണ്, proverb-ന്റെ പരമ്പരാഗത വാചകത്തിൽ ഈ വാക്കല്ല ഉപയോഗിക്കുന്നത്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: 'TREAD = കാലുവയ്ക്കുക' എന്ന് ചിത്രം വരയ്ക്കുക — angels പോലും ഭയന്ന് കാലുവയ്ക്കാൻ മടിക്കുന്ന സ്ഥലത്തേക്ക് fools എടുത്തുചാടും.\n• Spelling-ൽ സാമ്യമുള്ള word family ശ്രദ്ധയോടെ വേർതിരിക്കുക: tread (ചവിട്ടുക), thread (നൂൽ), threat (ഭീഷണി), treat (പെരുമാറുക/ചികിത്സിക്കുക).\n• PSC strategy: Proverb/idiom fill-in-the-blank ചോദ്യങ്ങളിൽ മുഴുവൻ പഴഞ്ചൊല്ലും മനഃപാഠമാക്കി വയ്ക്കുക — ഒറ്റ വാക്ക് മാത്രം ഓർത്താൽ spelling-trap-ൽ വീഴാം."
+      }
+    },
+    {
+      "id": "082-2018-M-Q77",
+      "paperId": "082-2018-M",
+      "questionNumber": 77,
+      "topic": "One Word Substitutes",
+      "questionText": "Pick out the one word for – think about something for a long time.",
+      "optionA": "Contempt",
+      "optionB": "Contest",
+      "optionC": "Confront",
+      "optionD": "Contemplate",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) Contemplate\n• 'Contemplate' എന്ന വാക്കിന്റെ അർത്ഥം 'ഒരു കാര്യത്തെക്കുറിച്ച് ദീർഘനേരം ചിന്തിക്കുക/ആലോചിക്കുക' എന്നാണ് — ചോദ്യത്തിൽ കൊടുത്ത definition ('think about something for a long time') കൃത്യമായി ഈ വാക്കിന് യോജിക്കുന്നു.\n• Etymology: Latin 'contemplari' (ശ്രദ്ധയോടെ നിരീക്ഷിക്കുക/ചിന്തിക്കുക) എന്നതിൽ നിന്നാണ് ഈ വാക്ക് വന്നത്.\n• 'അവൻ തന്റെ ഭാവിയെക്കുറിച്ച് contemplate ചെയ്യുകയായിരുന്നു' എന്നാൽ 'അവൻ ഭാവിയെക്കുറിച്ച് ദീർഘമായി ചിന്തിക്കുകയായിരുന്നു' എന്നാണ് അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: One-word substitute ചോദ്യങ്ങളിൽ, definition-ലെ key idea ('think for a long time') ഏറ്റവും കൃത്യമായി ഉൾക്കൊള്ളുന്ന single word തിരഞ്ഞെടുക്കുക!\n• 'Contemplate' എന്ന വാക്ക് ഒരു deep, focused, extended thinking-നെ സൂചിപ്പിക്കുന്നു — വെറും ഒരു നിമിഷത്തെ ചിന്തയല്ല.\n• One-word substitutes പഠിക്കുമ്പോൾ, definition-ലെ ഓരോ വാക്കും ('for a long time' പോലുള്ളവ) ശ്രദ്ധയോടെ വായിക്കണം — സമയദൈർഘ്യം സൂചിപ്പിക്കുന്ന clues പ്രധാനമാണ്.\n• ⭐ PSC ആവർത്തനം: One-word substitute ചോദ്യങ്ങൾ PSC-യുടെ ഏറ്റവും സ്ഥിരമായി വരുന്ന vocabulary topic-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. She sat by the window to contemplate her decision. (ദീർഘനേരം ചിന്തിക്കാൻ)\n2. He contemplated the meaning of life. (ജീവിതത്തിന്റെ അർത്ഥത്തെക്കുറിച്ച് ചിന്തിച്ചു)\n3. They contemplated moving to a new city. (പുതിയ നഗരത്തിലേക്ക് മാറുന്നതിനെക്കുറിച്ച് ചിന്തിച്ചു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Contempt — ഇതിന്റെ അർത്ഥം 'അവഹേളനം/നിന്ദ' എന്നാണ്, ചിന്തിക്കുക എന്ന അർത്ഥവുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'Contempt' ഉം 'Contemplate' ഉം ഒരേ 'Contem-' എന്ന prefix-ൽ തുടങ്ങുന്നതിനാൽ spelling/sound സാമ്യം കൊണ്ട് confuse ആകാൻ സാധ്യതയുണ്ട്.\n• (B) Contest — ഇതിന്റെ അർത്ഥം 'മത്സരം/എതിർക്കുക' എന്നാണ്, ചിന്തിക്കുക എന്ന അർത്ഥവുമായി ബന്ധമില്ല.\n• (C) Confront — ഇതിന്റെ അർത്ഥം 'നേരിടുക/മുഖാമുഖം നിൽക്കുക' എന്നാണ്, ദീർഘമായി ചിന്തിക്കുക എന്ന അർത്ഥവുമായി ബന്ധമില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: 'Contemplate = ധ്യാനിക്കുന്നത് പോലെ ദീർഘനേരം ചിന്തിക്കുക' എന്ന ചിത്രം മനസ്സിൽ വരയ്ക്കുക.\n• 'Con-' prefix ഉള്ള വാക്കുകൾ confuse ആകാതെ വേർതിരിക്കുക: contemplate (ചിന്തിക്കുക), contempt (നിന്ദ), contest (മത്സരം), confront (നേരിടുക).\n• PSC strategy: One-word substitute ചോദ്യങ്ങളിൽ definition-ലെ duration/intensity clues ('for a long time', 'suddenly', 'completely') പ്രത്യേകം ശ്രദ്ധിക്കുക — ഇവ ശരിയായ വാക്ക് കണ്ടെത്താൻ സഹായിക്കും."
+      }
+    },
+    {
+      "id": "082-2018-M-Q78",
+      "paperId": "082-2018-M",
+      "questionNumber": 78,
+      "topic": "Infinitive and Gerunds",
+      "questionText": "He fell ill after ________ contaminated food.",
+      "optionA": "eat",
+      "optionB": "ate",
+      "optionC": "eaten",
+      "optionD": "eating",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) eating\n• Preposition 'after'-ന് ശേഷം verb വരുമ്പോൾ അത് എപ്പോഴും gerund രൂപത്തിൽ ('-ing' ചേർത്ത്) ആയിരിക്കണം.\n• 'After eating' എന്നാൽ 'കഴിച്ചതിന് ശേഷം' എന്നാണ് അർത്ഥം — ഇവിടെ 'eating' ഒരു noun-സമാനമായ role ആണ് ചെയ്യുന്നത് (preposition-ന്റെ object).\n• 'മലിനമായ ഭക്ഷണം കഴിച്ചതിന് ശേഷം അവന് അസുഖം വന്നു' എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Preposition + Verb → എപ്പോഴും Gerund ('-ing' രൂപം)! Preposition-ന് ശേഷം base verb, past tense, അല്ലെങ്കിൽ past participle ഒരിക്കലും വരില്ല.\n• ഇത് English grammar-ലെ ഏറ്റവും സ്ഥിരമായ ഒരു നിയമമാണ് — 'after, before, without, by, on' തുടങ്ങിയ എല്ലാ prepositions-നും ഇത് ബാധകമാണ്.\n• Gerund ('-ing' രൂപം) ഒരു verb-നെ noun ആയി ഉപയോഗിക്കുന്ന രീതിയാണ് — അതുകൊണ്ടാണ് preposition-ന് ശേഷം ഇത് ചേരുന്നത്.\n• ⭐ PSC ആവർത്തനം: 'Preposition + gerund' rule PSC-യുടെ ഏറ്റവും അടിസ്ഥാനപരവും ആവർത്തിച്ച് വരുന്നതുമായ ഒരു topic ആണ്.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. He fell ill after eating contaminated food. (കഴിച്ചതിന് ശേഷം)\n2. She left without saying goodbye. (പറയാതെ)\n3. Thank you for helping me. (സഹായിച്ചതിന്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) eat — ഇത് base form ആണ്; preposition-ന് ശേഷം base form verb ഒരിക്കലും വരില്ല.\n• 🪤 PSC Trap: 'after' കണ്ടിട്ട് past tense ('ate') ചേരും എന്ന് തെറ്റിദ്ധരിക്കാൻ സാധ്യതയുണ്ട് — 'after' ഒരു time-word ആണെങ്കിലും, preposition ആയി ഉപയോഗിക്കുമ്പോൾ ശേഷം gerund തന്നെ വേണം.\n• (B) ate — ഇത് simple past tense ആണ്; preposition-ന് ശേഷം finite verb വരില്ല.\n• (C) eaten — ഇത് past participle ആണ്; ഇത് 'have/has/had' അല്ലെങ്കിൽ passive 'be' എന്നിവയ്ക്ക് ശേഷമാണ് വരേണ്ടത്, preposition-ന് ശേഷം അല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: 'Preposition കണ്ടാൽ -ING ഓർക്കുക!' എന്ന് ഉറക്കെ ചൊല്ലുക — after, before, without, by, on ഇവയ്ക്ക് ശേഷം എപ്പോഴും gerund.\n• Preposition + gerund pattern family: after eating, before sleeping, without asking, by working, on arriving — ഇവയെല്ലാം ഒരേ rule പിന്തുടരുന്നു.\n• PSC strategy: ബ്ലാങ്കിന് തൊട്ടുമുൻപ് ഒരു preposition ('after, before, without') കണ്ടാൽ ഉടനെ '-ing' ഉള്ള option തിരയുക — ബാക്കിയെല്ലാം ഒഴിവാക്കാം."
+      }
+    },
+    {
+      "id": "082-2018-M-Q79",
+      "paperId": "082-2018-M",
+      "questionNumber": 79,
+      "topic": "Synonyms",
+      "questionText": "The meaning of the word – debauchery",
+      "optionA": "immortal",
+      "optionB": "immaculate",
+      "optionC": "immoral",
+      "optionD": "imminent",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) immoral\n• 'Debauchery' എന്ന വാക്കിന്റെ അർത്ഥം 'അമിതമായ ഇന്ദ്രിയസുഖങ്ങളിലും ധാർമ്മികമല്ലാത്ത പെരുമാറ്റത്തിലും മുഴുകുന്ന അവസ്ഥ' എന്നാണ് — ഇത് 'immoral' (ധാർമ്മികമല്ലാത്ത) എന്ന വാക്കിന്റെ അർത്ഥത്തോട് ഏറ്റവും അടുത്ത് നിൽക്കുന്നു.\n• Etymology: French 'débaucher' (ജോലിയിൽ നിന്ന് വഴിതെറ്റിക്കുക) എന്നതിൽ നിന്നാണ് ഈ വാക്ക് വന്നത് — ക്രമേണ 'ധാർമ്മികമായ അധഃപതനം' എന്ന അർത്ഥത്തിലേക്ക് മാറി.\n• 'അവന്റെ debauchery എല്ലാവരും വിമർശിച്ചു' എന്നാൽ 'അവന്റെ അധാർമ്മികമായ പെരുമാറ്റം എല്ലാവരും വിമർശിച്ചു' എന്നാണ് അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Debauchery ≈ Immoral behaviour — ധാർമ്മിക അധഃപതനത്തെ സൂചിപ്പിക്കുന്ന വാക്കുകൾ!\n• Meaning-of-the-word ചോദ്യങ്ങളിൽ, ചോദ്യത്തിലെ വാക്കിന്റെ core idea (ഇവിടെ 'ധാർമ്മികമല്ലായ്മ') കണ്ടെത്തി, അതിനോട് ഏറ്റവും അടുത്ത option തിരഞ്ഞെടുക്കുക.\n• 'im-' എന്ന prefix പല വാക്കുകൾക്കും 'not' എന്ന നിഷേധാർത്ഥം നൽകും — immoral, immortal, imminent, immaculate എന്നിവയുടെ അർത്ഥവ്യത്യാസം ശ്രദ്ധിക്കണം.\n• ⭐ PSC ആവർത്തനം: 'Meaning of the word' ചോദ്യങ്ങൾ PSC-യുടെ ഏറ്റവും സ്ഥിരമായി വരുന്ന vocabulary topic ആണ്.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. The king's debauchery led to his downfall. (അധാർമ്മികമായ ജീവിതശൈലി)\n2. Lying and cheating are immoral acts. (ധാർമ്മികമല്ലാത്ത പ്രവൃത്തികൾ)\n3. The court punished him for his immoral conduct. (അധാർമ്മിക പെരുമാറ്റം)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) immortal — ഇതിന്റെ അർത്ഥം 'മരണമില്ലാത്ത/നിത്യമായ' എന്നാണ്, debauchery-യുടെ അർത്ഥവുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'im-' എന്ന ഒരേ prefix ഉള്ള നാല് വാക്കുകളും spelling-ൽ സാമ്യമുള്ളതിനാൽ confuse ആകാൻ വളരെ സാധ്യതയുണ്ട്.\n• (B) immaculate — ഇതിന്റെ അർത്ഥം 'തീരെ കുറ്റമില്ലാത്ത/നിർമ്മലമായ' എന്നാണ്, ഇത് debauchery-യുടെ നേരെ വിപരീത അർത്ഥത്തോട് അടുത്താണ്.\n• (D) imminent — ഇതിന്റെ അർത്ഥം 'ഉടനെ സംഭവിക്കാൻ പോകുന്ന' എന്നാണ്, ഇതും ധാർമ്മികതയുമായി ബന്ധമില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: 'Debauchery = ധാർമ്മികതയിൽ നിന്ന് വഴിതെറ്റിയ ജീവിതം' എന്ന ചിത്രം മനസ്സിൽ വരയ്ക്കുക — 'immoral' തന്നെയാണ് ഏറ്റവും അടുത്ത വാക്ക്.\n• 'im-' prefix word family confuse ആകാതെ വേർതിരിക്കുക: immortal (മരണമില്ലാത്ത), immaculate (നിർമ്മലമായ), immoral (ധാർമ്മികമല്ലാത്ത), imminent (ഉടനെ സംഭവിക്കുന്ന).\n• PSC strategy: Vocabulary ചോദ്യങ്ങളിൽ ഒരേ prefix ഉള്ള options കണ്ടാൽ, ഓരോന്നിന്റെയും കൃത്യമായ അർത്ഥം വേർതിരിച്ചറിഞ്ഞ ശേഷം മാത്രം ഉത്തരം തിരഞ്ഞെടുക്കുക."
+      }
+    },
+    {
+      "id": "082-2018-M-Q80",
+      "paperId": "082-2018-M",
+      "questionNumber": 80,
+      "topic": "Subject-Verb Agreement",
+      "questionText": "John as well as his parents ________ coming.",
+      "optionA": "are",
+      "optionB": "were",
+      "optionC": "has",
+      "optionD": "is",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) is\n• 'As well as' എന്ന phrase subject-ന്റെ എണ്ണം മാറ്റില്ല — verb agreement തീരുമാനിക്കുന്നത് 'as well as'-ന് മുൻപുള്ള main subject ('John') ആണ്, ശേഷമുള്ള phrase ('his parents') അല്ല.\n• 'John' ഒരു singular subject ആയതിനാൽ, verb-ഉം singular ('is') ആയിരിക്കണം.\n• 'ജോൺ, തന്റെ മാതാപിതാക്കൾക്കൊപ്പം, വരുന്നു' എന്നാണ് അർത്ഥം — 'John' ആണ് പ്രധാന focus.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: ഒരു phrase-നെ commas-ന്റെ ഇടയിൽ ഒളിപ്പിച്ചു വച്ചാലും, verb-ന്റെ number തീരുമാനിക്കുന്നത് ആ phrase-ന് മുൻപുള്ള main subject മാത്രമാണ്!\n• 'As well as', 'along with', 'together with', 'in addition to' എന്നീ phrases ഒരു additional/parenthetical കാര്യം ചേർക്കുക മാത്രമേ ചെയ്യുന്നുള്ളൂ — ഇവ 'and' പോലെ രണ്ട് subjects-നെയും കൂട്ടിച്ചേർത്ത് plural ആക്കില്ല.\n• ഇവിടെ 'John' ഒരാൾ മാത്രമായതിനാൽ (singular), 'his parents' എത്ര പേരുണ്ടെങ്കിലും verb 'is' തന്നെ വേണം.\n• ⭐ PSC ആവർത്തനം: 'As well as' subject-verb agreement trap PSC-യുടെ ഏറ്റവും ആവർത്തിച്ച് വരുന്ന ഒരു topic ആണ്.\n• ഉദാഹരണ വാക്യങ്ങൾ:\n1. John as well as his parents is coming. (ജോൺ ആണ് main subject, verb singular)\n2. The teacher, along with the students, is visiting the museum. (teacher ആണ് main subject)\n3. My brother, together with his friends, was playing football. (brother ആണ് main subject)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) are — ഇത് plural verb ആണ്; 'his parents' plural ആണെങ്കിലും, അത് 'as well as'-ന് ശേഷം വരുന്നതിനാൽ verb-ന്റെ number-നെ സ്വാധീനിക്കില്ല.\n• 🪤 PSC Trap: 'his parents' എന്ന plural noun verb-ന് തൊട്ടുമുൻപ് കാണുന്നതിനാൽ, അതിനെ അടിസ്ഥാനമാക്കി plural verb ('are') തിരഞ്ഞെടുക്കുന്നത് ഏറ്റവും സാധാരണ തെറ്റാണ്.\n• (B) were — ഇത് past tense plural ആണ്; tense-ഉം number-ഉം രണ്ടും ഇവിടെ ചേരില്ല, വാക്യം present tense-ൽ ആണ്.\n• (C) has — 'has' auxiliary ആയി ഉപയോഗിക്കുമ്പോൾ perfect tense-ന് ('has done') ചേരും, plain present tense-ന് ('is coming') 'is' ആണ് വേണ്ടത്, 'has' അല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 ഓർമ്മ സൂത്രം: 'AS WELL AS-ന് ശേഷം ഉള്ളത് കണ്ടില്ലെന്ന് നടിക്കുക, ആദ്യ subject മാത്രം നോക്കുക!' എന്ന് ഓർക്കുക.\n• Phrase family ഒരുമിച്ച് പഠിക്കുക: as well as, along with, together with, in addition to, accompanied by — ഇവയെല്ലാം ഒരേ rule പിന്തുടരും.\n• PSC strategy: Subject-verb agreement ചോദ്യങ്ങളിൽ, ഈ 'as well as' പോലുള്ള phrases കണ്ടാൽ ബ്രാക്കറ്റിൽ ഇട്ട് മാറ്റിവയ്ക്കുക, എന്നിട്ട് ബാക്കിയുള്ള main subject മാത്രം നോക്കി verb തിരഞ്ഞെടുക്കുക."
+      }
+    }
+  ]
+}
