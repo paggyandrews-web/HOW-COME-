@@ -6068,5 +6068,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Recomend — 'm' ഒറ്റത്തവണ മാത്രം എഴുതിയിരിക്കുന്നു, ഇത് തെറ്റാണ് — 'm' രണ്ട് പ്രാവശ്യം വേണം.\n  • 🪤 PSC Trap: രണ്ട് 'm' ഓർക്കാതെ പലരും ഒറ്റ 'm' മാത്രം എഴുതും.\n• (C) Reccommend — 'c' രണ്ട് പ്രാവശ്യം എഴുതിയിരിക്കുന്നു, പക്ഷേ 'c' ഒറ്റത്തവണ മാത്രമേ വേണ്ടൂ.\n• (D) Recomended — spelling-ഉം word form-ഉം (past tense ചേർത്തത്) രണ്ടും തെറ്റാണ്, 'm' ഒറ്റത്തവണ മാത്രമേ ഉള്ളൂ.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'One C, Two Ms' — 'Recommend'-ൽ 'C' ഒറ്റയ്ക്ക്, 'M' ജോഡിയായി എന്ന് rhyme ആയി ഓർക്കുക.\n• Double-letter word family: recommend, accommodate, embarrass — letter pattern ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: spelling ചോദ്യങ്ങളിൽ word-നെ syllables ആയി തിരിച്ച് (re-com-mend) ഓരോ ഭാഗവും പരിശോധിക്കുക."
     }
+  },
+  {
+    "id": "HC-DAILY-2026-09-08-Q1",
+    "paperId": "HC-DAILY-2026-09-08",
+    "questionNumber": 1,
+    "topic": "Active and Passive Voice",
+    "difficulty": "medium",
+    "questionText": "Change the following sentence from Active to Passive Voice:\nThe committee will announce the results tomorrow.",
+    "optionA": "The results will be announced by the committee tomorrow.",
+    "optionB": "The results were announced by the committee tomorrow.",
+    "optionC": "The results are being announced by the committee tomorrow.",
+    "optionD": "The results will have been announced by the committee tomorrow.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) The results will be announced by the committee tomorrow.\n\n• Active sentence-ലെ tense 'will announce' (Simple Future) ആണ് — Passive-ലേക്ക് മാറ്റുമ്പോൾ tense മാറാൻ പാടില്ല.\n• Simple Future Passive-ന്റെ formula: will + be + V3. അതുകൊണ്ട് 'will be announced' ആണ് ശരി.\n• Object 'the results' ആണ് Passive sentence-ന്റെ Subject ആകുന്നത്, 'by the committee' agent ആയി വരുന്നു.\n• PSC-യിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന Active-Passive rule ഇതാണ് — tense match ചെയ്യുക എന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Active tense = Passive tense, എപ്പോഴും!\n• Simple Future Active: Subject + will + V1 + Object → Simple Future Passive: Object + will + be + V3 + by + Subject.\n• Tense മാറ്റരുത് — Future Perfect (will have been + V3) വേറൊരു tense ആണ്, അത് ഇവിടെ ചേരില്ല.\n• ⭐ PSC ആവർത്തനം: Active-Passive conversion ചോദ്യങ്ങൾ മിക്ക പേപ്പറുകളിലും വരും — tense identify ചെയ്യുന്നത് ആദ്യം ചെയ്യുക.\n• ഉദാഹരണ sentences:\n  1. She will write the letter. → The letter will be written by her.\n  2. They will complete the project. → The project will be completed by them.\n  3. He will paint the wall. → The wall will be painted by him.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'were announced' എന്നത് Simple Past Passive ആണ്.\n• Active sentence Future tense-ൽ ആയിരുന്നിട്ടും ഇവിടെ Past tense-ലേക്ക് മാറ്റിയത് തെറ്റ്.\n• 🪤 PSC Trap: വേഗത്തിൽ ഉത്തരം കണ്ടെത്താൻ ശ്രമിക്കുമ്പോൾ tense ശ്രദ്ധിക്കാതെ ഈ option തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.\n\n• (C) 'are being announced' എന്നത് Present Continuous Passive ആണ്.\n• Original sentence 'will' എന്ന future marker ഉപയോഗിക്കുന്നു, present tense അല്ല.\n• 🪤 PSC Trap: 'announce' എന്ന word കണ്ടാൽ continuous action ആണെന്ന് തെറ്റിദ്ധരിക്കാം.\n\n• (D) 'will have been announced' എന്നത് Future Perfect Passive ആണ്.\n• ഇത് ഒരു future reference point-ന് മുൻപ് പൂർത്തിയാകുന്ന action-നെ സൂചിപ്പിക്കുന്നു, ഇവിടെ ചേരില്ല.\n• 🪤 PSC Trap: 'will' കണ്ടതുകൊണ്ട് 'will have been' ശരിയാണെന്ന് ധരിക്കാം — Simple Future ഉം Future Perfect ഉം തമ്മിലുള്ള വ്യത്യാസം ശ്രദ്ധിക്കുക.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Active-ലെ tense-ന്റെ 'shadow' ആണ് Passive — shadow ഒരിക്കലും വേറൊരു ആകൃതി എടുക്കില്ല!\n• Tense family ഒരുമിച്ച് പഠിക്കുക: Simple Future Active/Passive, Present Continuous Active/Passive, Future Perfect Active/Passive.\n• PSC exam strategy: ആദ്യം Active sentence-ലെ tense കണ്ടെത്തുക (auxiliary verb നോക്കുക), എന്നിട്ട് ആ tense-ന്റെ Passive formula മാത്രം apply ചെയ്യുക — options താരതമ്യം ചെയ്യുന്നതിന് മുൻപ്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-08-Q2",
+    "paperId": "HC-DAILY-2026-09-08",
+    "questionNumber": 2,
+    "topic": "Direct and Indirect Speech",
+    "difficulty": "hard",
+    "questionText": "Choose the correct Indirect Speech form of the sentence:\nShe said to me, \"Can you help me with this project?\"",
+    "optionA": "She asked me if I could help her with that project.",
+    "optionB": "She asked me if I can help her with this project.",
+    "optionC": "She told me that I could help her with that project.",
+    "optionD": "She asked me whether I would help her with this project.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) She asked me if I could help her with that project.\n\n• Quoted sentence ഒരു Yes/No Question ആണ് — reporting verb 'said to' → 'asked' ആയി മാറും, 'if/whether' ചേർക്കും.\n• 'you' (quote-ൽ listener-നെ, അതായത് narrator-നെ) → 'I' ആയി മാറും, 'me' (quote-ൽ speaker 'she'-യെ) → 'her' ആയി മാറും.\n• Modal verb 'can' Past tense-ലേക്ക് backshift ചെയ്ത് 'could' ആകും — reporting verb 'said' past tense ആയതിനാൽ.\n• 'this' → 'that' ആയി മാറും, കാരണം reported speech-ൽ time/place/proximity markers backshift ചെയ്യണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Yes/No Question → asked + if/whether + Subject + Verb (backshifted).\n• Modal backshift table: can→could, will→would, may→might, must→had to.\n• Demonstrative backshift: this→that, these→those, here→there, now→then.\n• ⭐ PSC ആവർത്തനം: Direct-Indirect Speech-ൽ Question type ഏറ്റവും കൂടുതൽ trap ഉള്ള ഭാഗമാണ് — modal backshift ശ്രദ്ധിക്കാതെ പോയാൽ തെറ്റും.\n• ഉദാഹരണ sentences:\n  1. He said, \"Can you swim?\" → He asked if I could swim.\n  2. She said, \"Will you come tomorrow?\" → She asked if I would go the next day.\n  3. They said, \"May we use this room?\" → They asked if they might use that room.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'if I can' എന്നും 'this project' എന്നും മാറ്റാതെ വിട്ടു.\n• Reporting verb past tense ആയതിനാൽ modal 'can' → 'could' ആയി backshift ചെയ്യണം, 'this' → 'that' ആയും മാറണം.\n• 🪤 PSC Trap: if/whether ശരിയായി ചേർത്തതുകൊണ്ട് ബാക്കി ശരിയാണെന്ന് തെറ്റിദ്ധരിക്കാം.\n\n• (C) 'told me that' എന്ന structure ഒരു statement report ചെയ്യാൻ ഉപയോഗിക്കുന്നതാണ്, Question report ചെയ്യാൻ അല്ല.\n• Yes/No Question-ന് 'asked...if/whether' വേണം, 'told...that' തെറ്റായ reporting pattern ആണ്.\n• 🪤 PSC Trap: modal, pronoun, demonstrative എല്ലാം ശരിയായതുകൊണ്ട് reporting verb-ന്റെ തെറ്റ് ശ്രദ്ധിക്കാതെ പോകാം.\n\n• (D) modal 'can' → 'would' ആയി മാറ്റി, ഇത് തെറ്റ്.\n• 'can' എപ്പോഴും 'could' ആയി മാത്രമേ backshift ചെയ്യൂ, 'will' ആണ് 'would' ആയി മാറുന്നത്.\n• 🪤 PSC Trap: 'whether' ശരിയാണെങ്കിലും modal backshift തെറ്റായതിനാൽ ഈ option തള്ളിക്കളയണം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Modal-ന്റെ ഭൂതകാലം' എന്ന് ഓർക്കുക — can-could, will-would, may-might ഒരു family ആണ്.\n• Question-type family: Yes/No Question → if/whether; Wh-Question → wh-word തന്നെ നിലനിർത്തുക.\n• PSC exam strategy: നാല് കാര്യങ്ങൾ ക്രമമായി check ചെയ്യുക — reporting verb, if/whether, modal backshift, pronoun/demonstrative shift. ഒരെണ്ണം പോലും skip ചെയ്യരുത്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-08-Q3",
+    "paperId": "HC-DAILY-2026-09-08",
+    "questionNumber": 3,
+    "topic": "Prepositions",
+    "difficulty": "medium",
+    "questionText": "Choose the correct preposition to complete the sentence:\nDespite growing up in the city, she always yearned _______ the quiet simplicity of her native village.",
+    "optionA": "for",
+    "optionB": "with",
+    "optionC": "about",
+    "optionD": "at",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) for\n\n• 'Yearn' എന്ന verb-ന്റെ fixed preposition 'for' ആണ് — 'yearn for something' എന്നാൽ ഒരു കാര്യത്തിന് വേണ്ടി ആഗ്രഹത്തോടെ കൊതിക്കുക എന്നർഥം.\n• ഇത് ഒരു collocation ആണ് — verb + preposition ഒരുമിച്ച് fixed ആയി ഓർക്കണം, മറ്റ് preposition ചേരില്ല.\n• PSC-യിൽ ഇത്തരം fixed verb-preposition combinations വളരെ സാധാരണയായി ചോദിക്കാറുണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: yearn/long/wish/hope → for (ആഗ്രഹം സൂചിപ്പിക്കുന്ന verbs 'for' എടുക്കും).\n• Fixed collocations മാറ്റാൻ പാടില്ല — ഇവ dictionary-യിൽ ഉള്ളതുപോലെ തന്നെ ഓർത്തിരിക്കണം.\n• Related word group: long for, hope for, wish for, crave for, hunger for.\n• ⭐ PSC ആവർത്തനം: Prepositions topic PSC പേപ്പറുകളിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n  1. He yearned for freedom throughout his imprisonment.\n  2. Children often yearn for their parents' approval.\n  3. She yearned for a quieter life after retirement.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'with' — 'yearn with' എന്നൊരു fixed collocation ഇംഗ്ലീഷിൽ നിലവിലില്ല.\n• 🪤 PSC Trap: 'with' പല verbs-നൊപ്പം ഉപയോഗിക്കുന്നത് കണ്ട് ശീലിച്ചവർക്ക് ഇത് ശരിയാണെന്ന് തോന്നാം.\n\n• (C) 'about' — 'yearn about' എന്നത് standard English-ൽ ഇല്ല.\n• 🪤 PSC Trap: 'talk about', 'think about' പോലുള്ള collocations-ൽ നിന്ന് ആശയക്കുഴപ്പം ഉണ്ടാകാം.\n\n• (D) 'at' — 'yearn at' എന്നൊരു usage ഇല്ല.\n• 🪤 PSC Trap: 'look at', 'stare at' പോലുള്ള emotion/gaze-related verbs-ൽ നിന്ന് സാമ്യം തോന്നിക്കാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Yearn FOR' — 'For' എന്ന word തന്നെ ഒരു ലക്ഷ്യത്തെ (goal) സൂചിപ്പിക്കുന്നു, യഥാർഥത്തിൽ 'ആഗ്രഹത്തിന്റെ ലക്ഷ്യം' എന്നർഥം.\n• 'Desire' family verbs എല്ലാം 'for' എടുക്കും എന്ന് ഒരു group ആയി പഠിക്കുക.\n• PSC exam strategy: Verb-preposition combinations ഒരു list ആയി ദിവസവും 5 എണ്ണം വീതം ഓർത്തിരിക്കുക — sentence context നോക്കാതെ verb മാത്രം നോക്കിയാൽ മതി, കാരണം ഇവ fixed ആണ്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-08-Q4",
+    "paperId": "HC-DAILY-2026-09-08",
+    "questionNumber": 4,
+    "topic": "Correlatives",
+    "difficulty": "hard",
+    "questionText": "Choose the correct correlative conjunction pair to complete the sentence:\n_______ the manager _______ his assistant showed up for the meeting; both had been held up by the traffic jam on the highway.",
+    "optionA": "Neither...nor",
+    "optionB": "Either...or",
+    "optionC": "Both...and",
+    "optionD": "Not only...but also",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Neither...nor\n\n• Sentence-ന്റെ രണ്ടാം ഭാഗം 'both had been held up by the traffic jam' എന്ന് പറയുന്നു — അതായത് രണ്ടുപേരും meeting-ന് എത്തിയില്ല.\n• 'Neither...nor' എന്നത് രണ്ട് കാര്യങ്ങളും/ആളുകളും 'അല്ല' എന്ന് നിഷേധിക്കാൻ ഉപയോഗിക്കുന്ന correlative pair ആണ്.\n• 'Neither the manager nor his assistant showed up' = ഇരുവരും വന്നില്ല — ഇത് 'both had been held up' എന്ന ഭാഗവുമായി പൊരുത്തപ്പെടുന്നു.\n• മറ്റ് correlatives (Either-or, Both-and, Not only-but also) 'showed up' എന്ന positive meaning നൽകും, അത് context-ന് വിരുദ്ധമാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Neither...nor = ഇരട്ട നിഷേധം (double negative) — രണ്ടും ഇല്ല/അല്ല.\n• Correlative pairs എപ്പോഴും fixed combinations ആയി matching ചെയ്യണം: either-or, neither-nor, both-and, not only-but also.\n• Context clue: sentence-ന്റെ ബാക്കി ഭാഗം (later clause) നൽകുന്ന അർഥം നോക്കി correct pair തിരഞ്ഞെടുക്കുക — ഇവിടെ 'both had been held up' എന്നത് negative meaning-നെ സ്ഥിരീകരിക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: Correlatives topic PSC-യിൽ കുറഞ്ഞ ആവൃത്തിയിൽ വന്നാലും, വന്നാൽ context-based logic ചോദ്യങ്ങൾ ആയിരിക്കും കൂടുതലും.\n• ഉദാഹരണ sentences:\n  1. Neither the teacher nor the students were aware of the sudden holiday.\n  2. Either the plumber or the electrician will fix the issue tomorrow.\n  3. Not only did she win the race, but she also broke the record.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'Either...or' — 'Either the manager or his assistant showed up' എന്നാൽ ഒരാൾ എങ്കിലും വന്നു എന്നർഥം.\n• ഇത് 'both had been held up' എന്ന ഭാഗവുമായി നേരിട്ട് വൈരുദ്ധ്യമുള്ളതാണ്.\n• 🪤 PSC Trap: 'Either-or' ഏറ്റവും സാധാരണയായി ഉപയോഗിക്കുന്ന correlative ആയതിനാൽ ചിന്തിക്കാതെ തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.\n\n• (C) 'Both...and' — 'Both...showed up' എന്നാൽ ഇരുവരും വന്നു എന്നർഥം, ഇത് context-ന് നേരെ വിപരീതം.\n• 🪤 PSC Trap: Sentence-ന്റെ ആദ്യഭാഗം മാത്രം വായിച്ചാൽ 'Both' ശരിയാണെന്ന് തോന്നാം.\n\n• (D) 'Not only...but also' — ഇതും positive/additive meaning നൽകുന്നു, രണ്ടുപേരും വന്നു എന്ന അർഥം വരും.\n• 🪤 PSC Trap: ഈ phrase 'emphasis' നൽകുന്നതിനാൽ ശക്തമായ ഉത്തരമായി തോന്നാമെങ്കിലും meaning തെറ്റാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'N for No' — Neither...nor എപ്പോഴും 'No, No' എന്ന ഇരട്ട നിഷേധം ഓർമ്മിപ്പിക്കട്ടെ.\n• Correlative pairs-നെ 'positive family' (either-or, both-and, not only-but also) ഉം 'negative family' (neither-nor) ആയും തരംതിരിച്ച് പഠിക്കുക.\n• PSC exam strategy: ബ്ലാങ്ക് നിറയ്ക്കുന്നതിന് മുൻപ് sentence മുഴുവൻ വായിക്കുക — later clause-ലെ meaning ആണ് correct correlative pair തീരുമാനിക്കുന്നത്, ആദ്യഭാഗം മാത്രം നോക്കരുത്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-08-Q5",
+    "paperId": "HC-DAILY-2026-09-08",
+    "questionNumber": 5,
+    "topic": "Auxiliary Verbs",
+    "difficulty": "medium",
+    "questionText": "Choose the correct auxiliary verb to complete the sentence:\nBy the time the fire brigade arrived, the flames _______ already destroyed half the warehouse.",
+    "optionA": "had",
+    "optionB": "have",
+    "optionC": "has",
+    "optionD": "would",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) had\n\n• ഈ sentence-ൽ രണ്ട് past events ഉണ്ട് — 'fire brigade arrived' (simple past), 'flames destroyed' (ഇത് അതിനു മുൻപ് സംഭവിച്ചത്).\n• ഇതിനുമുൻപ് പൂർത്തിയായ action കാണിക്കാൻ Past Perfect Tense (had + V3) ഉപയോഗിക്കണം.\n• 'By the time' എന്ന phrase Past Perfect-നെ സൂചിപ്പിക്കുന്ന ഒരു classic signal ആണ്.\n• 'had already destroyed' = fire brigade എത്തുന്നതിനു മുൻപ് തന്നെ flames half warehouse നശിപ്പിച്ചു കഴിഞ്ഞിരുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Past Perfect = had + V3 — രണ്ട് past actions-ൽ ആദ്യം നടന്നതിന് ഉപയോഗിക്കുക.\n• Signal words: by the time, before, after, already, by 6 pm yesterday.\n• Rule: രണ്ട് past events ഉള്ളപ്പോൾ, ആദ്യം നടന്നത് Past Perfect-ലും, പിന്നീട് നടന്നത് Simple Past-ലും എഴുതണം.\n• ⭐ PSC ആവർത്തനം: Auxiliary Verbs, പ്രത്യേകിച്ച് Past Perfect usage, PSC-യിൽ ആവർത്തിച്ചു വരുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. When I reached the station, the train had already left.\n  2. She had finished her homework before her mother returned.\n  3. By the time he woke up, the sun had risen.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'have' — Present Perfect Tense ആണ്, past narrative-ൽ ഉപയോഗിക്കാൻ പറ്റില്ല.\n• 🪤 PSC Trap: 'already' എന്ന word Present Perfect-നൊപ്പം സാധാരണ ഉപയോഗിക്കുന്നത് കണ്ട് ശീലിച്ചവർക്ക് ഇത് ശരിയാണെന്ന് തോന്നാം.\n\n• (C) 'has' — Singular subject-നൊപ്പം ഉപയോഗിക്കുന്ന Present Perfect ആണ്, 'flames' plural ആണ്; മാത്രമല്ല tense തന്നെ തെറ്റാണ്.\n• 🪤 PSC Trap: Subject-Verb Agreement ശ്രദ്ധിക്കാതെ പോയാൽ ഈ option ആകർഷകമായി തോന്നാം.\n\n• (D) 'would' — ഇത് habitual past അല്ലെങ്കിൽ conditional meaning നൽകുന്നു, completed prior action അല്ല.\n• 🪤 PSC Trap: 'would' past reference-ൽ പൊതുവെ ഉപയോഗിക്കുന്നത് കണ്ട് confuse ആകാം, പക്ഷേ ഇവിടെ completed action ആണ് വേണ്ടത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Had' = 'Happened Already before Date' — രണ്ടാമത്തെ past event-നു മുൻപ് നടന്ന കാര്യത്തിന് 'had' ഓർക്കുക.\n• 'By the time', 'before', 'after' ഈ signal words ഒരു family ആയി പഠിക്കുക — ഇവ കണ്ടാൽ Past Perfect ചിന്തിക്കുക.\n• PSC exam strategy: Sentence-ൽ എത്ര past events ഉണ്ടെന്ന് കണ്ടെത്തുക — രണ്ടെണ്ണം ഉണ്ടെങ്കിൽ, ഏത് ആദ്യം നടന്നു എന്ന് നോക്കി Past Perfect assign ചെയ്യുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-08-Q6",
+    "paperId": "HC-DAILY-2026-09-08",
+    "questionNumber": 6,
+    "topic": "Idioms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the idiom in italics.\nAfter the flood, volunteers __left no stone unturned__ to help every affected family in the village.",
+    "optionA": "made every possible effort",
+    "optionB": "searched only the riverbed",
+    "optionC": "ignored minor difficulties",
+    "optionD": "worked without any plan",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) made every possible effort\n\n• 'Leave no stone unturned' എന്ന idiom-ന്റെ അർഥം ഒരു ലക്ഷ്യം നേടാൻ സാധ്യമായ എല്ലാ വഴികളും പരീക്ഷിക്കുക എന്നതാണ്.\n• ഈ idiom-ന്റെ ഉത്ഭവം പുരാതന ഗ്രീക്ക് കഥയിൽ നിന്നാണ് — നിധി തിരയുമ്പോൾ ഓരോ കല്ലും മറിച്ചു നോക്കുന്ന രീതിയിൽ നിന്ന്.\n• Sentence context: 'help every affected family' എന്നത് thorough, exhaustive effort-നെ സൂചിപ്പിക്കുന്നു, ഇത് idiom-ന്റെ meaning-മായി ചേരുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Leave no stone unturned = പൂർണ്ണ പരിശ്രമം (exhaustive/thorough effort).\n• Idiom-ന്റെ literal meaning (കല്ലുകൾ മറിക്കുക) അല്ല, figurative meaning (എല്ലാ വഴികളും പരീക്ഷിക്കുക) ആണ് exam-ൽ ചോദിക്കുന്നത്.\n• Etymology hint: Greek legend-ൽ നിന്ന് വന്ന idiom — ഒരു oracle 'every stone' മറിച്ചു നോക്കാൻ പറഞ്ഞ കഥയിൽ നിന്ന്.\n• ⭐ PSC ആവർത്തനം: Idioms PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic ആണ് — meaning-based questions ആണ് കൂടുതലും.\n• ഉദാഹരണ sentences:\n  1. The police left no stone unturned to find the missing child.\n  2. She left no stone unturned in preparing for the interview.\n  3. The committee left no stone unturned to make the event a success.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'searched only the riverbed' — idiom-ന്റെ literal word-for-word misreading ആണ്, figurative meaning അല്ല.\n• 🪤 PSC Trap: 'stone' എന്ന word കണ്ടാൽ literal-ആയി ഒരു physical search ആണെന്ന് തെറ്റിദ്ധരിക്കാം.\n\n• (C) 'ignored minor difficulties' — ഇത് idiom-ന്റെ അർഥത്തിന് നേരെ വിപരീതമാണ്; idiom പറയുന്നത് ഒന്നും വിടാതെ ശ്രമിക്കുക എന്നാണ്, ignore ചെയ്യുക എന്നല്ല.\n• 🪤 PSC Trap: 'no stone' എന്നതിലെ 'no' കണ്ട് negative/ignore meaning ആണെന്ന് ധരിക്കാം.\n\n• (D) 'worked without any plan' — ഇത് idiom-ന് വിപരീതമായ അർഥമാണ്; idiom systematic, thorough effort-നെ ആണ് സൂചിപ്പിക്കുന്നത്, planless പ്രവർത്തനത്തെ അല്ല.\n• 🪤 PSC Trap: 'unturned' എന്ന word-ന്റെ അസ്വാഭാവിക ശബ്ദം കേട്ട് random/unplanned പ്രവർത്തി ആണെന്ന് തോന്നാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: ഒരു നിധി തിരയുന്ന ആൾ ഓരോ കല്ലും മറിച്ചു നോക്കുന്നത് visualize ചെയ്യുക — ഒന്നും വിടാതെ, പൂർണ്ണ പരിശ്രമം!\n• 'Effort' family idioms ഒരുമിച്ച് പഠിക്കുക: go the extra mile, burn the midnight oil, leave no stone unturned.\n• PSC exam strategy: Idiom meaning ചോദ്യങ്ങളിൽ literal word-matching options (trap) ഒഴിവാക്കുക — idiom-ന്റെ overall figurative sense-ന് ചേരുന്ന option മാത്രം തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-08-Q7",
+    "paperId": "HC-DAILY-2026-09-08",
+    "questionNumber": 7,
+    "topic": "Words Often Confused",
+    "difficulty": "medium",
+    "questionText": "Choose the correct word to complete the sentence:\nThe manager gave a _______ nod, careful not to draw attention from the rest of the staff.",
+    "optionA": "discreet",
+    "optionB": "discrete",
+    "optionC": "discrete's",
+    "optionD": "discretion",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) discreet\n\n• 'Discreet' എന്ന adjective-ന്റെ അർഥം ശ്രദ്ധയോടെ, മറ്റുള്ളവരുടെ ശ്രദ്ധയാകർഷിക്കാതെ പെരുമാറുക എന്നാണ്.\n• Sentence-ൽ 'careful not to draw attention' എന്ന ഭാഗം 'discreet' എന്ന word-ന്റെ അർഥവുമായി നേരിട്ട് ചേരുന്നു.\n• 'Discreet' ഉം 'discrete' ഉം spelling-ൽ വളരെ സാമ്യമുള്ളവയാണ്, പക്ഷേ meaning പൂർണ്ണമായി വ്യത്യസ്തമാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: discreet = careful/tactful (behaviour); discrete = separate/distinct (things).\n• Memory hint: 'discreet' -ന്റെ രണ്ട് 'e'-കൾ 'ee' ആയി ഒരുമിച്ചു നിൽക്കുന്നു — രഹസ്യം സൂക്ഷിക്കുന്ന ഒരാളെ പോലെ close ആയി.\n• 'discrete' -ൽ 'e' കൾ 'discr-E-t-E' ആയി separate ആയി നിൽക്കുന്നു — 'separate' എന്ന meaning-നോട് ചേരുന്ന spelling trick.\n• ⭐ PSC ആവർത്തനം: Words Often Confused topic-ൽ spelling സാമ്യമുള്ള word pairs സ്ഥിരമായി ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. She made a discreet inquiry about the missing funds.\n  2. The data was divided into five discrete categories.\n  3. He remained discreet about his plans to resign.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'discrete' എന്നാൽ 'separate/distinct' എന്നർഥം — 'careful/tactful' എന്ന meaning ഇവിടെ ചേരില്ല.\n• 🪤 PSC Trap: spelling-ലെ ചെറിയ വ്യത്യാസം ശ്രദ്ധിക്കാതെ പോയാൽ ഇത് ശരിയാണെന്ന് തോന്നാം.\n\n• (C) 'discrete's' എന്നൊരു word form ഇംഗ്ലീഷിൽ ഇല്ല — adjective-ന് possessive form ഉണ്ടാകില്ല.\n• 🪤 PSC Trap: ഈ option grammatically തന്നെ അസാധുവാണ്, careless ആയി വായിച്ചാൽ overlook ചെയ്യാം.\n\n• (D) 'discretion' ഒരു noun ആണ് ('carefulness/tact' എന്ന അർഥത്തിൽ), പക്ഷേ ഇവിടെ blank-ന് adjective വേണം ('nod' എന്ന noun-നെ describe ചെയ്യാൻ).\n• 🪤 PSC Trap: 'discretion' -ന്റെ meaning ശരിയാണെങ്കിലും word form (noun vs adjective) തെറ്റാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'discrEEt' = 'careful' (double E, close together, secret സൂക്ഷിക്കുന്ന); 'discrEtE' = 'separate' (E-കൾ അകന്ന്, separate ആയി).\n• Confusable pairs-ന്റെ ഒരു group ആയി പഠിക്കുക: discreet/discrete, stationary/stationery, principal/principle.\n• PSC exam strategy: Confusable word ചോദ്യങ്ങളിൽ sentence-ന്റെ meaning ആദ്യം മനസ്സിലാക്കുക, എന്നിട്ട് ആ meaning-ന് ചേരുന്ന word spelling ശ്രദ്ധയോടെ തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-08-Q8",
+    "paperId": "HC-DAILY-2026-09-08",
+    "questionNumber": 8,
+    "topic": "Word Formation",
+    "difficulty": "medium",
+    "questionText": "Choose the correctly formed noun from the verb given in brackets to complete the sentence:\nThe sudden _______ (arrive) of the inspection team caught the staff off guard.",
+    "optionA": "arrival",
+    "optionB": "arrivement",
+    "optionC": "arriving",
+    "optionD": "arriveness",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) arrival\n\n• 'Arrive' എന്ന verb-ൽ നിന്ന് noun ഉണ്ടാക്കാൻ '-al' suffix ചേർക്കുന്നു — 'arrival'.\n• Sentence-ൽ 'The sudden _______ of the inspection team' എന്നത് ഒരു noun ആണ് ആവശ്യപ്പെടുന്നത് ('sudden' ഒരു adjective ആണ്, noun-നെ describe ചെയ്യുന്നു).\n• '-al' suffix പല verbs-നും noun ഉണ്ടാക്കാൻ ഉപയോഗിക്കുന്നു: arrive→arrival, refuse→refusal, propose→proposal.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Verb + -al = Noun (action/result സൂചിപ്പിക്കുന്ന noun).\n• Word Formation rule: adjective ('sudden') ഒരു blank-നെ describe ചെയ്യുന്നുവെങ്കിൽ, ആ blank noun ആയിരിക്കണം.\n• Related word group: arrive→arrival, approve→approval, deny→denial, refuse→refusal, dismiss→dismissal.\n• ⭐ PSC ആവർത്തനം: Word Formation topic-ൽ verb-to-noun suffix rules (-al, -tion, -ment, -ance) സ്ഥിരമായി ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. The arrival of the monsoon delighted the farmers.\n  2. Her proposal was accepted unanimously.\n  3. The refusal to cooperate surprised everyone.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'arrivement' — ഇംഗ്ലീഷിൽ ഇങ്ങനെ ഒരു word നിലവിലില്ല; '-ment' suffix 'arrive'-ന് ചേരില്ല.\n• 🪤 PSC Trap: '-ment' suffix പല verbs-നും (achieve→achievement) ചേരുന്നത് കണ്ട് ഇതും ശരിയാണെന്ന് തോന്നാം.\n\n• (C) 'arriving' എന്നത് Present Participle/Gerund ആണ് — noun ആയി ചില context-ൽ ഉപയോഗിക്കാമെങ്കിലും, ഇവിടെ standard PSC usage 'arrival' ആണ് correct noun form.\n• 🪤 PSC Trap: '-ing' form ഒരു noun പോലെ തോന്നാമെങ്കിലും, 'sudden arriving' എന്നത് അസ്വാഭാവിക പ്രയോഗമാണ്.\n\n• (D) 'arriveness' — ഇംഗ്ലീഷിൽ ഇല്ലാത്ത ഒരു word ആണ്; '-ness' suffix സാധാരണ adjectives-ന് ചേരുന്നതാണ് (happy→happiness), verbs-ന് നേരിട്ട് ചേരില്ല.\n• 🪤 PSC Trap: '-ness' suffix പരിചയമുള്ളതിനാൽ ശരിയാണെന്ന് തോന്നാം, പക്ഷേ ഇത് invalid word ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Arrive + AL = ArrivAL' — 'AL' suffix പല verb-to-noun formations-ലും കാണാം, ഒരു rhyme ആയി ഓർക്കുക.\n• '-al' suffix family ഒരുമിച്ച് പഠിക്കുക: arrival, refusal, approval, denial, proposal, dismissal.\n• PSC exam strategy: Blank-ന് മുൻപ് ഒരു adjective ('sudden', 'quick' etc.) ഉണ്ടെങ്കിൽ, ആ blank ഒരു noun ആയിരിക്കണം എന്ന് ആദ്യം തിരിച്ചറിയുക — അതിനുശേഷം correct suffix തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-08-Q9",
+    "paperId": "HC-DAILY-2026-09-08",
+    "questionNumber": 9,
+    "topic": "Compound Words",
+    "difficulty": "medium",
+    "questionText": "Choose the compound word which best completes the sentence and means 'a sudden start or occurrence of something unwelcome, such as disease or violence':\nHealth officials rushed to the district after reports of a sudden _______ of a waterborne disease.",
+    "optionA": "outbreak",
+    "optionB": "outburst",
+    "optionC": "outcome",
+    "optionD": "outlook",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) outbreak\n\n• 'Outbreak' എന്ന compound word-ന്റെ അർഥം ഒരു അസുഖം, യുദ്ധം, കലാപം തുടങ്ങിയ അനിഷ്ട സംഭവങ്ങളുടെ പെട്ടെന്നുള്ള ആരംഭം എന്നാണ്.\n• 'out' + 'break' = പുറത്തേക്ക് പൊട്ടിപ്പുറപ്പെടുന്നത് — disease/violence-ന് ഏറ്റവും അനുയോജ്യമായ compound word.\n• Sentence context 'waterborne disease' എന്ന് പ്രത്യേകം പറയുന്നതിനാൽ 'outbreak' ആണ് ഏറ്റവും കൃത്യമായ word.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: outbreak = disease/war/violence-ന്റെ sudden start; outburst = emotion-ന്റെ sudden release.\n• Compound words-ന്റെ meaning ഓരോ context-ലും വ്യത്യസ്തമായിരിക്കും, prefix 'out-' ഒരേ ആണെങ്കിലും.\n• Related word group: out- compounds — outbreak, outburst, outcome, outlook, outset, outgrowth.\n• ⭐ PSC ആവർത്തനം: Compound Words topic-ൽ context-based meaning-matching ചോദ്യങ്ങൾ സ്ഥിരമായി വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. The outbreak of the war shocked the entire region.\n  2. His sudden outburst of anger surprised his colleagues.\n  3. The outcome of the election was declared late at night.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'outburst' എന്നാൽ വികാരത്തിന്റെ (anger, laughter) പെട്ടെന്നുള്ള പ്രകടനം എന്നാണ്, disease/violence-ന്റെ ആരംഭം അല്ല.\n• 🪤 PSC Trap: 'outbreak'-ഉം 'outburst'-ഉം spelling-ൽ സാമ്യമുള്ളതിനാൽ confuse ആകാൻ എളുപ്പമാണ് — ഇത് PSC-യുടെ favourite trap ആണ്.\n\n• (C) 'outcome' എന്നാൽ ഒരു പ്രവർത്തിയുടെ ഫലം/result എന്നാണ്, sudden onset അല്ല.\n• 🪤 PSC Trap: 'out-' prefix പൊതുവായതിനാൽ ബന്ധപ്പെട്ട word ആണെന്ന് തോന്നാം.\n\n• (D) 'outlook' എന്നാൽ ഒരു കാര്യത്തെക്കുറിച്ചുള്ള view/perspective അല്ലെങ്കിൽ ഭാവിയിലേക്കുള്ള പ്രതീക്ഷ എന്നാണ്, disease-ന്റെ ആരംഭവുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'outlook' financial/weather contexts-ൽ കൂടുതൽ കാണാറുള്ളതിനാൽ ആശയക്കുഴപ്പം ഉണ്ടാകാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Break OUT' = 'Outbreak' — അസുഖം 'പൊട്ടിപ്പുറപ്പെടുന്നത്' (breaking out) visualize ചെയ്യുക.\n• 'out-' compound family ഒരു table ആയി പഠിക്കുക: outbreak (disease/war), outburst (emotion), outcome (result), outlook (perspective).\n• PSC exam strategy: Compound word ചോദ്യങ്ങളിൽ prefix ഒരേ ആണെങ്കിലും, question-ൽ കൊടുത്ത definition-ലെ keyword ('disease', 'violence' etc.) ശ്രദ്ധിച്ച് meaning exact ആയി match ചെയ്യുന്ന word തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-08-Q10",
+    "paperId": "HC-DAILY-2026-09-08",
+    "questionNumber": 10,
+    "topic": "Abbreviations",
+    "difficulty": "easy",
+    "questionText": "Choose the correct expansion of the abbreviation given in italics.\nCustomers can check the __EMI__ schedule for their home loan on the bank's mobile application.",
+    "optionA": "Equated Monthly Instalment",
+    "optionB": "Estimated Monthly Income",
+    "optionC": "Extended Monthly Interest",
+    "optionD": "Equal Monthly Investment",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Equated Monthly Instalment\n\n• 'EMI' എന്നാൽ 'Equated Monthly Instalment' — ഒരു loan തിരിച്ചടക്കാൻ എല്ലാ മാസവും തുല്യമായി അടയ്ക്കുന്ന തുകയാണ്.\n• 'Equated' എന്നാൽ 'equal ആക്കപ്പെട്ട' എന്നർഥം — principal + interest ചേർത്ത് fixed monthly amount ആയി വിഭജിക്കുന്നു.\n• Sentence context 'home loan' എന്ന് പ്രത്യേകം പറയുന്നതിനാൽ, banking-related abbreviation 'EMI' ആണ് ഇവിടെ ചേരുന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: EMI = Equated Monthly Instalment — banking/finance-ലെ ഏറ്റവും സാധാരണ abbreviation.\n• Financial abbreviations exact wording-ൽ തന്നെ ഓർത്തിരിക്കണം — ഓരോ word-ഉം കൃത്യമായി match ചെയ്യണം.\n• Related word group: banking abbreviations — EMI, ATM, IFSC, NEFT, RTGS, KYC.\n• ⭐ PSC ആവർത്തനം: Abbreviations topic-ൽ banking/finance/government abbreviations സ്ഥിരമായി ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. He opted for a longer tenure to reduce his monthly EMI.\n  2. The bank revised the EMI after the interest rate hike.\n  3. Missing an EMI payment can affect your credit score.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'Estimated Monthly Income' — ഇത് ഒരു തെറ്റായ expansion ആണ്; EMI income അല്ല, loan repayment-മായി ബന്ധപ്പെട്ടതാണ്.\n• 🪤 PSC Trap: 'E' 'M' 'I' letters ശരിയായി തോന്നുന്നതിനാൽ ഈ option ആകർഷകമായി തോന്നാം.\n\n• (C) 'Extended Monthly Interest' — 'Extended' എന്ന word EMI-യുടെ ശരിയായ expansion-ൽ ഇല്ല; EMI-യിൽ interest matter-ന്റെ ഭാഗം മാത്രമല്ല, principal-ഉം ഉൾപ്പെടും.\n• 🪤 PSC Trap: 'Interest' എന്ന word loan-മായി ബന്ധപ്പെട്ടതിനാൽ ശരിയാണെന്ന് തോന്നാം.\n\n• (D) 'Equal Monthly Investment' — 'Investment' എന്നത് തെറ്റാണ്; EMI ഒരു repayment ആണ്, investment അല്ല. കൂടാതെ 'Equal' അല്ല 'Equated' ആണ് ശരിയായ word.\n• 🪤 PSC Trap: 'Equal' ഉം 'Equated' ഉം തമ്മിലുള്ള സൂക്ഷ്മമായ വ്യത്യാസം ശ്രദ്ധിക്കാതെ പോകാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'EMI = Equal-ആയി തിരിച്ചടയ്ക്കുന്ന തുക, Monthly-ൽ, Instalment ആയി' — മൂന്ന് words ക്രമമായി ഓർക്കുക.\n• Banking abbreviations ഒരു group ആയി പഠിക്കുക: EMI, ATM, IFSC, NEFT, RTGS — ഇവ PSC-യിൽ ആവർത്തിച്ചു വരും.\n• PSC exam strategy: Abbreviation ചോദ്യങ്ങളിൽ sentence-ന്റെ context (banking, technology, government) ആദ്യം identify ചെയ്യുക — അത് correct domain-ലേക്ക് നയിക്കും."
+    }
   }
 ]
