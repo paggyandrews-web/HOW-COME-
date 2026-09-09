@@ -6258,5 +6258,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'Estimated Monthly Income' — ഇത് ഒരു തെറ്റായ expansion ആണ്; EMI income അല്ല, loan repayment-മായി ബന്ധപ്പെട്ടതാണ്.\n• 🪤 PSC Trap: 'E' 'M' 'I' letters ശരിയായി തോന്നുന്നതിനാൽ ഈ option ആകർഷകമായി തോന്നാം.\n\n• (C) 'Extended Monthly Interest' — 'Extended' എന്ന word EMI-യുടെ ശരിയായ expansion-ൽ ഇല്ല; EMI-യിൽ interest matter-ന്റെ ഭാഗം മാത്രമല്ല, principal-ഉം ഉൾപ്പെടും.\n• 🪤 PSC Trap: 'Interest' എന്ന word loan-മായി ബന്ധപ്പെട്ടതിനാൽ ശരിയാണെന്ന് തോന്നാം.\n\n• (D) 'Equal Monthly Investment' — 'Investment' എന്നത് തെറ്റാണ്; EMI ഒരു repayment ആണ്, investment അല്ല. കൂടാതെ 'Equal' അല്ല 'Equated' ആണ് ശരിയായ word.\n• 🪤 PSC Trap: 'Equal' ഉം 'Equated' ഉം തമ്മിലുള്ള സൂക്ഷ്മമായ വ്യത്യാസം ശ്രദ്ധിക്കാതെ പോകാം.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'EMI = Equal-ആയി തിരിച്ചടയ്ക്കുന്ന തുക, Monthly-ൽ, Instalment ആയി' — മൂന്ന് words ക്രമമായി ഓർക്കുക.\n• Banking abbreviations ഒരു group ആയി പഠിക്കുക: EMI, ATM, IFSC, NEFT, RTGS — ഇവ PSC-യിൽ ആവർത്തിച്ചു വരും.\n• PSC exam strategy: Abbreviation ചോദ്യങ്ങളിൽ sentence-ന്റെ context (banking, technology, government) ആദ്യം identify ചെയ്യുക — അത് correct domain-ലേക്ക് നയിക്കും."
     }
+  },
+  {
+    "id": "HC-DAILY-2026-09-09-Q1",
+    "paperId": "HC-DAILY-2026-09-09",
+    "questionNumber": 1,
+    "topic": "Correction of Sentences",
+    "difficulty": "medium",
+    "questionText": "Choose the option that corrects the error in the following sentence.\nOne of the tyres of my car are punctured.",
+    "optionA": "No correction required",
+    "optionB": "is punctured",
+    "optionC": "were punctured",
+    "optionD": "has punctured",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) is punctured\n\n• 'One of the' എന്ന phrase-ന് ശേഷം വരുന്ന noun (tyres) plural ആണെങ്കിലും, യഥാർത്ഥ subject 'One' ആണ് — അത് singular ആണ്.\n• Singular subject-ന് verb-ഉം singular ആയിരിക്കണം, അതായത് 'is'.\n• 'My car-ന്റെ ഒരു ടയർ പഞ്ചറായി' എന്ന അർത്ഥമാണ് ഇവിടെ ഉദ്ദേശിക്കുന്നത് — ഒരു ടയർ മാത്രം, എല്ലാം അല്ല.\n• PSC പേപ്പറുകളിൽ ഇത് ഏറ്റവും സാധാരണമായി ആവർത്തിക്കുന്ന Subject-Verb trap ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: One/Each/Either/Neither of + Plural Noun + Singular Verb\n• 'Of' എന്നതിന് ശേഷമുള്ള noun plural ആണെങ്കിലും, 'One', 'Each', 'Either', 'Neither' എന്നിവയാണ് real subject — ഇവയെല്ലാം എപ്പോഴും singular ആണ്.\n• ഇതേ family-ൽ പെട്ട words: One of, Each of, Either of, Neither of, Every one of — എല്ലാം singular verb എടുക്കും.\n• ⭐ PSC ആവർത്തനം: ഈ topic Correction of Sentences, Subject-Verb Agreement എന്നിവയിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന rule-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n  1. One of the students has lost his book.\n  2. Each of the players was given a medal.\n  3. Neither of the answers is correct.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) No correction required — ഈ ഓപ്ഷൻ sentence ശരിയാണെന്ന് പറയുന്നു, പക്ഷേ 'are' എന്ന verb തെറ്റാണ്. അതിനാൽ correction ആവശ്യമാണ്.\n  • 🪤 PSC Trap: 'error ഇല്ല' എന്ന് തോന്നിക്കാൻ വേണ്ടി ഇടുന്ന distractor ആണിത്.\n• (C) were punctured — ഇത് past tense-ലേക്ക് മാറ്റുന്നു, മാത്രമല്ല 'were' plural ആണ് — subject 'One' singular ആയതിനാൽ ഇതും തെറ്റാണ്.\n  • 🪤 PSC Trap: verb-ന്റെ tense മാറ്റി ശ്രദ്ധ തിരിക്കാൻ ശ്രമിക്കുന്ന option.\n• (D) has punctured — ഇത് active voice ആണ്, അർത്ഥം മാറുന്നു ('ടയർ എന്തോ പഞ്ചർ ചെയ്തു' എന്ന തെറ്റായ അർത്ഥം വരും). Sentence-ന്റെ ഉദ്ദേശിച്ച അർത്ഥത്തിന് ചേരില്ല.\n  • 🪤 PSC Trap: active/passive confusion ഉണ്ടാക്കാൻ വേണ്ടിയുള്ള option.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ONE is ALONE' — 'One of the...' കാണുമ്പോൾ ഓർക്കുക, 'One' എപ്പോഴും 'is/has/was' പോലുള്ള singular verb-കൾക്കൊപ്പം നിൽക്കും, ഒറ്റയ്ക്ക് (alone).\n• Word family: One of, Each of, Either of, Neither of — ഇവയെല്ലാം ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Correction of Sentences ചോദ്യങ്ങളിൽ ആദ്യം real subject ഏതാണെന്ന് കണ്ടെത്തുക — 'of' എന്നതിന് ശേഷമുള്ള noun-ൽ confuse ആകരുത്. ഇത് ചെയ്താൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-09-Q2",
+    "paperId": "HC-DAILY-2026-09-09",
+    "questionNumber": 2,
+    "topic": "Degrees of Comparison",
+    "difficulty": "medium",
+    "questionText": "She is the ________ efficient of the two employees in the department.",
+    "optionA": "more",
+    "optionB": "most",
+    "optionC": "very",
+    "optionD": "much",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) more\n\n• Sentence-ൽ 'of the two employees' എന്ന phrase ഉള്ളതിനാൽ, comparison രണ്ട് പേർ തമ്മിൽ മാത്രമാണ്.\n• രണ്ട് കാര്യങ്ങൾ തമ്മിൽ compare ചെയ്യുമ്പോൾ Comparative Degree ('more') ആണ് ഉപയോഗിക്കേണ്ടത്, Superlative Degree ('most') അല്ല.\n• 'More efficient' എന്നാൽ 'കൂടുതൽ കാര്യക്ഷമത ഉള്ളവൾ' എന്നർത്ഥം — രണ്ട് പേരിൽ ഒരാളുമായി compare ചെയ്യുമ്പോൾ ഇത് ശരിയാണ്.\n• PSC-യിൽ 'of the two' / 'between the two' എന്ന phrase കണ്ടാൽ ഉടൻ comparative degree ഓർക്കുക.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: TWO things → Comparative (more/-er); THREE+ things → Superlative (most/-est)\n• 'Of the two' / 'Between the two' എന്ന signal words കണ്ടാൽ comparative degree മാത്രമേ ശരിയാകൂ.\n• 'Of the three', 'Of all', 'In the class' എന്നിവ കണ്ടാൽ superlative degree ('most/-est') ഉപയോഗിക്കുക.\n• ⭐ PSC ആവർത്തനം: Degrees of Comparison-ൽ ഇത് ഏറ്റവും repeat ചെയ്യുന്ന trap ആണ്.\n• ഉദാഹരണ sentences:\n  1. She is the taller of the two sisters.\n  2. He is the more intelligent of the two brothers.\n  3. This is the most beautiful of all the paintings.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) most — ഇത് Superlative Degree ആണ്, മൂന്നോ അതിലധികമോ കാര്യങ്ങൾ തമ്മിൽ compare ചെയ്യുമ്പോൾ മാത്രമേ ഇത് ഉപയോഗിക്കൂ. ഇവിടെ 'two employees' മാത്രമേ ഉള്ളൂ.\n  • 🪤 PSC Trap: Comparative, Superlative എന്നിവ തമ്മിൽ confuse ചെയ്യിക്കാൻ വേണ്ടിയുള്ള ഏറ്റവും സാധാരണ distractor.\n• (C) very — 'Very efficient' എന്നത് ഒരു plain adjective phrase ആണ്, ഇതിൽ comparison ഒട്ടും ഇല്ല. 'The very efficient of the two' എന്ന structure വ്യാകരണപരമായി തെറ്റാണ്.\n  • 🪤 PSC Trap: comparison ആവശ്യമുള്ള സ്ഥലത്ത് ഒരു intensifier വച്ച് confuse ചെയ്യിക്കുന്നു.\n• (D) much — 'Much efficient' എന്നത് ഒറ്റയ്ക്ക് അപൂർണ്ണമാണ് ('much more efficient' ആയാൽ മാത്രമേ ശരിയാകൂ). ഇവിടെ 'more' ഇല്ലാതെ 'much' മാത്രം ഉപയോഗിക്കുന്നത് തെറ്റാണ്.\n  • 🪤 PSC Trap: intensifier-ഉം comparative-ഉം തമ്മിലുള്ള ബന്ധം അറിയാത്തവരെ കുടുക്കാൻ വേണ്ടിയുള്ള option.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'TWO → -ER/MORE, THREE+ → -EST/MOST' — 'TWO' എന്ന word-ൽ 'T' ഉള്ളത് പോലെ 'more'-ലും ചെറിയ comparison ഓർക്കുക.\n• Rule family: Positive, Comparative, Superlative degrees ഒരുമിച്ച് table ആയി പഠിക്കുക.\n• PSC exam strategy: ചോദ്യത്തിൽ 'two', 'between', 'of the two' എന്നീ words ഉണ്ടോ എന്ന് ആദ്യം നോക്കുക — അതനുസരിച്ച് comparative/superlative തീരുമാനിക്കുക. ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-09-Q3",
+    "paperId": "HC-DAILY-2026-09-09",
+    "questionNumber": 3,
+    "topic": "Types of Sentences",
+    "difficulty": "medium",
+    "questionText": "Identify the type of the sentence.\n'Would that I were a bird!'",
+    "optionA": "Exclamatory",
+    "optionB": "Optative",
+    "optionC": "Imperative",
+    "optionD": "Interrogative",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Optative\n\n• 'Would that I were a bird!' എന്ന sentence ഒരു ആഗ്രഹം അഥവാ wish പ്രകടിപ്പിക്കുന്നു — 'ഞാൻ ഒരു പക്ഷി ആയിരുന്നെങ്കിൽ' എന്ന അർത്ഥം.\n• Wish, prayer, അല്ലെങ്കിൽ ആഗ്രഹം പ്രകടിപ്പിക്കുന്ന sentences-നെ Optative Sentence എന്ന് വിളിക്കുന്നു.\n• 'Would that', 'May', 'Wish' തുടങ്ങിയ words ഇത്തരം sentences-ന്റെ തുടക്കത്തിൽ സാധാരണയായി വരും.\n• PSC-യിൽ ഏറ്റവും confuse ചെയ്യിക്കുന്ന topic ആണ് Exclamatory vs Optative — ഇവ തമ്മിലുള്ള വ്യത്യാസം അറിഞ്ഞാൽ guaranteed mark!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'Would that / May' + Wish → Optative Sentence\n• Optative sentence എപ്പോഴും ഒരു ആഗ്രഹം, പ്രാർത്ഥന, അല്ലെങ്കിൽ അനുഗ്രഹം പ്രകടിപ്പിക്കുന്നു — statement അല്ല, question അല്ല, command അല്ല.\n• Related family: Assertive, Interrogative, Imperative, Exclamatory, Optative — ഇവ അഞ്ചും Types of Sentences-ന്റെ classification ആണ്.\n• ⭐ PSC ആവർത്തനം: Optative sentences PSC-യിൽ കുറവായി തോന്നിയാലും, 'Would that', 'May you live long', 'God bless you' പോലുള്ള ഉദാഹരണങ്ങൾ ആവർത്തിച്ച് വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. May you live a long and happy life!\n  2. God bless you!\n  3. Would that I had wings to fly!",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Exclamatory — ശക്തമായ വികാരം (surprise, joy, sorrow) പ്രകടിപ്പിക്കുന്ന sentence-നെയാണ് Exclamatory എന്ന് വിളിക്കുന്നത് ('What a beautiful bird!' പോലെ), ആഗ്രഹത്തെയല്ല.\n  • 🪤 PSC Trap: sentence-ന്റെ അവസാനത്തിലെ '!' mark കണ്ട് വിദ്യാർത്ഥികൾ ഇത് Exclamatory ആണെന്ന് തെറ്റിദ്ധരിക്കും.\n• (C) Imperative — കൽപ്പന, അഭ്യർത്ഥന, ഉപദേശം എന്നിവ പ്രകടിപ്പിക്കുന്ന sentence ആണ് Imperative ('Close the door.' പോലെ) — ഇവിടെ ഒരു കൽപ്പനയും ഇല്ല.\n  • 🪤 PSC Trap: sentence ചെറുതായതിനാൽ command ആണെന്ന് തെറ്റിദ്ധരിക്കാം.\n• (D) Interrogative — ചോദ്യം ചോദിക്കുന്ന sentence ആണ് Interrogative. ഇവിടെ question mark (?) ഇല്ല, ഒരു ചോദ്യവുമല്ല ഇത്.\n  • 🪤 PSC Trap: 'Would' എന്ന word question-ൽ സാധാരണ ഉപയോഗിക്കുന്നതിനാൽ confuse ആകാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Would THAT = WISH-ing for something' — 'Would that' കണ്ടാൽ ഉടൻ 'ആഗ്രഹം' (Optative) ഓർക്കുക.\n• Word/rule family: Assertive, Interrogative, Imperative, Exclamatory, Optative — ഈ അഞ്ചും ഒരു table ആയി മനഃപാഠമാക്കുക, ഓരോന്നിന്റെയും ഒരു ഉദാഹരണം സഹിതം.\n• PSC exam strategy: '!' mark കണ്ടാൽ ഉടൻ Exclamatory എന്ന് തീരുമാനിക്കരുത് — ആദ്യം sentence-ന്റെ അർത്ഥം (wish ആണോ, emotion ആണോ) നോക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-09-Q4",
+    "paperId": "HC-DAILY-2026-09-09",
+    "questionNumber": 4,
+    "topic": "Parts of Speech",
+    "difficulty": "medium",
+    "questionText": "Identify the part of speech of the word in italics in the sentence.\nThe committee decided to __table__ the proposal until next month.",
+    "optionA": "Noun",
+    "optionB": "Verb",
+    "optionC": "Adjective",
+    "optionD": "Adverb",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Verb\n\n• ഈ sentence-ൽ 'table' എന്ന word 'postpone ചെയ്യുക' അല്ലെങ്കിൽ 'ചർച്ചയ്ക്കായി അവതരിപ്പിക്കുക' എന്ന അർത്ഥത്തിൽ ഒരു action കാണിക്കുന്നു.\n• 'Table' സാധാരണയായി noun ആണെങ്കിലും (മേശ എന്നർത്ഥം), ഈ context-ൽ 'to table' എന്ന infinitive verb ആയാണ് ഉപയോഗിച്ചിരിക്കുന്നത്.\n• Committee 'decided to table the proposal' — ഇവിടെ 'table' ചെയ്യുന്നത് ഒരു പ്രവൃത്തി (action) ആണ്, ഒരു വസ്തു (object) അല്ല.\n• English-ൽ പല words-ഉം context അനുസരിച്ച് noun ആയോ verb ആയോ മാറും — ഇത് PSC-യിൽ പതിവായി ചോദിക്കുന്ന trick ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Same word, different context → different Part of Speech\n• Word-ന്റെ meaning അല്ല, sentence-ലെ function ആണ് Part of Speech തീരുമാനിക്കുന്നത് — action കാണിക്കുന്നെങ്കിൽ Verb, വസ്തുവിനെ കാണിക്കുന്നെങ്കിൽ Noun.\n• Related word family: 'book' (noun: പുസ്തകം / verb: ബുക്ക് ചെയ്യുക), 'watch' (noun: വാച്ച് / verb: നിരീക്ഷിക്കുക), 'table' (noun: മേശ / verb: അവതരിപ്പിക്കുക/postpone ചെയ്യുക) — ഇവയെല്ലാം dual-function words ആണ്.\n• ⭐ PSC ആവർത്തനം: 'ഈ word ഏത് Part of Speech ആണ്' എന്ന ചോദ്യരീതി Parts of Speech topic-ൽ സ്ഥിരമായി ആവർത്തിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. I will table this issue in the next meeting. (Verb)\n  2. She placed the book on the table. (Noun)\n  3. Let's water the plants. (Verb, though 'water' is usually a noun)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Noun — 'Table' സാധാരണയായി noun ('മേശ') ആണെങ്കിലും, ഈ sentence-ൽ ഒരു action കാണിക്കുന്നതിനാൽ noun അല്ല.\n  • 🪤 PSC Trap: word-ന്റെ ഏറ്റവും common meaning (മേശ) ഓർത്ത് വിദ്യാർത്ഥികൾ Noun എന്ന് തെറ്റിദ്ധരിക്കും.\n• (C) Adjective — Adjective ഒരു noun-നെ describe ചെയ്യണം. ഇവിടെ 'table' ഒരു noun-നെയും describe ചെയ്യുന്നില്ല, മറിച്ച് ഒരു action കാണിക്കുന്നു.\n  • 🪤 PSC Trap: sentence structure അറിയാത്തവരെ confuse ചെയ്യിക്കാൻ വേണ്ടിയുള്ള option.\n• (D) Adverb — Adverb ഒരു verb-നെ, adjective-നെ, അല്ലെങ്കിൽ മറ്റൊരു adverb-നെ modify ചെയ്യണം. 'Table' ഇവിടെ modify ചെയ്യുന്ന ഒരു word അല്ല, അത് തന്നെ main verb ആണ്.\n  • 🪤 PSC Trap: word-ന്റെ function മനസിലാക്കാതെ ഊഹിച്ച് ഉത്തരം കണ്ടെത്തുന്നവരെ കുടുക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ACTION ഉണ്ടോ? എങ്കിൽ VERB!' — sentence-ൽ ആ word ഒരു പ്രവൃത്തി കാണിക്കുന്നുണ്ടോ എന്ന് ചോദിക്കുക, ഉണ്ടെങ്കിൽ അത് Verb ആണ്.\n• Word family: book, watch, table, water, hand, fish — ഇവയെല്ലാം noun-ഉം verb-ഉം ആയി മാറാൻ കഴിയുന്ന words ആണ്, ഇവ ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: word-ന്റെ 'ഡിക്ഷ്ണറി meaning' നോക്കാതെ, sentence-ൽ ആ word എന്ത് ജോലിയാണ് ചെയ്യുന്നത് എന്ന് നോക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-09-Q5",
+    "paperId": "HC-DAILY-2026-09-09",
+    "questionNumber": 5,
+    "topic": "Infinitive and Gerunds",
+    "difficulty": "medium",
+    "questionText": "Choose the sentence that is grammatically correct.",
+    "optionA": "He avoids to argue with his colleagues over trivial matters.",
+    "optionB": "He avoids arguing with his colleagues over trivial matters.",
+    "optionC": "He avoids argue with his colleagues over trivial matters.",
+    "optionD": "He avoids to arguing with his colleagues over trivial matters.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) He avoids arguing with his colleagues over trivial matters.\n\n• 'Avoid' എന്ന verb-ന് ശേഷം എപ്പോഴും Gerund (verb + ing) ആണ് വരേണ്ടത്, Infinitive (to + verb) അല്ല.\n• അതുകൊണ്ട് 'avoids arguing' എന്നത് ശരിയായ structure ആണ്.\n• 'Avoid to argue' എന്നത് വ്യാകരണപരമായി തെറ്റാണ് — ഇംഗ്ലീഷിൽ ഇത്തരം verbs-ന് ഒരു fixed pattern ഉണ്ട്.\n• ഇത് PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന Infinitive/Gerund rule ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: avoid / enjoy / finish / consider / suggest / mind + Verb+ing (never + to-verb)\n• ഈ verbs-ന് ശേഷം gerund (-ing form) മാത്രമേ വരാൻ പാടുള്ളൂ — infinitive (to + verb) ഒരിക്കലും ഉപയോഗിക്കരുത്.\n• Related word family: avoid, enjoy, finish, suggest, consider, mind, deny, admit, postpone, practise — ഇവയെല്ലാം gerund-only verbs ആണ്.\n• ⭐ PSC ആവർത്തനം: ഇത് Infinitive and Gerunds topic-ൽ ഏറ്റവും കൂടുതൽ repeat ചെയ്യുന്ന rule ആണ്.\n• ഉദാഹരണ sentences:\n  1. She enjoys reading novels.\n  2. They finished painting the house.\n  3. He suggested taking a short break.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) He avoids to argue... — 'Avoid' എന്ന verb-ന് ശേഷം infinitive ('to argue') വരാൻ പാടില്ല. ഇത് വ്യാകരണപരമായി തെറ്റാണ്.\n  • 🪤 PSC Trap: മലയാളികൾ സാധാരണയായി ചെയ്യുന്ന ഏറ്റവും common mistake ആണിത്.\n• (C) He avoids argue... — ഇവിടെ 'argue' എന്ന bare infinitive (without 'to' പോലും) ഉപയോഗിച്ചിരിക്കുന്നു, ഇത് പൂർണ്ണമായും തെറ്റായ structure ആണ്.\n  • 🪤 PSC Trap: -ing suffix പൂർണ്ണമായി വിട്ടുകളഞ്ഞ് confuse ചെയ്യിക്കുന്ന option.\n• (D) He avoids to arguing... — ഇത് 'to' + gerund എന്ന രണ്ട് തെറ്റുകൾ ഒരുമിച്ച് ചേർത്ത structure ആണ്, ഇംഗ്ലീഷിൽ ഇങ്ങനെ ഒരു pattern ഇല്ല.\n  • 🪤 PSC Trap: രണ്ട് structures കൂട്ടിക്കുഴച്ച് confuse ചെയ്യിക്കുന്ന ഏറ്റവും ബുദ്ധിമുട്ടുള്ള distractor.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'AVOID-ING' — 'avoid' എന്ന word-ൽ തന്നെ 'ing' sound ഓർമ്മിപ്പിക്കട്ടെ, avoid-ന് ശേഷം എപ്പോഴും -ing!\n• Word family: avoid, enjoy, finish, suggest, consider, mind, practise, postpone — ഒരു list ആയി മനഃപാഠമാക്കുക.\n• PSC exam strategy: 'to + verb' ഉള്ള option കണ്ടാൽ, ആദ്യം verb ഏതാണെന്ന് നോക്കുക — gerund-only verbs list-ൽ ഉണ്ടെങ്കിൽ ആ option ഒഴിവാക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-09-Q6",
+    "paperId": "HC-DAILY-2026-09-09",
+    "questionNumber": 6,
+    "topic": "Foreign Words and Phrases",
+    "difficulty": "hard",
+    "questionText": "Choose the meaning of the phrase in italics.\nThe negotiations reached a __cul-de-sac__, with neither side willing to compromise.",
+    "optionA": "a dead end with no way forward",
+    "optionB": "a mutually beneficial agreement",
+    "optionC": "a temporary pause",
+    "optionD": "a complete victory",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) a dead end with no way forward\n\n• 'Cul-de-sac' എന്നത് ഫ്രഞ്ച് ഭാഷയിൽ നിന്നുള്ള phrase ആണ്, അക്ഷരാർത്ഥത്തിൽ 'ബാഗിന്റെ അടിഭാഗം' എന്നാണ് അർത്ഥം.\n• ഇത് സാധാരണയായി ഒരു 'dead-end street' (ഒരു വശത്ത് മാത്രം exit ഉള്ള റോഡ്) എന്നർത്ഥത്തിലും, figurative ആയി 'ഒരു പോംവഴിയും ഇല്ലാത്ത അവസ്ഥ' എന്നർത്ഥത്തിലും ഉപയോഗിക്കുന്നു.\n• Negotiations-ന്റെ context-ൽ, ഇത് ചർച്ചകൾ മുന്നോട്ട് പോകാൻ കഴിയാത്ത ഒരു അവസ്ഥയെ സൂചിപ്പിക്കുന്നു.\n• PSC-യിൽ French/Latin origin phrases ധാരാളം ചോദിക്കാറുണ്ട് — ഇവയുടെ literal, figurative meanings രണ്ടും അറിഞ്ഞിരിക്കണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Cul-de-sac (French) = literally 'bottom of a bag' → figuratively 'dead end / impasse'\n• Foreign phrases പലപ്പോഴും അവയുടെ literal meaning-ൽ നിന്ന് വ്യത്യസ്തമായ ഒരു figurative meaning-ൽ ആണ് ഇംഗ്ലീഷിൽ ഉപയോഗിക്കുന്നത്.\n• Related family: impasse (French), dead-end, stalemate — ഇവയെല്ലാം 'progress ഇല്ലാത്ത അവസ്ഥ' എന്നർത്ഥമുള്ള synonyms ആണ്.\n• ⭐ PSC ആവർത്തനം: Foreign Words and Phrases topic-ൽ French/Latin phrases സ്ഥിരമായി ചോദിക്കാറുണ്ട്.\n• Etymology hint: 'Cul' = bottom, 'de' = of, 'sac' = bag (French) — അക്ഷരാർത്ഥത്തിൽ 'bag-ന്റെ അടിഭാഗം'.\n• ഉദാഹരണ sentences:\n  1. The street ends in a cul-de-sac.\n  2. The talks reached a cul-de-sac after months of debate.\n  3. His career seemed to have hit a cul-de-sac.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) a mutually beneficial agreement — ഇത് 'cul-de-sac'-ന്റെ നേരെ വിപരീതമായ അർത്ഥമാണ്; agreement എന്നാൽ ചർച്ച വിജയകരമായി അവസാനിച്ചു എന്നാണ്, ഇവിടെ ചർച്ച സ്തംഭിച്ചിരിക്കുകയാണ്.\n  • 🪤 PSC Trap: വാക്യത്തിലെ 'negotiations' എന്ന word കണ്ട് 'success' എന്ന് ഊഹിക്കുന്നവരെ കുടുക്കാൻ.\n• (C) a temporary pause — ഇത് ശരിയല്ല, കാരണം 'cul-de-sac' എന്നാൽ താൽക്കാലികമല്ല, മറിച്ച് മുന്നോട്ട് പോകാൻ കഴിയാത്ത ഒരു സ്ഥിരമായ അവസ്ഥയാണ് സൂചിപ്പിക്കുന്നത്.\n  • 🪤 PSC Trap: 'ചർച്ച നിർത്തിവച്ചു' എന്നതും 'ചർച്ച മുട്ടിനിന്നു' എന്നതും തമ്മിലുള്ള സൂക്ഷ്മ വ്യത്യാസം അറിയാത്തവരെ confuse ചെയ്യിക്കും.\n• (D) a complete victory — ഇതും തെറ്റായ അർത്ഥമാണ്; 'cul-de-sac' നല്ലതോ ചീത്തയോ ആയ ഒരു വിജയത്തെയും സൂചിപ്പിക്കുന്നില്ല, മറിച്ച് സ്തംഭനത്തെയാണ്.\n  • 🪤 PSC Trap: phrase-ന്റെ അർത്ഥം അറിയാതെ context matching മാത്രം ചെയ്യുന്നവരെ കുടുക്കാൻ വേണ്ടിയുള്ള option.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'CUL-DE-SAC = ROAD THAT ENDS IN A SACK' — ബാഗ് പോലെ ഒരു വശം മാത്രം തുറന്ന, മറുവശം അടഞ്ഞ റോഡ് ഓർക്കുക, അതാണ് 'dead end'.\n• Word family: impasse, deadlock, stalemate, dead-end — ഇവയെല്ലാം ഒരുമിച്ച് പഠിക്കുക, PSC ഇവ പലപ്പോഴും മാറിമാറി ചോദിക്കും.\n• PSC exam strategy: Foreign phrases ചോദ്യങ്ങളിൽ literal meaning-ൽ കുടുങ്ങാതെ, sentence-ന്റെ context-ൽ figurative meaning ഏതെന്ന് നോക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-09-Q7",
+    "paperId": "HC-DAILY-2026-09-09",
+    "questionNumber": 7,
+    "topic": "Singular and Plural",
+    "difficulty": "medium",
+    "questionText": "Choose the correct plural form of the word 'nucleus'.",
+    "optionA": "nucleuses",
+    "optionB": "nuclei",
+    "optionC": "nucleusi",
+    "optionD": "nucleus's",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) nuclei\n\n• 'Nucleus' എന്നത് ലാറ്റിൻ ഭാഷയിൽ നിന്നുള്ള word ആണ്, ഇതിന്റെ plural form ലാറ്റിൻ നിയമം അനുസരിച്ചാണ് ഉണ്ടാകുന്നത്.\n• Latin words-ൽ '-us' ൽ അവസാനിക്കുന്ന പല words-ന്റെയും plural '-i' ആയി മാറും.\n• 'Nucleus' → 'nuclei' എന്നത് science, grammar രണ്ട് മേഖലകളിലും ഒരുപോലെ ഉപയോഗിക്കുന്ന standard plural form ആണ്.\n• PSC-യിൽ ഇത്തരം irregular Latin/Greek plurals സ്ഥിരമായി ചോദിക്കാറുണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Latin words ending in '-us' → plural ends in '-i' (nucleus→nuclei, cactus→cacti, stimulus→stimuli)\n• ഇത്തരം words സാധാരണ '-s' ചേർത്ത് plural ആക്കുന്ന നിയമം പിന്തുടരില്ല — ഇവ Latin origin words ആയതിനാൽ അവയുടെ സ്വന്തം plural pattern പിന്തുടരും.\n• Related word family: cactus→cacti, stimulus→stimuli, radius→radii, fungus→fungi, syllabus→syllabi/syllabuses — ഈ group ഒരുമിച്ച് പഠിക്കുക.\n• ⭐ PSC ആവർത്തനം: Singular and Plural topic-ൽ Latin/Greek origin irregular plurals ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന ഒരു sub-topic ആണ്.\n• Etymology hint: Latin '-us' → '-i' (masculine second declension nouns).\n• ഉദാഹരണ sentences:\n  1. The cell contains two nuclei.\n  2. Scientists studied the nuclei of the atoms.\n  3. Each cell in the sample had a clearly visible nucleus. (singular)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) nucleuses — ഇത് സാധാരണ '-es' ചേർത്തുള്ള plural pattern ആണ്, പക്ഷേ 'nucleus' ഒരു Latin origin word ആയതിനാൽ ഈ pattern ഇവിടെ ബാധകമല്ല.\n  • 🪤 PSC Trap: സാധാരണ English plural rule (add -es) മാത്രം അറിയാവുന്നവരെ കുടുക്കാൻ വേണ്ടിയുള്ള ഏറ്റവും common distractor.\n• (C) nucleusi — ഇത് ഒരു തെറ്റായ, നിലവിലില്ലാത്ത word ആണ് — '-us' full word നിലനിർത്തി '-i' കൂടി ചേർത്തത് ശരിയായ Latin rule അല്ല.\n  • 🪤 PSC Trap: '-i' ending ശരിയാണെന്ന് അറിഞ്ഞിട്ടും, എവിടെ ചേർക്കണം എന്ന് അറിയാത്തവരെ confuse ചെയ്യിക്കും.\n• (D) nucleus's — ഇത് possessive form ('nucleus-ന്റെ') ആണ്, plural അല്ല. Apostrophe-s ഉടമസ്ഥത കാണിക്കാൻ ഉപയോഗിക്കുന്നതാണ്, plural-ന് അല്ല.\n  • 🪤 PSC Trap: Plural, Possessive എന്നിവ തമ്മിൽ confuse ചെയ്യിക്കുന്ന classic distractor.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'US → I' — Latin '-us' words-ന്റെ plural ഓർക്കാൻ, 'nucleUS' becomes 'nuclEI' എന്ന് ചൊല്ലി പഠിക്കുക.\n• Word family: nucleus-nuclei, cactus-cacti, stimulus-stimuli, radius-radii, fungus-fungi, syllabus-syllabi — ഒരു table ആയി എഴുതി വയ്ക്കുക.\n• PSC exam strategy: Science/Latin-origin words plural ചോദിക്കുമ്പോൾ, സാധാരണ '-s'/'-es' rule ആദ്യം മറക്കുക, പകരം '-us→-i', '-um→-a', '-is→-es' പോലുള്ള irregular patterns ഓർക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-09-Q8",
+    "paperId": "HC-DAILY-2026-09-09",
+    "questionNumber": 8,
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "questionText": "Choose the word nearest in meaning to the word in italics.\nThe young lawyer delivered an __eloquent__ speech that moved the entire courtroom.",
+    "optionA": "fluent and persuasive",
+    "optionB": "confusing",
+    "optionC": "brief",
+    "optionD": "monotonous",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) fluent and persuasive\n\n• 'Eloquent' എന്ന word-ന്റെ അർത്ഥം 'ഒഴുക്കോടെയും ശക്തിയോടെയും സംസാരിക്കാൻ കഴിവുള്ള' എന്നാണ് — പ്രത്യേകിച്ച് പൊതു സംസാരത്തിൽ (public speaking).\n• Lawyer-ന്റെ speech court-നെ 'move' ചെയ്തു എന്ന് പറയുമ്പോൾ, ആ speech ഫലപ്രദവും ശക്തവുമായിരുന്നു എന്നാണ് സൂചന.\n• 'Fluent and persuasive' എന്ന meaning ഇതുമായി കൃത്യമായി യോജിക്കുന്നു.\n• 'Eloquent' Latin word 'eloqui' (to speak out) എന്നതിൽ നിന്നാണ് വന്നത് — 'e' (out) + 'loqui' (to speak).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Eloquent = flowing + persuasive + powerful speech\n• Synonym ചോദ്യങ്ങളിൽ, word-ന്റെ context (ഇവിടെ: courtroom speech) meaning തിരഞ്ഞെടുക്കാൻ സഹായിക്കും.\n• Related word family: articulate, fluent, persuasive, expressive — ഇവയെല്ലാം 'നന്നായി സംസാരിക്കാൻ കഴിവുള്ള' എന്നർത്ഥമുള്ള words ആണ്.\n• ⭐ PSC ആവർത്തനം: Speech/communication-related synonyms (eloquent, articulate, fluent) PSC-യിൽ ആവർത്തിച്ച് വരാറുണ്ട്.\n• Etymology hint: Latin 'e-' (out) + 'loqui' (to speak) = 'to speak out clearly'.\n• ഉദാഹരണ sentences:\n  1. The eloquent speaker held the audience spellbound.\n  2. Her eloquent defense of human rights won widespread praise.\n  3. He gave an eloquent tribute to his late mentor.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) confusing — ഇത് 'eloquent'-ന്റെ നേരെ വിപരീതമായ അർത്ഥമാണ്; eloquent speech വ്യക്തവും സ്വാധീനിക്കുന്നതും ആണ്, confusing അല്ല.\n  • 🪤 PSC Trap: 'complex' സംസാരം confusing ആണെന്ന് തെറ്റായി ബന്ധിപ്പിക്കുന്നവരെ കുടുക്കാൻ.\n• (C) brief — Eloquence ഒരു speech-ന്റെ ദൈർഘ്യത്തെ (length) കുറിച്ചല്ല, മറിച്ച് അതിന്റെ ഗുണനിലവാരത്തെ (quality) കുറിച്ചാണ്. ഒരു speech ഹ്രസ്വമോ ദീർഘമോ ആകാം, eloquent ആകാം അല്ലാതെയും ആകാം.\n  • 🪤 PSC Trap: unrelated dimension (length) ഉപയോഗിച്ച് confuse ചെയ്യിക്കുന്ന option.\n• (D) monotonous — ഇതും വിപരീത അർത്ഥമാണ്; monotonous speech ആളുകളെ ബോറടിപ്പിക്കും, courtroom-നെ move ചെയ്യില്ല. Eloquent speech engaging ആയിരിക്കും.\n  • 🪤 PSC Trap: 'സംസാരം' എന്ന പൊതു ബന്ധം മാത്രം നോക്കി തെറ്റായ synonym തിരഞ്ഞെടുക്കുന്നവരെ കുടുക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ELOQUENT = E(asily) LOquent' — 'loqui' (to speak) എന്ന root ഓർക്കുക, 'eloquent' എന്നാൽ എളുപ്പത്തിൽ, ശക്തിയോടെ സംസാരിക്കുന്നയാൾ.\n• Word family: eloquent, articulate, fluent, loquacious (talkative) — ഇവ തമ്മിലുള്ള സൂക്ഷ്മ വ്യത്യാസങ്ങൾ ശ്രദ്ധിക്കുക (loquacious-ന് slight negative ചായ്‌വ് ഉണ്ട്).\n• PSC exam strategy: Synonym ചോദ്യങ്ങളിൽ sentence-ന്റെ context ശ്രദ്ധിക്കുക — ഇവിടെ 'moved the courtroom' എന്നത് positive powerful speech-നെ സൂചിപ്പിക്കുന്നു."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-09-Q9",
+    "paperId": "HC-DAILY-2026-09-09",
+    "questionNumber": 9,
+    "topic": "Phrasal Verbs",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the phrasal verb in italics.\nAll the colleagues decided to __chip in__ and buy a farewell gift for their manager.",
+    "optionA": "contribute money or effort together",
+    "optionB": "argue about the cost",
+    "optionC": "refuse to participate",
+    "optionD": "return the gift",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) contribute money or effort together\n\n• 'Chip in' എന്ന phrasal verb-ന്റെ അർത്ഥം 'ഒരു പൊതു ലക്ഷ്യത്തിനായി പണമോ പ്രയത്നമോ ഒരുമിച്ച് നൽകുക' എന്നാണ്.\n• Colleagues ഒരുമിച്ച് ചേർന്ന് ഒരു farewell gift വാങ്ങാൻ തീരുമാനിച്ചു എന്നതിനാൽ, ഓരോരുത്തരും കുറച്ച് പണം സംഭാവന ചെയ്യുന്നു എന്നാണ് അർത്ഥം.\n• ഈ phrasal verb group activities, collections, fundraising എന്നിവയുടെ context-ൽ സാധാരണയായി ഉപയോഗിക്കുന്നു.\n• PSC-യിൽ workplace/group-related phrasal verbs (chip in, pitch in, team up) പതിവായി ചോദിക്കാറുണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Chip in = contribute (money/effort) as part of a group\n• Phrasal verbs-ന്റെ meaning പലപ്പോഴും idiomatic ആണ് — അതിലെ individual words (chip, in) അക്ഷരാർത്ഥത്തിൽ എടുത്താൽ ശരിയായ അർത്ഥം കിട്ടില്ല.\n• Related word family: chip in, pitch in, team up, club together — ഇവയെല്ലാം 'ഒരുമിച്ച് സംഭാവന ചെയ്യുക/സഹകരിക്കുക' എന്നർത്ഥമുള്ള phrasal verbs ആണ്.\n• ⭐ PSC ആവർത്തനം: Phrasal Verbs topic PSC-യിൽ ഏറ്റവും കൂടുതൽ questions വരുന്ന vocabulary sub-topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. We all chipped in to buy her a birthday present.\n  2. Could you chip in five rupees for the auto fare?\n  3. Everyone chipped in with ideas for the event.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) argue about the cost — ഇത് 'chip in'-ന്റെ അർത്ഥത്തിന് വിപരീതമാണ്; ഇവിടെ colleagues സഹകരണത്തോടെ പ്രവർത്തിക്കുകയാണ്, തർക്കിക്കുകയല്ല.\n  • 🪤 PSC Trap: 'gift' എന്ന word-ൽ നിന്ന് 'cost' നെ കുറിച്ചുള്ള തർക്കം ഊഹിക്കുന്നവരെ കുടുക്കാൻ.\n• (C) refuse to participate — ഇത് നേരെ വിപരീത അർത്ഥമാണ്; sentence 'decided to chip in' എന്ന് പറയുന്നത് അവർ പങ്കെടുക്കാൻ തീരുമാനിച്ചു എന്നാണ്, നിരസിക്കുകയല്ല.\n  • 🪤 PSC Trap: phrasal verb-ന്റെ അർത്ഥം അറിയാതെ 'in' എന്ന particle-ന്റെ അക്ഷരാർത്ഥം മാത്രം നോക്കുന്നവരെ confuse ചെയ്യിക്കും.\n• (D) return the gift — 'Chip in' gift തിരികെ കൊടുക്കുന്നതിനെ കുറിച്ചല്ല, gift വാങ്ങാൻ പണം സംഭാവന ചെയ്യുന്നതിനെ കുറിച്ചാണ്.\n  • 🪤 PSC Trap: 'gift' എന്ന word ആവർത്തിച്ച് ഉപയോഗിച്ച് confuse ചെയ്യിക്കുന്ന option.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'CHIP IN = throw your CHIP (coin/token) INto the pool' — ഒരു game-ൽ എല്ലാവരും chips ഇടുന്നത് പോലെ, എല്ലാവരും ചെറിയ സംഭാവന നൽകുന്നു എന്ന് ഓർക്കുക.\n• Word family: chip in, pitch in, club together, team up — group cooperation കാണിക്കുന്ന phrasal verbs ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Phrasal verb ചോദ്യങ്ങളിൽ, individual words-ന്റെ literal meaning മറന്ന് sentence-ന്റെ context-ൽ മൊത്തത്തിലുള്ള അർത്ഥം കണ്ടെത്തുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-09-Q10",
+    "paperId": "HC-DAILY-2026-09-09",
+    "questionNumber": 10,
+    "topic": "One Word Substitutes",
+    "difficulty": "hard",
+    "questionText": "Choose the one word for the phrase given below.\nA position or office that requires little or no work but provides an income.",
+    "optionA": "sinecure",
+    "optionB": "internship",
+    "optionC": "apprenticeship",
+    "optionD": "vacancy",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) sinecure\n\n• 'Sinecure' എന്ന word-ന്റെ അർത്ഥം 'ശമ്പളമോ ആദായമോ ലഭിക്കുന്ന, എന്നാൽ ജോലി ഒന്നും ചെയ്യേണ്ടതില്ലാത്ത ഒരു സ്ഥാനം/പദവി' എന്നാണ്.\n• ഇത് Latin words 'sine' (without) + 'cura' (care/work) എന്നിവയിൽ നിന്നാണ് വന്നത് — 'work ഇല്ലാതെ' എന്നർത്ഥം.\n• Phrase-ൽ പറയുന്ന 'requires little or no work but provides an income' എന്നത് 'sinecure'-ന്റെ കൃത്യമായ നിർവചനം തന്നെയാണ്.\n• One Word Substitute ചോദ്യങ്ങളിൽ, phrase-ന്റെ core meaning പിടിച്ചെടുക്കുന്ന single word കണ്ടെത്തുകയാണ് വേണ്ടത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Sinecure = position + salary − work (Latin: sine = without, cura = work/care)\n• One Word Substitutes topic-ൽ, ഓരോ phrase-ഉം ഒരു specific single word-ലേക്ക് exactly match ചെയ്യണം — അടുത്ത് നിൽക്കുന്ന word പോരാ.\n• Related word family: sinecure (no-work paid job), redundant (job no longer needed), honorary (unpaid position) — ഇവ തമ്മിലുള്ള വ്യത്യാസം ശ്രദ്ധിക്കുക.\n• ⭐ PSC ആവർത്തനം: One Word Substitutes PSC English-ൽ ഏറ്റവും കൂടുതൽ ചോദ്യങ്ങൾ വരുന്ന vocabulary topic ആണ്.\n• Etymology hint: Latin 'sine' (without) + 'cura' (care, cure, work) = 'without work/care'.\n• ഉദാഹരണ sentences:\n  1. The post was widely criticized as a political sinecure.\n  2. He was given a sinecure as a reward for his loyalty.\n  3. Many royal titles historically functioned as sinecures.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) internship — Internship എന്നത് പഠനത്തിനും പരിശീലനത്തിനും വേണ്ടിയുള്ള ഒരു temporary ജോലിയാണ്, ഇതിൽ യഥാർത്ഥ ജോലി ചെയ്യേണ്ടതുണ്ട് — 'little or no work' എന്നതിന് യോജിക്കില്ല.\n  • 🪤 PSC Trap: 'ജോലി' എന്ന പൊതു concept മാത്രം നോക്കി തിരഞ്ഞെടുക്കുന്നവരെ കുടുക്കാൻ.\n• (C) apprenticeship — ഇതും ഒരു learning/training role ആണ്, ഇതിൽ സജീവമായി ജോലി ചെയ്ത് പഠിക്കേണ്ടതുണ്ട് — sinecure-ന്റെ 'no work' concept-ന് വിപരീതമാണ്.\n  • 🪤 PSC Trap: 'career-related roles' എന്ന പൊതു ബന്ധം കണ്ട് confuse ചെയ്യുന്ന option.\n• (D) vacancy — ഇത് ഒരു ഒഴിഞ്ഞ (empty), ആരും നികത്താത്ത തസ്തികയാണ് — ശമ്പളം ലഭിക്കുന്ന, ജോലി ഇല്ലാത്ത ഒരു നിലവിലുള്ള പദവിയല്ല.\n  • 🪤 PSC Trap: 'position/office' എന്ന word ആവർത്തിച്ചത് കണ്ട് 'vacancy' ശരിയാണെന്ന് തെറ്റിദ്ധരിക്കാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'SINEcure = SIN of getting paid for NO work!' — തമാശയായി ഓർക്കുക, ശമ്പളം വാങ്ങി ജോലി ചെയ്യാത്തത് ഒരു 'സിൻ' (തമാശ) ആണ് എന്ന് വിചാരിക്കുക.\n• Word family: sinecure, redundant, honorary, nepotism — ജോലി/സ്ഥാനവുമായി ബന്ധപ്പെട്ട advanced vocabulary ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: One Word Substitute ചോദ്യങ്ങളിൽ phrase-ലെ എല്ലാ keywords-ഉം ('little or no work', 'provides an income') ശ്രദ്ധിക്കുക — ഒരു option ഭാഗികമായി മാത്രം ചേരുന്നതാണെങ്കിൽ അത് തള്ളിക്കളയുക."
+    }
   }
 ]
