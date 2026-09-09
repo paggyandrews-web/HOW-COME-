@@ -6,7 +6,8 @@
     "date": "20-Jun-2026",
     "medium": "M",
     "year": "2026",
-    "categoryCode": "034/2025,339/2025,419/2025,484/2025,485/2025,486/2025,487/2025,488/2025"
+    "categoryCode": "034/2025,339/2025,419/2025,484/2025,485/2025,486/2025,487/2025,488/2025",
+    "answerKeyStatus": "final"
   },
   {
     "id": "54-2026-M",
@@ -14,7 +15,8 @@
     "post": "Special Branch Asst, Excise Inspector, SI of Police, Assistant, Junior",
     "date": "06-Jun-2026",
     "medium": "M",
-    "year": "2026"
+    "year": "2026",
+    "answerKeyStatus": "final"
   },
   {
     "id": "51-2026-M",
@@ -22,7 +24,8 @@
     "post": "Civil Excise Officer (Trainee)/Women Civil Excise Officer (Trainee)",
     "date": "23-May-2026",
     "medium": "M",
-    "year": "2026"
+    "year": "2026",
+    "answerKeyStatus": "final"
   },
   {
     "id": "049-2026-M",
@@ -30,7 +33,8 @@
     "post": "Attender Gr II/Salesman Gr II/Saleswoman Gr II/Store Keeper",
     "date": "18-May-2026",
     "medium": "M",
-    "year": "2026"
+    "year": "2026",
+    "answerKeyStatus": "final"
   },
   {
     "id": "048-2026-E",
@@ -38,7 +42,8 @@
     "post": "Special Branch Asst, Excise Inspector, SI of Police, Assistant, Junior",
     "date": "16-May-2026",
     "medium": "E",
-    "year": "2026"
+    "year": "2026",
+    "answerKeyStatus": "final"
   },
   {
     "id": "44-2026-M",
@@ -46,7 +51,8 @@
     "post": "Beat Forest Officer",
     "date": "06-May-2026",
     "medium": "M",
-    "year": "2026"
+    "year": "2026",
+    "answerKeyStatus": "final"
   },
   {
     "id": "43-2026-M",
@@ -54,7 +60,8 @@
     "post": "Special Branch Asst, Excise Inspector, SI of Police, Assistant, Junior",
     "date": "02-May-2026",
     "medium": "M",
-    "year": "2026"
+    "year": "2026",
+    "answerKeyStatus": "final"
   },
   {
     "id": "038-2026-M",
@@ -62,7 +69,8 @@
     "post": "Assistant Prison Officer",
     "date": "18-Apr-2026",
     "medium": "M",
-    "year": "2026"
+    "year": "2026",
+    "answerKeyStatus": "final"
   },
   {
     "id": "11-2026-M",
@@ -71,7 +79,8 @@
     "date": "07-Feb-2026",
     "medium": "M",
     "year": "2026",
-    "categoryCode": "502/2023"
+    "categoryCode": "502/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "005-2026-M",
@@ -80,7 +89,8 @@
     "date": "24-Jan-2026",
     "medium": "M",
     "year": "2026",
-    "categoryCode": "316/2025,360/2025"
+    "categoryCode": "316/2025,360/2025",
+    "answerKeyStatus": "final"
   },
   {
     "id": "115-2025-M",
@@ -89,7 +99,8 @@
     "date": "21-Jan-2026",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "045/2025,046/2025,129/2025,130/2025,586/2024,647/2024,648/2024"
+    "categoryCode": "045/2025,046/2025,129/2025,130/2025,586/2024,647/2024,648/2024",
+    "answerKeyStatus": "final"
   },
   {
     "id": "003-2026-M",
@@ -98,7 +109,8 @@
     "date": "17-Jan-2026",
     "medium": "M",
     "year": "2026",
-    "categoryCode": "293/2025"
+    "categoryCode": "293/2025",
+    "answerKeyStatus": "final"
   },
   {
     "id": "176-2025-M",
@@ -107,7 +119,8 @@
     "date": "31-Dec-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "265/2025"
+    "categoryCode": "265/2025",
+    "answerKeyStatus": "final"
   },
   {
     "id": "174-2025-M",
@@ -116,7 +129,8 @@
     "date": "29-Dec-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "055/2025,062/2025"
+    "categoryCode": "055/2025,062/2025",
+    "answerKeyStatus": "final"
   },
   {
     "id": "172-2025-M",
@@ -125,7 +139,8 @@
     "date": "20-Dec-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "211/2025,212/2025,213/2025,214/2025,250/2025,251/2025,252/2025,253/2025"
+    "categoryCode": "211/2025,212/2025,213/2025,214/2025,250/2025,251/2025,252/2025,253/2025",
+    "answerKeyStatus": "final"
   },
   {
     "id": "167-2025-M",
@@ -134,7 +149,8 @@
     "date": "06-Dec-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "215/2025"
+    "categoryCode": "215/2025",
+    "answerKeyStatus": "final"
   },
   {
     "id": "132-2025-M",
@@ -143,7 +159,8 @@
     "date": "22-Oct-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "019/2025,106/2025,107/2025,138/2024,177/2024,178/2024,179/2024,247/2024"
+    "categoryCode": "019/2025,106/2025,107/2025,138/2024,177/2024,178/2024,179/2024,247/2024",
+    "answerKeyStatus": "final"
   },
   {
     "id": "128-2025-M",
@@ -152,7 +169,8 @@
     "date": "16-Oct-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "134/2023,259/2023,729/2022"
+    "categoryCode": "134/2023,259/2023,729/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "125-2025-M",
@@ -161,7 +179,8 @@
     "date": "07-Oct-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "446/2023"
+    "categoryCode": "446/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "120-2025-M",
@@ -170,7 +189,8 @@
     "date": "25-Sep-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "449/2024,450/2024,784/2024,785/2024,786/2024,787/2024"
+    "categoryCode": "449/2024,450/2024,784/2024,785/2024,786/2024,787/2024",
+    "answerKeyStatus": "final"
   },
   {
     "id": "102-2025-M",
@@ -179,7 +199,8 @@
     "date": "09-Aug-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "527/2024"
+    "categoryCode": "527/2024",
+    "answerKeyStatus": "final"
   },
   {
     "id": "097-2025-M",
@@ -188,7 +209,8 @@
     "date": "02-Aug-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "527/2024"
+    "categoryCode": "527/2024",
+    "answerKeyStatus": "final"
   },
   {
     "id": "88-2025-M",
@@ -197,7 +219,8 @@
     "date": "19-Jul-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "091/2024,446/2024,582/2024"
+    "categoryCode": "091/2024,446/2024,582/2024",
+    "answerKeyStatus": "final"
   },
   {
     "id": "83-2025-M",
@@ -206,7 +229,8 @@
     "date": "11-Jul-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "378/2024,379/2024"
+    "categoryCode": "378/2024,379/2024",
+    "answerKeyStatus": "final"
   },
   {
     "id": "79-2025-M",
@@ -215,7 +239,8 @@
     "date": "05-Jul-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "205/2024,438/2024,749/2024"
+    "categoryCode": "205/2024,438/2024,749/2024",
+    "answerKeyStatus": "final"
   },
   {
     "id": "72-2025-M",
@@ -224,7 +249,8 @@
     "date": "28-Jun-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "051/2024,277/2024,443/2024,444/2024,445/2024,508/2024,509/2024,510/2024"
+    "categoryCode": "051/2024,277/2024,443/2024,444/2024,445/2024,508/2024,509/2024,510/2024",
+    "answerKeyStatus": "final"
   },
   {
     "id": "068-2025-M",
@@ -233,7 +259,8 @@
     "date": "21-Jun-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "447/2023"
+    "categoryCode": "447/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "060-2025-M",
@@ -242,7 +269,8 @@
     "date": "09-Jun-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "193/2024"
+    "categoryCode": "193/2024",
+    "answerKeyStatus": "final"
   },
   {
     "id": "057-2025-M",
@@ -251,7 +279,8 @@
     "date": "27-May-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "263/2024,302/2024,303/2024,304/2024"
+    "categoryCode": "263/2024,302/2024,303/2024,304/2024",
+    "answerKeyStatus": "final"
   },
   {
     "id": "054-2025-M",
@@ -260,7 +289,8 @@
     "date": "21-May-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "587/2023"
+    "categoryCode": "587/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "053-2025-M",
@@ -269,7 +299,8 @@
     "date": "17-May-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "092/2024,455/2024,515/2023,557/2024,558/2024,559/2024,560/2024,561/2024"
+    "categoryCode": "092/2024,455/2024,515/2023,557/2024,558/2024,559/2024,560/2024,561/2024",
+    "answerKeyStatus": "final"
   },
   {
     "id": "032-2025-M",
@@ -278,7 +309,8 @@
     "date": "28-Apr-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "049/2024"
+    "categoryCode": "049/2024",
+    "answerKeyStatus": "final"
   },
   {
     "id": "181-2024-K",
@@ -287,7 +319,8 @@
     "date": "21-Dec-2024",
     "medium": "K",
     "year": "2024",
-    "categoryCode": "579/2023"
+    "categoryCode": "579/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "178-2024-E",
@@ -296,7 +329,8 @@
     "date": "14-Dec-2024",
     "medium": "E",
     "year": "2024",
-    "categoryCode": "598/2023, 599/2023"
+    "categoryCode": "598/2023, 599/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "173-2024-M",
@@ -305,7 +339,8 @@
     "date": "05-Dec-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "256/2017, 729/2022"
+    "categoryCode": "256/2017, 729/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "154-2024-M",
@@ -314,7 +349,8 @@
     "date": "08-Nov-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "722/2022"
+    "categoryCode": "722/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "152-2024-M",
@@ -323,7 +359,8 @@
     "date": "05-Nov-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "527/2022,528/2022"
+    "categoryCode": "527/2022,528/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "149-2024-M",
@@ -332,7 +369,8 @@
     "date": "29-Oct-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "433/2023,434/2023"
+    "categoryCode": "433/2023,434/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "140-2024-M",
@@ -341,7 +379,8 @@
     "date": "19-Oct-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "503/2023"
+    "categoryCode": "503/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "135-2024-M",
@@ -350,7 +389,8 @@
     "date": "09-Oct-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "504/2023"
+    "categoryCode": "504/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "134-2024-M",
@@ -359,7 +399,8 @@
     "date": "08-Oct-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "105/2022"
+    "categoryCode": "105/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "133-2024-M",
@@ -368,7 +409,8 @@
     "date": "05-Oct-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "503/2023"
+    "categoryCode": "503/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "128-2024-M",
@@ -377,7 +419,8 @@
     "date": "28-Sep-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "503/2023"
+    "categoryCode": "503/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "122-2024-M",
@@ -386,7 +429,8 @@
     "date": "07-Sep-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "503/2023"
+    "categoryCode": "503/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "117-2024-M",
@@ -395,7 +439,8 @@
     "date": "31-Aug-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "503/2023"
+    "categoryCode": "503/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "114-2024-M",
@@ -404,7 +449,8 @@
     "date": "24-Aug-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "435/2023, 686/2023"
+    "categoryCode": "435/2023, 686/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "112-2024-M",
@@ -413,7 +459,8 @@
     "date": "22-Aug-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "598/2022"
+    "categoryCode": "598/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "109-2024-M",
@@ -422,7 +469,8 @@
     "date": "17-Aug-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "503/2023"
+    "categoryCode": "503/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "108-2024-M",
@@ -431,7 +479,8 @@
     "date": "13-Aug-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "064/2023, 058/2024, 059/2024"
+    "categoryCode": "064/2023, 058/2024, 059/2024",
+    "answerKeyStatus": "final"
   },
   {
     "id": "98-2024-E",
@@ -440,7 +489,8 @@
     "date": "09-Aug-2024",
     "medium": "E",
     "year": "2024",
-    "categoryCode": "270/2020"
+    "categoryCode": "270/2020",
+    "answerKeyStatus": "final"
   },
   {
     "id": "102-2024-M",
@@ -449,7 +499,8 @@
     "date": "06-Aug-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "111/2023, 512/2023"
+    "categoryCode": "111/2023, 512/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "097-2024-M",
@@ -458,7 +509,8 @@
     "date": "30-Jul-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "046/2023, 054/2022"
+    "categoryCode": "046/2023, 054/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "094-2024-M",
@@ -467,7 +519,8 @@
     "date": "27-Jul-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "503/2023"
+    "categoryCode": "503/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "092-2024-M",
@@ -476,7 +529,8 @@
     "date": "25-Jul-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "516/2023 to 518/2023"
+    "categoryCode": "516/2023 to 518/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "078-2024-M",
@@ -485,7 +539,8 @@
     "date": "29-Jun-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "248/2023, 507/2023, 584/2023, 732/2023, 733/2023"
+    "categoryCode": "248/2023, 507/2023, 584/2023, 732/2023, 733/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "066-2024-M",
@@ -494,7 +549,8 @@
     "date": "08-Jun-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "593/2023"
+    "categoryCode": "593/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "047-2024-E",
@@ -503,7 +559,8 @@
     "date": "25-May-2024",
     "medium": "E",
     "year": "2024",
-    "categoryCode": "433/2023, 434/2023, 527/2022"
+    "categoryCode": "433/2023, 434/2023, 527/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "059-2024-M",
@@ -512,7 +569,8 @@
     "date": "16-May-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "257/2023, 279/2023, 280/2023"
+    "categoryCode": "257/2023, 279/2023, 280/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "052-2024-M",
@@ -521,7 +579,8 @@
     "date": "04-May-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "048/2023, 068/2023, 071/2023, 198/2023, 199/2023, 202/2023, 203/2023, 235/2023, 445/2023, 586/2023, 694/2023, 706/2023, 722/2023, 723/2023, 563/2021"
+    "categoryCode": "048/2023, 068/2023, 071/2023, 198/2023, 199/2023, 202/2023, 203/2023, 235/2023, 445/2023, 586/2023, 694/2023, 706/2023, 722/2023, 723/2023, 563/2021",
+    "answerKeyStatus": "final"
   },
   {
     "id": "044-2024-E",
@@ -530,7 +589,8 @@
     "date": "23-Apr-2024",
     "medium": "E",
     "year": "2024",
-    "categoryCode": "095/2023, 096/2023, 261/2023, 262/2023, 263/2023, 283/2023, 547/2023, 549/2023, 135/2022, 814/2022, 815/2022, 816/2022"
+    "categoryCode": "095/2023, 096/2023, 261/2023, 262/2023, 263/2023, 283/2023, 547/2023, 549/2023, 135/2022, 814/2022, 815/2022, 816/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "041-2024-M",
@@ -540,7 +600,8 @@
     "date": "18-Apr-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "010/2023, 270/2023, 480/2023"
+    "categoryCode": "010/2023, 270/2023, 480/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "027-2024-KE",
@@ -549,7 +610,8 @@
     "date": "24-Feb-2024",
     "medium": "KE",
     "year": "2024",
-    "categoryCode": "226/2023, 227/2023, 228/2023, 229/2023, 230/2023, 231/2023, 232/2023, 233/2023, 234/2023"
+    "categoryCode": "226/2023, 227/2023, 228/2023, 229/2023, 230/2023, 231/2023, 232/2023, 233/2023, 234/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "025-2024-T",
@@ -558,7 +620,8 @@
     "date": "17-Feb-2024",
     "medium": "T",
     "year": "2024",
-    "categoryCode": "286/2023, 307/2023, 308/2023"
+    "categoryCode": "286/2023, 307/2023, 308/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "22-2024-M",
@@ -567,7 +630,8 @@
     "date": "13-Feb-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "276/2023"
+    "categoryCode": "276/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "020-2024-M",
@@ -576,7 +640,8 @@
     "date": "10-Feb-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "287/2023, 288/2023, 289/2023, 290/2023, 312/2023"
+    "categoryCode": "287/2023, 288/2023, 289/2023, 290/2023, 312/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "244-2023-M",
@@ -585,7 +650,8 @@
     "date": "23-Dec-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "188/2023"
+    "categoryCode": "188/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "228-2023-M",
@@ -594,7 +660,8 @@
     "date": "18-Nov-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "106/2022, 443/2022, 538/2022, 539/2022, 617/2022, 618/2022, 67/2023, 11/2023, 101/2022, 475/2022 to 477/2022, 805/2022, 258/2022, 16/2023, 115/2022, 116/2022"
+    "categoryCode": "106/2022, 443/2022, 538/2022, 539/2022, 617/2022, 618/2022, 67/2023, 11/2023, 101/2022, 475/2022 to 477/2022, 805/2022, 258/2022, 16/2023, 115/2022, 116/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "215-2023-M",
@@ -603,7 +670,8 @@
     "date": "02-Nov-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "129/2022, 144/2023"
+    "categoryCode": "129/2022, 144/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "063-2026-M",
@@ -612,7 +680,8 @@
     "date": "04-Jul-2026",
     "medium": "M",
     "year": "2026",
-    "categoryCode": "375/2025,394/2025,471/2025,551/2025,887/2025"
+    "categoryCode": "375/2025,394/2025,471/2025,551/2025,887/2025",
+    "answerKeyStatus": "final"
   },
   {
     "id": "161-2023-M",
@@ -621,7 +690,8 @@
     "date": "26-Aug-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "177/2021,178/2021,179/2021,180/2021,321/2022"
+    "categoryCode": "177/2021,178/2021,179/2021,180/2021,321/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "160-2023-M",
@@ -630,7 +700,8 @@
     "date": "25-Aug-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "486/2022"
+    "categoryCode": "486/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "158-2023-M",
@@ -639,7 +710,8 @@
     "date": "23-Aug-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "669/2022, 670/2022, 671/2022, 672/2022, 673/2022"
+    "categoryCode": "669/2022, 670/2022, 671/2022, 672/2022, 673/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "138-2023-M",
@@ -648,7 +720,8 @@
     "date": "02-Aug-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "176/2022, 177/2022, 178/2022, 801/2022, 716/2022, 717/2022"
+    "categoryCode": "176/2022, 177/2022, 178/2022, 801/2022, 716/2022, 717/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "135-2023-M",
@@ -657,7 +730,8 @@
     "date": "31-Jul-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "495/2022, 496/2022"
+    "categoryCode": "495/2022, 496/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "173-2025-M",
@@ -666,7 +740,8 @@
     "date": "23-Dec-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "197/2025"
+    "categoryCode": "197/2025",
+    "answerKeyStatus": "final"
   },
   {
     "id": "149-2025-M",
@@ -675,7 +750,8 @@
     "date": "15-Nov-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "040/2024,083/2024,329/2024,386/2024,448/2024,526/2024,581/2024"
+    "categoryCode": "040/2024,083/2024,329/2024,386/2024,448/2024,526/2024,581/2024",
+    "answerKeyStatus": "final"
   },
   {
     "id": "122-2025-M",
@@ -684,7 +760,8 @@
     "date": "27-Sep-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "576/2024,577/2024"
+    "categoryCode": "576/2024,577/2024",
+    "answerKeyStatus": "final"
   },
   {
     "id": "109-2025-M",
@@ -693,7 +770,8 @@
     "date": "30-Aug-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "051/2024,508/2024,509/2024,510/2024,511/2024,512/2024"
+    "categoryCode": "051/2024,508/2024,509/2024,510/2024,511/2024,512/2024",
+    "answerKeyStatus": "final"
   },
   {
     "id": "92-2025-M",
@@ -702,7 +780,8 @@
     "date": "26-Jul-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "212/2024,342/2024,387/2024,484/2024,583/2024,740/2024,803/2024"
+    "categoryCode": "212/2024,342/2024,387/2024,484/2024,583/2024,740/2024,803/2024",
+    "answerKeyStatus": "final"
   },
   {
     "id": "84-2025-M",
@@ -711,7 +790,8 @@
     "date": "12-Jul-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "341/2024,471/2024,477/2024"
+    "categoryCode": "341/2024,471/2024,477/2024",
+    "answerKeyStatus": "final"
   },
   {
     "id": "56-2025-M",
@@ -720,7 +800,8 @@
     "date": "24-May-2025",
     "medium": "M",
     "year": "2025",
-    "categoryCode": "051/2024,277/2024,443/2024,444/2024,445/2024,508/2024,509/2024,510/2024"
+    "categoryCode": "051/2024,277/2024,443/2024,444/2024,445/2024,508/2024,509/2024,510/2024",
+    "answerKeyStatus": "final"
   },
   {
     "id": "127-2024-M",
@@ -729,7 +810,8 @@
     "date": "26-Sep-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "572/2023,573/2023,574/2023,575/2023,576/2023"
+    "categoryCode": "572/2023,573/2023,574/2023,575/2023,576/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "71-2024-M",
@@ -738,7 +820,8 @@
     "date": "15-Jun-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "433/2023,434/2023,575/2023,576/2023"
+    "categoryCode": "433/2023,434/2023,575/2023,576/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "38-2024-M",
@@ -747,7 +830,8 @@
     "date": "11-May-2024",
     "medium": "M",
     "year": "2024",
-    "categoryCode": "433/2023, 434/2023, 527/2022, 528/2022, 544/2023, 571/2023 to 576/2023"
+    "categoryCode": "433/2023, 434/2023, 527/2022, 528/2022, 544/2023, 571/2023 to 576/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "12-2024-E",
@@ -756,7 +840,8 @@
     "date": "19-Jan-2024",
     "medium": "E",
     "year": "2024",
-    "categoryCode": "056/2023"
+    "categoryCode": "056/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "208-2023-E",
@@ -765,7 +850,8 @@
     "date": "21-Oct-2023",
     "medium": "E",
     "year": "2023",
-    "categoryCode": "723/2022, 724/2022, 800/2022"
+    "categoryCode": "723/2022, 724/2022, 800/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "148-2023-M",
@@ -774,7 +860,8 @@
     "date": "12-Aug-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "779/2021, 780/2021, 491/2022, 694/2022, 695/2022, 699/2022, 725/2022, 726/2022, 732/2022, 733/2022, 802/2022, 803/2022, 396/2020, 397/2020, 023/2022, 700/2022"
+    "categoryCode": "779/2021, 780/2021, 491/2022, 694/2022, 695/2022, 699/2022, 725/2022, 726/2022, 732/2022, 733/2022, 802/2022, 803/2022, 396/2020, 397/2020, 023/2022, 700/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "127-2023-M",
@@ -783,7 +870,8 @@
     "date": "22-Jul-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "537/2022"
+    "categoryCode": "537/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "123-2023-M",
@@ -792,7 +880,8 @@
     "date": "15-Jul-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "537/2022"
+    "categoryCode": "537/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "111-2023-M",
@@ -801,7 +890,8 @@
     "date": "08-Jul-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "595/2022,596/2022"
+    "categoryCode": "595/2022,596/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "097-2023-M",
@@ -810,7 +900,8 @@
     "date": "30-Jun-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "165/2022"
+    "categoryCode": "165/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "081-2023-M",
@@ -819,7 +910,8 @@
     "date": "21-Jun-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "153/2022"
+    "categoryCode": "153/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "076-2023-M",
@@ -828,7 +920,8 @@
     "date": "17-Jun-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "251/2021, 651/2021, 653/2021, 004/2022, 065/2022, 188/2022"
+    "categoryCode": "251/2021, 651/2021, 653/2021, 004/2022, 065/2022, 188/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "060-2023-M",
@@ -837,7 +930,8 @@
     "date": "06-Jun-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "026/2022"
+    "categoryCode": "026/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "048-2023-M",
@@ -846,7 +940,8 @@
     "date": "29-May-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "617/2021"
+    "categoryCode": "617/2021",
+    "answerKeyStatus": "final"
   },
   {
     "id": "047-2023-M",
@@ -855,7 +950,8 @@
     "date": "27-May-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "321/2022, 486/2022, 669/2022 to 673/2022"
+    "categoryCode": "321/2022, 486/2022, 669/2022 to 673/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "042-2023-M",
@@ -864,7 +960,8 @@
     "date": "20-May-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "140/2021"
+    "categoryCode": "140/2021",
+    "answerKeyStatus": "final"
   },
   {
     "id": "041-2023-M",
@@ -873,7 +970,8 @@
     "date": "19-May-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "89/2021, 578/2021 to 582/2021, 613/2021"
+    "categoryCode": "89/2021, 578/2021 to 582/2021, 613/2021",
+    "answerKeyStatus": "final"
   },
   {
     "id": "040-2023-T",
@@ -882,7 +980,8 @@
     "date": "18-May-2023",
     "medium": "T",
     "year": "2023",
-    "categoryCode": "139/2021, 510/2021, 747/2021"
+    "categoryCode": "139/2021, 510/2021, 747/2021",
+    "answerKeyStatus": "final"
   },
   {
     "id": "038-2023-M",
@@ -891,7 +990,8 @@
     "date": "16-May-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "72/2021, 369/2021, 569/2021, 608/2021"
+    "categoryCode": "72/2021, 369/2021, 569/2021, 608/2021",
+    "answerKeyStatus": "final"
   },
   {
     "id": "036-2023-M",
@@ -900,7 +1000,8 @@
     "date": "11-May-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "34/2020, 32/2021, 66/2021, 67/2021, 88/2021, 313/2021, 368/2021, 409/2021, 470/2021, 508/2021, 606/2021, 618/2021, 619/2021, 669/2021, 710/2021"
+    "categoryCode": "34/2020, 32/2021, 66/2021, 67/2021, 88/2021, 313/2021, 368/2021, 409/2021, 470/2021, 508/2021, 606/2021, 618/2021, 619/2021, 669/2021, 710/2021",
+    "answerKeyStatus": "final"
   },
   {
     "id": "037-2023-M",
@@ -909,7 +1010,8 @@
     "date": "13-May-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "321/2022, 486/2022, 669/2022 to 673/2022"
+    "categoryCode": "321/2022, 486/2022, 669/2022 to 673/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "035-2023-M",
@@ -918,7 +1020,8 @@
     "date": "09-May-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "303/2022 to 305/2022, 556/2022 to 563/2022"
+    "categoryCode": "303/2022 to 305/2022, 556/2022 to 563/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "034-2023-M",
@@ -927,7 +1030,8 @@
     "date": "06-May-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "014/2021, 145/2021, 284/2021, 370/2021, 558/2021, 559/2021"
+    "categoryCode": "014/2021, 145/2021, 284/2021, 370/2021, 558/2021, 559/2021",
+    "answerKeyStatus": "final"
   },
   {
     "id": "032-2023-M",
@@ -936,7 +1040,8 @@
     "date": "03-May-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "30/2021, 410/2021, 466/2021, 481/2021"
+    "categoryCode": "30/2021, 410/2021, 466/2021, 481/2021",
+    "answerKeyStatus": "final"
   },
   {
     "id": "031-2023-M",
@@ -945,7 +1050,8 @@
     "date": "29-Apr-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "321/2022, 486/2022, 669/2022 to 673/2022"
+    "categoryCode": "321/2022, 486/2022, 669/2022 to 673/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "030-2023-M",
@@ -954,7 +1060,8 @@
     "date": "25-Apr-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "173/2021 to 175/2021, 274/2021, 495/2021, 496/2021, 531/2021, 600/2021, 626/2021, 652/2021, 680/2021, 166/2022"
+    "categoryCode": "173/2021 to 175/2021, 274/2021, 495/2021, 496/2021, 531/2021, 600/2021, 626/2021, 652/2021, 680/2021, 166/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "016-2023-M",
@@ -963,7 +1070,8 @@
     "date": "22-Feb-2023",
     "medium": "M",
     "year": "2023",
-    "categoryCode": "016/2023"
+    "categoryCode": "016/2023",
+    "answerKeyStatus": "final"
   },
   {
     "id": "134-2022-M",
@@ -972,7 +1080,8 @@
     "date": "30-Dec-2022",
     "medium": "M",
     "year": "2022",
-    "categoryCode": "134/2022"
+    "categoryCode": "134/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "133-2022-M",
@@ -981,7 +1090,8 @@
     "date": "29-Dec-2022",
     "medium": "M",
     "year": "2022",
-    "categoryCode": "133/2022"
+    "categoryCode": "133/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "131-2022-M",
@@ -990,7 +1100,8 @@
     "date": "27-Dec-2022",
     "medium": "M",
     "year": "2022",
-    "categoryCode": "131/2022"
+    "categoryCode": "131/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "130-2022-M",
@@ -999,7 +1110,8 @@
     "date": "23-Dec-2022",
     "medium": "M",
     "year": "2022",
-    "categoryCode": "130/2022"
+    "categoryCode": "130/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "128-2022-M",
@@ -1008,7 +1120,8 @@
     "date": "21-Dec-2022",
     "medium": "M",
     "year": "2022",
-    "categoryCode": "128/2022"
+    "categoryCode": "128/2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "127-2022-M",
@@ -1017,7 +1130,8 @@
     "date": "10-Dec-2022",
     "medium": "M",
     "year": "2022",
-    "categoryCode": "095/2019, 078/2021, 004/2022 etc"
+    "categoryCode": "095/2019, 078/2021, 004/2022 etc",
+    "answerKeyStatus": "final"
   },
   {
     "id": "069-2026-M",
@@ -1026,7 +1140,8 @@
     "date": "25-Jul-2026",
     "medium": "M",
     "year": "2026",
-    "categoryCode": "083/2025,207/2025,208/2025,495/2025,617/2025,651/2025,652/2025,732/2025"
+    "categoryCode": "083/2025,207/2025,208/2025,495/2025,617/2025,651/2025,652/2025,732/2025",
+    "answerKeyStatus": "final"
   },
   {
     "id": "123-2022-M",
@@ -1035,7 +1150,8 @@
     "date": "30-Nov-2022",
     "medium": "M",
     "year": "2022",
-    "categoryCode": "Minerals and Metals Ltd, Drugs and Pharmaceuticals Ltd"
+    "categoryCode": "Minerals and Metals Ltd, Drugs and Pharmaceuticals Ltd",
+    "answerKeyStatus": "final"
   },
   {
     "id": "122-2022-M",
@@ -1044,7 +1160,8 @@
     "date": "29-Nov-2022",
     "medium": "M",
     "year": "2022",
-    "categoryCode": "Excise"
+    "categoryCode": "Excise",
+    "answerKeyStatus": "final"
   },
   {
     "id": "120-2022-M",
@@ -1053,7 +1170,8 @@
     "date": "25-Nov-2022",
     "medium": "M",
     "year": "2022",
-    "categoryCode": "ST Development"
+    "categoryCode": "ST Development",
+    "answerKeyStatus": "final"
   },
   {
     "id": "119-2022-T",
@@ -1062,7 +1180,8 @@
     "date": "24-Nov-2022",
     "medium": "T",
     "year": "2022",
-    "categoryCode": "Jail"
+    "categoryCode": "Jail",
+    "answerKeyStatus": "final"
   },
   {
     "id": "118-2022-M",
@@ -1071,7 +1190,8 @@
     "date": "23-Nov-2022",
     "medium": "M",
     "year": "2022",
-    "categoryCode": "Treasury Service & KPSC"
+    "categoryCode": "Treasury Service & KPSC",
+    "answerKeyStatus": "final"
   },
   {
     "id": "117-2022-T",
@@ -1080,7 +1200,8 @@
     "date": "22-Nov-2022",
     "medium": "T",
     "year": "2022",
-    "categoryCode": "Police"
+    "categoryCode": "Police",
+    "answerKeyStatus": "final"
   },
   {
     "id": "116-2022-M",
@@ -1089,7 +1210,8 @@
     "date": "19-Nov-2022",
     "medium": "M",
     "year": "2022",
-    "categoryCode": "095/2019, 078/2021, 004/2022 etc"
+    "categoryCode": "095/2019, 078/2021, 004/2022 etc",
+    "answerKeyStatus": "final"
   },
   {
     "id": "106-2022-M",
@@ -1098,7 +1220,8 @@
     "date": "02-Nov-2022",
     "medium": "M",
     "year": "2022",
-    "categoryCode": "Kerala Water Authority"
+    "categoryCode": "Kerala Water Authority",
+    "answerKeyStatus": "final"
   },
   {
     "id": "101-2022-M",
@@ -1107,7 +1230,8 @@
     "date": "22-Oct-2022",
     "medium": "M",
     "year": "2022",
-    "categoryCode": "Various"
+    "categoryCode": "Various",
+    "answerKeyStatus": "final"
   },
   {
     "id": "088-2022-T",
@@ -1115,7 +1239,8 @@
     "post": "Common Preliminary Examination 2022 (Plus 2 Level) Stage III - Various",
     "date": "17-Sep-2022",
     "medium": "T",
-    "year": "2022"
+    "year": "2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "084-2022-M",
@@ -1124,7 +1249,8 @@
     "date": "27-Aug-2022",
     "medium": "M",
     "year": "2022",
-    "categoryCode": "Various"
+    "categoryCode": "Various",
+    "answerKeyStatus": "final"
   },
   {
     "id": "080-2022-M",
@@ -1133,7 +1259,8 @@
     "date": "06-Aug-2022",
     "medium": "M",
     "year": "2022",
-    "categoryCode": "12/2021 etc"
+    "categoryCode": "12/2021 etc",
+    "answerKeyStatus": "final"
   },
   {
     "id": "070-2022-M",
@@ -1142,7 +1269,8 @@
     "date": "18-Jun-2022",
     "medium": "M",
     "year": "2022",
-    "categoryCode": "566/2021"
+    "categoryCode": "566/2021",
+    "answerKeyStatus": "final"
   },
   {
     "id": "064-2022-E",
@@ -1151,7 +1279,8 @@
     "date": "03-Jun-2022",
     "medium": "E",
     "year": "2022",
-    "categoryCode": "67/2020, 478/2020, 479/2020, 480/2020"
+    "categoryCode": "67/2020, 478/2020, 479/2020, 480/2020",
+    "answerKeyStatus": "final"
   },
   {
     "id": "061-2022-M",
@@ -1160,7 +1289,8 @@
     "date": "31-May-2022",
     "medium": "M",
     "year": "2022",
-    "categoryCode": "348/2021, 599/2021, 601/2021, 604/2021"
+    "categoryCode": "348/2021, 599/2021, 601/2021, 604/2021",
+    "answerKeyStatus": "final"
   },
   {
     "id": "022-2022-T",
@@ -1168,7 +1298,8 @@
     "post": "Computer Assistant Grade II/Typist Clerk/Stenographer/CA Grade II/Office Assistant (Plus Two Level Main Examination) in KAT/TCC Ltd/KTDC/Revenue",
     "date": "26-Mar-2022",
     "medium": "T",
-    "year": "2022"
+    "year": "2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "017-2022-M",
@@ -1177,7 +1308,8 @@
     "date": "20-Mar-2022",
     "medium": "M",
     "year": "2022",
-    "categoryCode": "30/2019, 073/2020, 094/2020, 251/2020, 340/2020"
+    "categoryCode": "30/2019, 073/2020, 094/2020, 251/2020, 340/2020",
+    "answerKeyStatus": "final"
   },
   {
     "id": "021-2022-T",
@@ -1186,7 +1318,8 @@
     "date": "21-Mar-2022",
     "medium": "T",
     "year": "2022",
-    "categoryCode": "124/2020"
+    "categoryCode": "124/2020",
+    "answerKeyStatus": "final"
   },
   {
     "id": "018-2022-M",
@@ -1195,7 +1328,8 @@
     "date": "13-Mar-2022",
     "medium": "M",
     "year": "2022",
-    "categoryCode": "139/2019, 359/2019, 245/2020"
+    "categoryCode": "139/2019, 359/2019, 245/2020",
+    "answerKeyStatus": "final"
   },
   {
     "id": "026-2022-M",
@@ -1204,7 +1338,8 @@
     "date": "28-Feb-2022",
     "medium": "M",
     "year": "2022",
-    "categoryCode": "274/2020"
+    "categoryCode": "274/2020",
+    "answerKeyStatus": "final"
   },
   {
     "id": "025-2022-M",
@@ -1212,7 +1347,8 @@
     "post": "Civil Excise Officer/Women Civil Excise Officer (Plus 2 Level Main Examination) in Excise",
     "date": "26-Feb-2022",
     "medium": "M",
-    "year": "2022"
+    "year": "2022",
+    "answerKeyStatus": "final"
   },
   {
     "id": "023-2022-M",
@@ -1221,7 +1357,8 @@
     "date": "21-Feb-2022",
     "medium": "M",
     "year": "2022",
-    "categoryCode": ""
+    "categoryCode": "",
+    "answerKeyStatus": "final"
   },
   {
     "id": "136-2021-M",
@@ -1230,7 +1367,8 @@
     "date": "27-Dec-2021",
     "medium": "M",
     "year": "2021",
-    "categoryCode": ""
+    "categoryCode": "",
+    "answerKeyStatus": "final"
   },
   {
     "id": "128-2021-M",
@@ -1238,7 +1376,8 @@
     "post": "Assistant Salesman",
     "date": "12-Dec-2021",
     "medium": "M",
-    "year": "2021"
+    "year": "2021",
+    "answerKeyStatus": "final"
   },
   {
     "id": "127-2021-M",
@@ -1246,7 +1385,8 @@
     "post": "Office Attendant, Laboratory Attender etc",
     "date": "11-Dec-2021",
     "medium": "M",
-    "year": "2021"
+    "year": "2021",
+    "answerKeyStatus": "final"
   },
   {
     "id": "126-2021-M",
@@ -1254,7 +1394,8 @@
     "post": "Assistant Compiler - Livestock Development Board Ltd",
     "date": "08-Dec-2021",
     "medium": "M",
-    "year": "2021"
+    "year": "2021",
+    "answerKeyStatus": "final"
   },
   {
     "id": "125-2021-M",
@@ -1262,7 +1403,8 @@
     "post": "Medical Photographer - Medical Education",
     "date": "06-Dec-2021",
     "medium": "M",
-    "year": "2021"
+    "year": "2021",
+    "answerKeyStatus": "final"
   },
   {
     "id": "124-2021-TM",
@@ -1271,7 +1413,8 @@
     "date": "28-Nov-2021",
     "medium": "TM",
     "year": "2021",
-    "categoryCode": "470/2019, 523/2020"
+    "categoryCode": "470/2019, 523/2020",
+    "answerKeyStatus": "final"
   },
   {
     "id": "117-2021-M",
@@ -1279,7 +1422,8 @@
     "post": "LD Clerk - Various",
     "date": "20-Nov-2021",
     "medium": "M",
-    "year": "2021"
+    "year": "2021",
+    "answerKeyStatus": "final"
   },
   {
     "id": "075-2021-M",
@@ -1287,7 +1431,8 @@
     "post": "Common Preliminary Examination (Degree Level) Stage I - Various",
     "date": "13-Nov-2021",
     "medium": "M",
-    "year": "2021"
+    "year": "2021",
+    "answerKeyStatus": "final"
   },
   {
     "id": "110-2021-M",
@@ -1296,7 +1441,8 @@
     "date": "11-Nov-2021",
     "medium": "M",
     "year": "2021",
-    "categoryCode": "110/2021"
+    "categoryCode": "110/2021",
+    "answerKeyStatus": "final"
   },
   {
     "id": "105-2021-M",
@@ -1305,7 +1451,8 @@
     "date": "02-Nov-2021",
     "medium": "M",
     "year": "2021",
-    "categoryCode": "105/2021"
+    "categoryCode": "105/2021",
+    "answerKeyStatus": "final"
   },
   {
     "id": "096-2021-M",
@@ -1314,7 +1461,8 @@
     "date": "30-Oct-2021",
     "medium": "M",
     "year": "2021",
-    "categoryCode": "096/2021"
+    "categoryCode": "096/2021",
+    "answerKeyStatus": "final"
   },
   {
     "id": "100-2021-M",
@@ -1323,7 +1471,8 @@
     "date": "07-Oct-2021",
     "medium": "M",
     "year": "2021",
-    "categoryCode": "100/2021"
+    "categoryCode": "100/2021",
+    "answerKeyStatus": "final"
   },
   {
     "id": "042-2021-M",
@@ -1332,7 +1481,8 @@
     "date": "18-Apr-2021",
     "medium": "M",
     "year": "2021",
-    "categoryCode": "Various"
+    "categoryCode": "Various",
+    "answerKeyStatus": "final"
   },
   {
     "id": "041-2021-M",
@@ -1341,7 +1491,8 @@
     "date": "10-Apr-2021",
     "medium": "M",
     "year": "2021",
-    "categoryCode": "Various"
+    "categoryCode": "Various",
+    "answerKeyStatus": "final"
   },
   {
     "id": "035-2020-M",
@@ -1350,7 +1501,8 @@
     "date": "08-Oct-2020",
     "medium": "M",
     "year": "2020",
-    "categoryCode": "020/2019"
+    "categoryCode": "020/2019",
+    "answerKeyStatus": "final"
   },
   {
     "id": "029-2020-E",
@@ -1359,7 +1511,8 @@
     "date": "29-Sep-2020",
     "medium": "E",
     "year": "2020",
-    "categoryCode": "499/2019"
+    "categoryCode": "499/2019",
+    "answerKeyStatus": "final"
   },
   {
     "id": "018-2020-M",
@@ -1368,7 +1521,8 @@
     "date": "04-Sep-2020",
     "medium": "M",
     "year": "2020",
-    "categoryCode": "041/2019"
+    "categoryCode": "041/2019",
+    "answerKeyStatus": "final"
   },
   {
     "id": "003-2020-M",
@@ -1376,7 +1530,8 @@
     "post": "LD Clerk (SR for ST only) in Various Dept",
     "date": "10-Jan-2020",
     "medium": "M",
-    "year": "2020"
+    "year": "2020",
+    "answerKeyStatus": "final"
   },
   {
     "id": "071-2019-M",
@@ -1385,7 +1540,8 @@
     "date": "14-Dec-2019",
     "medium": "M",
     "year": "2019",
-    "categoryCode": "276/2018"
+    "categoryCode": "276/2018",
+    "answerKeyStatus": "final"
   },
   {
     "id": "66-2019-M",
@@ -1394,7 +1550,8 @@
     "date": "30-Nov-2019",
     "medium": "M",
     "year": "2019",
-    "categoryCode": ""
+    "categoryCode": "",
+    "answerKeyStatus": "final"
   },
   {
     "id": "063-2019-E",
@@ -1403,7 +1560,8 @@
     "date": "26-Nov-2019",
     "medium": "E",
     "year": "2019",
-    "categoryCode": ""
+    "categoryCode": "",
+    "answerKeyStatus": "final"
   },
   {
     "id": "062-2019-M",
@@ -1412,7 +1570,8 @@
     "date": "23-Nov-2019",
     "medium": "M",
     "year": "2019",
-    "categoryCode": ""
+    "categoryCode": "",
+    "answerKeyStatus": "final"
   },
   {
     "id": "052-2019-M",
@@ -1421,7 +1580,8 @@
     "date": "26-Oct-2019",
     "medium": "M",
     "year": "2019",
-    "categoryCode": ""
+    "categoryCode": "",
+    "answerKeyStatus": "final"
   },
   {
     "id": "050-2019-M",
@@ -1430,7 +1590,8 @@
     "date": "22-Oct-2019",
     "medium": "M",
     "year": "2019",
-    "categoryCode": "459/16 & 460/16"
+    "categoryCode": "459/16 & 460/16",
+    "answerKeyStatus": "final"
   },
   {
     "id": "048-2019-M",
@@ -1439,7 +1600,8 @@
     "date": "12-Oct-2019",
     "medium": "M",
     "year": "2019",
-    "categoryCode": "276/2018"
+    "categoryCode": "276/2018",
+    "answerKeyStatus": "final"
   },
   {
     "id": "047-2019-M",
@@ -1448,7 +1610,8 @@
     "date": "05-Oct-2019",
     "medium": "M",
     "year": "2019",
-    "categoryCode": ""
+    "categoryCode": "",
+    "answerKeyStatus": "final"
   },
   {
     "id": "043-2019-M",
@@ -1457,7 +1620,8 @@
     "date": "26-Sep-2019",
     "medium": "M",
     "year": "2019",
-    "categoryCode": "289/2018"
+    "categoryCode": "289/2018",
+    "answerKeyStatus": "final"
   },
   {
     "id": "35-2019-E",
@@ -1466,7 +1630,8 @@
     "date": "27-Jul-2019",
     "medium": "E",
     "year": "2019",
-    "categoryCode": "196-205/2018"
+    "categoryCode": "196-205/2018",
+    "answerKeyStatus": "final"
   },
   {
     "id": "32-2019-M",
@@ -1475,7 +1640,8 @@
     "date": "20-Jul-2019",
     "medium": "M",
     "year": "2019",
-    "categoryCode": "579/2017 & 580/2017"
+    "categoryCode": "579/2017 & 580/2017",
+    "answerKeyStatus": "final"
   },
   {
     "id": "31-2019-M",
@@ -1484,7 +1650,8 @@
     "date": "18-Jul-2019",
     "medium": "M",
     "year": "2019",
-    "categoryCode": "413/2017"
+    "categoryCode": "413/2017",
+    "answerKeyStatus": "final"
   },
   {
     "id": "24-2019-M",
@@ -1492,7 +1659,8 @@
     "post": "Assistant - Universities in Kerala",
     "date": "15-Jun-2019",
     "medium": "M",
-    "year": "2019"
+    "year": "2019",
+    "answerKeyStatus": "final"
   },
   {
     "id": "23-2019-M",
@@ -1500,7 +1668,8 @@
     "post": "Senior Supdt/Accounts Officer-Kerala State Insurance Sr.Supdt (Sr from ST only)-Dairy Development",
     "date": "29-May-2019",
     "medium": "M",
-    "year": "2019"
+    "year": "2019",
+    "answerKeyStatus": "final"
   },
   {
     "id": "12-2019-M",
@@ -1509,7 +1678,8 @@
     "date": "02-Mar-2019",
     "medium": "M",
     "year": "2019",
-    "categoryCode": "221/2016,388/2017,243/2017"
+    "categoryCode": "221/2016,388/2017,243/2017",
+    "answerKeyStatus": "final"
   },
   {
     "id": "106-2018-M",
@@ -1517,7 +1687,8 @@
     "post": "Assistant Prison Officer/Female Assistant Prison Officer - Prison",
     "date": "27-Oct-2018",
     "medium": "M",
-    "year": "2018"
+    "year": "2018",
+    "answerKeyStatus": "final"
   },
   {
     "id": "104-2018-M",
@@ -1525,7 +1696,8 @@
     "post": "Assistant/Auditor - Govt. Secretariat/KPSC/KSAD etc.",
     "date": "13-Oct-2018",
     "medium": "M",
-    "year": "2018"
+    "year": "2018",
+    "answerKeyStatus": "final"
   },
   {
     "id": "102-2018-M",
@@ -1533,7 +1705,8 @@
     "post": "Lab Assistant - Higher Secondary Education (Thrissur, Wayanad, Alappuzha, Idukki, Malappuram Districts)",
     "date": "29-Sep-2018",
     "medium": "M",
-    "year": "2018"
+    "year": "2018",
+    "answerKeyStatus": "final"
   },
   {
     "id": "097-2018-M",
@@ -1542,7 +1715,8 @@
     "date": "15-Sep-2018",
     "medium": "M",
     "year": "2018",
-    "categoryCode": "419/2017"
+    "categoryCode": "419/2017",
+    "answerKeyStatus": "final"
   },
   {
     "id": "082-2018-M",
@@ -1550,7 +1724,8 @@
     "post": "Lab Assistant - Higher Secondary Education",
     "date": "28-Jul-2018",
     "medium": "M",
-    "year": "2018"
+    "year": "2018",
+    "answerKeyStatus": "final"
   },
   {
     "id": "063-2018-E",
@@ -1558,7 +1733,8 @@
     "post": "Civil Police Officer (Armed Police Battalion)/Women Police Constable (Armed Police Battalion)",
     "date": "22-Jul-2018",
     "medium": "E",
-    "year": "2018"
+    "year": "2018",
+    "answerKeyStatus": "final"
   },
   {
     "id": "041-2018-M",
@@ -1566,7 +1742,8 @@
     "post": "Women Police Constable (NCA-LC/AI and Muslim)",
     "date": "03-Mar-2018",
     "medium": "M",
-    "year": "2018"
+    "year": "2018",
+    "answerKeyStatus": "final"
   },
   {
     "id": "032-2018-E",
@@ -1574,7 +1751,8 @@
     "post": "Women Civil Excise Officer - Excise",
     "date": "24-Feb-2018",
     "medium": "E",
-    "year": "2018"
+    "year": "2018",
+    "answerKeyStatus": "final"
   },
   {
     "id": "082-2026-M",
@@ -1583,6 +1761,7 @@
     "date": "09-Sep-2026",
     "medium": "M",
     "year": "2026",
-    "categoryCode": "746/2025,747/2025"
+    "categoryCode": "746/2025,747/2025",
+    "answerKeyStatus": "provisional"
   }
 ]

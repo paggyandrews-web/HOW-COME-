@@ -177,6 +177,18 @@ export default function Papers() {
                     Code: {paper.paperCode}
                   </div>
                 )}
+                {paper.answerKeyStatus === 'provisional' ? (
+                  <div
+                    className="text-[11px] font-bold mt-2 px-2 py-1.5 rounded-lg inline-flex items-center gap-1 w-fit"
+                    style={{ color: '#b45309', background: 'rgba(245,158,11,0.18)' }}
+                  >
+                    ⏳ Provisional Answer Key
+                  </div>
+                ) : (
+                  <div className="text-[10px] font-semibold mt-1.5" style={{ color: 'var(--text2)', opacity: 0.55 }}>
+                    ✓ Verified — Final Answer Key
+                  </div>
+                )}
                 {due && (
                   <div
                     className="text-[11px] font-semibold mt-2 px-2 py-1.5 rounded-lg"
