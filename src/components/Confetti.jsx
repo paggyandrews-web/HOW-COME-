@@ -1,5 +1,6 @@
 import { useEffect, useRef } from 'react'
 import { playChime } from '../utils/sound'
+import { isVibrationEnabled } from '../utils/haptics'
 
 const COLORS = ['#ff6b6b', '#ffd93d', '#6bcb77', '#4d96ff', '#ff922b', '#cc5de8', '#20c997']
 const GOLD_COLORS = ['#ffd700', '#ffc107', '#ffab00', '#fff176', '#ff6b6b', '#4d96ff']
@@ -114,10 +115,10 @@ export default function Confetti({ active, tier = 'normal', variant = 'confetti'
     // (regular per-answer confetti) still gets a light tick + short buzz so
     // correct answers always feel acknowledged, not just the big wins.
     if (isBig || isFire) {
-      if (navigator.vibrate) navigator.vibrate(isFire ? [25, 40, 25, 40, 60] : [30, 30, 60])
+      if (navigator.vibrate && isVibrationEnabled()) navigator.vibrate(isFire ? [25, 40, 25, 40, 60] : [30, 30, 60])
       playChime(isFire ? 'fire' : 'big')
     } else {
-      if (navigator.vibrate) navigator.vibrate(20)
+      if (navigator.vibrate && isVibrationEnabled()) navigator.vibrate(20)
       playChime('normal')
     }
 
