@@ -167,26 +167,30 @@ export default function Papers() {
                     <RevisionDots revisionsDone={prog.revisionsDone} due={due} totalStages={revisionStages} />
                   </div>
                 )}
-                <div className="text-xs mt-1.5 flex flex-wrap gap-x-2 gap-y-1" style={{ color: 'var(--text2)' }}>
+                <div className="text-xs mt-1.5 flex flex-wrap items-center gap-x-2 gap-y-1" style={{ color: 'var(--text2)' }}>
                   {paper.date && <span>📅 {paper.date}</span>}
                   <span>·</span>
                   <span>{qCount} questions</span>
+                  <span>·</span>
+                  {paper.answerKeyStatus === 'provisional' ? (
+                    <span
+                      className="text-[10px] font-bold px-1.5 py-0.5 rounded-full whitespace-nowrap"
+                      style={{ color: '#b45309', background: 'rgba(245,158,11,0.18)' }}
+                    >
+                      ⏳ Provisional Answer Key
+                    </span>
+                  ) : (
+                    <span
+                      className="text-[10px] font-bold px-1.5 py-0.5 rounded-full whitespace-nowrap"
+                      style={{ color: 'var(--accent-green)', background: 'rgba(34,197,94,0.14)' }}
+                    >
+                      ✓ Final Answer Key
+                    </span>
+                  )}
                 </div>
                 {paper.paperCode && (
                   <div className="text-xs mt-1" style={{ color: 'var(--text2)', opacity: 0.6 }}>
                     Code: {paper.paperCode}
-                  </div>
-                )}
-                {paper.answerKeyStatus === 'provisional' ? (
-                  <div
-                    className="text-[11px] font-bold mt-2 px-2 py-1.5 rounded-lg inline-flex items-center gap-1 w-fit"
-                    style={{ color: '#b45309', background: 'rgba(245,158,11,0.18)' }}
-                  >
-                    ⏳ Provisional Answer Key
-                  </div>
-                ) : (
-                  <div className="text-[10px] font-semibold mt-1.5" style={{ color: 'var(--text2)', opacity: 0.55 }}>
-                    ✓ Verified — Final Answer Key
                   </div>
                 )}
                 {due && (
