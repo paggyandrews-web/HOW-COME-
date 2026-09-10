@@ -6448,5 +6448,205 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) internship — Internship എന്നത് പഠനത്തിനും പരിശീലനത്തിനും വേണ്ടിയുള്ള ഒരു temporary ജോലിയാണ്, ഇതിൽ യഥാർത്ഥ ജോലി ചെയ്യേണ്ടതുണ്ട് — 'little or no work' എന്നതിന് യോജിക്കില്ല.\n  • 🪤 PSC Trap: 'ജോലി' എന്ന പൊതു concept മാത്രം നോക്കി തിരഞ്ഞെടുക്കുന്നവരെ കുടുക്കാൻ.\n• (C) apprenticeship — ഇതും ഒരു learning/training role ആണ്, ഇതിൽ സജീവമായി ജോലി ചെയ്ത് പഠിക്കേണ്ടതുണ്ട് — sinecure-ന്റെ 'no work' concept-ന് വിപരീതമാണ്.\n  • 🪤 PSC Trap: 'career-related roles' എന്ന പൊതു ബന്ധം കണ്ട് confuse ചെയ്യുന്ന option.\n• (D) vacancy — ഇത് ഒരു ഒഴിഞ്ഞ (empty), ആരും നികത്താത്ത തസ്തികയാണ് — ശമ്പളം ലഭിക്കുന്ന, ജോലി ഇല്ലാത്ത ഒരു നിലവിലുള്ള പദവിയല്ല.\n  • 🪤 PSC Trap: 'position/office' എന്ന word ആവർത്തിച്ചത് കണ്ട് 'vacancy' ശരിയാണെന്ന് തെറ്റിദ്ധരിക്കാം.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'SINEcure = SIN of getting paid for NO work!' — തമാശയായി ഓർക്കുക, ശമ്പളം വാങ്ങി ജോലി ചെയ്യാത്തത് ഒരു 'സിൻ' (തമാശ) ആണ് എന്ന് വിചാരിക്കുക.\n• Word family: sinecure, redundant, honorary, nepotism — ജോലി/സ്ഥാനവുമായി ബന്ധപ്പെട്ട advanced vocabulary ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: One Word Substitute ചോദ്യങ്ങളിൽ phrase-ലെ എല്ലാ keywords-ഉം ('little or no work', 'provides an income') ശ്രദ്ധിക്കുക — ഒരു option ഭാഗികമായി മാത്രം ചേരുന്നതാണെങ്കിൽ അത് തള്ളിക്കളയുക."
     }
+  },
+  {
+    "id": "HC-DAILY-2026-09-10-Q1",
+    "paperId": "HC-DAILY-2026-09-10",
+    "questionNumber": 1,
+    "topic": "Tenses",
+    "topicDetail": "",
+    "difficulty": "medium",
+    "questionText": "Choose the correct tense form to complete the sentence.\nBy the time the fire brigade arrived, the flames ______ most of the warehouse.",
+    "optionA": "had already destroyed",
+    "optionB": "have already destroyed",
+    "optionC": "was already destroying",
+    "optionD": "already destroyed",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) had already destroyed\n\n• 'By the time' എന്ന phrase-ന് ശേഷം ഒരു past tense clause ('arrived') വരുമ്പോൾ, അതിനു മുൻപ് പൂർത്തിയായ മറ്റൊരു action-നെ സൂചിപ്പിക്കാൻ Past Perfect Tense (had + V3) ഉപയോഗിക്കണം.\n• ഇവിടെ 'flames destroyed the warehouse' എന്ന action, 'fire brigade arrived' എന്നതിന് മുൻപ് തന്നെ പൂർത്തിയായതാണ് — അതുകൊണ്ട് 'had already destroyed' ആണ് ശരി.\n• 'By the time', 'before', 'after' തുടങ്ങിയ time-markers ഉള്ള sentences-ൽ ഈ pattern PSC പരീക്ഷകളിൽ സ്ഥിരമായി വരും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: By the time + Past Simple → Past Perfect (had + V3) in the other clause\n• രണ്ട് past actions ഉള്ളപ്പോൾ, ആദ്യം നടന്ന action Past Perfect-ലും, പിന്നീട് നടന്നത് Simple Past-ലും ആയിരിക്കണം.\n• ⭐ PSC ആവർത്തനം: Tenses ടോപ്പിക്കിൽ 'by the time', 'before', 'no sooner...than' തുടങ്ങിയ signal words ഉള്ള sentences ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. By the time she reached the station, the train had already left.\n  2. He had finished his homework before his mother came home.\n  3. By the time I called him, he had already left the office.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) have already destroyed — Present Perfect ആണ് ഇത്, പക്ഷെ sentence past time-frame-ൽ ('arrived') ആണ് നടക്കുന്നത് — present perfect past sentence-കളുമായി ചേരില്ല.\n  🪤 PSC Trap: 'already' എന്ന word കണ്ടപ്പോൾ students present perfect ആണെന്ന് തെറ്റിദ്ധരിക്കും, പക്ഷെ past context ശ്രദ്ധിക്കണം.\n• (C) was already destroying — Past Continuous ആണ്, ഇത് ഒരു ongoing action-നെ സൂചിപ്പിക്കും, completed action-നെ അല്ല. 'By the time' ന് ശേഷം completed action വേണം.\n• (D) already destroyed — Simple Past ആണ്, ഇത് രണ്ട് actions-ന്റെയും sequence വ്യക്തമാക്കുന്നില്ല — ഏതാണ് ആദ്യം നടന്നത് എന്ന് കാണിക്കാൻ Past Perfect തന്നെ വേണം.\n  🪤 PSC Trap: Simple Past സ്വാഭാവികമായി തോന്നുമെങ്കിലും, 'by the time' structure-ന് Past Perfect നിർബന്ധമാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BY THE TIME... HAD' — ഈ two words ഒരുമിച്ച് ഓർത്തിരിക്കുക, ജോടിയായി വരും.\n• Same family: 'before', 'after', 'no sooner...than', 'hardly...when' — ഇവയെല്ലാം Past Perfect-മായി ബന്ധപ്പെട്ട signal words ആണ്.\n• PSC exam strategy: രണ്ട് past actions ഒരു sentence-ൽ ഉണ്ടെങ്കിൽ, ഏതാണ് ആദ്യം നടന്നത് എന്ന് നോക്കി ആ clause-ന് Past Perfect കൊടുക്കുക — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-10-Q2",
+    "paperId": "HC-DAILY-2026-09-10",
+    "questionNumber": 2,
+    "topic": "Articles",
+    "topicDetail": "",
+    "difficulty": "medium",
+    "questionText": "Choose the correct article to complete the sentence.\nSheela's proposal was, without doubt, ______ unique solution to the housing shortage.",
+    "optionA": "a",
+    "optionB": "an",
+    "optionC": "the",
+    "optionD": "no article needed",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) a\n\n• Article തിരഞ്ഞെടുക്കുന്നത് വാക്കിന്റെ ആദ്യത്തെ letter അല്ല, ആദ്യത്തെ sound ആണ് നോക്കേണ്ടത്.\n• 'Unique' എന്ന word 'y' sound (/juː/) ൽ ആണ് തുടങ്ങുന്നത് — ഇത് ഒരു consonant sound ആണ്, vowel sound അല്ല.\n• അതുകൊണ്ട് 'a unique solution' എന്നാണ് ശരി, 'an unique' അല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Sound നോക്കുക, spelling അല്ല — Vowel sound → 'an', Consonant sound → 'a'.\n• 'U' letter-ൽ തുടങ്ങുന്ന ചില words (unique, university, uniform, European, useful) 'yoo' sound ആയതിനാൽ 'a' എടുക്കും.\n• ⭐ PSC ആവർത്തനം: Articles ടോപ്പിക്കിൽ ഈ sound-based exception ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന trap ആണ് — 'an hour' (silent h) vs 'a European' (yoo sound) ജോടിയായി ഓർക്കണം.\n• ഉദാഹരണ sentences:\n  1. She works at a university in Kochi.\n  2. He wore a uniform to the ceremony.\n  3. It was a one-sided match.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) an — Spelling matching 'u' എന്ന vowel letter കണ്ട് ഇത് തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്, പക്ഷെ sound 'yoo' (consonant) ആയതിനാൽ ഇത് തെറ്റ്.\n  🪤 PSC Trap: ഇത് Articles topic-ലെ ഏറ്റവും common trap ആണ് — spelling vs sound confusion.\n• (C) the — 'the' ഉപയോഗിക്കണമെങ്കിൽ ഒരു specific, previously-mentioned അല്ലെങ്കിൽ unique-ആയി അറിയപ്പെടുന്ന noun വേണം; ഇവിടെ ആദ്യമായി പരാമർശിക്കുന്ന ഒരു general solution ആണ്.\n• (D) no article needed — 'solution' ഒരു countable singular noun ആണ്, അതിന് ഒരു article നിർബന്ധമായും വേണം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'A UNIQUE UNIFORM AT THE UNIVERSITY' — ഈ മൂന്ന് 'u' words ഒരുമിച്ച് ഓർത്താൽ sound-rule ഒരിക്കലും മറക്കില്ല.\n• Word family: unique, university, uniform, union, useful, European, one-way — ഇവയെല്ലാം 'a' എടുക്കുന്ന 'u/o' words ആണ്.\n• PSC exam strategy: Article ചോദ്യങ്ങളിൽ word-ന്റെ ആദ്യത്തെ letter അല്ല, ഉച്ചരിക്കുമ്പോൾ ഉള്ള sound ആണ് പരിശോധിക്കേണ്ടത് — ഇത് ഓർത്താൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-10-Q3",
+    "paperId": "HC-DAILY-2026-09-10",
+    "questionNumber": 3,
+    "topic": "Question Tags",
+    "topicDetail": "",
+    "difficulty": "medium",
+    "questionText": "Choose the correct question tag to complete the sentence.\nLet's finish the report before the deadline, ______?",
+    "optionA": "shall we",
+    "optionB": "will we",
+    "optionC": "don't we",
+    "optionD": "won't we",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) shall we\n\n• 'Let's' എന്ന word ഉപയോഗിച്ച് ഒരു suggestion (നിർദ്ദേശം) കൊടുക്കുമ്പോൾ, question tag എപ്പോഴും 'shall we' ആയിരിക്കും — ഇത് ഒരു fixed rule ആണ്, sentence positive ആണോ negative ആണോ എന്നത് ഇവിടെ പ്രസക്തമല്ല.\n• 'Let's' യഥാർത്ഥത്തിൽ 'Let us' ന്റെ ചുരുക്കമാണ്, ഇത് ഒരു invitation/suggestion ആയതിനാൽ tag-ൽ 'shall' ഉപയോഗിക്കുന്നു.\n• Real-world connection: മീറ്റിംഗുകളിലും ഗ്രൂപ്പ് പ്ലാനിംഗിലും ഈ pattern സ്ഥിരമായി കേൾക്കാം — 'Let's go, shall we?'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Let's + ______ → എപ്പോഴും 'shall we' (exception, positive/negative rule ബാധകമല്ല)\n• Imperative sentences-ന്റെ tag rules: Let's → shall we; Command (Do this) → will you; Negative command (Don't do this) → will you.\n• ⭐ PSC ആവർത്തനം: Question Tags-ൽ imperative sentences (commands, suggestions) ഉള്ള special-rule questions സ്ഥിരമായി ആവർത്തിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. Let's go for a walk, shall we?\n  2. Let's not waste any more time, shall we?\n  3. Close the door, will you?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) will we — 'Let's' sentences-ന് 'will' അല്ല, 'shall' ആണ് tag-ൽ വരുന്നത് — ഇത് ഒരു fixed exception ആണ്.\n  🪤 PSC Trap: 'will' സാധാരണ future tense-മായി ബന്ധപ്പെട്ടതിനാൽ students ഇത് സ്വാഭാവികമായി തിരഞ്ഞെടുക്കും.\n• (C) don't we — Positive-Negative rule normal statements-ന് മാത്രമേ ബാധകമാകൂ ('We finish the report, don't we?' പോലുള്ളവയ്ക്ക്); 'Let's' imperative-ന് ഈ rule ബാധകമല്ല.\n• (D) won't we — ഇതും normal Positive-Negative rule ആണ്, 'Let's' construction-ന്റെ special-rule exception ഇവിടെ ബാധകമല്ല.\n  🪤 PSC Trap: Main clause-ന്റെ tense/polarity നോക്കി സാധാരണ rule apply ചെയ്യാൻ ശ്രമിക്കുന്ന students ഇത് തിരഞ്ഞെടുക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'LET'S SHALL' - 'Let's' കണ്ടാൽ ഉടനെ 'shall we' എന്ന് ഓർക്കുക, മറ്റൊന്നും ചിന്തിക്കേണ്ട.\n• Word family: Imperative tag exceptions — Let's→shall we; commands→will you.\n• PSC exam strategy: Question Tag ചോദ്യങ്ങളിൽ ആദ്യം sentence ഒരു command/suggestion ആണോ എന്ന് നോക്കുക — അതെങ്കിൽ special rules apply ചെയ്യും, normal positive-negative rule അല്ല."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-10-Q4",
+    "paperId": "HC-DAILY-2026-09-10",
+    "questionNumber": 4,
+    "topic": "Prepositions",
+    "topicDetail": "",
+    "difficulty": "medium",
+    "questionText": "Choose the correct preposition to complete the sentence.\nShe has always found it easy to confide ______ her elder sister about personal problems.",
+    "optionA": "in",
+    "optionB": "with",
+    "optionC": "on",
+    "optionD": "to",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) in\n\n• 'Confide in someone' എന്നാൽ ഒരാളെ വിശ്വസിച്ച് രഹസ്യങ്ങളോ വ്യക്തിപരമായ കാര്യങ്ങളോ പങ്കുവയ്ക്കുക എന്നാണ് അർത്ഥം.\n• ഇത് ഒരു fixed verb-preposition collocation ആണ് — 'confide' ന് ശേഷം ഒരു വ്യക്തിയെ പരാമർശിക്കുമ്പോൾ എപ്പോഴും 'in' ആണ് വരുന്നത്.\n• Real-life connection: 'You can confide in me' എന്നത് ഒരു common, trust-related expression ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: confide + IN + (person) — വ്യക്തിയെ വിശ്വസിക്കുക എന്ന context-ൽ എപ്പോഴും 'in'.\n• ഇത്തരം fixed verb-preposition collocations മാറ്റാൻ പാടില്ല — ഓരോ verb-നും അതിന്റേതായ preposition ഓർത്തുവയ്ക്കണം.\n• ⭐ PSC ആവർത്തനം: Prepositions ടോപ്പിക്കിൽ trust/communication-related verbs (confide in, believe in, rely on, depend on) സ്ഥിരമായി ചോദിക്കും.\n• ഉദാഹരണ sentences:\n  1. He confided in his best friend about the job offer.\n  2. Children should be able to confide in their parents.\n  3. She confided in the counsellor about her fears.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) with — 'confide with' എന്ന combination standard English-ൽ ഇല്ല.\n  🪤 PSC Trap: 'share with', 'discuss with' പോലുള്ള verbs-മായി confuse ചെയ്ത് ഇത് തിരഞ്ഞെടുക്കും.\n• (C) on — 'confide on' എന്നൊരു recognised collocation ഇല്ല.\n  🪤 PSC Trap: 'depend on', 'rely on' പോലുള്ള similar-meaning verbs-മായി confuse ചെയ്യാം.\n• (D) to — 'confide a secret to someone' എന്ന വ്യത്യസ്തമായ structure-ൽ 'to' ഉപയോഗിക്കാമെങ്കിലും, ഇവിടെ 'confide ___ her sister' (direct object ഇല്ലാതെ വ്യക്തിയെ മാത്രം പരാമർശിക്കുന്നു) എന്ന structure-ൽ 'in' തന്നെ വേണം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'CONFIDE IN A FRIEND' — ഈ phrase ഒരു unit ആയി ഓർത്തുവയ്ക്കുക.\n• Same family: believe IN, trust IN, rely ON, depend ON — trust-related verbs-ന്റെ prepositions ഒരു group ആയി പഠിക്കുക.\n• PSC exam strategy: Preposition ചോദ്യങ്ങളിൽ verb ആദ്യം identify ചെയ്ത്, അതിന്റെ fixed collocation ഓർക്കുക — context sentence-ന്റെ meaning അല്ല, verb തന്നെയാണ് preposition തീരുമാനിക്കുന്നത്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-10-Q5",
+    "paperId": "HC-DAILY-2026-09-10",
+    "questionNumber": 5,
+    "topic": "Active and Passive Voice",
+    "topicDetail": "",
+    "difficulty": "medium",
+    "questionText": "Change the following sentence from Active to Passive:\nThe committee will announce the results next Monday.",
+    "optionA": "The results will be announced by the committee next Monday.",
+    "optionB": "The results were announced by the committee next Monday.",
+    "optionC": "The results will announce by the committee next Monday.",
+    "optionD": "The results are being announced by the committee next Monday.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) The results will be announced by the committee next Monday.\n\n• Active sentence-ലെ tense (Future Simple: 'will announce') Passive-ലും അതേപടി നിലനിർത്തണം — 'will be + V3' എന്ന structure ആണ് Future Simple Passive.\n• Object 'the results' Passive sentence-ന്റെ subject ആകുന്നു, subject 'the committee' 'by' ന് ശേഷം വരുന്നു.\n• Active-ലെ time expression 'next Monday' Passive-ലും അതേപടി നിലനിർത്തണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Active Tense = Passive Tense, എപ്പോഴും ഒരുപോലെ ആയിരിക്കണം.\n• Future Simple Active (will + V1) → Future Simple Passive (will + be + V3).\n• ⭐ PSC ആവർത്തനം: Active-Passive conversion PSC-യിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന grammar topic-കളിൽ ഒന്നാണ് — tense മാറ്റാതിരിക്കുക എന്നതാണ് ഏറ്റവും പ്രധാന rule.\n• ഉദാഹരണ sentences:\n  1. The manager will sign the documents. → The documents will be signed by the manager.\n  2. The teacher will explain the lesson. → The lesson will be explained by the teacher.\n  3. They will complete the project by June. → The project will be completed by them by June.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) The results were announced by the committee next Monday. — Tense മാറിപ്പോയി (Future-ൽ നിന്ന് Past ആയി) — 'next Monday' എന്ന future time-marker-ഉം 'were' (past) tense-ഉം പരസ്പരം contradict ചെയ്യുന്നു.\n  🪤 PSC Trap: Passive voice-ൽ verb form മാറ്റുമ്പോൾ students പലപ്പോഴും tense-ൽ ശ്രദ്ധിക്കാതെ standard 'was/were' pattern ഉപയോഗിക്കും.\n• (C) The results will announce by the committee next Monday. — 'be' എന്ന auxiliary വിട്ടുപോയി; Passive voice-ന് 'will BE + V3' നിർബന്ധമാണ്, 'will announce' എന്നത് Active form ആണ്.\n  🪤 PSC Trap: 'be' ചെറിയ word ആയതിനാൽ students അത് ഒഴിവാക്കിക്കളയാൻ സാധ്യതയുണ്ട്.\n• (D) The results are being announced by the committee next Monday. — Present Continuous Passive ആണ് ഇത്, പക്ഷെ Active sentence Future Simple ആണ് — tense mismatch.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'TENSE NEVER CHANGES' — Active-ൽ ഏത് tense ആണോ, Passive-ലും അതേ tense തന്നെ വേണം, ഇത് ഒരിക്കലും മാറ്റരുത്.\n• Word family: Future Simple Passive formula ഓർക്കുക — will + be + V3 (past participle).\n• PSC exam strategy: Active-Passive ചോദ്യങ്ങളിൽ ആദ്യം Active sentence-ന്റെ tense identify ചെയ്യുക, എന്നിട്ട് ആ tense-ന്റെ Passive formula apply ചെയ്യുക — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-10-Q6",
+    "paperId": "HC-DAILY-2026-09-10",
+    "questionNumber": 6,
+    "topic": "Idioms",
+    "topicDetail": "",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the idiom in italics.\nTo finish the project ahead of schedule, the contractor decided to __cut corners__ on safety inspections.",
+    "optionA": "to do something in the cheapest or easiest way, often sacrificing quality or safety",
+    "optionB": "to take a shorter physical route to save time",
+    "optionC": "to negotiate a lower price with suppliers",
+    "optionD": "to complete a task exactly on the deadline",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) to do something in the cheapest or easiest way, often sacrificing quality or safety\n\n• 'Cut corners' എന്ന idiom-ന്റെ അർത്ഥം ഒരു കാര്യം ചെയ്യുമ്പോൾ സമയമോ പണമോ ലാഭിക്കാൻ വേണ്ടി ശരിയായ രീതി/quality/safety ത്യജിക്കുക എന്നാണ്.\n• Sentence-ൽ 'ahead of schedule' എത്താൻ 'safety inspections' ത്യജിച്ചു എന്നത് exactly ഈ idiom-ന്റെ meaning-മായി യോജിക്കുന്നു.\n• ഒരു route-ൽ corner-കൾ cut ചെയ്ത് (മുറിച്ച്) കടന്നുപോയാൽ ദൂരം കുറയും പക്ഷെ അപകടസാധ്യത കൂടും എന്ന visual image-ൽ നിന്നാണ് ഈ idiom വന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Cut Corners = Quality/Safety ത്യജിച്ച് Shortcut എടുക്കുക\n• Idioms literal meaning-ൽ നിന്ന് വ്യത്യസ്തമായ figurative meaning കാണിക്കും — 'corners' എന്ന word-ന് ഇവിടെ ജ്യാമിതീയ അർത്ഥമില്ല.\n• ⭐ PSC ആവർത്തനം: Idioms topic-ൽ work/business context ഉള്ള idioms (cut corners, go the extra mile, call it a day) സ്ഥിരമായി ചോദിക്കും.\n• ഉദാഹരണ sentences:\n  1. The builder cut corners on the foundation, and the wall later cracked.\n  2. Don't cut corners when it comes to your child's education.\n  3. The company was fined for cutting corners on environmental regulations.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) to take a shorter physical route to save time — ഇത് idiom-ന്റെ literal meaning ആണ്, figurative meaning അല്ല. Idioms-ൽ literal meaning ഉപയോഗിക്കരുത്.\n  🪤 PSC Trap: 'corners' എന്ന word റോഡ്/route-മായി ബന്ധപ്പെട്ടതിനാൽ students literal ആയി വ്യാഖ്യാനിക്കും.\n• (C) to negotiate a lower price with suppliers — ഇത് 'cut a deal' അല്ലെങ്കിൽ 'drive a hard bargain' പോലുള്ള വ്യത്യസ്ത idioms-ന്റെ meaning ആണ്, 'cut corners'-ന്റെ അല്ല.\n• (D) to complete a task exactly on the deadline — ഇത് idiom-ന്റെ core meaning ആയ 'quality/safety ത്യജിക്കൽ' captured ചെയ്യുന്നില്ല.\n  🪤 PSC Trap: 'ahead of schedule' എന്ന context കണ്ട് deadline-മായി മാത്രം ബന്ധപ്പെടുത്തി തെറ്റായി select ചെയ്യും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: ഒരു car sharp ആയി corner cut ചെയ്ത് പോകുന്നത് സങ്കൽപ്പിക്കുക — വേഗത്തിൽ എത്തും പക്ഷെ അപകടസാധ്യത കൂടും. അതാണ് 'cut corners'-ന്റെ ആശയം.\n• Word family: work/quality idioms — cut corners, go the extra mile, call it a day, burn the candle at both ends.\n• PSC exam strategy: Idiom ചോദ്യങ്ങളിൽ context sentence-ലെ negative/positive tone ശ്രദ്ധിക്കുക — ഇവിടെ 'safety inspections' ത്യജിക്കുന്നത് negative connotation ആണ്, ഇത് answer narrow ചെയ്യാൻ സഹായിക്കും."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-10-Q7",
+    "paperId": "HC-DAILY-2026-09-10",
+    "questionNumber": 7,
+    "topic": "Antonyms",
+    "topicDetail": "",
+    "difficulty": "medium",
+    "questionText": "Choose the word most nearly OPPOSITE in meaning to the word in italics.\nDespite earning a handsome salary, Rajan remained remarkably __frugal__ in his daily spending.",
+    "optionA": "thrifty",
+    "optionB": "extravagant",
+    "optionC": "economical",
+    "optionD": "prudent",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) extravagant\n\n• 'Frugal' എന്നാൽ പണം, resources എന്നിവ വളരെ ശ്രദ്ധയോടെ, ആവശ്യമുള്ളത് മാത്രം ചിലവഴിക്കുന്ന സ്വഭാവം എന്നാണ് അർത്ഥം.\n• ഇതിന്റെ exact opposite 'extravagant' ആണ് — ആവശ്യമില്ലാതെ, അമിതമായി പണം ചിലവഴിക്കുന്ന സ്വഭാവം.\n• Sentence-ലെ 'handsome salary' എന്നിട്ടും 'remained frugal' എന്ന contrast, ഒരു frugal വ്യക്തിയുടെ opposite behaviour (extravagant spending) വ്യക്തമാക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Frugal (ശ്രദ്ധയോടെ ചിലവഴിക്കുന്ന) ↔ Extravagant (അമിതമായി ചിലവഴിക്കുന്ന)\n• Antonym ചോദ്യങ്ങളിൽ ബാക്കിയുള്ള options മിക്കപ്പോഴും target word-ന്റെ synonyms ആയിരിക്കും — ഇവ ശ്രദ്ധയോടെ ഒഴിവാക്കണം.\n• ⭐ PSC ആവർത്തനം: Antonyms ടോപ്പിക്കിൽ money/spending-related words (frugal, thrifty, extravagant, lavish, miserly) സ്ഥിരമായി ചോദിക്കും.\n• Etymology hint: 'Frugal' Latin 'frugalis' (economical, thrifty) എന്നതിൽ നിന്നാണ് വരുന്നത്.\n• ഉദാഹരണ sentences:\n  1. He is frugal with his money but extravagant when it comes to books.\n  2. Her frugal lifestyle helped her save for retirement early.\n  3. The extravagant wedding cost more than the couple's annual income.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) thrifty — ഇത് 'frugal'-ന്റെ synonym ആണ് (careful with money), opposite അല്ല.\n  🪤 PSC Trap: Antonym ചോദ്യങ്ങളിൽ synonym options ചേർത്ത് students-നെ confuse ചെയ്യുന്നത് ഒരു സ്ഥിരം PSC trick ആണ്.\n• (C) economical — ഇതും 'frugal'-ന്റെ synonym ആണ്, opposite meaning ഇല്ല.\n• (D) prudent — 'careful, wise in decision-making' എന്നാണ് അർത്ഥം, ഇത് 'frugal'-ന്റെ negative/opposite അല്ല, near-synonym ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'FRUGAL FRIEND SAVES, EXTRAVAGANT ENEMY SPENDS' — F എന്ന letter രണ്ടിലും, opposite meanings എന്ന് ഓർക്കുക.\n• Word family: money-related opposites — frugal↔extravagant, miserly↔generous, thrifty↔wasteful.\n• PSC exam strategy: Antonym ചോദ്യങ്ങളിൽ ആദ്യം target word-ന്റെ കൃത്യമായ അർത്ഥം ഉറപ്പിക്കുക, എന്നിട്ട് options-ൽ synonyms ആദ്യം ഒഴിവാക്കി true opposite തിരയുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-10-Q8",
+    "paperId": "HC-DAILY-2026-09-10",
+    "questionNumber": 8,
+    "topic": "Spelling",
+    "topicDetail": "",
+    "difficulty": "easy",
+    "questionText": "Choose the correctly spelt word.",
+    "optionA": "Perseverance",
+    "optionB": "Perseverence",
+    "optionC": "Preseverance",
+    "optionD": "Persaverance",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Perseverance\n\n• 'Perseverance' എന്ന word-ന്റെ അർത്ഥം 'സ്ഥിരോത്സാഹം / ബുദ്ധിമുട്ടുകൾക്കിടയിലും തുടർച്ചയായ ശ്രമം' എന്നാണ്.\n• ശരിയായ spelling: P-E-R-S-E-V-E-R-A-N-C-E — 'per-SEVER-ance' എന്ന് break ചെയ്ത് ഓർക്കാം.\n• 'Persevere' (verb) + '-ance' (suffix) = 'Perseverance' (noun) — base word-ന്റെ spelling മാറാതെ suffix ചേർക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: PER-SEVER-ANCE — മൂന്ന് ഭാഗങ്ങളായി തിരിച്ച് ഓർക്കുക.\n• 'Persevere' എന്ന verb-ന്റെ spelling ശരിയായി അറിഞ്ഞാൽ, 'perseverance' എളുപ്പത്തിൽ എഴുതാം.\n• ⭐ PSC ആവർത്തനം: Spelling topic-ൽ '-ance/-ence' suffix ഉള്ള tricky words (perseverance, occurrence, maintenance) സ്ഥിരമായി ചോദിക്കാറുണ്ട്.\n• Etymology hint: Latin 'perseverare' (to persist strictly) എന്നതിൽ നിന്നാണ് ഈ word വന്നത്.\n• ഉദാഹരണ sentences:\n  1. Her perseverance during the training paid off in the final exam.\n  2. Success in PSC exams requires perseverance and consistent practice.\n  3. Despite many failures, his perseverance never wavered.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) Perseverence — 'ance' ന് പകരം 'ence' ഉപയോഗിച്ചത് തെറ്റ്; ഈ word '-ance' suffix ആണ് എടുക്കുന്നത്.\n  🪤 PSC Trap: '-ance' ഉം '-ence' ഉം ഉച്ചാരണത്തിൽ ഏകദേശം ഒരുപോലെ തോന്നുന്നതിനാൽ students confuse ആകും.\n• (C) Preseverance — 'per' ന് പകരം 'pre' എഴുതിയത് തെറ്റ്; ഇത് 'persevere' എന്ന base word-ന്റെ spelling തന്നെ മാറ്റുന്നു.\n• (D) Persaverance — 'e' ന് പകരം 'a' എഴുതിയത് തെറ്റ്; ഇത് word-ന്റെ രണ്ടാമത്തെ syllable-ന്റെ spelling തെറ്റാക്കുന്നു.\n  🪤 PSC Trap: Pronunciation-ൽ vowel sounds വ്യക്തമായി വേർതിരിച്ചറിയാൻ പ്രയാസമുള്ളതിനാൽ ഇത്തരം spelling mistakes സാധാരണമാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'PERSEVERE + ANCE = PERSEVERANCE' — base word spelling അതേപടി നിലനിർത്തി suffix ചേർക്കുക എന്ന് ഓർക്കുക.\n• Word family: '-ance' suffix ഉള്ള words — perseverance, appearance, performance, importance.\n• PSC exam strategy: Spelling ചോദ്യങ്ങളിൽ base verb/adjective അറിയാമെങ്കിൽ, ആ spelling മാറാതെ suffix മാത്രം ചേർത്ത് ശരിയായ option കണ്ടെത്താം."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-10-Q9",
+    "paperId": "HC-DAILY-2026-09-10",
+    "questionNumber": 9,
+    "topic": "Words Often Confused",
+    "topicDetail": "",
+    "difficulty": "medium",
+    "questionText": "Choose the correct word to complete the sentence.\nThe wine was chosen specifically to _______ the flavours of the main course.",
+    "optionA": "compliment",
+    "optionB": "complement",
+    "optionC": "complementary",
+    "optionD": "complimentary",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) complement\n\n• 'Complement' (verb) എന്നാൽ 'ഒരു കാര്യത്തെ പൂർത്തിയാക്കുക / അതിനോട് നന്നായി ചേരുക' എന്നാണ് അർത്ഥം.\n• Sentence-ൽ wine, main course-ന്റെ flavours-നെ 'നന്നായി ചേർന്ന്' മെച്ചപ്പെടുത്തുന്നു എന്ന അർത്ഥമാണ് വേണ്ടത് — അതിന് 'complement' ആണ് ശരി.\n• Blank-ന് ശേഷം 'to ____ the flavours' എന്ന structure-ൽ ഒരു verb ആണ് വേണ്ടത്, adjective അല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Complement = COMPLETE (ചേർന്ന് പൂർത്തിയാക്കുക) | Compliment = PRAISE (പ്രശംസ)\n• 'Complement' ന്റെ 'e' യും 'Complete' ന്റെ 'e' യും ഒരുപോലെ ഓർത്താൽ confuse ആകില്ല.\n• ⭐ PSC ആവർത്തനം: Words Often Confused topic-ൽ ഈ ജോടി (complement/compliment) ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന confusable pair ആണ്.\n• ഉദാഹരണ sentences:\n  1. Her scarf complements her outfit perfectly.\n  2. He paid her a sincere compliment on her presentation.\n  3. The two departments have complementary skills.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) compliment — ഇതിന്റെ അർത്ഥം 'പ്രശംസ/appreciation പറയുക' എന്നാണ്, 'നന്നായി ചേരുക' എന്ന അർത്ഥമല്ല ഇവിടെ വേണ്ടത്.\n  🪤 PSC Trap: spelling ഒരുപോലെ ഇരിക്കുന്നതിനാൽ (ഒരു 'e', ഒരു 'i' മാത്രം വ്യത്യാസം) students confuse ആകും.\n• (C) complementary — ഇത് adjective form ആണ്, ഇവിടെ 'to ___ the flavours' എന്ന structure-ൽ verb വേണം, adjective ചേരില്ല.\n• (D) complimentary — ഇത് 'free of charge' അല്ലെങ്കിൽ 'praising' എന്നാണ് അർത്ഥം, adjective ആണ് — ഇവിടെ sentence structure-ന് യോജിക്കില്ല.\n  🪤 PSC Trap: 'complimentary breakfast' പോലുള്ള common usage ഓർത്ത് ഇത് തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'COMPLEMENT ends with E, like COMPLETE' — രണ്ടും 'ചേർന്ന് പൂർത്തിയാക്കുക' എന്ന ആശയവുമായി ബന്ധപ്പെട്ടത്.\n• Word family: confusable pairs — complement/compliment, stationary/stationery, principal/principle.\n• PSC exam strategy: Words Often Confused ചോദ്യങ്ങളിൽ sentence-ന്റെ meaning ആദ്യം മനസ്സിലാക്കുക, എന്നിട്ട് ഏത് word ആ meaning-നെ fit ചെയ്യുന്നു എന്ന് നോക്കുക — spelling similarity കണ്ട് confuse ആകരുത്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-10-Q10",
+    "paperId": "HC-DAILY-2026-09-10",
+    "questionNumber": 10,
+    "topic": "Word Formation",
+    "topicDetail": "",
+    "difficulty": "medium",
+    "questionText": "Choose the correctly formed noun from the adjective 'generous'.",
+    "optionA": "Generousity",
+    "optionB": "Generosity",
+    "optionC": "Generousness",
+    "optionD": "Genorosity",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Generosity\n\n• 'Generous' (adjective) + '-ity' suffix ചേരുമ്പോൾ, spelling 'generous' → 'generos-' ആയി മാറി '-ity' ചേരും — 'Generosity'.\n• ഇത് ഒരു real, standard English word ആണ്, PSC പരീക്ഷകളിൽ common ആയ noun-formation pattern ആണ്.\n• മറ്റ് options യഥാർത്ഥ ഇംഗ്ലീഷ് words അല്ല അല്ലെങ്കിൽ spelling തെറ്റാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: GENEROUS → GENEROS(ITY) — 'ous' ending adjectives '-ity' suffix എടുക്കുമ്പോൾ 'ous' മാറി 'os' ആകും.\n• Adjective-ൽ നിന്ന് noun ഉണ്ടാക്കുമ്പോൾ suffix-ന് അനുസരിച്ച് base word-ന്റെ spelling slight ആയി മാറാം — ഇത് ഓരോ word-ഉം പ്രത്യേകം ഓർത്തുവയ്ക്കണം.\n• ⭐ PSC ആവർത്തനം: Word Formation topic-ൽ '-ous' → '-osity/-ity' pattern (generous→generosity, curious→curiosity) സ്ഥിരമായി ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. The donor's generosity helped fund the entire school.\n  2. He is known throughout the village for his generosity.\n  3. Her act of generosity moved everyone present.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Generousity — 'ous' spelling അതേപടി നിലനിർത്തി '-ity' ചേർത്തത് തെറ്റ്; ഇംഗ്ലീഷിൽ ഈ word നിലവിലില്ല.\n  🪤 PSC Trap: base word-ന്റെ spelling മാറ്റാതെ suffix മാത്രം ചേർക്കുന്ന സ്വാഭാവിക പ്രവണത കാരണം students ഇത് തിരഞ്ഞെടുക്കും.\n• (C) Generousness — 'generous' + '-ness' ചേർത്താൽ theoretically ഒരു word ഉണ്ടാക്കാമെങ്കിലും, standard/preferred noun form 'generosity' ആണ് — PSC ഇത് correct option ആയി അംഗീകരിക്കില്ല.\n• (D) Genorosity — spelling തന്നെ തെറ്റാണ് ('e' വിട്ടുപോയി); ഇംഗ്ലീഷിൽ ഈ word നിലവിലില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'GENEROUS OUS BECOMES OS' — ous ending വാക്കുകൾ noun ആകുമ്പോൾ 'os' ആയി ചുരുങ്ങും എന്ന് ഓർക്കുക.\n• Word family: same pattern words — curious→curiosity, generous→generosity, ferocious→ferocity.\n• PSC exam strategy: Word Formation ചോദ്യങ്ങളിൽ base word-ന്റെ spelling മാത്രം ഓർത്താൽ പോരാ, suffix ചേരുമ്പോൾ spelling എങ്ങനെ മാറുന്നു എന്നും പഠിക്കണം."
+    }
   }
 ]
