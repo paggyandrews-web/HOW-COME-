@@ -1782,5 +1782,15 @@
     "year": "2026",
     "categoryCode": "361/2025,496/2025",
     "answerKeyStatus": "final"
+  },
+  {
+    "id": "83-2026-E",
+    "paperCode": "83/2026/OL",
+    "post": "Divisional Accounts Officer (SR for ST Only)",
+    "date": "07-May-2026",
+    "medium": "E",
+    "year": "2026",
+    "categoryCode": "220/2025,472/2025",
+    "answerKeyStatus": "final"
   }
 ]
