@@ -42305,5 +42305,167 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) The one thing about tolerating artists is disturbed while working.\n  • ഇവിടെ \"the one thing about tolerating artists\" എന്നത് \"artists-നെ tolerate ചെയ്യുന്ന കാര്യം\" എന്നാണ് അർത്ഥമാക്കുന്നത് — ഉദ്ദേശിച്ച അർത്ഥത്തിൽ നിന്ന് വ്യത്യസ്തമായ, logically confusing structure ആണ്.\n  • 🪤 PSC Trap: Sentence-ന്റെ ഉപരിപ്ലവമായ സാമ്യം കണ്ട് ശരി എന്ന് തെറ്റിദ്ധരിക്കും.\n• (C) Tolerating artists while working is a disturbing thing.\n  • ഇതിന്റെ അർത്ഥം \"artists-നെ tolerate ചെയ്യുന്നത് ഒരു disturbing കാര്യമാണ്\" എന്നാണ് — original ഉദ്ദേശ്യത്തിൽ നിന്ന് പൂർണ്ണമായും മാറിപ്പോയി.\n  • 🪤 PSC Trap: Similar words ഉപയോഗിച്ചതിനാൽ ശരി എന്ന് തോന്നിക്കും, പക്ഷേ meaning പൂർണ്ണമായി മാറുന്നു.\n• (D) The one thing that artists don't tolerate is being disturbed while working.\n  • ഘടന ശരിയാണെങ്കിലും, \"don't tolerate\" എന്നത് \"can't tolerate\" എന്നതിനെക്കാൾ കൃത്യത കുറവാണ്; PSC-യുടെ official key പ്രകാരം (B) ആണ് ഏറ്റവും ശരിയായ ഉത്തരം.\n  • 🪤 PSC Trap: (B)-യും (D)-യും വളരെ സാമ്യമുള്ളതിനാൽ confuse ചെയ്യും — സൂക്ഷ്മമായ word choice (\"can't\" vs \"don't\") ശ്രദ്ധിക്കണം.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Cleft sentence (\"The one thing that... is...\") വായിക്കുമ്പോൾ, ആദ്യം അതിന്റെ core meaning പിടിച്ചെടുക്കുക, എന്നിട്ട് ഏത് option ആ meaning-നെ ഏറ്റവും കൃത്യമായി express ചെയ്യുന്നു എന്ന് നോക്കുക.\n• Word family: similar cleft structures (\"What I need is...\", \"The reason why... is...\") ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: \"Choose the correct sentence\" ചോദ്യങ്ങളിൽ options തമ്മിൽ വളരെ ചെറിയ വ്യത്യാസങ്ങൾ ഉണ്ടാകും — ഓരോ option-ഉം ശ്രദ്ധയോടെ വായിച്ച് meaning-ലെ വ്യത്യാസം കണ്ടെത്തുക."
     }
+  },
+  {
+    "id": "126-2026-M-Q62",
+    "paperId": "126-2026-M",
+    "questionNumber": 62,
+    "topic": "Correction of Sentences",
+    "questionText": "Correct the following sentence.\nHe discarded all his old furnitures.",
+    "optionA": "He discarded all his old furniture.",
+    "optionB": "He discarded all his old pieces of furnitures.",
+    "optionC": "He discarded all his old items of furnitures.",
+    "optionD": "He discarded off all his old furniture.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) He discarded all his old furniture.\n• 'Furniture' എന്ന word ഒരു uncountable noun ആണ് — അതിന് plural form ('furnitures') ഇല്ല.\n• 'Old furniture' എന്ന് തന്നെ പറഞ്ഞാൽ മതി, 's' ചേർക്കേണ്ട ആവശ്യമില്ല.\n• 'അയാൾ തന്റെ പഴയ ഫർണിച്ചർ മുഴുവൻ ഉപേക്ഷിച്ചു' എന്നാണ് ശരിയായ അർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Uncountable noun-കൾക്ക് ഒരിക്കലും 's' ചേർക്കരുത്!\n• Furniture (ഫർണിച്ചർ), information (വിവരം), advice (ഉപദേശം), luggage (ലഗേജ്), equipment (ഉപകരണങ്ങൾ), news (വാർത്ത), knowledge (അറിവ്) തുടങ്ങിയവ uncountable nouns ആണ് — അവയ്ക്ക് plural form ഇല്ല. ഒരൊറ്റ സാധനത്തെയോ കൂട്ടത്തെയോ ഒരുപോലെ സൂചിപ്പിക്കുന്ന word ആണിത്.\n• Count ചെയ്യണമെങ്കിൽ 'a piece of furniture' (ഒരു സാധനം), 'pieces of furniture' (പല സാധനങ്ങൾ) എന്നിങ്ങനെ പറയണം.\n• ⭐ PSC ആവർത്തനം: Uncountable noun errors (furniture, information, advice) PSC-യിൽ വളരെ common ആയ correction-of-sentence ചോദ്യങ്ങളാണ്!\n• ഉദാഹരണ sentences:\n1. She gave me useful advice. (advices എന്ന് ഒരിക്കലും പറയരുത് — advice uncountable ആണ്.)\n2. He has a lot of luggage. (luggages എന്ന form ഇല്ല, ഒരൊറ്റ collective word മതി.)\n3. I need some information. (informations എന്ന് പറയാൻ പാടില്ല, 'some information' മതി.)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) He discarded all his old pieces of furnitures — 'pieces of' ചേർത്തിട്ടും 'furnitures' എന്ന് വീണ്ടും plural ആക്കിയത് തെറ്റാണ്; 'pieces of furniture' എന്നേ പറയാവൂ.\n• 🪤 PSC Trap: 'pieces of' ചേർത്താൽ ശരിയാകും എന്ന് തോന്നും, പക്ഷേ 'furniture' തന്നെ uncountable ആയതിനാൽ 's' വീണ്ടും തെറ്റ്.\n• (C) He discarded all his old items of furnitures — ഇവിടെയും 'furnitures' എന്ന തെറ്റായ plural ഉപയോഗിച്ചു.\n• 🪤 PSC Trap: 'items of' എന്ന extra phrase ശ്രദ്ധ തിരിക്കാൻ വേണ്ടി ചേർത്തതാണ്.\n• (D) He discarded off all his old furniture — 'discard' എന്ന verb-ന് ശേഷം 'off' ചേർക്കേണ്ട ആവശ്യമില്ല; 'discard' തന്നെ 'throw away' എന്ന അർത്ഥം നൽകുന്നു.\n• 🪤 PSC Trap: 'discard off' എന്ന redundant phrasal usage തെറ്റായ preposition ചേർക്കൽ ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Furniture ഒരു കൂട്ടം സാധനങ്ങൾ ആണെങ്കിലും, ഒറ്റ വാക്ക് പോലെ, ഒറ്റയ്ക്ക് നിൽക്കും — 's' വേണ്ട!'\n• Word family: furniture, information, advice, luggage, equipment, news, knowledge, baggage — ഈ uncountable words എല്ലാം 's' ഇല്ലാതെ തന്നെ ഓർത്തുവെക്കുക.\n• PSC exam strategy: Correction ചോദ്യങ്ങളിൽ 'plural + uncountable noun' combination കണ്ടാൽ ഉടനെ സംശയിക്കുക — മിക്കവാറും അതാണ് തെറ്റ്!"
+    }
+  },
+  {
+    "id": "126-2026-M-Q63",
+    "paperId": "126-2026-M",
+    "questionNumber": 63,
+    "topic": "Prepositions",
+    "questionText": "Use the appropriate preposition in the sentence.\nShe hit him __________ the face.",
+    "optionA": "on",
+    "optionB": "to",
+    "optionC": "in",
+    "optionD": "into",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) in\n• 'Hit someone in the face' എന്നത് ഒരു fixed collocation ആണ് — ശരീരഭാഗങ്ങളിൽ അടിക്കുമ്പോൾ 'in' ഉപയോഗിക്കുന്നു (face, eye, stomach, back).\n• 'She hit him in the face' എന്നാൽ 'അവൾ അവന്റെ മുഖത്ത് അടിച്ചു' എന്നാണ് അർത്ഥം.\n• Body part-ലേക്ക് നേരിട്ട് ഒരു blow കൊടുക്കുമ്പോൾ 'in' ആണ് standard preposition.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Hit/strike + someone + IN + body part — face, eye, stomach, back, chest.\n• Body-part-നെ ഒരു 'container'/'area' ആയി കണക്കാക്കിയാണ് ഈ preposition ഉപയോഗിക്കുന്നത്.\n• ⭐ PSC ആവർത്തനം: 'hit ... in the face/eye' എന്ന collocation PSC preposition ചോദ്യങ്ങളിൽ ആവർത്തിച്ച് വരുന്നു.\n• ഉദാഹരണ sentences:\n1. He punched me in the stomach. (വയറ്റിൽ ഇടിച്ചു എന്ന അർത്ഥത്തിന് 'in' തന്നെ വേണം.)\n2. The ball hit him in the eye. (കണ്ണിൽ പന്ത് കൊണ്ടു എന്ന് പറയാൻ 'in the eye'.)\n3. She slapped him in the face. (മുഖത്ത് അടിച്ചു എന്ന അർത്ഥത്തിന് 'in the face' ഉപയോഗിക്കുന്നു.)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) on — 'hit on the face' എന്നത് സാധാരണ ഉപയോഗിക്കാറില്ല; ഇവിടെ fixed collocation 'in the face' ആണ്.\n• 🪤 PSC Trap: 'on' സ്വാഭാവികമായി തോന്നാം, പക്ഷേ fixed collocation 'in the face' ആണ്.\n• (B) to — direction/movement സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്ന preposition ആണ്; ഇവിടെ ചേരില്ല.\n• 🪤 PSC Trap: 'hit to' എന്നത് ഒരു common Malayalee ഇംഗ്ലീഷ് തെറ്റാണ്.\n• (D) into — ഉള്ളിലേക്ക് കടക്കുക എന്ന അർത്ഥം നൽകുന്ന preposition ആണ് ('run into a wall'); ഇവിടെ ചേരില്ല.\n• 🪤 PSC Trap: 'into' movement സൂചിപ്പിക്കുന്നതിനാൽ static blow-യ്ക്ക് ഇത് ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'മുഖത്ത് അടിച്ചാൽ IN-ൽ വീഴും!' — face, eye, stomach പോലുള്ള body parts-ന് 'in' ഓർത്തുവെക്കുക.\n• Word family: hit in the face, punch in the stomach, kick in the shin, poke in the eye — ഈ collocations എല്ലാം ശരീരഭാഗങ്ങളുമായി 'in' ഒരുമിച്ച് ചേർന്ന് വരുന്നവയാണ്.\n• PSC exam strategy: Preposition ചോദ്യങ്ങളിൽ body-part വരുമ്പോൾ collocation ആയി മനഃപാഠമാക്കി വെക്കുക — logic-ൽ നിന്ന് കണ്ടെത്താൻ ബുദ്ധിമുട്ടാണ്."
+    }
+  },
+  {
+    "id": "126-2026-M-Q64",
+    "paperId": "126-2026-M",
+    "questionNumber": 64,
+    "topic": "Parts of Speech",
+    "questionText": "Complete the sentence correctly.\nWhere is that assistant of _________?",
+    "optionA": "you",
+    "optionB": "your's",
+    "optionC": "your",
+    "optionD": "yours",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) yours\n• 'Of' എന്ന preposition-ന് ശേഷം ഒറ്റയ്ക്ക് നിൽക്കുന്ന possessive pronoun ('double genitive') ആണ് വേണ്ടത് — 'yours', 'mine', 'his', 'hers', 'ours', 'theirs' എന്നിവയിൽ ഒന്ന്.\n• 'That assistant of yours' എന്നാൽ 'നിന്റെ ആ അസിസ്റ്റന്റ്' എന്നാണ് അർത്ഥം — 'നിന്റെ പല അസിസ്റ്റന്റുമാരിൽ ഒരാൾ' എന്ന അധിക അർത്ഥവും ഈ structure തരുന്നു.\n• 'Yours' എന്നത് apostrophe ഇല്ലാതെ എഴുതുന്ന absolute possessive pronoun ആണ് എന്നത് ഓർത്തുവെക്കണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: noun + OF + absolute possessive pronoun (mine/yours/his/hers/ours/theirs) — ഇതാണ് double genitive structure.\n• Absolute possessive pronouns ഒറ്റയ്ക്ക് നിൽക്കും, noun-ന് മുമ്പ് വരില്ല; അവയ്ക്ക് apostrophe ('s) ഒരിക്കലും വേണ്ട.\n• ⭐ PSC ആവർത്തനം: Double genitive structure ('a friend of mine', 'that book of yours') PSC-യിൽ ആവർത്തിച്ചു വരുന്ന grammar point ആണ്.\n• ഉദാഹരണ sentences:\n1. He is a friend of mine. (എന്റെ ഒരു സുഹൃത്ത് എന്നർത്ഥം, 'of me' എന്ന് പറയില്ല.)\n2. This pen is not yours. (ഈ പേന നിന്റേതല്ല എന്നർത്ഥം.)\n3. That car of theirs is very old. (അവരുടെ ആ കാർ പഴയതാണ് എന്നർത്ഥം.)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) you — 'you' ഒരു personal pronoun ആണ്, possessive അല്ല; 'of you' എന്ന് പറഞ്ഞാൽ ഉടമസ്ഥത (possession) സൂചിപ്പിക്കില്ല.\n• 🪤 PSC Trap: ലളിതമായ pronoun ആയതിനാൽ ശരി എന്ന് തോന്നിക്കും.\n• (B) your's — ഇത് ഒരു spelling തെറ്റാണ്; 'your's' എന്ന word ഇംഗ്ലീഷിൽ ഇല്ല — apostrophe ('s) 'yours'-ൽ ഒരിക്കലും ചേർക്കില്ല.\n• 🪤 PSC Trap: 'it's/its' പോലെ apostrophe സംബന്ധിച്ച തെറ്റിദ്ധാരണ ഉണ്ടാക്കുന്ന common PSC കെണിയാണ്.\n• (C) your — 'your' ഒരു possessive adjective ആണ്, അത് എപ്പോഴും noun-ന് മുമ്പ് വരണം ('your assistant'); 'of your' എന്ന combination ശരിയല്ല.\n• 🪤 PSC Trap: 'your' സ്വാഭാവികമായി 'possession' സൂചിപ്പിക്കുന്നതിനാൽ തിരഞ്ഞെടുക്കാൻ എളുപ്പം തോന്നും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'OF-ന് ശേഷം ഒറ്റയ്ക്ക് നിൽക്കുന്ന വാക്ക് വേണം — mine, yours, his, hers, ours, theirs എന്നിവയിൽ ഒന്ന്!'\n• Word family: 'a friend of mine' (എന്റെ ഒരു സുഹൃത്ത്), 'a book of yours' (നിന്റെ ഒരു പുസ്തകം), 'a habit of his' (അയാളുടെ ഒരു ശീലം), 'a fault of hers' (അവളുടെ ഒരു കുറ്റം), 'a problem of theirs' (അവരുടെ ഒരു പ്രശ്നം) — ഇവയെല്ലാം ഒരേ structure-ൽ ഉള്ളവയാണ്, ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: 'of' എന്ന preposition-ന് ശേഷം blank കണ്ടാൽ ഉടനെ apostrophe ഇല്ലാത്ത absolute possessive pronoun തിരയുക."
+    }
+  },
+  {
+    "id": "126-2026-M-Q65",
+    "paperId": "126-2026-M",
+    "questionNumber": 65,
+    "topic": "Question Tags",
+    "questionText": "Use the correct question tag.\nHe hardly speaks to strangers, __________?",
+    "optionA": "does he",
+    "optionB": "doesn't he",
+    "optionC": "won't he",
+    "optionD": "wouldn't he",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) does he\n• 'Hardly' എന്ന word-ന് negative meaning ആണ് — 'വളരെ കുറച്ച് മാത്രം / ഏകദേശം ഇല്ല' എന്നർഥം.\n• Statement-ൽ 'hardly' ഉള്ളതിനാൽ അത് ഒരു negative sentence ആയി കണക്കാക്കണം, അതിനാൽ question tag positive ആയിരിക്കണം → 'does he'.\n• Main verb 'speaks' present tense, singular ('he') ആയതിനാൽ auxiliary 'does' ഉപയോഗിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Negative statement-ന് Positive tag; Positive statement-ന് Negative tag — ഇതാണ് അടിസ്ഥാന നിയമം.\n• Hardly (ഏകദേശം ഇല്ല), scarcely (തീരെ ഇല്ല), barely (കഷ്ടിച്ച്), never (ഒരിക്കലും ഇല്ല), seldom (അപൂർവ്വമായി), rarely (വളരെ കുറച്ച്), little (കുറച്ച് മാത്രം), few (ചുരുക്കം ചിലർ) — ഇവയെല്ലാം അർത്ഥത്തിൽ negative ആയ words ആണ്, ഇവ ഉള്ള sentence-ന് positive tag വേണം എന്നത് ഓർത്തുവെക്കുക.\n• ⭐ PSC ആവർത്തനം: 'Hardly/Never/Seldom' ഉള്ള question tag ചോദ്യങ്ങൾ PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന tag rule ആണ്!\n• ഉദാഹരണ sentences:\n1. He never lies, does he? (അയാൾ ഒരിക്കലും കള്ളം പറയില്ല, അല്ലേ? — never negative ആയതിനാൽ tag positive.)\n2. She hardly eats meat, does she? (അവൾ മാംസം കഴിക്കാറില്ല, അല്ലേ? — hardly negative ആയതിനാൽ tag positive.)\n3. They seldom visit us, do they? (അവർ ഞങ്ങളെ അപൂർവ്വമായേ സന്ദർശിക്കൂ, അല്ലേ? — seldom negative ആയതിനാൽ tag positive.)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) doesn't he — sentence-ൽ 'hardly' എന്ന negative word ഉള്ളതിനാൽ ഇത് ഒരു negative statement ആണ്; negative tag ചേർക്കാൻ പാടില്ല.\n• 🪤 PSC Trap: 'speaks' എന്ന positive-looking verb കണ്ട് 'doesn't he' ശരി എന്ന് തെറ്റിദ്ധരിക്കും — 'hardly' ശ്രദ്ധിക്കാതെ പോകുന്നതാണ് കെണി.\n• (C) won't he — future tense-ന്റെ tag ആണ് 'won't he'; sentence present tense-ൽ ആയതിനാൽ ഇത് ചേരില്ല.\n• 🪤 PSC Trap: Tense mismatch ആണ് ഇവിടത്തെ തെറ്റ്.\n• (D) wouldn't he — 'would' conditional/past habitual tense-ന്റെ tag ആണ്; present simple sentence-ന് ഇത് യോജിക്കില്ല.\n• 🪤 PSC Trap: Auxiliary verb tense correctly match ചെയ്യാതെ വരുന്ന common തെറ്റ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Hardly എന്നാൽ ഏകദേശം ഇല്ല എന്നാണ് അർത്ഥം — അതുകൊണ്ട് Positive tag ഓർക്കുക!'\n• Word family: hardly, scarcely, barely, never, seldom, rarely, nobody, nothing — ഇവയെല്ലാം 'ഒളിച്ചിരിക്കുന്ന negative' words ആണ്; ഇവയോടൊപ്പം positive tag വരണം.\n• PSC exam strategy: Question tag ചോദ്യത്തിൽ sentence-ലെ negative-meaning word (hardly/never/seldom) ആദ്യം കണ്ടെത്തുക, എന്നിട്ട് tense-ഉം subject-ഉം നോക്കി tag ഉണ്ടാക്കുക."
+    }
+  },
+  {
+    "id": "126-2026-M-Q66",
+    "paperId": "126-2026-M",
+    "questionNumber": 66,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Choose the correct form of the verb to complete the sentence.\nNeither the brothers nor the sister _________ the right answer.",
+    "optionA": "know",
+    "optionB": "knows",
+    "optionC": "knowing",
+    "optionD": "did knew",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) knows\n• 'Neither...nor' ഉപയോഗിക്കുമ്പോൾ verb agree ചെയ്യുന്നത് nearest subject-നോടാണ് ('proximity rule').\n• ഇവിടെ 'nor' -ന് തൊട്ടടുത്തുള്ള subject 'the sister' ആണ് (singular), അതിനാൽ singular verb 'knows' വേണം.\n• 'ആ സഹോദരൻമാർക്കോ സഹോദരിക്കോ ശരിയായ ഉത്തരം അറിയില്ല' എന്നാണ് അർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Neither A nor B + verb, B-യോട് (ഏറ്റവും അടുത്ത subject-നോട്) ആണ് verb agree ചെയ്യേണ്ടത്!\n• Either...or (ഒന്നുകിൽ...അല്ലെങ്കിൽ), neither...nor (രണ്ടും അല്ല) എന്നിവ ഉപയോഗിക്കുമ്പോൾ verb-ന്റെ number രണ്ടാമത്തെ (nearest) subject-നെ അടിസ്ഥാനമാക്കിയാണ് തീരുമാനിക്കുന്നത്.\n• ⭐ PSC ആവർത്തനം: Proximity rule (ഏറ്റവും അടുത്തുള്ള subject-ന്റെ അടിസ്ഥാനത്തിൽ verb agree ചെയ്യൽ) PSC subject-verb agreement ചോദ്യങ്ങളിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന rule ആണ്.\n• ഉദാഹരണ sentences:\n1. Either the manager or the workers are responsible. (workers plural ആയതിനാൽ, verb-ഉം plural.)\n2. Neither the students nor the teacher was late. (teacher singular ആയതിനാൽ, verb-ഉം singular.)\n3. Neither I nor he is wrong. (he singular ആയതിനാൽ, verb-ഉം singular.)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) know — plural verb form ആണ്; nearest subject 'the sister' singular ആയതിനാൽ ഇത് തെറ്റ്.\n• 🪤 PSC Trap: 'brothers' (plural) ആദ്യം കണ്ട് plural verb തിരഞ്ഞെടുക്കും — ഇതാണ് proximity rule മറന്നുപോകാൻ കാരണം.\n• (C) knowing — ഇത് ഒരു -ing form ആണ്, main verb ആയി ഒറ്റയ്ക്ക് ഉപയോഗിക്കാൻ പറ്റില്ല.\n• 🪤 PSC Trap: Continuous tense തോന്നിക്കുന്ന form ആണെങ്കിലും ഇവിടെ grammatically തെറ്റാണ്.\n• (D) did knew — 'did' എന്ന auxiliary-ക്ക് ശേഷം base form ('know') വേണം, past form ('knew') അല്ല; 'did knew' എന്നത് double past ആയി തെറ്റാണ്.\n• 🪤 PSC Trap: രണ്ട് past markers ('did' + 'knew') ഒരുമിച്ച് ഉപയോഗിക്കുന്ന classic PSC തെറ്റ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Neither...nor-ൽ, verb-ന് ഏറ്റവും അടുത്തുള്ള ആളെ മാത്രം നോക്കിയാൽ മതി!'\n• Word family: either...or, neither...nor, not only...but also — ഇവയെല്ലാം ഈ proximity rule പിന്തുടരുന്ന structures ആണ്.\n• PSC exam strategy: Subject-verb agreement ചോദ്യത്തിൽ 'neither/either' കണ്ടാൽ, verb-ന് തൊട്ടുമുമ്പുള്ള subject മാത്രം നോക്കുക — ബാക്കി ignore ചെയ്യുക."
+    }
+  },
+  {
+    "id": "126-2026-M-Q67",
+    "paperId": "126-2026-M",
+    "questionNumber": 67,
+    "topic": "Prepositions",
+    "questionText": "Complete the following sentence correctly.\nI prefer regular classes _________ online classes.",
+    "optionA": "than",
+    "optionB": "by",
+    "optionC": "for",
+    "optionD": "to",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) to\n• 'Prefer' എന്ന verb-ന്റെ കൂടെ comparison ചെയ്യാൻ ഉപയോഗിക്കുന്ന fixed preposition 'to' ആണ്, 'than' അല്ല.\n• 'Prefer A to B' എന്നാൽ 'A-യെ B-യെക്കാൾ ഇഷ്ടപ്പെടുന്നു' എന്നാണ് അർത്ഥം.\n• 'ഞാൻ online classes-നെക്കാൾ regular classes ഇഷ്ടപ്പെടുന്നു' എന്നാണ് sentence-ന്റെ അർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Prefer A TO B — 'prefer' എപ്പോഴും 'than' അല്ല, 'to' ആണ് എടുക്കുന്നത്!\n• 'Prefer' ഒരു comparative meaning ഉള്ള word ആണെങ്കിലും, മറ്റ് comparatives ('better than', 'more than') പോലെ 'than' എടുക്കില്ല — 'to' മാത്രം.\n• ⭐ PSC ആവർത്തനം: 'Prefer...to' collocation PSC-യിലെ ഏറ്റവും common preposition trap ആണ്.\n• ഉദാഹരണ sentences:\n1. I prefer tea to coffee. (കാപ്പിയെക്കാൾ ചായ ഇഷ്ടം എന്നർത്ഥം.)\n2. She prefers reading to watching TV. (ടിവി കാണുന്നതിനേക്കാൾ വായന ഇഷ്ടം.)\n3. He would prefer walking to driving. (ഡ്രൈവിംഗിനേക്കാൾ നടത്തം ഇഷ്ടം.)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) than — comparative adjectives ('better', 'more') കൂടെ ഉപയോഗിക്കുന്ന word ആണ് 'than'; 'prefer' കൂടെ ഇത് ഉപയോഗിക്കില്ല.\n• 🪤 PSC Trap: 'prefer' ഒരു comparison ആയതിനാൽ 'than' സ്വാഭാവികമായി തോന്നും — ഇതാണ് ഏറ്റവും വലിയ PSC കെണി!\n• (B) by — agent അല്ലെങ്കിൽ method സൂചിപ്പിക്കുന്ന preposition ആണ്; 'prefer'-ന്റെ കൂടെ ചേരില്ല.\n• 🪤 PSC Trap: Random preposition ആയി confuse ചെയ്യിക്കാൻ ചേർത്തതാണ്.\n• (C) for — purpose/reason സൂചിപ്പിക്കുന്ന preposition ആണ്; 'prefer' comparison-ന് ഇത് ശരിയല്ല.\n• 🪤 PSC Trap: 'preference for something' എന്ന noun phrase-ലെ 'for' -മായി confuse ചെയ്യിക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'PREFER-നും TO-യും എപ്പോഴും ഒരുമിച്ച് നടക്കും — THAN ഒരിക്കലും കൂടെ വരില്ല!'\n• Word family: prefer...to, superior...to, senior...to, junior...to — ഈ 'to' എടുക്കുന്ന comparison words ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: 'prefer' കണ്ടാൽ ഉടനെ ബ്ലാങ്കിൽ 'to' എന്ന് ഓർക്കുക — 'than' ഒരു ഓപ്ഷനായി വന്നാൽ അതാണ് ഏറ്റവും വലിയ കെണി."
+    }
+  },
+  {
+    "id": "126-2026-M-Q68",
+    "paperId": "126-2026-M",
+    "questionNumber": 68,
+    "topic": "Spelling",
+    "questionText": "Find the correctly spelled word.",
+    "optionA": "dilettante",
+    "optionB": "dilattente",
+    "optionC": "dilettente",
+    "optionD": "None of the above",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) dilettante\n• 'Dilettante' എന്നാൽ ഒരു വിഷയത്തിൽ ഗൗരവമില്ലാതെ, ഹോബി പോലെ താൽപര്യം കാണിക്കുന്ന ആൾ എന്നാണ് അർത്ഥം.\n• ശരിയായ Spelling ക്രമം: d-i-l-e-t-t-a-n-t-e — ആദ്യം 'i', പിന്നെ 'e-tt-a-n-t-e' എന്ന ക്രമമാണ് ശ്രദ്ധിക്കേണ്ടത്.\n• ഇറ്റാലിയൻ ഭാഷയിൽ നിന്ന് വന്ന word ആണ് — 'dilettare' (to delight) എന്നതിൽ നിന്ന്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: DI-LE-TTAN-TE — ഓരോ syllable-ഉം വേറിട്ട് ഓർത്തുവെക്കുക.\n• Etymology hint: Italian 'dilettare' (to delight) എന്ന word-ൽ നിന്നാണ് 'dilettante' വന്നത് — ഗൗരവമില്ലാതെ ഒരു കാര്യത്തിൽ താൽപര്യമുള്ള ആൾ എന്നാണ് അർത്ഥം.\n• ⭐ PSC ആവർത്തനം: Foreign-origin (Italian/French) spelling words PSC-യിൽ ആവർത്തിച്ച് ചോദിക്കുന്നവയാണ്.\n• ഉദാഹരണ sentences:\n1. He is a dilettante painter, not a professional. (ഗൗരവമില്ലാത്ത ചിത്രകാരൻ എന്നർത്ഥം.)\n2. Her interest in music remained that of a dilettante. (സംഗീതത്തിൽ ഹോബി മാത്രമായ താൽപര്യം.)\n3. The critics dismissed him as a mere dilettante. (ഗൗരവമില്ലാത്ത ഒരാൾ എന്ന് വിമർശകർ വിലയിരുത്തി.)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) dilattente — 'i' എന്ന letter-ന് പകരം 'a' ചേർത്തിരിക്കുന്നത് തെറ്റാണ്; ശരിയായ spelling 'dilettante' ആണ്.\n• 🪤 PSC Trap: Unstressed vowel sounds ('i' vs 'a') തിരിച്ചറിയാൻ ബുദ്ധിമുട്ടാണ്, അതാണ് ഈ trap.\n• (C) dilettente — അവസാന ഭാഗത്ത് 'a' -ക്ക് പകരം 'e' ചേർത്തത് തെറ്റാണ്.\n• 🪤 PSC Trap: 'a' ഉം 'e' ഉം ഉച്ചാരണത്തിൽ സാമ്യമുള്ളതിനാൽ എളുപ്പം confuse ചെയ്യും.\n• (D) None of the above — (A) തന്നെ ശരിയായ spelling ആയതിനാൽ ഈ option തെറ്റാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'DI-LE-TT-ANTE' എന്ന് നാല് ഭാഗങ്ങളായി വേർതിരിച്ച് ഉച്ചരിച്ച് പഠിക്കുക — 'ANTE' (മുൻപ്) എന്ന common word-ന്റെ spelling ഓർത്താൽ അവസാന ഭാഗം എളുപ്പം ഓർക്കാം.\n• Word family: dilettante, connoisseur, amateur, virtuoso — വിദേശ ഭാഷകളിൽ നിന്ന് വന്ന ഈ words എല്ലാം ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Spelling ചോദ്യങ്ങളിൽ ഓരോ option-ഉം letter-by-letter compare ചെയ്യുക — ഒരു vowel വ്യത്യാസം മാത്രമായിരിക്കും മിക്കപ്പോഴും തെറ്റ്."
+    }
+  },
+  {
+    "id": "126-2026-M-Q69",
+    "paperId": "126-2026-M",
+    "questionNumber": 69,
+    "topic": "Antonyms",
+    "questionText": "Identify the antonym of the given word.\n'alumna'",
+    "optionA": "alumnae",
+    "optionB": "alumnus",
+    "optionC": "alumni",
+    "optionD": "alumnis",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) alumnus\n• 'Alumna' എന്നാൽ ഒരു സ്ത്രീ ബിരുദധാരി (female graduate, singular) എന്നാണ് അർത്ഥം.\n• അതിന്റെ പുരുഷ-രൂപം (masculine counterpart) 'alumnus' ആണ് — ഇതാണ് ഇവിടെ 'antonym' ആയി കണക്കാക്കുന്നത് (gender-opposite word).\n• 'Alumna' ലാറ്റിൻ ഭാഷയിൽ നിന്ന് വന്ന word ആണ്; feminine singular രൂപമാണ് ഇത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: alumnUS = പുരുഷൻ, ഒരാൾ | alumnA = സ്ത്രീ, ഒരാൾ | alumnI = പലർ (പുരുഷൻ/mixed) | alumnAE = പലർ (സ്ത്രീകൾ).\n• Etymology hint: Latin ഭാഷയിൽ 'alumnus/alumna' എന്നാൽ 'വിദ്യാർത്ഥി, പോറ്റിയ കുട്ടി' എന്നാണ് അർത്ഥം — നാല് forms ഉള്ള ഒരു classic Latin-origin word ആണ്.\n• ⭐ PSC ആവർത്തനം: alumnus/alumna/alumni/alumnae ഈ gender-based Latin plurals PSC vocabulary ചോദ്യങ്ങളിൽ ആവർത്തിച്ച് വരുന്നു.\n• ഉദാഹരണ sentences:\n1. He is an alumnus of Oxford University. (പുരുഷൻ, ഒരാൾ.)\n2. She is an alumna of the same college. (സ്ത്രീ, ഒരാൾ.)\n3. All the alumni gathered for the reunion. (പലരും ഒരുമിച്ച്.)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) alumnae — ഇത് 'alumna'-യുടെ plural form ആണ് (female graduates, പലർ), antonym അല്ല.\n• 🪤 PSC Trap: 'alumna'-യോട് spelling സാമ്യമുള്ളതിനാൽ ശരി എന്ന് തോന്നിക്കും — പക്ഷേ ഇത് number മാറ്റം മാത്രമാണ്, gender മാറ്റമല്ല.\n• (C) alumni — ഇത് 'alumnus'-ന്റെ (അല്ലെങ്കിൽ mixed group-ന്റെ) plural form ആണ്, singular antonym അല്ല.\n• 🪤 PSC Trap: Plural ഉം gender-opposite ഉം തമ്മിൽ confuse ചെയ്യിക്കുന്ന classic trap.\n• (D) alumnis — ഇത് ശരിയായ ഇംഗ്ലീഷ് word അല്ല; നിലവിലില്ലാത്ത spelling ആണ്.\n• 🪤 PSC Trap: മറ്റ് forms-നോട് സാമ്യമുള്ള ഒരു fake word ചേർത്ത് confuse ചെയ്യിക്കാൻ ശ്രമിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'US = പുരുഷൻ (alumnUS), A = സ്ത്രീ (alumnA)!' — അവസാനത്തെ letter നോക്കി gender ഓർക്കുക.\n• Word family: 'alumnus' (ഒരു പുരുഷൻ), 'alumni' (പുരുഷൻ/mixed പലർ), 'alumna' (ഒരു സ്ത്രീ), 'alumnae' (സ്ത്രീകൾ പലർ) — ഈ നാല് forms ഒരു table ആയി മനസ്സിൽ ഓർത്തുവെക്കുക.\n• PSC exam strategy: Latin-origin gendered words (alumnus/alumna, fiancé/fiancée) വന്നാൽ, അവസാനത്തെ letter (-us/-a/-i/-ae) ശ്രദ്ധയോടെ നോക്കുക."
+    }
+  },
+  {
+    "id": "126-2026-M-Q70",
+    "paperId": "126-2026-M",
+    "questionNumber": 70,
+    "topic": "Idioms",
+    "questionText": "The idiom 'swan song' refers to",
+    "optionA": "a song to ridicule someone",
+    "optionB": "mimicking someone",
+    "optionC": "a person's last performance",
+    "optionD": "the call of birds",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) a person's last performance\n• 'Swan song' എന്ന idiom-ന്റെ അർത്ഥം ഒരാളുടെ അവസാനത്തെ പ്രവർത്തി അല്ലെങ്കിൽ performance എന്നാണ് — retire ചെയ്യുന്നതിന് മുമ്പുള്ള final act.\n• ഈ idiom വരുന്നത് ഒരു പഴയ വിശ്വാസത്തിൽ നിന്നാണ് — അരയന്നം (swan) മരിക്കുന്നതിന് മുമ്പ് ഒരു സുന്ദരമായ ഗാനം പാടും എന്ന myth.\n• 'His last novel was considered his swan song' എന്നാൽ 'അത് അദ്ദേഹത്തിന്റെ അവസാന കൃതി ആയിരുന്നു' എന്നാണ് അർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Swan song = ഒരാളുടെ retirement-നോ മരണത്തിനോ മുമ്പുള്ള അവസാന performance/work.\n• Idiom-ന്റെ ഉത്ഭവം: പുരാതന വിശ്വാസപ്രകാരം, അരയന്നങ്ങൾ ജീവിതത്തിൽ ഒരിക്കൽ മാത്രമേ പാടൂ — മരണത്തിന് തൊട്ടുമുമ്പ്.\n• ⭐ PSC ആവർത്തനം: Bird/animal-based idioms (swan song, wild goose chase, eagle eye) PSC idiom ചോദ്യങ്ങളിൽ സ്ഥിരമായി വരുന്നു.\n• ഉദാഹരണ sentences:\n1. This concert will be the singer's swan song. (ഗായകന്റെ അവസാന കച്ചേരി.)\n2. The film turned out to be the director's swan song. (സംവിധായകന്റെ അവസാന സിനിമ.)\n3. His final speech in Parliament was seen as his political swan song. (രാഷ്ട്രീയ ജീവിതത്തിലെ അവസാന പ്രസംഗം.)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) a song to ridicule someone — ഇത് 'lampoon' അല്ലെങ്കിൽ 'parody' എന്ന ആശയത്തോട് ചേരും, 'swan song'-മായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'song' എന്ന word കണ്ട് ഏതെങ്കിലും 'ridicule' ബന്ധപ്പെട്ട meaning തിരഞ്ഞെടുക്കാൻ പ്രേരിപ്പിക്കും.\n• (B) mimicking someone — ഇത് 'mimicry' അല്ലെങ്കിൽ 'parroting' എന്ന ആശയമാണ്, idiom-ന്റെ യഥാർത്ഥ അർത്ഥമല്ല.\n• 🪤 PSC Trap: 'swan'-നെ മറ്റ് പക്ഷികളുടെ mimicry-യുമായി തെറ്റിദ്ധരിക്കാൻ സാധ്യതയുണ്ട്.\n• (D) the call of birds — ഇത് idiom-ന്റെ literal meaning ആണ്, പക്ഷേ idiomatic meaning വേറെയാണ്.\n• 🪤 PSC Trap: Literal meaning-ലേക്ക് വീഴുന്നത് idiom ചോദ്യങ്ങളിലെ ഏറ്റവും സാധാരണ തെറ്റാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'അരയന്നം മരിക്കുന്നതിന് മുമ്പ് അവസാനമായി പാടുന്ന പാട്ട് — അതാണ് ജീവിതത്തിലെ അവസാനത്തെ performance!'\n• Word family: swan song, last hurrah, farewell performance, final bow — ഇവയെല്ലാം 'അവസാന പ്രവർത്തി' എന്ന ആശയം പങ്കിടുന്ന expressions ആണ്.\n• PSC exam strategy: Idiom ചോദ്യങ്ങളിൽ literal meaning-ൽ വീഴാതെ, idiom-ന്റെ ചരിത്രപരമായ ഉത്ഭവം (origin story) ഓർത്ത് figurative meaning കണ്ടെത്തുക."
+    }
   }
 ]

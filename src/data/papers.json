@@ -1772,5 +1772,15 @@
     "medium": "E",
     "year": "2017",
     "answerKeyStatus": "final"
+  },
+  {
+    "id": "126-2026-M",
+    "paperCode": "126/2026/OL",
+    "post": "Traffic Superintendent/Junior Assistant",
+    "date": "07-Jul-2026",
+    "medium": "M",
+    "year": "2026",
+    "categoryCode": "361/2025,496/2025",
+    "answerKeyStatus": "final"
   }
 ]
