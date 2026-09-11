@@ -1763,5 +1763,14 @@
     "year": "2026",
     "categoryCode": "746/2025,747/2025",
     "answerKeyStatus": "provisional"
+  },
+  {
+    "id": "154-2017-E",
+    "paperCode": "154/2017",
+    "post": "Armed Police Sub Inspector Trainee (SR for SC/ST) - Police (Armed Police Battalion)",
+    "date": "20-Dec-2017",
+    "medium": "E",
+    "year": "2017",
+    "answerKeyStatus": "final"
   }
 ]

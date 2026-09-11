@@ -42125,5 +42125,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Language learning happens through grammar instruction — ഇത് 'conflate' എന്ന word-ന്റെ meaning അല്ല; ഇത് ഒരു cause-effect relationship പറയുന്നു, തെറ്റിദ്ധാരണയെ അല്ല.\n• 🪤 PSC Trap: statement-ലെ 'grammar instruction' എന്ന phrase കണ്ട് surface-level ആയി match ചെയ്യുന്ന option ആണിത് — 'conflate' എന്ന word-ന്റെ കൃത്യമായ meaning അറിയാത്തവർ ഇതിൽ വീഴും.\n• (B) Language learning and grammar instruction are exactly the same thing — ഇത് statement-ന്റെ literal opposite ആണ്; 'conflated' എന്നാൽ അവ ശരിക്കും same ആണ് എന്നല്ല, മറിച്ച് ആളുകൾ അവയെ തെറ്റായി same ആയി കാണുന്നു എന്നാണ് സൂചന.\n• (D) Grammar instruction is unimportant — statement-ൽ importance-നെ കുറിച്ച് ഒന്നും പറയുന്നില്ല, ഇത് ഒരു unrelated inference മാത്രമാണ്.",
       "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"CONFLATE = CONFUSE + RELATE (തെറ്റായി)!\" — രണ്ട് വാക്കുകൾ ചേർത്ത് ഈ meaning ഓർത്തുവയ്ക്കുക.\n• Word family: conflate, equate, blur, muddle — 'തെറ്റായി ഒന്നായി കാണുക' എന്ന അർത്ഥമുള്ള ഈ words ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Reading comprehension meaning ചോദ്യങ്ങളിൽ, statement-ൽ 'conflate' പോലുള്ള negative/critical words ഉണ്ടെങ്കിൽ, ഉത്തരം meaning-ലെ 'തെറ്റിദ്ധാരണ' angle-ലേക്ക് pointing ചെയ്യും എന്ന് ഓർത്തുവയ്ക്കുക."
     }
+  },
+  {
+    "id": "154-2017-E-Q71",
+    "paperId": "154-2017-E",
+    "questionNumber": 71,
+    "topic": "Parts of Speech",
+    "questionText": "This is my book, _______ is on the table.",
+    "optionA": "yours",
+    "optionB": "your's",
+    "optionC": "your",
+    "optionD": "yours'",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) yours\n\n• 'Yours' എന്നത് possessive pronoun ആണ് — \"your book\" എന്നതിന്റെ സ്ഥാനത്ത് ഒറ്റ വാക്കായി ഉപയോഗിക്കുന്നു.\n• ഇവിടെ \"This is my book, yours is on the table\" എന്നാൽ \"your book is on the table\" എന്നർത്ഥം.\n• Possessive pronouns (mine, yours, his, hers, ours, theirs) ഒരിക്കലും apostrophe (') എടുക്കില്ല — ഇത് PSC-യിൽ ഏറ്റവും കോമൺ ആയ trap ആണ്.\n• \"It's\" പോലുള്ള contractions-മായി confuse ചെയ്യരുത് — possessive pronoun-ന് apostrophe വേണ്ട.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Possessive Pronouns = mine, yours, his, hers, its, ours, theirs → ഒരിക്കലും apostrophe (') ഉപയോഗിക്കില്ല.\n• Possessive Adjectives (my, your, his, her, its, our, their) noun-ന് മുൻപ് വരും; Possessive Pronouns സ്വയം noun-ന്റെ സ്ഥാനത്ത് നിൽക്കും.\n• Related word family: my→mine, your→yours, her→hers, our→ours, their→theirs.\n• ⭐ PSC ആവർത്തനം: Possessive pronoun vs apostrophe confusion മിക്കവാറും എല്ലാ PSC പേപ്പറിലും repeat ചെയ്യുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. This pen is mine, not yours.\n  2. Is this bag hers or theirs?\n  3. Our house is bigger than theirs.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) your's\n  • ഇങ്ങനെ ഒരു word ഇംഗ്ലീഷിൽ ഇല്ല — possessive pronoun-ന് apostrophe ചേർക്കില്ല.\n  • 🪤 PSC Trap: \"it's\" പോലുള്ള contractions കണ്ട് ശീലിച്ചവർ ഇത് confuse ചെയ്യും.\n• (C) your\n  • ഇത് possessive adjective ആണ്, noun ഇല്ലാതെ ഒറ്റയ്ക്ക് നിൽക്കാൻ പറ്റില്ല (\"your is on the table\" എന്നു പറയാൻ പറ്റില്ല).\n  • 🪤 PSC Trap: \"your\"-ഉം \"yours\"-ഉം തമ്മിലുള്ള വ്യത്യാസം അറിയാത്തവർ ഇത് തിരഞ്ഞെടുക്കും.\n• (D) yours'\n  • Possessive pronoun-ന് ശേഷം വീണ്ടും apostrophe ചേർക്കുന്നത് grammatically തെറ്റാണ്.\n  • 🪤 PSC Trap: Plural possessive noun-കളുടെ (boys') രീതി ഇവിടെയും അപ്ലൈ ചെയ്യാൻ ശ്രമിക്കുന്നവർ വീഴും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Possessive Pronouns never wear an apostrophe!\" — mine, yours, his, hers, its, ours, theirs എന്നിവ ഓർക്കുക.\n• Word family: my-mine, your-yours, her-hers, our-ours, their-theirs ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Options-ൽ apostrophe (') കണ്ടാൽ ആദ്യം സംശയിക്കുക — മിക്കവാറും അത് trap ആയിരിക്കും."
+    }
+  },
+  {
+    "id": "154-2017-E-Q72",
+    "paperId": "154-2017-E",
+    "questionNumber": 72,
+    "topic": "Articles",
+    "questionText": "Some people do not like _______ milk.",
+    "optionA": "an",
+    "optionB": "a",
+    "optionC": "the",
+    "optionD": "no article",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) no article\n\n• 'Milk' ഒരു uncountable noun ആണ് — പൊതുവായി (in general) പറയുമ്പോൾ article വേണ്ട.\n• \"Some people do not like milk\" എന്നത് milk എന്ന വസ്തുവിനെ പൊതുവേ പരാമർശിക്കുന്നു, ഒരു പ്രത്യേക milk-നെ അല്ല.\n• General statements-ൽ uncountable/plural nouns-ന് മുൻപിൽ article വേണ്ട എന്നതാണ് നിയമം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: General statement + uncountable/plural noun → NO ARTICLE.\n• Uncountable nouns (milk, water, rice, sugar, love) പൊതുവേ പറയുമ്പോൾ article എടുക്കില്ല.\n• എന്നാൽ specific ആയി പരാമർശിക്കുമ്പോൾ \"the\" വരാം: \"The milk in the fridge is spoiled.\"\n• ⭐ PSC ആവർത്തനം: Articles (a/an/the/no article) PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. Children like chocolates.\n  2. Water is essential for life.\n  3. The water in this bottle is cold.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) an\n  • 'An' consonant sound-ന് മുൻപിൽ വരില്ല, 'milk'-ന്റെ 'm' consonant sound ആണ്.\n  • 🪤 PSC Trap: 'an' എപ്പോൾ വരും എന്നത് confuse ചെയ്യുന്നവർ ഇത് തിരഞ്ഞെടുക്കും.\n• (B) a\n  • 'A' countable singular noun-ന് മുൻപിൽ വരും; 'milk' uncountable ആണ്.\n  • 🪤 PSC Trap: Countable/uncountable distinction അറിയാത്തവർ ഇവിടെ വീഴും.\n• (C) the\n  • 'The' specific ആയ ഒരു വസ്തുവിനെ പരാമർശിക്കുമ്പോൾ മാത്രം ഉപയോഗിക്കും; ഇവിടെ milk പൊതുവേ പറയുന്നതാണ്.\n  • 🪤 PSC Trap: General vs specific reference വേർതിരിക്കാൻ അറിയാത്തവർ 'the' തിരഞ്ഞെടുക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"General ആണെങ്കിൽ Article വേണ്ട\" — General statement, No article!\n• Word family: uncountable nouns (milk, water, rice, sugar, furniture, information) ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Sentence \"generally/in general/all people\" എന്ന അർത്ഥത്തിൽ ആണോ എന്ന് നോക്കുക — ആണെങ്കിൽ \"no article\" ആകും ഉത്തരം മിക്കവാറും."
+    }
+  },
+  {
+    "id": "154-2017-E-Q73",
+    "paperId": "154-2017-E",
+    "questionNumber": 73,
+    "topic": "Antonyms",
+    "questionText": "Select the antonym for the italicised word in the sentence.\nThe proposal got the __concurrence__ from the UGC within a short period.",
+    "optionA": "opposition",
+    "optionB": "disapproval",
+    "optionC": "denunciation",
+    "optionD": "discourage",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) disapproval\n\n• 'Concurrence' എന്നാൽ \"agreement\", \"consent\", ഒരുമിച്ചുള്ള അഭിപ്രായം എന്നർത്ഥം.\n• ഇതിന്റെ antonym \"disapproval\" (അനംഗീകാരം / എതിർപ്പ്) ആണ് — സമ്മതം ഇല്ലായ്മ.\n• Etymology: 'concurrence' ലാറ്റിൻ 'concurrere' (to run together) എന്നതിൽ നിന്ന് വന്നതാണ് — 'con' (together) + 'currere' (to run).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Concurrence = Agreement; Antonym = Disapproval/Disagreement.\n• Word family: concur (verb) → concurrence (noun) → concurrent (adjective).\n• ⭐ PSC ആവർത്തനം: Latin-root vocabulary words (concurrence, consensus, dissent) PSC-യിൽ ആവർത്തിച്ചു വരുന്നു.\n• Etymology hint: 'con-' (with/together) എന്ന prefix ഉള്ള വാക്കുകൾ mostly \"agreement/togetherness\" അർത്ഥം നൽകും (concord, consent, concurrence).\n• ഉദാഹരണ sentences:\n  1. The board gave its concurrence to the new policy.\n  2. There was general concurrence among the members.\n  3. His concurrence was necessary before the plan could proceed.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) opposition\n  • 'Opposition' എന്നാൽ എതിർപ്പ് / resistance എന്നർത്ഥം — 'disapproval'-നോട് അടുത്തതെങ്കിലും, formal agreement/consent-ന്റെ direct antonym അല്ല.\n  • 🪤 PSC Trap: 'opposition'-ഉം 'disapproval'-ഉം ഏകദേശം ഒരേ അർത്ഥം ഉള്ളതായി തോന്നിക്കുന്നത് കൊണ്ട് ഇത് confuse ചെയ്യിക്കും.\n• (C) denunciation\n  • 'Denunciation' എന്നാൽ പരസ്യമായി കുറ്റപ്പെടുത്തൽ/അപലപിക്കൽ എന്നർത്ഥം — വളരെ strong ആയ negative word ആണ്, 'concurrence'-ന്റെ നേരിട്ടുള്ള antonym അല്ല.\n  • 🪤 PSC Trap: Strong negative word കണ്ടാൽ അതാണ് antonym എന്ന് തെറ്റിദ്ധരിക്കും.\n• (D) discourage\n  • ഇത് verb ആണ്, 'concurrence' noun ആണ് — parts of speech match ആകുന്നില്ല.\n  • 🪤 PSC Trap: Word meaning ശ്രദ്ധിക്കാതെ, \"negative feeling\" ഉള്ള ഏത് വാക്കും ശരി എന്ന് കരുതി തിരഞ്ഞെടുക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Con-currence = agree together; Dis-approval = disagree apart\" — 'con' (കൂടെ) vs 'dis' (എതിരെ) prefix-കൾ ഓർക്കുക.\n• Word family: agreement words (concurrence, consent, assent, accord) ഉം disagreement words (dissent, disapproval, opposition) ഉം ഗ്രൂപ്പായി പഠിക്കുക.\n• PSC exam strategy: Antonym ചോദ്യങ്ങളിൽ, ഏറ്റവും exact/direct opposite ഏതാണെന്ന് നോക്കുക — similar-sounding negative words-ന്റെ trap-ൽ വീഴരുത്."
+    }
+  },
+  {
+    "id": "154-2017-E-Q74",
+    "paperId": "154-2017-E",
+    "questionNumber": 74,
+    "topic": "One Word Substitutes",
+    "questionText": "Choose the correct one word for the phrase given below :\nPlay games of chance for money, especially for high stakes",
+    "optionA": "gamble",
+    "optionB": "casino",
+    "optionC": "variegate",
+    "optionD": "usury",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) gamble\n\n• 'Gamble' എന്നാൽ \"പണത്തിനു വേണ്ടി ഭാഗ്യക്കളികൾ കളിക്കുക\" എന്നർത്ഥം — അപകടസാധ്യതയുള്ള money games.\n• Verb ആയും noun ആയും (\"to gamble\" / \"a gamble\") ഉപയോഗിക്കാം.\n• \"High stakes\" എന്ന phrase gambling-മായി direct connection ഉള്ളതാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Phrase describes an action → the one-word substitute is usually a verb/noun matching that exact action.\n• Word family: gamble (verb/noun) → gambler (person) → gambling (activity/gerund).\n• ⭐ PSC ആവർത്തനം: One Word Substitutes PSC English പേപ്പറിൽ സ്ഥിരമായി 1-2 ചോദ്യങ്ങൾ ആയി വരുന്നു.\n• Etymology hint: 'Gamble' പഴയ ഇംഗ്ലീഷ് 'gamenian' (to play, jest) എന്നതിൽ നിന്നാണ്.\n• ഉദാഹരണ sentences:\n  1. He lost all his money because he loved to gamble.\n  2. Investing in that company was a big gamble.\n  3. Gambling is illegal in many countries.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) casino\n  • ഇത് gambling നടക്കുന്ന സ്ഥലം ആണ് (a place), പ്രവൃത്തി (action) അല്ല.\n  • 🪤 PSC Trap: Gambling-മായി ബന്ധപ്പെട്ട വാക്ക് എന്ന നിലയിൽ confuse ചെയ്യും.\n• (C) variegate\n  • ഇതിന്റെ അർത്ഥം \"വൈവിധ്യമാർന്ന നിറങ്ങൾ നൽകുക\" എന്നാണ് — gambling-മായി ഒരു ബന്ധവുമില്ല.\n  • 🪤 PSC Trap: Unfamiliar വാക്ക് ആയതിനാൽ ചിലർ ഊഹിച്ച് തിരഞ്ഞെടുക്കും.\n• (D) usury\n  • ഇതിന്റെ അർത്ഥം \"അമിത പലിശയ്ക്ക് പണം കടം കൊടുക്കൽ\" എന്നാണ് — money-മായി ബന്ധമുണ്ടെങ്കിലും gambling അല്ല.\n  • 🪤 PSC Trap: \"money\"-മായി ബന്ധപ്പെട്ട വാക്ക് എന്നതിനാൽ confuse ചെയ്യും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Gamble = Game + Bet\" എന്ന് ഓർത്താൽ മതി — high stakes-ൽ കളിക്കുന്ന game.\n• Word family: money-related one-word substitutes (gamble, usury, embezzle, squander) ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Phrase-ലെ key action word (\"play\", \"money\", \"stakes\") ശ്രദ്ധിച്ച് ഏത് single word ആ action-നെ exact ആയി describe ചെയ്യുന്നു എന്ന് നോക്കുക."
+    }
+  },
+  {
+    "id": "154-2017-E-Q75",
+    "paperId": "154-2017-E",
+    "questionNumber": 75,
+    "topic": "Prepositions",
+    "questionText": "How many newspapers do you subscribe _______ ?",
+    "optionA": "to",
+    "optionB": "for",
+    "optionC": "with",
+    "optionD": "in",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) to\n\n• 'Subscribe' എന്ന verb-ന് ശേഷം സ്ഥിരമായി ഉപയോഗിക്കുന്ന preposition 'to' ആണ് — \"subscribe to a newspaper/magazine\".\n• ഇത് ഒരു fixed collocation ആണ്, മാറ്റാൻ പറ്റില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Subscribe + TO (എപ്പോഴും).\n• Related fixed prepositions: apply for, insist on, depend on, subscribe to, congratulate on.\n• ⭐ PSC ആവർത്തനം: Verb + preposition collocations PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന ഒരു topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. I subscribe to two magazines every month.\n  2. She subscribed to the online course.\n  3. Many people subscribe to this YouTube channel.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) for\n  • 'Subscribe for' എന്നത് standard usage അല്ല.\n  • 🪤 PSC Trap: 'apply for', 'pay for' പോലുള്ള verbs-മായി confuse ചെയ്ത് 'for' തിരഞ്ഞെടുക്കും.\n• (C) with\n  • 'Subscribe with' എന്ന combination ഇംഗ്ലീഷിൽ ഇല്ല.\n  • 🪤 PSC Trap: Random preposition guess ചെയ്യുന്നവർ ഇത് തിരഞ്ഞെടുക്കും.\n• (D) in\n  • 'Subscribe in' എന്നതും തെറ്റായ combination ആണ്.\n  • 🪤 PSC Trap: 'invest in' പോലുള്ള verbs-മായി confuse ചെയ്യും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Subscribe TO stay connected TO something\" — TO എപ്പോഴും ഓർക്കുക.\n• Word family: apply for, wait for, insist on, depend on, subscribe to, listen to.\n• PSC exam strategy: Verb + preposition ചോദ്യങ്ങൾ വരുമ്പോൾ ആ verb-ന്റെ fixed preposition ഏതെന്ന് മനഃപാഠമാക്കി വെക്കുക — ഇത് guess ചെയ്യേണ്ട topic അല്ല, memorize ചെയ്യേണ്ടതാണ്."
+    }
+  },
+  {
+    "id": "154-2017-E-Q76",
+    "paperId": "154-2017-E",
+    "questionNumber": 76,
+    "topic": "Infinitive and Gerunds",
+    "questionText": "We all look forward to _______ a picnic in the park.",
+    "optionA": "have",
+    "optionB": "have had",
+    "optionC": "having",
+    "optionD": "be having",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) having\n\n• 'Look forward to' എന്ന phrase-ലെ 'to' ഒരു preposition ആണ്, infinitive marker അല്ല — അതുകൊണ്ട് ശേഷം gerund (verb+ing) വരണം.\n• \"We all look forward to having a picnic\" ശരിയായ ഘടനയാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Look forward TO + V-ING (gerund), never TO + V1.\n• 'To' preposition ആയി വരുന്ന phrases: look forward to, object to, used to (be used to), get used to — ഇവയ്ക്ക് ശേഷം gerund വേണം.\n• ⭐ PSC ആവർത്തനം: \"Look forward to + gerund\" PSC English പേപ്പറുകളിൽ ആവർത്തിച്ചു വരുന്ന ഒരു classic trap ആണ്.\n• ഉദാഹരണ sentences:\n  1. I look forward to hearing from you.\n  2. She looks forward to meeting her old friends.\n  3. They are looking forward to visiting Kerala.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) have\n  • ഇത് base form (V1) ആണ് — 'to' preposition ആയതിനാൽ ഇത് ചേരില്ല.\n  • 🪤 PSC Trap: 'to' കണ്ടാൽ അത് infinitive marker ആണെന്ന് കരുതി base verb ഇടുന്നവർ വീഴും.\n• (B) have had\n  • ഇത് perfect infinitive ഘടനയാണ്, ഇവിടെ ചേരില്ല.\n  • 🪤 PSC Trap: Complex tense ഘടനകൾ ശരിയാണെന്ന് തെറ്റിദ്ധരിക്കും.\n• (D) be having\n  • ഇത് grammatically ശരിയായ ഘടന അല്ല ഈ context-ൽ.\n  • 🪤 PSC Trap: '-ing' ഉള്ളതുകൊണ്ട് ശരി എന്ന് തെറ്റിദ്ധരിക്കും, പക്ഷേ 'be' അധികമായി വരുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"TO here is a preposition, not an infinitive — so add -ING!\" — look forward TO, object TO, used TO (habit).\n• Word family: phrases where 'to' is a preposition (look forward to, object to, be accustomed to, in addition to).\n• PSC exam strategy: 'To' കണ്ടാൽ ഉടനെ base verb ഇടരുത് — ആ phrase 'to' preposition ആണോ infinitive marker ആണോ എന്ന് ആദ്യം തിരിച്ചറിയുക."
+    }
+  },
+  {
+    "id": "154-2017-E-Q77",
+    "paperId": "154-2017-E",
+    "questionNumber": 77,
+    "topic": "Question Tags",
+    "questionText": "She seldom phones me, ____ ?",
+    "optionA": "isn't she?",
+    "optionB": "does she?",
+    "optionC": "is she?",
+    "optionD": "doesn't she?",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) does she?\n\n• 'Seldom' എന്നത് ഒരു negative adverb ആണ് (rarely, hardly പോലെ) — sentence-ന്റെ അർത്ഥം negative ആണ്.\n• Negative sentence-ന് positive question tag വേണം എന്നതാണ് നിയമം.\n• Main verb 'phones' simple present ആണ്, subject 'She' ആയതിനാൽ auxiliary 'does' ഉപയോഗിക്കണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Positive sentence → Negative tag; Negative sentence → Positive tag.\n• 'Seldom', 'rarely', 'hardly', 'never', 'scarcely', 'few', 'little' എന്നിവ negative meaning ഉള്ള adverbs ആണ് — ഇവ ഉള്ള sentence-ന് positive tag വേണം.\n• ⭐ PSC ആവർത്തനം: Question Tags-ൽ hidden negatives (seldom, hardly, never) PSC-യിലെ ഏറ്റവും കോമൺ trap topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. He hardly ever comes here, does he?\n  2. You never listen to me, do you?\n  3. She rarely smiles, does she?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) isn't she?\n  • Main verb 'phones' ആണ്, 'is' അല്ല — auxiliary verb match ആകുന്നില്ല.\n  • 🪤 PSC Trap: Subject 'she' കണ്ട് ഉടനെ 'is/isn't' ഉപയോഗിക്കുന്നവർ ഇത് തിരഞ്ഞെടുക്കും.\n• (C) is she?\n  • ഇതും തെറ്റായ auxiliary ആണ്.\n  • 🪤 PSC Trap: Tag positive ആണെന്ന് മാത്രം ശ്രദ്ധിച്ച്, verb match ചെയ്യാത്തത് ശ്രദ്ധിക്കാതെ പോകും.\n• (D) doesn't she?\n  • 'Seldom' negative ആയതിനാൽ tag negative ആകാൻ പാടില്ല.\n  • 🪤 PSC Trap: 'Seldom' ഒരു hidden negative ആണെന്ന് തിരിച്ചറിയാത്തവർ ഇവിടെ വീഴും — ഇത് ഏറ്റവും കോമൺ ആയ തെറ്റാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"SHiN Words are secretly Negative!\" — Seldom, Hardly, Never, Scarcely, Rarely — ഇവ കണ്ടാൽ ഉടനെ ഓർക്കുക: tag പോസിറ്റീവ് ആയിരിക്കണം.\n• Word family: hidden negative adverbs (seldom, hardly, scarcely, rarely, never, barely, few, little) ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Question tag ചോദ്യങ്ങളിൽ ആദ്യം sentence-ൽ hidden negative word ഉണ്ടോ എന്ന് നോക്കുക, എന്നിട്ട് മാത്രം auxiliary verb തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "154-2017-E-Q78",
+    "paperId": "154-2017-E",
+    "questionNumber": 78,
+    "topic": "Degrees of Comparison",
+    "questionText": "Rani is the _______ of all the girls in the school.",
+    "optionA": "taller",
+    "optionB": "tall",
+    "optionC": "tallest",
+    "optionD": "more tall",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) tallest\n\n• \"of all the girls\" എന്ന phrase മൂന്നോ അതിലധികമോ ആളുകൾ തമ്മിലുള്ള താരതമ്യം സൂചിപ്പിക്കുന്നു — അതിനാൽ superlative degree ('tallest') വേണം.\n• Superlative-ന് മുൻപ് 'the' ഉം ('the tallest') ശരിയായ ഘടനയാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: \"of all/in the group\" → THE + Superlative (-est/most).\n• Two things compare = Comparative (taller than); Three or more = Superlative (the tallest).\n• ⭐ PSC ആവർത്തനം: Degrees of Comparison PSC English-ൽ സ്ഥിരമായി ചോദിക്കുന്ന topic ആണ്, especially \"of all\" / \"than any other\" പോലുള്ള signal phrases.\n• ഉദാഹരണ sentences:\n  1. He is the tallest boy in the class.\n  2. This is the most beautiful place I have seen.\n  3. She is taller than her sister. (comparative, two persons only)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) taller\n  • ഇത് comparative degree ആണ് — two persons/things തമ്മിൽ താരതമ്യം ചെയ്യുമ്പോൾ മാത്രം ഉപയോഗിക്കും; ഇവിടെ \"all the girls\" (group) ആണ്.\n  • 🪤 PSC Trap: '-er' ending കണ്ട് ഉടനെ ശരി എന്ന് കരുതും, പക്ഷേ \"of all\" signal ശ്രദ്ധിക്കില്ല.\n• (B) tall\n  • ഇത് positive degree ആണ്, comparison സൂചിപ്പിക്കുന്നില്ല.\n  • 🪤 PSC Trap: ഏറ്റവും simple form ആയതിനാൽ ചിലർ ശരി എന്ന് കരുതും.\n• (D) more tall\n  • Single-syllable adjectives (tall, big, fast)-ന് '-er/-est' ചേർക്കണം, 'more/most' ചേർക്കില്ല.\n  • 🪤 PSC Trap: 'more beautiful' പോലുള്ള adjectives-ന്റെ രീതി single-syllable word-ലും അപ്ലൈ ചെയ്യാൻ ശ്രമിക്കുന്നവർ വീഴും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ALL means SUPERLATIVE ALWAYS!\" — 'of all', 'in the world', 'among all' കണ്ടാൽ ഉടനെ superlative ('-est'/'most') ഓർക്കുക.\n• Word family: single-syllable adjectives take -er/-est (tall-taller-tallest); two/three-syllable adjectives take more/most.\n• PSC exam strategy: Sentence-ൽ \"of all\", \"in the\", \"among\" എന്നീ signal words ഉണ്ടോ എന്ന് ആദ്യം നോക്കുക — ഉണ്ടെങ്കിൽ ഉത്തരം superlative ആയിരിക്കും."
+    }
+  },
+  {
+    "id": "154-2017-E-Q79",
+    "paperId": "154-2017-E",
+    "questionNumber": 79,
+    "topic": "Auxiliary Verbs",
+    "questionText": "Sheena _______ visit her uncle when he was here.",
+    "optionA": "will",
+    "optionB": "ought to",
+    "optionC": "can",
+    "optionD": "used to",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) used to\n\n• \"when he was here\" എന്നത് past time-ലെ ഒരു habitual/repeated action-നെ സൂചിപ്പിക്കുന്നു.\n• 'Used to' എന്ന structure past-ൽ പതിവായി നടന്നിരുന്ന, ഇപ്പോൾ നടക്കാത്ത ഒരു കാര്യത്തെ സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: USED TO + V1 = Past habitual action (ഇപ്പോൾ നടക്കുന്നില്ല).\n• 'Used to' എപ്പോഴും base verb (V1) എടുക്കും: used to visit, used to play, used to live.\n• ⭐ PSC ആവർത്തനം: 'Used to' vs 'would' vs modal verbs (will/can/ought to) PSC-യിൽ ആവർത്തിച്ചു വരുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. I used to play cricket every evening.\n  2. She used to live in Kochi before she moved to Delhi.\n  3. They used to visit us every summer.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) will\n  • 'Will' future tense-നെ സൂചിപ്പിക്കുന്നു, പക്ഷേ sentence past time (\"when he was here\") ആണ് പറയുന്നത്.\n  • 🪤 PSC Trap: Tense context ശ്രദ്ധിക്കാതെ modal verb ഏതെങ്കിലും ശരി എന്ന് കരുതും.\n• (B) ought to\n  • ഇത് obligation/advice സൂചിപ്പിക്കുന്നു (\"should\"), habitual past action അല്ല.\n  • 🪤 PSC Trap: Modal verb ആയതിനാൽ ശരി എന്ന് കരുതും, പക്ഷേ meaning match ആകുന്നില്ല.\n• (C) can\n  • 'Can' ability/permission സൂചിപ്പിക്കുന്നു, past habitual action അല്ല.\n  • 🪤 PSC Trap: 'could' (past ability) ആണെങ്കിൽ ചിലപ്പോൾ ശരിയാകാമായിരുന്നു, പക്ഷേ 'can' present tense ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"USED TO = USED to happen, but NOT anymore!\" — past habit-ന് used to ഓർക്കുക.\n• Word family: modal/semi-modal verbs (will, can, ought to, used to, would) തമ്മിലുള്ള meaning difference ഗ്രൂപ്പായി പഠിക്കുക.\n• PSC exam strategy: Sentence-ൽ past time reference (\"when he was here\", \"in those days\", \"as a child\") ഉണ്ടെങ്കിൽ 'used to' ആണ് സാധാരണ ശരിയായ ഉത്തരം."
+    }
+  },
+  {
+    "id": "154-2017-E-Q80",
+    "paperId": "154-2017-E",
+    "questionNumber": 80,
+    "topic": "Correction of Sentences",
+    "questionText": "Choose the correct sentence.",
+    "optionA": "The one thing about tolerating artists is disturbed while working.",
+    "optionB": "The one thing that artists can't tolerate is being disturbed while at work.",
+    "optionC": "Tolerating artists while working is a disturbing thing.",
+    "optionD": "The one thing that artists don't tolerate is being disturbed while working.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) The one thing that artists can't tolerate is being disturbed while at work.\n\n• ഈ sentence-ന്റെ ഘടന grammatically correct ഉം logically clear ഉം ആണ്: \"The one thing that + Subject + Verb + is + Complement\" എന്ന cleft-sentence structure ശരിയായി ഉപയോഗിച്ചിരിക്കുന്നു.\n• \"artists can't tolerate\" ഒരു relative clause ആയി \"the one thing\" എന്നതിനെ describe ചെയ്യുന്നു, \"is being disturbed while at work\" ആണ് അതിന്റെ complement.\n• Subject-verb agreement, tense, and logical flow എല്ലാം ശരിയായി വരുന്നു — ഇത് ആണ് PSC-യുടെ official Final Answer Key പ്രകാരമുള്ള ഉത്തരം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: \"The one thing that + Subject + Verb + is + Complement\" — cleft sentence structure ശരിയായി പാലിക്കണം.\n• Subject (\"the one thing that artists can't tolerate\") ഉം verb (\"is\") ഉം complement (\"being disturbed...\") ഉം logically ബന്ധപ്പെട്ടിരിക്കണം.\n• ⭐ PSC ആവർത്തനം: \"Choose the correct sentence\" ചോദ്യങ്ങൾ PSC-യിൽ subject-verb agreement, dangling modifiers, parallel structure എന്നിവ test ചെയ്യാൻ ഉപയോഗിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. The one thing that she fears is failure.\n  2. What he needs most is patience.\n  3. All that glitters is not gold.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) The one thing about tolerating artists is disturbed while working.\n  • ഇവിടെ \"the one thing about tolerating artists\" എന്നത് \"artists-നെ tolerate ചെയ്യുന്ന കാര്യം\" എന്നാണ് അർത്ഥമാക്കുന്നത് — ഉദ്ദേശിച്ച അർത്ഥത്തിൽ നിന്ന് വ്യത്യസ്തമായ, logically confusing structure ആണ്.\n  • 🪤 PSC Trap: Sentence-ന്റെ ഉപരിപ്ലവമായ സാമ്യം കണ്ട് ശരി എന്ന് തെറ്റിദ്ധരിക്കും.\n• (C) Tolerating artists while working is a disturbing thing.\n  • ഇതിന്റെ അർത്ഥം \"artists-നെ tolerate ചെയ്യുന്നത് ഒരു disturbing കാര്യമാണ്\" എന്നാണ് — original ഉദ്ദേശ്യത്തിൽ നിന്ന് പൂർണ്ണമായും മാറിപ്പോയി.\n  • 🪤 PSC Trap: Similar words ഉപയോഗിച്ചതിനാൽ ശരി എന്ന് തോന്നിക്കും, പക്ഷേ meaning പൂർണ്ണമായി മാറുന്നു.\n• (D) The one thing that artists don't tolerate is being disturbed while working.\n  • ഘടന ശരിയാണെങ്കിലും, \"don't tolerate\" എന്നത് \"can't tolerate\" എന്നതിനെക്കാൾ കൃത്യത കുറവാണ്; PSC-യുടെ official key പ്രകാരം (B) ആണ് ഏറ്റവും ശരിയായ ഉത്തരം.\n  • 🪤 PSC Trap: (B)-യും (D)-യും വളരെ സാമ്യമുള്ളതിനാൽ confuse ചെയ്യും — സൂക്ഷ്മമായ word choice (\"can't\" vs \"don't\") ശ്രദ്ധിക്കണം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Cleft sentence (\"The one thing that... is...\") വായിക്കുമ്പോൾ, ആദ്യം അതിന്റെ core meaning പിടിച്ചെടുക്കുക, എന്നിട്ട് ഏത് option ആ meaning-നെ ഏറ്റവും കൃത്യമായി express ചെയ്യുന്നു എന്ന് നോക്കുക.\n• Word family: similar cleft structures (\"What I need is...\", \"The reason why... is...\") ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: \"Choose the correct sentence\" ചോദ്യങ്ങളിൽ options തമ്മിൽ വളരെ ചെറിയ വ്യത്യാസങ്ങൾ ഉണ്ടാകും — ഓരോ option-ഉം ശ്രദ്ധയോടെ വായിച്ച് meaning-ലെ വ്യത്യാസം കണ്ടെത്തുക."
+    }
   }
 ]
