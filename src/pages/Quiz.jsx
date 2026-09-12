@@ -354,13 +354,16 @@ function QuizSetup({ onStart, needsSignup }) {
   const [secsPerQ, setSecsPerQ] = useState(30)
   const { bookmarks } = useBookmarks()
   const { getAllResults, getMistakeIds } = useResults()
-  const [mistakeIds, setMistakeIds] = useState([])
+  const [mistakeIds, setMistakeIds] = useState([]) // capped retry pool (what Start Quiz actually uses)
+  const [totalMistakeIds, setTotalMistakeIds] = useState([]) // uncapped — for "X waiting behind the cap"
 
   // Load past-mistake question IDs (localStorage + Firestore if logged in)
   useEffect(() => {
     let alive = true
     getAllResults().then(results => {
-      if (alive) setMistakeIds(getMistakeIds(results))
+      if (!alive) return
+      setMistakeIds(getMistakeIds(results))
+      setTotalMistakeIds(getMistakeIds(results, { cap: null }))
     })
     return () => { alive = false }
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -390,6 +393,14 @@ function QuizSetup({ onStart, needsSignup }) {
   const usableMistakeCount = useMemo(
     () => ALL_QUESTIONS.filter(q => mistakeIds.includes(q.id) && !isDeletedByPsc(q)).length,
     [mistakeIds]
+  )
+  // Uncapped usable count — lets the card explain why "to retry" can stay
+  // pinned at the cap (e.g. 50) even after clearing some: there are more
+  // than `cap` questions currently wrong, so fixed ones are immediately
+  // backfilled by the next-most-recent misses waiting behind the cutoff.
+  const usableTotalMistakeCount = useMemo(
+    () => ALL_QUESTIONS.filter(q => totalMistakeIds.includes(q.id) && !isDeletedByPsc(q)).length,
+    [totalMistakeIds]
   )
 
   const availableQs = useMemo(() => {
@@ -445,13 +456,20 @@ function QuizSetup({ onStart, needsSignup }) {
                 : usableBookmarkCount < bookmarks.length
                   ? `${usableBookmarkCount} usable (${bookmarks.length - usableBookmarkCount} cancelled)`
                   : `${bookmarks.length} bookmarked` },
-            { id: 'mistakes', label: '❌ Mistakes', sub: mistakeIds.length === 0
-              ? 'No mistakes yet'
-              : usableMistakeCount === 0
-                ? `All ${mistakeIds.length} cancelled by PSC`
-                : usableMistakeCount < mistakeIds.length
-                  ? `${usableMistakeCount} to retry (${mistakeIds.length - usableMistakeCount} cancelled)`
-                  : `${mistakeIds.length} to retry` },
+            { id: 'mistakes', label: '❌ Mistakes', sub: (() => {
+              if (mistakeIds.length === 0) return 'No mistakes yet'
+              if (usableMistakeCount === 0) return `All ${mistakeIds.length} cancelled by PSC`
+              const cancelledNote = usableMistakeCount < mistakeIds.length
+                ? ` (${mistakeIds.length - usableMistakeCount} cancelled)`
+                : ''
+              // usableTotalMistakeCount can exceed usableMistakeCount because the
+              // retry pool is capped — clearing some just pulls in the next-most-
+              // recent misses waiting behind the cap, so the count can stay put.
+              const capNote = usableTotalMistakeCount > usableMistakeCount
+                ? ` of ${usableTotalMistakeCount}`
+                : ''
+              return `${usableMistakeCount}${capNote} to retry${cancelledNote}`
+            })() },
           ].map(m => (
             <button key={m.id} onClick={() => setMode(m.id)}
               className="p-3 rounded-xl text-left border-2 transition-all"
@@ -561,7 +579,14 @@ function QuizSetup({ onStart, needsSignup }) {
           {mistakeIds.length - usableMistakeCount} of your {mistakeIds.length} past mistake{mistakeIds.length - usableMistakeCount === 1 ? '' : 's'} {mistakeIds.length - usableMistakeCount === 1 ? 'was' : 'were'} later cancelled by PSC in the Final Answer Key, so {mistakeIds.length - usableMistakeCount === 1 ? "it isn't" : "they aren't"} included here.
         </div>
       )}
-      {!(mode === 'saved' && bookmarks.length > usableBookmarkCount) && !(mode === 'mistakes' && mistakeIds.length > usableMistakeCount) && (
+      {mode === 'mistakes' && usableTotalMistakeCount > usableMistakeCount && (
+        <div className="text-xs mb-3" style={{ color: 'var(--text2)' }}>
+          You're currently getting {usableTotalMistakeCount} questions wrong in total — only the {usableMistakeCount} most recent are queued here at once. Clear some and the next-oldest ones move in, so this count can stay the same even as you improve.
+        </div>
+      )}
+      {!(mode === 'saved' && bookmarks.length > usableBookmarkCount) &&
+       !(mode === 'mistakes' && mistakeIds.length > usableMistakeCount) &&
+       !(mode === 'mistakes' && usableTotalMistakeCount > usableMistakeCount) && (
         <div className="mb-3" />
       )}
 

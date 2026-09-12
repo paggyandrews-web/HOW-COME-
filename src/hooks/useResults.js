@@ -109,11 +109,13 @@ export function useResults() {
       .sort((a, b) => a.pct - b.pct) // weakest first
   }
 
-  // Question IDs whose MOST RECENT attempt was wrong, capped at the
-  // MISTAKES_LIMIT most recently missed. Answering a question correctly later
-  // still removes it from the list; the cap only stops the retry pool growing
-  // without bound, so old mistakes don't crowd out what you just got wrong.
-  function getMistakeIds(results) {
+  // Question IDs whose MOST RECENT attempt was wrong, sorted most-recently-
+  // missed first. Answering a question correctly later still removes it from
+  // the list. Pass { cap: MISTAKES_LIMIT } to get the bounded retry pool
+  // (default — the cap stops it growing without bound, so old mistakes don't
+  // crowd out what you just got wrong); pass { cap: null } for the full,
+  // uncapped list so the UI can show how many are waiting behind the cap.
+  function getMistakeIds(results, { cap = MISTAKES_LIMIT } = {}) {
     const lastOutcome = {}
     const sorted = [...results].sort((a, b) => (a.date || '').localeCompare(b.date || ''))
     sorted.forEach(result => {
@@ -121,11 +123,11 @@ export function useResults() {
         if (id) lastOutcome[id] = { correct, date: result.date || '' }
       })
     })
-    return Object.entries(lastOutcome)
+    const allWrong = Object.entries(lastOutcome)
       .filter(([, v]) => !v.correct)
       .sort((a, b) => b[1].date.localeCompare(a[1].date)) // most recently missed first
-      .slice(0, MISTAKES_LIMIT)
       .map(([id]) => id)
+    return cap ? allWrong.slice(0, cap) : allWrong
   }
 
   return { saveResult, getAllResults, getTopicStats, getMistakeIds }
