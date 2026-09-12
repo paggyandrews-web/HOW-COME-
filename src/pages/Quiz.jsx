@@ -966,6 +966,27 @@ export default function Quiz() {
     goToQuestion(current - 1)
   }
 
+  // Save & Exit — lets a quiz (esp. a long Mistakes retry pool) be left
+  // partway through. Only the questions actually attended get saved, so an
+  // unanswered question keeps whatever outcome it already had in history
+  // instead of being recorded as a fresh wrong answer. This is what lets the
+  // Mistakes count shrink even when you don't finish all of them in one go.
+  function handleSaveExit() {
+    const finalAnswers = [...answers]
+    finalAnswers[current] = selected ?? answers[current]
+    const attended = finalAnswers
+      .map((ans, i) => ({ ans, q: quizData.questions[i] }))
+      .filter(({ ans }) => ans != null)
+
+    if (attended.length > 0) {
+      saveResult(attended.map(a => a.q), attended.map(a => a.ans), quizData.mode)
+      updateStreak()
+    }
+    setStreakMilestone(null)
+    setQuizData(null)
+    setQuizState('setup')
+  }
+
   // Jump directly to any question (practice + browse — free navigation,
   // same idea as the Mock exam's question palette). Not used in timed mode,
   // which is a one-way, per-question-timer flow.
@@ -1007,11 +1028,19 @@ export default function Quiz() {
     <div className="max-w-2xl mx-auto px-4 py-6">
       <Confetti active={showConfetti} />
       {/* Header */}
-      <div className="flex items-center justify-between mb-3 text-sm sticky top-14 z-10 rounded-lg px-3 py-2"
+      <div className="flex items-center justify-between gap-2 mb-3 text-sm sticky top-14 z-10 rounded-lg px-3 py-2 flex-wrap"
         style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>
         <span className="font-semibold" style={{ color: 'var(--text)' }}>Question {current + 1} of {quizData.questions.length}</span>
         <span className="text-xs" style={{ color: 'var(--text2)' }}>{answers.filter(Boolean).length}/{quizData.questions.length} answered</span>
         <span style={{ color: 'var(--accent)' }} className="font-medium">{q.paperId}</span>
+        {!isBrowse && (
+          <button onClick={handleSaveExit}
+            title="Save your progress and exit — only answered questions are saved"
+            className="text-xs font-semibold shrink-0 px-2 py-1 rounded-lg w-full"
+            style={{ color: 'var(--accent)', border: '1px solid var(--border)' }}>
+            💾 Save & Exit
+          </button>
+        )}
       </div>
 
       {/* Progress */}
