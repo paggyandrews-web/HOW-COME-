@@ -1792,5 +1792,14 @@
     "year": "2026",
     "categoryCode": "220/2025,472/2025",
     "answerKeyStatus": "final"
+  },
+  {
+    "id": "152-2017-E",
+    "paperCode": "152/2017",
+    "post": "Assistant (Kannada Knowing) - Kerala Public Service Commission",
+    "date": "18-Dec-2017",
+    "medium": "E",
+    "year": "2017",
+    "answerKeyStatus": "final"
   }
 ]

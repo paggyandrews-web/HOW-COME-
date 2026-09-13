@@ -42737,5 +42737,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Pernisious — 'ci' -ന് പകരം 'si' ചേർത്തത് തെറ്റാണ്; ശരിയായ spelling 'pernicious' ആണ്.\n• 🪤 PSC Trap: 'ci' ഉം 'si' ഉം ഉച്ചാരണത്തിൽ സാമ്യമുള്ളതിനാൽ എളുപ്പം confuse ചെയ്യും.\n• (B) Perniscious — ഇവിടെ ഒരു extra 's' letter തെറ്റായി ചേർത്തിരിക്കുന്നു ('ns' combination).\n• 🪤 PSC Trap: അധിക letter ചേർത്ത് ശരിയായി തോന്നിക്കുന്ന spelling trap ആണ്.\n• (C) Pernishious — 'ci' -ന് പകരം 'shi' ചേർത്തത് തെറ്റാണ്; ഉച്ചാരണം സമാനമാണെങ്കിലും spelling തെറ്റാണ്.\n• 🪤 PSC Trap: ഉച്ചാരണം ('sh' sound) കണ്ട് spelling ഊഹിച്ച് എഴുതുന്നത് ഈ തെറ്റിലേക്ക് നയിക്കും.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'PER-NI-CIOUS — CIOUS എന്ന common suffix ഓർത്താൽ മതി, precious/vicious എന്നിവ എഴുതുന്ന അതേ രീതി തന്നെ!'\n• Word family: 'pernicious' (ക്രമേണ ദോഷകരം), 'vicious' (ക്രൂരമായ), 'precious' (വിലപ്പെട്ട), 'gracious' (ദയാലുവായ), 'spacious' (വിശാലമായ) — ഈ '-cious' suffix ഉള്ള words ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: '-cious/-tious/-sious' spelling ചോദ്യങ്ങളിൽ suffix pattern ആദ്യം മനസ്സിൽ ഉറപ്പിച്ചുവെക്കുക, എന്നിട്ട് ബാക്കിയുള്ള letters ശ്രദ്ധയോടെ compare ചെയ്യുക."
     }
+  },
+  {
+    "id": "152-2017-E-Q71",
+    "paperId": "152-2017-E",
+    "questionNumber": 71,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "The number of teachers _______ increasing in some States.",
+    "optionA": "is",
+    "optionB": "are",
+    "optionC": "were",
+    "optionD": "have been",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) is\n\n• 'The number of teachers' എന്ന subject-ന്റെ യഥാർത്ഥ തലവൻ (head word) 'number' ആണ് — 'teachers' എന്നത് വെറും of-phrase മാത്രം, ഇത് singular ആണ്.\n• Singular subject ആയതിനാൽ singular verb 'is' തന്നെ വേണം — 'is increasing' എന്നത് ശരിയായ present continuous form ആണ്.\n• 'A number of' (അനേകം എന്നർത്ഥം, plural) ഉം 'the number of' (എണ്ണം, singular) ഉം തമ്മിലുള്ള വ്യത്യാസം ഇവിടെ ശ്രദ്ധിക്കണം — ഇവിടെ 'the number of' ആയതിനാൽ singular verb മാത്രം ശരി.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'The number of' + plural noun → SINGULAR verb (is/was/has); 'A number of' + plural noun → PLURAL verb (are/were/have).\n• 'The number of' എന്നത് ഒരു definite count-നെ സൂചിപ്പിക്കുന്നു, അതിനാൽ 'number' തന്നെയാണ് യഥാർത്ഥ subject — plural noun ('teachers') കണ്ട് ആശയക്കുഴപ്പം വേണ്ട.\n• അതേ family-യിൽ പെട്ട വാക്കുകൾ: 'the amount of' (തുക), 'the total of' (ആകെത്തുക) — ഇവയും ഇതേ rule തന്നെ പിന്തുടരും.\n• ⭐ PSC ആവർത്തനം: 'The number of' vs 'A number of' എന്ന confusion മിക്കവാറും എല്ലാ PSC പേപ്പറിലും ആവർത്തിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. The number of students is increasing every year. (വിദ്യാർത്ഥികളുടെ എണ്ണം കൂടുന്നു — singular)\n  2. A number of students are absent today. (അനേകം വിദ്യാർത്ഥികൾ ഇന്ന് ഇല്ല — plural)\n  3. The number of complaints was very high last month. (പരാതികളുടെ എണ്ണം കൂടുതലായിരുന്നു — singular)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) are\n  • Plural verb ആണ്, പക്ഷെ subject 'the number' singular ആണ്.\n  • 🪤 PSC Trap: 'teachers' എന്ന plural noun കണ്ട് plural verb എടുക്കുന്നത് ഏറ്റവും സാധാരണ തെറ്റാണ്.\n• (C) were\n  • Past tense form ആണ്, sentence-ന്റെ tense (present continuous ആശയം) മായി ചേരില്ല, plural-ഉം ആണ്.\n  • 🪤 PSC Trap: tense-ഉം agreement-ഉം രണ്ടും തെറ്റായതിനാൽ ഒഴിവാക്കണം.\n• (D) have been\n  • Present perfect continuous ആണ്, ഇവിടെ plural auxiliary ('have') ഉപയോഗിക്കുന്നു — subject singular ആയതിനാൽ 'has been' വേണ്ടിയിരുന്നു.\n  • 🪤 PSC Trap: 'have been increasing' ശരിയായ structure പോലെ തോന്നും, പക്ഷെ singular subject-ന് 'has been' ആണ് വേണ്ടത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NUMBER എന്ന വാക്കാണ് ഇവിടെ യഥാർത്ഥ ബോസ്, ശേഷം വരുന്ന plural noun ബോസ് അല്ല!' — 'the number of' കണ്ടാൽ ഉടനെ singular verb ('is/was/has') മനസ്സിൽ ഓർത്തുവയ്ക്കുക.\n• Word family: 'the number of', 'the amount of', 'the price of' — ഈ phrases എല്ലാം singular verb മാത്രം എടുക്കും എന്ന് ഓർക്കുക.\n• PSC exam strategy: 'The number of' / 'A number of' കണ്ടാൽ ആദ്യം ഏതാണെന്ന് സൂക്ഷ്മമായി നോക്കുക — 'The' ആണെങ്കിൽ singular verb, 'A' ആണെങ്കിൽ plural verb എന്ന് ഉറപ്പിച്ചു തീരുമാനിക്കുക."
+    }
+  },
+  {
+    "id": "152-2017-E-Q72",
+    "paperId": "152-2017-E",
+    "questionNumber": 72,
+    "topic": "Prepositions",
+    "questionText": "The officials were not ready to cater _______ the needs of the employers.",
+    "optionA": "against",
+    "optionB": "upon",
+    "optionC": "with",
+    "optionD": "to",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) to\n\n• 'Cater to' എന്നത് ഒരു fixed preposition collocation ആണ് — ആരുടെയെങ്കിലും ആവശ്യങ്ങൾ നിറവേറ്റുക എന്നർത്ഥം.\n• 'Cater to the needs of' എന്നത് സ്ഥിരമായി ഒരുമിച്ച് ഉപയോഗിക്കുന്ന phrase ആണ്, ഇത് മാറ്റാൻ പറ്റില്ല.\n• ഈ sentence-ന്റെ അർത്ഥം: 'ഉദ്യോഗസ്ഥർ തൊഴിലുടമകളുടെ ആവശ്യങ്ങൾ നിറവേറ്റാൻ തയ്യാറായിരുന്നില്ല' എന്നാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: cater TO (someone's needs/requirements/tastes) — എപ്പോഴും 'to' മാത്രം, വേറൊരു preposition ചേരില്ല.\n• Fixed collocation ആയതിനാൽ ഇത് മാറ്റാൻ പറ്റില്ല — 'cater for' എന്നത് British English-ൽ 'ഒരു ചടങ്ങിന് ഭക്ഷണം/സേവനം നൽകുക' എന്ന വേറൊരു അർത്ഥത്തിൽ ഉപയോഗിക്കും, ഇവിടെ ചേരില്ല.\n• ഇതേ family-യിൽ വരുന്ന 'to' എടുക്കുന്ന verbs: attend to (ശ്രദ്ധിക്കുക), listen to (കേൾക്കുക), respond to (പ്രതികരിക്കുക), appeal to (അഭ്യർത്ഥിക്കുക).\n• ⭐ PSC ആവർത്തനം: Preposition collocations PSC-യിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന topic-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n  1. The new policy caters to the needs of small farmers. (ചെറുകിട കർഷകരുടെ ആവശ്യങ്ങൾ നിറവേറ്റുന്നു)\n  2. This school caters to students with special needs. (പ്രത്യേക ആവശ്യങ്ങളുള്ള കുട്ടികളെ പരിഗണിക്കുന്നു)\n  3. The restaurant caters to a wide range of tastes. (പല തരം അഭിരുചികളും തൃപ്തിപ്പെടുത്തുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) against\n  • 'Cater against' എന്നൊരു phrase ഇംഗ്ലീഷിൽ നിലവിലില്ല.\n  • 🪤 PSC Trap: 'against' എന്നത് opposition സൂചിപ്പിക്കുന്ന preposition ആണ്, ഇവിടെ യോജിക്കില്ല.\n• (B) upon\n  • 'Cater upon' എന്നതും തെറ്റായ collocation ആണ്.\n  • 🪤 PSC Trap: 'depend upon', 'rely upon' പോലുള്ള phrases-മായി confuse ചെയ്ത് ഇത് തിരഞ്ഞെടുക്കാം.\n• (C) with\n  • 'Cater with' എന്നത് standard usage അല്ല.\n  • 🪤 PSC Trap: 'comply with', 'deal with' പോലുള്ള phrases ഓർത്ത് 'with' തിരഞ്ഞെടുക്കുന്നവർ വീഴും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Cater TO the needs' — TO എപ്പോഴും ഒപ്പം നടക്കുന്ന ഉറ്റ കൂട്ടുകാരൻ ആണെന്ന് ഓർത്തുവയ്ക്കുക.\n• Word family: cater to, attend to, respond to, listen to, appeal to — ഇവ എല്ലാം ഒരുമിച്ച് ഒരു group ആയി പഠിക്കുക.\n• PSC exam strategy: Preposition collocation ചോദ്യങ്ങൾക്ക് rule പഠിക്കുന്നതിനേക്കാൾ ഓരോ phrase-ഉം ഒറ്റയടിക്ക് മനഃപാഠമാക്കുന്നതാണ് നല്ലത് — 'cater to' ഒരു fixed unit ആയി ഓർത്തുവയ്ക്കുക."
+    }
+  },
+  {
+    "id": "152-2017-E-Q73",
+    "paperId": "152-2017-E",
+    "questionNumber": 73,
+    "topic": "Words Often Confused",
+    "questionText": "The company was asked to _______ with regulations.",
+    "optionA": "compel",
+    "optionB": "compensate",
+    "optionC": "comply",
+    "optionD": "compete",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) comply\n\n• 'Comply with' എന്നാൽ ഒരു നിയമമോ നിയന്ത്രണമോ അനുസരിക്കുക/പാലിക്കുക എന്നർത്ഥം.\n• 'The company was asked to comply with regulations' എന്നാൽ 'കമ്പനിയോട് നിയന്ത്രണങ്ങൾ പാലിക്കാൻ ആവശ്യപ്പെട്ടു' എന്നാണ്.\n• Etymology: Latin 'complere' (പൂർത്തീകരിക്കുക) എന്നതിൽ നിന്നാണ് 'comply' വന്നത് — നിയമം പൂർണ്ണമായി പാലിക്കുക എന്ന ആശയമാണ് ഇതിന് പിന്നിൽ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: COMPLY WITH rules/regulations/law = അനുസരിക്കുക, പാലിക്കുക.\n• ഈ നാല് വാക്കുകളും (compel, compensate, comply, compete) കേൾക്കാൻ ഒരുപോലെ തോന്നും, പക്ഷെ അർത്ഥം വ്യത്യസ്തമാണ് — 'compel' = നിർബന്ധിക്കുക, 'compensate' = നഷ്ടപരിഹാരം നൽകുക, 'compete' = മത്സരിക്കുക, 'comply' = അനുസരിക്കുക.\n• ബന്ധപ്പെട്ട word family: compliance (അനുസരണം, noun), compliant (അനുസരണശീലമുള്ള, adjective).\n• ⭐ PSC ആവർത്തനം: com-എന്ന് തുടങ്ങുന്ന ഒരുപോലെ തോന്നുന്ന words PSC-യിൽ സ്ഥിരം trap ആയി വരും.\n• ഉദാഹരണ sentences:\n  1. All companies must comply with safety regulations. (നിയമങ്ങൾ പാലിക്കണം)\n  2. The law compels citizens to pay taxes. (നികുതി അടയ്ക്കാൻ നിർബന്ധിക്കുന്നു)\n  3. The firm agreed to compensate the victims. (ഇരകൾക്ക് നഷ്ടപരിഹാരം നൽകാൻ സമ്മതിച്ചു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) compel\n  • അർത്ഥം 'നിർബന്ധിക്കുക' എന്നാണ് — 'comply with' എന്ന structure-ൽ ചേരില്ല ('compel someone to do something' എന്നാണ് ശരിയായ structure).\n  • 🪤 PSC Trap: 'com-' എന്ന prefix ഒരുപോലെ ആയതിനാൽ confuse ചെയ്യും.\n• (B) compensate\n  • അർത്ഥം 'നഷ്ടപരിഹാരം നൽകുക' എന്നാണ് — regulations-മായി ബന്ധമില്ല.\n  • 🪤 PSC Trap: spelling-ൽ comply-യോട് അടുത്ത് നിൽക്കുന്നതിനാൽ തെറ്റിദ്ധരിക്കും.\n• (D) compete\n  • അർത്ഥം 'മത്സരിക്കുക' എന്നാണ് — regulations പാലിക്കുന്നതുമായി ഒരു ബന്ധവുമില്ല.\n  • 🪤 PSC Trap: 'compete with' എന്നൊരു common phrase ഉള്ളതിനാൽ 'with' കണ്ട് ഇത് തിരഞ്ഞെടുക്കാൻ സാധ്യതയുണ്ട്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'നിയമം COMPLY ചെയ്യുക, മത്സരത്തിൽ COMPETE ചെയ്യുക, നഷ്ടത്തിന് COMPENSATE ചെയ്യുക, ഒരാളെ COMPEL ചെയ്ത് നിർബന്ധിക്കുക' — ഓരോന്നിനും ഓരോ context ഓർത്തുവയ്ക്കുക.\n• Word family: comply-compliance-compliant ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Confusable com-words വരുമ്പോൾ ഓരോ വാക്കിന്റെയും typical partner-word (with/for/to) കൂടി ഓർത്തുവയ്ക്കുക — അതാണ് വേഗം ശരിയുത്തരം കണ്ടെത്താനുള്ള എളുപ്പവഴി."
+    }
+  },
+  {
+    "id": "152-2017-E-Q74",
+    "paperId": "152-2017-E",
+    "questionNumber": 74,
+    "topic": "Synonyms",
+    "questionText": "The word __genocide__ refers to the killing of",
+    "optionA": "women",
+    "optionB": "political enemies",
+    "optionC": "a leader",
+    "optionD": "a racial group",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) a racial group\n\n• 'Genocide' എന്നാൽ ഒരു വംശീയ (racial), ദേശീയ (national) അല്ലെങ്കിൽ മത (religious) വിഭാഗത്തെ മുഴുവനായോ ഭാഗികമായോ ഉന്മൂലനം ചെയ്യുക എന്നർത്ഥം — ഇതിനെ 'വംശഹത്യ' എന്ന് മലയാളത്തിൽ പറയാം.\n• Etymology: Greek 'genos' (വംശം/ഗോത്രം) + Latin 'caedere' (കൊല്ലുക) ചേർന്നാണ് 'genocide' ഉണ്ടായത് — 'race-killing' എന്ന് നേരിട്ട് അർത്ഥം.\n• ഈ word 20-ാം നൂറ്റാണ്ടിൽ ഉണ്ടായതാണ്, Holocaust പോലുള്ള സംഭവങ്ങളെ വിവരിക്കാൻ ഉപയോഗിച്ചുതുടങ്ങിയത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: GENO (വംശം) + CIDE (കൊല) = വംശഹത്യ.\n• '-cide' എന്ന suffix 'കൊല്ലൽ' എന്നർത്ഥമുള്ള ഒരു word-family ഉണ്ടാക്കുന്നു — homicide (നരഹത്യ), suicide (ആത്മഹത്യ), pesticide (കീടനാശിനി), regicide (രാജഹത്യ).\n• Etymology hint: Greek 'genos' = വംശം/തരം, Latin 'caedere' = കൊല്ലുക/മുറിച്ചിടുക.\n• ⭐ PSC ആവർത്തനം: '-cide' suffix ഉള്ള words vocabulary section-ൽ ആവർത്തിച്ച് വരുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. The tribunal was set up to investigate the genocide. (വംശഹത്യ അന്വേഷിക്കാൻ ട്രൈബ്യൂണൽ)\n  2. Homicide means the killing of one person by another. (ഒരാൾ മറ്റൊരാളെ കൊല്ലുന്നത്)\n  3. Regicide refers to the killing of a king. (രാജാവിനെ കൊല്ലുന്നത്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) women\n  • സ്ത്രീകളെ മാത്രം കൊല്ലുന്നതിനെ പ്രത്യേകമായി വിളിക്കുന്ന വാക്കല്ല genocide.\n  • 🪤 PSC Trap: 'gen' എന്നത് gender-മായി ബന്ധപ്പെട്ടതാണെന്ന് തെറ്റിദ്ധരിക്കുന്നവർ ഇത് തിരഞ്ഞെടുക്കും.\n• (B) political enemies\n  • ഇത് 'genocide' അല്ല, ഇതിനെ 'political persecution' (രാഷ്ട്രീയ പീഡനം) എന്നാണ് സാധാരണ വിളിക്കുക.\n  • 🪤 PSC Trap: genocide-ന്റെ പൊതു ധാരണയായ 'വ്യാപകമായ കൊലപാതകം' എന്ന ആശയവുമായി confuse ചെയ്യും.\n• (C) a leader\n  • ഒരു നേതാവിനെ കൊല്ലുന്നതിനെ 'assassination' (വധം) എന്നാണ് പറയുക, genocide അല്ല.\n  • 🪤 PSC Trap: 'a leader' എന്നത് specific-ഉം singular-ഉം ആണ്, genocide-ന്റെ 'ഒരു കൂട്ടം ആളുകൾ' എന്ന സ്വഭാവവുമായി ചേരില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'GENOCIDE = ഒരു മുഴുവൻ വംശത്തെയും (geno) കൊല്ലുന്നു (cide)' — race + kill എന്ന combo മനസ്സിൽ ഓർത്തുവയ്ക്കുക.\n• Word family: homicide (ഒരാളെ കൊല്ലൽ), suicide (സ്വയം കൊല്ലൽ), genocide (വംശഹത്യ) — '-cide' suffix ഉള്ള വാക്കുകൾ ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: '-cide' suffix ഉള്ള word കണ്ടാൽ ഉടനെ 'കൊല്ലൽ' എന്ന core meaning ഓർക്കുക, എന്നിട്ട് ആരെ/എന്തിനെ കൊല്ലുന്നു എന്ന് prefix നോക്കി തീരുമാനിക്കുക."
+    }
+  },
+  {
+    "id": "152-2017-E-Q75",
+    "paperId": "152-2017-E",
+    "questionNumber": 75,
+    "topic": "Synonyms",
+    "questionText": "A tangible result is one that is",
+    "optionA": "hidden",
+    "optionB": "observable",
+    "optionC": "poor",
+    "optionD": "excellent",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) observable\n\n• 'Tangible' എന്നാൽ തൊട്ടറിയാവുന്നത്, കാണാവുന്നത്/ബോധ്യപ്പെടുന്നത് എന്നർത്ഥം — real ആയി present ചെയ്യപ്പെടുന്ന, അളക്കാവുന്ന/നിരീക്ഷിക്കാവുന്ന കാര്യങ്ങളെ സൂചിപ്പിക്കുന്നു.\n• Etymology: Latin 'tangere' (തൊടുക) എന്നതിൽ നിന്നാണ് 'tangible' വന്നത് — 'touchable' എന്നതാണ് അടിസ്ഥാന അർത്ഥം, extended ആയി 'observable/real' എന്ന അർത്ഥത്തിലും ഉപയോഗിക്കുന്നു.\n• 'A tangible result' എന്നാൽ വ്യക്തമായി കാണാൻ/നിരീക്ഷിക്കാൻ പറ്റുന്ന ഫലം എന്നാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: TANGIBLE (Latin tangere = തൊടുക എന്ന root) = touchable → observable/real/concrete എന്നിവയിലേക്ക് അർത്ഥം വികസിക്കുന്നു.\n• Opposite ആയ word: 'intangible' (തൊടാൻ പറ്റാത്തത്, മൂർത്തരൂപമില്ലാത്തത് — ഉദാ: intangible assets, goodwill പോലുള്ളവ).\n• Etymology hint: tangere (തൊടുക) എന്ന root-ൽ നിന്ന് tangent, contact, tactile എന്നീ വാക്കുകളും ഉണ്ടായി.\n• ⭐ PSC ആവർത്തനം: Latin-root vocabulary words (tangible, visible, audible) PSC-യിൽ സ്ഥിരമായി ആവർത്തിച്ച് ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. The new policy has brought tangible benefits to farmers. (കർഷകർക്ക് പ്രകടമായ പ്രയോജനം ലഭിച്ചു)\n  2. There is no tangible evidence to support the claim. (വ്യക്തമായ തെളിവില്ല)\n  3. Trust is intangible, but its effects are very real. (വിശ്വാസം തൊട്ടറിയാൻ പറ്റില്ല, പക്ഷെ ഫലം യാഥാർത്ഥ്യമാണ്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) hidden\n  • ഇത് 'tangible'-ന്റെ നേരെ വിപരീത ആശയമാണ് — hidden ആയത് കാണാൻ/observe ചെയ്യാൻ പറ്റില്ല.\n  • 🪤 PSC Trap: Antonym-നെ correct answer ആയി തെറ്റിദ്ധരിക്കുന്നത് ഒരു classic PSC trap ആണ്.\n• (C) poor\n  • Quality-യെ കുറിക്കുന്ന word ആണ്, tangible-ന്റെ അർത്ഥവുമായി ബന്ധമില്ല.\n  • 🪤 PSC Trap: sentence-ന്റെ context ('result') കണ്ട് 'poor result' എന്ന് ചിന്തിച്ച് ഇത് തിരഞ്ഞെടുക്കാം.\n• (D) excellent\n  • ഇതും quality സൂചിപ്പിക്കുന്ന word ആണ്, 'tangible' എന്ന word-ന്റെ അർത്ഥം അളവല്ല (quality), realness ആണ്.\n  • 🪤 PSC Trap: 'a tangible (great) result' എന്ന് സ്വാഭാവികമായി വായിച്ച് ഇത് തിരഞ്ഞെടുക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'TANGIBLE = കയ്യുകൊണ്ട് തൊടാൻ പറ്റും (tangere), അതുകൊണ്ട് കണ്ണുകൊണ്ട് കാണാനും/observe ചെയ്യാനും പറ്റും!' — touch → observe എന്ന ചങ്ങല മനസ്സിൽ ഓർത്തുവയ്ക്കുക.\n• Word family: tangible ↔ intangible (എതിർ പദങ്ങൾ) ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Latin-root vocabulary ചോദ്യങ്ങളിൽ root meaning-ൽ നിന്ന് അർത്ഥം reasoning ചെയ്ത് കണ്ടെത്തുക — quality words (poor/excellent) കണ്ടാൽ അവ മിക്കവാറും distractors ആണെന്ന് സംശയിക്കുക."
+    }
+  },
+  {
+    "id": "152-2017-E-Q76",
+    "paperId": "152-2017-E",
+    "questionNumber": 76,
+    "topic": "Parts of Speech",
+    "questionText": "He agreed to __chair__ the meeting after much persuasion. The part of speech of the underlined word is",
+    "optionA": "adjective",
+    "optionB": "adverb",
+    "optionC": "verb",
+    "optionD": "noun",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) verb\n\n• ഈ sentence-ൽ 'chair' ഒരു action-നെ സൂചിപ്പിക്കുന്നു — 'യോഗത്തിന് അധ്യക്ഷത വഹിക്കുക' എന്നർത്ഥത്തിൽ verb ആയാണ് ഉപയോഗിച്ചിരിക്കുന്നത്.\n• സാധാരണയായി 'chair' ഒരു noun ആണ് (കസേര), പക്ഷെ ഇംഗ്ലീഷിൽ പല nouns-ഉം verb ആയി convert ചെയ്യാം (noun-to-verb conversion).\n• 'He agreed to chair the meeting' എന്നാൽ 'അയാൾ യോഗത്തിന് അധ്യക്ഷനാകാൻ സമ്മതിച്ചു' എന്നാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Word-ന്റെ സാധാരണ meaning അല്ല, sentence-ൽ അത് ചെയ്യുന്ന ROLE ആണ് part of speech തീരുമാനിക്കുന്നത്.\n• 'to + base verb' structure ('to chair') ഉണ്ടെങ്കിൽ ആ word verb ആണെന്ന് ഉറപ്പിക്കാം.\n• Noun-verb dual-role-ന് വേറെ ഉദാഹരണങ്ങൾ — 'to water the plants' (നനയ്ക്കുക), 'to book a ticket' (ബുക്ക് ചെയ്യുക), 'to email someone' (ഇമെയിൽ അയക്കുക).\n• ⭐ PSC ആവർത്തനം: ഒരേ word noun ആയും verb ആയും ഉപയോഗിക്കുന്ന sentences PSC-യിൽ സ്ഥിരമായി ചോദിക്കും.\n• ഉദാഹരണ sentences:\n  1. Please chair the discussion tomorrow. (verb — അധ്യക്ഷത വഹിക്കുക)\n  2. She sat on the chair near the window. (noun — കസേര)\n  3. They decided to table the proposal for later. (verb — മാറ്റിവയ്ക്കുക)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) adjective\n  • Adjective ഒരു noun-നെ describe ചെയ്യുന്ന word ആണ് — 'chair' ഇവിടെ ഒരു action കാണിക്കുന്നു, describe ചെയ്യുന്നില്ല.\n  • 🪤 PSC Trap: 'the meeting' എന്ന noun-ന് തൊട്ടടുത്ത് 'chair' നിൽക്കുന്നത് കണ്ട് adjective ആണെന്ന് തെറ്റിദ്ധരിക്കാം.\n• (B) adverb\n  • Adverb ഒരു verb-നെ modify ചെയ്യുന്ന word ആണ്, ഇവിടെ 'chair' തന്നെയാണ് main action.\n  • 🪤 PSC Trap: structure ശരിയായി മനസ്സിലാക്കാതെ ഊഹിക്കുന്നവർ ഇത് തിരഞ്ഞെടുക്കും.\n• (D) noun\n  • ഇത് ഏറ്റവും സാധാരണ തെറ്റാണ് — 'chair' സാധാരണ ഒരു noun (കസേര) ആയതിനാൽ, context ശ്രദ്ധിക്കാതെ ഇത് തിരഞ്ഞെടുക്കും.\n  • 🪤 PSC Trap: 'to chair' എന്ന 'to + verb' structure ശ്രദ്ധിക്കാത്തവർ ഈ trap-ൽ വീഴും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'TO എന്നതിന് ശേഷം വരുന്ന word മിക്കവാറും ഒരു VERB ആയിരിക്കും!' — 'to chair', 'to water', 'to book' എന്നിവയിലെല്ലാം 'to'-ന് ശേഷം verb വരുന്നു.\n• Word family: noun-verb dual-role words — chair, book, water, table, email, text — ഇവ ഒരുമിച്ച് ഓർത്തുവയ്ക്കുക.\n• PSC exam strategy: Part of speech ചോദ്യങ്ങളിൽ word-ന്റെ സാധാരണ meaning-ൽ കുടുങ്ങാതെ, sentence-ലെ role നോക്കുക — 'to' ന് ശേഷമോ subject-ന് തൊട്ടുപിന്നാലെയോ ആണെങ്കിൽ മിക്കവാറും verb ആയിരിക്കും."
+    }
+  },
+  {
+    "id": "152-2017-E-Q77",
+    "paperId": "152-2017-E",
+    "questionNumber": 77,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "The children _______ to the playground everyday.",
+    "optionA": "go",
+    "optionB": "goes",
+    "optionC": "going",
+    "optionD": "are going",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) go\n\n• 'The children' plural subject ആണ്, അതിനാൽ plural verb form 'go' വേണം (goes അല്ല).\n• 'Everyday' (habitual action, പതിവായ പ്രവൃത്തി) present simple tense-നെ സൂചിപ്പിക്കുന്നു — plural subject + base verb ('go') ആണ് ശരിയായ combination.\n• അർത്ഥം: 'കുട്ടികൾ എല്ലാ ദിവസവും കളിസ്ഥലത്തേക്ക് പോകുന്നു'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Plural subject + Present Simple → base verb (go, play, eat) — 's' ചേർക്കേണ്ട ആവശ്യമില്ല.\n• ദിവസേനയുള്ള ശീലങ്ങൾ/പതിവുകൾ (everyday, always, usually) വിവരിക്കാൻ present simple tense ആണ് ഉപയോഗിക്കുക.\n• Subject singular (he/she/it) ആണെങ്കിൽ മാത്രമേ verb-ന്റെ കൂടെ 's/es' ചേർക്കേണ്ടതുള്ളൂ (goes, plays) — ഇവിടെ 'children' plural ആയതിനാൽ 's' വേണ്ട, base verb 'go' തന്നെ മതി.\n• ⭐ PSC ആവർത്തനം: Plural vs singular subject-verb agreement ഏറ്റവും അടിസ്ഥാനപരവും PSC പേപ്പറുകളിൽ ആവർത്തിച്ചു വരുന്നതുമായ topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. The children go to school every morning. (എല്ലാ ദിവസവും കുട്ടികൾ പോകുന്നു — plural, base verb)\n  2. She goes to the market on Sundays. (ഒറ്റയാൾ, singular — 's' ചേരും)\n  3. My friends play cricket every evening. (എന്റെ കൂട്ടുകാർ എല്ലാ വൈകുന്നേരവും കളിക്കുന്നു — plural, base verb)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) goes\n  • Singular subject-ന് (he/she/it) മാത്രം ഉപയോഗിക്കുന്ന form ആണ്, 'children' plural ആയതിനാൽ ചേരില്ല.\n  • 🪤 PSC Trap: 'child' (singular) ഓർത്ത് 'goes' തിരഞ്ഞെടുക്കുന്നവർ 'children' plural ആണെന്നത് മറന്നുപോകും.\n• (C) going\n  • ഒറ്റയ്ക്ക് 'going' ഒരു main verb ആയി നിൽക്കാൻ പറ്റില്ല, auxiliary verb ('are') കൂടെ വേണം.\n  • 🪤 PSC Trap: continuous tense-ന്റെ ing-form മാത്രം കണ്ട് തിരഞ്ഞെടുക്കുന്നവർ auxiliary വേണം എന്നത് മറക്കും.\n• (D) are going\n  • Present continuous tense ആണ് — 'everyday' എന്ന habitual signal word-മായി ചേരില്ല, continuous tense ഇപ്പോൾ നടക്കുന്ന കാര്യത്തിന് ആണ് ഉപയോഗിക്കുക.\n  • 🪤 PSC Trap: grammatically ശരിയായ structure ആയതിനാൽ ഇത് ശരി എന്ന് തോന്നിക്കും, പക്ഷെ context (everyday) തെറ്റാണെന്ന് കാണിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'EVERYDAY എന്ന വാക്ക് കണ്ടാൽ അത് ശീലത്തെ കുറിക്കുന്നു, അതിനാൽ Present Simple വേണം, Present Continuous അല്ല!' — signal word 'everyday' കണ്ടാൽ ഉടനെ base verb ('go') ഓർത്തുവയ്ക്കുക.\n• Word family: ശീലം സൂചിപ്പിക്കുന്ന signal words — everyday, always, usually, often, generally — ഇവ എല്ലാം ഒരുമിച്ച് മനഃപാഠമാക്കുക.\n• PSC exam strategy: Sentence-ൽ 'everyday/daily/always' പോലുള്ള words കണ്ടാൽ continuous tense (is/are + ing) options ആദ്യമേ തന്നെ ഒഴിവാക്കിക്കളയുക, base verb മാത്രം നോക്കുക."
+    }
+  },
+  {
+    "id": "152-2017-E-Q78",
+    "paperId": "152-2017-E",
+    "questionNumber": 78,
+    "topic": "Articles",
+    "questionText": "They chose _______ most attractive model that was available.",
+    "optionA": "a",
+    "optionB": "an",
+    "optionC": "the",
+    "optionD": "one",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) the\n\n• 'Most attractive' എന്നത് ഒരു superlative degree phrase ആണ് — superlatives-ന് മുൻപ് എപ്പോഴും 'the' article വരും.\n• 'They chose the most attractive model' എന്നാൽ 'ലഭ്യമായതിൽ ഏറ്റവും ആകർഷകമായ model അവർ തിരഞ്ഞെടുത്തു' എന്നാണ്.\n• Superlative ഒരു group-ൽ നിന്ന് ഏറ്റവും മികച്ചത് specific ആയി ചൂണ്ടിക്കാണിക്കുന്നതിനാൽ definite article 'the' നിർബന്ധമാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Superlative degree (most/-est) + noun → ALWAYS 'the' മുൻപ് വരും.\n• 'the most attractive', 'the tallest', 'the best' — എല്ലാ superlative forms-നും 'the' നിർബന്ധം.\n• Comparative degree-ൽ (more attractive than — രണ്ടിനെ താരതമ്യം ചെയ്യുമ്പോൾ) സാധാരണയായി 'the' വരില്ല, പക്ഷെ superlative-ൽ (group-ൽ ഏറ്റവും മികച്ചത്) എപ്പോഴും വരും.\n• ⭐ PSC ആവർത്തനം: Degrees of Comparison-ലെ article usage PSC-യിൽ ആവർത്തിച്ചു ചോദിക്കുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. This is the most beautiful garden I have seen. (ഏറ്റവും മനോഹരമായ പൂന്തോട്ടം)\n  2. He is the tallest boy in the class. (ക്ലാസിലെ ഏറ്റവും ഉയരമുള്ള കുട്ടി)\n  3. That was the best decision they made. (അവർ എടുത്ത ഏറ്റവും നല്ല തീരുമാനം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) a\n  • Indefinite article 'a' ഒരു non-specific singular noun-ന് മുൻപ് വരും, superlative-ന് മുൻപ് ഒരിക്കലും 'a/an' വരില്ല.\n  • 🪤 PSC Trap: article ചോദ്യമാണെന്ന് കണ്ട് default ആയി 'a' തിരഞ്ഞെടുക്കുന്നവർ വീഴും.\n• (B) an\n  • ഇതും indefinite article ആണ്, superlative-ന് മുൻപ് ചേരില്ല.\n  • 🪤 PSC Trap: article rules confuse ചെയ്യുന്നവർ ഇത് തിരഞ്ഞെടുക്കും.\n• (D) one\n  • 'One' ഒരു number/pronoun ആണ്, article അല്ല — superlative structure-ന് article ('the') ആണ് വേണ്ടത്.\n  • 🪤 PSC Trap: 'one model' എന്ന് വായിച്ച് ഇത് ശരിയാണെന്ന് തോന്നാം, പക്ഷെ superlative rule പ്രകാരം 'the' മാത്രമേ ശരിയാകൂ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'MOST/-EST-ന്റെ ഏറ്റവും അടുത്ത കൂട്ടുകാരൻ എപ്പോഴും THE ആണ്!' — superlative കണ്ടാൽ ഉടനെ 'the' ഓർക്കുക.\n• Word family: the most beautiful, the tallest, the best, the worst — എല്ലാം 'the' കൂടെ മാത്രം വരും.\n• PSC exam strategy: Blank-ന് ശേഷം 'most + adjective' അല്ലെങ്കിൽ '-est' ending കണ്ടാൽ ഉടനെ 'the' തിരഞ്ഞെടുക്കുക — മറ്റ് ഒന്നും ആലോചിക്കേണ്ട."
+    }
+  },
+  {
+    "id": "152-2017-E-Q79",
+    "paperId": "152-2017-E",
+    "questionNumber": 79,
+    "topic": "Words Often Confused",
+    "questionText": "The party workers were in a _______ mood and the meeting ended in chaos.",
+    "optionA": "beguiling",
+    "optionB": "belligerent",
+    "optionC": "benign",
+    "optionD": "benevolent",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) belligerent\n\n• 'Belligerent' എന്നാൽ ശണ്ഠയ്ക്ക്/വഴക്കിന് തയ്യാറായ, ആക്രമണോത്സുകമായ മാനസികാവസ്ഥ എന്നർത്ഥം.\n• Sentence-ന്റെ രണ്ടാം ഭാഗം ('ended in chaos', അലങ്കോലത്തിൽ അവസാനിച്ചു) 'belligerent' (വഴക്കാളി) mood-നെ പിന്തുണയ്ക്കുന്നു — chaos ഉണ്ടാകാൻ അക്രമാസക്തമായ mood വേണം.\n• Etymology: Latin 'bellum' (യുദ്ധം) + 'gerere' (നടത്തുക) ചേർന്നാണ് 'belligerent' ഉണ്ടായത് — 'യുദ്ധം നടത്തുന്ന' എന്ന core meaning.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: BELLI (യുദ്ധം) + GERENT (നടത്തുന്ന) = യുദ്ധസമാനമായ, ശണ്ഠയ്ക്ക് തയ്യാറായ mood.\n• Sentence-ന്റെ രണ്ടാം പകുതി ('ended in chaos') ആദ്യ ഭാഗത്തെ word-ന്റെ അർത്ഥം സൂചിപ്പിക്കുന്ന clue ആണ് — context clue technique ഉപയോഗിച്ച് അർത്ഥം ഊഹിക്കുക.\n• ബന്ധപ്പെട്ട word family: belligerence (യുദ്ധോത്സുകത, noun), belligerently (adverb).\n• ⭐ PSC ആവർത്തനം: Latin 'bellum' (യുദ്ധം) root ഉള്ള words (belligerent, rebellion, antebellum) PSC vocabulary-ൽ വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. The two nations remained belligerent for years. (വർഷങ്ങളോളം യുദ്ധസന്നദ്ധരായി തുടർന്നു)\n  2. His belligerent attitude spoiled the negotiations. (ആക്രമണോത്സുകമായ മനോഭാവം ചർച്ച തകർത്തു)\n  3. The belligerent crowd clashed with the police. (വഴക്കാളികളായ ജനക്കൂട്ടം പോലീസുമായി ഏറ്റുമുട്ടി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) beguiling\n  • അർത്ഥം 'ആകർഷകമായ/വശീകരിക്കുന്ന' എന്നാണ് — positive quality ആണ്, chaos-മായി ചേരില്ല.\n  • 🪤 PSC Trap: spelling-ൽ 'belligerent'-നോട് ചെറിയ സാമ്യം ഉള്ളതിനാൽ confuse ചെയ്യും.\n• (C) benign\n  • അർത്ഥം 'നിരുപദ്രവകരമായ/ശാന്തമായ' എന്നാണ് — ഇത് chaos-ന് നേരെ എതിർ ആശയമാണ്.\n  • 🪤 PSC Trap: 'ben-' prefix ഒരുപോലെ ആയതിനാൽ ബാക്കി word-കളുമായി confuse ചെയ്യും.\n• (D) benevolent\n  • അർത്ഥം 'ദയാലുവായ/നല്ല മനസ്സുള്ള' എന്നാണ് — ഇതും chaos-മായി ചേരാത്ത positive word ആണ്.\n  • 🪤 PSC Trap: 'ben-' (നല്ലത്) prefix-ന്റെ യഥാർത്ഥ അർത്ഥം അറിയാത്തവർ ബാക്കി 'ben-' words-ഓടൊപ്പം confuse ചെയ്യും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BELLI = യുദ്ധം (യുദ്ധത്തിന് മുന്നോടിയായി മുഴങ്ങുന്ന ബെല്ല് ഓർക്കുക!), അതുകൊണ്ട് BELLIGERENT = പോരാടാൻ തയ്യാറായ മനോഭാവം.' Chaos ഉണ്ടെങ്കിൽ mood 'belligerent' ആയിരിക്കും എന്ന് ഓർക്കുക.\n• Word family: BEN- (നല്ലത്) തുടങ്ങുന്ന words = benign, benevolent, beneficial — ഇവ vs BELLI- (യുദ്ധം) തുടങ്ങുന്ന words = belligerent, rebellion — രണ്ട് group-ഉം വേർതിരിച്ച് ഓർക്കുക.\n• PSC exam strategy: 'benign', 'benevolent', 'belligerent' പോലുള്ള options ഒരുമിച്ച് വരുമ്പോൾ prefix (ben- vs belli-) സൂക്ഷ്മമായി ശ്രദ്ധിച്ച് വേർതിരിക്കുക, sentence-ന്റെ മൊത്തത്തിലുള്ള tone (positive/negative) നോക്കി ശരിയായത് match ചെയ്യുക."
+    }
+  },
+  {
+    "id": "152-2017-E-Q80",
+    "paperId": "152-2017-E",
+    "questionNumber": 80,
+    "topic": "Phrasal Verbs",
+    "questionText": "The phrasal verb __mull over__ means",
+    "optionA": "overtake",
+    "optionB": "fight against",
+    "optionC": "overcome",
+    "optionD": "think over",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) think over\n\n• 'Mull over' എന്ന phrasal verb-ന്റെ അർത്ഥം ഒരു കാര്യത്തെക്കുറിച്ച് ശ്രദ്ധയോടെ, സാവധാനം ചിന്തിക്കുക/ആലോചിക്കുക എന്നാണ്.\n• 'He mulled over the proposal for a week' എന്നാൽ 'അയാൾ ആ നിർദ്ദേശത്തെക്കുറിച്ച് ഒരാഴ്ച ആലോചിച്ചു' എന്നാണ്.\n• ഇത് literal meaning-ൽ നിന്ന് (mull = ചൂടാക്കി spice ചേർത്ത് വൈൻ ഉണ്ടാക്കുക) വളരെ വ്യത്യസ്തമായ idiomatic meaning ആണ് — phrasal verbs-ന്റെ classic സ്വഭാവം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: MULL OVER = THINK OVER = ശ്രദ്ധയോടെ, സാവധാനം ആലോചിക്കുക.\n• Phrasal verbs-ന്റെ meaning ഓരോ word-ന്റെയും literal meaning-ൽ നിന്ന് ഊഹിക്കാൻ പറ്റില്ല — ഓരോന്നും ഒരു idiomatic unit ആയി പഠിക്കണം.\n• ബന്ധപ്പെട്ട word family: think over, ponder over, mull over, chew over — എല്ലാം 'ശ്രദ്ധയോടെ ആലോചിക്കുക' എന്ന അർത്ഥമുള്ള phrasal verbs.\n• ⭐ PSC ആവർത്തനം: Phrasal verb meaning ചോദ്യങ്ങൾ PSC English section-ൽ സ്ഥിരമായി വരും.\n• ഉദാഹരണ sentences:\n  1. She mulled over the job offer before accepting it. (ജോലി ഓഫർ ആലോചിച്ചു)\n  2. Let me mull it over and get back to you tomorrow. (ഇത് ആലോചിച്ച് നാളെ മറുപടി തരാം)\n  3. He mulled over his options for a long time. (തന്റെ options വളരെ നേരം ആലോചിച്ചു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) overtake\n  • അർത്ഥം 'മറികടക്കുക' എന്നാണ് — 'mull over'-മായി ബന്ധമില്ല.\n  • 🪤 PSC Trap: 'over' എന്ന word രണ്ടിലും ഉള്ളതിനാൽ confuse ചെയ്യും.\n• (B) fight against\n  • അർത്ഥം 'എതിർക്കുക/പോരാടുക' എന്നാണ് — 'mull over'-ന്റെ ശാന്തമായ 'ചിന്തിക്കുക' എന്ന അർത്ഥവുമായി ചേരില്ല.\n  • 🪤 PSC Trap: phrasal verb-കൾ പലതും aggressive meaning ഉള്ളവയാണെന്ന ധാരണയിൽ ഇത് തിരഞ്ഞെടുക്കാം.\n• (C) overcome\n  • അർത്ഥം 'അതിജീവിക്കുക/മറികടക്കുക' എന്നാണ് — ചിന്തിക്കുക എന്ന അർത്ഥമല്ല.\n  • 🪤 PSC Trap: 'over' എന്ന word ആവർത്തിക്കുന്നതിനാൽ ബന്ധപ്പെട്ട phrasal verb ആണെന്ന് തെറ്റിദ്ധരിക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'MULL OVER = അടുപ്പിൽ വൈൻ സാവധാനം ചൂടാക്കുന്നത് പോലെ, മനസ്സ് ഒരു ആശയത്തെ സാവധാനം SIMMER ചെയ്യുന്നു!' — ചൂടാക്കി സാവധാനം ആലോചിക്കുന്ന image മനസ്സിൽ ഓർക്കുക.\n• Word family: mull over, think over, ponder over, chew over, weigh up — 'ശ്രദ്ധയോടെ ആലോചിക്കുക' എന്ന group.\n• PSC exam strategy: Phrasal verb meaning ചോദ്യങ്ങളിൽ ഓരോ word-ന്റെയും literal meaning മറന്ന്, whole phrase ഒരു idiomatic unit ആയി ഓർത്തുവയ്ക്കുക."
+    }
   }
 ]
