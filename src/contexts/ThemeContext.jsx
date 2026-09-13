@@ -10,6 +10,7 @@ export const themes = [
   { id: 'wine', label: '🍷', title: 'Wine' },
   { id: 'mauve', label: '💜', title: 'Mauve' },
   { id: 'moss', label: '🌿', title: 'Moss' },
+  { id: 'cyan', label: '🩵', title: 'Cyan' },
 ]
 
 export function ThemeProvider({ children }) {

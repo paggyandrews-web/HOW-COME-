@@ -98,6 +98,21 @@
   --come-color: #95a322;
 }
 
+[data-theme="cyan"] {
+  --bg: #000000;
+  --bg2: #111111;
+  --surface: #111111;
+  --border: #0a2b2c;
+  --text: #f1f5f9;
+  --text2: #7fd9da;
+  --accent: #00fcfe;
+  --accent-hover: #00c7c9;
+  --accent-text: #00292a;
+  --card: #111111;
+  --shadow: 0 1px 3px rgba(0,252,254,0.15);
+  --come-color: #00fcfe;
+}
+
 /* Disable pull-to-refresh (and the rubber-band overscroll glow) on mobile.
    `contain` rather than `none`: it stops the gesture from reaching the browser
    chrome, but still allows normal scrolling inside the page and nested
@@ -176,6 +191,14 @@ body {
 
 [data-theme="moss"] .card:hover {
   box-shadow: 0 4px 16px rgba(149,163,34,0.2), 0 16px 40px rgba(0,0,0,0.35);
+}
+
+[data-theme="cyan"] .card {
+  box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
+}
+
+[data-theme="cyan"] .card:hover {
+  box-shadow: 0 4px 16px rgba(0,252,254,0.2), 0 16px 40px rgba(0,0,0,0.35);
 }
 
 /* ── Compact paper-language row (Full 100 list) ── */
@@ -401,7 +424,8 @@ select option {
   [data-theme="pink"] .card:hover,
   [data-theme="wine"] .card:hover,
   [data-theme="mauve"] .card:hover,
-  [data-theme="moss"] .card:hover {
+  [data-theme="moss"] .card:hover,
+  [data-theme="cyan"] .card:hover {
     box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
   }
 }
