@@ -7438,5 +7438,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Resturant — 'au' എന്ന combination വിട്ടുപോയിരിക്കുന്നു, തെറ്റായ spelling.\n• (B) Restaurent — അവസാന ഭാഗത്ത് 'ant' എന്നതിന് പകരം 'ent' എഴുതിയിരിക്കുന്നു, തെറ്റ്.\n• 🪤 PSC Trap: ഈ രണ്ട് options-ഉം സാധാരണയായി ആളുകൾ തെറ്റായി ഉച്ചരിക്കുന്ന രീതിയിലാണ് spell ചെയ്തിരിക്കുന്നത് (phonetic spelling trap).\n• (D) Resteraunt — അക്ഷരങ്ങളുടെ ക്രമം തന്നെ തെറ്റായി മാറ്റിയിരിക്കുന്നു.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'REST-AU-RANT' — വാക്കിനെ മൂന്ന് ഭാഗങ്ങളായി തിരിച്ച് ഓർക്കുക, പ്രത്യേകിച്ച് middle-ലെ 'AU'.\n• Word family: Restaurant, Bureau, Chauffeur, Beau — ഇവയെല്ലാം French 'au' spelling pattern ഉള്ള words ആണ്.\n• PSC exam strategy: Spelling ചോദ്യങ്ങളിൽ word-ന്റെ origin (French/Latin/German) അറിഞ്ഞാൽ correct spelling എളുപ്പത്തിൽ ഓർക്കാം."
     }
+  },
+  {
+    "id": "HC-DAILY-2026-09-15-Q1",
+    "paperId": "HC-DAILY-2026-09-15",
+    "questionNumber": 1,
+    "topic": "Active and Passive Voice",
+    "difficulty": "medium",
+    "questionText": "Change the following sentence from Active to Passive Voice:\nThe volunteers cleaned the entire beach before sunrise.",
+    "optionA": "The entire beach was cleaned by the volunteers before sunrise.",
+    "optionB": "The entire beach is cleaned by the volunteers before sunrise.",
+    "optionC": "The entire beach has been cleaned by the volunteers before sunrise.",
+    "optionD": "The entire beach will be cleaned by the volunteers before sunrise.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ शरियुत्तरं: (A) The entire beach was cleaned by the volunteers before sunrise.\n\n• Active sentence-ले tense 'cleaned' (Simple Past) आणु — अतुकॊण्डु Passive-लुं Simple Past तन्ने वेणं: was/were + V3.\n• Object 'the entire beach' आणु Passive sentence-न्रे पुतिय subject आकुन्नत।\n• PSC चोद्यंगळिले एर्रेडेওलठलीरें कूडुतलुं वरुन्न pattern आणु इत।",
+      "rule": "📌n व्याकरण नियमं\n\n• 🔑 Quick Formula: Active tense = Passive tense — तन्ने, मारिल्ल!\n• Simple Past Active (Subject + V2 + Object) → Simple Past Passive (Object + was/were + V3 + by + Subject).\n• Singular object → was; Plural object → were.\n• ⭐ PSC आवर्त्तनं: Active-Passive conversion questions मिक्कवारुं ऎल्ला PSC पेपरिलुमं वरुम।\n• उदाहरण sentences:\n  1. Active: He wrote a letter. → Passive: A letter was written by him.\n  2. Active: They built the bridge. → Passive: The bridge was built by them.\n  3. Active: She solved the puzzle. → Passive: The puzzle was solved by her.",
+      "wrong": "❌ तेर्राय उत्तरङ्गळँ\n\n• (B) 'is cleaned' — इत् Present Simple Passive आणु, ऎन्नाल् Active sentence Past tense-लरल१।\n  🦲 PSC Trap: tense मार्रानुं श्रमिक्कुन्न students ई option तिरंञ॑युम।\n• (C) 'has been cleaned' — Present Perfect Passive, तेर्रायाय tense.\n  🦲 PSC Trap: 'completed action' ऎन्न feel तोन्नुन्नतुकॊण्डु चिलर् इत् तिरंञ॑युम।\n• (D) 'will be cleaned' — Future Simple Passive, यथार्थ sentence-ले tense-मायি पॊरुत्तपेटुन्निल्ल.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Tense मारिल्ल, Voice मात्रं मारुं' — इत् उरुविट्ट् ओर्क्कुक.\n• Active-Passive family-यिले ऎल्ला tense-कळुम। (Present, Past, Future, Perfect) practice चेय्तुक.\n• PSC exam strategy: आद्यमं Active sentence-ले tense identify चेठुक, ऎन्निट्टु मात्रमे passive structure तिरंञ॑युक — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-15-Q2",
+    "paperId": "HC-DAILY-2026-09-15",
+    "questionNumber": 2,
+    "topic": "Direct and Indirect Speech",
+    "difficulty": "medium",
+    "questionText": "Change the following sentence into Indirect Speech:\nShe said, \"I have finished my work.\"",
+    "optionA": "She said that she has finished her work.",
+    "optionB": "She said that she had finished her work.",
+    "optionC": "She said that she finished her work.",
+    "optionD": "She said that she has been finishing her work.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ शरियुत्तरं: (B) She said that she had finished her work.\n\n• Reporting verb 'said' Past tense आयतिनाल्, reported speech-ले tense ओरु step पुरकोट्टु पोकणं (backshift).\n• Present Perfect ('have finished') → Past Perfect ('had finished') आयि मारुन्नु.\n• Pronoun 'I' → 'she' आयि मारुन्नु, subject-मायি पॊरुत्तपेटान्.",
+      "rule": "📌n व्याकरण नियमं\n\n• 🔑 Quick Formula: Reporting verb Past आणेंकिल् → tense ओरु step पुरकोट्ट् (backshift).\n• Present Perfect → Past Perfect; Present Simple → Past Simple; Present Continuous → Past Continuous.\n• Pronouns उं time/place words उं context अनुसरिच्च् मार्रणं (I→she, today→that day मुतलायव).\n• ⭐ PSC आवर्त्तनं: Direct-Indirect conversion, प्रत्येकिच्चुं Perfect tenses-न्रे backshift, PSC-यिली स्थिरमायি वरुन्नु.\n• उदाहरण sentences:\n  1. He said, \"I am tired.\" → He said that he was tired.\n  2. She said, \"I have seen this movie.\" → She said that she had seen that movie.\n  3. They said, \"We will help you.\" → They said that they would help me.",
+      "wrong": "❌ तेर्राय उत्तरङ्गळँ\n\n• (A) 'has finished' — backshift चेय्ताते Present Perfect तन्ने निलनिर्त्तियिरिक्कुन्नु, इत् तेर्राणु।\n  🦲 PSC Trap: original sentence-ले tense अतेपडि copy चेय्युन्न students इत् तिरंञ॑युम।\n• (C) 'finished' — Simple Past आणु, ऎन्नाल् perfect aspect (completion emphasis) नष्टप्पेटुन्नु; शरियाय backshift Past Perfect आणु।\n• (D) 'has been finishing' — Present Perfect Continuous, तेर्राय aspect मार्रं, original meaning-मायি पॊरुत्तपेटुन्निल्ल.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Past-ल१ पडीर नेंगिल्, tense ओरु पडि पुरकोट्ट्' ऎन्न rhyme ओरुक्कुक.\n• Backshift table (Present→Past, Past→Past Perfect, Present Perfect→Past Perfect) ओरुमिच्च् पडिक्कुक.\n• PSC exam strategy: आद्यमं reporting verb-न्रे tense नोक्कुक, ऎन्निट्ट् reported speech-ले tense-न् ओरु step backshift कॊडुक्कुक — ओरिक्कलुं miss आकिल्ल!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-15-Q3",
+    "paperId": "HC-DAILY-2026-09-15",
+    "questionNumber": 3,
+    "topic": "Prepositions",
+    "difficulty": "medium",
+    "questionText": "Choose the correct preposition to complete the sentence:\nThe committee decided to abstain _____ voting on the controversial issue.",
+    "optionA": "from",
+    "optionB": "on",
+    "optionC": "at",
+    "optionD": "with",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ शरियुत्तरं: (A) from\n\n• 'Abstain from' ऎन्नत् ओरु fixed preposition collocation आणु — 'ओशिञ्ञुनिल्क्कुक/विट्टुनिल्क्कुक' ऎन्नर्थं.\n• 'Abstain' ऎन्न verb-न्रे कूडे ऎप्पोळुं 'from' मात्रमे वरू, मर्रॊरु preposition उं इतिनॊप्पं उपयोगिक्किल्ल.\n• Voting, alcohol, activities ऎन्निवयिलेल्ठलीरें ऎन्न context-ल१ इत् साधारणयायি उपयोगिक्कुन्नु.",
+      "rule": "📌n व्याकरण नियमं\n\n• 🔑 Quick Formula: abstain FROM — ऎप्पोळुं ओर्क्कुक!\n• चिल verbs-न् fixed preposition partners उण्ड् — इव मार्रान् पाडिल्ल.\n• Related word family: refrain from, desist from, withdraw from — ऎल्लां 'from' उपयोगिक्कुन्न collocations.\n• ⭐ PSC आवर्त्तनं: Fixed preposition collocations PSC-यिले ऎर्रेडेওलठलीरें चोदिक्कुन्न topic आणु।\n• उदाहरण sentences:\n  1. He decided to abstain from smoking.\n  2. Please abstain from making noise in the library.\n  3. Several members chose to abstain from the vote.",
+      "wrong": "❌ तेर्राय उत्तरङ्गळँ\n\n• (B) 'on' — 'abstain on' ऎन्नॊरु collocation इल्ल, इत् तेर्राणु।\n  🦲 PSC Trap: 'insist on', 'depend on' पोलुलल मर्रु collocations-मायি confuse चेय्यान् students ई option select चेय्युं.\n• (C) 'at' — स्थलं/समयं सूचिप्पिक्कुन्न preposition आणु, 'abstain' ऎन्न verb-मायি चेरिल्ल.\n• (D) 'with' — companionship/means सूचिप्पिक्कान् उपयोगिक्कुन्न preposition, इविडे अनुयोज्यमल्ल.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Abstain FROM' — 'F' for 'Far away FROM' ऎन्न् visualize चेय्तुक.\n• 'from' ऎडुक्कुन्न verbs ओरु group आयি पडिक्कुक: abstain, refrain, prevent, stop, prohibit.\n• PSC exam strategy: fixed collocation चोद्यङ्गळं वरुम्पोळ्, verb-preposition pair ओरु single unit आयি ओर्त्तुवय्क्कुक — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-15-Q4",
+    "paperId": "HC-DAILY-2026-09-15",
+    "questionNumber": 4,
+    "topic": "Correlatives",
+    "difficulty": "hard",
+    "questionText": "Choose the correct correlative pair to complete the sentence:\nIt was _____ a difficult task _____ no one could complete it in time.",
+    "optionA": "such...that",
+    "optionB": "so...that",
+    "optionC": "too...to",
+    "optionD": "as...as",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ शरियुत्तरं: (A) such...that\n\n• 'Such a + adjective + noun + that' ऎन्नत् ओरु fixed correlative structure आणु — result/consequence सूचिप्पिक्कान् उपयोगिक्कुन्नु.\n• 'It was such a difficult task that no one could complete it in time' — task-न्रे difficulty-युडे result आणु 'no one could complete it'.\n• 'So' उपयोगिक्कणमेंकिल् word order मारणं ('so difficult a task that') — इविडे 'a difficult task' ऎन्न order fixed आयतिनाल् 'such' मात्रमे शरियाकू.",
+      "rule": "📌n व्याकरण नियमं\n\n• 🔑 Quick Formula: Such + a/an + Adjective + Noun + That (result clause).\n• 'So' उपयोगिक्कुम्पोळ् order मारुं: So + Adjective + a/an + Noun + That.\n• Correlatives ओरिक्कलुं mix चेय्यरुत् — such...that, so...that, either...or, neither...nor ऎन्निव fixed pairs आणु.\n• ⭐ PSC आवर्त्तनं: Correlative conjunctions PSC-यिले स्थिरमायি चोदिक्कुन्न topic आणु।\n• उदाहरण sentences:\n  1. She is such a brilliant student that everyone admires her.\n  2. It was such a hot day that we stayed indoors.\n  3. He gave such a convincing speech that the audience applauded.",
+      "wrong": "❌ तेर्राय उत्तरङ्गळँ\n\n• (B) 'so...that' — word order तेर्राणु; 'so' वरणमेंकिल् 'so difficult a task' ऎन्न क्रमत्तिल् वेणं, 'a' न् शेषमल्ल adjective वरेण्डतु।\n  🦲 PSC Trap: 'so...that' उं ओरु correlative आणेन्न् अरियावुन्नवर् word order श्रद्धिक्काते इत् तिरंञ॑युं.\n• (C) 'too...to' — इत् infinitive (to + verb) क्लोसुमायি मात्रमे चेरू, इविडे 'that' clause आयतिनाल् चेरिल्ल.\n• (D) 'as...as' — comparison सूचिप्पिक्कान् उपयोगिक्कुन्नु, result clause-न् अनुयोज्यमल्ल.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'SUCH a NOUN THAT' — क्रमं मार्ररुत्, 'a' उटने noun-नु मुन्निल् वरुं.\n• 'such...that' उं 'so...that' उं ओरुमिच्च् पडिच्च् word order-ले व्यत्यासं practice चेय्तुक.\n• PSC exam strategy: correlative चोद्यङ्गळिले बाक्कि sentence-न्रे word order श्रद्धिच्च् matching pair तिरंञ॑युक — ओरिक्कलुं miss आकिल्ल!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-15-Q5",
+    "paperId": "HC-DAILY-2026-09-15",
+    "questionNumber": 5,
+    "topic": "Auxiliary Verbs",
+    "difficulty": "medium",
+    "questionText": "Choose the correct auxiliary verb to complete the sentence:\nBy this time next year, she _____ have completed her doctorate.",
+    "optionA": "will",
+    "optionB": "shall",
+    "optionC": "would",
+    "optionD": "should",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ शरियुत्तरं: (A) will\n\n• Future Perfect Tense-न्रे structure: Subject + will/shall + have + V3.\n• Third person singular subject ('she') ऎडुक्कुन्न auxiliary 'will' आणु — 'shall' साधारणयायি 'I'/'we' कूडे मात्रमे उपयोगिक्कुन्नु.\n• 'By this time next year' ऎन्न time phrase future-ल१ ओरु point-ल१ complete आकुन्न action सूचिप्पिक्कुन्नु — Future Perfect-न्रे classic signal.",
+      "rule": "📌n व्याकरण नियमं\n\n• 🔑 Quick Formula: Future Perfect = Subject + will/shall + have + V3.\n• 'Shall' → I/We मात्रं (traditional rule); 'Will' → he/she/it/you/they.\n• Signal words: by this time next year, by 2030, by the time he arrives.\n• ⭐ PSC आवर्त्तनं: Auxiliary verb + tense questions PSC-यिले पतिवायি वरुन्नु।\n• उदाहरण sentences:\n  1. By next month, they will have completed the project.\n  2. By the time you arrive, I will have left.\n  3. She will have finished her exams by June.",
+      "wrong": "❌ तेर्राय उत्तरङ्गळँ\n\n• (B) 'shall' — third person subject 'she'-क्क् 'shall' उपयोगिक्किल्ल, इत् 'I'/'we' मात्रं.\n  🦲 PSC Trap: 'shall' ओरु formal/future auxiliary आणेन्न् अरियावुन्नवर् subject श्रद्धिच्चाते इत् तिरंञ॑युं.\n• (C) 'would' — conditional/past future सूचिप्पिक्कुन्न auxiliary आणु, इविडे definite future prediction आयतिनाल् चेरिल्ल.\n• (D) 'should' — obligation/advice सूचिप्पिक्कुन्नु, future completion प्रवचिक्कान् उपयोगिक्किल्ल.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'I/We → SHALL, बाक्कि ऎल्लावरुं → WILL' ऎन्न् ओर्क्कुक.\n• Future Perfect signal phrases ('by the time', 'by next year') ओरु list आयি पडिक्कुक.\n• PSC exam strategy: subject आराणेन्न् आद्यमं नोक्कुक, ऎन्निट्ट् correct auxiliary तिरंञ॑युक — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-15-Q6",
+    "paperId": "HC-DAILY-2026-09-15",
+    "questionNumber": 6,
+    "topic": "Idioms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the idiom in italics:\nI have given you all the information you need, now __the ball is in your court__.",
+    "optionA": "it is now your turn to make a decision or take action",
+    "optionB": "the game has ended in a draw",
+    "optionC": "you have won the competition",
+    "optionD": "you must return the favour immediately",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ शरियुत्तरं: (A) it is now your turn to make a decision or take action\n\n• 'The ball is in your court' ऎन्नत् tennis-ल१ निन्न् वन्न ओरु idiom आणु — ball serve चेय्येण्डतेते आराणो, अवराण् अडुत्ततायি कळिक्केण्डत।\n• Figurative-आयি, 'इनि तीरुमानं/नटपडि ऎडुक्केण्डत् निन्रे ऊर् आणें' ऎन्नर्थं.\n• Business, negotiations, personal decisions ऎन्निवयिलेल्ठलीरें साधारणयायি उपयोगिक्कुन्न idiom.",
+      "rule": "📌n व्याकरण नियमं\n\n• 🔑 Quick Formula: Ball in YOUR court = YOUR turn to act.\n• Sports-based idioms ('ball is in your court', 'level playing field', 'move the goalposts') ओरु group आयি पडिक्कुक.\n• ⭐ PSC आवर्त्तनं: Idioms PSC English section-ले ऎर्रेडेওलठलीरें चोदिक्कुन्न topic आणु — दिवसवुं 2-3 idioms पडिक्कुक.\n• Etymology hint: Tennis, badminton पोलुलल games-ल१ निन्न् उरुत्तिरिघ्न idiom.\n• उदाहरण sentences:\n  1. I've done my part; the ball is in your court now.\n  2. After the proposal, the ball is in the client's court.\n  3. We've made our offer — the ball is in their court.",
+      "wrong": "❌ तेर्राय उत्तरङ्गळँ\n\n• (B) 'the game has ended in a draw' — इत् ई idiom-न्रे अर्थमल्ल, sports result सूचिप्पिक्कुन्नु.\n  🦲 PSC Trap: 'ball', 'court' ऎन्नी sports words कण्ड् sports result-मायি बन्धिप्पिक्कुन्न students इत् तिरंञ॑युं.\n• (C) 'you have won the competition' — victory सूचिप्पिक्कुन्निल्ल, इत् decision/action-नेक्कुरिच्चाण्.\n• (D) 'you must return the favour immediately' — reciprocity idiom अल्ल इत्, मर्रॊरु idiom-मायি confuse चेय्यरुत्.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Tennis court-ल१ ball निन्ने side-ल१ वीणाल्, अडुत्त move निन्न्रेताणेन्न् visualize चेय्तुक.\n• Decision/action idioms ('ball is in your court', 'take the bull by the horns', 'call the shots') ओरुमिच्च् पडिक्कुक.\n• PSC exam strategy: idiom-न्रे literal meaning-ल१ निन्न् confuse आकाते, context-ले figurative sense मात्रमे नोक्कुक — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-15-Q7",
+    "paperId": "HC-DAILY-2026-09-15",
+    "questionNumber": 7,
+    "topic": "Words Often Confused",
+    "difficulty": "medium",
+    "questionText": "Choose the correct word to complete the sentence:\nThe school decided to _____ a new teaching method to improve student engagement.",
+    "optionA": "adapt",
+    "optionB": "adopt",
+    "optionC": "adept",
+    "optionD": "adoptive",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ शरियुत्तरं: (B) adopt\n\n• 'Adopt' ऎन्नाल् 'पुतियतायি स्वीकरिक्कुक/नटप्पिलाक्कुक' ऎन्नर्थं — ओरु पुतिय method, policy, practice ऎन्निव आद्यमायি उपयोगिच्चुतुटङ्गुक.\n• 'Adapt' ऎन्नाल् 'निलविलुळ्ळ ऎन्तेंकिलुं साहचर्यत्तिन् अनुसरिच्च् मार्रुक' ऎन्नर्थं — 'a new teaching method' ऎन्नत् पुतियतायি introduce चेय्युन्नताणु, मार्रुन्नतल्ल.\n• अतुकॊण्डु 'adopt a new method' आणु शरियाय collocation.",
+      "rule": "📌n व्याकरण नियमं\n\n• 🔑 Quick Formula: ADOPT = पुतुतायি स्वीकरिक्कुक; ADAPT = मार्रं वरुत्ति योजिप्पिक्कुक.\n• Adopt: a policy, a child, a method, a practice.\n• Adapt: to a new environment, a story (for film), oneself to change.\n• Etymology hint: 'Adopt' Latin 'adoptare' (choose for oneself); 'Adapt' Latin 'adaptare' (to fit).\n• ⭐ PSC आवर्त्तनं: Words Often Confused-ले 'adopt/adapt' ओरु classic pair आणु।\n• उदाहरण sentences:\n  1. The company decided to adopt a new marketing strategy.\n  2. She had to adapt to the new work culture.\n  3. The novel was adapted into a film; the school adopted a new curriculum.",
+      "wrong": "❌ तेर्राय उत्तरङ्गळँ\n\n• (A) 'adapt' — ओरु existing method-ने मार्रुन्नतिन् उपयोगिक्कुन्न word आणु, 'a NEW method' introduce चेय्युन्नतिन् चेरिल्ल.\n  🦲 PSC Trap: 'adopt' उं 'adapt' उं spelling-ल१ समानमायतिनाल् students confuse आकुं.\n• (C) 'adept' — इत् ओरु adjective आणु ('skilled'), verb slot-ल१ चेरिल्ल.\n• (D) 'adoptive' — इतुं adjective आणु ('adoptive parents'), verb आयি उपयोगिक्कान् प॥र्रिल्ल.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ADOPT a NEW thing, ADAPT to an OLD situation' ऎन्न् ओर्क्कुक.\n• Confusable word pairs (adopt/adapt, affect/effect, accept/except) ओरु table आयি उण्डाक्कि पडिक्कुक.\n• PSC exam strategy: sentence-ल१ 'new' ऎन्न word उण्डेंकिल् मिक्कवारुं 'adopt' आयিरिक्कुं शरियुत्तरं — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-15-Q8",
+    "paperId": "HC-DAILY-2026-09-15",
+    "questionNumber": 8,
+    "topic": "Word Formation",
+    "difficulty": "medium",
+    "questionText": "Choose the correctly formed word using an appropriate suffix:\nHer _____ towards the injured bird touched everyone at the shelter.",
+    "optionA": "kindly",
+    "optionB": "kindness",
+    "optionC": "kindful",
+    "optionD": "kindify",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ शरियुत्तरं: (B) kindness\n\n• Sentence-ल१ 'Her _____ touched everyone' ऎन्निटत्त् subject आयি ओरु noun वेणं.\n• 'Kind' ऎन्न adjective-ल१ निन्न् '-ness' suffix चेर्त्त् noun उण्डाक्कुन्नु: kind + ness = kindness ('दय' ऎन्नर्थं).\n• '-ness' suffix adjectives-ने abstract nouns आक्कि मार्रुन्न ओरु साधारण pattern आणु.",
+      "rule": "📌n व्याकरण नियमं\n\n• 🔑 Quick Formula: Adjective + -NESS = Abstract Noun (quality/state).\n• Related word family: happy→happiness, kind→kindness, sad→sadness, dark→darkness.\n• '-ly' suffix adverbs/adjectives उण्डाक्कुं (kindly), noun उण्डाक्किल्ल.\n• ⭐ PSC आवर्त्तनं: Word Formation-ले suffix-based noun formation स्थिरमायি चोदिक्कुन्नु।\n• उदाहरण sentences:\n  1. Her kindness was appreciated by all the villagers.\n  2. The darkness of the forest frightened the children.\n  3. His happiness was evident on his face.",
+      "wrong": "❌ तेर्राय उत्तरङ्गळँ\n\n• (A) 'kindly' — इत् adverb/adjective आणु, sentence-न्रे subject slot-ल१ (noun वेण्ड स्थलत्तू) चेरिल्ल.\n  🦲 PSC Trap: 'kind'-ल१ निन्न् ऎर्रेडेওलठ common आयি वरुन्न word 'kindly' आयतिनाल् students इत् तिरंञ॑युं.\n• (C) 'kindful' — इत् ओरु real English word अल्ल.\n• (D) 'kindify' — इतुं ओरु निलविलिल्लात्त word आणु, तेर्राय suffix formation.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: '-NESS = a NOUN, always!' ऎन्न् rhyme चेय्त् ओर्क्कुक.\n• '-ness' suffix उळ्ळ common words (kindness, happiness, sadness, darkness, weakness) ओरु list आयি पडिक्कुक.\n• PSC exam strategy: blank-न् मुन्निल् 'Her/His/The' उं subject slot उं उण्डेंकिल्, noun form वेणमेन्न् उरप्पिक्कुक — ओरिक्कलुं miss आकिल्ल!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-15-Q9",
+    "paperId": "HC-DAILY-2026-09-15",
+    "questionNumber": 9,
+    "topic": "Compound Words",
+    "difficulty": "easy",
+    "questionText": "Identify the compound word that means 'a person who fights fires':",
+    "optionA": "firefighter",
+    "optionB": "firework",
+    "optionC": "firearm",
+    "optionD": "firefly",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ शरियुत्तरं: (A) firefighter\n\n• 'Fire' + 'fighter' चेर्न्न् 'firefighter' ऎन्न compound word उण्डाकुन्नु — 'ती अणय्क्कुन्न आळ्' ऎन्नर्थं.\n• रण्डु independent words चेर्न्न् ओरु पुतिय अर्थमुळ्ळ word उण्डाक्कुन्नताण् compound word-न्रे स्वभावं.\n• 'A person who fights fires' ऎन्न meaning-मायি कृत्यमायি चेरुन्न word इत् मात्रमाणु।",
+      "rule": "📌n व्याकरण नियमं\n\n• 🔑 Quick Formula: Word1 + Word2 = New Meaning (Compound Word).\n• Compound words meaning-ल१ निन्न् predictable आयিरिक्कुं पलप्पोळुं (firefighter = one who fights fire).\n• Related word family: 'fire' उपयोगिच्चुळ्ल मर्रॊरु compounds: fireplace, firework, firearm, firefly.\n• ⭐ PSC आवर्त्तनं: Compound Words topic PSC vocabulary section-ले पतिवायি वरुन्नु।\n• उदाहरण sentences:\n  1. The firefighter rescued the child from the burning building.\n  2. Fireworks lit up the sky during the festival.\n  3. He kept a firearm locked in the cabinet.",
+      "wrong": "❌ तेर्राय उत्तरङ्गळँ\n\n• (B) 'firework' — 'ती उपयोगिच्चुल्ल display/explosive' ऎन्नर्थं, 'तीकळ fight चेय्युन्न आळ्' ऎन्नल्ल.\n  🦲 PSC Trap: 'fire' ऎन्न word share चेय्युन्नतिनाल् students confuse आकुं.\n• (C) 'firearm' — इत् ओरु weapon (gun) आणु, person अल्ल.\n• (D) 'firefly' — इत् ओरु प्राणि (insect) आणु, fire-युमायি fighting-न् बन्धमिल्ल.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'FIGHTER fights FIRE' — firefighter ऎन्न word-न्रे रण्डु parts-उं अर्थवुं ओरुमिच्च् ओर्क्कुक.\n• 'Fire' + different words (fighter, work, arm, fly, place) चेर्त्त् अर्थव्यत्यासं practice चेय्तुक.\n• PSC exam strategy: compound word-न्रे meaning चोद्युम्पोळ्, ओरो रो part-न्ऱেयुं literal meaning चेर्त्त् शरियुत्तरं कण्टेत्तुक — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-15-Q10",
+    "paperId": "HC-DAILY-2026-09-15",
+    "questionNumber": 10,
+    "topic": "Abbreviations",
+    "difficulty": "medium",
+    "questionText": "What does the abbreviation 'IPO' stand for?",
+    "optionA": "Initial Public Offering",
+    "optionB": "International Property Organization",
+    "optionC": "Internal Process Order",
+    "optionD": "Investment Portfolio Option",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ शरियुत्तरं: (A) Initial Public Offering\n\n• 'IPO' ऎन्नत् ओरु company आद्यमायি अतिन्रे shares पॊतुजनङ्गळ्क्क् (stock market-ल१) विल्कुन्न प्रक्रियेसे सूचिप्पिक्कुन्नु.\n• Business/finance context-ल१ वळरे साधारणयायি उपयोगिक्कुन्न abbreviation आणु इत्.\n• 'Initial' (आद्यत्ते) + 'Public' (पॊतु) + 'Offering' (वाग्दानं/विल्पन) ऎन्नी words चेर्न्नाण् ई abbreviation उण्डाकुन्नत्.",
+      "rule": "📌n व्याकरण नियमं\n\n• 🔑 Quick Formula: IPO = I(nitial) P(ublic) O(ffering).\n• Business/Finance abbreviations (IPO, GDP, GNP, EMI, ATM) ओरु group आयি पडिक्कुक.\n• ⭐ PSC आवर्त्तनं: Finance-related abbreviations PSC General English section-ले इटय्क्किडय्क्क् वरुन्नु।\n• उदाहरण sentences:\n  1. The company launched its IPO last month.\n  2. Investors were excited about the upcoming IPO.\n  3. The firm raised crores of rupees through its IPO.",
+      "wrong": "❌ तेर्राय उत्तरङ्गळँ\n\n• (B) 'International Property Organization' — इङ्ङने ओरु स्थापनं इल्ल, invented expansion आणु.\n  🦲 PSC Trap: 'International' ऎन्न word 'I'-युमायি चेरुन्नतिनाल् students confuse आकुं.\n• (C) 'Internal Process Order' — इत् ओरु तेर्राय, निलविलिल्लात्त expansion आणु.\n• (D) 'Investment Portfolio Option' — finance-मायি बन्धप्पेट्टतायি तोन्नामेंकिलुं इत् 'IPO'-युडे यथार्थ expansion अल्ल.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'I Put money Offering' ऎन्न funny phrase उपयोगिच्च् IPO ओर्क्कुक.\n• Business abbreviations ओरु दिवसं 2-3 ऎण्णं वीतं पडिच्च् list उण्डाक्कुक.\n• PSC exam strategy: fake/invented expansions (similar-sounding but wrong) options-ल१ श्रद्धिक्कुक, official expansion मात्रमे ओर्त्तुवय्क्कुक — guaranteed mark!"
+    }
   }
 ]
