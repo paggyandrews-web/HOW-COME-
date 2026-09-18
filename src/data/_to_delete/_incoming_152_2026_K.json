@@ -1,0 +1,374 @@
+{
+  "paper": {
+    "id": "152-2026-K",
+    "paperCode": "152/2026/OL",
+    "post": "Clerk (Kannada and Malayalam Knowing) - Various",
+    "date": "10-Sep-2026",
+    "medium": "K",
+    "year": "2026",
+    "categoryCode": "672/2025",
+    "answerKeyStatus": "provisional"
+  },
+  "questions": [
+    {
+      "id": "152-2026-K-Q81",
+      "paperId": "152-2026-K",
+      "questionNumber": 81,
+      "topic": "Correlatives",
+      "questionText": "Choose the correct word to fill in the blank.\nNo sooner had the train arrived _____________ the passenger rushed in.",
+      "optionA": "when",
+      "optionB": "than",
+      "optionC": "then",
+      "optionD": "that",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) than\n• 'No sooner' എന്ന correlative-ന്റെ ജോഡി എപ്പോഴും 'than' ആണ് — ഇത് ഒരു fixed pair ആണ്, മാറ്റാൻ പറ്റില്ല.\n• 'No sooner... than' എന്നാൽ \"ഒന്ന് സംഭവിച്ച ഉടനെ തന്നെ മറ്റൊന്ന് സംഭവിച്ചു\" എന്നാണ് അർത്ഥം.\n• വാചകത്തിന്റെ അർത്ഥം: 'ട്രെയിൻ എത്തിയതും യാത്രക്കാരൻ ഓടിക്കയറി.'\n• 'Sooner' ഒരു comparative word ആണ് (soon → sooner) — comparative-ന് ശേഷം 'than' വരുന്നത് സ്വാഭാവികമാണ് എന്ന് ഓർത്താൽ മതി.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: No sooner + had + Subject + V3 + than + Past Simple\n• 'No sooner' വാചകത്തിന്റെ തുടക്കത്തിൽ വന്നാൽ inversion നിർബന്ധമാണ് — 'had' subject-ന് മുൻപേ വരും (No sooner had the train arrived).\n• ഇതേ അർത്ഥമുള്ള മറ്റൊരു pair: 'Hardly/Scarcely... when' — ഇവിടെ 'than' അല്ല, 'when' ആണ് വരുന്നത്.\n• Correlative ജോഡികൾ: either–or, neither–nor, not only–but also, both–and, whether–or, no sooner–than, hardly–when, lest–should.\n• ⭐ PSC ആവർത്തനം: 'No sooner... than' PSC-യുടെ ഏറ്റവും പ്രിയപ്പെട്ട correlative ചോദ്യങ്ങളിൽ ഒന്നാണ് — മിക്കവാറും എല്ലാ വർഷവും വരും!\n• ഉദാഹരണ sentences:\n1. No sooner had the bell rung than the students ran out. (ബെൽ അടിച്ചതും കുട്ടികൾ പുറത്തേക്കോടി)\n2. No sooner did he see the police than he fled. (പോലീസിനെ കണ്ടതും അവൻ ഓടിപ്പോയി)\n3. Hardly had I reached home when it started raining. (വീട്ടിലെത്തിയതും മഴ തുടങ്ങി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n(A) when\n• 'When' ജോഡിയാകുന്നത് 'Hardly/Scarcely'-യോടാണ്, 'No sooner'-നോട് അല്ല.\n• 🪤 PSC Trap: അർത്ഥം നോക്കിയാൽ 'when' ശരിയാണെന്ന് തോന്നും — അതുകൊണ്ടാണ് ഇത് ഏറ്റവും വലിയ കെണി. Hardly–when, No sooner–than എന്ന് വേർതിരിച്ച് ഓർക്കണം.\n(C) then\n• 'Then' എന്നാൽ 'അതിനുശേഷം' എന്ന adverb ആണ് — correlative അല്ല.\n• 🪤 PSC Trap: 'than', 'then' എന്നിവയുടെ spelling സാമ്യം ഉപയോഗിച്ച് ആശയക്കുഴപ്പം ഉണ്ടാക്കാനാണ് ഇത് വെച്ചിരിക്കുന്നത്.\n(D) that\n• 'That' ഒരു conjunction/relative pronoun ആണ്; 'No sooner'-ന്റെ ജോഡിയായി ഒരിക്കലും വരില്ല.\n• 🪤 PSC Trap: 'so... that' എന്ന pair-മായി കൂട്ടിക്കുഴയ്ക്കാൻ വേണ്ടി വെച്ചതാണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"SOONER-ന് THAN, HARDLY-ക്ക് WHEN\" — sooner ഒരു comparative ആണ്; comparative-ന് ശേഷം എപ്പോഴും than തന്നെ വരും എന്ന് നമുക്കറിയാമല്ലോ. Hardly-യിലും When-ലും ഒരു 'H' ഉണ്ട് — ആ രണ്ടു പേരും ഒരേ വീട്ടുകാരാണ് എന്ന് ഓർത്തുവയ്ക്കുക!\n• Rule family ഒരുമിച്ച് പഠിക്കുക: no sooner–than | hardly–when | scarcely–when | barely–when | lest–should.\n• PSC exam strategy: വാചകം 'No sooner' കൊണ്ട് തുടങ്ങിയാൽ options നോക്കാതെ തന്നെ 'than' തിരയുക — guaranteed mark!\n• ഓർക്കുക: ഈ ജോഡികളെ ഒരിക്കലും തമ്മിൽ മാറ്റിക്കെട്ടരുത് — No sooner... when എന്നോ Hardly... than എന്നോ എഴുതിയാൽ മാർക്ക് പോകും."
+      }
+    },
+    {
+      "id": "152-2026-K-Q82",
+      "paperId": "152-2026-K",
+      "questionNumber": 82,
+      "topic": "Subject-Verb Agreement",
+      "questionText": "Which of the following sentences is/are correct?\n(i) Every man and every woman have rights.\n(ii) Neither of the books is available.\n(iii) The teacher as well as his students has arrived.",
+      "optionA": "Only (i)",
+      "optionB": "Only (ii)",
+      "optionC": "Only (i) and (ii)",
+      "optionD": "Only (ii) and (iii)",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) Only (ii) and (iii)\n• (i) തെറ്റാണ് — 'Every' കൊണ്ട് തുടങ്ങുന്ന രണ്ട് singular nouns 'and' കൊണ്ട് ചേർത്താലും verb singular ആയിരിക്കും → 'Every man and every woman HAS rights.'\n• (ii) ശരിയാണ് — 'Neither of + plural noun' വന്നാലും subject 'neither' ആണ്, അത് singular ആണ് → 'is' ശരി.\n• (iii) ശരിയാണ് — 'as well as' കൊണ്ട് ചേർക്കുന്ന ഭാഗം verb-നെ ബാധിക്കില്ല; ആദ്യത്തെ subject 'The teacher' singular ആയതിനാൽ 'has arrived' ശരി.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Every/Each + noun and every/each + noun → Singular verb\n• 'Each, every, either, neither, everyone, somebody' — ഇവയെല്ലാം singular subjects ആണ്; singular verb ആണ് വേണ്ടത്.\n• 'As well as, along with, together with, with, besides, in addition to' — ഇവയ്ക്ക് ശേഷമുള്ള noun verb-നെ നിയന്ത്രിക്കില്ല; ആദ്യത്തെ subject നോക്കിയാണ് verb തീരുമാനിക്കുന്നത്.\n• ⭐ PSC ആവർത്തനം: 'as well as', 'neither of', 'every... and every' — ഈ മൂന്ന് നിയമങ്ങളും PSC വീണ്ടും വീണ്ടും ചോദിക്കുന്നവയാണ്.\n• ഉദാഹരണ sentences:\n1. Every boy and every girl was given a prize. (ഓരോ ആൺകുട്ടിക്കും പെൺകുട്ടിക്കും സമ്മാനം കിട്ടി)\n2. Neither of the answers is correct. (രണ്ട് ഉത്തരങ്ങളിൽ ഒന്നും ശരിയല്ല)\n3. The captain, along with his players, is ready. (ക്യാപ്റ്റനും കളിക്കാരും തയ്യാർ)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n(A) Only (i)\n• (i) തന്നെ തെറ്റാണ് — 'have' എന്നതിന് പകരം 'has' വേണം.\n• 🪤 PSC Trap: 'man AND woman' — രണ്ട് പേർ ഉള്ളതുകൊണ്ട് plural verb വേണമെന്ന് തോന്നിപ്പിക്കുന്ന കെണി. 'Every' ഉണ്ടെങ്കിൽ singular മതി.\n(B) Only (ii)\n• (ii) ശരിയാണ്, പക്ഷേ (iii)-ഉം ശരിയാണ് — അതുകൊണ്ട് ഈ ഉത്തരം അപൂർണ്ണമാണ്.\n• 🪤 PSC Trap: 'his students has' കേൾക്കുമ്പോൾ ചെവിക്ക് തെറ്റാണെന്ന് തോന്നും — അങ്ങനെ (iii) ഒഴിവാക്കിപ്പോകുന്നവരെ പിടിക്കാനുള്ളതാണ് ഇത്.\n(C) Only (i) and (ii)\n• തെറ്റായ (i) ഉൾപ്പെടുത്തുകയും ശരിയായ (iii) ഒഴിവാക്കുകയും ചെയ്യുന്നു — രണ്ട് തെറ്റും ഒന്നിച്ച്.\n• 🪤 PSC Trap: 'and = plural', 'students = plural' എന്ന ഉപരിപ്ലവമായ ചിന്തയെ ലക്ഷ്യമിട്ടുള്ളതാണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"AS WELL AS = അതിഥി!\" — as well as-ന് ശേഷം വരുന്നവർ അതിഥികളാണ്; വീട്ടുടമസ്ഥൻ (ആദ്യ subject) ആണ് verb തീരുമാനിക്കുന്നത്.\n• 'Every/Each' കണ്ടാൽ എത്ര 'and' ഉണ്ടെങ്കിലും singular — ഇത് ഒരു 'ഓരോരുത്തരായി' എണ്ണുന്ന വാക്കാണ്.\n• PSC exam strategy: \"Which is/are correct\" ചോദ്യങ്ങളിൽ ഓരോ വാചകവും വെവ്വേറെ പരിശോധിച്ച് ✓/✗ ഇടുക, എന്നിട്ട് option ചേർത്തുനോക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "152-2026-K-Q83",
+      "paperId": "152-2026-K",
+      "questionNumber": 83,
+      "topic": "Correction of Sentences",
+      "questionText": "Choose the grammatically correct sentence.",
+      "optionA": "The teacher is awaiting for your answer.",
+      "optionB": "The teacher is awaiting your answer.",
+      "optionC": "The teacher await for your answer.",
+      "optionD": "The teacher is awaiting to your answer.",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) The teacher is awaiting your answer.\n• 'Await' എന്ന verb-ന് ശേഷം നേരിട്ട് object വരും — ഇടയിൽ ഒരു preposition-ഉം വേണ്ട.\n• 'Await' = 'wait for' — 'for' ഇതിനകം തന്നെ 'await'-ന്റെ അർത്ഥത്തിൽ അടങ്ങിയിട്ടുണ്ട്.\n• അർത്ഥം: 'ടീച്ചർ നിങ്ങളുടെ ഉത്തരത്തിനായി കാത്തിരിക്കുന്നു.'\n• Subject singular (The teacher) ആയതിനാൽ 'is awaiting' എന്ന Present Continuous form കൃത്യമാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: AWAIT + object (no preposition) | WAIT + FOR + object\n• 'Await' ഒരു transitive verb ആണ് — നേരിട്ട് object എടുക്കും.\n• 'Wait' ഒരു intransitive verb ആണ് — object വേണമെങ്കിൽ 'for' ചേർക്കണം.\n• ഇതേ പോലെ preposition വേണ്ടാത്ത verbs: discuss (not discuss about), enter (not enter into a room), reach (not reach to), resemble (not resemble with), attack (not attack on).\n• ⭐ PSC ആവർത്തനം: 'Unnecessary preposition' ചോദ്യങ്ങൾ — discuss about, await for, reach to — PSC-യുടെ സ്ഥിരം വിഭവമാണ്!\n• ഉദാഹരണ sentences:\n1. We are awaiting your reply. (നിങ്ങളുടെ മറുപടിക്കായി ഞങ്ങൾ കാത്തിരിക്കുന്നു)\n2. We are waiting for the bus. (ഞങ്ങൾ ബസ്സിനായി കാത്തുനിൽക്കുന്നു)\n3. They discussed the problem. (അവർ പ്രശ്നം ചർച്ച ചെയ്തു)\n• ശ്രദ്ധിക്കുക: ഒരു verb-ന്റെ അർത്ഥത്തിൽ തന്നെ preposition അടങ്ങിയിട്ടുണ്ടെങ്കിൽ, വീണ്ടും preposition ചേർക്കുന്നത് ആവർത്തനമാണ് — അത് തെറ്റായി കണക്കാക്കും.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n(A) The teacher is awaiting for your answer.\n• 'Await for' എന്നത് ആവർത്തനമാണ് — await-ൽ തന്നെ 'for' അടങ്ങിയിട്ടുണ്ട്.\n• 🪤 PSC Trap: 'wait for' എന്ന പരിചിത pattern മനസ്സിലുള്ളതുകൊണ്ട് 'await for' ശരിയാണെന്ന് തോന്നും — അതാണ് കെണി.\n(C) The teacher await for your answer.\n• രണ്ട് തെറ്റുകൾ: singular subject-ന് 'awaits' വേണം, കൂടാതെ 'for' അനാവശ്യമാണ്.\n• 🪤 PSC Trap: Subject-verb agreement തെറ്റും preposition തെറ്റും ഒരുമിച്ച് ഒളിപ്പിച്ചിരിക്കുന്നു.\n(D) The teacher is awaiting to your answer.\n• 'Await to' എന്ന pattern ഇംഗ്ലീഷിൽ ഇല്ല — 'to' ഇവിടെ തെറ്റായ preposition ആണ്.\n• 🪤 PSC Trap: 'look forward to' പോലുള്ള expressions ഓർമ്മയിൽ വരുത്തി കുഴപ്പിക്കാൻ.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"A-WAIT = WAIT + FOR ഒന്നിച്ച്!\" — 'a' എന്ന അക്ഷരം തന്നെ 'for'-ന്റെ ജോലി ചെയ്യുന്നു; വീണ്ടും for ഇടേണ്ട.\n• ഒരുമിച്ച് പഠിക്കേണ്ട 'no-preposition' verbs: await, discuss, enter, reach, resemble, attack, marry, order, request.\n• PSC exam strategy: 'Correct sentence' ചോദ്യങ്ങളിൽ ആദ്യം verb + preposition combination പരിശോധിക്കുക, പിന്നെ subject-verb agreement — രണ്ട് സ്റ്റെപ്പിൽ ഉത്തരം ഉറപ്പ്!"
+      }
+    },
+    {
+      "id": "152-2026-K-Q84",
+      "paperId": "152-2026-K",
+      "questionNumber": 84,
+      "topic": "Degrees of Comparison",
+      "questionText": "Choose the correct degree of comparison to complete the sentence.\nNo other gadget is _________ common than the mobile phone.",
+      "optionA": "more",
+      "optionB": "most",
+      "optionC": "as",
+      "optionD": "very",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) more\n• വാചകത്തിൽ 'than' ഉണ്ട് — 'than' വരുന്നിടത്ത് comparative degree നിർബന്ധമാണ്.\n• 'Common'-ന്റെ comparative form 'more common' ആണ് (commoner എന്നും ചിലപ്പോൾ ഉപയോഗിക്കും).\n• അർത്ഥം: 'മൊബൈൽ ഫോണിനേക്കാൾ സാധാരണമായ മറ്റൊരു ഉപകരണവും ഇല്ല' — അതായത് മൊബൈൽ ഫോൺ ആണ് ഏറ്റവും സാധാരണം.\n• ഇത് superlative അർത്ഥം comparative degree ഉപയോഗിച്ച് പറയുന്ന രീതിയാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: No other + noun + is + COMPARATIVE + than + X = X is the SUPERLATIVE\n• ഒരേ ആശയം മൂന്ന് degree-കളിലും പറയാം:\n  – Positive: No other gadget is as common as the mobile phone. (മൊബൈൽ ഫോണിനോളം സാധാരണമായ മറ്റൊരു ഉപകരണമില്ല)\n  – Comparative: No other gadget is more common than the mobile phone. (മൊബൈൽ ഫോണിനേക്കാൾ സാധാരണമായ മറ്റൊന്നില്ല)\n  – Superlative: The mobile phone is the most common gadget. (മൊബൈൽ ഫോൺ ആണ് ഏറ്റവും സാധാരണമായ ഉപകരണം)\n• വാചകത്തിൽ 'than' ഉണ്ടെങ്കിൽ comparative, 'as... as' ഉണ്ടെങ്കിൽ positive, 'the... of/in' ഉണ്ടെങ്കിൽ superlative — ഈ signal words നോക്കിയാണ് degree തീരുമാനിക്കേണ്ടത്.\n• ⭐ PSC ആവർത്തനം: Degree മാറ്റം (transformation) ചോദ്യങ്ങളും 'No other' pattern-ഉം PSC പതിവായി ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. No other river in India is longer than the Ganga. (ഗംഗയേക്കാൾ നീളമുള്ള മറ്റൊരു നദിയില്ല)\n2. No other metal is as precious as gold. (സ്വർണ്ണത്തോളം വിലയുള്ള മറ്റൊരു ലോഹമില്ല)\n3. Everest is the highest peak in the world. (എവറസ്റ്റ് ആണ് ഏറ്റവും ഉയരമുള്ള കൊടുമുടി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n(B) most\n• 'Most' superlative ആണ് — superlative-നൊപ്പം 'than' ഒരിക്കലും വരില്ല.\n• 🪤 PSC Trap: വാചകത്തിന്റെ അർത്ഥം superlative ആയതുകൊണ്ട് 'most' ഇടാൻ തോന്നും — പക്ഷേ grammar നോക്കുന്നത് 'than' ആണ്.\n(C) as\n• 'As' വരണമെങ്കിൽ 'as... as' എന്ന pair വേണം — ഇവിടെ രണ്ടാമത്തേത് 'than' ആണ്.\n• 🪤 PSC Trap: Positive degree transformation ('as common as') ഓർമ്മിപ്പിക്കാനാണ് ഇത്.\n(D) very\n• 'Very' ഒരു intensifier ആണ് — comparison കാണിക്കില്ല; 'very common than' തെറ്റാണ്.\n• 🪤 PSC Trap: 'very common' കേൾക്കാൻ സ്വാഭാവികം ആയതിനാൽ തിടുക്കത്തിൽ തിരഞ്ഞെടുത്തുപോകും.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"THAN കണ്ടാൽ ER/MORE!\" — than എന്ന വാക്ക് comparative-ന്റെ ഒപ്പം മാത്രം നടക്കുന്ന കൂട്ടുകാരനാണ്.\n• Degree signal words ഒരുമിച്ച്: as...as / so...as (positive), than (comparative), the...of/in/among (superlative).\n• PSC exam strategy: Blank-ന് ശേഷമുള്ള വാക്ക് നോക്കുക — 'than' ആണെങ്കിൽ comparative, 'as' ആണെങ്കിൽ positive. ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+      }
+    },
+    {
+      "id": "152-2026-K-Q85",
+      "paperId": "152-2026-K",
+      "questionNumber": 85,
+      "topic": "Question Tags",
+      "questionText": "Add a suitable question tag.\nWe could hardly understand what he explained, __________?",
+      "optionA": "couldn't we",
+      "optionB": "could we",
+      "optionC": "can we",
+      "optionD": "do we",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) could we\n• 'Hardly' ഒരു negative meaning ഉള്ള വാക്കാണ് — \"കഷ്ടിച്ച് / ഏതാണ്ട് ഇല്ല\" എന്നർത്ഥം.\n• വാചകം രൂപത്തിൽ positive ആണെങ്കിലും അർത്ഥത്തിൽ negative ആണ് — അതുകൊണ്ട് tag positive ആയിരിക്കണം.\n• Auxiliary verb 'could' ആയതിനാൽ tag-ലും 'could' തന്നെ → 'could we?'\n• അർത്ഥം: 'അവൻ വിശദീകരിച്ചത് നമുക്ക് കഷ്ടിച്ചേ മനസ്സിലായുള്ളൂ, അല്ലേ?'",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Negative-meaning word (hardly, scarcely, barely, seldom, rarely, never, few, little) → POSITIVE tag\n• സാധാരണ നിയമം: Positive sentence → negative tag; Negative sentence → positive tag.\n• Tag-ൽ വാചകത്തിലെ അതേ auxiliary verb ഉം subject-ന്റെ pronoun-ഉം വരണം.\n• ⭐ PSC ആവർത്തനം: 'hardly/seldom/few' ഉള്ള question tag ചോദ്യങ്ങൾ PSC-യുടെ favourite trap ആണ്!\n• ഉദാഹരണ sentences:\n1. She seldom comes late, does she? (അവൾ അപൂർവമായേ വൈകാറുള്ളൂ, അല്ലേ?)\n2. Few people know the truth, do they? (വളരെ കുറച്ചു പേർക്കേ സത്യം അറിയൂ, അല്ലേ?)\n3. He can hardly walk, can he? (അവന് കഷ്ടിച്ചേ നടക്കാനാവൂ, അല്ലേ?)\n• ശ്രദ്ധിക്കുക: ഇത്തരം വാക്കുകൾ ഉള്ള വാചകം കാഴ്ചയിൽ positive ആണെങ്കിലും അർത്ഥത്തിൽ negative ആണ് — tag തീരുമാനിക്കുന്നത് അർത്ഥമാണ്, കാഴ്ചയല്ല.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n(A) couldn't we\n• വാചകം positive ആണെന്ന് കരുതി negative tag ഇട്ടതാണ് — 'hardly'-യുടെ negative അർത്ഥം അവഗണിച്ചു.\n• 🪤 PSC Trap: വാചകത്തിൽ 'not' ഇല്ലാത്തതുകൊണ്ട് positive ആണെന്ന് തോന്നിപ്പിക്കുന്ന ഏറ്റവും വലിയ കെണി ഇതാണ്!\n(C) can we\n• Auxiliary 'could' ആണ്, 'can' അല്ല — tag-ൽ അതേ auxiliary തന്നെ വേണം; tense മാറ്റാൻ പാടില്ല.\n• 🪤 PSC Trap: Positive tag ആണെന്ന് മനസ്സിലാക്കിയവരെ auxiliary മാറ്റം കൊണ്ട് വീഴ്ത്താൻ.\n(D) do we\n• 'Do' ഉപയോഗിക്കുന്നത് വാചകത്തിൽ auxiliary ഇല്ലാത്തപ്പോൾ മാത്രമാണ്; ഇവിടെ 'could' ഉണ്ട്.\n• 🪤 PSC Trap: 'understand' എന്ന main verb കണ്ട് do/does ഇടാൻ തോന്നിപ്പിക്കുന്നു.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"H-S-B-S-R — Hardly, Scarcely, Barely, Seldom, Rarely — ഇവർ 'NOT'-ന്റെ വേഷം മാറിയ ബന്ധുക്കൾ!\" — ഇവരെ കണ്ടാൽ tag positive.\n• Rule family: few, little, no, none, nobody, nothing, never — ഇവയ്ക്കും positive tag.\n• PSC exam strategy: രണ്ട് സ്റ്റെപ്പ് — (1) വാചകത്തിൽ negative meaning ഉള്ള വാക്കുണ്ടോ? (2) Auxiliary ഏത്? ഈ രണ്ടും ചെക്ക് ചെയ്താൽ ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "152-2026-K-Q86",
+      "paperId": "152-2026-K",
+      "questionNumber": 86,
+      "topic": "Direct and Indirect Speech",
+      "questionText": "Choose the alternatives.\nHe said that I _________ use his laptop at any time.",
+      "optionA": "may",
+      "optionB": "could",
+      "optionC": "can",
+      "optionD": "will",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) could\n• Reporting verb 'said' Past Tense-ൽ ആണ് — അതുകൊണ്ട് reported clause-ലും backshift നടക്കണം.\n• Direct speech ഇങ്ങനെയായിരുന്നു: He said to me, \"You can use my laptop at any time.\"\n• Indirect speech-ൽ 'can' → 'could' ആയി മാറും.\n• അർത്ഥം: 'എപ്പോൾ വേണമെങ്കിലും അവന്റെ ലാപ്ടോപ്പ് ഉപയോഗിക്കാമെന്ന് അവൻ പറഞ്ഞു.' — ഇവിടെ അനുവാദം/കഴിവ് ആണ് അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Past reporting verb → Modal backshift: can→could, may→might, will→would, shall→should\n• Reporting verb Present/Future ആണെങ്കിൽ (says, will say) tense മാറ്റം വേണ്ട.\n• Could, might, would, should, ought to, must — ഇവ ഇതിനകം തന്നെ past രൂപങ്ങൾ ആയതിനാൽ indirect speech-ൽ സാധാരണയായി മാറ്റമില്ലാതെ തുടരും.\n• ഓർക്കുക: 'can' എന്നതിന് കഴിവ്, അനുവാദം എന്നീ രണ്ട് അർത്ഥങ്ങളും ഉണ്ട് — രണ്ടിലും backshift ചെയ്യുമ്പോൾ 'could' തന്നെയാണ് വരുന്നത്.\n• Pronoun-ഉം മാറും: direct speech-ലെ 'you' → 'I', 'my' → 'his' എന്നിങ്ങനെ — ഈ ചോദ്യത്തിലും 'my laptop' എന്നത് 'his laptop' ആയി മാറിയത് ശ്രദ്ധിക്കുക.\n• ⭐ PSC ആവർത്തനം: Direct → Indirect-ലെ modal backshift PSC-യിൽ പതിവായി വരുന്ന ചോദ്യമാണ്.\n• ഉദാഹരണ sentences:\n1. She said that she could swim. (തനിക്ക് നീന്താൻ അറിയാമെന്ന് അവൾ പറഞ്ഞു)\n2. He said that he might come late. (താൻ വൈകിയേക്കാമെന്ന് അവൻ പറഞ്ഞു)\n3. They said that they would help us. (ഞങ്ങളെ സഹായിക്കാമെന്ന് അവർ പറഞ്ഞു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n(A) may\n• 'May' present form ആണ്; past reporting verb-ന് ശേഷം അത് 'might' ആയി മാറണം.\n• 🪤 PSC Trap: 'May' അനുവാദം കാണിക്കുന്ന വാക്കായതുകൊണ്ട് അർത്ഥം നോക്കി തിരഞ്ഞെടുക്കുന്നവരെ വീഴ്ത്താൻ.\n(C) can\n• Direct speech-ലെ original word ആണിത് — backshift ചെയ്യാതെ അതേപടി ഇട്ടാൽ തെറ്റാണ്.\n• 🪤 PSC Trap: 'at any time' എന്ന ഭാഗം കാരണം ഇപ്പോഴും ബാധകമാണെന്ന് തോന്നി can ഇടാൻ പ്രേരിപ്പിക്കുന്നു.\n(D) will\n• 'Will' future ആണ്, അർത്ഥവും ചേരില്ല — backshift ആണെങ്കിൽ 'would' വേണ്ടിയിരുന്നു.\n• 🪤 PSC Trap: Modal list-ൽ നിന്ന് ഒരു distractor ആയി വെച്ചതാണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"SAID വന്നാൽ ഒരു പടി പിന്നോട്ട്!\" — can→could, may→might, will→would, shall→should. Present modal-ന് 'past ചേട്ടൻ' ഉണ്ട്; said കണ്ടാൽ ചേട്ടനെ വിളിക്കുക.\n• Tense backshift family: is→was, has→had, did→had done, will→would — ഈ പട്ടിക ഒരു തവണ കാണാതെ പഠിച്ചാൽ indirect speech ചോദ്യങ്ങൾ എല്ലാം എളുപ്പമാകും.\n• PSC exam strategy: ആദ്യം reporting verb-ന്റെ tense നോക്കുക. Past ആണെങ്കിൽ options-ലെ past modal (could/might/would) തിരഞ്ഞെടുക്കുക — guaranteed mark!\n• ശ്രദ്ധിക്കുക: reporting verb 'says' (present) ആണെങ്കിൽ ഒരു മാറ്റവും വേണ്ട — അപ്പോൾ 'can' അതേപടി നിൽക്കും."
+      }
+    },
+    {
+      "id": "152-2026-K-Q87",
+      "paperId": "152-2026-K",
+      "questionNumber": 87,
+      "topic": "Prepositions",
+      "questionText": "I have not met him ___________ last Wednesday.",
+      "optionA": "since",
+      "optionB": "from",
+      "optionC": "for",
+      "optionD": "by",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) since\n• 'Last Wednesday' ഒരു point of time ആണ് — കൃത്യമായ ഒരു ആരംഭ ദിവസം.\n• Present Perfect tense-ൽ (have not met) ഒരു ആരംഭ സമയം സൂചിപ്പിക്കാൻ 'since' ഉപയോഗിക്കുന്നു.\n• അർത്ഥം: 'കഴിഞ്ഞ ബുധനാഴ്ച മുതൽ ഞാൻ അവനെ കണ്ടിട്ടില്ല.'",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: SINCE + point of time | FOR + period of time (both with Perfect Tense)\n• Since: since Monday, since 2010, since morning, since last week, since childhood.\n• For: for two days, for three years, for a long time, for an hour.\n• 'From' സാധാരണയായി 'from... to/till' രീതിയിൽ ആരംഭവും അവസാനവും കാണിക്കാനാണ് — Present Perfect-ൽ 'since' ആണ് ശരി.\n• ⭐ PSC ആവർത്തനം: Since/For ചോദ്യം PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന preposition ചോദ്യങ്ങളിൽ ഒന്നാണ്!\n• ഉദാഹരണ sentences:\n1. She has been ill since Monday. (തിങ്കളാഴ്ച മുതൽ അവൾ രോഗിയാണ്)\n2. He has lived here for ten years. (പത്തു വർഷമായി അവൻ ഇവിടെ താമസിക്കുന്നു)\n3. The shop is open from 9 a.m. to 6 p.m. (രാവിലെ 9 മുതൽ വൈകിട്ട് 6 വരെ)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n(B) from\n• 'From' ഒരു ആരംഭ ബിന്ദു കാണിക്കുമെങ്കിലും Present Perfect-നൊപ്പം 'since' ആണ് standard.\n• 🪤 PSC Trap: മലയാളത്തിൽ 'മുതൽ' = from എന്ന് നേരിട്ട് translate ചെയ്യുന്നവരെ ലക്ഷ്യമിട്ടുള്ളതാണ് — ഏറ്റവും അപകടകരമായ option!\n(C) for\n• 'For' ഒരു കാലയളവിന് (duration) ആണ് — 'last Wednesday' ഒരു duration അല്ല.\n• 🪤 PSC Trap: Since/For confusion ആണ് ഈ ചോദ്യത്തിന്റെ അടിസ്ഥാനം.\n(D) by\n• 'By' എന്നാൽ 'ഒരു സമയത്തിനുള്ളിൽ/മുമ്പ്' (deadline) എന്നാണ് — 'by Wednesday' = ബുധനാഴ്ചയ്ക്കകം.\n• 🪤 PSC Trap: സമയവുമായി ബന്ധമുള്ള preposition ആയതുകൊണ്ട് ഒരു distractor ആയി വെച്ചിരിക്കുന്നു.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"SINCE = STARTING POINT (S-S), FOR = FULL LENGTH (F-F)!\" — ആരംഭ ദിവസം → since; എത്ര നേരം → for.\n• Time preposition family: at (time), on (day/date), in (month/year), since, for, by, till, from–to.\n• PSC exam strategy: Blank-ന് ശേഷമുള്ള വാക്കിനോട് \"എപ്പോൾ മുതൽ?\" എന്ന് ചോദിക്കാമെങ്കിൽ since; \"എത്ര നേരം?\" എന്ന് ചോദിക്കാമെങ്കിൽ for. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "152-2026-K-Q88",
+      "paperId": "152-2026-K",
+      "questionNumber": 88,
+      "topic": "Infinitive and Gerunds",
+      "questionText": "Choose the correct word.\nThe teacher let the students __________ early.",
+      "optionA": "to leave",
+      "optionB": "leaving",
+      "optionC": "leave",
+      "optionD": "left",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) leave\n• 'Let' എന്ന verb-ന് ശേഷം object + bare infinitive (to ഇല്ലാത്ത V1) ആണ് വരേണ്ടത്.\n• Let + the students + leave — 'to' ചേർക്കാൻ പാടില്ല.\n• അർത്ഥം: 'ടീച്ചർ കുട്ടികളെ നേരത്തെ പോകാൻ അനുവദിച്ചു.'",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: LET / MAKE / HAVE / HELP / SEE / HEAR / WATCH + object + V1 (bare infinitive)\n• ഈ verbs-ന് ശേഷം 'to' ഇല്ലാത്ത infinitive ആണ് വരുന്നത്.\n• പക്ഷേ 'allow, permit, ask, want, tell' എന്നിവയ്ക്ക് ശേഷം 'to + V1' വേണം → allow them to leave.\n• Passive voice-ൽ 'make'-ന് 'to' തിരിച്ചുവരും: He was made to work.\n• ⭐ PSC ആവർത്തനം: 'Let/make + bare infinitive' PSC ചോദിച്ചുകൊണ്ടേയിരിക്കുന്ന ഒരു classic ചോദ്യമാണ്.\n• ഉദാഹരണ sentences:\n1. Let me go. (എന്നെ പോകാൻ അനുവദിക്കൂ)\n2. She made him apologise. (അവൾ അവനെക്കൊണ്ട് മാപ്പ് പറയിച്ചു)\n3. I saw him cross the road. (അവൻ റോഡ് കടക്കുന്നത് ഞാൻ കണ്ടു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n(A) to leave\n• 'Let'-ന് ശേഷം 'to' ചേർക്കുന്നത് തെറ്റാണ് — 'allow' ആയിരുന്നെങ്കിൽ 'to leave' ശരിയായേനെ.\n• 🪤 PSC Trap: 'allow to' എന്ന pattern-ഉം let-ഉം ഒരേ അർത്ഥമായതിനാൽ ഇത് ശരിയാണെന്ന് തോന്നിപ്പിക്കും — ഏറ്റവും വലിയ കെണി!\n(B) leaving\n• Gerund (-ing) 'let'-ന് ശേഷം വരില്ല.\n• 🪤 PSC Trap: 'see/hear'-ന് ശേഷം -ing ചിലപ്പോൾ വരാം (I saw him leaving) — ആ ഓർമ്മ ഉപയോഗിച്ച് കുഴപ്പിക്കാൻ.\n(D) left\n• 'Let' Past tense ആണെന്ന് കരുതി രണ്ടാമത്തെ verb-ഉം past ആക്കിയതാണ് — അത് തെറ്റാണ്.\n• 🪤 PSC Trap: Let-ന്റെ past form-ഉം 'let' തന്നെയായതിനാൽ ആശയക്കുഴപ്പം ഉണ്ടാക്കുന്നു.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"LET-നും MAKE-നും TO-നോട് അലർജി!\" — Let, Make, Have, Help, See, Hear — ഇവർ 'to'-യെ കൂടെ കൂട്ടില്ല.\n• ഒരുമിച്ച് പഠിക്കുക: let him go / make him go / see him go (to ഇല്ല) ↔ allow him to go / ask him to go / want him to go (to വേണം) — അർത്ഥം ഒന്നാണെങ്കിലും verb മാറിയാൽ pattern മാറും.\n• PSC exam strategy: Blank-ന് മുമ്പ് let/make/have കണ്ടാൽ 'to' ഇല്ലാത്ത V1 option നേരിട്ട് തിരഞ്ഞെടുക്കുക — guaranteed mark!"
+      }
+    },
+    {
+      "id": "152-2026-K-Q89",
+      "paperId": "152-2026-K",
+      "questionNumber": 89,
+      "topic": "Active and Passive Voice",
+      "questionText": "Choose the correct passive form.\nThe shop sells fresh vegetables every day.",
+      "optionA": "Fresh vegetables have been sold by the shop every day.",
+      "optionB": "Fresh vegetables were sold by the shop every day.",
+      "optionC": "Fresh vegetables are being sold by the shop every day.",
+      "optionD": "Fresh vegetables are sold by the shop every day.",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) Fresh vegetables are sold by the shop every day.\n• Active വാചകം Simple Present tense-ൽ ആണ് (sells) — 'every day' എന്നത് ഒരു habitual action കാണിക്കുന്നു.\n• Simple Present-ന്റെ passive form: am/is/are + V3.\n• Object 'fresh vegetables' plural ആയതിനാൽ 'are sold'.\n• അർത്ഥം: 'പുതിയ പച്ചക്കറികൾ എല്ലാ ദിവസവും കടയിൽ വിൽക്കപ്പെടുന്നു.'",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Active tense = Passive tense ALWAYS! Simple Present → is/am/are + V3\n• Passive table (ഓരോ tense-നും ഒരു പ്രത്യേക രൂപം ഉണ്ട്):\n  – Simple Present: is/are + V3 (ഇവിടെ വേണ്ടത് ഇതാണ്)\n  – Present Continuous: is/are being + V3 (നടന്നുകൊണ്ടിരിക്കുന്ന പ്രവൃത്തി)\n  – Present Perfect: has/have been + V3 (പൂർത്തിയായ പ്രവൃത്തി)\n  – Simple Past: was/were + V3 (കഴിഞ്ഞുപോയ പ്രവൃത്തി)\n• Active-ലെ object ആണ് passive-ൽ subject ആകുന്നത്; active-ലെ subject 'by' ചേർത്ത് വാചകത്തിന്റെ അവസാനത്തേക്ക് പോകും.\n• ⭐ PSC ആവർത്തനം: Tense തിരിച്ചറിഞ്ഞ് passive form തിരഞ്ഞെടുക്കുന്ന ചോദ്യം PSC-യിൽ ഏതാണ്ട് എല്ലാ പേപ്പറിലും വരും!\n• ഉദാഹരണ sentences:\n1. She writes a letter. → A letter is written by her. (Simple Present — is + V3)\n2. They are building a house. → A house is being built by them. (Continuous — being ചേരും)\n3. He has finished the work. → The work has been finished by him. (Perfect — been ചേരും)\n• ഓർക്കുക: 'every day', 'always', 'usually' പോലുള്ള വാക്കുകൾ പതിവ് പ്രവൃത്തിയെ കാണിക്കുന്നു — അവ Simple Present-ന്റെ അടയാളമാണ്.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n(A) Fresh vegetables have been sold by the shop every day.\n• ഇത് Present Perfect passive ആണ് — active-ൽ 'has sold' ഉണ്ടായിരുന്നെങ്കിൽ മാത്രം ശരി.\n• 🪤 PSC Trap: 'every day' കണ്ട് ആവർത്തന പ്രവൃത്തിയാണെന്ന് കരുതി perfect തിരഞ്ഞെടുത്തുപോകും.\n(B) Fresh vegetables were sold by the shop every day.\n• ഇത് Simple Past passive ആണ് — tense മാറിപ്പോയി; active-ൽ 'sold' ആയിരുന്നെങ്കിൽ മാത്രം ശരി.\n• 🪤 PSC Trap: 'sold' എന്ന V3 കണ്ട് past ആണെന്ന് തെറ്റിദ്ധരിക്കുന്നവരെ പിടിക്കാൻ.\n(C) Fresh vegetables are being sold by the shop every day.\n• ഇത് Present Continuous passive ആണ് — active 'is selling' ആയിരുന്നെങ്കിൽ മാത്രം ശരി.\n• 🪤 PSC Trap: 'are' ഉള്ളതുകൊണ്ട് present ആണെന്ന് കണ്ട് തിടുക്കത്തിൽ തിരഞ്ഞെടുക്കാൻ പ്രേരിപ്പിക്കും.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"Tense ഒരു passport ആണ് — voice മാറിയാലും passport മാറില്ല!\" — Active-ലെ tense തന്നെ passive-ലും.\n• Simple tense-കൾക്ക് 'being/been' ഒന്നും വേണ്ട; continuous tense-ന് 'being' ചേരും; perfect tense-ന് 'been' ചേരും — ഈ ഒരു വരി ഓർത്താൽ മതി.\n• PSC exam strategy: ആദ്യം active verb-ന്റെ tense പേര് എഴുതിവയ്ക്കുക (sells = Simple Present), എന്നിട്ട് ആ tense-ന്റെ passive formula ഉള്ള option തിരയുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "152-2026-K-Q90",
+      "paperId": "152-2026-K",
+      "questionNumber": 90,
+      "topic": "Parts of Speech",
+      "questionText": "Choose the sentence in which the underlined word functions as an adjective.\n(Underlined words: __loudly__ / __beauty__ / __wooden__ / __late__)",
+      "optionA": "He spoke loudly.",
+      "optionB": "She is a beauty.",
+      "optionC": "This is a wooden table.",
+      "optionD": "He arrived late.",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) This is a wooden table.\n• 'Wooden' എന്ന വാക്ക് 'table' എന്ന noun-നെ വിശേഷിപ്പിക്കുന്നു — \"മരം കൊണ്ടുള്ള മേശ\".\n• ഒരു noun-നെക്കുറിച്ച് കൂടുതൽ വിവരം നൽകുന്ന വാക്കാണ് adjective.\n• 'Wood' (noun) + '-en' (suffix) = 'wooden' (adjective) — 'എന്തുകൊണ്ട് ഉണ്ടാക്കിയത്' എന്ന് കാണിക്കുന്നു.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Noun-നെ വിശേഷിപ്പിച്ചാൽ ADJECTIVE; Verb-നെ വിശേഷിപ്പിച്ചാൽ ADVERB\n• Adjective ചോദ്യം: \"ഏത് തരം?\" (Which/What kind?) → wooden table, golden ring.\n• Adverb ചോദ്യം: \"എങ്ങനെ? എപ്പോൾ?\" (How/When?) → spoke loudly, arrived late.\n• ഒരു വാക്കിന്റെ part of speech തീരുമാനിക്കുന്നത് വാചകത്തിൽ അതിന്റെ ജോലി (function) ആണ്, രൂപം അല്ല.\n• ⭐ PSC ആവർത്തനം: 'The underlined word is a...' എന്ന Parts of Speech ചോദ്യം PSC ഇടയ്ക്കിടെ ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. She wore a golden necklace. (golden → adjective, necklace-നെ വിശേഷിപ്പിക്കുന്നു)\n2. He came late. (late → adverb, came-നെ വിശേഷിപ്പിക്കുന്നു)\n3. The late train reached at night. (late → adjective, train-നെ വിശേഷിപ്പിക്കുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n(A) He spoke loudly.\n• 'Loudly' എന്ന വാക്ക് 'spoke' എന്ന verb-നെ വിശേഷിപ്പിക്കുന്നു — \"എങ്ങനെ സംസാരിച്ചു?\" → adverb.\n• 🪤 PSC Trap: 'loud' ഒരു adjective ആണെന്ന് അറിയുന്നവർ '-ly' ശ്രദ്ധിക്കാതെ തിരഞ്ഞെടുത്തുപോകും.\n(B) She is a beauty.\n• ഇവിടെ 'beauty' ഒരു noun ആണ് — 'a' എന്ന article അതിന് മുമ്പുണ്ട്; \"ഒരു സുന്ദരി\" എന്ന് ഒരു വ്യക്തിയെ സൂചിപ്പിക്കുന്നു.\n• 🪤 PSC Trap: 'She is beautiful' എന്നതിൽ adjective ആണ് — ആ അർത്ഥം ഓർമ്മിപ്പിച്ച് കുഴപ്പിക്കാൻ.\n(D) He arrived late.\n• 'Late' ഇവിടെ 'arrived' എന്ന verb-നെ വിശേഷിപ്പിക്കുന്നു — \"എപ്പോൾ എത്തി?\" → adverb.\n• 🪤 PSC Trap: 'Late' adjective ആയും adverb ആയും വരും (a late train / arrived late) — function നോക്കാത്തവർ വീഴും.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"ADJECTIVE = NOUN-ന്റെ ആഭരണം, ADVERB = VERB-ന്റെ ആഭരണം!\" — ആഭരണം ആരുടെ ദേഹത്താണെന്ന് നോക്കുക.\n• '-en' suffix family (material adjectives): wooden, golden, woollen, silken, earthen.\n• PSC exam strategy: അടിവരയിട്ട വാക്കിനോട് \"ഇത് ആരെ/എന്തിനെ വിശേഷിപ്പിക്കുന്നു?\" എന്ന് ചോദിക്കുക — noun ആണെങ്കിൽ adjective, verb ആണെങ്കിൽ adverb. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "152-2026-K-Q91",
+      "paperId": "152-2026-K",
+      "questionNumber": 91,
+      "topic": "Singular and Plural",
+      "questionText": "The plural form of dynamo is",
+      "optionA": "dynamoes",
+      "optionB": "dynamos",
+      "optionC": "dynamose",
+      "optionD": "dynamoese",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) dynamos\n• 'Dynamo' എന്നാൽ യാന്ത്രിക ഊർജ്ജത്തെ വൈദ്യുതിയാക്കി മാറ്റുന്ന ഒരു ജനറേറ്റർ ആണ് — സൈക്കിളിലെ ലൈറ്റിനുള്ള 'ഡൈനമോ' ഓർക്കുക.\n• 'O'-യിൽ അവസാനിക്കുന്ന ചില nouns-ന് '-es' അല്ല, വെറും '-s' മാത്രമേ ചേർക്കൂ — dynamo അതിൽ ഒന്നാണ്.\n• Dynamo ഗ്രീക്ക് 'dynamis' (ശക്തി) എന്ന വാക്കിൽ നിന്നുള്ള ഒരു shortened/foreign-origin വാക്കാണ് — ഇത്തരം വാക്കുകൾ സാധാരണ '-s' എടുക്കും.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Short forms, foreign/technical words, vowel + o → -s | സാധാരണ consonant + o → -es\n• '-s' മാത്രം ചേർക്കുന്നവ (യന്ത്രങ്ങൾ, ചുരുക്കരൂപങ്ങൾ, വിദേശവാക്കുകൾ): dynamos, photos, pianos, radios, kilos, zoos, studios, logos, videos.\n• '-es' ചേർക്കേണ്ടവ (പഴയ, സാധാരണ ഇംഗ്ലീഷ് വാക്കുകൾ): heroes, potatoes, tomatoes, mangoes, echoes, cargoes, volcanoes.\n• ഓർക്കുക: 'o'-ന് മുമ്പ് ഒരു vowel വന്നാൽ (zoo, radio, studio) എപ്പോഴും '-s' മാത്രം മതി.\n• ⭐ PSC ആവർത്തനം: '-o' വാക്കുകളുടെ plural (photos vs potatoes) PSC പലതവണ ചോദിച്ചിട്ടുണ്ട്!\n• Etymology hint: Dynamo ← Greek 'dynamis' = ശക്തി (dynamic, dynamite എന്നിവയും ഇതേ കുടുംബം).\n• ഉദാഹരണ sentences:\n1. The factory has two dynamos. (ഫാക്ടറിയിൽ രണ്ട് ഡൈനമോകൾ ഉണ്ട്)\n2. She took many photos. (അവൾ ധാരാളം ഫോട്ടോകൾ എടുത്തു)\n3. The farmer grows potatoes. (കർഷകൻ ഉരുളക്കിഴങ്ങ് കൃഷി ചെയ്യുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n(A) dynamoes\n• 'Hero → heroes' പോലെ '-es' ചേർത്തതാണ് — പക്ഷേ dynamo ആ കൂട്ടത്തിൽ പെടില്ല.\n• 🪤 PSC Trap: 'Consonant + o → -es' എന്ന പൊതുനിയമം ഓർക്കുന്നവരെ ലക്ഷ്യമിട്ടുള്ള ഏറ്റവും അപകടകരമായ option!\n(C) dynamose\n• ഇത് ഇംഗ്ലീഷിൽ നിലവിലില്ലാത്ത ഒരു രൂപമാണ് — spelling തന്നെ തെറ്റാണ്.\n• 🪤 PSC Trap: 'dynamos' എന്നതിന്റെ ഉച്ചാരണം പോലെ തോന്നിപ്പിക്കാൻ ഉണ്ടാക്കിയ വ്യാജ രൂപം.\n(D) dynamoese\n• ഇതും നിലവിലില്ലാത്ത രൂപമാണ് — 'Japanese, Chinese' പോലെയുള്ള '-ese' suffix അനുകരിച്ചതാണ്.\n• 🪤 PSC Trap: കണ്ണിനെ കബളിപ്പിക്കാനുള്ള filler option.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"HERO-കൾ POTATO-യും TOMATO-യും MANGO-യും തിന്നുന്നു → ES; PHOTO എടുക്കാൻ PIANO-യും RADIO-യും DYNAMO-യും → S!\" — ഭക്ഷണം കഴിക്കുന്നവർ ES, യന്ത്രങ്ങൾ S.\n• '-s' family: photos, pianos, radios, dynamos, kilos, logos | '-es' family: heroes, echoes, potatoes, tomatoes, mangoes — ഈ രണ്ട് കൂട്ടങ്ങളും ഒരുമിച്ച് ഓർത്തുവയ്ക്കുക.\n• PSC exam strategy: യന്ത്രം/ഉപകരണം/ചുരുക്കരൂപം ആണെങ്കിൽ '-s' — ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+      }
+    },
+    {
+      "id": "152-2026-K-Q92",
+      "paperId": "152-2026-K",
+      "questionNumber": 92,
+      "topic": "Antonyms",
+      "questionText": "The antonym of the word frugal is",
+      "optionA": "Extravagant",
+      "optionB": "Fringy",
+      "optionC": "Miserly",
+      "optionD": "loquacious",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) Extravagant\n• 'Frugal' എന്നാൽ പണം സൂക്ഷിച്ച്, മിതമായി ചെലവാക്കുന്ന — 'മിതവ്യയമുള്ള' എന്ന് അർത്ഥം.\n• 'Extravagant' എന്നാൽ ആവശ്യത്തിലധികം പണം ധൂർത്തടിക്കുന്ന — 'ധാരാളിയായ' എന്ന് അർത്ഥം.\n• അതുകൊണ്ട് frugal-ന്റെ നേർ വിപരീതം extravagant ആണ്.\n• Etymology: Frugal ← Latin 'frugalis' (വിളവ് സൂക്ഷിക്കുന്ന); Extravagant ← Latin 'extra' (പുറത്ത്) + 'vagari' (അലഞ്ഞുനടക്കുക) = പരിധി വിട്ടുപോകുന്ന.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: FRUGAL = മിതവ്യയം ↔ EXTRAVAGANT = ധൂർത്ത്\n• Frugal-ന്റെ synonyms: thrifty, economical, sparing, prudent.\n• Extravagant-ന്റെ synonyms: lavish, wasteful, spendthrift, prodigal.\n• Miserly (പിശുക്കൻ) frugal-ന്റെ അടുത്ത അർത്ഥമുള്ള വാക്കാണ്, പക്ഷേ negative ഭാവത്തോടെ.\n• ⭐ PSC ആവർത്തനം: Frugal, thrifty, prodigal, lavish — ഈ പണവുമായി ബന്ധപ്പെട്ട vocabulary PSC പലവട്ടം ചോദിച്ചിട്ടുണ്ട്.\n• ഉദാഹരണ sentences:\n1. He lives a frugal life. (അവൻ മിതവ്യയമുള്ള ജീവിതം നയിക്കുന്നു)\n2. She is extravagant with money. (അവൾ പണം ധൂർത്തടിക്കുന്നവളാണ്)\n3. The king held an extravagant feast. (രാജാവ് ആഡംബരപൂർണ്ണമായ വിരുന്ന് നടത്തി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n(B) Fringy\n• ഇത് ഒരു standard ഇംഗ്ലീഷ് വാക്കല്ല — 'fringe' (അരിക്, തൊങ്ങൽ) എന്നതുമായി ബന്ധപ്പെടുത്തി ഉണ്ടാക്കിയതാണ്.\n• 🪤 PSC Trap: 'Frugal' പോലെ 'Fr-' കൊണ്ട് തുടങ്ങുന്ന സാമ്യം ഉപയോഗിച്ച് ആശയക്കുഴപ്പം ഉണ്ടാക്കുന്നു.\n(C) Miserly\n• 'Miserly' എന്നാൽ 'പിശുക്കുള്ള' — ഇത് frugal-ന്റെ ഏകദേശം synonym ആണ്, antonym അല്ല.\n• 🪤 PSC Trap: Synonym-നെ antonym ചോദ്യത്തിൽ വെക്കുന്നത് PSC-യുടെ ക്ലാസിക് കെണിയാണ് — ചോദ്യം 'antonym' ആണെന്ന് മറക്കരുത്!\n(D) loquacious\n• 'Loquacious' എന്നാൽ 'വായാടിയായ, ഒരുപാട് സംസാരിക്കുന്ന' — പണവുമായി ഒരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: കടുപ്പമുള്ള ഒരു വാക്ക് കണ്ട് അതാണ് ഉത്തരം എന്ന് കരുതുന്നവരെ പിടിക്കാൻ.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"FRUGAL = FRUIT-നെ GUARD ചെയ്യുന്നവൻ\" — ഓരോ പഴവും സൂക്ഷിച്ച് വെക്കുന്നവൻ; \"EXTRA-VAGANT = EXTRA ചെലവാക്കുന്നവൻ!\"\n• Money word family: frugal, thrifty, economical (മിതവ്യയം) | miserly, stingy, niggardly (പിശുക്ക്) | extravagant, lavish, prodigal, spendthrift (ധൂർത്ത്).\n• PSC exam strategy: Antonym ചോദ്യത്തിൽ ആദ്യം synonym ആയ option (ഇവിടെ miserly) വെട്ടിക്കളയുക — ബാക്കിയുള്ളതിൽ നിന്ന് വിപരീതം കണ്ടെത്തുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "152-2026-K-Q93",
+      "paperId": "152-2026-K",
+      "questionNumber": 93,
+      "topic": "Phrasal Verbs",
+      "questionText": "The phrasal verb stave off means",
+      "optionA": "direct",
+      "optionB": "advise",
+      "optionC": "prevent",
+      "optionD": "delete",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) prevent\n• 'Stave off' എന്നാൽ ഒരു ആപത്തോ പ്രശ്നമോ വരാതെ തടയുക, തൽക്കാലത്തേക്ക് അകറ്റിനിർത്തുക എന്നാണ്.\n• 'Stave' എന്നാൽ ഒരു മരക്കമ്പ് (staff) — പണ്ട് കമ്പ് കൊണ്ട് നായ്ക്കളെയും ശത്രുക്കളെയും അകറ്റിനിർത്തിയിരുന്നതിൽ നിന്നാണ് ഈ phrase വന്നത്.\n• ഉദാഹരണം: He ate an apple to stave off hunger. (വിശപ്പ് അകറ്റാൻ അവൻ ഒരു ആപ്പിൾ കഴിച്ചു)",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: STAVE OFF = WARD OFF = FEND OFF = PREVENT / KEEP AWAY\n• Phrasal verb-ന്റെ അർത്ഥം ഓരോ വാക്കിന്റെയും അർത്ഥം ചേർത്താൽ കിട്ടില്ല — idiomatic ആയ അർത്ഥമാണ്.\n• 'Off' എന്ന particle ഇവിടെ 'അകലേക്ക്, മാറ്റിനിർത്തുക' എന്ന ഭാവം നൽകുന്നു.\n• ⭐ PSC ആവർത്തനം: 'Off' ചേരുന്ന phrasal verbs (put off, call off, ward off, stave off, set off) PSC പതിവായി ചോദിക്കാറുണ്ട്.\n• Etymology hint: Stave ← 'staff' (വടി/കമ്പ്) എന്ന പഴയ ഇംഗ്ലീഷ് വാക്കിന്റെ രൂപം.\n• ഉദാഹരണ sentences:\n1. The government took steps to stave off a crisis. (പ്രതിസന്ധി ഒഴിവാക്കാൻ സർക്കാർ നടപടിയെടുത്തു)\n2. Vitamin C helps ward off colds. (ജലദോഷം അകറ്റാൻ വിറ്റാമിൻ C സഹായിക്കുന്നു)\n3. The match was called off due to rain. (മഴ കാരണം മത്സരം റദ്ദാക്കി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n(A) direct\n• 'Direct' എന്നാൽ നയിക്കുക, വഴി കാണിക്കുക — ഇത് തടയുക എന്ന അർത്ഥമല്ല.\n• 🪤 PSC Trap: 'Stave'-നെ 'steer' (നയിക്കുക) എന്ന വാക്കുമായി കൂട്ടിക്കുഴയ്ക്കാൻ ഇടയുണ്ട്.\n(B) advise\n• 'Advise' എന്നാൽ ഉപദേശിക്കുക — stave off-മായി അർത്ഥബന്ധമില്ല.\n• 🪤 PSC Trap: ഒരു random verb ആയി distractor ആയി വെച്ചതാണ്.\n(D) delete\n• 'Delete' എന്നാൽ മായ്ക്കുക, നീക്കം ചെയ്യുക — 'off' കണ്ട് 'നീക്കം' എന്ന ആശയം ഓർമ്മ വരും.\n• 🪤 PSC Trap: 'Off = remove' എന്ന literal ചിന്തയെ ലക്ഷ്യമിട്ടുള്ള കെണിയാണിത്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"STAVE = STAFF (വടി)!\" — വടിയെടുത്ത് അപകടത്തെ അകറ്റിനിർത്തുന്ന ഒരു കാവൽക്കാരനെ മനസ്സിൽ കാണുക → prevent.\n• 'Off' family: stave off / ward off / fend off (തടയുക), put off (മാറ്റിവയ്ക്കുക), call off (റദ്ദാക്കുക), set off (യാത്ര തുടങ്ങുക), take off (പറന്നുയരുക).\n• PSC exam strategy: Phrasal verb-ന്റെ literal അർത്ഥം നോക്കാതെ, ഒരു ഉദാഹരണ വാചകത്തിൽ വെച്ച് ഓരോ option-ഉം പരീക്ഷിക്കുക — guaranteed mark!"
+      }
+    },
+    {
+      "id": "152-2026-K-Q94",
+      "paperId": "152-2026-K",
+      "questionNumber": 94,
+      "topic": "Foreign Words and Phrases",
+      "questionText": "The meaning of 'per diem' is payment made for",
+      "optionA": "each week",
+      "optionB": "each day",
+      "optionC": "each month",
+      "optionD": "each year",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) each day\n• 'Per diem' ഒരു Latin phrase ആണ് — 'per' = ഓരോന്നിനും, 'diem' = ദിവസം → 'ഓരോ ദിവസത്തിനും'.\n• ഔദ്യോഗിക യാത്രയിൽ ജീവനക്കാർക്ക് ദിവസക്കണക്കിൽ നൽകുന്ന അലവൻസിനെ 'per diem allowance' എന്ന് പറയുന്നു — നമ്മുടെ സർക്കാർ ഓഫീസുകളിലെ Daily Allowance (DA) തന്നെ!\n• 'Carpe diem' (ഈ ദിവസം പ്രയോജനപ്പെടുത്തുക) എന്നതിലും ഇതേ 'diem' ആണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: PER DIEM = ദിവസത്തിന് | PER MENSEM = മാസത്തിന് | PER ANNUM = വർഷത്തിന് | PER CAPITA = ആളൊന്നിന്\n• Latin-ൽ 'dies/diem' എന്നാൽ ദിവസം — ഇംഗ്ലീഷിലെ diary (ദിനക്കുറിപ്പ്) എന്ന വാക്കും ഇതിൽ നിന്നാണ്.\n• Latin-ൽ 'annus' എന്നാൽ വർഷം — annual (വാർഷികം), anniversary (വാർഷികദിനം) എന്നിവ ഇതിന്റെ കുടുംബമാണ്.\n• ⭐ PSC ആവർത്തനം: Per annum, per capita, per diem, pro rata, ad hoc — ഈ Latin phrases PSC-യിൽ ആവർത്തിച്ച് വരുന്നവയാണ്!\n• Etymology hint: 'Per' എന്നാൽ Latin-ൽ 'ഓരോന്നിനും'; 'Diem' എന്നാൽ 'ദിവസം'.\n• ഉദാഹരണ sentences:\n1. The officer gets a per diem of ₹500. (ഉദ്യോഗസ്ഥന് ദിവസം ₹500 അലവൻസ് കിട്ടും)\n2. His salary is ₹6 lakh per annum. (വർഷം ₹6 ലക്ഷം ശമ്പളം)\n3. India's per capita income is rising. (ആളോഹരി വരുമാനം ഉയരുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n(A) each week\n• ആഴ്ചയ്ക്ക് Latin-ൽ പ്രത്യേകം phrase പ്രചാരത്തിലില്ല; ഇത് diem-ന്റെ അർത്ഥമല്ല.\n• 🪤 PSC Trap: കാലയളവ് ചോദ്യമായതിനാൽ ഊഹിച്ച് ഉത്തരമെഴുതുന്നവരെ കുഴപ്പിക്കാൻ.\n(C) each month\n• മാസത്തിന് 'per mensem' ആണ് — diem അല്ല.\n• 🪤 PSC Trap: ശമ്പളം സാധാരണ മാസക്കണക്കിൽ ആയതിനാൽ 'payment' എന്ന വാക്ക് കണ്ട് month തിരഞ്ഞെടുക്കാൻ തോന്നും.\n(D) each year\n• വർഷത്തിന് 'per annum' ആണ്.\n• 🪤 PSC Trap: 'Per annum' എന്ന ഏറ്റവും പരിചിതമായ phrase-മായി കൂട്ടിക്കുഴയ്ക്കാൻ വേണ്ടി.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"DIEM = DAY, DIARY-യിൽ ദിവസവും എഴുതും!\" — Diem, Diary, Daily — മൂന്നും D-യിൽ തുടങ്ങുന്ന ദിവസക്കൂട്ടുകാർ.\n• 'Per' family: per diem (ദിവസം), per mensem (മാസം), per annum (വർഷം), per capita (ആളോഹരി), per se (സ്വതവേ).\n• PSC exam strategy: Latin phrase-ൽ ഒരു വാക്കിന്റെ root തിരിച്ചറിഞ്ഞാൽ മതി — diem→day, annum→annual, capita→capital (തല). ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "152-2026-K-Q95",
+      "paperId": "152-2026-K",
+      "questionNumber": 95,
+      "topic": "Words Often Confused",
+      "questionText": "The ______________ of the personnel was shattered due to the war.",
+      "optionA": "Moral",
+      "optionB": "Morale",
+      "optionC": "Morel",
+      "optionD": "Morele",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) Morale\n• 'Morale' (മൊറാൽ) എന്നാൽ ഒരു കൂട്ടം ആളുകളുടെ മനോവീര്യം, ആത്മവിശ്വാസം, ഉത്സാഹം എന്നാണ്.\n• യുദ്ധം കാരണം ഉദ്യോഗസ്ഥരുടെ/സൈനികരുടെ മനോവീര്യം തകർന്നു എന്നാണ് വാചകത്തിന്റെ അർത്ഥം.\n• 'Personnel' (ജീവനക്കാർ/സേനാംഗങ്ങൾ), 'shattered' (തകർന്നു) — ഈ സന്ദർഭം 'മനോവീര്യം' എന്ന അർത്ഥം ഉറപ്പിക്കുന്നു.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: MORAL = ധാർമ്മികം / സാരോപദേശം | MORALE = മനോവീര്യം\n• Moral (adjective): ശരി-തെറ്റുകളെക്കുറിച്ചുള്ള — moral values, moral duty.\n• Moral (noun): കഥയിലെ ഗുണപാഠം — the moral of the story.\n• Morale (noun): ആത്മവിശ്വാസവും ഉത്സാഹവും — the morale of the team.\n• ⭐ PSC ആവർത്തനം: Moral/Morale, Personal/Personnel — ഈ confusing pairs PSC ഇടയ്ക്കിടെ ചോദിക്കാറുണ്ട്.\n• Etymology hint: രണ്ടും Latin 'mores' (ആചാരങ്ങൾ) എന്നതിൽ നിന്നാണ്; 'morale' French വഴി വന്ന രൂപമാണ്.\n• ഉദാഹരണ സന്ദർഭങ്ങൾ:\n1. The victory boosted the team's morale. (വിജയം ടീമിന്റെ മനോവീര്യം ഉയർത്തി)\n2. The moral of the story is 'honesty pays'. (കഥയുടെ ഗുണപാഠം)\n3. It is our moral duty to help the poor. (പാവങ്ങളെ സഹായിക്കുന്നത് നമ്മുടെ ധാർമ്മിക കടമയാണ്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n(A) Moral\n• 'Moral' എന്നാൽ ധാർമ്മികത അല്ലെങ്കിൽ കഥയിലെ ഗുണപാഠം — 'യുദ്ധം കാരണം ഗുണപാഠം തകർന്നു' എന്ന് അർത്ഥമില്ല.\n• 🪤 PSC Trap: ഒരു 'e' മാത്രം വ്യത്യാസം — ഇതാണ് ഈ ചോദ്യത്തിന്റെ പ്രധാന കെണി!\n(C) Morel\n• 'Morel' എന്നാൽ ഭക്ഷ്യയോഗ്യമായ ഒരു തരം കൂൺ (mushroom) ആണ്.\n• 🪤 PSC Trap: ഉച്ചാരണ സാമ്യം ഉപയോഗിച്ച് ആശയക്കുഴപ്പം ഉണ്ടാക്കാൻ വെച്ചതാണ്.\n(D) Morele\n• ഇത് ഇംഗ്ലീഷിൽ നിലവിലില്ലാത്ത ഒരു തെറ്റായ spelling ആണ്.\n• 🪤 PSC Trap: 'Morale'-ന്റെ അക്ഷരങ്ങൾ മാറ്റിയുണ്ടാക്കിയ വ്യാജ രൂപം — spelling ഉറപ്പില്ലാത്തവരെ വീഴ്ത്താൻ.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"MORALE-ലെ അധിക 'E' = ENERGY / ENTHUSIASM!\" — ഊർജ്ജം, ഉത്സാഹം ഉള്ളത് morale-നാണ്; 'e' ഇല്ലാത്ത moral വെറും ഗുണപാഠം.\n• ഒരുമിച്ച് പഠിക്കേണ്ട pairs: moral–morale, personal–personnel, principal–principle, stationary–stationery — ഓരോ ജോഡിയിലും ഒരു അക്ഷരം മാത്രം വ്യത്യാസം, പക്ഷേ അർത്ഥം തികച്ചും വേറെ.\n• PSC exam strategy: വാചകത്തിലെ സന്ദർഭ വാക്കുകൾ (war, personnel, team, boost, low) നോക്കുക — ഇവ ഉണ്ടെങ്കിൽ 'morale' ഉറപ്പ്. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "152-2026-K-Q96",
+      "paperId": "152-2026-K",
+      "questionNumber": 96,
+      "topic": "Idioms",
+      "questionText": "The usage 'talk through one's hat' means",
+      "optionA": "Talk secretly",
+      "optionB": "Talk arrogantly",
+      "optionC": "Talk nonsense",
+      "optionD": "Talk through a medium",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) Talk nonsense\n• 'Talk through one's hat' എന്നാൽ ഒരു വിഷയത്തെക്കുറിച്ച് അറിവില്ലാതെ അസംബന്ധം പറയുക, വിഡ്ഢിത്തം വിളമ്പുക എന്നാണ്.\n• അറിയാത്ത കാര്യം അറിയാമെന്ന ഭാവത്തിൽ പറയുന്നവരെക്കുറിച്ചാണ് ഈ idiom ഉപയോഗിക്കുന്നത്.\n• ഉദാഹരണം: Don't listen to him; he is talking through his hat. (അവനെ ശ്രദ്ധിക്കേണ്ട; അവൻ അസംബന്ധം പറയുകയാണ്)",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: TALK THROUGH ONE'S HAT = talk nonsense / speak without knowledge\n• Idiom-ന്റെ അർത്ഥം അതിലെ വാക്കുകളുടെ literal അർത്ഥത്തിൽ നിന്ന് കിട്ടില്ല — മുഴുവൻ phrase-ന് ഒരു പ്രത്യേക അർത്ഥമാണ്.\n• ഇതേ അർത്ഥമുള്ള മറ്റ് expressions: talk rubbish, talk gibberish, talk out of one's hat.\n• ⭐ PSC ആവർത്തനം: 'Hat' ഉള്ള idioms — talk through one's hat, at the drop of a hat, keep it under your hat — PSC ചോദിച്ചിട്ടുണ്ട്.\n• ഉദാഹരണ sentences:\n1. He knows nothing about cricket; he is talking through his hat. (ക്രിക്കറ്റിനെക്കുറിച്ച് ഒന്നുമറിയാതെ അസംബന്ധം പറയുന്നു)\n2. Keep this news under your hat. (ഈ വാർത്ത രഹസ്യമായി വെക്കുക)\n3. She would help at the drop of a hat. (ഒട്ടും മടിക്കാതെ ഉടനെ അവൾ സഹായിക്കും)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n(A) Talk secretly\n• രഹസ്യമായി സംസാരിക്കുക — ഇതിന് 'talk in whispers' / 'keep under one's hat' പോലുള്ള expressions ആണ്.\n• 🪤 PSC Trap: 'Keep it under your hat' (രഹസ്യം സൂക്ഷിക്കുക) എന്ന idiom-മായി കൂട്ടിക്കുഴയ്ക്കാൻ വേണ്ടി വെച്ചതാണ്.\n(B) Talk arrogantly\n• അഹങ്കാരത്തോടെ സംസാരിക്കുക — ഇതിന് 'talk big' / 'talk down to' എന്നിവ ആണ് ചേരുന്നത്.\n• 🪤 PSC Trap: തൊപ്പി (hat) ഒരു ഗമ/അഹങ്കാര ചിഹ്നമായി തോന്നുന്നതുകൊണ്ട് ഈ option ആകർഷകമായി തോന്നും.\n(D) Talk through a medium\n• ഇത് 'through' എന്ന വാക്കിന്റെ literal അർത്ഥം മാത്രമാണ് — idiom-ന്റെ അർത്ഥമല്ല.\n• 🪤 PSC Trap: Idiom-നെ വാക്കുവാക്കായി translate ചെയ്യുന്നവരെ പിടിക്കാനുള്ള ക്ലാസിക് കെണി.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"തലയിൽ നിന്നല്ല, തൊപ്പിയിൽ നിന്നാണ് വാക്കുകൾ വരുന്നത്!\" — തലച്ചോറ് (അറിവ്) ഉപയോഗിക്കാതെ തൊപ്പിയിലൂടെ സംസാരിക്കുന്നവൻ = അസംബന്ധം പറയുന്നവൻ.\n• 'Talk' idiom family: talk through one's hat (അസംബന്ധം), talk shop (ജോലിക്കാര്യം പറയുക), talk big (വീമ്പിളക്കുക), talk down to (താഴ്ത്തിക്കെട്ടി സംസാരിക്കുക).\n• PSC exam strategy: Idiom ചോദ്യങ്ങളിൽ literal അർത്ഥമുള്ള option (ഇവിടെ 'through a medium') ആദ്യം വെട്ടുക — ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "152-2026-K-Q97",
+      "paperId": "152-2026-K",
+      "questionNumber": 97,
+      "topic": "Spelling",
+      "questionText": "Choose the word from the following choice with correct spelling",
+      "optionA": "Enemity",
+      "optionB": "Enimity",
+      "optionC": "Enmitty",
+      "optionD": "Enmity",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) Enmity\n• 'Enmity' എന്നാൽ ശത്രുത, വിദ്വേഷം എന്നാണ് അർത്ഥം.\n• ഇതിൽ 'enemy'-യിലെ രണ്ടാമത്തെ 'e' ഇല്ല — En-mi-ty എന്ന് മൂന്ന് ഭാഗമായി പിരിച്ചു പഠിക്കുക.\n• 'Enemy' (ശത്രു) → 'Enmity' (ശത്രുത) — noun രൂപം മാറുമ്പോൾ spelling-ഉം മാറുന്നു.\n• Etymology: Old French 'enemistie' ← Latin 'inimicus' (in = അല്ലാത്ത + amicus = സുഹൃത്ത്) = സുഹൃത്തല്ലാത്തവൻ.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: EN + MI + TY = ENMITY (ഒറ്റ 'm', ഒറ്റ 't', നടുവിൽ 'e' ഇല്ല)\n• Enemy-യിൽ നിന്ന് വരുന്ന വാക്കാണെങ്കിലും enmity-യിൽ 'enem-' എന്ന രൂപമില്ല.\n• ഇതേ പോലെ spelling മാറുന്ന pairs: enemy→enmity, maintain→maintenance, pronounce→pronunciation, curious→curiosity.\n• ⭐ PSC ആവർത്തനം: ബന്ധപ്പെട്ട വാക്കിൽ നിന്ന് spelling ഊഹിക്കാൻ പ്രേരിപ്പിക്കുന്ന ഇത്തരം ചോദ്യങ്ങൾ PSC പതിവായി ചോദിക്കാറുണ്ട്.\n• Etymology hint: Latin 'amicus' (സുഹൃത്ത്) → amicable, amity (സൗഹൃദം); 'in-amicus' → enmity (ശത്രുത).\n• ഉദാഹരണ sentences:\n1. There was enmity between the two families. (രണ്ട് കുടുംബങ്ങൾ തമ്മിൽ ശത്രുത ഉണ്ടായിരുന്നു)\n2. Forget the old enmity and be friends. (പഴയ വൈരം മറന്ന് സുഹൃത്തുക്കളാകൂ)\n3. Amity is the opposite of enmity. (സൗഹൃദം ശത്രുതയുടെ വിപരീതമാണ്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n(A) Enemity\n• 'Enemy' എന്ന വാക്ക് അതേപടി നിലനിർത്തി '-ity' ചേർത്ത തെറ്റായ രൂപം.\n• 🪤 PSC Trap: Enemy-യുടെ spelling ഓർമ്മയിൽ ഉള്ളതുകൊണ്ട് ഇതാണ് ശരി എന്ന് ഏറ്റവും കൂടുതൽ പേർക്ക് തോന്നുന്ന option!\n(B) Enimity\n• നടുവിൽ 'i' ചേർത്ത തെറ്റായ spelling — ഉച്ചാരണം അനുസരിച്ച് എഴുതിയതാണ്.\n• 🪤 PSC Trap: 'Unanimity' പോലുള്ള വാക്കുകളുടെ ഈണം ഓർമ്മിപ്പിച്ച് കുഴപ്പിക്കാൻ.\n(C) Enmitty\n• 'Double t' തെറ്റാണ് — enmity-യിൽ ഒറ്റ 't' മാത്രം.\n• 🪤 PSC Trap: Double letter confusion — 'committee' പോലുള്ള വാക്കുകൾ ഓർത്ത് 'tt' ഇടാൻ തോന്നും.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"ശത്രുതയിൽ 'E' (Enemy-യിലെ രണ്ടാം E) നഷ്ടപ്പെട്ടു!\" — ENEMY ശത്രുത ആകുമ്പോൾ ഒരു 'e' വഴക്കിട്ട് പോയി → ENMITY.\n• '-ity' word family: amity (സൗഹൃദം), enmity (ശത്രുത), unity, purity, sanity, vanity.\n• PSC exam strategy: Spelling ചോദ്യത്തിൽ, ബന്ധപ്പെട്ട വാക്കിന്റെ spelling അതേപടി നിലനിർത്തിയ option പലപ്പോഴും കെണിയാണ് (enemity, maintainance, pronounciation). ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+      }
+    },
+    {
+      "id": "152-2026-K-Q98",
+      "paperId": "152-2026-K",
+      "questionNumber": 98,
+      "topic": "Synonyms",
+      "questionText": "The word 'camatose' means",
+      "optionA": "Drowsy",
+      "optionB": "Energetic",
+      "optionC": "Empathetic",
+      "optionD": "Enthusiastic",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) Drowsy\n• ചോദ്യത്തിലെ 'camatose' എന്നത് 'comatose' എന്ന വാക്കിന്റെ അച്ചടിപ്പിശക് (typo) ആണ് — ശരിയായ spelling 'comatose'.\n• 'Comatose' എന്നാൽ കോമ (coma) അവസ്ഥയിലുള്ള, അബോധാവസ്ഥയിലുള്ള; സാധാരണ സംസാരത്തിൽ 'അങ്ങേയറ്റം ഉറക്കംതൂങ്ങിയ, മന്ദതയുള്ള' എന്നും അർത്ഥം.\n• 'Drowsy' എന്നാൽ ഉറക്കം തൂങ്ങുന്ന, മയക്കമുള്ള — options-ൽ comatose-ന്റെ അർത്ഥത്തോട് ഏറ്റവും അടുത്തത് ഇതാണ്.\n• Etymology: Greek 'koma' = ഗാഢനിദ്ര → coma → comatose.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: COMATOSE = COMA + -OSE (നിറഞ്ഞ) = മയക്കം/അബോധാവസ്ഥ നിറഞ്ഞ ≈ DROWSY, LETHARGIC, SLUGGISH\n• '-ose' എന്ന suffix 'നിറഞ്ഞ' എന്ന അർത്ഥം നൽകുന്നു: verbose (വാക്കുകൾ നിറഞ്ഞ), bellicose (യുദ്ധവാഞ്ഛ നിറഞ്ഞ), comatose.\n• Synonyms: drowsy, lethargic, torpid, sluggish, unconscious.\n• Antonyms: alert, energetic, lively, active.\n• ⭐ PSC ആവർത്തനം: Synonym ചോദ്യത്തിൽ antonym-കൾ (energetic, enthusiastic) കൂട്ടമായി options-ൽ വെക്കുന്നത് PSC-യുടെ സ്ഥിരം രീതിയാണ്.\n• ഉദാഹരണ sentences:\n1. After the heavy lunch, he felt comatose. (കനത്ത ഉച്ചഭക്ഷണത്തിനു ശേഷം അവന് കടുത്ത മയക്കം തോന്നി)\n2. The patient remained comatose for weeks. (രോഗി ആഴ്ചകളോളം അബോധാവസ്ഥയിലായിരുന്നു)\n3. The medicine made her drowsy. (മരുന്ന് അവളെ മയക്കത്തിലാക്കി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n(B) Energetic\n• 'Energetic' എന്നാൽ ഊർജ്ജസ്വലമായ, ചുറുചുറുക്കുള്ള — comatose-ന്റെ നേർ വിപരീതം.\n• 🪤 PSC Trap: Antonym-നെ synonym ചോദ്യത്തിൽ വെക്കുന്ന ക്ലാസിക് കെണി.\n(C) Empathetic\n• 'Empathetic' എന്നാൽ മറ്റുള്ളവരുടെ വികാരങ്ങൾ മനസ്സിലാക്കുന്ന, സഹാനുഭൂതിയുള്ള — ഉറക്കവുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'E' കൊണ്ട് തുടങ്ങുന്ന മൂന്ന് options ഒരുമിച്ച് വെച്ച് ശ്രദ്ധ തെറ്റിക്കാൻ.\n(D) Enthusiastic\n• 'Enthusiastic' എന്നാൽ ഉത്സാഹമുള്ള, ആവേശമുള്ള — ഇതും comatose-ന്റെ വിപരീത അർത്ഥമാണ്.\n• 🪤 PSC Trap: Energetic-നൊപ്പം രണ്ടാമതൊരു antonym കൂടി — ഇവ രണ്ടും ഒരേ ഭാവമായതിനാൽ രണ്ടും ഒഴിവാക്കാം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"COMA-TOSE = COMA-യിൽ TOSS ചെയ്യപ്പെട്ടവൻ!\" — കോമയിലേക്ക് എറിയപ്പെട്ടവന് ഉണർവില്ല, മയക്കം മാത്രം → drowsy.\n• '-ose' family: comatose (മയക്കം), verbose (അധികവാചാലം), bellicose (യുദ്ധോത്സുകം), jocose (തമാശപ്രിയം).\n• PSC exam strategy: Options-ൽ ഒരേ ഭാവമുള്ള രണ്ട് വാക്കുകൾ (energetic, enthusiastic) ഉണ്ടെങ്കിൽ, അവ രണ്ടും ഉത്തരമാകില്ല — ഒറ്റപ്പെട്ട് നിൽക്കുന്നതിലേക്ക് ശ്രദ്ധിക്കുക. ചോദ്യത്തിലെ spelling പിശക് കണ്ട് പേടിക്കേണ്ട!"
+      }
+    },
+    {
+      "id": "152-2026-K-Q99",
+      "paperId": "152-2026-K",
+      "questionNumber": 99,
+      "topic": "One Word Substitutes",
+      "questionText": "Ombrophobia is the irrational fear of ___________",
+      "optionA": "Snakes",
+      "optionB": "Fire",
+      "optionC": "Reptiles",
+      "optionD": "Rain",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) Rain\n• 'Ombrophobia' = Greek 'ombros' (മഴ) + 'phobia' (ഭയം) → മഴയോടുള്ള അകാരണമായ ഭയം.\n• 'Ombro-' എന്ന root മഴയുമായി ബന്ധപ്പെട്ട ശാസ്ത്രീയ വാക്കുകളിൽ കാണാം — ombrometer (മഴമാപിനി).\n• Phobia ചോദ്യങ്ങളിൽ root word-ന്റെ അർത്ഥം അറിഞ്ഞാൽ ഉത്തരം ഉറപ്പാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Greek root + PHOBIA = ആ വസ്തുവിനോടുള്ള ഭയം\n• Phobia list (PSC favourites):\n  – Ombrophobia → rain (മഴ)\n  – Ophidiophobia → snakes (പാമ്പ്)\n  – Pyrophobia → fire (തീ)\n  – Herpetophobia → reptiles (ഇഴജന്തുക്കൾ)\n  – Hydrophobia → water (വെള്ളം)\n  – Acrophobia → heights (ഉയരം)\n  – Claustrophobia → closed spaces (അടഞ്ഞ ഇടങ്ങൾ)\n• ⭐ PSC ആവർത്തനം: Phobia ചോദ്യങ്ങൾ PSC-യിൽ വളരെ പതിവാണ് — ഈ ചോദ്യത്തിലെ ഓരോ option-നും ഒരു phobia ഉണ്ട്!\n• ഉദാഹരണ sentences:\n1. She suffers from ombrophobia and never goes out in the monsoon. (മഴയെ ഭയന്ന് അവൾ മഴക്കാലത്ത് പുറത്തിറങ്ങില്ല)\n2. Pyrophobia made him avoid the kitchen stove. (തീയോടുള്ള ഭയം)\n3. Acrophobia stops him from climbing hills. (ഉയരത്തോടുള്ള ഭയം)\n• ഓർക്കുക: 'phobia' എന്ന Greek വാക്കിന്റെ അർത്ഥം തന്നെ 'ഭയം' എന്നാണ് — അതിന് മുൻപുള്ള ഭാഗം എന്തിനോടുള്ള ഭയം എന്ന് പറയുന്നു.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n(A) Snakes\n• പാമ്പിനോടുള്ള ഭയം 'Ophidiophobia' ആണ് (Greek 'ophis' = പാമ്പ്).\n• 🪤 PSC Trap: ഏറ്റവും സാധാരണമായ ഭയം ആയതുകൊണ്ട് ഊഹിച്ചെഴുതുന്നവർ ഇത് തിരഞ്ഞെടുക്കും.\n(B) Fire\n• തീയോടുള്ള ഭയം 'Pyrophobia' ആണ് (Greek 'pyr' = തീ; pyre, pyrotechnics).\n• 🪤 PSC Trap: മറ്റൊരു phobia-യുടെ അർത്ഥം ഉപയോഗിച്ചുള്ള distractor.\n(C) Reptiles\n• ഇഴജന്തുക്കളോടുള്ള ഭയം 'Herpetophobia' ആണ്.\n• 🪤 PSC Trap: 'Snakes'-ഉം 'Reptiles'-ഉം അടുത്തടുത്ത് വെച്ച് ആശയക്കുഴപ്പം കൂട്ടുന്നു.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"OMBRO = UMBRELLA!\" — Ombro-യും umbrella-യും ഒരേ ഈണം; മഴ പേടിയുള്ളവൻ എപ്പോഴും കുട പിടിക്കും → ombrophobia = മഴപ്പേടി.\n• Root family: ombro (മഴ), pyro (തീ), hydro (വെള്ളം), acro (ഉയരം), ophidio (പാമ്പ്), herpeto (ഇഴജന്തു), zoo (മൃഗം), xeno (അപരിചിതർ).\n• PSC exam strategy: Phobia ചോദ്യം കണ്ടാൽ '-phobia'-ക്ക് മുൻപുള്ള Greek root തിരിച്ചറിയുക — root അറിയാമെങ്കിൽ guaranteed mark!"
+      }
+    },
+    {
+      "id": "152-2026-K-Q100",
+      "paperId": "152-2026-K",
+      "questionNumber": 100,
+      "topic": "Foreign Words and Phrases",
+      "questionText": "The Latin phrase Mea Culpa means",
+      "optionA": "My pleasure",
+      "optionB": "My fault",
+      "optionC": "My capability",
+      "optionD": "My Mind",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) My fault\n• 'Mea culpa' ഒരു Latin phrase ആണ് — 'mea' = എന്റെ, 'culpa' = തെറ്റ്/കുറ്റം → 'എന്റെ തെറ്റ്'.\n• സ്വന്തം തെറ്റ് സമ്മതിക്കുമ്പോൾ ഉപയോഗിക്കുന്ന expression ആണിത് — 'തെറ്റ് എന്റേതാണ്, ക്ഷമിക്കണം'.\n• ഇത് കത്തോലിക്കാ പ്രാർത്ഥനയായ 'Confiteor'-ൽ നിന്ന് വന്നതാണ്: \"mea culpa, mea culpa, mea maxima culpa\" (എന്റെ പിഴ, എന്റെ പിഴ, എന്റെ വലിയ പിഴ).",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: MEA CULPA = MY FAULT (സ്വന്തം തെറ്റ് ഏറ്റുപറയൽ)\n• Latin 'culpa' = fault/guilt → culprit (കുറ്റവാളി), culpable (കുറ്റമുള്ള), culpable homicide.\n• Latin 'mea' = my → 'mea' എല്ലാം 'എന്റെ' എന്ന അർത്ഥത്തിൽ.\n• ⭐ PSC ആവർത്തനം: Latin phrases — mea culpa, bona fide, alma mater, status quo, ad hoc, per se — PSC-യിൽ ആവർത്തിച്ച് വരുന്നവയാണ്.\n• Etymology hint: Culpa → culprit, culpable — 'കുറ്റം' എന്ന അർത്ഥം എല്ലായിടത്തും.\n• ഉദാഹരണ sentences:\n1. The minister issued a public mea culpa. (മന്ത്രി പരസ്യമായി തെറ്റ് ഏറ്റുപറഞ്ഞു)\n2. \"I forgot your birthday — mea culpa!\" (നിന്റെ പിറന്നാൾ മറന്നു — എന്റെ തെറ്റ്!)\n3. The police caught the culprit. (പോലീസ് കുറ്റവാളിയെ പിടികൂടി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n(A) My pleasure\n• 'സന്തോഷത്തോടെ' എന്ന് പറയുന്ന മര്യാദാവാക്ക് — ഇതിന്റെ Latin/French രൂപം ഇതല്ല.\n• 🪤 PSC Trap: 'My...' എന്ന് തുടങ്ങുന്ന പരിചിതമായ ഒരു phrase ആയതിനാൽ തിരഞ്ഞെടുത്തുപോകാൻ സാധ്യത.\n(C) My capability\n• 'എന്റെ കഴിവ്' — culpa-യുമായി ഒരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: 'Culpa'-യെ 'capable' എന്ന വാക്കുമായി ശബ്ദസാമ്യം വഴി ബന്ധിപ്പിക്കാൻ ഇടയുണ്ട്.\n(D) My Mind\n• 'എന്റെ മനസ്സ്' — Latin-ൽ മനസ്സിന് 'mens' ആണ് (mental), culpa അല്ല.\n• 🪤 PSC Trap: 'Mea' കണ്ട് 'mind' എന്ന് ഊഹിക്കുന്നവരെ പിടിക്കാൻ വെച്ചതാണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: \"CULPA → CULPRIT!\" — കുറ്റവാളി (culprit) ചെയ്യുന്നത് culpa (കുറ്റം). 'Mea culpa' = ഞാനാണ് culprit!\n• Latin phrase family: mea culpa (എന്റെ തെറ്റ്), bona fide (യഥാർത്ഥമായ), alma mater (പഠിച്ച സ്ഥാപനം), status quo (നിലവിലെ അവസ്ഥ), per se (സ്വതവേ).\n• PSC exam strategy: Latin phrase-ലെ ഒരു വാക്കിനെ ഇംഗ്ലീഷിലെ പരിചിത വാക്കുമായി ബന്ധിപ്പിക്കുക (culpa → culprit) — ഒരിക്കലും miss ആകില്ല!"
+      }
+    }
+  ]
+}

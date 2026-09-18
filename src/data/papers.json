@@ -1819,5 +1819,15 @@
     "medium": "M",
     "year": "2017",
     "answerKeyStatus": "final"
+  },
+  {
+    "id": "152-2026-K",
+    "paperCode": "152/2026/OL",
+    "post": "Clerk (Kannada and Malayalam Knowing) - Various",
+    "date": "10-Sep-2026",
+    "medium": "K",
+    "year": "2026",
+    "categoryCode": "672/2025",
+    "answerKeyStatus": "provisional"
   }
 ]
