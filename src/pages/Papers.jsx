@@ -111,7 +111,7 @@ export default function Papers() {
           value={query}
           onChange={e => setQuery(e.target.value)}
           className="rounded-lg px-3 py-2 text-sm flex-1 min-w-36 theme-input"
-          style={{ background: '#111111', border: `1px solid ${query ? 'var(--accent)' : 'rgba(26,157,142,0.4)'}`, color: 'var(--accent)', outline: 'none' }}
+          style={{ background: 'var(--input-bg)', border: `1px solid ${query ? 'var(--accent)' : 'rgba(26,157,142,0.4)'}`, color: 'var(--accent)', outline: 'none' }}
         />
         <Dropdown
           value={year}

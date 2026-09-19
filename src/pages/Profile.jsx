@@ -88,7 +88,7 @@ function DeleteAccountModal({ onClose }) {
         onClick={e => e.stopPropagation()}
         className="w-full"
         style={{
-          background: '#000000', maxWidth: 420, borderRadius: 18,
+          background: 'var(--modal-bg)', maxWidth: 420, borderRadius: 18,
           border: '1px solid #dc2626', overflow: 'hidden',
         }}
       >
@@ -99,7 +99,7 @@ function DeleteAccountModal({ onClose }) {
         <div className="px-5 py-4">
           {step === 'confirm' && (
             <>
-              <p className="text-sm mb-4" style={{ color: '#ffffff' }}>
+              <p className="text-sm mb-4" style={{ color: 'var(--nav-text)' }}>
                 This permanently deletes your account, profile, saved questions, quiz history, and streak.
                 This cannot be undone.
               </p>
@@ -107,7 +107,7 @@ function DeleteAccountModal({ onClose }) {
               <div className="flex gap-2">
                 <button onClick={onClose}
                   className="flex-1 py-2.5 rounded-lg text-sm font-medium"
-                  style={{ background: '#111111', color: '#ffffff', border: '1px solid #333333' }}>
+                  style={{ background: 'var(--input-bg)', color: 'var(--nav-text)', border: '1px solid var(--input-border)' }}>
                   Cancel
                 </button>
                 <button onClick={handleConfirmDelete}
@@ -121,19 +121,19 @@ function DeleteAccountModal({ onClose }) {
 
           {step === 'password' && (
             <form onSubmit={handlePasswordSubmit}>
-              <p className="text-sm mb-3" style={{ color: '#ffffff' }}>
+              <p className="text-sm mb-3" style={{ color: 'var(--nav-text)' }}>
                 For your security, please re-enter your password to confirm deletion.
               </p>
               <input type="password" required autoFocus value={password}
                 onChange={e => setPassword(e.target.value)}
                 placeholder="Password"
                 className="w-full rounded-lg px-3 py-2.5 text-sm mb-3"
-                style={{ background: '#111111', border: '1px solid #333333', color: '#ffffff', outline: 'none' }} />
+                style={{ background: 'var(--input-bg)', border: '1px solid var(--input-border)', color: 'var(--nav-text)', outline: 'none' }} />
               {error && <p className="text-xs mb-3" style={{ color: '#dc2626' }}>{error}</p>}
               <div className="flex gap-2">
                 <button type="button" onClick={onClose}
                   className="flex-1 py-2.5 rounded-lg text-sm font-medium"
-                  style={{ background: '#111111', color: '#ffffff', border: '1px solid #333333' }}>
+                  style={{ background: 'var(--input-bg)', color: 'var(--nav-text)', border: '1px solid var(--input-border)' }}>
                   Cancel
                 </button>
                 <button type="submit"
@@ -146,7 +146,7 @@ function DeleteAccountModal({ onClose }) {
           )}
 
           {step === 'deleting' && (
-            <p className="text-sm text-center py-4" style={{ color: '#ffffff' }}>Deleting your account…</p>
+            <p className="text-sm text-center py-4" style={{ color: 'var(--nav-text)' }}>Deleting your account…</p>
           )}
         </div>
       </div>

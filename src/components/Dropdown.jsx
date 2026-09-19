@@ -21,7 +21,7 @@ export default function Dropdown({ value, onChange, options, placeholder, classN
         onClick={() => setOpen(true)}
         className="w-full rounded-lg px-3 py-2 text-xs text-left flex items-center justify-between gap-1"
         style={{
-          background: '#111111',
+          background: 'var(--input-bg)',
           border: `1px solid ${value ? 'var(--accent)' : 'rgba(26,157,142,0.4)'}`,
           color: 'var(--accent)',
         }}
@@ -36,7 +36,7 @@ export default function Dropdown({ value, onChange, options, placeholder, classN
           style={{
             position: 'fixed',
             inset: 0,
-            background: 'rgba(0,0,0,0.97)',
+            background: 'var(--overlay)',
             zIndex: 200,
             display: 'flex',
             alignItems: 'center',
@@ -48,7 +48,7 @@ export default function Dropdown({ value, onChange, options, placeholder, classN
             onClick={e => e.stopPropagation()}
             className="w-full"
             style={{
-              background: '#000000',
+              background: 'var(--modal-bg)',
               maxWidth: 560,
               maxHeight: '75vh',
               display: 'flex',
@@ -71,9 +71,9 @@ export default function Dropdown({ value, onChange, options, placeholder, classN
                   onClick={() => { onChange(o.value); setOpen(false) }}
                   className="px-5 py-4 text-base"
                   style={{
-                    color: o.value === value ? 'var(--accent)' : '#ffffff',
+                    color: o.value === value ? 'var(--accent)' : 'var(--nav-text)',
                     background: o.value === value ? 'rgba(26,157,142,0.12)' : 'transparent',
-                    borderBottom: '1px solid rgba(255,255,255,0.08)',
+                    borderBottom: '1px solid var(--divider)',
                     fontWeight: o.value === value ? 700 : 400,
                     cursor: 'pointer',
                   }}

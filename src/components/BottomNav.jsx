@@ -111,7 +111,7 @@ export default function BottomNav() {
               to={item.to}
               className="flex-1 flex flex-col items-center justify-center py-2 gap-0.5"
               style={{
-                color: active ? 'var(--accent)' : 'rgba(255,255,255,0.75)',
+                color: active ? 'var(--accent)' : 'var(--nav-inactive)',
                 textDecoration: 'none',
                 position: 'relative',
                 minHeight: 56,

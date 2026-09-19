@@ -4,6 +4,23 @@
 @tailwind components;
 @tailwind utilities;
 
+/* ── Chrome variables (navbar, dropdowns, modals) ──
+   Dark defaults shared by every dark theme; the white theme overrides them. */
+:root {
+  --nav-bg: #000000;
+  --nav-btn: #111111;
+  --nav-border: #222222;
+  --nav-text: #ffffff;
+  --nav-muted: rgba(255,255,255,0.4);
+  --nav-inactive: rgba(255,255,255,0.75);
+  --overlay: rgba(0,0,0,0.97);
+  --modal-bg: #000000;
+  --input-bg: #111111;
+  --input-border: #333333;
+  --divider: rgba(255,255,255,0.08);
+  --scheme: dark;
+}
+
 /* ── Theme variables ── */
 :root,
 [data-theme="black"] {
@@ -111,6 +128,40 @@
   --card: #111111;
   --shadow: 0 1px 3px rgba(0,252,254,0.15);
   --come-color: #00fcfe;
+}
+
+[data-theme="white"] {
+  --bg: #f6f8f8;
+  --bg2: #eef2f2;
+  --surface: #ffffff;
+  --border: #dde5e4;
+  --text: #0f172a;
+  --text2: #5b6b6a;
+  --accent: #0f7f73;
+  --accent-hover: #0b6a60;
+  --accent-text: #ffffff;
+  --card: #ffffff;
+  --shadow: 0 1px 3px rgba(15,23,42,0.08);
+  --come-color: #0f172a;
+  --accent-green: #16a34a;
+  --accent-pink: #db2777;
+
+  --nav-bg: #ffffff;
+  --nav-btn: #f1f5f5;
+  --nav-border: #e2e8e7;
+  --nav-text: #0f172a;
+  --nav-muted: rgba(15,23,42,0.5);
+  --nav-inactive: rgba(15,23,42,0.6);
+  --overlay: rgba(15,23,42,0.45);
+  --modal-bg: #ffffff;
+  --input-bg: #ffffff;
+  --input-border: #cbd5d4;
+  --divider: rgba(15,23,42,0.08);
+  --scheme: light;
+}
+
+[data-theme="white"] .card:hover {
+  box-shadow: 0 4px 16px rgba(15,127,115,0.12), 0 16px 40px rgba(15,23,42,0.06);
 }
 
 /* Disable pull-to-refresh (and the rubber-band overscroll glow) on mobile.
@@ -296,8 +347,8 @@ body {
     to right,
     var(--accent) 0%,
     var(--accent) var(--slider-pct, 0%),
-    rgba(255,255,255,0.08) var(--slider-pct, 0%),
-    rgba(255,255,255,0.08) 100%
+    var(--divider) var(--slider-pct, 0%),
+    var(--divider) 100%
   );
 }
 .quiz-range-slider::-webkit-slider-thumb {
@@ -341,7 +392,7 @@ body {
 .quiz-range-slider::-moz-range-track {
   height: 8px;
   border-radius: 4px;
-  background: rgba(255,255,255,0.08);
+  background: var(--divider);
 }
 
 /* ── Vibe message animation ── */
@@ -397,18 +448,18 @@ body {
 
 /* ── Native select — force dark picker on all platforms ── */
 select {
-  color-scheme: dark;
-  background: #000000;
-  color: #ffffff;
-  border: 1px solid #334155;
+  color-scheme: var(--scheme);
+  background: var(--modal-bg);
+  color: var(--nav-text);
+  border: 1px solid var(--input-border);
   outline: none;
 }
 select:focus {
-  border-color: #1a9d8e;
+  border-color: var(--accent);
 }
 select option {
-  background: #000000;
-  color: #ffffff;
+  background: var(--modal-bg);
+  color: var(--nav-text);
 }
 
 /* ── Mobile: disable card hover-lift on touch devices ── */

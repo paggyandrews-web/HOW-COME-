@@ -36,8 +36,8 @@ export default function Navbar() {
   return (
     <nav
       style={{
-        background: '#000000',
-        borderBottom: '1px solid #222222',
+        background: 'var(--nav-bg)',
+        borderBottom: '1px solid var(--nav-border)',
         position: 'fixed',
         top: 0,
         left: 0,
@@ -54,10 +54,10 @@ export default function Navbar() {
           <div className="min-w-0 overflow-hidden">
             <div className="leading-tight whitespace-nowrap overflow-hidden text-ellipsis" style={{ fontFamily: "'Sifonn', sans-serif", fontSize: '1.25rem', letterSpacing: '0.03em' }}>
               <span style={{ color: '#1a9d8e' }}>HOW </span>
-              <span style={{ color: '#ffffff' }}>COME</span>
+              <span style={{ color: 'var(--nav-text)' }}>COME</span>
               <span style={{ color: '#1a9d8e' }}>?</span>
             </div>
-            <div className="text-xs leading-tight whitespace-nowrap overflow-hidden text-ellipsis" style={{ color: 'rgba(255,255,255,0.4)' }}>
+            <div className="text-xs leading-tight whitespace-nowrap overflow-hidden text-ellipsis" style={{ color: 'var(--nav-muted)' }}>
               Every failure is a lesson.
             </div>
           </div>
@@ -72,7 +72,7 @@ export default function Navbar() {
               className="px-1.5 sm:px-2 lg:px-3 py-1 rounded text-sm font-medium transition-colors"
               style={{
                 color: isActive(link.to) ? '#1a9d8e' : '#888888',
-                background: isActive(link.to) ? '#111111' : 'transparent',
+                background: isActive(link.to) ? 'var(--nav-btn)' : 'transparent',
               }}
             >
               {link.label}
@@ -94,7 +94,7 @@ export default function Navbar() {
           <Link to="/search"
             title="Search"
             className="flex items-center justify-center rounded-lg transition-colors"
-            style={{ background: '#111111', border: '1px solid #222222', color: '#ffffff', width: 38, height: 38 }}>
+            style={{ background: 'var(--nav-btn)', border: '1px solid var(--nav-border)', color: 'var(--nav-text)', width: 38, height: 38 }}>
             <svg width="17" height="17" viewBox="0 0 24 24" fill="none"
               stroke="currentColor" strokeWidth="2" strokeLinecap="round">
               <circle cx="11" cy="11" r="8"/>
@@ -106,7 +106,7 @@ export default function Navbar() {
           <Link to={user ? '/profile' : '/login'}
             title={user ? 'Profile' : 'Login'}
             className="flex items-center justify-center rounded-lg transition-colors"
-            style={{ background: '#111111', border: '1px solid #222222', color: '#ffffff', width: 38, height: 38 }}>
+            style={{ background: 'var(--nav-btn)', border: '1px solid var(--nav-border)', color: 'var(--nav-text)', width: 38, height: 38 }}>
             {user ? (
               <div className="flex items-center justify-center rounded-full font-bold text-sm"
                 style={{ width: 24, height: 24, background: 'var(--accent)', color: '#fff' }}>

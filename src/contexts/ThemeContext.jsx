@@ -6,6 +6,7 @@ const ThemeContext = createContext()
 // both surfaces always offer the exact same set of themes.
 export const themes = [
   { id: 'black', label: '⬛', title: 'Black' },
+  { id: 'white', label: '⬜', title: 'White' },
   { id: 'pink', label: '🌸', title: 'Pink' },
   { id: 'wine', label: '🍷', title: 'Wine' },
   { id: 'mauve', label: '💜', title: 'Mauve' },
@@ -23,6 +24,9 @@ export function ThemeProvider({ children }) {
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', theme)
     localStorage.setItem('cs-theme', theme)
+    // Match the mobile browser/status bar to the theme background
+    const meta = document.querySelector('meta[name="theme-color"]')
+    if (meta) meta.setAttribute('content', theme === 'white' ? '#ffffff' : '#000000')
   }, [theme])
 
   return (

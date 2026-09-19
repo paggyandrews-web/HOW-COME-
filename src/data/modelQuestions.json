@@ -8218,5 +8218,205 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) New Electronic Fund Transaction\n  • ആദ്യ അക്ഷരം 'New' എന്നാക്കി — ശരിയായത് 'National' ആണ്.\n  • അവസാന വാക്കും തെറ്റ്: 'Transaction' അല്ല, 'Transfer' ആണ്.\n  • 🪤 PSC Trap: 'N' എന്ന അക്ഷരത്തിന് 'New' എന്നതും സാധ്യമാണല്ലോ എന്ന തോന്നൽ. രണ്ട് വാക്കുകൾ മാത്രം മാറ്റിയ ഈ option ഏറ്റവും ശരിയെന്ന് തോന്നിപ്പിക്കും.\n\n• (B) National Exchange for Financial Transfer\n  • 'National' ശരിയാണ്, പക്ഷേ 'E' എന്നത് 'Exchange' അല്ല 'Electronic' ആണ്.\n  • 'for' എന്ന അധിക വാക്ക് ചേർത്തിരിക്കുന്നു — abbreviation-ൽ അങ്ങനെ ഒരു അക്ഷരമില്ല.\n  • 🪤 PSC Trap: ആദ്യ വാക്ക് ശരിയായതിനാൽ ബാക്കിയും ശരിയാണെന്ന് തോന്നും.\n\n• (C) Network Enabled Funds Transaction\n  • 'N' = Network, 'E' = Enabled — രണ്ടും തെറ്റ്.\n  • 'Funds' ശരിയാണെങ്കിലും 'Transaction' തെറ്റ്; 'Transfer' ആണ് ശരി.\n  • 🪤 PSC Trap: സാങ്കേതികമായി കേൾക്കാൻ സുഖമുള്ള വാക്കുകൾ ചേർത്ത് ആശയക്കുഴപ്പം ഉണ്ടാക്കുന്നു.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"നമ്മുടെ രാജ്യത്തെ (National) വൈദ്യുതി വഴി (Electronic) പണം (Funds) അയക്കുന്നു (Transfer).\" ഒരു വാക്യമായി ഓർത്താൽ നാല് അക്ഷരവും ക്രമത്തിൽ കിട്ടും.\n• Word family: പണക്കൈമാറ്റ abbreviations ഒരുമിച്ച് പഠിക്കുക — NEFT, RTGS, IMPS, UPI, IFSC. PSC ഇവയെ പരസ്പരം options ആയി വെക്കാറുണ്ട്. ഒരു ചോദ്യത്തിന് പഠിച്ചാൽ അഞ്ചിനും ഉത്തരം കിട്ടും!\n• PSC exam strategy: Abbreviation ചോദ്യത്തിൽ options-ലെ ആദ്യ വാക്ക് മാത്രം നോക്കി തീരുമാനിക്കരുത് — അവസാന വാക്ക് വരെ ഓരോ അക്ഷരവും ഒത്തുനോക്കുക. PSC സ്ഥിരമായി 'Transfer' vs 'Transaction' പോലുള്ള ചെറിയ മാറ്റങ്ങളാണ് കെണിയായി വെക്കുന്നത് — ഇത് ഓർത്തിരുന്നാൽ ഒരിക്കലും miss ആകില്ല!"
     }
+  },
+  {
+    "id": "HC-DAILY-2026-09-19-Q1",
+    "paperId": "HC-DAILY-2026-09-19",
+    "questionNumber": 1,
+    "topic": "Auxiliary Verbs",
+    "topicDetail": "Auxiliary substitution in short responses (So/Neither + auxiliary + subject)",
+    "difficulty": "medium",
+    "questionText": "Choose the correct response to complete the conversation.\n\"I don't enjoy long train journeys.\"\n\"__________. I always take the bus instead.\"",
+    "optionA": "Neither do I",
+    "optionB": "Neither am I",
+    "optionC": "So do I",
+    "optionD": "Either I do",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Neither do I\n\n• ആദ്യത്തെ ആൾ പറഞ്ഞത് ഒരു negative statement ആണ് — \"I don't enjoy long train journeys\" (എനിക്ക് നീണ്ട ട്രെയിൻ യാത്ര ഇഷ്ടമല്ല).\n• ഒരു negative statement-നോട് \"എനിക്കും അങ്ങനെ തന്നെ\" എന്ന് യോജിക്കണമെങ്കിൽ ഉപയോഗിക്കേണ്ടത് 'Neither + auxiliary + subject' എന്ന ഘടനയാണ്.\n• ആദ്യ വാക്യത്തിലെ auxiliary 'do' ആണ് (don't enjoy = do not enjoy). അതുകൊണ്ട് മറുപടിയിലും അതേ auxiliary 'do' തന്നെ echo ചെയ്യണം → Neither do I.\n• ശ്രദ്ധിക്കുക: 'Neither' എന്ന വാക്കിൽ തന്നെ negative അർഥം ഉള്ളതുകൊണ്ട് വീണ്ടും 'not' ചേർക്കേണ്ടതില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Positive statement → So + auxiliary + subject. Negative statement → Neither + auxiliary + subject.\n• നിയമം: മറുപടിയിലെ auxiliary എപ്പോഴും ആദ്യ വാക്യത്തിലെ auxiliary-യുടെ echo ആയിരിക്കണം. be → am/is/are, auxiliary ആയി വരുന്ന have (\"I have finished\") → have/has, modal → അതേ modal, ബാക്കി എല്ലാ verb-കൾക്കും → do/does/did.\n• ശ്രദ്ധിക്കുക: 'have' ഒരു സാധാരണ verb ആയി (\"I have a car\" = എനിക്ക് കാറുണ്ട്) വരുമ്പോൾ അത് auxiliary അല്ല — അപ്പോൾ do-support വേണം: \"So do I\", \"Neither do I.\"\n• Auxiliary-ക്ക് ശേഷമാണ് subject വരുന്നത് — ഇതിനെ inversion എന്ന് പറയുന്നു. \"Neither I do\" എന്ന് ഒരിക്കലും എഴുതരുത്.\n• ⭐ PSC ആവർത്തനം: So/Neither agreement PSC-യുടെ Auxiliary Verbs വിഭാഗത്തിൽ സ്ഥിരമായി വരുന്ന ഒരു pattern ആണ്.\n• ഉദാഹരണ sentences:\n  1. \"I am not ready.\" — \"Neither am I.\" (be verb ആയതുകൊണ്ട് am)\n  2. \"She has never visited Delhi.\" — \"Neither has my brother.\" (have → has)\n  3. \"He can swim well.\" — \"So can I.\" (positive ആയതുകൊണ്ട് So, modal 'can' അതുപോലെ തന്നെ)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) Neither am I\n• 'am' എന്നത് be-verb-ന്റെ രൂപമാണ്.\n• ആദ്യ വാക്യത്തിൽ be-verb ഇല്ല, 'don't enjoy' എന്ന do-auxiliary ആണുള്ളത്. അതുകൊണ്ട് 'am' echo ചെയ്യാൻ പറ്റില്ല.\n• 🪤 PSC Trap: \"Neither am I\" ആണ് സംസാരത്തിൽ ഏറ്റവും കൂടുതൽ കേൾക്കുന്ന രൂപം — auxiliary പരിശോധിക്കാതെ ചെവിയിൽ പരിചയമുള്ളത് തിരഞ്ഞെടുക്കുന്നവർ ഇവിടെ വീഴും.\n\n(C) So do I\n• 'So + auxiliary + subject' ശരിയായ ഘടന തന്നെയാണ് — പക്ഷേ അത് ഉപയോഗിക്കുന്നത് positive statement-നോട് യോജിക്കാൻ മാത്രമാണ്.\n• ഇവിടെ ആദ്യ വാക്യം negative ആയതുകൊണ്ട് 'So' ചേരില്ല.\n• 🪤 PSC Trap: auxiliary 'do' ശരിയായതുകൊണ്ട് പകുതി ശരിയാണെന്ന് തോന്നും; positive ആണോ negative ആണോ എന്ന് നോക്കാത്തവർക്കുള്ള കെണിയാണിത്.\n\n(D) Either I do\n• \"Either I do\" എന്നത് ഇംഗ്ലീഷിൽ നിലവിലില്ലാത്ത ഒരു ഘടനയാണ് — ഇങ്ങനെ ഒരു പ്രയോഗം ഭാഷയിൽ ഇല്ല.\n• 'either' യോജിപ്പ് പറയാൻ ഉപയോഗിക്കുന്നത് വാക്യത്തിന്റെ അവസാനം, negative വാക്യത്തിന് ശേഷം മാത്രമാണ് — \"I don't either\" അല്ലെങ്കിൽ \"Me neither.\" വാക്യത്തിന്റെ തുടക്കത്തിൽ ഒരിക്കലും വരില്ല.\n• 🪤 PSC Trap: 'either...or', 'neither...nor' എന്ന correlative ഓർമ്മയിൽ വരുമ്പോൾ 'Either' ഒരു സാധ്യതയായി തോന്നും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"SO for YES, NEITHER for NO\" — ഇത്രമാത്രം ഓർത്താൽ മതി. പിന്നെ auxiliary ആദ്യ വാക്യത്തിൽ നിന്ന് അതുപോലെ copy ചെയ്യുക.\n• Rule family: So do I / Neither do I, So am I / Neither am I, So have I / Neither have I, So can I / Neither can I — ഇവ ഒരുമിച്ച് ഒരേ table-ൽ പഠിക്കുക.\n• PSC exam strategy: ഇത്തരം ചോദ്യം കണ്ടാൽ രണ്ട് ചോദ്യം മാത്രം സ്വയം ചോദിക്കുക — (1) ആദ്യ വാക്യം positive ആണോ negative ആണോ? (2) അതിലെ auxiliary ഏതാണ്? രണ്ടിന്റെയും ഉത്തരം കിട്ടിയാൽ option ഒറ്റയടിക്ക് തെളിയും. ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-19-Q2",
+    "paperId": "HC-DAILY-2026-09-19",
+    "questionNumber": 2,
+    "topic": "Infinitive and Gerunds",
+    "topicDetail": "Verbs followed obligatorily by the gerund (deny + -ing)",
+    "difficulty": "medium",
+    "questionText": "Fill in the blank with the correct form of the verb.\nThe minister denied __________ any money from the contractor.",
+    "optionA": "to accept",
+    "optionB": "accepting",
+    "optionC": "accept",
+    "optionD": "to accepting",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) accepting\n\n• 'deny' എന്ന verb-ന്റെ അർഥം \"നിഷേധിക്കുക, ചെയ്തിട്ടില്ല എന്ന് പറയുക\" എന്നാണ്.\n• ഇംഗ്ലീഷിൽ 'deny' കഴിഞ്ഞ് വരുന്ന verb എപ്പോഴും gerund (-ing രൂപം) ആയിരിക്കണം — ഇത് ഒരു fixed pattern ആണ്, അർഥം നോക്കി മാറ്റാവുന്നതല്ല.\n• അതുകൊണ്ട് denied + accepting → \"പണം വാങ്ങിയിട്ടില്ല എന്ന് മന്ത്രി നിഷേധിച്ചു\" എന്ന് ശരിയായ അർഥം കിട്ടുന്നു.\n• Gerund ഇവിടെ ഒരു verbal noun ആയി 'denied' എന്ന verb-ന്റെ object ആയി നിൽക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: deny + V-ing (ഒരിക്കലും deny + to + V അല്ല).\n• നിയമം: ചില verb-കൾക്ക് ശേഷം gerund മാത്രമേ വരൂ. ഇവ മനഃപാഠമാക്കേണ്ട ഒരു കൂട്ടമാണ്.\n• Verb family (gerund മാത്രം എടുക്കുന്നവ): deny, admit, avoid, enjoy, finish, mind, suggest, risk, consider, postpone, practise, keep, imagine.\n• എതിർ കൂട്ടം (to-infinitive മാത്രം എടുക്കുന്നവ): agree, decide, refuse, promise, hope, want, manage, offer, expect.\n• ⭐ PSC ആവർത്തനം: Gerund vs Infinitive PSC-യിൽ ഏതാണ്ട് എല്ലാ വർഷവും വരുന്ന ഒരു ഉറപ്പുള്ള topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. He denied breaking the window. (broke എന്ന് പറഞ്ഞില്ല — denied + breaking)\n  2. She admitted copying the answers.\n  3. They avoided answering the reporter's question.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) to accept\n• ഇത് to-infinitive രൂപമാണ്.\n• 'deny' ഒരിക്കലും to-infinitive എടുക്കുന്നില്ല — \"denied to accept\" എന്നത് ഇംഗ്ലീഷിൽ ഇല്ലാത്ത ഘടനയാണ്.\n• 🪤 PSC Trap: മലയാളത്തിൽ \"വാങ്ങാൻ നിഷേധിച്ചു\" എന്ന് ചിന്തിച്ച് നേരിട്ട് വിവർത്തനം ചെയ്യുന്നവർ 'to accept' എടുക്കും. ('refuse' ആണെങ്കിൽ to-infinitive ശരിയാകുമായിരുന്നു — അതാണ് ഇവിടത്തെ കെണി.)\n\n(C) accept\n• ഇത് bare infinitive (base form) ആണ്.\n• Bare infinitive വരുന്നത് make, let, see, hear പോലുള്ള verb-കൾക്ക് ശേഷമാണ്; 'deny' അക്കൂട്ടത്തിൽ പെടുന്നില്ല.\n• 🪤 PSC Trap: ഏറ്റവും ലളിതമായ രൂപം ആയതുകൊണ്ട് സംശയം വരുമ്പോൾ പലരും ഇത് തിരഞ്ഞെടുക്കും.\n\n(D) to accepting\n• 'to' + '-ing' എന്ന കൂട്ടിച്ചേർക്കൽ ഇവിടെ പൂർണമായും തെറ്റാണ്.\n• ('look forward to', 'be used to' പോലുള്ള ചുരുക്കം ചില preposition-'to' പ്രയോഗങ്ങളിൽ മാത്രമേ to + V-ing വരൂ; 'deny' അത്തരത്തിലുള്ളതല്ല.)\n• 🪤 PSC Trap: \"looking forward to meeting you\" എന്ന പരിചിതമായ വാചകം ഓർമ്മ വന്ന് ഈ option തിരഞ്ഞെടുക്കുന്നവരുണ്ട്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"DENY the -ING\" എന്ന് ചൊല്ലി ഓർക്കുക — deny-യും -ing-ഉം എപ്പോഴും ഒരുമിച്ച്. ഒരു വാചകത്തിൽ ചേർത്ത് പഠിക്കാം: \"He denied, admitted, avoided, enjoyed — എല്ലാം -ing കൂടെ.\"\n• Word family: deny / admit / avoid / suggest / risk / mind / finish — ഈ ഏഴ് verb ഒരുമിച്ച് പഠിച്ചാൽ ഒരു വലിയ കൂട്ടം ചോദ്യങ്ങൾ ഒരുമിച്ച് ശരിയാകും.\n• PSC exam strategy: gerund/infinitive ചോദ്യം കണ്ടാൽ blank-ന്റെ അർഥം നോക്കി സമയം കളയരുത് — blank-ന് തൊട്ടുമുൻപിലുള്ള verb ഏതാണെന്ന് മാത്രം നോക്കുക. ആ verb ഏത് കൂട്ടത്തിൽ പെടുന്നു എന്നതാണ് ഉത്തരം തീരുമാനിക്കുന്നത്, അർഥമല്ല."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-19-Q3",
+    "paperId": "HC-DAILY-2026-09-19",
+    "questionNumber": 3,
+    "topic": "Degrees of Comparison",
+    "topicDetail": "Latin comparatives (superior/inferior) take 'to', never 'than', and are never double-compared",
+    "difficulty": "medium",
+    "questionText": "Choose the correct option to complete the sentence.\nThis model is far __________ the one we bought last year in both speed and durability.",
+    "optionA": "superior to",
+    "optionB": "superior than",
+    "optionC": "more superior to",
+    "optionD": "most superior than",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) superior to\n\n• 'superior' എന്ന വാക്കിന്റെ അർഥം \"കൂടുതൽ മെച്ചപ്പെട്ട\" എന്നാണ് — അതായത് ആ വാക്കിൽ തന്നെ comparative അർഥം അടങ്ങിയിട്ടുണ്ട്.\n• ലാറ്റിനിൽ നിന്ന് നേരിട്ട് വന്ന ഇത്തരം comparative വാക്കുകൾ 'than' അല്ല, 'to' ആണ് എടുക്കുന്നത്.\n• അതുകൊണ്ട് ശരിയായ പ്രയോഗം: This model is far superior to the one we bought last year.\n• 'far' എന്ന intensifier ഇവിടെ \"വളരെയധികം\" എന്ന അർഥത്തിൽ comparative-നെ ശക്തിപ്പെടുത്തുന്നു — ഇത് ഈ വാക്യം comparative ആണെന്നതിന്റെ ഒരു സൂചന കൂടിയാണ്.\n• Etymology hint: super (ലാറ്റിൻ) = 'above' → superior = മുകളിൽ നിൽക്കുന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Latin comparative + TO (never THAN, never MORE).\n• നിയമം: ലാറ്റിൻ വേരുള്ള comparative വാക്കുകൾ ഇതിനകം തന്നെ comparative ആണ്. അതിനാൽ (1) 'more' ചേർക്കരുത്, (2) 'than' ഉപയോഗിക്കരുത് — പകരം 'to' ചേർക്കുക.\n• Word family (എല്ലാം 'to' എടുക്കുന്നവ): superior, inferior, senior, junior, prior, anterior, posterior. ഇവയോടൊപ്പം 'preferable'-ഉം ഇതേ രീതിയിൽ 'to' എടുക്കുന്നു — രൂപത്തിൽ അത് ഒരു ലാറ്റിൻ comparative അല്ലെങ്കിലും പെരുമാറ്റത്തിൽ ഈ കൂട്ടത്തോടൊപ്പമാണ്.\n• ⭐ PSC ആവർത്തനം: Degrees of Comparison-ൽ ഈ 'to vs than' കെണി PSC-ക്ക് വലിയ ഇഷ്ടമാണ്; 'senior to', 'preferable to' രൂപങ്ങളിലും ഇത് ആവർത്തിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. Rahul is senior to me by two years. (senior than ❌)\n  2. This cloth is inferior to that one in quality. (inferior than ❌)\n  3. Walking is preferable to driving for short distances. (preferable than ❌)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) superior than\n• 'than' സാധാരണ comparative-കൾക്ക് (bigger than, faster than) ഉപയോഗിക്കുന്ന വാക്കാണ്.\n• ലാറ്റിൻ comparative ആയ 'superior' 'than' എടുക്കില്ല — ഇവിടെ preposition 'to' മാത്രമേ ശരിയാകൂ.\n• 🪤 PSC Trap: \"താരതമ്യം = than\" എന്ന ശീലം കൊണ്ട് മിക്കവരും ആദ്യം ഇതിലേക്കാണ് കൈ പോകുന്നത്. ഈ ഒരു option-ആണ് ഈ ചോദ്യത്തിന്റെ യഥാർഥ കെണി.\n\n(C) more superior to\n• Preposition 'to' ശരിയാണെങ്കിലും 'more' ചേർത്തത് double comparative ആക്കി.\n• 'superior' തന്നെ \"കൂടുതൽ മെച്ചം\" ആയതിനാൽ 'more' ചേർക്കുന്നത് \"കൂടുതൽ കൂടുതൽ മെച്ചം\" എന്ന ആവർത്തനമാകും — വ്യാകരണപരമായി തെറ്റ്.\n• 🪤 PSC Trap: 'to' ശരിയായതുകൊണ്ട് ഈ option പകുതി ശരിയാണെന്ന് തോന്നും.\n\n(D) most superior than\n• ഇതിൽ രണ്ട് തെറ്റുണ്ട് — superlative 'most' ചേർത്തു, കൂടാതെ 'than' ഉം ഉപയോഗിച്ചു.\n• Superlative-നോടൊപ്പം 'than' ഒരിക്കലും വരില്ല; superlative-ന് 'of/in' ആണ് വരുക.\n• 🪤 PSC Trap: 'far' എന്ന വാക്ക് കണ്ട് \"ഏറ്റവും\" എന്ന അർഥം എടുത്ത് superlative തിരഞ്ഞെടുക്കുന്നവരുണ്ട്; പക്ഷേ 'far' ഇവിടെ comparative-നെയാണ് ശക്തിപ്പെടുത്തുന്നത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"-IOR കണ്ടാൽ TO\" — superiOR, inferiOR, seniOR, juniOR, priOR. -ior-ൽ അവസാനിക്കുന്ന വാക്ക് കണ്ടാൽ ഉടനെ 'to' എടുക്കുക, 'than' എന്ന വാക്കിലേക്ക് നോക്കുക പോലും വേണ്ട.\n• Word family: superior to, inferior to, senior to, junior to, prior to, preferable to — ആറെണ്ണം ഒരു വരിയിൽ എഴുതി ഓർത്തുവെക്കുക.\n• PSC exam strategy: Degrees of Comparison ചോദ്യത്തിൽ 'than' ഉള്ള option ആദ്യം വെട്ടുക — വാക്ക് -ior-ൽ അവസാനിക്കുന്നെങ്കിൽ 'than' ഉള്ളതെല്ലാം തെറ്റാണ്. പിന്നെ 'more/most' ഉള്ളതും വെട്ടുക. ബാക്കി വരുന്നതാണ് ഉത്തരം — ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-19-Q4",
+    "paperId": "HC-DAILY-2026-09-19",
+    "questionNumber": 4,
+    "topic": "Types of Sentences",
+    "topicDetail": "Complex sentence = one main clause + one subordinate clause",
+    "difficulty": "medium",
+    "questionText": "Identify the type of the following sentence.\nAlthough the roads were flooded, the volunteers reached the relief camp before dawn.",
+    "optionA": "Simple sentence",
+    "optionB": "Compound sentence",
+    "optionC": "Complex sentence",
+    "optionD": "Compound-complex sentence",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Complex sentence\n\n• വാക്യം രണ്ട് ഭാഗങ്ങളായി തിരിക്കാം: (i) \"Although the roads were flooded\" (ii) \"the volunteers reached the relief camp before dawn.\"\n• രണ്ടാമത്തെ ഭാഗത്തിന് മാത്രമേ ഒറ്റയ്ക്ക് നിൽക്കാൻ കഴിയൂ — അതാണ് main clause (principal clause).\n• ആദ്യ ഭാഗം 'Although' എന്ന subordinating conjunction കൊണ്ട് തുടങ്ങുന്നു. അതുകൊണ്ട് അതിന് ഒറ്റയ്ക്ക് നിൽക്കാനാവില്ല — അത് subordinate clause ആണ്.\n• ഒരു main clause + ഒരു subordinate clause = Complex sentence. അതുകൊണ്ട് ഉത്തരം (C).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Main clause എണ്ണം + Subordinate clause എണ്ണം നോക്കുക. 1 + 0 = Simple. 2 + 0 = Compound. 1 + 1 = Complex. 2 + 1 = Compound-complex.\n• നിയമം: Clause-ന്റെ തരം തീരുമാനിക്കുന്നത് അതിനെ ബന്ധിപ്പിക്കുന്ന conjunction ആണ്.\n• Subordinating conjunctions (Complex ഉണ്ടാക്കുന്നവ): although, though, because, since, if, unless, when, while, after, before, as, that, whereas.\n• Coordinating conjunctions (Compound ഉണ്ടാക്കുന്നവ) — FANBOYS: For, And, Nor, But, Or, Yet, So.\n• ⭐ PSC ആവർത്തനം: Types of Sentences-ൽ Simple/Compound/Complex തിരിച്ചറിയൽ PSC-യുടെ സ്ഥിരം ചോദ്യമാണ്.\n• ഉദാഹരണ sentences:\n  1. The bell rang. → Simple (ഒരു finite verb മാത്രം)\n  2. The bell rang and the students rushed out. → Compound ('and' = coordinating)\n  3. When the bell rang, the students rushed out. → Complex ('When' = subordinating)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) Simple sentence\n• Simple sentence-ൽ finite verb ഒന്ന് മാത്രമേ ഉണ്ടാകൂ.\n• ഇവിടെ 'were' എന്നും 'reached' എന്നും രണ്ട് finite verb ഉണ്ട് — അതുകൊണ്ട് simple അല്ല.\n• 🪤 PSC Trap: വാക്യം നീളം കുറഞ്ഞതും ലളിതമായി വായിക്കാവുന്നതുമായതുകൊണ്ട് 'simple' എന്ന വാക്കിന്റെ സാധാരണ അർഥം വെച്ച് തിരഞ്ഞെടുക്കുന്നവരുണ്ട്. വ്യാകരണത്തിൽ 'simple' എന്നത് \"എളുപ്പം\" എന്നല്ല, \"ഒരു clause മാത്രം\" എന്നാണ്.\n\n(B) Compound sentence\n• Compound ആകണമെങ്കിൽ രണ്ട് main clause വേണം, അവ FANBOYS conjunction കൊണ്ട് ബന്ധിപ്പിക്കണം.\n• ഇവിടെ 'Although' subordinating ആണ്, coordinating അല്ല. കൂടാതെ main clause ഒന്നേയുള്ളൂ.\n• 🪤 PSC Trap: \"രണ്ട് ഭാഗം ഉണ്ടല്ലോ, അപ്പോൾ compound\" എന്ന് ചിന്തിക്കുന്നവർക്കുള്ള കെണി. ഭാഗങ്ങളുടെ എണ്ണമല്ല, conjunction-ന്റെ തരമാണ് പ്രധാനം.\n\n(D) Compound-complex sentence\n• ഈ തരത്തിന് ചുരുങ്ങിയത് രണ്ട് main clause-ഉം ഒരു subordinate clause-ഉം വേണം.\n• ഇവിടെ main clause ഒന്നേയുള്ളൂ ('the volunteers reached the relief camp before dawn').\n• 🪤 PSC Trap: ഏറ്റവും വലുതും സങ്കീർണവുമായ പേര് കണ്ട് \"ഇത് ബുദ്ധിമുട്ടുള്ള ചോദ്യമായതുകൊണ്ട് ഉത്തരവും സങ്കീർണമാകും\" എന്ന് ഊഹിക്കുന്നവർ വീഴും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: വാക്യത്തിലെ finite verb-കൾ എണ്ണി വട്ടമിടുക (ഇവിടെ were, reached = 2). എന്നിട്ട് conjunction-ൽ അടിവരയിടുക (Although). \"FANBOYS ആണെങ്കിൽ Compound, അല്ലെങ്കിൽ Complex\" — ഈ ഒറ്റ വരി മതി.\n• Rule family: Although / Though / Even though / Because / Since / Unless / While — ഈ വാക്കുകളിലൊന്ന് വാക്യത്തിലുണ്ടെങ്കിൽ ഏതാണ്ട് ഉറപ്പായും Complex ആണ്.\n• PSC exam strategy: വാക്യം comma-യിൽ തുടങ്ങുന്ന ഭാഗം കൊണ്ടാണ് ആരംഭിക്കുന്നതെങ്കിൽ ആ ആദ്യ ഭാഗം മിക്കവാറും subordinate clause ആയിരിക്കും. ആദ്യ വാക്ക് ഏതാണെന്ന് നോക്കിയാൽ മാത്രം മതി — പത്ത് സെക്കൻഡിൽ ഉത്തരം കിട്ടും!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-19-Q5",
+    "paperId": "HC-DAILY-2026-09-19",
+    "questionNumber": 5,
+    "topic": "Parts of Speech",
+    "topicDetail": "A word normally used as a verb functioning as a noun (determiner + adjective + word + of-phrase)",
+    "difficulty": "medium",
+    "questionText": "Identify the part of speech of the italicised word.\nThe sudden __rise__ in fuel prices worried the daily commuters.",
+    "optionA": "Verb",
+    "optionB": "Noun",
+    "optionC": "Adjective",
+    "optionD": "Adverb",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Noun\n\n• 'rise' എന്ന വാക്ക് സാധാരണ ഒരു verb ആയി ഉപയോഗിക്കാറുണ്ട് (prices rise = വില ഉയരുന്നു). പക്ഷേ ഈ വാക്യത്തിൽ അത് noun ആയാണ് പ്രവർത്തിക്കുന്നത്.\n• തെളിവ് ഒന്ന്: അതിന് തൊട്ടുമുൻപ് 'The' എന്ന article ഉണ്ട്. Article-ന് ശേഷം വരുന്നത് noun ആയിരിക്കും.\n• തെളിവ് രണ്ട്: 'sudden' എന്ന adjective അതിനെ വിശേഷിപ്പിക്കുന്നു. Adjective വിശേഷിപ്പിക്കുന്നത് noun-നെയാണ്.\n• തെളിവ് മൂന്ന്: \"The sudden rise in fuel prices\" എന്ന മുഴുവൻ ഭാഗവും ചേർന്നാണ് വാക്യത്തിന്റെ subject. Subject ആകാൻ കഴിയുന്നത് noun/noun phrase-ന് മാത്രമാണ്.\n• വാക്യത്തിലെ യഥാർഥ verb 'worried' ആണ് — ആരാണ് worry ചെയ്തത്? The sudden rise. അതായത് 'rise' ആണ് പ്രവർത്തിക്കുന്നത്, അത് noun ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ഒരു വാക്കിന്റെ part of speech തീരുമാനിക്കുന്നത് അതിന്റെ അർഥമല്ല, വാക്യത്തിലെ ജോലിയാണ് (function decides, not the dictionary).\n• നിയമം: Article (a/an/the) അല്ലെങ്കിൽ adjective-ന് ശേഷം വരുന്ന വാക്ക് noun ആണ്.\n• ഇംഗ്ലീഷിൽ ഒരേ വാക്ക് പല part of speech ആകാം — ഇതിനെ conversion അഥവാ functional shift എന്ന് പറയുന്നു.\n• ⭐ PSC ആവർത്തനം: \"ഈ വാക്ക് ഏത് part of speech?\" എന്ന ചോദ്യം PSC-യിൽ Parts of Speech വിഭാഗത്തിലെ ഏറ്റവും സ്ഥിരമായ രൂപമാണ്; മിക്കപ്പോഴും verb-നെ noun ആക്കിയോ noun-നെ verb ആക്കിയോ ആണ് ചോദിക്കുക.\n• ഉദാഹരണ sentences:\n  1. The fall in temperature surprised everyone. (fall = noun, 'The' കാരണം)\n  2. Leaves fall in autumn. (fall = verb, subject 'Leaves'-ന്റെ പ്രവൃത്തി)\n  3. A steady increase in demand was reported. (increase = noun, 'A' + 'steady' കാരണം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) Verb\n• 'rise' നിഘണ്ടുവിൽ ഒരു verb ആണ് എന്നത് ശരിയാണ്, പക്ഷേ ഈ വാക്യത്തിൽ അതിന് tense ഇല്ല, subject ഇല്ല.\n• വാക്യത്തിന്റെ finite verb 'worried' ആണ്. ഒരു ലളിത വാക്യത്തിൽ ഒരു finite verb മാത്രമേ ഉണ്ടാകൂ.\n• 🪤 PSC Trap: നിഘണ്ടുവിലെ പരിചിതമായ അർഥം വെച്ച് ഉത്തരം പറയുന്നവർക്കുള്ള ഏറ്റവും വലിയ കെണി. Part of speech നോക്കേണ്ടത് വാക്യത്തിലാണ്, നിഘണ്ടുവിലല്ല.\n\n(C) Adjective\n• Adjective-ന്റെ ജോലി മറ്റൊരു noun-നെ വിശേഷിപ്പിക്കുക എന്നതാണ്.\n• ഇവിടെ 'rise' ആരെയും വിശേഷിപ്പിക്കുന്നില്ല — മറിച്ച് 'sudden' എന്ന adjective 'rise'-നെയാണ് വിശേഷിപ്പിക്കുന്നത്. വിശേഷിപ്പിക്കപ്പെടുന്നത് noun ആണ്.\n• 🪤 PSC Trap: 'sudden rise' എന്ന് ഒരുമിച്ച് വായിക്കുമ്പോൾ ഏതാണ് ഏതിനെ വിശേഷിപ്പിക്കുന്നത് എന്ന് ആശയക്കുഴപ്പം വരും.\n\n(D) Adverb\n• Adverb വിശേഷിപ്പിക്കുന്നത് verb, adjective അല്ലെങ്കിൽ മറ്റൊരു adverb-നെയാണ്.\n• 'rise' ഇവിടെ 'The' എന്ന article-ന് ശേഷം subject ആയി നിൽക്കുന്നു — adverb-ന് ഒരിക്കലും ഈ സ്ഥാനം എടുക്കാനാവില്ല.\n• 🪤 PSC Trap: \"വില ഉയരുന്ന രീതി\" എന്ന അർഥത്തിൽ ചിന്തിച്ച് adverb തിരഞ്ഞെടുക്കുന്നവരുണ്ട്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"THE-ക്ക് പിന്നിൽ NOUN\" — അടിവരയിട്ട വാക്കിന് തൊട്ടുമുൻപ് a/an/the ഉണ്ടോ എന്ന് ആദ്യം നോക്കുക. ഉണ്ടെങ്കിൽ മറ്റൊന്നും ആലോചിക്കേണ്ട, അത് noun ആണ്.\n• Word family: rise, fall, increase, decrease, run, walk, drop, change, help — ഇവയെല്ലാം noun ആയും verb ആയും വരാം. ഓരോന്നിനും രണ്ട് വാക്യം വീതം എഴുതി പരിശീലിക്കുക.\n• PSC exam strategy: മൂന്ന് ചോദ്യം ക്രമത്തിൽ സ്വയം ചോദിക്കുക — (1) ഇതിന് മുൻപ് article/adjective ഉണ്ടോ? → Noun. (2) ഇതിന് tense ഉണ്ടോ, subject ഉണ്ടോ? → Verb. (3) ഇത് ഒരു noun-നെ വിശേഷിപ്പിക്കുന്നുണ്ടോ? → Adjective. മൂന്നിലും 'ഇല്ല' എങ്കിൽ മാത്രം Adverb. ഈ ക്രമം തെറ്റിക്കാതെ പിന്തുടർന്നാൽ ഈ topic-ൽ മാർക്ക് ഒരിക്കലും miss ആകില്ല."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-19-Q6",
+    "paperId": "HC-DAILY-2026-09-19",
+    "questionNumber": 6,
+    "topic": "Foreign Words and Phrases",
+    "topicDetail": "French: esprit de corps",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the foreign phrase in italics.\nThe regiment's __esprit de corps__ was evident in the way every soldier stood by his comrades.",
+    "optionA": "a feeling of pride and mutual loyalty shared by the members of a group",
+    "optionB": "a written code of military discipline",
+    "optionC": "the physical fitness training given to soldiers",
+    "optionD": "the ceremonial uniform worn on parade",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) a feeling of pride and mutual loyalty shared by the members of a group\n\n• 'Esprit de corps' ഒരു ഫ്രഞ്ച് പ്രയോഗമാണ്. 'esprit' = spirit (ചൈതന്യം, മനോഭാവം), 'corps' = body of people (ഒരു കൂട്ടം ആളുകൾ).\n• അതായത് അക്ഷരാർഥത്തിൽ \"കൂട്ടായ്മയുടെ ചൈതന്യം\" — ഒരു സംഘത്തിലെ അംഗങ്ങൾക്ക് പരസ്പരം തോന്നുന്ന അഭിമാനവും കൂറും ഒരുമയും.\n• വാക്യത്തിലെ സൂചന വ്യക്തമാണ്: \"every soldier stood by his comrades\" (ഓരോ പട്ടാളക്കാരനും തന്റെ സഹപ്രവർത്തകർക്കൊപ്പം ഉറച്ചുനിന്നു) — ഇത് കൃത്യമായി കൂട്ടായ്മയുടെ ചൈതന്യം തന്നെയാണ്.\n• Etymology hint: 'corps' എന്ന ഫ്രഞ്ച് വാക്ക് ലാറ്റിൻ 'corpus' (ശരീരം, സമൂഹം) എന്നതിൽ നിന്നാണ് — corporation, corporate, corpse എന്നീ വാക്കുകളുടെയും വേര് ഇതുതന്നെ. 'esprit' ആകട്ടെ ലാറ്റിൻ 'spiritus' (ശ്വാസം, ചൈതന്യം) എന്നതിൽനിന്ന് ഫ്രഞ്ച് വഴി വന്നതാണ് — ഇംഗ്ലീഷിലെ 'spirit' എന്ന വാക്കിന്റെ അതേ വേര്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: esprit (spirit) + de (of) + corps (group) = ഒരു കൂട്ടത്തിന്റെ കൂറും അഭിമാനവും.\n• നിയമം: Foreign phrase ചോദ്യങ്ങളിൽ ആദ്യം ഓരോ വാക്കിന്റെയും വേര് (root) വേർതിരിച്ചെടുക്കുക — മിക്കപ്പോഴും അർഥം അതിൽനിന്ന് തന്നെ തെളിയും.\n• Word family (ഒരേ ഫ്രഞ്ച്/ലാറ്റിൻ വേരിൽനിന്ന്): corps, corpus, corporate, corporation, corporal, incorporate — എല്ലാത്തിലും \"ശരീരം / ഒരുമിച്ച ഒരു കൂട്ടം\" എന്ന ആശയമുണ്ട്.\n• ⭐ PSC ആവർത്തനം: Foreign Words and Phrases PSC-യുടെ vocabulary വിഭാഗത്തിൽ സ്ഥിരം വരുന്ന ഒരു topic ആണ്; ഫ്രഞ്ച്, ലാറ്റിൻ പ്രയോഗങ്ങളാണ് കൂടുതലും.\n• ഉദാഹരണ sentences:\n  1. The new coach worked hard to build esprit de corps among the players.\n  2. A strong esprit de corps kept the rescue team together through the long night.\n  3. Long training camps are meant to create esprit de corps in a new battalion.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) a written code of military discipline\n• എഴുതപ്പെട്ട അച്ചടക്കനിയമത്തിന് ഇംഗ്ലീഷിൽ 'code of conduct' അല്ലെങ്കിൽ 'service regulations' എന്നാണ് പറയുക.\n• Esprit de corps എഴുതിവെക്കുന്ന ഒരു നിയമമല്ല — അത് ആളുകളുടെ ഉള്ളിലുള്ള ഒരു വികാരമാണ്.\n• 🪤 PSC Trap: വാക്യത്തിൽ 'regiment', 'soldier' എന്നീ പട്ടാളപദങ്ങൾ കണ്ട് ഏതെങ്കിലും ഔദ്യോഗിക പട്ടാളനിയമം ആയിരിക്കും എന്ന് ഊഹിക്കുന്നവർക്കുള്ള കെണി.\n\n(C) the physical fitness training given to soldiers\n• ശാരീരിക പരിശീലനത്തിന് 'physical training' അല്ലെങ്കിൽ 'drill' എന്നാണ് പറയുക.\n• 'esprit' എന്ന വാക്കിന്റെ അർഥം തന്നെ 'spirit' — മനസ്സുമായി ബന്ധപ്പെട്ടത്, ശരീരവുമായല്ല.\n• 🪤 PSC Trap: പട്ടാളവുമായി ബന്ധപ്പെട്ട ഏറ്റവും പരിചിതമായ പ്രവർത്തനം പരിശീലനമായതുകൊണ്ട് ഈ option ആകർഷകമായി തോന്നും.\n\n(D) the ceremonial uniform worn on parade\n• 'corps' എന്നാൽ ഒരു കൂട്ടം ആളുകൾ എന്നാണ്, വസ്ത്രമല്ല.\n• ചടങ്ങിലെ വേഷത്തിന് 'ceremonial dress' അല്ലെങ്കിൽ 'regalia' എന്നാണ് പറയുക.\n• 🪤 PSC Trap: 'corps' എന്ന വാക്ക് ശരീരവുമായി ബന്ധപ്പെട്ടതാണെന്ന് ഓർത്ത് \"ശരീരത്തിൽ ധരിക്കുന്നത്\" എന്ന നിലയിൽ വസ്ത്രമായി തെറ്റിദ്ധരിക്കുന്നവരുണ്ട്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"SPIRIT of the SQUAD\" എന്ന ചിത്രം മനസ്സിൽ വരയ്ക്കുക — ഒരു കൂട്ടം പട്ടാളക്കാർ തോളോട് തോൾ ചേർന്ന് നിൽക്കുന്നു. esprit = spirit, corps = squad. രണ്ടും ചേർത്താൽ അർഥം തനിയെ വരും.\n• Word family: അടുത്ത ബന്ധമുള്ള മറ്റ് ഫ്രഞ്ച് പ്രയോഗങ്ങൾ — coup d'état, tête-à-tête, laissez-faire, rendezvous, avant-garde. ഓരോന്നും വാക്കുകളായി പൊളിച്ച് പഠിക്കുക.\n• PSC exam strategy: Foreign phrase ചോദ്യത്തിൽ അർഥം ഓർമ്മയില്ലെങ്കിൽ പതറേണ്ട — (1) വാക്യത്തിലെ സൂചന വായിക്കുക (ഇവിടെ \"stood by his comrades\"), (2) phrase-ലെ ഒരു വാക്കെങ്കിലും പരിചിതമായ ഇംഗ്ലീഷ് വാക്കിനോട് ചേർത്തുനോക്കുക (esprit → spirit). ഈ രണ്ട് വഴിയിൽ ഏതെങ്കിലും ഒന്ന് മിക്കവാറും ഉത്തരത്തിലേക്ക് എത്തിക്കും."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-19-Q7",
+    "paperId": "HC-DAILY-2026-09-19",
+    "questionNumber": 7,
+    "topic": "Singular and Plural",
+    "topicDetail": "Latin -um to -a plural (stratum to strata)",
+    "difficulty": "medium",
+    "questionText": "Choose the correct plural form of the word in italics.\nThe geologist examined each __stratum__ of rock exposed by the landslide.",
+    "optionA": "stratums",
+    "optionB": "strata",
+    "optionC": "stratae",
+    "optionD": "stratii",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) strata\n\n• 'Stratum' എന്നാൽ പാറയുടെയോ മണ്ണിന്റെയോ ഒരു പാളി (layer) എന്നർഥം. സമൂഹത്തിലെ 'തട്ട്' എന്ന അർഥത്തിലും ഉപയോഗിക്കാറുണ്ട്.\n• ഇത് ലാറ്റിനിൽനിന്ന് നേരിട്ട് ഇംഗ്ലീഷിലേക്ക് വന്ന വാക്കാണ്. അതുകൊണ്ട് ഇംഗ്ലീഷിന്റെ '-s' ചേർക്കുന്ന സാധാരണ രീതിയല്ല, ലാറ്റിന്റെ സ്വന്തം രീതിയാണ് bahuvachanത്തിന് പിന്തുടരുന്നത്.\n• ലാറ്റിൻ നിയമം: '-um'-ൽ അവസാനിക്കുന്ന നാമങ്ങളുടെ ബഹുവചനം '-a' ആണ്. stratum → strata.\n• Etymology hint: ലാറ്റിൻ 'sternere' (വിരിക്കുക) എന്നതിൽനിന്ന് — അതുകൊണ്ടാണ് street, strew എന്നീ വാക്കുകളുമായി ഇതിന് ബന്ധമുള്ളത്; എല്ലാം \"പരത്തി വിരിച്ചത്\" എന്ന ആശയത്തിൽ നിന്ന്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: -UM → -A. (stratum → strata, datum → data, medium → media, bacterium → bacteria, curriculum → curricula, memorandum → memoranda, erratum → errata).\n• നിയമം: വിദേശഭാഷയിൽനിന്ന് വന്ന നാമങ്ങൾ അതത് ഭാഷയുടെ ബഹുവചനരീതി നിലനിർത്തുന്നു. അതുകൊണ്ട് അവസാനത്തെ അക്ഷരങ്ങൾ നോക്കി ഏത് കൂട്ടമാണെന്ന് തിരിച്ചറിയണം.\n• Related word groups:\n  – '-us' → '-i': nucleus → nuclei, radius → radii, stimulus → stimuli, fungus → fungi\n  – '-a' → '-ae': larva → larvae, formula → formulae, vertebra → vertebrae\n  – '-is' → '-es': crisis → crises, analysis → analyses, thesis → theses, basis → bases\n  – '-on' → '-a' (ഇത് ലാറ്റിൻ അല്ല, ഗ്രീക്ക് വേരുള്ള കൂട്ടമാണ്): phenomenon → phenomena, criterion → criteria\n• ⭐ PSC ആവർത്തനം: ഈ നാല് കൂട്ടങ്ങളിൽനിന്നാണ് PSC-യുടെ Singular and Plural ചോദ്യങ്ങളിൽ ഭൂരിഭാഗവും വരുന്നത്.\n• ഉദാഹരണ sentences:\n  1. The report was based on incomplete data. (datum-ന്റെ ബഹുവചനം)\n  2. Several memoranda were circulated before the meeting.\n  3. The two curricula differ in their approach to language teaching.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) stratums\n• ഇത് ഇംഗ്ലീഷിന്റെ സാധാരണ '-s' ചേർക്കുന്ന രീതിയാണ്.\n• ചില നിഘണ്ടുക്കൾ 'stratums' ഒരു അപൂർവ variant ആയി രേഖപ്പെടുത്തുന്നുണ്ടെങ്കിലും, ഭൂഗർഭശാസ്ത്ര സന്ദർഭത്തിൽ നിലവാരമുള്ളതും PSC ഉത്തരസൂചിക അംഗീകരിക്കുന്നതുമായ ഏക രൂപം 'strata' ആണ്.\n• 🪤 PSC Trap: സംശയം വരുമ്പോൾ '-s' ചേർക്കുക എന്നത് സ്വാഭാവിക പ്രതികരണമാണ്. Foreign origin വാക്കുകളിൽ ഈ ശീലമാണ് ഏറ്റവും കൂടുതൽ മാർക്ക് കളയുന്നത്.\n\n(C) stratae\n• '-ae' എന്ന അവസാനം ഉപയോഗിക്കുന്നത് ലാറ്റിനിൽ '-a'-യിൽ അവസാനിക്കുന്ന നാമങ്ങൾക്കാണ് (larva → larvae, formula → formulae).\n• 'Stratum' '-um'-ൽ അവസാനിക്കുന്നു, '-a'-യിലല്ല. അതുകൊണ്ട് ഈ രീതി ഇവിടെ ബാധകമല്ല.\n• 🪤 PSC Trap: ലാറ്റിൻ ആണെന്ന് ശരിയായി തിരിച്ചറിഞ്ഞിട്ടും തെറ്റായ ലാറ്റിൻ കൂട്ടം തിരഞ്ഞെടുക്കുന്നവർക്കുള്ള കെണി — പാതി അറിവുള്ളവരെയാണ് ഇത് കുടുക്കുന്നത്.\n\n(D) stratii\n• '-i' എന്ന അവസാനം '-us'-ൽ അവസാനിക്കുന്ന ലാറ്റിൻ നാമങ്ങൾക്കാണ് (nucleus → nuclei, radius → radii).\n• 'stratii' എന്ന ഒരു രൂപം ഇംഗ്ലീഷിലോ ലാറ്റിനിലോ നിലവിലില്ല — അത് പൂർണമായും കെട്ടിച്ചമച്ച വാക്കാണ്.\n• 🪤 PSC Trap: കണ്ടാൽ ലാറ്റിൻ പോലെ തോന്നിക്കുന്ന ഒരു രൂപം ഉണ്ടാക്കി വെക്കുന്നത് PSC-യുടെ പതിവ് തന്ത്രമാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"UM മാറി A ആകും\" — ഒരു ചെറിയ ചൊല്ലായി ഓർക്കുക: \"datUM → datA, mediUM → mediA, stratUM → stratA.\" ആദ്യത്തെ രണ്ടെണ്ണം നമുക്ക് നന്നായി പരിചയമുള്ളതാണ്; മൂന്നാമത്തേത് അവയുടെ കൂടെ ചേർത്തുവെച്ചാൽ ഒരിക്കലും മറക്കില്ല.\n• Word family: stratum → strata, datum → data, medium → media, bacterium → bacteria, curriculum → curricula, memorandum → memoranda, erratum → errata — ഈ ഏഴെണ്ണം ഒരു ചെറിയ പട്ടികയായി എഴുതി വെക്കുക.\n• PSC exam strategy: Singular/Plural ചോദ്യത്തിൽ ആദ്യം വാക്കിന്റെ അവസാനത്തെ രണ്ടോ മൂന്നോ അക്ഷരം നോക്കുക (-um, -us, -a, -is, -on). ഏത് കൂട്ടമാണെന്ന് തിരിച്ചറിഞ്ഞാൽ ഉത്തരം കണക്കുപോലെ കിട്ടും — ഓർമ്മയെ ആശ്രയിക്കേണ്ട ആവശ്യം പോലുമില്ല. ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-19-Q8",
+    "paperId": "HC-DAILY-2026-09-19",
+    "questionNumber": 8,
+    "topic": "Idioms",
+    "topicDetail": "let sleeping dogs lie",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the idiom in italics.\nThe committee decided to __let sleeping dogs lie__ rather than reopen the old boundary dispute.",
+    "optionA": "work quietly without disturbing anyone",
+    "optionB": "avoid stirring up a problem that has been quiet for a long time",
+    "optionC": "delay a task until the last possible moment",
+    "optionD": "forgive someone who has wronged you",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) avoid stirring up a problem that has been quiet for a long time\n\n• 'Let sleeping dogs lie' എന്നതിന്റെ അക്ഷരാർഥം \"ഉറങ്ങുന്ന നായ്ക്കളെ കിടക്കാൻ വിടുക\" എന്നാണ് — അതായത് അവയെ ഉണർത്തരുത്.\n• ഭാവാർഥം: ഇപ്പോൾ ശാന്തമായിക്കിടക്കുന്ന ഒരു പഴയ പ്രശ്നം വീണ്ടും ഇളക്കിവിടരുത്; അത് ഇളക്കിയാൽ പുതിയ കുഴപ്പങ്ങൾ ഉണ്ടാകും.\n• വാക്യത്തിലെ സൂചന വ്യക്തമാണ്: \"rather than reopen the old boundary dispute\" (പഴയ അതിർത്തിത്തർക്കം വീണ്ടും തുറക്കുന്നതിനു പകരം) — 'reopen' എന്ന വാക്ക് തന്നെ ഉത്തരത്തിലേക്ക് വിരൽ ചൂണ്ടുന്നു.\n• ചുരുക്കത്തിൽ: പഴയ പ്രശ്നം അവിടെത്തന്നെ കിടക്കട്ടെ, തൊടേണ്ട.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ഉറങ്ങുന്ന നായ = ശാന്തമായിക്കിടക്കുന്ന പഴയ പ്രശ്നം. ഉണർത്തരുത് = ഇളക്കിവിടരുത്.\n• നിയമം: Idiom-ന്റെ അർഥം ഒരിക്കലും വാക്കുകളുടെ നേരിട്ടുള്ള അർഥമല്ല. പക്ഷേ മിക്ക idiom-ലും ഉള്ളിൽ ഒരു ചിത്രം ഒളിഞ്ഞിരിപ്പുണ്ട് — ആ ചിത്രം മനസ്സിൽ വരച്ചാൽ അർഥം ഓർമ്മയിൽ നിൽക്കും.\n• Related idiom group (\"പ്രശ്നം ഒഴിവാക്കൽ\" കൂട്ടം): let sleeping dogs lie (പഴയ പ്രശ്നം ഇളക്കരുത്), steer clear of (അകന്നുനിൽക്കുക), give a wide berth to (അടുക്കാതിരിക്കുക).\n• ⭐ PSC ആവർത്തനം: Idioms PSC English വിഭാഗത്തിലെ ഏറ്റവും ഉയർന്ന frequency ഉള്ള topic-കളിൽ ഒന്നാണ് — മിക്കവാറും എല്ലാ പേപ്പറിലും ഒരെണ്ണമെങ്കിലും ഉറപ്പാണ്.\n• ഉദാഹരണ sentences:\n  1. I wanted to ask about the old quarrel, but my father advised me to let sleeping dogs lie.\n  2. The audit found nothing new, so the board chose to let sleeping dogs lie.\n  3. Rather than raking up the case again, the family decided to let sleeping dogs lie.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) work quietly without disturbing anyone\n• ഇത് 'sleeping', 'lie' എന്നീ വാക്കുകളുടെ അക്ഷരാർഥത്തിൽനിന്ന് ഉണ്ടാക്കിയ അർഥമാണ്.\n• Idiom പറയുന്നത് ഒരാളുടെ ജോലിരീതിയെക്കുറിച്ചല്ല — ഒരു തർക്കം വീണ്ടും തുറക്കണോ വേണ്ടയോ എന്ന തീരുമാനത്തെക്കുറിച്ചാണ്.\n• 🪤 PSC Trap: Idiom-ന്റെ വാക്കുകൾ നേരിട്ട് വിവർത്തനം ചെയ്യുന്നവർക്കുള്ള ഏറ്റവും സാധാരണമായ കെണി.\n\n(C) delay a task until the last possible moment\n• അവസാന നിമിഷം വരെ നീട്ടിവെക്കുന്നതിന് ഉപയോഗിക്കുന്ന idiom 'at the eleventh hour' ആണ്, 'put off' എന്നും പറയാം.\n• ഇവിടെ കമ്മിറ്റി ഒന്നും നീട്ടിവെക്കുന്നില്ല — അവർ പ്രശ്നം തൊടേണ്ടതില്ല എന്ന് പൂർണമായി തീരുമാനിക്കുകയാണ്.\n• 🪤 PSC Trap: \"ഇപ്പോൾ ചെയ്യേണ്ട\" എന്നതും \"ഒരിക്കലും ചെയ്യേണ്ട\" എന്നതും തമ്മിലുള്ള നേരിയ വ്യത്യാസം കണ്ടെത്താത്തവർ വീഴും.\n\n(D) forgive someone who has wronged you\n• ക്ഷമിക്കുക എന്ന ആശയത്തിന് 'bury the hatchet', 'let bygones be bygones' എന്നീ idiom-കളാണ് ഉള്ളത്.\n• 'Let sleeping dogs lie'-ൽ ക്ഷമയോ അനുരഞ്ജനമോ ഇല്ല — പ്രശ്നം പരിഹരിക്കപ്പെടുന്നില്ല, വെറുതെ തൊടാതെ വിടുന്നു എന്നേയുള്ളൂ.\n• 🪤 PSC Trap: 'let bygones be bygones' എന്ന സമാനമായി തോന്നുന്ന idiom ഓർമ്മ വന്ന് ഈ option തിരഞ്ഞെടുക്കുന്നവരുണ്ട്. ഇത് ഈ ചോദ്യത്തിലെ ഏറ്റവും സൂക്ഷ്മമായ കെണിയാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: ഒരു ചിത്രം മനസ്സിൽ വരയ്ക്കുക — വീട്ടുമുറ്റത്ത് ഒരു വലിയ നായ ശാന്തമായി ഉറങ്ങുന്നു. നിങ്ങൾ അതിനെ കുത്തിയുണർത്തിയാൽ അത് കുരയ്ക്കും, കടിക്കും. അതുപോലെ, ഉറങ്ങിക്കിടക്കുന്ന പഴയ തർക്കം ഉണർത്തിയാൽ അത് കടിക്കും!\n• Idiom family (ഒരുമിച്ച് പഠിക്കുക): let sleeping dogs lie (പ്രശ്നം ഇളക്കരുത്) ≠ bury the hatchet (ശത്രുത അവസാനിപ്പിക്കുക) ≠ rake up the past (പഴയത് ഇളക്കിവിടുക). മൂന്നും തമ്മിലുള്ള വ്യത്യാസം വ്യക്തമായി അറിയണം.\n• PSC exam strategy: Idiom ചോദ്യത്തിൽ അർഥം ഉറപ്പില്ലെങ്കിൽ വാക്യത്തിലെ ബാക്കി വാക്കുകൾ സൂക്ഷ്മമായി വായിക്കുക. ഇവിടെ 'rather than reopen' എന്ന വാക്കുകൾ തന്നെ \"തുറക്കുന്നില്ല, ഒഴിവാക്കുന്നു\" എന്ന് പറഞ്ഞുതരുന്നുണ്ട്. സൂചന എപ്പോഴും വാക്യത്തിൽ തന്നെ ഒളിഞ്ഞിരിപ്പുണ്ട്!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-19-Q9",
+    "paperId": "HC-DAILY-2026-09-19",
+    "questionNumber": 9,
+    "topic": "Words Often Confused",
+    "topicDetail": "continual vs continuous",
+    "difficulty": "medium",
+    "questionText": "Choose the word that correctly completes the sentence.\nThe machine hummed in a low, __________ tone for eight hours without a single break.",
+    "optionA": "continual",
+    "optionB": "continuous",
+    "optionC": "contiguous",
+    "optionD": "contingent",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) continuous\n\n• 'Continuous' എന്നാൽ ഇടയ്ക്ക് ഒരു മുറിവുപോലുമില്ലാതെ തുടർച്ചയായി നടക്കുന്നത് — അവിരാമമായത്.\n• വാക്യത്തിലെ നിർണായക സൂചന: \"for eight hours without a single break\" (എട്ട് മണിക്കൂർ ഒരൊറ്റ ഇടവേള പോലുമില്ലാതെ). ഈ വാക്കുകൾ 'continuous' അല്ലാതെ മറ്റൊന്നും അനുവദിക്കുന്നില്ല.\n• യന്ത്രം ഒരേ താഴ്ന്ന ശബ്ദത്തിൽ നിർത്താതെ മൂളുകയായിരുന്നു — അതായത് ശബ്ദം ഒരു തുടർച്ചയായ ഒറ്റ ധാരയായിരുന്നു.\n• Etymology hint: ലാറ്റിൻ 'continuus' = ചേർന്നുകിടക്കുന്നത്, മുറിയാത്തത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: continuOUS = One Unbroken Stream (ഒരു മുറിയാത്ത ധാര). continuAL = Again and Again (ഇടവിട്ട് ആവർത്തിക്കുന്നത്).\n• നിയമം: 'Continuous' എന്നാൽ ഇടവേളയില്ലാതെ തുടരുന്നത്; 'continual' എന്നാൽ ഇടവേളകളോടെ വീണ്ടും വീണ്ടും സംഭവിക്കുന്നത്. സാധാരണ സംസാരത്തിൽ ഈ രണ്ട് വാക്കും ചിലപ്പോൾ ഇടകലർത്തി ഉപയോഗിക്കാറുണ്ടെങ്കിലും, PSC പോലുള്ള പരീക്ഷകളിൽ ഈ വ്യത്യാസം കർശനമായി പാലിക്കേണ്ടതാണ്.\n• വേർതിരിക്കാനുള്ള എളുപ്പവഴി: വാക്യത്തിൽ \"without a break\", \"non-stop\", \"all through\" എന്നിവയുണ്ടെങ്കിൽ → continuous. \"again and again\", \"repeated\", \"every few minutes\" എന്നിവയുണ്ടെങ്കിൽ → continual.\n• ⭐ PSC ആവർത്തനം: Words Often Confused-ൽ continual/continuous, effective/efficient, economic/economical പോലുള്ള ജോഡികൾ PSC-യുടെ ഇഷ്ട ചോദ്യങ്ങളാണ്.\n• ഉദാഹരണ sentences:\n  1. There has been continuous rain since Friday morning. (നിർത്താതെ പെയ്യുന്നു)\n  2. His continual interruptions annoyed the speaker. (ഇടയ്ക്കിടെ ആവർത്തിച്ച്)\n  3. The patient needs continuous monitoring in the ICU. (ഒരു നിമിഷം പോലും മുറിയാതെ)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) continual\n• 'Continual' എന്നാൽ ഇടവേളകളോടെ വീണ്ടും വീണ്ടും ഉണ്ടാകുന്നത് എന്നാണ് — അതായത് ഇടയ്ക്ക് നിൽക്കുന്നുണ്ട്.\n• പക്ഷേ വാക്യത്തിൽ \"without a single break\" എന്ന് വ്യക്തമായി പറഞ്ഞിരിക്കുന്നു. അതുകൊണ്ട് 'continual' വാക്യത്തിന്റെ അർഥത്തിന് നേരെ വിരുദ്ധമാകും.\n• 🪤 PSC Trap: ഇതാണ് ഈ ചോദ്യത്തിന്റെ യഥാർഥ കെണി. രണ്ട് വാക്കുകളും കാണാൻ ഏതാണ്ട് ഒരുപോലെയാണ്; വ്യത്യാസം അറിയാത്തവർ നാണയം എറിഞ്ഞ് തിരഞ്ഞെടുക്കും.\n\n(C) contiguous\n• 'Contiguous' എന്നാൽ അതിർത്തി പങ്കിടുന്ന, തൊട്ടടുത്ത് കിടക്കുന്ന എന്നർഥം — ഇത് സ്ഥലവുമായി ബന്ധപ്പെട്ട വാക്കാണ്, സമയവുമായല്ല.\n• ഉദാ: Kerala and Tamil Nadu are contiguous states. ഒരു ശബ്ദത്തെ വിശേഷിപ്പിക്കാൻ ഇത് ഉപയോഗിക്കാനാവില്ല.\n• 🪤 PSC Trap: 'contin-' എന്ന തുടക്കം ഏതാണ്ട് ഒരുപോലെ തോന്നുന്നതുകൊണ്ട് വേഗത്തിൽ വായിക്കുന്നവർ ഇത് തിരഞ്ഞെടുക്കും.\n\n(D) contingent\n• 'Contingent' എന്നാൽ മറ്റൊന്നിനെ ആശ്രയിച്ചിരിക്കുന്ന, സോപാധികമായ എന്നർഥം.\n• ഉദാ: The trip is contingent on the weather. ഒരു ശബ്ദത്തിന്റെ തുടർച്ചയുമായി ഇതിന് യാതൊരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: ഒരേ അക്ഷരങ്ങളിൽ തുടങ്ങുന്ന നാല് വാക്കുകൾ ഒരുമിച്ച് നിരത്തി ആശയക്കുഴപ്പം ഉണ്ടാക്കുന്നത് PSC-യുടെ പതിവ് ശൈലിയാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"continuOUS-ലെ 'OUS' = One Unbroken Stream.\" 'continuAL'-ലെ 'AL' = 'ALways coming back' (വീണ്ടും വീണ്ടും വരുന്നത്). ഈ ഒരു വരി മതി രണ്ടും എന്നെന്നേക്കുമായി വേർതിരിക്കാൻ.\n• Word family: continual/continuous പോലെ ഒരുമിച്ച് പഠിക്കേണ്ട മറ്റ് ജോഡികൾ — economic/economical, effective/efficient, credible/creditable, judicial/judicious, imaginary/imaginative.\n• PSC exam strategy: Words Often Confused ചോദ്യത്തിൽ blank-ന് ചുറ്റുമുള്ള സൂചനാവാക്യങ്ങൾ (clue phrases) ആദ്യം അടിവരയിടുക. ഇവിടെ \"without a single break\" എന്ന ഭാഗം തന്നെ ഉത്തരം പറഞ്ഞുതരുന്നു. ചോദ്യകർത്താവ് എപ്പോഴും ഒരു സൂചന വാക്യത്തിൽ ഒളിപ്പിച്ചിട്ടുണ്ടാകും — അത് കണ്ടെത്തിയാൽ ഊഹിക്കേണ്ട ആവശ്യമേയില്ല!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-19-Q10",
+    "paperId": "HC-DAILY-2026-09-19",
+    "questionNumber": 10,
+    "topic": "Antonyms",
+    "topicDetail": "ephemeral",
+    "difficulty": "hard",
+    "questionText": "Choose the word most opposite in meaning to the word in italics.\nThe fame won by that one viral video proved to be __ephemeral__.",
+    "optionA": "enduring",
+    "optionB": "fleeting",
+    "optionC": "sudden",
+    "optionD": "widespread",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) enduring\n\n• 'Ephemeral' എന്നാൽ വളരെ കുറച്ച് സമയത്തേക്ക് മാത്രം നിലനിൽക്കുന്നത് — ക്ഷണികമായത്, പെട്ടെന്ന് മാഞ്ഞുപോകുന്നത്.\n• അതിന്റെ നേർവിപരീതം \"ദീർഘകാലം നിലനിൽക്കുന്നത്\" എന്നതാണ്. 'Enduring' എന്നാൽ കാലത്തെ അതിജീവിച്ച് നിലനിൽക്കുന്നത് എന്നർഥം. അതുകൊണ്ട് ഉത്തരം (A).\n• വാക്യത്തിന്റെ അർഥം: ആ ഒറ്റ വൈറൽ വീഡിയോയിലൂടെ കിട്ടിയ പ്രശസ്തി ക്ഷണികമായിരുന്നു — പെട്ടെന്ന് വന്ന് പെട്ടെന്ന് പോയി.\n• Etymology hint: ഗ്രീക്ക് 'ephēmeros' = 'epi' (upon) + 'hēmera' (day) → അക്ഷരാർഥത്തിൽ \"ഒരു ദിവസം മാത്രം നീളുന്നത്.\" ഒരു ദിവസം മാത്രം ജീവിക്കുന്ന ഷഡ്പദങ്ങളെ ഇംഗ്ലീഷിൽ 'ephemera' എന്ന് വിളിക്കുന്നതും ഇതുകൊണ്ടാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ephemeral = \"one day only\" → അതിന്റെ opposite = \"lasting for years\" = enduring / lasting / permanent / perpetual.\n• നിയമം: Antonym ചോദ്യത്തിൽ ആദ്യം സൂചകവാക്കിന്റെ കൃത്യമായ അർഥത്തിന്റെ അച്ചുതണ്ട് (axis) കണ്ടെത്തണം — ഇത് സമയത്തെക്കുറിച്ചാണോ, അളവിനെക്കുറിച്ചാണോ, ഗുണത്തെക്കുറിച്ചാണോ? എന്നിട്ട് അതേ അച്ചുതണ്ടിലെ എതിർദിശ തിരഞ്ഞെടുക്കണം. ഇവിടെ അച്ചുതണ്ട് = ദൈർഘ്യം (duration).\n• Word family (ephemeral-ന്റെ synonyms): transient, transitory, fleeting, momentary, short-lived, evanescent.\n• Antonym family: enduring, lasting, permanent, perpetual, everlasting, abiding.\n• ⭐ PSC ആവർത്തനം: Antonyms PSC-യിൽ വളരെ ഉയർന്ന frequency ഉള്ള topic ആണ്; 'ephemeral' പോലുള്ള ഗ്രീക്ക്/ലാറ്റിൻ വേരുള്ള വാക്കുകളാണ് ബുദ്ധിമുട്ടുള്ള ചോദ്യങ്ങളിൽ വരുന്നത്.\n• ഉദാഹരണ sentences:\n  1. The beauty of the sunset was ephemeral. (ക്ഷണികം)\n  2. Gandhi's teachings have had an enduring influence on the world. (ദീർഘകാലം നിലനിൽക്കുന്ന)\n  3. Social media fame is often ephemeral, but real skill is enduring.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) fleeting\n• 'Fleeting' എന്നാൽ പെട്ടെന്ന് കടന്നുപോകുന്നത് — ക്ഷണികമായത്.\n• ഇത് 'ephemeral'-ന്റെ എതിർപദമല്ല, മറിച്ച് പര്യായപദം (synonym) ആണ്. ചോദിച്ചത് opposite ആണ്, synonym അല്ല.\n• 🪤 PSC Trap: ഇതാണ് PSC-യുടെ ഏറ്റവും ക്ലാസിക്കായ കെണി — Antonym ചോദ്യത്തിൽ ഏറ്റവും ശരിയായ synonym ഒരു option ആയി വെക്കുക. ചോദ്യം വേഗത്തിൽ വായിച്ച് \"ഇത് അർഥത്തോട് ചേരുന്നു\" എന്ന് തോന്നി തിരഞ്ഞെടുക്കുന്നവർ ഇവിടെ മാർക്ക് നഷ്ടപ്പെടുത്തും.\n\n(C) sudden\n• 'Sudden' എന്നാൽ പെട്ടെന്ന് ആരംഭിക്കുന്നത് — ഇത് ഒരു കാര്യം എങ്ങനെ തുടങ്ങുന്നു എന്നതിനെക്കുറിച്ചാണ്.\n• 'Ephemeral' പറയുന്നത് ഒരു കാര്യം എത്ര നേരം നിലനിൽക്കുന്നു എന്നതിനെക്കുറിച്ചാണ്. തുടക്കവും ദൈർഘ്യവും രണ്ട് വ്യത്യസ്ത കാര്യങ്ങളാണ്.\n• 🪤 PSC Trap: \"വൈറൽ വീഡിയോ\" എന്ന സന്ദർഭം വായിക്കുമ്പോൾ \"പെട്ടെന്ന് പ്രശസ്തനായി\" എന്ന ആശയം മനസ്സിൽ വരും — അപ്പോൾ 'sudden' ആകർഷകമായി തോന്നും.\n\n(D) widespread\n• 'Widespread' എന്നാൽ വളരെ വിശാലമായി പടർന്നുകിടക്കുന്നത് — ഇത് വ്യാപ്തിയെക്കുറിച്ചാണ് (extent), സമയത്തെക്കുറിച്ചല്ല.\n• ഒരു പ്രശസ്തി വളരെ വ്യാപകമായിരിക്കാം, എന്നിട്ടും ക്ഷണികമായിരിക്കാം. അതുകൊണ്ട് ഇത് എതിർപദമാകുന്നില്ല.\n• 🪤 PSC Trap: വൈറൽ വീഡിയോ എന്നാൽ \"എല്ലായിടത്തും പടർന്നത്\" എന്ന ചിന്ത വരുന്നതുകൊണ്ട് സന്ദർഭവുമായി ചേരുന്നതായി തോന്നും — പക്ഷേ ചോദ്യം സന്ദർഭത്തിന്റെ എതിർപദമല്ല, വാക്കിന്റെ എതിർപദമാണ് ചോദിക്കുന്നത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: ephemeral-ൽ ഒളിഞ്ഞിരിക്കുന്ന വാക്ക് 'hemera' = ദിവസം. \"E-PHEMERAL = ഒരു ദിവസത്തെ ആയുസ്സ് മാത്രം.\" ഒരു ദിവസം മാത്രം ജീവിക്കുന്ന ചിത്രശലഭത്തെ മനസ്സിൽ കാണുക — ആ ചിത്രം മതി അർഥം ഉറയ്ക്കാൻ.\n• Word family: ephemeral, transient, transitory, evanescent, momentary — ഇവയെല്ലാം \"കുറച്ച് നേരം മാത്രം\" എന്ന ഒരേ കൂട്ടത്തിലാണ്. ഒരെണ്ണം അറിഞ്ഞാൽ അഞ്ചെണ്ണവും അറിയാം.\n• PSC exam strategy: Antonym ചോദ്യത്തിൽ ആദ്യം ചെയ്യേണ്ടത് — synonym ആയ option കണ്ടെത്തി വെട്ടുക. അതാണ് ഏറ്റവും വലിയ കെണി. പിന്നെ ബാക്കിയുള്ളവയിൽ സൂചകവാക്കിന്റെ അതേ അച്ചുതണ്ടിൽ (ഇവിടെ സമയം) നിൽക്കുന്നത് ഏതെന്ന് നോക്കുക. രണ്ട് ഘട്ടം കൊണ്ട് ഉത്തരം തെളിയും — ഒരിക്കലും miss ആകില്ല!"
+    }
   }
 ]
