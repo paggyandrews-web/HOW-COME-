@@ -8618,5 +8618,205 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) Efficientness\n• '-ness' എന്നത് ശരിയായ noun-suffix തന്നെയാണ് — പക്ഷേ അത് ചേരുന്നത് കൂടുതലും ലളിതമായ, ഇംഗ്ലീഷ് വേരുള്ള adjective-കളോടാണ് (kindness, darkness, happiness, weakness).\n• ലാറ്റിൻ വേരുള്ള '-ent' adjective-കൾക്ക് '-ency' എന്ന സ്വന്തം suffix ഉള്ളതുകൊണ്ട് '-ness' ചേർക്കാറില്ല. 'efficientness' എന്നൊരു വാക്ക് ഇംഗ്ലീഷിൽ ഇല്ല.\n• 🪤 PSC Trap: '-ness' ഏറ്റവും പരിചിതമായ noun-suffix ആയതുകൊണ്ട്, നിയമം അറിയാത്തവർ എല്ലാ adjective-നോടും അത് ചേർക്കും.\n\n(B) Efficientcy\n• ഇത് ശരിയായ വാക്കിന്റെ **തെറ്റായ spelling** ആണ് — 't' മാറ്റാതെ അതേസമയം 'cy'-യും ചേർത്തു.\n• ശരിയായ രൂപീകരണത്തിൽ 't' **പോകണം**: effici + ency. 't'-യും 'c'-യും ഒരുമിച്ച് നിൽക്കില്ല.\n• 🪤 PSC Trap: ഏറ്റവും അപകടകരമായ option — ഉച്ചരിക്കുമ്പോൾ ശരിയുത്തരം പോലെ തന്നെ കേൾക്കും. അക്ഷരങ്ങൾ എണ്ണി നോക്കിയാൽ മാത്രമേ വ്യത്യാസം പിടികിട്ടൂ.\n\n(C) Efficiention\n• '-tion' എന്നത് സാധാരണയായി **verb**-ൽ നിന്ന് noun ഉണ്ടാക്കാൻ ഉപയോഗിക്കുന്ന suffix ആണ് (educate → education, reject → rejection, create → creation).\n• 'efficient' ഒരു adjective ആണ്, verb അല്ല — അതുകൊണ്ട് '-tion' ഇവിടെ ചേരില്ല. 'efficiention' എന്നൊരു വാക്ക് ഇല്ല.\n• 🪤 PSC Trap: '-tion' ചേർത്താൽ വാക്ക് 'ഔദ്യോഗികമായി' തോന്നുന്നതുകൊണ്ട് പലരും ഇത് തിരഞ്ഞെടുക്കും.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: **\"T പോയാലേ CY വരൂ.\"** efficien**t** → efficien**cy**. 't' എടുത്തുകളഞ്ഞ് 'cy' വെക്കുക — ഒരിക്കലും രണ്ടും ഒരുമിച്ച് വെക്കരുത്. ഈ ഒറ്റ വരി ഓർത്താൽ fluency, urgency, decency, frequency എല്ലാം ശരിയാകും.\n• Rule family ഒരുമിച്ച് പഠിക്കുക — suffix പട്ടിക: -ent → -ence/-ency (patient/patience, fluent/fluency) | -ant → -ance/-ancy (ignorant/ignorance, vacant/vacancy) | -ful → -fulness (careful/carefulness) | verb + -tion (create/creation). '-ous' adjective-കൾക്ക് ഒറ്റ രീതിയില്ല — nervous/nervousness, jealous/jealousy, generous/generosity എന്നിങ്ങനെ വെവ്വേറെ ഓർക്കണം.\n• PSC exam strategy: Word Formation ചോദ്യങ്ങളിൽ ആദ്യം മൂലപദം adjective ആണോ verb ആണോ എന്ന് തിരിച്ചറിയുക — അതാണ് suffix തീരുമാനിക്കുന്നത്. Adjective-ന് '-ness/-ity/-ency', verb-ന് '-tion/-ment/-al'. ഈ ഒരു വേർതിരിവ് മാത്രം മതി ഭൂരിഭാഗം ചോദ്യങ്ങളും ശരിയാക്കാൻ — ഇത് ഓർത്തിരുന്നാൽ ഒരിക്കലും miss ആകില്ല!"
     }
+  },
+  {
+    "id": "HC-DAILY-2026-09-21-Q1",
+    "paperId": "HC-DAILY-2026-09-21",
+    "questionNumber": 1,
+    "topic": "Tenses",
+    "topicDetail": "Stative verbs cannot take continuous forms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct form of the verb to complete the sentence.\nI ______ what the officer is trying to explain, but I still disagree with him.",
+    "optionA": "am understanding",
+    "optionB": "understand",
+    "optionC": "understood",
+    "optionD": "was understanding",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) understand\n\n• 'Understand' ഒരു STATIVE VERB ആണ് — അതായത് ഒരു പ്രവൃത്തിയല്ല, മനസ്സിന്റെ ഒരു അവസ്ഥയാണ് അത് കാണിക്കുന്നത്. അത്തരം verb-കൾ ഒരിക്കലും continuous (-ing) രൂപത്തിൽ വരില്ല.\n• വാക്യത്തിലെ 'is trying', 'I still disagree' എന്നിവ present സമയത്തെയാണ് കാണിക്കുന്നത്. അതുകൊണ്ട് present simple ആയ 'understand' തന്നെ വേണം.\n• Subject 'I' ആയതുകൊണ്ട് verb-ന് -s വേണ്ട — 'understand' എന്ന base form മതി.\n• PSC-യിൽ ഇത് വളരെ പതിവായി ചോദിക്കുന്ന ഒരു trap ആണ്: continuous form കാണുമ്പോൾ 'ഇത് ശരിയാകും' എന്ന് തോന്നിപ്പിക്കും, പക്ഷേ know / understand / believe പോലുള്ള അറിവിന്റെ verb ആണെങ്കിൽ ഒരിക്കലും ശരിയാകില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: അറിവിന്റെയും ഉടമസ്ഥതയുടെയും STATIVE VERB + -ing = ❌ തെറ്റ്.\n• Stative verbs മനസ്സിന്റെയോ ഇന്ദ്രിയങ്ങളുടെയോ ഉടമസ്ഥതയുടെയോ അവസ്ഥ കാണിക്കുന്നു — അവ continuous tense-ൽ ഉപയോഗിക്കാറില്ല.\n• Stative verb കുടുംബം ഒന്നിച്ചു പഠിക്കുക:\n  - മനസ്സ്: know, understand, believe, remember, forget, mean, doubt\n  - ഇഷ്ടം/വികാരം: like, love, hate, prefer, want, need\n  - ഉടമസ്ഥത: have (own എന്ന അർഥത്തിൽ), own, belong, possess\n  - ഇന്ദ്രിയം: see, hear, smell, taste, seem, appear\n• ⚠️ ഒരു പ്രധാന ഒഴിവ് — ഇത് നിർബന്ധമായും അറിഞ്ഞിരിക്കണം: see, smell, taste, have എന്നിവ ഒരു മനഃപൂർവമായ പ്രവൃത്തിയെ കാണിക്കുമ്പോൾ continuous-ൽ വരാം:\n  - I am seeing the doctor tomorrow. (കാണാൻ പോകുന്നു — ഒരു പ്രവൃത്തി)\n  - She is tasting the soup. (രുചിച്ചുനോക്കുന്നു — ഒരു പ്രവൃത്തി)\n  - He is having lunch. (ഭക്ഷണം കഴിക്കുന്നു — 'സ്വന്തമായുണ്ട്' എന്ന അർഥമല്ല)\n  പക്ഷേ know, understand, believe, belong, own എന്നിവയ്ക്ക് ഈ ഒഴിവില്ല — അവ ഒരിക്കലും -ing എടുക്കില്ല. അതുകൊണ്ടാണ് ഈ ചോദ്യത്തിൽ ഉത്തരം ഉറപ്പാകുന്നത്.\n• ⭐ PSC ആവർത്തനം: Tenses ഓരോ പേപ്പറിലും ഉറപ്പായും വരുന്ന topic ആണ് — ഏകദേശം 5% ചോദ്യങ്ങൾ ഇതിൽ നിന്നാണ്.\n• ഉദാഹരണ sentences:\n  1. I know the answer. ✅ / I am knowing the answer. ❌\n  2. She wants a new laptop. ✅ / She is wanting a new laptop. ❌\n  3. This book belongs to my sister. ✅ / This book is belonging to my sister. ❌\n  4. I understand your problem now. ✅",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) am understanding\n• 'Understand' stative verb ആയതുകൊണ്ട് -ing രൂപം വ്യാകരണപരമായി തെറ്റാണ്.\n• 🪤 PSC Trap: 'is trying' എന്ന continuous form വാക്യത്തിൽ ഉള്ളതുകൊണ്ട് blank-ലും continuous വേണമെന്ന് തോന്നും. പക്ഷേ ഓരോ verb-നും അതിന്റേതായ സ്വഭാവമുണ്ട്.\n\n(C) understood\n• ഇത് past tense ആണ്. പക്ഷേ വാക്യം മുഴുവൻ present-ലാണ് ('is trying', 'I still disagree').\n• 🪤 PSC Trap: 'understood' എന്ന പരിചിതമായ രൂപം കണ്ടാൽ പെട്ടെന്ന് tick ചെയ്യാൻ തോന്നും — tense consistency നോക്കാതെ.\n\n(D) was understanding\n• രണ്ട് തെറ്റ് ഒരുമിച്ച്: stative verb-ന്റെ continuous രൂപവും, past tense-ഉം.\n• 🪤 PSC Trap: ഏറ്റവും 'നീളമുള്ള, complicated' option ആണ് ശരി എന്ന തെറ്റിദ്ധാരണ മുതലെടുക്കാനാണ് ഇത് വെച്ചിരിക്കുന്നത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"മനസ്സിന് -ing ഇല്ല.\" അറിയുക, മനസ്സിലാക്കുക, വിശ്വസിക്കുക, സ്വന്തമാക്കുക എന്നീ അർഥമുള്ള verb-കൾക്ക് ഒരിക്കലും -ing ചേർക്കരുത്. ഓടുന്നത് കാണാം (running), അറിയുന്നത് കാണാൻ പറ്റില്ല (knowing ❌).\n• Rule family: ഒരിക്കലും -ing എടുക്കാത്ത stative verbs (know, believe, understand, want, belong, own) — ഇവ ഒന്നിച്ച് ഒരു list ആയി മനഃപാഠമാക്കുക. ഒരു list പഠിച്ചാൽ ഒരുപാട് ചോദ്യങ്ങൾ ഒറ്റയടിക്ക് സ്വന്തമാകും.\n• Exam strategy: Tense ചോദ്യം കണ്ടാൽ ആദ്യം verb-ന്റെ സ്വഭാവം നോക്കുക — stative ആണോ action ആണോ? Stative ആണെങ്കിൽ -ing ഉള്ള options എല്ലാം ഉടനെ വെട്ടുക. പിന്നെ ബാക്കിയുള്ളവയിൽ tense നോക്കിയാൽ മതി. ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-21-Q2",
+    "paperId": "HC-DAILY-2026-09-21",
+    "questionNumber": 2,
+    "topic": "Conditionals",
+    "topicDetail": "Inverted third conditional (If-deletion)",
+    "difficulty": "medium",
+    "questionText": "Complete the sentence with the correct option.\n______ the manager informed us earlier, we would have rescheduled the inspection.",
+    "optionA": "If",
+    "optionB": "Has",
+    "optionC": "Had",
+    "optionD": "Would",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Had\n\n• ഇത് ഒരു INVERTED CONDITIONAL ആണ് — 'If' ഒഴിവാക്കി പകരം helping verb ആദ്യം വെക്കുന്ന രീതി.\n• സാധാരണ രൂപം: If the manager had informed us earlier, we would have rescheduled the inspection.\n• 'If' നീക്കം ചെയ്യുമ്പോൾ 'had' വാക്യത്തിന്റെ ഏറ്റവും മുന്നിലേക്ക് വരും → Had the manager informed us earlier...\n• Main clause-ൽ 'would have rescheduled' (would have + V3) ഉള്ളതുകൊണ്ട് ഇത് THIRD CONDITIONAL ആണെന്ന് ഉറപ്പിക്കാം. Third conditional-ന്റെ if-clause എപ്പോഴും 'had + V3' ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: If + had + V3 → would have + V3. 'If' ഒഴിവാക്കിയാൽ → Had + subject + V3 → would have + V3.\n• Third conditional കഴിഞ്ഞുപോയ, ഇനി മാറ്റാൻ പറ്റാത്ത ഒരു കാര്യത്തെക്കുറിച്ചുള്ള ഖേദമാണ് കാണിക്കുന്നത്.\n• Inversion എല്ലാ conditional-ലും നടക്കില്ല — താഴെ പറയുന്ന മൂന്ന് ഘടനകളിൽ മാത്രമാണ്. ('If it rains, we will cancel' എന്നതിന് inverted രൂപമില്ല.) ഈ മൂന്നെണ്ണം ഒന്നിച്ചു പഠിക്കുക:\n  1. Were I in your place... (= If I were in your place...)\n  2. Should you need help... (= If you should need help...)\n  3. Had she known the truth... (= If she had known the truth...)\n• ⭐ PSC ആവർത്തനം: Conditionals ഏകദേശം 4.7% ചോദ്യങ്ങൾ — പതിവായി വരുന്ന topic. Inverted രൂപം 'advanced' ചോദ്യമായി കൂടുതലായി ചോദിക്കാൻ തുടങ്ങിയിട്ടുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. Had I known about the strike, I would have started early.\n  2. Had they submitted the file on time, the project would not have been delayed.\n  3. Had the rain stopped, we would have continued the match.\n• ശ്രദ്ധിക്കുക: Inverted conditional-ൽ ഒരിക്കലും 'if' ഒപ്പം ഉപയോഗിക്കരുത് — 'If had he known' ❌",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) If\n• 'If' ഉപയോഗിച്ചാൽ വാക്യം ഇങ്ങനെ ആകും: 'If the manager informed us earlier, we would have rescheduled' — ഇവിടെ if-clause-ൽ simple past ആണ്, main clause-ൽ 'would have + V3' ആണ്. ഈ രണ്ട് രൂപങ്ങൾ ചേരില്ല.\n• 🪤 PSC Trap: Conditional എന്ന് കേട്ടാൽ ഉടനെ 'if' എന്ന് tick ചെയ്യുന്ന ശീലം മുതലെടുക്കാനാണ് ഇത്. 'informed' (had informed അല്ല) എന്നതാണ് സൂചന.\n\n(B) Has\n• 'Has the manager informed us earlier' എന്നത് ഒരു ചോദ്യരൂപമാണ്, conditional clause അല്ല. കൂടാതെ 'earlier' + 'would have' എന്നിവയുമായി present perfect ചേരില്ല.\n• 🪤 PSC Trap: Inversion-ൽ helping verb മുന്നിൽ വരുമെന്ന് അറിയാവുന്ന, പക്ഷേ ഏത് helping verb എന്ന് ഉറപ്പില്ലാത്ത കുട്ടിയെ വീഴ്ത്താൻ.\n\n(D) Would\n• Inverted conditional തുടങ്ങാൻ perfect രൂപം ('informed' എന്ന V3) ചുമക്കാൻ കഴിയുന്ന ഒരു auxiliary വേണം — അത് 'had' മാത്രമാണ്. 'Would the manager informed' എന്നത് ഇംഗ്ലീഷിൽ സാധ്യമായ ഒരു ഘടനയേ അല്ല.\n• 🪤 PSC Trap: Main clause-ൽ 'would have' കണ്ടതുകൊണ്ട് blank-ലും 'would' തന്നെ വേണമെന്ന സമാന്തര-ചിന്ത മുതലെടുക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"IF പോയാൽ HAD വരും.\" — വാതിൽക്കൽ നിന്ന 'If' ഇറങ്ങിപ്പോയാൽ, ആ സ്ഥാനത്ത് 'Had' കയറിനിൽക്കും. Main clause-ൽ 'would have' കണ്ടാൽ blank-ൽ 'Had' എന്ന് ഉറപ്പിക്കാം.\n• Rule family: Had / Were / Should — ഈ മൂന്ന് വാക്കുകൾക്ക് മാത്രമേ 'if' ഇല്ലാതെ conditional തുടങ്ങാൻ കഴിയൂ. ഈ മൂന്നെണ്ണം ഒന്നിച്ചു പഠിക്കുക.\n• Exam strategy: Conditional ചോദ്യങ്ങളിൽ എപ്പോഴും MAIN CLAUSE ആദ്യം നോക്കുക — അതാണ് ഏത് conditional ആണെന്ന് പറഞ്ഞുതരുന്ന താക്കോൽ. 'would have + V3' കണ്ടാൽ = third conditional = if-clause-ൽ 'had + V3'. ഇത് ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-21-Q3",
+    "paperId": "HC-DAILY-2026-09-21",
+    "questionNumber": 3,
+    "topic": "Question Tags",
+    "topicDetail": "Transferred negation: tag from the subordinate clause",
+    "difficulty": "hard",
+    "questionText": "Choose the correct question tag to complete the sentence.\nI don't suppose the shops stay open after nine, ______?",
+    "optionA": "do they",
+    "optionB": "don't they",
+    "optionC": "do I",
+    "optionD": "don't I",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) do they\n\n• 'I don't suppose / I don't think / I don't believe' എന്നിങ്ങനെ തുടങ്ങുമ്പോൾ, question tag എടുക്കേണ്ടത് MAIN clause-ൽ നിന്നല്ല, SUBORDINATE clause-ൽ നിന്നാണ്. ഇവിടെ subordinate clause = 'the shops stay open after nine'.\n• ആ clause-ന്റെ subject 'the shops' (plural) ആണ്, verb 'stay' (present simple) ആണ് → അതുകൊണ്ട് tag-ന്റെ helping verb 'do', pronoun 'they'.\n• ഇത് TRANSFERRED NEGATION ആണ്: 'not' എഴുതിയിരിക്കുന്നത് main clause-ലാണെങ്കിലും അതിന്റെ അർഥം subordinate clause-ലേക്കാണ് പോകുന്നത് ('ഞാൻ വിചാരിക്കുന്നില്ല കടകൾ തുറന്നിരിക്കുമെന്ന്' = 'കടകൾ തുറന്നിരിക്കില്ല എന്ന് ഞാൻ വിചാരിക്കുന്നു').\n• Statement-ന്റെ അർഥം negative ആയതുകൊണ്ട് tag POSITIVE ആകണം → 'do they?'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: I think / I suppose / I believe + clause → TAG എപ്പോഴും ഉള്ളിലെ clause-ൽ നിന്ന്. Main clause negative ആണെങ്കിൽ tag POSITIVE.\n• അടിസ്ഥാന നിയമം: Positive statement → negative tag; Negative statement → positive tag.\n• ഈ 'thinking verbs' കുടുംബം ഒന്നിച്ചു പഠിക്കുക: think, suppose, believe, expect, imagine, feel.\n• ⭐ PSC ആവർത്തനം: Question Tags ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic-കളിൽ ഒന്നാണ് — ഏകദേശം 6.8% ചോദ്യങ്ങൾ. ഒരു പേപ്പറിൽ ഒരു ചോദ്യം ഉറപ്പാണ്.\n• ഉദാഹരണ sentences:\n  1. I don't think he will come, will he?\n  2. I think she is from Kochi, isn't she?\n  3. I don't believe they have paid the fee, have they?\n  4. I don't suppose you have change for five hundred, do you?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) don't they\n• Statement-ന്റെ അർഥം ഇതിനകം negative ആണ് ('കടകൾ തുറന്നിരിക്കില്ല'). അതിനൊപ്പം വീണ്ടും negative tag വെച്ചാൽ ഇരട്ട നിഷേധം വരും — അത് തെറ്റാണ്.\n• 🪤 PSC Trap: 'stay open' എന്ന positive-ആയി തോന്നുന്ന clause മാത്രം നോക്കി negative tag ചേർക്കുന്ന ശീലം മുതലെടുക്കാൻ. Main clause-ലെ 'don't' കാണാതെ പോകരുത്.\n\n(C) do I\n• Tag-ലെ pronoun main clause-ലെ 'I' എടുത്തിരിക്കുന്നു. പക്ഷേ ഈ ഘടനയിൽ tag എപ്പോഴും subordinate clause-ലെ subject-നെ ('the shops' → they) പിന്തുടരണം.\n• 🪤 PSC Trap: \"ആദ്യത്തെ subject എടുക്കുക\" എന്ന പൊതുനിയമം അന്ധമായി പ്രയോഗിക്കുന്നവർക്കുള്ള കെണി.\n\n(D) don't I\n• ഇതിൽ രണ്ട് തെറ്റുണ്ട് — തെറ്റായ pronoun ('I') ഉം തെറ്റായ polarity (negative tag) ഉം.\n• 🪤 PSC Trap: 'I don't' എന്ന് വാക്യത്തിൽ കണ്ടതുകൊണ്ട് tag-ലും അതുതന്നെ ആവർത്തിക്കാമെന്ന തോന്നൽ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ഞാൻ വിചാരിക്കുന്നു\" എന്നത് വെറും ഒരു മുഖവുര മാത്രം — യഥാർഥ വാർത്ത ഉള്ളിലെ clause-ലാണ്. അതുകൊണ്ട് tag ഉള്ളിലെ clause-നോട് ചോദിക്കുക, മുഖവുരയോടല്ല. 'I think' മറച്ചുവെച്ചു ബാക്കി വായിക്കുക — ഉത്തരം തെളിഞ്ഞുവരും.\n• Rule family: think / suppose / believe / expect / imagine — ഈ അഞ്ചും ഒരേ രീതിയിൽ പെരുമാറുന്നു. ഒപ്പം negative words (never, hardly, scarcely, nobody, nothing) ഉള്ള tag നിയമവും ചേർത്തു പഠിക്കുക.\n• Exam strategy: Question tag ചോദ്യത്തിൽ രണ്ട് കാര്യം മാത്രം ഉറപ്പിക്കുക — (1) ഏത് clause-ൽ നിന്നാണ് tag? (2) അർഥം positive ആണോ negative ആണോ? ഈ രണ്ടു ചോദ്യങ്ങൾക്ക് ഉത്തരം കിട്ടിയാൽ mark ഉറപ്പ്!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-21-Q4",
+    "paperId": "HC-DAILY-2026-09-21",
+    "questionNumber": 4,
+    "topic": "Subject-Verb Agreement",
+    "topicDetail": "Head noun 'series' takes a singular verb",
+    "difficulty": "medium",
+    "questionText": "Choose the correct verb form to complete the sentence.\nA series of workshops on cyber security ______ scheduled for the new recruits next month.",
+    "optionA": "have been",
+    "optionB": "are being",
+    "optionC": "were",
+    "optionD": "has been",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) has been\n\n• Subject-ന്റെ യഥാർഥ HEAD NOUN 'series' ആണ് — 'workshops' അല്ല. 'of workshops on cyber security' എന്നത് വെറും prepositional phrase ആണ്; അത് verb-നെ ഒരിക്കലും നിയന്ത്രിക്കില്ല.\n• 'A series' എന്നത് ഏകവചനമാണ് ('ഒരു പരമ്പര') — അതുകൊണ്ട് verb-ഉം ഏകവചനം: has been.\n• ഇവിടെ തീരുമാനിക്കുന്നത് NUMBER ആണ്, tense അല്ല — 'has' ഏകവചനം; 'have', 'are', 'were' എന്നിവ ബഹുവചനം. ഏകവചന head noun ഉള്ളതുകൊണ്ട് 'has been' മാത്രമേ നിൽക്കൂ.\n• ⚠️ ശ്രദ്ധിക്കുക: 'The workshops were scheduled for next month' എന്നത് തികച്ചും ശരിയായ ഇംഗ്ലീഷാണ് — ക്രമീകരണം കഴിഞ്ഞ കാലത്തും പരിപാടി ഭാവിയിലും ആകാം. അതായത് 'were' ഇവിടെ തെറ്റാകുന്നത് past tense ആയതുകൊണ്ടല്ല, ബഹുവചനം ആയതുകൊണ്ടാണ്.\n• ഓർക്കുക: 'series' എന്ന വാക്കിന്റെ ഏകവചനവും ബഹുവചനവും ഒരുപോലെയാണ് — 'a series' (ഏകവചനം), 'two series' (ബഹുവചനം).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Verb എപ്പോഴും HEAD NOUN-നോട് യോജിക്കണം — 'of' വന്നാൽ അതിനുശേഷമുള്ളത് മറക്കുക.\n• 'A series of' ഏകവചന verb എടുക്കും — ഇത് PSC ഉറപ്പായും പിന്തുടരുന്ന പ്രമാണ നിയമമാണ്.\n• ⚠️ എല്ലാ 'കൂട്ടം' പ്രയോഗങ്ങളും ഏകവചനമല്ല — ഇത് വേർതിരിച്ചറിയണം:\n  - 'a lot of', 'plenty of', 'a number of' → 'of'-ന് ശേഷമുള്ള noun-നോടാണ് യോജിക്കുന്നത്: 'A lot of people ARE waiting' ✅ / 'A lot of water IS wasted' ✅\n  - 'a bunch of' → ഔപചാരികമായി ഏകവചനം, അനൗപചാരിക ഇംഗ്ലീഷിൽ ബഹുവചനവും കാണാം\n  - 'a series of' → എപ്പോഴും ഏകവചനം. ഈ ചോദ്യത്തിൽ ഉത്തരം ഉറപ്പാകുന്നത് അതുകൊണ്ടാണ്.\n• ഒപ്പം പഠിക്കേണ്ട അയൽ നിയമങ്ങൾ:\n  - 'A number of students are...' (ബഹുവചനം) ↔ 'The number of students is...' (ഏകവചനം)\n  - 'One of the boys is...' (ഏകവചനം)\n  - 'Each of / Every one of / Either of / Neither of' + ബഹുവചന noun → ഏകവചന verb\n• ⭐ PSC ആവർത്തനം: Subject-Verb Agreement ഏകദേശം 5.5% ചോദ്യങ്ങൾ — ഒരു പേപ്പറിൽ ഉറപ്പായും ഉണ്ടാകും.\n• ഉദാഹരണ sentences:\n  1. A series of thefts has been reported in the area.\n  2. A bunch of keys was found on the bench.\n  3. The quality of the answers was excellent.\n  4. One of my friends lives in Delhi.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) have been\n• ബഹുവചന verb ആണ്. Head noun 'series' ഏകവചനമായതുകൊണ്ട് ഇത് ചേരില്ല.\n• 🪤 PSC Trap: Blank-ന് തൊട്ടുമുന്നിൽ 'cyber security', അതിനു മുൻപ് 'workshops' എന്ന ബഹുവചനം. ഏറ്റവും അടുത്തുള്ള noun നോക്കി verb തിരഞ്ഞെടുക്കുന്ന ശീലമാണ് PSC ഇവിടെ പരീക്ഷിക്കുന്നത്.\n\n(B) are being\n• രണ്ട് പ്രശ്നം: ഒന്ന്, 'are' ബഹുവചനമാണ്. രണ്ട്, 'are being scheduled' എന്നത് ഈ നിമിഷം നടന്നുകൊണ്ടിരിക്കുന്ന പ്രവൃത്തിയെ കാണിക്കുന്നു — പക്ഷേ ഇവിടെ ക്രമീകരണം ഇതിനകം പൂർത്തിയായിക്കഴിഞ്ഞു.\n• 🪤 PSC Trap: 'next month' എന്ന ഭാവി സൂചന കണ്ട് continuous രൂപം ശരിയാകുമെന്ന തോന്നൽ.\n\n(C) were\n• 'Were' ബഹുവചന verb ആണ് — അതാണ് ഇത് തെറ്റാകാനുള്ള ഒരേയൊരു കാരണം. ഏകവചന head noun ആയ 'series'-നോട് ഇത് യോജിക്കില്ല.\n• ⚠️ Past tense ആയതല്ല പ്രശ്നം: 'The workshops were scheduled for next month' ശരിയാണ്. Subject ബഹുവചനമാകുമ്പോൾ ആ വാക്യം കുറ്റമറ്റതാണ്.\n• 🪤 PSC Trap: 'workshops' ബഹുവചനം എന്ന ഒറ്റ കാരണത്താൽ ബഹുവചന verb തിരഞ്ഞെടുക്കുന്നവർക്കുള്ള രണ്ടാമത്തെ കെണി.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"OF കണ്ടാൽ വിരൽ വെക്കുക.\" — 'of' മുതൽ blank വരെയുള്ള ഭാഗം വിരൽകൊണ്ട് മറയ്ക്കുക. ബാക്കി വായിച്ചാൽ 'A series ______ scheduled' — ഉടനെ 'has been' എന്ന് തെളിയും. ഈ ഒറ്റ ട്രിക്ക് SVA-യിലെ പകുതി ചോദ്യങ്ങളും പരിഹരിക്കും.\n• Rule family: series / flock / herd / set / pack / collection — ഈ 'കൂട്ടം' വാക്കുകൾ ഔപചാരിക ഇംഗ്ലീഷിൽ ഏകവചനം. ഒപ്പം 'a number of' vs 'the number of' എന്ന ജോടിയും ചേർത്തു പഠിക്കുക.\n• Exam strategy: SVA ചോദ്യം കണ്ടാൽ ഒരിക്കലും blank-ന് തൊട്ടുമുന്നിലെ വാക്ക് നോക്കരുത്. വാക്യത്തിന്റെ തുടക്കത്തിലേക്ക് പോയി യഥാർഥ subject കണ്ടെത്തുക. അതാണ് boss — ബാക്കിയെല്ലാം വെറും അലങ്കാരം!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-21-Q5",
+    "paperId": "HC-DAILY-2026-09-21",
+    "questionNumber": 5,
+    "topic": "Articles",
+    "topicDetail": "Ordinal numbers take the definite article",
+    "difficulty": "easy",
+    "questionText": "Fill in the blank with the correct article.\nThis is ______ third time the committee has postponed the hearing.",
+    "optionA": "a",
+    "optionB": "an",
+    "optionC": "the",
+    "optionD": "no article",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) the\n\n• ഒരു എണ്ണപ്പട്ടികയിലെ പ്രത്യേക സ്ഥാനത്തെ ORDINAL NUMBER (first, second, third...) തിരിച്ചറിയിക്കുമ്പോൾ DEFINITE ARTICLE 'the' വേണം.\n• കാരണം ഒരു ക്രമസംഖ്യ ഒരു പ്രത്യേക, നിശ്ചിതമായ സ്ഥാനത്തെയാണ് കാണിക്കുന്നത് — 'മൂന്നാമത്തെ തവണ' എന്നത് ഏതെങ്കിലും ഒരു തവണയല്ല, കൃത്യമായി എണ്ണിയ ഒരു തവണയാണ്. നിശ്ചിതമായത് = 'the'.\n• 'This is the third time...' എന്ന ഘടന ഇംഗ്ലീഷിൽ ഒരു fixed pattern ആണ്; അതിനുശേഷം present perfect ('has postponed') വരുന്നതും ശ്രദ്ധിക്കുക.\n• താരതമ്യം: CARDINAL number ആണെങ്കിൽ ('three times') article വേണ്ട. ORDINAL ഒരു പ്രത്യേക തവണയെ തിരിച്ചറിയിക്കുമ്പോൾ ('the third time') 'the' നിർബന്ധം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ഒരു എണ്ണപ്പട്ടികയിലെ പ്രത്യേക സ്ഥാനത്തെ ordinal തിരിച്ചറിയിക്കുമ്പോൾ → 'the'. (the first time, the third candidate, the last day)\n• 'A/an' അനിശ്ചിതമായതിനെ കാണിക്കുന്നു; 'the' നിശ്ചിതമായതിനെ കാണിക്കുന്നു. ഈ വാക്യത്തിൽ 'the committee has postponed the hearing' എന്ന clause ആ തവണയെ കൃത്യമായി തിരിച്ചറിയിക്കുന്നു — അതുകൊണ്ട് 'the'.\n• 'The' നിർബന്ധമായും വരുന്ന മറ്റു സന്ദർഭങ്ങൾ ഒന്നിച്ചു പഠിക്കുക:\n  1. Superlatives: the best, the tallest, the most difficult\n  2. Ordinals: the first, the second, the last\n  3. ഒന്നേയുള്ളൂ എന്നത്: the sun, the moon, the earth\n  4. നദികൾ, കടലുകൾ, പർവതനിരകൾ: the Ganges, the Arabian Sea, the Himalayas\n  5. 'only' ഉപയോഗിക്കുമ്പോൾ: the only solution\n• ⭐ PSC ആവർത്തനം: Articles ഏകദേശം 3.3% ചോദ്യങ്ങൾ — ചെറിയ topic ആണെങ്കിലും ഉറപ്പുള്ള mark ആണ്.\n• ഉദാഹരണ sentences:\n  1. This is the second time he has failed the test.\n  2. She was the first woman to head the department.\n  3. Tomorrow is the last day for submitting applications.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) a\n• ഈ വാക്യത്തിലെ 'the committee has postponed the hearing' എന്ന clause ആ തവണയെ കൃത്യമായി തിരിച്ചറിയിക്കുന്നു. തിരിച്ചറിഞ്ഞാൽ 'the' തന്നെ വേണം.\n• ⚠️ ഇത് പൊതുനിയമമാക്കരുത്: 'a + ordinal' ഇംഗ്ലീഷിൽ ഉണ്ട്, പക്ഷേ അതിന്റെ അർഥം 'ഒന്നുകൂടി, വേറൊരു' എന്നാണ് — 'The phone rang a third time' (ഒരിക്കൽക്കൂടി), 'a second opinion' (മറ്റൊരു അഭിപ്രായം). ഈ വാക്യത്തിൽ ആ അർഥമല്ല വേണ്ടത്.\n• 🪤 PSC Trap: 'third' എന്നത് വ്യഞ്ജനശബ്ദത്തിൽ (th) തുടങ്ങുന്നതുകൊണ്ട് 'a' ശരിയാകുമെന്ന തോന്നൽ. പക്ഷേ ഇവിടെ ശബ്ദമല്ല, നിശ്ചിതത്വമാണ് തീരുമാനിക്കുന്നത്.\n\n(B) an\n• 'An' വരുന്നത് സ്വരശബ്ദത്തിന് മുൻപ് മാത്രം. 'Third' തുടങ്ങുന്നത് /θ/ എന്ന വ്യഞ്ജനശബ്ദത്തിലാണ്.\n• 🪤 PSC Trap: Articles ചോദ്യം കണ്ടാൽ ഉടനെ 'a/an' നിയമം മാത്രം ഓർക്കുന്ന ശീലം മുതലെടുക്കാൻ.\n\n(D) no article\n• 'This is third time' എന്നത് വ്യാകരണപരമായി അപൂർണമാണ് — ഈ ഘടനയിൽ article നിർബന്ധമാണ്.\n• ⚠️ ഇതും പൊതുനിയമമാക്കരുത്: ചില ഉറച്ച പ്രയോഗങ്ങളിൽ ordinal-ന് article വേണ്ട — 'She won first prize', 'He came second', 'my first job', 'Chapter Three'. നിർണായകം വാക്യഘടനയാണ്, 'ordinal' എന്ന വാക്കല്ല.\n• 🪤 PSC Trap: 'three times a week' പോലെ article ഇല്ലാത്ത പരിചിതമായ പ്രയോഗങ്ങളുമായി കൂട്ടിക്കുഴയ്ക്കാൻ. പക്ഷേ അത് cardinal ആണ്, ഇത് ordinal ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"എണ്ണിയാൽ THE, എണ്ണാതെ A.\" — 'ഒന്നാമത്തെ, രണ്ടാമത്തെ, മൂന്നാമത്തെ' എന്ന് ക്രമം പറയുമ്പോൾ ആ സ്ഥാനം കൃത്യമാണ്, അതുകൊണ്ട് 'the'. വെറുതെ 'ഒരു' എന്ന് പറയുമ്പോൾ 'a'.\n• Rule family: THE-യുടെ അഞ്ച് ഉറപ്പുള്ള ഇടങ്ങൾ — superlative, ordinal, only, ഒന്നേയുള്ളൂ എന്നത് (sun/moon), നദി-കടൽ-പർവതനിരകൾ. ഈ അഞ്ചെണ്ണം ഒന്നിച്ചു പഠിച്ചാൽ Article ചോദ്യങ്ങൾ ഒരിക്കലും miss ആകില്ല.\n• Exam strategy: Article ചോദ്യത്തിൽ ആദ്യം ചോദിക്കുക — \"ഇത് നിശ്ചിതമാണോ?\" Superlative, only, unique എന്നിവ കണ്ടാൽ ഉടനെ 'the'. Ordinal ആണെങ്കിൽ ഒരു ചോദ്യം കൂടി: ഇത് ഒരു പ്രത്യേക തവണയെ/സ്ഥാനത്തെ തിരിച്ചറിയിക്കുന്നുണ്ടോ? ഉണ്ടെങ്കിൽ 'the'. ശബ്ദനിയമം (a/an) പരിശോധിക്കേണ്ടത് അതിനുശേഷം മാത്രം."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-21-Q6",
+    "paperId": "HC-DAILY-2026-09-21",
+    "questionNumber": 6,
+    "topic": "Phrasal Verbs",
+    "topicDetail": "bear out = confirm / support with evidence",
+    "difficulty": "hard",
+    "questionText": "Choose the correct meaning of the phrasal verb in italics.\nThe laboratory results __bore out__ the doctor's initial diagnosis.",
+    "optionA": "contradicted",
+    "optionB": "confirmed",
+    "optionC": "delayed",
+    "optionD": "repeated",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) confirmed\n\n• 'Bear out' എന്ന phrasal verb-ന്റെ അർഥം ഒരു കാര്യം ശരിയാണെന്ന് തെളിയിക്കുക, സ്ഥിരീകരിക്കുക എന്നാണ്. 'Bore out' എന്നത് അതിന്റെ past form ആണ് (bear → bore → borne).\n• വാക്യത്തിന്റെ അർഥം: ലാബ് ഫലങ്ങൾ ഡോക്ടറുടെ ആദ്യ രോഗനിർണയം ശരിയാണെന്ന് തെളിയിച്ചു.\n• ⚠️ പ്രധാനം: Phrasal verb-ന്റെ അർഥം ഒരിക്കലും അതിലെ വാക്കുകളുടെ നേരിട്ടുള്ള അർഥമല്ല. 'Bear' എന്നാൽ 'ചുമക്കുക/സഹിക്കുക', 'out' എന്നാൽ 'പുറത്ത്' — പക്ഷേ 'bear out' എന്നാൽ 'സ്ഥിരീകരിക്കുക'. ഇതാണ് idiomatic meaning.\n• Etymology സൂചന: പഴയ കാലത്തെ ഇംഗ്ലീഷിൽ (16-ാം നൂറ്റാണ്ട്) 'bear out' എന്നാൽ ഒരാൾക്കുവേണ്ടി സാക്ഷ്യം പറഞ്ഞ് അയാളെ 'താങ്ങിനിർത്തുക' എന്നായിരുന്നു — തെളിവ് ഒരു വാദത്തെ താങ്ങിനിർത്തുന്നു എന്ന ചിത്രം ഓർത്താൽ അർഥം മറക്കില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: BEAR OUT = തെളിവുകൊണ്ട് താങ്ങിനിർത്തുക = confirm / support / prove right.\n• 'Bear' എന്ന അടിസ്ഥാന verb-ന്റെ phrasal കുടുംബം ഒന്നിച്ചു പഠിക്കുക:\n  1. bear out = സ്ഥിരീകരിക്കുക, ശരിയാണെന്ന് തെളിയിക്കുക\n  2. bear with = ക്ഷമയോടെ സഹിക്കുക (\"Please bear with me for a moment.\")\n  3. bear up = പ്രതിസന്ധിയിൽ തളരാതെ നിൽക്കുക\n  4. bear on = ഒരു വിഷയവുമായി ബന്ധപ്പെട്ടിരിക്കുക\n  5. bear down on = ഭീഷണമായി വേഗത്തിൽ അടുത്തേക്ക് വരിക; ശക്തി പ്രയോഗിച്ച് അമർത്തുക\n• ⭐ PSC ആവർത്തനം: Phrasal Verbs ഏകദേശം 5.6% ചോദ്യങ്ങൾ — ഏറ്റവും കൂടുതൽ വരുന്ന vocabulary topic-കളിൽ ഒന്ന്.\n• ഉദാഹരണ sentences:\n  1. The statistics bear out the government's claim.\n  2. His account of the accident was borne out by two witnesses.\n  3. The survey results bore out what the villagers had been saying for years.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) contradicted\n• ഇതിന്റെ അർഥം 'ഖണ്ഡിക്കുക, തെറ്റാണെന്ന് കാണിക്കുക' — 'bear out'-ന്റെ നേർവിപരീതമാണ്.\n• 🪤 PSC Trap: PSC-യുടെ ഏറ്റവും ഇഷ്ടപ്പെട്ട കെണി — ശരിയുത്തരത്തിന്റെ വിപരീതപദം ഒരു option ആയി വെക്കുക. അർഥം ഉറപ്പില്ലെങ്കിൽ 50-50 ആയി കുടുങ്ങും.\n\n(C) delayed\n• 'വൈകിപ്പിച്ചു' എന്ന അർഥം. 'Bear out'-ൽ സമയവുമായി ബന്ധപ്പെട്ട ഒരു അർഥവുമില്ല.\n• 🪤 PSC Trap: 'put off', 'hold up' പോലുള്ള മറ്റു phrasal verb-കളുടെ അർഥം ഇവിടെ കൂട്ടിക്കുഴയ്ക്കാൻ.\n\n(D) repeated\n• 'ആവർത്തിച്ചു' എന്ന അർഥം. ഒരു ഫലം ഒരു നിർണയത്തെ ആവർത്തിക്കുകയല്ല, പിന്തുണയ്ക്കുകയാണ് ചെയ്യുന്നത്.\n• 🪤 PSC Trap: വാക്യത്തിന്റെ പൊതുവായ അർഥം മാത്രം ഊഹിച്ച് 'ഏതാണ്ട് ചേരുന്ന' option തിരഞ്ഞെടുക്കുന്ന ശീലം മുതലെടുക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: ഒരു കരടി (BEAR) തെളിവിന്റെ ഭാരം ചുമലിലേറ്റി കോടതിയിൽ കൊണ്ടുവരുന്നത് സങ്കൽപ്പിക്കുക — ആ തെളിവ് നിങ്ങളുടെ വാദത്തെ 'ശരി' എന്ന് ഉറപ്പിക്കുന്നു. BEAR OUT = തെളിവ് ചുമന്നുകൊണ്ടുവന്ന് സ്ഥിരീകരിക്കുക.\n• Word family: ഒരേ base verb-ന്റെ എല്ലാ phrasal രൂപങ്ങളും ഒന്നിച്ചു പഠിക്കുക — bear out / bear with / bear up / bear on. PSC പലപ്പോഴും ഒരേ verb-ന്റെ രണ്ട് വ്യത്യസ്ത രൂപങ്ങൾ options ആയി വെക്കും.\n• Exam strategy: Phrasal verb ചോദ്യത്തിൽ അർഥം ഉറപ്പില്ലെങ്കിൽ, phrasal verb ഒഴിവാക്കി വാക്യത്തിന്റെ ബാക്കി ഭാഗം വായിക്കുക. \"ലാബ് ഫലങ്ങൾ ____ ഡോക്ടറുടെ നിർണയത്തെ\" — ഫലങ്ങൾ സാധാരണ ഒരു നിർണയത്തെ ശരിവെക്കുകയോ തള്ളുകയോ ചെയ്യും. Context ചുരുക്കിത്തരും!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-21-Q7",
+    "paperId": "HC-DAILY-2026-09-21",
+    "questionNumber": 7,
+    "topic": "Synonyms",
+    "topicDetail": "perfunctory = done routinely, without care",
+    "difficulty": "hard",
+    "questionText": "Choose the word that is closest in meaning to the word in italics.\nThe inspector's __perfunctory__ examination of the records missed an obvious discrepancy.",
+    "optionA": "superficial",
+    "optionB": "thorough",
+    "optionC": "hostile",
+    "optionD": "prolonged",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) superficial\n\n• 'Perfunctory' എന്നാൽ താൽപ്പര്യമോ ശ്രദ്ധയോ ഇല്ലാതെ, വെറും ചടങ്ങിനുവേണ്ടി മാത്രം ചെയ്യുന്നത് — ഉപരിപ്ലവമായത്.\n• 'Superficial' എന്നാൽ ഉപരിതലത്തിൽ മാത്രം ഒതുങ്ങുന്നത്, ആഴമില്ലാത്തത് — ഇതാണ് ഏറ്റവും അടുത്ത അർഥം.\n• വാക്യത്തിലെ സൂചന തന്നെ ഉത്തരം തരുന്നുണ്ട്: 'missed an obvious discrepancy' (വ്യക്തമായ ഒരു പൊരുത്തക്കേട് കാണാതെ പോയി). ശ്രദ്ധയോടെ പരിശോധിച്ചിരുന്നെങ്കിൽ അത് കണ്ടേനെ — അതായത് പരിശോധന ഉപരിപ്ലവമായിരുന്നു.\n• Etymology സൂചന: ലാറ്റിൻ 'perfunctus' = 'ചെയ്തുതീർത്തു' (per = through + fungi = perform). വെറും 'ചെയ്തുതീർക്കൽ' — ഹൃദയമില്ലാത്ത പ്രവൃത്തി. ഈ വേരറിഞ്ഞാൽ അർഥം ഒരിക്കലും മറക്കില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: PERFUNCTORY = ചടങ്ങിനുവേണ്ടി മാത്രം = careless, superficial, mechanical, half-hearted.\n• Synonym കുടുംബം ഒന്നിച്ചു പഠിക്കുക: perfunctory, cursory, superficial, casual, offhand, mechanical — എല്ലാം 'ആഴമില്ലാത്ത, ശ്രദ്ധയില്ലാത്ത' എന്ന അർഥവലയത്തിൽ വരുന്നു.\n• വിപരീത കുടുംബം: thorough, meticulous, painstaking, diligent, scrupulous — 'അതിസൂക്ഷ്മമായ' എന്ന അർഥത്തിൽ.\n• ⭐ PSC ആവർത്തനം: Synonyms ഏകദേശം 5.3% ചോദ്യങ്ങൾ — ഒരു പേപ്പറിൽ ഒന്നോ രണ്ടോ ഉറപ്പ്.\n• ഉദാഹരണ sentences:\n  1. He gave a perfunctory nod and walked away.\n  2. The guard made a perfunctory check of the bags at the gate.\n  3. Her apology sounded perfunctory rather than sincere.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) thorough\n• 'Thorough' എന്നാൽ സമഗ്രമായ, ഒന്നും വിടാതെയുള്ള — 'perfunctory'-യുടെ നേർവിപരീതമാണ്.\n• 🪤 PSC Trap: ഏറ്റവും ക്ലാസിക് കെണി — ശരിയുത്തരത്തിന്റെ വിപരീതപദം option ആയി വെക്കുക. വാക്ക് അറിയില്ലെങ്കിൽ ഇതിൽ വീഴാൻ 50% സാധ്യതയുണ്ട്.\n\n(C) hostile\n• 'Hostile' എന്നാൽ ശത്രുതാപരമായ, വിരോധമുള്ള. ഇത് മനോഭാവത്തെക്കുറിച്ചാണ്, ശ്രദ്ധയുടെ ആഴത്തെക്കുറിച്ചല്ല.\n• 🪤 PSC Trap: 'Perfunctory' എന്ന വാക്കിന്റെ ശബ്ദം കടുപ്പമുള്ളതായി തോന്നുന്നതുകൊണ്ട് 'നെഗറ്റീവ് ആയ ഏതോ ഒന്ന്' എന്ന് ഊഹിക്കുന്നവരെ വീഴ്ത്താൻ.\n\n(D) prolonged\n• 'Prolonged' എന്നാൽ ദീർഘനേരം നീണ്ടുനിന്ന. ഉപരിപ്ലവമായ ഒരു പരിശോധന നീണ്ടുനിൽക്കില്ല — അർഥം നേരെ എതിർദിശയിലാണ്.\n• 🪤 PSC Trap: 'per-' എന്ന തുടക്കം 'perpetual', 'permanent' പോലെ 'ദീർഘകാലം' എന്ന അർഥം തോന്നിപ്പിക്കും. Prefix നോക്കി ഊഹിക്കുന്നത് ഇവിടെ അപകടമാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"PERFUNCTORY = PER (വെറും) + FUNCTION (ചടങ്ങ്)\" — വെറും ചടങ്ങിനുവേണ്ടി മാത്രം ചെയ്യുന്നത്. ഒരു ഉദ്യോഗസ്ഥൻ ബാഗിലേക്ക് ഒന്ന് കണ്ണോടിച്ച് 'പോകൂ' എന്ന് പറയുന്ന ചിത്രം മനസ്സിൽ വെക്കുക.\n• Word family: perfunctory / cursory / superficial / casual — ഈ നാലെണ്ണം ഒരുമിച്ചു പഠിക്കുക. ഒപ്പം എതിർപക്ഷമായ thorough / meticulous / painstaking-ഉം. PSC പലപ്പോഴും ഒരേ ജോടിയെ synonym ചോദ്യത്തിലും antonym ചോദ്യത്തിലും മാറ്റിമാറ്റി ചോദിക്കും.\n• Exam strategy: Synonym ചോദ്യത്തിൽ വാക്ക് അറിയില്ലെങ്കിൽ വാക്യത്തിലെ സൂചനാവാക്കുകൾ (context clues) തേടുക. ഇവിടെ 'missed an obvious discrepancy' എന്നത് ഉത്തരം നേരിട്ട് പറഞ്ഞുതരുന്നു. വാക്യം മുഴുവൻ വായിക്കാതെ ഒരിക്കലും ഉത്തരം അടയാളപ്പെടുത്തരുത്!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-21-Q8",
+    "paperId": "HC-DAILY-2026-09-21",
+    "questionNumber": 8,
+    "topic": "Antonyms",
+    "topicDetail": "volatile ↔ stable",
+    "difficulty": "medium",
+    "questionText": "Choose the antonym of the word in italics.\nShare prices remained __volatile__ throughout the trading session.",
+    "optionA": "explosive",
+    "optionB": "expensive",
+    "optionC": "uncertain",
+    "optionD": "stable",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) stable\n\n• 'Volatile' എന്നാൽ പെട്ടെന്ന് പെട്ടെന്ന് മാറിക്കൊണ്ടിരിക്കുന്ന, അസ്ഥിരമായ എന്നാണ്. ഓഹരിവിലകളെക്കുറിച്ച് പറയുമ്പോൾ 'കയറിയും ഇറങ്ങിയും നിൽക്കുന്ന' എന്ന അർഥം.\n• അതിന്റെ നേർവിപരീതം 'stable' — സ്ഥിരമായ, മാറ്റമില്ലാതെ നിൽക്കുന്ന.\n• Etymology സൂചന: ലാറ്റിൻ 'volare' = പറക്കുക. പറന്നുപോകുന്നത് ഒരിടത്ത് ഉറച്ചുനിൽക്കില്ല → അതുകൊണ്ട് volatile = അസ്ഥിരം. 'Stable' വരുന്നത് ലാറ്റിൻ 'stare' = നിൽക്കുക എന്നതിൽ നിന്ന്. ഒന്ന് പറക്കുന്നു, മറ്റൊന്ന് നിൽക്കുന്നു — perfect ജോടി!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: VOLATILE = പറന്നുപോകുന്നത് (അസ്ഥിരം) ↔ STABLE = ഉറച്ചുനിൽക്കുന്നത് (സ്ഥിരം).\n• 'Volatile'-ന്റെ synonym കുടുംബം: unstable, unpredictable, erratic, fickle, mercurial, changeable.\n• 'Stable'-ന്റെ synonym കുടുംബം: steady, constant, firm, settled, unchanging.\n• ⭐ PSC ആവർത്തനം: Antonyms ഏകദേശം 5% ചോദ്യങ്ങൾ — Synonyms-നോട് ചേർന്ന് ഒരു പേപ്പറിൽ രണ്ടോ മൂന്നോ ചോദ്യങ്ങൾ വരും.\n• ശ്രദ്ധിക്കുക: 'Volatile'-ന് രസതന്ത്രത്തിൽ 'പെട്ടെന്ന് ബാഷ്പീകരിക്കുന്ന' എന്ന അർഥവുമുണ്ട് (volatile liquid). മനുഷ്യരെക്കുറിച്ച് പറയുമ്പോൾ 'പെട്ടെന്ന് ദേഷ്യം വരുന്ന' എന്നും. മൂന്ന് അർഥങ്ങളുടെയും അടിസ്ഥാനം ഒന്നുതന്നെ — സ്ഥിരതയില്ലായ്മ.\n• ഉദാഹരണ sentences:\n  1. The volatile market alarmed small investors, but by evening prices were stable again.\n  2. His volatile temper cost him many friends.\n  3. Petrol is a volatile liquid.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) explosive\n• ഇത് 'volatile'-ന്റെ ഒരു synonym ആണ് (പ്രത്യേകിച്ച് സ്വഭാവത്തെക്കുറിച്ച് പറയുമ്പോൾ) — antonym അല്ല.\n• 🪤 PSC Trap: ഇതാണ് ഈ ചോദ്യത്തിലെ ഏറ്റവും വലിയ കെണി. Antonym ചോദ്യങ്ങളിൽ PSC എപ്പോഴും ഒരു synonym കൂടി options-ൽ വെക്കും. ചോദ്യം 'antonym' ആണോ 'synonym' ആണോ എന്ന് വായിച്ചുറപ്പിക്കാതെ ഉത്തരം എഴുതരുത്!\n\n(B) expensive\n• 'വില കൂടിയത്' എന്ന അർഥം. വിലയുടെ അളവിനെക്കുറിച്ചാണ് ഇത്, വിലയുടെ സ്ഥിരതയെക്കുറിച്ചല്ല.\n• 🪤 PSC Trap: 'Share prices' എന്ന് വാക്യത്തിൽ കണ്ടതുകൊണ്ട് വിലയുമായി ബന്ധപ്പെട്ട ഒരു വാക്ക് ശരിയാകുമെന്ന തോന്നൽ. വിഷയത്തിന്റെ പശ്ചാത്തലവും വാക്കിന്റെ അർഥവും രണ്ടാണ്.\n\n(C) uncertain\n• 'അനിശ്ചിതമായ' — ഇതും 'volatile'-നോട് ചേർന്നുനിൽക്കുന്ന അർഥമാണ്, എതിരല്ല.\n• 🪤 PSC Trap: രണ്ടാമത്തെ synonym-കെണി. രണ്ട് synonym-കൾ ഒരുമിച്ചു വെച്ചാൽ, ശ്രദ്ധയില്ലാത്ത വിദ്യാർഥി അവയിൽ ഒന്ന് തിരഞ്ഞെടുക്കാൻ സാധ്യത കൂടും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"VOLATILE-ൽ ഒരു കിളി പറക്കുന്നുണ്ട്\" — VOL = പറക്കൽ (volatile; volley — പന്ത് നിലം തൊടാതെ 'പറന്ന്' അടിക്കുന്നത്). പറക്കുന്ന കിളി ഒരിടത്ത് ഉറച്ചിരിക്കില്ല. STABLE-ൽ ഒരു കുതിരലായം (stable) ഉണ്ട് — കുതിര ലായത്തിൽ ഉറച്ചുനിൽക്കുന്നു. പറക്കുന്നത് ↔ നിൽക്കുന്നത്.\n• Word family: ഒരു വാക്ക് പഠിക്കുമ്പോൾ അതിന്റെ synonym-ഉം antonym-ഉം ഒരുമിച്ച് എഴുതിവെക്കുക — volatile (unstable, erratic, fickle) ↔ stable (steady, constant, firm). ഇങ്ങനെ പഠിച്ചാൽ ഒരേ വാക്കിൽ നിന്ന് രണ്ട് തരം ചോദ്യങ്ങളും നേരിടാം.\n• Exam strategy: Antonym ചോദ്യത്തിൽ ആദ്യം ചോദ്യത്തിലെ 'antonym' എന്ന വാക്കിന് അടിവരയിടുക! പിന്നെ options-ൽ synonym-കൾ ഏതെല്ലാം എന്ന് കണ്ടെത്തി അവ വെട്ടിക്കളയുക. ബാക്കിയാകുന്നതാണ് ഉത്തരം — ഒരിക്കലും miss ആകില്ല."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-21-Q9",
+    "paperId": "HC-DAILY-2026-09-21",
+    "questionNumber": 9,
+    "topic": "One Word Substitutes",
+    "topicDetail": "nepotism = favouritism shown to one's relatives",
+    "difficulty": "medium",
+    "questionText": "Choose the most suitable one-word substitute for the phrase in italics.\nThe officer was suspended for __favouring his own relatives while making appointments__.",
+    "optionA": "plagiarism",
+    "optionB": "nepotism",
+    "optionC": "monopoly",
+    "optionD": "altruism",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) nepotism\n\n• 'Nepotism' എന്നാൽ അധികാരത്തിലിരിക്കുന്ന ഒരാൾ സ്വന്തം ബന്ധുക്കൾക്ക് ജോലിയോ ആനുകൂല്യങ്ങളോ അന്യായമായി നൽകുന്നത് — 'സ്വജനപക്ഷപാതം'.\n• ചോദ്യത്തിലെ വാക്യാംശം കൃത്യമായി ഇതേ അർഥമാണ് പറയുന്നത്: സ്വന്തം ബന്ധുക്കളെ നിയമനത്തിൽ അനുകൂലിക്കുക.\n• Etymology സൂചന: ലാറ്റിൻ 'nepos' = അനന്തരവൻ/പേരക്കുട്ടി. മധ്യകാലത്ത് ചില മാർപ്പാപ്പമാർ തങ്ങളുടെ അനന്തരവന്മാർക്ക് ഉയർന്ന സ്ഥാനങ്ങൾ നൽകിയതിൽ നിന്നാണ് ഈ വാക്ക് ഉണ്ടായത്. 'നെപ്പോസ്' = ബന്ധു → nepotism = ബന്ധുപക്ഷപാതം.\n• PSC പശ്ചാത്തലം: ഭരണനിർവഹണം, ധാർമികത എന്നീ വിഷയങ്ങളിൽ പതിവായി വരുന്ന വാക്കാണിത് — English-ലും General Studies-ലും ഉപകാരപ്പെടും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: NEPOTISM = ബന്ധുക്കൾക്ക് പക്ഷപാതം. (NEPOS = ബന്ധു)\n• അഴിമതിയുമായി ബന്ധപ്പെട്ട One Word Substitutes ഒന്നിച്ചു പഠിക്കുക:\n  1. Nepotism = സ്വന്തം ബന്ധുക്കൾക്കുള്ള പക്ഷപാതം\n  2. Favouritism = ഇഷ്ടക്കാർക്കുള്ള പൊതുവായ പക്ഷപാതം\n  3. Bribery = കൈക്കൂലി നൽകൽ/വാങ്ങൽ\n  4. Embezzlement = തന്നെ ഏൽപ്പിച്ച പണം തിരിമറി നടത്തൽ\n  5. Extortion = ഭീഷണിപ്പെടുത്തി പണം വാങ്ങൽ\n• ⭐ PSC ആവർത്തനം: One Word Substitutes ഏകദേശം 5.1% ചോദ്യങ്ങൾ — ഓരോ പേപ്പറിലും ഒരു ചോദ്യം ഉറപ്പാണ്.\n• ഉദാഹരണ sentences:\n  1. The committee was accused of nepotism in the recruitment process.\n  2. Nepotism in public offices weakens people's trust in the system.\n  3. He rose to the post on merit, not through nepotism.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) plagiarism\n• 'Plagiarism' എന്നാൽ മറ്റൊരാളുടെ എഴുത്തോ ആശയമോ സ്വന്തമെന്ന മട്ടിൽ ഉപയോഗിക്കുക — സാഹിത്യമോഷണം. ബന്ധുക്കളുമായി ഒരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: രണ്ടും 'തെറ്റായ പ്രവൃത്തി' ആയതുകൊണ്ട് നെഗറ്റീവ് അർഥമുള്ള ഏത് വാക്കും ശരിയാകുമെന്ന തോന്നൽ ഉണ്ടാക്കാൻ.\n\n(C) monopoly\n• 'Monopoly' എന്നാൽ ഒരു ഉൽപ്പന്നത്തിന്റെയോ സേവനത്തിന്റെയോ മേൽ ഒരാൾക്ക് മാത്രമുള്ള സമ്പൂർണ നിയന്ത്രണം. ഇത് വ്യാപാരവുമായി ബന്ധപ്പെട്ടതാണ്, നിയമനവുമായല്ല.\n• 🪤 PSC Trap: 'Mono-' എന്ന prefix 'ഒറ്റയ്ക്ക്/സ്വന്തം' എന്ന അർഥം തോന്നിപ്പിക്കും — 'സ്വന്തം ബന്ധുക്കൾ' എന്ന ചോദ്യഭാഗവുമായി ചേരുന്നതായി തെറ്റിദ്ധരിപ്പിക്കാൻ.\n\n(D) altruism\n• 'Altruism' എന്നാൽ സ്വാർഥതയില്ലാതെ മറ്റുള്ളവരുടെ നന്മ ആഗ്രഹിക്കുന്ന മനോഭാവം — ഒരു നല്ല ഗുണമാണ്. ഇവിടെ പറയുന്നത് ഒരു കുറ്റകൃത്യത്തെക്കുറിച്ചാണ്.\n• 🪤 PSC Trap: '-ism' എന്ന ഒരേ അന്ത്യം ഉള്ളതുകൊണ്ട് കാഴ്ചയിൽ nepotism-നോട് സാമ്യം തോന്നും. അന്ത്യാക്ഷരം നോക്കി ഉത്തരം എഴുതരുത്!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"NEPOTISM-ൽ ഒരു NEPHEW ഒളിച്ചിരിപ്പുണ്ട്.\" — NEP-hew (അനന്തരവൻ) → NEP-otism (അനന്തരവന് ജോലി). ഓഫീസർ സ്വന്തം അനന്തരവനെ കസേരയിൽ ഇരുത്തുന്ന ചിത്രം മനസ്സിൽ വെക്കുക — ഒരിക്കലും മറക്കില്ല.\n• Word family: '-ism' കൊണ്ട് അവസാനിക്കുന്ന ഭരണ-ധാർമിക വാക്കുകൾ ഒരുമിച്ചു പഠിക്കുക — nepotism, favouritism, cronyism (കൂട്ടുകാർക്ക് പക്ഷപാതം), altruism, hedonism, stoicism. ഒരേ അന്ത്യമുള്ളതുകൊണ്ട് PSC ഇവയെ ഒരുമിച്ച് options ആയി വെക്കാൻ ഇഷ്ടപ്പെടുന്നു.\n• Exam strategy: One Word Substitute ചോദ്യങ്ങളിൽ വാക്കിന്റെ വേര് (root) തേടുക — nepos (ബന്ധു), plagiarius (കൊള്ളക്കാരൻ), mono (ഒന്ന്), alter (മറ്റുള്ളവർ). വേര് അറിഞ്ഞാൽ അർഥം ഊഹിക്കേണ്ടിവരില്ല. ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-21-Q10",
+    "paperId": "HC-DAILY-2026-09-21",
+    "questionNumber": 10,
+    "topic": "Spelling",
+    "topicDetail": "exhilarate — EX + HILAR + ATE, single L",
+    "difficulty": "medium",
+    "questionText": "Only one of the following words is spelt correctly. Choose it.",
+    "optionA": "Exhilarate",
+    "optionB": "Exhilirate",
+    "optionC": "Exilarate",
+    "optionD": "Exhillarate",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Exhilarate\n\n• ശരിയായ spelling: E-X-H-I-L-A-R-A-T-E. അർഥം: വളരെയധികം സന്തോഷിപ്പിക്കുക, ഉത്സാഹഭരിതനാക്കുക.\n• വാക്ക് മൂന്ന് ഭാഗമായി മുറിച്ച് ഓർക്കുക: EX + HILAR + ATE.\n• നിർണായകമായ മൂന്ന് കാര്യങ്ങൾ:\n  1. 'EX'-ന് ശേഷം ഒരു 'H' ഉണ്ട് — മലയാളി ഉച്ചാരണത്തിൽ ഈ H കേൾക്കാത്തതുകൊണ്ടാണ് പലരും 'exilarate' എന്ന് എഴുതുന്നത്.\n  2. നടുവിൽ 'HILAR' — 'A' ആണ്, 'I' അല്ല.\n  3. 'L' ഒറ്റ അക്ഷരം മാത്രം — ഇരട്ട 'LL' ഇല്ല.\n• Etymology സൂചന: ലാറ്റിൻ 'hilaris' = ഉല്ലാസമുള്ള. ഇതേ വേരിൽ നിന്നുതന്നെയാണ് 'hilarious' (ചിരിപ്പിക്കുന്ന) എന്ന വാക്കും വന്നത്. Hilarious അറിയാമെങ്കിൽ exhilarate-ലെ HILAR ഒരിക്കലും തെറ്റില്ല!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: EX + HILAR + ATE. (HILARious ഓർത്താൽ HILAR ശരിയാകും)\n• Spelling ചോദ്യങ്ങളിൽ വാക്കിനെ അർഥമുള്ള ഭാഗങ്ങളായി മുറിക്കുന്നതാണ് ഏറ്റവും സുരക്ഷിതമായ രീതി.\n• ഒരേ വേരിൽ നിന്നുള്ള കുടുംബം: hilarious, hilarity, exhilarate, exhilaration, exhilarating — എല്ലാത്തിലും 'HILAR' ഒരുപോലെ.\n• ⭐ PSC ആവർത്തനം: Spelling ഏകദേശം 6.6% ചോദ്യങ്ങൾ — ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic-കളിൽ ഒന്ന്. പഠിച്ചാൽ ഉറപ്പായ mark.\n• ഉദാഹരണ sentences:\n  1. The exhilarating view from the hilltop left them speechless.\n  2. Winning the district championship exhilarated the whole team.\n  3. She spoke of the climb with exhilaration.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) Exhilirate\n• നടുവിലെ സ്വരാക്ഷരം തെറ്റാണ് — 'HILIR' അല്ല, 'HILAR' ആണ് വേണ്ടത്.\n• 🪤 PSC Trap: ഏറ്റവും അപകടകരമായ option. 'H' ശരിയായി വെച്ചിട്ടുണ്ട്, നീളവും ശരിയാണ് — ഒരൊറ്റ അക്ഷരം (i ↔ a) മാത്രമാണ് മാറ്റിയിരിക്കുന്നത്. വേഗത്തിൽ വായിച്ചാൽ ഇത് ശരിയാണെന്ന് തോന്നും.\n\n(C) Exilarate\n• 'EX'-ന് ശേഷമുള്ള 'H' വിട്ടുപോയിരിക്കുന്നു.\n• 🪤 PSC Trap: ഉച്ചാരണത്തിൽ ഈ 'H' മിക്കവാറും കേൾക്കില്ല ('എക്സിലറേറ്റ്'). ചെവി കേൾക്കുന്നതുപോലെ എഴുതുന്ന ശീലമുള്ളവരെ വീഴ്ത്താനാണ് ഈ option.\n\n(D) Exhillarate\n• 'L' ഇരട്ടിപ്പിച്ചിരിക്കുന്നു ('hill'). ശരിയായ വാക്കിൽ ഒറ്റ 'L' മാത്രമേയുള്ളൂ.\n• 🪤 PSC Trap: 'hill' എന്ന പരിചിതമായ ഇംഗ്ലീഷ് വാക്ക് ഉള്ളിൽ കാണുന്നതുകൊണ്ട് ഇത് ശരിയാണെന്ന് തോന്നും. പരിചിതമായ ചെറിയ വാക്കുകൾ ഉള്ളിൽ 'കാണുന്നത്' spelling ചോദ്യങ്ങളിലെ വലിയ ചതിക്കുഴിയാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"EXHILARATE-ൽ HILARIOUS ഒളിച്ചിരിപ്പുണ്ട്.\" — ഒരു തമാശ കേട്ട് (hilarious) നിങ്ങൾ ആഹ്ലാദഭരിതനാകുന്നു (exhilarated). HILARIOUS-ന്റെ ആദ്യത്തെ അഞ്ച് അക്ഷരം (H-I-L-A-R) അതേപടി EXHILARATE-ലും ഉണ്ട്. ഒരു വാക്ക് ഓർത്താൽ രണ്ടും ശരിയാകും!\n• Word family: hilarious / hilarity / exhilarate / exhilaration — ഈ നാലെണ്ണം ഒരുമിച്ച് ഒരു കാർഡിൽ എഴുതി വെക്കുക.\n• Exam strategy: Spelling ചോദ്യത്തിൽ options തമ്മിലുള്ള വ്യത്യാസം എവിടെയാണെന്ന് ആദ്യം കണ്ടെത്തുക — ഇവിടെ മൂന്ന് സ്ഥാനങ്ങളിലാണ് കളി: (1) H ഉണ്ടോ? (2) നടുവിൽ A ആണോ I ആണോ? (3) L ഒന്നോ രണ്ടോ? ഓരോ സ്ഥാനവും വെവ്വേറെ പരിശോധിച്ചാൽ ശരിയുത്തരം താനേ തെളിയും."
+    }
   }
 ]
