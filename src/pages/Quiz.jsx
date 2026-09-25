@@ -329,6 +329,21 @@ function shuffle(arr) {
   return a
 }
 
+// Order a pool so a student works through every question before repeats:
+// never-practiced first (shuffled), then last-answered-wrong (shuffled),
+// then last-answered-right (oldest attempt first).
+function prioritizeUnseen(pool, lastOutcome) {
+  const unseen = [], wrong = [], right = []
+  pool.forEach(q => {
+    const o = lastOutcome[q.id]
+    if (!o) unseen.push(q)
+    else if (!o.correct) wrong.push(q)
+    else right.push(q)
+  })
+  right.sort((a, b) => (lastOutcome[a.id].date || '').localeCompare(lastOutcome[b.id].date || ''))
+  return [...shuffle(unseen), ...shuffle(wrong), ...right]
+}
+
 function TimerBar({ secs, total }) {
   const pct = (secs / total) * 100
   const color = pct > 50 ? 'var(--accent)' : pct > 20 ? '#f59e0b' : '#ef4444'
@@ -353,7 +368,8 @@ function QuizSetup({ onStart, needsSignup }) {
   const [count, setCount] = useState(10)
   const [secsPerQ, setSecsPerQ] = useState(30)
   const { bookmarks } = useBookmarks()
-  const { getAllResults, getMistakeIds } = useResults()
+  const { getAllResults, getMistakeIds, getLastOutcomes } = useResults()
+  const [lastOutcome, setLastOutcome] = useState({}) // id -> { correct, date } for every practiced question
   const [mistakeIds, setMistakeIds] = useState([]) // capped retry pool (what Start Quiz actually uses)
   const [totalMistakeIds, setTotalMistakeIds] = useState([]) // uncapped — for "X waiting behind the cap"
 
@@ -364,6 +380,7 @@ function QuizSetup({ onStart, needsSignup }) {
       if (!alive) return
       setMistakeIds(getMistakeIds(results))
       setTotalMistakeIds(getMistakeIds(results, { cap: null }))
+      setLastOutcome(getLastOutcomes(results))
     })
     return () => { alive = false }
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -429,14 +446,27 @@ function QuizSetup({ onStart, needsSignup }) {
   function handleStart() {
     let pool = [...availableQs]
     if (!paperId && mode !== 'browse' && mode !== 'saved' && mode !== 'mistakes') {
-      pool = shuffle(pool)
+      pool = prioritizeUnseen(pool, lastOutcome)
       pool = pool.slice(0, Math.min(count, pool.length))
+      pool = shuffle(pool) // mix the chosen set so new/retry questions aren't grouped
     }
     const playMode = (mode === 'saved' || mode === 'mistakes') ? 'practice' : mode
     onStart({ questions: pool, mode: playMode, secsPerQ })
   }
 
   const isBrowse = mode === 'browse'
+
+  // Practice coverage for the current pool (topic/mixed modes)
+  const coverage = useMemo(() => {
+    let fresh = 0, retry = 0, done = 0
+    availableQs.forEach(q => {
+      const o = lastOutcome[q.id]
+      if (!o) fresh++
+      else if (!o.correct) retry++
+      else done++
+    })
+    return { fresh, retry, done }
+  }, [availableQs, lastOutcome])
 
   return (
     <div className="max-w-lg mx-auto px-4 py-10">
@@ -569,6 +599,12 @@ function QuizSetup({ onStart, needsSignup }) {
       <div className="text-sm mb-1 font-semibold" style={{ color: 'var(--accent)' }}>
         {availableQs.length} questions available
       </div>
+      {!paperId && !isBrowse && mode !== 'saved' && mode !== 'mistakes' && availableQs.length > 0 && (
+        <div className="text-xs mb-3" style={{ color: 'var(--text2)' }}>
+          🆕 {coverage.fresh} not practiced · 🔁 {coverage.retry} to retry · ✅ {coverage.done} correct
+          {coverage.fresh > 0 ? ' — new questions come first' : ' — all practiced! Retry & oldest come first'}
+        </div>
+      )}
       {mode === 'saved' && bookmarks.length > usableBookmarkCount && (
         <div className="text-xs mb-3" style={{ color: 'var(--text2)' }}>
           {bookmarks.length - usableBookmarkCount} of your {bookmarks.length} bookmarked question{bookmarks.length - usableBookmarkCount === 1 ? '' : 's'} {bookmarks.length - usableBookmarkCount === 1 ? 'was' : 'were'} later cancelled by PSC in the Final Answer Key, so {bookmarks.length - usableBookmarkCount === 1 ? "it isn't" : "they aren't"} included here.

@@ -130,5 +130,18 @@ export function useResults() {
     return cap ? allWrong.slice(0, cap) : allWrong
   }
 
-  return { saveResult, getAllResults, getTopicStats, getMistakeIds }
+  // Most recent outcome per question id: { [id]: { correct, date } }.
+  // A question present here has been practiced at least once.
+  function getLastOutcomes(results) {
+    const lastOutcome = {}
+    const sorted = [...results].sort((a, b) => (a.date || '').localeCompare(b.date || ''))
+    sorted.forEach(result => {
+      (result.answers || []).forEach(({ id, correct }) => {
+        if (id) lastOutcome[id] = { correct, date: result.date || '' }
+      })
+    })
+    return lastOutcome
+  }
+
+  return { saveResult, getAllResults, getTopicStats, getMistakeIds, getLastOutcomes }
 }

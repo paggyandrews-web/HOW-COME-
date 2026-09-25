@@ -1,8 +1,9 @@
-import { useMemo } from 'react'
+import { useMemo, useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import questions from '../data/questions.json'
 import SignupGate from '../components/SignupGate'
 import { useAuth } from '../contexts/AuthContext'
+import { useResults } from '../hooks/useResults'
 
 // Official Kerala PSC English Syllabus — in order
 const GRAMMAR_TOPICS = [
@@ -38,7 +39,8 @@ const VOCABULARY_TOPICS = [
   { name: 'Abbreviations',              emoji: '🔠' },
 ]
 
-function TopicCard({ topic, count }) {
+function TopicCard({ topic, count, practiced = 0 }) {
+  const pct = count ? Math.round((practiced / count) * 100) : 0
   return (
     <div className="card rounded-xl p-3 flex flex-col gap-2">
       <div className="flex items-center gap-2 min-w-0">
@@ -50,6 +52,15 @@ function TopicCard({ topic, count }) {
         >
           {count}
         </span>
+      </div>
+      <div>
+        <div className="flex justify-between text-[11px] mb-1" style={{ color: 'var(--text2)' }}>
+          <span>{practiced}/{count} practiced</span>
+          <span>{pct}%</span>
+        </div>
+        <div className="w-full rounded-full h-1.5" style={{ background: 'var(--bg2)' }}>
+          <div className="h-1.5 rounded-full" style={{ width: pct + '%', background: 'var(--accent)' }} />
+        </div>
       </div>
       <div className="flex gap-2">
         <Link
@@ -88,6 +99,24 @@ function SectionHeader({ title, subtitle, color }) {
 
 export default function Topics() {
   const { user } = useAuth()
+  const { getAllResults, getLastOutcomes } = useResults()
+  const [practicedMap, setPracticedMap] = useState({})
+
+  useEffect(() => {
+    let alive = true
+    getAllResults().then(results => {
+      if (!alive) return
+      const seen = getLastOutcomes(results)
+      const map = {}
+      questions.forEach(q => {
+        if (q.topic && seen[q.id]) map[q.topic] = (map[q.topic] || 0) + 1
+      })
+      setPracticedMap(map)
+    })
+    return () => { alive = false }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [user])
+
   const countMap = useMemo(() => {
     const map = {}
     questions.forEach(function(q) {
@@ -128,6 +157,7 @@ export default function Topics() {
                 key={topic.name}
                 topic={topic}
                 count={countMap[topic.name] || 0}
+                practiced={practicedMap[topic.name] || 0}
               />
             )
           })}
@@ -147,6 +177,7 @@ export default function Topics() {
                 key={topic.name}
                 topic={topic}
                 count={countMap[topic.name] || 0}
+                practiced={practicedMap[topic.name] || 0}
               />
             )
           })}
