@@ -9398,5 +9398,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) -ness — 'friend' + 'ness' = 'friendness' എന്നത് ശരിയായ English word അല്ല. ('friendliness' ആണ് ശരി word, അത് 'friendly' എന്ന adjective-ൽ നിന്നാണ് വരുന്നത്, 'friend' എന്ന noun-ൽ നിന്നല്ല.)\n  🪤 PSC Trap: 'friendliness' എന്ന യഥാർത്ഥ word ഓർത്ത് 'friend + ness' ശരിയാണെന്ന് തെറ്റിദ്ധരിക്കാം.\n\n• (B) -hood — 'friend' + 'hood' = 'friendhood' ശരിയായ word അല്ല. ('-hood' സാധാരണയായി 'childhood', 'neighbourhood', 'brotherhood' പോലുള്ള words-ൽ കാണാം.)\n  🪤 PSC Trap: '-hood' ഉം relationship/state അർഥമുള്ള suffix ആയതിനാൽ confuse ആകാം.\n\n• (D) -ity — 'friend' + 'ity' = 'friendity' ശരിയായ word അല്ല; '-ity' സാധാരണയായി adjectives-ൽ നിന്ന് nouns ഉണ്ടാക്കാൻ ഉപയോഗിക്കുന്നു (e.g., real + ity = reality).\n  🪤 PSC Trap: '-ity' ഒരു common noun-suffix ആണെന്ന് അറിയാവുന്നവർ ഇവിടെയും ശരിയാകുമെന്ന് കരുതാം.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'FRIENDSHIP — SHIP-ൽ യാത്ര ചെയ്യുന്ന Friends!' — friendship, leadership, membership എന്നിവ ഒരു 'ship' (കപ്പൽ) -ൽ ഒരുമിച്ച് യാത്ര ചെയ്യുന്ന ചിത്രം സങ്കൽപ്പിക്കുക.\n• Family: -ship (state/relationship): friendship, leadership, membership, relationship, hardship, partnership — ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Word Formation ചോദ്യങ്ങളിൽ ഓരോ suffix ചേർത്തും യഥാർത്ഥ English word ഉണ്ടാകുന്നുണ്ടോ എന്ന് മനസ്സിൽ ഉരുവിട്ടു നോക്കുക — യഥാർത്ഥ word ഉണ്ടാകുന്നത് മാത്രമേ ശരിയാകൂ."
     }
+  },
+  {
+    "id": "HC-DAILY-2026-09-25-Q1",
+    "paperId": "HC-DAILY-2026-09-25",
+    "questionNumber": 1,
+    "topic": "Conditionals",
+    "difficulty": "medium",
+    "questionText": "Choose the correct option to complete the sentence.\nIf she __________ harder, she would have won the competition.",
+    "optionA": "trained",
+    "optionB": "had trained",
+    "optionC": "would train",
+    "optionD": "has trained",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) had trained\n\n• ഈ sentence-ൽ രണ്ട് ഭാഗങ്ങളും ഭൂതകാലത്ത് സംഭവിക്കാതെ പോയ ഒരു സാങ്കൽപിക സാഹചര്യത്തെ (hypothetical past) കുറിച്ചാണ് പറയുന്നത് — 'she trained harder' എന്നത് യഥാർത്ഥത്തിൽ നടന്നില്ല, അതുകൊണ്ട് 'she did not win'.\n• Main clause-ൽ 'would have won' (would have + V3) ഉള്ളതിനാൽ, if-clause-ൽ Past Perfect (had + V3) തന്നെ വേണം — ഇതാണ് Third Conditional-ന്റെ formula.\n• PSC-യിൽ competition/exam പോലുള്ള 'നടക്കാമായിരുന്ന പക്ഷേ നടക്കാതെ പോയ' സാഹചര്യങ്ങൾ ഈ pattern-ൽ ചോദിക്കാറുണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: If + had + V3 (past perfect) → would have + V3 (Third Conditional — ഭൂതകാലത്തിലെ സാങ്കൽപികത)\n• ഈ structure ഉപയോഗിക്കുന്നത് ഭൂതകാലത്ത് സംഭവിക്കാതെ പോയ ഒരു കാര്യത്തിന്റെ result പറയാനാണ് — 'if only she had trained...' എന്ന ഖേദം (regret) ഇതിൽ ഉൾക്കൊള്ളുന്നു.\n• Related family: First Conditional (If + present, will + V1), Second Conditional (If + past, would + V1), Third Conditional (If + had + V3, would have + V3).\n• ⭐ PSC ആവർത്തനം: Conditionals PSC English paper-ൽ സ്ഥിരമായി ആവർത്തിക്കുന്ന ഒരു topic ആണ് — മൂന്ന് types-ഉം നന്നായി വേർതിരിച്ചറിയാൻ പഠിക്കുക.\n• ഉദാഹരണ sentences:\n1. If I had known about the exam, I would have prepared better.\n2. If they had left early, they would have caught the train.\n3. If she had studied harder, she would have passed with distinction.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'trained' — ഇത് Simple Past ആണ്. Main clause-ൽ 'would have won' (Third Conditional structure) ഉള്ളപ്പോൾ if-clause-ൽ Simple Past ഉപയോഗിച്ചാൽ ഒരു ungrammatical tense mismatch ഉണ്ടാകും — ശരിയായ Third Conditional pairing 'had + V3 → would have + V3' മാത്രമാണ്.\n• 🪤 PSC Trap: Simple Past-നെ Past Perfect ആയി തെറ്റിദ്ധരിക്കുന്നത് ഒരു സാധാരണ പിഴവ് ആണ്.\n\n• (C) 'would train' — 'would' ഒരു modal ആണ്, if-clause-നുള്ളിൽ ഒരിക്കലും 'would'/'will' പോലുള്ള modals വരില്ല (Zero/First/Second/Third Conditional ഒന്നിലും).\n• 🪤 PSC Trap: Main clause-ലെ 'would' if-clause-ലേക്ക് തെറ്റായി കൊണ്ടുവരുന്ന students ഉണ്ട്.\n\n• (D) 'has trained' — ഇത് Present Perfect ആണ്, ഭൂതകാലത്തിലെ സാങ്കൽപിക സാഹചര്യവുമായി പൊരുത്തപ്പെടില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HAD-HAD, WOULD HAVE' — if-clause-ൽ 'had' + main clause-ൽ 'would have' — ഇവ എപ്പോഴും ജോഡിയായി (pair) വരും, Third Conditional-ൽ.\n• Word family: Type 1 (will), Type 2 (would), Type 3 (would have) — ഈ മൂന്ന് patterns ഒരുമിച്ച് ഒരു table ആയി പഠിക്കുക.\n• PSC exam strategy: Main clause നോക്കി if-clause-ന്റെ tense തീരുമാനിക്കുക — 'would have' കണ്ടാൽ ഉടൻ if-clause-ൽ 'had + V3' തിരയുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-25-Q2",
+    "paperId": "HC-DAILY-2026-09-25",
+    "questionNumber": 2,
+    "topic": "Direct and Indirect Speech",
+    "difficulty": "medium",
+    "questionText": "Meera said, \"I shall finish my project tomorrow.\" (Change into Indirect Speech)",
+    "optionA": "Meera said that she would finish her project the next day.",
+    "optionB": "Meera said that she will finish her project tomorrow.",
+    "optionC": "Meera said that she shall finish her project the following day.",
+    "optionD": "Meera said that she would finish her project tomorrow.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Meera said that she would finish her project the next day.\n\n• Indirect speech ആക്കുമ്പോൾ രണ്ട് മാറ്റങ്ങൾ ഒരുമിച്ച് വരണം: pronoun 'I' → 'she', modal 'shall' → 'would'.\n• 'tomorrow' എന്ന time word reporting verb ('said') past tense ആയതിനാൽ 'the next day' ആയി മാറ്റണം — time reference-ഉം backshift ചെയ്യണം.\n• ഈ രണ്ട് മാറ്റങ്ങളും ശരിയായി ചെയ്ത ഒരേ ഒരു option (A) മാത്രമാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: shall (1st person, simple future) → would | tomorrow → the next day/the following day\n• Direct speech-ൽ reporting verb (said) past ആയതിനാൽ, ഉള്ളിലെ tense/modal/time word എല്ലാം ഒരു step പുറകോട്ട് (backshift) മാറ്റണം.\n• Related word family: today→that day, yesterday→the day before, next week→the following week, here→there, this→that.\n• ⭐ PSC ആവർത്തനം: Direct-Indirect Speech conversion PSC-യിൽ വളരെ കൂടുതൽ ചോദിക്കുന്ന topic ആണ് — backshift table മനഃപാഠമാക്കുന്നത് guaranteed mark ആണ്.\n• ഉദാഹരണ sentences:\n1. He said, \"I shall call you tomorrow.\" → He said that he would call me the next day.\n2. She said, \"I will meet you today.\" → She said that she would meet me that day.\n3. They said, \"We shall leave tomorrow.\" → They said that they would leave the next day.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'will...tomorrow' — modal-ഉം time word-ഉം backshift ചെയ്യാതെ അതേപടി നിർത്തിയിരിക്കുന്നു — ഒരു മാറ്റവും വരുത്തിയിട്ടില്ല.\n• 🪤 PSC Trap: 'will' 'would' ആക്കാൻ മറന്നുപോകുന്നത് ഏറ്റവും സാധാരണമായ പിഴവ് ആണ്.\n\n• (C) 'shall...the following day' — time word ശരിയായി മാറ്റിയെങ്കിലും 'shall' അതേപടി നിർത്തി, modal backshift ചെയ്തിട്ടില്ല.\n• 🪤 PSC Trap: രണ്ട് മാറ്റങ്ങളിൽ ഒന്ന് മാത്രം ചെയ്ത് ബാക്കി മറന്നുപോകുന്ന 'half-shift' trap.\n\n• (D) 'would...tomorrow' — modal ശരിയായി backshift ചെയ്തെങ്കിലും 'tomorrow' മാറ്റാൻ മറന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'TWO THINGS TOGETHER' — modal-ഉം time word-ഉം ഒരുമിച്ച് check ചെയ്യുക, ഒന്ന് ശരിയായതുകൊണ്ട് option ശരിയാകില്ല.\n• Word family: shall→would, will→would, can→could, may→might — ഈ modal backshift pairs ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Direct-Indirect ചോദ്യങ്ങളിൽ ഓരോ option-ഉം sentence-ലെ എല്ലാ elements (pronoun, tense, time word) മാറ്റിയോ എന്ന് ഒരു checklist പോലെ പരിശോധിക്കുക — ഒരിക്കലും miss ആകില്ല."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-25-Q3",
+    "paperId": "HC-DAILY-2026-09-25",
+    "questionNumber": 3,
+    "topic": "Subject-Verb Agreement",
+    "difficulty": "medium",
+    "questionText": "Choose the correct option to complete the sentence.\nThe quality of the vegetables in this market __________ excellent.",
+    "optionA": "are",
+    "optionB": "is",
+    "optionC": "were",
+    "optionD": "have been",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) is\n\n• ഈ sentence-ന്റെ grammatical subject 'quality' ആണ് (singular noun) — 'of the vegetables in this market' എന്നത് ഒരു prepositional phrase മാത്രമാണ്, അത് subject-നെ മാറ്റില്ല.\n• Singular subject-ന് singular verb ('is') വേണം.\n• PSC ചോദ്യങ്ങളിൽ ഇത്തരം 'noun + of + plural noun' structure വളരെ സാധാരണമായ ഒരു trap ആണ് — verb-ന് അടുത്തുള്ള noun-നെ (vegetables) subject ആയി തെറ്റിദ്ധരിക്കരുത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Head noun decides the verb — prepositional phrase-ലെ noun അല്ല, sentence-ന്റെ യഥാർത്ഥ subject ആയ head noun മാത്രമാണ് verb-ന്റെ number തീരുമാനിക്കുന്നത്.\n• Related word family: 'The box of chocolates is...', 'The list of items is...', 'The condition of the roads is...' — ഇവയെല്ലാം ഇതേ rule പിന്തുടരുന്നു.\n• ⚠️ ഒഴിവാക്കൽ (exception): 'a number of', 'the majority of', 'some of', 'none of', 'all of', 'a lot of', 'plenty of' പോലുള്ള quantity/partitive expressions ഈ rule-ന് exception ആണ് — അവിടെ 'of'-ന് ശേഷമുള്ള noun ആണ് verb-നെ നിയന്ത്രിക്കുന്നത് (e.g. 'A number of candidates were absent.', 'The majority of the students have passed.').\n• ⭐ PSC ആവർത്തനം: Subject-Verb Agreement PSC-യിലെ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന grammar topic-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. The quality of these mangoes is excellent.\n2. The condition of the roads is very poor.\n3. A number of candidates were absent from the exam.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'are' — 'vegetables' (plural) എന്ന prepositional phrase-ലെ noun-നെ subject ആയി തെറ്റിദ്ധരിച്ചാൽ വരുന്ന ഉത്തരം.\n• 🪤 PSC Trap: verb-ന് തൊട്ടടുത്തുള്ള noun നോക്കി agreement തീരുമാനിക്കുന്നത് ക്ലാസിക് PSC trap ആണ്.\n\n• (C) 'were' — plural-ഉം past tense-ഉം ആണ്, ഇവിടെ context present tense ആണ്, number-ഉം തെറ്റാണ്.\n\n• (D) 'have been' — plural present perfect ആണ്, subject singular ആയതിനാൽ number mismatch.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'IGNORE THE MIDDLEMAN — BUT NOT FOR QUANTITY WORDS' — സാധാരണ singular head-noun-ന് ('quality', 'price', 'condition' പോലുള്ളവ) മാത്രം subject-ഉം verb-ഉം ഇടയിലുള്ള 'of the...' phrase മനസ്സിൽ mute ചെയ്യുക.\n• ⚠️ 'a number of', 'the majority of', 'some of', 'none of', 'all of' തുടങ്ങിയ quantity/partitive expressions വരുമ്പോൾ ഈ trick ബാധകമല്ല — അവിടെ 'of'-ന് ശേഷമുള്ള noun-മായി verb agree ചെയ്യും.\n• Word family: quality, quantity, the number (of), price, condition, list — ഈ 'singular head noun + of + plural' pattern words ഒരുമിച്ച് പഠിക്കുക ('the number' vs 'a number' ശ്രദ്ധിക്കുക — article മാറുമ്പോൾ rule മാറും).\n• PSC exam strategy: SVA ചോദ്യങ്ങളിൽ ആദ്യം subject ഒരു quantity/partitive word ആണോ എന്ന് നോക്കുക — അല്ലെങ്കിൽ മാത്രം 'ignore the of-phrase' trick പ്രയോഗിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-25-Q4",
+    "paperId": "HC-DAILY-2026-09-25",
+    "questionNumber": 4,
+    "topic": "Correlatives",
+    "difficulty": "medium",
+    "questionText": "Choose the correct correlative to complete the sentence.\nHe not only manages the store __________ also trains the new staff.",
+    "optionA": "but",
+    "optionB": "and",
+    "optionC": "or",
+    "optionD": "nor",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) but\n\n• 'not only ... but also' എന്നത് ഒരു fixed correlative pair ആണ് — sentence-ൽ 'also' നേരത്തെ തന്നെ ഉള്ളതിനാൽ, ഇതിന്റെ partner 'but' തന്നെ വേണം.\n• Correlative conjunctions എപ്പോഴും ജോഡിയായി (fixed pairs) മാത്രമേ വരൂ, ഒരു ഭാഗം മാറ്റി മറ്റൊന്ന് ചേർക്കാൻ പാടില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: not only... but also (never mix with and/or/nor)\n• Correlatives fixed pairs ആയി മാത്രമേ ഉപയോഗിക്കാവൂ: either...or, neither...nor, not only...but also, both...and, no sooner...than.\n• ⭐ PSC ആവർത്തനം: Correlatives PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന ഒരു small but scoring topic ആണ് — pairs മനഃപാഠമാക്കിയാൽ guaranteed mark!\n• ഉദാഹരണ sentences:\n1. She is not only intelligent but also hardworking.\n2. He not only sings well but also plays the guitar.\n3. Not only did he apologize, but he also offered to help.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'and' — 'not only' എന്ന correlative-ന്റെ partner അല്ല, 'and' ഒരു simple coordinating conjunction മാത്രമാണ്.\n• 🪤 PSC Trap: 'and' സ്വാഭാവികമായി തോന്നുമെങ്കിലും fixed pair-നെ തകർക്കുന്നു.\n\n• (C) 'or' — ഇതും 'not only'-യുടെ correlative partner അല്ല.\n\n• (D) 'nor' — 'nor' 'neither'-ന്റെ partner ആണ്, 'not only'-യുടെ അല്ല. Correlatives mix ചെയ്യാൻ പാടില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NOT ONLY... BUT ALSO' ഒരൊറ്റ unit ആയി പാടുപോലെ ഓർക്കുക — ഒരു ഭാഗം കേട്ടാൽ ഉടൻ മറ്റേ ഭാഗം മനസ്സിൽ വരണം.\n• Word family: either-or, neither-nor, not only-but also, both-and — ഈ pairs ഒരു table ആയി പഠിക്കുക, ഒരിക്കലും mix ചെയ്യരുത്.\n• PSC exam strategy: Correlative ചോദ്യങ്ങളിൽ sentence-ൽ ഇതിനകം ഉള്ള word (ഇവിടെ 'also') കണ്ടെത്തി, അതിന്റെ fixed partner ഏതെന്ന് ഓർത്തെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-25-Q5",
+    "paperId": "HC-DAILY-2026-09-25",
+    "questionNumber": 5,
+    "topic": "Correction of Sentences",
+    "difficulty": "medium",
+    "questionText": "Choose the grammatically correct sentence.",
+    "optionA": "He is one of the best player in the team.",
+    "optionB": "He is one of the best players in the team.",
+    "optionC": "He is one of the best players in team.",
+    "optionD": "He is one the best players in the team.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) He is one of the best players in the team.\n\n• 'one of the best + plural noun' എന്ന structure-ൽ noun എപ്പോഴും plural ('players') ആയിരിക്കണം — 'one of the best player' എന്നത് number-ൽ തെറ്റാണ്.\n• 'in the team' എന്നത് ശരിയായ preposition + article usage ആണ് — 'the' എന്ന definite article ഒഴിവാക്കാൻ പാടില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: one of the + superlative + PLURAL noun (one of the best players, one of the tallest buildings)\n• 'one of the' എപ്പോഴും ഒരു group-ൽ നിന്ന് ഒരാളെ/ഒന്നിനെ എടുക്കുന്നതിനെ കുറിക്കുന്നു, ആ group plural ആയിരിക്കണം.\n• ⭐ PSC ആവർത്തനം: Correction of Sentences PSC-യിൽ ആർട്ടിക്കിൾ, preposition, number എന്നിവയിലെ ചെറിയ പിഴവുകൾ കണ്ടെത്താൻ ആവശ്യപ്പെടുന്ന ചോദ്യങ്ങൾ സ്ഥിരമായി വരും.\n• ഉദാഹരണ sentences:\n1. She is one of the smartest students in the class.\n2. This is one of the tallest buildings in the city.\n3. He is one of the most respected teachers in the school.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'one of the best player' — 'player' singular ആയതിനാൽ number-agreement തെറ്റാണ്.\n• 🪤 PSC Trap: 'one' എന്ന singular word കണ്ട് noun-ഉം singular ആക്കുന്ന തെറ്റ്.\n\n• (C) 'in team' — 'the' എന്ന article വിട്ടുപോയി; definite ആയ ഒരു team-നെ കുറിച്ച് പറയുമ്പോൾ article വേണം.\n\n• (D) 'one the best players' — 'of' എന്ന preposition വിട്ടുപോയി; 'one of the' എപ്പോഴും ഒരുമിച്ച് വരണം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ONE OF THE + PLURAL, ALWAYS' — 'one of the' കണ്ടാൽ ഉടൻ അടുത്ത noun plural ആണോ എന്ന് പരിശോധിക്കുക.\n• Word family: one of the best, one of the few, one of the most — ഈ pattern-ന് ശേഷം എപ്പോഴും plural noun.\n• PSC exam strategy: Correction-of-sentence ചോദ്യങ്ങളിൽ options തമ്മിൽ ഒരു word/article/preposition മാത്രം മാറിയത് ശ്രദ്ധിച്ച് കണ്ടെത്തുക — ആ ഒരു വാക്കിലാണ് answer ഒളിഞ്ഞിരിക്കുന്നത്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-25-Q6",
+    "paperId": "HC-DAILY-2026-09-25",
+    "questionNumber": 6,
+    "topic": "One Word Substitutes",
+    "difficulty": "medium",
+    "questionText": "One word substitute for 'a place where birds are kept' is:",
+    "optionA": "Apiary",
+    "optionB": "Aviary",
+    "optionC": "Aquarium",
+    "optionD": "Sanctuary",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Aviary\n\n• 'Aviary' എന്നാൽ പക്ഷികളെ പാർപ്പിക്കുന്ന ഒരു വലിയ കൂട്/enclosure ആണ്.\n• Etymology hint: Latin 'avis' (bird) എന്നതിൽ നിന്നാണ് 'aviary' വന്നത് — 'aviation' (പറക്കൽ) എന്ന word-ഉം ഇതേ root-ൽ നിന്നാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Aviary = birds | Apiary = bees | Aquarium = fish | Sanctuary = general wildlife refuge\n• ഈ 'a place where animals are kept' pattern-ലുള്ള one-word substitutes എല്ലാം ഒരു group ആയി പഠിക്കണം, spelling-ഉം meaning-ഉം confuse ആകാൻ സാധ്യതയുള്ളവയാണ്.\n• ⭐ PSC ആവർത്തനം: 'Place-related' one-word substitutes PSC-യിൽ വളരെ സ്ഥിരമായി ചോദിക്കുന്ന ഒരു sub-category ആണ്.\n• Etymology hint: avis (Latin: bird) → aviary, aviation, aviator.\n• ഉദാഹരണ sentences:\n1. The zoo has a large aviary with over fifty species of birds.\n2. The old aviary near the palace was recently restored.\n3. Children love watching parrots fly inside the aviary.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'Apiary' — തേനീച്ചകളെ (bees) വളർത്തുന്ന സ്ഥലമാണ്, പക്ഷികളുടേതല്ല.\n• 🪤 PSC Trap: Apiary-യും Aviary-യും spelling-ൽ സാമ്യമുള്ളതിനാൽ ഏറ്റവും സാധാരണമായി confuse ചെയ്യുന്ന pair ആണ്.\n\n• (C) 'Aquarium' — മത്സ്യങ്ങളെ (fish) സൂക്ഷിക്കുന്ന സ്ഥലമാണ്.\n\n• (D) 'Sanctuary' — എല്ലാ തരം വന്യജീവികൾക്കുമുള്ള ഒരു പൊതു സംരക്ഷിത പ്രദേശം ആണ്, പക്ഷികൾക്ക് മാത്രമായുള്ള കൂട് അല്ല — കൃത്യമായ 'aviary'-യുടെ പകരക്കാരനല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'A for Aviary, A for Aves (birds)' — Aviary-യും Apiary-യും തമ്മിൽ confuse ആകാതിരിക്കാൻ, 'Aviary = Air + birds fly' എന്ന് ഓർക്കുക.\n• Word family: Aviary (birds), Apiary (bees), Aquarium (fish), Piggery (pigs), Kennel (dogs), Stable (horses) — ഈ 'animal + dwelling place' words ഒരു table ആയി പഠിക്കുക.\n• PSC exam strategy: One-word substitute ചോദ്യങ്ങളിൽ, definition-ലെ key animal ഏതെന്ന് ആദ്യം identify ചെയ്ത് ശേഷം options-ൽ അതിന് കൃത്യമായി match ആകുന്ന word തിരയുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-25-Q7",
+    "paperId": "HC-DAILY-2026-09-25",
+    "questionNumber": 7,
+    "topic": "Phrasal Verbs",
+    "difficulty": "medium",
+    "questionText": "Choose the correct phrasal verb to complete the sentence.\nWhile cleaning the attic, Meera __________ an old diary belonging to her grandmother.",
+    "optionA": "stumbled upon",
+    "optionB": "stumbled over",
+    "optionC": "stumbled into",
+    "optionD": "stumbled about",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) stumbled upon\n\n• 'Stumble upon' എന്ന phrasal verb-ന്റെ അർത്ഥം 'യാദൃശ്ചികമായി കണ്ടെത്തുക' (to find/discover by chance) എന്നാണ് — attic വൃത്തിയാക്കുമ്പോൾ പഴയ diary കണ്ടെത്തുന്നത് exactly ഈ അർത്ഥത്തിൽ വരുന്നു.\n• Meera ബോധപൂർവ്വം diary തിരയുകയായിരുന്നില്ല, യാദൃശ്ചികമായി കണ്ടെത്തുകയായിരുന്നു എന്നതാണ് ഈ phrasal verb-ന്റെ core sense.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: stumble upon/across (something) = to find something by accident/chance\n• Phrasal verbs-ന്റെ അർത്ഥം അതിന്റെ literal word-ൽ നിന്ന് വ്യത്യസ്തമായിരിക്കും (idiomatic meaning) — 'stumble' (തടഞ്ഞ് വീഴുക) എന്ന literal meaning-ൽ നിന്ന് വ്യത്യസ്തമായി, ഇവിടെ 'accidental discovery' എന്ന അർത്ഥമാണ്.\n• ⭐ PSC ആവർത്തനം: Phrasal Verbs PSC-യിലെ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന topic-കളിൽ ഒന്നാണ് — സമാന preposition-ഉള്ള verb variants തമ്മിലുള്ള അർത്ഥവ്യത്യാസം ശ്രദ്ധിക്കുക.\n• ഉദാഹരണ sentences:\n1. I stumbled upon an interesting article while browsing the internet.\n2. She stumbled upon a hidden path in the forest.\n3. He stumbled upon the answer while solving a different problem.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'stumbled over' — ഇതിന്റെ സാധാരണ അർത്ഥം ഒരു വസ്തുവിൽ കാൽ തട്ടി വീഴുക (to trip physically on something) അല്ലെങ്കിൽ സംസാരിക്കുമ്പോൾ വാക്കുകൾ കുഴഞ്ഞുപോകുക എന്നാണ് — 'discover' എന്ന അർത്ഥത്തിന് ഇത് standard usage അല്ല.\n• 🪤 PSC Trap: 'stumble upon' ഉം 'stumble over' ഉം ഒരേ base verb ആയതിനാൽ ഒരേ അർത്ഥമാണെന്ന് തെറ്റിദ്ധരിക്കാം.\n\n• (C) 'stumbled into' — 'ആകസ്മികമായി ഒരു സാഹചര്യത്തിലോ role-ലോ ചെന്നുപെടുക' (e.g. 'stumbled into a career') എന്ന അർത്ഥമാണ്, ഒരു വസ്തു കണ്ടെത്തുക എന്നല്ല.\n\n• (D) 'stumbled about' — ലക്ഷ്യമില്ലാതെ വിറച്ചു നടക്കുക (to move around clumsily/unsteadily) എന്നാണ് അർത്ഥം, discovery-യുമായി ബന്ധമില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'UPON = SUDDENLY UPON YOU' — stumble UPON എന്നാൽ പെട്ടെന്ന് ഒരു കാര്യം നിങ്ങളുടെ മുന്നിൽ വരുന്നത് (accidental find) എന്ന് ഓർക്കുക.\n• Word family: come across, chance upon, run into, hit upon — ഇവയെല്ലാം 'accidental discovery' എന്ന meaning group-ൽ പെടുന്ന phrasal verbs/idioms ആണ്, ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Phrasal verb ചോദ്യങ്ങളിൽ preposition മാത്രം മാറുന്ന options കണ്ടാൽ, ഓരോ preposition-ഉം base verb-ന് നൽകുന്ന വ്യത്യസ്ത അർത്ഥം sentence-ന്റെ context-മായി match ചെയ്ത് നോക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-25-Q8",
+    "paperId": "HC-DAILY-2026-09-25",
+    "questionNumber": 8,
+    "topic": "Compound Words",
+    "difficulty": "easy",
+    "questionText": "Pick out the compound word:",
+    "optionA": "enjoyment",
+    "optionB": "toothbrush",
+    "optionC": "careful",
+    "optionD": "national",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) toothbrush\n\n• 'Toothbrush' എന്നത് 'tooth' + 'brush' എന്നീ രണ്ട് സ്വതന്ത്ര words (free morphemes) ചേർന്നുണ്ടായ ഒരു compound word ആണ്.\n• മറ്റ് options-ലെല്ലാം ഒരു root word-ൽ suffix ചേർത്തുണ്ടായവയാണ്, രണ്ട് സ്വതന്ത്ര words ചേർന്നവയല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Compound word = Word + Word (both independently meaningful) — e.g. tooth+brush, sun+flower, class+room\n• Suffix ചേർത്തുണ്ടാകുന്ന words (enjoy+ment, care+ful, nation+al) compound words അല്ല — ഇവ derivational words ആണ്.\n• ⭐ PSC ആവർത്തനം: Compound Words PSC-യിൽ ചെറിയ frequency-യിലാണെങ്കിലും സ്ഥിരമായി ഒരു ചോദ്യമെങ്കിലും വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. She bought a new toothbrush from the store.\n2. The sunflower field looked beautiful in the morning light.\n3. Their classroom was decorated for the festival.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'enjoyment' — 'enjoy' + suffix '-ment' ചേർന്നത്, '-ment' ഒരു സ്വതന്ത്ര word അല്ല.\n• 🪤 PSC Trap: suffix ചേർന്ന words-നെ compound words ആയി തെറ്റിദ്ധരിക്കുന്ന common trap.\n\n• (C) 'careful' — 'care' + suffix '-ful' ചേർന്നത്, '-ful' സ്വതന്ത്ര word അല്ല.\n\n• (D) 'national' — 'nation' + suffix '-al' ചേർന്നത്, '-al' സ്വതന്ത്ര word അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BOTH PARTS MUST STAND ALONE' — ഒരു word-നെ രണ്ടായി പിരിച്ചാൽ, രണ്ട് ഭാഗങ്ങളും സ്വന്തമായി അർത്ഥമുള്ള words ആണോ എന്ന് പരിശോധിക്കുക — അതെ എങ്കിൽ മാത്രം compound word.\n• Word family: toothbrush, notebook, sunflower, classroom, football — ഇവയെല്ലാം true compound words, suffix-based words (careful, enjoyment, national, happiness) ഇവയിൽ നിന്ന് വേർതിരിച്ചറിയുക.\n• PSC exam strategy: ഓരോ option-ഉം രണ്ടായി split ചെയ്ത് നോക്കുക — രണ്ട് ഭാഗവും ഒറ്റയ്ക്ക് നിൽക്കുന്ന words ആണെങ്കിൽ മാത്രം അത് compound word ആണ്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-25-Q9",
+    "paperId": "HC-DAILY-2026-09-25",
+    "questionNumber": 9,
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "questionText": "The word 'tedious' means",
+    "optionA": "boring and tiresome due to length or dullness",
+    "optionB": "extremely exciting",
+    "optionC": "short and concise",
+    "optionD": "highly dangerous",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) boring and tiresome due to length or dullness\n\n• 'Tedious' എന്ന word-ന്റെ അർത്ഥം ദൈർഘ്യമോ വിരസതയോ കാരണം മുഷിപ്പിക്കുന്നതും ക്ഷീണിപ്പിക്കുന്നതും എന്നാണ് — ഒരു ജോലിയോ പ്രക്രിയയോ വളരെ നീണ്ടതും ആവർത്തനവിരസവുമായിരിക്കുമ്പോൾ ഈ word ഉപയോഗിക്കുന്നു.\n• Etymology hint: Latin 'taedium' (weariness, disgust) എന്നതിൽ നിന്നാണ് 'tedious' വന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: tedious = long/repetitive + boring + tiring (ദൈർഘ്യം കാരണമുള്ള മുഷിപ്പ്)\n• Related word family: monotonous, dull, tiresome, wearisome, dreary — ഇവയെല്ലാം 'tedious'-ന്റെ synonym group-ൽ പെടുന്നു.\n• ⭐ PSC ആവർത്തനം: Synonyms PSC-യിലെ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കുന്ന topic-കളിൽ ഒന്നാണ്.\n• Etymology hint: taedium (Latin, weariness) → tedious (wearisome, boring).\n• ഉദാഹരണ sentences:\n1. The lecture was so tedious that half the class fell asleep.\n2. Filling out the same form again and again is a tedious task.\n3. She found the long journey by bus quite tedious.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'extremely exciting' — 'tedious'-ന്റെ നേരെ വിപരീത അർത്ഥമാണ്.\n• 🪤 PSC Trap: Antonym-നെ synonym ആയി തെറ്റിദ്ധരിക്കുന്ന classic PSC trap.\n\n• (C) 'short and concise' — 'tedious' സാധാരണയായി ദൈർഘ്യമേറിയ കാര്യങ്ങളെക്കുറിച്ചാണ്, ചെറുതും സംക്ഷിപ്തവുമായതിനെക്കുറിച്ചല്ല — ഏതാണ്ട് വിപരീത സ്വഭാവം.\n\n• (D) 'highly dangerous' — അപകടവുമായി ('tedious') ബന്ധമില്ല, പൂർണ്ണമായും വ്യത്യസ്തമായ ഒരു meaning-ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'TEDIOUS = TIRES-YOU-OUS' — 'tedious' കേൾക്കുമ്പോൾ 'tired' എന്ന word ഓർക്കുക, നീണ്ടുനിൽക്കുന്ന മുഷിപ്പിക്കുന്ന കാര്യങ്ങളെ സൂചിപ്പിക്കുന്നു.\n• Word family: monotonous, dull, wearisome, tiresome, dreary — 'tedious'-ന്റെ synonym group ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Synonym ചോദ്യങ്ങളിൽ word-ന്റെ positive/negative tone ആദ്യം identify ചെയ്യുക — 'tedious' ഒരു negative/unpleasant word ആണ്, 'exciting' പോലുള്ള positive options ഉടൻ ഒഴിവാക്കാം."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-25-Q10",
+    "paperId": "HC-DAILY-2026-09-25",
+    "questionNumber": 10,
+    "topic": "Abbreviations",
+    "difficulty": "easy",
+    "questionText": "What is the correct full form of 'FYI'?",
+    "optionA": "For Your Information",
+    "optionB": "For Your Inquiry",
+    "optionC": "For Your Instruction",
+    "optionD": "Find Your Information",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) For Your Information\n\n• 'FYI' എന്നത് ഒരു standard, universally അംഗീകരിക്കപ്പെട്ട abbreviation ആണ് 'For Your Information' എന്നതിന്.\n• Emails, memos, official communications എന്നിവയിൽ ഒരു അധിക വിവരം കൈമാറാൻ ഉപയോഗിക്കുന്ന ഒരു common short form ആണിത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: FYI = For Your Information (അധിക വിവരം അറിയിക്കാൻ)\n• Related word family: ASAP (As Soon As Possible), RSVP (please reply), ETA (Estimated Time of Arrival) — ഇവയെല്ലാം office/email communication-ൽ സാധാരണയായി ഉപയോഗിക്കുന്ന abbreviations ആണ്.\n• ⭐ PSC ആവർത്തനം: Abbreviations PSC-യിൽ ചെറിയ frequency ആണെങ്കിലും സ്ഥിരമായി ചോദിക്കുന്ന ഒരു topic ആണ് — common office/technology abbreviations മനഃപാഠമാക്കുക.\n• ഉദാഹരണ sentences:\n1. FYI, the meeting has been rescheduled to 4 PM.\n2. I am forwarding this email to you for your information (FYI).\n3. Please note, FYI, the office will remain closed tomorrow.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'For Your Inquiry' — ഇത് ഒരു കൃത്രിമമായി നിർമ്മിച്ച expansion ആണ്, യഥാർത്ഥ ഉപയോഗത്തിൽ ഇല്ല.\n• 🪤 PSC Trap: യഥാർത്ഥ abbreviation-ന്റെ ഒരു വാക്ക് മാത്രം മാറ്റി തോന്നിക്കുന്ന fake expansions ഉണ്ടാക്കുന്നത് PSC-യുടെ common trap ആണ്.\n\n• (C) 'For Your Instruction' — ഇതും fabricated ആണ്, 'FYI' ഒരിക്കലും 'instruction' എന്ന അർത്ഥത്തിൽ ഉപയോഗിക്കാറില്ല.\n\n• (D) 'Find Your Information' — വാക്യഘടനയും അർത്ഥവും തന്നെ standard usage-മായി പൊരുത്തപ്പെടുന്നില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'F-Y-I = For Your Info' — ഓരോ letter-ഉം അതിന്റെ word-മായി നേരിട്ട് ബന്ധിപ്പിച്ച് ഓർക്കുക.\n• Word family: ASAP, RSVP, ETA, FYI — ഈ common office abbreviations ഒരു ഗ്രൂപ്പ് ആയി പഠിക്കുക.\n• PSC exam strategy: Abbreviation ചോദ്യങ്ങളിൽ, ഓരോ letter-ഉം ഏത് word-നെ represent ചെയ്യുന്നു എന്ന് ആദ്യം എഴുതി നോക്കുക, ശേഷം ആ combination ഏറ്റവും natural ആയി തോന്നുന്ന option തിരഞ്ഞെടുക്കുക."
+    }
   }
 ]
