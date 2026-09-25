@@ -191,7 +191,11 @@ function PaperList({ onStart, onPractice }) {
   // Drafts (status: 'draft') are nightly-generated daily mocks awaiting manual
   // review/approval — never shown in the app, even locally, until published.
   // Papers dated in the future are withheld until their publishedAt arrives.
-  const visiblePapers = useMemo(() => modelPapers.filter(isPublished), [])
+  // Newest first — the latest mock test sits at the top of the list.
+  const visiblePapers = useMemo(() => modelPapers.filter(isPublished).sort((a, b) =>
+    (b.mockNumber || 0) - (a.mockNumber || 0) ||
+    new Date(b.publishedAt || 0) - new Date(a.publishedAt || 0)
+  ), [])
 
   // Profile → Settings → "Revision schedule". Read once per mount, same
   // pattern as the Full 100 language pref below — a change on the Profile
