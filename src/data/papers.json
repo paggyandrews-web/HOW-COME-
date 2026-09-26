@@ -1839,5 +1839,15 @@
     "year": "2026",
     "categoryCode": "571/2025",
     "answerKeyStatus": "provisional"
+  },
+  {
+    "id": "88-2026-M",
+    "paperCode": "88/2026 M",
+    "post": "Clerk/Amenities Assistant/Security Guard/Sales Assistant/Attender/Office Attendant etc.",
+    "date": "26-Sep-2026",
+    "medium": "M",
+    "year": "2026",
+    "categoryCode": "427/2025,436/2025,466/2025,504/2025,572/2025,574/2025,673/2025,674/2025",
+    "answerKeyStatus": "provisional"
   }
 ]
