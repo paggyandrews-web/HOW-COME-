@@ -9778,5 +9778,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'larvas' — English plural '-s' നേരിട്ട് ചേർത്തത്, Latin-origin word-ന് ഇത് standard അല്ല. 🪤 PSC Trap: സാധാരണ '-s' plural rule എല്ലാ words-നും ബാധകമാണ് എന്ന് കരുതുന്ന തെറ്റ്.\n• (C) 'larvaes' — ഇത് ഇരട്ട തെറ്റാണ് ('-ae' ഉം '-s' ഉം ചേർത്തിരിക്കുന്നു), definitely wrong.\n• (D) 'larvi' — ഇത് ഒരു valid English plural അല്ല ('larvi-' എന്നത് 'larviparous' പോലുള്ള scientific compound words-ൽ ഒരു combining form ആയി വരാമെങ്കിലും, ഇത് ഒരു plural noun അല്ല).",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Scientific/technical Latin '-a' words (larva, antenna, formula) → add 'E'! എന്നാൽ common everyday '-a' words (area, villa, diploma) → വെറും '-S' മാത്രം!\" എന്ന് രണ്ട് groups ആയി വേർതിരിച്ച് ഓർത്തിരുന്നാൽ ഒരിക്കലും miss ആകില്ല.\n• Word/rule family: larva/larvae, antenna/antennae, alumna/alumnae, formula/formulae (Latin '-ae' group) vs area/areas, villa/villas, diploma/diplomas (ordinary '-s' group) — ഈ രണ്ട് groups തമ്മിൽ mix ചെയ്യാതെ വേറെ വേറെ പഠിക്കുക.\n• PSC exam strategy: Latin/Greek origin words-ന്റെ plural ചോദ്യങ്ങളിൽ, word ending (-a, -us, -on, -is) നോക്കി അതിന്റെ pattern group ഏതെന്ന് തിരിച്ചറിയുക."
     }
+  },
+  {
+    "id": "HC-DAILY-2026-09-27-Q1",
+    "paperId": "HC-DAILY-2026-09-27",
+    "questionNumber": 1,
+    "topic": "Tenses",
+    "difficulty": "hard",
+    "questionText": "Fill in the blank with the verb form that correctly shows which action happened first.\nBy the time the ambulance arrived at the accident site, the injured man __________ already to the nearby clinic by some passers-by.",
+    "optionA": "was taken",
+    "optionB": "has been taken",
+    "optionC": "had been taken",
+    "optionD": "was being taken",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) had been taken\n\n• \"By the time the ambulance arrived\" എന്നത് ഒരു past time reference point ആണ് — ഈ point-ന് മുമ്പേ നടന്ന മറ്റൊരു action ഉണ്ടെങ്കിൽ (ഇവിടെ: passers-by വഴി clinic-ലേക്ക് കൊണ്ടുപോയത്), ആ action past perfect tense-ൽ (had + V3) ആയിരിക്കണം.\n• \"Already\" എന്ന word കൂടി ഈ completion-നെ ഊന്നിപ്പറയുന്നു — ambulance എത്തുന്നതിന് മുമ്പേ ആ പ്രവൃത്തി പൂർത്തിയായിക്കഴിഞ്ഞു എന്നാണ് അർത്ഥം.\n• Passive voice ആയതിനാൽ \"had been + V3\" (had been taken) ആണ് ശരിയായ structure.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: രണ്ട് past actions ഉള്ളപ്പോൾ, ആദ്യം നടന്നത് Past Perfect (had + V3), പിന്നീട് നടന്നത് Simple Past.\n• \"By the time\", \"before\", \"after\" പോലുള്ള time markers ഈ two-past-actions structure സൂചിപ്പിക്കും.\n• ⭐ PSC ആവർത്തനം: Tenses PSC-യിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന topic-കളിൽ ഒന്നാണ്, especially past perfect vs simple past sequencing.\n• ഉദാഹരണ sentences:\n  1. By the time I reached the station, the train had already left.\n  2. She had finished her homework before her mother came home.\n  3. The patient had been treated before the specialist arrived.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'was taken' — simple past passive, രണ്ട് actions-ന്റെ sequence വ്യക്തമായി കാണിക്കുന്നില്ല (ഒരേസമയം നടന്നത് പോലെയും തോന്നാം). 🪤 PSC Trap: simple past ശരിയായി തോന്നുമെങ്കിലും, sequencing test ചെയ്യുന്ന ചോദ്യങ്ങളിൽ ഇത് insufficient ആണ്.\n• (B) 'has been taken' — present perfect, ഇത് past narrative-ൽ ഉപയോഗിക്കാൻ പാടില്ല (present perfect present time-മായി ബന്ധപ്പെട്ടതാണ്, past story-യിൽ back-shift ചെയ്യണം).\n• (D) 'was being taken' — past continuous passive, action ഇപ്പോഴും നടന്നുകൊണ്ടിരിക്കുന്നു എന്നാണ് അർത്ഥം, പക്ഷേ \"already\" completion സൂചിപ്പിക്കുന്നു, contradiction ഉണ്ടാകും. 🪤 PSC Trap: continuous ഉം perfect ഉം തമ്മിൽ confuse ചെയ്യുന്ന സാധാരണ തെറ്റ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"രണ്ട് past സംഭവങ്ങൾ? ആദ്യത്തേതിന് HAD, രണ്ടാമത്തേതിന് സാധാരണ Past!\" എന്ന് ഓർക്കുക.\n• Word/rule family: \"by the time\", \"before\", \"after\", \"already\", \"just\" പോലുള്ള time signal words past perfect-നെ trigger ചെയ്യും.\n• PSC exam strategy: sentence-ൽ രണ്ട് past events ഉണ്ടോ എന്ന് നോക്കുക, ഏതാണ് ആദ്യം നടന്നതെന്ന് decide ചെയ്ത് ആ event-ന് past perfect നൽകുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-27-Q2",
+    "paperId": "HC-DAILY-2026-09-27",
+    "questionNumber": 2,
+    "topic": "Articles",
+    "difficulty": "medium",
+    "questionText": "Choose the option that correctly fills the blank.\nThe old clock was __________ heirloom passed down through four generations of the family.",
+    "optionA": "a",
+    "optionB": "an",
+    "optionC": "some",
+    "optionD": "no article",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) an\n\n• 'Heirloom' എന്ന word 'h' എന്ന letter-ൽ തുടങ്ങിയാലും, ആ 'h' silent ആണ് (ഉച്ചാരണം \"air-loom\" എന്നാണ്, 'heir' എന്ന word-ന്റെ അതേ pattern) — അതുകൊണ്ട് ഈ word ഒരു vowel sound-ലാണ് തുടങ്ങുന്നത്.\n• Article choice (\"a\" vs \"an\") letter-ന്റെ അടിസ്ഥാനത്തിലല്ല, pronunciation-ന്റെ (sound) അടിസ്ഥാനത്തിലാണ് — vowel sound-ന് 'an' വേണം.\n• 'Some' ഉം 'no article' ഉം ഇവിടെ ഗ്രാമർ പരമായി അസാധുവാണ് — singular countable noun-ന് ഒരു article നിർബന്ധമായും വേണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: A/An തിരഞ്ഞെടുക്കുന്നത് SOUND അടിസ്ഥാനത്തിലാണ്, SPELLING അല്ല — vowel sound → an, consonant sound → a.\n• Silent 'h' words (heir, honest, hour, honour, heirloom) vowel sound-ൽ തുടങ്ങുന്നതിനാൽ 'an' എടുക്കും.\n• ⭐ PSC ആവർത്തനം: Articles-ൽ ഈ 'sound vs letter' rule PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന ഒരു trap ആണ്.\n• ഉദാഹരണ sentences:\n  1. She waited for an hour before the meeting began.\n  2. He is an honest and hardworking man.\n  3. The old woman gave her granddaughter a precious heirloom.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'a' — consonant sound-ന് മാത്രമേ ഇത് ഉപയോഗിക്കാവൂ, 'heirloom'-ന്റെ silent h കാരണം ഇത് തെറ്റാണ്. 🪤 PSC Trap: 'h' എന്ന letter കണ്ടിട്ട് ഉടനെ 'a' തിരഞ്ഞെടുക്കുന്ന common mistake.\n• (C) 'some' — singular countable noun-ന്റെ മുന്നിൽ 'some' സാധാരണയായി ഉപയോഗിക്കില്ല (plural/uncountable nouns-നൊപ്പമാണ് 'some' ചേരുക, ഉദാ: \"some water\", \"some books\").\n• (D) 'no article' — 'heirloom' ഒരു singular countable noun ആയതിനാൽ, ഒരു article (a/an/the) ഇല്ലാതെ ഒറ്റക്ക് നിൽക്കാൻ പാടില്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"H silent ആണോ? എങ്കിൽ AN! H ഉച്ചരിക്കുന്നുണ്ടോ? എങ്കിൽ A!\" — heir, honest, hour, heirloom, honour ഈ list ഓർത്തിരിക്കുക.\n• Word/rule family: silent-h words (heir, honest, hour, honour) ഉം vowel-sound consonant-letter words (university, one, European - ഇവ 'u'/'o' letter-ൽ തുടങ്ങിയാലും consonant sound ആയതിനാൽ 'a' എടുക്കും) ഉം ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: word-ന്റെ ആദ്യ letter അല്ല, ആദ്യ SOUND ഉച്ചരിച്ചു നോക്കുക — അതാണ് article തീരുമാനിക്കുന്നത്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-27-Q3",
+    "paperId": "HC-DAILY-2026-09-27",
+    "questionNumber": 3,
+    "topic": "Question Tags",
+    "difficulty": "medium",
+    "questionText": "Which tag correctly completes the sentence below?\nYou would rather stay home tonight, __________?",
+    "optionA": "don't you",
+    "optionB": "hadn't you",
+    "optionC": "didn't you",
+    "optionD": "wouldn't you",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) wouldn't you\n\n• Question tag ഉണ്ടാക്കുമ്പോൾ, statement-ൽ ഉപയോഗിച്ച അതേ auxiliary verb തന്നെ (ഇവിടെ 'would') tag-ലും വരണം, opposite polarity-ൽ (positive statement → negative tag).\n• \"You would rather stay home\" എന്നത് positive statement ആണ്, അതുകൊണ്ട് tag negative ആയിരിക്കണം — \"wouldn't you\".\n• Tag-ന്റെ subject ('you') statement-ലെ subject-നെ തന്നെ echo ചെയ്യണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Positive statement → Negative tag | Negative statement → Positive tag | Tag-ലെ auxiliary = statement-ലെ auxiliary തന്നെ.\n• Statement-ൽ 'would' (modal auxiliary) ഉണ്ടെങ്കിൽ, tag-ലും 'would' തന്നെ വരണം ('wouldn't' negative form-ൽ) — വേറെ ഒരു auxiliary (do/did/had) ഉപയോഗിക്കരുത്.\n• ⭐ PSC ആവർത്തനം: Question Tags PSC-യിൽ ഏറ്റവും ആവർത്തിച്ചു വരുന്ന topic-കളിൽ ഒന്നാണ്; modal auxiliaries (would, could, should, might) ഉള്ള statements-ന്റെ tags പ്രത്യേകം ശ്രദ്ധിക്കണം.\n• ഉദാഹരണ sentences:\n  1. You would like some tea, wouldn't you?\n  2. She could solve the problem, couldn't she?\n  3. They should have informed us, shouldn't they?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'don't you' — ഇത് present simple tense-ന്റെ tag ആണ് ('do/does' auxiliary), പക്ഷേ statement-ൽ 'would' ആണ് ഉള്ളത്, auxiliary mismatch. 🪤 PSC Trap: ഏറ്റവും സാധാരണയായി കാണുന്ന default tag ('don't you') ശരി എന്ന് കരുതുന്ന തെറ്റ്.\n• (B) 'hadn't you' — 'had' auxiliary statement-ൽ ഇല്ല, ഇത് പൂർണ്ണമായും mismatch ആണ്.\n• (C) 'didn't you' — simple past tense-ന്റെ tag ആണ്, statement-ൽ past tense അല്ല 'would' modal ആണ് ഉള്ളത്, mismatch.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Statement-ൽ ഏത് auxiliary, tag-ലും അതേ auxiliary — polarity മാത്രം മാറും!\" എന്ന് ഓർത്തിരുന്നാൽ ഒരിക്കലും miss ആകില്ല.\n• Word/rule family: would/wouldn't, could/couldn't, should/shouldn't, might/mightn't — modal auxiliary tags ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: statement-ലെ auxiliary verb ആദ്യം identify ചെയ്യുക, എന്നിട്ട് അതിന്റെ opposite polarity form മാത്രം tag ആയി തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-27-Q4",
+    "paperId": "HC-DAILY-2026-09-27",
+    "questionNumber": 4,
+    "topic": "Prepositions",
+    "difficulty": "medium",
+    "questionText": "Which preposition correctly completes the sentence below?\nAll new employees are expected to conform __________ the company's code of conduct from day one.",
+    "optionA": "to",
+    "optionB": "into",
+    "optionC": "at",
+    "optionD": "for",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) to\n\n• 'Conform to' എന്നത് ഒരു fixed collocation ആണ്, അർത്ഥം \"ഒരു rule/standard-നെ അനുസരിക്കുക/പാലിക്കുക\" എന്നാണ്.\n• \"Company's code of conduct\" പോലുള്ള ഒരു standard/rule-നെ പരാമർശിക്കുമ്പോൾ, 'conform' എപ്പോഴും 'to' എന്ന preposition-മായി ചേർന്നാണ് വരുന്നത്.\n• മറ്റ് options ('into', 'at', 'for') 'conform' എന്ന verb-നൊപ്പം standard usage-ൽ ഒരിക്കലും ഉപയോഗിക്കില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: conform TO a rule/standard = അതിനെ അനുസരിക്കുക.\n• ഇത് fixed verb-preposition collocations-ന്റെ ഭാഗമാണ് — ഓരോ verb-നും ഒരു (ചിലപ്പോൾ ഒന്നിലധികം) നിശ്ചിത preposition partner ഉണ്ട്, ഇത് മനഃപാഠമാക്കണം.\n• ⭐ PSC ആവർത്തനം: Prepositions PSC-യിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന topic ആണ് — fixed collocations പ്രത്യേകം ശ്രദ്ധിക്കുക.\n• ഉദാഹരണ sentences:\n  1. Every citizen must conform to the laws of the country.\n  2. The building's design conforms to the latest safety standards.\n  3. She always conforms to the traditions of her family.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'into' — 'conform into' എന്നൊരു collocation ഇംഗ്ലീഷിൽ ഇല്ല, തീർത്തും അസ്ഥാനത്താണ്.\n• (C) 'at' — 'conform at' എന്നതും standard usage-ൽ ഇല്ല.\n• (D) 'for' — 'conform for' എന്നതും ഒരു recognized collocation അല്ല.\n🪤 PSC Trap: ഈ മൂന്ന് options ഉം clearly wrong ആണെങ്കിലും, preposition ചോദ്യങ്ങളിൽ students പലപ്പോഴും familiar-ആയി തോന്നുന്ന ഏതെങ്കിലും preposition ഊഹിച്ച് തിരഞ്ഞെടുക്കും — fixed collocation അറിയാതെ വരുന്ന തെറ്റ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Conform TO the norm\" എന്ന് rhyme പോലെ ഓർത്തിരുന്നാൽ ഒരിക്കലും miss ആകില്ല.\n• Word/rule family: adhere to, comply with, conform to, abide by — 'obey a rule' എന്ന അർത്ഥമുള്ള verb-preposition collocations ഒരുമിച്ച് പഠിക്കുക (ഓരോന്നിനും വ്യത്യസ്ത preposition partner ആണ് എന്നത് ശ്രദ്ധിക്കുക).\n• PSC exam strategy: verb-preposition collocation ചോദ്യങ്ങളിൽ, ആ verb-ന്റെ ഏറ്റവും സാധാരണമായി ഉപയോഗിക്കുന്ന fixed partner ഏതെന്ന് ഓർത്തെടുക്കുക — ഊഹിക്കാതെ."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-27-Q5",
+    "paperId": "HC-DAILY-2026-09-27",
+    "questionNumber": 5,
+    "topic": "Active and Passive Voice",
+    "difficulty": "hard",
+    "questionText": "Choose the correct passive voice form of the sentence below.\nThe manager awarded the employee a bonus for exceptional performance.",
+    "optionA": "A bonus was awarded the employee by the manager for exceptional performance.",
+    "optionB": "The employee had been awarding a bonus by the manager for exceptional performance.",
+    "optionC": "A bonus was being awarded to the employee for exceptional performance by the manager.",
+    "optionD": "The employee was awarded a bonus by the manager for exceptional performance.",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) The employee was awarded a bonus by the manager for exceptional performance.\n\n• Original sentence-ൽ \"the manager\" (subject), \"awarded\" (verb), \"the employee\" (indirect object), \"a bonus\" (direct object) ഉണ്ട് — ഇത് ഒരു ditransitive verb structure ആണ്.\n• Passive voice-ലേക്ക് മാറ്റുമ്പോൾ, indirect object (\"the employee\") സാധാരണയായി new subject ആയി മാറും: \"The employee was awarded a bonus by the manager.\"\n• Tense (simple past) ഉം meaning ഉം original sentence-നോട് കൃത്യമായി match ചെയ്യുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Active: Subject + Verb + Indirect Object + Direct Object → Passive: Indirect Object + was/were + V3 + Direct Object + by + Subject.\n• Ditransitive verbs (give, award, offer, send, teach) രണ്ട് വിധത്തിൽ passive ആക്കാം: (1) indirect object subject ആയി (\"was awarded a bonus\"), (2) direct object subject ആയി, but അപ്പോൾ indirect object-ന് മുന്നിൽ 'to' നിർബന്ധമായും വേണം (\"A bonus was awarded to the employee\").\n• ⭐ PSC ആവർത്തനം: Active-Passive conversion PSC-യിൽ ഏറ്റവും സ്ഥിരമായി ചോദിക്കുന്ന topic ആണ്, especially ditransitive verbs.\n• ഉദാഹരണ sentences:\n  1. The teacher gave the students a new assignment. → The students were given a new assignment by the teacher.\n  2. The company offered him a promotion. → He was offered a promotion by the company.\n  3. The committee sent the winners a certificate. → The winners were sent a certificate by the committee.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'A bonus was awarded the employee by the manager...' — 'the employee' എന്ന indirect object-ന് മുന്നിൽ 'to' ഇല്ലാത്തതിനാൽ ഗ്രാമർ പരമായി അപൂർണ്ണം/തെറ്റാണ് (\"was awarded TO the employee\" ആയിരിക്കണം ഇത് ശരിയാകാൻ). 🪤 PSC Trap: direct object subject ആക്കുന്ന രീതി ശരിയാണെന്ന് തോന്നുമെങ്കിലും 'to' വിട്ടുപോയത് ശ്രദ്ധിക്കാതെ പോകും.\n• (B) 'The employee had been awarding a bonus...' — ഇത് active-ഉം passive-ഉം കൂടിക്കലർന്ന, തെറ്റായ tense/voice structure ആണ്, meaningless.\n• (C) 'A bonus was being awarded to the employee...' — tense മാറ്റിയിരിക്കുന്നു (past continuous passive), original sentence-ന്റെ simple past completed action-നെ ശരിയായി പ്രതിഫലിപ്പിക്കുന്നില്ല, action ഇപ്പോഴും നടക്കുന്നത് പോലെ തോന്നിക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Give/Award/Offer + രണ്ട് objects? Indirect object-നെ subject ആക്കുക, Direct object അതേപടി നിലനിർത്തുക!\" എന്ന് ഓർക്കുക.\n• Word/rule family: give, award, offer, send, teach, show, tell — ഈ ditransitive verbs ഒരുമിച്ച് active-passive conversion practice ചെയ്യുക.\n• PSC exam strategy: Active-Passive ചോദ്യങ്ങളിൽ, tense മാറാതെയും meaning മാറാതെയും ഇരിക്കുന്നുണ്ടോ എന്നും, ഏതെങ്കിലും preposition ('to', 'by') വിട്ടുപോയിട്ടുണ്ടോ എന്നും ശ്രദ്ധയോടെ പരിശോധിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-27-Q6",
+    "paperId": "HC-DAILY-2026-09-27",
+    "questionNumber": 6,
+    "topic": "Parts of Speech",
+    "difficulty": "easy",
+    "questionText": "Identify the part of speech of the italicised word in the sentence below.\n__Alas__, the old bridge collapsed during the flood, trapping several vehicles.",
+    "optionA": "Adverb",
+    "optionB": "Conjunction",
+    "optionC": "Interjection",
+    "optionD": "Noun",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Interjection\n\n• 'Alas' എന്ന word sentence-ന്റെ ബാക്കി ഭാഗവുമായി grammatical connection ഒന്നും ഇല്ലാതെ, സ്വതന്ത്രമായി നിൽക്കുന്നു, ദുഃഖം/regret എന്ന emotion പ്രകടിപ്പിക്കുന്നു — ഇതാണ് ഒരു Interjection-ന്റെ classic സ്വഭാവം.\n• Comma ഉപയോഗിച്ച് sentence-ന്റെ ബാക്കി ഭാഗത്തിൽ നിന്ന് വേർതിരിച്ചിരിക്കുന്നത് ശ്രദ്ധിക്കുക — ഇത് interjections-ന്റെ typical punctuation pattern ആണ്.\n• 'Alas' ഒരു verb-നെയോ adjective-നെയോ modify ചെയ്യുന്നില്ല, ഒരു noun-നെയും refer ചെയ്യുന്നില്ല, clauses-നെയും ബന്ധിപ്പിക്കുന്നില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Interjection = sudden emotion പ്രകടിപ്പിക്കുന്ന, grammatically independent word (Oh!, Alas!, Wow!, Hurrah!).\n• Interjections സാധാരണയായി sentence-ന്റെ തുടക്കത്തിൽ വരും, comma അല്ലെങ്കിൽ exclamation mark ഉപയോഗിച്ച് വേർതിരിക്കും.\n• ⭐ PSC ആവർത്തനം: Parts of Speech-ൽ എല്ലാ 8 categories-ഉം (Noun, Pronoun, Verb, Adjective, Adverb, Preposition, Conjunction, Interjection) PSC ചോദിക്കാറുണ്ട്, Interjection കുറച്ച് less common ആയതിനാൽ പ്രത്യേകം ശ്രദ്ധിക്കുക.\n• ഉദാഹരണ sentences:\n  1. Alas! The old man could not save his house from the fire.\n  2. Hurrah! Our team won the championship.\n  3. Oh, I forgot to bring my umbrella.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'Adverb' — adverb ഒരു verb/adjective/മറ്റ് adverb-നെ modify ചെയ്യും, 'Alas' ആരെയും modify ചെയ്യുന്നില്ല. 🪤 PSC Trap: 'Alas' ഒരു \"manner\" പോലെ തോന്നിയേക്കാം, പക്ഷേ ഇത് ഒരു emotion expression മാത്രമാണ്.\n• (B) 'Conjunction' — conjunction രണ്ട് clauses/words-നെ ബന്ധിപ്പിക്കും, 'Alas' ഒന്നിനെയും ബന്ധിപ്പിക്കുന്നില്ല, standalone ആണ്.\n• (D) 'Noun' — noun ഒരു person/place/thing/idea-യെ refer ചെയ്യും, 'Alas' ഒരു referent ഇല്ലാത്ത, pure emotion-expressing word ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: ഒരു word sentence-ന്റെ തുടക്കത്തിൽ comma-യോടെ നിന്ന് ഒരു emotion പ്രകടിപ്പിക്കുന്നെങ്കിൽ, അത് Interjection ആണ് എന്ന് ഓർക്കുക.\n• Word/rule family: Alas, Oh, Wow, Hurrah, Bravo, Ouch — common interjections ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: word sentence-ന്റെ ബാക്കി ഭാഗവുമായി grammatically connected ആണോ എന്ന് നോക്കുക — ഇല്ലെങ്കിൽ, അതും emotion പ്രകടിപ്പിക്കുന്നെങ്കിൽ Interjection ആണ്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-27-Q7",
+    "paperId": "HC-DAILY-2026-09-27",
+    "questionNumber": 7,
+    "topic": "Idioms",
+    "difficulty": "medium",
+    "questionText": "What does the idiom in italics mean in the sentence below?\nBefore the results were announced, she sat nervously in the hall, __keeping her fingers crossed__ for a good outcome.",
+    "optionA": "hoping earnestly for good luck",
+    "optionB": "preparing a formal request",
+    "optionC": "hiding evidence of wrongdoing",
+    "optionD": "making a solemn promise",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) hoping earnestly for good luck\n\n• 'Keep one's fingers crossed' എന്ന idiom-ന്റെ അർത്ഥം \"ഒരു നല്ല ഫലം ഉണ്ടാകാൻ ആത്മാർത്ഥമായി പ്രതീക്ഷിക്കുക/ആശിക്കുക\" എന്നാണ് — ഈ gesture (വിരലുകൾ crossed ആക്കുന്നത്) പരമ്പരാഗതമായി good luck കൊണ്ടുവരും എന്ന belief-മായി ബന്ധപ്പെട്ടതാണ്.\n• Sentence-ലെ context (\"results were announced\", \"sat nervously\", \"for a good outcome\") ഈ hope/anticipation അർത്ഥത്തെ പിന്തുണക്കുന്നു.\n• ഇത് ഒരു വളരെ സാധാരണയായ, everyday English idiom ആണ്, exam results, interviews, competitions തുടങ്ങിയ contexts-ൽ പതിവായി ഉപയോഗിക്കും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Keep/Have (one's) fingers crossed = ആശിക്കുക/പ്രതീക്ഷിക്കുക (hope for good luck).\n• Idioms-ന്റെ meaning literal word-കളിൽ നിന്ന് ഊഹിക്കാൻ പറ്റില്ല — ഓരോ idiom-ഉം ഒരു fixed expression ആയി മനഃപാഠമാക്കണം.\n• ⭐ PSC ആവർത്തനം: Idioms PSC English-ൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന topic-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n  1. I'll keep my fingers crossed that you pass the interview.\n  2. Fingers crossed, the weather will be good for the picnic.\n  3. She kept her fingers crossed as she waited for the exam results.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'preparing a formal request' — ഇത് idiom-ന്റെ meaning-മായി ഒരു ബന്ധവുമില്ല, unrelated ആശയം. 🪤 PSC Trap: \"fingers\" എന്ന word letter-writing-മായി (signature/request) ബന്ധപ്പെടുത്തി confuse ചെയ്യാൻ സാധ്യതയുണ്ട്.\n• (C) 'hiding evidence of wrongdoing' — ഇത് വേറെ idioms-മായി (ഉദാ: \"cover one's tracks\") confuse ചെയ്യുന്ന distractor ആണ്, 'fingers crossed'-ന്റെ meaning അല്ല.\n• (D) 'making a solemn promise' — ഇത് \"cross my heart\" എന്ന idiom-മായി confuse ചെയ്യുന്നു ('crossed' എന്ന word common ആയതിനാൽ), പക്ഷേ 'fingers crossed' promise അല്ല, hope ആണ് അർത്ഥമാക്കുന്നത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: വിരലുകൾ X ആകൃതിയിൽ crossed ചെയ്ത് hope-ന്റെ ഒരു ചിത്രം മനസ്സിൽ വരയ്ക്കുക — \"നല്ലത് നടക്കട്ടെ\" എന്ന് പ്രാർത്ഥിക്കുന്ന ചിത്രം.\n• Word/rule family: fingers crossed (hope), cross my heart (promise), keep tabs on (monitor) — 'cross'/'crossed' word ഉള്ള വ്യത്യസ്ത idioms confuse ചെയ്യാതെ വേറെ വേറെ പഠിക്കുക.\n• PSC exam strategy: idiom ചോദ്യങ്ങളിൽ, similar-sounding അല്ലെങ്കിൽ similar-word idioms (ഇവിടെ 'cross' ഉള്ളവ) തമ്മിൽ confuse ആകാതെ, sentence-ന്റെ overall context നോക്കി തീരുമാനിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-27-Q8",
+    "paperId": "HC-DAILY-2026-09-27",
+    "questionNumber": 8,
+    "topic": "Antonyms",
+    "difficulty": "medium",
+    "questionText": "Choose the word most nearly OPPOSITE in meaning to the word in italics.\nDespite the __meager__ harvest that year, the farmers managed to store enough grain for the following season.",
+    "optionA": "diminutive",
+    "optionB": "abundant",
+    "optionC": "seasonal",
+    "optionD": "reduced",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) abundant\n\n• 'Meager' എന്നാൽ \"വളരെ കുറവ്/അപര്യാപ്തം\" (scanty, insufficient in quantity) എന്നാണ് അർത്ഥം — ഇതിന്റെ നേരിട്ടുള്ള opposite ആണ് 'abundant' (ധാരാളം/സമൃദ്ധം).\n• Sentence-ലെ context (\"despite the meager harvest... managed to store enough grain\") ഈ quantity-based contrast-നെ പിന്തുണക്കുന്നു.\n• 'Abundant' മാത്രമാണ് quantity-യുടെ opposite direction (കുറവ് → ധാരാളം) കൃത്യമായി പിടിച്ചെടുക്കുന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Meager (scanty, insufficient quantity) ↔ Abundant (plentiful, more than enough quantity).\n• Antonym ചോദ്യങ്ങളിൽ, distractors പലപ്പോഴും near-synonyms ആയിരിക്കും (opposite അല്ല) — ഇത് ശ്രദ്ധയോടെ വേർതിരിച്ചറിയണം.\n• ⭐ PSC ആവർത്തനം: Antonyms PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന topic ആണ്, quantity/degree-related words (meager, scarce, abundant, ample) പ്രത്യേകം common ആണ്.\n• ഉദാഹരണ sentences:\n  1. The region suffered from meager rainfall, unlike its neighbour's abundant supply.\n  2. Despite meager resources, the team achieved remarkable results.\n  3. The abundant harvest allowed the village to export surplus grain.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'diminutive' — ഇത് \"വളരെ ചെറുത്\" (very small in size) എന്നാണ് അർത്ഥം, 'meager'-ന്റെ SYNONYM ദിശയിലാണ് (small-ന്റെ same direction), opposite അല്ല. 🪤 PSC Trap: 'small' എന്ന ആശയം meager-മായി ബന്ധപ്പെട്ടതായി തോന്നുമെങ്കിലും ഇത് opposite അല്ല, near-synonym ആണ്.\n• (C) 'seasonal' — timing-മായി ബന്ധപ്പെട്ട word ആണ് (ഋതുവുമായി ബന്ധപ്പെട്ടത്), quantity-മായി ബന്ധമില്ല, പൂർണ്ണമായും അസ്ഥാനത്താണ്.\n• (D) 'reduced' — \"കുറച്ചത്/decreased\" എന്നാണ് അർത്ഥം, ഇതും 'meager'-ന്റെ same direction-ലുള്ള word ആണ് (കുറവ്), opposite അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Meager = Empty പാത്രം, Abundant = നിറഞ്ഞ പാത്രം\" എന്ന് visualize ചെയ്യുക.\n• Word/rule family: meager/scanty/scarce (കുറവ്) vs abundant/ample/plentiful (ധാരാളം) — ഈ രണ്ട് groups ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: antonym ചോദ്യങ്ങളിൽ, ഓരോ option-ഉം \"ഇത് headword-ന്റെ SAME direction-ലാണോ (synonym) അതോ OPPOSITE direction-ലാണോ\" എന്ന് ചോദിച്ച് പരിശോധിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-27-Q9",
+    "paperId": "HC-DAILY-2026-09-27",
+    "questionNumber": 9,
+    "topic": "Spelling",
+    "difficulty": "easy",
+    "questionText": "Identify the option that is spelled correctly.",
+    "optionA": "acheivement",
+    "optionB": "acheivment",
+    "optionC": "achivement",
+    "optionD": "achievement",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) achievement\n\n• \"I before E, except after C\" എന്ന classic spelling rule ഇവിടെ ബാധകമാണ് — 'achieve' എന്ന word-ൽ 'ie' 'v' എന്ന letter-ന് ശേഷമാണ് വരുന്നത് ('c' അല്ല), അതുകൊണ്ട് 'ie' order ('i' ന് ശേഷം 'e') ശരിയാണ്.\n• 'Achievement' = achieve + ment (suffix), spelling: a-c-h-i-e-v-e-m-e-n-t.\n• മറ്റ് മൂന്ന് options ഉം ഈ letter order-ൽ തെറ്റ് വരുത്തുകയോ ഒരു letter വിടുകയോ ചെയ്യുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: \"I before E, except after C\" — achieve, believe, relieve (ie) vs receive, deceive, ceiling (ei after c).\n• Suffix ചേർക്കുമ്പോൾ ('-ment', '-ing' etc.) root word-ന്റെ spelling മാറ്റമില്ലാതെ നിലനിർത്തണം (achieve → achievement, ഒരു 'e' പോലും വിടരുത്).\n• ⭐ PSC ആവർത്തനം: Spelling PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന topic ആണ്, ie/ei confusion ഉള്ള words പ്രത്യേകം common ആണ്.\n• ഉദാഹരണ sentences:\n  1. Winning the award was a great achievement for the young scientist.\n  2. She believed in her ability to succeed despite the challenges.\n  3. The company received several awards for its achievements.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) 'acheivement' — 'ie' order തെറ്റായി 'ei' ആക്കിയിരിക്കുന്നു, incorrect. 🪤 PSC Trap: \"i before e except after c\" rule തെറ്റായി apply ചെയ്യുന്ന ഏറ്റവും സാധാരണ തെറ്റ്.\n• (B) 'acheivment' — ഇതും 'ei' തെറ്റും കൂടാതെ ഒരു 'e' കൂടി (achieve-ന്റെ അവസാനത്തെ 'e') വിട്ടുപോയിരിക്കുന്നു, ഇരട്ട തെറ്റ്.\n• (C) 'achivement' — 'i' ന് ശേഷമുള്ള 'e' (achiEv- എന്നതിലെ 'e') വിട്ടുപോയിരിക്കുന്നു, 'ie' pair പൂർത്തിയാകാതെ 'achiv-' ആയി മാറുന്നു, incorrect.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"I before E, except after C\" എന്ന classic rhyme ഓർത്തിരുന്നാൽ ഒരിക്കലും miss ആകില്ല — achieve, believe, relieve (c ഇല്ല → ie); receive, deceive (c ഉണ്ട് → ei).\n• Word/rule family: achieve/achievement, believe/belief, relieve/relief — ie-pattern words ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: spelling ചോദ്യങ്ങളിൽ, word-നെ syllables ആയി പിരിച്ച് (a-chieve-ment) ഓരോ ഭാഗവും separately പരിശോധിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-27-Q10",
+    "paperId": "HC-DAILY-2026-09-27",
+    "questionNumber": 10,
+    "topic": "Words Often Confused",
+    "difficulty": "hard",
+    "questionText": "Choose the correct word to complete the sentence.\nThe detective found her explanation far from ________, given the inconsistencies in her statement.",
+    "optionA": "credible",
+    "optionB": "credulous",
+    "optionC": "creditable",
+    "optionD": "credulity",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) credible\n\n• 'Credible' എന്നാൽ \"വിശ്വസനീയമായ, വിശ്വസിക്കാൻ കഴിയുന്ന\" (believable) എന്നാണ് അർത്ഥം — sentence-ലെ context (\"inconsistencies in her statement\") ഒരു explanation-ന്റെ believability-യെ ചോദ്യം ചെയ്യുന്നു.\n• \"Far from credible\" = വിശ്വസിക്കാൻ പ്രയാസമുള്ള, inconsistencies കാരണം.\n• ശ്രദ്ധിക്കുക: \"inconsistencies\" എന്ന word specifically believability-യെ (credibility) ചൂണ്ടിക്കാണിക്കുന്നു, മറ്റ് അർത്ഥങ്ങളെയല്ല (ഉദാ: commendability).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Credible (adjective, believable) vs Credulous (adjective, gullible/easily believing) vs Creditable (adjective, praiseworthy) vs Credulity (noun, gullibility).\n• 'Credible' ഒരു statement/explanation/story-യെ describe ചെയ്യും (അത് വിശ്വസനീയമാണോ എന്ന്); 'Credulous' ഒരു PERSON-നെ describe ചെയ്യും (ആ വ്യക്തി എളുപ്പത്തിൽ വിശ്വസിക്കുന്ന ആളാണോ എന്ന്).\n• ⭐ PSC ആവർത്തനം: Words Often Confused PSC-യിൽ credible/credulous/creditable പോലുള്ള same-root confusable families സ്ഥിരമായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. His explanation was so credible that the jury believed every word.\n  2. She is too credulous and believes every rumour she hears.\n  3. It was a creditable performance, even though the team lost the match.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'credulous' — ഇത് ഒരു PERSON-ന്റെ gullibility (എളുപ്പത്തിൽ വിശ്വസിക്കുന്ന സ്വഭാവം) വിവരിക്കാനാണ് ഉപയോഗിക്കുന്നത്, ഒരു explanation-നെ അല്ല. 🪤 PSC Trap: credible-ഉം credulous-ഉം spelling-ൽ വളരെ സാമ്യമുള്ളതിനാൽ confuse ചെയ്യാൻ എളുപ്പമാണ്.\n• (C) 'creditable' — \"പ്രശംസനീയമായ\" (commendable/praiseworthy) എന്നാണ് അർത്ഥം, ഇത് believability-യെയല്ല quality/worthiness-നെയാണ് സൂചിപ്പിക്കുന്നത് — sentence-ലെ \"inconsistencies\" context-മായി യോജിക്കില്ല.\n• (D) 'credulity' — ഇത് ഒരു NOUN ആണ് (gullibility എന്ന അവസ്ഥ), ഇവിടെ adjective slot (\"far from ____\") ആണ് വേണ്ടത്, part of speech mismatch.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"credIBLE = belIEVable (explanation/story); credULOUS = a person who is fooled easily (like 'gullible' rhymes with 'credulous')\" എന്ന് word-ending pattern ഓർത്തിരുന്നാൽ ഒരിക്കലും miss ആകില്ല.\n• Word/rule family: credible, credulous, creditable, credulity, incredible, credentials — 'cred' (Latin: believe) root-ൽ നിന്നുള്ള word family ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: sentence-ൽ describe ചെയ്യുന്നത് ഒരു PERSON-ന്റെ സ്വഭാവമാണോ അതോ ഒരു STATEMENT/THING-ന്റെ ഗുണമാണോ എന്ന് നോക്കി credible/credulous വേർതിരിക്കുക."
+    }
   }
 ]
