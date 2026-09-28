@@ -9968,5 +9968,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) 'credulous' — ഇത് ഒരു PERSON-ന്റെ gullibility (എളുപ്പത്തിൽ വിശ്വസിക്കുന്ന സ്വഭാവം) വിവരിക്കാനാണ് ഉപയോഗിക്കുന്നത്, ഒരു explanation-നെ അല്ല. 🪤 PSC Trap: credible-ഉം credulous-ഉം spelling-ൽ വളരെ സാമ്യമുള്ളതിനാൽ confuse ചെയ്യാൻ എളുപ്പമാണ്.\n• (C) 'creditable' — \"പ്രശംസനീയമായ\" (commendable/praiseworthy) എന്നാണ് അർത്ഥം, ഇത് believability-യെയല്ല quality/worthiness-നെയാണ് സൂചിപ്പിക്കുന്നത് — sentence-ലെ \"inconsistencies\" context-മായി യോജിക്കില്ല.\n• (D) 'credulity' — ഇത് ഒരു NOUN ആണ് (gullibility എന്ന അവസ്ഥ), ഇവിടെ adjective slot (\"far from ____\") ആണ് വേണ്ടത്, part of speech mismatch.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"credIBLE = belIEVable (explanation/story); credULOUS = a person who is fooled easily (like 'gullible' rhymes with 'credulous')\" എന്ന് word-ending pattern ഓർത്തിരുന്നാൽ ഒരിക്കലും miss ആകില്ല.\n• Word/rule family: credible, credulous, creditable, credulity, incredible, credentials — 'cred' (Latin: believe) root-ൽ നിന്നുള്ള word family ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: sentence-ൽ describe ചെയ്യുന്നത് ഒരു PERSON-ന്റെ സ്വഭാവമാണോ അതോ ഒരു STATEMENT/THING-ന്റെ ഗുണമാണോ എന്ന് നോക്കി credible/credulous വേർതിരിക്കുക."
     }
+  },
+  {
+    "questionNumber": 1,
+    "topic": "Tenses",
+    "difficulty": "medium",
+    "questionText": "Choose the correct tense form to complete the sentence.\nBy next month, she __________ in this company for five years.",
+    "optionA": "will work",
+    "optionB": "will have worked",
+    "optionC": "has worked",
+    "optionD": "will be working",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) will have worked\n\n• 'By next month' എന്നത് ഒരു future time reference point ആണ് — ആ point-ഓടെ ഒരു പ്രവൃത്തി (5 വർഷത്തെ duration) പൂർത്തിയാകും/എത്തിച്ചേരും എന്ന് പറയാൻ Future Perfect Tense (will have + V3) വേണം.\n• 'For five years' എന്ന duration phrase completion-നെ ഊന്നിപ്പറയുന്നു — അടുത്ത മാസത്തോടെ അഞ്ച് വർഷത്തെ service പൂർത്തിയാകും എന്നാണ് അർത്ഥം.\n• Future perfect ഭാവിയിലെ ഒരു നിശ്ചിത point-ന് മുൻപേ പൂർത്തിയാകുന്ന പ്രവൃത്തിയെ കാണിക്കാൻ ഉപയോഗിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: will/shall + have + V3 = Future Perfect — 'by + future time' + duration ('for X years') കൂടെ വരും.\n• 'By the time', 'by next month', 'by 2030' തുടങ്ങിയ future time markers-നൊപ്പം completion emphasize ചെയ്യുമ്പോൾ Future Perfect ഉപയോഗിക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: Tenses-ൽ Future Perfect PSC-യിൽ less frequent ആണെങ്കിലും, 'by + future time' pattern PSC-യിൽ recognizable ആയ ഒരു trigger ആണ്.\n• ഉദാഹരണ sentences:\n1. By the end of this year, they will have completed the project.\n2. By 2030, she will have earned her doctorate.\n3. By next week, he will have finished reading the entire novel.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) will work — Simple Future Tense ആണ്. ഇത് ഒരു future action മാത്രം കാണിക്കും, 'by next month'-ഓടെ completion ആകുന്ന duration കാണിക്കില്ല.\n  🪤 PSC Trap: 'will' കണ്ടിട്ട് ഉടനെ Simple Future തിരഞ്ഞെടുക്കുന്നവർ ഉണ്ടാകും, 'have' കൂടി വേണം എന്നത് ശ്രദ്ധിക്കാതെ.\n• (C) has worked — Present Perfect Tense ആണ്. ഇത് present-മായി ബന്ധപ്പെട്ട completion കാണിക്കും, പക്ഷേ ഇവിടെ 'by next month' എന്ന future time reference ഉള്ളതിനാൽ ഇത് ചേരില്ല.\n• (D) will be working — Future Continuous Tense ആണ്. ഇത് ഒരു നിശ്ചിത future point-ൽ പ്രവൃത്തി ഇനിയും തുടരുന്നു എന്നാണ് കാണിക്കുന്നത്, duration-ന്റെ completion അല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BY + FUTURE TIME → WILL HAVE + V3' എന്ന് ഓർക്കുക — Future Perfect-ന്റെ signal ആണ് 'by'.\n• Word family: Future Perfect Continuous (will have been + V-ing) കൂടി ഒരുമിച്ച് പഠിക്കുക — duration + ongoing activity ഉള്ളപ്പോൾ ഇത് കൂടുതൽ natural ആകും.\n• PSC exam strategy: Sentence-ൽ 'by' + future time + duration ('for X years/months') ഒരുമിച്ച് കണ്ടാൽ ഉടനെ Future Perfect ഓർക്കുക. ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    },
+    "id": "HC-DAILY-2026-09-28-Q1",
+    "paperId": "HC-DAILY-2026-09-28"
+  },
+  {
+    "questionNumber": 2,
+    "topic": "Conditionals",
+    "difficulty": "medium",
+    "questionText": "Choose the correct form to complete the sentence.\nIf she __________ earlier, she would not have missed the flight.",
+    "optionA": "has left",
+    "optionB": "left",
+    "optionC": "would leave",
+    "optionD": "had left",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) had left\n\n• Main clause 'would not have missed' (would have + V3) ഒരു Third Conditional structure ആണ് — ഭൂതകാലത്തിൽ സംഭവിക്കാത്ത ഒരു hypothetical situation-നെ കാണിക്കുന്നു.\n• Third Conditional-ന്റെ if-clause-ൽ Past Perfect Tense (had + V3) വേണം — 'if she had left earlier'.\n• Sentence-ന്റെ അർത്ഥം: യഥാർത്ഥത്തിൽ അവൾ നേരത്തെ പോയില്ല, അതുകൊണ്ട് flight miss ആയി — ഇത് ഒരു past unreal condition ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Third Conditional = If + had + V3 (past perfect) → would have + V3 (conditional perfect).\n• ഇത് past-ൽ സംഭവിക്കാത്ത/സംഭവിക്കാമായിരുന്ന ഒരു കാര്യത്തെ (regret/hypothetical) കാണിക്കാൻ ഉപയോഗിക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: Conditionals PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന topic ആണ്, മൂന്ന് types-ഉം (First, Second, Third) വേർതിരിച്ചറിയാൻ കഴിയണം.\n• ഉദാഹരണ sentences:\n1. If he had studied harder, he would have passed the exam.\n2. If they had left home early, they would not have been late.\n3. If I had known about the meeting, I would have attended it.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) left — Simple Past ആണ്. ഇത് Second Conditional-ന്റെ if-clause pattern ആണ് (If + past simple → would + V1), പക്ഷേ main clause 'would not have missed' Third Conditional ആണ്, mismatch.\n  🪤 PSC Trap: Second ഉം Third Conditional-ഉം തമ്മിൽ confuse ചെയ്യുന്ന ഏറ്റവും സാധാരണ തെറ്റ്.\n• (A) has left — Present Perfect ആണ്, conditionals-ൽ if-clause-ൽ ഇത് ഉപയോഗിക്കാറില്ല.\n• (C) would leave — 'Would' if-clause-ൽ ഒരിക്കലും വരില്ല, ഇത് main clause-ൽ മാത്രമേ വരൂ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HAD + HAVE = THIRD (past-ൽ നഷ്ടപ്പെട്ട അവസരം)' — if-clause-ൽ 'had', main clause-ൽ 'would have' എന്ന് ഓർക്കുക.\n• Word family: First Conditional (If + present → will), Second Conditional (If + past → would), Third Conditional (If + had → would have) — മൂന്നും table ആയി പഠിക്കുക.\n• PSC exam strategy: main clause-ൽ 'would have' കണ്ടാൽ if-clause-ൽ 'had + V3' ഉറപ്പായും വരും എന്ന് ഓർക്കുക. ഒരിക്കലും miss ആകില്ല!"
+    },
+    "id": "HC-DAILY-2026-09-28-Q2",
+    "paperId": "HC-DAILY-2026-09-28"
+  },
+  {
+    "questionNumber": 3,
+    "topic": "Question Tags",
+    "difficulty": "hard",
+    "questionText": "Choose the correct question tag to complete the sentence.\nHardly had he arrived when the phone rang, __________?",
+    "optionA": "didn't he?",
+    "optionB": "had he?",
+    "optionC": "did he?",
+    "optionD": "hadn't he?",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) had he?\n\n• 'Hardly had he arrived' എന്നത് 'hardly' എന്ന negative adverb കാരണം inversion (auxiliary + subject) ഉള്ള ഒരു structure ആണ് — ഇതിന്റെ meaning 'he had hardly arrived' (negative) എന്നാണ്.\n• Statement meaning-ൽ Negative ആയതിനാൽ, Question Tag Positive ആയിരിക്കണം.\n• Main clause-ലെ auxiliary 'had' തന്നെ tag-ലും ആവർത്തിക്കണം — 'had he?'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Hardly/Scarcely/Never/No sooner + inverted auxiliary → statement Negative meaning → tag Positive, tag auxiliary = statement auxiliary.\n• 'Hardly', 'Scarcely', 'Never', 'Seldom' തുടങ്ങിയ negative adverbs sentence തുടക്കത്തിൽ വരുമ്പോൾ subject-auxiliary inversion സംഭവിക്കും (advanced structure).\n• ⭐ PSC ആവർത്തനം: Question Tags-ൽ negative-adverb-inversion sentences-ന്റെ tags PSC-യിൽ hard-level questions ആയി വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. Hardly had she sat down when the doorbell rang, had she?\n2. Scarcely had he finished his speech when the audience applauded, had he?\n3. Never had they seen such a beautiful sunset, had they?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (D) hadn't he? — Statement-ന്റെ meaning Negative ആയതിനാൽ tag Negative ആക്കിയാൽ രണ്ട് negatives ചേരും, rule തെറ്റും.\n  🪤 PSC Trap: 'Hardly' എന്ന word ശ്രദ്ധിക്കാതെ, statement grammatically positive form-ൽ ആണ് എന്ന് കരുതി tag-ഉം negative ആക്കുന്നവർ ഈ trap-ൽ വീഴും.\n• (C) did he? — Auxiliary തെറ്റാണ്; statement-ലെ auxiliary 'had' ആണ്, 'did' അല്ല.\n• (A) didn't he? — Auxiliary-ഉം (had വേണം) Polarity-ഉം (Positive വേണം) രണ്ടും തെറ്റാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HARDLY/SCARCELY/NEVER = HIDDEN NEGATIVE, TAG IS POSITIVE' എന്ന് ഓർക്കുക.\n• Word family: Hardly...when, Scarcely...when, No sooner...than — ഈ inversion patterns ഒരുമിച്ച് പഠിക്കുക, tags-ഉം ഇതേ logic പിന്തുടരും.\n• PSC exam strategy: Sentence-ന്റെ തുടക്കത്തിൽ Hardly/Scarcely/Never കണ്ടാൽ ഉടനെ 'ഇത് Negative meaning ആണ്, തുടർന്നുള്ള auxiliary തന്നെ tag-ലും വരും, polarity Positive' എന്ന് ഓർക്കുക. Guaranteed mark!"
+    },
+    "id": "HC-DAILY-2026-09-28-Q3",
+    "paperId": "HC-DAILY-2026-09-28"
+  },
+  {
+    "questionNumber": 4,
+    "topic": "Subject-Verb Agreement",
+    "difficulty": "medium",
+    "questionText": "Choose the correct verb form to complete the sentence.\nEach of the candidates __________ interviewed separately by the panel.",
+    "optionA": "have been",
+    "optionB": "were",
+    "optionC": "was",
+    "optionD": "are",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) was\n\n• 'Each' എന്ന word ഒരു Singular Indefinite Pronoun ആണ് — 'of the candidates' (plural) തുടർന്ന് വന്നാലും, sentence-ന്റെ grammatical subject 'Each' തന്നെയാണ്.\n• അതുകൊണ്ട് verb Singular ആയിരിക്കണം — 'was interviewed'.\n• ഈ rule PSC-യിൽ ഏറ്റവും കൂടുതൽ test ചെയ്യുന്ന SVA trap-കളിൽ ഒന്നാണ് — verb-ന് അടുത്തുള്ള plural noun ('candidates') കണ്ട് plural verb തിരഞ്ഞെടുക്കാൻ തോന്നും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Each/Every/Either/Neither + of + plural noun → Singular Verb (subject 'each/every' ആണ്, plural noun അല്ല).\n• 'Each', 'Every', 'Either', 'Neither', 'One' തുടങ്ങിയ Singular Indefinite Pronouns-ന് എപ്പോഴും Singular verb വേണം.\n• ⭐ PSC ആവർത്തനം: Subject-Verb Agreement PSC-യിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന topic-കളിൽ ഒന്നാണ്, 'each of'/'every one of' pattern പ്രത്യേകം ശ്രദ്ധിക്കണം.\n• ഉദാഹരണ sentences:\n1. Each of the students was given a certificate.\n2. Every one of the workers has completed the training.\n3. Neither of the two options was acceptable to the board.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) were — Plural verb ആണ്, 'candidates' എന്ന plural noun-നോട് (verb-ന് അടുത്ത് നിൽക്കുന്ന word) proximity agreement ചെയ്ത തെറ്റാണ്.\n  🪤 PSC Trap: verb-ന് തൊട്ടുമുൻപുള്ള noun ('candidates') plural ആയതിനാൽ ഇത് ശരി എന്ന് തോന്നും, പക്ഷേ real subject 'Each' ആണ്.\n• (D) are — ഇതും plural verb ആണ്, same mistake ('candidates'-മായി agree ചെയ്യുന്നു, 'each'-മായി അല്ല).\n• (A) have been — Plural-ഉം (should be singular) Present Perfect Passive (context past-ൽ ആയിരിക്കണം) രണ്ടും തെറ്റാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'EACH ALWAYS WALKS ALONE (SINGULAR)' — 'each' എപ്പോഴും singular verb കൊണ്ടുപോകും, കൂടെയുള്ള plural noun ഉണ്ടെങ്കിലും.\n• Word family: Each, Every, Either, Neither, Anybody, Everybody, Somebody — ഇവയെല്ലാം Singular Indefinite Pronouns ആണ്.\n• PSC exam strategy: Sentence-ൽ 'each of', 'every one of', 'either of' കണ്ടാൽ, verb-ന് തൊട്ടുമുൻപുള്ള noun അല്ല, ആ Indefinite Pronoun ആണ് real subject എന്ന് ഓർക്കുക. ഇത് ഓർത്തിരുന്നാൽ ഒരിക്കലും miss ആകില്ല!"
+    },
+    "id": "HC-DAILY-2026-09-28-Q4",
+    "paperId": "HC-DAILY-2026-09-28"
+  },
+  {
+    "questionNumber": 5,
+    "topic": "Articles",
+    "difficulty": "medium",
+    "questionText": "Choose the correct article to fill in the blank.\nShe is doing __________ university course in Data Science this year.",
+    "optionA": "an",
+    "optionB": "No article needed",
+    "optionC": "a",
+    "optionD": "the",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) a\n\n• 'University' എന്ന word 'u' എന്ന letter-ൽ (vowel letter) തുടങ്ങിയാലും, ഉച്ചാരണം 'യൂ-നി-വേഴ്സിറ്റി' (\"yoo-\") എന്നാണ് — ഇത് ഒരു Consonant Sound (/j/, 'y' sound) ആണ്.\n• Article choice ('a' vs 'an') Sound അടിസ്ഥാനത്തിലാണ്, Letter അടിസ്ഥാനത്തിലല്ല — Consonant Sound-ന് 'a' വേണം.\n• ഇത് 'M.Phil' (vowel sound, consonant letter → an) rule-ന്റെ exact opposite ഉദാഹരണമാണ് — 'university' vowel letter, consonant sound → a.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: a/an = SOUND അനുസരിച്ച്, LETTER അനുസരിച്ചല്ല — 'u' letter-ൽ തുടങ്ങുന്ന വാക്കുകൾ ചിലപ്പോൾ Consonant Sound ('yoo-') ആയിരിക്കും.\n• 'University', 'Uniform', 'Union', 'European', 'Useful' തുടങ്ങിയ words 'u' letter-ൽ തുടങ്ങിയാലും 'y' consonant sound-ലാണ് തുടങ്ങുന്നത്, അതുകൊണ്ട് 'a' എടുക്കും.\n• ⭐ PSC ആവർത്തനം: Articles-ൽ ഈ 'vowel letter but consonant sound' trick PSC-യിൽ 'an M.A.' (consonant letter, vowel sound) trick-നൊപ്പം ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന ഒരു pattern ആണ്.\n• ഉദാഹരണ sentences:\n1. He is a university professor in Kochi.\n2. She wore a uniform to the ceremony.\n3. It was a unique opportunity for the young artist.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) an — Letter അനുസരിച്ച് 'u' vowel ആയതിനാൽ ഇത് തിരഞ്ഞെടുക്കുന്നവർ ഉണ്ടാകും, പക്ഷേ Sound Consonant ('yoo-') ആയതിനാൽ ഇത് തെറ്റാണ്.\n  🪤 PSC Trap: 'u' എന്ന letter കണ്ടിട്ട് ഉടനെ 'an' തിരഞ്ഞെടുക്കുന്നത് ഏറ്റവും സാധാരണമായ തെറ്റാണ്.\n• (D) the — 'The' ഒരു specific/known referent ഉള്ളപ്പോൾ ആണ് ഉപയോഗിക്കുന്നത്. ഇവിടെ 'a university course' ആദ്യമായി പരാമർശിക്കുന്ന, ഏതെങ്കിലും ഒരു course ആണ്, അതുകൊണ്ട് 'the' ചേരില്ല.\n• (B) No article needed — 'Course' ഒരു Countable Noun ആണ്, Singular ആയി ഉപയോഗിക്കുമ്പോൾ Article നിർബന്ധമായും വേണം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'U SOUNDS LIKE YOU? എങ്കിൽ A!' — university, uniform, union, unique ഈ list ഓർത്തിരിക്കുക.\n• Word family: 'an' takes vowel-sound-consonant-letter words (M.A., M.Phil, hour, honest) ഉം 'a' takes consonant-sound-vowel-letter words (university, uniform, European, one) ഉം — രണ്ട് groups വേർതിരിച്ച് പഠിക്കുക.\n• PSC exam strategy: 'u' എന്ന letter കണ്ടാൽ ഉടനെ 'an' തിരഞ്ഞെടുക്കരുത് — word ഉറക്കെ ഉച്ചരിച്ച് നോക്കുക, 'yoo' sound ആണെങ്കിൽ 'a'. ഇത് ഓർത്തിരുന്നാൽ ഒരിക്കലും miss ആകില്ല!"
+    },
+    "id": "HC-DAILY-2026-09-28-Q5",
+    "paperId": "HC-DAILY-2026-09-28"
+  },
+  {
+    "questionNumber": 6,
+    "topic": "Phrasal Verbs",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the phrasal verb in italics.\nThe operator asked the caller to __hold on__ for a few minutes while she transferred the call.",
+    "optionA": "leave",
+    "optionB": "shout",
+    "optionC": "hang up",
+    "optionD": "wait",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) wait\n\n• 'Hold on' എന്ന phrasal verb-ന്റെ അർത്ഥം, especially telephone context-ൽ, 'കാത്തിരിക്കുക/line-ൽ തുടരുക' (to wait, stay on the line) എന്നാണ്.\n• Sentence-ലെ context ('the operator asked the caller', 'while she transferred the call') ഈ telephone-waiting അർത്ഥത്തെ വ്യക്തമായി പിന്തുണക്കുന്നു.\n• ഇത് ഒരു very common, everyday phrasal verb ആണ്, phone calls, queues തുടങ്ങിയ contexts-ൽ പതിവായി ഉപയോഗിക്കും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Hold on = Wait (especially phone context: 'stay on the line').\n• Phrasal verbs-ന്റെ meaning context അനുസരിച്ച് മാറാം — 'hold on' സാധാരണയായി 'wait' എന്നാണ് അർത്ഥമാക്കുന്നത്, പക്ഷേ 'hold on to something' (പിടിച്ചു നിൽക്കുക/grip ചെയ്യുക) എന്ന different sense-ഉം ഉണ്ട്.\n• ⭐ PSC ആവർത്തനം: Telephone/communication context-ലുള്ള phrasal verbs (hold on, hang up, call back) PSC-യിൽ പതിവായി ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. Please hold on, I'll connect you to the manager.\n2. Hold on a second, let me check the file.\n3. Can you hold on while I find the address?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) leave — ഇത് 'hold on'-ന്റെ അർത്ഥത്തിന് വിപരീതമാണ് — 'hold on' തുടരാൻ/നിൽക്കാൻ പറയുന്നതാണ്, പോകാൻ അല്ല.\n  🪤 PSC Trap: phrasal verb-ന്റെ meaning അറിയാത്തവർ context confuse ചെയ്ത് ഇത് തിരഞ്ഞെടുക്കാം.\n• (C) hang up — ഇത് call disconnect ചെയ്യുക എന്നാണ് അർത്ഥം, 'hold on'-ന്റെ നേരെ വിപരീത action ആണ് (call-ൽ തുടരുകയല്ല, അവസാനിപ്പിക്കുകയാണ്).\n• (B) shout — 'hold on'-ന് ഒരു ബന്ധവുമില്ലാത്ത, unrelated meaning ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HOLD ON = STAY ON (THE LINE)' — രണ്ടിലും 'ON' ഉണ്ട്, തുടർച്ച സൂചിപ്പിക്കുന്നു.\n• Word family: hold on (wait), hang up (disconnect), call back (again call ചെയ്യുക), pick up (call എടുക്കുക) — telephone phrasal verbs ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Phrasal verb questions-ൽ context (ഇവിടെ: phone call) ശ്രദ്ധിച്ച് ഏത് meaning ചേരും എന്ന് നോക്കുക. Guaranteed mark!"
+    },
+    "id": "HC-DAILY-2026-09-28-Q6",
+    "paperId": "HC-DAILY-2026-09-28"
+  },
+  {
+    "questionNumber": 7,
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "questionText": "Choose the word nearest in meaning to the word 'Zealous'.",
+    "optionA": "Indifferent",
+    "optionB": "Lazy",
+    "optionC": "Reluctant",
+    "optionD": "Enthusiastic",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) Enthusiastic\n\n• 'Zealous' എന്നാൽ ഒരു കാര്യത്തോട് വലിയ താല്പര്യവും ഉത്സാഹവും ഉള്ള (full of zeal/eagerness) എന്നാണ് അർത്ഥം — 'Enthusiastic' എന്ന word-ന് ഇതേ അർത്ഥമാണുള്ളത്.\n• Etymology: 'Zealous' ഗ്രീക്ക് word 'zelos' (ardour/eagerness) എന്നതിൽ നിന്നാണ് വന്നത്.\n• ഇത് ഒരു positive quality ആയാണ് സാധാരണ ഉപയോഗിക്കുന്നത് — ആത്മാർത്ഥമായ താല്പര്യം/passion എന്ന അർത്ഥത്തിൽ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Zealous = Enthusiastic = Passionate = Eager (positive quality, great interest/energy)\n• Synonym questions-ൽ word-ന്റെ Tone (positive/negative) ആദ്യം identify ചെയ്യുക — 'Zealous' positive quality ആണ്, negative അല്ല.\n• ⭐ PSC ആവർത്തനം: Synonym-Antonym pairs (zealous-indifferent, enthusiastic-reluctant) PSC-യിൽ common ആയ vocabulary topics-ൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. She is a zealous supporter of environmental causes.\n2. The zealous volunteers worked overtime to help flood victims.\n3. His zealous approach to work impressed the entire team.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (C) Reluctant — ഇത് 'മടിയോടെ' (unwilling) എന്നാണ് അർത്ഥം, 'Zealous'-ന്റെ നേരെ വിപരീത അർത്ഥം (antonym) ആണ്.\n  🪤 PSC Trap: Synonym ചോദിക്കുമ്പോൾ Antonym option ആയി വെക്കുന്നത് PSC-യുടെ ഏറ്റവും സാധാരണ trap ആണ്.\n• (A) Indifferent — 'താല്പര്യമില്ലാത്ത' എന്നാണ് അർത്ഥം, ഇത് Zealous-ന്റെ opposite spirit ആണ്.\n• (B) Lazy — 'അലസമായ' എന്നാണ് അർത്ഥം, ഇത് Zealous-ലെ 'energetic/active' സ്വഭാവത്തിന് നേരെ വിപരീതമാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ZEALOUS = ZEAL + FULL OF FIRE' — ഒരു person fire പോലെ passionate ആയി ഒരു കാര്യം ചെയ്യുന്നത് visualize ചെയ്യുക.\n• Word family: Zealous, Enthusiastic, Passionate, Eager, Ardent — ഇവയെല്ലാം ഒരേ group-ൽ പെടുന്ന positive words ആണ്.\n• PSC exam strategy: 🪤 PSC Trap ആയി Antonym options സ്ഥിരമായി വെക്കാറുണ്ട് — Synonym ചോദിച്ചാൽ 'അതേ അർത്ഥം' ആണോ എന്ന് രണ്ടുതവണ ഉറപ്പുവരുത്തുക. ഇത് ഓർത്തിരുന്നാൽ ഒരിക്കലും miss ആകില്ല!"
+    },
+    "id": "HC-DAILY-2026-09-28-Q7",
+    "paperId": "HC-DAILY-2026-09-28"
+  },
+  {
+    "questionNumber": 8,
+    "topic": "Antonyms",
+    "difficulty": "medium",
+    "questionText": "Choose the word most nearly OPPOSITE in meaning to the word in italics.\nThe old merchant was known throughout the town for being remarkably __generous__ to those in need.",
+    "optionA": "Wealthy",
+    "optionB": "Charitable",
+    "optionC": "Stingy",
+    "optionD": "Popular",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Stingy\n\n• 'Generous' എന്നാൽ 'ഉദാരമായി കൊടുക്കുന്ന/പങ്കുവെക്കുന്ന' എന്നാണ് അർത്ഥം — ഇതിന്റെ നേരെ opposite ആണ് 'Stingy' (പിശുക്കൻ/കൊടുക്കാൻ മടിയുള്ള).\n• Sentence-ലെ context ('known...for being remarkably generous to those in need') generosity-യെ പ്രത്യേകം emphasize ചെയ്യുന്നു — ഇതിന്റെ exact opposite 'Stingy' ആണ്.\n• 'Stingy' മാത്രമാണ് giving/sharing behavior-ന്റെ opposite direction കൃത്യമായി പിടിച്ചെടുക്കുന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Generous (giving freely) ↔ Stingy (unwilling to give/share, miserly).\n• Antonym ചോദ്യങ്ങളിൽ, distractors പലപ്പോഴും near-synonyms ആയിരിക്കും (opposite അല്ല) — ഇത് ശ്രദ്ധയോടെ വേർതിരിച്ചറിയണം.\n• ⭐ PSC ആവർത്തനം: Character-trait antonyms (generous-stingy, brave-cowardly, honest-dishonest) PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്ന ഒരു category ആണ്.\n• ഉദാഹരണ sentences:\n1. Unlike his stingy brother, Ravi is always generous with his money.\n2. The stingy landlord refused to repair the leaking roof.\n3. She was too stingy to donate even a small amount to charity.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) Charitable — ഇത് 'Generous'-ന്റെ SYNONYM ആണ് (ദാനശീലമുള്ള), opposite അല്ല. 🪤 PSC Trap: giving-related word ആയതിനാൽ confuse ചെയ്യാം, പക്ഷേ ഇത് same direction-ലാണ്.\n• (A) Wealthy — 'സമ്പന്നനായ' എന്നാണ് അർത്ഥം, ഇത് ഒരു financial status ആണ്, generosity (behavior)-യുടെ opposite അല്ല — ഒരു wealthy person generous-ഉം stingy-ഉം ആകാം.\n• (D) Popular — 'പ്രശസ്തനായ' എന്നാണ് അർത്ഥം, generosity-യുമായി നേരിട്ട് ബന്ധമില്ലാത്ത, unrelated attribute ആണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'GENEROUS = OPEN കൈ, STINGY = അടച്ച കൈ' എന്ന് visualize ചെയ്യുക.\n• Word family: Generous/Charitable/Liberal (giving) vs Stingy/Miserly/Tight-fisted (not giving) — രണ്ട് groups ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: antonym ചോദ്യങ്ങളിൽ, ഓരോ option-ഉം 'ഇത് headword-ന്റെ SAME ആശയമാണോ OPPOSITE ആശയമാണോ' എന്ന് ചോദിച്ച് പരിശോധിക്കുക, related-but-different attributes (wealth, popularity) trap-ൽ വീഴരുത്."
+    },
+    "id": "HC-DAILY-2026-09-28-Q8",
+    "paperId": "HC-DAILY-2026-09-28"
+  },
+  {
+    "questionNumber": 9,
+    "topic": "One Word Substitutes",
+    "difficulty": "easy",
+    "questionText": "Choose the correct one-word substitute for the phrase given below.\nA person who eats human flesh.",
+    "optionA": "Cannibal",
+    "optionB": "Carnivore",
+    "optionC": "Vegetarian",
+    "optionD": "Herbivore",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Cannibal\n\n• 'Cannibal' എന്നാൽ മനുഷ്യമാംസം ഭക്ഷിക്കുന്ന വ്യക്തി/ജീവി എന്നാണ് അർത്ഥം — ഇത് exact dictionary definition ആണ്.\n• Etymology: Spanish/Caribbean word 'Caníbal' (Caribs tribe-ന്റെ പേരിൽ നിന്ന്) വഴി ഇംഗ്ലീഷിലേക്ക് വന്നത്.\n• 'Human flesh' എന്ന specific detail ശ്രദ്ധിക്കുക — ഇത് 'Cannibal'-നെ 'Carnivore' (ഏത് മാംസവും ഭക്ഷിക്കുന്ന ജീവി) എന്നതിൽ നിന്ന് വേർതിരിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Phrase-ന്റെ Exact meaning-ന് പകരം ഒരു single word ഉപയോഗിക്കുന്നതാണ് One Word Substitute.\n• Definition-ലെ ഓരോ word-ഉം ശ്രദ്ധിക്കണം — 'human flesh' എന്ന specific detail 'Cannibal'-ലേക്ക് കൃത്യമായി നയിക്കുന്നു, general 'meat-eating' (Carnivore) അല്ല.\n• ⭐ PSC ആവർത്തനം: Diet/eating-habit-based one-word substitutes (cannibal, carnivore, herbivore, vegetarian, omnivore) PSC-യിൽ പതിവായി ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. Ancient tribes in some regions were rumoured to be cannibals.\n2. The documentary explored the rare cases of cannibalism in history.\n3. He was shocked to learn about cannibal practices in certain isolated communities.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) Carnivore — ഇത് ഏത് മാംസവും ഭക്ഷിക്കുന്ന ജീവി/മൃഗം എന്നാണ് അർത്ഥം (സാധാരണയായി മൃഗങ്ങളെ പരാമർശിക്കാൻ ഉപയോഗിക്കുന്നു), specifically 'human flesh' എന്ന അർത്ഥമില്ല.\n  🪤 PSC Trap: 'flesh-eating' എന്ന പൊതു ആശയം common ആയതിനാൽ ഇത് confuse ചെയ്യാം, പക്ഷേ 'human' എന്ന specific word ഇവിടെ നിർണായകമാണ്.\n• (C) Vegetarian — 'സസ്യാഹാരി' എന്നാണ് അർത്ഥം, മാംസം ഭക്ഷിക്കാത്ത ആൾ — ഇത് നേരെ വിപരീത ആശയമാണ്.\n• (D) Herbivore — സസ്യങ്ങൾ മാത്രം ഭക്ഷിക്കുന്ന ജീവി എന്നാണ് അർത്ഥം, ഇതും meat-eating-മായി ബന്ധമില്ലാത്ത, opposite ആശയമാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'CANNIBAL = HUMAN-EATING മാത്രം' — 'human' എന്ന word പ്രത്യേകം ഓർക്കുക, Carnivore-ൽ നിന്ന് വേർതിരിക്കാൻ.\n• Word family: Cannibal (eats humans), Carnivore (eats meat/animals), Herbivore (eats plants), Omnivore (eats both), Vegetarian (chooses not to eat meat) — ഇവയെല്ലാം ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: One Word Substitute definitions-ൽ 'human' പോലുള്ള specific qualifiers ശ്രദ്ധിച്ചാൽ, similar-meaning options confuse ആകില്ല. ഒരിക്കലും miss ആകില്ല!"
+    },
+    "id": "HC-DAILY-2026-09-28-Q9",
+    "paperId": "HC-DAILY-2026-09-28"
+  },
+  {
+    "questionNumber": 10,
+    "topic": "Spelling",
+    "difficulty": "easy",
+    "questionText": "Choose the correctly spelled word to complete the sentence.\nThe manager said that the delay was completely __________ and could have been avoided.",
+    "optionA": "unneccesary",
+    "optionB": "unnecesary",
+    "optionC": "unnecessary",
+    "optionD": "unneccessary",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) unnecessary\n\n• 'Necessary' എന്ന root word-ൽ 'un-' prefix ചേർത്താണ് 'unnecessary' ഉണ്ടാകുന്നത് — 'un' + 'necessary' = 'unnecessary' (രണ്ട് 'n' ഉം, ഒരു 'c'-യും രണ്ട് 's'-യും).\n• Spelling pattern: u-n-n-e-c-e-s-s-a-r-y — ഒരു 'c' മാത്രം, രണ്ട് 's' എന്നത് ശ്രദ്ധിക്കുക (പലരും ഇത് തിരിച്ചിടും).\n• Etymology: Latin word 'necessarius' എന്നതിൽ നിന്നാണ് 'necessary' വന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: UN + NECESSARY = UNNECESSARY (one C, double S).\n• Prefix ('un-') ചേർക്കുമ്പോൾ root word-ന്റെ spelling മാറ്റമില്ലാതെ നിലനിർത്തണം, 'un' + 'necessary' ലളിതമായി കൂട്ടിച്ചേർക്കുക.\n• ⭐ PSC ആവർത്തനം: Spelling topic-ൽ 'necessary'/'unnecessary' പോലുള്ള double-letter-confusion words PSC-യിൽ സ്ഥിരമായി വരും.\n• ഉദാഹരണ sentences:\n1. It is unnecessary to worry about things beyond your control.\n2. The teacher advised the students to avoid unnecessary arguments.\n3. Spending on unnecessary items can strain your budget.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (D) unneccessary — Double 'c' (should be single 'c') ഉപയോഗിച്ചിരിക്കുന്നു, spelling തെറ്റാണ്.\n  🪤 PSC Trap: 'one C, double S' rule ഓർക്കാതെ, symmetry തോന്നലിൽ double letters രണ്ടും ഇടുന്ന common mistake.\n• (B) unnecesary — Single 's' (should be double 's') ഉപയോഗിച്ചിരിക്കുന്നു, spelling തെറ്റാണ്.\n• (A) unneccesary — Double 'c' ഉം single 's' ഉം — രണ്ട് തെറ്റുകളും ഒരുമിച്ച്, ഏറ്റവും കൂടുതൽ തെറ്റായ spelling.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ONE COLLAR, TWO SHOES' (One C, double S) — necessary/unnecessary spell ചെയ്യാൻ ഇത് ഓർക്കുക.\n• Word family: necessary, unnecessary, necessity, necessitate — 'c-e-s-s' pattern ഉള്ള word family ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Spelling questions-ൽ double letters ഉള്ള words പ്രത്യേകം ശ്രദ്ധിക്കുക — ഏത് letter single ആണ്, ഏത് double ആണ് എന്ന് കൃത്യമായി ഓർക്കുക. Guaranteed mark!"
+    },
+    "id": "HC-DAILY-2026-09-28-Q10",
+    "paperId": "HC-DAILY-2026-09-28"
   }
 ]
