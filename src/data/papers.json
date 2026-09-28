@@ -1849,5 +1849,33 @@
     "year": "2026",
     "categoryCode": "427/2025,436/2025,466/2025,504/2025,572/2025,574/2025,673/2025,674/2025",
     "answerKeyStatus": "provisional"
+  },
+  {
+    "id": "160-2024-E",
+    "paperCode": "160/2024 E",
+    "post": "Junior Instructor (Stenographer Secretarial Assistant-English)",
+    "date": "15-Nov-2024",
+    "medium": "E",
+    "year": "2024",
+    "categoryCode": "667/2023",
+    "answerKeyStatus": "final"
+  },
+  {
+    "id": "137-2017-M",
+    "paperCode": "137/2017 M",
+    "post": "Village Field Assistant - Revenue (Klm, Ekm, Mlpm, Ksgd)",
+    "date": "25-Nov-2017",
+    "medium": "M",
+    "year": "2017",
+    "answerKeyStatus": "final"
+  },
+  {
+    "id": "138-2017-M",
+    "paperCode": "138/2017 M",
+    "post": "Assistant Prison Officer (Male) (NCA - OX) - Jail (Thrissur Unit)",
+    "date": "27-Nov-2017",
+    "medium": "M",
+    "year": "2017",
+    "answerKeyStatus": "final"
   }
 ]
