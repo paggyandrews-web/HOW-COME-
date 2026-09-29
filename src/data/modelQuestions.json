@@ -10166,15 +10166,15 @@
     "topic": "Active and Passive Voice",
     "difficulty": "easy",
     "questionText": "Choose the correct passive form of the following sentence.\nThe mechanic is repairing the old scooter.",
-    "optionA": "The old scooter is being repaired by the mechanic.",
-    "optionB": "The old scooter is repaired by the mechanic.",
+    "optionA": "The old scooter has been repaired by the mechanic.",
+    "optionB": "The old scooter is being repaired by the mechanic.",
     "optionC": "The old scooter was being repaired by the mechanic.",
-    "optionD": "The old scooter has been repaired by the mechanic.",
-    "correctAnswer": "A",
+    "optionD": "The old scooter is repaired by the mechanic.",
+    "correctAnswer": "B",
     "explanation": {
-      "correct": "✅ ശരിയുത്തരം: (A) The old scooter is being repaired by the mechanic.\n\n• Active sentence-ൽ 'is repairing' എന്നത് Present Continuous Tense ആണ് — ഇപ്പോൾ നടന്നുകൊണ്ടിരിക്കുന്ന പ്രവൃത്തി.\n• Active-ന്റെ tense തന്നെ Passive-ലും നിലനിർത്തണം. Present Continuous-ന്റെ Passive = is/am/are + being + V3 → 'is being repaired'.\n• Object ആയ 'the old scooter' subject ആയി മുന്നിലേക്ക് വരുന്നു; subject ആയ 'the mechanic' 'by' ചേർത്ത് അവസാനത്തേക്ക് പോകുന്നു.\n• 'repair' എന്ന വാക്ക് ലാറ്റിൻ 'reparare' (വീണ്ടും ഒരുക്കുക) എന്നതിൽ നിന്നാണ് — ഈ ചിത്രം മനസ്സിൽ വച്ചാൽ 'ഇപ്പോൾ നന്നാക്കുന്നു' എന്ന ഭാവം ഓർക്കാം.",
+      "correct": "✅ ശരിയുത്തരം: (B) The old scooter is being repaired by the mechanic.\n\n• Active sentence-ൽ 'is repairing' എന്നത് Present Continuous Tense ആണ് — ഇപ്പോൾ നടന്നുകൊണ്ടിരിക്കുന്ന പ്രവൃത്തി.\n• Active-ന്റെ tense തന്നെ Passive-ലും നിലനിർത്തണം. Present Continuous-ന്റെ Passive = is/am/are + being + V3 → 'is being repaired'.\n• Object ആയ 'the old scooter' subject ആയി മുന്നിലേക്ക് വരുന്നു; subject ആയ 'the mechanic' 'by' ചേർത്ത് അവസാനത്തേക്ക് പോകുന്നു.\n• 'repair' എന്ന വാക്ക് ലാറ്റിൻ 'reparare' (വീണ്ടും ഒരുക്കുക) എന്നതിൽ നിന്നാണ് — ഈ ചിത്രം മനസ്സിൽ വച്ചാൽ 'ഇപ്പോൾ നന്നാക്കുന്നു' എന്ന ഭാവം ഓർക്കാം.",
       "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Active tense = Passive tense ALWAYS!\n• Present Continuous → is/am/are + being + V3\n• Past Continuous → was/were + being + V3\n• Present Perfect → has/have + been + V3\n• Simple Present → is/am/are + V3\n• ⭐ PSC ആവർത്തനം: Active-Passive ചോദ്യം മിക്കവാറും എല്ലാ PSC paper-ലും ഉണ്ടാകും — tense തിരിച്ചറിഞ്ഞാൽ full mark ഉറപ്പ്!\n• ഉദാഹരണ sentences:\n  1. The chef is preparing dinner. → Dinner is being prepared by the chef.\n  2. The workers were painting the wall. → The wall was being painted by the workers.\n  3. The police have arrested the thief. → The thief has been arrested by the police.",
-      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) The old scooter is repaired by the mechanic.\n• ഇത് Simple Present Passive ആണ് — 'എപ്പോഴും/ശീലമായി നന്നാക്കപ്പെടുന്നു' എന്ന അർഥം.\n• 'being' ഇല്ലാത്തതിനാൽ ഇപ്പോൾ നടക്കുന്ന പ്രവൃത്തി എന്ന ഭാവം നഷ്ടപ്പെടുന്നു.\n• 🪤 PSC Trap: 'is' കണ്ടയുടൻ ശരിയെന്നു തോന്നിക്കാൻ — 'being' വിട്ടുകളയുന്നതാണ് ഏറ്റവും സാധാരണ തെറ്റ്.\n\n(C) The old scooter was being repaired by the mechanic.\n• ഇത് Past Continuous Passive ആണ് — കഴിഞ്ഞ കാലത്തെ പ്രവൃത്തി.\n• Active sentence present ആയതിനാൽ 'was' പറ്റില്ല.\n• 🪤 PSC Trap: 'being' ഉണ്ടെന്ന് കണ്ട് 'was/is' ശ്രദ്ധിക്കാതെ ഉത്തരം അടയാളപ്പെടുത്താൻ പ്രേരിപ്പിക്കുന്നു.\n\n(D) The old scooter has been repaired by the mechanic.\n• ഇത് Present Perfect Passive ആണ് — 'നന്നാക്കി കഴിഞ്ഞു' എന്ന അർഥം.\n• നടന്നുകൊണ്ടിരിക്കുന്ന പ്രവൃത്തിയല്ല, പൂർത്തിയായ പ്രവൃത്തിയാണിത്.\n• 🪤 PSC Trap: 'been' ഉം 'being' ഉം തമ്മിൽ മാറിപ്പോകാൻ.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(D) The old scooter is repaired by the mechanic.\n• ഇത് Simple Present Passive ആണ് — 'എപ്പോഴും/ശീലമായി നന്നാക്കപ്പെടുന്നു' എന്ന അർഥം.\n• 'being' ഇല്ലാത്തതിനാൽ ഇപ്പോൾ നടക്കുന്ന പ്രവൃത്തി എന്ന ഭാവം നഷ്ടപ്പെടുന്നു.\n• 🪤 PSC Trap: 'is' കണ്ടയുടൻ ശരിയെന്നു തോന്നിക്കാൻ — 'being' വിട്ടുകളയുന്നതാണ് ഏറ്റവും സാധാരണ തെറ്റ്.\n\n(C) The old scooter was being repaired by the mechanic.\n• ഇത് Past Continuous Passive ആണ് — കഴിഞ്ഞ കാലത്തെ പ്രവൃത്തി.\n• Active sentence present ആയതിനാൽ 'was' പറ്റില്ല.\n• 🪤 PSC Trap: 'being' ഉണ്ടെന്ന് കണ്ട് 'was/is' ശ്രദ്ധിക്കാതെ ഉത്തരം അടയാളപ്പെടുത്താൻ പ്രേരിപ്പിക്കുന്നു.\n\n(A) The old scooter has been repaired by the mechanic.\n• ഇത് Present Perfect Passive ആണ് — 'നന്നാക്കി കഴിഞ്ഞു' എന്ന അർഥം.\n• നടന്നുകൊണ്ടിരിക്കുന്ന പ്രവൃത്തിയല്ല, പൂർത്തിയായ പ്രവൃത്തിയാണിത്.\n• 🪤 PSC Trap: 'been' ഉം 'being' ഉം തമ്മിൽ മാറിപ്പോകാൻ.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BEING = ഇപ്പോൾ നടക്കുന്നു (continuous)', 'BEEN = കഴിഞ്ഞു (perfect)'. 'ing' ഉള്ളതാണ് നടക്കുന്നത്!\n• Word family: is being + V3, was being + V3, has been + V3, had been + V3, will be + V3, can be + V3\n• PSC exam strategy: ആദ്യം Active sentence-ന്റെ tense എഴുതി വയ്ക്കുക → അതിന്റെ Passive formula ഓർക്കുക → options-ൽ നിന്ന് 'being/been' നോക്കി തിരഞ്ഞെടുക്കുക. ഒരിക്കലും miss ആകില്ല!"
     }
   },
@@ -10186,14 +10186,14 @@
     "difficulty": "medium",
     "questionText": "Choose the correct indirect form of the following sentence.\nThe principal said to the teacher, \"Will you conduct the seminar tomorrow?\"",
     "optionA": "The principal asked the teacher whether he would conduct the seminar the next day.",
-    "optionB": "The principal asked the teacher would he conduct the seminar tomorrow.",
+    "optionB": "The principal told the teacher if he would conduct the seminar the next day.",
     "optionC": "The principal asked the teacher that whether he will conduct the seminar the next day.",
-    "optionD": "The principal told the teacher if he would conduct the seminar the next day.",
+    "optionD": "The principal asked the teacher would he conduct the seminar tomorrow.",
     "correctAnswer": "A",
     "explanation": {
       "correct": "✅ ശരിയുത്തരം: (A) The principal asked the teacher whether he would conduct the seminar the next day.\n\n• Direct sentence ഒരു Yes/No question ആണ് ('Will you...?') — അതിനാൽ reporting verb 'asked' ആകണം, connector 'whether' (അല്ലെങ്കിൽ 'if').\n• Reporting verb past ആയതിനാൽ 'will' → 'would' (backshift), 'you' → 'he' (teacher), 'tomorrow' → 'the next day'.\n• Indirect speech-ൽ question ഒരു സാധാരണ statement order-ൽ വരും — 'he would conduct' (would he conduct എന്നല്ല).\n• 'whether' പഴയ ഇംഗ്ലീഷ് 'hwæther' (രണ്ടിൽ ഏതാണ്) എന്നതിൽ നിന്നാണ് — 'ആണോ അല്ലയോ' എന്ന ഭാവം.",
       "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Yes/No question → asked + if/whether + statement order + backshift!\n• Wh-question → asked + same wh-word + statement order\n• Time changes: tomorrow → the next day; today → that day; now → then; yesterday → the previous day\n• ⭐ PSC ആവർത്തനം: Direct-Indirect ചോദ്യങ്ങളിൽ Yes/No question ഏറ്റവും പ്രിയപ്പെട്ട ഇനം.\n• ഉദാഹരണ sentences:\n  1. He said, \"Do you like tea?\" → He asked me if I liked tea.\n  2. She said to him, \"Are you ready?\" → She asked him whether he was ready.\n  3. The clerk said, \"Can you sign here?\" → The clerk asked whether I could sign there.",
-      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) ...asked the teacher would he conduct the seminar tomorrow.\n• 'whether/if' ഇല്ല; ചോദ്യത്തിന്റെ order ('would he') അതേപടി നിലനിൽക്കുന്നു; 'tomorrow' മാറ്റിയിട്ടുമില്ല.\n• 🪤 PSC Trap: ഏറ്റവും ചെറുതും ലളിതവുമായി തോന്നുന്നതിനാൽ ധൃതിയിൽ ഇത് തിരഞ്ഞെടുക്കും.\n\n(C) ...asked the teacher that whether he will conduct the seminar the next day.\n• 'that whether' ഒരുമിച്ച് ഉപയോഗിക്കാൻ പാടില്ല; 'will' → 'would' എന്ന backshift-ഉം ഇല്ല.\n• 🪤 PSC Trap: 'the next day' ശരിയായിട്ടുള്ളതിനാൽ പകുതി ശരിയാണെന്ന തോന്നൽ ഉണ്ടാക്കുന്നു.\n\n(D) The principal told the teacher if he would conduct the seminar the next day.\n• 'told' ഉപയോഗിച്ച് ചോദ്യം report ചെയ്യാനാവില്ല — ചോദ്യത്തിന് 'asked/enquired' വേണം.\n• 🪤 PSC Trap: ബാക്കിയെല്ലാം ശരിയായതിനാൽ reporting verb-ലെ ഒറ്റ തെറ്റ് കണ്ടുപിടിക്കാൻ പ്രയാസം.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(D) ...asked the teacher would he conduct the seminar tomorrow.\n• 'whether/if' ഇല്ല; ചോദ്യത്തിന്റെ order ('would he') അതേപടി നിലനിൽക്കുന്നു; 'tomorrow' മാറ്റിയിട്ടുമില്ല.\n• 🪤 PSC Trap: ഏറ്റവും ചെറുതും ലളിതവുമായി തോന്നുന്നതിനാൽ ധൃതിയിൽ ഇത് തിരഞ്ഞെടുക്കും.\n\n(C) ...asked the teacher that whether he will conduct the seminar the next day.\n• 'that whether' ഒരുമിച്ച് ഉപയോഗിക്കാൻ പാടില്ല; 'will' → 'would' എന്ന backshift-ഉം ഇല്ല.\n• 🪤 PSC Trap: 'the next day' ശരിയായിട്ടുള്ളതിനാൽ പകുതി ശരിയാണെന്ന തോന്നൽ ഉണ്ടാക്കുന്നു.\n\n(B) The principal told the teacher if he would conduct the seminar the next day.\n• 'told' ഉപയോഗിച്ച് ചോദ്യം report ചെയ്യാനാവില്ല — ചോദ്യത്തിന് 'asked/enquired' വേണം.\n• 🪤 PSC Trap: ബാക്കിയെല്ലാം ശരിയായതിനാൽ reporting verb-ലെ ഒറ്റ തെറ്റ് കണ്ടുപിടിക്കാൻ പ്രയാസം.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ചോദ്യം → ASK; കഥ → TELL'. ചോദ്യമാണെങ്കിൽ 'told' കണ്ടാലുടൻ വെട്ടുക!\n• Rule family: Yes/No → if/whether; Wh → same wh-word; Command → told/ordered + to; Exclamation → exclaimed with joy/sorrow\n• PSC exam strategy: ഓരോ option-ലും നാല് കാര്യം നോക്കുക — reporting verb, connector, word order, tense/time change. ഒന്നെങ്കിലും തെറ്റിയാൽ ആ option വെട്ടുക."
     }
   },
@@ -10204,15 +10204,15 @@
     "topic": "Prepositions",
     "difficulty": "easy",
     "questionText": "Choose the correct preposition to fill in the blank.\nThe villagers are grateful ____________ the volunteers for their timely help.",
-    "optionA": "to",
-    "optionB": "for",
-    "optionC": "of",
-    "optionD": "at",
-    "correctAnswer": "A",
+    "optionA": "for",
+    "optionB": "at",
+    "optionC": "to",
+    "optionD": "of",
+    "correctAnswer": "C",
     "explanation": {
-      "correct": "✅ ശരിയുത്തരം: (A) to\n\n• 'grateful to + വ്യക്തി (the volunteers)' — നന്ദി പറയുന്ന ആളെ കാണിക്കാൻ 'to' ഉപയോഗിക്കുന്നു.\n• 'grateful for + കാര്യം (their timely help)' — ലഭിച്ച സഹായത്തിന് 'for' ആണ്; അത് വാക്യത്തിൽ ഇതിനകം ഉണ്ട്.\n• അതായത് ഒരേ വാക്യത്തിൽ 'grateful to (ആളോട്) ... for (കാര്യത്തിന്)' എന്ന പൂർണ്ണ pattern ആണിത്.\n• 'grateful' ലാറ്റിൻ 'gratus' (ഇഷ്ടമുള്ള, നന്ദിയുള്ള) എന്നതിൽ നിന്ന് — ഇതേ വേരിൽ നിന്നാണ് 'gratitude', 'gratis' എന്നിവയും.",
+      "correct": "✅ ശരിയുത്തരം: (C) to\n\n• 'grateful to + വ്യക്തി (the volunteers)' — നന്ദി പറയുന്ന ആളെ കാണിക്കാൻ 'to' ഉപയോഗിക്കുന്നു.\n• 'grateful for + കാര്യം (their timely help)' — ലഭിച്ച സഹായത്തിന് 'for' ആണ്; അത് വാക്യത്തിൽ ഇതിനകം ഉണ്ട്.\n• അതായത് ഒരേ വാക്യത്തിൽ 'grateful to (ആളോട്) ... for (കാര്യത്തിന്)' എന്ന പൂർണ്ണ pattern ആണിത്.\n• 'grateful' ലാറ്റിൻ 'gratus' (ഇഷ്ടമുള്ള, നന്ദിയുള്ള) എന്നതിൽ നിന്ന് — ഇതേ വേരിൽ നിന്നാണ് 'gratitude', 'gratis' എന്നിവയും.",
       "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: grateful TO person, FOR thing!\n• thankful/obliged/indebted എന്നിവയും ആളിന് 'to', കാര്യത്തിന് 'for' എടുക്കുന്നു.\n• Related group: thank someone FOR, apologise TO someone FOR, blame someone FOR, praise someone FOR\n• ⭐ PSC ആവർത്തനം: Preposition ചോദ്യങ്ങളിൽ adjective + preposition combinations ഉറപ്പായും വരും.\n• ഉദാഹരണ sentences:\n  1. I am grateful to my teacher for her guidance.\n  2. We are indebted to the doctors for saving her life.\n  3. He was thankful to the neighbours for their kindness.",
-      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) for\n• 'grateful for' കാര്യത്തിനാണ് വരേണ്ടത്; ഇവിടെ blank-നു ശേഷം ആളാണ് (the volunteers) വരുന്നത്, കൂടാതെ 'for their timely help' പിന്നാലെ ഉണ്ട്.\n• 🪤 PSC Trap: 'grateful for' വളരെ പരിചിതമായതിനാൽ ഏറ്റവും പ്രലോഭിപ്പിക്കുന്ന option.\n\n(C) of\n• 'grateful of' എന്ന combination ഇംഗ്ലീഷിൽ ഇല്ല. 'of' സാധാരണ full of, afraid of, proud of എന്നീ വാക്കുകളോടാണ് ചേരുന്നത്.\n• 🪤 PSC Trap: 'of' ഏറ്റവും കൂടുതൽ കാണുന്ന preposition ആയതിനാൽ ഊഹിച്ച് ഉത്തരമിടുന്നവരെ കുടുക്കുന്നു.\n\n(D) at\n• 'at' സ്ഥലം/സമയം/skill എന്നിവയ്ക്കാണ് (good at, arrive at). നന്ദി പ്രകടനത്തിന് ചേരില്ല.\n• 🪤 PSC Trap: അപരിചിതമായ combination കൊണ്ട് സമ്മർദം ഉണ്ടാക്കാൻ.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) for\n• 'grateful for' കാര്യത്തിനാണ് വരേണ്ടത്; ഇവിടെ blank-നു ശേഷം ആളാണ് (the volunteers) വരുന്നത്, കൂടാതെ 'for their timely help' പിന്നാലെ ഉണ്ട്.\n• 🪤 PSC Trap: 'grateful for' വളരെ പരിചിതമായതിനാൽ ഏറ്റവും പ്രലോഭിപ്പിക്കുന്ന option.\n\n(D) of\n• 'grateful of' എന്ന combination ഇംഗ്ലീഷിൽ ഇല്ല. 'of' സാധാരണ full of, afraid of, proud of എന്നീ വാക്കുകളോടാണ് ചേരുന്നത്.\n• 🪤 PSC Trap: 'of' ഏറ്റവും കൂടുതൽ കാണുന്ന preposition ആയതിനാൽ ഊഹിച്ച് ഉത്തരമിടുന്നവരെ കുടുക്കുന്നു.\n\n(B) at\n• 'at' സ്ഥലം/സമയം/skill എന്നിവയ്ക്കാണ് (good at, arrive at). നന്ദി പ്രകടനത്തിന് ചേരില്ല.\n• 🪤 PSC Trap: അപരിചിതമായ combination കൊണ്ട് സമ്മർദം ഉണ്ടാക്കാൻ.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'നന്ദി TO ആൾ, FOR കാര്യം' — 'ടു ആളെ, ഫോർ ഫേവർ'!\n• Word family: grateful to/for, thankful to/for, obliged to/for, indebted to/for\n• PSC exam strategy: blank-നു ശേഷമുള്ള വാക്ക് ആളാണോ കാര്യമാണോ എന്ന് നോക്കുക; വാക്യത്തിൽ 'for' മറ്റൊരിടത്ത് ഉണ്ടെങ്കിൽ blank-ൽ 'to' ആകാനാണ് സാധ്യത."
     }
   },
@@ -10223,15 +10223,15 @@
     "topic": "Correlatives",
     "difficulty": "medium",
     "questionText": "Choose the correct option to complete the sentence.\nNot only was the food cold ____________ it was also tasteless.",
-    "optionA": "but",
+    "optionA": "than",
     "optionB": "and",
-    "optionC": "than",
+    "optionC": "but",
     "optionD": "nor",
-    "correctAnswer": "A",
+    "correctAnswer": "C",
     "explanation": {
-      "correct": "✅ ശരിയുത്തരം: (A) but\n\n• 'Not only ... but (also)' ഒരു Correlative Conjunction ജോഡിയാണ് — ഒന്ന് ഉള്ളിടത്ത് മറ്റൊന്ന് നിർബന്ധം.\n• ഇവിടെ 'Not only was the food cold' — ഭക്ഷണം തണുത്തതായിരുന്നു എന്ന് മാത്രമല്ല; 'but it was also tasteless' — രുചിയില്ലാത്തതുമായിരുന്നു.\n• 'Not only' വാക്യത്തിന്റെ തുടക്കത്തിൽ വരുമ്പോൾ auxiliary മുന്നിൽ വരും (was the food cold) — ഈ inversion ശരിയാണ്.\n• 'but' പഴയ ഇംഗ്ലീഷ് 'butan' (ഒഴികെ/എന്നാൽ) എന്നതിൽ നിന്നാണ് — വിപരീത/കൂട്ടിച്ചേർക്കൽ ഭാവം.",
+      "correct": "✅ ശരിയുത്തരം: (C) but\n\n• 'Not only ... but (also)' ഒരു Correlative Conjunction ജോഡിയാണ് — ഒന്ന് ഉള്ളിടത്ത് മറ്റൊന്ന് നിർബന്ധം.\n• ഇവിടെ 'Not only was the food cold' — ഭക്ഷണം തണുത്തതായിരുന്നു എന്ന് മാത്രമല്ല; 'but it was also tasteless' — രുചിയില്ലാത്തതുമായിരുന്നു.\n• 'Not only' വാക്യത്തിന്റെ തുടക്കത്തിൽ വരുമ്പോൾ auxiliary മുന്നിൽ വരും (was the food cold) — ഈ inversion ശരിയാണ്.\n• 'but' പഴയ ഇംഗ്ലീഷ് 'butan' (ഒഴികെ/എന്നാൽ) എന്നതിൽ നിന്നാണ് — വിപരീത/കൂട്ടിച്ചേർക്കൽ ഭാവം.",
       "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: not only = but also; either = or; neither = nor; no sooner = than; hardly = when — ഒരിക്കലും കലർത്തരുത്!\n• 'Not only' തുടക്കത്തിൽ വന്നാൽ auxiliary + subject (inversion).\n• Both parts തുല്യ ഘടനയിൽ (parallel) വരണം.\n• ⭐ PSC ആവർത്തനം: Correlatives ചോദ്യങ്ങൾ ഓരോ paper-ലും ഉണ്ടാകാം — ജോഡികൾ കാണാപ്പാഠം പഠിച്ചാൽ സൗജന്യ mark!\n• ഉദാഹരണ sentences:\n  1. Not only did she sing, but she also danced.\n  2. He is not only intelligent but also hardworking.\n  3. Not only the students but also the teacher was late.",
-      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) and\n• 'not only ... and' എന്ന ജോഡി ഇല്ല; 'and' സാധാരണ 'both ... and' എന്നതിനൊപ്പമാണ്.\n• 🪤 PSC Trap: 'and' ഏറ്റവും സാധാരണ conjunction ആയതിനാൽ അർഥം ശരിയെന്നു തോന്നും.\n\n(C) than\n• 'than' comparison-നാണ് (better than) — 'no sooner ... than' എന്നതിലും മാത്രം.\n• 🪤 PSC Trap: 'no sooner ... than' ഓർമ്മയിൽ നിന്ന് കലർത്തി ഇത് തിരഞ്ഞെടുക്കാൻ.\n\n(D) nor\n• 'nor' 'neither ... nor' ജോഡിക്കുള്ളതാണ്. Positive അർഥമുള്ള 'not only' വാക്യത്തിൽ 'nor' ചേരില്ല.\n• 🪤 PSC Trap: വാക്യത്തിൽ 'Not' ഉള്ളതിനാൽ negative എന്ന് തെറ്റിദ്ധരിച്ച് 'nor' എടുക്കാൻ.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) and\n• 'not only ... and' എന്ന ജോഡി ഇല്ല; 'and' സാധാരണ 'both ... and' എന്നതിനൊപ്പമാണ്.\n• 🪤 PSC Trap: 'and' ഏറ്റവും സാധാരണ conjunction ആയതിനാൽ അർഥം ശരിയെന്നു തോന്നും.\n\n(A) than\n• 'than' comparison-നാണ് (better than) — 'no sooner ... than' എന്നതിലും മാത്രം.\n• 🪤 PSC Trap: 'no sooner ... than' ഓർമ്മയിൽ നിന്ന് കലർത്തി ഇത് തിരഞ്ഞെടുക്കാൻ.\n\n(D) nor\n• 'nor' 'neither ... nor' ജോഡിക്കുള്ളതാണ്. Positive അർഥമുള്ള 'not only' വാക്യത്തിൽ 'nor' ചേരില്ല.\n• 🪤 PSC Trap: വാക്യത്തിൽ 'Not' ഉള്ളതിനാൽ negative എന്ന് തെറ്റിദ്ധരിച്ച് 'nor' എടുക്കാൻ.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NOT ONLY-ക്ക് BUT ALSO — ഒരു ബട്ടണും (but) ഒരു ആൽസോയും!'\n• Correlative family: either–or, neither–nor, both–and, not only–but also, whether–or, no sooner–than, hardly/scarcely–when/before\n• PSC exam strategy: വാക്യത്തിലെ ആദ്യ വാക്ക് (Not only / Either / Neither...) കണ്ട് അതിന്റെ പങ്കാളിയെ ഉടൻ ഓർക്കുക; options-ലെ മറ്റെല്ലാം ഒഴിവാക്കുക."
     }
   },
@@ -10242,15 +10242,15 @@
     "topic": "Auxiliary Verbs",
     "difficulty": "hard",
     "questionText": "Choose the correct auxiliary verb to complete the sentence.\nLittle ____________ he know that the police were watching him.",
-    "optionA": "did",
-    "optionB": "does",
-    "optionC": "has",
+    "optionA": "has",
+    "optionB": "did",
+    "optionC": "does",
     "optionD": "was",
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "explanation": {
-      "correct": "✅ ശരിയുത്തരം: (A) did\n\n• 'Little' ഇവിടെ ഒരു negative adverb ആണ് — 'ഒട്ടും അറിഞ്ഞില്ല' എന്ന നിഷേധ അർഥം (Little did he know = He did not know at all).\n• Negative adverb വാക്യത്തിന്റെ തുടക്കത്തിൽ വന്നാൽ auxiliary verb subject-നു മുന്നിൽ വരും (inversion) — അതിനാൽ 'did he know'.\n• 'were watching' എന്ന past context ഉള്ളതുകൊണ്ട് past auxiliary 'did' ആണ് വേണ്ടത്; അതിനുശേഷം main verb 'know' (V1) നിലനിൽക്കും.\n• 'little' പഴയ ഇംഗ്ലീഷ് 'lytel' (ചെറിയ, അല്പം) എന്നതിൽ നിന്നാണ്.",
+      "correct": "✅ ശരിയുത്തരം: (B) did\n\n• 'Little' ഇവിടെ ഒരു negative adverb ആണ് — 'ഒട്ടും അറിഞ്ഞില്ല' എന്ന നിഷേധ അർഥം (Little did he know = He did not know at all).\n• Negative adverb വാക്യത്തിന്റെ തുടക്കത്തിൽ വന്നാൽ auxiliary verb subject-നു മുന്നിൽ വരും (inversion) — അതിനാൽ 'did he know'.\n• 'were watching' എന്ന past context ഉള്ളതുകൊണ്ട് past auxiliary 'did' ആണ് വേണ്ടത്; അതിനുശേഷം main verb 'know' (V1) നിലനിൽക്കും.\n• 'little' പഴയ ഇംഗ്ലീഷ് 'lytel' (ചെറിയ, അല്പം) എന്നതിൽ നിന്നാണ്.",
       "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Negative adverb (little, never, seldom, rarely, hardly) തുടക്കത്തിൽ → Auxiliary + Subject + V1!\n• Past context → did; Present → do/does; Perfect → had/have/has.\n• Related group: Never had I seen..., Seldom does he lie..., Rarely do they meet..., Hardly had he left...\n• ⭐ PSC ആവർത്തനം: Auxiliary Verbs-ൽ inversion ചോദ്യങ്ങൾ 'ഹാർഡ്' വിഭാഗത്തിൽ പതിവായി വരുന്നു.\n• ഉദാഹരണ sentences:\n  1. Little did she realise the danger ahead.\n  2. Never did I imagine such a result.\n  3. Seldom does he arrive on time.",
-      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) does\n• 'does' present tense ആണ്; വാക്യത്തിൽ 'were watching' (past) ആയതിനാൽ tense പൊരുത്തപ്പെടില്ല.\n• 🪤 PSC Trap: inversion ശരിയായതിനാൽ tense ശ്രദ്ധിക്കാത്തവരെ കുടുക്കുന്നു.\n\n(C) has\n• 'has' കഴിഞ്ഞ Perfect tense-ന് V3 ('has known') ആവശ്യപ്പെടും; ഇവിടെ 'know' V1 ആണ്.\n• 🪤 PSC Trap: 'has he known' എന്നൊരു ഘടന പരിചിതമായതിനാൽ തെറ്റായി ആകർഷിക്കും.\n\n(D) was\n• 'was he know' ഘടന തെറ്റാണ്; 'was' ന് ശേഷം 'knowing' അല്ലെങ്കിൽ V3 ആണ് വേണ്ടത്.\n• 🪤 PSC Trap: past ആണെന്നത് കണ്ട് 'was' എടുക്കാൻ പ്രേരണ.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(C) does\n• 'does' present tense ആണ്; വാക്യത്തിൽ 'were watching' (past) ആയതിനാൽ tense പൊരുത്തപ്പെടില്ല.\n• 🪤 PSC Trap: inversion ശരിയായതിനാൽ tense ശ്രദ്ധിക്കാത്തവരെ കുടുക്കുന്നു.\n\n(A) has\n• 'has' കഴിഞ്ഞ Perfect tense-ന് V3 ('has known') ആവശ്യപ്പെടും; ഇവിടെ 'know' V1 ആണ്.\n• 🪤 PSC Trap: 'has he known' എന്നൊരു ഘടന പരിചിതമായതിനാൽ തെറ്റായി ആകർഷിക്കും.\n\n(D) was\n• 'was he know' ഘടന തെറ്റാണ്; 'was' ന് ശേഷം 'knowing' അല്ലെങ്കിൽ V3 ആണ് വേണ്ടത്.\n• 🪤 PSC Trap: past ആണെന്നത് കണ്ട് 'was' എടുക്കാൻ പ്രേരണ.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'നെഗറ്റീവ് വാക്ക് മുന്നിൽ വന്നാൽ auxiliary ഓടി മുന്നിലെത്തും!' — Little DID he know.\n• Rule family: Never/Seldom/Rarely/Hardly/Scarcely/No sooner/Not only/Little + inversion\n• PSC exam strategy: വാക്യം 'Little/Never/Seldom' കൊണ്ട് തുടങ്ങിയാൽ ഉടൻ inversion ചിന്തിക്കുക; പിന്നെ ബാക്കി വാക്യത്തിലെ tense നോക്കി auxiliary ഉറപ്പിക്കുക. Guaranteed mark!"
     }
   },
@@ -10261,15 +10261,15 @@
     "topic": "Idioms",
     "difficulty": "medium",
     "questionText": "Choose the correct meaning of the idiom in italics.\nRavi got the government contract by __pulling strings__ in the ministry.",
-    "optionA": "using personal influence",
-    "optionB": "working very hard",
-    "optionC": "speaking rudely",
-    "optionD": "delaying a decision",
-    "correctAnswer": "A",
+    "optionA": "speaking rudely",
+    "optionB": "using personal influence",
+    "optionC": "delaying a decision",
+    "optionD": "working very hard",
+    "correctAnswer": "B",
     "explanation": {
-      "correct": "✅ ശരിയുത്തരം: (A) using personal influence\n\n• 'pull strings' എന്നാൽ സ്വന്തം സ്വാധീനമോ പരിചയങ്ങളോ രഹസ്യമായി ഉപയോഗിച്ച് കാര്യം നേടുക എന്നാണ് അർഥം.\n• ഇവിടെ രവി മന്ത്രാലയത്തിലെ ബന്ധങ്ങൾ ഉപയോഗിച്ച് കരാർ നേടി — അതാണ് 'pulling strings'.\n• ചിത്രം ഓർക്കാം: ഒരു പാവകളിക്കാരൻ (puppeteer) ചരടുകൾ വലിച്ച് പാവകളെ ചലിപ്പിക്കുന്നതുപോലെ പിന്നിൽ നിന്ന് കാര്യങ്ങൾ നിയന്ത്രിക്കുക.\n• ഈ idiom ഇംഗ്ലീഷിൽ puppet-show-ൽ നിന്നാണ് വന്നത് (ചരട് = string).",
+      "correct": "✅ ശരിയുത്തരം: (B) using personal influence\n\n• 'pull strings' എന്നാൽ സ്വന്തം സ്വാധീനമോ പരിചയങ്ങളോ രഹസ്യമായി ഉപയോഗിച്ച് കാര്യം നേടുക എന്നാണ് അർഥം.\n• ഇവിടെ രവി മന്ത്രാലയത്തിലെ ബന്ധങ്ങൾ ഉപയോഗിച്ച് കരാർ നേടി — അതാണ് 'pulling strings'.\n• ചിത്രം ഓർക്കാം: ഒരു പാവകളിക്കാരൻ (puppeteer) ചരടുകൾ വലിച്ച് പാവകളെ ചലിപ്പിക്കുന്നതുപോലെ പിന്നിൽ നിന്ന് കാര്യങ്ങൾ നിയന്ത്രിക്കുക.\n• ഈ idiom ഇംഗ്ലീഷിൽ puppet-show-ൽ നിന്നാണ് വന്നത് (ചരട് = string).",
       "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Idiom = അക്ഷരാർഥമല്ല, ആലങ്കാരിക അർഥം — pull strings = സ്വാധീനം ഉപയോഗിക്കുക!\n• Related idioms: pull someone's leg (കളിയാക്കുക), pull one's socks up (മെച്ചപ്പെടുക), pull the plug (അവസാനിപ്പിക്കുക), pull out all the stops (പരമാവധി ശ്രമിക്കുക)\n• ⭐ PSC ആവർത്തനം: 'pull' + noun idioms PSC-ക്ക് ഇഷ്ടമുള്ള ഇനമാണ്.\n• ഉദാഹരണ sentences:\n  1. She pulled strings to get her nephew admitted to the college.\n  2. Nobody can pull strings in a fair selection.\n  3. He used his uncle's influence, pulling strings at the bank.",
-      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) working very hard\n• ഇത് 'burn the midnight oil' / 'slog' എന്ന idiom-ന്റെ അർഥമാണ്; ഇവിടെ 'strings' എന്ന വാക്കിന് ബന്ധമില്ല.\n• 🪤 PSC Trap: ഒരു കരാർ കിട്ടാൻ അധ്വാനം വേണമെന്ന common sense തോന്നൽ.\n\n(C) speaking rudely\n• ഇത് 'pull strings'-ന് ബന്ധമില്ലാത്ത അർഥമാണ്; ഒരു തരത്തിലും വാക്കുകളുമായി ചേരുന്നില്ല.\n• 🪤 PSC Trap: 'pull' എന്ന വാക്ക് കണ്ട് 'pull someone's leg / pull apart' എന്ന ഊഹത്തിലേക്ക് നയിക്കാൻ.\n\n(D) delaying a decision\n• ഇത് 'drag one's feet' / 'put off' എന്ന ആശയമാണ്; strings-ന് ഇതുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'ministry' എന്ന വാക്ക് കണ്ട് ഭരണപരമായ താമസം എന്ന് തോന്നിപ്പിക്കാൻ.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(D) working very hard\n• ഇത് 'burn the midnight oil' / 'slog' എന്ന idiom-ന്റെ അർഥമാണ്; ഇവിടെ 'strings' എന്ന വാക്കിന് ബന്ധമില്ല.\n• 🪤 PSC Trap: ഒരു കരാർ കിട്ടാൻ അധ്വാനം വേണമെന്ന common sense തോന്നൽ.\n\n(A) speaking rudely\n• ഇത് 'pull strings'-ന് ബന്ധമില്ലാത്ത അർഥമാണ്; ഒരു തരത്തിലും വാക്കുകളുമായി ചേരുന്നില്ല.\n• 🪤 PSC Trap: 'pull' എന്ന വാക്ക് കണ്ട് 'pull someone's leg / pull apart' എന്ന ഊഹത്തിലേക്ക് നയിക്കാൻ.\n\n(C) delaying a decision\n• ഇത് 'drag one's feet' / 'put off' എന്ന ആശയമാണ്; strings-ന് ഇതുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'ministry' എന്ന വാക്ക് കണ്ട് ഭരണപരമായ താമസം എന്ന് തോന്നിപ്പിക്കാൻ.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: പാവകളിക്കാരൻ ചരട് വലിക്കുന്ന ചിത്രം — ആരും കാണാതെ ബന്ധങ്ങൾ വഴി കാര്യം നേടൽ!\n• Idiom family: pull strings, pull someone's leg, pull one's weight, pull the plug, pull a fast one\n• PSC exam strategy: idiom-ലെ ഓരോ വാക്കും അക്ഷരാർഥത്തിൽ എടുക്കരുത്; വാക്യത്തിന്റെ സാഹചര്യം (contract, ministry) നോക്കി അർഥം ഊഹിക്കുക."
     }
   },
@@ -10280,15 +10280,15 @@
     "topic": "Words Often Confused",
     "difficulty": "medium",
     "questionText": "Choose the correct word to fill in the blank.\nThe speaker did not name the scandal but merely ____________ to it.",
-    "optionA": "eluded",
-    "optionB": "deluded",
-    "optionC": "alluded",
-    "optionD": "colluded",
-    "correctAnswer": "C",
+    "optionA": "alluded",
+    "optionB": "colluded",
+    "optionC": "deluded",
+    "optionD": "eluded",
+    "correctAnswer": "A",
     "explanation": {
-      "correct": "✅ ശരിയുത്തരം: (C) alluded\n\n• 'allude to' എന്നാൽ ഒരു കാര്യം നേരിട്ട് പറയാതെ സൂചിപ്പിക്കുക എന്നാണ്. പ്രാസംഗികൻ കുംഭകോണത്തിന്റെ പേര് പറഞ്ഞില്ല, ഒന്ന് സൂചിപ്പിക്കുക മാത്രം ചെയ്തു.\n• 'allude' എപ്പോഴും 'to' ഉമായാണ് വരുന്നത് — വാക്യത്തിൽ 'to it' ഉള്ളതാണ് ഏറ്റവും വലിയ clue.\n• വേര്: ലാറ്റിൻ 'ad' (നേരെ) + 'ludere' (കളിക്കുക) — 'ലഘുവായി സ്പർശിക്കുക' എന്ന ഭാവം; 'allusion' (സൂചന) എന്ന noun ഇതിൽ നിന്നാണ്.",
+      "correct": "✅ ശരിയുത്തരം: (A) alluded\n\n• 'allude to' എന്നാൽ ഒരു കാര്യം നേരിട്ട് പറയാതെ സൂചിപ്പിക്കുക എന്നാണ്. പ്രാസംഗികൻ കുംഭകോണത്തിന്റെ പേര് പറഞ്ഞില്ല, ഒന്ന് സൂചിപ്പിക്കുക മാത്രം ചെയ്തു.\n• 'allude' എപ്പോഴും 'to' ഉമായാണ് വരുന്നത് — വാക്യത്തിൽ 'to it' ഉള്ളതാണ് ഏറ്റവും വലിയ clue.\n• വേര്: ലാറ്റിൻ 'ad' (നേരെ) + 'ludere' (കളിക്കുക) — 'ലഘുവായി സ്പർശിക്കുക' എന്ന ഭാവം; 'allusion' (സൂചന) എന്ന noun ഇതിൽ നിന്നാണ്.",
       "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: allude TO = സൂചിപ്പിക്കുക; elude = രക്ഷപ്പെടുക; delude = വഞ്ചിക്കുക; collude WITH = ഗൂഢാലോചന നടത്തുക!\n• Related group: allusion / illusion / delusion / collusion (noun forms)\n• Transitive/intransitive: elude, delude + object (നേരിട്ട് വസ്തു); allude to, collude with (preposition ആവശ്യം)\n• ⭐ PSC ആവർത്തനം: Words Often Confused-ൽ സമാന ശബ്ദമുള്ള വാക്കുകൾ ഇടക്കിടെ വരുന്നു.\n• ഉദാഹരണ sentences:\n  1. The poet alluded to an old legend in her poem.\n  2. The thief eluded the police for months.\n  3. Do not delude yourself with false hopes.",
-      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) eluded\n• 'elude' = ഒഴിഞ്ഞുമാറുക/രക്ഷപ്പെടുക; നേരിട്ട് object വേണം ('eluded the police'). 'to it' ചേരില്ല.\n• 🪤 PSC Trap: 'allude'-നോട് ഉച്ചാരണ സാമ്യം.\n\n(B) deluded\n• 'delude' = വഞ്ചിക്കുക/തെറ്റിദ്ധരിപ്പിക്കുക; 'deluded to it' എന്ന് പ്രയോഗിക്കില്ല.\n• 🪤 PSC Trap: 'de-lude / al-lude' ഒരേ അവസാനം കൊണ്ട് ആശയക്കുഴപ്പം.\n\n(D) colluded\n• 'collude' = രഹസ്യമായി ഒത്തുചേർന്ന് ദുരുദ്ദേശം ചെയ്യുക; 'with' ആണ് ഇതിനൊപ്പം വരുന്നത്.\n• 🪤 PSC Trap: 'scandal' എന്ന വാക്ക് കണ്ട് ഗൂഢാലോചനയാണെന്ന് ഊഹിപ്പിക്കാൻ.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(D) eluded\n• 'elude' = ഒഴിഞ്ഞുമാറുക/രക്ഷപ്പെടുക; നേരിട്ട് object വേണം ('eluded the police'). 'to it' ചേരില്ല.\n• 🪤 PSC Trap: 'allude'-നോട് ഉച്ചാരണ സാമ്യം.\n\n(C) deluded\n• 'delude' = വഞ്ചിക്കുക/തെറ്റിദ്ധരിപ്പിക്കുക; 'deluded to it' എന്ന് പ്രയോഗിക്കില്ല.\n• 🪤 PSC Trap: 'de-lude / al-lude' ഒരേ അവസാനം കൊണ്ട് ആശയക്കുഴപ്പം.\n\n(B) colluded\n• 'collude' = രഹസ്യമായി ഒത്തുചേർന്ന് ദുരുദ്ദേശം ചെയ്യുക; 'with' ആണ് ഇതിനൊപ്പം വരുന്നത്.\n• 🪤 PSC Trap: 'scandal' എന്ന വാക്ക് കണ്ട് ഗൂഢാലോചനയാണെന്ന് ഊഹിപ്പിക്കാൻ.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ALLUDE = A Little Look at the Undisclosed thing' — ചെറുതായി ഒന്ന് സൂചിപ്പിക്കൽ!\n• Word family: allude–allusion, elude–elusive, delude–delusion, collude–collusion, illude (പഴയ ഉപയോഗം)\n• PSC exam strategy: blank-നു പിന്നിലെ preposition ('to it') ആദ്യം നോക്കുക — അതാണ് ഉത്തരത്തിലേക്കുള്ള താക്കോൽ."
     }
   },
@@ -10300,14 +10300,14 @@
     "difficulty": "easy",
     "questionText": "Choose the word formed by adding a suffix to 'friend' to mean 'the state of being friends'.",
     "optionA": "friendly",
-    "optionB": "friendless",
+    "optionB": "friendliest",
     "optionC": "friendship",
-    "optionD": "friendliest",
+    "optionD": "friendless",
     "correctAnswer": "C",
     "explanation": {
       "correct": "✅ ശരിയുത്തരം: (C) friendship\n\n• 'friend' എന്ന noun-നോട് '-ship' എന്ന suffix ചേർത്താൽ 'friendship' — സുഹൃത്തുക്കളായിരിക്കുന്ന അവസ്ഥ/ബന്ധം.\n• '-ship' suffix abstract noun ഉണ്ടാക്കുന്നു: അവസ്ഥ, ബന്ധം, ഗുണം എന്നിവ സൂചിപ്പിക്കാൻ.\n• 'friend' പഴയ ഇംഗ്ലീഷ് 'freond' (സ്നേഹിക്കുന്നവൻ) എന്നതിൽ നിന്ന്; '-ship' 'scipe' (അവസ്ഥ) എന്നതിൽ നിന്ന്.",
       "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Word + -ship = അവസ്ഥ / ബന്ധം / പദവി!\n• Related words: friendship, leadership, membership, partnership, scholarship, citizenship, relationship\n• Other suffix groups: -hood (childhood, brotherhood), -dom (freedom, kingdom), -ness (kindness)\n• ⭐ PSC ആവർത്തനം: Suffix/Prefix ചോദ്യങ്ങൾ Word Formation-ൽ സ്ഥിരം.\n• ഉദാഹരണ sentences:\n  1. Their friendship lasted for fifty years.\n  2. She showed great leadership during the crisis.\n  3. He received a scholarship for higher studies.",
-      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) friendly\n• 'friendly' ഒരു adjective ആണ് (സൗഹൃദമുള്ള) — അവസ്ഥയുടെ പേരല്ല (noun അല്ല).\n• 🪤 PSC Trap: വാക്കിന് 'friend' എന്നതിനോട് ഏറ്റവും അടുപ്പം തോന്നും.\n\n(B) friendless\n• '-less' = ഇല്ലാത്ത; 'friendless' = സുഹൃത്തുക്കളില്ലാത്ത — വിപരീതാർഥം.\n• 🪤 PSC Trap: suffix-ന്റെ അർഥം (less = without) ശ്രദ്ധിക്കാത്തവരെ കുടുക്കുന്നു.\n\n(D) friendliest\n• 'friendliest' superlative adjective ആണ് (ഏറ്റവും സൗഹൃദമുള്ളത്) — noun അല്ല.\n• 🪤 PSC Trap: '-est' ഒരു suffix ആണെന്നത് കൊണ്ട് ആശയക്കുഴപ്പം ഉണ്ടാക്കാൻ.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) friendly\n• 'friendly' ഒരു adjective ആണ് (സൗഹൃദമുള്ള) — അവസ്ഥയുടെ പേരല്ല (noun അല്ല).\n• 🪤 PSC Trap: വാക്കിന് 'friend' എന്നതിനോട് ഏറ്റവും അടുപ്പം തോന്നും.\n\n(D) friendless\n• '-less' = ഇല്ലാത്ത; 'friendless' = സുഹൃത്തുക്കളില്ലാത്ത — വിപരീതാർഥം.\n• 🪤 PSC Trap: suffix-ന്റെ അർഥം (less = without) ശ്രദ്ധിക്കാത്തവരെ കുടുക്കുന്നു.\n\n(B) friendliest\n• 'friendliest' superlative adjective ആണ് (ഏറ്റവും സൗഹൃദമുള്ളത്) — noun അല്ല.\n• 🪤 PSC Trap: '-est' ഒരു suffix ആണെന്നത് കൊണ്ട് ആശയക്കുഴപ്പം ഉണ്ടാക്കാൻ.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'SHIP = കപ്പൽ' — ഒരുമിച്ച് ഒരു കപ്പലിൽ യാത്ര ചെയ്യുന്ന ബന്ധം: friendSHIP, leaderSHIP, partnerSHIP!\n• Suffix family: -ship, -hood, -dom, -ness, -ment, -ity (നാമ suffix-കൾ)\n• PSC exam strategy: 'the state of / the position of / relationship' കണ്ടാൽ -ship, -hood, -dom, -ness എന്നിവ ഓർക്കുക; വാക്യത്തിലെ അർഥവുമായി ഒത്തുനോക്കി ഉത്തരം ഉറപ്പിക്കുക."
     }
   },
@@ -10319,14 +10319,14 @@
     "difficulty": "easy",
     "questionText": "Identify the compound word in the sentence.\nThe farmer stored the harvest in a large barn near his farmhouse.",
     "optionA": "farmer",
-    "optionB": "harvest",
-    "optionC": "farmhouse",
-    "optionD": "barn",
-    "correctAnswer": "C",
+    "optionB": "farmhouse",
+    "optionC": "barn",
+    "optionD": "harvest",
+    "correctAnswer": "B",
     "explanation": {
-      "correct": "✅ ശരിയുത്തരം: (C) farmhouse\n\n• Compound word = സ്വതന്ത്ര അർഥമുള്ള രണ്ട് വാക്കുകൾ ചേർന്ന് ഉണ്ടാകുന്ന പുതിയ വാക്ക്. 'farmhouse' = farm (കൃഷിയിടം) + house (വീട്).\n• 'farmer' = farm + '-er' (suffix) ആണ് — suffix സ്വതന്ത്ര വാക്കല്ലാത്തതിനാൽ അത് derived word ആണ്, compound അല്ല.\n• 'harvest', 'barn' ഒറ്റ വാക്കുകൾ (simple words) ആണ്.\n• ഈ വാക്ക് പിരിച്ച് നോക്കിയാൽ ഇരു ഭാഗങ്ങൾക്കും വ്യക്തമായ അർഥമുണ്ട് — ഇതാണ് compound-ന്റെ പരിശോധന.",
+      "correct": "✅ ശരിയുത്തരം: (B) farmhouse\n\n• Compound word = സ്വതന്ത്ര അർഥമുള്ള രണ്ട് വാക്കുകൾ ചേർന്ന് ഉണ്ടാകുന്ന പുതിയ വാക്ക്. 'farmhouse' = farm (കൃഷിയിടം) + house (വീട്).\n• 'farmer' = farm + '-er' (suffix) ആണ് — suffix സ്വതന്ത്ര വാക്കല്ലാത്തതിനാൽ അത് derived word ആണ്, compound അല്ല.\n• 'harvest', 'barn' ഒറ്റ വാക്കുകൾ (simple words) ആണ്.\n• ഈ വാക്ക് പിരിച്ച് നോക്കിയാൽ ഇരു ഭാഗങ്ങൾക്കും വ്യക്തമായ അർഥമുണ്ട് — ഇതാണ് compound-ന്റെ പരിശോധന.",
       "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Compound = word + word (രണ്ടും സ്വതന്ത്ര അർഥമുള്ളത്); Derived = word + prefix/suffix!\n• Compound types: closed (farmhouse), hyphenated (mother-in-law), open (post office)\n• Related words: bedroom, sunrise, classroom, toothpaste, bookshelf\n• ⭐ PSC ആവർത്തനം: 'Identify the compound word' ചോദ്യം ലളിതമാണ് — ഈ ഒറ്റ ടെസ്റ്റ് മതി!\n• ഉദാഹരണ sentences:\n  1. The fisherman sat on the riverbank. (riverbank = river + bank)\n  2. Please switch off the headlight. (headlight = head + light)\n  3. She bought a new bookshelf. (bookshelf = book + shelf)",
-      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) farmer\n• 'farm + er' — '-er' ഒരു suffix ആണ്, സ്വന്തമായി അർഥമുള്ള വാക്കല്ല. അതിനാൽ derived word.\n• 🪤 PSC Trap: 'farm' എന്ന വാക്ക് ഉൾക്കൊള്ളുന്നതിനാൽ compound എന്ന് തോന്നിപ്പിക്കും.\n\n(B) harvest\n• ഒറ്റ വാക്ക്; രണ്ട് സ്വതന്ത്ര വാക്കുകളായി പിരിക്കാനാവില്ല (har + vest എന്നതിന് ബന്ധമില്ല).\n• 🪤 PSC Trap: 'vest' എന്ന ഭാഗം കണ്ട് compound എന്ന് ഊഹിക്കാൻ ശ്രമിക്കുന്നവരെ കുടുക്കാൻ.\n\n(D) barn\n• ചെറിയ ഒറ്റ വാക്ക് (simple word).\n• 🪤 PSC Trap: കൃഷിയുമായി ബന്ധമുള്ള വാക്കുകൾ ഒരേ ഗണമായി തോന്നിപ്പിക്കാൻ.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) farmer\n• 'farm + er' — '-er' ഒരു suffix ആണ്, സ്വന്തമായി അർഥമുള്ള വാക്കല്ല. അതിനാൽ derived word.\n• 🪤 PSC Trap: 'farm' എന്ന വാക്ക് ഉൾക്കൊള്ളുന്നതിനാൽ compound എന്ന് തോന്നിപ്പിക്കും.\n\n(D) harvest\n• ഒറ്റ വാക്ക്; രണ്ട് സ്വതന്ത്ര വാക്കുകളായി പിരിക്കാനാവില്ല (har + vest എന്നതിന് ബന്ധമില്ല).\n• 🪤 PSC Trap: 'vest' എന്ന ഭാഗം കണ്ട് compound എന്ന് ഊഹിക്കാൻ ശ്രമിക്കുന്നവരെ കുടുക്കാൻ.\n\n(C) barn\n• ചെറിയ ഒറ്റ വാക്ക് (simple word).\n• 🪤 PSC Trap: കൃഷിയുമായി ബന്ധമുള്ള വാക്കുകൾ ഒരേ ഗണമായി തോന്നിപ്പിക്കാൻ.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'രണ്ട് വാക്ക് ഒരു വീട്ടിൽ താമസിച്ചാൽ compound!' — farm + house.\n• Word family: farmhouse, farmland, farmyard, farmhand (farm- compounds)\n• PSC exam strategy: ഓരോ option-നെയും രണ്ടായി മുറിക്കുക; രണ്ട് ഭാഗത്തിനും സ്വന്തമായി അർഥമുണ്ടെങ്കിൽ compound. '-er, -ing, -ed' പോലുള്ള suffix ആണെങ്കിൽ വെട്ടുക."
     }
   },
@@ -10338,14 +10338,14 @@
     "difficulty": "medium",
     "questionText": "Choose the correct expansion of the abbreviation 'NABARD'.",
     "optionA": "National Bank for Agriculture and Rural Development",
-    "optionB": "National Board for Agriculture and Rural Development",
-    "optionC": "National Bank for Agricultural and Reserve Development",
+    "optionB": "National Bank for Agricultural and Reserve Development",
+    "optionC": "National Board for Agriculture and Rural Development",
     "optionD": "Nationalised Bank for Agriculture and Rural Development",
     "correctAnswer": "A",
     "explanation": {
       "correct": "✅ ശരിയുത്തരം: (A) National Bank for Agriculture and Rural Development\n\n• NABARD ഇന്ത്യയിലെ കാർഷിക-ഗ്രാമീണ വികസനത്തിനുള്ള ഉന്നത ബാങ്കാണ്; 1982-ൽ സ്ഥാപിതമായി.\n• പൂർണ്ണരൂപത്തിലെ പ്രധാന വാക്കുകൾ: National, Bank, Agriculture, Rural, Development — 'and' ചുരുക്കെഴുത്തിൽ ഉൾപ്പെടുന്നില്ല.\n• Agriculture (കൃഷി) എന്ന noun ആണ് ഉപയോഗിക്കുന്നത്, 'Agricultural' (adjective) അല്ല.",
       "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: NABARD = National BANK for Agriculture & Rural Development!\n• Related abbreviations: RBI (Reserve Bank of India), SEBI (Securities and Exchange Board of India), SIDBI (Small Industries Development Bank of India), EXIM (Export-Import Bank)\n• ⭐ PSC ആവർത്തനം: Abbreviations ചോദ്യങ്ങളിൽ സ്ഥാപനങ്ങളുടെ പേരുകളാണ് പ്രിയം.\n• ഉദാഹരണ sentences:\n  1. NABARD provides refinance to rural banks.\n  2. The farmers got loans through NABARD-backed schemes.\n  3. SIDBI supports small industries.",
-      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) National Board for Agriculture and Rural Development\n• 'Bank'-ന് പകരം 'Board' — ഇത് SEBI-യിലെ 'Board' എന്ന വാക്കുമായി കലർത്തി ഉണ്ടാക്കിയ തെറ്റാണ്.\n• 🪤 PSC Trap: B എന്ന അക്ഷരം 'Bank'/'Board' ഇരുവർക്കും ചേരുന്നതിനാൽ സംശയം ജനിപ്പിക്കും.\n\n(C) National Bank for Agricultural and Reserve Development\n• 'Agricultural' (adjective), 'Reserve' എന്നിവ തെറ്റ് — RBI-യിലെ 'Reserve' കടന്നുകൂടിയതാണ്.\n• 🪤 PSC Trap: 'Reserve Bank' എന്ന പരിചിത പ്രയോഗം ഉപയോഗിച്ച് ആശയക്കുഴപ്പം.\n\n(D) Nationalised Bank for Agriculture and Rural Development\n• 'Nationalised' തെറ്റ് — 'National' ആണ് ശരി. 'nationalised banks' എന്ന സാധാരണ പ്രയോഗം കൊണ്ട് കുടുക്കുന്നു.\n• 🪤 PSC Trap: ബാങ്ക് ദേശസാൽക്കരണത്തെ (nationalisation) ക്കുറിച്ചുള്ള അറിവ് ദുരുപയോഗിക്കാൻ.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(C) National Board for Agriculture and Rural Development\n• 'Bank'-ന് പകരം 'Board' — ഇത് SEBI-യിലെ 'Board' എന്ന വാക്കുമായി കലർത്തി ഉണ്ടാക്കിയ തെറ്റാണ്.\n• 🪤 PSC Trap: B എന്ന അക്ഷരം 'Bank'/'Board' ഇരുവർക്കും ചേരുന്നതിനാൽ സംശയം ജനിപ്പിക്കും.\n\n(B) National Bank for Agricultural and Reserve Development\n• 'Agricultural' (adjective), 'Reserve' എന്നിവ തെറ്റ് — RBI-യിലെ 'Reserve' കടന്നുകൂടിയതാണ്.\n• 🪤 PSC Trap: 'Reserve Bank' എന്ന പരിചിത പ്രയോഗം ഉപയോഗിച്ച് ആശയക്കുഴപ്പം.\n\n(D) Nationalised Bank for Agriculture and Rural Development\n• 'Nationalised' തെറ്റ് — 'National' ആണ് ശരി. 'nationalised banks' എന്ന സാധാരണ പ്രയോഗം കൊണ്ട് കുടുക്കുന്നു.\n• 🪤 PSC Trap: ബാങ്ക് ദേശസാൽക്കരണത്തെ (nationalisation) ക്കുറിച്ചുള്ള അറിവ് ദുരുപയോഗിക്കാൻ.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NA-BARD = കൃഷിയുടെ കവി (bard) — കർഷകർക്ക് പാടുന്ന ബാങ്ക്!' NATIONAL + BANK ഓർത്താൽ മതി.\n• Word family: NABARD, SIDBI, EXIM, RBI, SEBI, IRDAI, NPCI\n• PSC exam strategy: ബാങ്ക്/ബോർഡ് സ്ഥാപനങ്ങളുടെ പേരുകൾ പഠിക്കുമ്പോൾ 'Bank / Board / Authority / Commission' വേർതിരിച്ച് ഓർക്കുക; options-ൽ ഒറ്റ വാക്ക് മാറ്റിയ distractors ആണ് PSC-യുടെ ശൈലി."
     }
   }
