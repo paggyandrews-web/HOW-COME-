@@ -10348,5 +10348,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(C) National Board for Agriculture and Rural Development\n• 'Bank'-ന് പകരം 'Board' — ഇത് SEBI-യിലെ 'Board' എന്ന വാക്കുമായി കലർത്തി ഉണ്ടാക്കിയ തെറ്റാണ്.\n• 🪤 PSC Trap: B എന്ന അക്ഷരം 'Bank'/'Board' ഇരുവർക്കും ചേരുന്നതിനാൽ സംശയം ജനിപ്പിക്കും.\n\n(B) National Bank for Agricultural and Reserve Development\n• 'Agricultural' (adjective), 'Reserve' എന്നിവ തെറ്റ് — RBI-യിലെ 'Reserve' കടന്നുകൂടിയതാണ്.\n• 🪤 PSC Trap: 'Reserve Bank' എന്ന പരിചിത പ്രയോഗം ഉപയോഗിച്ച് ആശയക്കുഴപ്പം.\n\n(D) Nationalised Bank for Agriculture and Rural Development\n• 'Nationalised' തെറ്റ് — 'National' ആണ് ശരി. 'nationalised banks' എന്ന സാധാരണ പ്രയോഗം കൊണ്ട് കുടുക്കുന്നു.\n• 🪤 PSC Trap: ബാങ്ക് ദേശസാൽക്കരണത്തെ (nationalisation) ക്കുറിച്ചുള്ള അറിവ് ദുരുപയോഗിക്കാൻ.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NA-BARD = കൃഷിയുടെ കവി (bard) — കർഷകർക്ക് പാടുന്ന ബാങ്ക്!' NATIONAL + BANK ഓർത്താൽ മതി.\n• Word family: NABARD, SIDBI, EXIM, RBI, SEBI, IRDAI, NPCI\n• PSC exam strategy: ബാങ്ക്/ബോർഡ് സ്ഥാപനങ്ങളുടെ പേരുകൾ പഠിക്കുമ്പോൾ 'Bank / Board / Authority / Commission' വേർതിരിച്ച് ഓർക്കുക; options-ൽ ഒറ്റ വാക്ക് മാറ്റിയ distractors ആണ് PSC-യുടെ ശൈലി."
     }
+  },
+  {
+    "id": "HC-DAILY-2026-09-30-Q1",
+    "paperId": "HC-DAILY-2026-09-30",
+    "questionNumber": 1,
+    "topic": "Correction of Sentences",
+    "difficulty": "medium",
+    "questionText": "Spot the error in the section in italics and choose the correct option.\nThe doctor __suggested me to take__ complete rest for a week.",
+    "optionA": "suggested me taking",
+    "optionB": "suggested me to took",
+    "optionC": "suggested that I take",
+    "optionD": "was suggesting me to take",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) suggested that I take\n\n• 'Suggest' എന്ന verb-ന് ശേഷം \"object + to-infinitive\" വരില്ല. അതുകൊണ്ട് 'suggested me to take' തെറ്റാണ്.\n• ശരിയായ രൂപം: suggest + that + subject + (should) + V1 — 'The doctor suggested that I take complete rest.'\n• \"ഡോക്ടർ എന്നോട് പൂർണ്ണ വിശ്രമം എടുക്കാൻ നിർദ്ദേശിച്ചു\" — ഈ ആശയം കൃത്യമായി വരുന്നത് that-clause ഉപയോഗിക്കുമ്പോഴാണ്.\n• PSC-യിൽ 'suggest, propose, insist, demand' എന്നീ verbs-ന്റെ ഈ pattern ഇടയ്ക്കിടെ ചോദിക്കാറുണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: suggest / propose / insist / demand + THAT + subject + V1 (should ഉണ്ടെങ്കിലും ഇല്ലെങ്കിലും ശരി).\n• 'Suggest, propose, insist, demand' എന്നീ verbs-ന് ശേഷം 'me/him/her + to + V1' ഉപയോഗിക്കരുത്. 'Advise, tell, ask, order, persuade' (കൂടാതെ 'recommend/request him to…' എന്ന രൂപവും) object + to-infinitive സ്വീകരിക്കും.\n• Verb family: suggest, propose, insist, demand — ഇവ that-clause verbs; recommend-നും that-clause ഉപയോഗിക്കാം.\n• ⭐ PSC ആവർത്തനം: 'Correction of Sentences'-ൽ ഇത്തരം verb-pattern തെറ്റുകൾ വീണ്ടും വീണ്ടും വരുന്നു.\n• ഉദാഹരണ sentences:\n  1. The manager suggested that we start the meeting early.\n  2. She recommended that he consult a specialist.\n  3. The teacher insisted that every student submit the record book.\n  4. (ശരി) The doctor advised me to take rest. — 'advise' ആയതുകൊണ്ട് 'me to take' ശരിയാണ്.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) suggested me taking\n• 'suggest + me + V-ing' എന്ന pattern ഇംഗ്ലീഷിൽ ഇല്ല; 'suggest' ന് indirect object എടുക്കാൻ കഴിയില്ല.\n• 🪤 PSC Trap: 'suggest'-ന് ശേഷം V-ing വരും ('suggested taking') എന്ന് അറിയാവുന്നവർ 'me' ശ്രദ്ധിക്കാതെ ഇത് തിരഞ്ഞെടുക്കും.\n\n(B) suggested me to took\n• 'suggested me' തന്നെ തെറ്റ്; കൂടാതെ 'to' ന് ശേഷം took എന്ന past form വരില്ല — 'to take' ആണ് വേണ്ടത്.\n• 🪤 PSC Trap: ഒരേ വരിയിൽ രണ്ട് തെറ്റുകൾ ചേർത്ത് വച്ച് ആശയക്കുഴപ്പം ഉണ്ടാക്കുന്ന option.\n\n(D) was suggesting me to take\n• Progressive tense ആവശ്യമില്ല; 'suggest me to take' എന്ന pattern അപ്പോഴും തെറ്റ് തന്നെ.\n• 🪤 PSC Trap: ഒറിജിനൽ വാക്യത്തോട് ഏറ്റവും അടുത്ത രൂപം ആയതുകൊണ്ട് 'ശരിയാണെന്ന്' തോന്നും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"SUGGEST → THAT\" — 'സജസ്റ്റ് ചെയ്താൽ ദാറ്റ് വേണം!' 'suggest + me to' കണ്ടാൽ അത് വെട്ടിക്കളയുക.\n• Rule family: suggest / propose / insist / demand → that-clause; advise / tell / ask / order → object + to-infinitive.\n• PSC exam strategy: 'suggested me to', 'proposed him to' എന്നിവ കണ്ടാൽ ഉടൻ 'that + subject + V1' option തിരയുക — മാർക്ക് ഉറപ്പിക്കാം!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-30-Q2",
+    "paperId": "HC-DAILY-2026-09-30",
+    "questionNumber": 2,
+    "topic": "Degrees of Comparison",
+    "difficulty": "medium",
+    "questionText": "Choose the sentence with the correct use of comparison.",
+    "optionA": "This phone is inferior than that one.",
+    "optionB": "He is senior to me by three years.",
+    "optionC": "She is more wiser than her sister.",
+    "optionD": "Of all the seven wonders, this is the more famous.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) He is senior to me by three years.\n\n• 'Senior, junior, superior, inferior, prior, preferable' എന്നീ വാക്കുകൾക്ക് ശേഷം 'than' അല്ല, 'to' ആണ് വരേണ്ടത്.\n• \"അദ്ദേഹം എന്നെക്കാൾ മൂന്ന് വയസ്സ് മൂത്തയാൾ\" എന്ന അർഥം 'senior to me' എന്ന് പറയുമ്പോൾ ശരിയാകുന്നു.\n• Senior, junior, superior, inferior, prior എന്നിവയുടെ വേര് Latin comparatives ആണ് (senior = older, junior = younger) — അതിനാൽ 'than' വേണ്ട, 'to' ആണ് ചേരുന്നത്. ('preferable to' എന്ന പ്രയോഗവും ഇതേ രീതി പിന്തുടരുന്നു.)",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: senior / junior / superior / inferior / prior / preferable + TO (never THAN).\n• രണ്ട് comparative-കൾ ഒരുമിച്ച് വരരുത് — 'more wiser', 'more better', 'most easiest' തെറ്റ്.\n• മൂന്നോ അതിലധികമോ വസ്തുക്കളിൽ നിന്ന് താരതമ്യം ചെയ്യുമ്പോൾ superlative (the most famous) ആണ് വേണ്ടത്; രണ്ടെണ്ണത്തിൽ മാത്രം comparative (the more famous).\n• ⭐ PSC ആവർത്തനം: 'superior to' / 'inferior to' / double comparative ചോദ്യങ്ങൾ Degrees of Comparison-ൽ സ്ഥിരം.\n• ഉദാഹരണ sentences:\n  1. This model is superior to the older one.\n  2. She is junior to me in the office.\n  3. Of the two brothers, Anil is the taller.\n  4. Mount Everest is the highest peak in the world.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) This phone is inferior than that one.\n• 'Inferior' ന് ശേഷം 'to' വേണം; 'than' ഉപയോഗിച്ചാൽ തെറ്റ്.\n• 🪤 PSC Trap: 'worse than' എന്ന് ശീലിച്ചവർ 'inferior than' ശരിയെന്ന് കരുതും.\n\n(C) She is more wiser than her sister.\n• 'Wiser' തന്നെ comparative ആണ്; അതിന് മുൻപ് 'more' ചേർത്താൽ double comparative ആകും.\n• 🪤 PSC Trap: 'more' + 'than' കണ്ടാൽ ശരിയെന്ന് തോന്നും, 'wiser' ഇതിനകം comparative ആണെന്ന് മറക്കും.\n\n(D) Of all the seven wonders, this is the more famous.\n• ഏഴ് വസ്തുക്കളുടെ കൂട്ടത്തിൽ superlative 'the most famous' വേണം; 'the more' രണ്ട് വസ്തുക്കൾക്ക് മാത്രം.\n• 🪤 PSC Trap: 'the more' എന്നത് വളരെ ഔപചാരികമായി കേൾക്കുന്നതിനാൽ ശരിയെന്ന് തോന്നും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Senior, Junior, Superior, Inferior, Prior, Preferable — ഇവയുടെ പിന്നിൽ 'TO' എന്ന് ഉറക്കെ ചൊല്ലി പഠിക്കുക. 'Than' ന് പ്രവേശനമില്ല!\n• Rule family: Latin comparatives + to; double comparative തെറ്റ്; രണ്ടിൽ 'the more/-er', മൂന്നിൽ+ 'the most/-est'.\n• PSC exam strategy: option-ൽ 'more' + '-er word' അല്ലെങ്കിൽ 'superior/inferior than' കണ്ടാൽ ഉടൻ വെട്ടുക; ശേഷിക്കുന്നത് ശരിയാകും."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-30-Q3",
+    "paperId": "HC-DAILY-2026-09-30",
+    "questionNumber": 3,
+    "topic": "Types of Sentences",
+    "difficulty": "medium",
+    "questionText": "Which of the following is a compound sentence?",
+    "optionA": "He stayed at home because it was raining.",
+    "optionB": "Having finished his work, he went home.",
+    "optionC": "Although she was tired, she kept working.",
+    "optionD": "The sun set, and the birds flew back to their nests.",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) The sun set, and the birds flew back to their nests.\n\n• ഈ വാക്യത്തിൽ 'The sun set', 'the birds flew back to their nests' എന്നീ രണ്ട് സ്വതന്ത്ര (independent) clauses 'and' എന്ന coordinating conjunction കൊണ്ട് ചേർത്തിരിക്കുന്നു — അതാണ് Compound sentence.\n• ഓരോ clause-ഉം സ്വന്തമായി നിലനിൽക്കും; ഒന്ന് മറ്റൊന്നിനെ ആശ്രയിക്കുന്നില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Simple = 1 independent clause | Compound = 2+ independent clauses + and/but/or/so | Complex = 1 independent + 1+ dependent clause (because, although, if, when...).\n• Coordinating conjunctions (FANBOYS): for, and, nor, but, or, yet, so → Compound sentence.\n• Subordinating conjunctions: because, although, since, if, unless, while → Complex sentence.\n• ⭐ PSC ആവർത്തനം: 'Identify the type of sentence' ചോദ്യങ്ങൾ വർഷം തോറും വരുന്നു.\n• ഉദാഹരണ sentences:\n  1. Simple: Having finished his work, he went home.\n  2. Compound: She studied hard, but she failed the test.\n  3. Complex: Although it was raining, they went out.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) He stayed at home because it was raining.\n• 'because it was raining' ഒരു dependent (subordinate) clause ആണ് — അതിനാൽ Complex sentence.\n• 🪤 PSC Trap: രണ്ട് clauses ഉള്ളതുകൊണ്ട് 'compound' എന്ന് തെറ്റിദ്ധരിപ്പിക്കും.\n\n(B) Having finished his work, he went home.\n• ഒരു participial phrase + ഒരേയൊരു main clause — Simple sentence.\n• 🪤 PSC Trap: രണ്ട് ക്രിയകൾ (finished, went) കാണുന്നതിനാൽ compound എന്ന് തോന്നും.\n\n(C) Although she was tired, she kept working.\n• 'Although' subordinating conjunction ആണ് — Complex sentence.\n• 🪤 PSC Trap: രണ്ട് ഭാഗങ്ങൾ കോമ കൊണ്ട് വേർതിരിച്ചിരിക്കുന്നത് compound ആണെന്ന് തോന്നിപ്പിക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"FANBOYS = കൂട്ടുകാർ (Compound)\"; \"Although/Because = ആശ്രിതൻ (Complex)\".\n• Rule family: Simple → Compound → Complex → Compound-Complex — clause എണ്ണവും conjunction തരവും നോക്കുക.\n• PSC exam strategy: ആദ്യം conjunction ഏതെന്ന് നോക്കുക. and/but/or/so ആണെങ്കിൽ compound; although/because/if ആണെങ്കിൽ complex — മാർക്ക് ഉറപ്പിക്കാം!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-30-Q4",
+    "paperId": "HC-DAILY-2026-09-30",
+    "questionNumber": 4,
+    "topic": "Parts of Speech",
+    "difficulty": "medium",
+    "questionText": "In which of the following sentences is the word 'light' used as a verb?",
+    "optionA": "Please light the lamp before it gets dark.",
+    "optionB": "She carries a light bag to school.",
+    "optionC": "The room was full of morning light.",
+    "optionD": "He wore a light jacket in the evening.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Please light the lamp before it gets dark.\n\n• 'Light the lamp' എന്നതിൽ 'light' = \"കത്തിക്കുക\" എന്ന അർഥമുള്ള ഒരു (transitive) verb ആണ്; 'the lamp' ആണ് object.\n• ഒരേ വാക്ക് വ്യത്യസ്ത Part of Speech ആയി വരാം; വാക്യത്തിലെ സ്ഥാനമാണ് അതിന്റെ Part of Speech തീരുമാനിക്കുന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: വാക്കല്ല, വാക്യത്തിലെ ജോലിയാണ് part of speech തീരുമാനിക്കുന്നത്.\n• Verb → ഒരു പ്രവൃത്തി കാണിക്കുന്നു (light the lamp); Noun → പേര്/വസ്തു (morning light); Adjective → noun-നെ വിശേഷിപ്പിക്കുന്നു (a light bag = ഭാരം കുറഞ്ഞ).\n• ഇതുപോലെ ഇരട്ട-ജോലി വാക്കുകൾ: light, book, water, fast, right, round, back.\n• ⭐ PSC ആവർത്തനം: 'ഒരേ വാക്ക് വാക്യം തോറും വേറെ part of speech' ചോദ്യങ്ങൾ ഇടയ്ക്കിടെ വരുന്നു.\n• ഉദാഹരണ sentences:\n  1. Verb: Please water the plants. | Noun: Water is precious.\n  2. Verb: Book the tickets early. | Noun: This book is interesting.\n  3. Adjective: a fast train | Adverb: He runs fast.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) She carries a light bag to school.\n• ഇവിടെ 'light' = ഭാരം കുറഞ്ഞ — 'bag' എന്ന noun-നെ വിശേഷിപ്പിക്കുന്ന Adjective.\n• 🪤 PSC Trap: 'light' എന്ന അതേ വാക്ക് ആവർത്തിക്കുന്നത് ആശയക്കുഴപ്പം ഉണ്ടാക്കും.\n\n(C) The room was full of morning light.\n• 'morning light' — 'morning' വിശേഷിപ്പിക്കുന്ന 'light' = വെളിച്ചം — Noun.\n• 🪤 PSC Trap: 'light' എന്ന വാക്ക് കണ്ടതും 'കത്തിക്കുക' എന്ന ചിന്ത വരാം.\n\n(D) He wore a light jacket in the evening.\n• 'a light jacket' — 'jacket' നെ വിശേഷിപ്പിക്കുന്ന Adjective (നേർത്ത).\n• 🪤 PSC Trap: 'wore' എന്ന verb കാണുന്നതിനാൽ 'light' ഉം verb ആണെന്ന് തോന്നാം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'light' ന് ശേഷം object വന്നാൽ Verb (light the lamp); ഒരു noun-നെ വിശേഷിപ്പിച്ചാൽ Adjective (a light bag); ഒരു വസ്തുവിന്റെ പേരായി നിന്നാൽ Noun (morning light) — 'light the lamp' = ലാമ്പ് കത്തിക്ക്!\n• Word family: light (verb-noun-adjective), water, book, fast, round — ഒരേ വാക്ക്, പല ജോലി.\n• PSC exam strategy: ഓരോ option-ലും വാക്കിന് മുൻപും ശേഷവും ഉള്ള വാക്ക് നോക്കുക; object ഉണ്ടെങ്കിൽ verb."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-30-Q5",
+    "paperId": "HC-DAILY-2026-09-30",
+    "questionNumber": 5,
+    "topic": "Infinitive and Gerunds",
+    "difficulty": "medium",
+    "questionText": "Choose the correct option to complete the sentence.\nIt is no use __________ over a mistake that cannot be undone.",
+    "optionA": "cry",
+    "optionB": "crying",
+    "optionC": "to cry",
+    "optionD": "cried",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) crying\n\n• 'It is no use + V-ing' എന്നത് ഒരു സ്ഥിരം gerund pattern ആണ്.\n• \"പരിഹരിക്കാൻ പറ്റാത്ത തെറ്റിനെ ഓർത്ത് കരഞ്ഞിട്ട് കാര്യമില്ല\" — ഇതാണ് വാക്യത്തിന്റെ ആശയം; 'no use' ന് ശേഷം gerund (crying) വരുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: it is no use / no good / worth / can't help / busy / look forward to / mind + V-ing (Gerund).\n• Preposition-ന് ശേഷവും gerund മാത്രം വരും (interested in doing, tired of waiting).\n• Infinitive (to + V1) വരുന്നത്: want, hope, decide, plan, refuse, promise തുടങ്ങിയ verbs-ന് ശേഷം.\n• ⭐ PSC ആവർത്തനം: 'Infinitive and Gerunds' ചോദ്യങ്ങളിൽ 'no use / worth / can't help' patterns സ്ഥിരം.\n• ഉദാഹരണ sentences:\n  1. It is no use arguing with him.\n  2. The film is worth watching.\n  3. There is no point in waiting any longer.\n  4. She decided to leave early. (decide → infinitive)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) cry\n• 'Use' ന് ശേഷം ക്രിയയുടെ മൂലരൂപം (bare verb) വരില്ല.\n• 🪤 PSC Trap: 'It is no use' ന് ശേഷം V1 വരണമെന്ന് കരുതി തെറ്റിക്കും.\n\n(C) to cry\n• 'no use' എന്ന ശൈലി gerund ആണ് ആവശ്യപ്പെടുന്നത്, infinitive അല്ല.\n• 🪤 PSC Trap: 'It is difficult to cry' പോലെ infinitive വരുന്ന ശൈലിയുമായി കൂട്ടിക്കലർത്തും.\n\n(D) cried\n• Past tense form — 'no use' ന് ശേഷം ഒരു finite past form വ്യാകരണപരമായി ചേരില്ല.\n• 🪤 PSC Trap: 'mistake that cannot be undone' എന്ന ഭൂതകാല സൂചന കണ്ട് past ഇടാൻ തോന്നും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"NO USE / NO GOOD / WORTH → -ING\" — 'നോ യൂസ്, കരയൽ (crying) മാത്രം!'\n• Rule family: no use, no good, no point in, worth, cannot help, look forward to, be used to — എല്ലാത്തിനും ശേഷം V-ing.\n• PSC exam strategy: blank-ന് മുൻപ് 'no use / worth / preposition' ഉണ്ടെങ്കിൽ -ing option തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-30-Q6",
+    "paperId": "HC-DAILY-2026-09-30",
+    "questionNumber": 6,
+    "topic": "Foreign Words and Phrases",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the foreign phrase in italics.\nPublic speaking had always been his __bête noire__.",
+    "optionA": "a favourite pastime",
+    "optionB": "a hidden talent",
+    "optionC": "a source of income",
+    "optionD": "a person or thing that one especially dislikes or dreads",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) a person or thing that one especially dislikes or dreads\n\n• 'Bête noire' ഒരു French phrase ആണ് — അക്ഷരാർഥം \"കറുത്ത മൃഗം\".\n• അർഥം: ഒരാൾക്ക് ഏറ്റവും അധികം ഇഷ്ടമില്ലാത്തതോ പേടിയുള്ളതോ ആയ വ്യക്തി/കാര്യം.\n• \"പൊതുവേദിയിൽ സംസാരിക്കുന്നത് അയാളുടെ എക്കാലത്തെയും പേടിസ്വപ്നം ആയിരുന്നു\" എന്ന ആശയം വാക്യത്തിൽ യോജിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: bête = beast (മൃഗം), noire = black (കറുപ്പ്) → 'കറുത്ത മൃഗം' = ഏറ്റവും വെറുക്കുന്ന/ഭയക്കുന്ന കാര്യം.\n• French origin phrases: bête noire, déjà vu, carte blanche, en route, rendezvous, cul-de-sac.\n• ⭐ PSC ആവർത്തനം: 'Foreign Words and Phrases' — പരീക്ഷകളിൽ പതിവായി വരുന്ന വിഭാഗം.\n• Etymology hint: French ഭാഷയിലെ 'bête' (മൃഗം) + 'noire' (കറുപ്പ്).\n• ഉദാഹരണ sentences:\n  1. Mathematics was her bête noire in school.\n  2. Traffic jams are every commuter's bête noire.\n  3. Exams remain the students' bête noire.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) a favourite pastime\n• ഇഷ്ടപ്പെട്ട വിനോദം — ഇത് bête noire ന്റെ വിപരീത ആശയമാണ്.\n• 🪤 PSC Trap: വിപരീതാർഥം option ആക്കി വയ്ക്കുന്ന സ്ഥിരം കെണി.\n\n(B) a hidden talent\n• ഒളിഞ്ഞിരിക്കുന്ന കഴിവ് — 'black' എന്ന വാക്കിൽ നിന്ന് 'hidden' എന്ന് ഊഹിക്കാൻ ശ്രമിക്കുന്നവരെ കുരുക്കും.\n• 🪤 PSC Trap: വാക്കിന്റെ നിറത്തിൽ നിന്ന് തെറ്റായി ഊഹിപ്പിക്കുന്നു.\n\n(C) a source of income\n• വരുമാന മാർഗം — ഇവിടെ പൂർണമായും ബന്ധമില്ലാത്ത അർഥം.\n• 🪤 PSC Trap: 'noire' എന്നതിനെ 'black money' എന്ന ആശയവുമായി ബന്ധിപ്പിക്കാൻ തോന്നിപ്പിക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"കറുത്ത മൃഗം കണ്ടാൽ ആർക്കാ പേടി?\" — bête noire = പേടിസ്വപ്നം.\n• Word family: bête noire (dread), déjà vu (already seen), carte blanche (full freedom), cul-de-sac (dead end) — French കുടുംബം ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: Foreign phrase ചോദ്യത്തിൽ ഭാഷ (French/Latin) തിരിച്ചറിയുക; ശേഷം ഓരോ ഭാഗത്തിന്റെയും അക്ഷരാർഥം വച്ച് option വെട്ടിക്കളയുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-30-Q7",
+    "paperId": "HC-DAILY-2026-09-30",
+    "questionNumber": 7,
+    "topic": "Singular and Plural",
+    "difficulty": "medium",
+    "questionText": "Choose the correct plural form of the word 'passer-by'.",
+    "optionA": "passer-bys",
+    "optionB": "passers-by",
+    "optionC": "passers-bys",
+    "optionD": "passer-by's",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) passers-by\n\n• 'Passer-by' ഒരു hyphenated compound noun ആണ്. ഇത്തരം വാക്കുകളിൽ പ്രധാന noun-നാണ് (head word) plural 's' ചേർക്കുന്നത്.\n• ഇവിടെ 'passer' ആണ് main noun (കടന്നുപോകുന്നവൻ); 'by' ഒരു adverb ആണ്. അതിനാൽ 's' 'passer' ന് ശേഷം: passers-by.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: 'noun + modifier' compound-ൽ (passer-by, mother-in-law, looker-on) 's' ചേർക്കുന്നത് പ്രധാന noun-ൽ. (Noun head ഇല്ലാത്തവ — grown-up, forget-me-not, take-off — അവസാനം 's': grown-ups.)\n• ഇതേ കുടുംബം: mother-in-law → mothers-in-law, commander-in-chief → commanders-in-chief, looker-on → lookers-on, hanger-on → hangers-on.\n• ⭐ PSC ആവർത്തനം: 'Singular and Plural'-ൽ hyphenated plural ചോദ്യങ്ങൾ വീണ്ടും വീണ്ടും വരുന്നു.\n• ഉദാഹരണ sentences:\n  1. Several passers-by helped the injured man.\n  2. Her sisters-in-law came for the wedding.\n  3. The hangers-on left after the party ended.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) passer-bys\n• 's' അവസാനത്തിൽ ചേർത്തു — പ്രധാന noun ആയ 'passer' ന് അല്ല.\n• 🪤 PSC Trap: സാധാരണ നിയമമായ \"അവസാനം 's' ചേർക്കുക\" ഇവിടെ ഉപയോഗിച്ച് തെറ്റിക്കും.\n\n(C) passers-bys\n• രണ്ടിടത്തും 's' ചേർത്തു; 'by' plural ആകില്ല.\n• 🪤 PSC Trap: \"ഇരട്ടി ശരി\" എന്ന തോന്നൽ ഉണ്ടാക്കും.\n\n(D) passer-by's\n• ഇത് possessive (ഉടമസ്ഥത) രൂപം ആണ്, plural അല്ല.\n• 🪤 PSC Trap: Apostrophe കാണുമ്പോൾ ചിലർ plural ആണെന്ന് കരുതും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"തല (head) noun-ന് മാത്രം 's' — വാൽ (tail) ന് വേണ്ട!\"\n• Rule family: mother-in-law, passer-by, looker-on, commander-in-chief — എല്ലാം head word plural.\n• PSC exam strategy: Hyphen ഉള്ള വാക്കിൽ പ്രധാന noun ഉണ്ടോ എന്ന് നോക്കുക; ഉണ്ടെങ്കിൽ അതിൽ 's' ഉള്ള option തിരഞ്ഞെടുക്കുക (passers-by); ഇല്ലെങ്കിൽ അവസാനം 's'."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-30-Q8",
+    "paperId": "HC-DAILY-2026-09-30",
+    "questionNumber": 8,
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct synonym of the word in italics.\nFame in the world of cinema is often __ephemeral__.",
+    "optionA": "lasting",
+    "optionB": "glamorous",
+    "optionC": "short-lived",
+    "optionD": "dangerous",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) short-lived\n\n• 'Ephemeral' = വളരെ കുറച്ച് സമയം മാത്രം നിലനിൽക്കുന്നത് (short-lived).\n• വാക്യം: \"സിനിമാ ലോകത്തെ പ്രശസ്തി പലപ്പോഴും ക്ഷണികമാണ്\" — അർഥം കൃത്യമായി യോജിക്കുന്നു.\n• Etymology hint: Greek 'ephemeros' = \"ഒരു ദിവസം മാത്രം നീണ്ടുനിൽക്കുന്നത്\" (epi = on, hemera = day).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ephemeral = ഒരു ദിവസത്തെ ആയുസ്സ് = short-lived, fleeting, transient, momentary.\n• Synonym family: ephemeral, transient, fleeting, momentary, evanescent.\n• Antonym family: lasting, permanent, enduring, eternal.\n• ⭐ PSC ആവർത്തനം: Synonyms/Antonyms വിഭാഗത്തിൽ 'ephemeral' പോലുള്ള ഇത്തരം ഉയർന്ന നിലവാര വാക്കുകൾ ഇടയ്ക്കിടെ വരുന്നു.\n• ഉദാഹരണ sentences:\n  1. The beauty of a rainbow is ephemeral.\n  2. Social media trends are often ephemeral.\n  3. The joy of victory was ephemeral.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) lasting\n• അർഥം: നീണ്ടുനിൽക്കുന്ന — ഇത് ephemeral ന്റെ Antonym ആണ്.\n• 🪤 PSC Trap: Synonym ചോദ്യത്തിൽ Antonym option ആയി വയ്ക്കുന്നത് PSC-യിൽ സ്ഥിരമായി കാണുന്ന കെണിയാണ്.\n\n(B) glamorous\n• അർഥം: ആകർഷകമായ/തിളക്കമുള്ള — 'cinema' എന്ന context കണ്ട് തിരഞ്ഞെടുക്കാൻ തോന്നിപ്പിക്കും.\n• 🪤 PSC Trap: വാക്യത്തിലെ സന്ദർഭത്തിൽ നിന്ന് ഊഹിച്ച് തെറ്റിക്കുന്ന option.\n\n(D) dangerous\n• അർഥം: അപകടകരമായ — സമയദൈർഘ്യവുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'ephemeral' കേൾക്കുമ്പോൾ ഒരു ഭീതിജനകമായ വാക്ക് എന്ന് തോന്നുന്നതിനാൽ ചേർത്തത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"EPHEMERAL = EPI + HEMERA = ഒരു ദിവസത്തെ (epi = on, hemera = day)\" — ഒരു ദിവസം മാത്രം ജീവിക്കുന്ന 'mayfly'-യെ ഓർക്കുക.\n• Word family: transient, fleeting, momentary, evanescent, short-lived — എല്ലാം \"ക്ഷണികം\".\n• PSC exam strategy: Synonym ചോദ്യത്തിൽ ആദ്യം വാക്കിന്റെ മൂലം (root) കണ്ടെത്തുക; ശേഷം antonym option ഉടൻ വെട്ടിക്കളയുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-30-Q9",
+    "paperId": "HC-DAILY-2026-09-30",
+    "questionNumber": 9,
+    "topic": "Phrasal Verbs",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the phrasal verb in italics.\nOur plan to buy the land __fell through__ at the last moment.",
+    "optionA": "failed to happen",
+    "optionB": "dropped from a height",
+    "optionC": "was approved quickly",
+    "optionD": "was made public",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) failed to happen\n\n• 'Fall through' = ഒരു പദ്ധതി/കരാർ അവസാന നിമിഷം നടക്കാതെ പോകുക (fail to happen / collapse).\n• \"ഭൂമി വാങ്ങാനുള്ള പദ്ധതി അവസാന നിമിഷം പാളിപ്പോയി\" — ഇതാണ് വാക്യത്തിന്റെ അർഥം.\n• Phrasal verb-ന്റെ അർഥം അതിലെ വാക്കുകളുടെ അക്ഷരാർഥത്തിൽ നിന്ന് വേറെയാണ് — അതുകൊണ്ട് 'താഴെ വീഴുക' എന്ന literal അർഥം ഇവിടെ ശരിയാകില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: fall through = പ്ലാൻ/ഡീൽ പാളുക (plan/deal/arrangement fails).\n• 'Fall' കുടുംബം: fall through (പാളുക), fall apart (തകരുക), fall out (വഴക്കിടുക), fall back on (ആശ്രയിക്കുക), fall for (പ്രണയത്തിലാകുക/വഞ്ചിതനാകുക), fall behind (പിന്നിലാകുക).\n• ⭐ PSC ആവർത്തനം: 'Phrasal Verbs' — പരീക്ഷകളിൽ പതിവായി വരുന്ന വിഭാഗം; പ്രത്യേകിച്ച് fall/come/get/put/take കുടുംബം.\n• ഉദാഹരണ sentences:\n  1. The deal fell through due to lack of funds.\n  2. Their wedding plans fell through.\n  3. The merger fell through at the last minute.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) dropped from a height\n• ഇത് 'fall' ന്റെ literal അർഥം മാത്രം — 'plan' എന്ന വാക്ക് ഇതിനോട് ചേരില്ല.\n• 🪤 PSC Trap: Phrasal verb-ന്റെ അക്ഷരാർഥം option ആക്കി വയ്ക്കുന്ന സ്ഥിരം കെണി.\n\n(C) was approved quickly\n• അംഗീകാരം ലഭിച്ചു എന്ന ആശയം — ഇവിടുത്തെ ആശയത്തിന്റെ വിപരീത ആശയം.\n• 🪤 PSC Trap: വിപരീതാർഥം option ആയി കൊടുത്ത് ആശയക്കുഴപ്പം ഉണ്ടാക്കും.\n\n(D) was made public\n• പരസ്യമാക്കി എന്ന ആശയം — 'fall through' ന് ഇതുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: വാർത്ത/പദ്ധതി സന്ദർഭത്തിൽ നിന്ന് ഊഹിക്കാൻ പ്രേരിപ്പിക്കുന്ന option.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"fall THROUGH = തുളയിലൂടെ വീണു പോയി\" — പ്ലാൻ തുളയിലൂടെ താഴെ വീണു, നടന്നില്ല!\n• Word family: fall through, fall apart, fall out, fall back on, fall behind.\n• PSC exam strategy: Phrasal verb-ന്റെ literal അർഥം option-ൽ കണ്ടാൽ അത് കെണിയാണ്; idiomatic അർഥമുള്ള option തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-09-30-Q10",
+    "paperId": "HC-DAILY-2026-09-30",
+    "questionNumber": 10,
+    "topic": "One Word Substitutes",
+    "difficulty": "medium",
+    "questionText": "Choose the most suitable one-word substitute for the phrase in italics.\nThe ancient city-state was an example of __government by the wealthy__.",
+    "optionA": "democracy",
+    "optionB": "aristocracy",
+    "optionC": "autocracy",
+    "optionD": "plutocracy",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) plutocracy\n\n• 'Plutocracy' = സമ്പന്നർ ഭരിക്കുന്ന ഭരണകൂടം (government by the wealthy).\n• Etymology hint: Greek 'ploutos' = സമ്പത്ത് + 'kratos' = ഭരണം → സമ്പത്തിന്റെ ഭരണം.\n• \"സമ്പന്നരുടെ ഭരണം\" എന്ന ആശയത്തിന് ഏറ്റവും യോജിച്ച ഒറ്റ വാക്ക് ഇതാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: -cracy = ഭരണം. ആരുടെ ഭരണം എന്നത് ആദ്യ ഭാഗം പറയും (ploutos = സമ്പത്ത്, demos = ജനം, autos = സ്വയം, aristos = ശ്രേഷ്ഠൻ).\n• Government family: democracy (ജനങ്ങളുടെ), autocracy (ഒരാളുടെ), aristocracy (പ്രഭുക്കന്മാരുടെ), plutocracy (ധനികരുടെ), theocracy (മതത്തിന്റെ), bureaucracy (ഉദ്യോഗസ്ഥരുടെ).\n• ⭐ PSC ആവർത്തനം: 'One Word Substitutes'-ൽ '-cracy' കുടുംബം വീണ്ടും വീണ്ടും വരുന്നു.\n• ഉദാഹരണ sentences:\n  1. A plutocracy gives more power to the rich.\n  2. Athens is often called the birthplace of democracy.\n  3. The king ruled as an autocrat.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) democracy\n• ജനങ്ങൾ (demos) ഭരിക്കുന്ന ഭരണം.\n• 🪤 PSC Trap: ഏറ്റവും പരിചിതമായ '-cracy' വാക്ക് ആയതുകൊണ്ട് വെറുതെ തിരഞ്ഞെടുക്കാൻ തോന്നും.\n\n(B) aristocracy\n• പ്രഭുക്കന്മാർ/ശ്രേഷ്ഠരായ വർഗ്ഗം (aristos = best) ഭരിക്കുന്ന ഭരണം — സമ്പത്തല്ല, കുലമഹിമയാണ് ആധാരം.\n• 🪤 PSC Trap: \"പ്രഭുക്കൾ = ധനികർ\" എന്ന ചിന്ത ഈ option തിരഞ്ഞെടുപ്പിക്കും.\n\n(C) autocracy\n• ഒരൊറ്റ ഭരണാധികാരിയുടെ (auto = self) പൂർണ്ണാധികാര ഭരണം.\n• 🪤 PSC Trap: 'ഭരണം' എന്ന പൊതു ആശയത്തിൽ നിന്ന് ഊഹിച്ച് തെറ്റിക്കുന്ന option.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"PLUTO-ക്രസി = പണക്കാരുടെ ഭരണം\" — Greek 'ploutos' (സമ്പത്ത്) എന്ന വാക്ക് ഓർത്താൽ മതി!\n• Word family: -cracy (ഭരണം) & -archy: monarchy, oligarchy, anarchy, theocracy, technocracy.\n• PSC exam strategy: '-cracy' വാക്ക് കണ്ടാൽ ആദ്യ ഭാഗത്തിന്റെ Greek അർഥം (ധനം, ജനം, സ്വയം, ശ്രേഷ്ഠം) വച്ച് option വെട്ടുക."
+    }
   }
 ]
