@@ -2515,5 +2515,33 @@
     ],
     "publishedAt": "2026-09-30T09:00:00+05:30",
     "status": "published"
+  },
+  {
+    "id": "HC-DAILY-2026-10-01",
+    "paperCode": "HC-DAILY-2026-10-01",
+    "mockNumber": 56,
+    "title": "Free Mock Test #56 - October 1",
+    "description": "HOW COME? Free Mock Test #56 - 10 Kerala PSC English questions with full Malayalam explanations.",
+    "date": "01-Oct-2026",
+    "year": "2026",
+    "totalQuestions": 10,
+    "totalMarks": 10,
+    "durationMinutes": 15,
+    "negativeMarking": false,
+    "type": "daily",
+    "questionCount": 10,
+    "weekday": "Thursday",
+    "papers_analyzed": [
+      "88-2026-M",
+      "85-2026-M",
+      "152-2026-K",
+      "082-2026-M",
+      "069-2026-M",
+      "126-2026-M",
+      "063-2026-M",
+      "58-2026-M"
+    ],
+    "publishedAt": "2026-10-01T09:00:00+05:30",
+    "status": "published"
   }
 ]

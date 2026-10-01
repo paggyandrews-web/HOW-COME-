@@ -10538,5 +10538,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) democracy\n• ജനങ്ങൾ (demos) ഭരിക്കുന്ന ഭരണം.\n• 🪤 PSC Trap: ഏറ്റവും പരിചിതമായ '-cracy' വാക്ക് ആയതുകൊണ്ട് വെറുതെ തിരഞ്ഞെടുക്കാൻ തോന്നും.\n\n(B) aristocracy\n• പ്രഭുക്കന്മാർ/ശ്രേഷ്ഠരായ വർഗ്ഗം (aristos = best) ഭരിക്കുന്ന ഭരണം — സമ്പത്തല്ല, കുലമഹിമയാണ് ആധാരം.\n• 🪤 PSC Trap: \"പ്രഭുക്കൾ = ധനികർ\" എന്ന ചിന്ത ഈ option തിരഞ്ഞെടുപ്പിക്കും.\n\n(C) autocracy\n• ഒരൊറ്റ ഭരണാധികാരിയുടെ (auto = self) പൂർണ്ണാധികാര ഭരണം.\n• 🪤 PSC Trap: 'ഭരണം' എന്ന പൊതു ആശയത്തിൽ നിന്ന് ഊഹിച്ച് തെറ്റിക്കുന്ന option.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"PLUTO-ക്രസി = പണക്കാരുടെ ഭരണം\" — Greek 'ploutos' (സമ്പത്ത്) എന്ന വാക്ക് ഓർത്താൽ മതി!\n• Word family: -cracy (ഭരണം) & -archy: monarchy, oligarchy, anarchy, theocracy, technocracy.\n• PSC exam strategy: '-cracy' വാക്ക് കണ്ടാൽ ആദ്യ ഭാഗത്തിന്റെ Greek അർഥം (ധനം, ജനം, സ്വയം, ശ്രേഷ്ഠം) വച്ച് option വെട്ടുക."
     }
+  },
+  {
+    "questionNumber": 1,
+    "topic": "Tenses",
+    "difficulty": "medium",
+    "questionText": "Choose the correct form of the verb to complete the sentence.\nHardly had the bell rung when the students ____________ out of the classroom.",
+    "optionA": "rush",
+    "optionB": "rushed",
+    "optionC": "have rushed",
+    "optionD": "were rushing",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) rushed\n\n• 'Hardly had the bell rung' എന്ന ആദ്യ ഭാഗം past perfect (had + V3) ആണ്. ബെൽ അടിച്ചു കഴിഞ്ഞ ഉടനെ കുട്ടികൾ പുറത്തേക്ക് ഓടി — രണ്ടാമത്തെ സംഭവം simple past ആയിരിക്കണം.\n• അതുകൊണ്ട് 'when' ന് ശേഷം 'rushed' എന്ന simple past തന്നെ വേണം.\n• 'Hardly' കണ്ടാൽ വാക്യം തിരിച്ചിടുന്നു (had + subject + V3) — ഇതാണ് inversion.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Hardly/Scarcely + had + S + V3 … when + S + V2 (simple past)\n• No sooner had + S + V3 … than + S + V2 എന്നതും ഇതേ രീതി.\n• ⭐ PSC ആവർത്തനം: Tenses, Correlatives എന്നീ ഭാഗങ്ങളിൽ ഈ pattern ആവർത്തിച്ച് വരുന്നു.\n• ഉദാഹരണ sentences:\n  1. Hardly had he sat down when the phone rang.\n  2. Scarcely had we reached the station when the train left.\n  3. No sooner had the teacher entered than the students stood up.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) rush\n• Present tense ആണ്; past perfect ന്റെ കൂടെ പറ്റില്ല.\n• 🪤 PSC Trap: Base form കണ്ടാൽ പലരും കുഴങ്ങും.\n\n(C) have rushed\n• Present perfect ആണ്; ഭൂതകാല സംഭവത്തിന് ചേരില്ല.\n• 🪤 PSC Trap: 'have + V3' ശരിയാണെന്ന് തോന്നിപ്പിക്കാൻ.\n\n(D) were rushing\n• Continuous form 'hardly … when' ലെ തുടർച്ചയായ രണ്ടാം സംഭവത്തിന് സാധാരണ ഉപയോഗിക്കാറില്ല; പൂർത്തിയായ പ്രവൃത്തിയാണ് ഇവിടെ.\n• 🪤 PSC Trap: Past ആണെന്ന് തോന്നുന്നതുകൊണ്ട്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Hardly HAD … WHEN' — HAD മുന്നിൽ, WHEN കഴിഞ്ഞ് simple past.\n• Rule family: Hardly–when, Scarcely–when, No sooner–than.\n• PSC exam strategy: Hardly/Scarcely കണ്ടാൽ ആദ്യം 'had' ഉറപ്പിക്കുക, then 'when' ന് ശേഷം V2 തിരഞ്ഞെടുക്കുക."
+    },
+    "id": "HC-DAILY-2026-10-01-Q1",
+    "paperId": "HC-DAILY-2026-10-01"
+  },
+  {
+    "questionNumber": 2,
+    "topic": "Articles",
+    "difficulty": "easy",
+    "questionText": "Choose the correct articles to complete the sentence.\nShe wore ____ one-piece dress and carried ____ umbrella.",
+    "optionA": "a, an",
+    "optionB": "an, an",
+    "optionC": "a, a",
+    "optionD": "an, a",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) a, an\n\n• Article തിരഞ്ഞെടുക്കുന്നത് അക്ഷരം നോക്കിയല്ല, ഉച്ചാരണത്തിലെ ശബ്ദം നോക്കിയാണ്.\n• 'one-piece' ഉച്ചരിക്കുന്നത് 'വൺ' — /w/ എന്ന consonant sound ൽ തുടങ്ങുന്നു. അതുകൊണ്ട് 'a one-piece dress'.\n• 'umbrella' ൽ vowel sound (/ʌ/) ആണ് → 'an umbrella'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: a/an = SOUND, not letter. Consonant sound → a; vowel sound → an.\n• Vowel അക്ഷരം ഉണ്ടെങ്കിലും consonant sound ആയാൽ 'a': a one-rupee note, a university, a European.\n• Consonant അക്ഷരം ഉണ്ടെങ്കിലും vowel sound ആയാൽ 'an': an hour, an honest man, an MLA.\n• ⭐ PSC ആവർത്തനം: Articles ൽ ഈ 'sound' തന്ത്രം ഏറ്റവും പ്രിയപ്പെട്ടതാണ്.\n• ഉദാഹരണ sentences:\n  1. He bought a one-way ticket.\n  2. She is an honest girl.\n  3. It was a useful book.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) an, an\n• 'an one-piece' തെറ്റ് — 'one' ന്റെ ആദ്യ ശബ്ദം /w/ ആണ്.\n• 🪤 PSC Trap: 'o' vowel ആയതുകൊണ്ട് 'an' എന്ന് തോന്നും.\n\n(C) a, a\n• 'a umbrella' തെറ്റ് — vowel sound ന് മുൻപ് 'an' വേണം.\n• 🪤 PSC Trap: ആദ്യ ഭാഗം ശരിയായതിനാൽ അതേ രീതി ആവർത്തിക്കാൻ തോന്നും.\n\n(D) an, a\n• രണ്ടും തെറ്റ്; ആദ്യ blank ൽ 'a', രണ്ടാമത്തേതിൽ 'an' ആണ് വേണ്ടത് — ശരിയുടെ നേർ വിപരീതം.\n• 🪤 PSC Trap: Reverse order option.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ONE' പറഞ്ഞു നോക്കൂ — 'വൺ' = 'w' sound → 'a'. അക്ഷരം നോക്കരുത്, നാവ് കേൾക്കുക!\n• Word family: a one-eyed man, a unit, a uniform, a useful tool | an hour, an heir, an honest, an umbrella.\n• PSC exam strategy: Option ൽ രണ്ട് blank ഉണ്ടെങ്കിൽ ഓരോന്നും വേറെ വേറെ ശബ്ദം നോക്കി ഉറപ്പിക്കുക."
+    },
+    "id": "HC-DAILY-2026-10-01-Q2",
+    "paperId": "HC-DAILY-2026-10-01"
+  },
+  {
+    "questionNumber": 3,
+    "topic": "Question Tags",
+    "difficulty": "medium",
+    "questionText": "Choose the correct question tag to complete the sentence.\nSomeone has left the tap running, ____________?",
+    "optionA": "has he",
+    "optionB": "haven't they",
+    "optionC": "didn't they",
+    "optionD": "hasn't it",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) haven't they\n\n• Statement positive ആണ് → tag negative ആകണം.\n• Main verb 'has left' ലെ auxiliary 'has' ആണ്; 'Someone' എന്ന word-ന് tag ൽ 'they' ആണ് ഉപയോഗിക്കുന്നത്. 'they' ന്റെ കൂടെ 'have' വരുന്നു → 'haven't they?'",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Positive → negative tag; Negative → positive tag. Someone/Anyone/Everyone/No one → tag ൽ 'they'.\n• Auxiliary ആദ്യം, പിന്നെ pronoun. Auxiliary 'has' ആണെങ്കിലും pronoun 'they' ആയതിനാൽ 'haven't' ആകും.\n• ⭐ PSC ആവർത്തനം: Indefinite pronoun + question tag ഒരുപാട് തവണ വന്നിട്ടുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. Everyone has arrived, haven't they?\n  2. Somebody called you, didn't they?\n  3. Nobody came, did they?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) has he\n• Tag positive ആണ് — positive statement ന് positive tag പറ്റില്ല. കൂടാതെ 'he' എന്ന് ഉറപ്പിക്കാൻ വകയില്ല.\n• 🪤 PSC Trap: 'has' auxiliary ആയതുകൊണ്ട് തിരഞ്ഞെടുക്കാൻ പ്രലോഭനം.\n\n(C) didn't they\n• Tense തെറ്റ്; main verb present perfect ആണ്, simple past tag ചേരില്ല.\n• 🪤 PSC Trap: 'left' കണ്ടിട്ട് past ആണെന്ന് കരുതും.\n\n(D) hasn't it\n• 'Someone' ന് 'it' അല്ല, 'they' ആണ്.\n• 🪤 PSC Trap: 'has' ശരിയാണെന്ന് തോന്നും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Someone, Everyone, No one — 'അവരെല്ലാം THEY'.\n• Rule family: Everybody/Somebody/Nobody + tag = they.\n• PSC exam strategy: ആദ്യം polarity, പിന്നെ auxiliary (has/have/did), ഒടുവിൽ pronoun 'they' — ഈ മൂന്ന് ഘട്ടം മതി."
+    },
+    "id": "HC-DAILY-2026-10-01-Q3",
+    "paperId": "HC-DAILY-2026-10-01"
+  },
+  {
+    "questionNumber": 4,
+    "topic": "Prepositions",
+    "difficulty": "medium",
+    "questionText": "Choose the correct preposition to complete the sentence.\nThe village was notorious ____________ its frequent floods.",
+    "optionA": "for",
+    "optionB": "of",
+    "optionC": "at",
+    "optionD": "with",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) for\n\n• 'notorious for' എന്ന fixed collocation — ഒരു മോശം കാര്യത്തിന് പ്രസിദ്ധൻ/പ്രസിദ്ധം എന്നർഥം.\n• ഇവിടെ ഗ്രാമം 'പതിവായ വെള്ളപ്പൊക്കത്തിന്' കുപ്രസിദ്ധമാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: notorious/famous/known/renowned + FOR + കാരണം.\n• Famous for = നല്ല കാര്യത്തിന്; notorious for = മോശം കാര്യത്തിന്.\n• 'known as' = പേര്/സ്ഥാനം, 'known for' = സവിശേഷത.\n• ⭐ PSC ആവർത്തനം: Prepositions ൽ adjective + preposition collocations എപ്പോഴും വരും.\n• ഉദാഹരണ sentences:\n  1. Kerala is famous for its backwaters.\n  2. The road is notorious for accidents.\n  3. He is known for his honesty.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) of\n• 'notorious of' എന്ന് സാധാരണ ഉപയോഗമില്ല.\n• 🪤 PSC Trap: 'accused of', 'afraid of' എന്നിവയുമായി കുഴയ്ക്കാൻ.\n\n(C) at\n• 'notorious at' തെറ്റ്; 'good at' പോലുള്ള കഴിവിന് (good at).\n• 🪤 PSC Trap: At ഒരു common option ആയതുകൊണ്ട്.\n\n(D) with\n• 'notorious with' ഇവിടെ ചേരില്ല.\n• 🪤 PSC Trap: 'popular with' എന്ന പ്രയോഗവുമായി ആശയക്കുഴപ്പം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Famous FOR, Notorious FOR' — രണ്ടിനും FOR!\n• Word family: renowned for, celebrated for, infamous for.\n• PSC exam strategy: Adjective + preposition ചോദ്യം കണ്ടാൽ വാക്യ അർഥം നോക്കാതെ collocation ഓർത്തെടുക്കുക."
+    },
+    "id": "HC-DAILY-2026-10-01-Q4",
+    "paperId": "HC-DAILY-2026-10-01"
+  },
+  {
+    "questionNumber": 5,
+    "topic": "Active and Passive Voice",
+    "difficulty": "medium",
+    "questionText": "Change the following sentence from Active to Passive:\nThe authorities have cancelled all the flights because of fog.",
+    "optionA": "All the flights have been cancelled by the authorities because of fog.",
+    "optionB": "All the flights were cancelled by the authorities because of fog.",
+    "optionC": "All the flights had been cancelled by the authorities because of fog.",
+    "optionD": "All the flights are being cancelled by the authorities because of fog.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) All the flights have been cancelled by the authorities because of fog.\n\n• Active വാക്യം present perfect ആണ് (have cancelled).\n• Passive ൽ tense മാറില്ല: have/has + been + V3 → 'have been cancelled'.\n• Object 'all the flights' subject ആകുന്നു; 'by the authorities' അവസാനം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Active tense = Passive tense ALWAYS. Present perfect: have/has + V3 → have/has + been + V3.\n• Object → subject, subject → 'by + agent'.\n• ⭐ PSC ആവർത്തനം: Active–Passive ൽ ഓരോ പ്രാവശ്യവും ഒരു tense ചോദ്യം ഉറപ്പ്.\n• ഉദാഹരണ sentences:\n  1. They have finished the work. → The work has been finished by them.\n  2. She writes letters. → Letters are written by her.\n  3. He will sing a song. → A song will be sung by him.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) were cancelled\n• Simple past ആയി tense മാറി.\n• 🪤 PSC Trap: Passive എന്ന് കരുതി 'was/were' ഇടും.\n\n(C) had been cancelled\n• Past perfect ആയി; മാറ്റം വന്നു.\n• 🪤 PSC Trap: 'been' ശരിയാണെങ്കിലും 'had' തെറ്റ്.\n\n(D) are being cancelled\n• Present continuous ആയി മാറി.\n• 🪤 PSC Trap: 'being' കണ്ട് passive ആണെന്ന് തോന്നും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HAVE ആണെങ്കിൽ HAVE BEEN' — tense മാറ്റരുത്, ഒരു 'been' ചേർക്കൂ.\n• Rule family: has/have been, is/are being, was/were being, will be.\n• PSC exam strategy: Active ന്റെ tense ആദ്യം കണ്ടെത്തുക, option ൽ അതേ tense ഉള്ളത് മാത്രം നോക്കുക."
+    },
+    "id": "HC-DAILY-2026-10-01-Q5",
+    "paperId": "HC-DAILY-2026-10-01"
+  },
+  {
+    "questionNumber": 6,
+    "topic": "Idioms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the idiom in italics.\nThe detective realised that the torn letter was a __red herring__ and ignored it.",
+    "optionA": "something that distracts from the real issue",
+    "optionB": "a very rare opportunity",
+    "optionC": "a sure sign of success",
+    "optionD": "a hidden danger",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) something that distracts from the real issue\n\n• 'Red herring' = യഥാർഥ വിഷയത്തിൽ നിന്ന് ശ്രദ്ധ തിരിക്കുന്ന തെറ്റായ സൂചന.\n• കീറിയ കത്ത് ഒരു തെറ്റായ ലീഡ് ആണെന്ന് ഡിറ്റക്ടീവ് മനസ്സിലാക്കി — അതാണ് ഇവിടത്തെ അർഥം.\n• ഉത്ഭവം: ഉണക്കിയ ചുവന്ന മത്തിയുടെ രൂക്ഷഗന്ധം ഉപയോഗിച്ച് നായ്ക്കളെ വഴിതെറ്റിച്ചിരുന്നു എന്ന് പറയപ്പെടുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Red herring = misleading clue / diversion.\n• Idiom ന്റെ അക്ഷരാർഥമല്ല, ആലങ്കാരിക അർഥമാണ് എടുക്കേണ്ടത്.\n• ⭐ PSC ആവർത്തനം: Idioms ൽ colour/animal idioms ധാരാളം വരുന്നു.\n• ഉദാഹരണ sentences:\n  1. The politician's speech was a red herring to avoid the real question.\n  2. Don't follow that clue; it is a red herring.\n  3. The twist in the film turned out to be a red herring.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) a very rare opportunity\n• ഇത് മറ്റൊരു idiom ന്റെ ('once in a blue moon' = അപൂർവമായി) ആശയമാണ്, red herring ന്റെതല്ല.\n• 🪤 PSC Trap: 'അപൂർവം' എന്ന ആശയം തിരഞ്ഞെടുപ്പിൽ കുഴപ്പിക്കും.\n\n(C) a sure sign of success\n• Idiom ന് ഈ അർഥമില്ല.\n• 🪤 PSC Trap: 'with flying colours' നോട് കുഴയ്ക്കാൻ.\n\n(D) a hidden danger\n• 'Red' = അപകടം എന്ന ചിന്തയിൽ നിന്നുള്ള കെണി.\n• 🪤 PSC Trap: Red flag എന്ന idiom നോട് ആശയക്കുഴപ്പം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: മീൻ മണം കൊണ്ട് നായയെ വഴിതെറ്റിക്കുന്ന ചിത്രം ഓർക്കൂ — ശ്രദ്ധ തിരിക്കൽ!\n• Idiom family: red herring, red flag (മുന്നറിയിപ്പ്), red tape (ഓഫീസ് കാലതാമസം).\n• PSC exam strategy: Sentence ന്റെ സന്ദർഭം (ഇവിടെ 'ignored it') നോക്കി അർഥം ഉറപ്പിക്കുക."
+    },
+    "id": "HC-DAILY-2026-10-01-Q6",
+    "paperId": "HC-DAILY-2026-10-01"
+  },
+  {
+    "questionNumber": 7,
+    "topic": "Antonyms",
+    "difficulty": "medium",
+    "questionText": "Choose the antonym of the word in italics.\nThe witness gave a __candid__ account of the accident.",
+    "optionA": "frank",
+    "optionB": "evasive",
+    "optionC": "lengthy",
+    "optionD": "honest",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) evasive\n\n• 'Candid' = തുറന്ന, സത്യസന്ധമായി പറയുന്ന (frank).\n• വിപരീതം 'evasive' = ഒഴിഞ്ഞുമാറുന്ന, വ്യക്തമായി ഉത്തരം പറയാത്ത.\n• Root clue: Latin 'candidus' = വെളുത്ത, തെളിഞ്ഞ — മറച്ചുവെക്കാനൊന്നുമില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Candid ↔ Evasive / Guarded / Secretive.\n• Synonyms: frank, open, honest, straightforward.\n• ⭐ PSC ആവർത്തനം: Antonyms ചോദ്യത്തിൽ synonym തന്നെ option ആയി വരും.\n• ഉദാഹരണ sentences:\n  1. She gave a candid opinion.\n  2. The minister was evasive about the scandal.\n  3. His evasive reply raised suspicion.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) frank\n• 'Candid' ന്റെ synonym ആണ്.\n• 🪤 PSC Trap: Antonym ചോദ്യത്തിൽ synonym ഇടും.\n\n(C) lengthy\n• 'ദീർഘമായ' — ബന്ധമില്ല.\n• 🪤 PSC Trap: 'account' ന് ചേരുന്ന വാക്ക് ആയതുകൊണ്ട് ആകർഷകം.\n\n(D) honest\n• ഇതും synonym ആണ്.\n• 🪤 PSC Trap: രണ്ടാമത്തെ synonym കൂടി ഇട്ട് കുഴയ്ക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Candid = CAMERA — ക്യാമറയിൽ ഒന്നും മറയ്ക്കില്ല! Evasive = EVADE (ഒഴിഞ്ഞുമാറുക).\n• Word family: frank/open ↔ evasive/guarded/reticent.\n• PSC exam strategy: രണ്ട് option synonym ആണെങ്കിൽ രണ്ടും ഒഴിവാക്കി, ശേഷിക്കുന്നവയിൽ നിന്ന് വിപരീതം കണ്ടെത്തുക."
+    },
+    "id": "HC-DAILY-2026-10-01-Q7",
+    "paperId": "HC-DAILY-2026-10-01"
+  },
+  {
+    "questionNumber": 8,
+    "topic": "Spelling",
+    "difficulty": "medium",
+    "questionText": "Choose the correctly spelt word.",
+    "optionA": "flurescent",
+    "optionB": "fluorescent",
+    "optionC": "fluoroscent",
+    "optionD": "flourescent",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) fluorescent\n\n• ശരിയായ spelling: F-L-U-O-R-E-S-C-E-N-T.\n• Root: Latin 'fluor' (ഒഴുകുക; fluorspar എന്ന ധാതു) + '-escent' (ക്രമേണ ആകുന്ന). 'Fluor' ലെ 'uo' ഓർക്കുക.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: FLUOR + ESCENT = fluorescent (fluor ൽ 'uo' ക്രമം).\n• Fluorine, fluoride, fluorescent — മൂന്നിലും 'fluor-'.\n• ⭐ PSC ആവർത്തനം: Science words ന്റെ spelling ഇടയ്ക്കിടെ വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. A fluorescent tube lit the room.\n  2. Fluoride protects teeth.\n  3. The sign had fluorescent paint.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) flurescent\n• 'o' വിട്ടുപോയി.\n• 🪤 PSC Trap: ഉച്ചാരണം 'ഫ്ലൊറസെന്റ്' ആയതിനാൽ 'o' വിടും.\n\n(C) fluoroscent\n• 'escent' എന്നതിന് പകരം 'oscent' എഴുതി.\n• 🪤 PSC Trap: 'o' രണ്ടാമതും ഇടുന്ന തെറ്റ്.\n\n(D) flourescent\n• 'flour' (മാവ്) പോലെ എഴുതി — 'uo' തിരിഞ്ഞു.\n• 🪤 PSC Trap: Flour എന്ന പരിചിത വാക്കിനോട് കുഴയ്ക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'FLUOR' = ഫ്ലൂവർ — 'U' മുൻപ്, 'O' പിന്നെ. FLOUR (മാവ്) അല്ല!\n• Word family: fluorine, fluoride, fluorspar.\n• PSC exam strategy: Spelling ചോദ്യത്തിൽ വാക്കിനെ ഭാഗങ്ങളായി (fluor + escent) പിരിച്ച് നോക്കുക."
+    },
+    "id": "HC-DAILY-2026-10-01-Q8",
+    "paperId": "HC-DAILY-2026-10-01"
+  },
+  {
+    "questionNumber": 9,
+    "topic": "Words Often Confused",
+    "difficulty": "medium",
+    "questionText": "Choose the right word to complete the sentence.\nThe teacher tried to ____________ the nervous students that the test would be easy.",
+    "optionA": "ensure",
+    "optionB": "insure",
+    "optionC": "assure",
+    "optionD": "assume",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) assure\n\n• 'Assure someone that…' = ഒരാളെ ഉറപ്പ് നൽകി ആശ്വസിപ്പിക്കുക.\n• ഇവിടെ 'nervous students' ന് ടെസ്റ്റ് എളുപ്പമാണെന്ന് ഉറപ്പ് നൽകുന്നു — വ്യക്തിയും that-clause ഉം ഉണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Assure = ആളോട് ഉറപ്പ് പറയുക (assure + person + that); Ensure = കാര്യം ഉറപ്പാക്കുക (ensure + that…); Insure = ഇൻഷുറൻസ് എടുക്കുക.\n• ⭐ PSC ആവർത്തനം: Words Often Confused ൽ ഈ ത്രയം പരിചിതമാണ്.\n• ഉദാഹരണ sentences:\n  1. I assure you that the work is done.\n  2. Please ensure that the doors are locked.\n  3. He insured his house against fire.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) ensure\n• 'Ensure the students that' എന്ന് പറയാറില്ല; ensure ഒരു കാര്യം ഉറപ്പാക്കുന്നു, വ്യക്തിയെ അല്ല.\n• 🪤 PSC Trap: അർഥം അടുത്തായതിനാൽ ഏറ്റവും വലിയ കെണി.\n\n(B) insure\n• ഇൻഷുറൻസ് സംബന്ധമായ അർഥം.\n• 🪤 PSC Trap: ഉച്ചാരണ സാമ്യം.\n\n(D) assume\n• 'ഊഹിക്കുക' — അർഥം ചേരില്ല.\n• 🪤 PSC Trap: അക്ഷരസാമ്യം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: ASSURE = ആളെ ആശ്വസിപ്പിക്കുക (assure → ആള്). ENSURE = കാര്യം ഉറപ്പാക്കുക. INSURE = ഇൻഷുറൻസ്.\n• Word family: assurance, ensure, insurance.\n• PSC exam strategy: വാക്യത്തിൽ 'വ്യക്തി' object ആയി ഉണ്ടോ എന്ന് നോക്കുക — ഉണ്ടെങ്കിൽ assure."
+    },
+    "id": "HC-DAILY-2026-10-01-Q9",
+    "paperId": "HC-DAILY-2026-10-01"
+  },
+  {
+    "questionNumber": 10,
+    "topic": "Word Formation",
+    "difficulty": "easy",
+    "questionText": "Choose the correct noun form of the word 'strong'.",
+    "optionA": "strongness",
+    "optionB": "strengthen",
+    "optionC": "strength",
+    "optionD": "strongly",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) strength\n\n• 'Strong' (adjective) ന്റെ noun form 'strength' ആണ്.\n• Pattern: strong → strength, long → length, wide → width, deep → depth.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ചില adjective കൾക്ക് -th noun (fixed list, ഓർത്തു പഠിക്കുക): strong→strength, long→length, wide→width.\n• 'Strengthen' = verb (ശക്തിപ്പെടുത്തുക); 'strongly' = adverb.\n• ⭐ PSC ആവർത്തനം: Word Formation ൽ noun/verb/adverb രൂപങ്ങൾ വേർതിരിച്ച് ചോദിക്കും.\n• ഉദാഹരണ sentences:\n  1. His strength surprised everyone.\n  2. We must strengthen the bridge.\n  3. She spoke strongly against the plan.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) strongness\n• ഈ വാക്ക് standard English ൽ ഇല്ല.\n• 🪤 PSC Trap: '-ness' ചേർക്കുന്ന പതിവ് രീതി (kind → kindness).\n\n(B) strengthen\n• ഇത് verb ആണ്, noun അല്ല.\n• 🪤 PSC Trap: Strength ന് അടുത്ത രൂപമായതിനാൽ.\n\n(D) strongly\n• Adverb ആണ്.\n• 🪤 PSC Trap: '-ly' ചേർത്ത പരിചിത രൂപം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'th' കുടുംബം: strength, length, width, depth, breadth.\n• Word family: strong–strength–strengthen–strongly.\n• PSC exam strategy: ചോദ്യം 'noun' ആണെങ്കിൽ -ly (adverb), -en (verb) ഉള്ള option കൾ ആദ്യം ഒഴിവാക്കുക."
+    },
+    "id": "HC-DAILY-2026-10-01-Q10",
+    "paperId": "HC-DAILY-2026-10-01"
   }
 ]
