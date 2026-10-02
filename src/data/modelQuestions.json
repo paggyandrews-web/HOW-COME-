@@ -10728,5 +10728,195 @@
     },
     "id": "HC-DAILY-2026-10-01-Q10",
     "paperId": "HC-DAILY-2026-10-01"
+  },
+  {
+    "id": "HC-DAILY-2026-10-02-Q1",
+    "paperId": "HC-DAILY-2026-10-02",
+    "questionNumber": 1,
+    "topic": "Conditionals",
+    "difficulty": "medium",
+    "questionText": "Choose the correct option to complete the sentence.\nIf the monsoon had arrived on time, the farmers __________ a better harvest last year.",
+    "optionA": "would have had",
+    "optionB": "would had",
+    "optionC": "will have had",
+    "optionD": "had had",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) would have had\n\n• \"If the monsoon had arrived on time\" — if-clause-ൽ had + V3 (had arrived) ആണ്. ഇത് കഴിഞ്ഞ കാലത്ത് നടക്കാതെ പോയ കാര്യത്തെ കുറിച്ചാണ് പറയുന്നത്: Third Conditional.\n• Main clause-ൽ would have + V3 വേണം. 'have' എന്ന verb-ന്റെ V3 = 'had' ആയതുകൊണ്ട് would have had ശരിയാകുന്നു.\n• \"last year\" എന്ന time marker കഴിഞ്ഞ കാലം ഉറപ്പിക്കുന്നു — അതായത് മഴ കൃത്യസമയത്ത് വന്നില്ല, കർഷകർക്ക് നല്ല വിളവും കിട്ടിയില്ല.\n• ഈ ഘടന ഓർത്തിരുന്നാൽ Third Conditional ചോദ്യം എളുപ്പമാകും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: If + had + V3 → would have + V3 (Third Conditional)\n• കഴിഞ്ഞ കാലത്ത് സംഭവിക്കാതെ പോയ കാര്യത്തിന്റെ സാങ്കൽപ്പിക ഫലമാണ് Third Conditional പറയുന്നത്.\n• Rule family: Zero (If + V1 → V1), First (If + V1 → will + V1), Second (If + V2 → would + V1), Third (If + had V3 → would have V3).\n• ⭐ PSC ആവർത്തനം: Conditionals ഓരോ വർഷവും ഉറപ്പായി വരുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. If she had studied harder, she would have passed the exam.\n  2. If we had left earlier, we would have caught the train.\n  3. If it had rained, the match would have been cancelled.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) would had\n• Modal verb-ന് ശേഷം base form (V1) ആണ് വരേണ്ടത്, V3 നേരിട്ട് വരില്ല. 'would had' ഒരു ഘടനയും അല്ല.\n• 🪤 PSC Trap: 'would' + 'had' കണ്ടാൽ ശരിയെന്നു തോന്നിക്കാൻ.\n\n(C) will have had\n• ഇത് Future Perfect ആണ്. Past perfect if-clause-ന്റെ കൂടെ 'will' ചേരില്ല.\n• 🪤 PSC Trap: 'have had' ശരിയാണെന്ന ധാരണ ഉപയോഗിച്ച് 'will' ഇട്ട് കുഴക്കുന്നു.\n\n(D) had had\n• Past Perfect main clause-ൽ വരുന്നത് Third Conditional-ൽ സ്വീകാര്യമല്ല; ഫലം പറയാൻ 'would have' തന്നെ വേണം.\n• 🪤 PSC Trap: if-clause-ലെ 'had' main clause-ലും ആവർത്തിക്കാൻ തോന്നിപ്പിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ഹാഡ് ഉണ്ടെങ്കിൽ, വുഡ് ഹാവ് വരും\" — If-ൽ HAD ഉണ്ടെങ്കിൽ main-ൽ WOULD HAVE.\n• Word family: could have / might have + V3 ഉം ഇതേ കുടുംബം ആണ്.\n• PSC strategy: if-clause-ൽ had + V3 കണ്ടാൽ ഉടൻ would have + V3 ഉള്ള option തിരഞ്ഞെടുക്കുക. 'have' verb ആണെങ്കിൽ would have HAD ആകും എന്ന് ഓർക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-10-02-Q2",
+    "paperId": "HC-DAILY-2026-10-02",
+    "questionNumber": 2,
+    "topic": "Direct and Indirect Speech",
+    "difficulty": "medium",
+    "questionText": "Choose the correct indirect form of the sentence.\nThe teacher said to the students, \"Have you completed your assignments?\"",
+    "optionA": "The teacher asked the students if they had completed their assignments.",
+    "optionB": "The teacher asked the students had they completed their assignments.",
+    "optionC": "The teacher told the students if they have completed their assignments.",
+    "optionD": "The teacher asked the students that whether they completed their assignments.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) The teacher asked the students if they had completed their assignments.\n\n• Direct speech ഒരു Yes/No question ആണ് (\"Have you completed...?\"). അതുകൊണ്ട് reporting verb 'asked' ഉം connector ആയി 'if / whether' ഉം വേണം.\n• Reported speech-ൽ question word order മാറി statement order ആകും: they had completed.\n• Present perfect (have completed) → Past perfect (had completed) എന്ന backshift ഉം 'you' → 'they' എന്ന pronoun മാറ്റവും ശരിയായി ഉണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Yes/No question → asked + if/whether + statement order + backshift\n• Say/said to → asked; 'that' ഇവിടെ ഉപയോഗിക്കില്ല.\n• Backshift: present perfect → past perfect, simple present → simple past, will → would.\n• ⭐ PSC ആവർത്തനം: Direct-Indirect Speech-ൽ if/whether ചോദ്യങ്ങൾ വളരെ പതിവാണ്.\n• ഉദാഹരണ sentences:\n  1. He said to me, \"Do you know her?\" → He asked me if I knew her.\n  2. She said to me, \"Have you seen my keys?\" → She asked me whether I had seen her keys.\n  3. The boss said, \"Are you ready?\" → The boss asked if we were ready.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) ...asked the students had they completed...\n• Question order (had they) reported speech-ൽ നിലനിർത്തി, connector ഇല്ല. Standard grammar-ൽ ഇത് തെറ്റാണ്.\n• 🪤 PSC Trap: Direct question-ന്റെ ഘടന അതേപടി കണ്ടാൽ ശരിയെന്നു തോന്നും.\n\n(C) ...told the students if they have completed...\n• 'told' ഒരു question-നൊപ്പം വരില്ല, tense backshift ഇല്ല (have completed).\n• 🪤 PSC Trap: said to → told എന്ന ശീലം ഉപയോഗപ്പെടുത്തുന്നു.\n\n(D) ...asked the students that whether they completed...\n• 'that whether' എന്ന ഇരട്ട connector തെറ്റാണ്; 'had' ഇല്ലാത്തതിനാൽ backshift ഉം തെറ്റി.\n• 🪤 PSC Trap: that ഉം whether ഉം ഒരുമിച്ചിടുന്ന common mistake.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ചോദ്യം → ASKED + IF; ഉത്തരം പോലെ പറയൂ\" — question-നെ statement ആക്കി മാറ്റുക.\n• Rule family: Wh-question → asked + same wh-word + statement order; Command → ordered/told + to-infinitive.\n• PSC strategy: 'asked' + 'if/whether' + had V3 ഉള്ള option ആദ്യം നോക്കുക; 'that whether', question order, 'told' ഉള്ളവ ഒഴിവാക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-10-02-Q3",
+    "paperId": "HC-DAILY-2026-10-02",
+    "questionNumber": 3,
+    "topic": "Subject-Verb Agreement",
+    "difficulty": "medium",
+    "questionText": "Choose the correct verb to complete the sentence.\nA large number of pilgrims __________ expected at the temple during the festival.",
+    "optionA": "is",
+    "optionB": "are",
+    "optionC": "was",
+    "optionD": "has",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) are\n\n• \"A large number of\" എന്ന phrase ഒരു plural quantifier ആണ്. അതിന് ശേഷം plural noun (pilgrims) വരുന്നു, അതുകൊണ്ട് verb-ഉം plural ആകണം.\n• Sentence passive ആണ്: \"are expected\" = പ്രതീക്ഷിക്കപ്പെടുന്നു.\n• \"The number of\" ആണെങ്കിൽ singular verb വേണം — ഈ വ്യത്യാസം ഓർത്തിരുന്നാൽ ഉറപ്പായ മാർക്ക്!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: A number of → plural verb | The number of → singular verb\n• 'A number of / a large number of / a majority of' + plural noun → plural verb.\n• 'The number of' എണ്ണത്തെ കുറിച്ചാണ് പറയുന്നത്, അതിനാൽ singular.\n• ⭐ PSC ആവർത്തനം: Subject-Verb Agreement-ൽ ഈ ജോടി വീണ്ടും വീണ്ടും വരുന്നു.\n• ഉദാഹരണ sentences:\n  1. A number of students are absent today.\n  2. The number of students is increasing.\n  3. A large number of visitors were present.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) is\n• Singular verb ആണ്; plural 'pilgrims' ന് യോജിക്കില്ല.\n• 🪤 PSC Trap: 'number' singular ആണെന്ന ധാരണയിൽ ചാടിവീഴ്ത്തുന്നു.\n\n(C) was\n• Singular past verb ആണ്; plural 'pilgrims' ന് യോജിക്കില്ല (number പൊരുത്തക്കേട് മാത്രമാണ് തെറ്റ്).\n• 🪤 PSC Trap: Past tense ആയതിനാൽ സ്വാഭാവികമെന്ന് തോന്നിപ്പിക്കുന്നു.\n\n(D) has\n• 'has expected' അർത്ഥം മാറ്റും, singular ആണ്; passive 'expected' ന് മുമ്പ് 'has' ചേരില്ല.\n• 🪤 PSC Trap: 'has' ഉം 'expected' ഉം ചേർന്ന present perfect പോലെ തോന്നിപ്പിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"A = ഒരുപാട് പേർ (plural); THE = ഒരേ ഒരു എണ്ണം (singular)\".\n• Word family: a couple of, a variety of, a majority of + plural noun → plural verb; 'The number of' → singular.\n• PSC strategy: 'A/The number of' കണ്ടാൽ ആദ്യം A ആണോ THE ആണോ എന്ന് നോക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-10-02-Q4",
+    "paperId": "HC-DAILY-2026-10-02",
+    "questionNumber": 4,
+    "topic": "Correlatives",
+    "difficulty": "medium",
+    "questionText": "Choose the correct option to complete the sentence.\nWhether you agree __________ not, the rule must be followed by everyone.",
+    "optionA": "and",
+    "optionB": "nor",
+    "optionC": "or",
+    "optionD": "but",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) or\n\n• \"Whether ... or not\" എന്നത് സ്ഥിരമായി ഒരുമിച്ച് വരുന്ന correlative pair ആണ്.\n• അർത്ഥം: \"നിങ്ങൾ സമ്മതിച്ചാലും ഇല്ലെങ്കിലും\" — രണ്ട് സാധ്യതകളെയും ഒരുമിച്ച് പറയുന്നു.\n• അതുകൊണ്ട് 'whether' ന് ശേഷം 'or' ആണ് വരേണ്ടത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: whether ↔ or | either ↔ or | neither ↔ nor | both ↔ and | not only ↔ but also\n• Correlatives എപ്പോഴും ഒരു ജോടിയായി ഉപയോഗിക്കണം; ജോടി കൂട്ടിക്കലർത്തരുത്.\n• ⭐ PSC ആവർത്തനം: Correlatives-ൽ ഓരോ പരീക്ഷയിലും ജോടി പൊരുത്തം ചോദിക്കും.\n• ഉദാഹരണ sentences:\n  1. Whether it rains or not, we will go.\n  2. Either you leave or I will call the police.\n  3. Neither he nor his friend came.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) and\n• 'and' 'both' ന്റെ ജോടിയാണ്; 'whether' ന്റെ അല്ല.\n• 🪤 PSC Trap: രണ്ട് കാര്യങ്ങൾ ചേർക്കുന്ന 'and' ശരിയെന്ന് തോന്നും.\n\n(B) nor\n• 'nor' 'neither' ന്റെ ജോടിയാണ്; 'whether' ന് ശേഷം വരില്ല.\n• 🪤 PSC Trap: 'not' ഉള്ളതിനാൽ 'nor' ചേരുമെന്ന ധാരണ.\n\n(D) but\n• 'but' 'not only' ന്റെ ജോടിയാണ്; ഇവിടെ അർത്ഥപരമായും ചേരില്ല.\n• 🪤 PSC Trap: Contrast അർത്ഥം തോന്നിപ്പിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"WHETHER-ന് OR, NEITHER-ന് NOR\" — W-O, N-N പോലെ ജോടി ഓർക്കുക.\n• Word family: either–or, neither–nor, both–and, not only–but also, whether–or.\n• PSC strategy: ആദ്യ വാക്ക് കണ്ടയുടൻ അതിന്റെ ജോടി മനസ്സിൽ വിളിക്കുക, എന്നിട്ട് options നോക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-10-02-Q5",
+    "paperId": "HC-DAILY-2026-10-02",
+    "questionNumber": 5,
+    "topic": "Correction of Sentences",
+    "difficulty": "medium",
+    "questionText": "Spot the error in the section in italics and choose the correct option.\n__She does not know to swim__ in deep water.",
+    "optionA": "She does not know how to swim",
+    "optionB": "She does not knows to swim",
+    "optionC": "She does not know about swim",
+    "optionD": "She not know to swim",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) She does not know how to swim\n\n• \"know\" ഒരു കഴിവ് / skill കുറിക്കുമ്പോൾ \"know how to + verb\" ആണ് ശരിയായ ഘടന.\n• \"know to swim\" എന്ന് മാത്രം പറഞ്ഞാൽ കഴിവ് എന്ന അർത്ഥം ലഭിക്കില്ല; 'how' വിട്ടുപോയതാണ് തെറ്റ്.\n• \"does not\" ന് ശേഷം 'know' (V1) ശരിയായി ഉണ്ട്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: skill → know + HOW + to + V1\n• 'does / do / did' ന് ശേഷം verb എപ്പോഴും base form.\n• ⭐ PSC ആവർത്തനം: Correction of Sentences-ൽ വിട്ടുപോയ വാക്ക് കണ്ടെത്തൽ പതിവാണ്.\n• ഉദാഹരണ sentences:\n  1. He knows how to drive a car.\n  2. Do you know how to cook?\n  3. She learned how to play the violin.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) She does not knows to swim\n• 'does' ന് ശേഷം 'knows' തെറ്റാണ് (ഇരട്ട -s). 'how' വിട്ടുപോയതും തിരുത്തിയിട്ടില്ല.\n• 🪤 PSC Trap: Third-person -s ചേർക്കാൻ തോന്നിപ്പിക്കുന്നു.\n\n(C) She does not know about swim\n• 'about' ന് ശേഷം verb-ing / noun ആണ് വരേണ്ടത്; 'swim' ശരിയല്ല.\n• 🪤 PSC Trap: 'about' ചേർത്ത് സ്വാഭാവികമായി തോന്നിക്കുന്നു.\n\n(D) She not know to swim\n• Auxiliary 'does' ഇല്ല; negative ഘടന തെറ്റി.\n• 🪤 PSC Trap: ലളിതമായ 'not' മതിയെന്ന തോന്നൽ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: കഴിവ് = HOW. \"How\" ഇല്ലാതെ skill ഇല്ല!\n• Word family: know how to, learn how to, show how to, explain how to.\n• PSC strategy: Sentence-ൽ എന്തെങ്കിലും വിട്ടുപോയോ എന്ന് ആദ്യം നോക്കുക; ശേഷം auxiliary + V1 പരിശോധിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-10-02-Q6",
+    "paperId": "HC-DAILY-2026-10-02",
+    "questionNumber": 6,
+    "topic": "One Word Substitutes",
+    "difficulty": "medium",
+    "questionText": "Choose the most suitable one-word substitute for the phrase in italics.\nThe country was ruled for decades by __a government of a small group of powerful people__.",
+    "optionA": "democracy",
+    "optionB": "oligarchy",
+    "optionC": "theocracy",
+    "optionD": "anarchy",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) oligarchy\n\n• \"a government of a small group of powerful people\" എന്ന അർത്ഥമുള്ള ഒറ്റ വാക്കാണ് oligarchy.\n• Etymology: Greek 'oligoi' = കുറച്ച് പേർ + 'arkhein' = ഭരിക്കുക → \"കുറച്ച് പേർ ഭരിക്കുന്നത്\".\n• ഈ root ഓർത്താൽ വാക്ക് ഒരിക്കലും miss ആകില്ല!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: -cracy / -archy = ഭരണം; മുന്നിലെ ഭാഗം ആര് ഭരിക്കുന്നു എന്ന് പറയും.\n• Oligarchy = few rule; Democracy = people rule; Theocracy = God/priests rule; Anarchy = no rule; Aristocracy = best/noble rule; Plutocracy = rich rule.\n• ⭐ PSC ആവർത്തനം: One Word Substitutes-ൽ ഭരണരീതികൾ പതിവായി വരുന്നു.\n• Etymology hint: oligos (ഗ്രീക്ക്) = few.\n• ഉദാഹരണ sentences:\n  1. The country was an oligarchy controlled by a few families.\n  2. Democracy is government by the people.\n  3. Anarchy followed the collapse of the government.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) democracy\n• ജനങ്ങളെല്ലാം ചേർന്ന് ഭരിക്കുന്ന സംവിധാനം.\n• ഇവിടെ 'small group' ആയതിനാൽ ചേരില്ല.\n• 🪤 PSC Trap: ഏറ്റവും പരിചിതമായ ഭരണ വാക്ക്.\n\n(C) theocracy\n• മതാധികാരികൾ / ദൈവനാമത്തിൽ ഭരിക്കുന്നത്.\n• ഇവിടെ മതം പരാമർശിച്ചിട്ടില്ല.\n• 🪤 PSC Trap: -cracy സമാന വാക്ക്.\n\n(D) anarchy\n• ഭരണമില്ലാത്ത അവസ്ഥ.\n• ഇവിടെ ഒരു ഗ്രൂപ്പ് ഭരിക്കുന്നു, അതിനാൽ തെറ്റ്.\n• 🪤 PSC Trap: 'archy' ഭാഗം ഒരേ പോലെ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: OLIGarchy = OLIGO = കുറച്ച് പേർ.\n• Word family: monarchy (one), oligarchy (few), democracy (all), plutocracy (rich), aristocracy (noble).\n• PSC strategy: ഭരണത്തിന്റെ വാക്ക് കണ്ടാൽ മുന്നിലെ root നോക്കി 'ആര് ഭരിക്കുന്നു' എന്ന് ഉറപ്പാക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-10-02-Q7",
+    "paperId": "HC-DAILY-2026-10-02",
+    "questionNumber": 7,
+    "topic": "Phrasal Verbs",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the phrasal verb in italics.\nTwo of the investors suddenly __backed out__ of the deal.",
+    "optionA": "withdrew from",
+    "optionB": "supported",
+    "optionC": "negotiated",
+    "optionD": "celebrated",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) withdrew from\n\n• \"back out (of)\" എന്നാൽ ഒരു കരാറിൽ / വാഗ്ദാനത്തിൽ നിന്ന് പിന്മാറുക എന്നാണ് അർത്ഥം.\n• Sentence-ൽ നിക്ഷേപകർ deal-ൽ നിന്ന് പെട്ടെന്ന് പിന്മാറി — 'withdrew from' ഇതേ അർത്ഥം നൽകുന്നു.\n• Literal ആയി 'പിന്നോട്ട് പുറത്തേക്ക്' എന്നല്ല, idiomatic അർത്ഥം ഓർക്കണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: back OUT = പിന്മാറുക | back UP = പിന്തുണയ്ക്കുക\n• Phrasal verb-ന്റെ അർത്ഥം idiomatic ആണ്; വാക്കുകൾ വെവ്വേറെ വായിച്ചാൽ തെറ്റും.\n• ⭐ PSC ആവർത്തനം: Phrasal Verbs-ൽ 'back' കുടുംബം ഇടയ്ക്കിടെ വരുന്നു.\n• ഉദാഹരണ sentences:\n  1. He backed out of the agreement at the last minute.\n  2. Please back me up in the meeting.\n  3. She backed down after the argument.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) supported\n• 'back up' ആണ് support എന്ന അർത്ഥം നൽകുന്നത്; 'back out' അല്ല.\n• 🪤 PSC Trap: 'back' കാണുമ്പോൾ 'support' ഓർമ്മ വരും.\n\n(C) negotiated\n• ചർച്ച നടത്തി എന്നർത്ഥം; 'out of the deal' ന് യോജിക്കില്ല.\n• 🪤 PSC Trap: 'deal' ഉള്ളതിനാൽ വരുന്ന ബന്ധം.\n\n(D) celebrated\n• ആഘോഷിച്ചു എന്നർത്ഥം; ബന്ധമില്ല.\n• 🪤 PSC Trap: Option പൂർത്തിയാക്കാൻ വെച്ച distractor.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: ഒരു വാതിലിലൂടെ പിന്നോട്ട് OUT ആയി പോകുന്ന ചിത്രം — deal-ൽ നിന്ന് പുറത്തേക്ക് പിന്മാറൽ!\n• Word family: back out, back down, back up, back off.\n• PSC strategy: Preposition കൂടി നോക്കി അർത്ഥം തിരിച്ചറിയുക; literal അർത്ഥം ഒഴിവാക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-10-02-Q8",
+    "paperId": "HC-DAILY-2026-10-02",
+    "questionNumber": 8,
+    "topic": "Compound Words",
+    "difficulty": "easy",
+    "questionText": "Choose the compound word that means 'a person who is very fond of reading'.",
+    "optionA": "Bookworm",
+    "optionB": "Bookmark",
+    "optionC": "Bookshelf",
+    "optionD": "Booklet",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Bookworm\n\n• 'Bookworm' = book + worm. പുസ്തകം വായിക്കാൻ വളരെ ഇഷ്ടമുള്ള വ്യക്തിയെ ഇങ്ങനെ വിളിക്കുന്നു.\n• പുസ്തകത്താളുകൾക്കിടയിൽ ജീവിക്കുന്ന പുഴു പോലെ — ഇത് ഓർമ്മിക്കാൻ എളുപ്പമാണ്.\n• മറ്റ് മൂന്നും വസ്തുക്കളാണ്, വ്യക്തിയല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: രണ്ട് സ്വതന്ത്ര വാക്കുകൾ ചേർന്ന് പുതിയ അർത്ഥം = Compound Word\n• Compound-ന്റെ അർത്ഥം പലപ്പോഴും idiomatic ആയിരിക്കും (bookworm ഒരു പുഴുവല്ല).\n• ⭐ PSC ആവർത്തനം: Compound Words-ൽ അർത്ഥം / തിരിച്ചറിയൽ ചോദ്യങ്ങൾ വരുന്നു.\n• ഉദാഹരണ sentences:\n  1. My brother is a bookworm.\n  2. I used a bookmark to keep my place.\n  3. The bookshelf is full.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) Bookmark\n• പുസ്തകത്തിൽ പേജ് അടയാളപ്പെടുത്താനുള്ള വസ്തു.\n• 🪤 PSC Trap: Book + മറ്റൊരു വാക്ക് ഘടന.\n\n(C) Bookshelf\n• പുസ്തകങ്ങൾ വയ്ക്കുന്ന തട്ട്.\n• 🪤 PSC Trap: Book family distractor.\n\n(D) Booklet\n• ചെറിയ പുസ്തകം (book + -let).\n• 🪤 PSC Trap: ഇത് suffix ചേർത്ത വാക്കാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Book + WORM = പുസ്തകപ്പുഴു!\n• Word family: bookworm, bookmark, bookshelf, bookcase, bookkeeper.\n• PSC strategy: അർത്ഥം 'വ്യക്തി' ആണെങ്കിൽ person-നെ കുറിക്കുന്ന compound തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-10-02-Q9",
+    "paperId": "HC-DAILY-2026-10-02",
+    "questionNumber": 9,
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct synonym of the word in italics.\nThe contract contained several __ambiguous__ clauses.",
+    "optionA": "vague",
+    "optionB": "strict",
+    "optionC": "generous",
+    "optionD": "hidden",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) vague\n\n• 'Ambiguous' എന്നാൽ വ്യക്തമല്ലാത്ത, ഒന്നിലധികം അർത്ഥം വരാവുന്ന എന്നാണ്.\n• 'Vague' = അവ്യക്തമായ — ഏറ്റവും അടുത്ത synonym.\n• Etymology: Latin 'ambi' = ഇരുവശത്തും + 'agere' = നയിക്കുക → രണ്ട് വഴിക്ക് പോകുന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ambiguous = vague = unclear\n• Antonyms: clear, definite, explicit.\n• ⭐ PSC ആവർത്തനം: Synonyms ചോദ്യങ്ങളിൽ ഇത്തരം ഉയർന്ന നിലവാര വാക്കുകൾ പതിവാണ്.\n• ഉദാഹരണ sentences:\n  1. The instructions were ambiguous.\n  2. Give a clear, not vague, answer.\n  3. His statement was ambiguous and confused everyone.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) strict\n• കർശനമായ. Ambiguous-മായി ബന്ധമില്ല.\n• 🪤 PSC Trap: Contract-ന് ചേരുന്ന വാക്ക്.\n\n(C) generous\n• ഉദാരമായ. അർത്ഥം യോജിക്കുന്നില്ല.\n• 🪤 PSC Trap: Option നിറയ്ക്കാൻ.\n\n(D) hidden\n• ഒളിഞ്ഞിരിക്കുന്ന. Clauses കാണാം, പക്ഷേ വ്യക്തമല്ല.\n• 🪤 PSC Trap: 'അറിയാത്തത്' എന്ന തോന്നൽ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: AMBI = ഇരുവശം (both) → രണ്ട് അർത്ഥം = ambiguous.\n• Word family: ambidextrous, ambivalent, ambiguous — 'ambi' = both.\n• PSC strategy: Antonym ആണ് പലപ്പോഴും trap ആകുന്നത്; അടുത്ത അർത്ഥമുള്ള option തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-10-02-Q10",
+    "paperId": "HC-DAILY-2026-10-02",
+    "questionNumber": 10,
+    "topic": "Abbreviations",
+    "difficulty": "easy",
+    "questionText": "What is the full form of 'GST'?",
+    "optionA": "Goods and Services Tax",
+    "optionB": "General Sales Tax",
+    "optionC": "Government Service Tax",
+    "optionD": "Goods and Sales Transfer",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Goods and Services Tax\n\n• GST = Goods and Services Tax. ഇന്ത്യയിൽ 2017 ജൂലൈ 1 മുതൽ നിലവിൽ വന്ന പരോക്ഷ നികുതി.\n• ചരക്കുകൾക്കും സേവനങ്ങൾക്കും ഒറ്റ നികുതി സംവിധാനം എന്നതാണ് ആശയം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: G = Goods, S = Services, T = Tax\n• Abbreviation-ൽ ഓരോ അക്ഷരവും ഒരു വാക്കിന്റെ ആദ്യാക്ഷരം ആണ് ('and' പോലുള്ള ചെറുവാക്കുകൾ ഒഴിവാക്കും).\n• ⭐ PSC ആവർത്തനം: Abbreviations-ൽ സാമ്പത്തിക പദങ്ങൾ (EMI, ATM, GST) പതിവായി വരുന്നു.\n• ഉദാഹരണ:\n  1. GST – Goods and Services Tax\n  2. VAT – Value Added Tax\n  3. GDP – Gross Domestic Product",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) General Sales Tax\n• ഇത് GST-യുടെ full form അല്ല.\n• 🪤 PSC Trap: G + S + T ആദ്യാക്ഷരങ്ങൾ യോജിക്കുന്നതിനാൽ ശരിയെന്ന് തോന്നും.\n\n(C) Government Service Tax\n• തെറ്റായ വിപുലീകരണം.\n• 🪤 PSC Trap: 'Government' എന്ന വാക്ക് ആകർഷിക്കുന്നു.\n\n(D) Goods and Sales Transfer\n• അർത്ഥരഹിതമായ ഉത്തരം.\n• 🪤 PSC Trap: 'Goods and' ശരിയായ തുടക്കം ആയതിനാൽ കുഴപ്പം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: ചരക്ക് + സേവനം + നികുതി = G-S-T.\n• Word family: VAT, GDP, GNP, CGST, SGST, IGST.\n• PSC strategy: നിലവിലെ economic terms ദിവസവും പുതുക്കി പഠിക്കുക."
+    }
   }
 ]
