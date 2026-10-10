@@ -127,6 +127,9 @@ export function AuthProvider({ children }) {
   async function logout() {
     explicitSignOut.current = true
     await signOut(auth)
+    // Drop the guest/legacy streak copy so the next person to sign in on this
+    // device can't inherit it (per-user copies are keyed cs-streak:<uid>).
+    try { localStorage.removeItem('cs-streak') } catch {}
     setProfile(null)
   }
 
@@ -161,6 +164,7 @@ export function AuthProvider({ children }) {
 
     // Clear locally-stored account/usage data
     LOCAL_KEYS_TO_CLEAR.forEach(k => localStorage.removeItem(k))
+    localStorage.removeItem(`cs-streak:${uid}`)
     setProfile(null)
   }
 

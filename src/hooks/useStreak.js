@@ -4,6 +4,15 @@ import { db } from '../firebase/config'
 
 const STORAGE_KEY = 'cs-streak'
 
+// The local copy MUST be scoped to the signed-in user. A single shared key
+// meant that on a shared phone/browser, a new account inherited whatever
+// streak the previous user (or a guest session) had left in localStorage —
+// e.g. an account created on 8 Oct showing a 22-day streak. Guests keep the
+// bare key; signed-in users get their own.
+function storageKey(uid) {
+  return uid ? `${STORAGE_KEY}:${uid}` : STORAGE_KEY
+}
+
 // A streak survives a gap of up to this many hours of inactivity before it
 // resets. 72h = "missed a day or two is fine, missed three days breaks it" —
 // more forgiving than a strict calendar-day check, and immune to someone
@@ -21,9 +30,9 @@ function todayStr() {
   return localDateStr()
 }
 
-function readLocal() {
+function readLocal(uid) {
   try {
-    return JSON.parse(localStorage.getItem(STORAGE_KEY) || 'null') || {
+    return JSON.parse(localStorage.getItem(storageKey(uid)) || 'null') || {
       currentStreak: 0,
       longestStreak: 0,
       lastActivityDate: null,
@@ -34,9 +43,9 @@ function readLocal() {
   }
 }
 
-function writeLocal(data) {
+function writeLocal(data, uid) {
   try {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(data))
+    localStorage.setItem(storageKey(uid), JSON.stringify(data))
   } catch {}
 }
 
@@ -99,14 +108,18 @@ function computeNewStreak(existing) {
 // current rule doesn't wrongly zero it out here either.
 // Throws if the results read fails, so the caller can retry rather than mark
 // the repair "done" on a transient error.
-async function reconstructFromResults(uid, existing) {
+async function reconstructFromResults(uid, existing, { allowDowngrade = false } = {}) {
   const snap = await getDocs(collection(db, 'results', uid, 'quizzes'))
   const dates = []
   snap.forEach(d => {
     const v = d.data().date
     if (v) dates.push(new Date(v))
   })
-  if (dates.length === 0) return existing
+  if (dates.length === 0) {
+    return allowDowngrade
+      ? { currentStreak: 0, longestStreak: 0, lastActivityDate: null, lastActivityAt: null }
+      : existing
+  }
 
   // One entry per local calendar day, timestamped at that day's LATEST
   // activity — that's what would have been saved as lastActivityAt if the
@@ -135,6 +148,15 @@ async function reconstructFromResults(uid, existing) {
   const [lastActiveDay, lastActiveTs] = entries[entries.length - 1]
   const alive = (new Date() - lastActiveTs) / 3_600_000 <= GRACE_HOURS
 
+  if (allowDowngrade) {
+    return {
+      currentStreak: alive ? current : 0,
+      longestStreak: Math.max(longest, current),
+      lastActivityDate: lastActiveDay,
+      lastActivityAt: lastActiveTs.toISOString(),
+    }
+  }
+
   // Never downgrade: keep the best of stored vs reconstructed.
   return {
     currentStreak: Math.max(existing?.currentStreak || 0, alive ? current : 0),
@@ -146,6 +168,18 @@ async function reconstructFromResults(uid, existing) {
         ? existing.lastActivityAt
         : lastActiveTs.toISOString(),
   }
+}
+
+// Number of local calendar days the account has existed, counting the
+// signup day as day 1. No genuine streak can be longer than this.
+function accountAgeDays(createdAt) {
+  if (!createdAt) return null
+  const c = new Date(createdAt)
+  if (isNaN(c)) return null
+  const start = new Date(c.getFullYear(), c.getMonth(), c.getDate())
+  const now = new Date()
+  const today = new Date(now.getFullYear(), now.getMonth(), now.getDate())
+  return Math.round((today - start) / 86_400_000) + 1
 }
 
 // Streak lengths worth a special celebration. Early wins (3, 7) come fast to
@@ -164,7 +198,8 @@ export function useStreak() {
     // a different origin with its own empty storage) looked like "first ever
     // visit", reset the streak to 1, and then overwrote the real value in
     // Firestore. Now Firestore wins whenever it's more advanced.
-    let existing = readLocal()
+    const uid = user?.uid
+    let existing = readLocal(uid)
     if (user) {
       try {
         const snap = await getDoc(doc(db, 'users', user.uid))
@@ -178,7 +213,7 @@ export function useStreak() {
     const updated = computeNewStreak(existing)
 
     // Always write to localStorage
-    writeLocal(updated)
+    writeLocal(updated, uid)
 
     // Also write to Firestore if logged in
     if (user) {
@@ -199,7 +234,7 @@ export function useStreak() {
       try {
         const snap = await getDoc(doc(db, 'users', user.uid))
         const data = snap.exists() ? snap.data() : {}
-        let s = data.streak || readLocal()
+        let s = data.streak || readLocal(user.uid)
 
         // One-time repair: rebuild the streak from real quiz history to undo
         // resets caused by the storage/domain-change bug, and to apply the
@@ -234,12 +269,30 @@ export function useStreak() {
           } catch {}
         }
 
-        writeLocal(s)
+        // V4: undo streaks inherited from the old shared localStorage key.
+        // A streak longer than the account's age can't be real, so rebuild it
+        // from this user's own quiz history WITHOUT the never-downgrade floor
+        // (the floor is what kept the inherited number alive). Users whose
+        // streak fits within their account age are left untouched.
+        const age = accountAgeDays(data.createdAt || user.metadata?.creationTime)
+        if (!data.streakRebuiltV4 && age && ((s?.currentStreak || 0) > age || (s?.longestStreak || 0) > age)) {
+          try {
+            s = await reconstructFromResults(user.uid, s, { allowDowngrade: true })
+            s = {
+              ...s,
+              currentStreak: Math.min(s.currentStreak || 0, age),
+              longestStreak: Math.min(s.longestStreak || 0, age),
+            }
+            await setDoc(doc(db, 'users', user.uid), { streak: s, streakRebuiltV4: true }, { merge: true })
+          } catch {}
+        }
+
+        writeLocal(s, user.uid)
         return s
       } catch {}
     }
     // Guest or fallback
-    return readLocal()
+    return readLocal(user?.uid)
   }
 
   return { updateStreak, getStreak }
