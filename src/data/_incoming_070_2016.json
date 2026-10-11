@@ -1,0 +1,373 @@
+{
+  "paper": {
+    "id": "070-2016-M",
+    "paperCode": "70/2016 M",
+    "post": "Women Police Constable (Armed Police Battalion) - Police",
+    "date": "21-May-2016",
+    "medium": "M",
+    "year": "2016",
+    "answerKeyStatus": "final"
+  },
+  "questions": [
+    {
+      "id": "070-2016-M-Q61",
+      "paperId": "070-2016-M",
+      "questionNumber": 61,
+      "topic": "Tenses",
+      "questionText": "Find out the sentence in past perfect tense :",
+      "optionA": "When I arrived Raju has just left",
+      "optionB": "When I arrived Raju had just left",
+      "optionC": "When I arrived Raju was just left",
+      "optionD": "When I arrived Raju was just leaving",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) When I arrived Raju had just left\n• Past Perfect Tense-ന്റെ ഘടന: had + V3 → 'had left'.\n• ഭൂതകാലത്തിലെ രണ്ട് പ്രവൃത്തികളിൽ ആദ്യം നടന്നത് (രാജു പോയത്) Past Perfect-ലും, പിന്നീട് നടന്നത് (ഞാൻ എത്തിയത്) Simple Past-ലും.\n• 'ഞാൻ എത്തിയപ്പോഴേക്കും രാജു ഇപ്പോൾ പോയതേയുള്ളൂ' എന്നർത്ഥം — 'just' = തൊട്ടുമുമ്പ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Past Perfect = had + V3 (എല്ലാ subject-നും had)\n• Present Perfect = has/have + V3 | Past Continuous = was/were + V-ing | Passive = was + V3.\n• രണ്ട് ഭൂതകാല പ്രവൃത്തികൾ: ആദ്യത്തേതിന് had + V3, രണ്ടാമത്തേതിന് V2.\n• ⭐ PSC ആവർത്തനം: 'Find the sentence in ... tense' — tense തിരിച്ചറിയൽ ചോദ്യങ്ങൾ PSC Police പേപ്പറുകളിൽ സ്ഥിരം!\n• ഉദാഹരണ sentences:\n1. The train had left when we reached the station. (ഞങ്ങൾ സ്റ്റേഷനിൽ എത്തിയപ്പോഴേക്കും ട്രെയിൻ പോയിരുന്നു)\n2. She had finished her homework before dinner. (അത്താഴത്തിന് മുമ്പേ അവൾ ഗൃഹപാഠം തീർത്തിരുന്നു)\n3. I had never seen snow before I went to Kashmir. (കശ്മീരിൽ പോകുന്നതിന് മുമ്പ് ഞാൻ മഞ്ഞ് കണ്ടിട്ടില്ലായിരുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) ...Raju has just left — Present Perfect (has + V3); 'arrived' എന്ന ഭൂതകാലവുമായി ചേരില്ല.\n• 🪤 PSC Trap: has/had എന്ന ഒരക്ഷര വ്യത്യാസം മാത്രം — ശ്രദ്ധയില്ലാതെ വായിക്കുന്നവരെ പിടിക്കാനുള്ള കെണി!\n• (C) ...Raju was just left — 'was + V3' ഒരു Passive ഘടനയാണ്; 'രാജു ഉപേക്ഷിക്കപ്പെട്ടു' എന്ന വ്യത്യസ്ത അർത്ഥം വരും.\n• (D) ...Raju was just leaving — Past Continuous (was + ing); 'രാജു പോകാൻ തുടങ്ങുകയായിരുന്നു' — Past Perfect അല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'HAD = ഹാജർ കഴിഞ്ഞ് പോയി!' — had + V3 കണ്ടാൽ ആ പ്രവൃത്തി മറ്റേതിനും മുമ്പേ പൂർത്തിയായി.\n• ഒരുമിച്ച് പഠിക്കുക: has left (ഇപ്പോൾ പോയി), had left (അന്ന് മുമ്പേ പോയിരുന്നു), was leaving (പോകുകയായിരുന്നു), had been leaving (പോയിക്കൊണ്ടിരുന്നു).\n• PSC strategy: tense തിരിച്ചറിയൽ ചോദ്യത്തിൽ helping verb മാത്രം നോക്കുക — had + V3 ഉള്ളത് Past Perfect. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "070-2016-M-Q62",
+      "paperId": "070-2016-M",
+      "questionNumber": 62,
+      "topic": "Question Tags",
+      "questionText": "Use Question Tag.\nI am not late, ____________?",
+      "optionA": "am I?",
+      "optionB": "aren't I?",
+      "optionC": "shall I?",
+      "optionD": "will I?",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) am I?\n• Statement negative ആണ് (I am not late) → tag positive ആകണം.\n• Statement-ലെ helping verb 'am' തന്നെ tag-ൽ ആവർത്തിക്കുന്നു → 'am I?'\n• 'ഞാൻ വൈകിയിട്ടില്ല, ഉണ്ടോ?' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: I am not ... → am I? | I am ... → aren't I?\n• Negative വാക്യത്തിന് സാധാരണ നിയമം തന്നെ: helping verb + subject (positive).\n• 'aren't I' എന്ന അപവാദം positive 'I am' വാക്യത്തിന് മാത്രമാണ്.\n• ⭐ PSC ആവർത്തനം: 'I am' ഉം 'I am not' ഉം മാറിമാറി ചോദിച്ച് PSC വിദ്യാർത്ഥികളെ കുഴപ്പിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. I am not wrong, am I? (ഞാൻ തെറ്റല്ല, ആണോ?)\n2. I am your teacher, aren't I? (ഞാൻ നിന്റെ ടീച്ചറാണ്, അല്ലേ?)\n3. He is not coming, is he? (അവൻ വരുന്നില്ല, ഉണ്ടോ?)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) aren't I? — negative tag; negative statement-ന് negative tag ചേരില്ല. ഇത് positive 'I am ...' വാക്യത്തിനുള്ളതാണ്.\n• 🪤 PSC Trap: 'aren't I' എന്ന അപവാദം ഓർമ്മയുള്ളവർ വാക്യത്തിലെ 'not' ശ്രദ്ധിക്കാതെ ഇത് തിരഞ്ഞെടുക്കും — അതാണ് കെണി!\n• (C) shall I? — 'Let's' വാക്യങ്ങൾക്കോ ഭാവിയെക്കുറിച്ചുള്ള നിർദ്ദേശങ്ങൾക്കോ ആണ്; statement-ൽ 'shall' ഇല്ല.\n• (D) will I? — statement-ൽ 'will' ഇല്ല; tag-ൽ അതേ helping verb (am) തന്നെ വേണം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'NOT കണ്ടാൽ സാധാരണ നിയമം; NOT ഇല്ലാത്ത I am-ന് മാത്രം AREN'T I എന്ന സ്പെഷ്യൽ!'\n• ഒരുമിച്ച് പഠിക്കുക: I am → aren't I? | I am not → am I? | Let's → shall we?\n• PSC strategy: tag ചോദ്യത്തിൽ ആദ്യം 'not/never/no' ഉണ്ടോ എന്ന് നോക്കുക — ഉണ്ടെങ്കിൽ positive tag ഉറപ്പ്. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "070-2016-M-Q63",
+      "paperId": "070-2016-M",
+      "questionNumber": 63,
+      "topic": "Word Formation",
+      "questionText": "Give the noun form of the adjective \"atrocious\" :",
+      "optionA": "Atricity",
+      "optionB": "Atritivity",
+      "optionC": "Atrocity",
+      "optionD": "None of these",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) Atrocity\n• 'atrocious' (adjective) = അതിക്രൂരമായ, ഭീകരമായ.\n• 'atrocity' (noun) = ക്രൂരകൃത്യം, അതിക്രമം.\n• '-ious'-ൽ അവസാനിക്കുന്ന പല adjectives-ന്റെയും noun രൂപം '-ity' ചേർത്താണ്: atrocious → atrocity.\n• Latin 'atrox' (ക്രൂരമായ, ഭയങ്കരമായ) എന്നതിൽ നിന്നാണ് ഈ വാക്ക് — പോലീസ് റിപ്പോർട്ടുകളിൽ പതിവായി കാണുന്ന വാക്ക്!",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: -OCIOUS (adjective) → -OCITY (noun)\n• atrocious → atrocity, ferocious → ferocity (ക്രൗര്യം), precocious → precocity (അകാലപക്വത), velocious → velocity (വേഗത).\n• curious → curiosity, generous → generosity — ഇതും സമാന കുടുംബം.\n• ⭐ PSC ആവർത്തനം: adjective-ൽ നിന്ന് noun form ഉണ്ടാക്കുന്ന Word Formation ചോദ്യങ്ങൾ PSC സ്ഥിരം ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. The army committed many atrocities. (സൈന്യം നിരവധി ക്രൂരകൃത്യങ്ങൾ ചെയ്തു)\n2. It was an atrocious crime. (അതൊരു അതിക്രൂരമായ കുറ്റകൃത്യമായിരുന്നു)\n3. The tiger attacked with great ferocity. (കടുവ അതിഭയങ്കരമായി ആക്രമിച്ചു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Atricity — 'o' മാറി 'i' ആയ കൃത്രിമ രൂപം; atrocious-ലെ 'atroc' എന്ന root നഷ്ടപ്പെട്ടു.\n• 🪤 PSC Trap: ശരിയായ രൂപത്തോട് ഒരക്ഷരം മാത്രം വ്യത്യാസമുള്ള ഈ option ശ്രദ്ധയില്ലാതെ വായിക്കുന്നവരെ കുടുക്കും!\n• (B) Atritivity — English-ൽ ഇല്ലാത്ത, പൂർണ്ണമായും കൃത്രിമമായ വാക്ക്.\n• (D) None of these — 'Atrocity' എന്ന ശരിയുത്തരം options-ൽ ഉള്ളതിനാൽ ഇത് തെറ്റ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ATROC-IOUS-ൽ നിന്ന് IOUS മാറ്റി ITY ചേർക്കൂ — ATROC എന്ന വേര് മാറ്റരുത്!'\n• ഒരുമിച്ച് പഠിക്കുക: atrocious-atrocity, ferocious-ferocity, curious-curiosity, generous-generosity, anxious-anxiety.\n• PSC strategy: Word Formation-ൽ root (atroc) കൃത്യമായി നിലനിർത്തിയ option തിരഞ്ഞെടുക്കുക; root മാറിയവ വെട്ടിക്കളയുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "070-2016-M-Q64",
+      "paperId": "070-2016-M",
+      "questionNumber": 64,
+      "topic": "Parts of Speech",
+      "questionText": "'I shall meet you tomorrow', in this sentence 'tomorrow' is :",
+      "optionA": "Adjective",
+      "optionB": "Conjunction",
+      "optionC": "Preposition",
+      "optionD": "Adverb",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) Adverb\n• ഈ വാക്യത്തിൽ 'tomorrow' എന്ന വാക്ക് 'meet' എന്ന verb-നെക്കുറിച്ച് 'എപ്പോൾ?' എന്ന ചോദ്യത്തിന് ഉത്തരം നൽകുന്നു.\n• Verb-നെ വിശേഷിപ്പിക്കുന്ന വാക്ക് adverb ആണ് — ഇവിടെ adverb of time.\n• 'ഞാൻ നിന്നെ നാളെ കാണും' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: ഒരു വാക്കിന്റെ part of speech തീരുമാനിക്കുന്നത് വാക്യത്തിലെ അതിന്റെ ജോലിയാണ്!\n• Adverb (verb-നെ വിശേഷിപ്പിക്കുന്നു): I shall meet you tomorrow. (എപ്പോൾ കാണും? — നാളെ)\n• Noun (subject/object ആയി): Tomorrow is a holiday. (നാളെ ഒരു അവധിദിനമാണ്)\n• Adjective (noun-നെ വിശേഷിപ്പിക്കുന്നു): tomorrow's meeting (നാളത്തെ യോഗം — possessive form).\n• ⭐ PSC ആവർത്തനം: today/tomorrow/yesterday പോലുള്ള വാക്കുകളുടെ part of speech PSC ആവർത്തിച്ച് ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. He came yesterday. (അവൻ ഇന്നലെ വന്നു — adverb)\n2. Yesterday was Sunday. (ഇന്നലെ ഞായറാഴ്ചയായിരുന്നു — noun)\n3. She will leave soon. (അവൾ ഉടനെ പോകും — adverb)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Adjective — noun-നെ വിശേഷിപ്പിക്കുന്ന വാക്ക്; ഇവിടെ 'tomorrow' ഒരു noun-നെയും വിശേഷിപ്പിക്കുന്നില്ല.\n• (B) Conjunction — രണ്ട് വാക്കുകളെയോ വാക്യങ്ങളെയോ ബന്ധിപ്പിക്കുന്നത് (and, but); 'tomorrow' ഒന്നിനെയും ബന്ധിപ്പിക്കുന്നില്ല.\n• (C) Preposition — noun-ന് മുമ്പ് വന്ന് ബന്ധം കാണിക്കുന്നത് (in, on, at); 'tomorrow' ഇങ്ങനെ പ്രവർത്തിക്കുന്നില്ല.\n• 🪤 PSC Trap: 'tomorrow' എന്ന വാക്കിനെ എപ്പോഴും noun എന്ന് മാത്രം കരുതുന്നവരെ പിടിക്കാനുള്ള ചോദ്യം — വാക്യത്തിലെ ജോലി നോക്കുക!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'എപ്പോൾ? എവിടെ? എങ്ങനെ? — verb-നോട് ഈ ചോദ്യങ്ങൾ ചോദിച്ചാൽ കിട്ടുന്ന ഉത്തരം ADVERB!'\n• ഒരുമിച്ച് പഠിക്കുക: today, tomorrow, yesterday, now, then, soon, here, there — സാധാരണ adverbs of time/place.\n• PSC strategy: part of speech ചോദ്യത്തിൽ ആ വാക്ക് വാക്യത്തിൽ എന്ത് ജോലി ചെയ്യുന്നു എന്ന് മാത്രം നോക്കുക — നിഘണ്ടു അർത്ഥമല്ല. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "070-2016-M-Q65",
+      "paperId": "070-2016-M",
+      "questionNumber": 65,
+      "topic": "Parts of Speech",
+      "questionText": "Which is a Pronoun?",
+      "optionA": "On",
+      "optionB": "But",
+      "optionC": "Each",
+      "optionD": "An",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) Each\n• 'Each' ഒരു noun-ന് പകരം ഒറ്റയ്ക്ക് നിൽക്കാൻ കഴിയുന്ന വാക്കാണ് — distributive pronoun (ഓരോരുത്തരും).\n• ഉദാ: Each of the boys got a prize. (ആൺകുട്ടികളിൽ ഓരോരുത്തർക്കും സമ്മാനം കിട്ടി) — ഇവിടെ 'Each' ഒരു pronoun.\n• 'Each boy' എന്ന് noun-നൊപ്പം വന്നാൽ അത് adjective ആകും; എന്നാൽ options-ൽ pronoun ആയി പ്രവർത്തിക്കാൻ കഴിയുന്ന ഒരേയൊരു വാക്ക് 'Each' ആണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Distributive Pronouns = each, either, neither (ഓരോന്നിനെയും വേറിട്ട് കാണിക്കുന്നു)\n• ഇവ singular ആയതിനാൽ singular verb എടുക്കുന്നു: Each of them is ready.\n• മറ്റ് pronoun തരങ്ങൾ: personal (he, she), possessive (mine, yours), reflexive (myself), relative (who, which), demonstrative (this, that).\n• ⭐ PSC ആവർത്തനം: 'Which is a pronoun / preposition / conjunction?' — Parts of Speech തിരിച്ചറിയൽ PSC Police പേപ്പറുകളിൽ പതിവാണ്!\n• ഉദാഹരണ sentences:\n1. Each of the students has a book. (ഓരോ വിദ്യാർത്ഥിക്കും ഓരോ പുസ്തകമുണ്ട്)\n2. Either of these roads leads to the town. (ഈ റോഡുകളിൽ ഏതെങ്കിലും ഒന്ന് പട്ടണത്തിലേക്ക് പോകുന്നു)\n3. Neither of them came. (അവരിൽ ആരും വന്നില്ല)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) On — ഒരു preposition ആണ് (on the table — മേശപ്പുറത്ത്).\n• (B) But — ഒരു conjunction ആണ് (He is poor but honest — അവൻ പാവമാണെങ്കിലും സത്യസന്ധനാണ്).\n• (D) An — ഒരു article ആണ് (an apple); articles adjectives-ന്റെ ഒരു വിഭാഗമായി കണക്കാക്കുന്നു.\n• 🪤 PSC Trap: 'Each' പലപ്പോഴും adjective ആയി (each boy) കാണുന്നതിനാൽ സംശയം ജനിപ്പിക്കും — പക്ഷേ ഒറ്റയ്ക്ക് നിൽക്കാൻ കഴിയുന്ന ഒരേയൊരു option ഇതാണ്!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'EACH = ഓരോരുത്തനും — ഒരു ആളിന് പകരം നിൽക്കുന്നതിനാൽ PRONOUN!'\n• ഒരുമിച്ച് പഠിക്കുക: each, either, neither (distributive) | on, in, at (preposition) | and, but, or (conjunction) | a, an, the (article).\n• PSC strategy: options-ലെ ഓരോ വാക്കിനെയും അതിന്റെ സ്ഥിരം വിഭാഗത്തിൽ (preposition/conjunction/article) ആദ്യം ഉൾപ്പെടുത്തി ഒഴിവാക്കുക; ബാക്കിയുള്ളതാണ് ഉത്തരം. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "070-2016-M-Q66",
+      "paperId": "070-2016-M",
+      "questionNumber": 66,
+      "topic": "Conditionals",
+      "questionText": "Complete the sentence :\nIf I were a Bird, ____________.",
+      "optionA": "I will fly",
+      "optionB": "I would fly",
+      "optionC": "I would have fly",
+      "optionD": "It would have fly",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) I would fly\n• 'If I were a bird' — ഒരിക്കലും യാഥാർത്ഥ്യമാകാത്ത ഒരു സാങ്കൽപ്പിക അവസ്ഥ (imaginary situation) → Second Conditional.\n• Second Conditional-ൽ main clause: would + V1 → 'I would fly'.\n• 'ഞാൻ ഒരു പക്ഷിയായിരുന്നെങ്കിൽ ഞാൻ പറന്നേനെ' എന്നർത്ഥം.\n• ശ്രദ്ധിക്കുക: സാങ്കൽപ്പിക അവസ്ഥയിൽ 'I' ആണെങ്കിലും 'was' അല്ല, 'were' ആണ് ഉപയോഗിക്കുന്നത്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: If + Simple Past (were) → would + V1 (Second Conditional — സങ്കൽപ്പം)\n• First: If + V1 → will + V1 (സാധ്യതയുള്ളത്) | Third: If + had + V3 → would have + V3 (കഴിഞ്ഞുപോയ നടക്കാത്ത കാര്യം).\n• 'If I were you', 'If I were a king' — സങ്കൽപ്പങ്ങൾക്ക് എല്ലാ subject-നും 'were'.\n• ⭐ PSC ആവർത്തനം: 'If I were a bird / a king / you' — Second Conditional PSC-യിൽ ഏറ്റവും ആവർത്തിച്ച ചോദ്യങ്ങളിൽ ഒന്ന്!\n• ഉദാഹരണ sentences:\n1. If I were rich, I would build a hospital. (ഞാൻ പണക്കാരനായിരുന്നെങ്കിൽ ഒരു ആശുപത്രി പണിതേനെ)\n2. If I were you, I would accept the offer. (ഞാൻ നിന്റെ സ്ഥാനത്തായിരുന്നെങ്കിൽ ഓഫർ സ്വീകരിച്ചേനെ)\n3. If she had time, she would help us. (അവൾക്ക് സമയമുണ്ടായിരുന്നെങ്കിൽ ഞങ്ങളെ സഹായിച്ചേനെ)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) I will fly — First Conditional-ന്റെ main clause; അതിന് if clause Simple Present (If I am) ആയിരിക്കണം.\n• 🪤 PSC Trap: 'ഞാൻ പറക്കും' എന്ന ലളിതമായ ഭാവി രൂപം സ്വാഭാവികമായി തോന്നും — പക്ഷേ 'were' സങ്കൽപ്പത്തെ സൂചിപ്പിക്കുന്നു!\n• (C) I would have fly — Third Conditional-ന്റെ രൂപമാണ് ഉദ്ദേശിച്ചതെങ്കിൽ 'would have flown' (V3) വേണം; 'fly' (V1) ചേർത്തത് വ്യാകരണ തെറ്റ്.\n• (D) It would have fly — subject 'It' തെറ്റ് (I വേണം); കൂടാതെ V1/V3 തെറ്റും — ഇരട്ടത്തെറ്റ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'IF I WERE കണ്ടാൽ WOULD എന്ന സ്വപ്നം!' — were (സങ്കൽപ്പം) ↔ would (സ്വപ്നം).\n• ഒരുമിച്ച് പഠിക്കുക: If I am → I will | If I were → I would | If I had been → I would have + V3.\n• PSC strategy: if clause-ലെ verb നോക്കുക — were/V2 ആണെങ്കിൽ would + V1 ഉള്ള option തിരഞ്ഞെടുക്കുക. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "070-2016-M-Q67",
+      "paperId": "070-2016-M",
+      "questionNumber": 67,
+      "topic": "Infinitive and Gerunds",
+      "questionText": "Use appropriate preposition.\nMilk is good ____________ drink.",
+      "optionA": "for",
+      "optionB": "if",
+      "optionC": "at",
+      "optionD": "to",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) to\n• 'good to drink' = കുടിക്കാൻ നല്ലത് — adjective (good) + to + V1 (infinitive).\n• Blank-ന് ശേഷം 'drink' എന്ന verb (V1) വരുന്നതിനാൽ അതിന് മുമ്പ് 'to' ചേർന്ന് infinitive ആകണം.\n• 'പാൽ കുടിക്കാൻ നല്ലതാണ്' എന്നർത്ഥം.\n• ചോദ്യം 'preposition' എന്ന് പറയുന്നുണ്ടെങ്കിലും ഇവിടെ 'to' infinitive marker ആയാണ് പ്രവർത്തിക്കുന്നത്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: adjective + TO + V1 (easy to learn, good to eat, ready to go)\n• adjective + for + noun/V-ing: good for health, good for drinking.\n• Milk is good to drink. = Milk is good for drinking. — രണ്ടും ശരി; പക്ഷേ ശേഷം V1 (drink) ആയതിനാൽ 'to'.\n• ⭐ PSC ആവർത്തനം: 'to' ഉം 'for' ഉം തമ്മിലുള്ള ആശയക്കുഴപ്പം ശേഷം വരുന്ന verb രൂപം നോക്കി PSC ചോദിക്കാറുണ്ട്!\n• ഉദാഹരണ sentences:\n1. This water is safe to drink. (ഈ വെള്ളം കുടിക്കാൻ സുരക്ഷിതമാണ്)\n2. English is easy to learn. (ഇംഗ്ലീഷ് പഠിക്കാൻ എളുപ്പമാണ്)\n3. Exercise is good for health. (വ്യായാമം ആരോഗ്യത്തിന് നല്ലതാണ് — noun ആയതിനാൽ for)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) for — ശേഷം noun-ഓ V-ing-ഓ വേണം (good for health, good for drinking); 'good for drink' തെറ്റ്.\n• 🪤 PSC Trap: 'good for' ഏറ്റവും പരിചിതമായ ജോഡിയായതിനാൽ ഉടനെ തിരഞ്ഞെടുക്കാൻ തോന്നും — ശേഷം V1 ഉള്ളതാണ് യഥാർത്ഥ സൂചന!\n• (B) if — ഒരു conjunction ആണ്; ശേഷം subject + verb വേണം; 'good if drink' അർത്ഥമില്ലാത്തത്.\n• (C) at — 'good at' = ഒന്നിൽ കഴിവുള്ള (good at maths); പാലിനെക്കുറിച്ച് ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Verb-ന്റെ മുന്നിൽ TO, Noun-ന്റെ മുന്നിൽ FOR!' — good to drink / good for health.\n• ഒരുമിച്ച് പഠിക്കുക: good to eat, easy to learn, hard to believe, ready to go | good for health, good at games.\n• PSC strategy: blank-ന് ശേഷം V1 വന്നാൽ 'to'; noun വന്നാൽ for/at തുടങ്ങിയവ പരിഗണിക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "070-2016-M-Q68",
+      "paperId": "070-2016-M",
+      "questionNumber": 68,
+      "topic": "Active and Passive Voice",
+      "questionText": "The passive form of 'I was writing a letter' is :",
+      "optionA": "A letter was being written by me",
+      "optionB": "A letter has been written by me",
+      "optionC": "A letter is written by me",
+      "optionD": "A letter is being written by me",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) A letter was being written by me\n• Active വാക്യം Past Continuous (was writing) → Passive-ലും Past Continuous: was/were + being + V3.\n• പുതിയ subject 'A letter' singular → 'was being written'.\n• 'I' → 'by me' (object രൂപം).\n• 'ഒരു കത്ത് എന്നാൽ എഴുതപ്പെട്ടുകൊണ്ടിരിക്കുകയായിരുന്നു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Past Continuous Passive = was/were + BEING + V3\n• Present Continuous Passive = is/am/are + being + V3.\n• Continuous tense-ന്റെ Passive-ൽ 'being' നിർബന്ധം; tense ഒരിക്കലും മാറില്ല.\n• Pronoun മാറ്റം: I → me, we → us, he → him, she → her, they → them.\n• ⭐ PSC ആവർത്തനം: 'being' ഉൾപ്പെടുന്ന Passive ചോദ്യം PSC Police പേപ്പറുകളിൽ ആവർത്തിച്ച് വരുന്നു!\n• ഉദാഹരണ sentences:\n1. They were painting the wall. → The wall was being painted by them. (അവരാൽ മതിൽ പെയിന്റ് ചെയ്യപ്പെട്ടുകൊണ്ടിരുന്നു)\n2. She is cooking food. → Food is being cooked by her. (അവളാൽ ഭക്ഷണം പാകം ചെയ്യപ്പെട്ടുകൊണ്ടിരിക്കുന്നു)\n3. He was reading a book. → A book was being read by him. (അവനാൽ ഒരു പുസ്തകം വായിക്കപ്പെട്ടുകൊണ്ടിരുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) ...has been written by me — Present Perfect Passive; യഥാർത്ഥ tense Past Continuous ആയതിനാൽ തെറ്റ്.\n• (C) ...is written by me — Simple Present Passive; continuous-ഉം past-ഉം നഷ്ടപ്പെട്ടു.\n• (D) ...is being written by me — Continuous ശരി, പക്ഷേ Present ആയി മാറി; 'was' ആണ് വേണ്ടത്.\n• 🪤 PSC Trap: (D)-യിൽ 'being' കണ്ട് ശരിയെന്ന് തോന്നും — പക്ഷേ was/is എന്ന കാല വ്യത്യാസം ശ്രദ്ധിക്കണം!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'WAS writING → WAS BEING written — WAS മാറില്ല, ING പോയി BEING വരും!'\n• ഒരുമിച്ച് പഠിക്കുക: is writing → is being written, was writing → was being written, has written → has been written.\n• PSC strategy: Passive options-ൽ Active-ലെ helping verb (was) അതേപടി ഉള്ളതും 'being' ഉള്ളതുമായ option തിരഞ്ഞെടുക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "070-2016-M-Q69",
+      "paperId": "070-2016-M",
+      "questionNumber": 69,
+      "topic": "Auxiliary Verbs",
+      "questionText": "Each can ____________ his turn on the wheel of life.",
+      "optionA": "take",
+      "optionB": "takes",
+      "optionC": "took",
+      "optionD": "will take",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) take\n• 'can' ഒരു modal auxiliary ആണ്; modal-ന് ശേഷം എപ്പോഴും verb-ന്റെ അടിസ്ഥാന രൂപം (V1) മാത്രമേ വരൂ → can take.\n• Subject 'Each' singular ആണെങ്കിലും modal-ന് ശേഷം 's' ചേർക്കില്ല.\n• 'ജീവിതചക്രത്തിൽ ഓരോരുത്തർക്കും തന്റെ ഊഴം എടുക്കാം' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Modal (can/could/may/might/will/would/shall/should/must) + V1\n• He can swim ✓ | He can swims ✗ | He can swam ✗.\n• Modal-ന് ശേഷം to, -s, -ed, -ing ഒന്നും ചേരില്ല (ought to ഒഴികെ).\n• ⭐ PSC ആവർത്തനം: 'singular subject + modal + V1' — 's' ചേർക്കാനുള്ള പ്രലോഭനം PSC-യുടെ സ്ഥിരം കെണിയാണ്!\n• ഉദാഹരണ sentences:\n1. She can speak French. (അവൾക്ക് ഫ്രഞ്ച് സംസാരിക്കാനാകും)\n2. Everyone must follow the rules. (എല്ലാവരും നിയമങ്ങൾ പാലിക്കണം)\n3. He may come today. (അവൻ ഇന്ന് വന്നേക്കാം)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) takes — 'Each' singular ആയതിനാൽ 's' വേണമെന്ന് തോന്നും; പക്ഷേ modal (can) ഉള്ളപ്പോൾ verb-ന് 's' ചേർക്കില്ല.\n• 🪤 PSC Trap: Subject-Verb Agreement നിയമം ഓർത്ത് 'takes' തിരഞ്ഞെടുക്കുന്നവരെ പിടിക്കാനുള്ള കെണി — modal ഉള്ളപ്പോൾ ആ നിയമം ബാധകമല്ല!\n• (C) took — V2 (past) രൂപം; modal-ന് ശേഷം വരില്ല.\n• (D) will take — രണ്ട് modals (can + will) ഒരുമിച്ച് വരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'MODAL ഒരു രാജാവ് — അതിന് ശേഷം verb വസ്ത്രമില്ലാതെ (V1) മാത്രം!' — s, ed, ing ഒന്നും ധരിക്കരുത്.\n• ഒരുമിച്ച് പഠിക്കുക: can, could, may, might, shall, should, will, would, must + V1.\n• PSC strategy: blank-ന് തൊട്ടുമുമ്പ് ഒരു modal കണ്ടാൽ ഉടനെ V1 option തിരഞ്ഞെടുക്കുക — subject നോക്കേണ്ടതേയില്ല. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "070-2016-M-Q70",
+      "paperId": "070-2016-M",
+      "questionNumber": 70,
+      "topic": "Direct and Indirect Speech",
+      "questionText": "The indirect form of :\nKamala said \"I am late\"",
+      "optionA": "Kamala said that she is late",
+      "optionB": "Kamala said that she will late",
+      "optionC": "Kamala said that she would late",
+      "optionD": "Kamala said that she was late",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) Kamala said that she was late\n• Reporting verb 'said' Past Tense-ൽ ആയതിനാൽ reported speech-ൽ backshift: 'am' → 'was'.\n• 'I' → 'she' (കമലയെക്കുറിച്ച് പറയുന്നതിനാൽ); quotation marks മാറ്റി 'that' ചേർക്കുന്നു.\n• 'താൻ വൈകിയെന്ന് കമല പറഞ്ഞു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: said + \"am/is\" → said that + was\n• Backshift: am/is → was | are → were | do/does → did | will → would | can → could.\n• Pronoun: I → he/she (പറയുന്നയാളെ അനുസരിച്ച്); my → his/her.\n• ⭐ PSC ആവർത്തനം: ലളിതമായ statement-ന്റെ reported form (am → was) PSC Police പേപ്പറുകളിൽ ഏതാണ്ട് ഉറപ്പാണ്!\n• ഉദാഹരണ sentences:\n1. Ravi said, \"I am tired.\" → Ravi said that he was tired. (താൻ ക്ഷീണിതനാണെന്ന് രവി പറഞ്ഞു)\n2. She said, \"I like tea.\" → She said that she liked tea. (തനിക്ക് ചായ ഇഷ്ടമാണെന്ന് അവൾ പറഞ്ഞു)\n3. He said, \"I will come.\" → He said that he would come. (താൻ വരുമെന്ന് അവൻ പറഞ്ഞു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) ...that she is late — pronoun ശരി, പക്ഷേ backshift ഇല്ല; 'is' → 'was' ആകണം.\n• 🪤 PSC Trap: ഏതാണ്ട് എല്ലാം ശരിയായ ഈ option backshift നിയമം മറന്നവരെ പിടിക്കാനുള്ള കെണിയാണ്!\n• (B) ...that she will late — 'am' എന്നതിനെ 'will' ആക്കി മാറ്റി; കൂടാതെ 'will late' (verb ഇല്ലാതെ adjective) വ്യാകരണപരമായി തെറ്റ്.\n• (C) ...that she would late — 'would'-ന് ശേഷം verb വേണം (would be late); 'would late' തെറ്റ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'SAID കഴിഞ്ഞാൽ AM ഒരു പടി പിന്നോട്ട് — WAS ആയി!' — am/is → was, are → were.\n• ഒരുമിച്ച് പഠിക്കുക: am → was, is → was, are → were, will → would, can → could, may → might.\n• PSC strategy: reported speech options-ൽ ആദ്യം backshift ചെയ്ത verb ഉള്ളവ മാത്രം എടുക്കുക; പിന്നെ വ്യാകരണപരമായി പൂർണ്ണമായ option തിരഞ്ഞെടുക്കുക. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "070-2016-M-Q71",
+      "paperId": "070-2016-M",
+      "questionNumber": 71,
+      "topic": "Subject-Verb Agreement",
+      "questionText": "Complete the sentence :\nMy friend ____________ my brother is ill.",
+      "optionA": "so that",
+      "optionB": "as well as",
+      "optionC": "and",
+      "optionD": "or",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) as well as\n• Blank-ന് ശേഷം singular verb 'is' ഉണ്ട് — അതിനോട് ചേരുന്ന connector വേണം.\n• 'A as well as B' — ഇവിടെ verb ആദ്യത്തെ subject (My friend)-നോട് യോജിക്കുന്നു; 'My friend' singular → is ✓.\n• 'എന്റെ സഹോദരനെപ്പോലെ തന്നെ എന്റെ സുഹൃത്തും രോഗിയാണ്' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: A as well as / along with / together with / with + B → verb A-യോട് യോജിക്കും\n• A and B → എപ്പോഴും plural verb (My friend and my brother are ill).\n• A or B / either...or → verb B-യോട് (അടുത്തുള്ളതിനോട്) യോജിക്കും.\n• ⭐ PSC ആവർത്തനം: 'as well as' ഉം 'and' ഉം തമ്മിലുള്ള Subject-Verb വ്യത്യാസം PSC ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന ചോദ്യങ്ങളിൽ ഒന്നാണ്!\n• ഉദാഹരണ sentences:\n1. The teacher as well as the students was present. (വിദ്യാർത്ഥികളോടൊപ്പം ടീച്ചറും ഹാജരായിരുന്നു)\n2. Ravi and Raju are friends. (രവിയും രാജുവും സുഹൃത്തുക്കളാണ്)\n3. The captain along with his players has arrived. (കളിക്കാരോടൊപ്പം ക്യാപ്റ്റനും എത്തി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (C) and — 'My friend and my brother' രണ്ടുപേരെ ചേർക്കുന്നു → plural subject → 'are' വേണം; 'is' ഉള്ളതിനാൽ ചേരില്ല.\n• 🪤 PSC Trap: 'and' ഏറ്റവും സ്വാഭാവികമായ connector ആയതിനാൽ ഉടനെ തിരഞ്ഞെടുക്കാൻ തോന്നും — verb 'is' singular ആണെന്ന് ശ്രദ്ധിക്കണം!\n• (A) so that — ഉദ്ദേശ്യം കാണിക്കുന്ന conjunction (ഇതിനുവേണ്ടി); രണ്ട് subjects-നെ ബന്ധിപ്പിക്കാൻ ഉപയോഗിക്കില്ല.\n• (D) or — 'My friend or my brother is ill' വ്യാകരണപരമായി സാധ്യമാണ്, പക്ഷേ 'ഒന്നുകിൽ സുഹൃത്ത് അല്ലെങ്കിൽ സഹോദരൻ' എന്ന അനിശ്ചിത അർത്ഥം വരും; സ്വാഭാവികമായ, PSC ഉദ്ദേശിച്ച ഉത്തരം 'as well as'.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'AND = രണ്ടുപേർ കൈകോർത്ത് (plural); AS WELL AS = ഒന്നാമൻ മുന്നിൽ, രണ്ടാമൻ കൂടെ (singular)!'\n• ഒരുമിച്ച് പഠിക്കുക: as well as, along with, together with, with, besides, in addition to — എല്ലാം ആദ്യ subject-നോട്.\n• PSC strategy: connector ചോദ്യത്തിൽ ആദ്യം verb (is/are) നോക്കുക; is ആണെങ്കിൽ 'and' വെട്ടിക്കളയുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "070-2016-M-Q72",
+      "paperId": "070-2016-M",
+      "questionNumber": 72,
+      "topic": "Synonyms",
+      "questionText": "Find out the odd one :",
+      "optionA": "relish",
+      "optionB": "flavour",
+      "optionC": "odour",
+      "optionD": "savour",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) odour\n• relish, flavour, savour — മൂന്നും 'രുചി' (taste) എന്ന ആശയവുമായി ബന്ധപ്പെട്ടവയാണ്.\n• 'odour' = മണം, ഗന്ധം (smell) — രുചിയല്ല, മൂക്കുകൊണ്ട് അറിയുന്നത്.\n• അതുകൊണ്ട് രുചി കൂട്ടത്തിൽ ചേരാത്തത് 'odour' ആണ്.\n• 'odour' പലപ്പോഴും മോശം മണത്തിന് ഉപയോഗിക്കുന്നു (body odour).",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Odd one out = മൂന്നിന് പൊതുവായ ഒരു അർത്ഥം; നാലാമത്തേത് വേറിട്ടത്\n• രുചി കുടുംബം: flavour (രുചി), relish (ആസ്വാദ്യത / ആസ്വദിക്കുക), savour (രുചി / ആസ്വദിച്ച് കഴിക്കുക), taste.\n• മണം കുടുംബം: odour, smell, scent, aroma, fragrance, stench.\n• ⭐ PSC ആവർത്തനം: 'Find the odd one' എന്ന വാക്കർത്ഥ ചോദ്യങ്ങൾ PSC Police പേപ്പറുകളിൽ പതിവാണ്!\n• ഉദാഹരണ sentences:\n1. This curry has a rich flavour. (ഈ കറിക്ക് നല്ല രുചിയുണ്ട്)\n2. He ate the payasam with relish. (അവൻ ആസ്വദിച്ച് പായസം കഴിച്ചു)\n3. There was a bad odour in the room. (മുറിയിൽ ഒരു ദുർഗന്ധം ഉണ്ടായിരുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ (ഇവ രുചി കൂട്ടത്തിൽ പെടുന്നു)\n• (A) relish — 'ആസ്വദിക്കുക, രുചി' — രുചിയുമായി ബന്ധപ്പെട്ടത്.\n• (B) flavour — 'രുചി, സ്വാദ്' — ഭക്ഷണത്തിന്റെ പ്രത്യേക രുചി.\n• (D) savour — 'ആസ്വദിച്ച് കഴിക്കുക, രുചി' — ഇതും രുചി കുടുംബം.\n• 🪤 PSC Trap: relish, savour പോലുള്ള അപരിചിത വാക്കുകൾ കണ്ട് അവയിലൊന്നാണ് odd എന്ന് തെറ്റിദ്ധരിക്കാം — പരിചിതമായ 'odour' ആണ് യഥാർത്ഥത്തിൽ വേറിട്ടത്!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ODOUR = ODOR — മൂക്കിന്റെ കാര്യം; ബാക്കി മൂന്നും നാവിന്റെ കാര്യം!'\n• ഒരുമിച്ച് പഠിക്കുക: taste, flavour, relish, savour (നാവ്) × odour, smell, scent, aroma (മൂക്ക്).\n• PSC strategy: odd one ചോദ്യത്തിൽ ഓരോ വാക്കിനെയും ഏത് ഇന്ദ്രിയവുമായി / ഏത് വിഭാഗവുമായി ബന്ധപ്പെട്ടതാണെന്ന് തരംതിരിക്കുക. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "070-2016-M-Q73",
+      "paperId": "070-2016-M",
+      "questionNumber": 73,
+      "topic": "Parts of Speech",
+      "questionText": "What is the feminine gender of bachelor?",
+      "optionA": "Lady",
+      "optionB": "Woman",
+      "optionC": "Wife",
+      "optionD": "Maid",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) Maid\n• 'bachelor' = അവിവാഹിതനായ പുരുഷൻ.\n• അതിന്റെ feminine രൂപങ്ങൾ: 'spinster' (അവിവാഹിതയായ സ്ത്രീ) അല്ലെങ്കിൽ പഴയ രീതിയിൽ 'maid' (കന്യക).\n• Options-ൽ spinster ഇല്ലാത്തതിനാൽ ശരിയുത്തരം 'maid'.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Bachelor → Spinster / Maid\n• മറ്റ് gender ജോഡികൾ: lord → lady, man → woman, husband → wife, sir → madam, bridegroom → bride.\n• ⭐ PSC ആവർത്തനം: 'feminine of bachelor' — PSC 2016-ൽ തന്നെ പല പേപ്പറുകളിലും ഈ ചോദ്യം ആവർത്തിച്ചു!\n• ഉദാഹരണ sentences:\n1. He remained a bachelor all his life. (ജീവിതകാലം മുഴുവൻ അദ്ദേഹം അവിവാഹിതനായി തുടർന്നു)\n2. She is a spinster. (അവൾ അവിവാഹിതയാണ്)\n3. The old maid lived alone. (ആ അവിവാഹിതയായ വൃദ്ധ തനിച്ച് താമസിച്ചു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Lady — 'lord' അല്ലെങ്കിൽ 'gentleman' എന്നതിന്റെ feminine.\n• (B) Woman — 'man' എന്നതിന്റെ feminine; വിവാഹാവസ്ഥ സൂചിപ്പിക്കുന്നില്ല.\n• (C) Wife — 'husband' എന്നതിന്റെ feminine; വിവാഹിതയായ സ്ത്രീ — bachelor-ന്റെ ആശയത്തിന് വിപരീതം!\n• 🪤 PSC Trap: Wife എന്നത് വിവാഹവുമായി ബന്ധപ്പെട്ട വാക്കായതിനാൽ ശരിയെന്ന് തോന്നും — പക്ഷേ bachelor അവിവാഹിതനാണ്, അതിനാൽ അവിവാഹിതയായ maid!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'BACHELOR-ഉം MAID-ഉം — രണ്ടുപേരും ഇതുവരെ കല്യാണം കഴിക്കാത്തവർ!'\n• ഒരുമിച്ച് പഠിക്കുക: bachelor-spinster/maid, husband-wife, lord-lady, man-woman, monk-nun, widower-widow.\n• PSC strategy: Gender ചോദ്യത്തിൽ ഓരോ option-ന്റെയും masculine ജോഡി മനസ്സിൽ പറഞ്ഞുനോക്കുക (wife → husband) — ചോദ്യവാക്കുമായി ചേരുന്നത് ഏതെന്ന് ഉടൻ വ്യക്തമാകും. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "070-2016-M-Q74",
+      "paperId": "070-2016-M",
+      "questionNumber": 74,
+      "topic": "Antonyms",
+      "questionText": "The antonym of 'proper' is :",
+      "optionA": "disproper",
+      "optionB": "improper",
+      "optionC": "unproper",
+      "optionD": "inproper",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) improper\n• 'proper' = ഉചിതമായ, ശരിയായ; വിപരീതം 'improper' = അനുചിതമായ.\n• 'p'-ൽ തുടങ്ങുന്ന വാക്കുകൾക്ക് 'in-' എന്ന negative prefix 'im-' ആയി മാറുന്നു (ഉച്ചരിക്കാൻ എളുപ്പത്തിന്).\n• 'in + proper' → 'improper'.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: in- → im- (b, m, p-ക്ക് മുമ്പ്) | in- → il- (l-ന് മുമ്പ്) | in- → ir- (r-ന് മുമ്പ്)\n• im-: impossible (അസാധ്യം), impatient (അക്ഷമൻ), imbalance (അസന്തുലിതാവസ്ഥ), immature (പക്വതയില്ലാത്ത).\n• il-: illegal (നിയമവിരുദ്ധം), illiterate (നിരക്ഷരൻ) | ir-: irregular (ക്രമരഹിതം), irresponsible.\n• ⭐ PSC ആവർത്തനം: ശരിയായ negative prefix (im/il/ir/in/un/dis) തിരഞ്ഞെടുക്കൽ PSC antonym ചോദ്യങ്ങളിൽ സ്ഥിരം!\n• ഉദാഹരണ sentences:\n1. His behaviour was improper. (അവന്റെ പെരുമാറ്റം അനുചിതമായിരുന്നു)\n2. It is impossible to finish today. (ഇന്ന് തീർക്കുക അസാധ്യമാണ്)\n3. Parking here is illegal. (ഇവിടെ പാർക്ക് ചെയ്യുന്നത് നിയമവിരുദ്ധമാണ്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) disproper — 'dis-' (dishonest, disagree) ഈ വാക്കിന് ചേരില്ല; English-ൽ ഇല്ലാത്ത രൂപം.\n• (C) unproper — 'un-' ഏറ്റവും സാധാരണ prefix ആണെങ്കിലും proper-ന് ചേരില്ല.\n• 🪤 PSC Trap: un- എല്ലായിടത്തും ചേരുമെന്ന് കരുതുന്നവരെ വീഴ്ത്താനുള്ള കെണി!\n• (D) inproper — 'in-' ശരിയായ prefix കുടുംബമാണ്, പക്ഷേ 'p'-ന് മുമ്പ് 'im' ആയി മാറണം — ഉച്ചാരണ നിയമം തെറ്റിച്ച രൂപം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'P, B, M കണ്ടാൽ IM — ചുണ്ടുകൾ ചേർത്ത് പറയുന്ന അക്ഷരങ്ങൾക്ക് ചുണ്ട് ചേർത്ത IM!' (improper, imbalance, immature)\n• ഒരുമിച്ച് പഠിക്കുക: improper, impossible, impolite, imbalance | illegal, illogical | irregular, irrelevant.\n• PSC strategy: prefix antonym-ൽ ചോദ്യവാക്കിന്റെ ആദ്യ അക്ഷരം നോക്കുക — p/b/m ആണെങ്കിൽ im-, l ആണെങ്കിൽ il-, r ആണെങ്കിൽ ir-. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "070-2016-M-Q75",
+      "paperId": "070-2016-M",
+      "questionNumber": 75,
+      "topic": "Phrasal Verbs",
+      "questionText": "Use suitable phrasal verb :\nThe plane ____________ at ten o'clock.",
+      "optionA": "took out",
+      "optionB": "set out",
+      "optionC": "took off",
+      "optionD": "went on",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) took off\n• 'take off' = വിമാനം നിലത്തുനിന്ന് പറന്നുയരുക.\n• 'വിമാനം പത്തുമണിക്ക് പറന്നുയർന്നു' എന്നർത്ഥം.\n• 'take off'-ന് 'വസ്ത്രം/ഷൂസ് ഊരുക' (take off your shoes) എന്ന മറ്റൊരു അർത്ഥവുമുണ്ട്; ഇവിടെ വിമാനമായതിനാൽ പറന്നുയരുക.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: plane + take off = പറന്നുയരുക | plane + land = നിലത്തിറങ്ങുക\n• 'take' കുടുംബം: take off (പറന്നുയരുക/ഊരുക), take out (പുറത്തെടുക്കുക), take after (സാദൃശ്യം — മാതാപിതാക്കളെപ്പോലെ), take up (ഏറ്റെടുക്കുക).\n• set out = യാത്ര പുറപ്പെടുക (ആളുകൾക്ക്) | go on = തുടരുക.\n• ⭐ PSC ആവർത്തനം: 'take' phrasal verbs — പ്രത്യേകിച്ച് take off, take after — PSC-യിൽ പതിവാണ്!\n• ഉദാഹരണ sentences:\n1. Our flight took off on time. (ഞങ്ങളുടെ വിമാനം കൃത്യസമയത്ത് പറന്നുയർന്നു)\n2. Please take off your shoes. (ദയവായി നിന്റെ ഷൂസ് ഊരൂ)\n3. We set out early in the morning. (ഞങ്ങൾ അതിരാവിലെ യാത്ര പുറപ്പെട്ടു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) took out — 'പുറത്തെടുത്തു' (took out a pen); വിമാനത്തിന്റെ പറക്കലുമായി ബന്ധമില്ല.\n• (B) set out — 'യാത്ര പുറപ്പെട്ടു' — ആളുകൾ യാത്ര തുടങ്ങുമ്പോഴാണ് സാധാരണ ഉപയോഗിക്കുന്നത്; വിമാനത്തിന് 'took off' ആണ് ശരിയായ പ്രയോഗം.\n• 🪤 PSC Trap: 'set out'-ന് 'പുറപ്പെടുക' എന്ന അർത്ഥം ഉള്ളതിനാൽ ശരിയെന്ന് തോന്നും — വിമാനത്തിന് പ്രത്യേക പ്രയോഗം take off!\n• (D) went on — 'തുടർന്നു'; ഒരു നിശ്ചിത സമയത്ത് പറന്നുയരുന്ന പ്രവൃത്തിയെ കാണിക്കില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'TAKE OFF = നിലത്തുനിന്ന് OFF (വേർപെട്ട്) പറക്കുന്ന വിമാനം!'\n• ഒരുമിച്ച് പഠിക്കുക: take off (പറന്നുയരുക), land (ഇറങ്ങുക), set out / set off (യാത്ര പുറപ്പെടുക), take after (സാദൃശ്യം).\n• PSC strategy: phrasal verb ചോദ്യത്തിൽ subject (plane, car, person) നോക്കി അതിനോട് സ്വാഭാവികമായി ചേരുന്ന പ്രയോഗം തിരഞ്ഞെടുക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "070-2016-M-Q76",
+      "paperId": "070-2016-M",
+      "questionNumber": 76,
+      "topic": "Spelling",
+      "questionText": "Select the word which spelt correctly :",
+      "optionA": "Memorandum",
+      "optionB": "Memorandam",
+      "optionC": "Memmorandum",
+      "optionD": "Memorandem",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) Memorandum\n• ശരിയായ spelling: M-E-M-O-R-A-N-D-U-M.\n• 'Memorandum' = ഔദ്യോഗിക കുറിപ്പ്, നിവേദനം (memo എന്ന് ചുരുക്കം) — സർക്കാർ ഓഫീസുകളിൽ സ്ഥിരം കാണുന്ന വാക്ക്.\n• Latin 'memorandum' (ഓർക്കേണ്ട കാര്യം) — memory, memorial എന്നിവയുടെ കുടുംബം.\n• Plural: memoranda അല്ലെങ്കിൽ memorandums.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: MEMO (ഒരു M മാത്രം ഇരട്ടിക്കില്ല) + RAND + UM\n• Latin '-um'-ൽ അവസാനിക്കുന്ന വാക്കുകൾ: memorandum, curriculum, medium, referendum, stadium.\n• ഈ വാക്കുകളുടെ അവസാനം '-um' ആണ്, '-am' അല്ല, '-em' അല്ല.\n• ⭐ PSC ആവർത്തനം: memorandum, referendum, curriculum — '-um' വാക്കുകളുടെ spelling PSC ആവർത്തിച്ച് ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. The union submitted a memorandum to the minister. (സംഘടന മന്ത്രിക്ക് ഒരു നിവേദനം സമർപ്പിച്ചു)\n2. A referendum was held in the country. (രാജ്യത്ത് ഒരു ജനഹിതപരിശോധന നടന്നു)\n3. The school changed its curriculum. (സ്കൂൾ അതിന്റെ പാഠ്യപദ്ധതി മാറ്റി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) Memorandam — അവസാനം '-um' എന്നതിന് പകരം '-am'; തെറ്റ്.\n• (C) Memmorandum — 'm' അനാവശ്യമായി ഇരട്ടിപ്പിച്ചു; memo-യിൽ ഒരു m മാത്രം.\n• 🪤 PSC Trap: 'comm', 'summ' പോലുള്ള ഇരട്ട m വാക്കുകൾ ഓർമ്മിപ്പിച്ച് ഇത് ശരിയെന്ന് തോന്നിപ്പിക്കാനുള്ള കെണി!\n• (D) Memorandem — അവസാനം '-em'; ഇതും തെറ്റായ രൂപം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'MEMO + RANDUM — ഓഫീസിലെ MEMO ഓർത്താൽ മതി, പിന്നെ RAND + UM!'\n• ഒരുമിച്ച് പഠിക്കുക: memorandum, referendum, curriculum, medium, stadium, millennium — Latin -um കുടുംബം.\n• PSC strategy: Spelling options-ൽ ആദ്യം ഇരട്ട അക്ഷരങ്ങൾ (mm) പരിശോധിക്കുക, പിന്നെ വാക്കിന്റെ അവസാനം (-um/-am/-em). Guaranteed mark!"
+      }
+    },
+    {
+      "id": "070-2016-M-Q77",
+      "paperId": "070-2016-M",
+      "questionNumber": 77,
+      "topic": "Correction of Sentences",
+      "questionText": "Find out the correct sentence :",
+      "optionA": "This book is your's",
+      "optionB": "This book is yours",
+      "optionC": "This book is your",
+      "optionD": "None of these",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) This book is yours\n• ഒരു noun-ന്റെ സ്ഥാനത്ത് ഒറ്റയ്ക്ക് നിൽക്കുന്ന possessive pronoun 'yours' ആണ് — 'നിന്റേത്'.\n• Possessive pronouns-ൽ (yours, hers, its, ours, theirs) ഒരിക്കലും apostrophe (') ചേർക്കില്ല!\n• 'ഈ പുസ്തകം നിന്റേതാണ്' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Possessive adjective + noun (your book) | Possessive pronoun ഒറ്റയ്ക്ക് (yours)\n• my → mine | your → yours | his → his | her → hers | our → ours | their → theirs.\n• Apostrophe ('s) nouns-ന് മാത്രം: Ravi's book, the teacher's pen — pronouns-ന് ഒരിക്കലും ഇല്ല.\n• ⭐ PSC ആവർത്തനം: your's / her's / their's എന്ന apostrophe തെറ്റ് PSC Correction of Sentences-ൽ സ്ഥിരം!\n• ഉദാഹരണ sentences:\n1. This pen is mine, not yours. (ഈ പേന എന്റേതാണ്, നിന്റേതല്ല)\n2. The house is theirs. (ആ വീട് അവരുടേതാണ്)\n3. This is your book. (ഇത് നിന്റെ പുസ്തകമാണ് — noun-ന് മുമ്പ് your)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) This book is your's — possessive pronoun-ൽ apostrophe ചേർത്തത് തെറ്റ്; 'yours' എന്ന് ചേർത്തെഴുതണം.\n• 🪤 PSC Trap: 'Ravi's' പോലെ ഉടമസ്ഥതയ്ക്ക് 's ചേർക്കണമെന്ന ശീലം ഈ തെറ്റിലേക്ക് നയിക്കും — pronouns-ന് apostrophe ഇല്ല!\n• (C) This book is your — 'your' ഒരു possessive adjective ആണ്; ശേഷം ഒരു noun വേണം (your book); ഒറ്റയ്ക്ക് നിൽക്കാൻ കഴിയില്ല.\n• (D) None of these — (B) ശരിയായതിനാൽ ഇത് തെറ്റ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'PRONOUN-ന് APOSTROPHE വേണ്ട — അവർക്ക് സ്വന്തം S ഉണ്ട്!' — yours, hers, ours, theirs.\n• ഒരുമിച്ച് പഠിക്കുക: my-mine, your-yours, her-hers, our-ours, their-theirs | it's (it is) × its (അതിന്റെ).\n• PSC strategy: Correction ചോദ്യത്തിൽ pronoun-ൽ apostrophe കണ്ടാൽ അത് തെറ്റാണ് (it's = it is മാത്രം ഒഴികെ). ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "070-2016-M-Q78",
+      "paperId": "070-2016-M",
+      "questionNumber": 78,
+      "topic": "One Word Substitutes",
+      "questionText": "Which word is associate with the phrase 'problem in speaking clearly'?",
+      "optionA": "Murmer",
+      "optionB": "Chatter",
+      "optionC": "Mumble",
+      "optionD": "Stammer",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) Stammer\n• 'Stammer' = വിക്ക് — വാക്കുകൾ ആവർത്തിച്ചും തടഞ്ഞും സംസാരിക്കുന്ന ഒരു സംസാര പ്രശ്നം (speech problem).\n• 'stutter' എന്നതും ഇതേ അർത്ഥമുള്ള വാക്കാണ്.\n• 'വ്യക്തമായി സംസാരിക്കാനുള്ള ബുദ്ധിമുട്ട്' എന്ന വിവരണത്തോട് ഏറ്റവും നേരിട്ട് ചേരുന്നത് stammer ആണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: stammer / stutter = വിക്ക് (സംസാര പ്രശ്നം)\n• mumble = വ്യക്തമല്ലാതെ, ചുണ്ട് അനക്കാതെ പിറുപിറുക്കുക (ശീലം, പ്രശ്നമല്ല).\n• murmur = പതുക്കെ മന്ത്രിക്കുക | chatter = വേഗത്തിൽ വാതോരാതെ സംസാരിക്കുക.\n• ⭐ PSC ആവർത്തനം: സംസാരരീതികളെ സൂചിപ്പിക്കുന്ന വാക്കുകൾ (stammer, mumble, murmur, whisper) PSC vocabulary ചോദ്യങ്ങളിൽ വരാറുണ്ട്!\n• ഉദാഹരണ sentences:\n1. He stammers when he is nervous. (പരിഭ്രമിക്കുമ്പോൾ അവന് വിക്കുണ്ടാകും)\n2. Don't mumble; speak clearly. (പിറുപിറുക്കരുത്; വ്യക്തമായി സംസാരിക്കൂ)\n3. The children were chattering in the class. (കുട്ടികൾ ക്ലാസിൽ വാതോരാതെ സംസാരിക്കുകയായിരുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Murmer — ശരിയായ spelling 'murmur' ആണ്; 'പതുക്കെ മന്ത്രിക്കുക' — ഒരു സംസാരരീതി, പ്രശ്നമല്ല.\n• (B) Chatter — 'വാതോരാതെ സംസാരിക്കുക' — വ്യക്തതയില്ലായ്മയല്ല, അമിത സംസാരമാണ്.\n• (C) Mumble — 'പിറുപിറുക്കുക' — വ്യക്തമല്ലാത്ത സംസാരം തന്നെ, പക്ഷേ അത് ഒരു ശീലമോ രീതിയോ ആണ്; ഒരു സംസാര വൈകല്യമല്ല.\n• 🪤 PSC Trap: mumble-ഉം 'വ്യക്തമല്ലാത്ത സംസാരം' ആയതിനാൽ ശരിയെന്ന് തോന്നും — 'problem' (പ്രശ്നം/വൈകല്യം) എന്ന വാക്കാണ് stammer-ലേക്ക് നയിക്കുന്നത്!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ST-ST-STAMMER — വാക്ക് തന്നെ വിക്കി വിക്കി പറഞ്ഞുനോക്കൂ!'\n• ഒരുമിച്ച് പഠിക്കുക: stammer/stutter (വിക്ക്), mumble (പിറുപിറുക്കുക), murmur (മന്ത്രിക്കുക), whisper (കുശുകുശുക്കുക), chatter (വാതോരാതെ സംസാരിക്കുക).\n• PSC strategy: One word ചോദ്യത്തിലെ പ്രധാന സൂചകവാക്ക് (problem, habit, quickly) കണ്ടെത്തി അതിനോട് ഏറ്റവും കൃത്യമായി ചേരുന്നത് തിരഞ്ഞെടുക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "070-2016-M-Q79",
+      "paperId": "070-2016-M",
+      "questionNumber": 79,
+      "topic": "One Word Substitutes",
+      "questionText": "Pick out the one word of 'absence of law and order' :",
+      "optionA": "Anarchy",
+      "optionB": "Autocracy",
+      "optionC": "Rationalism",
+      "optionD": "Monarch",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) Anarchy\n• Anarchy = ഭരണമോ നിയമമോ ക്രമസമാധാനമോ ഇല്ലാത്ത അവസ്ഥ, അരാജകത്വം.\n• Greek 'an' (ഇല്ലാത്ത) + 'archos' (ഭരണാധികാരി) → ഭരണാധികാരി ഇല്ലാത്ത അവസ്ഥ.\n• പോലീസിന്റെ പ്രധാന ജോലി തന്നെ anarchy തടയുക എന്നതാണ് — Police പേപ്പറിന് ചേർന്ന ചോദ്യം!",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: AN (ഇല്ല) + ARCHY (ഭരണം) = ANARCHY (അരാജകത്വം)\n• '-archy' / '-cracy' കുടുംബം: monarchy (രാജഭരണം), oligarchy (ചുരുക്കം പേരുടെ ഭരണം), autocracy (ഏകാധിപത്യം), democracy (ജനാധിപത്യം), bureaucracy (ഉദ്യോഗസ്ഥ ഭരണം).\n• Person: anarchist (അരാജകവാദി), monarch (രാജാവ്), autocrat (ഏകാധിപതി).\n• ⭐ PSC ആവർത്തനം: ഭരണരീതികളുടെ one word substitutes (anarchy, autocracy, theocracy) PSC-യിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്നവയാണ്!\n• ഉദാഹരണ sentences:\n1. The country fell into anarchy after the war. (യുദ്ധത്തിന് ശേഷം രാജ്യം അരാജകത്വത്തിലായി)\n2. India is a democracy. (ഇന്ത്യ ഒരു ജനാധിപത്യ രാജ്യമാണ്)\n3. The king ruled as an autocrat. (രാജാവ് ഏകാധിപതിയായി ഭരിച്ചു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) Autocracy — 'ഏകാധിപത്യം' — ഒരാൾ മാത്രം പൂർണ്ണ അധികാരത്തോടെ ഭരിക്കുന്നത്; ഭരണം ഉണ്ട്, നിയമമില്ലാത്ത അവസ്ഥയല്ല.\n• 🪤 PSC Trap: ഏകാധിപത്യത്തിൽ നിയമവാഴ്ച ദുർബലമായതിനാൽ ആശയക്കുഴപ്പം ഉണ്ടാക്കും — പക്ഷേ 'ഭരണമേ ഇല്ലാത്ത' അവസ്ഥ anarchy മാത്രം!\n• (C) Rationalism — 'യുക്തിവാദം' — യുക്തിക്ക് പ്രാധാന്യം നൽകുന്ന ചിന്താരീതി; ക്രമസമാധാനവുമായി ബന്ധമില്ല.\n• (D) Monarch — 'രാജാവ്' — ഒരു വ്യക്തിയാണ്, അവസ്ഥയല്ല; രാജഭരണം (monarchy) നിയമമുള്ള ഭരണമാണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'AN-ARCHY = ARCH (കമാനം / താങ്ങ്) ഇല്ലാത്ത കെട്ടിടം — എല്ലാം തകർന്നുവീഴും!'\n• ഒരുമിച്ച് പഠിക്കുക: anarchy (ഭരണമില്ല), monarchy (രാജാവ്), autocracy (ഏകാധിപതി), democracy (ജനങ്ങൾ), theocracy (മതം), plutocracy (ധനികർ).\n• PSC strategy: ഭരണ സംബന്ധമായ one word ചോദ്യത്തിൽ prefix (an-, mon-, auto-, demo-) നോക്കി അർത്ഥം കണ്ടെത്തുക. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "070-2016-M-Q80",
+      "paperId": "070-2016-M",
+      "questionNumber": 80,
+      "topic": "Idioms",
+      "questionText": "Translate the proverb into Malayalam :\n'Still waters run deep'",
+      "optionA": "ഓളമുള്ള ജലത്തിനു ആഴമില്ല",
+      "optionB": "ആഴം കൂടുംതോറും ഓളം കുറയും",
+      "optionC": "ആഴമുള്ള ജലത്തിൽ ഓളമില്ല",
+      "optionD": "ഓളം കൂടുംതോറും ആഴം കുറയും",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) ആഴമുള്ള ജലത്തിൽ ഓളമില്ല\n• 'Still waters run deep' = ശാന്തമായി കാണപ്പെടുന്ന ജലാശയം ആഴമുള്ളതായിരിക്കും.\n• ആലങ്കാരിക അർത്ഥം: ശാന്തരും അധികം സംസാരിക്കാത്തവരുമായ ആളുകൾക്ക് പലപ്പോഴും ആഴമേറിയ അറിവും ചിന്തയും ഉണ്ടാകും.\n• മലയാളത്തിലെ സമാനമായ ചൊല്ല്: 'ആഴമുള്ള ജലത്തിൽ ഓളമില്ല' / 'നിറകുടം തുളുമ്പില്ല'.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Still (ശാന്തം / ഓളമില്ലാത്ത) + waters + run deep (ആഴമുള്ളത്) = ആഴമുള്ള ജലത്തിൽ ഓളമില്ല\n• ഇതേ ആശയമുള്ള മറ്റ് ചൊല്ലുകൾ: Empty vessels make the most noise (കാലിപ്പാത്രം വലിയ ശബ്ദമുണ്ടാക്കും).\n• പഴഞ്ചൊല്ലിന്റെ വിവർത്തനത്തിൽ അക്ഷരാർത്ഥമല്ല, ആശയമാണ് കൃത്യമായി വരേണ്ടത്.\n• ⭐ PSC ആവർത്തനം: English പഴഞ്ചൊല്ലുകളുടെ മലയാളം (proverb translation) PSC Malayalam-medium പേപ്പറുകളിൽ സ്ഥിരം വരുന്ന ചോദ്യമാണ്!\n• ഉദാഹരണ sentences:\n1. Raju rarely talks, but he is very wise — still waters run deep. (രാജു അധികം സംസാരിക്കില്ലെങ്കിലും വലിയ അറിവുള്ളവനാണ്)\n2. Empty vessels make the most noise. (കാലിപ്പാത്രം കൂടുതൽ ശബ്ദമുണ്ടാക്കും)\n3. As you sow, so you reap. (വിതച്ചതേ കൊയ്യൂ)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) ഓളമുള്ള ജലത്തിനു ആഴമില്ല — ആശയം അടുത്താണെങ്കിലും ഊന്നൽ തെറ്റായ ദിശയിലാണ്; English ചൊല്ലിന്റെ കേന്ദ്രം 'ശാന്തതയും ആഴവും' ആണ്, ഓളത്തിന്റെ കുറവിനെക്കുറിച്ചല്ല.\n• 🪤 PSC Trap: ഒരേ വാക്കുകൾ (ഓളം, ആഴം) ഉപയോഗിച്ച് നാല് options ഉണ്ടാക്കിയിരിക്കുന്നു — വാക്കുകളുടെ ക്രമവും ഊന്നലും ശ്രദ്ധിക്കണം!\n• (B) ആഴം കൂടുംതോറും ഓളം കുറയും — ഒരു താരതമ്യ നിയമം (കൂടുംതോറും...കുറയും) ആക്കി മാറ്റി; യഥാർത്ഥ ചൊല്ലിന്റെ ഘടനയല്ല.\n• (D) ഓളം കൂടുംതോറും ആഴം കുറയും — ഇതും കൃത്രിമമായ താരതമ്യ ഘടന; ചൊല്ലിന്റെ ലളിതമായ ആശയം ഇല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'STILL = ഓളമില്ലാത്ത, DEEP = ആഴമുള്ള — ഈ രണ്ട് വാക്കുകൾ ചേർത്താൽ ഉത്തരം: ആഴമുള്ള ജലത്തിൽ ഓളമില്ല!'\n• ഒരുമിച്ച് പഠിക്കുക: Still waters run deep (ആഴമുള്ള ജലത്തിൽ ഓളമില്ല), Empty vessels make the most noise, A bird in hand is worth two in the bush (കയ്യിലുള്ളത് കൂടുതൽ വിലയുള്ളത്).\n• PSC strategy: പഴഞ്ചൊല്ല് വിവർത്തനത്തിൽ English-ലെ പ്രധാന വാക്കുകൾ (still, deep) മലയാള option-ൽ അതേ ബന്ധത്തിൽ വരുന്നുണ്ടോ എന്ന് പരിശോധിക്കുക; 'കൂടുംതോറും' പോലുള്ള അധിക ഘടനകൾ ഉള്ളവ ഒഴിവാക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    }
+  ]
+}

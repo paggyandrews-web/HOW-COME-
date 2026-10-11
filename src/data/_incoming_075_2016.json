@@ -1,0 +1,193 @@
+{
+  "paper": {
+    "id": "075-2016-E",
+    "paperCode": "75/2016 E",
+    "post": "Women Sub Inspector of Police (Trainee) - Police",
+    "date": "28-May-2016",
+    "medium": "E",
+    "year": "2016",
+    "answerKeyStatus": "final"
+  },
+  "questions": [
+    {
+      "id": "075-2016-E-Q71",
+      "paperId": "075-2016-E",
+      "questionNumber": 71,
+      "topic": "Tenses",
+      "questionText": "We shall go for a walk when it ____________ raining.",
+      "optionA": "stopped",
+      "optionB": "stops",
+      "optionC": "stopping",
+      "optionD": "stop",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) stops\n• 'when' കൊണ്ട് തുടങ്ങുന്ന time clause ഭാവിയെക്കുറിച്ചാണെങ്കിലും അതിൽ will ഉപയോഗിക്കില്ല — Simple Present ആണ് വേണ്ടത്.\n• Main clause-ൽ 'shall go' (ഭാവി) ഉണ്ട്; time clause-ൽ Simple Present → when it stops.\n• Subject 'it' third person singular ആയതിനാൽ verb-ന് 's' → stops.\n• 'മഴ നിൽക്കുമ്പോൾ നമുക്ക് നടക്കാൻ പോകാം' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Main clause-ൽ will/shall + time clause-ൽ (when/until/before/after/as soon as) Simple Present\n• When it stops ✓ | When it will stop ✗ — time clause-ൽ ഭാവിക്ക് വേണ്ടി will ചേർക്കരുത്.\n• If clause-ലും ഇതേ നിയമം: If it rains, we will stay home.\n• ⭐ PSC ആവർത്തനം: 'when/as soon as/until + Simple Present' — ഭാവിയെക്കുറിച്ചുള്ള time clause ചോദ്യം PSC SI/LDC പേപ്പറുകളിൽ സ്ഥിരം!\n• ഉദാഹരണ sentences:\n1. I will call you when I reach home. (വീട്ടിലെത്തുമ്പോൾ ഞാൻ നിന്നെ വിളിക്കാം)\n2. We will start as soon as he comes. (അവൻ വന്നാലുടൻ നമ്മൾ തുടങ്ങും)\n3. Wait here until the bus arrives. (ബസ് വരുന്നതുവരെ ഇവിടെ കാത്തുനിൽക്കൂ)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) stopped — Simple Past; 'shall go' എന്ന ഭാവി പ്രവൃത്തിയോടൊപ്പം ഭൂതകാലം ചേരില്ല.\n• 🪤 PSC Trap: 'മഴ നിന്നശേഷം' എന്ന് മലയാളത്തിൽ ചിന്തിക്കുമ്പോൾ past രൂപം ശരിയെന്ന് തോന്നും — പക്ഷേ English-ൽ ഭാവിക്ക് Simple Present!\n• (C) stopping — helping verb ഇല്ലാതെ -ing രൂപം മാത്രം ഒരു പൂർണ്ണ verb ആകില്ല.\n• (D) stop — V1 ആണ്, പക്ഷേ 'it' (third person singular)-ന് 's' ചേർക്കണം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'WHEN-ന്റെ വീട്ടിൽ WILL-ന് പ്രവേശനമില്ല!' — when/until/before/after കഴിഞ്ഞാൽ will ഇല്ലാതെ Simple Present.\n• ഒരുമിച്ച് പഠിക്കുക: when, while, before, after, until, as soon as, once — time clause conjunctions.\n• PSC strategy: main clause-ൽ will/shall കണ്ടാൽ time clause-ൽ Simple Present ഉറപ്പ്; പിന്നെ subject singular ആണോ എന്ന് നോക്കി 's' ചേർക്കുക. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "075-2016-E-Q72",
+      "paperId": "075-2016-E",
+      "questionNumber": 72,
+      "topic": "Prepositions",
+      "questionText": "The burglars entered the house ____________ the owner's absence.",
+      "optionA": "on",
+      "optionB": "after",
+      "optionC": "during",
+      "optionD": "while",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) during\n• 'during' = ഒരു കാലയളവിനിടയിൽ, ആ സമയത്ത് — ശേഷം ഒരു noun (absence) വരുന്നു.\n• 'ഉടമസ്ഥൻ ഇല്ലാതിരുന്ന സമയത്ത് കള്ളന്മാർ വീട്ടിൽ കയറി' എന്നർത്ഥം.\n• 'the owner's absence' എന്നത് ഒരു noun phrase ആണ് — preposition 'during' അതിനോട് ചേരുന്നു.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: during + noun | while + subject + verb (clause)\n• during the night, during the meeting, during his absence — ശേഷം noun മാത്രം.\n• while he was absent, while I was sleeping — ശേഷം ഒരു clause (subject + verb).\n• ⭐ PSC ആവർത്തനം: during vs while — PSC preposition/conjunction ചോദ്യങ്ങളിലെ ക്ലാസിക് ജോഡി!\n• ഉദാഹരണ sentences:\n1. The power went off during the film. (സിനിമയ്ക്കിടെ കറന്റ് പോയി)\n2. The thief came while we were sleeping. (ഞങ്ങൾ ഉറങ്ങുമ്പോൾ കള്ളൻ വന്നു)\n3. Don't talk during the exam. (പരീക്ഷാസമയത്ത് സംസാരിക്കരുത്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (D) while — ഒരു conjunction ആണ്; ശേഷം subject + verb വേണം (while the owner was absent); 'while the owner's absence' തെറ്റ്.\n• 🪤 PSC Trap: 'during'-ഉം 'while'-ഉം ഒരേ അർത്ഥം (ആ സമയത്ത്) നൽകുന്നതിനാൽ ഏറ്റവും വലിയ കെണി — ശേഷം വരുന്നത് noun ആണോ clause ആണോ എന്ന് നോക്കുക!\n• (A) on — 'on the owner's absence' എന്നത് സ്വാഭാവികമായ പ്രയോഗമല്ല; ഒരു കാലയളവിനിടയിൽ എന്ന അർത്ഥം നൽകില്ല.\n• (B) after — 'ഉടമ ഇല്ലാതായതിന് ശേഷം' എന്ന അർത്ഥം വരും; കള്ളന്മാർ കയറിയത് അഭാവകാലത്തിനിടയിലാണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'DURING-ന് ഒരു NOUN മതി; WHILE-ന് ഒരു മുഴുവൻ കഥ (subject + verb) വേണം!'\n• ഒരുമിച്ച് പഠിക്കുക: during (noun), while (clause), for (കാലയളവ്), since (തുടക്കം), throughout (മുഴുവൻ സമയവും).\n• PSC strategy: blank-ന് ശേഷം the/his/my + noun വന്നാൽ during; he/she/I + verb വന്നാൽ while. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "075-2016-E-Q73",
+      "paperId": "075-2016-E",
+      "questionNumber": 73,
+      "topic": "Prepositions",
+      "questionText": "You must attend ____________ his instructions.",
+      "optionA": "of",
+      "optionB": "on",
+      "optionC": "to",
+      "optionD": "for",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) to\n• 'attend to' = ശ്രദ്ധിക്കുക, ശ്രദ്ധ കൊടുക്കുക, കാര്യം നോക്കുക.\n• 'നീ അദ്ദേഹത്തിന്റെ നിർദ്ദേശങ്ങൾ ശ്രദ്ധിക്കണം' എന്നർത്ഥം.\n• ശ്രദ്ധിക്കുക: 'attend' (preposition ഇല്ലാതെ) = പങ്കെടുക്കുക (attend a meeting) — അർത്ഥം വ്യത്യസ്തമാണ്!",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: attend + place/event = പങ്കെടുക്കുക | attend TO + matter/person = ശ്രദ്ധിക്കുക / പരിചരിക്കുക\n• attend a class, attend a wedding (preposition ഇല്ല).\n• attend to a patient, attend to the work, attend to instructions ('to' നിർബന്ധം).\n• ⭐ PSC ആവർത്തനം: 'attend the meeting' (preposition ഇല്ല) vs 'attend to' — PSC രണ്ട് രീതിയിലും ചോദിച്ചിട്ടുണ്ട്!\n• ഉദാഹരണ sentences:\n1. The nurse attended to the patient. (നഴ്സ് രോഗിയെ പരിചരിച്ചു)\n2. I attended the meeting yesterday. (ഇന്നലെ ഞാൻ യോഗത്തിൽ പങ്കെടുത്തു)\n3. Please attend to this matter quickly. (ദയവായി ഈ കാര്യം വേഗം ശ്രദ്ധിക്കൂ)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) of — 'attend of' എന്ന പ്രയോഗം English-ൽ ഇല്ല.\n• (B) on — 'attend on' എന്നത് 'ഒരാളെ സേവിക്കുക' എന്ന വളരെ പഴയ, ഔപചാരിക പ്രയോഗമാണ് (attend on the king); നിർദ്ദേശങ്ങൾ ശ്രദ്ധിക്കുക എന്ന അർത്ഥത്തിൽ ചേരില്ല.\n• 🪤 PSC Trap: 'attend on' ചില പഴയ പുസ്തകങ്ങളിൽ കാണുന്നതിനാൽ സംശയം ജനിപ്പിക്കും — instructions-ന് 'attend to' തന്നെ!\n• (D) for — 'വേണ്ടി' എന്ന അർത്ഥം; attend-നൊപ്പം ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ATTEND TO = ശ്രദ്ധ TO (അങ്ങോട്ട്) തിരിക്കുക!' — ശ്രദ്ധ ഒരു കാര്യത്തിലേക്ക് തിരിയുന്നു.\n• ഒരുമിച്ച് പഠിക്കുക: attend to, listen to, object to, reply to, adhere to, pay attention to.\n• PSC strategy: 'attend' കണ്ടാൽ ശേഷം ഒരു പരിപാടിയാണോ (meeting, class) ശ്രദ്ധിക്കേണ്ട കാര്യമാണോ (work, patient, instructions) എന്ന് നോക്കുക. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "075-2016-E-Q74",
+      "paperId": "075-2016-E",
+      "questionNumber": 74,
+      "topic": "Question Tags",
+      "questionText": "We have plenty of time ____________?",
+      "optionA": "isn't it",
+      "optionB": "haven't we",
+      "optionC": "don't we",
+      "optionD": "didn't we",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) haven't we\n• Statement positive ആണ് → tag negative.\n• ഇവിടെ 'have' ഒരു main verb ആയി ('ഉണ്ട്' എന്ന അർത്ഥത്തിൽ) ഉപയോഗിച്ചിരിക്കുന്നു; British English-ൽ ഇതിന് 'haven't we' എന്ന tag ആണ് PSC സ്വീകരിക്കുന്നത്.\n• Subject 'We' → tag-ൽ 'we'.\n• 'നമുക്ക് ധാരാളം സമയമുണ്ട്, ഇല്ലേ?' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: have (ഉണ്ട് — ownership) → British: haven't we? | American: don't we?\n• have + V3 (Present Perfect) ആണെങ്കിൽ എപ്പോഴും haven't: We have finished, haven't we?\n• have = കഴിക്കുക/ചെയ്യുക (have lunch, have a bath) ആണെങ്കിൽ don't: We have lunch at one, don't we?\n• ⭐ PSC ആവർത്തനം: 'have' ഉള്ള question tag PSC-യുടെ ഇഷ്ട ചോദ്യമാണ് — ഉടമസ്ഥത അർത്ഥമാണെങ്കിൽ haven't!\n• ഉദാഹരണ sentences:\n1. You have a car, haven't you? (നിനക്ക് ഒരു കാർ ഉണ്ട്, ഇല്ലേ?)\n2. They have finished the work, haven't they? (അവർ ജോലി തീർത്തു, ഇല്ലേ?)\n3. She has breakfast at eight, doesn't she? (അവൾ എട്ടുമണിക്ക് പ്രഭാതഭക്ഷണം കഴിക്കും, അല്ലേ?)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) isn't it — subject 'we' ആണ്, 'it' അല്ല; verb-ഉം 'is' അല്ല — ഇരട്ടത്തെറ്റ്.\n• (C) don't we — American English-ൽ സ്വീകാര്യമാണെങ്കിലും, PSC പിന്തുടരുന്ന British നിലവാരത്തിൽ ഉടമസ്ഥതയുടെ 'have'-ന് 'haven't' ആണ് ശരി — Final Answer Key (B).\n• 🪤 PSC Trap: helping verb ഇല്ലാത്ത വാക്യമായി കണക്കാക്കി 'do' tag ഇടാൻ പ്രേരിപ്പിക്കുന്ന കെണി — PSC-യിൽ have തന്നെ ആവർത്തിക്കുക!\n• (D) didn't we — Past tense tag; 'have' വർത്തമാനകാലമായതിനാൽ ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'HAVE (ഉണ്ട്) കണ്ടാൽ HAVEN'T — ഉള്ളതിനെ ഉള്ളതുകൊണ്ട് തന്നെ ചോദിക്കൂ!'\n• ഒരുമിച്ച് പഠിക്കുക: We have time → haven't we? | We have lunch → don't we? | We have gone → haven't we?\n• PSC strategy: PSC ചോദ്യത്തിൽ have-ന് tag ചോദിച്ചാൽ options-ൽ haven't ഉണ്ടെങ്കിൽ അത് ആദ്യം പരിഗണിക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "075-2016-E-Q75",
+      "paperId": "075-2016-E",
+      "questionNumber": 75,
+      "topic": "Degrees of Comparison",
+      "questionText": "Which part of the sentence is wrong?\n__Do you think__ __he is getting__ __more worser__ __day by day?__",
+      "optionA": "Do you think",
+      "optionB": "he is getting",
+      "optionC": "more worser",
+      "optionD": "day by day",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) more worser\n• 'worse' എന്നത് തന്നെ 'bad'-ന്റെ comparative degree ആണ്; അതിന് മുമ്പ് വീണ്ടും 'more' ചേർക്കുന്നത് ഇരട്ട comparative (double comparative) — തെറ്റ്.\n• 'worser' എന്ന വാക്ക് തന്നെ standard English-ൽ ഇല്ല!\n• ശരിയായ വാക്യം: Do you think he is getting worse day by day? ('അവന്റെ അവസ്ഥ ദിവസം ചെല്ലുംതോറും മോശമാവുകയാണെന്ന് നീ കരുതുന്നുണ്ടോ?')",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: more + -er ഒരിക്കലും ഒരുമിച്ച് വരില്ല! (more better ✗, more worse ✗)\n• bad → worse → worst | good → better → best — ഇവയ്ക്ക് more/most ചേർക്കില്ല.\n• Comparative-നെ ഊന്നിപ്പറയാൻ much/far ഉപയോഗിക്കാം: much worse, far better.\n• ⭐ PSC ആവർത്തനം: 'more better', 'more worse', 'most best' — double comparative തെറ്റുകൾ PSC spot-the-error ചോദ്യങ്ങളിൽ സ്ഥിരം!\n• ഉദാഹരണ sentences:\n1. His condition is getting worse. (അവന്റെ അവസ്ഥ മോശമായിക്കൊണ്ടിരിക്കുന്നു)\n2. This book is much better than that. (അതിനെക്കാൾ വളരെ നല്ലതാണ് ഈ പുസ്തകം)\n3. It was the worst day of my life. (എന്റെ ജീവിതത്തിലെ ഏറ്റവും മോശം ദിവസമായിരുന്നു അത്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ (ഈ ഭാഗങ്ങളിൽ തെറ്റില്ല)\n• (A) Do you think — ശരിയായ ചോദ്യരൂപം; ഒരു തെറ്റുമില്ല.\n• (B) he is getting — Present Continuous; 'ക്രമേണ മാറിക്കൊണ്ടിരിക്കുന്ന' അവസ്ഥ കാണിക്കാൻ ശരിയായ രൂപം.\n• 🪤 PSC Trap: 'is getting' പോലുള്ള continuous രൂപം കണ്ട് തെറ്റാണെന്ന് സംശയിപ്പിക്കാനുള്ള കെണി — 'getting worse' ഒരു സാധാരണ പ്രയോഗമാണ്!\n• (D) day by day — 'ദിവസം ചെല്ലുംതോറും' എന്ന ശരിയായ idiom.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ഒരു കിരീടം മതി — MORE-ഉം ER-ഉം ഒരുമിച്ച് തലയിൽ വെക്കരുത്!'\n• ഒരുമിച്ച് പഠിക്കുക: worse (ശരി) × more worse/worser (തെറ്റ്), better × more better, best × most best.\n• PSC strategy: Spot-the-error ചോദ്യത്തിൽ comparative/superlative ഭാഗം കണ്ടാൽ ആദ്യം അവിടെ 'ഇരട്ട' രൂപം ഉണ്ടോ എന്ന് പരിശോധിക്കുക. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "075-2016-E-Q76",
+      "paperId": "075-2016-E",
+      "questionNumber": 76,
+      "topic": "Tenses",
+      "questionText": "Which part of the sentence is wrong?\n__Kolkota__ __is standing__ __on__ __the river Hooghly.__",
+      "optionA": "Kolkota",
+      "optionB": "is standing",
+      "optionC": "on",
+      "optionD": "the river Hooghly",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) is standing\n• ഒരു നഗരം ഒരു നദീതീരത്ത് സ്ഥിതിചെയ്യുന്നത് സ്ഥിരമായ ഒരു വസ്തുതയാണ് (permanent fact) — അതിന് Simple Present വേണം.\n• 'is standing' (Present Continuous) താൽക്കാലികമായി നടന്നുകൊണ്ടിരിക്കുന്ന പ്രവൃത്തിക്കാണ്.\n• ശരിയായ വാക്യം: Kolkata stands on the river Hooghly. ('കൊൽക്കത്ത ഹൂഗ്ലി നദീതീരത്ത് സ്ഥിതിചെയ്യുന്നു')\n• (Paper-ൽ 'Kolkota' എന്ന് അച്ചടിച്ചിരിക്കുന്നു; ശരിയായ spelling 'Kolkata' — പക്ഷേ PSC ഉദ്ദേശിച്ച തെറ്റ് tense ആണ്.)",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: സ്ഥിരമായ വസ്തുതകൾ / ഭൂമിശാസ്ത്ര സത്യങ്ങൾ → Simple Present\n• നഗരങ്ങളുടെ സ്ഥാനം: Delhi stands on the Yamuna. London stands on the Thames.\n• ശാസ്ത്രസത്യങ്ങൾ: The earth moves round the sun. Water boils at 100°C.\n• ⭐ PSC ആവർത്തനം: 'stands on the river' — നഗരം-നദി ചോദ്യം PSC Correction of Sentences-ൽ ഏറെ ആവർത്തിച്ചതാണ്!\n• ഉദാഹരണ sentences:\n1. Delhi stands on the river Yamuna. (ഡൽഹി യമുനാതീരത്ത് സ്ഥിതിചെയ്യുന്നു)\n2. The sun rises in the east. (സൂര്യൻ കിഴക്ക് ഉദിക്കുന്നു)\n3. He is standing at the gate now. (അവൻ ഇപ്പോൾ ഗേറ്റിൽ നിൽക്കുകയാണ് — താൽക്കാലികം, അതിനാൽ continuous ശരി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ (PSC ഉദ്ദേശിച്ച തെറ്റ് ഇവയിലല്ല)\n• (A) Kolkota — അച്ചടിയിലെ spelling-ൽ ചെറിയ പിശകുണ്ടെങ്കിലും (Kolkata), ഇതൊരു പേര് മാത്രമാണ്; ചോദ്യം വ്യാകരണ തെറ്റാണ് അന്വേഷിക്കുന്നത്.\n• 🪤 PSC Trap: പേരിലെ spelling വ്യത്യാസം കണ്ട് (A) തിരഞ്ഞെടുക്കാൻ പ്രേരിപ്പിക്കും — grammar error എവിടെ എന്നാണ് ചോദ്യം!\n• (C) on — നദീതീരത്തുള്ള നഗരങ്ങൾക്ക് 'on the river' ആണ് ശരിയായ preposition.\n• (D) the river Hooghly — നദിയുടെ പേരിന് 'the' ശരിയായി ചേർത്തിട്ടുണ്ട്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'നഗരം നിൽക്കുന്നത് എന്നേക്കും — STANDS; നീ നിൽക്കുന്നത് ഇപ്പോൾ മാത്രം — IS STANDING!'\n• ഒരുമിച്ച് പഠിക്കുക: Kolkata stands on the Hooghly, Delhi on the Yamuna, London on the Thames, Paris on the Seine.\n• PSC strategy: Spot-the-error-ൽ സ്ഥിരമായ ഒരു വസ്തുതയ്ക്ക് continuous tense കണ്ടാൽ അതാണ് തെറ്റ്. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "075-2016-E-Q77",
+      "paperId": "075-2016-E",
+      "questionNumber": 77,
+      "topic": "Antonyms",
+      "questionText": "What is the antonym of predecessor?",
+      "optionA": "descendant",
+      "optionB": "successor",
+      "optionC": "ancestor",
+      "optionD": "ascendant",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) successor\n• 'predecessor' = ഒരു പദവിയിൽ മുമ്പ് ഇരുന്നയാൾ, മുൻഗാമി.\n• 'successor' = ആ പദവിയിൽ പിന്നീട് വരുന്നയാൾ, പിൻഗാമി — നേർ വിപരീതം.\n• Latin 'prae' (മുമ്പ്) + 'decessor' (വിട്ടുപോയവൻ) → predecessor; 'succedere' (പിന്നാലെ വരിക) → successor.\n• ഉദാ: ഒരു DGP വിരമിക്കുമ്പോൾ അദ്ദേഹം പുതിയ DGP-യുടെ predecessor; പുതിയയാൾ successor!",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: predecessor (മുൻഗാമി) × successor (പിൻഗാമി) — ഒരു പദവിയിലെ ക്രമം\n• ancestor (പൂർവ്വികൻ) × descendant (പിൻതലമുറക്കാരൻ) — കുടുംബത്തിലെ രക്തബന്ധം.\n• ഈ രണ്ട് ജോഡികളും തമ്മിൽ കലർത്തരുത് — ഒന്ന് പദവി, മറ്റൊന്ന് വംശം.\n• ⭐ PSC ആവർത്തനം: predecessor/successor, ancestor/descendant — PSC antonym ചോദ്യങ്ങളിൽ ഈ നാലും ഒരുമിച്ച് options ആയി വരാറുണ്ട്!\n• ഉദാഹരണ sentences:\n1. The new Collector is more active than his predecessor. (പുതിയ കളക്ടർ തന്റെ മുൻഗാമിയെക്കാൾ സജീവമാണ്)\n2. The king named his son as his successor. (രാജാവ് തന്റെ മകനെ പിൻഗാമിയായി പ്രഖ്യാപിച്ചു)\n3. Our ancestors lived in villages. (നമ്മുടെ പൂർവ്വികർ ഗ്രാമങ്ങളിലാണ് ജീവിച്ചിരുന്നത്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) descendant — 'പിൻതലമുറക്കാരൻ' — ancestor-ന്റെ antonym ആണ്; പദവിയുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: descendant-ഉം 'പിന്നാലെ വരുന്നവൻ' എന്ന അർത്ഥം നൽകുന്നതിനാൽ ആശയക്കുഴപ്പമുണ്ടാക്കും — പദവിക്ക് successor, കുടുംബത്തിന് descendant!\n• (C) ancestor — 'പൂർവ്വികൻ' — predecessor-ന്റെ ഏതാണ്ട് synonym പോലെ ('മുമ്പുള്ളയാൾ'); antonym അല്ല.\n• (D) ascendant — 'ഉയർന്നുവരുന്ന, ആധിപത്യമുള്ള' — ബന്ധമില്ലാത്ത അർത്ഥം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'PRE = മുമ്പ് (prefix, preview), SUC-cess-or = പിന്നാലെ വിജയിച്ചുവരുന്നവൻ!'\n• ഒരുമിച്ച് പഠിക്കുക: predecessor × successor (പദവി), ancestor × descendant (കുടുംബം), forerunner (മുന്നോടി).\n• PSC strategy: Antonym options-ൽ രണ്ട് ജോഡികൾ കലർന്നുവന്നാൽ ചോദ്യവാക്ക് ഏത് മേഖലയിലേതാണ് (പദവിയോ വംശമോ) എന്ന് തീരുമാനിക്കുക. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "075-2016-E-Q78",
+      "paperId": "075-2016-E",
+      "questionNumber": 78,
+      "topic": "Direct and Indirect Speech",
+      "questionText": "Reported speech : \"Which country do you come from?\" said Ram.",
+      "optionA": "Ram asked which country you came from",
+      "optionB": "Ram asked which country I am coming from",
+      "optionC": "Ram asked which country are you coming from",
+      "optionD": "Ram asked which country I came from",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) Ram asked which country I came from\n• ചോദ്യമായതിനാൽ 'said' → 'asked'; Wh-question ആയതിനാൽ 'which country' തന്നെ ബന്ധിപ്പിക്കുന്നു (if/whether വേണ്ട).\n• 'do you come' (Simple Present) → 'came' (Simple Past) — backshift; 'do' എന്ന helping verb ഒഴിവാകുന്നു.\n• റാം ചോദ്യം ചോദിച്ചത് റിപ്പോർട്ട് ചെയ്യുന്ന എന്നോടാണെന്ന് കണക്കാക്കുമ്പോൾ 'you' → 'I'.\n• 'ഞാൻ ഏത് രാജ്യത്ത് നിന്നാണ് വരുന്നതെന്ന് റാം ചോദിച്ചു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: \"Wh + do/does + subject + V1?\" → asked + Wh + subject + V2\n• do/does/did ചോദ്യങ്ങൾ reported ആകുമ്പോൾ ആ helping verb പോകും, main verb backshift ആകും.\n• Pronoun മാറ്റം കേൾക്കുന്നയാളെ അനുസരിച്ച്: 'you' (എന്നോട്) → I | 'you' (അവനോട്) → he.\n• ⭐ PSC ആവർത്തനം: Wh-question reported speech-ൽ word order (subject + verb) PSC സ്ഥിരം ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. \"Where do you live?\" she asked me. → She asked me where I lived. (ഞാൻ എവിടെ താമസിക്കുന്നു എന്ന് അവൾ ചോദിച്ചു)\n2. \"What does he want?\" said Anu. → Anu asked what he wanted. (അവന് എന്താണ് വേണ്ടതെന്ന് അനു ചോദിച്ചു)\n3. \"Why are you late?\" said the teacher. → The teacher asked why I was late. (ഞാൻ എന്താണ് വൈകിയതെന്ന് ടീച്ചർ ചോദിച്ചു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) ...which country you came from — backshift ശരി, പക്ഷേ 'you' മാറ്റിയില്ല; reported speech-ൽ നേരിട്ടുള്ള 'you' സാധാരണ നിലനിൽക്കില്ല.\n• 🪤 PSC Trap: tense ശരിയായി മാറിയതിനാൽ ഇത് ശരിയെന്ന് തോന്നും — pronoun മാറ്റം മറന്നവരെ പിടിക്കാനുള്ള കെണി!\n• (B) ...which country I am coming from — pronoun ശരി, പക്ഷേ backshift ഇല്ല; tense Present Continuous ആയി മാറുകയും ചെയ്തു.\n• (C) ...which country are you coming from — ചോദ്യത്തിന്റെ word order (are you) നിലനിർത്തി; pronoun-ഉം backshift-ഉം ഇല്ല — മൂന്ന് തെറ്റുകൾ.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Reported speech-ൽ DO ഓടിപ്പോകും, verb ഒരു പടി പിന്നോട്ട്, YOU എന്നെ (I) കാണും!'\n• ഒരുമിച്ച് പഠിക്കുക: do you come → I came, does he want → he wanted, are you doing → I was doing.\n• PSC strategy: മൂന്ന് പരിശോധന — (1) backshift ഉണ്ടോ (2) pronoun മാറിയോ (3) subject + verb ക്രമമാണോ. മൂന്നും ശരിയായ option തിരഞ്ഞെടുക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "075-2016-E-Q79",
+      "paperId": "075-2016-E",
+      "questionNumber": 79,
+      "topic": "Articles",
+      "questionText": "Yesterday I met ____________ European at the beach.",
+      "optionA": "an",
+      "optionB": "the",
+      "optionC": "a",
+      "optionD": "two",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) a\n• 'European' എഴുതുന്നത് 'E' എന്ന vowel letter-ൽ ആണെങ്കിലും ഉച്ചാരണം 'യൂറോപ്യൻ' — 'യ' എന്ന consonant sound-ൽ തുടങ്ങുന്നു → a.\n• Article തീരുമാനിക്കുന്നത് അക്ഷരമല്ല, ശബ്ദമാണ്!\n• 'ഇന്നലെ ഞാൻ ബീച്ചിൽ വെച്ച് ഒരു യൂറോപ്യനെ കണ്ടു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: 'യൂ' / 'വ' ശബ്ദത്തിൽ തുടങ്ങുന്ന vowel-letter വാക്കുകൾ → A\n• a European, a university, a uniform, a useful book, a one-rupee coin ('വ' ശബ്ദം).\n• Silent h വാക്കുകൾ → AN: an hour, an honest man.\n• ⭐ PSC ആവർത്തനം: 'a European' — PSC article ചോദ്യങ്ങളിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിച്ച ഒന്നാണിത്!\n• ഉദാഹരണ sentences:\n1. He studies in a university. (അവൻ ഒരു സർവകലാശാലയിൽ പഠിക്കുന്നു)\n2. Police officers wear a uniform. (പോലീസ് ഉദ്യോഗസ്ഥർ ഒരു യൂണിഫോം ധരിക്കുന്നു)\n3. I found a one-rupee coin. (എനിക്ക് ഒരു ഒറ്റ രൂപ നാണയം കിട്ടി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) an — 'E' എന്ന vowel letter കണ്ട് 'an' ഇടുന്നത്; ഉച്ചാരണം 'യൂ' ആയതിനാൽ തെറ്റ്.\n• 🪤 PSC Trap: 'an European' കാണാൻ ശരിപോലെ തോന്നും — letter നോക്കുന്നവരെ വീഴ്ത്താനുള്ള classic കെണി!\n• (B) the — ആദ്യമായാണ് ഈ വ്യക്തിയെ പരാമർശിക്കുന്നത്; പ്രത്യേകമായ ഒരാളല്ല.\n• (D) two — 'two European' എന്ന് പറഞ്ഞാൽ noun plural (Europeans) ആകണം; singular 'European' ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ചെവി കൊണ്ട് കേൾക്കൂ, കണ്ണ് കൊണ്ട് നോക്കരുത്!' — യൂറോപ്യൻ എന്ന് ഉറക്കെ പറഞ്ഞാൽ 'യ' കേൾക്കും → a.\n• ഒരുമിച്ച് പഠിക്കുക: a European, a university, a uniform, a one-eyed man | an hour, an honest man, an heir.\n• PSC strategy: Article ചോദ്യത്തിൽ വാക്ക് മനസ്സിൽ ഉച്ചരിച്ച് ആദ്യ ശബ്ദം സ്വരമോ വ്യഞ്ജനമോ എന്ന് നോക്കുക. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "075-2016-E-Q80",
+      "paperId": "075-2016-E",
+      "questionNumber": 80,
+      "topic": "Active and Passive Voice",
+      "questionText": "What is the active form of : The criminal was arrested by the police :",
+      "optionA": "The criminal was being arrested by the police",
+      "optionB": "The criminal is being arrested by the police",
+      "optionC": "The police arrested the criminal",
+      "optionD": "The criminal is arrested by the police",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) The police arrested the criminal\n• നൽകിയ വാക്യം Simple Past Passive (was arrested) ആണ് → Active-ലും Simple Past: V2 (arrested).\n• 'by the police' — പ്രവൃത്തി ചെയ്തവർ Active-ൽ subject ആകുന്നു; 'The criminal' object ആകുന്നു.\n• 'പോലീസ് കുറ്റവാളിയെ അറസ്റ്റ് ചെയ്തു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: was/were + V3 (Passive) ↔ V2 (Active) — Simple Past\n• Passive → Active: by-ക്ക് ശേഷമുള്ളത് subject, പഴയ subject object, tense അതേപടി.\n• Active വാക്യത്തിൽ be + V3 ഘടന ഉണ്ടാകില്ല — അത് Passive-ന്റെ അടയാളമാണ്.\n• ⭐ PSC ആവർത്തനം: SI/Police പേപ്പറുകളിൽ 'arrested by the police' പോലുള്ള വാക്യങ്ങൾ Voice ചോദ്യങ്ങളിൽ പതിവാണ്!\n• ഉദാഹരണ sentences:\n1. The thief was caught by the villagers. → The villagers caught the thief. (ഗ്രാമവാസികൾ കള്ളനെ പിടിച്ചു)\n2. The bridge was built by the government. → The government built the bridge. (സർക്കാർ പാലം നിർമ്മിച്ചു)\n3. The case is investigated by the CBI. → The CBI investigates the case. (സിബിഐ കേസ് അന്വേഷിക്കുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) The criminal was being arrested by the police — ഇപ്പോഴും Passive ആണ്, tense Past Continuous ആയി മാറുകയും ചെയ്തു.\n• (B) The criminal is being arrested by the police — Passive തന്നെ; Present Continuous Passive.\n• (D) The criminal is arrested by the police — Passive തന്നെ; tense Simple Present ആയി മാറി.\n• 🪤 PSC Trap: മൂന്ന് options-ഉം Passive-ന്റെ തന്നെ വിവിധ tense രൂപങ്ങൾ — Active ആണ് ചോദിച്ചതെന്ന് മറന്നുപോയവരെ കുടുക്കാനുള്ള കെണി!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Active-ൽ പോലീസ് മുന്നിൽ, കുറ്റവാളി പിന്നിൽ!' — പ്രവൃത്തി ചെയ്യുന്നവൻ ആദ്യം വരുന്നതാണ് Active.\n• ഒരുമിച്ച് പഠിക്കുക: was arrested ↔ arrested, is arrested ↔ arrests, has been arrested ↔ has arrested, will be arrested ↔ will arrest.\n• PSC strategy: 'Active form' ചോദിച്ചാൽ ആദ്യം 'by' ഉള്ളതും be + V3 ഉള്ളതുമായ options വെട്ടിക്കളയുക — ബാക്കിയുള്ളതാണ് ഉത്തരം. ഒരിക്കലും miss ആകില്ല!"
+      }
+    }
+  ]
+}

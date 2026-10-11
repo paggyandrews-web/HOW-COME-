@@ -1,0 +1,373 @@
+{
+  "paper": {
+    "id": "103-2016-M",
+    "paperCode": "103/2016 M",
+    "post": "L D Clerk (Tamil and Malayalam Knowing) (NCA - LC/AI) - Various (Palakkad)",
+    "date": "23-Aug-2016",
+    "medium": "M",
+    "year": "2016",
+    "answerKeyStatus": "final"
+  },
+  "questions": [
+    {
+      "id": "103-2016-M-Q81",
+      "paperId": "103-2016-M",
+      "questionNumber": 81,
+      "topic": "Parts of Speech",
+      "questionText": "The man ____________ threw the stone left the place.",
+      "optionA": "Whom",
+      "optionB": "That",
+      "optionC": "Who",
+      "optionD": "Where",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) Who\n• Blank-ന് മുമ്പുള്ള noun 'man' ഒരു ആളാണ് (person); ആ ആൾ തന്നെയാണ് കല്ലെറിഞ്ഞത് — അതായത് 'threw' എന്ന verb-ന്റെ subject.\n• ആളിനെ സൂചിപ്പിക്കുന്ന subject relative pronoun 'who' ആണ് → The man who threw the stone.\n• 'കല്ലെറിഞ്ഞ ആൾ സ്ഥലം വിട്ടു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: ആൾ + subject → WHO | ആൾ + object → WHOM | വസ്തു → WHICH | സ്ഥലം → WHERE\n• Relative pronoun-ന് ശേഷം നേരിട്ട് verb വന്നാൽ (who threw) അത് subject ആണ് → who.\n• Relative pronoun-ന് ശേഷം മറ്റൊരു subject വന്നാൽ (whom we met) അത് object ആണ് → whom.\n• ⭐ PSC ആവർത്തനം: who vs whom — PSC-യുടെ ഏറ്റവും പ്രിയപ്പെട്ട relative pronoun ചോദ്യം!\n• ഉദാഹരണ sentences:\n1. The girl who won the prize is my sister. (സമ്മാനം നേടിയ പെൺകുട്ടി എന്റെ സഹോദരിയാണ്)\n2. The man whom you saw is my uncle. (നീ കണ്ട ആൾ എന്റെ അമ്മാവനാണ്)\n3. This is the place where we met. (നമ്മൾ കണ്ടുമുട്ടിയ സ്ഥലം ഇതാണ്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Whom — object ആയി വരുന്ന ആളിനാണ്; ഇവിടെ ആ ആൾ തന്നെ പ്രവൃത്തി ചെയ്യുന്ന subject ആയതിനാൽ ചേരില്ല.\n• 🪤 PSC Trap: 'Whom' കേൾക്കാൻ കൂടുതൽ ഔപചാരികമായി തോന്നുന്നതിനാൽ ശരിയെന്ന് കരുതുന്നവരെ വീഴ്ത്താനുള്ള കെണി!\n• (B) That — ആളിനും ഉപയോഗിക്കാമെങ്കിലും, PSC നിലവാരത്തിൽ ആളിനുള്ള ഏറ്റവും ഉചിതമായ relative pronoun 'who' ആണ്; Final Answer Key പ്രകാരം ഉത്തരം (C).\n• (D) Where — സ്ഥലത്തിനുള്ള relative adverb; 'man' ഒരു സ്ഥലമല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'WHO ചെയ്യുന്നു, WHOM-നോട് ചെയ്യുന്നു!' — പ്രവൃത്തി ചെയ്യുന്ന ആൾക്ക് who, പ്രവൃത്തി ഏൽക്കുന്ന ആൾക്ക് whom.\n• ഒരുമിച്ച് പഠിക്കുക: who (subject), whom (object), whose (ഉടമസ്ഥത), which (വസ്തു), where (സ്ഥലം), when (സമയം).\n• PSC strategy: blank-ന് തൊട്ടുപിന്നാലെ verb വന്നാൽ who, ഒരു noun/pronoun വന്നാൽ whom. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "103-2016-M-Q82",
+      "paperId": "103-2016-M",
+      "questionNumber": 82,
+      "topic": "Subject-Verb Agreement",
+      "questionText": "The news ____________ not good to pass.",
+      "optionA": "are",
+      "optionB": "is",
+      "optionC": "have",
+      "optionD": "has",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) is\n• 'news' (വാർത്ത) അവസാനം 's' ഉണ്ടെങ്കിലും ഒരു uncountable, singular noun ആണ് → singular verb 'is'.\n• 'is not good' — ഗുണം (adjective) വിവരിക്കാൻ 'be' verb വേണം; have/has ചേരില്ല.\n• 'ആ വാർത്ത പ്രചരിപ്പിക്കാൻ നല്ലതല്ല' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: News / Mathematics / Physics / Economics / Politics + singular verb\n• 's'-ൽ അവസാനിച്ചാലും singular ആയ nouns: news, mathematics, physics, measles, billiards.\n• 'news'-ന് മുമ്പ് 'a' ചേരില്ല; ഒന്ന് എന്ന് പറയാൻ 'a piece of news' എന്ന് പറയണം.\n• ⭐ PSC ആവർത്തനം: 'The news is...', 'Mathematics is...' — ഈ ചോദ്യം PSC നിരവധി തവണ ആവർത്തിച്ചിട്ടുണ്ട്!\n• ഉദാഹരണ sentences:\n1. The news is very sad. (വാർത്ത വളരെ ദുഃഖകരമാണ്)\n2. Mathematics is my favourite subject. (ഗണിതമാണ് എന്റെ ഇഷ്ടവിഷയം)\n3. I heard a piece of good news. (ഞാൻ ഒരു നല്ല വാർത്ത കേട്ടു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) are — plural verb; 'news' അവസാനം 's' കണ്ട് plural എന്ന് തെറ്റിദ്ധരിച്ചാൽ മാത്രമേ ഇത് തിരഞ്ഞെടുക്കൂ.\n• 🪤 PSC Trap: 's'-ൽ അവസാനിക്കുന്ന singular noun ഉപയോഗിച്ച് plural verb-ലേക്ക് ആകർഷിക്കുന്ന ക്ലാസിക് കെണി!\n• (C) have — plural രൂപം; കൂടാതെ 'have not good' എന്നത് വ്യാകരണപരമായി തെറ്റ്.\n• (D) has — singular ആണ്, പക്ഷേ 'has not good' എന്നത് അർത്ഥമില്ലാത്തതാണ്; adjective-ന് മുമ്പ് 'is' വേണം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'NEWS-ന്റെ S വെറും വേഷം മാത്രം!' — North, East, West, South — നാല് ദിക്കിൽ നിന്നുമുള്ള ഒരൊറ്റ വിവരം.\n• ഒരുമിച്ച് പഠിക്കുക: news, mathematics, physics, economics, measles — എല്ലാം singular verb.\n• PSC strategy: 's'-ൽ അവസാനിക്കുന്ന subject കണ്ടാൽ അത് യഥാർത്ഥത്തിൽ plural ആണോ എന്ന് ഒരു നിമിഷം ചിന്തിക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "103-2016-M-Q83",
+      "paperId": "103-2016-M",
+      "questionNumber": 83,
+      "topic": "Words Often Confused",
+      "questionText": "The ____________ boy in the row is rebuked by the teacher.",
+      "optionA": "last",
+      "optionB": "latter",
+      "optionC": "later",
+      "optionD": "latest",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) last\n• 'last' = ക്രമത്തിൽ (order/position) ഏറ്റവും അവസാനത്തേത്.\n• 'in the row' (വരിയിൽ) — സ്ഥാനക്രമമാണ് പറയുന്നത് → 'the last boy' = വരിയിലെ അവസാനത്തെ കുട്ടി.\n• 'വരിയിലെ അവസാനത്തെ കുട്ടിയെ ടീച്ചർ ശകാരിച്ചു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: ക്രമം/സ്ഥാനം → late, latter, last | സമയം → late, later, latest\n• last = ക്രമത്തിൽ അവസാനം | latest = സമയത്തിൽ ഏറ്റവും പുതിയത് (latest news).\n• later = പിന്നീട് (സമയം) | latter = രണ്ടെണ്ണത്തിൽ രണ്ടാമത്തേത് (former × latter).\n• ⭐ PSC ആവർത്തനം: last/latest, later/latter — Words Often Confused-ൽ PSC സ്ഥിരം ചോദിക്കുന്ന ജോഡികൾ!\n• ഉദാഹരണ sentences:\n1. December is the last month of the year. (വർഷത്തിലെ അവസാനത്തെ മാസം ഡിസംബറാണ്)\n2. Have you heard the latest news? (ഏറ്റവും പുതിയ വാർത്ത കേട്ടോ?)\n3. I met Ravi and Raju; the latter is a doctor. (രവിയെയും രാജുവിനെയും കണ്ടു; രണ്ടാമത്തെയാൾ ഡോക്ടറാണ്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) latter — രണ്ട് കാര്യങ്ങൾ പറഞ്ഞശേഷം 'രണ്ടാമത്തേത്' എന്ന് സൂചിപ്പിക്കാനാണ്; ഒരു വരിയിലെ സ്ഥാനത്തിന് ചേരില്ല.\n• (C) later — 'പിന്നീട്' എന്ന സമയസൂചന; ഒരു കുട്ടിയുടെ സ്ഥാനം വിവരിക്കാൻ ഉപയോഗിക്കില്ല.\n• (D) latest — 'ഏറ്റവും പുതിയ' (സമയം) — latest model, latest news; വരിയിലെ സ്ഥാനത്തിന് ചേരില്ല.\n• 🪤 PSC Trap: last ഉം latest ഉം 'late'-ന്റെ superlative ആയതിനാൽ ഒരുപോലെ തോന്നും — ഒന്ന് ക്രമത്തിനും മറ്റൊന്ന് സമയത്തിനും!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'LAST = വരിയുടെ വാൽ; LATEST = പുതിയ ഫോൺ മോഡൽ!' — സ്ഥാനം last, പുതുമ latest.\n• ഒരുമിച്ച് പഠിക്കുക: late-later-latest (സമയം), late-latter-last (ക്രമം), former × latter.\n• PSC strategy: വാക്യത്തിൽ 'row, line, queue' പോലെ ക്രമം കാണിക്കുന്ന വാക്ക് ഉണ്ടെങ്കിൽ last; 'news, model, fashion' ഉണ്ടെങ്കിൽ latest. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "103-2016-M-Q84",
+      "paperId": "103-2016-M",
+      "questionNumber": 84,
+      "topic": "Question Tags",
+      "questionText": "I am not prepared to write the examination, ____________?",
+      "optionA": "aren't I ?",
+      "optionB": "am I ?",
+      "optionC": "are I ?",
+      "optionD": "have I ?",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) am I ?\n• Statement negative ആണ് (I am not prepared) → tag positive ആകണം.\n• Statement-ലെ helping verb 'am' തന്നെ tag-ൽ ആവർത്തിക്കുന്നു → 'am I?'\n• 'ഞാൻ പരീക്ഷ എഴുതാൻ തയ്യാറല്ല, അല്ലേ?' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: I am not ... → am I? | I am ... → aren't I?\n• Negative statement → positive tag; അതേ helping verb ഉപയോഗിക്കുക.\n• 'aren't I' വരുന്നത് positive 'I am' വാക്യങ്ങൾക്ക് മാത്രമാണ് — 'amn't' എന്ന രൂപം ഇല്ലാത്തതുകൊണ്ട്.\n• ⭐ PSC ആവർത്തനം: 'I am' ഉം 'I am not' ഉം മാറിമാറി ചോദിച്ച് PSC വിദ്യാർത്ഥികളെ കുഴപ്പിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. I am not late, am I? (ഞാൻ വൈകിയിട്ടില്ല, ഉണ്ടോ?)\n2. I am your friend, aren't I? (ഞാൻ നിന്റെ സുഹൃത്താണ്, അല്ലേ?)\n3. She is not coming, is she? (അവൾ വരുന്നില്ല, അല്ലേ?)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) aren't I ? — negative tag; negative statement-ന് negative tag ചേരില്ല. ഇത് positive 'I am' വാക്യത്തിനുള്ളതാണ്.\n• 🪤 PSC Trap: 'I am ..., aren't I?' എന്ന അപവാദം ഓർമ്മയുള്ളവർ 'not' ശ്രദ്ധിക്കാതെ ഇത് തിരഞ്ഞെടുക്കും — അതാണ് കെണി!\n• (C) are I ? — 'I'-ന് 'are' ചേരില്ല; വ്യാകരണപരമായി തെറ്റായ രൂപം.\n• (D) have I ? — statement-ൽ ഉള്ളത് 'am' ആണ്, 'have' അല്ല; tag-ൽ അതേ helping verb വേണം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'NOT കണ്ടാൽ സാധാരണ നിയമം; NOT ഇല്ലെങ്കിൽ മാത്രം AREN'T I എന്ന അപവാദം!'\n• ഒരുമിച്ച് പഠിക്കുക: I am → aren't I? | I am not → am I? | Let's → shall we?\n• PSC strategy: tag ചോദ്യത്തിൽ ആദ്യം 'not/never/no' ഉണ്ടോ എന്ന് നോക്കുക — ഉണ്ടെങ്കിൽ positive tag. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "103-2016-M-Q85",
+      "paperId": "103-2016-M",
+      "questionNumber": 85,
+      "topic": "Articles",
+      "questionText": "____________ Bible is the holy book of Christians.",
+      "optionA": "no article",
+      "optionB": "a",
+      "optionC": "an",
+      "optionD": "the",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) the\n• Bible, Quran, Ramayana, Gita പോലുള്ള വിശുദ്ധ ഗ്രന്ഥങ്ങളുടെ പേരുകൾക്ക് മുമ്പ് 'the' ചേർക്കുന്നു.\n• ലോകത്ത് ഒന്നേയുള്ളൂ എന്ന പ്രത്യേകതയുള്ള, എല്ലാവർക്കും അറിയാവുന്ന ഗ്രന്ഥമായതിനാൽ definite article വേണം.\n• 'ബൈബിൾ ക്രിസ്ത്യാനികളുടെ വിശുദ്ധ ഗ്രന്ഥമാണ്' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: THE + വിശുദ്ധ ഗ്രന്ഥങ്ങൾ / അദ്വിതീയ വസ്തുക്കൾ / നദികൾ / കടലുകൾ\n• വിശുദ്ധ ഗ്രന്ഥങ്ങൾ: the Bible, the Quran, the Gita, the Ramayana, the Vedas.\n• അദ്വിതീയമായവ: the sun, the moon, the earth | നദി/കടൽ: the Ganga, the Arabian Sea | പത്രങ്ങൾ: the Hindu.\n• ⭐ PSC ആവർത്തനം: 'the Bible', 'the Ganga', 'the Himalayas' — the ചേർക്കേണ്ട proper nouns PSC സ്ഥിരം ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. The Gita teaches us to do our duty. (കർമ്മം ചെയ്യാൻ ഗീത പഠിപ്പിക്കുന്നു)\n2. The Ganga is a holy river. (ഗംഗ ഒരു പുണ്യനദിയാണ്)\n3. The sun rises in the east. (സൂര്യൻ കിഴക്ക് ഉദിക്കുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) no article — സാധാരണ ആളുകളുടെ പേരുകൾക്ക് (Ravi, Kerala) article വേണ്ട; പക്ഷേ വിശുദ്ധ ഗ്രന്ഥങ്ങൾ ഈ നിയമത്തിന് അപവാദമാണ്.\n• 🪤 PSC Trap: 'Bible ഒരു proper noun ആണ്, അതിനാൽ article വേണ്ട' എന്ന് ചിന്തിക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണി!\n• (B) a — 'ഏതെങ്കിലും ഒരു' എന്ന അർത്ഥം നൽകും; ലോകപ്രശസ്തമായ ഒരേയൊരു ഗ്രന്ഥത്തിന് ചേരില്ല.\n• (C) an — vowel sound-ന് മുമ്പ് മാത്രം; 'Bible' consonant sound-ൽ തുടങ്ങുന്നു, കൂടാതെ indefinite അർത്ഥവും തെറ്റ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'വിശുദ്ധ ഗ്രന്ഥത്തിന് THE എന്ന കിരീടം!' — the Bible, the Gita, the Quran — ഒന്നിനും കിരീടം മറക്കരുത്.\n• ഒരുമിച്ച് പഠിക്കുക: the Bible, the Ramayana, the Himalayas, the Ganga, the Indian Ocean, the Taj Mahal.\n• PSC strategy: blank-ന് ശേഷം ഒരു വിശുദ്ധ ഗ്രന്ഥം, നദി, പർവതനിര, കടൽ എന്നിവയുടെ പേര് വന്നാൽ 'the' ഉറപ്പ്. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "103-2016-M-Q86",
+      "paperId": "103-2016-M",
+      "questionNumber": 86,
+      "topic": "Tenses",
+      "questionText": "My father ____________ home when I reached there :",
+      "optionA": "is leaving",
+      "optionB": "leaves",
+      "optionC": "had left",
+      "optionD": "left",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) had left\n• ഭൂതകാലത്തിലെ രണ്ട് പ്രവൃത്തികൾ: (1) അച്ഛൻ വീട്ടിൽ നിന്ന് പോയി, (2) ഞാൻ അവിടെ എത്തി.\n• ആദ്യം നടന്ന പ്രവൃത്തിക്ക് Past Perfect (had + V3), പിന്നീട് നടന്നതിന് Simple Past (reached).\n• 'ഞാൻ അവിടെ എത്തിയപ്പോഴേക്കും അച്ഛൻ വീട്ടിൽ നിന്ന് പോയിരുന്നു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: ആദ്യം നടന്നത് → had + V3 | പിന്നീട് നടന്നത് → V2\n• Signal words: when, before, after, by the time, already.\n• 'before' വരുമ്പോൾ: The train had left before we reached. | 'after' വരുമ്പോൾ: After he had eaten, he slept.\n• ⭐ PSC ആവർത്തനം: 'when I reached / before I arrived' — Past Perfect ചോദ്യങ്ങൾ PSC എല്ലാ വർഷവും ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. The train had left when we reached the station. (ഞങ്ങൾ സ്റ്റേഷനിൽ എത്തിയപ്പോഴേക്കും ട്രെയിൻ പോയിരുന്നു)\n2. The patient had died before the doctor came. (ഡോക്ടർ വരുന്നതിന് മുമ്പേ രോഗി മരിച്ചിരുന്നു)\n3. I had finished my work by evening. (വൈകുന്നേരത്തോടെ ഞാൻ ജോലി തീർത്തിരുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) is leaving — Present Continuous; 'reached' എന്ന ഭൂതകാല verb-നൊപ്പം വർത്തമാനകാലം ചേരില്ല.\n• (B) leaves — Simple Present; ഇതും ഭൂതകാല സന്ദർഭത്തിന് ചേരില്ല.\n• (D) left — Simple Past; രണ്ട് പ്രവൃത്തികളും ഒരേ tense-ൽ വന്നാൽ ഏത് ആദ്യം നടന്നു എന്ന് വ്യക്തമാകില്ല — 'ഞാൻ എത്തിയപ്പോൾ അച്ഛൻ പോയി' എന്ന ഒരേസമയം എന്ന അർത്ഥം വരും.\n• 🪤 PSC Trap: 'reached' Simple Past ആയതിനാൽ 'left'-ഉം ശരിയെന്ന് തോന്നും — പക്ഷേ ആദ്യം നടന്ന പ്രവൃത്തിക്ക് had + V3 തന്നെ വേണം!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ആദ്യം വന്നവന് HAD എന്ന സീനിയോറിറ്റി!' — രണ്ട് past പ്രവൃത്തികളിൽ മൂത്തവന് had + V3.\n• ഒരുമിച്ച് പഠിക്കുക: when / before / after / by the time / already — Past Perfect signal words.\n• PSC strategy: വാക്യത്തിൽ രണ്ട് past പ്രവൃത്തികൾ ഉണ്ടെങ്കിൽ ഏത് ആദ്യം നടന്നു എന്ന് കണ്ടെത്തി അതിന് had + V3 നൽകുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "103-2016-M-Q87",
+      "paperId": "103-2016-M",
+      "questionNumber": 87,
+      "topic": "Subject-Verb Agreement",
+      "questionText": "One of the puppies ____________ out of the kennel.",
+      "optionA": "get",
+      "optionB": "gets",
+      "optionC": "are getting",
+      "optionD": "have got",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) gets\n• യഥാർത്ഥ subject 'One' ആണ് — singular. 'of the puppies' വിശദീകരണം മാത്രം.\n• Singular subject-ന് Simple Present-ൽ V1 + s → gets.\n• 'നായ്ക്കുട്ടികളിൽ ഒന്ന് കൂട്ടിൽ നിന്ന് പുറത്തുചാടുന്നു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: One of + plural noun + singular verb (V1+s / is / has)\n• 'of'-ന് ശേഷമുള്ള plural noun verb-നെ ബാധിക്കില്ല.\n• ഇതേ നിയമം: Each of, Every one of, Neither of, Either of.\n• ⭐ PSC ആവർത്തനം: 'One of the ...' ചോദ്യം ഒരേ പേപ്പറിൽ തന്നെ പല രൂപങ്ങളിൽ PSC ചോദിക്കാറുണ്ട്!\n• ഉദാഹരണ sentences:\n1. One of the boys plays the guitar. (ആൺകുട്ടികളിൽ ഒരാൾ ഗിറ്റാർ വായിക്കുന്നു)\n2. One of my teeth aches. (എന്റെ പല്ലുകളിൽ ഒന്നിന് വേദനയുണ്ട്)\n3. Each of the players gets a medal. (ഓരോ കളിക്കാരനും ഓരോ മെഡൽ ലഭിക്കുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) get — plural subject-ന് മാത്രം; 'One'-ന് 's' വേണം.\n• 🪤 PSC Trap: തൊട്ടുമുമ്പുള്ള 'puppies' എന്ന plural കണ്ട് plural verb ഇടുന്നവരെ പിടിക്കാനുള്ള കെണി!\n• (C) are getting — plural continuous രൂപം; singular 'One'-ന് ചേരില്ല.\n• (D) have got — plural രൂപം; singular subject-ന് 'has got' ആണ് വേണ്ടത്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ഒരു നായ്ക്കുട്ടി മാത്രം ചാടി — അതിനാൽ ഒരു S മാത്രം!' — One → gets.\n• ഒരുമിച്ച് പഠിക്കുക: One of, Each of, Every one of, Neither of — singular verb കുടുംബം.\n• PSC strategy: 'One of the ...' കണ്ടാൽ 'of the ...' ഭാഗം മറച്ച് 'One ___' എന്ന് മാത്രം വായിക്കുക. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "103-2016-M-Q88",
+      "paperId": "103-2016-M",
+      "questionNumber": 88,
+      "topic": "Prepositions",
+      "questionText": "Never try to rely ____________ foolish people.",
+      "optionA": "of",
+      "optionB": "to",
+      "optionC": "with",
+      "optionD": "on",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) on\n• 'rely' എന്ന verb-നൊപ്പം എപ്പോഴും വരുന്ന preposition 'on' (അല്ലെങ്കിൽ upon) ആണ് — rely on = ആശ്രയിക്കുക.\n• 'വിഡ്ഢികളെ ഒരിക്കലും ആശ്രയിക്കാൻ ശ്രമിക്കരുത്' എന്നർത്ഥം.\n• ഇതൊരു fixed collocation ആണ് — യുക്തിയല്ല, ഓർമ്മയാണ് ഇവിടെ ആയുധം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: rely ON, depend ON, count ON, insist ON, live ON\n• 'ആശ്രയിക്കുക' എന്ന അർത്ഥമുള്ള verbs മിക്കവാറും 'on' എടുക്കുന്നു: rely on, depend on, count on, lean on.\n• മറ്റ് സ്ഥിരം ജോഡികൾ: full of, fond of, afraid of, angry with, agree with, good at.\n• ⭐ PSC ആവർത്തനം: rely on, depend on, insist on — fixed preposition ചോദ്യങ്ങൾ PSC-യുടെ സ്ഥിരം ഇനമാണ്!\n• ഉദാഹരണ sentences:\n1. You can rely on me. (നിനക്ക് എന്നെ ആശ്രയിക്കാം)\n2. Children depend on their parents. (കുട്ടികൾ മാതാപിതാക്കളെ ആശ്രയിക്കുന്നു)\n3. He insisted on paying the bill. (ബിൽ താൻ തന്നെ അടയ്ക്കുമെന്ന് അയാൾ നിർബന്ധം പിടിച്ചു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) of — 'fond of, afraid of' പോലുള്ളവയിലാണ്; 'rely of' എന്ന പ്രയോഗമില്ല.\n• (B) to — 'reply to' എന്നതുമായി തെറ്റിദ്ധരിപ്പിക്കാൻ — rely-യും reply-യും കാഴ്ചയിൽ ഒരുപോലെ!\n• 🪤 PSC Trap: 'rely' വായിക്കുമ്പോൾ 'reply' ആയി മനസ്സ് വായിച്ചാൽ 'to' ശരിയെന്ന് തോന്നും — അക്ഷരം ശ്രദ്ധിക്കുക!\n• (C) with — 'agree with, angry with' പോലുള്ളവയിലാണ്; rely-നൊപ്പം ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ആശ്രയിക്കുന്നവൻ മറ്റൊരാളുടെ ON (മുകളിൽ) ചാരി നിൽക്കുന്നു!' — rely on, depend on, lean on.\n• ഒരുമിച്ച് പഠിക്കുക: rely on, depend on, count on, insist on, congratulate on, comment on.\n• PSC strategy: preposition ചോദ്യങ്ങളിൽ verb + preposition ജോഡികൾ ഒരു ചെറിയ ബുക്കിൽ എഴുതി ദിവസവും വായിക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "103-2016-M-Q89",
+      "paperId": "103-2016-M",
+      "questionNumber": 89,
+      "topic": "Direct and Indirect Speech",
+      "questionText": "Appu said, \"My teacher drew the picture\".\n(change into indirect speech) :",
+      "optionA": "Appu said that his teacher drew the picture",
+      "optionB": "Appu said that his teacher had drawn the picture",
+      "optionC": "Appu said that his teacher has drawn the picture",
+      "optionD": "Appu said that his teacher drawn the picture",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) Appu said that his teacher had drawn the picture\n• Reporting verb 'said' Past Tense-ൽ ആയതിനാൽ reported speech-ലെ tense ഒരു പടി പിന്നോട്ട് (backshift).\n• 'drew' (Simple Past) → 'had drawn' (Past Perfect).\n• 'My' → 'his' (Appu-വിനെക്കുറിച്ച് പറയുന്നതിനാൽ); quotation marks മാറ്റി 'that' ചേർക്കുന്നു.\n• 'തന്റെ ടീച്ചർ ആ ചിത്രം വരച്ചിരുന്നു എന്ന് അപ്പു പറഞ്ഞു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: said + Simple Past (V2) → that + had + V3\n• Backshift (ഓരോ tense-ഉം ഒരു പടി പിന്നോട്ട്): Present → Past | Simple Past → Past Perfect | will → would.\n• Pronoun മാറ്റം: My → his/her, I → he/she — പറയുന്നയാളെ അടിസ്ഥാനമാക്കി സർവ്വനാമം മാറുന്നു.\n• ഉദ്ധരണിചിഹ്നങ്ങൾ (\" \") മാറ്റി പകരം 'that' ചേർക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: Simple Past → Past Perfect മാറ്റം Direct-Indirect-ൽ PSC ഏറ്റവും കൂടുതൽ ചോദിക്കുന്നതാണ്!\n• ഉദാഹരണ sentences:\n1. Ravi said, \"I bought a car.\" → Ravi said that he had bought a car. (താൻ ഒരു കാർ വാങ്ങിയിരുന്നു എന്ന് രവി പറഞ്ഞു)\n2. She said, \"I am tired.\" → She said that she was tired. (തനിക്ക് ക്ഷീണമുണ്ടെന്ന് അവൾ പറഞ്ഞു)\n3. He said, \"I will come.\" → He said that he would come. (താൻ വരുമെന്ന് അവൻ പറഞ്ഞു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) ...his teacher drew the picture — pronoun ശരിയായി മാറ്റി, പക്ഷേ tense backshift ചെയ്തിട്ടില്ല. സംസാരഭാഷയിൽ കേൾക്കാമെങ്കിലും PSC നിയമപ്രകാരം had drawn വേണം.\n• 🪤 PSC Trap: ഏറെക്കുറെ ശരിയായി തോന്നുന്ന option — backshift നിയമം മറന്നവരെ പിടിക്കാൻ!\n• (C) ...has drawn — Present Perfect; past reporting verb-ന് ശേഷം 'has' → 'had' ആകണം.\n• (D) ...drawn the picture — helping verb (had) ഇല്ലാതെ V3 ഒറ്റയ്ക്ക്; വ്യാകരണപരമായി അപൂർണ്ണം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Said കഴിഞ്ഞാൽ സമയം ഒരു പടി പിന്നോട്ട് — Drew പോയി Had Drawn വരും!'\n• ഒരുമിച്ച് പഠിക്കുക: draw-drew-drawn (വരയ്ക്കുക), write-wrote-written (എഴുതുക), eat-ate-eaten (കഴിക്കുക) — had-ന് ശേഷം മൂന്നാം രൂപം ചേർക്കുക.\n• PSC strategy: reported speech options-ൽ മൂന്ന് കാര്യം നോക്കുക — (1) tense backshift (2) pronoun മാറ്റം (3) helping verb പൂർണ്ണമാണോ. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "103-2016-M-Q90",
+      "paperId": "103-2016-M",
+      "questionNumber": 90,
+      "topic": "Active and Passive Voice",
+      "questionText": "Who broke the glass?\n(change into passive voice) :",
+      "optionA": "By whom the glass was broken?",
+      "optionB": "Who had broken the glass?",
+      "optionC": "The glass was broken by whom?",
+      "optionD": "Who was broken the glass?",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) By whom the glass was broken?\n• 'Who' കൊണ്ട് തുടങ്ങുന്ന active ചോദ്യം passive ആക്കുമ്പോൾ 'Who' മാറി 'By whom' ആകുന്നു.\n• 'broke' (Simple Past) → 'was broken' (was + V3); 'the glass' passive-ൽ subject ആകുന്നു.\n• 'ആരാൽ ആണ് ഗ്ലാസ് പൊട്ടിക്കപ്പെട്ടത്?' എന്നർത്ഥം.\n• ശ്രദ്ധിക്കുക: പൂർണ്ണമായി ശരിയായ ചോദ്യരൂപം 'By whom was the glass broken?' എന്നാണ് (was, subject-ന് മുമ്പ്). നൽകിയ options-ൽ ഇതിനോട് ഏറ്റവും അടുത്തത് (A) ആയതിനാൽ PSC Final Answer Key (A) ആണ് ഉത്തരമായി നൽകിയത്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Who + V2 + object? → By whom + was/were + object + V3?\n• 'Whom' കൊണ്ട് തുടങ്ങുന്ന active ചോദ്യം passive ആകുമ്പോൾ 'Who' ആയി മാറുന്നു (Whom did you call? → Who was called by you?).\n• ചോദ്യരൂപത്തിൽ was/were എപ്പോഴും subject-ന് മുമ്പ് വരും.\n• Active tense തന്നെ Passive-ലും: broke (Past) → was broken (Past).\n• ⭐ PSC ആവർത്തനം: 'Who' / 'Whom' ചോദ്യങ്ങളുടെ passive രൂപം PSC പതിവായി ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. Who wrote this letter? → By whom was this letter written? (ഈ കത്ത് ആരാൽ എഴുതപ്പെട്ടു?)\n2. Who stole my pen? → By whom was my pen stolen? (എന്റെ പേന ആരാൽ മോഷ്ടിക്കപ്പെട്ടു?)\n3. Who teaches you English? → By whom are you taught English? (ആരാലാണ് നിന്നെ ഇംഗ്ലീഷ് പഠിപ്പിക്കുന്നത്?)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) Who had broken the glass? — ഇപ്പോഴും Active Voice ആണ്; tense മാത്രം Past Perfect ആയി മാറി.\n• 🪤 PSC Trap: 'broken' (V3) കണ്ട് passive ആണെന്ന് തെറ്റിദ്ധരിപ്പിക്കാൻ — പക്ഷേ be verb (was) ഇല്ല!\n• (C) The glass was broken by whom? — സംസാരഭാഷയിൽ അത്ഭുതം പ്രകടിപ്പിക്കാൻ കേൾക്കാം; പക്ഷേ standard ചോദ്യരൂപത്തിൽ 'By whom' തുടക്കത്തിൽ തന്നെ വരണം.\n• (D) Who was broken the glass? — അർത്ഥമില്ലാത്ത വാക്യം; 'ആരെയാണ് പൊട്ടിച്ചത്' എന്ന വിചിത്ര അർത്ഥം വരും.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'WHO പോയാൽ BY WHOM മുന്നിൽ വരും!' — Passive-ൽ ചെയ്തയാൾ 'by'-യോടൊപ്പം ചോദ്യത്തിന്റെ തുടക്കത്തിലേക്ക്.\n• ഒരുമിച്ച് പഠിക്കുക: Who → By whom | Whom → Who | What → What + be + V3.\n• PSC strategy: Passive ചോദ്യ options-ൽ 'By whom'-ൽ തുടങ്ങുന്നതും be + V3 ഉള്ളതും ആയ option ആദ്യം പരിഗണിക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "103-2016-M-Q91",
+      "paperId": "103-2016-M",
+      "questionNumber": 91,
+      "topic": "Idioms",
+      "questionText": "She responded to him __at the drop of a hat__.\n(meaning close to the idiom underlined) :",
+      "optionA": "the hat falling down",
+      "optionB": "anxiously",
+      "optionC": "reluctantly",
+      "optionD": "instantly",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) instantly\n• 'At the drop of a hat' = ഒട്ടും മടിക്കാതെ, ഉടനടി, ഒരു നിമിഷം പോലും വൈകാതെ.\n• 'അവൾ ഒട്ടും വൈകാതെ അവനോട് പ്രതികരിച്ചു' എന്നർത്ഥം.\n• പഴയകാലത്ത് മത്സരങ്ങൾ തുടങ്ങാനുള്ള അടയാളമായി തൊപ്പി താഴേക്ക് ഇട്ടിരുന്നു — തൊപ്പി വീണ ഉടനെ ഓട്ടം തുടങ്ങും!",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: At the drop of a hat = immediately = instantly = ഉടനടി\n• Idiom-ന്റെ അർത്ഥം വാക്കുകളുടെ നേർ അർത്ഥമല്ല — 'തൊപ്പി വീഴുന്നത്' എന്നല്ല ഉദ്ദേശിക്കുന്നത്.\n• സമാന അർത്ഥമുള്ളവ: in a jiffy, in the twinkling of an eye, in no time, on the spot.\n• ⭐ PSC ആവർത്തനം: 'at the drop of a hat', 'in a jiffy' — വേഗതയെ സൂചിപ്പിക്കുന്ന idioms PSC-ക്ക് പ്രിയപ്പെട്ടവ!\n• ഉദാഹരണ sentences:\n1. He will help you at the drop of a hat. (അവൻ ഒട്ടും മടിക്കാതെ നിന്നെ സഹായിക്കും)\n2. She gets angry at the drop of a hat. (ചെറിയ കാര്യത്തിന് പോലും അവൾക്ക് ഉടനെ ദേഷ്യം വരും)\n3. I'll be back in a jiffy. (ഞാൻ ഒരു നിമിഷത്തിനുള്ളിൽ തിരിച്ചുവരാം)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) the hat falling down — idiom-ന്റെ നേർ (literal) അർത്ഥം മാത്രം; ആലങ്കാരിക അർത്ഥം അല്ല.\n• 🪤 PSC Trap: വാക്കുകൾ അതേപടി വിവർത്തനം ചെയ്യുന്നവരെ പിടിക്കാനുള്ള ക്ലാസിക് കെണി — idiom ഒരിക്കലും literal അല്ല!\n• (B) anxiously — 'ആകാംക്ഷയോടെ, ഉത്കണ്ഠയോടെ' — വേഗതയല്ല, മാനസികാവസ്ഥയാണ് സൂചിപ്പിക്കുന്നത്.\n• (C) reluctantly — 'മനസ്സില്ലാമനസ്സോടെ' — idiom-ന്റെ ഏതാണ്ട് വിപരീത അർത്ഥം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'തൊപ്പി വീണു — ഓട്ടം തുടങ്ങി!' — മത്സരം തുടങ്ങാനുള്ള സിഗ്നൽ പോലെ, ഉടനെ പ്രതികരിക്കുന്നു.\n• ഒരുമിച്ച് പഠിക്കുക: at the drop of a hat, in a jiffy, in the twinkling of an eye, on the spot — എല്ലാം 'ഉടനടി'.\n• PSC strategy: Idiom options-ൽ literal അർത്ഥമുള്ള option (the hat falling down) ആദ്യം തന്നെ വെട്ടിക്കളയുക. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "103-2016-M-Q92",
+      "paperId": "103-2016-M",
+      "questionNumber": 92,
+      "topic": "Parts of Speech",
+      "questionText": "Find the odd man out :",
+      "optionA": "Authoress",
+      "optionB": "Poetess",
+      "optionC": "Spinster",
+      "optionD": "Bridegroom",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) Bridegroom\n• Authoress (എഴുത്തുകാരി), Poetess (കവയിത്രി), Spinster (അവിവാഹിതയായ സ്ത്രീ) — മൂന്നും feminine gender (സ്ത്രീലിംഗം) nouns ആണ്.\n• Bridegroom (വരൻ) മാത്രം masculine gender (പുല്ലിംഗം) ആണ് — അതിനാൽ ഇതാണ് കൂട്ടത്തിൽ ചേരാത്തത്.\n• Bridegroom-ന്റെ feminine 'bride' (വധു) ആണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Odd man out = മറ്റെല്ലാവർക്കും പൊതുവായ ഒരു ഗുണം ഇല്ലാത്തത്\n• Masculine → Feminine: author → authoress, poet → poetess, bachelor → spinster, bridegroom → bride, host → hostess.\n• Feminine-ൽ നിന്ന് masculine ഉണ്ടാകുന്ന അപൂർവ ജോഡികൾ: bride → bridegroom, widow → widower.\n• ⭐ PSC ആവർത്തനം: Gender (masculine/feminine) ജോഡികൾ — പ്രത്യേകിച്ച് bachelor/spinster, bride/bridegroom — PSC ആവർത്തിച്ച് ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. The bridegroom arrived at the church. (വരൻ പള്ളിയിൽ എത്തി)\n2. Sarojini Naidu was a famous poetess. (സരോജിനി നായിഡു ഒരു പ്രശസ്ത കവയിത്രിയായിരുന്നു)\n3. My aunt remained a spinster all her life. (എന്റെ അമ്മായി ജീവിതകാലം മുഴുവൻ അവിവാഹിതയായി തുടർന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Authoress — 'author'-ന്റെ feminine; ബാക്കി രണ്ടെണ്ണത്തോടൊപ്പം സ്ത്രീലിംഗ കൂട്ടത്തിൽ പെടുന്നു.\n• (B) Poetess — 'poet'-ന്റെ feminine; ഇതും സ്ത്രീലിംഗം.\n• (C) Spinster — 'bachelor'-ന്റെ feminine; '-ess' ഇല്ലെങ്കിലും സ്ത്രീലിംഗം തന്നെ.\n• 🪤 PSC Trap: Authoress, Poetess എന്നിവയ്ക്ക് '-ess' ഉള്ളതും Spinster-ന് ഇല്ലാത്തതും കണ്ട് Spinster ആണ് odd എന്ന് തോന്നിപ്പിക്കാനുള്ള കെണി — രൂപമല്ല, ലിംഗമാണ് നോക്കേണ്ടത്!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'മൂന്ന് സ്ത്രീകൾക്കിടയിൽ ഒരു വരൻ — അവനാണ് odd man!' — odd 'man' out എന്ന ചോദ്യം തന്നെ സൂചന തരുന്നു.\n• ഒരുമിച്ച് പഠിക്കുക: bachelor-spinster, bridegroom-bride, widower-widow, host-hostess, hero-heroine, lad-lass.\n• PSC strategy: Odd man out-ൽ വാക്കിന്റെ രൂപം (suffix) അല്ല, അർത്ഥവും വിഭാഗവും (gender, part of speech) നോക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "103-2016-M-Q93",
+      "paperId": "103-2016-M",
+      "questionNumber": 93,
+      "topic": "Foreign Words and Phrases",
+      "questionText": "Raju's friend is a __bonafide__ expert in English.\n(The meaning of the foreign word underlined) :",
+      "optionA": "beware",
+      "optionB": "genuine",
+      "optionC": "artificial",
+      "optionD": "sentimental",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) genuine\n• 'Bona fide' ഒരു Latin പ്രയോഗമാണ് — അർത്ഥം 'യഥാർത്ഥമായ, ആത്മാർത്ഥമായ, വിശ്വസനീയമായ' (genuine).\n• Latin 'bona' (നല്ല) + 'fide' (വിശ്വാസത്തോടെ) → 'നല്ല വിശ്വാസത്തോടെ'.\n• 'രാജുവിന്റെ സുഹൃത്ത് ഇംഗ്ലീഷിൽ യഥാർത്ഥ വിദഗ്ധനാണ്' എന്നർത്ഥം.\n• 'bona fide certificate' — ഒരാൾ യഥാർത്ഥത്തിൽ ഒരു സ്ഥാപനത്തിലെ വിദ്യാർത്ഥിയാണെന്ന് തെളിയിക്കുന്ന സർട്ടിഫിക്കറ്റ്!",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Bona fide = genuine = real = യഥാർത്ഥമായ\n• വിപരീതം: mala fide (ദുരുദ്ദേശ്യത്തോടെ, വഞ്ചനയോടെ).\n• മറ്റ് Latin പ്രയോഗങ്ങൾ: vice versa (തിരിച്ചും), status quo (നിലവിലെ അവസ്ഥ), ad hoc (താൽക്കാലികം), prima facie (ഒറ്റനോട്ടത്തിൽ), per capita (ആളോഹരി).\n• ⭐ PSC ആവർത്തനം: bona fide, status quo, vice versa — Foreign Words and Phrases-ൽ PSC ഏറ്റവും കൂടുതൽ ചോദിക്കുന്നവ!\n• ഉദാഹരണ sentences:\n1. Submit your bona fide certificate. (നിന്റെ ബോണഫൈഡ് സർട്ടിഫിക്കറ്റ് സമർപ്പിക്കുക)\n2. He is a bona fide member of the club. (അയാൾ ക്ലബ്ബിലെ യഥാർത്ഥ അംഗമാണ്)\n3. The action was taken mala fide. (ആ നടപടി ദുരുദ്ദേശ്യത്തോടെയാണ് എടുത്തത്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) beware — 'സൂക്ഷിക്കുക, ജാഗ്രത പാലിക്കുക' — ഒരു verb ആണ്; അർത്ഥത്തിൽ ബന്ധമില്ല.\n• (C) artificial — 'കൃത്രിമമായ' — bona fide-ന്റെ ഏതാണ്ട് വിപരീത അർത്ഥം.\n• 🪤 PSC Trap: വിപരീത അർത്ഥമുള്ള വാക്ക് (artificial) option-ൽ വെച്ച് സംശയം ജനിപ്പിക്കുന്ന സ്ഥിരം PSC രീതി!\n• (D) sentimental — 'വികാരാധീനമായ' — വിദഗ്ധന്റെ യാഥാർത്ഥ്യവുമായി ബന്ധമില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'BONA = BONUS പോലെ നല്ലത്, FIDE = FAITH (വിശ്വാസം)' — നല്ല വിശ്വാസമുള്ളത് = genuine!\n• ഒരുമിച്ച് പഠിക്കുക: bona fide × mala fide, vice versa, status quo, ad hoc, prima facie, alma mater.\n• PSC strategy: Latin പ്രയോഗങ്ങൾ മലയാള അർത്ഥത്തോടൊപ്പം ഒരു പട്ടികയാക്കി പഠിക്കുക — ഓരോ പേപ്പറിലും ഒന്ന് ഉറപ്പ്. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "103-2016-M-Q94",
+      "paperId": "103-2016-M",
+      "questionNumber": 94,
+      "topic": "Synonyms",
+      "questionText": "The synonym of the word 'guile' :",
+      "optionA": "disability",
+      "optionB": "greedy",
+      "optionC": "annoy",
+      "optionD": "cunning",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) cunning\n• 'guile' = കൗശലം, ചതി, വഞ്ചനാപരമായ ബുദ്ധി.\n• 'cunning' = കുടിലബുദ്ധി, തന്ത്രം, കൗശലം — guile-ന്റെ ഏറ്റവും അടുത്ത synonym.\n• Old French 'guile' (വഞ്ചന) എന്നതിൽ നിന്നാണ് ഈ വാക്ക് വന്നത്; 'beguile' (വശീകരിച്ച് ചതിക്കുക) ഇതേ കുടുംബം.\n• കഥകളിലെ കുറുക്കന്റെ സ്വഭാവം ഓർക്കൂ — അതാണ് guile!",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: guile = cunning = deceit = craftiness = കൗശലം\n• Adjective രൂപങ്ങൾ: guileful (കൗശലമുള്ള), guileless (നിഷ്കളങ്കനായ, കപടമില്ലാത്ത).\n• Antonyms: honesty, sincerity, innocence, frankness.\n• ⭐ PSC ആവർത്തനം: guile, deceit, cunning — സ്വഭാവഗുണങ്ങളുടെ synonyms PSC പതിവായി ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. The fox used guile to get the meat. (ഇറച്ചി കിട്ടാൻ കുറുക്കൻ കൗശലം പ്രയോഗിച്ചു)\n2. He is a cunning businessman. (അയാൾ ഒരു തന്ത്രശാലിയായ വ്യാപാരിയാണ്)\n3. The child had a guileless smile. (ആ കുട്ടിക്ക് നിഷ്കളങ്കമായ ഒരു പുഞ്ചിരി ഉണ്ടായിരുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) disability — 'വൈകല്യം' — guile-മായി അർത്ഥത്തിൽ ബന്ധമില്ല.\n• (B) greedy — 'അത്യാഗ്രഹിയായ' — ഒരു adjective; മോശം സ്വഭാവമാണെങ്കിലും കൗശലം എന്ന അർത്ഥമില്ല.\n• 🪤 PSC Trap: guile-ഉം greedy-യും രണ്ടും നെഗറ്റീവ് സ്വഭാവങ്ങളായതിനാൽ ഒരുപോലെ തോന്നിപ്പിക്കാനുള്ള കെണി!\n• (C) annoy — 'ശല്യപ്പെടുത്തുക' — ഒരു verb; അർത്ഥത്തിലും part of speech-ലും ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'GUILE = GUILTY ആക്കുന്ന കൗശലം!' — കൗശലം കൊണ്ട് മറ്റുള്ളവരെ ചതിക്കുന്നവൻ ഒടുവിൽ guilty ആകും.\n• ഒരുമിച്ച് പഠിക്കുക: guile, cunning, deceit, craftiness, trickery | guileless, innocent, sincere (വിപരീതം).\n• PSC strategy: Synonym ചോദ്യത്തിൽ ചോദ്യവാക്കിന്റെ part of speech (noun/adjective/verb) നോക്കി അതേ വിഭാഗത്തിലുള്ള option-കൾക്ക് മുൻഗണന നൽകുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "103-2016-M-Q95",
+      "paperId": "103-2016-M",
+      "questionNumber": 95,
+      "topic": "Antonyms",
+      "questionText": "The antonym of the word 'hinder' :",
+      "optionA": "exclude",
+      "optionB": "host",
+      "optionC": "help",
+      "optionD": "proud",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) help\n• 'hinder' = തടസ്സപ്പെടുത്തുക, മുടക്കുക, പുരോഗതിക്ക് വിഘാതമാകുക.\n• 'help' = സഹായിക്കുക — തടസ്സപ്പെടുത്തുന്നതിന്റെ നേർ വിപരീതം.\n• Old English 'hindrian' (പിന്നോട്ട് വലിക്കുക) → hinder; 'behind' (പിന്നിൽ) ഇതേ കുടുംബമാണ്.\n• Noun രൂപം: hindrance (തടസ്സം).",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: hinder × help / assist / aid / facilitate\n• hinder-ന്റെ synonyms: obstruct, hamper, impede, block, prevent.\n• Noun: hindrance — തടസ്സം (Poverty is a hindrance to education).\n• ⭐ PSC ആവർത്തനം: hinder, impede, obstruct — തടസ്സ കുടുംബത്തിലെ വാക്കുകളുടെ synonym/antonym PSC പതിവായി ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. Heavy rain hindered the rescue work. (കനത്ത മഴ രക്ഷാപ്രവർത്തനത്തെ തടസ്സപ്പെടുത്തി)\n2. Please help me with this box. (ഈ പെട്ടി എടുക്കാൻ എന്നെ സഹായിക്കൂ)\n3. Laziness is a hindrance to success. (മടി വിജയത്തിന് ഒരു തടസ്സമാണ്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) exclude — 'ഒഴിവാക്കുക, പുറത്താക്കുക' — hinder-ന്റെ വിപരീതമല്ല; അർത്ഥത്തിൽ അടുത്ത ബന്ധവുമില്ല.\n• 🪤 PSC Trap: exclude-ഉം നെഗറ്റീവ് പ്രവൃത്തി ആയതിനാൽ synonym പോലെ തോന്നും — ചോദ്യം antonym ആണെന്ന് മറക്കരുത്!\n• (B) host — 'ആതിഥേയൻ / ആതിഥ്യം നൽകുക' — hinder-മായി ബന്ധമില്ല.\n• (D) proud — 'അഭിമാനിയായ' — ഒരു adjective; verb ആയ hinder-ന്റെ antonym ആകാൻ കഴിയില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'HINDER = BEHIND-ലേക്ക് വലിക്കുന്നവൻ; HELP = മുന്നോട്ട് തള്ളുന്നവൻ!'\n• ഒരുമിച്ച് പഠിക്കുക: hinder, obstruct, hamper, impede (തടസ്സം) × help, assist, aid, facilitate (സഹായം).\n• PSC strategy: Antonym ചോദ്യത്തിൽ ചോദ്യവാക്കിന്റെ അതേ part of speech ഉള്ള option-കൾ മാത്രം പരിഗണിക്കുക — verb-ന് verb തന്നെ antonym. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "103-2016-M-Q96",
+      "paperId": "103-2016-M",
+      "questionNumber": 96,
+      "topic": "Phrasal Verbs",
+      "questionText": "They cannot __go along with__ her :",
+      "optionA": "yield",
+      "optionB": "agree",
+      "optionC": "return something",
+      "optionD": "extinguish",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) agree\n• 'go along with' = ഒരാളുടെ അഭിപ്രായത്തോടോ തീരുമാനത്തോടോ യോജിക്കുക, അംഗീകരിക്കുക.\n• 'അവർക്ക് അവളോട് യോജിക്കാൻ കഴിയില്ല' എന്നർത്ഥം.\n• ഒപ്പം (along) നടക്കുക (go) — മറ്റൊരാളുടെ വഴിക്ക് കൂടെ പോകുക — അതാണ് യോജിപ്പ്!",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: go along with = agree with = യോജിക്കുക\n• 'go' കുടുംബം: go on (തുടരുക), go off (പൊട്ടിത്തെറിക്കുക / അലാറം മുഴങ്ങുക), go through (അനുഭവിക്കുക / പരിശോധിക്കുക), go over (പുനരവലോകനം ചെയ്യുക), go out (കെട്ടുപോകുക).\n• Phrasal verb-ന്റെ അർത്ഥം ഭാഗങ്ങളുടെ നേർ അർത്ഥമല്ല — ഒന്നിച്ചുള്ള ആലങ്കാരിക അർത്ഥമാണ്.\n• ⭐ PSC ആവർത്തനം: 'go' ഉപയോഗിച്ചുള്ള phrasal verbs PSC-യിൽ ഏറ്റവും കൂടുതൽ കാണുന്നവയാണ്!\n• ഉദാഹരണ sentences:\n1. I can't go along with your plan. (നിന്റെ പദ്ധതിയോട് എനിക്ക് യോജിക്കാനാവില്ല)\n2. Please go on with your story. (നിന്റെ കഥ തുടരൂ)\n3. The lights went out suddenly. (പെട്ടെന്ന് വിളക്കുകൾ കെട്ടുപോയി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) yield — 'വഴങ്ങുക, കീഴടങ്ങുക' — യോജിപ്പിനോട് അടുത്താണെന്ന് തോന്നുമെങ്കിലും നിർബന്ധത്തിന് വഴങ്ങുക എന്നാണ് ഇതിന്റെ കാതൽ.\n• 🪤 PSC Trap: yield-ഉം agree-യും ഭാഗികമായി ഒരുപോലെ തോന്നും — കീഴടങ്ങലും യോജിപ്പും തമ്മിലുള്ള വ്യത്യാസം ശ്രദ്ധിക്കുക!\n• (C) return something — 'എന്തെങ്കിലും തിരികെ നൽകുക' — 'give back' എന്നതിന്റെ അർത്ഥമാണ്.\n• (D) extinguish — 'കെടുത്തുക' — 'put out' എന്നതിന്റെ അർത്ഥമാണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'GO ALONG WITH = കൂടെ നടക്കുന്നവൻ കൂട്ടുകാരൻ, അവൻ യോജിക്കുന്നവൻ!'\n• ഒരുമിച്ച് പഠിക്കുക: go along with (യോജിക്കുക), give in (വഴങ്ങുക), give back (തിരികെ നൽകുക), put out (കെടുത്തുക).\n• PSC strategy: Phrasal verb options-ൽ മറ്റ് phrasal verbs-ന്റെ അർത്ഥങ്ങൾ (return, extinguish) ശ്രദ്ധിച്ച് ഒഴിവാക്കുക — അവ മിക്കവാറും കെണികളാണ്. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "103-2016-M-Q97",
+      "paperId": "103-2016-M",
+      "questionNumber": 97,
+      "topic": "Compound Words",
+      "questionText": "Which of the following is not a compound word?",
+      "optionA": "life time",
+      "optionB": "whatever",
+      "optionC": "forget",
+      "optionD": "play ground",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) forget\n• Compound word = രണ്ട് സ്വതന്ത്ര വാക്കുകൾ ചേർന്ന് ഉണ്ടാകുന്നത്.\n• 'forget' (മറക്കുക) — ഇതിലെ 'for-' ഇവിടെ ഒരു പഴയ prefix ആണ്, 'for' എന്ന സ്വതന്ത്ര വാക്കല്ല; forget-ന്റെ അർത്ഥം for + get എന്നതിൽ നിന്ന് കിട്ടുന്നില്ല.\n• അതിനാൽ ഈ കൂട്ടത്തിൽ compound word അല്ലാത്തത് forget ആണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Compound = Word + Word, രണ്ടിന്റെയും അർത്ഥം ചേർന്ന് പുതിയ അർത്ഥം\n• life + time = lifetime (ജീവിതകാലം) | what + ever = whatever (എന്തായാലും) | play + ground = playground (കളിസ്ഥലം).\n• for- പഴയ prefix ഉള്ള വാക്കുകൾ (compound അല്ല): forget, forgive, forbid, forsake.\n• ⭐ PSC ആവർത്തനം: 'Which is not a compound word?' — PSC LDC പേപ്പറുകളിൽ സ്ഥിരമായി വരുന്ന ചോദ്യം!\n• ഉദാഹരണ sentences:\n1. Children are playing in the playground. (കുട്ടികൾ കളിസ്ഥലത്ത് കളിക്കുന്നു)\n2. It was the chance of a lifetime. (ജീവിതത്തിൽ ഒരിക്കൽ മാത്രം കിട്ടുന്ന അവസരമായിരുന്നു അത്)\n3. Don't forget to bring your book. (നിന്റെ പുസ്തകം കൊണ്ടുവരാൻ മറക്കരുത്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) life time — life (ജീവിതം) + time (കാലം) — രണ്ടും സ്വതന്ത്ര വാക്കുകൾ; compound word ആണ്.\n• (B) whatever — what (എന്ത്) + ever (എപ്പോഴും) — ചേർത്തെഴുതുന്ന compound word.\n• (D) play ground — play (കളി) + ground (മൈതാനം) — compound word.\n• 🪤 PSC Trap: 'forget' എന്നതിൽ 'for', 'get' എന്നീ രണ്ട് പരിചിത വാക്കുകൾ ഒളിഞ്ഞിരിക്കുന്നതിനാൽ ഇതും compound ആണെന്ന് തോന്നിപ്പിക്കും — പക്ഷേ അർത്ഥം ആ രണ്ട് വാക്കുകളിൽ നിന്ന് വരുന്നില്ല!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'FOR + GET = ലഭിക്കാൻ വേണ്ടി? അല്ല, മറക്കുക! — അർത്ഥം ചേരുന്നില്ലെങ്കിൽ compound അല്ല.'\n• ഒരുമിച്ച് പഠിക്കുക: lifetime, playground, whatever, sunflower, bedroom (compound) × forget, forgive, forbid (compound അല്ല).\n• PSC strategy: ഓരോ option-ഉം രണ്ടായി മുറിച്ച് 'രണ്ട് ഭാഗത്തിന്റെയും അർത്ഥം ചേർത്താൽ മുഴുവൻ വാക്കിന്റെ അർത്ഥം കിട്ടുമോ?' എന്ന് പരിശോധിക്കുക. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "103-2016-M-Q98",
+      "paperId": "103-2016-M",
+      "questionNumber": 98,
+      "topic": "Spelling",
+      "questionText": "The mis-spelt word among the following :",
+      "optionA": "diary",
+      "optionB": "psychology",
+      "optionC": "vaccum",
+      "optionD": "champagne",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) vaccum\n• ശരിയായ spelling 'vacuum' (V-A-C-U-U-M) ആണ് — ഒറ്റ 'c'-യും ഇരട്ട 'u'-വും.\n• 'vacuum' = ശൂന്യത, വായുരഹിതമായ ഇടം; 'vacuum cleaner' എന്ന് നമുക്ക് പരിചിതം.\n• Latin 'vacuus' (ശൂന്യമായ) എന്നതിൽ നിന്നാണ് ഈ വാക്ക്; vacant, vacation എന്നിവ ഇതേ കുടുംബം.\n• ചോദ്യം തെറ്റായ spelling കണ്ടെത്താനാണ് — അതിനാൽ ഉത്തരം 'vaccum'.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: VA + C (ഒന്ന്) + UU (രണ്ട്) + M = VACUUM\n• ഇരട്ട 'u' വരുന്ന അപൂർവ English വാക്കുകൾ: vacuum, continuum, muumuu.\n• ഇരട്ട 'c' വരുന്നവയുമായി തെറ്റിക്കരുത്: accommodate, occasion, success.\n• ⭐ PSC ആവർത്തനം: vacuum, psychology, champagne, diarrhoea — 'mis-spelt word' ചോദ്യങ്ങളിൽ PSC ആവർത്തിക്കുന്ന വാക്കുകൾ!\n• ഉദാഹരണ sentences:\n1. Sound cannot travel through a vacuum. (ശൂന്യതയിലൂടെ ശബ്ദത്തിന് സഞ്ചരിക്കാനാവില്ല)\n2. She is studying psychology. (അവൾ മനഃശാസ്ത്രം പഠിക്കുന്നു)\n3. I write in my diary every night. (എല്ലാ രാത്രിയും ഞാൻ എന്റെ ഡയറിയിൽ എഴുതുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ (ഇവയെല്ലാം ശരിയായ spelling ആണ്)\n• (A) diary — ശരി; 'ദിനസരിക്കുറിപ്പ് പുസ്തകം'. 'dairy' (പാൽ ഉൽപ്പന്ന ശാല) എന്ന വാക്കുമായി തെറ്റിക്കരുത്.\n• 🪤 PSC Trap: diary/dairy ആശയക്കുഴപ്പം കാരണം diary തെറ്റാണെന്ന് സംശയിപ്പിക്കാനുള്ള കെണി!\n• (B) psychology — ശരി; തുടക്കത്തിലെ 'p' ഉച്ചരിക്കില്ല (സൈക്കോളജി) — കേൾക്കുമ്പോൾ തെറ്റാണെന്ന് തോന്നുമെങ്കിലും spelling ശരിയാണ്.\n• (D) champagne — ശരി; French വാക്ക്, 'ഷാംപെയിൻ' എന്ന് ഉച്ചരിക്കുന്നു; അവസാനത്തെ 'gne' ശ്രദ്ധിക്കുക.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Vacuum cleaner-ൽ രണ്ട് U — U ആകൃതിയിലുള്ള രണ്ട് കുഴലുകൾ!' — c ഒന്ന്, u രണ്ട്.\n• ഒരുമിച്ച് പഠിക്കുക: vacuum, psychology, champagne, diarrhoea, rhythm, receipt — PSC spelling പട്ടിക.\n• PSC strategy: 'mis-spelt' ചോദ്യത്തിൽ ഉച്ചാരണം വിചിത്രമായ വാക്കുകൾ (psychology, champagne) മിക്കവാറും ശരിയായ spelling ആകും — ലളിതമായി തോന്നുന്നതിൽ ശ്രദ്ധിക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "103-2016-M-Q99",
+      "paperId": "103-2016-M",
+      "questionNumber": 99,
+      "topic": "One Word Substitutes",
+      "questionText": "____________ one who hopes for the best.",
+      "optionA": "pessimist",
+      "optionB": "optimist",
+      "optionC": "misanthrope",
+      "optionD": "misogynist",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) optimist\n• Optimist = എല്ലാ കാര്യങ്ങളിലും നല്ലത് മാത്രം പ്രതീക്ഷിക്കുന്നയാൾ, ശുഭാപ്തിവിശ്വാസി.\n• Latin 'optimus' (ഏറ്റവും നല്ലത്) എന്നതിൽ നിന്നാണ് optimist വന്നത് — 'the best' എന്ന ചോദ്യവാക്കുമായി നേരിട്ട് ബന്ധം!\n• Noun: optimism (ശുഭാപ്തിവിശ്വാസം) | Adjective: optimistic.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: OPTIMUS = ഏറ്റവും നല്ലത് → optimist | PESSIMUS = ഏറ്റവും മോശം → pessimist\n• Optimist — നല്ലത് പ്രതീക്ഷിക്കുന്നയാൾ | Pessimist — മോശം മാത്രം പ്രതീക്ഷിക്കുന്നയാൾ.\n• Misanthrope — മനുഷ്യരെ വെറുക്കുന്നയാൾ | Misogynist — സ്ത്രീകളെ വെറുക്കുന്നയാൾ.\n• ⭐ PSC ആവർത്തനം: optimist/pessimist, misanthrope/philanthropist — PSC One Word Substitutes-ൽ സ്ഥിരമായി ചോദിക്കുന്ന കൂട്ടം!\n• ഉദാഹരണ sentences:\n1. An optimist sees a chance in every difficulty. (ശുഭാപ്തിവിശ്വാസി എല്ലാ പ്രയാസത്തിലും ഒരു അവസരം കാണുന്നു)\n2. A pessimist sees a difficulty in every chance. (അശുഭാപ്തിവിശ്വാസി എല്ലാ അവസരത്തിലും ഒരു പ്രയാസം കാണുന്നു)\n3. Stay optimistic during the exam. (പരീക്ഷാസമയത്ത് ശുഭപ്രതീക്ഷ കൈവിടരുത്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) pessimist — 'അശുഭാപ്തിവിശ്വാസി' — എപ്പോഴും മോശം മാത്രം പ്രതീക്ഷിക്കുന്നയാൾ; optimist-ന്റെ നേർ വിപരീതം.\n• 🪤 PSC Trap: optimist-ന്റെ വിപരീതം option-ൽ വെച്ച്, ചോദ്യം ശ്രദ്ധിക്കാതെ വായിക്കുന്നവരെ കുഴപ്പിക്കുന്ന സ്ഥിരം കെണി!\n• (C) misanthrope — 'മനുഷ്യവിദ്വേഷി' — മനുഷ്യവർഗത്തെ വെറുക്കുന്നയാൾ; പ്രതീക്ഷയുമായി ബന്ധമില്ല.\n• (D) misogynist — 'സ്ത്രീവിദ്വേഷി' — സ്ത്രീകളെ വെറുക്കുന്നയാൾ; ഇതും ബന്ധമില്ലാത്ത അർത്ഥം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'OPTImist = OPTIon എപ്പോഴും നല്ലത് തിരഞ്ഞെടുക്കുന്നവൻ; PESSimist = PESSi (പേടി) മാത്രം!'\n• ഒരുമിച്ച് പഠിക്കുക: optimist, pessimist, misanthrope, philanthropist, misogynist, misogamist.\n• PSC strategy: One Word Substitute-ൽ വിപരീത ജോഡികൾ (optimist/pessimist) ഒരുമിച്ച് വന്നാൽ ചോദ്യത്തിലെ പ്രധാന വാക്ക് (best/worst) വീണ്ടും വായിച്ച് ഉറപ്പാക്കുക. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "103-2016-M-Q100",
+      "paperId": "103-2016-M",
+      "questionNumber": 100,
+      "topic": "Words Often Confused",
+      "questionText": "Teacher advised her student not to ____________ :",
+      "optionA": "lay",
+      "optionB": "laid",
+      "optionC": "lie",
+      "optionD": "lied",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) lie\n• 'advised ... not to' — 'to'-ന് ശേഷം V1 (base form) തന്നെ വേണം; laid, lied പോലുള്ള past രൂപങ്ങൾ വരില്ല.\n• 'lie' = കള്ളം പറയുക (ഈ അർത്ഥത്തിൽ: lie – lied – lied); വാക്യത്തിന് ഏറ്റവും ഉചിതമായ അർത്ഥം ഇതാണ്.\n• 'കള്ളം പറയരുതെന്ന് ടീച്ചർ തന്റെ വിദ്യാർത്ഥിയെ ഉപദേശിച്ചു' എന്നർത്ഥം.\n• 'lay' (എന്തെങ്കിലും വെക്കുക) എന്നതിന് ഒരു object വേണം — ഇവിടെ object ഇല്ല.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: LIE (കള്ളം പറയുക) = lie – lied – lied | LIE (കിടക്കുക) = lie – lay – lain | LAY (വെക്കുക) = lay – laid – laid\n• lay ഒരു transitive verb ആണ് — object നിർബന്ധം: Lay the book on the table.\n• lie (കിടക്കുക/കള്ളം പറയുക) intransitive — object വേണ്ട.\n• ⭐ PSC ആവർത്തനം: lie/lay ആശയക്കുഴപ്പം PSC Words Often Confused-ൽ ഏറ്റവും കുഴപ്പിക്കുന്ന ചോദ്യങ്ങളിൽ ഒന്നാണ്!\n• ഉദാഹരണ sentences:\n1. Never lie to your parents. (മാതാപിതാക്കളോട് ഒരിക്കലും കള്ളം പറയരുത്)\n2. Hens lay eggs. (കോഴികൾ മുട്ടയിടുന്നു — object: eggs)\n3. He lay on the bed yesterday. (ഇന്നലെ അവൻ കട്ടിലിൽ കിടന്നു — 'കിടക്കുക'യുടെ V2)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) lay — 'വെക്കുക / മുട്ടയിടുക' എന്ന V1; ഇതിന് object വേണം (lay the book). ഇവിടെ object ഇല്ലാത്തതിനാൽ അർത്ഥം പൂർണ്ണമാകില്ല.\n• 🪤 PSC Trap: 'lay' 'lie'-യുടെ V2 ആയതിനാൽ (lie-lay-lain) ഏത് രൂപമെന്ന് കുഴപ്പിക്കാനുള്ള ഏറ്റവും വലിയ കെണി!\n• (B) laid — 'lay'-യുടെ V2/V3; 'to'-ന് ശേഷം past രൂപം ഒരിക്കലും വരില്ല.\n• (D) lied — 'lie' (കള്ളം പറയുക)-യുടെ V2/V3; അർത്ഥം ശരിയാണെങ്കിലും 'to'-ന് ശേഷം V1 'lie' തന്നെ വേണം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'LAY = Leave A thing (ഒരു സാധനം വെക്കുക); LIE = Lie down അല്ലെങ്കിൽ കള്ളം — സാധനം വേണ്ട!' — object ഉണ്ടെങ്കിൽ lay.\n• ഒരുമിച്ച് പഠിക്കുക: lie-lied-lied (കള്ളം), lie-lay-lain (കിടക്കുക), lay-laid-laid (വെക്കുക).\n• PSC strategy: blank-ന് മുമ്പ് 'to' ഉണ്ടെങ്കിൽ ആദ്യം V1 options മാത്രം എടുക്കുക; പിന്നെ object ഉണ്ടോ എന്ന് നോക്കി lie/lay തീരുമാനിക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "paper": {
+    "id": "071-2016-E",
+    "paperCode": "71/2016 E",
+    "post": "Assistant - Universities in Kerala",
+    "date": "24-May-2016",
+    "medium": "E",
+    "year": "2016",
+    "answerKeyStatus": "final"
+  },
+  "questions": [
+    {
+      "id": "071-2016-E-Q71",
+      "paperId": "071-2016-E",
+      "questionNumber": 71,
+      "topic": "Question Tags",
+      "questionText": "Let us go for a walk, :",
+      "optionA": "do we?",
+      "optionB": "shall we?",
+      "optionC": "don't we?",
+      "optionD": "didn't we?",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) shall we?\n• 'Let us' / 'Let's' കൊണ്ട് തുടങ്ങുന്ന ഒരു നിർദ്ദേശത്തിന് (suggestion) എപ്പോഴും 'shall we?' എന്ന tag ആണ് വരുന്നത്.\n• ഇത് Question Tag-ലെ ഒരു പ്രത്യേക നിയമമാണ് — positive/negative നിയമം ഇവിടെ ബാധകമല്ല.\n• 'നമുക്ക് ഒന്ന് നടക്കാൻ പോകാം, അല്ലേ?' എന്നർത്ഥം — സ്നേഹപൂർവ്വമായ ഒരു ക്ഷണം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Let's / Let us (നിർദ്ദേശം) → shall we?\n• Let me / Let him / Let them (അനുവാദം ചോദിക്കൽ) → will you?: Let me go, will you?\n• Imperative (ആജ്ഞ): Shut the door, will you? | Don't be late, will you?\n• ⭐ PSC ആവർത്തനം: 'Let's ..., shall we?' — Question Tag-ലെ ഏറ്റവും പ്രശസ്തമായ അപവാദം; PSC നിരവധി തവണ ചോദിച്ചിട്ടുണ്ട്!\n• ഉദാഹരണ sentences:\n1. Let's have lunch now, shall we? (നമുക്ക് ഇപ്പോൾ ഉച്ചഭക്ഷണം കഴിക്കാം, അല്ലേ?)\n2. Let us start the class, shall we? (നമുക്ക് ക്ലാസ് തുടങ്ങാം, അല്ലേ?)\n3. Let me help you, will you? (ഞാൻ നിന്നെ സഹായിക്കട്ടെ?)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) do we? — സാധാരണ Simple Present വാക്യങ്ങൾക്കുള്ള രൂപം; 'Let us' നിർദ്ദേശത്തിന് ചേരില്ല.\n• (C) don't we? — positive statement → negative tag എന്ന സാധാരണ നിയമം പ്രയോഗിച്ചത്; പക്ഷേ 'Let's' ഒരു അപവാദമാണ്.\n• 🪤 PSC Trap: 'Positive വാക്യത്തിന് negative tag' എന്ന നിയമം യാന്ത്രികമായി പ്രയോഗിക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണി!\n• (D) didn't we? — past tense tag; ഭാവിയിലേക്കുള്ള ഒരു നിർദ്ദേശത്തിന് ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'LET'S കേട്ടാൽ SHALL WE — ലെറ്റ്സ്-ഷാൽ, ഒരുമിച്ച് നടക്കുന്ന ഇരട്ടകൾ!'\n• ഒരുമിച്ച് പഠിക്കുക: Let's → shall we? | ആജ്ഞ → will you? | I am → aren't I? | Nobody → did they?\n• PSC strategy: tag ചോദ്യം 'Let's' / 'Let us' കൊണ്ട് തുടങ്ങിയാൽ ഒന്നും ആലോചിക്കാതെ 'shall we?' തിരഞ്ഞെടുക്കുക. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "071-2016-E-Q72",
+      "paperId": "071-2016-E",
+      "questionNumber": 72,
+      "topic": "Active and Passive Voice",
+      "questionText": "The passive form of \"This shop sells all the vegetables.\" Is :",
+      "optionA": "All the vegetables are sold by this shop",
+      "optionB": "All the vegetables are sold in this shop",
+      "optionC": "All the vegetables have been sold by this shop",
+      "optionD": "All the vegetables are being sold by this shop",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) All the vegetables are sold by this shop\n• Active വാക്യം Simple Present ആണ് (sells) → Passive-ലും Simple Present: is/am/are + V3.\n• പുതിയ subject 'All the vegetables' plural → 'are sold'.\n• Active-ലെ subject 'This shop' → Passive-ൽ 'by this shop'.\n• 'എല്ലാ പച്ചക്കറികളും ഈ കടയാൽ വിൽക്കപ്പെടുന്നു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Simple Present Active (V1/V1+s) → is/am/are + V3 (Passive)\n• Active-ലെ tense തന്നെ Passive-ലും — ഇതാണ് ഏറ്റവും പ്രധാന നിയമം.\n• Simple Past → was/were + V3 | Present Perfect → has/have been + V3 | Continuous → being + V3.\n• ⭐ PSC ആവർത്തനം: Simple Present Active → Passive ചോദ്യം PSC എല്ലാ പേപ്പറിലും ഏതാണ്ട് ഉറപ്പാണ്!\n• ഉദാഹരണ sentences:\n1. He writes a letter. → A letter is written by him. (അവനാൽ ഒരു കത്ത് എഴുതപ്പെടുന്നു)\n2. They grow rice. → Rice is grown by them. (അവരാൽ നെല്ല് കൃഷി ചെയ്യപ്പെടുന്നു)\n3. She teaches English. → English is taught by her. (അവരാൽ ഇംഗ്ലീഷ് പഠിപ്പിക്കപ്പെടുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) ...are sold in this shop — tense ശരി, പക്ഷേ 'by' മാറ്റി 'in' ആക്കി; അതോടെ പ്രവൃത്തി ചെയ്യുന്ന agent (കട) സ്ഥലമായി മാറി — ശരിയായ Passive മാറ്റമല്ല.\n• 🪤 PSC Trap: 'ഈ കടയിൽ വിൽക്കുന്നു' എന്ന് മലയാളത്തിൽ സ്വാഭാവികമായി തോന്നുന്നതിനാൽ ഇത് ശരിയെന്ന് തോന്നും — Passive-ൽ agent-ന് മുമ്പ് 'by' തന്നെ വേണം!\n• (C) ...have been sold by this shop — Present Perfect Passive; യഥാർത്ഥ tense Simple Present ആയതിനാൽ തെറ്റ്.\n• (D) ...are being sold by this shop — Present Continuous Passive; 'sells' continuous അല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'SELLS (ഇപ്പോഴത്തെ ശീലം) → ARE SOLD (ഇപ്പോഴും ശീലം) — tense ഒരിക്കലും മാറില്ല!'\n• ഒരുമിച്ച് പഠിക്കുക: sells → is/are sold, sold → was/were sold, has sold → has been sold, is selling → is being sold.\n• PSC strategy: Passive options-ൽ ആദ്യം 'by' ഉള്ളവ മാത്രം എടുക്കുക; പിന്നെ Active-ലെ അതേ tense ഉള്ളത് തിരഞ്ഞെടുക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "071-2016-E-Q73",
+      "paperId": "071-2016-E",
+      "questionNumber": 73,
+      "topic": "Tenses",
+      "questionText": "It was raining when I ____________ home yesterday.",
+      "optionA": "had reached",
+      "optionB": "has reached",
+      "optionC": "had been reaching",
+      "optionD": "reached",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) reached\n• ഭൂതകാലത്ത് തുടർന്നുകൊണ്ടിരുന്ന ഒരു പ്രവൃത്തിയെ (was raining) മറ്റൊരു ചെറിയ പ്രവൃത്തി (വീട്ടിലെത്തൽ) തടസ്സപ്പെടുത്തുമ്പോൾ — നീണ്ട പ്രവൃത്തിക്ക് Past Continuous, ചെറിയ പ്രവൃത്തിക്ക് Simple Past.\n• 'yesterday' എന്ന ഭൂതകാല സൂചനയും Simple Past ആവശ്യപ്പെടുന്നു → reached.\n• 'ഇന്നലെ ഞാൻ വീട്ടിലെത്തുമ്പോൾ മഴ പെയ്യുകയായിരുന്നു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Past Continuous (was/were + ing) + when + Simple Past (V2)\n• നീണ്ടുനിന്ന പശ്ചാത്തല പ്രവൃത്തി → was raining | ഇടയ്ക്ക് സംഭവിച്ച ചെറിയ പ്രവൃത്തി → reached.\n• Present Perfect (has reached) 'yesterday' പോലുള്ള നിശ്ചിത ഭൂതകാല സൂചനയോടൊപ്പം ഒരിക്കലും വരില്ല.\n• ⭐ PSC ആവർത്തനം: 'was ...ing when I ...ed' എന്ന ഘടന PSC Tense ചോദ്യങ്ങളിൽ സ്ഥിരം!\n• ഉദാഹരണ sentences:\n1. I was reading when the phone rang. (ഫോൺ മുഴങ്ങുമ്പോൾ ഞാൻ വായിക്കുകയായിരുന്നു)\n2. She was cooking when I arrived. (ഞാൻ എത്തുമ്പോൾ അവൾ പാചകം ചെയ്യുകയായിരുന്നു)\n3. They were playing when it started to rain. (മഴ തുടങ്ങുമ്പോൾ അവർ കളിക്കുകയായിരുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) had reached — Past Perfect; 'മഴ തുടങ്ങുന്നതിന് മുമ്പേ എത്തിയിരുന്നു' എന്ന അർത്ഥം വരും; ഇവിടെ എത്തുമ്പോൾ മഴ പെയ്യുകയായിരുന്നു — ഒരേ സമയം.\n• 🪤 PSC Trap: രണ്ട് ഭൂതകാല പ്രവൃത്തികൾ കണ്ടാൽ ഉടനെ 'had + V3' എന്ന് ചിന്തിക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണി — ഇവിടെ ഒന്ന് മറ്റൊന്നിന് മുമ്പ് പൂർത്തിയായിട്ടില്ല!\n• (B) has reached — Present Perfect; 'yesterday' എന്ന നിശ്ചിത ഭൂതകാല സൂചനയോടൊപ്പം ചേരില്ല.\n• (C) had been reaching — Past Perfect Continuous; 'എത്തുക' ഒരു നിമിഷനേരത്തെ പ്രവൃത്തിയായതിനാൽ continuous രൂപം അർത്ഥശൂന്യം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'മഴ നീണ്ട കഥ (was raining), ഞാൻ എത്തിയത് ഒരു നിമിഷം (reached)!'\n• ഒരുമിച്ച് പഠിക്കുക: was reading when ... rang, was sleeping when ... knocked, was walking when ... saw.\n• PSC strategy: 'was/were + ing ... when' കണ്ടാൽ blank-ൽ Simple Past (V2) — had, has എന്നിവ വെട്ടിക്കളയുക. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "071-2016-E-Q74",
+      "paperId": "071-2016-E",
+      "questionNumber": 74,
+      "topic": "Phrasal Verbs",
+      "questionText": "I was going ____________ the documents last evening.",
+      "optionA": "on",
+      "optionB": "in",
+      "optionC": "through",
+      "optionD": "about",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) through\n• 'go through' = സൂക്ഷ്മമായി പരിശോധിക്കുക, വായിച്ചുനോക്കുക (examine carefully).\n• 'ഇന്നലെ വൈകുന്നേരം ഞാൻ രേഖകൾ പരിശോധിക്കുകയായിരുന്നു' എന്നർത്ഥം.\n• ഒരു ഓഫീസ് അസിസ്റ്റന്റിന്റെ ദൈനംദിന ജോലി — ഫയലുകൾ 'go through' ചെയ്യുക!",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: go through = examine / read carefully = പരിശോധിക്കുക\n• go through-ന് 'അനുഭവിക്കുക' (go through hardships — ബുദ്ധിമുട്ടുകൾ അനുഭവിക്കുക) എന്ന അർത്ഥവുമുണ്ട്.\n• go on = തുടരുക | go about = ഒരു ജോലിയിൽ ഏർപ്പെടുക | go in for = പങ്കെടുക്കുക / താൽപ്പര്യം കാണിക്കുക.\n• ⭐ PSC ആവർത്തനം: 'go' phrasal verbs — പ്രത്യേകിച്ച് go through — PSC ഏറ്റവും കൂടുതൽ ചോദിക്കുന്നവയാണ്!\n• ഉദാഹരണ sentences:\n1. Please go through the file before signing. (ഒപ്പിടുന്നതിന് മുമ്പ് ദയവായി ഫയൽ പരിശോധിക്കൂ)\n2. She went through a lot of pain. (അവൾ ഒരുപാട് വേദന അനുഭവിച്ചു)\n3. Go on with your work. (നിന്റെ ജോലി തുടരൂ)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) on — 'go on' = തുടരുക; 'രേഖകൾ തുടരുക' എന്ന അർത്ഥമില്ലാത്ത പ്രയോഗം വരും.\n• (B) in — 'go in' = അകത്തേക്ക് പോകുക; രേഖകളുമായി ബന്ധമില്ല.\n• (D) about — 'go about' = ഒരു ജോലി ചെയ്യാൻ തുടങ്ങുക / ചുറ്റിനടക്കുക; രേഖകൾ പരിശോധിക്കുക എന്ന അർത്ഥം നൽകില്ല.\n• 🪤 PSC Trap: 'documents-നെക്കുറിച്ച്' എന്ന മലയാള ചിന്ത 'about' തിരഞ്ഞെടുപ്പിക്കും — phrasal verb-ന്റെ അർത്ഥം ഒരു യൂണിറ്റായി പഠിക്കണം!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'GO THROUGH = ഫയലിന്റെ ഒരറ്റം മുതൽ മറ്റേ അറ്റം വരെ (through) കടന്നുപോകുക!'\n• ഒരുമിച്ച് പഠിക്കുക: go through (പരിശോധിക്കുക), go on (തുടരുക), go off (പൊട്ടുക), go over (പുനരവലോകനം), go along with (യോജിക്കുക).\n• PSC strategy: blank-ന് ശേഷം documents, file, papers, letter പോലുള്ള വാക്കുകൾ വന്നാൽ 'go through' ഉറപ്പ്. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "071-2016-E-Q75",
+      "paperId": "071-2016-E",
+      "questionNumber": 75,
+      "topic": "Articles",
+      "questionText": "Germany is ____________ European country.",
+      "optionA": "a",
+      "optionB": "an",
+      "optionC": "the",
+      "optionD": "no article required",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) a\n• 'European' എഴുതുന്നത് 'E' എന്ന vowel letter-ൽ ആണെങ്കിലും ഉച്ചാരണം 'യൂറോപ്യൻ' — 'യ' എന്ന consonant sound-ൽ തുടങ്ങുന്നു → a.\n• യൂറോപ്പിലെ പല രാജ്യങ്ങളിൽ ഒന്നാണ് ജർമ്മനി — 'ഒരു' എന്ന അർത്ഥം → indefinite article.\n• 'ജർമ്മനി ഒരു യൂറോപ്യൻ രാജ്യമാണ്' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Article തീരുമാനിക്കുന്നത് SOUND ആണ്, LETTER അല്ല!\n• 'യൂ' ശബ്ദത്തിൽ തുടങ്ങുന്ന vowel-letter വാക്കുകൾ → a: a European, a university, a union, a useful tip.\n• 'വ' ശബ്ദം: a one-day match, a one-way street.\n• ⭐ PSC ആവർത്തനം: 'a European' — ഒരേ വർഷം തന്നെ PSC പല പേപ്പറുകളിൽ ആവർത്തിച്ച ചോദ്യം!\n• ഉദാഹരണ sentences:\n1. France is a European country. (ഫ്രാൻസ് ഒരു യൂറോപ്യൻ രാജ്യമാണ്)\n2. Kerala has a university in every region. (കേരളത്തിൽ ഓരോ മേഖലയിലും ഒരു സർവകലാശാലയുണ്ട്)\n3. It was a one-day trip. (അതൊരു ഒറ്റദിവസ യാത്രയായിരുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) an — 'E' എന്ന vowel letter കണ്ട് an ഇടുന്നത്; പക്ഷേ 'യൂ' consonant sound ആയതിനാൽ തെറ്റ്.\n• 🪤 PSC Trap: letter നോക്കി article ഇടുന്നവരെ പിടിക്കാനുള്ള, PSC-യുടെ ഏറ്റവും പ്രിയപ്പെട്ട കെണി!\n• (C) the — 'the European country' എന്ന് പറഞ്ഞാൽ യൂറോപ്പിൽ ഒരേയൊരു രാജ്യം എന്ന അർത്ഥം വരും.\n• (D) no article required — singular countable noun (country)-ന് മുമ്പ് article നിർബന്ധം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'യൂറോപ്പിലേക്ക് യാത്ര — യ ശബ്ദം കേട്ടാൽ A എന്ന ടിക്കറ്റ്!'\n• ഒരുമിച്ച് പഠിക്കുക: a European, a university, a uniform, a union | an hour, an honest man, an MLA.\n• PSC strategy: blank-ന് ശേഷമുള്ള വാക്ക് ഉറക്കെ ഉച്ചരിക്കുക — ആദ്യ ശബ്ദം 'യ/വ' ആണെങ്കിൽ a. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "071-2016-E-Q76",
+      "paperId": "071-2016-E",
+      "questionNumber": 76,
+      "topic": "Correlatives",
+      "questionText": "The problem was ____________ difficult that I could not solve it.",
+      "optionA": "very",
+      "optionB": "so",
+      "optionC": "too",
+      "optionD": "much",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) so\n• 'so + adjective + that' = അത്രത്തോളം ... ആയതിനാൽ (ഫലം കാണിക്കുന്ന correlative ഘടന).\n• Blank-ന് ശേഷം 'that I could not solve it' എന്ന ഫലം വരുന്നതിനാൽ 'so' വേണം.\n• 'പ്രശ്നം അത്രത്തോളം ബുദ്ധിമുട്ടുള്ളതായിരുന്നതിനാൽ എനിക്ക് അത് പരിഹരിക്കാൻ കഴിഞ്ഞില്ല' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: so + adjective/adverb + THAT + clause | too + adjective + TO + V1\n• The box was so heavy that I could not lift it. = The box was too heavy for me to lift.\n• 'too ... to' ഘടനയിൽ 'not' വേണ്ട — 'too' തന്നെ negative അർത്ഥം നൽകുന്നു.\n• ⭐ PSC ആവർത്തനം: so...that vs too...to — PSC Correlatives/Transformation ചോദ്യങ്ങളിലെ ക്ലാസിക് ജോഡി!\n• ഉദാഹരണ sentences:\n1. He was so tired that he fell asleep. (അവൻ അത്രയ്ക്ക് ക്ഷീണിതനായിരുന്നതിനാൽ ഉറങ്ങിപ്പോയി)\n2. The tea is too hot to drink. (ചായ കുടിക്കാനാവാത്തത്ര ചൂടാണ്)\n3. She spoke so softly that nobody heard her. (അവൾ അത്ര പതുക്കെ സംസാരിച്ചതിനാൽ ആരും കേട്ടില്ല)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) very — 'വളരെ' എന്ന അർത്ഥം ശരിയാണെങ്കിലും 'very ... that' എന്ന ഘടന ഇല്ല; that-clause ബന്ധിപ്പിക്കാൻ 'so' വേണം.\n• (C) too — 'too'-ന് ശേഷം 'to + V1' ആണ് വരേണ്ടത് (too difficult to solve); 'too ... that' തെറ്റാണ്.\n• 🪤 PSC Trap: 'too difficult' കേൾക്കാൻ സ്വാഭാവികമായതിനാൽ ശരിയെന്ന് തോന്നും — ശേഷം വരുന്ന 'that' ആണ് യഥാർത്ഥ സൂചന!\n• (D) much — 'much difficult' വ്യാകരണപരമായി തെറ്റ്; much comparative-നൊപ്പമാണ് (much more difficult).",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'SO-ന്റെ കൂട്ടുകാരൻ THAT, TOO-ന്റെ കൂട്ടുകാരൻ TO!' — so...that, too...to; ജോഡികൾ മാറ്റരുത്.\n• ഒരുമിച്ച് പഠിക്കുക: so...that, too...to, such...that, either...or, neither...nor, no sooner...than.\n• PSC strategy: blank-ന് ശേഷം വാക്യത്തിൽ 'that' കണ്ടാൽ so/such; 'to + V1' കണ്ടാൽ too. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "071-2016-E-Q77",
+      "paperId": "071-2016-E",
+      "questionNumber": 77,
+      "topic": "Tenses",
+      "questionText": "In which part of the sentence is the mistake?\n__the film__ __that I saw yesterday__ __was about an old man__ __who was living a long time ago__",
+      "optionA": "the film",
+      "optionB": "that I saw yesterday",
+      "optionC": "was about an old man",
+      "optionD": "who was living a long time ago",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) who was living a long time ago\n• 'a long time ago' (വളരെ മുമ്പ്) എന്നത് ഭൂതകാലത്തിലെ ഒരു പൂർത്തിയായ അവസ്ഥയെ സൂചിപ്പിക്കുന്നു → Simple Past വേണം: 'who lived a long time ago'.\n• 'was living' (Past Continuous) ഭൂതകാലത്തിലെ ഒരു പ്രത്യേക നിമിഷത്തിൽ തുടർന്നുകൊണ്ടിരുന്ന പ്രവൃത്തിക്കാണ്; ഇവിടെ അത്തരം ഒരു നിമിഷ സൂചനയില്ല.\n• ശരിയായ വാക്യം: The film that I saw yesterday was about an old man who lived a long time ago. ('വളരെ മുമ്പ് ജീവിച്ചിരുന്ന ഒരു വൃദ്ധനെക്കുറിച്ചായിരുന്നു ഇന്നലെ ഞാൻ കണ്ട സിനിമ')",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: ago / long ago / in 1990 + Simple Past (V2)\n• Past Continuous വേണ്ടത് മറ്റൊരു ഭൂതകാല സംഭവത്തിന്റെ സമയത്ത് തുടർന്നുകൊണ്ടിരുന്ന പ്രവൃത്തിക്ക്: He was living in Delhi when the war broke out.\n• 'live' പോലുള്ള നീണ്ട അവസ്ഥകൾ പൊതുവായി പറയുമ്പോൾ Simple Past ആണ് സ്വാഭാവികം.\n• ⭐ PSC ആവർത്തനം: 'ago'-നൊപ്പമുള്ള tense തെറ്റുകൾ PSC spot-the-error ചോദ്യങ്ങളിൽ പതിവാണ്!\n• ഉദാഹരണ sentences:\n1. My grandfather lived in Kollam long ago. (എന്റെ മുത്തച്ഛൻ പണ്ട് കൊല്ലത്താണ് ജീവിച്ചിരുന്നത്)\n2. She left the office an hour ago. (അവൾ ഒരു മണിക്കൂർ മുമ്പ് ഓഫീസിൽ നിന്ന് പോയി)\n3. He was living abroad when his father died. (അച്ഛൻ മരിക്കുമ്പോൾ അയാൾ വിദേശത്ത് താമസിക്കുകയായിരുന്നു — ഇവിടെ continuous ശരി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ (ഈ ഭാഗങ്ങളിൽ തെറ്റില്ല)\n• (A) the film — ശരിയായ noun phrase; പ്രത്യേക സിനിമ ആയതിനാൽ 'the' ശരി.\n• (B) that I saw yesterday — 'yesterday'-നൊപ്പം Simple Past (saw) — തികച്ചും ശരി.\n• 🪤 PSC Trap: 'yesterday' ഉള്ള ഭാഗം കണ്ട് tense തെറ്റ് അവിടെയാണെന്ന് സംശയിപ്പിക്കാനുള്ള കെണി — അവിടെ saw ശരിയാണ്!\n• (C) was about an old man — 'was about' (ഇതിനെക്കുറിച്ചായിരുന്നു) ശരി; 'old' vowel sound ആയതിനാൽ 'an' ശരി.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'AGO കണ്ടാൽ കഥ കഴിഞ്ഞു — Simple Past മാത്രം!' — long ago, years ago, an hour ago.\n• ഒരുമിച്ച് പഠിക്കുക: ago, yesterday, last week, in 2010 (Simple Past) | since, for, already, just (Present Perfect).\n• PSC strategy: Spot-the-error-ൽ ഓരോ ഭാഗത്തെയും time word (yesterday, ago) അതിന്റെ verb-മായി ചേരുന്നുണ്ടോ എന്ന് പരിശോധിക്കുക. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "071-2016-E-Q78",
+      "paperId": "071-2016-E",
+      "questionNumber": 78,
+      "topic": "Correction of Sentences",
+      "questionText": "In which part of the sentence is the mistake?\n__it was Shakespeare__ __and not no one else__ __who wrote this play__ __at the beginning of the sixteenth century__",
+      "optionA": "it was Shakespeare",
+      "optionB": "and not no one else",
+      "optionC": "who wrote this play",
+      "optionD": "at the beginning of the sixteenth century",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) and not no one else\n• 'not' ഉം 'no one' ഉം ഒരുമിച്ച് വരുന്നത് ഇരട്ട negative (double negative) ആണ് — standard English-ൽ ഇത് തെറ്റാണ്.\n• ശരിയായ രൂപം: 'and no one else' അല്ലെങ്കിൽ 'and not anyone else'.\n• 'ഈ നാടകം എഴുതിയത് ഷേക്സ്പിയറാണ്, മറ്റാരുമല്ല' എന്നാണ് ഉദ്ദേശിച്ച അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: ഒരു വാക്യത്തിൽ ഒരു negative മാത്രം! (not + no ✗)\n• not ... anyone = no one | not ... anything = nothing | not ... ever = never.\n• ഇരട്ട negative ഒഴിവാക്കേണ്ട ഉദാഹരണങ്ങൾ: I don't know nothing ✗ → I don't know anything ✓ / I know nothing ✓.\n• ⭐ PSC ആവർത്തനം: double negative തെറ്റുകൾ (not ... no, hardly ... not, scarcely ... not) PSC Correction ചോദ്യങ്ങളിൽ സ്ഥിരം!\n• ഉദാഹരണ sentences:\n1. I did not see anyone there. (അവിടെ ഞാൻ ആരെയും കണ്ടില്ല)\n2. It was Gandhiji and no one else who led the Salt March. (ഉപ്പുസത്യാഗ്രഹം നയിച്ചത് ഗാന്ധിജിയാണ്, മറ്റാരുമല്ല)\n3. She hardly knows anybody here. (അവൾക്ക് ഇവിടെ ആരെയും അറിയില്ല)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ (PSC ഉദ്ദേശിച്ച തെറ്റ് ഇവയിലല്ല)\n• (A) it was Shakespeare — ഊന്നൽ നൽകാനുള്ള ശരിയായ 'It was ... who' ഘടന (cleft sentence).\n• (C) who wrote this play — ആളിനെ സൂചിപ്പിക്കാൻ 'who' ശരി; Simple Past 'wrote' ശരി.\n• (D) at the beginning of the sixteenth century — വ്യാകരണപരമായി ശരിയായ ഘടനയാണ്.\n• 🪤 PSC Trap: ചരിത്രപരമായി ഷേക്സ്പിയറിന്റെ നാടകങ്ങൾ 16-ാം നൂറ്റാണ്ടിന്റെ അവസാനത്തിലും 17-ാം നൂറ്റാണ്ടിന്റെ തുടക്കത്തിലുമാണ് — (D) വസ്തുതാപരമായി സംശയം ജനിപ്പിക്കും; പക്ഷേ ചോദ്യം വ്യാകരണ തെറ്റാണ്, ചരിത്ര തെറ്റല്ല!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'രണ്ട് NO ചേർന്നാൽ YES ആകും — ഗണിതത്തിലെ പോലെ (−)×(−)=(+)!' — അതുകൊണ്ട് ഒരു negative മാത്രം മതി.\n• ഒരുമിച്ച് പഠിക്കുക: not + any (anyone, anything, anywhere) = no (no one, nothing, nowhere).\n• PSC strategy: Spot-the-error ഭാഗങ്ങളിൽ not, no, never, hardly, nothing — ഇവയിൽ രണ്ടെണ്ണം ഒരുമിച്ച് കണ്ടാൽ അതാണ് തെറ്റ്. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "071-2016-E-Q79",
+      "paperId": "071-2016-E",
+      "questionNumber": 79,
+      "topic": "Parts of Speech",
+      "questionText": "Milk is ____________ in proteins and minerals.",
+      "optionA": "good",
+      "optionB": "large",
+      "optionC": "big",
+      "optionD": "rich",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) rich\n• 'rich in' = ഒരു ഘടകം ധാരാളമായി അടങ്ങിയിരിക്കുന്ന — ഇതൊരു സ്ഥിരം adjective + preposition ജോഡിയാണ് (collocation).\n• 'പാലിൽ പ്രോട്ടീനുകളും ധാതുക്കളും ധാരാളമായി അടങ്ങിയിരിക്കുന്നു' എന്നർത്ഥം.\n• 'rich' എന്നതിന് 'പണക്കാരൻ' എന്ന അർത്ഥം മാത്രമല്ല, 'സമൃദ്ധമായ' എന്ന അർത്ഥവുമുണ്ട്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: rich IN + nutrient/resource = ധാരാളം അടങ്ങിയ\n• rich in vitamins, rich in iron, rich in natural resources, rich in culture.\n• മറ്റ് adjective + preposition ജോഡികൾ: good at, full of, fond of, famous for, poor in.\n• ⭐ PSC ആവർത്തനം: 'rich in', 'good at', 'famous for' — adjective collocations PSC fill-in-the-blank ചോദ്യങ്ങളിൽ പതിവാണ്!\n• ഉദാഹരണ sentences:\n1. Carrots are rich in vitamin A. (കാരറ്റിൽ വിറ്റാമിൻ എ ധാരാളമുണ്ട്)\n2. Kerala is rich in natural beauty. (കേരളം പ്രകൃതിഭംഗിയാൽ സമ്പന്നമാണ്)\n3. Spinach is rich in iron. (ചീരയിൽ ഇരുമ്പ് ധാരാളമുണ്ട്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) good — 'good for' (ആരോഗ്യത്തിന് നല്ലത്) അല്ലെങ്കിൽ 'good at' (കഴിവുള്ള) എന്നാണ് ചേരുക; 'good in proteins' സ്വാഭാവികമായ പ്രയോഗമല്ല.\n• 🪤 PSC Trap: 'പാൽ ആരോഗ്യത്തിന് നല്ലതാണ്' എന്ന ചിന്ത 'good' തിരഞ്ഞെടുപ്പിക്കും — പക്ഷേ 'in proteins' ഉള്ളതിനാൽ rich മാത്രം ചേരും!\n• (B) large — 'വലിയ' (വലിപ്പം); ഘടകങ്ങളുടെ സമൃദ്ധി കാണിക്കില്ല.\n• (C) big — 'വലിയ' — ഇതും വലിപ്പമാണ്; 'big in proteins' തെറ്റായ പ്രയോഗം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'RICH IN = ഉള്ളിൽ (IN) സമ്പത്ത് (RICH)!' — പാലിന്റെ ഉള്ളിൽ പ്രോട്ടീൻ എന്ന സമ്പത്ത്.\n• ഒരുമിച്ച് പഠിക്കുക: rich in, poor in, good at, bad at, full of, famous for, fond of, proud of.\n• PSC strategy: blank-ന് ശേഷമുള്ള preposition (in/at/of/for) നോക്കി അതിനോട് സ്ഥിരമായി ചേരുന്ന adjective തിരഞ്ഞെടുക്കുക. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "071-2016-E-Q80",
+      "paperId": "071-2016-E",
+      "questionNumber": 80,
+      "topic": "Direct and Indirect Speech",
+      "questionText": "The indirect form of 'Do you like comics?' she asked me. is :",
+      "optionA": "She asked me whether I like comics",
+      "optionB": "She asked me whether I have liked comics",
+      "optionC": "She asked me whether I liked comics",
+      "optionD": "She asked me did I like comics",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) She asked me whether I liked comics\n• 'Do you like ...?' ഒരു Yes/No ചോദ്യമാണ് → reported speech-ൽ 'whether' (അല്ലെങ്കിൽ 'if') ചേർക്കണം.\n• 'do you like' (Simple Present) → 'I liked' (Simple Past) — backshift; 'do' എന്ന helping verb ഒഴിവാകുന്നു.\n• 'you' → 'I' (ചോദിച്ചത് എന്നോട് ആയതിനാൽ).\n• 'എനിക്ക് കോമിക്സ് ഇഷ്ടമാണോ എന്ന് അവൾ എന്നോട് ചോദിച്ചു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: \"Do/Does + subject + V1?\" → asked + whether/if + subject + V2\n• Helping verb do/does/did ചോദ്യങ്ങൾ reported ആകുമ്പോൾ ഒഴിവാകും; main verb ഒരു പടി പിന്നോട്ട് മാറും.\n• ചോദ്യത്തിന്റെ ക്രമം (did I like) മാറി പ്രസ്താവനയുടെ ക്രമം (I liked) വരും.\n• ⭐ PSC ആവർത്തനം: Yes/No ചോദ്യങ്ങളുടെ reported form PSC എല്ലാ വർഷവും ചോദിക്കുന്നു — tense മാറ്റമാണ് പ്രധാന കെണി!\n• ഉദാഹരണ sentences:\n1. \"Do you play chess?\" he asked. → He asked whether I played chess. (ഞാൻ ചെസ്സ് കളിക്കുമോ എന്ന് അവൻ ചോദിച്ചു)\n2. \"Does she sing?\" I asked. → I asked if she sang. (അവൾ പാടുമോ എന്ന് ഞാൻ ചോദിച്ചു)\n3. \"Did you eat?\" Amma asked. → Amma asked whether I had eaten. (ഞാൻ കഴിച്ചോ എന്ന് അമ്മ ചോദിച്ചു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) ...whether I like comics — whether-ഉം pronoun-ഉം ശരി; പക്ഷേ backshift ഇല്ല — 'like' → 'liked' ആകണം.\n• 🪤 PSC Trap: ഏതാണ്ട് എല്ലാം ശരിയായ ഈ option ഏറ്റവും അപകടകരമായ കെണിയാണ് — tense മാറ്റം മറന്നവർ വീഴും!\n• (B) ...whether I have liked comics — Present Perfect ആക്കി മാറ്റി; Simple Present-ന്റെ backshift Simple Past ആണ്.\n• (D) She asked me did I like comics — whether/if ഇല്ല; ചോദ്യത്തിന്റെ ക്രമം (did I like) നിലനിർത്തി — reported speech ആയിട്ടില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'DO ഓടിപ്പോയി, WHETHER വന്നു, LIKE ഒരു പടി പിന്നോട്ട് LIKED ആയി!'\n• ഒരുമിച്ച് പഠിക്കുക: do you like → I liked | does he play → he played | did you go → I had gone.\n• PSC strategy: Yes/No ചോദ്യം reported ആക്കുമ്പോൾ മൂന്ന് പരിശോധന — whether/if ഉണ്ടോ, backshift ഉണ്ടോ, subject + verb ക്രമമാണോ. ഒരിക്കലും miss ആകില്ല!"
+      }
+    }
+  ]
+}

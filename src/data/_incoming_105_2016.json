@@ -1,0 +1,373 @@
+{
+  "paper": {
+    "id": "105-2016-M",
+    "paperCode": "105/2016 M",
+    "post": "L.D Clerk (Kannada & Malayalam knowing) (NCA - ST) - Various (Kasaragod)",
+    "date": "26-Aug-2016",
+    "medium": "M",
+    "year": "2016",
+    "answerKeyStatus": "final"
+  },
+  "questions": [
+    {
+      "id": "105-2016-M-Q81",
+      "paperId": "105-2016-M",
+      "questionNumber": 81,
+      "topic": "Question Tags",
+      "questionText": "I am very sincere in my work, .....?",
+      "optionA": "am I?",
+      "optionB": "am n't I?",
+      "optionC": "are I?",
+      "optionD": "are n't I?",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) are n't I? (aren't I?)\n• Statement positive ആണ് (I am sincere) → tag negative ആകണം.\n• 'I am' എന്നതിന്റെ negative tag 'amn't I' എന്നല്ല, 'aren't I' എന്നാണ് — ഇത് English-ലെ ഒരു പ്രത്യേക അപവാദമാണ് (exception).\n• 'ഞാൻ എന്റെ ജോലിയിൽ വളരെ ആത്മാർത്ഥതയുള്ളയാളാണ്, അല്ലേ?' എന്നർത്ഥം.\n• (Paper-ൽ 'are n't' എന്ന് അകലമിട്ട് അച്ചടിച്ചിരിക്കുന്നു — ശരിയായ എഴുത്ത് 'aren't'.)",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: I am ... → aren't I? | I am not ... → am I?\n• 'amn't' എന്ന രൂപം standard English-ൽ ഉപയോഗിക്കാറില്ല; അതുകൊണ്ടാണ് positive 'I am' വാക്യത്തിന് 'aren't I' ഉപയോഗിക്കുന്നത്.\n• Negative വാക്യത്തിൽ സാധാരണ നിയമം തന്നെ: I am not late, am I?\n• ⭐ PSC ആവർത്തനം: 'I am ..., aren't I?' — Question Tag-ലെ ഈ അപവാദം PSC വീണ്ടും വീണ്ടും ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. I am your best friend, aren't I? (ഞാൻ നിന്റെ ഏറ്റവും നല്ല സുഹൃത്താണ്, അല്ലേ?)\n2. I am right, aren't I? (ഞാൻ പറഞ്ഞത് ശരിയാണ്, അല്ലേ?)\n3. I am not wrong, am I? (ഞാൻ തെറ്റല്ല, ആണോ?)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) am I? — positive tag ആണ്; positive statement-ന് positive tag ചേരില്ല. 'I am not' എന്ന് തുടങ്ങുന്ന വാക്യത്തിനാണ് ഇത്.\n• (B) am n't I? — 'amn't' എന്ന രൂപം standard English-ൽ ഇല്ല; യുക്തിപരമായി ശരിയെന്ന് തോന്നുമെങ്കിലും തെറ്റാണ്.\n• 🪤 PSC Trap: 'am' നിലനിർത്തി n't ചേർത്താൽ മതിയെന്ന് സാധാരണ നിയമം പറയുന്നതുകൊണ്ട് ഇത് ശരിയെന്ന് തോന്നും — അപവാദം അറിയാത്തവരെ പിടിക്കാനുള്ള കെണി!\n• (C) are I? — positive ആണ്; 'are I' എന്നത് negative അല്ലാത്തപ്പോൾ തീർത്തും തെറ്റായ രൂപം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ഞാൻ (I am) ചോദിക്കുമ്പോൾ Aren't I — ഞാൻ മാത്രം ഒരു അപവാദം!' — I am കണ്ടാൽ ഉടനെ aren't I എന്ന് ഓർക്കൂ.\n• ഒരുമിച്ച് പഠിക്കുക: I am → aren't I? | Let's → shall we? | Everybody → they? — Question Tag-ലെ പ്രധാന അപവാദങ്ങൾ.\n• PSC strategy: tag ചോദ്യത്തിൽ subject 'I am' ആണെങ്കിൽ options-ൽ 'aren't I' തിരയുക — അത് തന്നെ ശരിയുത്തരം. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "105-2016-M-Q82",
+      "paperId": "105-2016-M",
+      "questionNumber": 82,
+      "topic": "Spelling",
+      "questionText": "Choose the correct spelt word.",
+      "optionA": "queue",
+      "optionB": "qeuoe",
+      "optionC": "quoue",
+      "optionD": "queeu",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) queue\n• ശരിയായ spelling: Q-U-E-U-E.\n• 'queue' = വരി, ക്യൂ — ആളുകൾ ഊഴം കാത്ത് നിൽക്കുന്ന നിര.\n• ഉച്ചാരണം 'ക്യൂ' മാത്രമാണ്; പക്ഷേ എഴുതുമ്പോൾ ആദ്യ Q കഴിഞ്ഞ് 'ueue' എന്ന നാല് vowels വരുന്നു.\n• French 'queue' (വാൽ) എന്നതിൽ നിന്നാണ് ഈ വാക്ക് വന്നത് — വാൽ പോലെ നീളുന്ന വരി!",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Q + UE + UE = QUEUE ('ue' രണ്ടുതവണ)\n• English-ൽ 'q' ന് ശേഷം മിക്കവാറും 'u' വരും: queen, quick, quiet, question.\n• French-ൽ നിന്ന് വന്ന, ഉച്ചരിക്കാത്ത അക്ഷരങ്ങളുള്ള വാക്കുകൾ: queue, bouquet, plateau, cheque.\n• ⭐ PSC ആവർത്തനം: queue, cheque, bureau പോലുള്ള French-origin spelling ചോദ്യങ്ങൾ PSC സ്ഥിരം ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. Please stand in the queue. (ദയവായി വരിയിൽ നിൽക്കൂ)\n2. There was a long queue at the ration shop. (റേഷൻ കടയിൽ നീണ്ട ക്യൂ ഉണ്ടായിരുന്നു)\n3. She paid by cheque. (അവൾ ചെക്ക് വഴി പണം നൽകി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) qeuoe — 'q'-ന് ശേഷം 'u' ഇല്ല, അനാവശ്യമായ 'o' ഉം ചേർത്തു; നിലവിലില്ലാത്ത രൂപം.\n• (C) quoue — രണ്ടാമത്തെ 'e' മാറി 'o' ആയി; തെറ്റായ spelling.\n• 🪤 PSC Trap: 'qu' എന്ന ശരിയായ തുടക്കം കണ്ട് ശരിയാണെന്ന് തോന്നിപ്പിക്കാൻ — അക്ഷരം അക്ഷരമായി പരിശോധിക്കാത്തവർ വീഴും!\n• (D) queeu — 'ue' ആവർത്തനത്തിന് പകരം 'ee' ചേർത്തു; ക്രമം തെറ്റി.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Q-ന് പിന്നിൽ U-E, U-E എന്ന് രണ്ട് പേർ ക്യൂ നിൽക്കുന്നു!' — queue എന്ന വാക്ക് തന്നെ ഒരു ചെറിയ ക്യൂ ആണ്.\n• ഒരുമിച്ച് പഠിക്കുക: queue, cheque, bouquet, plateau, bureau — French-ൽ നിന്ന് വന്ന വാക്കുകൾ.\n• PSC strategy: Spelling options-ൽ vowels-ന്റെ ക്രമം മാത്രം മാറുമ്പോൾ ഓരോ അക്ഷരവും എണ്ണി പരിശോധിക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "105-2016-M-Q83",
+      "paperId": "105-2016-M",
+      "questionNumber": 83,
+      "topic": "Prepositions",
+      "questionText": "Roshan has been watching T.V. ____________ 2 hours.",
+      "optionA": "since",
+      "optionB": "for",
+      "optionC": "by",
+      "optionD": "from",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) for\n• '2 hours' എന്നത് എത്ര നേരം എന്ന് കാണിക്കുന്ന ഒരു കാലയളവാണ് → 'for' വേണം.\n• Present Perfect Continuous-ൽ (has been watching) കാലയളവിന് 'for', തുടക്കസമയത്തിന് 'since'.\n• 'റോഷൻ രണ്ടു മണിക്കൂറായി ടി.വി. കണ്ടുകൊണ്ടിരിക്കുന്നു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: FOR + എത്ര നേരം | SINCE + എന്നുമുതൽ\n• for two hours, for a week, for ten years (രണ്ടു മണിക്കൂർ, ഒരാഴ്ച, പത്തു വർഷം — കാലയളവ്).\n• since 4 o'clock, since Monday, since 2015 (നാലു മണി മുതൽ, തിങ്കളാഴ്ച മുതൽ — തുടക്കസമയം).\n• ⭐ PSC ആവർത്തനം: Perfect Continuous tense-നൊപ്പമുള്ള for/since ചോദ്യം ഏതാണ്ട് എല്ലാ PSC പേപ്പറിലും വരുന്നു!\n• ഉദാഹരണ sentences:\n1. She has been studying for three hours. (അവൾ മൂന്നു മണിക്കൂറായി പഠിക്കുന്നു)\n2. He has been absent since Monday. (തിങ്കളാഴ്ച മുതൽ അവൻ ഹാജരില്ല)\n3. We have lived here for ten years. (പത്തു വർഷമായി ഞങ്ങൾ ഇവിടെ താമസിക്കുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) since — ഒരു തുടക്കസമയം (since 6 p.m.) കാണിക്കാനാണ്; '2 hours' കാലയളവ് ആയതിനാൽ ചേരില്ല.\n• 🪤 PSC Trap: 'has been watching' കണ്ടാൽ since എന്ന് ചാടുന്നവരെ പിടിക്കാനുള്ള ഏറ്റവും സാധാരണ കെണി!\n• (C) by — ഒരു സമയപരിധി (by 8 o'clock — എട്ടു മണിയോടെ) കാണിക്കാനാണ്; കാലയളവിന് ചേരില്ല.\n• (D) from — സാധാരണ 'from ... to/till' എന്ന ജോഡിയായി വരുന്നു (from 6 to 8); Perfect Continuous-ൽ കാലയളവിന് ഉപയോഗിക്കില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'സംഖ്യ + സമയം = FOR' — 2 hours, 5 days, 3 years എന്ന് കണ്ടാൽ ഫോർ ഉറപ്പ്!\n• ഒരുമിച്ച് പഠിക്കുക: for (എത്ര നേരം), since (എന്നുമുതൽ), by (എപ്പോഴേക്ക്), from...to (മുതൽ...വരെ).\n• PSC strategy: blank-ന് ശേഷമുള്ള വാക്ക് 'എത്ര നേരം?' എന്ന ചോദ്യത്തിനുള്ള ഉത്തരമാണെങ്കിൽ for തിരഞ്ഞെടുക്കുക. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "105-2016-M-Q84",
+      "paperId": "105-2016-M",
+      "questionNumber": 84,
+      "topic": "Subject-Verb Agreement",
+      "questionText": "One of my sisters ____________ married.",
+      "optionA": "were",
+      "optionB": "is",
+      "optionC": "have",
+      "optionD": "are",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) is\n• Subject 'One' ആണ് — 'of my sisters' എന്നത് വിശദീകരണം മാത്രം. 'One' singular ആയതിനാൽ verb singular → is.\n• 'married' ഇവിടെ 'വിവാഹിതയായ' എന്ന അർത്ഥമുള്ള adjective പോലെ പ്രവർത്തിക്കുന്നു → is married.\n• 'എന്റെ സഹോദരിമാരിൽ ഒരാൾ വിവാഹിതയാണ്' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: One of + plural noun + singular verb (is/was/has)\n• 'of'-ന് ശേഷം വരുന്ന plural noun verb-നെ നിയന്ത്രിക്കില്ല; 'One' ആണ് യഥാർത്ഥ subject.\n• ഇതേ കൂട്ടം: Each of, Every one of, Either of, Neither of → singular verb.\n• ⭐ PSC ആവർത്തനം: 'One of my friends is...' എന്ന രൂപം Subject-Verb Agreement-ൽ PSC-യുടെ ഏറ്റവും പ്രിയപ്പെട്ട ചോദ്യം!\n• ഉദാഹരണ sentences:\n1. One of my brothers is a teacher. (എന്റെ സഹോദരന്മാരിൽ ഒരാൾ അധ്യാപകനാണ്)\n2. One of the windows was broken. (ജനാലകളിൽ ഒന്ന് പൊട്ടിയിരുന്നു)\n3. Each of the girls has a pen. (ഓരോ പെൺകുട്ടിക്കും ഓരോ പേനയുണ്ട്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) were — plural past രൂപം; singular 'One'-ന് ചേരില്ല.\n• 🪤 PSC Trap: blank-ന് തൊട്ടുമുമ്പുള്ള 'sisters' എന്ന plural കണ്ട് plural verb തിരഞ്ഞെടുക്കാൻ പ്രേരിപ്പിക്കുന്ന കെണി!\n• (C) have — plural subject-നുള്ള രൂപം; കൂടാതെ 'have married' എന്നാൽ 'വിവാഹം ചെയ്തിട്ടുണ്ട്' എന്ന വ്യത്യസ്ത ഘടന — subject-ന് ചേരുന്നില്ല.\n• (D) are — plural രൂപം; 'One'-ന് singular 'is' തന്നെ വേണം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ഒന്ന് എപ്പോഴും ഒറ്റയ്ക്ക്!' — 'of my sisters' വിരൽ കൊണ്ട് മറച്ച് 'One ___ married' എന്ന് വായിച്ചാൽ is ഉടൻ കിട്ടും.\n• ഒരുമിച്ച് പഠിക്കുക: One of, Each of, Every one of, Either of, Neither of — എല്ലാം singular verb കുടുംബം.\n• PSC strategy: Subject-Verb ചോദ്യങ്ങളിൽ 'of + noun' ഭാഗം ഒഴിവാക്കി യഥാർത്ഥ subject കണ്ടെത്തുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "105-2016-M-Q85",
+      "paperId": "105-2016-M",
+      "questionNumber": 85,
+      "topic": "Articles",
+      "questionText": "He is ____________ M.L.A from Karnataka.",
+      "optionA": "an",
+      "optionB": "the",
+      "optionC": "a",
+      "optionD": "none of these",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) an\n• 'M.L.A' എന്നത് 'എം-എൽ-എ' എന്ന് അക്ഷരം അക്ഷരമായി ഉച്ചരിക്കുന്നു; 'M' എന്ന അക്ഷരത്തിന്റെ ഉച്ചാരണം 'എം' — vowel sound-ൽ തുടങ്ങുന്നു → an.\n• M ഒരു consonant letter ആണെങ്കിലും ശബ്ദം സ്വരത്തിലാണ് തുടങ്ങുന്നത്.\n• 'അദ്ദേഹം കർണാടകയിൽ നിന്നുള്ള ഒരു എം.എൽ.എ ആണ്' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Article തീരുമാനിക്കുന്നത് SOUND ആണ്, LETTER അല്ല!\n• 'എ' ശബ്ദത്തിൽ തുടങ്ങുന്ന അക്ഷരങ്ങൾ: F (എഫ്), H (എച്ച്), L (എൽ), M (എം), N (എൻ), S (എസ്), X (എക്സ്) → an M.L.A, an S.P., an X-ray, an F.I.R.\n• 'യൂ' ശബ്ദമുള്ള U → a: a U.N. officer, a university.\n• ⭐ PSC ആവർത്തനം: an M.L.A, an M.P., an S.I., an hour — abbreviation-ന് മുമ്പുള്ള article PSC-യുടെ ഇഷ്ട ചോദ്യമാണ്!\n• ഉദാഹരണ sentences:\n1. He is an M.P. (അദ്ദേഹം ഒരു എം.പി ആണ്)\n2. The doctor took an X-ray. (ഡോക്ടർ ഒരു എക്സ്-റേ എടുത്തു)\n3. She is an S.I. of Police. (അവർ ഒരു പോലീസ് എസ്.ഐ ആണ്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (C) a — 'M' എന്ന consonant letter കണ്ട് 'a' ഇടുന്നത്; പക്ഷേ ഉച്ചാരണം 'എം' എന്ന സ്വരത്തിൽ തുടങ്ങുന്നതിനാൽ തെറ്റ്.\n• 🪤 PSC Trap: letter നോക്കി article തീരുമാനിക്കുന്നവരെ വീഴ്ത്താനുള്ള classic കെണി!\n• (B) the — പ്രത്യേകമായ ഒരാളെയല്ല, 'ഒരു എം.എൽ.എ' എന്നാണ് പറയുന്നത്; 'from Karnataka'-ൽ നിരവധി എം.എൽ.എമാർ ഉള്ളതിനാൽ the ചേരില്ല.\n• (D) none of these — singular countable noun-ന് മുമ്പ് article നിർബന്ധം; ഒഴിവാക്കാൻ പറ്റില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'FHLMNSX — എഫ്-എച്ച്-എൽ-എം-എൻ-എസ്-എക്സ്' — ഈ ഏഴ് അക്ഷരങ്ങൾ 'എ' ശബ്ദത്തിൽ തുടങ്ങുന്നു; abbreviation ഇവയിൽ തുടങ്ങിയാൽ an ഉറപ്പ്!\n• ഒരുമിച്ച് പഠിക്കുക: an M.L.A, an M.A., an L.D. Clerk, an S.I., an X-ray | a U.N. officer, a B.A. degree.\n• PSC strategy: abbreviation കണ്ടാൽ ആദ്യ അക്ഷരം ഉറക്കെ ഉച്ചരിച്ചുനോക്കുക — 'എ' കേട്ടാൽ an. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "105-2016-M-Q86",
+      "paperId": "105-2016-M",
+      "questionNumber": 86,
+      "topic": "Conditionals",
+      "questionText": "If you ____________ up early, you could see the sunrise.",
+      "optionA": "wake",
+      "optionB": "wakes",
+      "optionC": "woke",
+      "optionD": "woken",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) woke\n• Main clause-ൽ 'could see' (could + V1) ആണ് → ഇത് Second Conditional ആണ്.\n• Second Conditional-ൽ if clause Simple Past-ൽ വേണം → 'If you woke up'.\n• 'നീ നേരത്തെ എഴുന്നേറ്റിരുന്നെങ്കിൽ സൂര്യോദയം കാണാമായിരുന്നു' എന്നർത്ഥം — ഇപ്പോൾ നടക്കാത്ത, സാങ്കൽപ്പികമായ ഒരു സാഹചര്യം.\n• wake – woke – woken (V1 – V2 – V3).",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: If + Simple Past (V2) → would/could/might + V1 (Second Conditional)\n• First: If + V1/V1+s → will + V1 | Third: If + had + V3 → would have + V3.\n• ഇവിടെ main clause നോക്കി if clause കണ്ടെത്തണം — 'could see' → V2 വേണം.\n• ⭐ PSC ആവർത്തനം: main clause തന്ന് if clause-ലെ verb ചോദിക്കുന്ന രീതി PSC Conditionals-ൽ പതിവാണ്!\n• ഉദാഹരണ sentences:\n1. If I had money, I would buy a car. (എന്റെ കയ്യിൽ പണമുണ്ടായിരുന്നെങ്കിൽ ഞാൻ ഒരു കാർ വാങ്ങിയേനെ)\n2. If she studied hard, she could pass. (അവൾ നന്നായി പഠിച്ചിരുന്നെങ്കിൽ ജയിക്കാമായിരുന്നു)\n3. If it rains, we will stay inside. (മഴ പെയ്താൽ ഞങ്ങൾ അകത്തിരിക്കും — First Conditional)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) wake — V1 രൂപം; First Conditional-ൽ (will see) ആണ് ഇത് ചേരുക; 'could see'-നൊപ്പം ചേരില്ല.\n• 🪤 PSC Trap: 'If you wake up early' കേൾക്കാൻ സ്വാഭാവികമായി തോന്നും — പക്ഷേ main clause-ലെ 'could' ആണ് tense തീരുമാനിക്കുന്നത്!\n• (B) wakes — 'you'-ന് 's' ചേർത്ത രൂപം ഒരിക്കലും ചേരില്ല; Subject-Verb Agreement-ലും തെറ്റ്.\n• (D) woken — V3 (past participle) രൂപം; helping verb (had) ഇല്ലാതെ ഒറ്റയ്ക്ക് ഉപയോഗിക്കാൻ പറ്റില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Would/Could കണ്ടാൽ If-ൽ Past!' — could see ↔ woke; 'കു-വോ' (Could–Woke) എന്ന് ഓർക്കൂ.\n• ഒരുമിച്ച് പഠിക്കുക: wake-woke-woken (ഉണരുക), break-broke-broken (പൊട്ടിക്കുക), speak-spoke-spoken (സംസാരിക്കുക) — ഇവയുടെ രണ്ടാം രൂപമാണ് Second Conditional-ൽ വേണ്ടത്.\n• PSC strategy: if clause-ൽ blank ആണെങ്കിൽ ആദ്യം main clause-ലെ verb (will / would / would have) നോക്കി conditional type കണ്ടെത്തുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "105-2016-M-Q87",
+      "paperId": "105-2016-M",
+      "questionNumber": 87,
+      "topic": "Antonyms",
+      "questionText": "Choose the antonym of the word 'correct'.",
+      "optionA": "uncorrect",
+      "optionB": "discorrect",
+      "optionC": "incorrect",
+      "optionD": "miscorrect",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) incorrect\n• 'correct' = ശരിയായ; അതിന്റെ വിപരീതം 'incorrect' = തെറ്റായ.\n• 'in-' എന്ന negative prefix ചേർത്താണ് ഈ വാക്കിന്റെ antonym ഉണ്ടാക്കുന്നത്.\n• Latin മൂലമുള്ള (correctus) വാക്കുകൾക്ക് സാധാരണ Latin prefix ആയ 'in-' തന്നെ ചേരുന്നു.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: ഓരോ വാക്കിനും നിശ്ചിതമായ negative prefix — ഊഹിക്കരുത്, ഓർക്കണം!\n• in-: incorrect, incomplete, invisible, inactive (അപൂർണ്ണം, അദൃശ്യം, നിഷ്ക്രിയം).\n• un-: unhappy, unable, unkind | dis-: dishonest, disagree | im-: impossible, impolite | il-: illegal | ir-: irregular.\n• ⭐ PSC ആവർത്തനം: 'ശരിയായ negative prefix ചേർത്ത antonym' PSC-യുടെ സ്ഥിരം ചോദ്യരീതിയാണ്!\n• ഉദാഹരണ sentences:\n1. Your answer is incorrect. (നിന്റെ ഉത്തരം തെറ്റാണ്)\n2. The work is still incomplete. (ജോലി ഇപ്പോഴും പൂർത്തിയായിട്ടില്ല)\n3. It is impossible to finish today. (ഇന്ന് തീർക്കുക അസാധ്യമാണ്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) uncorrect — 'un-' prefix ഈ വാക്കിനോട് ചേരില്ല; English-ൽ ഇങ്ങനെ ഒരു വാക്കില്ല.\n• 🪤 PSC Trap: 'un-' ഏറ്റവും സാധാരണ negative prefix ആയതിനാൽ ഇത് ശരിയെന്ന് തോന്നിപ്പിക്കാനുള്ള കെണി!\n• (B) discorrect — 'dis-' (dishonest, disagree) എല്ലാ വാക്കിനും ചേരില്ല; ഇതും നിലവിലില്ലാത്ത രൂപം.\n• (D) miscorrect — 'mis-' എന്നാൽ 'തെറ്റായി ചെയ്യുക' (misuse, misunderstand); 'miscorrect' എന്ന വാക്ക് ഇല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'IN-correct = ഉള്ളിൽ (IN) തെറ്റ്!' — ഉത്തരക്കടലാസിൽ incorrect എന്ന് ടീച്ചർ എഴുതുന്നത് ഓർക്കൂ.\n• ഒരുമിച്ച് പഠിക്കുക: incorrect, inaccurate, incomplete, invisible | impossible, illegal, irregular — in- കുടുംബം.\n• PSC strategy: Prefix antonym ചോദ്യത്തിൽ ഓരോ option-ഉം വായിൽ പറഞ്ഞുനോക്കുക — കേട്ടുപരിചയമുള്ള യഥാർത്ഥ വാക്ക് ഏതെന്ന് ചെവി പറഞ്ഞുതരും. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "105-2016-M-Q88",
+      "paperId": "105-2016-M",
+      "questionNumber": 88,
+      "topic": "Parts of Speech",
+      "questionText": "This is the car ____________ my father bought last week.",
+      "optionA": "which",
+      "optionB": "where",
+      "optionC": "whom",
+      "optionD": "when",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) which\n• Blank-ന് മുമ്പുള്ള noun 'car' ഒരു വസ്തുവാണ് (thing) → വസ്തുക്കൾക്കുള്ള relative pronoun 'which' (അല്ലെങ്കിൽ that) വേണം.\n• 'which' ഇവിടെ 'bought' എന്ന verb-ന്റെ object ആയി പ്രവർത്തിക്കുന്നു — father bought the car.\n• 'കഴിഞ്ഞ ആഴ്ച എന്റെ അച്ഛൻ വാങ്ങിയ കാർ ഇതാണ്' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: ആൾ → who/whom | വസ്തു/മൃഗം → which | സ്ഥലം → where | സമയം → when | ഉടമസ്ഥത → whose\n• Relative pronoun മുമ്പുള്ള noun-നെ (antecedent) പിന്നിലുള്ള clause-മായി ബന്ധിപ്പിക്കുന്നു.\n• 'that' ആളിനും വസ്തുവിനും ഉപയോഗിക്കാം: the car that my father bought.\n• ⭐ PSC ആവർത്തനം: who/whom/which/where — relative pronoun തിരഞ്ഞെടുക്കൽ PSC പേപ്പറുകളിൽ പതിവാണ്!\n• ഉദാഹരണ sentences:\n1. This is the book which I lost. (ഞാൻ നഷ്ടപ്പെടുത്തിയ പുസ്തകം ഇതാണ്)\n2. He is the man whom we met yesterday. (ഇന്നലെ നമ്മൾ കണ്ട ആൾ ഇദ്ദേഹമാണ്)\n3. This is the house where I was born. (ഞാൻ ജനിച്ച വീട് ഇതാണ്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) where — സ്ഥലത്തെ സൂചിപ്പിക്കാനാണ്; 'my father bought' എന്നതിന് ഒരു object ആണ് വേണ്ടത്, സ്ഥലമല്ല.\n• 🪤 PSC Trap: car ഒരു 'ഇടം' പോലെ തോന്നിപ്പിച്ച് where തിരഞ്ഞെടുപ്പിക്കാനുള്ള കെണി — 'father bought where' എന്നത് അർത്ഥമില്ലാത്തതാണ്!\n• (C) whom — ആളുകൾക്ക് (object) മാത്രം ഉപയോഗിക്കുന്നത്; car ഒരു വസ്തു ആയതിനാൽ ചേരില്ല.\n• (D) when — സമയം സൂചിപ്പിക്കാനാണ്; 'last week' എന്ന സമയം ഇതിനകം തന്നെ വാക്യത്തിലുണ്ട്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ആൾ-Who, സാധനം-Which, സ്ഥലം-Where, സമയം-When' — 'ആ-സാ-സ്ഥ-സ' എന്ന് താളത്തിൽ ഓർക്കൂ!\n• ഒരുമിച്ച് പഠിക്കുക: who, whom, whose, which, that, where, when — relative words കുടുംബം.\n• PSC strategy: blank-ന് തൊട്ടുമുമ്പുള്ള noun ആളാണോ, വസ്തുവാണോ, സ്ഥലമാണോ, സമയമാണോ എന്ന് നോക്കി ഉത്തരം തിരഞ്ഞെടുക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "105-2016-M-Q89",
+      "paperId": "105-2016-M",
+      "questionNumber": 89,
+      "topic": "Phrasal Verbs",
+      "questionText": "I cannot ____________ her behaviour.",
+      "optionA": "put off",
+      "optionB": "put on",
+      "optionC": "put by",
+      "optionD": "put up with",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) put up with\n• 'put up with' = സഹിക്കുക, പൊറുക്കുക (tolerate).\n• 'എനിക്ക് അവളുടെ പെരുമാറ്റം സഹിക്കാൻ കഴിയില്ല' എന്നർത്ഥം.\n• 'cannot' എന്ന negative വാക്കിനൊപ്പം 'സഹിക്കാനാവില്ല' എന്ന അർത്ഥം ഏറ്റവും നന്നായി ചേരുന്നു.\n• മൂന്ന് വാക്കുകളുള്ള ഈ phrasal verb ഒരൊറ്റ യൂണിറ്റായി പഠിക്കണം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: put up with = tolerate = സഹിക്കുക\n• 'put' കുടുംബം: put off (മാറ്റിവെക്കുക), put on (ധരിക്കുക), put by (ഭാവിക്കായി സൂക്ഷിക്കുക), put out (കെടുത്തുക), put up (താമസിപ്പിക്കുക).\n• Phrasal verb-ന്റെ അർത്ഥം വാക്കുകളുടെ നേർ അർത്ഥമല്ല — ഒന്നിച്ചുള്ള ആലങ്കാരിക അർത്ഥമാണ്.\n• ⭐ PSC ആവർത്തനം: 'put' ഉപയോഗിച്ചുള്ള phrasal verbs PSC ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന കൂട്ടങ്ങളിൽ ഒന്നാണ്!\n• ഉദാഹരണ sentences:\n1. I can't put up with this noise. (എനിക്ക് ഈ ബഹളം സഹിക്കാനാവില്ല)\n2. The meeting was put off till Monday. (യോഗം തിങ്കളാഴ്ചത്തേക്ക് മാറ്റിവെച്ചു)\n3. Put on your shoes. (നിന്റെ ഷൂസ് ധരിക്കൂ)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) put off — 'മാറ്റിവെക്കുക' (postpone); 'പെരുമാറ്റം മാറ്റിവെക്കുക' എന്ന അർത്ഥം ഇവിടെ ചേരില്ല.\n• 🪤 PSC Trap: 'put off' എന്നതിന് 'ഇഷ്ടക്കേട് തോന്നിപ്പിക്കുക' എന്ന ഒരു അർത്ഥം കൂടി ഉള്ളതിനാൽ ശരിയെന്ന് തോന്നാം — പക്ഷേ ആ അർത്ഥത്തിൽ subject മാറും (Her behaviour puts me off).\n• (B) put on — 'ധരിക്കുക' അല്ലെങ്കിൽ 'അഭിനയിക്കുക'; സഹിക്കുക എന്ന അർത്ഥമില്ല.\n• (C) put by — 'ഭാവിക്കായി പണം മാറ്റിവെക്കുക' (save); ഈ വാക്യവുമായി ബന്ധമില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'PUT UP WITH = കൂടെ പൊറുപ്പിക്കുക' — ശല്യക്കാരനെ കൂടെ (with) നിർത്തി സഹിക്കുന്നത് മനസ്സിൽ കാണൂ!\n• ഒരുമിച്ച് പഠിക്കുക: put up with (സഹിക്കുക), put off (മാറ്റിവെക്കുക), put out (കെടുത്തുക), put by (സൂക്ഷിക്കുക), put on (ധരിക്കുക).\n• PSC strategy: Phrasal verb ചോദ്യത്തിൽ ഓരോ option-ന്റെയും മലയാള അർത്ഥം blank-ൽ വെച്ച് വാക്യം വായിച്ചുനോക്കുക. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "105-2016-M-Q90",
+      "paperId": "105-2016-M",
+      "questionNumber": 90,
+      "topic": "Degrees of Comparison",
+      "questionText": "The weather today is ____________ than yesterday.",
+      "optionA": "bad",
+      "optionB": "worse",
+      "optionC": "the worst",
+      "optionD": "bader",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) worse\n• Blank-ന് ശേഷം 'than' ഉണ്ട് → രണ്ടെണ്ണം (ഇന്ന്, ഇന്നലെ) തമ്മിലുള്ള താരതമ്യം → comparative degree വേണം.\n• 'bad'-ന്റെ comparative 'worse' ആണ് — ഇതൊരു irregular രൂപമാണ്, 'badder' അല്ല.\n• 'ഇന്നലത്തേതിനെക്കാൾ മോശമാണ് ഇന്നത്തെ കാലാവസ്ഥ' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: bad → worse → worst (irregular — 'er/est' ചേർക്കില്ല)\n• മറ്റ് irregular forms: good → better → best (നല്ലത്), many/much → more → most (കൂടുതൽ), little → less → least (കുറവ്).\n• 'than' കണ്ടാൽ comparative; 'the ... of/in' കണ്ടാൽ superlative.\n• ⭐ PSC ആവർത്തനം: good/bad/little/many എന്നിവയുടെ irregular degrees PSC സ്ഥിരമായി ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. His health is worse than before. (മുമ്പത്തേതിനെക്കാൾ മോശമാണ് അവന്റെ ആരോഗ്യം)\n2. This is the worst film I have seen. (ഞാൻ കണ്ടതിൽ ഏറ്റവും മോശം സിനിമ ഇതാണ്)\n3. Your handwriting is better than mine. (നിന്റെ കൈയക്ഷരം എന്റേതിനെക്കാൾ നല്ലതാണ്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) bad — positive degree; 'than' ഉള്ള താരതമ്യ വാക്യത്തിൽ ചേരില്ല.\n• (C) the worst — superlative degree; മൂന്നോ അതിലധികമോ കാര്യങ്ങൾക്കിടയിലാണ്; 'than'-നൊപ്പം ഒരിക്കലും വരില്ല.\n• (D) bader — English-ൽ ഇല്ലാത്ത രൂപം; 'er' ചേർക്കുന്ന സാധാരണ നിയമം bad-ന് ബാധകമല്ല.\n• 🪤 PSC Trap: 'tall → taller' പോലെ 'bad → bader' എന്ന് ഊഹിക്കുന്നവരെ വീഴ്ത്താനുള്ള കൃത്രിമ രൂപം!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'BAD-ന് ചീത്ത സ്വഭാവം — er ചേരാൻ സമ്മതിക്കില്ല; Worse, Worst എന്ന് സ്വന്തം വഴി!'\n• ഒരുമിച്ച് പഠിക്കുക: good-better-best, bad-worse-worst, little-less-least, many-more-most — ഈ നാലും ഒരുമിച്ച് മനഃപാഠമാക്കുക.\n• PSC strategy: 'than' കണ്ടാൽ comparative, പിന്നെ irregular രൂപമാണോ എന്ന് പരിശോധിക്കുക; 'bader', 'gooder' പോലുള്ളവ ആദ്യം വെട്ടിക്കളയുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "105-2016-M-Q91",
+      "paperId": "105-2016-M",
+      "questionNumber": 91,
+      "topic": "Infinitive and Gerunds",
+      "questionText": "____________ improves your knowledge.",
+      "optionA": "Reads",
+      "optionB": "Read",
+      "optionC": "To read",
+      "optionD": "Reading",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) Reading\n• വാക്യത്തിന്റെ subject ആയി ഒരു പ്രവൃത്തി വരുമ്പോൾ gerund (V + ing) ആണ് ഏറ്റവും സ്വാഭാവികം → Reading.\n• Gerund ഒരു verb ആണെങ്കിലും noun പോലെ പ്രവർത്തിക്കുന്നു; 'വായന' എന്ന അർത്ഥം.\n• 'വായന നിന്റെ അറിവ് വർധിപ്പിക്കുന്നു' എന്നർത്ഥം.\n• 'improves' (singular verb) — gerund subject എപ്പോഴും singular ആയി കണക്കാക്കുന്നു.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: വാക്യത്തിന്റെ തുടക്കത്തിൽ പ്രവൃത്തി subject → V + ing (Gerund) + singular verb\n• Gerund subject ഉദാഹരണങ്ങൾ: Swimming is good exercise. Smoking is injurious to health.\n• 'To + V1' (infinitive) subject ആയി വരാമെങ്കിലും അത് കൂടുതൽ ഔപചാരികമാണ്; പൊതുവായ സത്യങ്ങൾക്ക് gerund ആണ് സാധാരണ.\n• ⭐ PSC ആവർത്തനം: 'Swimming / Walking / Reading ___ good for health' — gerund subject ചോദ്യം PSC പതിവായി ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. Walking is good for health. (നടത്തം ആരോഗ്യത്തിന് നല്ലതാണ്)\n2. Smoking causes cancer. (പുകവലി കാൻസറിന് കാരണമാകുന്നു)\n3. Teaching is a noble job. (അധ്യാപനം ഒരു മഹത്തായ ജോലിയാണ്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Reads — ഒരു verb രൂപം (V1+s); verb-ന് subject ആകാൻ കഴിയില്ല — 'Reads improves' അർത്ഥമില്ലാത്തതാണ്.\n• (B) Read — V1 രൂപം; ഇതും noun ആയി subject സ്ഥാനത്ത് വരില്ല.\n• (C) To read — infinitive ആണ്; വ്യാകരണപരമായി അസാധ്യമല്ലെങ്കിലും ഇത്തരം പൊതു സത്യ വാക്യങ്ങളിൽ gerund ആണ് ശരിയായ, സ്വാഭാവികമായ രൂപം.\n• 🪤 PSC Trap: 'To read' ഭാഗികമായി ശരിയെന്ന് തോന്നുന്നതിനാൽ സംശയം ജനിപ്പിക്കുന്നു — PSC Final Answer Key പ്രകാരം ഏറ്റവും ഉചിതം 'Reading' ആണ്!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'വാക്യത്തിന്റെ തലയിൽ ING കിരീടം!' — പ്രവൃത്തി subject ആയി തുടക്കത്തിൽ വന്നാൽ ing ചേർക്കൂ.\n• ഒരുമിച്ച് പഠിക്കുക: Reading, Walking, Swimming, Smoking, Gardening — gerund subject ഉദാഹരണങ്ങൾ.\n• PSC strategy: blank വാക്യത്തിന്റെ തുടക്കത്തിൽ വന്ന് ശേഷം singular verb ഉണ്ടെങ്കിൽ, options-ൽ ing രൂപം ആദ്യം പരിഗണിക്കുക. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "105-2016-M-Q92",
+      "paperId": "105-2016-M",
+      "questionNumber": 92,
+      "topic": "Singular and Plural",
+      "questionText": "Plural form of the word 'datum' is :",
+      "optionA": "data",
+      "optionB": "datums",
+      "optionC": "datei",
+      "optionD": "dati",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) data\n• 'datum' ഒരു Latin വാക്കാണ് — അർത്ഥം 'നൽകപ്പെട്ട ഒരു വിവരം / വസ്തുത'.\n• Latin നിയമപ്രകാരം '-um'-ൽ അവസാനിക്കുന്ന വാക്കിന്റെ plural '-a' ആണ്: datum → data.\n• ഇന്ന് 'data' എന്ന വാക്ക് computer, statistics മേഖലകളിൽ ഏറ്റവും കൂടുതൽ ഉപയോഗിക്കുന്നു.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Latin -UM → -A (datum → data)\n• ഇതേ കുടുംബം: medium → media (മാധ്യമം), curriculum → curricula (പാഠ്യപദ്ധതി), bacterium → bacteria (ബാക്ടീരിയ).\n• Latin -US → -I: radius → radii (ആരം) | Greek -ON → -A: phenomenon → phenomena (പ്രതിഭാസം), criterion → criteria (മാനദണ്ഡം).\n• ⭐ PSC ആവർത്തനം: datum, medium, phenomenon, criterion, radius — foreign plurals PSC എല്ലാ വർഷവും ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. The data were collected from schools. (സ്കൂളുകളിൽ നിന്നാണ് വിവരങ്ങൾ ശേഖരിച്ചത്)\n2. Bacteria cause many diseases. (ബാക്ടീരിയകൾ പല രോഗങ്ങൾക്കും കാരണമാകുന്നു)\n3. Rainbow is a natural phenomenon. (മഴവില്ല് ഒരു പ്രകൃതി പ്രതിഭാസമാണ്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) datums — സാധാരണ 's' നിയമം പ്രയോഗിച്ച രൂപം; ഭൂമിശാസ്ത്രത്തിലെ സാങ്കേതിക അർത്ഥത്തിൽ മാത്രം അപൂർവമായി കാണാം — പൊതു plural ആയി PSC സ്വീകരിക്കുന്നത് data ആണ്.\n• 🪤 PSC Trap: സാധാരണ English നിയമം അറിയുന്നവരെ 's' ചേർത്ത രൂപത്തിലേക്ക് ആകർഷിക്കാനുള്ള കെണി!\n• (C) datei — നിലവിലില്ലാത്ത കൃത്രിമ രൂപം.\n• (D) dati — '-us → -i' നിയമം (radius → radii) തെറ്റായി പ്രയോഗിച്ചത്; '-um' വാക്കുകൾക്ക് ഇത് ബാധകമല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'UM പോയി A വരും — datUM → datA, mediUM → mediA!' — ടിവി, പത്രം എല്ലാം ചേർന്നതാണ് 'media' എന്ന് ഓർത്താൽ മതി.\n• ഒരുമിച്ച് പഠിക്കുക: datum-data, medium-media, bacterium-bacteria, curriculum-curricula, radius-radii, criterion-criteria.\n• PSC strategy: Latin/Greek വാക്കിന്റെ plural ചോദിച്ചാൽ അവസാനത്തെ അക്ഷരങ്ങൾ (-um, -us, -on, -is) നോക്കി നിയമം പ്രയോഗിക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "105-2016-M-Q93",
+      "paperId": "105-2016-M",
+      "questionNumber": 93,
+      "topic": "One Word Substitutes",
+      "questionText": "One who studies about rocks and soils is known as :",
+      "optionA": "anthropologist",
+      "optionB": "theologist",
+      "optionC": "geologist",
+      "optionD": "pathologist",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) geologist\n• Geologist = ഭൂമിയുടെ ഘടന, പാറകൾ, മണ്ണ് എന്നിവയെക്കുറിച്ച് പഠിക്കുന്ന ശാസ്ത്രജ്ഞൻ (ഭൂഗർഭശാസ്ത്രജ്ഞൻ).\n• Greek 'geo' (ഭൂമി) + 'logos' (പഠനം) → ഭൂമിയെക്കുറിച്ചുള്ള പഠനം.\n• 'geo' root ഉള്ള മറ്റ് വാക്കുകൾ: geography (ഭൂമിശാസ്ത്രം), geometry (ജ്യാമിതി).",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: വിഷയ root + LOGIST = ആ വിഷയം പഠിക്കുന്നയാൾ\n• geo (ഭൂമി) → geologist | anthropo (മനുഷ്യൻ) → anthropologist | theo (ദൈവം) → theologian | patho (രോഗം) → pathologist | bio (ജീവൻ) → biologist.\n• Seismologist — ഭൂകമ്പങ്ങളെക്കുറിച്ച് പഠിക്കുന്നയാൾ; Ornithologist — പക്ഷികളെക്കുറിച്ച് പഠിക്കുന്നയാൾ.\n• ⭐ PSC ആവർത്തനം: '-logist' വാക്കുകൾ One Word Substitutes-ൽ PSC-യുടെ ഇഷ്ടവിഷയമാണ്!\n• ഉദാഹരണ sentences:\n1. The geologist examined the rocks. (ഭൂഗർഭശാസ്ത്രജ്ഞൻ പാറകൾ പരിശോധിച്ചു)\n2. A pathologist tests blood samples. (പാത്തോളജിസ്റ്റ് രക്തസാമ്പിളുകൾ പരിശോധിക്കുന്നു)\n3. An anthropologist studies human cultures. (നരവംശശാസ്ത്രജ്ഞൻ മനുഷ്യസംസ്കാരങ്ങളെക്കുറിച്ച് പഠിക്കുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) anthropologist — 'anthropos' (മനുഷ്യൻ) — മനുഷ്യവർഗത്തെയും സംസ്കാരത്തെയും കുറിച്ച് പഠിക്കുന്നയാൾ.\n• (B) theologist — 'theos' (ദൈവം) — ദൈവശാസ്ത്രം പഠിക്കുന്നയാൾ (സാധാരണ രൂപം theologian).\n• (D) pathologist — 'pathos' (രോഗം/വേദന) — രോഗങ്ങളുടെ കാരണങ്ങൾ പഠിക്കുന്ന ഡോക്ടർ.\n• 🪤 PSC Trap: എല്ലാ options-ഉം '-logist'-ൽ അവസാനിക്കുന്നതിനാൽ ഒരുപോലെ തോന്നും — root അറിഞ്ഞാൽ മാത്രമേ ശരി കണ്ടെത്താനാകൂ!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'GEO = Geography-യിലെ GEO = ഭൂമി' — ഭൂമിയുടെ പാറയും മണ്ണും പഠിക്കുന്നവൻ geologist!\n• ഒരുമിച്ച് പഠിക്കുക: geologist (ഭൂമി), biologist (ജീവൻ), zoologist (ജന്തു), botanist (സസ്യം), ornithologist (പക്ഷി), seismologist (ഭൂകമ്പം).\n• PSC strategy: '-logist' options കണ്ടാൽ ആദ്യഭാഗത്തെ root മാത്രം നോക്കി അർത്ഥം മനസ്സിലാക്കുക. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "105-2016-M-Q94",
+      "paperId": "105-2016-M",
+      "questionNumber": 94,
+      "topic": "Synonyms",
+      "questionText": "Synonym of the word 'hatred' is:",
+      "optionA": "concert",
+      "optionB": "contempt",
+      "optionC": "concept",
+      "optionD": "accept",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) contempt\n• 'hatred' = കടുത്ത വെറുപ്പ്, വിദ്വേഷം.\n• 'contempt' = അവജ്ഞ, പുച്ഛം, വെറുപ്പോടെയുള്ള നിന്ദ — നൽകിയ options-ൽ hatred-നോട് ഏറ്റവും അടുത്ത അർത്ഥമുള്ളത് ഇതാണ്.\n• Latin 'contemnere' (നിന്ദിക്കുക, തള്ളിക്കളയുക) എന്നതിൽ നിന്നാണ് contempt വന്നത്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Synonym ചോദ്യത്തിൽ options-ൽ ഏറ്റവും അടുത്ത അർത്ഥമുള്ളത് തിരഞ്ഞെടുക്കുക — പൂർണ്ണ സമാനത വേണമെന്നില്ല.\n• hatred-ന്റെ synonyms: contempt, hostility, dislike, aversion, loathing, enmity.\n• Antonyms: love, affection, liking, fondness.\n• ⭐ PSC ആവർത്തനം: ഒരേ ശബ്ദത്തിൽ തുടങ്ങുന്ന വാക്കുകൾ (con-) options ആയി നൽകി synonym ചോദിക്കുന്നത് PSC-യുടെ പതിവ് രീതിയാണ്!\n• ഉദാഹരണ sentences:\n1. He looked at me with contempt. (അവൻ എന്നെ പുച്ഛത്തോടെ നോക്കി)\n2. Hatred destroys peace. (വെറുപ്പ് സമാധാനം നശിപ്പിക്കുന്നു)\n3. She has a deep aversion to lies. (അവൾക്ക് നുണയോട് കടുത്ത വെറുപ്പാണ്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) concert — 'സംഗീതക്കച്ചേരി'; വെറുപ്പുമായി യാതൊരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: concert, contempt, concept — മൂന്നും 'con-'-ൽ തുടങ്ങുന്നതിനാൽ ഒരുപോലെ തോന്നും; ശ്രദ്ധിച്ചു വായിക്കാത്തവരെ കുഴപ്പിക്കാനുള്ള കെണി!\n• (C) concept — 'ആശയം, സങ്കൽപ്പം'; അർത്ഥത്തിൽ ബന്ധമില്ല.\n• (D) accept — 'സ്വീകരിക്കുക' — ഒരു verb ആണ്; വെറുപ്പിന്റെ ഏതാണ്ട് വിപരീത ആശയമാണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'CONTEMPT = CON + TEMPer — ദേഷ്യം (temper) കലർന്ന പുച്ഛം!' — ആരെയെങ്കിലും വെറുപ്പോടെ നോക്കുന്ന മുഖം മനസ്സിൽ കാണൂ.\n• ഒരുമിച്ച് പഠിക്കുക: hatred, contempt, scorn, disdain, aversion, hostility — വെറുപ്പ് കുടുംബം.\n• PSC strategy: ഒരേ തുടക്കമുള്ള options കണ്ടാൽ ഓരോന്നിന്റെയും മലയാള അർത്ഥം വേറിട്ട് ഓർത്തെടുക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "105-2016-M-Q95",
+      "paperId": "105-2016-M",
+      "questionNumber": 95,
+      "topic": "One Word Substitutes",
+      "questionText": "The young one of a kangaroo is :",
+      "optionA": "joey",
+      "optionB": "cub",
+      "optionC": "foal",
+      "optionD": "calf",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) joey\n• കംഗാരുവിന്റെ കുഞ്ഞിനെ 'joey' എന്നാണ് വിളിക്കുന്നത്.\n• Joey അമ്മയുടെ വയറ്റിലെ സഞ്ചിയിൽ (pouch) ആണ് വളരുന്നത് — കംഗാരു ഒരു marsupial (സഞ്ചിമൃഗം) ആണ്.\n• Koala, wombat തുടങ്ങിയ മറ്റ് സഞ്ചിമൃഗങ്ങളുടെ കുഞ്ഞുങ്ങളെയും joey എന്ന് വിളിക്കുന്നു.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Kangaroo → Joey (സഞ്ചിയിലെ കുഞ്ഞ്)\n• മറ്റ് മൃഗക്കുഞ്ഞുങ്ങൾ: lion/tiger/bear → cub | horse → foal (colt/filly) | cow/elephant/whale → calf | dog → puppy | cat → kitten | sheep → lamb | goat → kid | frog → tadpole | swan → cygnet.\n• ⭐ PSC ആവർത്തനം: 'young one of ...' എന്ന ചോദ്യം LDC/LGS പേപ്പറുകളിൽ പതിവായി വരുന്നു!\n• ഉദാഹരണ sentences:\n1. The joey peeped out of its mother's pouch. (ആ കംഗാരുക്കുഞ്ഞ് അമ്മയുടെ സഞ്ചിയിൽ നിന്ന് എത്തിനോക്കി)\n2. The lioness fed her cubs. (സിംഹി തന്റെ കുഞ്ഞുങ്ങളെ തീറ്റി)\n3. The cow licked its calf. (പശു തന്റെ കിടാവിനെ നക്കി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) cub — സിംഹം, കടുവ, കരടി, കുറുക്കൻ എന്നിവയുടെ കുഞ്ഞ്.\n• (C) foal — കുതിരയുടെയും കഴുതയുടെയും കുഞ്ഞ്.\n• (D) calf — പശു, ആന, തിമിംഗലം, ഒട്ടകം എന്നിവയുടെ കുഞ്ഞ്.\n• 🪤 PSC Trap: cub, calf എന്നിവ ഏറെ പരിചിതമായ വാക്കുകളായതിനാൽ ഊഹിച്ച് തിരഞ്ഞെടുക്കാൻ തോന്നും — കംഗാരുവിന് മാത്രം സ്വന്തമായ പേരാണ് joey!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'JOEY = JOY-ഓടെ സഞ്ചിയിൽ ഇരിക്കുന്ന കുഞ്ഞ്!' — Australia-യിലെ കംഗാരുവിന്റെ സഞ്ചിയിലെ സന്തോഷക്കുട്ടി.\n• ഒരുമിച്ച് പഠിക്കുക: joey (കംഗാരു), cub (സിംഹം), foal (കുതിര), calf (പശു/ആന), kid (ആട്), lamb (ചെമ്മരിയാട്), cygnet (അരയന്നം).\n• PSC strategy: മൃഗക്കുഞ്ഞുങ്ങളുടെ പേരുകൾ ഒരു പട്ടികയാക്കി ദിവസവും നോക്കുക — ഒരൊറ്റ ആവർത്തനം മതി ഓർമ്മയിൽ നിൽക്കാൻ. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "105-2016-M-Q96",
+      "paperId": "105-2016-M",
+      "questionNumber": 96,
+      "topic": "Auxiliary Verbs",
+      "questionText": "You had better ____________ here.",
+      "optionA": "staying",
+      "optionB": "to stay",
+      "optionC": "stayed",
+      "optionD": "stay",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) stay\n• 'had better' = ചെയ്യുന്നതാണ് നല്ലത് (ഉപദേശം/മുന്നറിയിപ്പ്) — ഇതിന് ശേഷം 'to' ഇല്ലാത്ത V1 (bare infinitive) മാത്രമേ വരൂ.\n• 'You had better stay here' = 'നീ ഇവിടെ തന്നെ നിൽക്കുന്നതാണ് നല്ലത്'.\n• 'had' എന്ന് കണ്ടാലും ഇത് past tense അല്ല — ഇപ്പോഴത്തേക്കോ ഭാവിയിലേക്കോ ഉള്ള ഉപദേശമാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: had better + V1 (to ഇല്ല!) | negative: had better not + V1\n• ഇതേ രീതിയിൽ to ഇല്ലാതെ V1 എടുക്കുന്നവ: would rather, can, could, may, might, must, shall, should, will, would.\n• ചുരുക്കരൂപം: You'd better go = You had better go.\n• ⭐ PSC ആവർത്തനം: 'had better', 'would rather' എന്നിവയ്ക്ക് ശേഷമുള്ള bare infinitive PSC ആവർത്തിച്ച് ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. You had better see a doctor. (നീ ഒരു ഡോക്ടറെ കാണുന്നതാണ് നല്ലത്)\n2. We had better not be late. (നമ്മൾ വൈകാതിരിക്കുന്നതാണ് നല്ലത്)\n3. I would rather walk than wait. (കാത്തുനിൽക്കുന്നതിനെക്കാൾ നടക്കാനാണ് എനിക്കിഷ്ടം)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) staying — gerund/participle രൂപം; had better-ന് ശേഷം ing രൂപം വരില്ല.\n• (B) to stay — to-infinitive; 'had better'-ന് ശേഷം 'to' ചേർക്കുന്നത് വ്യാകരണപരമായി തെറ്റാണ്.\n• 🪤 PSC Trap: 'ought to', 'have to' എന്നിവയ്ക്ക് to വരുന്നതുകൊണ്ട് had better-നും to വേണമെന്ന് തോന്നിപ്പിക്കാനുള്ള കെണി!\n• (C) stayed — 'had' കണ്ട് Past Perfect ആണെന്ന് കരുതി V2/V3 ചേർക്കുന്നത്; had better ഒരു നിശ്ചിത പ്രയോഗമാണ്, tense അല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Had Better-ന് TO-വിനോട് പിണക്കം!' — had better / would rather കഴിഞ്ഞാൽ നേരെ V1 — ഇടയിൽ ആരും വേണ്ട.\n• ഒരുമിച്ച് പഠിക്കുക: had better + V1, would rather + V1, must + V1 | ought to + V1, have to + V1 (ഇവയ്ക്ക് to ഉണ്ട്).\n• PSC strategy: 'had better' കണ്ടാൽ options-ൽ to, ing, ed ഇല്ലാത്ത ശുദ്ധമായ V1 തിരയുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "105-2016-M-Q97",
+      "paperId": "105-2016-M",
+      "questionNumber": 97,
+      "topic": "Idioms",
+      "questionText": "'At sixes and sevens' means :",
+      "optionA": "regular",
+      "optionB": "systematic",
+      "optionC": "confused",
+      "optionD": "finally",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) confused\n• 'At sixes and sevens' = ആകെ അലങ്കോലമായ, താറുമാറായ, ആശയക്കുഴപ്പത്തിലായ അവസ്ഥ.\n• ഒരു മുറിയോ കാര്യങ്ങളോ ക്രമമില്ലാതെ കിടക്കുമ്പോഴും, ഒരാൾ എന്ത് ചെയ്യണമെന്നറിയാതെ കുഴയുമ്പോഴും ഇത് ഉപയോഗിക്കുന്നു.\n• പഴയകാല പകിടക്കളിയിൽ (dice game) അപകടകരമായ ഒരു എറിയലിനെ സൂചിപ്പിച്ച പ്രയോഗത്തിൽ നിന്നാണ് ഇത് വന്നതെന്ന് കരുതപ്പെടുന്നു.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: At sixes and sevens = in confusion / in disorder (ആശയക്കുഴപ്പത്തിൽ, അലങ്കോലമായി)\n• Idiom-ന്റെ അർത്ഥം സംഖ്യകളുമായി ബന്ധപ്പെട്ടതല്ല — മൊത്തത്തിലുള്ള ആലങ്കാരിക അർത്ഥം പഠിക്കണം.\n• സമാന അർത്ഥമുള്ളവ: in a mess, topsy-turvy, upside down, all over the place.\n• ⭐ PSC ആവർത്തനം: 'at sixes and sevens' PSC-യുടെ ഏറ്റവും പ്രിയപ്പെട്ട idioms-ൽ ഒന്നാണ് — നിരവധി തവണ ആവർത്തിച്ചിട്ടുണ്ട്!\n• ഉദാഹരണ sentences:\n1. After the party, the house was at sixes and sevens. (പാർട്ടി കഴിഞ്ഞപ്പോൾ വീട് ആകെ അലങ്കോലമായിരുന്നു)\n2. The office was at sixes and sevens before the inspection. (പരിശോധനയ്ക്ക് മുമ്പ് ഓഫീസ് ആകെ താറുമാറായിരുന്നു)\n3. I was at sixes and sevens on my first day at work. (ജോലിയുടെ ആദ്യ ദിവസം ഞാൻ ആകെ ആശയക്കുഴപ്പത്തിലായിരുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) regular — 'ക്രമമായ, സ്ഥിരമായ' — idiom-ന്റെ നേർ വിപരീതം.\n• (B) systematic — 'ചിട്ടയായ, വ്യവസ്ഥാപിതമായ' — ഇതും വിപരീത അർത്ഥമാണ്.\n• 🪤 PSC Trap: 'sixes and sevens' എന്ന സംഖ്യകൾ കണ്ട് ക്രമം, എണ്ണം എന്നിവയുമായി ബന്ധപ്പെടുത്തി regular/systematic തിരഞ്ഞെടുപ്പിക്കാനുള്ള കെണി!\n• (D) finally — 'ഒടുവിൽ' — idiom-ന്റെ അർത്ഥവുമായി യാതൊരു ബന്ധവുമില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ആറോ ഏഴോ എന്ന് തീരുമാനിക്കാനാവാതെ കുഴയുന്ന മനസ്സ് = ആശയക്കുഴപ്പം!' — ഇത് മനസ്സിൽ കണ്ടാൽ അർത്ഥം മറക്കില്ല.\n• ഒരുമിച്ച് പഠിക്കുക: at sixes and sevens (അലങ്കോലം), topsy-turvy (തലകീഴ്), in a fix (കുഴപ്പത്തിൽ), at one's wits' end (എന്തുചെയ്യണമെന്നറിയാതെ).\n• PSC strategy: Idiom options-ൽ രണ്ടെണ്ണം ഒരേ അർത്ഥമുള്ളതാണെങ്കിൽ (regular, systematic) അവ രണ്ടും സാധാരണ തെറ്റായിരിക്കും — വ്യത്യസ്തമായതിൽ ശ്രദ്ധിക്കുക. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "105-2016-M-Q98",
+      "paperId": "105-2016-M",
+      "questionNumber": 98,
+      "topic": "Infinitive and Gerunds",
+      "questionText": "Would you mind :",
+      "optionA": "comes with me?",
+      "optionB": "came with me?",
+      "optionC": "coming with me?",
+      "optionD": "come with me?",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) coming with me?\n• 'mind' എന്ന verb-ന് ശേഷം എപ്പോഴും gerund (V + ing) ആണ് വരേണ്ടത് → 'Would you mind coming with me?'\n• 'എന്റെ കൂടെ വരുന്നതിൽ നിനക്ക് വിരോധമുണ്ടോ?' എന്നർത്ഥം — വിനയത്തോടെയുള്ള ഒരു അഭ്യർത്ഥന.\n• 'Would you mind ...?' എന്നത് ആരോടെങ്കിലും സഹായം ചോദിക്കാനുള്ള ഏറ്റവും മര്യാദയുള്ള രീതികളിൽ ഒന്നാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: mind + V-ing (Would you mind + V-ing ...?)\n• Gerund മാത്രം എടുക്കുന്ന verbs: mind, avoid, enjoy, finish, consider, deny, suggest, keep, practise, risk.\n• Infinitive (to + V1) എടുക്കുന്നവ: want, decide, hope, agree, refuse, promise.\n• ⭐ PSC ആവർത്തനം: 'Would you mind ___?' — gerund ചോദ്യം PSC ആവർത്തിച്ച് ചോദിക്കുന്ന ഒന്നാണ്!\n• ഉദാഹരണ sentences:\n1. Would you mind opening the window? (ജനാല തുറക്കുന്നതിൽ വിരോധമുണ്ടോ?)\n2. He avoided meeting me. (അവൻ എന്നെ കാണുന്നത് ഒഴിവാക്കി)\n3. I enjoy reading novels. (നോവലുകൾ വായിക്കുന്നത് എനിക്കിഷ്ടമാണ്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) comes with me? — V1+s രൂപം; mind-ന് ശേഷം finite verb വരില്ല — 'Would you mind comes' അർത്ഥമില്ലാത്തതാണ്.\n• (B) came with me? — V2 (past) രൂപം; ഇതും mind-ന് ശേഷം ചേരില്ല.\n• (D) come with me? — V1 രൂപം; 'would you' കണ്ട് modal-ന് ശേഷം V1 വരണമെന്ന് കരുതി തിരഞ്ഞെടുക്കാൻ തോന്നും.\n• 🪤 PSC Trap: 'would' ഒരു modal ആയതിനാൽ V1 ആണ് ശരിയെന്ന് തോന്നിപ്പിക്കും — പക്ഷേ would-ന് ശേഷമുള്ള V1 'mind' ആണ്; mind-ന് ശേഷം ing തന്നെ വേണം!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'MIND-ന് ING-നോട് മനസ്സ്!' — mind, enjoy, avoid, finish — ഈ verbs കഴിഞ്ഞാൽ ing കൂടെ വേണം.\n• ഒരുമിച്ച് പഠിക്കുക: mind, avoid, enjoy, finish, deny, suggest, keep, consider — gerund കുടുംബം (MEGA-DFKS എന്ന് ചുരുക്കി ഓർക്കാം).\n• PSC strategy: 'Would you mind' കണ്ടാൽ ഉടനെ ing option തിരയുക — 3 സെക്കൻഡിൽ ഉത്തരം! ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "105-2016-M-Q99",
+      "paperId": "105-2016-M",
+      "questionNumber": 99,
+      "topic": "Foreign Words and Phrases",
+      "questionText": "'Vice versa' means :",
+      "optionA": "reversed",
+      "optionB": "normally",
+      "optionC": "forwarded",
+      "optionD": "probably",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) reversed\n• 'Vice versa' ഒരു Latin പ്രയോഗമാണ് — അർത്ഥം 'തിരിച്ചും', 'നേരെ മറിച്ചും' (the other way round).\n• രണ്ട് കാര്യങ്ങളുടെ സ്ഥാനം പരസ്പരം മാറ്റിയാലും ഒരു പ്രസ്താവന ശരിയാകുമ്പോൾ ഇത് ഉപയോഗിക്കുന്നു.\n• Latin 'vice' (സ്ഥാനത്ത്) + 'versa' (തിരിച്ച്) → സ്ഥാനം തിരിച്ചിട്ട്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Vice versa = the other way round = തിരിച്ചും\n• പ്രയോഗം: A loves B and vice versa = A, B-യെ സ്നേഹിക്കുന്നു; B, A-യെയും.\n• PSC-യിൽ വരുന്ന മറ്റ് Latin പ്രയോഗങ്ങൾ: status quo (നിലവിലെ അവസ്ഥ), bona fide (യഥാർത്ഥമായ), ad hoc (താൽക്കാലികമായ), per capita (ആളോഹരി), alma mater (പഠിച്ച സ്ഥാപനം).\n• ⭐ PSC ആവർത്തനം: vice versa, status quo, bona fide — Foreign Words and Phrases-ൽ PSC ഏറ്റവും കൂടുതൽ ചോദിക്കുന്നവ!\n• ഉദാഹരണ sentences:\n1. Teachers respect students and vice versa. (അധ്യാപകർ വിദ്യാർത്ഥികളെ ബഹുമാനിക്കുന്നു; തിരിച്ചും)\n2. He helps me and vice versa. (അവൻ എന്നെ സഹായിക്കുന്നു; ഞാൻ അവനെയും)\n3. The government wants to maintain the status quo. (നിലവിലെ അവസ്ഥ തുടരാനാണ് സർക്കാർ ആഗ്രഹിക്കുന്നത്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) normally — 'സാധാരണയായി'; vice versa-യുടെ 'തിരിച്ച്' എന്ന അർത്ഥവുമായി ബന്ധമില്ല.\n• (C) forwarded — 'മുന്നോട്ട് അയച്ച'; തിരിച്ചുള്ള ദിശയുടെ ഏതാണ്ട് വിപരീതമാണ്.\n• 🪤 PSC Trap: 'versa' എന്ന വാക്ക് 'verse/forward' പോലെ തോന്നിപ്പിച്ച് forwarded തിരഞ്ഞെടുപ്പിക്കാനുള്ള കെണി!\n• (D) probably — 'ഒരുപക്ഷേ'; സാധ്യതയെ സൂചിപ്പിക്കുന്ന വാക്ക്; അർത്ഥത്തിൽ ബന്ധമില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'VERSA = REVERSE' — versa-യും reverse-ഉം ഒരേ Latin കുടുംബം; തിരിച്ചിടുക എന്നർത്ഥം!\n• ഒരുമിച്ച് പഠിക്കുക: vice versa, status quo, bona fide, ad hoc, per capita, alma mater, prima facie.\n• PSC strategy: Latin പ്രയോഗങ്ങൾ ഒരു ചെറിയ പട്ടികയാക്കി അർത്ഥത്തോടൊപ്പം പഠിക്കുക — ഓരോ വർഷവും ഒന്നോ രണ്ടോ ഉറപ്പ്. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "105-2016-M-Q100",
+      "paperId": "105-2016-M",
+      "questionNumber": 100,
+      "topic": "Active and Passive Voice",
+      "questionText": "Hamlet ____________ by Shakespeare.",
+      "optionA": "were written",
+      "optionB": "is written",
+      "optionC": "has written",
+      "optionD": "was written",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) was written\n• 'by Shakespeare' — പ്രവൃത്തി ചെയ്തയാൾ by-ക്ക് ശേഷം വരുന്നു → ഇതൊരു Passive Voice വാക്യമാണ്.\n• Hamlet എഴുതിയത് ഭൂതകാലത്താണ് (ഏകദേശം 1600-ൽ) → Simple Past Passive: was + V3.\n• 'Hamlet' ഒരു singular subject (ഒരു നാടകം) → 'was' (were അല്ല).\n• 'ഹാംലെറ്റ് ഷേക്സ്പിയറാൽ എഴുതപ്പെട്ടു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Simple Past Passive = was/were + V3 (+ by + agent)\n• Active: Shakespeare wrote Hamlet. → Passive: Hamlet was written by Shakespeare.\n• Active വാക്യത്തിലെ tense തന്നെ Passive-ലും നിലനിൽക്കും — wrote (Past) → was written (Past).\n• ⭐ PSC ആവർത്തനം: പ്രശസ്ത കൃതികളും എഴുത്തുകാരും (Hamlet, Gitanjali, Ramayana) ഉപയോഗിച്ചുള്ള Passive ചോദ്യങ്ങൾ PSC സ്ഥിരം ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. Gitanjali was written by Tagore. (ഗീതാഞ്ജലി ടാഗോറാൽ എഴുതപ്പെട്ടു)\n2. The Taj Mahal was built by Shah Jahan. (താജ്മഹൽ ഷാജഹാനാൽ നിർമ്മിക്കപ്പെട്ടു)\n3. These letters were posted yesterday. (ഈ കത്തുകൾ ഇന്നലെ അയയ്ക്കപ്പെട്ടു — plural, അതിനാൽ were)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) were written — Passive ആണ്, പക്ഷേ plural രൂപം; 'Hamlet' ഒരു നാടകം മാത്രമായതിനാൽ singular 'was' വേണം.\n• 🪤 PSC Trap: Tense ശരിയായതിനാൽ ഇത് ശരിയെന്ന് തോന്നും — Subject-Verb Agreement ആണ് ഇവിടെ കെണി!\n• (B) is written — Simple Present Passive; ഷേക്സ്പിയർ ഹാംലെറ്റ് എഴുതിയത് ഭൂതകാലത്താണ്, ഇപ്പോൾ എഴുതിക്കൊണ്ടിരിക്കുകയല്ല.\n• (C) has written — Active Voice (Present Perfect); 'Hamlet has written' എന്നാൽ 'ഹാംലെറ്റ് എന്തോ എഴുതിയിട്ടുണ്ട്' എന്ന തെറ്റായ അർത്ഥം; by-യുമായി ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'BY കണ്ടാൽ BE + V3!' — by Shakespeare കണ്ടാൽ Passive; പഴയ കൃതി ആയതിനാൽ was + written.\n• ഒരുമിച്ച് പഠിക്കുക: is/am/are + V3 (Present), was/were + V3 (Past), will be + V3 (Future), has/have been + V3 (Present Perfect).\n• PSC strategy: Passive ചോദ്യത്തിൽ മൂന്ന് കാര്യം പരിശോധിക്കുക — (1) be + V3 ഉണ്ടോ? (2) സമയം ഏത്? (3) subject singular ആണോ plural ആണോ? ഒരിക്കലും miss ആകില്ല!"
+      }
+    }
+  ]
+}
