@@ -1,0 +1,373 @@
+{
+  "paper": {
+    "id": "90-2017-M",
+    "paperCode": "90/2017 M",
+    "post": "L.D Clerk - Various (By Transfer)",
+    "date": "19-Aug-2017",
+    "medium": "M",
+    "year": "2017",
+    "answerKeyStatus": "final"
+  },
+  "questions": [
+    {
+      "id": "90-2017-M-Q71",
+      "paperId": "90-2017-M",
+      "questionNumber": 71,
+      "topic": "Parts of Speech",
+      "questionText": "Identify the parts of speech of the word underlined:\nYou must be __careful__ when you drive.",
+      "optionA": "Adverb",
+      "optionB": "Adjective",
+      "optionC": "Verb",
+      "optionD": "Noun",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) Adjective\n• 'Careful' എന്നാൽ 'ശ്രദ്ധയുള്ള' എന്നർത്ഥം — ഇത് ആളിന്റെ (you) ഒരു ഗുണം വിവരിക്കുന്നു.\n• 'be' എന്ന linking verb-ന് ശേഷം വരുന്ന വാക്ക് subject-നെ വിശേഷിപ്പിക്കുന്നു — അതുകൊണ്ട് careful ഇവിടെ adjective ആണ്.\n• 'വണ്ടി ഓടിക്കുമ്പോൾ നീ ശ്രദ്ധയുള്ളവനായിരിക്കണം' എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം.\n• Noun 'care' + suffix '-ful' = careful (adjective) — ഈ suffix തന്നെ ഒരു സൂചനയാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: be / am / is / are / was + വാക്ക് (ഗുണം) = Adjective | verb + വാക്ക് (എങ്ങനെ?) = Adverb.\n• Linking verbs (be, seem, look, feel, become) കഴിഞ്ഞാൽ subject-ന്റെ ഗുണം പറയുന്ന adjective ആണ് വരിക, adverb അല്ല.\n• -ful, -less, -ous, -able, -ive എന്നീ suffix-കൾ സാധാരണയായി adjective ഉണ്ടാക്കുന്നു.\n• '-ly' ചേർത്താൽ adverb ആകും: careful → carefully.\n• ⭐ PSC ആവർത്തനം: underline ചെയ്ത വാക്കിന്റെ part of speech കണ്ടെത്തുന്ന ചോദ്യം PSC സ്ഥിരമായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. She is careful. (അവൾ ശ്രദ്ധയുള്ളവളാണ് — adjective)\n2. She drives carefully. (അവൾ ശ്രദ്ധയോടെ ഓടിക്കുന്നു — adverb)\n3. Take care of your health. (ആരോഗ്യം ശ്രദ്ധിക്കൂ — noun)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Adverb — adverb ആകണമെങ്കിൽ 'carefully' എന്ന രൂപം വേണം; അത് verb-നെയാണ് വിശേഷിപ്പിക്കുക.\n• 🪤 PSC Trap: 'drive' എന്ന verb അടുത്തുള്ളതുകൊണ്ട് adverb എന്ന് തോന്നിപ്പിക്കാനുള്ള കെണി!\n• (C) Verb — careful ഒരു പ്രവൃത്തിയെ കാണിക്കുന്നില്ല; ഇവിടെ verb 'be' ആണ്.\n• (D) Noun — noun രൂപം 'care' ആണ്; careful ഒരു വസ്തുവിന്റെയോ ആളിന്റെയോ പേരല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ful' ഉണ്ടെങ്കിൽ 'ഗുണം ഫുൾ' — careful, beautiful, helpful എല്ലാം adjective!\n• ഒരുമിച്ച് പഠിക്കുക: care (noun) → careful (adjective) → carefully (adverb) → careless (adjective).\n• PSC strategy: underline ചെയ്ത വാക്ക് ആരെ വിവരിക്കുന്നു എന്ന് ചോദിക്കുക — ആളിനെയാണെങ്കിൽ adjective, പ്രവൃത്തിയെയാണെങ്കിൽ adverb. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "90-2017-M-Q72",
+      "paperId": "90-2017-M",
+      "questionNumber": 72,
+      "topic": "Subject-Verb Agreement",
+      "questionText": "One of the soldiers ______ killed by the enemies.",
+      "optionA": "are",
+      "optionB": "has",
+      "optionC": "is",
+      "optionD": "have",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) is\n• 'One of the soldiers' എന്നതിൽ യഥാർത്ഥ subject 'One' ആണ് — അത് singular ആണ്.\n• Singular subject-ന് singular verb (is) തന്നെ വേണം.\n• 'killed' (V3) ഉള്ളതുകൊണ്ട് ഇത് passive voice ആണ് — be form + V3 വേണം; has/have ചേർത്താൽ passive അർത്ഥം കിട്ടില്ല.\n• 'പട്ടാളക്കാരിൽ ഒരാൾ ശത്രുക്കളാൽ കൊല്ലപ്പെടുന്നു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: One of the + plural noun + SINGULAR verb.\n• 'of the soldiers' എന്നത് ഒരു prepositional phrase മാത്രമാണ് — verb-നെ തീരുമാനിക്കുന്നത് അതിന് മുമ്പുള്ള 'One' ആണ്.\n• Each of, Every one of, Either of, Neither of — ഇവയ്ക്കെല്ലാം singular verb തന്നെ.\n• Passive voice = be (is/are/was/were) + V3.\n• ⭐ PSC ആവർത്തനം: 'One of the ...' ചോദ്യം PSC-യുടെ ഏറ്റവും പ്രിയപ്പെട്ട agreement ചോദ്യമാണ്!\n• ഉദാഹരണ sentences:\n1. One of my friends is a doctor. (എന്റെ സുഹൃത്തുക്കളിൽ ഒരാൾ ഡോക്ടറാണ്)\n2. Each of the boys has a pen. (ഓരോ ആൺകുട്ടിക്കും ഒരു പേനയുണ്ട്)\n3. One of the windows was broken. (ജനലുകളിൽ ഒന്ന് പൊട്ടിയിരുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) are — plural verb ആണ്; തൊട്ടടുത്തുള്ള 'soldiers' കണ്ട് plural ഇടുന്നത് തെറ്റാണ്.\n• 🪤 PSC Trap: verb-ന് തൊട്ടുമുമ്പുള്ള plural noun (soldiers) കാണിച്ച് 'are' തിരഞ്ഞെടുപ്പിക്കാനുള്ള ക്ലാസിക് കെണി!\n• (B) has — 'has killed' എന്നാൽ അവൻ കൊന്നു എന്ന active അർത്ഥം; 'by the enemies' ഉള്ളതുകൊണ്ട് passive ആണ് വേണ്ടത്.\n• (D) have — plural-ഉം active-ഉം ആണ്; രണ്ട് തരത്തിലും തെറ്റ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ONE എന്നാൽ ഒന്ന് മാത്രം — ONE-ന് കൂട്ട് IS/WAS/HAS'.\n• ഒരുമിച്ച് പഠിക്കുക: one of, each of, every one of, neither of, either of → singular verb.\n• PSC strategy: 'of the' കണ്ടാൽ അതിന് ശേഷമുള്ള ഭാഗം വിരൽ കൊണ്ട് മറയ്ക്കുക — ബാക്കിയുള്ള subject നോക്കി verb ഇടുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "90-2017-M-Q73",
+      "paperId": "90-2017-M",
+      "questionNumber": 73,
+      "topic": "Tenses",
+      "questionText": "The man ______ crossed the road and ran away.",
+      "optionA": "had",
+      "optionB": "was",
+      "optionC": "is",
+      "optionD": "has",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) had\n• 'crossed' ഇവിടെ V3 (past participle) ആയി ഉപയോഗിക്കുന്നു — had + V3 = past perfect tense.\n• 'ran away' എന്ന past action-ന് മുമ്പ് റോഡ് മുറിച്ചുകടന്നു എന്ന് കാണിക്കാൻ past perfect ചേരും.\n• 'ആ മനുഷ്യൻ റോഡ് മുറിച്ചുകടന്ന് ഓടിപ്പോയി' എന്നാണ് അർത്ഥം.\n• ബാക്കി options ഒന്നും ഈ വാക്യത്തിൽ ശരിയായ അർത്ഥം നൽകുന്നില്ല.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Past Perfect = had + V3 (ആദ്യം നടന്ന past action).\n• രണ്ട് past action ഉണ്ടെങ്കിൽ ആദ്യം നടന്നത് past perfect-ലും പിന്നീട് നടന്നത് simple past-ലും വരും.\n• Simple past (ran) ഉള്ള വാക്യത്തിൽ present tense helpers (is/has) ചേർക്കാനാവില്ല — tense ഒത്തുപോകണം.\n• was + V3 = passive; ആൾ തന്നെ ചെയ്ത പ്രവൃത്തിക്ക് passive പറ്റില്ല.\n• ⭐ PSC ആവർത്തനം: had + V3 / was + V3 തമ്മിലുള്ള വ്യത്യാസം PSC ഇടയ്ക്കിടെ പരിശോധിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. The train had left before we reached. (ഞങ്ങൾ എത്തുന്നതിന് മുമ്പ് ട്രെയിൻ പോയിരുന്നു)\n2. She had finished her work and went home. (ജോലി തീർത്ത് അവൾ വീട്ടിൽ പോയി)\n3. The thief had escaped when the police came. (പോലീസ് വന്നപ്പോഴേക്കും കള്ളൻ രക്ഷപ്പെട്ടിരുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) was — 'was crossed' എന്നത് passive ആണ് — 'മുറിച്ചുകടക്കപ്പെട്ടു' എന്ന വിചിത്ര അർത്ഥം വരും.\n• 🪤 PSC Trap: was + V-ed കാണുമ്പോൾ past tense എന്ന് തോന്നും, പക്ഷേ അത് passive ആണ്!\n• (C) is — present tense ആണ്; 'ran away' എന്ന past-നൊപ്പം ചേരില്ല.\n• (D) has — present perfect ആണ്; simple past (ran) ഉള്ള വാക്യത്തിൽ tense mismatch ഉണ്ടാകും.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'HAD = ആദ്യം നടന്നത്' — Had-ലെ H = 'Happened first'.\n• ഒരുമിച്ച് പഠിക്കുക: has/have + V3 (present perfect), had + V3 (past perfect), will have + V3 (future perfect).\n• PSC strategy: വാക്യത്തിലെ മറ്റേ verb ഏത് tense-ൽ ആണെന്ന് ആദ്യം നോക്കുക (ran = past) — present helpers ഉടനെ വെട്ടിക്കളയുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "90-2017-M-Q74",
+      "paperId": "90-2017-M",
+      "questionNumber": 74,
+      "topic": "Articles",
+      "questionText": "______ Spanish are known for their hospitality.",
+      "optionA": "The",
+      "optionB": "A",
+      "optionC": "An",
+      "optionD": "No article",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) The\n• ഇവിടെ 'Spanish' എന്നത് സ്പെയിനിലെ ജനങ്ങളെ മുഴുവനായി (ഒരു ജനതയെ) സൂചിപ്പിക്കുന്നു.\n• -sh, -ch, -ese എന്നിവയിൽ അവസാനിക്കുന്ന nationality adjective-കൾ ആ രാജ്യത്തെ ജനങ്ങളെ മുഴുവൻ സൂചിപ്പിക്കുമ്പോൾ 'the' നിർബന്ധമാണ്.\n• 'are' (plural verb) തന്നെ ഇത് ഒരു ജനസമൂഹത്തെക്കുറിച്ചാണെന്ന് കാണിക്കുന്നു.\n• 'സ്പെയിൻകാർ അവരുടെ ആതിഥ്യമര്യാദയ്ക്ക് പ്രസിദ്ധരാണ്' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: The + Nationality adjective (-sh/-ch/-ese) = ആ രാജ്യത്തെ ജനങ്ങൾ മുഴുവൻ.\n• The English, The French, The Dutch, The Chinese, The Japanese, The Spanish — എല്ലാം plural verb എടുക്കുന്നു.\n• ഇതേ പോലെ: The rich, The poor, The blind — ഒരു വിഭാഗം ആളുകളെ സൂചിപ്പിക്കാൻ the + adjective.\n• എന്നാൽ ഭാഷയെ പറയുമ്പോൾ article ഇല്ല: 'Spanish is easy to learn.'\n• ⭐ PSC ആവർത്തനം: 'The + adjective = class of people' എന്ന നിയമം PSC പല രൂപത്തിൽ ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. The French love wine. (ഫ്രഞ്ചുകാർക്ക് വീഞ്ഞ് ഇഷ്ടമാണ്)\n2. The Japanese are hardworking. (ജപ്പാൻകാർ കഠിനാധ്വാനികളാണ്)\n3. The rich should help the poor. (ധനികർ ദരിദ്രരെ സഹായിക്കണം)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) A — 'a' ഒരു വ്യക്തിയെ (singular) കാണിക്കുന്നു; 'are' എന്ന plural verb-നൊപ്പം ചേരില്ല.\n• (C) An — 'Spanish'-ന്റെ ആദ്യ ശബ്ദം consonant ആണ്; കൂടാതെ singular ആയതിനാലും തെറ്റ്.\n• (D) No article — article ഇല്ലെങ്കിൽ 'Spanish' ഭാഷയെയാണ് സൂചിപ്പിക്കുക, ജനങ്ങളെയല്ല.\n• 🪤 PSC Trap: ഭാഷയുടെ പേരിന് article വേണ്ട എന്ന നിയമം ഓർത്ത് 'No article' തിരഞ്ഞെടുക്കാൻ പ്രേരിപ്പിക്കുന്ന കെണി!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ഭാഷയ്ക്ക് THE ഇല്ല, ജനതയ്ക്ക് THE വേണം' — Spanish is a language / The Spanish are a people.\n• ഒരുമിച്ച് പഠിക്കുക: the English, the Irish, the Dutch, the Swiss, the Chinese, the Spanish — ഇവയെല്ലാം ഒരു രാജ്യത്തെ ജനങ്ങളെ മുഴുവനായി സൂചിപ്പിക്കുന്നു, അതുകൊണ്ട് എല്ലാറ്റിനും മുന്നിൽ the നിർബന്ധം.\n• PSC strategy: blank കഴിഞ്ഞ് plural verb (are/were) കണ്ടാൽ ജനതയെക്കുറിച്ചാണ് — 'The' ഉറപ്പ്. guaranteed mark!"
+      }
+    },
+    {
+      "id": "90-2017-M-Q75",
+      "paperId": "90-2017-M",
+      "questionNumber": 75,
+      "topic": "Auxiliary Verbs",
+      "questionText": "You ______ obey your elders.",
+      "optionA": "can",
+      "optionB": "ought to",
+      "optionC": "will",
+      "optionD": "could",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) ought to\n• 'Ought to' ധാർമ്മിക കടമ (moral duty) കാണിക്കുന്ന modal ആണ് — 'ചെയ്യേണ്ടതാണ്' എന്നർത്ഥം.\n• മുതിർന്നവരെ അനുസരിക്കുക എന്നത് ഒരു ധാർമ്മിക ഉത്തരവാദിത്തമാണ്.\n• 'നീ മുതിർന്നവരെ അനുസരിക്കേണ്ടതാണ്' എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം.\n• Moral duty, ഉപദേശം എന്നിവയ്ക്ക് ought to / should ആണ് ഏറ്റവും അനുയോജ്യം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Moral duty / കടമ = ought to + V1 (should-ഉം ഇതേ അർത്ഥത്തിൽ).\n• Modal-കളിൽ 'to' കൂടെ വരുന്ന ഒന്നാണ് ought to — ought to go, ought to help.\n• can = കഴിവ്, will = ഭാവി / തീരുമാനം, could = കഴിഞ്ഞ കാലത്തെ കഴിവ് / വിനയപൂർവമായ അഭ്യർത്ഥന.\n• must = നിർബന്ധം, should/ought to = ഉപദേശം / ധാർമ്മിക കടമ.\n• ⭐ PSC ആവർത്തനം: 'obey your parents/elders' വാക്യത്തിൽ ought to / should എന്നത് PSC-യുടെ പതിവ് ചോദ്യമാണ്.\n• ഉദാഹരണ sentences:\n1. We ought to respect our teachers. (നമ്മൾ അധ്യാപകരെ ബഹുമാനിക്കേണ്ടതാണ്)\n2. You ought to help the poor. (നീ ദരിദ്രരെ സഹായിക്കേണ്ടതാണ്)\n3. Children ought to love their parents. (കുട്ടികൾ മാതാപിതാക്കളെ സ്നേഹിക്കേണ്ടതാണ്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) can — കഴിവിനെ (ability) കാണിക്കുന്നു; 'അനുസരിക്കാൻ കഴിയും' എന്ന അർത്ഥം ഇവിടെ യോജിക്കില്ല.\n• (C) will — ഭാവി പ്രവൃത്തി മാത്രമാണ് കാണിക്കുന്നത്; കടമ എന്ന ഭാവം ഇല്ല.\n• (D) could — past ability അല്ലെങ്കിൽ സാധ്യത കാണിക്കുന്നു; ഇവിടെ ചേരില്ല.\n• 🪤 PSC Trap: can/could വ്യാകരണപരമായി ശരിയായി തോന്നും — പക്ഷേ അർത്ഥം (കടമ) നോക്കിയാണ് ഉത്തരം തീരുമാനിക്കേണ്ടത്!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Ought = ഓർത്ത് ചെയ്യേണ്ടത്' — മനസ്സാക്ഷി പറയുന്ന കടമ!\n• ഒരുമിച്ച് പഠിക്കുക: ought to / should (ഉപദേശം), must / have to (നിർബന്ധം), can / could (കഴിവ്), may / might (സാധ്യത).\n• PSC strategy: obey, respect, help, love എന്നിവ പോലെ ധാർമ്മിക പ്രവൃത്തികൾ കണ്ടാൽ ought to / should തിരഞ്ഞെടുക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "90-2017-M-Q76",
+      "paperId": "90-2017-M",
+      "questionNumber": 76,
+      "topic": "Question Tags",
+      "questionText": "Nobody treats me well, ______",
+      "optionA": "don't they?",
+      "optionB": "have they?",
+      "optionC": "do they?",
+      "optionD": "haven't they?",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) do they?\n• 'Nobody' ഒരു negative word ആണ് — അതുകൊണ്ട് വാക്യം negative ആയി കണക്കാക്കുന്നു, tag positive ആകണം.\n• 'treats' എന്ന simple present verb-ന് auxiliary 'do/does' ആണ്.\n• Nobody, somebody, everybody എന്നിവയ്ക്ക് tag-ൽ pronoun 'they' ആണ് ഉപയോഗിക്കുന്നത്.\n• അതുകൊണ്ട്: Nobody treats me well, do they?",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Negative statement → Positive tag | Positive statement → Negative tag.\n• Nobody, no one, nothing, never, hardly, scarcely, few — ഇവയെല്ലാം വാക്യത്തെ negative ആക്കുന്നു.\n• Nobody / everybody / somebody / anyone → tag-ൽ 'they'; nothing / everything → tag-ൽ 'it'.\n• ആളുകളെ സൂചിപ്പിക്കുന്ന വാക്കുകൾക്ക് 'they', വസ്തുക്കളെ സൂചിപ്പിക്കുന്നവയ്ക്ക് 'it' — ഇത് ഓർത്തിരുന്നാൽ pronoun തെറ്റില്ല.\n• Simple present (treats) → do/does; simple past → did.\n• ⭐ PSC ആവർത്തനം: 'Nobody ...' എന്ന് തുടങ്ങുന്ന question tag ചോദ്യം PSC വീണ്ടും വീണ്ടും ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. Nobody came to the party, did they? (ആരും പാർട്ടിക്ക് വന്നില്ല, അല്ലേ?)\n2. Everybody likes him, don't they? (എല്ലാവർക്കും അവനെ ഇഷ്ടമാണ്, അല്ലേ?)\n3. Nothing happened, did it? (ഒന്നും സംഭവിച്ചില്ല, അല്ലേ?)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) don't they? — negative tag ആണ്; nobody ഇതിനകം negative ആയതിനാൽ ഇരട്ട negative ആകും.\n• 🪤 PSC Trap: വാക്യത്തിൽ 'not' കാണാത്തതുകൊണ്ട് positive ആണെന്ന് തെറ്റിദ്ധരിപ്പിച്ച് negative tag ഇടീക്കാനുള്ള കെണി!\n• (B) have they? — 'treats' simple present ആണ്; have എന്ന auxiliary ഇവിടെ ഇല്ല.\n• (D) haven't they? — auxiliary തെറ്റാണ്, കൂടാതെ negative-ഉം ആണ് — രണ്ടും തെറ്റ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'NO-ൽ തുടങ്ങിയാൽ NO വേണ്ട' — Nobody, Nothing, No one → tag-ൽ 'not' ഇടരുത്!\n• ഒരുമിച്ച് പഠിക്കുക: hardly, scarcely, seldom, never, few, little — ഇവയും positive tag എടുക്കുന്നു.\n• PSC strategy: ആദ്യം വാക്യം negative ആണോ എന്ന് നോക്കുക, പിന്നെ verb-ന്റെ tense, ഒടുവിൽ pronoun — മൂന്ന് step, guaranteed mark!"
+      }
+    },
+    {
+      "id": "90-2017-M-Q77",
+      "paperId": "90-2017-M",
+      "questionNumber": 77,
+      "topic": "Infinitive and Gerunds",
+      "questionText": "______ is a very good exercise for health.",
+      "optionA": "Walking",
+      "optionB": "To walk",
+      "optionC": "Walk",
+      "optionD": "None of these",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) Walking\n• 'Walking' ഇവിടെ gerund ആണ് — verb + ing ആയ ഒരു noun പോലെ പ്രവർത്തിക്കുന്നു.\n• വാക്യത്തിന്റെ subject ആയി ഒരു പ്രവൃത്തിയെ (activity) പൊതുവായി പറയുമ്പോൾ gerund ആണ് ഏറ്റവും സ്വാഭാവികം.\n• 'നടത്തം ആരോഗ്യത്തിന് വളരെ നല്ല ഒരു വ്യായാമമാണ്' എന്നർത്ഥം.\n• 'exercise' എന്ന noun-നോട് തുല്യപ്പെടുത്തുന്നത് ഒരു activity-യെ ആണ് — അതിന് gerund ഏറ്റവും അനുയോജ്യം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: വാക്യത്തിന്റെ തുടക്കത്തിൽ activity = Gerund (V + ing).\n• Gerund ഒരു noun-ന്റെ ജോലി ചെയ്യുന്നു — subject, object, preposition-ന് ശേഷം എന്നിങ്ങനെ.\n• Sports, hobbies, വ്യായാമങ്ങൾ എന്നിവ പൊതുവായി പറയുമ്പോൾ gerund ഉപയോഗിക്കുന്നു: swimming, reading, jogging.\n• Bare verb (walk) ഒരിക്കലും ഇങ്ങനെ subject ആയി വരില്ല.\n• ⭐ PSC ആവർത്തനം: '____ is good for health' എന്ന രീതിയിലുള്ള gerund ചോദ്യം PSC പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. Swimming is a good exercise. (നീന്തൽ ഒരു നല്ല വ്യായാമമാണ്)\n2. Smoking is injurious to health. (പുകവലി ആരോഗ്യത്തിന് ഹാനികരമാണ്)\n3. Reading improves our knowledge. (വായന നമ്മുടെ അറിവ് വർധിപ്പിക്കുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) To walk — infinitive-ഉം subject ആകാം, പക്ഷേ പൊതുവായ ഒരു activity-യെ പറയുമ്പോൾ ഇത് അസ്വാഭാവികമാണ്; PSC-യുടെ ഉത്തരം gerund ആണ്.\n• 🪤 PSC Trap: 'To walk' വ്യാകരണപരമായി അസാധ്യമല്ലാത്തതിനാൽ സംശയം ജനിപ്പിക്കാനുള്ള option — പക്ഷേ ഏറ്റവും നല്ല ഉത്തരം gerund തന്നെ!\n• (C) Walk — bare verb ഒരു വാക്യത്തിന്റെ subject ആയി വരില്ല.\n• (D) None of these — Walking ശരിയായതിനാൽ ഇത് തെറ്റാണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ING = Interesting Name of Game' — കളികളുടെയും വ്യായാമങ്ങളുടെയും പേര് ING-ൽ!\n• ഒരുമിച്ച് പഠിക്കുക: walking, swimming, jogging, cycling, smoking, reading — എല്ലാം subject ആയി gerund.\n• PSC strategy: blank വാക്യത്തിന്റെ തുടക്കത്തിലും 'is good / is bad / is injurious' പിന്നാലെയും ആണെങ്കിൽ -ing രൂപം തിരഞ്ഞെടുക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "90-2017-M-Q78",
+      "paperId": "90-2017-M",
+      "questionNumber": 78,
+      "topic": "Conditionals",
+      "questionText": "If you had started early, you ______ reached on time.",
+      "optionA": "would",
+      "optionB": "would have",
+      "optionC": "will",
+      "optionD": "will have",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) would have\n• 'If + had + V3' (had started) എന്നത് third conditional-ന്റെ ആദ്യ ഭാഗമാണ്.\n• Third conditional-ന്റെ രണ്ടാം ഭാഗം എപ്പോഴും 'would have + V3' ആണ് — would have reached.\n• ഇത് കഴിഞ്ഞുപോയ, നടക്കാതെ പോയ ഒരു സാഹചര്യത്തെ (imaginary past) കാണിക്കുന്നു.\n• 'നീ നേരത്തെ പുറപ്പെട്ടിരുന്നെങ്കിൽ, കൃത്യസമയത്ത് എത്തുമായിരുന്നു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: If + had + V3 → would have + V3 (Third Conditional).\n• First: If + present → will + V1 (സാധ്യമായത്).\n• Second: If + past → would + V1 (സങ്കൽപ്പം, ഇപ്പോൾ).\n• Third: If + had + V3 → would have + V3 (നടക്കാതെ പോയ ഭൂതകാലം).\n• ⭐ PSC ആവർത്തനം: Third conditional ആണ് PSC-യിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന conditional!\n• ഉദാഹരണ sentences:\n1. If he had worked hard, he would have passed. (കഠിനാധ്വാനം ചെയ്തിരുന്നെങ്കിൽ അവൻ ജയിക്കുമായിരുന്നു)\n2. If it had rained, the match would have been cancelled. (മഴ പെയ്തിരുന്നെങ്കിൽ കളി റദ്ദാക്കുമായിരുന്നു)\n3. If I had known, I would have helped you. (അറിഞ്ഞിരുന്നെങ്കിൽ ഞാൻ നിന്നെ സഹായിക്കുമായിരുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) would — 'would reached' വ്യാകരണപരമായി തെറ്റാണ്; would-ന് ശേഷം V1 ആണ് വരിക, V3 അല്ല.\n• 🪤 PSC Trap: would എന്ന് കണ്ട് conditional ആണെന്ന് ഓർത്ത് പെട്ടെന്ന് തിരഞ്ഞെടുപ്പിക്കാനുള്ള കെണി — 'have' വിട്ടുപോയി!\n• (C) will — first conditional-ന്റേതാണ്; 'had started'-നൊപ്പം ചേരില്ല.\n• (D) will have — future perfect ആണ്; ഭാവിയെക്കുറിച്ചാണ്, നടക്കാതെ പോയ ഭൂതകാലത്തെക്കുറിച്ചല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'HAD കണ്ടാൽ HAVE വരും' — If-ൽ had ഉണ്ടെങ്കിൽ മറുഭാഗത്ത് would have ഉറപ്പ്!\n• ഒരുമിച്ച് പഠിക്കുക: would have, could have, might have, should have + V3 — എല്ലാം third conditional-ൽ വരാം.\n• PSC strategy: If-clause-ലെ verb ആദ്യം നോക്കുക — had + V3 കണ്ടാൽ ഉടനെ 'would have' തിരഞ്ഞെടുക്കുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "90-2017-M-Q79",
+      "paperId": "90-2017-M",
+      "questionNumber": 79,
+      "topic": "Direct and Indirect Speech",
+      "questionText": "Change into indirect speech:\nShe exclaimed, \"What a beautiful child!\"",
+      "optionA": "She exclaimed that the child is beautiful.",
+      "optionB": "She exclaimed that it is a beautiful child.",
+      "optionC": "She exclaimed that the child was beautiful.",
+      "optionD": "She exclaimed that it was a beautiful child.",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) She exclaimed that it was a beautiful child.\n• Exclamatory sentence indirect ആക്കുമ്പോൾ 'What a ...' എന്നത് ഒഴിവാക്കി സാധാരണ statement ആക്കുന്നു.\n• Reporting verb 'exclaimed' past tense ആയതിനാൽ verb backshift ചെയ്യണം — is → was.\n• Direct speech-ൽ verb ഇല്ലാത്തതിനാൽ 'it was' ചേർത്ത് പൂർണ്ണ വാക്യമാക്കുന്നു: it was a beautiful child.\n• 'അത് ഒരു സുന്ദരിയായ കുട്ടിയാണെന്ന് അവൾ ആശ്ചര്യത്തോടെ പറഞ്ഞു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: What a / How + adjective → that + it/subject + was + (very) adjective.\n• Exclamation mark (!) ഒഴിവാക്കി full stop ഇടുന്നു; inverted commas നീക്കുന്നു.\n• Reporting verb past ആണെങ്കിൽ tense പിന്നോട്ട് മാറ്റുന്നു (backshift): is → was, are → were.\n• 'What a' പലപ്പോഴും 'very' / 'great' എന്നാക്കി മാറ്റാറുണ്ട്: that it was a very beautiful child.\n• സന്തോഷം, ദുഃഖം, അത്ഭുതം എന്നിവ പ്രകടിപ്പിക്കുന്ന വാക്യങ്ങളാണ് exclamatory sentences.\n• ⭐ PSC ആവർത്തനം: 'What a ...!' exclamatory sentence-ന്റെ indirect രൂപം PSC പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. He said, \"What a lovely day!\" → He exclaimed that it was a lovely day. (മനോഹരമായ ദിവസമാണെന്ന് അവൻ ആശ്ചര്യത്തോടെ പറഞ്ഞു)\n2. She said, \"How tall he is!\" → She exclaimed that he was very tall. (അവൻ വളരെ ഉയരമുള്ളവനാണെന്ന് അവൾ പറഞ്ഞു)\n3. They said, \"What a fine game!\" → They exclaimed that it was a fine game. (മികച്ച കളിയാണെന്ന് അവർ പറഞ്ഞു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) the child is beautiful — 'is' backshift ചെയ്തിട്ടില്ല; exclaimed past ആയതിനാൽ was വേണം.\n• (B) it is a beautiful child — ഇതിലും tense മാറ്റിയിട്ടില്ല — is തെറ്റാണ്.\n• 🪤 PSC Trap: direct speech-ലെ അർത്ഥം നിലനിർത്താൻ present tense തന്നെ വേണമെന്ന് തോന്നിപ്പിക്കുന്ന കെണി!\n• (C) the child was beautiful — tense ശരിയാണ്, പക്ഷേ 'What a beautiful child' എന്ന noun phrase-ന്റെ ഘടന (a beautiful child) നഷ്ടപ്പെട്ടു; D ആണ് മൂലവാക്യത്തോട് ഏറ്റവും അടുത്തത്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: '! മാറി . ആകും, IS മാറി WAS ആകും' — രണ്ട് മാറ്റവും ഒരുമിച്ച് ഓർക്കുക!\n• ഒരുമിച്ച് പഠിക്കുക: exclaimed with joy, exclaimed with sorrow, exclaimed with surprise — exclamatory sentence-ന്റെ reporting verbs.\n• PSC strategy: ആദ്യം present tense (is/are) ഉള്ള options വെട്ടുക; പിന്നെ മൂലവാക്യത്തിന്റെ ഘടന നിലനിർത്തുന്ന option തിരഞ്ഞെടുക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "90-2017-M-Q80",
+      "paperId": "90-2017-M",
+      "questionNumber": 80,
+      "topic": "Active and Passive Voice",
+      "questionText": "Identify the active voice:\nThe people are annoyed by the noise.",
+      "optionA": "The noise annoy the people.",
+      "optionB": "The noise annoyed the people.",
+      "optionC": "The noise annoys the people.",
+      "optionD": "The noise is annoying the people.",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) The noise annoys the people.\n• 'are annoyed' = are + V3 — ഇത് simple present tense-ലെ passive ആണ്.\n• Active ആക്കുമ്പോൾ tense മാറാൻ പാടില്ല — simple present തന്നെ വേണം.\n• പുതിയ subject 'The noise' singular (third person) ആയതിനാൽ verb-ന് -s വേണം: annoys.\n• 'ശബ്ദം ആളുകളെ അലോസരപ്പെടുത്തുന്നു' എന്നാണ് അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Active-ലെ tense = Passive-ലെ tense — എപ്പോഴും!\n• Simple present passive: is/am/are + V3 ↔ Active: V1 / V1 + s.\n• Simple past passive: was/were + V3 ↔ Active: V2.\n• Present continuous passive: is/are + being + V3 ↔ Active: is/are + V-ing.\n• Passive-ൽ 'by' കഴിഞ്ഞുവരുന്ന ആൾ/വസ്തു ആണ് active-ലെ പുതിയ subject — അതിന്റെ എണ്ണം (singular/plural) നോക്കി verb മാറ്റണം.\n• പഴയ subject (the people) active-ൽ object ആയി മാറുന്നു.\n• ⭐ PSC ആവർത്തനം: Passive → Active ചോദ്യത്തിൽ tense മാറ്റിയ options ആണ് PSC കെണിയായി ഇടുന്നത്.\n• ഉദാഹരണ sentences:\n1. Ravi writes the letter. (രവി കത്ത് എഴുതുന്നു — simple present active)\n2. The police caught the thief. (പോലീസ് കള്ളനെ പിടിച്ചു — simple past active)\n3. He sells mangoes. (അവൻ മാമ്പഴം വിൽക്കുന്നു — simple present active)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) The noise annoy the people — tense ശരിയാണ്, പക്ഷേ singular subject-ന് -s ഇല്ല — subject-verb agreement തെറ്റ്.\n• 🪤 PSC Trap: tense നോക്കി ശരിയെന്ന് തോന്നിപ്പിക്കുന്ന option — agreement പിശക് ശ്രദ്ധിക്കാത്തവർ വീഴും!\n• (B) annoyed — simple past ആണ്; are annoyed എന്ന present passive-ന് ചേരില്ല.\n• (D) is annoying — present continuous ആണ്; അതിന്റെ passive 'are being annoyed' ആകുമായിരുന്നു.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Voice മാറിയാലും Time മാറില്ല' — tense ഒരു ഘടികാരം പോലെ, അത് തൊടരുത്!\n• ഒരുമിച്ച് പഠിക്കുക: is/are + V3 ↔ V1(s), was/were + V3 ↔ V2, has/have been + V3 ↔ has/have + V3.\n• PSC strategy: ആദ്യം tense കണ്ടെത്തുക, ആ tense-ൽ ഇല്ലാത്ത options വെട്ടുക, ഒടുവിൽ subject-verb agreement പരിശോധിക്കുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "90-2017-M-Q81",
+      "paperId": "90-2017-M",
+      "questionNumber": 81,
+      "topic": "Parts of Speech",
+      "questionText": "The masculine gender for 'doe'",
+      "optionA": "stallion",
+      "optionB": "gander",
+      "optionC": "buck",
+      "optionD": "none of these",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) buck\n• 'Doe' എന്നാൽ പെൺമാൻ (female deer) — പെൺമുയലിനെയും doe എന്ന് പറയാറുണ്ട്.\n• അതിന്റെ masculine (ആൺ) രൂപം 'buck' ആണ് — ആൺമാൻ.\n• Doe ↔ Buck എന്നത് ഒരു ജോഡി ആയി പഠിക്കേണ്ടതാണ്.\n• മൃഗങ്ങളുടെ gender-ൽ ആൺ-പെൺ രൂപങ്ങൾക്ക് പലപ്പോഴും തികച്ചും വ്യത്യസ്തമായ വാക്കുകളാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Doe (പെൺ) ↔ Buck (ആൺ) — മാൻ, മുയൽ.\n• Gender മാറ്റുന്ന മൂന്ന് രീതികൾ: പൂർണ്ണമായും വേറെ വാക്ക് (bull–cow), suffix ചേർക്കൽ (lion–lioness), വാക്ക് ചേർക്കൽ (he-goat–she-goat).\n• മൃഗജോഡികൾ: horse/stallion – mare, gander – goose, drake – duck, ram – ewe, boar – sow, dog – bitch, cock – hen.\n• ⭐ PSC ആവർത്തനം: മൃഗങ്ങളുടെ masculine/feminine ജോഡികൾ PSC പല തവണ ചോദിച്ചിട്ടുണ്ട്.\n• ഉദാഹരണ sentences:\n1. The doe ran into the forest with her fawn. (പെൺമാൻ കുഞ്ഞിനൊപ്പം കാട്ടിലേക്ക് ഓടി)\n2. A buck has large antlers. (ആൺമാന് വലിയ കൊമ്പുകളുണ്ട്)\n3. The gander guarded the goose. (ആൺവാത്ത് പെൺവാത്തിനെ കാത്തു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) stallion — ആൺകുതിര ആണ്; അതിന്റെ feminine 'mare' ആണ്, doe അല്ല.\n• (B) gander — ആൺവാത്ത് ആണ്; അതിന്റെ feminine 'goose' ആണ്.\n• 🪤 PSC Trap: stallion, gander എന്നിവയും masculine വാക്കുകളാണ് — 'masculine ആണല്ലോ' എന്ന് കരുതി തിരഞ്ഞെടുക്കാൻ ഇട്ട കെണി; ജോഡി ശരിയാകണം!\n• (D) none of these — buck ശരിയായതിനാൽ ഇത് തെറ്റാണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Doe-ക്ക് Buck — D കഴിഞ്ഞാൽ B' (മാൻ ജോഡി); 'Goose-ന് Gander — രണ്ടും G'!\n• ഒരുമിച്ച് പഠിക്കുക: stallion–mare, gander–goose, drake–duck, ram–ewe, buck–doe, boar–sow, cob–pen (swan).\n• PSC strategy: എല്ലാ options-ഉം ഒരേ gender-ൽ ആണെങ്കിൽ, ചോദ്യത്തിലെ വാക്കിന്റെ കൃത്യമായ ജോഡി ഏതെന്ന് മാത്രം നോക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "90-2017-M-Q82",
+      "paperId": "90-2017-M",
+      "questionNumber": 82,
+      "topic": "Compound Words",
+      "questionText": "Find out the compound adjective.",
+      "optionA": "Brainwash",
+      "optionB": "Overlook",
+      "optionC": "Send off",
+      "optionD": "Homesick",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) Homesick\n• Home (noun) + sick (adjective) = Homesick — ഇതൊരു compound adjective ആണ്.\n• 'വീടിനെക്കുറിച്ചുള്ള ഓർമ്മയിൽ വിഷമിക്കുന്ന, വീട് കാണാൻ കൊതിക്കുന്ന' എന്നർത്ഥം.\n• ഇത് ഒരാളുടെ അവസ്ഥ (ഗുണം) വിവരിക്കുന്നു — 'He felt homesick.'\n• ബാക്കി മൂന്നും verb ആയി ഉപയോഗിക്കുന്ന compound-കളാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Noun + Adjective = Compound Adjective (home + sick, world + famous).\n• Compound adjective രണ്ടോ അതിലധികമോ വാക്കുകൾ ചേർന്ന് ഒരൊറ്റ adjective ആയി പ്രവർത്തിക്കുന്നു.\n• ഉദാഹരണങ്ങൾ: sea-sick, colour-blind, world-famous, ice-cold, duty-free, airsick.\n• Brainwash, overlook, send off — ഇവ compound verbs / phrasal verbs ആണ്.\n• ⭐ PSC ആവർത്തനം: compound noun / adjective / verb തിരിച്ചറിയുന്ന ചോദ്യം PSC ഇടയ്ക്കിടെ ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. The little girl felt homesick at the hostel. (ഹോസ്റ്റലിൽ ആ കുട്ടിക്ക് വീടിനെ ഓർത്ത് വിഷമം തോന്നി)\n2. He is colour-blind. (അവന് നിറങ്ങൾ തിരിച്ചറിയാനാവില്ല)\n3. She is a world-famous singer. (അവൾ ലോകപ്രശസ്ത ഗായികയാണ്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Brainwash — 'ഒരാളുടെ ചിന്തകൾ നിർബന്ധിച്ച് മാറ്റുക' എന്നർത്ഥമുള്ള compound verb ആണ്.\n• (B) Overlook — 'അവഗണിക്കുക / ശ്രദ്ധിക്കാതെ വിടുക' എന്നർത്ഥമുള്ള compound verb ആണ്.\n• (C) Send off — 'യാത്രയയക്കുക' എന്നർത്ഥമുള്ള phrasal verb ആണ് (noun ആയി send-off).\n• 🪤 PSC Trap: എല്ലാ options-ഉം compound words തന്നെയാണ് — ഏതാണ് adjective ആയി പ്രവർത്തിക്കുന്നത് എന്ന് തിരിച്ചറിയുന്നതാണ് പരീക്ഷണം!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: '-sick, -blind, -free, -famous കണ്ടാൽ adjective ഉറപ്പ്' — അവ ഒരു അവസ്ഥയെ വിവരിക്കുന്നു.\n• ഒരുമിച്ച് പഠിക്കുക: homesick, seasick, carsick, lovesick — എല്ലാം 'sick' compound adjectives.\n• PSC strategy: ഓരോ option-ഉം 'He is ___' എന്ന വാക്യത്തിൽ ഇട്ടുനോക്കുക — അർത്ഥപൂർണ്ണമായി ചേരുന്നതാണ് adjective. guaranteed mark!"
+      }
+    },
+    {
+      "id": "90-2017-M-Q83",
+      "paperId": "90-2017-M",
+      "questionNumber": 83,
+      "topic": "Synonyms",
+      "questionText": "The synonym of '__cynosure__'.",
+      "optionA": "Very confident",
+      "optionB": "Centre of attraction",
+      "optionC": "Pessimist",
+      "optionD": "Doubtful",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) Centre of attraction\n• 'Cynosure' എന്നാൽ എല്ലാവരുടെയും ശ്രദ്ധയും ആരാധനയും പിടിച്ചുപറ്റുന്ന വ്യക്തി അല്ലെങ്കിൽ വസ്തു.\n• 'ആകർഷണ കേന്ദ്രം' എന്നതാണ് കൃത്യമായ അർത്ഥം.\n• ഉദാഹരണം: വിവാഹച്ചടങ്ങിൽ വധു എല്ലാവരുടെയും cynosure ആയിരിക്കും.\n• ഈ വാക്ക് പലപ്പോഴും 'the cynosure of all eyes' എന്ന രൂപത്തിലാണ് കാണുക.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Cynosure = Centre of attraction = എല്ലാ കണ്ണുകളും നോക്കുന്നയാൾ.\n• Synonyms: focus of attention, centre of interest, attraction, highlight.\n• Etymology hint: Greek 'kynosoura' = 'നായയുടെ വാൽ' — ധ്രുവനക്ഷത്രം ഉൾപ്പെടുന്ന നക്ഷത്രക്കൂട്ടത്തിന്റെ പേര്; നാവികർ വഴി കണ്ടെത്താൻ എപ്പോഴും നോക്കിയിരുന്നത് അതിനെയാണ്.\n• ⭐ PSC ആവർത്തനം: cynosure, panacea, epitome പോലുള്ള കടുപ്പമുള്ള വാക്കുകളുടെ synonym ചോദ്യങ്ങൾ PSC ആവർത്തിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. The bride was the cynosure of all eyes. (വധു എല്ലാവരുടെയും ശ്രദ്ധാകേന്ദ്രമായിരുന്നു)\n2. The Taj Mahal is the cynosure of tourists. (താജ്മഹൽ വിനോദസഞ്ചാരികളുടെ ആകർഷണ കേന്ദ്രമാണ്)\n3. The new car became the cynosure at the show. (പുതിയ കാർ പ്രദർശനത്തിലെ ആകർഷണമായി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Very confident — 'വളരെ ആത്മവിശ്വാസമുള്ള' എന്നർത്ഥം; ശ്രദ്ധാകേന്ദ്രം എന്ന അർത്ഥവുമായി ബന്ധമില്ല.\n• (C) Pessimist — 'എല്ലാത്തിലും ദോഷം മാത്രം കാണുന്നയാൾ' (നിരാശാവാദി) എന്നാണ് അർത്ഥം.\n• 🪤 PSC Trap: 'cyn-' എന്ന തുടക്കം 'cynic' (സംശയാലു / നിരാശാവാദി) എന്ന വാക്കിനെ ഓർമ്മിപ്പിക്കും — അതുകൊണ്ട് pessimist, doubtful എന്നിവ കെണിയായി ഇട്ടിരിക്കുന്നു!\n• (D) Doubtful — 'സംശയമുള്ള' എന്നർത്ഥം; cynosure-മായി ബന്ധമില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Cynosure = SURE-ആയി എല്ലാവരും SEE ചെയ്യുന്നത്' — 'sign-o-sure': എല്ലാ കണ്ണുകളുടെയും ലക്ഷ്യം!\n• ഒരുമിച്ച് പഠിക്കുക: cynosure (ആകർഷണകേന്ദ്രം) vs cynic (സംശയാലു) vs cynical — ഈ ജോഡി ഒരിക്കലും കൂട്ടിക്കുഴയ്ക്കരുത്.\n• PSC strategy: കടുപ്പമുള്ള വാക്ക് കണ്ടാൽ 'the ___ of all eyes' പോലുള്ള പരിചിതമായ phrase ഓർത്തുനോക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "90-2017-M-Q84",
+      "paperId": "90-2017-M",
+      "questionNumber": 84,
+      "topic": "Antonyms",
+      "questionText": "The antonym of '__abate__'.",
+      "optionA": "Retain",
+      "optionB": "Retreat",
+      "optionC": "Adore",
+      "optionD": "Aggravate",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) Aggravate\n• 'Abate' എന്നാൽ കുറയുക, ശമിക്കുക — കൊടുങ്കാറ്റ്, വേദന, കോപം എന്നിവ കുറയുന്നതിനെ കാണിക്കുന്നു.\n• 'Aggravate' എന്നാൽ കൂടുതൽ വഷളാക്കുക, തീവ്രമാക്കുക.\n• കുറയുക ↔ കൂടുക/വഷളാകുക — അതുകൊണ്ട് abate-ന്റെ opposite aggravate ആണ്.\n• Etymology: Latin 'gravis' (ഭാരമുള്ള) — aggravate = കൂടുതൽ ഭാരമുള്ളതാക്കുക.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Abate = കുറയുക ↔ Aggravate / Intensify / Increase = കൂടുക, വഷളാകുക.\n• Abate-ന്റെ synonyms: subside, decrease, diminish, lessen, wane.\n• Aggravate-ന്റെ synonyms: worsen, intensify, heighten, exacerbate.\n• Etymology hint: Old French 'abattre' = 'താഴെയിടുക' — abate = താഴോട്ട് വരിക, കുറയുക.\n• ⭐ PSC ആവർത്തനം: abate, alleviate, mitigate തുടങ്ങിയ 'കുറയ്ക്കൽ' വാക്കുകളുടെ antonym PSC പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. The storm abated by morning. (രാവിലെയോടെ കൊടുങ്കാറ്റ് ശമിച്ചു)\n2. His harsh words aggravated the problem. (അവന്റെ കടുത്ത വാക്കുകൾ പ്രശ്നം വഷളാക്കി)\n3. The pain began to abate after the medicine. (മരുന്ന് കഴിച്ചതിനുശേഷം വേദന കുറഞ്ഞുതുടങ്ങി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Retain — 'നിലനിർത്തുക, കൈവശം വയ്ക്കുക' എന്നർത്ഥം; കുറയുക എന്നതിന്റെ നേർ വിപരീതമല്ല.\n• (B) Retreat — 'പിൻവാങ്ങുക' എന്നർത്ഥം; ഇത് abate-നോട് കുറച്ച് സമാനമാണ്, വിപരീതമല്ല.\n• 🪤 PSC Trap: retreat-ന് 'പിന്നോട്ട് പോവുക' എന്ന ഭാവം ഉള്ളതിനാൽ abate-ന്റെ അർത്ഥവുമായി ബന്ധം തോന്നിക്കുന്ന കെണി!\n• (C) Adore — 'ആരാധിക്കുക, അഗാധമായി സ്നേഹിക്കുക' എന്നർത്ഥം; ബന്ധമില്ലാത്ത വാക്ക്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'A-BATE = A-BIT കുറഞ്ഞു' | 'AGGRAVATE = AGGRESSIVE ആയി കൂടി'!\n• ഒരുമിച്ച് പഠിക്കുക: abate / subside / alleviate / mitigate (കുറയുക) ↔ aggravate / intensify / exacerbate (കൂടുക).\n• PSC strategy: antonym ചോദ്യത്തിൽ ആദ്യം വാക്ക് 'കൂടുതൽ' ആണോ 'കുറവ്' ആണോ എന്ന് തീരുമാനിക്കുക — പിന്നെ എതിർ ദിശയിലുള്ള option മാത്രം നോക്കുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "90-2017-M-Q85",
+      "paperId": "90-2017-M",
+      "questionNumber": 85,
+      "topic": "Phrasal Verbs",
+      "questionText": "It has the capacity to ______ the world.",
+      "optionA": "pull out",
+      "optionB": "pull up",
+      "optionC": "pull down",
+      "optionD": "pull off",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) pull down\n• 'Pull down' എന്നാൽ തകർക്കുക, നശിപ്പിക്കുക, ഇടിച്ചുനിരത്തുക.\n• 'അതിന് ലോകത്തെ തകർക്കാനുള്ള ശേഷിയുണ്ട്' എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം (ഉദാ: അണുബോംബിനെക്കുറിച്ച്).\n• 'capacity' എന്ന വാക്ക് ഒരു വലിയ ശക്തിയെ — ഇവിടെ നാശശക്തിയെ — സൂചിപ്പിക്കുന്നു.\n• 'world' പോലുള്ള വലിയ object-നൊപ്പം അർത്ഥം ചേരുന്നത് pull down-ന് മാത്രമാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Pull down = തകർക്കുക / ഇടിച്ചുനിരത്തുക.\n• Pull-ന്റെ phrasal verb കുടുംബം:\n• pull out = പിന്മാറുക | pull up = വാഹനം നിർത്തുക / ശാസിക്കുക | pull off = വിജയകരമായി ചെയ്തുതീർക്കുക | pull through = രോഗത്തിൽ നിന്ന് രക്ഷപ്പെടുക | pull together = ഒരുമിച്ച് പ്രവർത്തിക്കുക.\n• ⭐ PSC ആവർത്തനം: ഒരേ base verb-ന്റെ വ്യത്യസ്ത particles ഉള്ള options — PSC-യുടെ സ്ഥിരം രീതി!\n• ഉദാഹരണ sentences:\n1. They pulled down the old building. (അവർ പഴയ കെട്ടിടം ഇടിച്ചുനിരത്തി)\n2. The taxi pulled up at the gate. (ടാക്സി ഗേറ്റിൽ നിർത്തി)\n3. He pulled off a great victory. (അവൻ ഒരു വലിയ വിജയം നേടിയെടുത്തു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) pull out — 'പിന്മാറുക, പുറത്തേക്ക് വലിച്ചെടുക്കുക' എന്നർത്ഥം; ലോകത്തെ പുറത്തെടുക്കുക എന്നതിന് അർത്ഥമില്ല.\n• (B) pull up — 'വാഹനം നിർത്തുക, ശാസിക്കുക' എന്നർത്ഥം; ഇവിടെ ചേരില്ല.\n• (D) pull off — 'പ്രയാസമുള്ള കാര്യം വിജയകരമായി ചെയ്യുക' എന്നർത്ഥം; object ആയി world വരില്ല.\n• 🪤 PSC Trap: 'pull off' നല്ല ശക്തിയുള്ള phrasal verb ആയി തോന്നും — പക്ഷേ അതിന് 'നശിപ്പിക്കുക' എന്ന അർത്ഥമില്ല!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'DOWN = താഴെ വീഴ്ത്തുക' — pull down ചെയ്താൽ എല്ലാം നിലത്ത്!\n• ഒരുമിച്ച് പഠിക്കുക: pull down, break down, knock down, tear down, bring down — എല്ലാം 'തകർക്കുക' കുടുംബം.\n• PSC strategy: phrasal verb ചോദ്യത്തിൽ particle-ന്റെ ദിശ (down = താഴെ, up = മുകളിൽ/നിർത്തുക, off = വേർപെടുക) ആദ്യം മനസ്സിൽ കാണുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "90-2017-M-Q86",
+      "paperId": "90-2017-M",
+      "questionNumber": 86,
+      "topic": "Foreign Words and Phrases",
+      "questionText": "Choose the Latin equivalent of 'to the point'.",
+      "optionA": "ad valorem",
+      "optionB": "ad rem",
+      "optionC": "ad nauseam",
+      "optionD": "ad hoc",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) ad rem\n• 'Ad rem' ഒരു Latin phrase ആണ് — 'വിഷയത്തിലേക്ക്, കാര്യത്തിലേക്ക് നേരിട്ട്' എന്നർത്ഥം.\n• Latin 'ad' = 'ലേക്ക്', 'rem' = 'കാര്യം / വസ്തു' — 'to the thing' = to the point.\n• ഒരു മറുപടി ചുറ്റിത്തിരിയാതെ നേരിട്ട് വിഷയത്തിൽ ആണെങ്കിൽ അത് 'ad rem' ആണ്.\n• PSC-യിൽ 'ad' കുടുംബത്തിലെ Latin phrases-ൽ നിന്ന് ശരിയായത് തിരഞ്ഞെടുക്കാനാണ് ചോദ്യം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: AD REM = to the point (കാര്യത്തിലേക്ക് നേരിട്ട്).\n• 'Ad' കുടുംബം:\n• ad hoc = ഒരു പ്രത്യേക ആവശ്യത്തിന് മാത്രം | ad valorem = മൂല്യത്തിന് അനുസരിച്ച് (നികുതി) | ad nauseam = മടുപ്പ് തോന്നുന്നത്ര ആവർത്തിച്ച് | ad infinitum = അനന്തമായി | ad interim = താൽക്കാലികമായി.\n• Etymology hint: Latin 'res' (കാര്യം) → rem; ഇതിൽ നിന്നാണ് 'real', 'republic' (res publica = പൊതുകാര്യം) എന്നിവ വന്നത്.\n• ⭐ PSC ആവർത്തനം: ad hoc, ad valorem, ad rem, ad nauseam — ഈ നാലും PSC പല തവണ ചോദിച്ചിട്ടുണ്ട്!\n• ഉദാഹരണ sentences:\n1. His reply was brief and ad rem. (അവന്റെ മറുപടി ചുരുക്കവും കാര്യമാത്രപ്രസക്തവുമായിരുന്നു)\n2. An ad hoc committee was formed. (ഒരു താൽക്കാലിക പ്രത്യേക സമിതി രൂപീകരിച്ചു)\n3. He repeated the story ad nauseam. (അവൻ ആ കഥ മടുപ്പിക്കുംവിധം ആവർത്തിച്ചു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) ad valorem — 'വിലയ്ക്ക്/മൂല്യത്തിന് അനുസരിച്ച്' എന്നർത്ഥം; നികുതിയുമായി ബന്ധപ്പെട്ട പദം.\n• (C) ad nauseam — 'ഛർദ്ദി വരുംവരെ' — അതായത് മടുപ്പിക്കുന്ന അളവിൽ ആവർത്തിച്ച് എന്നർത്ഥം.\n• (D) ad hoc — 'ഈ ആവശ്യത്തിന് മാത്രം' എന്നർത്ഥം; താൽക്കാലിക സംവിധാനങ്ങൾക്ക് ഉപയോഗിക്കുന്നു.\n• 🪤 PSC Trap: നാല് options-ഉം 'ad'-ൽ തുടങ്ങുന്നതിനാൽ എല്ലാം ഒരുപോലെ തോന്നും — 'ad' കഴിഞ്ഞുള്ള വാക്കിന്റെ അർത്ഥമാണ് ശ്രദ്ധിക്കേണ്ടത്!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'REM = REMark to the point' — ad rem പറയുന്നയാൾ കാര്യം മാത്രം പറയും!\n• ഒരുമിച്ച് പഠിക്കുക: ad hoc (HOC = ഇതിന് മാത്രം), ad valorem (VALue), ad nauseam (NAUSEA = ഓക്കാനം), ad rem (REal point).\n• PSC strategy: Latin phrase ചോദ്യങ്ങളിൽ രണ്ടാമത്തെ വാക്കിൽ നിന്ന് പരിചിതമായ English വാക്ക് (value, nausea) കണ്ടെത്തി options വെട്ടുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "90-2017-M-Q87",
+      "paperId": "90-2017-M",
+      "questionNumber": 87,
+      "topic": "One Word Substitutes",
+      "questionText": "Find out the one word substitute for 'condole with'.",
+      "optionA": "commiserate",
+      "optionB": "unite",
+      "optionC": "communicate",
+      "optionD": "none of these",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) commiserate\n• 'Condole with' എന്നാൽ ഒരാളുടെ ദുഃഖത്തിൽ അനുശോചനം അറിയിക്കുക, സഹതാപം പ്രകടിപ്പിക്കുക.\n• 'Commiserate' എന്നതിനും അതേ അർത്ഥമാണ് — മറ്റൊരാളുടെ ദുഃഖത്തിൽ പങ്കുചേരുക.\n• Etymology: Latin 'com' (കൂടെ) + 'miserari' (ദുഃഖിക്കുക) = കൂടെ ദുഃഖിക്കുക.\n• 'misery' (ദുരിതം) എന്ന വാക്ക് ഇതിനുള്ളിൽ തന്നെ ഉണ്ട് — അർത്ഥം ഓർക്കാൻ എളുപ്പം!",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Condole with = Commiserate with = ദുഃഖത്തിൽ പങ്കുചേരുക.\n• 'Condolence' (അനുശോചനം) എന്ന noun ഇതിൽ നിന്നാണ്: 'a condolence message'.\n• ഇതേ കുടുംബം: sympathise, console, comfort.\n• Etymology hint: Latin 'com-' (കൂടെ) — compassion, companion, commiserate എല്ലാം 'കൂടെ' എന്ന അർത്ഥത്തിൽ തുടങ്ങുന്നു.\n• ⭐ PSC ആവർത്തനം: വികാര പ്രകടനവുമായി ബന്ധപ്പെട്ട one-word substitutes PSC ആവർത്തിച്ച് ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. We commiserated with him on his loss. (അവന്റെ നഷ്ടത്തിൽ ഞങ്ങൾ അനുശോചനം അറിയിച്ചു)\n2. Friends came to condole with the family. (കുടുംബത്തെ ആശ്വസിപ്പിക്കാൻ സുഹൃത്തുക്കൾ വന്നു)\n3. She commiserated with the losing team. (തോറ്റ ടീമിനോട് അവൾ സഹതാപം പ്രകടിപ്പിച്ചു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) unite — 'ഒന്നിപ്പിക്കുക, ഒരുമിക്കുക' എന്നർത്ഥം; ദുഃഖവുമായി ബന്ധമില്ല.\n• (C) communicate — 'ആശയവിനിമയം ചെയ്യുക' എന്നർത്ഥം; സഹതാപം എന്ന ഭാവമില്ല.\n• 🪤 PSC Trap: 'communicate'-ഉം 'commiserate'-ഉം 'comm-' എന്ന് തുടങ്ങുന്നതിനാൽ കാഴ്ചയിൽ ആശയക്കുഴപ്പം ഉണ്ടാക്കാനുള്ള കെണി!\n• (D) none of these — commiserate ശരിയായതിനാൽ ഇത് തെറ്റാണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'COM-MISER-ATE = കൂടെ MISERY പങ്കിടുക' — വാക്കിനുള്ളിൽ തന്നെ ദുഃഖം ഉണ്ട്!\n• ഒരുമിച്ച് പഠിക്കുക: condole, commiserate, console, sympathise, empathise.\n• PSC strategy: one-word substitute-ൽ വാക്കിനെ പിരിച്ചുനോക്കുക (com + miser) — root അർത്ഥം പലപ്പോഴും ഉത്തരം വെളിപ്പെടുത്തും. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "90-2017-M-Q88",
+      "paperId": "90-2017-M",
+      "questionNumber": 88,
+      "topic": "Words Often Confused",
+      "questionText": "R. K. Lakshman has ______ for drawing cartoons.",
+      "optionA": "flare",
+      "optionB": "flair",
+      "optionC": "fair",
+      "optionD": "fare",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) flair\n• 'Flair' എന്നാൽ ഒരു കാര്യത്തിലുള്ള സ്വാഭാവിക കഴിവ്, പ്രത്യേക വാസന (natural talent).\n• 'have a flair for' എന്നത് ഒരു fixed expression ആണ് — 'X-ൽ ജന്മസിദ്ധമായ കഴിവുണ്ട്'.\n• R. K. Lakshman പ്രശസ്തനായ കാർട്ടൂണിസ്റ്റ് ആണ് (The Common Man) — കാർട്ടൂൺ വരയ്ക്കാൻ അദ്ദേഹത്തിന് ജന്മസിദ്ധമായ കഴിവുണ്ടായിരുന്നു.\n• flair, flare, fair, fare — ഒരേ പോലെ ശബ്ദമുള്ള വാക്കുകളിൽ ശരിയായത് തിരിച്ചറിയുന്നതാണ് ചോദ്യം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: have a FLAIR for = ജന്മസിദ്ധമായ കഴിവ് | FLARE = പെട്ടെന്ന് ആളിക്കത്തുക.\n• flair (noun) = കഴിവ്, വാസന, ശൈലി.\n• flare (verb/noun) = തീ ആളിക്കത്തുക; കോപം/രോഗം പെട്ടെന്ന് കൂടുക (flare up).\n• fair = ന്യായമായ / വെളുത്ത നിറമുള്ള / മേള | fare = യാത്രാക്കൂലി / ഭക്ഷണം.\n• ⭐ PSC ആവർത്തനം: homophones (ഒരേ ശബ്ദം, വ്യത്യസ്ത അർത്ഥം) PSC-യുടെ സ്ഥിരം ഇനമാണ്.\n• ഉദാഹരണ sentences:\n1. She has a flair for languages. (അവൾക്ക് ഭാഷകളിൽ ജന്മസിദ്ധമായ കഴിവുണ്ട്)\n2. The fire flared up suddenly. (തീ പെട്ടെന്ന് ആളിക്കത്തി)\n3. The bus fare has increased. (ബസ് ചാർജ് കൂടി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) flare — 'തീ ആളിക്കത്തുക' എന്നർത്ഥം; കഴിവ് എന്ന അർത്ഥമില്ല.\n• 🪤 PSC Trap: flare-ഉം flair-ഉം ഒരേ പോലെയാണ് ഉച്ചരിക്കുന്നത് — spelling ശ്രദ്ധിക്കാത്തവരെ വീഴ്ത്താനുള്ള homophone കെണി!\n• (C) fair — 'ന്യായമായ, മേള' എന്നിങ്ങനെ അർത്ഥം; 'has fair for' എന്നത് അർത്ഥശൂന്യമാണ്.\n• (D) fare — 'യാത്രാക്കൂലി' എന്നർത്ഥം; ഇവിടെ ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'fl-AI-r-ൽ AI ഉണ്ട് — ബുദ്ധിയുള്ള കഴിവ്!' | 'fl-ARE — തീ ആളിക്കത്തുന്നത്'. ഒരേ ശബ്ദമാണെങ്കിലും spelling നോക്കി അർത്ഥം തിരിച്ചറിയാം.\n• ഒരുമിച്ച് പഠിക്കുക: flair/flare, fair/fare, stair/stare, pair/pear — PSC-യിലെ homophone ജോഡികൾ.\n• PSC strategy: 'has a ___ for' എന്ന ഘടന കണ്ടാൽ ഉടനെ flair എന്ന് ഉറപ്പിക്കുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "90-2017-M-Q89",
+      "paperId": "90-2017-M",
+      "questionNumber": 89,
+      "topic": "Spelling",
+      "questionText": "Identify the misspelt word.",
+      "optionA": "obsession",
+      "optionB": "discussion",
+      "optionC": "percussion",
+      "optionD": "consession",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) consession\n• ശരിയായ spelling 'concession' ആണ് — 'c' ഉപയോഗിച്ച്: con-ce-ssion.\n• 'Concession' എന്നാൽ ഇളവ്, വിട്ടുവീഴ്ച (ഉദാ: student concession = വിദ്യാർത്ഥികൾക്കുള്ള യാത്രാ ഇളവ്).\n• ഇത് 'concede' (വഴങ്ങുക, സമ്മതിക്കുക) എന്ന verb-ൽ നിന്നാണ് വരുന്നത് — concede-ൽ 'c' ഉള്ളതുകൊണ്ട് concession-ലും 'c' തന്നെ.\n• ബാക്കി മൂന്ന് വാക്കുകളും ശരിയായ spelling-ൽ ആണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Verb-ന്റെ spelling നോക്കുക — concede → conCession, obsess → obSession, discuss → discuSSion.\n• -cede verbs → -cession nouns: concede → concession, recede → recession, secede → secession.\n• -ss verbs → -ssion nouns: discuss → discussion, obsess → obsession.\n• അതായത്, noun-ന്റെ spelling ശരിയാക്കാൻ ആദ്യം അതിന്റെ മൂല verb ഏതാണെന്ന് ഓർക്കുക; verb-ൽ ഉള്ള അക്ഷരം തന്നെ noun-ലും നിലനിൽക്കും.\n• ⭐ PSC ആവർത്തനം: '-ssion / -cession / -tion' spelling ചോദ്യങ്ങൾ PSC സ്ഥിരമായി ചോദിക്കുന്നു.\n• Etymology hint: Latin 'cedere' (പോകുക, വഴിമാറുക) — concede, recede, proceed എല്ലാം ഈ കുടുംബം.\n• ഉദാഹരണ sentences:\n1. Students get a bus concession. (വിദ്യാർത്ഥികൾക്ക് ബസ് ഇളവ് ലഭിക്കും)\n2. We had a long discussion. (ഞങ്ങൾ നീണ്ട ചർച്ച നടത്തി)\n3. Cricket is his obsession. (ക്രിക്കറ്റ് അവന്റെ ഭ്രാന്താണ്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) obsession — ശരിയായ spelling ആണ്; 'ഒന്നിനോടുള്ള അമിതമായ ആസക്തി' എന്നർത്ഥം (obsess → obsession).\n• (B) discussion — ശരിയാണ്; 'ചർച്ച' എന്നർത്ഥം (discuss → discussion).\n• (C) percussion — ശരിയാണ്; 'തട്ടി ശബ്ദമുണ്ടാക്കുന്ന വാദ്യങ്ങൾ' (ചെണ്ട, മൃദംഗം) എന്നർത്ഥം.\n• 🪤 PSC Trap: നാലും '-ssion' പോലെ അവസാനിക്കുന്നതിനാൽ ഒറ്റനോട്ടത്തിൽ എല്ലാം ശരിയായി തോന്നും — തുടക്കഭാഗം (con-ce-) ആണ് ശ്രദ്ധിക്കേണ്ടത്!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'CONCEssion-ൽ CONCEde ഒളിച്ചിരിപ്പുണ്ട്' — verb ഓർത്താൽ spelling മറക്കില്ല!\n• ഒരുമിച്ച് പഠിക്കുക: concession, recession, procession, succession, accession — എല്ലാം 'c' + 'ssion'.\n• PSC strategy: misspelt word ചോദ്യത്തിൽ ഓരോ വാക്കിന്റെയും മൂല verb മനസ്സിൽ പറഞ്ഞുനോക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "90-2017-M-Q90",
+      "paperId": "90-2017-M",
+      "questionNumber": 90,
+      "topic": "Idioms",
+      "questionText": "Meaning of the idiom '__Hear it on the grapevine__'.",
+      "optionA": "over hear",
+      "optionB": "hear from a distance",
+      "optionC": "hear from a nearby place",
+      "optionD": "spread rumours",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) spread rumours\n• 'Grapevine' ഇവിടെ അനൗദ്യോഗികമായി, ആളുകൾ തമ്മിൽ വാമൊഴിയായി വാർത്ത പരക്കുന്ന വഴിയെ (rumour network) സൂചിപ്പിക്കുന്നു.\n• 'Hear it on the grapevine' = ഒരു വാർത്ത ഔദ്യോഗികമായല്ല, കേട്ടുകേൾവിയായി (rumour ആയി) അറിയുക.\n• PSC-യുടെ final key 'spread rumours' ആണ് — options-ൽ rumour/കേട്ടുകേൾവി എന്ന ആശയവുമായി ബന്ധമുള്ള ഏക option ഇതാണ്.\n• 📝 Note: കൃത്യമായി പറഞ്ഞാൽ idiom-ന്റെ അർത്ഥം 'കേട്ടുകേൾവിയിലൂടെ വാർത്ത അറിയുക' എന്നാണ്; options-ൽ ഏറ്റവും അടുത്തത് D ആയതിനാൽ PSC അത് സ്വീകരിച്ചു.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: On the grapevine = കേട്ടുകേൾവിയായി, അനൗദ്യോഗിക വഴിയിലൂടെ (rumour വഴി).\n• ഉത്ഭവം: അമേരിക്കയിലെ ആഭ്യന്തരയുദ്ധകാലത്ത്, മുന്തിരിവള്ളി പോലെ പിണഞ്ഞുകിടന്ന telegraph കമ്പികളെ 'grapevine telegraph' എന്ന് വിളിച്ചിരുന്നു — അതിലൂടെ വരുന്ന വാർത്തകൾ പലപ്പോഴും വിശ്വസിക്കാനാവാത്തവയായിരുന്നു.\n• സമാന idioms: a little bird told me (ആരോ രഹസ്യമായി പറഞ്ഞു), word of mouth (വാമൊഴി), spill the beans (രഹസ്യം പുറത്താക്കുക).\n• ⭐ PSC ആവർത്തനം: grapevine, spill the beans, let the cat out of the bag — വാർത്ത/രഹസ്യം സംബന്ധിച്ച idioms PSC പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. I heard it on the grapevine that he is leaving. (അവൻ പോവുകയാണെന്ന് ഞാൻ കേട്ടുകേൾവിയായി അറിഞ്ഞു)\n2. News of the transfer spread through the office grapevine. (സ്ഥലംമാറ്റ വാർത്ത ഓഫീസിൽ വാമൊഴിയായി പരന്നു)\n3. A little bird told me about your promotion. (നിന്റെ സ്ഥാനക്കയറ്റത്തെക്കുറിച്ച് ആരോ എന്നോട് രഹസ്യമായി പറഞ്ഞു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) over hear — 'മറ്റുള്ളവർ സംസാരിക്കുന്നത് അവിചാരിതമായി കേൾക്കുക' എന്നർത്ഥം; rumour എന്ന ആശയമില്ല.\n• 🪤 PSC Trap: 'hear' എന്ന വാക്ക് idiom-ലും ഉള്ളതിനാൽ overhear ശരിയെന്ന് തോന്നിപ്പിക്കുന്ന കെണി — idiom-ന്റെ അർത്ഥം വാക്കുകളുടെ അക്ഷരാർത്ഥമല്ല!\n• (B) hear from a distance — 'ദൂരെ നിന്ന് കേൾക്കുക' എന്ന അക്ഷരാർത്ഥം മാത്രം; idiom-ന്റെ ഭാവമല്ല.\n• (C) hear from a nearby place — 'മുന്തിരിവള്ളിക്ക് അടുത്ത് നിന്ന് കേട്ടു' എന്ന literal വ്യാഖ്യാനം; തെറ്റാണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'മുന്തിരിവള്ളി പോലെ വാർത്ത പടരുന്നു' — ഒരു വള്ളിയിൽ നിന്ന് അടുത്തതിലേക്ക്, ഒരാളിൽ നിന്ന് അടുത്തയാളിലേക്ക്!\n• ഒരുമിച്ച് പഠിക്കുക: on the grapevine, a little bird told me, word of mouth, spill the beans, let the cat out of the bag.\n• PSC strategy: idiom ചോദ്യത്തിൽ literal അർത്ഥമുള്ള options (hear from a distance, nearby place) ആദ്യം വെട്ടുക — figurative അർത്ഥമുള്ളത് ആണ് ശരി. guaranteed mark!"
+      }
+    }
+  ]
+}

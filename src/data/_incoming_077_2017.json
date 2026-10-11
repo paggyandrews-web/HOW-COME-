@@ -1,0 +1,373 @@
+{
+  "paper": {
+    "id": "77-2017-M",
+    "paperCode": "77/2017 M",
+    "post": "L.D Clerk - Various (Kollam, Thrissur, Kasaragod)",
+    "date": "01-Jul-2017",
+    "medium": "M",
+    "year": "2017",
+    "answerKeyStatus": "final"
+  },
+  "questions": [
+    {
+      "id": "77-2017-M-Q71",
+      "paperId": "77-2017-M",
+      "questionNumber": 71,
+      "topic": "Degrees of Comparison",
+      "questionText": "Convert into comparative degree:\nTagore is one of the greatest poets of modern India.",
+      "optionA": "Tagore is greater than any other poets of modern India",
+      "optionB": "Tagore is greater than many other poets of modern India",
+      "optionC": "Tagore is greater than many other poet of modern India",
+      "optionD": "Tagore is greater than any other poet of modern India",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) Tagore is greater than many other poets of modern India\n• 'One of the greatest' എന്നാൽ 'ഏറ്റവും മഹാന്മാരായ ചിലരിൽ ഒരാൾ' — ടാഗോർ മാത്രമാണ് ഏറ്റവും മഹാൻ എന്നല്ല അർത്ഥം.\n• അതുകൊണ്ട് comparative-ൽ 'any other' (മറ്റെല്ലാവരേക്കാളും) ഉപയോഗിക്കാനാവില്ല; 'many other / most other' ആണ് വേണ്ടത്.\n• 'many other'-ന് ശേഷം plural noun (poets) വേണം.\n• 'ആധുനിക ഇന്ത്യയിലെ മറ്റ് പല കവികളേക്കാളും ടാഗോർ മഹാനാണ്' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: ONE OF THE + superlative → comparative + than MANY / MOST OTHER + plural noun.\n• The + superlative (ഏക വ്യക്തി) → comparative + than ANY OTHER + singular noun.\n• ഉദാഹരണം: Ravi is the tallest boy → Ravi is taller than any other boy (ഒരാൾ മാത്രം).\n• Ravi is one of the tallest boys → Ravi is taller than most other boys (ചിലരിൽ ഒരാൾ).\n• ⭐ PSC ആവർത്തനം: 'one of the + superlative' degree മാറ്റം PSC-യുടെ ഏറ്റവും പ്രിയപ്പെട്ട കെണി ചോദ്യങ്ങളിൽ ഒന്നാണ്!\n• ഉദാഹരണ sentences:\n1. Mumbai is one of the largest cities. → Mumbai is larger than most other cities. (മറ്റ് മിക്ക നഗരങ്ങളേക്കാളും വലുത്)\n2. Gold is the costliest metal. → Gold is costlier than any other metal. (മറ്റേതൊരു ലോഹത്തേക്കാളും വിലയേറിയത്)\n3. He is one of the best players. → He is better than many other players. (മറ്റ് പല കളിക്കാരേക്കാളും മികച്ചവൻ)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) any other poets — 'any other' ഒറ്റ ഏറ്റവും മഹാനെ കാണിക്കുന്നു; കൂടാതെ 'any other'-ന് ശേഷം singular വേണം — രണ്ട് തെറ്റുകൾ.\n• (C) many other poet — 'many'-ക്ക് ശേഷം singular noun (poet) വ്യാകരണപരമായി തെറ്റാണ്.\n• (D) any other poet — ഘടന ശരിയാണ്, പക്ഷേ അർത്ഥം മാറി: 'ടാഗോർ ആണ് ഏറ്റവും മഹാൻ' എന്നാകും — 'one of' എന്ന ഭാവം നഷ്ടപ്പെട്ടു.\n• 🪤 PSC Trap: option D വ്യാകരണപരമായി ശരിയായി തോന്നും — പക്ഷേ 'one of the greatest' എന്നതിന്റെ അർത്ഥം മാറ്റുന്നു!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ONE OF = പലരിൽ ഒരാൾ → MANY OTHER' | 'THE -EST = ഒരേ ഒരാൾ → ANY OTHER'!\n• ഒരുമിച്ച് പഠിക്കുക: any other + singular (ഏക വിജയി), most / many other + plural (വിജയികളിൽ ഒരാൾ), no other + singular (positive degree-ലേക്ക്).\n• PSC strategy: ചോദ്യത്തിൽ 'one of' കണ്ടാൽ 'any other' ഉള്ള options ഉടനെ വെട്ടുക — പിന്നെ plural noun ഉള്ളത് തിരഞ്ഞെടുക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "77-2017-M-Q72",
+      "paperId": "77-2017-M",
+      "questionNumber": 72,
+      "topic": "Question Tags",
+      "questionText": "Add proper tag question:\nEvery adult has the right to marry, ______?",
+      "optionA": "hasn't they",
+      "optionB": "doesn't they",
+      "optionC": "haven't they",
+      "optionD": "don't they",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) haven't they\n• 'Every adult' (ഓരോ മുതിർന്നയാളും) — everybody / everyone പോലെ, tag-ൽ pronoun 'they' ആണ്.\n• വാക്യത്തിൽ 'has' ഉള്ളതിനാൽ tag-ൽ അതേ verb നിലനിർത്തുന്നു; 'they'-ക്ക് ചേരുന്ന രൂപം 'have' → haven't they.\n• വാക്യം positive ആയതിനാൽ tag negative.\n• 📝 Note: ഇവിടെ 'has' ഉടമസ്ഥത (have = ഉണ്ട്) കാണിക്കുന്ന main verb ആണ് — British English-ൽ അതിന് 'haven't' tag സ്വീകാര്യമാണ്; American English-ൽ 'don't they' എന്നും കാണാം. PSC key (C) ആണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Every + noun / Everybody / Everyone → tag-ൽ 'they' + plural auxiliary.\n• Positive statement → Negative tag | Negative statement → Positive tag.\n• 'they' വന്നാൽ has → have, does → do, is → are എന്നിങ്ങനെ plural രൂപം വേണം.\n• 'hasn't they', 'doesn't they' — singular verb + they എന്ന ചേരാത്ത ജോഡി.\n• ⭐ PSC ആവർത്തനം: Every / Everybody ഉള്ള question tag PSC-യിൽ വീണ്ടും വീണ്ടും വരുന്നു!\n• ഉദാഹരണ sentences:\n1. Everyone has a pen, haven't they? (എല്ലാവർക്കും പേനയുണ്ട്, അല്ലേ?)\n2. Every student has passed, haven't they? (എല്ലാ വിദ്യാർത്ഥികളും ജയിച്ചു, അല്ലേ?)\n3. Everybody likes music, don't they? (എല്ലാവർക്കും സംഗീതം ഇഷ്ടമാണ്, അല്ലേ?)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) hasn't they — 'they'-ക്ക് 'has' ചേരില്ല; വ്യാകരണപരമായി തെറ്റായ ജോഡി.\n• 🪤 PSC Trap: വാക്യത്തിൽ 'has' ഉള്ളതുകൊണ്ട് 'hasn't' ഇടാൻ തോന്നും — പക്ഷേ pronoun 'they' ആയതിനാൽ haven't വേണം!\n• (B) doesn't they — 'they'-ക്ക് 'does' ചേരില്ല; ഇതും singular-plural പൊരുത്തക്കേട്.\n• (D) don't they — American ശൈലിയിൽ കേൾക്കാമെങ്കിലും PSC key അത് സ്വീകരിച്ചില്ല; വാക്യത്തിലെ verb 'has' ആയതിനാൽ PSC 'haven't' തിരഞ്ഞെടുത്തു.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'EVERY = എല്ലാവരും = THEY — they-ക്ക് കൂട്ട് HAVE, ഒരിക്കലും HAS അല്ല!'\n• ഒരുമിച്ച് പഠിക്കുക: every, everybody, everyone, somebody, nobody → tag-ൽ they.\n• PSC strategy: tag-ലെ pronoun 'they' ആണെങ്കിൽ has / does / is ഉള്ള options ഉടനെ വെട്ടുക; ബാക്കിയുള്ളവയിൽ വാക്യത്തിലെ verb-മായി ചേരുന്നത് തിരഞ്ഞെടുക്കുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "77-2017-M-Q73",
+      "paperId": "77-2017-M",
+      "questionNumber": 73,
+      "topic": "Conditionals",
+      "questionText": "If you ______, I would have trained you.",
+      "optionA": "wanted",
+      "optionB": "wants",
+      "optionC": "will want",
+      "optionD": "had wanted",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) had wanted\n• Main clause-ൽ 'would have trained' (would have + V3) ഉണ്ട് — ഇത് third conditional ആണ്.\n• Third conditional-ന്റെ if-clause-ൽ 'had + V3' വേണം — had wanted.\n• കഴിഞ്ഞുപോയ, നടക്കാതെ പോയ ഒരു സാഹചര്യത്തെക്കുറിച്ചുള്ള സങ്കൽപ്പമാണിത്.\n• 'നീ ആഗ്രഹിച്ചിരുന്നെങ്കിൽ, ഞാൻ നിന്നെ പരിശീലിപ്പിക്കുമായിരുന്നു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: If + had + V3 → would have + V3 (Third Conditional).\n• First: If + present → will + V1 | Second: If + past → would + V1 | Third: If + had + V3 → would have + V3.\n• If-clause-ൽ 'will' / 'would' ഒരിക്കലും വരില്ല.\n• ⭐ PSC ആവർത്തനം: main clause തന്ന് if-clause പൂരിപ്പിക്കുന്ന third conditional ചോദ്യം PSC-യിൽ വളരെ സാധാരണമാണ്.\n• ഉദാഹരണ sentences:\n1. If you had asked, I would have helped. (നീ ചോദിച്ചിരുന്നെങ്കിൽ ഞാൻ സഹായിക്കുമായിരുന്നു)\n2. If she had come, we would have gone together. (അവൾ വന്നിരുന്നെങ്കിൽ ഞങ്ങൾ ഒരുമിച്ച് പോകുമായിരുന്നു)\n3. If it had rained, the crops would have survived. (മഴ പെയ്തിരുന്നെങ്കിൽ വിളകൾ രക്ഷപ്പെടുമായിരുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) wanted — simple past; second conditional-ന്റേതാണ് (would + V1), would have-നൊപ്പം ചേരില്ല.\n• 🪤 PSC Trap: 'wanted' past tense ആയതിനാൽ past സന്ദർഭത്തിന് ചേരുമെന്ന് തോന്നിപ്പിക്കുന്ന കെണി — would HAVE ഉള്ളപ്പോൾ HAD നിർബന്ധം!\n• (B) wants — simple present; first conditional-ന്റേതാണ്, 'you'-ക്ക് wants ചേരുകയുമില്ല.\n• (C) will want — if-clause-ൽ 'will' ഉപയോഗിക്കാറില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'WOULD HAVE ഒരു ഭാഗത്ത്, HAD മറുഭാഗത്ത് — HAVE-ഉം HAD-ഉം ഒരു കുടുംബം!'\n• ഒരുമിച്ച് പഠിക്കുക: had wanted → would have trained, had known → would have told, had seen → would have stopped.\n• PSC strategy: main clause-ൽ would have കണ്ടാൽ options-ൽ 'had' ഉള്ളത് മാത്രം നോക്കുക — ബാക്കി എല്ലാം വെട്ടുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "77-2017-M-Q74",
+      "paperId": "77-2017-M",
+      "questionNumber": 74,
+      "topic": "Prepositions",
+      "questionText": "I met him ______ my uncle's home.",
+      "optionA": "at",
+      "optionB": "in",
+      "optionC": "to",
+      "optionD": "of",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) at\n• ഒരു പ്രത്യേക സ്ഥലം / ഇടം (point of location) കാണിക്കുമ്പോൾ 'at' ഉപയോഗിക്കുന്നു — at home, at school, at the station.\n• 'my uncle's home' ഒരു കണ്ടുമുട്ടൽ നടന്ന സ്ഥലമാണ് — at my uncle's home.\n• 'അമ്മാവന്റെ വീട്ടിൽ വച്ച് ഞാൻ അവനെ കണ്ടു' എന്നർത്ഥം.\n• 'met' (കണ്ടുമുട്ടി) പോലുള്ള സംഭവങ്ങൾ നടന്ന സ്ഥലം പറയുമ്പോൾ 'at' ഏറ്റവും സ്വാഭാവികം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: AT = ഒരു പ്രത്യേക സ്ഥലം (point) | IN = ഉള്ളിൽ / വലിയ പ്രദേശം (enclosed space / city).\n• at home, at the office, at the bus stop, at my friend's house.\n• in the room, in Kerala, in the box, in the garden.\n• 'to' ചലനം / ദിശ കാണിക്കുന്നു (go to school); 'of' ഉടമസ്ഥത കാണിക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: at / in വ്യത്യാസം PSC preposition ചോദ്യങ്ങളിലെ ഏറ്റവും സാധാരണ ഇനമാണ്.\n• ഉദാഹരണ sentences:\n1. She is at home now. (അവൾ ഇപ്പോൾ വീട്ടിലുണ്ട്)\n2. We met at the railway station. (ഞങ്ങൾ റെയിൽവേ സ്റ്റേഷനിൽ വച്ച് കണ്ടുമുട്ടി)\n3. He lives in Kochi. (അവൻ കൊച്ചിയിലാണ് താമസം)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) in — 'വീടിന്റെ ഉള്ളിൽ' എന്ന് പ്രത്യേകം ഊന്നുമ്പോൾ മാത്രം; കണ്ടുമുട്ടിയ സ്ഥലം പറയുമ്പോൾ 'at' ആണ് സ്വാഭാവികം.\n• 🪤 PSC Trap: മലയാളത്തിലെ 'വീട്ടിൽ' എന്നതിലെ 'ഇൽ' കണ്ട് 'in' ഇടാൻ തോന്നിപ്പിക്കുന്ന കെണി!\n• (C) to — ചലനത്തിന്റെ ദിശ കാണിക്കുന്നു (went to); 'met to' തെറ്റാണ്.\n• (D) of — ഉടമസ്ഥത കാണിക്കുന്നു; 'met him of my uncle's home' അർത്ഥശൂന്യമാണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'AT = മാപ്പിലെ ഒരു പിൻ (📍) | IN = ഒരു പെട്ടിക്കുള്ളിൽ (📦)'!\n• ഒരുമിച്ച് പഠിക്കുക: at home, at school, at work, at the door, at a party — സംഭവസ്ഥലങ്ങൾ.\n• PSC strategy: 'meet / wait / stay' പോലുള്ള verbs-ന് ശേഷം ഒരു പ്രത്യേക സ്ഥലം വന്നാൽ 'at' ആദ്യം പരിഗണിക്കുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "77-2017-M-Q75",
+      "paperId": "77-2017-M",
+      "questionNumber": 75,
+      "topic": "Direct and Indirect Speech",
+      "questionText": "Change into reported speech:\n\"Have you read 'Othello'?\" The teacher asked me.",
+      "optionA": "The teacher asked me whether I read 'Othello'",
+      "optionB": "The teacher asked whether I would read 'Othello'",
+      "optionC": "The teacher asked that I read 'Othello'",
+      "optionD": "The teacher asked me whether I had read 'Othello'",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) The teacher asked me whether I had read 'Othello'\n• 'Have you read...?' ഒരു Yes/No question ആണ് — indirect-ൽ 'if / whether' ഉപയോഗിക്കുന്നു.\n• Reporting verb 'asked' past ആയതിനാൽ tense backshift: have read (present perfect) → had read (past perfect).\n• 'you' → 'I' (കേൾക്കുന്നയാൾ ഞാൻ തന്നെ).\n• ക്രമം statement ആകുന്നു: whether + I + had read.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Yes/No question → asked + IF / WHETHER + subject + verb (backshift).\n• Backshift പട്ടിക: present perfect (have read) → past perfect (had read) | simple present → simple past | will → would.\n• Wh-question-ൽ (what, where) Wh-word തന്നെ connective; Yes/No question-ൽ if / whether.\n• 'that' ഉപയോഗിക്കുന്നത് statement-കൾക്ക് മാത്രം, ചോദ്യങ്ങൾക്ക് അല്ല.\n• ⭐ PSC ആവർത്തനം: present perfect → past perfect backshift PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. He asked me if I had seen the film. (ഞാൻ ആ സിനിമ കണ്ടിട്ടുണ്ടോ എന്ന് അവൻ ചോദിച്ചു)\n2. She asked whether I was ready. (ഞാൻ തയ്യാറാണോ എന്ന് അവൾ ചോദിച്ചു)\n3. Mother asked if I had eaten. (ഞാൻ കഴിച്ചോ എന്ന് അമ്മ ചോദിച്ചു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) whether I read — present perfect-ന്റെ backshift past perfect ആണ്; 'read' (simple past) പൂർണ്ണമായ backshift അല്ല.\n• 🪤 PSC Trap: 'read' എന്നത് present-ഉം past-ഉം ഒരേ spelling ആയതിനാൽ ശരിയെന്ന് തോന്നും — പക്ഷേ 'had' വിട്ടുപോയി!\n• (B) whether I would read — 'would' ഭാവിയെ സൂചിപ്പിക്കുന്നു; 'വായിച്ചിട്ടുണ്ടോ' എന്ന അർത്ഥം നഷ്ടപ്പെട്ടു.\n• (C) asked that I read — ചോദ്യത്തിന് 'that' ഉപയോഗിക്കാറില്ല; അർത്ഥം 'വായിക്കാൻ ആവശ്യപ്പെട്ടു' എന്നാകും.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'HAVE കേട്ടാൽ HAD ആക്കുക — ഒരു പടി പിന്നോട്ട്!' (have → had, has → had).\n• ഒരുമിച്ച് പഠിക്കുക: Yes/No question → if/whether, Wh-question → Wh-word, statement → that, command → to + V1.\n• PSC strategy: ചോദ്യം 'Have / Do / Is / Can' കൊണ്ട് തുടങ്ങിയാൽ whether / if ഉള്ള options മാത്രം നോക്കുക, പിന്നെ ശരിയായ backshift. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "77-2017-M-Q76",
+      "paperId": "77-2017-M",
+      "questionNumber": 76,
+      "topic": "Active and Passive Voice",
+      "questionText": "Change into passive voice:\nHe will certainly help the poor boy.",
+      "optionA": "The poor boy will helped by him",
+      "optionB": "The poor boy will be helped by him",
+      "optionC": "The poor boy will have helped by him",
+      "optionD": "The poor boy would be helped by him",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) The poor boy will be helped by him\n• 'will help' = simple future tense.\n• Simple future passive: will + be + V3 → will be helped.\n• Object (the poor boy) subject ആകുന്നു; 'He' → 'by him'.\n• 'ആ പാവപ്പെട്ട കുട്ടി അവനാൽ സഹായിക്കപ്പെടും' എന്നർത്ഥം (certainly passive-ൽ ഐച്ഛികമാണ്).",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: will + V1 → will BE + V3 (Simple Future Passive).\n• Modal passive: can / may / must / should + be + V3.\n• Active-ലെ tense = Passive-ലെ tense — will, would ആകരുത്!\n• Pronoun മാറ്റം: he → him, she → her, they → them, I → me.\n• ⭐ PSC ആവർത്തനം: 'be' വിട്ടുപോയ option ആണ് future passive ചോദ്യങ്ങളിലെ PSC-യുടെ സ്ഥിരം കെണി!\n• ഉദാഹരണ sentences:\n1. The work will be finished tomorrow. (ജോലി നാളെ പൂർത്തിയാക്കപ്പെടും)\n2. A new bridge will be built here. (ഇവിടെ ഒരു പുതിയ പാലം നിർമ്മിക്കപ്പെടും)\n3. The letter must be posted today. (കത്ത് ഇന്ന് തന്നെ അയയ്ക്കണം)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) will helped — 'be' വിട്ടുപോയി; 'will'-ന് ശേഷം നേരിട്ട് V3 വരില്ല.\n• 🪤 PSC Trap: ഏറ്റവും ചെറിയ വ്യത്യാസം (be ഇല്ല) — ധൃതിയിൽ വായിക്കുന്നവർ വീഴും!\n• (C) will have helped — future perfect active ആണ്; passive അല്ല, tense-ഉം മാറി.\n• (D) would be helped — 'will' 'would' ആയി മാറി; tense മാറ്റം അനുവദനീയമല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'WILL-ന് പിന്നാലെ BE വരണം — will BE helped, will BE done, will BE sent!'\n• ഒരുമിച്ച് പഠിക്കുക: will help → will be helped, can help → can be helped, must help → must be helped.\n• PSC strategy: modal-ന് ശേഷം 'be + V3' ഉണ്ടോ എന്ന് നോക്കുക; modal മാറിയ options (will → would) ഉടനെ വെട്ടുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "77-2017-M-Q77",
+      "paperId": "77-2017-M",
+      "questionNumber": 77,
+      "topic": "Correction of Sentences",
+      "questionText": "Find the part that has an error:\nOf the two (a) / pens, the red (b) / one is (c) / the best (d).",
+      "optionA": "(a)",
+      "optionB": "(c)",
+      "optionC": "(b)",
+      "optionD": "(d)",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) (d)\n• 'Of the two pens' — രണ്ട് വസ്തുക്കളെ മാത്രമാണ് താരതമ്യം ചെയ്യുന്നത്.\n• രണ്ടെണ്ണം തമ്മിലുള്ള താരതമ്യത്തിന് comparative degree വേണം — 'the better', superlative 'the best' അല്ല.\n• ശരിയായ വാക്യം: Of the two pens, the red one is the better.\n• 'രണ്ട് പേനകളിൽ ചുവന്നതാണ് മെച്ചം' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: രണ്ടെണ്ണം (of the two) → THE + comparative | മൂന്നോ അതിലധികമോ → THE + superlative.\n• 'Of the two' ഉള്ളപ്പോൾ comparative-ന് മുമ്പ് 'the' വരുന്നു — ഇത് ഒരു പ്രത്യേക നിയമമാണ്.\n• Of the two brothers, Ravi is the taller. | Of all the brothers, Ravi is the tallest.\n• ⭐ PSC ആവർത്തനം: 'of the two + superlative' തെറ്റ് PSC error-spotting ചോദ്യങ്ങളിലെ സ്ഥിരം ഇനമാണ്!\n• ഉദാഹരണ sentences:\n1. Of the two sisters, Meera is the elder. (രണ്ട് സഹോദരിമാരിൽ മീരയാണ് മൂത്തത്)\n2. She is the better of the two players. (രണ്ട് കളിക്കാരിൽ അവളാണ് മെച്ചം)\n3. He is the best student in the class. (ക്ലാസ്സിലെ ഏറ്റവും മികച്ച വിദ്യാർത്ഥി അവനാണ് — പലരിൽ)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) (a) 'Of the two' — ശരിയായ ഭാഗമാണ്; താരതമ്യത്തിന്റെ അടിസ്ഥാനം ഇത് തന്നെ.\n• (C) (b) 'pens, the red' — ശരിയാണ്; plural noun-ഉം article-ഉം ശരിയായ സ്ഥാനത്ത്.\n• (B) (c) 'one is' — ശരിയാണ്; 'one' singular ആയതിനാൽ 'is' ചേരും.\n• 🪤 PSC Trap: 'the best' കേൾക്കാൻ വളരെ സ്വാഭാവികമായതിനാൽ തെറ്റ് മറ്റെവിടെയോ ആണെന്ന് തോന്നിപ്പിക്കുന്ന കെണി — 'two' എന്ന വാക്കാണ് സൂചന!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'TWO-ന് -ER, ഒരുപാട് പേർക്ക് -EST' — രണ്ടിൽ better, എല്ലാവരിലും best!\n• ഒരുമിച്ച് പഠിക്കുക: the better of the two, the elder of the two, the taller of the two — ഈ ഘടനയിൽ comparative-ന് മുമ്പ് 'the' വരുന്നു.\n• PSC strategy: error ചോദ്യത്തിൽ 'two / both / between' കണ്ടാൽ superlative ഉള്ള ഭാഗം ഉടനെ സംശയിക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "77-2017-M-Q78",
+      "paperId": "77-2017-M",
+      "questionNumber": 78,
+      "topic": "Spelling",
+      "questionText": "Pick out the correctly spelt word:",
+      "optionA": "anaesthesia",
+      "optionB": "anaethesia",
+      "optionC": "anesthesia",
+      "optionD": "anasthaesia",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) anaesthesia\n• ശരിയായ British spelling: A-N-A-E-S-T-H-E-S-I-A (an-aes-the-sia).\n• 'Anaesthesia' എന്നാൽ ശസ്ത്രക്രിയക്ക് മുമ്പ് വേദന അറിയാതിരിക്കാൻ നൽകുന്ന ബോധം കെടുത്തൽ / മരവിപ്പിക്കൽ.\n• Greek 'an' (ഇല്ല) + 'aisthesis' (സംവേദനം / അനുഭവം) = സംവേദനം ഇല്ലാത്ത അവസ്ഥ.\n• 📝 Note: 'anesthesia' (C) American spelling ആണ്; PSC British spelling ആയ (A) ആണ് ശരിയുത്തരമായി സ്വീകരിച്ചത്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: AN + AES + THESIA — 'aes' ഭാഗത്ത് A-E ഒരുമിച്ച്!\n• British 'ae' → American 'e': anaesthesia / anesthesia, paediatric / pediatric, haemoglobin / hemoglobin.\n• Kerala PSC സാധാരണയായി British spelling ആണ് പിന്തുടരുന്നത്.\n• ഇതേ root: aesthetic (സൗന്ദര്യബോധമുള്ള), anaesthetist (anaesthesia നൽകുന്ന ഡോക്ടർ).\n• ⭐ PSC ആവർത്തനം: വൈദ്യശാസ്ത്ര വാക്കുകളുടെ spelling (anaesthesia, diarrhoea, haemorrhage) PSC ഇടയ്ക്കിടെ ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. The patient was given anaesthesia. (രോഗിക്ക് അനസ്തേഷ്യ നൽകി)\n2. The anaesthetist checked his pulse. (അനസ്തേഷ്യ ഡോക്ടർ അവന്റെ നാഡി പരിശോധിച്ചു)\n3. Local anaesthesia numbs only one part. (ലോക്കൽ അനസ്തേഷ്യ ഒരു ഭാഗം മാത്രം മരവിപ്പിക്കുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) anaethesia — 's' വിട്ടുപോയി (aes → ae); തെറ്റായ spelling.\n• (C) anesthesia — American spelling; British ശൈലി പിന്തുടരുന്ന PSC ഇത് ശരിയുത്തരമായി സ്വീകരിച്ചില്ല.\n• 🪤 PSC Trap: American spelling ശരിയായ വാക്കായതിനാൽ ആശയക്കുഴപ്പം ഉണ്ടാക്കും — PSC-യിൽ British spelling-ന് മുൻഗണന!\n• (D) anasthaesia — 'aes' തെറ്റായ സ്ഥാനത്ത്; 'thae' എന്നത് തെറ്റാണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'AN-AES-THESIA = AN (ഇല്ല) + AESTHETIC (അനുഭവം)' — aesthetic-ലെ 'aes' അതേപടി!\n• ഒരുമിച്ച് പഠിക്കുക: anaesthesia, aesthetic, haemoglobin, paediatric, diarrhoea — British 'ae / oe' വാക്കുകൾ.\n• PSC strategy: രണ്ട് spelling-ഉം ശരിയായി തോന്നിയാൽ British രൂപം (ae, our, ise) തിരഞ്ഞെടുക്കുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "77-2017-M-Q79",
+      "paperId": "77-2017-M",
+      "questionNumber": 79,
+      "topic": "Idioms",
+      "questionText": "The idiom '__Swan song__' means:",
+      "optionA": "A musical performance",
+      "optionB": "The last public performance of an artist or athlete",
+      "optionC": "Song of a swan",
+      "optionD": "First public performance of an artist or athlete",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) The last public performance of an artist or athlete\n• 'Swan song' = ഒരു കലാകാരന്റെയോ കായികതാരത്തിന്റെയോ അവസാന പ്രകടനം / അവസാന സൃഷ്ടി.\n• പഴയ ഐതിഹ്യപ്രകാരം അരയന്നം (swan) ജീവിതകാലം മുഴുവൻ മൂകമായിരുന്ന ശേഷം മരിക്കുന്നതിന് തൊട്ടുമുമ്പ് മനോഹരമായി പാടുന്നു.\n• അതിൽ നിന്നാണ് 'അവസാന പ്രകടനം' എന്ന അർത്ഥം വന്നത്.\n• ഉദാഹരണം: ഒരു ക്രിക്കറ്റ് താരത്തിന്റെ വിരമിക്കൽ മത്സരം അവന്റെ swan song ആണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Swan song = അവസാന പ്രകടനം / അവസാന സൃഷ്ടി (final performance).\n• സമാന idioms: curtain call (വേദിയിലെ അവസാന വന്ദനം), hang up one's boots (വിരമിക്കുക), last hurrah (അവസാന ശ്രമം).\n• Idiom-ന്റെ അർത്ഥം literal അല്ല — 'അരയന്നത്തിന്റെ പാട്ട്' എന്നല്ല.\n• ⭐ PSC ആവർത്തനം: 'swan song', 'maiden speech', 'white elephant' പോലുള്ള idioms PSC പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. The final match was Sachin's swan song. (അവസാന മത്സരം സച്ചിന്റെ വിടവാങ്ങൽ പ്രകടനമായിരുന്നു)\n2. This novel was the writer's swan song. (ഈ നോവൽ എഴുത്തുകാരന്റെ അവസാന കൃതിയായിരുന്നു)\n3. He made his maiden speech in Parliament. (അവൻ പാർലമെന്റിൽ കന്നിപ്രസംഗം നടത്തി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) A musical performance — 'song' എന്ന വാക്ക് കണ്ട് ഊഹിക്കുന്ന പൊതു അർത്ഥം; idiom-ന്റെ 'അവസാനം' എന്ന ഭാവം ഇല്ല.\n• (C) Song of a swan — literal അർത്ഥം മാത്രം.\n• 🪤 PSC Trap: വാക്കുകളുടെ നേർ വിവർത്തനം (അരയന്നത്തിന്റെ പാട്ട്) കൊണ്ട് വീഴ്ത്താനുള്ള ക്ലാസിക് literal കെണി!\n• (D) First public performance — നേർ വിപരീതം; ആദ്യ പ്രകടനത്തിന് 'debut' / 'maiden performance' എന്നാണ് പറയുക.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'അരയന്നം മരണത്തിന് മുമ്പ് ഒരിക്കൽ മാത്രം പാടുന്നു — അതാണ് അവസാന പാട്ട്!'\n• ഒരുമിച്ച് പഠിക്കുക: swan song (അവസാനം) ↔ maiden speech / debut (ആദ്യം) — ഈ ജോഡി ഒരുമിച്ച് പഠിക്കുക.\n• PSC strategy: First / Last എന്ന് വിപരീത options കണ്ടാൽ idiom-ന്റെ കഥ ഓർക്കുക — അരയന്നം = അവസാനം. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "77-2017-M-Q80",
+      "paperId": "77-2017-M",
+      "questionNumber": 80,
+      "topic": "Synonyms",
+      "questionText": "Synonym of '__dismal__':",
+      "optionA": "Cheerful",
+      "optionB": "Happy",
+      "optionC": "Gloomy",
+      "optionD": "Thoughtful",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) Gloomy\n• 'Dismal' എന്നാൽ ഇരുണ്ട, മ്ലാനമായ, നിരാശാജനകമായ, ദുഃഖം നിറഞ്ഞ.\n• 'Gloomy' എന്നതിനും അതേ അർത്ഥം — ഇരുണ്ടതും വിഷാദം നിറഞ്ഞതും.\n• ഉദാഹരണം: മഴക്കാറുള്ള ഇരുണ്ട ദിവസം — a dismal / gloomy day.\n• Etymology: Latin 'dies mali' = ചീത്ത ദിവസങ്ങൾ (dismal days) — അശുഭ ദിവസങ്ങൾ.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Dismal = Gloomy = Dreary = Depressing (മ്ലാനം).\n• Antonyms: cheerful, bright, happy, joyful.\n• 'Dismal performance' = വളരെ മോശം പ്രകടനം (പരീക്ഷാഫലം, കളി).\n• Etymology hint: Latin 'dies mali' — 'mal' (ചീത്ത) എന്ന root malice, malnutrition എന്നിവയിലും ഉണ്ട്.\n• ⭐ PSC ആവർത്തനം: synonym ചോദ്യത്തിൽ antonyms (cheerful, happy) ഒന്നിലധികം options ആയി ഇടുന്നത് PSC-യുടെ രീതിയാണ്.\n• ഉദാഹരണ sentences:\n1. It was a dismal, rainy evening. (അത് ഇരുണ്ട, മഴയുള്ള ഒരു സന്ധ്യയായിരുന്നു)\n2. The team's performance was dismal. (ടീമിന്റെ പ്രകടനം വളരെ മോശമായിരുന്നു)\n3. He looked gloomy after the news. (വാർത്ത കേട്ടതിനു ശേഷം അവൻ മ്ലാനനായി കാണപ്പെട്ടു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Cheerful — 'സന്തോഷമുള്ള, ഉത്സാഹമുള്ള' — ഇത് dismal-ന്റെ opposite ആണ്!\n• (B) Happy — 'സന്തോഷമുള്ള' — ഇതും antonym ആണ്.\n• 🪤 PSC Trap: synonym ചോദിക്കുമ്പോൾ രണ്ട് antonyms ഇട്ട് ആശയക്കുഴപ്പം ഉണ്ടാക്കുന്ന കെണി — 'synonym' എന്ന വാക്ക് ഉറപ്പിക്കുക!\n• (D) Thoughtful — 'ചിന്താശീലമുള്ള, കരുതലുള്ള' എന്നർത്ഥം; ദുഃഖമെന്ന ഭാവം ഇല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'DISMAL = DISmal DAY — മഴക്കാറ് മൂടിയ ഇരുണ്ട ദിവസം!'\n• ഒരുമിച്ച് പഠിക്കുക: dismal / gloomy / dreary / bleak / sombre (മ്ലാനം) ↔ cheerful / bright / sunny (പ്രസന്നം).\n• PSC strategy: options-ൽ ഒരേ അർത്ഥമുള്ള രണ്ടെണ്ണം (cheerful, happy) കണ്ടാൽ അവ രണ്ടും ശരിയാകില്ല — ഒരുമിച്ച് വെട്ടുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "77-2017-M-Q81",
+      "paperId": "77-2017-M",
+      "questionNumber": 81,
+      "topic": "One Word Substitutes",
+      "questionText": "Pick out the one word for — a secret arrangement:",
+      "optionA": "Collision",
+      "optionB": "Coagulation",
+      "optionC": "Collusion",
+      "optionD": "Coalition",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) Collusion\n• 'Collusion' എന്നാൽ (സാധാരണ തെറ്റായ ഉദ്ദേശ്യത്തോടെ) രഹസ്യമായി ഉണ്ടാക്കുന്ന ഒത്തുകളി / ഗൂഢ ധാരണ.\n• Latin 'com' (കൂടെ) + 'ludere' (കളിക്കുക) = ഒരുമിച്ച് കളിക്കുക → ഒത്തുകളി.\n• ഉദാഹരണം: ടെൻഡർ നടപടികളിൽ കമ്പനികൾ തമ്മിലുള്ള രഹസ്യ ഒത്തുകളി.\n• Verb രൂപം: collude (ഒത്തുകളിക്കുക).",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Collusion = രഹസ്യ ഒത്തുകളി | Collision = കൂട്ടിയിടി.\n• Co- വാക്കുകൾ: coalition (സഖ്യം — പരസ്യമായ കൂട്ടുകെട്ട്), coagulation (രക്തം കട്ടപിടിക്കൽ), cooperation (സഹകരണം).\n• Etymology hint: 'ludere' (കളിക്കുക) — ludicrous (പരിഹാസ്യമായ), prelude (ആമുഖം) എന്നിവയിലും ഈ root ഉണ്ട്.\n• ⭐ PSC ആവർത്തനം: collusion / collision പോലുള്ള കാഴ്ചയിൽ സമാനമായ വാക്കുകൾ PSC പതിവായി ഉപയോഗിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. The officials acted in collusion with the contractors. (ഉദ്യോഗസ്ഥർ കരാറുകാരുമായി ഒത്തുകളിച്ചു)\n2. Two buses were damaged in the collision. (കൂട്ടിയിടിയിൽ രണ്ട് ബസുകൾക്ക് കേടുപാട് പറ്റി)\n3. The parties formed a coalition government. (പാർട്ടികൾ ചേർന്ന് സഖ്യസർക്കാർ രൂപീകരിച്ചു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Collision — 'കൂട്ടിയിടി' (വാഹനങ്ങൾ തമ്മിൽ) എന്നർത്ഥം.\n• 🪤 PSC Trap: collision-ഉം collusion-ഉം ഒരു അക്ഷരം (i / u) മാത്രം വ്യത്യാസം — ധൃതിയിൽ വായിക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണി!\n• (B) Coagulation — 'രക്തം / ദ്രാവകം കട്ടപിടിക്കൽ' എന്നർത്ഥം; ശാസ്ത്രീയ പദം.\n• (D) Coalition — പാർട്ടികളുടെയോ രാജ്യങ്ങളുടെയോ പരസ്യമായ സഖ്യം; 'രഹസ്യം' എന്ന ഭാവമില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'collUsion-ൽ U = Under the table (മേശയ്ക്കടിയിലെ ഇടപാട്)' | 'collIsion-ൽ I = Impact (ഇടി)'!\n• ഒരുമിച്ച് പഠിക്കുക: collusion (ഒത്തുകളി), collision (കൂട്ടിയിടി), coalition (സഖ്യം), conspiracy (ഗൂഢാലോചന).\n• PSC strategy: സമാന spelling ഉള്ള options-ൽ ഓരോ അക്ഷരവും ശ്രദ്ധിച്ച് വായിക്കുക — ഒരു vowel മാറിയാൽ അർത്ഥം മാറും. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "77-2017-M-Q82",
+      "paperId": "77-2017-M",
+      "questionNumber": 82,
+      "topic": "Types of Sentences",
+      "questionText": "Convert into a simple sentence:\nAs you are already here and you can surely do the work.",
+      "optionA": "You are already here and you can surely do the work",
+      "optionB": "Being here already, you can surely do the work",
+      "optionC": "You are already here so that you can surely do the work",
+      "optionD": "You can surely do the work as you are already here",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) Being here already, you can surely do the work\n• Simple sentence-ൽ ഒരു finite verb (main clause) മാത്രമേ ഉണ്ടാകൂ.\n• 'As you are already here' എന്ന subordinate clause-നെ participle phrase 'Being here already' ആക്കി മാറ്റുന്നു.\n• ഇപ്പോൾ ഒരേ ഒരു finite verb: 'can do' — അതുകൊണ്ട് ഇത് simple sentence ആണ്.\n• 'നീ ഇതിനകം ഇവിടെ ഉള്ളതിനാൽ, നിനക്ക് തീർച്ചയായും ഈ ജോലി ചെയ്യാം' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: As / Since / Because + clause → Being / Having + participle phrase (Simple sentence).\n• Simple sentence = ഒരു main clause മാത്രം.\n• Compound sentence = and / but / so / or കൊണ്ട് ബന്ധിപ്പിച്ച രണ്ട് main clauses.\n• Complex sentence = ഒരു main clause + ഒന്നോ അതിലധികമോ subordinate clauses (as, because, that, when).\n• ⭐ PSC ആവർത്തനം: simple / compound / complex മാറ്റം PSC LDC പേപ്പറുകളിൽ സ്ഥിരം ചോദ്യമാണ്.\n• ഉദാഹരണ sentences:\n1. Being tired, he went to bed. (ക്ഷീണിതനായതിനാൽ അവൻ ഉറങ്ങാൻ പോയി — simple)\n2. He was tired, so he went to bed. (അവൻ ക്ഷീണിതനായിരുന്നു, അതുകൊണ്ട് ഉറങ്ങാൻ പോയി — compound)\n3. As he was tired, he went to bed. (ക്ഷീണിതനായിരുന്നതിനാൽ അവൻ ഉറങ്ങാൻ പോയി — complex)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) ... here and you can ... — 'and' കൊണ്ട് രണ്ട് main clauses ബന്ധിപ്പിച്ചിരിക്കുന്നു — ഇത് compound sentence ആണ്.\n• (C) ... so that you can ... — 'so that' ഒരു subordinate clause ഉണ്ടാക്കുന്നു — ഇത് complex sentence ആണ്; അർത്ഥവും മാറി.\n• (D) ... as you are already here — 'as' clause ഉള്ളതിനാൽ ഇതും complex sentence ആണ് — clauses-ന്റെ ക്രമം മാത്രം മാറി.\n• 🪤 PSC Trap: option D മൂലവാക്യത്തിന്റെ അർത്ഥം അതേപടി നിലനിർത്തുന്നതിനാൽ ശരിയെന്ന് തോന്നും — പക്ഷേ രണ്ട് finite verbs ഉണ്ട്!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'SIMPLE = ഒറ്റ verb-ന്റെ രാജ്യം' — finite verbs എണ്ണുക; ഒന്നേ ഉള്ളൂവെങ്കിൽ simple!\n• ഒരുമിച്ച് പഠിക്കുക: as / since / because → being / having (simple), and / so (compound), as / because (complex).\n• PSC strategy: ഓരോ option-ലെയും finite verbs (are, can, is) എണ്ണുക — ഒരെണ്ണം മാത്രമുള്ളതാണ് simple sentence. guaranteed mark!"
+      }
+    },
+    {
+      "id": "77-2017-M-Q83",
+      "paperId": "77-2017-M",
+      "questionNumber": 83,
+      "topic": "Foreign Words and Phrases",
+      "questionText": "The word '__exparte__' means:",
+      "optionA": "Belonging to all",
+      "optionB": "One sided",
+      "optionC": "Many sided",
+      "optionD": "None of these",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) One sided\n• 'Ex parte' ഒരു Latin നിയമപദമാണ് — 'ഒരു കക്ഷിയുടെ മാത്രം ഭാഗത്ത് നിന്ന്' (from one side only).\n• കോടതിയിൽ ഒരു കക്ഷി ഹാജരാകാത്തപ്പോൾ, മറുകക്ഷിയുടെ ഭാഗം മാത്രം കേട്ട് നൽകുന്ന വിധിയെ 'ex parte decision / order' എന്ന് പറയുന്നു.\n• Latin 'ex' (നിന്ന്) + 'parte' (ഭാഗം / കക്ഷി) = ഒരു ഭാഗത്ത് നിന്ന്.\n• അതുകൊണ്ട് 'one sided' (ഏകപക്ഷീയം) ആണ് ശരിയായ അർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: EX PARTE = ഏകപക്ഷീയം (ഒരു കക്ഷിയെ മാത്രം കേട്ടുകൊണ്ട്).\n• മറ്റ് നിയമ Latin phrases:\n• sub judice = കോടതിയുടെ പരിഗണനയിലുള്ള | suo motu = സ്വമേധയാ | prima facie = ഒറ്റനോട്ടത്തിൽ | de facto = യഥാർത്ഥത്തിൽ | de jure = നിയമപ്രകാരം | habeas corpus = ശരീരം ഹാജരാക്കുക.\n• Etymology hint: 'parte' → party (കക്ഷി), part (ഭാഗം), partial (ഭാഗികം / പക്ഷപാതം).\n• ⭐ PSC ആവർത്തനം: നിയമമേഖലയിലെ Latin phrases (ex parte, suo motu, sub judice) PSC സ്ഥിരമായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. The court passed an ex parte order. (കോടതി ഏകപക്ഷീയ ഉത്തരവ് പുറപ്പെടുവിച്ചു)\n2. The High Court took up the case suo motu. (ഹൈക്കോടതി സ്വമേധയാ കേസെടുത്തു)\n3. The matter is sub judice. (വിഷയം കോടതിയുടെ പരിഗണനയിലാണ്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Belonging to all — 'എല്ലാവരുടേതും' എന്നർത്ഥം; ex parte-ന്റെ നേർ വിപരീത ഭാവമാണ്.\n• (C) Many sided — 'പല വശങ്ങളുള്ള' എന്നർത്ഥം; ഇതും തെറ്റ്.\n• 🪤 PSC Trap: 'parte' (part) എന്ന് കണ്ട് 'ഭാഗങ്ങൾ' = many sided എന്ന് ഊഹിക്കാൻ പ്രേരിപ്പിക്കുന്ന കെണി — 'ex' ഒരു ഭാഗത്ത് നിന്ന് മാത്രം!\n• (D) None of these — 'one sided' ശരിയായതിനാൽ ഇത് തെറ്റാണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'EX PARTE = EXtra PARTY ഇല്ല — ഒരു കക്ഷി മാത്രം!'\n• ഒരുമിച്ച് പഠിക്കുക: ex parte (ഏകപക്ഷീയം), suo motu (സ്വമേധയാ), sub judice (കോടതിയിൽ), prima facie (ഒറ്റനോട്ടം), bona fide (യഥാർത്ഥം).\n• PSC strategy: Latin phrase-ലെ ഒരു ഭാഗം പരിചിതമായ English വാക്കുമായി ബന്ധിപ്പിക്കുക (parte → party). ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "77-2017-M-Q84",
+      "paperId": "77-2017-M",
+      "questionNumber": 84,
+      "topic": "Antonyms",
+      "questionText": "Antonym of the word '__Idiocy__':",
+      "optionA": "Foolishness",
+      "optionB": "Stupidity",
+      "optionC": "Sagacity",
+      "optionD": "Quixotry",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) Sagacity\n• 'Idiocy' എന്നാൽ കടുത്ത മണ്ടത്തരം, വിഡ്ഢിത്തം.\n• 'Sagacity' എന്നാൽ ആഴത്തിലുള്ള ബുദ്ധി, വിവേകം, ദീർഘദൃഷ്ടി.\n• വിഡ്ഢിത്തം ↔ വിവേകം — അതുകൊണ്ട് idiocy-യുടെ opposite sagacity.\n• 'Sage' (ജ്ഞാനി, മുനി) എന്ന വാക്കിൽ നിന്നാണ് sagacity വരുന്നത് — sagacious = വിവേകമുള്ള.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Idiocy (വിഡ്ഢിത്തം) ↔ Sagacity / Wisdom (വിവേകം).\n• Idiocy-യുടെ synonyms: foolishness, stupidity, folly, absurdity.\n• Sagacity-യുടെ synonyms: wisdom, prudence, shrewdness, insight.\n• Quixotry = അപ്രായോഗികമായ ആദർശവാദം (Don Quixote എന്ന കഥാപാത്രത്തിൽ നിന്ന്).\n• ⭐ PSC ആവർത്തനം: antonym ചോദ്യത്തിൽ രണ്ട് synonyms (foolishness, stupidity) ഇടുന്നത് PSC-യുടെ സ്ഥിരം രീതിയാണ്.\n• ഉദാഹരണ sentences:\n1. The king was known for his sagacity. (രാജാവ് തന്റെ വിവേകത്തിന് പ്രസിദ്ധനായിരുന്നു)\n2. It was sheer idiocy to drive so fast. (അത്ര വേഗത്തിൽ ഓടിച്ചത് തികഞ്ഞ മണ്ടത്തരമായിരുന്നു)\n3. My grandfather gave sagacious advice. (മുത്തച്ഛൻ വിവേകപൂർണ്ണമായ ഉപദേശം നൽകി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Foolishness — 'മണ്ടത്തരം' — ഇത് idiocy-യുടെ synonym ആണ്!\n• (B) Stupidity — 'ബുദ്ധിശൂന്യത' — ഇതും synonym ആണ്.\n• 🪤 PSC Trap: antonym ചോദിക്കുമ്പോൾ രണ്ട് synonyms ഇട്ട് ആശയക്കുഴപ്പം ഉണ്ടാക്കുന്ന കെണി — ഒരേ അർത്ഥമുള്ള രണ്ടെണ്ണം ഒരിക്കലും ഉത്തരമാകില്ല!\n• (D) Quixotry — 'അപ്രായോഗിക ആദർശവാദം' എന്നർത്ഥം; idiocy-യുടെ നേർ വിപരീതമല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'SAGAcity = SAGE (മുനി)-യുടെ ബുദ്ധി' — ഋഷിമാരുടെ വിവേകം!\n• ഒരുമിച്ച് പഠിക്കുക: sagacity / wisdom / prudence (വിവേകം) ↔ idiocy / folly / stupidity (വിഡ്ഢിത്തം).\n• PSC strategy: ഒരേ അർത്ഥമുള്ള options ജോഡിയായി കണ്ടാൽ രണ്ടും വെട്ടുക; ബാക്കിയുള്ളവയിൽ നേർ വിപരീതം കണ്ടെത്തുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "77-2017-M-Q85",
+      "paperId": "77-2017-M",
+      "questionNumber": 85,
+      "topic": "Parts of Speech",
+      "questionText": "______ of flowers. Pick out the right collective noun.",
+      "optionA": "garland",
+      "optionB": "swarms",
+      "optionC": "herd",
+      "optionD": "cluster",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) garland\n• 'A garland of flowers' = പൂമാല — പൂക്കൾ ഒരുമിച്ച് കോർത്ത മാല.\n• PSC key പ്രകാരം 'garland' ആണ് പൂക്കളുടെ collective noun ആയി സ്വീകരിച്ചത്.\n• പൂക്കൾക്ക് 'a bunch / bouquet of flowers' എന്നും ഉപയോഗിക്കാറുണ്ട്.\n• ഓരോ വസ്തുവിനും സ്വന്തം collective noun ഉണ്ട് — അവ ഓർമ്മിച്ചിരിക്കണം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: A garland / bunch / bouquet of FLOWERS.\n• മറ്റ് collective nouns: a swarm of bees, a herd of cattle, a cluster of grapes / stars, a bunch of keys, a flock of sheep, a galaxy of stars.\n• Cluster സാധാരണയായി മുന്തിരി, നക്ഷത്രങ്ങൾ, വീടുകൾ എന്നിവയ്ക്കാണ് ഉപയോഗിക്കുന്നത്.\n• ⭐ PSC ആവർത്തനം: collective noun ചോദ്യങ്ങൾ PSC LDC പേപ്പറുകളിൽ മിക്കപ്പോഴും ഉണ്ടാകും!\n• ഉദാഹരണ sentences:\n1. She wore a garland of jasmine. (അവൾ മുല്ലപ്പൂമാല അണിഞ്ഞു)\n2. A swarm of bees attacked him. (ഒരു തേനീച്ചക്കൂട്ടം അവനെ ആക്രമിച്ചു)\n3. He bought a cluster of grapes. (അവൻ ഒരു കുല മുന്തിരി വാങ്ങി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) swarms — തേനീച്ചകൾ, പ്രാണികൾ എന്നിവയുടെ കൂട്ടം; കൂടാതെ plural രൂപവും ആണ്.\n• (C) herd — കന്നുകാലികൾ, ആനകൾ പോലുള്ള വലിയ മൃഗങ്ങളുടെ കൂട്ടം.\n• (D) cluster — മുന്തിരി, നക്ഷത്രം പോലുള്ളവയുടെ കുല / കൂട്ടം; പൂക്കൾക്ക് ചിലപ്പോൾ ഉപയോഗിക്കാമെങ്കിലും PSC ഉത്തരം garland ആണ്.\n• 🪤 PSC Trap: 'cluster' പ്രകൃതിയുമായി ബന്ധമുള്ളതിനാൽ പൂക്കൾക്കും ചേരുമെന്ന് തോന്നിപ്പിക്കുന്ന കെണി!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'GARLAND = ഗുരുവായൂരിലെ പൂമാല' — പൂക്കൾ കോർത്താൽ garland!\n• ഒരുമിച്ച് പഠിക്കുക: garland / bouquet (flowers), cluster (grapes), swarm (bees), herd (cattle), galaxy (stars).\n• PSC strategy: plural രൂപത്തിലുള്ള option (swarms) 'A ___ of' ഘടനയിൽ ചേരില്ല — ഉടനെ വെട്ടുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "77-2017-M-Q86",
+      "paperId": "77-2017-M",
+      "questionNumber": 86,
+      "topic": "Phrasal Verbs",
+      "questionText": "The opposition party ______ a strike.",
+      "optionA": "call on",
+      "optionB": "call at",
+      "optionC": "call for",
+      "optionD": "call off",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) call for\n• 'Call for' എന്നാൽ ആവശ്യപ്പെടുക, ആഹ്വാനം ചെയ്യുക (demand / announce).\n• 'പ്രതിപക്ഷ പാർട്ടി ഒരു പണിമുടക്കിന് ആഹ്വാനം ചെയ്യുന്നു' എന്നർത്ഥം.\n• Call for a strike / bandh / protest — രാഷ്ട്രീയ സന്ദർഭങ്ങളിൽ സ്ഥിരമായി ഉപയോഗിക്കുന്നു.\n• 📝 Note: 'call off a strike' (പണിമുടക്ക് പിൻവലിക്കുക) എന്നതും സാധുവായ പ്രയോഗമാണ്; എന്നാൽ PSC key 'call for' ആണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Call for = ആഹ്വാനം ചെയ്യുക / ആവശ്യപ്പെടുക | Call off = റദ്ദാക്കുക / പിൻവലിക്കുക.\n• Call-ന്റെ phrasal verb കുടുംബം:\n• call on = ഒരാളെ സന്ദർശിക്കുക | call at = ഒരു സ്ഥലം സന്ദർശിക്കുക | call up = ഫോൺ വിളിക്കുക / സൈന്യത്തിൽ ചേർക്കുക | call in = വിദഗ്ധനെ വിളിച്ചുവരുത്തുക.\n• ⭐ PSC ആവർത്തനം: 'call' phrasal verbs PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കപ്പെട്ട കുടുംബങ്ങളിൽ ഒന്നാണ്!\n• ഉദാഹരണ sentences:\n1. The union called for a strike. (യൂണിയൻ പണിമുടക്കിന് ആഹ്വാനം ചെയ്തു)\n2. The match was called off due to rain. (മഴ കാരണം കളി റദ്ദാക്കി)\n3. I called on my teacher yesterday. (ഇന്നലെ ഞാൻ എന്റെ അധ്യാപകനെ സന്ദർശിച്ചു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) call on — 'ഒരാളെ സന്ദർശിക്കുക' എന്നർത്ഥം; പണിമുടക്കിനെ സന്ദർശിക്കാനാവില്ല.\n• (B) call at — 'ഒരു സ്ഥലം / വീട് സന്ദർശിക്കുക' എന്നർത്ഥം; ഇവിടെ ചേരില്ല.\n• (D) call off — 'റദ്ദാക്കുക / പിൻവലിക്കുക' എന്നർത്ഥം; അർത്ഥം സാധുവാണെങ്കിലും PSC സ്വീകരിച്ച ഉത്തരം call for ആണ്.\n• 🪤 PSC Trap: call off-ഉം strike-നൊപ്പം വരുന്നതിനാൽ ആശയക്കുഴപ്പം ഉണ്ടാക്കും — പ്രതിപക്ഷം സാധാരണയായി സമരത്തിന് ആഹ്വാനം ചെയ്യുകയാണ് ചെയ്യുക!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'CALL FOR = FOR (വേണ്ടി) വിളിക്കുക — സമരത്തിന് വേണ്ടിയുള്ള വിളി!' | 'CALL OFF = OFF ആക്കുക — നിർത്തുക'.\n• ഒരുമിച്ച് പഠിക്കുക: call for (ആഹ്വാനം), call off (റദ്ദാക്കൽ), call on (സന്ദർശനം), call up (ഫോൺ വിളി), call in (വിളിച്ചുവരുത്തൽ).\n• PSC strategy: subject ആരാണെന്ന് ആലോചിക്കുക — പ്രതിപക്ഷം / യൂണിയൻ സമരം 'ആഹ്വാനം' ചെയ്യുന്നവരാണ്. guaranteed mark!"
+      }
+    },
+    {
+      "id": "77-2017-M-Q87",
+      "paperId": "77-2017-M",
+      "questionNumber": 87,
+      "topic": "Words Often Confused",
+      "questionText": "He belongs to a ______ family.",
+      "optionA": "gentle",
+      "optionB": "genteel",
+      "optionC": "gentile",
+      "optionD": "gentil",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) genteel\n• 'Genteel' എന്നാൽ കുലീനമായ, മാന്യമായ, ഉയർന്ന സാമൂഹിക നിലവാരമുള്ള (well-bred / refined).\n• 'A genteel family' = കുലീന കുടുംബം, മാന്യമായ പാരമ്പര്യമുള്ള കുടുംബം.\n• 'അവൻ ഒരു കുലീന കുടുംബത്തിൽ പെട്ടവനാണ്' എന്നർത്ഥം.\n• gentle, genteel, gentile — മൂന്നും ഒരേ root-ൽ നിന്ന് വന്നതാണെങ്കിലും അർത്ഥം വ്യത്യസ്തമാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: GENTEEL = കുലീനം | GENTLE = സൗമ്യം | GENTILE = യഹൂദനല്ലാത്തയാൾ.\n• gentle = മൃദുവായ, സൗമ്യമായ (a gentle breeze, a gentle person).\n• gentile = ജൂത മതത്തിൽ പെടാത്ത ആൾ (ബൈബിൾ പദം).\n• gentil — standard English വാക്കല്ല (French-ൽ 'nice' എന്നർത്ഥം).\n• Etymology hint: Latin 'gentilis' = ഒരേ കുലത്തിൽ (gens) പെട്ട — അതിൽ നിന്നാണ് മൂന്ന് വാക്കുകളും വന്നത്.\n• ⭐ PSC ആവർത്തനം: gentle / genteel / gentile — PSC 'words often confused' ചോദ്യങ്ങളിലെ ക്ലാസിക് ത്രയം!\n• ഉദാഹരണ sentences:\n1. She comes from a genteel family. (അവൾ ഒരു കുലീന കുടുംബത്തിൽ നിന്നാണ്)\n2. He spoke in a gentle voice. (അവൻ സൗമ്യമായ ശബ്ദത്തിൽ സംസാരിച്ചു)\n3. Paul preached to the Gentiles. (പൗലോസ് യഹൂദേതരരോട് പ്രസംഗിച്ചു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) gentle — 'സൗമ്യമായ' എന്നർത്ഥം; ഒരു വ്യക്തിയുടെ സ്വഭാവത്തിനാണ്, കുടുംബത്തിന്റെ സാമൂഹിക പദവിക്കല്ല.\n• 🪤 PSC Trap: gentle ഏറ്റവും പരിചിതമായ വാക്കായതിനാൽ ഉടനെ തിരഞ്ഞെടുക്കാൻ തോന്നും — പക്ഷേ 'family' പദവിക്ക് genteel!\n• (C) gentile — യഹൂദനല്ലാത്തയാൾ (ബൈബിൾ പദം); ഇവിടെ ചേരില്ല.\n• (D) gentil — standard English വാക്കല്ല; തെറ്റായ spelling.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'genTEEL-ൽ രണ്ട് E — Elite (ഉന്നതർ) + Elegant (സുന്ദരം)' — കുലീന കുടുംബം!\n• ഒരുമിച്ച് പഠിക്കുക: gentle (സൗമ്യം), genteel (കുലീനം), gentile (യഹൂദേതരൻ), gentleman (മാന്യൻ).\n• PSC strategy: 'family / background / manners' എന്നിവയ്ക്കൊപ്പം genteel; 'voice / breeze / touch' എന്നിവയ്ക്കൊപ്പം gentle. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "77-2017-M-Q88",
+      "paperId": "77-2017-M",
+      "questionNumber": 88,
+      "topic": "Infinitive and Gerunds",
+      "questionText": "Would you mind ______ off the fan?",
+      "optionA": "switch",
+      "optionB": "switches",
+      "optionC": "switched",
+      "optionD": "switching",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) switching\n• 'Mind' എന്ന verb-ന് ശേഷം എപ്പോഴും gerund (V + ing) ആണ് വരിക — infinitive (to + V1) അല്ല.\n• 'Would you mind switching off the fan?' = 'ഫാൻ ഓഫ് ചെയ്യാമോ?' — വളരെ മര്യാദയുള്ള ഒരു അഭ്യർത്ഥന.\n• (മൂല ചോദ്യപേപ്പറിൽ 'of the fan' എന്ന് അച്ചടിച്ചിരിക്കുന്നു — ഉദ്ദേശിച്ചത് 'switching off the fan' ആണ്.)\n• 'Would you mind + V-ing' എന്നത് ഒരു fixed polite request ഘടനയാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: MIND + V-ing (gerund) — Would you mind opening / closing / helping...?\n• Gerund മാത്രം എടുക്കുന്ന verbs: mind, enjoy, avoid, finish, suggest, deny, practise, keep, admit, risk.\n• Infinitive മാത്രം എടുക്കുന്ന verbs: want, decide, hope, plan, agree, refuse, promise.\n• 'Would you mind' ചോദ്യത്തിന് സമ്മതം പറയാൻ 'No, not at all' എന്നാണ് മറുപടി (അതായത്, എനിക്ക് വിരോധമില്ല).\n• ⭐ PSC ആവർത്തനം: mind / enjoy / avoid + gerund — PSC-യിലെ സ്ഥിരം ചോദ്യം!\n• ഉദാഹരണ sentences:\n1. Would you mind closing the door? (വാതിൽ അടയ്ക്കാമോ?)\n2. I enjoy reading novels. (എനിക്ക് നോവൽ വായിക്കാൻ ഇഷ്ടമാണ്)\n3. He avoided meeting her. (അവൻ അവളെ കാണുന്നത് ഒഴിവാക്കി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) switch — bare verb (V1); 'mind'-ന് ശേഷം ചേരില്ല.\n• 🪤 PSC Trap: 'Would you' കണ്ട് modal-ന് ശേഷം V1 എന്ന നിയമം ഓർത്ത് 'switch' ഇടാൻ തോന്നും — പക്ഷേ V1 എടുക്കുന്നത് would, mind അല്ല!\n• (B) switches — third person singular present; ഇവിടെ അർത്ഥശൂന്യമാണ്.\n• (C) switched — past / past participle; 'mind'-ന് ശേഷം വരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'MIND-ന് ING ഇഷ്ടം — Mind ING, Enjoy ING, Avoid ING' — 'MEA' verbs എല്ലാം -ing!\n• ഒരുമിച്ച് പഠിക്കുക: mind, enjoy, avoid, finish, suggest, deny, keep, practise + V-ing.\n• PSC strategy: blank-ന് തൊട്ടുമുമ്പ് 'mind' കണ്ടാൽ ചിന്തിക്കേണ്ട കാര്യമില്ല — -ing രൂപം ഉടനെ ഇടുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "77-2017-M-Q89",
+      "paperId": "77-2017-M",
+      "questionNumber": 89,
+      "topic": "Parts of Speech",
+      "questionText": "The feminine gender of '__lad__':",
+      "optionA": "lady",
+      "optionB": "lass",
+      "optionC": "laid",
+      "optionD": "lier",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) lass\n• 'Lad' എന്നാൽ ആൺകുട്ടി / യുവാവ് (boy / young man) — പ്രത്യേകിച്ച് Scottish / Northern English-ൽ.\n• അതിന്റെ feminine (പെൺ) രൂപം 'lass' ആണ് — പെൺകുട്ടി / യുവതി.\n• Lad ↔ Lass എന്നത് ഒരു ജോഡിയായി ഓർക്കേണ്ടതാണ് — രണ്ടും 'la' കൊണ്ട് തുടങ്ങുന്നു.\n• 'Lassie' എന്നത് lass-ന്റെ സ്നേഹപൂർവമായ രൂപമാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Lad (ആൺകുട്ടി) ↔ Lass (പെൺകുട്ടി).\n• പ്രധാന masculine-feminine ജോഡികൾ:\n• lord – lady | gentleman – lady | bachelor – spinster | nephew – niece | monk – nun | wizard – witch | lad – lass | sir – madam.\n• Lady-യുടെ masculine 'lord / gentleman' ആണ്, lad അല്ല.\n• ⭐ PSC ആവർത്തനം: gender ജോഡികൾ (lad-lass, bachelor-spinster, monk-nun) PSC LDC പേപ്പറുകളിൽ സ്ഥിരം.\n• ഉദാഹരണ sentences:\n1. He is a fine young lad. (അവൻ ഒരു നല്ല ചെറുപ്പക്കാരനാണ്)\n2. She is a pretty lass. (അവൾ ഒരു സുന്ദരിയായ പെൺകുട്ടിയാണ്)\n3. The lads and lasses danced together. (ചെറുപ്പക്കാരും ചെറുപ്പക്കാരികളും ഒരുമിച്ച് നൃത്തം ചെയ്തു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) lady — 'lord' / 'gentleman' എന്നിവയുടെ feminine ആണ്; lad-ന്റേതല്ല.\n• 🪤 PSC Trap: 'lad' എന്ന അക്ഷരങ്ങൾ 'lady'-യിൽ ഉള്ളതിനാൽ ഉടനെ ശരിയെന്ന് തോന്നിപ്പിക്കുന്ന കെണി!\n• (C) laid — 'lay' (വയ്ക്കുക) എന്ന verb-ന്റെ past form; gender-മായി ബന്ധമില്ല.\n• (D) lier — 'കിടക്കുന്നയാൾ' എന്നർത്ഥം (liar അല്ല); feminine gender അല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'LAD-ഉം LASS-ഉം — LA-LA ജോഡി!' — lady-യിൽ വീഴരുത്, അത് lord-ന്റെ ജോഡിയാണ്.\n• ഒരുമിച്ച് പഠിക്കുക: lad–lass, lord–lady, bachelor–spinster, monk–nun, wizard–witch, drake–duck.\n• PSC strategy: gender ചോദ്യത്തിൽ 'കാഴ്ചയിൽ സമാനം' എന്നതിനേക്കാൾ 'ശരിയായ ജോഡി' ഏതെന്ന് നോക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "77-2017-M-Q90",
+      "paperId": "77-2017-M",
+      "questionNumber": 90,
+      "topic": "Conditionals",
+      "questionText": "If you went there, you:",
+      "optionA": "could see it",
+      "optionB": "can see it",
+      "optionC": "could have seen it",
+      "optionD": "could have see it",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) could see it\n• If-clause-ൽ simple past (went) ഉണ്ട് — ഇത് second conditional ആണ്.\n• Second conditional-ന്റെ main clause-ൽ would / could / might + V1 വേണം — could see it.\n• ഇത് ഇപ്പോഴത്തെയോ ഭാവിയിലെയോ ഒരു സങ്കൽപ്പ സാഹചര്യത്തെ കാണിക്കുന്നു.\n• 'നീ അവിടെ പോയാൽ, നിനക്ക് അത് കാണാൻ കഴിയുമായിരുന്നു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: If + V2 (past) → would / could / might + V1 (Second Conditional).\n• First: If + present → will / can + V1 (സാധ്യമായത്).\n• Third: If + had + V3 → would / could have + V3 (കഴിഞ്ഞുപോയത്).\n• 'could' = കഴിവ് + സങ്കൽപ്പം (would be able to).\n• ⭐ PSC ആവർത്തനം: if-clause-ലെ tense നോക്കി main clause തിരഞ്ഞെടുക്കുന്ന conditional ചോദ്യങ്ങൾ PSC-യിൽ എപ്പോഴുമുണ്ട്!\n• ഉദാഹരണ sentences:\n1. If I had money, I could buy a car. (പണം ഉണ്ടായിരുന്നെങ്കിൽ എനിക്ക് കാർ വാങ്ങാമായിരുന്നു)\n2. If she studied, she would pass. (അവൾ പഠിച്ചാൽ ജയിക്കുമായിരുന്നു)\n3. If you came early, we could talk. (നീ നേരത്തെ വന്നാൽ നമുക്ക് സംസാരിക്കാമായിരുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) can see it — first conditional രൂപം; അതിന് if-clause-ൽ present (go) വേണം.\n• (C) could have seen it — third conditional രൂപം; അതിന് if-clause-ൽ 'had gone' വേണം.\n• 🪤 PSC Trap: 'went' past ആയതിനാൽ past-ലെ കാര്യമെന്ന് തെറ്റിദ്ധരിച്ച് 'could have seen' ഇടാൻ തോന്നും — പക്ഷേ second conditional-ൽ past tense സങ്കൽപ്പം മാത്രമാണ്!\n• (D) could have see it — 'have'-ന് ശേഷം V3 (seen) വേണം; വ്യാകരണപരമായി തെറ്റ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'WENT (V2) → COULD + V1 | HAD GONE → COULD HAVE + V3' — പടി പടിയായി!\n• ഒരുമിച്ച് പഠിക്കുക: if + V1 → can/will, if + V2 → could/would, if + had V3 → could have/would have.\n• PSC strategy: if-clause-ൽ 'had' ഇല്ലെങ്കിൽ 'have' ഉള്ള options ഉടനെ വെട്ടുക. guaranteed mark!"
+      }
+    }
+  ]
+}

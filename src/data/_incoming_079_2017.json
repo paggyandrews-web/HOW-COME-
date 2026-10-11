@@ -1,0 +1,337 @@
+{
+  "paper": {
+    "id": "79-2017-M",
+    "paperCode": "79/2017 M",
+    "post": "L.D Clerk - Various (Idk, Alp, Kkd)",
+    "date": "29-Jul-2017",
+    "medium": "M",
+    "year": "2017",
+    "answerKeyStatus": "final"
+  },
+  "questions": [
+    {
+      "id": "79-2017-M-Q71",
+      "paperId": "79-2017-M",
+      "questionNumber": 71,
+      "topic": "Phrasal Verbs",
+      "questionText": "The bomb ______ near the busy vegetable market.",
+      "optionA": "put out",
+      "optionB": "went off",
+      "optionC": "put across",
+      "optionD": "got away",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) went off\n• 'Go off' എന്നാൽ (ബോംബ്) പൊട്ടിത്തെറിക്കുക, (അലാറം) മുഴങ്ങുക, (തോക്ക്) വെടിപൊട്ടുക.\n• 'went off' അതിന്റെ past രൂപമാണ് — 'ബോംബ് പൊട്ടിത്തെറിച്ചു'.\n• 'തിരക്കുള്ള പച്ചക്കറി മാർക്കറ്റിന് സമീപം ബോംബ് പൊട്ടിത്തെറിച്ചു' എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം.\n• Bomb, alarm, gun എന്നിവയ്ക്കൊപ്പം 'go off' ഒരു സ്ഥിരം collocation ആണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Bomb / Alarm / Gun + GO OFF = പൊട്ടിത്തെറിക്കുക / മുഴങ്ങുക.\n• Go off-ന് മറ്റ് അർത്ഥങ്ങളും ഉണ്ട്: ഭക്ഷണം കേടാകുക (The milk has gone off), വൈദ്യുതി പോകുക (The lights went off).\n• Put-ന്റെ കുടുംബം: put out = തീ കെടുത്തുക | put across = ആശയം വ്യക്തമായി അവതരിപ്പിക്കുക | put off = മാറ്റിവയ്ക്കുക.\n• Get away = രക്ഷപ്പെടുക, ഓടിപ്പോകുക.\n• ⭐ PSC ആവർത്തനം: 'go off', 'put out', 'put off' — ഈ phrasal verbs PSC ആവർത്തിച്ച് ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. The alarm went off at six. (ആറ് മണിക്ക് അലാറം മുഴങ്ങി)\n2. The firemen put out the fire. (അഗ്നിശമന സേന തീ അണച്ചു)\n3. The thief got away. (കള്ളൻ രക്ഷപ്പെട്ടു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) put out — 'തീ കെടുത്തുക' എന്നർത്ഥം; ബോംബ് സ്വയം 'put out' ചെയ്യില്ല.\n• 🪤 PSC Trap: 'put out' തീയുമായി ബന്ധപ്പെട്ടതിനാൽ ബോംബ്/സ്ഫോടനം എന്ന ആശയവുമായി ചേരുമെന്ന് തോന്നിപ്പിക്കുന്ന കെണി!\n• (C) put across — 'ആശയം വ്യക്തമായി പറഞ്ഞുമനസ്സിലാക്കുക' എന്നർത്ഥം; ഇവിടെ ഒട്ടും ചേരില്ല.\n• (D) got away — 'രക്ഷപ്പെട്ടു' എന്നർത്ഥം; ബോംബ് രക്ഷപ്പെടില്ല — അർത്ഥശൂന്യം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'GO OFF = ഠോ! എന്ന് പോയി' — ബോംബ് പൊട്ടി, അലാറം അടിച്ചു, വെളിച്ചം പോയി!\n• ഒരുമിച്ച് പഠിക്കുക: go off (പൊട്ടുക), blow up (സ്ഫോടനം നടത്തുക), put out (കെടുത്തുക), break out (പൊട്ടിപ്പുറപ്പെടുക).\n• PSC strategy: subject (bomb) എന്താണ് ചെയ്യുക എന്ന് ആദ്യം മലയാളത്തിൽ ചിന്തിക്കുക — 'പൊട്ടിത്തെറിച്ചു' → went off. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "79-2017-M-Q72",
+      "paperId": "79-2017-M",
+      "questionNumber": 72,
+      "topic": "Types of Sentences",
+      "questionText": "Choose the sentence with correct order:",
+      "optionA": "Why can't we have a cup of soup at first?",
+      "optionB": "Why we can't have a cup of soup at first?",
+      "optionC": "Can't why we have a cup of soup at first?",
+      "optionD": "Why have we can't a cup of soup at first?",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) Why can't we have a cup of soup at first?\n• Wh-question-ന്റെ ശരിയായ ക്രമം: Wh-word + auxiliary + subject + main verb.\n• ഇവിടെ: Why (Wh-word) + can't (auxiliary) + we (subject) + have (main verb).\n• 'എന്തുകൊണ്ട് നമുക്ക് ആദ്യം ഒരു കപ്പ് സൂപ്പ് കഴിച്ചുകൂടാ?' എന്നാണ് അർത്ഥം.\n• ചോദ്യവാക്യത്തിൽ auxiliary എപ്പോഴും subject-ന് മുമ്പ് വരും.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Wh + Auxiliary + Subject + Verb + ...? (Why can't we have...?)\n• Statement-ൽ ക്രമം: Subject + Auxiliary + Verb (We can't have...).\n• Question-ൽ auxiliary-യും subject-ഉം സ്ഥാനം മാറുന്നു (inversion).\n• Indirect speech-ൽ മാത്രമാണ് 'why we can't' എന്ന statement ക്രമം വരിക.\n• ⭐ PSC ആവർത്തനം: ശരിയായ word order തിരഞ്ഞെടുക്കുന്ന ചോദ്യങ്ങൾ PSC ഇടയ്ക്കിടെ ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. Where do you live? (നീ എവിടെ താമസിക്കുന്നു?)\n2. Why didn't he come? (അവൻ എന്തുകൊണ്ട് വന്നില്ല?)\n3. What can I do for you? (നിനക്ക് വേണ്ടി ഞാൻ എന്ത് ചെയ്യണം?)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) Why we can't have... — statement ക്രമം (subject + auxiliary) ആണ്; നേരിട്ടുള്ള ചോദ്യത്തിൽ ഇത് തെറ്റാണ്.\n• 🪤 PSC Trap: ഇത് indirect speech-ലെ ക്രമമാണ് — അതുകൊണ്ട് പരിചിതമായി തോന്നും, പക്ഷേ ചോദ്യചിഹ്നം ഉള്ള വാക്യത്തിൽ തെറ്റ്!\n• (C) Can't why we have... — Wh-word ആദ്യം വരണം; ഇവിടെ ക്രമം പൂർണ്ണമായും തെറ്റാണ്.\n• (D) Why have we can't... — രണ്ട് auxiliary-കൾ (have, can't) തെറ്റായ ക്രമത്തിൽ; വ്യാകരണപരമായി അർത്ഥശൂന്യം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'W-A-S-V: Why Auxiliary Subject Verb' — 'വാസ്' എന്ന് ഓർക്കുക!\n• ഒരുമിച്ച് പഠിക്കുക: Direct question = Why can't we...? | Indirect = He asked why we couldn't...\n• PSC strategy: ചോദ്യചിഹ്നം (?) ഉള്ള വാക്യത്തിൽ Wh-word കഴിഞ്ഞ് ഉടനെ auxiliary ഉണ്ടോ എന്ന് നോക്കുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "79-2017-M-Q73",
+      "paperId": "79-2017-M",
+      "questionNumber": 73,
+      "topic": "Question Tags",
+      "questionText": "Let's read a new story, ______?",
+      "optionA": "don't it",
+      "optionB": "didn't it",
+      "optionC": "have we",
+      "optionD": "shall we",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) shall we\n• 'Let's' (= Let us) കൊണ്ട് തുടങ്ങുന്ന ഒരു നിർദ്ദേശ വാക്യത്തിന്റെ (suggestion) tag എപ്പോഴും 'shall we?' ആണ്.\n• 'Let's' എന്നതിൽ സംസാരിക്കുന്നയാളും ഉൾപ്പെടുന്നു (us) — അതുകൊണ്ട് tag-ൽ 'we'.\n• 'നമുക്ക് ഒരു പുതിയ കഥ വായിക്കാം, അല്ലേ?' എന്നർത്ഥം.\n• ഇത് ഒരു fixed നിയമമാണ് — tense നോക്കേണ്ട ആവശ്യമില്ല.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Let's ... → shall we? | Let me / Let him (അനുവാദം ചോദിക്കൽ) → will you?\n• Imperative (ആജ്ഞ): Open the door → will you? / won't you?\n• Negative imperative: Don't be late → will you?\n• Let's-ൽ 'us' സംസാരിക്കുന്നയാളെയും ഉൾപ്പെടുത്തുന്നതിനാൽ we; Let me-യിൽ കേൾക്കുന്നയാളോട് അനുവാദം ചോദിക്കുന്നതിനാൽ you.\n• ⭐ PSC ആവർത്തനം: 'Let's ... shall we?' — PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കപ്പെട്ട question tag!\n• ഉദാഹരണ sentences:\n1. Let's go for a walk, shall we? (നമുക്ക് നടക്കാൻ പോകാം, അല്ലേ?)\n2. Let me help you, will you? (ഞാൻ സഹായിക്കട്ടെ, സമ്മതമാണോ?)\n3. Close the window, will you? (ജനൽ അടയ്ക്കാമോ?)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) don't it — 'it' ഇവിടെ subject അല്ല; കൂടാതെ 'don't it' വ്യാകരണപരമായി തെറ്റായ ജോഡിയാണ്.\n• (B) didn't it — past tense-ഉം 'it'-ഉം — രണ്ടും ഈ വാക്യവുമായി ചേരില്ല.\n• (C) have we — 'Let's' വാക്യത്തിൽ 'have' എന്ന auxiliary ഇല്ല.\n• 🪤 PSC Trap: 'we' കണ്ട് 'have we' ശരിയെന്ന് തോന്നിപ്പിക്കാനുള്ള കെണി — auxiliary 'shall' ആണ് fixed!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'LET'S = നമുക്ക് → SHALL WE = നമ്മൾ ചെയ്യട്ടെ?' — രണ്ടും 'നമ്മൾ' തന്നെ!\n• ഒരുമിച്ച് പഠിക്കുക: Let's → shall we | Let me → will you | Imperative → will you | I am → aren't I.\n• PSC strategy: വാക്യം 'Let's' കൊണ്ട് തുടങ്ങിയാൽ ചിന്തിക്കേണ്ട കാര്യമില്ല — 'shall we' ഉടനെ ഇടുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "79-2017-M-Q74",
+      "paperId": "79-2017-M",
+      "questionNumber": 74,
+      "topic": "Degrees of Comparison",
+      "questionText": "The deeper she studied, ______",
+      "optionA": "the great she understood",
+      "optionB": "the greater she understood",
+      "optionC": "the much great she understood",
+      "optionD": "the greatest she understood",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) the greater she understood\n• 'The + comparative ..., the + comparative ...' എന്നത് ഒരു പ്രത്യേക ഘടനയാണ് (double comparative / parallel comparative).\n• ഒരു കാര്യം കൂടുമ്പോൾ മറ്റേ കാര്യവും അതിനനുസരിച്ച് കൂടുന്നു എന്ന് കാണിക്കുന്നു.\n• ആദ്യ ഭാഗത്ത് 'the deeper' (comparative) ഉള്ളതിനാൽ രണ്ടാം ഭാഗത്തും comparative 'the greater' വേണം.\n• 'അവൾ എത്ര ആഴത്തിൽ പഠിച്ചോ, അത്രയും കൂടുതൽ അവൾ മനസ്സിലാക്കി' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: THE + comparative ..., THE + comparative ... (രണ്ട് ഭാഗത്തും comparative!)\n• ഈ ഘടനയിൽ superlative (greatest) അല്ലെങ്കിൽ positive (great) ഒരിക്കലും വരില്ല.\n• ഒരു മാറ്റം മറ്റൊരു മാറ്റത്തിന് കാരണമാകുന്നു എന്ന ആശയമാണ് ഇത് പ്രകടിപ്പിക്കുന്നത്.\n• ⭐ PSC ആവർത്തനം: 'The more ..., the more ...' ഘടന PSC-യുടെ പ്രിയപ്പെട്ട comparison ചോദ്യമാണ്!\n• ഉദാഹരണ sentences:\n1. The more you read, the more you learn. (കൂടുതൽ വായിക്കുന്തോറും കൂടുതൽ പഠിക്കും)\n2. The higher you climb, the colder it gets. (കൂടുതൽ ഉയരത്തിൽ കയറുന്തോറും തണുപ്പ് കൂടും)\n3. The sooner, the better. (എത്രയും വേഗം, അത്രയും നല്ലത്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) the great — positive degree ആണ്; 'the deeper'-ന് സമാന്തരമായി comparative വേണം.\n• (C) the much great — 'much' comparative-നെ ശക്തിപ്പെടുത്താനാണ് (much greater); positive-നൊപ്പം ചേരില്ല — വ്യാകരണപരമായി തെറ്റ്.\n• (D) the greatest — superlative ആണ്; 'the' കണ്ട് superlative ഇടാൻ തോന്നും.\n• 🪤 PSC Trap: 'the' + adjective കണ്ടാൽ superlative എന്ന ശീലം ഉപയോഗപ്പെടുത്തുന്ന കെണി — ഇവിടെ the + comparative ആണ് നിയമം!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ഒരു കൈയിൽ -er, മറുകൈയിലും -er' — the deeper ↔ the greater, തുലാസ് പോലെ സമതുലിതം!\n• ഒരുമിച്ച് പഠിക്കുക: the more ... the more, the sooner ... the better, the harder ... the luckier.\n• PSC strategy: വാക്യം 'The + -er' കൊണ്ട് തുടങ്ങിയാൽ blank-ലും 'the + -er' ഉള്ള option മാത്രം തിരഞ്ഞെടുക്കുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "79-2017-M-Q75",
+      "paperId": "79-2017-M",
+      "questionNumber": 75,
+      "topic": "Spelling",
+      "questionText": "Choose the correctly spelled word:",
+      "optionA": "accomodate",
+      "optionB": "acomodate",
+      "optionC": "accommodate",
+      "optionD": "acomodat",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) accommodate\n• ശരിയായ spelling: A-C-C-O-M-M-O-D-A-T-E — രണ്ട് 'c'-യും രണ്ട് 'm'-ഉം!\n• 'Accommodate' എന്നാൽ താമസസൗകര്യം നൽകുക, ഉൾക്കൊള്ളുക, ഇടം നൽകുക.\n• Noun രൂപം: accommodation (താമസസൗകര്യം).\n• ലോകത്തിൽ ഏറ്റവും കൂടുതൽ തെറ്റായി എഴുതപ്പെടുന്ന English വാക്കുകളിൽ ഒന്നാണിത്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: aCComMModate = 2C + 2M.\n• Etymology hint: Latin 'ad' (ലേക്ക്) + 'commodus' (അനുയോജ്യമായ) — 'ad' എന്നതിലെ d, c ആയി മാറി 'acc-' ആയി; 'commodus'-ലെ 'mm' അതുപോലെ നിലനിൽക്കുന്നു.\n• സമാനമായ double-letter വാക്കുകൾ: committee (mm, tt, ee), embarrass (rr, ss), necessary (ss), occurrence (cc, rr).\n• ⭐ PSC ആവർത്തനം: accommodate, committee, necessary, embarrass — PSC spelling ചോദ്യങ്ങളിലെ സ്ഥിരം വാക്കുകൾ!\n• ഉദാഹരണ sentences:\n1. The hotel can accommodate 200 guests. (ഹോട്ടലിൽ 200 അതിഥികൾക്ക് താമസിക്കാം)\n2. We need accommodation in Delhi. (ഞങ്ങൾക്ക് ഡൽഹിയിൽ താമസസൗകര്യം വേണം)\n3. The hall can accommodate everyone. (ഹാളിൽ എല്ലാവരെയും ഉൾക്കൊള്ളാനാകും)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) accomodate — രണ്ട് 'c' ശരിയാണ്, പക്ഷേ ഒരു 'm' മാത്രം — ഏറ്റവും സാധാരണമായ തെറ്റ്!\n• 🪤 PSC Trap: ഈ option ശരിയായതിനോട് ഏറ്റവും അടുത്തായതിനാൽ ശ്രദ്ധയില്ലാതെ നോക്കുന്നവർ വീഴും — 'm' എണ്ണണം!\n• (B) acomodate — ഒരു 'c'-യും ഒരു 'm'-ഉം മാത്രം; രണ്ടും തെറ്റ്.\n• (D) acomodat — അവസാനത്തെ 'e'-യും ഇല്ല; പൂർണ്ണമായും തെറ്റായ രൂപം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ACCOMMODATE-ന് രണ്ട് Cot-ഉം രണ്ട് Mattress-ഉം വേണം' — 2 C, 2 M — അതിഥിക്ക് സൗകര്യം!\n• ഒരുമിച്ച് പഠിക്കുക: accommodate, committee, recommend (ഒരു c, രണ്ട് m!), occasion (രണ്ട് c, ഒരു s).\n• PSC strategy: spelling options-ൽ ഇരട്ട അക്ഷരങ്ങൾ എണ്ണി നോക്കുക — മിക്കപ്പോഴും വ്യത്യാസം അവിടെയാണ്. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "79-2017-M-Q76",
+      "paperId": "79-2017-M",
+      "questionNumber": 76,
+      "topic": "Articles",
+      "questionText": "We live in ______ big house with a white door.",
+      "optionA": "the",
+      "optionB": "a",
+      "optionC": "at",
+      "optionD": "an",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) the\n• PSC-യുടെ final answer key പ്രകാരം ഉത്തരം 'the' ആണ്.\n• 'with a white door' എന്ന ഭാഗം ഏത് വീടാണെന്ന് വ്യക്തമാക്കുന്നു (identifying phrase) — ഒരു പ്രത്യേക വീടിനെ ചൂണ്ടിക്കാട്ടുമ്പോൾ 'the' ഉപയോഗിക്കാം.\n• 'വെളുത്ത വാതിലുള്ള ആ വലിയ വീട്ടിലാണ് ഞങ്ങൾ താമസിക്കുന്നത്' എന്നാണ് ഈ വ്യാഖ്യാനം.\n• 📝 Note: ആദ്യമായി ഒരു വീടിനെക്കുറിച്ച് പറയുന്ന സാധാരണ സംഭാഷണത്തിൽ 'a big house' ആണ് കൂടുതൽ സ്വാഭാവികം എന്ന് പല വ്യാകരണ പുസ്തകങ്ങളും പറയും — പക്ഷേ PSC 'the' ആണ് ശരിയുത്തരമായി സ്വീകരിച്ചത്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: noun-ന് ശേഷം 'ഏത്?' എന്ന് വ്യക്തമാക്കുന്ന phrase (with..., of..., that...) ഉണ്ടെങ്കിൽ → THE.\n• 'the' = ഒരു പ്രത്യേക, തിരിച്ചറിയാവുന്ന വസ്തു | 'a/an' = ഏതെങ്കിലും ഒന്ന്, ആദ്യമായി പരാമർശിക്കുന്നത്.\n• 'big' consonant sound-ൽ തുടങ്ങുന്നതിനാൽ 'an' ഒരിക്കലും വരില്ല.\n• 'at' ഒരു preposition ആണ് — 'in' എന്ന preposition ഇതിനകം ഉള്ളതിനാൽ രണ്ടാമതൊന്ന് പറ്റില്ല.\n• ⭐ PSC ആവർത്തനം: identifying phrase ഉള്ള noun-ന് മുമ്പ് 'the' — PSC ഈ നിയമം പലപ്പോഴും പരീക്ഷിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. The man with a red shirt is my uncle. (ചുവന്ന ഷർട്ടിട്ട ആ മനുഷ്യൻ എന്റെ അമ്മാവനാണ്)\n2. The book on the table is mine. (മേശപ്പുറത്തുള്ള പുസ്തകം എന്റേതാണ്)\n3. I saw a dog in the street. (തെരുവിൽ ഞാൻ ഒരു നായയെ കണ്ടു — ഏതെങ്കിലും ഒന്ന്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) a — 'ഏതെങ്കിലും ഒരു വലിയ വീട്' എന്ന അർത്ഥം നൽകുന്നു; PSC key പ്രകാരം 'with a white door' വീടിനെ നിർണ്ണയിക്കുന്നതിനാൽ 'the' ആണ് സ്വീകരിച്ചത്.\n• 🪤 PSC Trap: 'a white door' എന്നതിലെ 'a' കണ്ട് ആദ്യത്തെ blank-ലും 'a' ഇടാൻ തോന്നും!\n• (C) at — preposition ആണ്, article അല്ല; 'live in at' എന്നത് വ്യാകരണപരമായി തെറ്റാണ്.\n• (D) an — 'big' consonant sound-ൽ ആണ് തുടങ്ങുന്നത്; 'an' ഒരിക്കലും ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'WITH കണ്ടാൽ വിരൽ ചൂണ്ടുക' — the house with a white door = ആ വീട് (ചൂണ്ടിക്കാട്ടി)!\n• ഒരുമിച്ച് പഠിക്കുക: the girl in blue, the man with a beard, the house on the hill — എല്ലാം identifying phrases.\n• PSC strategy: ആദ്യം 'at', 'an' പോലുള്ള വ്യക്തമായ തെറ്റുകൾ വെട്ടുക; പിന്നെ noun-ന് ശേഷം വ്യക്തമാക്കുന്ന phrase ഉണ്ടോ എന്ന് നോക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "79-2017-M-Q77",
+      "paperId": "79-2017-M",
+      "questionNumber": 77,
+      "topic": "Conditionals",
+      "questionText": "If you throw the knife, ______",
+      "optionA": "I will get down",
+      "optionB": "I get down",
+      "optionC": "I would get down",
+      "optionD": "I would got down",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) I will get down\n• If-clause-ൽ simple present (throw) ഉണ്ട് — ഇത് first conditional ആണ്.\n• First conditional-ന്റെ main clause-ൽ 'will + V1' വേണം — I will get down.\n• സംഭവിക്കാൻ സാധ്യതയുള്ള ഒരു യഥാർത്ഥ സാഹചര്യത്തെയാണ് first conditional കാണിക്കുന്നത്.\n• 'നീ കത്തി എറിഞ്ഞാൽ, ഞാൻ താഴെയിറങ്ങും' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: If + Present (V1) → will + V1 (First Conditional).\n• Second: If + Past (V2) → would + V1 (സങ്കൽപ്പം).\n• Third: If + had + V3 → would have + V3 (നടക്കാതെ പോയ ഭൂതകാലം).\n• Zero conditional (If + present → present) പൊതുസത്യങ്ങൾക്ക് മാത്രം: If you heat ice, it melts.\n• ⭐ PSC ആവർത്തനം: If-clause-ലെ tense നോക്കി main clause പൂർത്തിയാക്കുന്ന ചോദ്യം PSC സ്ഥിരമായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. If it rains, we will stay home. (മഴ പെയ്താൽ ഞങ്ങൾ വീട്ടിലിരിക്കും)\n2. If you study, you will pass. (നീ പഠിച്ചാൽ ജയിക്കും)\n3. If I were rich, I would buy a car. (ഞാൻ ധനികനായിരുന്നെങ്കിൽ കാർ വാങ്ങുമായിരുന്നു — second)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) I get down — zero conditional രൂപമാണ്; പൊതുസത്യങ്ങൾക്ക് മാത്രം ഉപയോഗിക്കുന്നു, ഒരു പ്രത്യേക സാഹചര്യത്തിന് അല്ല.\n• (C) I would get down — second conditional-ന്റേതാണ്; അതിന് if-clause-ൽ past tense (threw) വേണം.\n• 🪤 PSC Trap: 'would' കേൾക്കാൻ കൂടുതൽ മര്യാദയുള്ളതായി തോന്നും — പക്ഷേ if-clause-ലെ tense ആണ് തീരുമാനിക്കുന്നത്!\n• (D) I would got down — 'would'-ന് ശേഷം V1 വേണം, V2 (got) അല്ല — വ്യാകരണപരമായി തെറ്റ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Present കണ്ടാൽ Will, Past കണ്ടാൽ Would, Had കണ്ടാൽ Would have' — മൂന്ന് പടികൾ!\n• ഒരുമിച്ച് പഠിക്കുക: get down (താഴെയിറങ്ങുക), get up (എഴുന്നേൽക്കുക), get in (കയറുക), get out (പുറത്തിറങ്ങുക).\n• PSC strategy: if-clause-ലെ verb ആദ്യം നോക്കുക — throw (present) കണ്ടാൽ ഉടനെ 'will' ഉള്ള option. guaranteed mark!"
+      }
+    },
+    {
+      "id": "79-2017-M-Q78",
+      "paperId": "79-2017-M",
+      "questionNumber": 78,
+      "topic": "Synonyms",
+      "questionText": "Synonym of __kind hearted__ is:",
+      "optionA": "bigamy",
+      "optionB": "benevolent",
+      "optionC": "bifurcate",
+      "optionD": "bilingual",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) benevolent\n• 'Kind hearted' എന്നാൽ ദയയുള്ള, നല്ല മനസ്സുള്ള.\n• 'Benevolent' എന്നതിനും അതേ അർത്ഥം — മറ്റുള്ളവർക്ക് നന്മ ചെയ്യാൻ ആഗ്രഹിക്കുന്ന, ഉദാരമനസ്കനായ.\n• Etymology: Latin 'bene' (നല്ലത്) + 'volens' (ആഗ്രഹിക്കുന്ന) = നന്മ ആഗ്രഹിക്കുന്നവൻ.\n• ബാക്കി മൂന്ന് options-ഉം 'bi-' (രണ്ട്) എന്ന prefix-ൽ തുടങ്ങുന്നവയാണ്; benevolent-ലെ 'be-' വേറെയാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: BENE = നല്ലത് → benevolent = നന്മ ചെയ്യുന്ന, ദയയുള്ള.\n• 'Bene' കുടുംബം: benefit (ഗുണം), benefactor (സഹായം ചെയ്യുന്നയാൾ), beneficial (ഗുണകരമായ), benediction (അനുഗ്രഹം).\n• Antonym: malevolent ('male' = ചീത്ത) — ദ്രോഹബുദ്ധിയുള്ള.\n• 'Bi' കുടുംബം (രണ്ട്): bigamy, bifurcate, bilingual, bicycle, biennial.\n• ⭐ PSC ആവർത്തനം: bene- / male- root വാക്കുകൾ PSC synonym-antonym ചോദ്യങ്ങളിൽ ആവർത്തിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. He is a benevolent old man. (അദ്ദേഹം ദയാലുവായ ഒരു വൃദ്ധനാണ്)\n2. The benevolent king helped the poor. (ദയാലുവായ രാജാവ് ദരിദ്രരെ സഹായിച്ചു)\n3. She is bilingual. (അവൾക്ക് രണ്ട് ഭാഷകൾ അറിയാം)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) bigamy — 'ഒരേ സമയം രണ്ട് വിവാഹം' എന്നർത്ഥം; ദയയുമായി ബന്ധമില്ല.\n• (C) bifurcate — 'രണ്ടായി പിരിയുക / വിഭജിക്കുക' എന്നർത്ഥം.\n• (D) bilingual — 'രണ്ട് ഭാഷകൾ അറിയുന്ന' എന്നർത്ഥം.\n• 🪤 PSC Trap: നാല് options-ഉം 'b'-യിൽ തുടങ്ങുന്ന കടുപ്പമുള്ള വാക്കുകൾ — 'bi' (രണ്ട്) root അറിയുന്നവർക്ക് മൂന്നെണ്ണം ഉടനെ വെട്ടാം!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'BENEvolent = BENEfit ചെയ്യുന്നവൻ' — എല്ലാവർക്കും നന്മ!\n• ഒരുമിച്ച് പഠിക്കുക: benevolent ↔ malevolent, benefactor ↔ malefactor, benediction ↔ malediction.\n• PSC strategy: options-ൽ ഒരേ prefix (bi-) ഉള്ള വാക്കുകൾ കൂട്ടമായി വന്നാൽ, വേറിട്ടുനിൽക്കുന്ന വാക്ക് ശ്രദ്ധിക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "79-2017-M-Q79",
+      "paperId": "79-2017-M",
+      "questionNumber": 79,
+      "topic": "Idioms",
+      "questionText": "__Dutch courage__ means:",
+      "optionA": "courage of Dutch people",
+      "optionB": "courage to travel sea",
+      "optionC": "courage induced by alcohol",
+      "optionD": "courage induced by friends",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) courage induced by alcohol\n• 'Dutch courage' എന്നാൽ മദ്യം കഴിച്ചതിനു ശേഷം കിട്ടുന്ന താൽക്കാലിക ധൈര്യം.\n• സ്വാഭാവികമായ ധൈര്യമല്ല, മദ്യത്തിന്റെ ലഹരിയിൽ ഉണ്ടാകുന്ന കൃത്രിമ ധൈര്യമാണിത്.\n• ഉത്ഭവം: പതിനേഴാം നൂറ്റാണ്ടിലെ ആംഗ്ലോ-ഡച്ച് യുദ്ധങ്ങളിൽ, യുദ്ധത്തിന് മുമ്പ് ഡച്ച് ജിൻ (മദ്യം) കഴിച്ച് സൈനികർ ധൈര്യം നേടിയിരുന്നു എന്നാണ് പറയപ്പെടുന്നത്.\n• Idiom-ന്റെ അർത്ഥം അതിലെ വാക്കുകളുടെ അക്ഷരാർത്ഥമല്ല.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Dutch courage = മദ്യം നൽകുന്ന ധൈര്യം.\n• 'Dutch' ഉൾപ്പെടുന്ന മറ്റ് idioms:\n• go Dutch = ഓരോരുത്തരും സ്വന്തം ചെലവ് വഹിക്കുക | double Dutch = മനസ്സിലാകാത്ത ഭാഷ / അസംബന്ധം | Dutch uncle = കർശനമായി ഉപദേശിക്കുന്നയാൾ.\n• ⭐ PSC ആവർത്തനം: രാജ്യങ്ങളുടെ പേരുള്ള idioms (Dutch courage, go Dutch, Greek to me) PSC ഇടയ്ക്കിടെ ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. He drank a glass of whisky for Dutch courage. (ധൈര്യം കിട്ടാൻ അവൻ ഒരു ഗ്ലാസ് വിസ്കി കുടിച്ചു)\n2. Let's go Dutch tonight. (ഇന്ന് രാത്രി ഓരോരുത്തരും സ്വന്തം ചെലവ് നോക്കാം)\n3. This letter is double Dutch to me. (ഈ കത്ത് എനിക്ക് ഒട്ടും മനസ്സിലാകുന്നില്ല)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) courage of Dutch people — 'ഡച്ചുകാരുടെ ധൈര്യം' എന്ന അക്ഷരാർത്ഥം മാത്രം; idiom-ന്റെ അർത്ഥമല്ല.\n• 🪤 PSC Trap: idiom-ലെ വാക്കുകൾ അതേപടി വിവർത്തനം ചെയ്യുന്നവരെ വീഴ്ത്താനുള്ള ക്ലാസിക് literal കെണി!\n• (B) courage to travel sea — ഡച്ചുകാർ നാവികരായിരുന്നു എന്ന ചരിത്രബോധം ഉപയോഗിച്ചുള്ള കെണി; idiom-മായി ബന്ധമില്ല.\n• (D) courage induced by friends — 'സുഹൃത്തുക്കൾ നൽകുന്ന ധൈര്യം' — ഇതും തെറ്റായ ഊഹമാണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ഡച്ച് ജിൻ കുടിച്ച് സിംഹമായി!' — Dutch courage = കുപ്പിയിലെ ധൈര്യം.\n• ഒരുമിച്ച് പഠിക്കുക: Dutch courage, go Dutch, double Dutch, it's all Greek to me, French leave (അനുവാദമില്ലാതെ പോകുക).\n• PSC strategy: idiom ചോദ്യത്തിൽ literal അർത്ഥമുള്ള option (Dutch people) ആദ്യം വെട്ടുക — idiom ഒരിക്കലും വാക്കുകൾ പറയുന്നത് പോലെയല്ല. guaranteed mark!"
+      }
+    },
+    {
+      "id": "79-2017-M-Q80",
+      "paperId": "79-2017-M",
+      "questionNumber": 80,
+      "topic": "Direct and Indirect Speech",
+      "questionText": "The police asked:",
+      "optionA": "where is your home",
+      "optionB": "where his home was",
+      "optionC": "where is his home",
+      "optionD": "where was his home",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) where his home was\n• ഇത് reported speech (indirect speech) ആണ് — 'The police asked' എന്ന reporting verb past tense-ൽ.\n• Indirect speech-ൽ ചോദ്യം ഒരു statement ആയി മാറുന്നു — ക്രമം: Wh-word + subject + verb (where his home was).\n• Reporting verb past ആയതിനാൽ 'is' → 'was' ആയി backshift ചെയ്യുന്നു.\n• 'your' → 'his' ആയി pronoun-ഉം മാറുന്നു.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: asked + Wh-word + SUBJECT + VERB (backshift) — ചോദ്യക്രമം ഇല്ല!\n• Direct: The police asked him, \"Where is your home?\"\n• Indirect: The police asked him where his home was.\n• മൂന്ന് മാറ്റങ്ങൾ: (1) word order statement ആകുന്നു (2) tense backshift (is → was) (3) pronoun മാറ്റം (your → his).\n• ⭐ PSC ആവർത്തനം: 'where his home was' vs 'where was his home' — ഈ ക്രമ വ്യത്യാസം PSC സ്ഥിരമായി ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. She asked me where I lived. (ഞാൻ എവിടെ താമസിക്കുന്നുവെന്ന് അവൾ ചോദിച്ചു)\n2. He asked what my name was. (എന്റെ പേരെന്താണെന്ന് അവൻ ചോദിച്ചു)\n3. The teacher asked why I was late. (ഞാൻ എന്തുകൊണ്ട് വൈകിയെന്ന് ടീച്ചർ ചോദിച്ചു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) where is your home — direct question രൂപം അതേപടി; tense-ഉം pronoun-ഉം മാറ്റിയിട്ടില്ല.\n• (C) where is his home — pronoun മാറ്റി, പക്ഷേ ചോദ്യക്രമവും present tense-ഉം നിലനിർത്തി — തെറ്റ്.\n• (D) where was his home — tense ശരിയാണ്, പക്ഷേ ചോദ്യക്രമം (verb + subject) തന്നെ — indirect speech-ൽ ഇത് തെറ്റ്.\n• 🪤 PSC Trap: option D-യിൽ tense-ഉം pronoun-ഉം ശരിയായതിനാൽ ശരിയെന്ന് തോന്നും — word order ആണ് കെണി!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Reported question-ൽ VERB വാലിൽ പോകും' — where his home WAS (verb അവസാനം)!\n• ഒരുമിച്ച് പഠിക്കുക: asked where he lived, asked what she wanted, asked why they were late, asked if/whether he was ready.\n• PSC strategy: reported question options-ൽ verb ഒടുവിൽ വരുന്നതും past tense ഉള്ളതുമായ option മാത്രം തിരഞ്ഞെടുക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "79-2017-M-Q81",
+      "paperId": "79-2017-M",
+      "questionNumber": 81,
+      "topic": "Antonyms",
+      "questionText": "Antonym of __compulsory__ is:",
+      "optionA": "uncompulsory",
+      "optionB": "incompulsory",
+      "optionC": "occasional",
+      "optionD": "voluntary",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) voluntary\n• 'Compulsory' എന്നാൽ നിർബന്ധമായ — ചെയ്തേ മതിയാകൂ.\n• 'Voluntary' എന്നാൽ സ്വമനസ്സാലെ ചെയ്യുന്ന, ഇഷ്ടമുണ്ടെങ്കിൽ മാത്രം — നിർബന്ധമില്ലാത്തത്.\n• നിർബന്ധം ↔ സ്വമേധയാ — അതുകൊണ്ട് compulsory-യുടെ opposite voluntary.\n• Etymology: Latin 'voluntas' = ഇഷ്ടം, മനസ്സ് — volunteer എന്ന വാക്കും ഇതിൽ നിന്നാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Compulsory (നിർബന്ധം) ↔ Voluntary / Optional (സ്വമേധയാ).\n• Compulsory-യുടെ synonyms: mandatory, obligatory, required, essential.\n• എല്ലാ വാക്കുകൾക്കും prefix (un-, in-) ചേർത്ത് antonym ഉണ്ടാക്കാനാവില്ല — 'uncompulsory', 'incompulsory' എന്ന വാക്കുകൾ നിലവിലില്ല.\n• ⭐ PSC ആവർത്തനം: നിലവിലില്ലാത്ത prefix വാക്കുകൾ കെണിയായി ഇടുന്നത് PSC antonym ചോദ്യങ്ങളിലെ സ്ഥിരം രീതിയാണ്.\n• ഉദാഹരണ sentences:\n1. Attendance is compulsory. (ഹാജർ നിർബന്ധമാണ്)\n2. Joining the club is voluntary. (ക്ലബ്ബിൽ ചേരുന്നത് സ്വമേധയാ ആണ്)\n3. He took voluntary retirement. (അവൻ സ്വയം വിരമിക്കൽ എടുത്തു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) uncompulsory — ഇങ്ങനെ ഒരു standard English വാക്ക് ഇല്ല.\n• (B) incompulsory — ഇതും നിലവിലില്ലാത്ത വാക്കാണ്.\n• 🪤 PSC Trap: un-/in- ചേർത്താൽ opposite കിട്ടും എന്ന ശീലം ഉപയോഗിക്കുന്ന കെണി — നിഘണ്ടുവിൽ ഇല്ലാത്ത വാക്കുകൾ!\n• (C) occasional — 'ഇടയ്ക്കിടെ നടക്കുന്ന' എന്നർത്ഥം; നിർബന്ധത്തിന്റെ വിപരീതമല്ല, ആവൃത്തിയെക്കുറിച്ചാണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'VOLUNTARY = VOLUNTEER ചെയ്യുന്നത് പോലെ' — ആരും നിർബന്ധിക്കുന്നില്ല, സ്വന്തം ഇഷ്ടം!\n• ഒരുമിച്ച് പഠിക്കുക: compulsory / mandatory / obligatory ↔ voluntary / optional / elective.\n• PSC strategy: antonym options-ൽ prefix ചേർത്ത വിചിത്ര വാക്കുകൾ കണ്ടാൽ, അവ യഥാർത്ഥ വാക്കുകളാണോ എന്ന് സംശയിക്കുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "79-2017-M-Q84",
+      "paperId": "79-2017-M",
+      "questionNumber": 84,
+      "topic": "Active and Passive Voice",
+      "questionText": "The editor was editing an important news. The passive form of this sentence is:",
+      "optionA": "The editor was being edited by an important news",
+      "optionB": "An important news had been edited by the editor",
+      "optionC": "An important news was edited by the editor",
+      "optionD": "An important news was being edited by the editor",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) An important news was being edited by the editor\n• 'was editing' = past continuous tense (was + V-ing).\n• Past continuous-ന്റെ passive രൂപം: was/were + being + V3 → was being edited.\n• Object (an important news) passive-ൽ subject ആകുന്നു; പഴയ subject (the editor) 'by'-ക്ക് ശേഷം വരുന്നു.\n• Tense ഒട്ടും മാറുന്നില്ല — continuous ഭാവം 'being' വഴി നിലനിർത്തുന്നു.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Past Continuous Passive = was/were + BEING + V3.\n• Present continuous passive: is/are + being + V3.\n• Simple past passive: was/were + V3 (being ഇല്ല).\n• Past perfect passive: had been + V3.\n• Active-ലെ tense = Passive-ലെ tense — എപ്പോഴും!\n• ⭐ PSC ആവർത്തനം: continuous tense-ന്റെ passive-ൽ 'being' വിട്ടുപോകുന്ന option ആണ് PSC-യുടെ സ്ഥിരം കെണി!\n• ഉദാഹരണ sentences:\n1. A letter was being written by her. (അവൾ ഒരു കത്ത് എഴുതിക്കൊണ്ടിരിക്കുകയായിരുന്നു)\n2. The road is being repaired. (റോഡ് നന്നാക്കിക്കൊണ്ടിരിക്കുന്നു)\n3. The house was being painted. (വീട് പെയിന്റ് ചെയ്തുകൊണ്ടിരിക്കുകയായിരുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) The editor was being edited by an important news — subject-ഉം object-ഉം തെറ്റായി; അർത്ഥം തന്നെ തലകീഴായി.\n• (B) had been edited — past perfect ആണ്; tense മാറിയിരിക്കുന്നു.\n• (C) was edited — simple past passive ആണ്; continuous ഭാവം (being) നഷ്ടപ്പെട്ടു.\n• 🪤 PSC Trap: option C ശരിയായി തോന്നും — 'being' ഇല്ലാത്തത് ശ്രദ്ധിക്കാത്തവർ വീഴും!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ING ഉണ്ടെങ്കിൽ BEING വേണം' — continuous active-ൽ -ing, passive-ൽ being!\n• ഒരുമിച്ച് പഠിക്കുക: is editing → is being edited | was editing → was being edited | has edited → has been edited.\n• PSC strategy: ആദ്യം subject-object സ്ഥാനം ശരിയായ options മാത്രം എടുക്കുക, പിന്നെ 'being' ഉണ്ടോ എന്ന് നോക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "79-2017-M-Q85",
+      "paperId": "79-2017-M",
+      "questionNumber": 85,
+      "topic": "Prepositions",
+      "questionText": "My daughter was rejoiced ______ hearing the result.",
+      "optionA": "on",
+      "optionB": "at",
+      "optionC": "from",
+      "optionD": "for",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) at\n• 'Rejoice at / rejoice over' എന്നത് ഒരു fixed collocation ആണ് — ഒരു വാർത്തയിലോ സംഭവത്തിലോ സന്തോഷിക്കുക.\n• PSC-യുടെ final key 'at' ആണ് — 'rejoiced at hearing the result' = ഫലം കേട്ടതിൽ സന്തോഷിച്ചു.\n• 'ഫലം കേട്ടപ്പോൾ എന്റെ മകൾ ആഹ്ലാദിച്ചു' എന്നർത്ഥം.\n• Emotion verbs (rejoice, wonder, laugh, be surprised) പലപ്പോഴും 'at' എടുക്കുന്നു.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Rejoice AT / OVER something = ഒന്നിൽ ആഹ്ലാദിക്കുക.\n• സമാന collocations: surprised at, amazed at, delighted at, laugh at, wonder at.\n• Rejoice IN = ഒന്നിൽ സന്തോഷം അനുഭവിക്കുക (rejoice in the Lord).\n• 'on hearing' എന്ന് മാത്രം (rejoiced ഇല്ലാതെ) 'കേട്ട ഉടനെ' എന്ന അർത്ഥത്തിൽ വരാം — അതാണ് option A കെണിയാകുന്നത്.\n• ⭐ PSC ആവർത്തനം: verb + preposition fixed collocations PSC-യിൽ എല്ലാ പേപ്പറിലും ഉണ്ടാകും!\n• ഉദാഹരണ sentences:\n1. The people rejoiced at the victory. (വിജയത്തിൽ ജനങ്ങൾ ആഹ്ലാദിച്ചു)\n2. She was surprised at the news. (വാർത്ത കേട്ട് അവൾ അത്ഭുതപ്പെട്ടു)\n3. We rejoiced over his success. (അവന്റെ വിജയത്തിൽ ഞങ്ങൾ സന്തോഷിച്ചു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) on — 'on hearing' = കേട്ട ഉടനെ എന്ന phrase നിലവിലുണ്ട്; പക്ഷേ 'rejoice'-ന്റെ collocation 'at' ആണ്.\n• 🪤 PSC Trap: 'on hearing the news' എന്ന പരിചിതമായ phrase ഉപയോഗിച്ച് വീഴ്ത്താനുള്ള ശക്തമായ കെണി!\n• (C) from — ഉറവിടം കാണിക്കുന്നു; rejoice-നൊപ്പം ചേരില്ല.\n• (D) for — കാരണം / ഉദ്ദേശ്യം കാണിക്കുന്നു; 'rejoice for' സ്വാഭാവിക collocation അല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'സന്തോഷവും അത്ഭുതവും AT-ൽ' — rejoiced at, surprised at, amazed at, delighted at!\n• ഒരുമിച്ച് പഠിക്കുക: rejoice at, laugh at, wonder at, aim at, look at, smile at.\n• PSC strategy: verb-നൊപ്പം വരുന്ന preposition ചോദ്യങ്ങളിൽ verb-ന്റെ collocation ഓർക്കുക, പിന്നിലുള്ള വാക്കല്ല. guaranteed mark!"
+      }
+    },
+    {
+      "id": "79-2017-M-Q86",
+      "paperId": "79-2017-M",
+      "questionNumber": 86,
+      "topic": "Parts of Speech",
+      "questionText": "Robert was inattentive ______ he had a car accident.",
+      "optionA": "because of",
+      "optionB": "so",
+      "optionC": "due to",
+      "optionD": "even though",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) so\n• വാക്യത്തിന്റെ ആദ്യ ഭാഗം കാരണമാണ് (ശ്രദ്ധയില്ലായ്മ); രണ്ടാം ഭാഗം അതിന്റെ ഫലമാണ് (അപകടം).\n• കാരണം → ഫലം എന്ന ബന്ധം കാണിക്കുന്ന conjunction 'so' ആണ്.\n• 'റോബർട്ട് ശ്രദ്ധയില്ലാതെയിരുന്നു, അതുകൊണ്ട് അവന് കാർ അപകടം സംഭവിച്ചു' എന്നർത്ഥം.\n• 'so' രണ്ട് clauses-നെ ബന്ധിപ്പിക്കുന്ന coordinating conjunction ആണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: കാരണം + SO + ഫലം | ഫലം + BECAUSE + കാരണം.\n• because of / due to + noun (clause അല്ല): because of rain, due to his carelessness.\n• because + clause (subject + verb): because he was careless.\n• even though = എങ്കിലും (വൈരുദ്ധ്യം കാണിക്കുന്നു).\n• ⭐ PSC ആവർത്തനം: because / because of / so / although എന്നിവ തമ്മിലുള്ള വ്യത്യാസം PSC പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. It was raining, so we stayed home. (മഴ പെയ്തിരുന്നു, അതുകൊണ്ട് ഞങ്ങൾ വീട്ടിലിരുന്നു)\n2. We stayed home because of the rain. (മഴ കാരണം ഞങ്ങൾ വീട്ടിലിരുന്നു)\n3. He failed even though he studied hard. (കഠിനമായി പഠിച്ചിട്ടും അവൻ തോറ്റു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) because of — noun-നൊപ്പം മാത്രം വരും; ഇവിടെ പിന്നാലെ ഒരു clause (he had...) ആണ്. കൂടാതെ കാരണ-ഫല ദിശയും തെറ്റാണ്.\n• (C) due to — 'because of' പോലെ തന്നെ noun എടുക്കുന്നു; clause-നൊപ്പം ചേരില്ല.\n• 🪤 PSC Trap: because of, due to — രണ്ടും 'കാരണം' എന്ന അർത്ഥമുള്ളതിനാൽ ശരിയെന്ന് തോന്നും; പക്ഷേ ഇവിടെ ആദ്യഭാഗം തന്നെ കാരണമാണ്!\n• (D) even though — വൈരുദ്ധ്യം കാണിക്കുന്നു ('എങ്കിലും'); ശ്രദ്ധയില്ലായ്മയും അപകടവും തമ്മിൽ വൈരുദ്ധ്യമില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'SO = അതുകൊണ്ട്' — കാരണം പറഞ്ഞു കഴിഞ്ഞ് ഫലം പറയാൻ 'so'!\n• ഒരുമിച്ച് പഠിക്കുക: so, therefore, hence (ഫലം) | because, since, as (കാരണം) | although, even though (വൈരുദ്ധ്യം).\n• PSC strategy: blank-ന് മുമ്പുള്ള ഭാഗം കാരണമാണോ ഫലമാണോ എന്ന് ആദ്യം മലയാളത്തിൽ ആലോചിക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "79-2017-M-Q87",
+      "paperId": "79-2017-M",
+      "questionNumber": 87,
+      "topic": "Degrees of Comparison",
+      "questionText": "The white car is ______ more expensive than the green.",
+      "optionA": "very",
+      "optionB": "pretty",
+      "optionC": "fairly",
+      "optionD": "slightly",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) slightly\n• Comparative-ന് (more expensive) മുമ്പ് വരാവുന്ന modifiers: slightly, much, far, a little, a lot, even.\n• 'Slightly more expensive' = 'അൽപം കൂടുതൽ വിലയുള്ള'.\n• 'വെളുത്ത കാറിന് പച്ച കാറിനേക്കാൾ അൽപം കൂടുതൽ വിലയുണ്ട്' എന്നർത്ഥം.\n• Very, pretty, fairly എന്നിവ positive degree-യോടൊപ്പം മാത്രം വരുന്നു.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Comparative-ന് മുമ്പ് → much / far / slightly / a little / a lot | VERY ഒരിക്കലുമില്ല!\n• very / pretty / fairly / quite + positive adjective: very expensive, fairly good.\n• much / far / slightly + comparative: much better, far taller, slightly more expensive.\n• 'very more expensive' വ്യാകരണപരമായി തെറ്റാണ്.\n• ⭐ PSC ആവർത്തനം: 'very' vs 'much' comparative-നൊപ്പം — PSC-യുടെ സ്ഥിരം ചോദ്യം!\n• ഉദാഹരണ sentences:\n1. This book is much better than that. (ഈ പുസ്തകം അതിനേക്കാൾ വളരെ നല്ലതാണ്)\n2. He is slightly taller than me. (അവന് എന്നേക്കാൾ അൽപം ഉയരം കൂടുതലാണ്)\n3. The test was very easy. (പരീക്ഷ വളരെ എളുപ്പമായിരുന്നു — positive)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) very — positive degree-യോടൊപ്പം മാത്രം ('very expensive'); comparative-നൊപ്പം ചേരില്ല.\n• 🪤 PSC Trap: മലയാളത്തിൽ 'വളരെ കൂടുതൽ' എന്ന് പറയുന്നതിനാൽ 'very more' ശരിയെന്ന് തോന്നിപ്പിക്കുന്ന കെണി!\n• (B) pretty — 'സാമാന്യം' എന്നർത്ഥം; positive adjective-നോടൊപ്പം മാത്രം (pretty good).\n• (C) fairly — 'ഏറെക്കുറെ' എന്നർത്ഥം; ഇതും positive degree-യോടൊപ്പം മാത്രം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'VERY-ക്ക് -ER ഇഷ്ടമല്ല; MUCH-നും SLIGHTLY-ക്കും -ER ഇഷ്ടമാണ്!'\n• ഒരുമിച്ച് പഠിക്കുക: much / far / even / slightly / a bit / a lot + comparative.\n• PSC strategy: blank-ന് ശേഷം 'more' അല്ലെങ്കിൽ '-er' കണ്ടാൽ very / pretty / fairly ഉടനെ വെട്ടുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "79-2017-M-Q88",
+      "paperId": "79-2017-M",
+      "questionNumber": 88,
+      "topic": "Tenses",
+      "questionText": "Peter ______ his home work before the teacher arrived.",
+      "optionA": "has complete",
+      "optionB": "was complete",
+      "optionC": "had completed",
+      "optionD": "was completing",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) had completed\n• രണ്ട് past പ്രവൃത്തികൾ ഉണ്ട്: ഹോംവർക്ക് പൂർത്തിയാക്കൽ (ആദ്യം), ടീച്ചർ വരവ് (പിന്നീട്).\n• ആദ്യം നടന്ന past action-ന് past perfect (had + V3) ഉപയോഗിക്കുന്നു — had completed.\n• 'before the teacher arrived' എന്നത് ഈ ക്രമം വ്യക്തമാക്കുന്നു.\n• 'ടീച്ചർ എത്തുന്നതിന് മുമ്പ് പീറ്റർ ഹോംവർക്ക് പൂർത്തിയാക്കിയിരുന്നു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: ആദ്യ past = had + V3 | രണ്ടാം past = V2 (before / after / when / by the time).\n• 'before' കഴിഞ്ഞുള്ള ഭാഗം simple past; അതിന് മുമ്പുള്ള ഭാഗം past perfect.\n• 'after' വരുമ്പോൾ: After he had finished, he left.\n• Past perfect = 'ആയിരുന്നു / കഴിഞ്ഞിരുന്നു' എന്ന ഭാവം.\n• ⭐ PSC ആവർത്തനം: 'before + simple past' ഉള്ള past perfect ചോദ്യങ്ങൾ PSC ആവർത്തിച്ച് ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. The train had left before we reached. (ഞങ്ങൾ എത്തുന്നതിന് മുമ്പ് ട്രെയിൻ പോയിരുന്നു)\n2. She had cooked dinner before I came. (ഞാൻ വരുന്നതിന് മുമ്പ് അവൾ അത്താഴം പാകം ചെയ്തിരുന്നു)\n3. The patient had died before the doctor came. (ഡോക്ടർ വരുന്നതിന് മുമ്പ് രോഗി മരിച്ചിരുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) has complete — 'has'-ന് ശേഷം V3 (completed) വേണം; കൂടാതെ present perfect past സന്ദർഭത്തിൽ ചേരില്ല.\n• (B) was complete — 'complete' ഇവിടെ adjective ആയി; 'പീറ്റർ പൂർണ്ണനായിരുന്നു' എന്ന വിചിത്ര അർത്ഥം.\n• (D) was completing — past continuous; പ്രവൃത്തി നടന്നുകൊണ്ടിരിക്കുകയായിരുന്നു എന്ന് കാണിക്കുന്നു, പൂർത്തിയായി എന്നല്ല.\n• 🪤 PSC Trap: 'was completing' കേൾക്കാൻ സ്വാഭാവികമായി തോന്നും — പക്ഷേ 'before' ആദ്യം പൂർത്തിയായ പ്രവൃത്തിയെ ആവശ്യപ്പെടുന്നു!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'BEFORE-ന് മുമ്പ് HAD' — ആദ്യം നടന്നതിന് had, പിന്നീട് നടന്നതിന് V2!\n• ഒരുമിച്ച് പഠിക്കുക: before, after, when, by the time, as soon as — past perfect-ന്റെ signal words.\n• PSC strategy: വാക്യത്തിൽ 'before + V2' കണ്ടാൽ blank-ൽ 'had + V3' ഉറപ്പ്. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "79-2017-M-Q89",
+      "paperId": "79-2017-M",
+      "questionNumber": 89,
+      "topic": "Parts of Speech",
+      "questionText": "A ______ of monkeys entered from forest and destroyed the crops.",
+      "optionA": "herd",
+      "optionB": "army",
+      "optionC": "tribe",
+      "optionD": "flock",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) tribe\n• കുരങ്ങുകളുടെ കൂട്ടത്തിന് 'a tribe of monkeys' അല്ലെങ്കിൽ 'a troop of monkeys' എന്ന collective noun ഉപയോഗിക്കുന്നു.\n• Options-ൽ ഉള്ളത് 'tribe' ആണ് — അതാണ് PSC-യുടെ ശരിയുത്തരം.\n• 'ഒരു കുരങ്ങുകൂട്ടം കാട്ടിൽ നിന്ന് വന്ന് വിളകൾ നശിപ്പിച്ചു' എന്നർത്ഥം.\n• ഓരോ മൃഗക്കൂട്ടത്തിനും പ്രത്യേകം collective noun ഉണ്ട് — അവ ഓർത്തിരിക്കണം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: A TRIBE / TROOP of monkeys.\n• മറ്റ് collective nouns: a herd of cattle, a flock of sheep/birds, an army of ants, a swarm of bees, a pack of wolves, a pride of lions, a school of fish.\n• Collective noun ഒരു കൂട്ടത്തെ ഒറ്റ യൂണിറ്റായി കാണുമ്പോൾ singular verb എടുക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: മൃഗങ്ങളുടെ collective nouns PSC-യിൽ വളരെ ആവർത്തിക്കുന്ന ചോദ്യമാണ്!\n• ഉദാഹരണ sentences:\n1. A troop of monkeys climbed the tree. (ഒരു കുരങ്ങുകൂട്ടം മരത്തിൽ കയറി)\n2. A herd of cattle grazed in the field. (ഒരു കന്നുകാലിക്കൂട്ടം വയലിൽ മേഞ്ഞു)\n3. An army of ants carried the sugar. (ഒരു ഉറുമ്പുപട പഞ്ചസാര ചുമന്നുകൊണ്ടുപോയി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) herd — കന്നുകാലികൾ, ആനകൾ, മാനുകൾ പോലുള്ള വലിയ മൃഗങ്ങൾക്ക്; കുരങ്ങുകൾക്കല്ല.\n• (B) army — 'an army of ants' (ഉറുമ്പുകൾ) എന്നാണ് സാധാരണ ഉപയോഗം; കുരങ്ങുകൾക്കല്ല.\n• 🪤 PSC Trap: 'army' വിളകൾ 'നശിപ്പിക്കുന്ന' ആക്രമണ ഭാവവുമായി ചേരുമെന്ന് തോന്നിപ്പിക്കാനുള്ള കെണി!\n• (D) flock — പക്ഷികൾക്കും ആടുകൾക്കും ഉപയോഗിക്കുന്നു; കുരങ്ങുകൾക്ക് ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'കുരങ്ങന്മാർ ഒരു TRIBE (ഗോത്രം) പോലെ കൂട്ടമായി ജീവിക്കുന്നു' — tribe / troop of monkeys!\n• ഒരുമിച്ച് പഠിക്കുക: tribe/troop (monkeys), herd (cattle), flock (sheep), army (ants), swarm (bees), pack (wolves).\n• PSC strategy: collective noun ചോദ്യത്തിൽ മൃഗത്തിന്റെ പേര് കണ്ട് ഉടനെ അതിന്റെ ജോഡി ഓർക്കുക — ബാക്കി options നോക്കേണ്ടതില്ല. guaranteed mark!"
+      }
+    },
+    {
+      "id": "79-2017-M-Q90",
+      "paperId": "79-2017-M",
+      "questionNumber": 90,
+      "topic": "Prepositions",
+      "questionText": "______ the weather forecasts the city was hit by huge sand storm.",
+      "optionA": "Therefore",
+      "optionB": "Because",
+      "optionC": "Despite",
+      "optionD": "However",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) Despite\n• 'Despite' എന്നാൽ 'ഉണ്ടായിട്ടും, വകവയ്ക്കാതെ' — വൈരുദ്ധ്യം കാണിക്കുന്ന preposition.\n• 'Despite'-ന് ശേഷം ഒരു noun / noun phrase (the weather forecasts) വരുന്നു — ഇത് ശരിയായ ഘടനയാണ്.\n• 'കാലാവസ്ഥാ പ്രവചനങ്ങൾ ഉണ്ടായിരുന്നിട്ടും നഗരത്തിൽ ഒരു വലിയ മണൽക്കാറ്റ് വീശി' എന്നർത്ഥം.\n• പ്രവചനം ഉണ്ടായിരുന്നിട്ടും (മുൻകരുതൽ എടുക്കാനാവാതെ) ദുരന്തം സംഭവിച്ചു — വൈരുദ്ധ്യ ഭാവം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Despite / In spite of + NOUN | Although / Even though + CLAUSE.\n• Despite = In spite of (despite-ന് ശേഷം 'of' ഇല്ല!).\n• Because + clause | Because of + noun.\n• Therefore, However എന്നിവ conjunctive adverbs — രണ്ട് പൂർണ്ണ വാക്യങ്ങളെ ബന്ധിപ്പിക്കാൻ.\n• ⭐ PSC ആവർത്തനം: despite / although / in spite of — PSC-യിലെ ഏറ്റവും പ്രിയപ്പെട്ട contrast ചോദ്യം!\n• ഉദാഹരണ sentences:\n1. Despite the rain, we went out. (മഴയുണ്ടായിട്ടും ഞങ്ങൾ പുറത്തുപോയി)\n2. In spite of his illness, he attended the meeting. (രോഗമുണ്ടായിട്ടും അവൻ യോഗത്തിൽ പങ്കെടുത്തു)\n3. Although it was raining, we went out. (മഴ പെയ്തിരുന്നെങ്കിലും ഞങ്ങൾ പുറത്തുപോയി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Therefore — 'അതുകൊണ്ട്' എന്നർത്ഥം; ഫലം കാണിക്കുന്നു, വാക്യത്തിന്റെ തുടക്കത്തിൽ noun-നൊപ്പം ചേരില്ല.\n• (B) Because — clause എടുക്കുന്നു; 'Because the weather forecasts, ...' അപൂർണ്ണ ഘടനയാണ്. 'Because of' ആയിരുന്നെങ്കിൽ പോലും അർത്ഥം ചേരില്ല.\n• (D) However — 'എന്നിരുന്നാലും' എന്നർത്ഥം; രണ്ട് പൂർണ്ണ വാക്യങ്ങൾക്കിടയിൽ വരുന്നു, noun-ന് മുമ്പ് അല്ല.\n• 🪤 PSC Trap: 'However'-നും വൈരുദ്ധ്യ അർത്ഥമുള്ളതിനാൽ ശരിയെന്ന് തോന്നും — പക്ഷേ noun-ന് മുമ്പ് despite മാത്രം!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'DESPITE-ന് ശേഷം OF വേണ്ട, IN SPITE-ന് OF വേണം' — 'despite of' ഒരിക്കലും എഴുതരുത്!\n• ഒരുമിച്ച് പഠിക്കുക: despite + noun, in spite of + noun, although + clause, even though + clause.\n• PSC strategy: blank-ന് ശേഷം noun phrase ആണോ പൂർണ്ണ clause ആണോ എന്ന് നോക്കുക — noun ആണെങ്കിൽ despite / in spite of. ഒരിക്കലും miss ആകില്ല!"
+      }
+    }
+  ]
+}

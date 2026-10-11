@@ -1,0 +1,373 @@
+{
+  "paper": {
+    "id": "78-2017-M",
+    "paperCode": "78/2017 M",
+    "post": "L.D Clerk - Various (Ernakulam, Kannur)",
+    "date": "15-Jul-2017",
+    "medium": "M",
+    "year": "2017",
+    "answerKeyStatus": "final"
+  },
+  "questions": [
+    {
+      "id": "78-2017-M-Q71",
+      "paperId": "78-2017-M",
+      "questionNumber": 71,
+      "topic": "Types of Sentences",
+      "questionText": "'Shut the door' is a/an ______ sentence.",
+      "optionA": "exclamatory",
+      "optionB": "assertive",
+      "optionC": "imperative",
+      "optionD": "interrogative",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) imperative\n• 'Shut the door' ഒരു ആജ്ഞ (command) ആണ് — 'വാതിൽ അടയ്ക്കൂ' എന്നർത്ഥം.\n• ആജ്ഞ, അഭ്യർത്ഥന, ഉപദേശം, നിർദ്ദേശം എന്നിവ പ്രകടിപ്പിക്കുന്ന വാക്യങ്ങളെ imperative sentence എന്ന് പറയുന്നു.\n• Imperative വാക്യത്തിൽ subject ('you') മറഞ്ഞിരിക്കും — വാക്യം നേരിട്ട് verb (Shut) കൊണ്ട് തുടങ്ങുന്നു.\n• (You) shut the door — 'you' പറയാതെ തന്നെ മനസ്സിലാകുന്നു.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Verb കൊണ്ട് തുടങ്ങുന്ന ആജ്ഞ / അഭ്യർത്ഥന = Imperative.\n• നാല് തരം വാക്യങ്ങൾ:\n• Assertive (പ്രസ്താവന) — She is a teacher. | Interrogative (ചോദ്യം) — Are you ready? | Imperative (ആജ്ഞ/അഭ്യർത്ഥന) — Please sit down. | Exclamatory (വികാരപ്രകടനം) — What a lovely day!\n• Imperative-ന്റെ അവസാനം സാധാരണ full stop; ശക്തമായ ആജ്ഞയ്ക്ക് ചിലപ്പോൾ '!'.\n• ⭐ PSC ആവർത്തനം: വാക്യത്തിന്റെ തരം തിരിച്ചറിയുന്ന ചോദ്യം PSC LDC പേപ്പറുകളിൽ സ്ഥിരമാണ്.\n• ഉദാഹരണ sentences:\n1. Open your books. (നിങ്ങളുടെ പുസ്തകങ്ങൾ തുറക്കൂ)\n2. Please help me. (ദയവായി എന്നെ സഹായിക്കൂ)\n3. Don't make a noise. (ശബ്ദമുണ്ടാക്കരുത്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) exclamatory — ആശ്ചര്യം, സന്തോഷം, ദുഃഖം പോലുള്ള ശക്തമായ വികാരങ്ങൾ പ്രകടിപ്പിക്കുന്നു (What a ...! / How ...!).\n• (B) assertive — ഒരു വസ്തുത പ്രസ്താവിക്കുന്നു; 'The door is shut' ആയിരുന്നെങ്കിൽ assertive ആകുമായിരുന്നു.\n• 🪤 PSC Trap: 'door', 'shut' എന്നീ വാക്കുകൾ ഒരു പ്രസ്താവന പോലെ തോന്നിപ്പിക്കും — പക്ഷേ verb-ൽ തുടങ്ങുന്നതിനാൽ ഇത് ആജ്ഞയാണ്!\n• (D) interrogative — ചോദ്യവാക്യം; ചോദ്യചിഹ്നം (?) ഇല്ല, ചോദ്യ ഘടനയുമില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'IMPERATIVE = IMPERIAL (രാജകീയ) ആജ്ഞ' — രാജാവ് verb കൊണ്ട് കൽപ്പിക്കുന്നു: Go! Come! Shut!\n• ഒരുമിച്ച് പഠിക്കുക: assertive (.), interrogative (?), imperative (verb-ൽ തുടക്കം), exclamatory (!).\n• PSC strategy: വാക്യത്തിന്റെ ആദ്യ വാക്ക് നോക്കുക — verb ആണെങ്കിൽ imperative ഉറപ്പ്. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "78-2017-M-Q72",
+      "paperId": "78-2017-M",
+      "questionNumber": 72,
+      "topic": "Words Often Confused",
+      "questionText": "The doctor prescribed an ointment. The patient ______ it according to instruction.",
+      "optionA": "administrated",
+      "optionB": "advised",
+      "optionC": "applied",
+      "optionD": "instructed",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) applied\n• 'Ointment' എന്നാൽ തൊലിപ്പുറത്ത് പുരട്ടുന്ന ലേപനം / കുഴമ്പ്.\n• ലേപനം പുരട്ടുന്നതിന് English-ൽ ഉപയോഗിക്കുന്ന verb 'apply' ആണ് — apply an ointment / cream.\n• 'രോഗി നിർദ്ദേശപ്രകാരം അത് (ലേപനം) പുരട്ടി' എന്നാണ് അർത്ഥം.\n• Apply-ക്ക് 'അപേക്ഷിക്കുക' എന്ന അർത്ഥവും ഉണ്ട്; പക്ഷേ ഇവിടെ 'പുരട്ടുക' എന്ന അർത്ഥമാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Apply + ointment / cream / paint / pressure = പുരട്ടുക / പ്രയോഗിക്കുക.\n• Collocation = ചില വാക്കുകൾ സ്വാഭാവികമായി ഒരുമിച്ച് വരുന്നത്.\n• Medicine-മായി ബന്ധപ്പെട്ട verbs: prescribe (ഡോക്ടർ കുറിക്കുക), take (ഗുളിക കഴിക്കുക), apply (ലേപനം പുരട്ടുക), administer (മരുന്ന് നൽകുക — ഡോക്ടർ/നഴ്സ്).\n• 'administrate' എന്നത് 'ഭരണം നടത്തുക' എന്നർത്ഥം; മരുന്നുമായി ബന്ധമില്ല.\n• ⭐ PSC ആവർത്തനം: സന്ദർഭത്തിന് ചേരുന്ന verb തിരഞ്ഞെടുക്കുന്ന collocation ചോദ്യങ്ങൾ PSC പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. Apply this cream twice a day. (ഈ ക്രീം ദിവസം രണ്ടുതവണ പുരട്ടുക)\n2. The nurse administered the injection. (നഴ്സ് കുത്തിവയ്പ്പ് നൽകി)\n3. She applied for the job. (അവൾ ജോലിക്ക് അപേക്ഷിച്ചു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) administrated — 'ഭരണം നടത്തി' എന്നർത്ഥം; മരുന്ന് നൽകുന്നതിന് 'administered' ആണ് ശരിയായ രൂപം, അതും രോഗി സ്വയം പുരട്ടുന്നതിനല്ല.\n• 🪤 PSC Trap: 'administer medicine' എന്ന പ്രയോഗം ഓർമ്മയിൽ ഉള്ളവരെ 'administrated' എന്ന തെറ്റായ രൂപം കൊണ്ട് വീഴ്ത്താനുള്ള കെണി!\n• (B) advised — 'ഉപദേശിച്ചു' എന്നർത്ഥം; രോഗി ലേപനത്തെ ഉപദേശിക്കില്ല.\n• (D) instructed — 'നിർദ്ദേശിച്ചു' എന്നർത്ഥം; ഡോക്ടർ ചെയ്യുന്ന പ്രവൃത്തിയാണ്, രോഗിയുടേതല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'APPLY = APPLE പോലെ മിനുസമായി തൊലിയിൽ പുരട്ടുക' — ലേപനം, ക്രീം, പെയിന്റ്!\n• ഒരുമിച്ച് പഠിക്കുക: prescribe a medicine, take a tablet, apply an ointment, administer a drug, undergo surgery.\n• PSC strategy: blank-ന്റെ object (ointment) ഏത് പ്രവൃത്തിയോടാണ് സ്വാഭാവികമായി ചേരുന്നത് എന്ന് ആലോചിക്കുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "78-2017-M-Q73",
+      "paperId": "78-2017-M",
+      "questionNumber": 73,
+      "topic": "One Word Substitutes",
+      "questionText": "Arun's father's eldest brother is his favourite:",
+      "optionA": "uncle",
+      "optionB": "parent",
+      "optionC": "cousin",
+      "optionD": "aunt",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) uncle\n• അച്ഛന്റെ സഹോദരൻ (വല്യച്ഛൻ / ചെറിയച്ഛൻ), അമ്മയുടെ സഹോദരൻ (അമ്മാവൻ) — ഇവരെല്ലാം English-ൽ 'uncle' ആണ്.\n• 'father's eldest brother' = അച്ഛന്റെ മൂത്ത സഹോദരൻ = വല്യച്ഛൻ → uncle.\n• 'അരുണിന്റെ അച്ഛന്റെ മൂത്ത സഹോദരൻ അവന്റെ പ്രിയപ്പെട്ട uncle ആണ്' എന്നർത്ഥം.\n• English-ൽ അച്ഛന്റെയും അമ്മയുടെയും ഭാഗത്തെ ബന്ധുക്കൾക്ക് വേറെ വാക്കുകളില്ല — എല്ലാവരും uncle / aunt.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Father's / Mother's BROTHER = Uncle | Father's / Mother's SISTER = Aunt.\n• Uncle-ന്റെയോ Aunt-ന്റെയോ മക്കൾ = Cousin.\n• Parent = അച്ഛനോ അമ്മയോ.\n• Nephew = സഹോദരന്റെ/സഹോദരിയുടെ മകൻ | Niece = സഹോദരന്റെ/സഹോദരിയുടെ മകൾ.\n• ⭐ PSC ആവർത്തനം: കുടുംബബന്ധ വാക്കുകൾ (uncle, cousin, nephew, niece) PSC English-ലും Mental Ability-ലും വരുന്നു.\n• ഉദാഹരണ sentences:\n1. My uncle lives in Dubai. (എന്റെ അമ്മാവൻ ദുബായിലാണ് താമസം)\n2. Her aunt is a teacher. (അവളുടെ അമ്മായി ഒരു അധ്യാപികയാണ്)\n3. Rahul is my cousin. (രാഹുൽ എന്റെ കസിനാണ് — അമ്മാവന്റെ മകൻ)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) parent — അച്ഛനോ അമ്മയോ മാത്രം; അച്ഛന്റെ സഹോദരൻ parent അല്ല.\n• 🪤 PSC Trap: മലയാളത്തിൽ 'വല്യച്ഛൻ' എന്ന വാക്കിൽ 'അച്ഛൻ' ഉള്ളതിനാൽ parent എന്ന് തോന്നിപ്പിക്കുന്ന കെണി!\n• (C) cousin — uncle-ന്റെയോ aunt-ന്റെയോ മക്കളാണ്; uncle സ്വയം cousin അല്ല.\n• (D) aunt — സ്ത്രീ ബന്ധുവാണ് (അച്ഛന്റെ/അമ്മയുടെ സഹോദരി); brother-ന് ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'UNCLE = ആണ്, AUNT = പെണ്ണ്, COUSIN = അവരുടെ കുഞ്ഞ്' — മൂന്ന് തലമുറ ചിത്രം!\n• ഒരുമിച്ച് പഠിക്കുക: uncle, aunt, cousin, nephew, niece, grandparents, in-laws.\n• PSC strategy: കുടുംബബന്ധ ചോദ്യത്തിൽ ആദ്യം gender (brother/sister) നോക്കുക, പിന്നെ തലമുറ. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "78-2017-M-Q74",
+      "paperId": "78-2017-M",
+      "questionNumber": 74,
+      "topic": "Types of Sentences",
+      "questionText": "'Can you lend me a pen, please?'",
+      "optionA": "Yes, here you are!",
+      "optionB": "Yes, here you!",
+      "optionC": "Yes, you can.",
+      "optionD": "Yes, here.",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) Yes, you can.\n• PSC-യുടെ Modified Final Answer Key പ്രകാരം ശരിയുത്തരം (C) ആണ്.\n• 'Can you lend me a pen?' എന്ന അഭ്യർത്ഥനയ്ക്ക് 'Yes' എന്ന് സമ്മതം പ്രകടിപ്പിക്കുന്ന പൂർണ്ണ വാക്യമായി PSC ഇതിനെ സ്വീകരിച്ചു.\n• 'ദയവായി എനിക്ക് ഒരു പേന കടം തരാമോ?' എന്നാണ് ചോദ്യത്തിന്റെ അർത്ഥം.\n• 📝 App note: ഞങ്ങളുടെ അഭിപ്രായത്തിൽ സ്വാഭാവികമായ മറുപടി (A) 'Yes, here you are!' ആണ് — പേന കൈമാറുമ്പോൾ English-ൽ പറയുന്ന പതിവ് വാക്യം അതാണ്. കൂടാതെ (C)-യിൽ 'you can' എന്നതിന് പകരം 'I can' ആണ് യുക്തിപരം. എങ്കിലും പരീക്ഷയിൽ PSC key (C) ആണ് മാർക്ക് നൽകുന്നത്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Request ('Can you ...?') → Response: Yes, sure / Of course / Here you are.\n• 'Can you ...?' ഒരു polite request ആണ് — കഴിവിനെക്കുറിച്ചുള്ള ചോദ്യമല്ല, സഹായം ചോദിക്കലാണ്.\n• എന്തെങ്കിലും കൈമാറുമ്പോൾ: 'Here you are.' / 'Here it is.' / 'Here you go.'\n• Lend = കടം കൊടുക്കുക | Borrow = കടം വാങ്ങുക — 'Can you lend me...?' / 'Can I borrow...?'\n• ⭐ PSC ആവർത്തനം: daily conversation-ലെ ശരിയായ പ്രതികരണം തിരഞ്ഞെടുക്കുന്ന ചോദ്യങ്ങൾ PSC ഇടയ്ക്കിടെ ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. Can you pass the salt? — Here you are. (ഉപ്പ് തരാമോ? — ഇതാ)\n2. Can I borrow your book? — Of course. (നിന്റെ പുസ്തകം കടം വാങ്ങാമോ? — തീർച്ചയായും)\n3. Could you open the window? — Sure. (ജനൽ തുറക്കാമോ? — തീർച്ചയായും)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Yes, here you are! — സംസാരഭാഷയിൽ ഏറ്റവും സ്വാഭാവികമായ മറുപടി; പക്ഷേ PSC key ഇത് സ്വീകരിച്ചില്ല (മുകളിലെ note കാണുക).\n• (B) Yes, here you! — അപൂർണ്ണമായ, വ്യാകരണപരമായി തെറ്റായ രൂപം; 'are' വിട്ടുപോയി.\n• (D) Yes, here. — അപൂർണ്ണമാണ്; ഇത്തരം ചുരുക്ക മറുപടി ഔപചാരിക English-ൽ സ്വീകാര്യമല്ല.\n• 🪤 PSC Trap: B-യും D-യും A-യുടെ മുറിഞ്ഞ രൂപങ്ങളാണ് — പൂർണ്ണ വാക്യം ശ്രദ്ധിക്കാത്തവരെ വീഴ്ത്താനുള്ള കെണി!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Here you ARE — ARE ഇല്ലാതെ കൈമാറ്റം പൂർണ്ണമാകില്ല!'\n• ഒരുമിച്ച് പഠിക്കുക: Here you are / Here it is / Sure / Of course / Certainly / No problem — അഭ്യർത്ഥനകൾക്കുള്ള മറുപടികൾ.\n• PSC strategy: ഇത്തരം ചോദ്യങ്ങളിൽ അപൂർണ്ണമായ options (here you!, here.) ആദ്യം വെട്ടുക; ഈ പേപ്പറിൽ PSC key (C) ആണെന്ന് ഓർത്തിരിക്കുക."
+      }
+    },
+    {
+      "id": "78-2017-M-Q75",
+      "paperId": "78-2017-M",
+      "questionNumber": 75,
+      "topic": "Prepositions",
+      "questionText": "The speaker drew the attention of the audience ______ the burning issues.",
+      "optionA": "into",
+      "optionB": "towards",
+      "optionC": "from",
+      "optionD": "to",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) to\n• 'Draw (someone's) attention to something' എന്നത് ഒരു fixed expression ആണ് — ഒരു കാര്യത്തിലേക്ക് ശ്രദ്ധ ക്ഷണിക്കുക.\n• 'പ്രഭാഷകൻ സദസ്സിന്റെ ശ്രദ്ധ കത്തിനിൽക്കുന്ന പ്രശ്നങ്ങളിലേക്ക് ക്ഷണിച്ചു' എന്നർത്ഥം.\n• 'burning issues' = അടിയന്തര പ്രാധാന്യമുള്ള വിഷയങ്ങൾ.\n• Attention-നൊപ്പം വരുന്ന preposition എപ്പോഴും 'to' ആണ്: pay attention to, draw attention to.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: ATTENTION + TO (draw attention to, pay attention to, call attention to).\n• ഇത് ഒരു fixed collocation ആണ് — മറ്റ് preposition-കൾ ചേരില്ല.\n• സമാന noun + to: reply to, answer to, key to, solution to, invitation to.\n• ⭐ PSC ആവർത്തനം: 'pay attention to', 'draw attention to' — PSC preposition ചോദ്യങ്ങളിലെ സ്ഥിരം ഇനം!\n• ഉദാഹരണ sentences:\n1. Pay attention to the teacher. (ടീച്ചറെ ശ്രദ്ധിക്കൂ)\n2. She drew my attention to the mistake. (അവൾ തെറ്റിലേക്ക് എന്റെ ശ്രദ്ധ ക്ഷണിച്ചു)\n3. This is the key to success. (ഇതാണ് വിജയത്തിന്റെ താക്കോൽ)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) into — ഒന്നിന്റെ ഉള്ളിലേക്കുള്ള ചലനം; attention-നൊപ്പം ചേരില്ല.\n• (B) towards — 'ദിശയിലേക്ക്' എന്നർത്ഥം; അർത്ഥം അടുത്താണെങ്കിലും fixed collocation 'to' ആണ്.\n• 🪤 PSC Trap: മലയാളത്തിലെ 'ലേക്ക്' എന്നതിന്റെ നേർ വിവർത്തനമായി 'towards' തോന്നിപ്പിക്കുന്ന കെണി!\n• (C) from — 'നിന്ന്' എന്നർത്ഥം; ശ്രദ്ധ മാറ്റുക (divert attention from) എന്ന വിപരീത അർത്ഥം നൽകും.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ATTENTION-ന്റെ കൂട്ടുകാരൻ TO' — attenTiOn-ൽ തന്നെ T-O ഉണ്ട്!\n• ഒരുമിച്ച് പഠിക്കുക: draw attention to, pay attention to, divert attention from, attract attention.\n• PSC strategy: noun-ന്റെ fixed preposition ഓർമ്മയിൽ നിന്ന് എടുക്കുക — മലയാള വിവർത്തനം നോക്കി ഊഹിക്കരുത്. guaranteed mark!"
+      }
+    },
+    {
+      "id": "78-2017-M-Q76",
+      "paperId": "78-2017-M",
+      "questionNumber": 76,
+      "topic": "One Word Substitutes",
+      "questionText": "One who talks in sleep is:",
+      "optionA": "somnambulist",
+      "optionB": "garrulous",
+      "optionC": "credulous",
+      "optionD": "somniloquent",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) somniloquent\n• 'Somniloquent' / 'somniloquist' = ഉറക്കത്തിൽ സംസാരിക്കുന്നയാൾ.\n• Latin 'somnus' (ഉറക്കം) + 'loqui' (സംസാരിക്കുക) = ഉറക്കത്തിൽ സംസാരിക്കുക.\n• Noun രൂപം: somniloquy (ഉറക്കത്തിലെ സംസാരം).\n• ഈ വാക്കിനെ root-കളായി പിരിച്ചാൽ അർത്ഥം വ്യക്തമാകും.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: SOMNI (ഉറക്കം) + LOQU (സംസാരം) = Somniloquent | SOMNAMBUL (ഉറക്കത്തിൽ നടക്കൽ) = Somnambulist.\n• 'Loqu' കുടുംബം: eloquent (വാക്ചാതുര്യമുള്ള), loquacious (വായാടി), soliloquy (ആത്മഗതം), ventriloquist (ശബ്ദം മാറ്റി സംസാരിക്കുന്നയാൾ).\n• 'Somn' കുടുംബം: insomnia (ഉറക്കമില്ലായ്മ), somnolent (ഉറക്കം തൂങ്ങുന്ന).\n• ⭐ PSC ആവർത്തനം: somnambulist / somniloquist ജോഡി PSC-യിൽ വളരെ പ്രിയപ്പെട്ട one-word substitute ആണ്!\n• ഉദാഹരണ sentences:\n1. My brother is somniloquent. (എന്റെ സഹോദരൻ ഉറക്കത്തിൽ സംസാരിക്കും)\n2. A somnambulist walks in sleep. (ഉറക്കത്തിൽ നടക്കുന്നയാളാണ് somnambulist)\n3. He suffers from insomnia. (അവന് ഉറക്കമില്ലായ്മയുണ്ട്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) somnambulist — ഉറക്കത്തിൽ നടക്കുന്നയാൾ ('ambulare' = നടക്കുക); സംസാരിക്കുന്നയാളല്ല.\n• 🪤 PSC Trap: 'somn' എന്ന് രണ്ടിലും ഉള്ളതിനാൽ somnambulist-നെ ശരിയുത്തരമായി തെറ്റിദ്ധരിപ്പിക്കാനുള്ള ക്ലാസിക് കെണി!\n• (B) garrulous — അമിതമായി, അനാവശ്യമായി സംസാരിക്കുന്ന (വായാടി); ഉറക്കവുമായി ബന്ധമില്ല.\n• (C) credulous — എന്തും പെട്ടെന്ന് വിശ്വസിക്കുന്ന; സംസാരവുമായി ബന്ധമില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'AMBULance = നടന്നു കൊണ്ടുപോകുന്നു → somnAMBUList നടക്കുന്നു | eLOQUent സംസാരിക്കുന്നു → somniLOQUent സംസാരിക്കുന്നു'!\n• ഒരുമിച്ച് പഠിക്കുക: somnambulist, somniloquist, insomnia, eloquent, loquacious, garrulous.\n• PSC strategy: one-word substitute-ൽ വാക്കിന്റെ രണ്ടാം ഭാഗം (ambul / loqu) ശ്രദ്ധിക്കുക — അതാണ് പ്രവൃത്തി പറയുന്നത്. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "78-2017-M-Q77",
+      "paperId": "78-2017-M",
+      "questionNumber": 77,
+      "topic": "Tenses",
+      "questionText": "The train started after we ______ for about an hour.",
+      "optionA": "had played",
+      "optionB": "have been played",
+      "optionC": "were playing",
+      "optionD": "have been playing",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) had played\n• വാക്യത്തിൽ രണ്ട് past actions ഉണ്ട്: ഞങ്ങൾ കളിച്ചത് (ആദ്യം), ട്രെയിൻ പുറപ്പെട്ടത് (പിന്നീട്).\n• 'after' കഴിഞ്ഞുവരുന്ന, ആദ്യം പൂർത്തിയായ പ്രവൃത്തിക്ക് past perfect (had + V3) ഉപയോഗിക്കുന്നു.\n• 'ഏകദേശം ഒരു മണിക്കൂർ ഞങ്ങൾ കളിച്ചതിനു ശേഷമാണ് ട്രെയിൻ പുറപ്പെട്ടത്' എന്നർത്ഥം.\n• Main clause (started) simple past ആയതിനാൽ present perfect forms ഒന്നും ചേരില്ല.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: V2 (പിന്നീട്) + after + had + V3 (ആദ്യം).\n• After / before / when / by the time — രണ്ട് past actions-ന്റെ ക്രമം കാണിക്കുന്ന signal words.\n• ഒരു സമയദൈർഘ്യം (for an hour) ഊന്നിപ്പറയാൻ 'had been + V-ing' (past perfect continuous) ഉപയോഗിക്കാം — പക്ഷേ അത് options-ൽ ഇല്ല.\n• Past സന്ദർഭത്തിൽ has/have (present) ഉപയോഗിക്കാനാവില്ല.\n• ⭐ PSC ആവർത്തനം: before / after ഉള്ള past perfect ചോദ്യങ്ങൾ PSC LDC പേപ്പറുകളിൽ സ്ഥിരമാണ്.\n• ഉദാഹരണ sentences:\n1. We left after we had eaten. (ഭക്ഷണം കഴിച്ചതിനു ശേഷം ഞങ്ങൾ പോയി)\n2. The bell rang after the teacher had left. (ടീച്ചർ പോയതിനു ശേഷം ബെൽ അടിച്ചു)\n3. He slept after he had finished his work. (ജോലി തീർത്തതിനു ശേഷം അവൻ ഉറങ്ങി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) have been played — present perfect passive; 'ഞങ്ങൾ കളിക്കപ്പെട്ടു' എന്ന വിചിത്ര അർത്ഥം, tense-ഉം തെറ്റ്.\n• (C) were playing — past continuous; പ്രവൃത്തി പൂർത്തിയായി എന്ന് കാണിക്കുന്നില്ല, 'after' എന്ന ക്രമവുമായി ചേരില്ല.\n• (D) have been playing — present perfect continuous; past സന്ദർഭത്തിൽ (started) ഉപയോഗിക്കാനാവില്ല.\n• 🪤 PSC Trap: 'for about an hour' കണ്ട് perfect continuous (have been playing) ഇടാൻ തോന്നും — പക്ഷേ past വാക്യത്തിൽ 'have' ചേരില്ല!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'AFTER-ന് ശേഷം HAD' — ആദ്യം കഴിഞ്ഞതിന് had എന്ന തൊപ്പി!\n• ഒരുമിച്ച് പഠിക്കുക: had + V3 (past perfect), had been + V-ing (past perfect continuous), has/have + V3 (present perfect).\n• PSC strategy: main verb past (V2) ആണെങ്കിൽ has / have ഉള്ള options ഉടനെ വെട്ടുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "78-2017-M-Q78",
+      "paperId": "78-2017-M",
+      "questionNumber": 78,
+      "topic": "Conditionals",
+      "questionText": "He would not have failed if he ______ enough money.",
+      "optionA": "would have",
+      "optionB": "had had",
+      "optionC": "would have had",
+      "optionD": "was having",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) had had\n• Main clause-ൽ 'would not have failed' (would have + V3) ഉണ്ട് — ഇത് third conditional ആണ്.\n• Third conditional-ന്റെ if-clause-ൽ 'had + V3' വേണം.\n• ഇവിടെ main verb 'have' തന്നെ ആയതിനാൽ: had (auxiliary) + had (have-ന്റെ V3) = had had.\n• 'അവന് ആവശ്യത്തിന് പണം ഉണ്ടായിരുന്നെങ്കിൽ അവൻ പരാജയപ്പെടുമായിരുന്നില്ല' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: would have + V3 ↔ If + had + V3 → have-ന്റെ V3 = had → HAD HAD!\n• 'had had' വ്യാകരണപരമായി ശരിയാണ് — ആദ്യത്തെ had auxiliary, രണ്ടാമത്തേത് main verb.\n• If-clause-ൽ ഒരിക്കലും 'would' വരില്ല — would main clause-ൽ മാത്രം.\n• First: If + present → will | Second: If + past → would | Third: If + had + V3 → would have + V3.\n• ⭐ PSC ആവർത്തനം: 'had had' എന്ന അസാധാരണ രൂപം PSC പല തവണ ചോദിച്ചിട്ടുണ്ട് — പലരും ഇത് തെറ്റാണെന്ന് കരുതി ഒഴിവാക്കും!\n• ഉദാഹരണ sentences:\n1. If I had had time, I would have helped you. (സമയം ഉണ്ടായിരുന്നെങ്കിൽ ഞാൻ നിന്നെ സഹായിക്കുമായിരുന്നു)\n2. If she had had a car, she would have come. (കാർ ഉണ്ടായിരുന്നെങ്കിൽ അവൾ വരുമായിരുന്നു)\n3. If he had studied, he would have passed. (പഠിച്ചിരുന്നെങ്കിൽ അവൻ ജയിക്കുമായിരുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) would have — if-clause-ൽ 'would' ഒരിക്കലും വരില്ല.\n• (C) would have had — ഇതും if-clause-ൽ 'would' ഉപയോഗിക്കുന്നതിനാൽ തെറ്റ്; main clause-ന്റെ രൂപമാണിത്.\n• 🪤 PSC Trap: main clause-ലെ 'would have' കണ്ട് if-clause-ലും അതേ രൂപം ഇടാൻ പ്രേരിപ്പിക്കുന്ന കെണി!\n• (D) was having — past continuous; third conditional ഘടനയുമായി ചേരില്ല, കൂടാതെ ഉടമസ്ഥത കാണിക്കുന്ന 'have' continuous-ൽ സാധാരണ വരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'HAD HAD കണ്ട് പേടിക്കേണ്ട — ആദ്യത്തേത് സഹായി, രണ്ടാമത്തേത് യജമാനൻ!'\n• ഒരുമിച്ച് പഠിക്കുക: had had (third conditional), had been (be-ന്റെ), had done (do-യുടെ), had gone (go-യുടെ).\n• PSC strategy: if-clause blank-ൽ 'would' ഉള്ള options ആദ്യം വെട്ടുക; main clause-ൽ would have ഉണ്ടെങ്കിൽ had + V3 ഉറപ്പ്. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "78-2017-M-Q79",
+      "paperId": "78-2017-M",
+      "questionNumber": 79,
+      "topic": "One Word Substitutes",
+      "questionText": "A government controlled by the rich:",
+      "optionA": "oligarchy",
+      "optionB": "aristocracy",
+      "optionC": "plutocracy",
+      "optionD": "democracy",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) plutocracy\n• 'Plutocracy' = ധനികരുടെ ഭരണം — സമ്പന്നർ നിയന്ത്രിക്കുന്ന സർക്കാർ.\n• Greek 'ploutos' (സമ്പത്ത്) + 'kratos' (ഭരണം / ശക്തി) = സമ്പത്തിന്റെ ഭരണം.\n• ഗ്രീക്ക് പുരാണത്തിൽ 'Plutus' സമ്പത്തിന്റെ ദേവനാണ് — അതാണ് ഈ വാക്കിന്റെ ഉത്ഭവം.\n• '-cracy' എന്ന suffix എപ്പോഴും 'ഭരണം' എന്ന അർത്ഥം നൽകുന്നു.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: -CRACY = ഭരണം | PLUTO = സമ്പത്ത് → Plutocracy = ധനികഭരണം.\n• -cracy കുടുംബം:\n• democracy (ജനങ്ങളുടെ ഭരണം) | autocracy (ഏകാധിപത്യം) | oligarchy (ചെറുസംഘത്തിന്റെ ഭരണം) | aristocracy (പ്രഭുക്കന്മാരുടെ ഭരണം) | theocracy (മതനേതാക്കളുടെ ഭരണം) | bureaucracy (ഉദ്യോഗസ്ഥ ഭരണം) | gerontocracy (വൃദ്ധരുടെ ഭരണം).\n• ⭐ PSC ആവർത്തനം: ഭരണരീതികളുടെ one-word substitutes PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കപ്പെട്ട വിഭാഗമാണ്!\n• ഉദാഹരണ sentences:\n1. Critics called the country a plutocracy. (വിമർശകർ ആ രാജ്യത്തെ ധനികഭരണം എന്ന് വിളിച്ചു)\n2. India is a democracy. (ഇന്ത്യ ഒരു ജനാധിപത്യ രാജ്യമാണ്)\n3. A small group ruled in that oligarchy. (ആ ഭരണത്തിൽ ഒരു ചെറുസംഘം ഭരിച്ചു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) oligarchy — ഏതാനും ചിലരുടെ (ചെറുസംഘത്തിന്റെ) ഭരണം; അവർ ധനികർ ആകണമെന്നില്ല.\n• 🪤 PSC Trap: oligarchy-യിലെ ഭരണാധികാരികൾ പലപ്പോഴും ധനികരായതിനാൽ ആശയക്കുഴപ്പം ഉണ്ടാക്കാനുള്ള കെണി — പക്ഷേ 'സമ്പത്ത്' എന്ന അർത്ഥം plutocracy-ക്ക് മാത്രം!\n• (B) aristocracy — കുലീനരുടെ / പ്രഭുക്കന്മാരുടെ ഭരണം; ജന്മം കൊണ്ടുള്ള പദവിയാണ് അടിസ്ഥാനം.\n• (D) democracy — ജനങ്ങളാൽ, ജനങ്ങൾക്ക് വേണ്ടിയുള്ള ഭരണം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'PLUTO-ക്രസി = PLENTY of money-യുടെ ഭരണം' — സമ്പത്തിന്റെ ദേവൻ Plutus!\n• ഒരുമിച്ച് പഠിക്കുക: plutocracy (ധനികർ), aristocracy (പ്രഭുക്കൾ), theocracy (പുരോഹിതർ), autocracy (ഒരാൾ), oligarchy (ചിലർ), democracy (ജനങ്ങൾ).\n• PSC strategy: -cracy വാക്കുകളിൽ ആദ്യ ഭാഗത്തിന്റെ root അർത്ഥം പഠിക്കുക — ചോദ്യത്തിലെ സൂചനയുമായി (rich) ചേർക്കുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "78-2017-M-Q80",
+      "paperId": "78-2017-M",
+      "questionNumber": 80,
+      "topic": "Idioms",
+      "questionText": "Write the correct meaning of the idiomatic expression '__a big bug__':",
+      "optionA": "monster",
+      "optionB": "a villain",
+      "optionC": "a saint",
+      "optionD": "a person of importance",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) a person of importance\n• 'A big bug' (big shot, bigwig) = സമൂഹത്തിൽ സ്വാധീനമുള്ള, പ്രധാനപ്പെട്ട വ്യക്തി.\n• അക്ഷരാർത്ഥത്തിൽ 'വലിയ പ്രാണി' എന്നാണെങ്കിലും, idiom ആയി 'വലിയ ആൾ / പ്രമുഖൻ' എന്നർത്ഥം.\n• മലയാളത്തിൽ 'വലിയ പുള്ളി', 'വമ്പൻ' എന്ന് പറയുന്നതിനോട് സമാനം.\n• സാധാരണയായി അൽപം പരിഹാസ ഭാവത്തോടെയും ഉപയോഗിക്കാറുണ്ട്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Big bug = Big shot = Bigwig = Big gun = പ്രമുഖ വ്യക്തി.\n• ഇതേ അർത്ഥമുള്ള മറ്റ് പ്രയോഗങ്ങൾ: VIP, big fish (in a small pond), top dog.\n• Idiom-ന്റെ അർത്ഥം വാക്കുകളുടെ അക്ഷരാർത്ഥത്തിൽ നിന്ന് വ്യത്യസ്തമാണ് — figurative അർത്ഥമാണ് പ്രധാനം.\n• ⭐ PSC ആവർത്തനം: 'big' ഉള്ള idioms (big bug, big gun, big fish) PSC ഇടയ്ക്കിടെ ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. He is a big bug in politics. (അവൻ രാഷ്ട്രീയത്തിലെ ഒരു വമ്പനാണ്)\n2. Many big shots attended the wedding. (വിവാഹത്തിൽ പല പ്രമുഖരും പങ്കെടുത്തു)\n3. The bigwigs of the company met today. (കമ്പനിയിലെ ഉന്നതർ ഇന്ന് യോഗം ചേർന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) monster — 'ഭീകരജീവി' എന്നർത്ഥം; 'big bug' = വലിയ പ്രാണി എന്ന അക്ഷരാർത്ഥത്തിൽ നിന്ന് ഊഹിക്കുന്ന കെണി.\n• 🪤 PSC Trap: 'bug' (പ്രാണി) വലുതായാൽ ഭീകരജീവി എന്ന literal ചിന്തയെ ഉപയോഗിക്കുന്ന കെണി!\n• (B) a villain — 'ദുഷ്ടൻ, വില്ലൻ' എന്നർത്ഥം; idiom-ന് ഈ അർത്ഥമില്ല.\n• (C) a saint — 'വിശുദ്ധൻ' എന്നർത്ഥം; ബന്ധമില്ലാത്ത option.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'BIG BUG = BIG BOSS' — ഓഫീസിലെ വലിയ ആൾ!\n• ഒരുമിച്ച് പഠിക്കുക: big bug, big shot, bigwig, big gun, big fish, top dog — എല്ലാം 'പ്രമുഖൻ'.\n• PSC strategy: idiom ചോദ്യത്തിൽ literal അർത്ഥത്തോട് അടുത്ത option (monster) ആദ്യം വെട്ടുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "78-2017-M-Q81",
+      "paperId": "78-2017-M",
+      "questionNumber": 81,
+      "topic": "Spelling",
+      "questionText": "The correctly spelt word below is:",
+      "optionA": "discrimination",
+      "optionB": "descrimination",
+      "optionC": "descremination",
+      "optionD": "discremenation",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) discrimination\n• ശരിയായ spelling: D-I-S-C-R-I-M-I-N-A-T-I-O-N (dis-cri-mi-na-tion).\n• 'Discrimination' എന്നാൽ വിവേചനം — ജാതി, മതം, ലിംഗം എന്നിവയുടെ അടിസ്ഥാനത്തിൽ ആളുകളെ വേർതിരിച്ച് കാണുക.\n• 'dis-' എന്ന prefix 'i' കൊണ്ടാണ്, 'e' കൊണ്ടല്ല.\n• 'crimin' ഭാഗത്ത് മൂന്ന് 'i' ഉണ്ട് — cr-I-m-I-n-A.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: DIS + CRIMIN + ATION — 'dis' (i), 'crimin' (i, i).\n• Verb: discriminate (വിവേചനം കാണിക്കുക) → Noun: discrimination.\n• Etymology hint: Latin 'discriminare' = വേർതിരിക്കുക; 'discernere' (തിരിച്ചറിയുക) എന്നതുമായി ബന്ധം.\n• 'dis-' prefix ഉള്ള മറ്റ് വാക്കുകൾ: discuss, discover, distinguish — എല്ലാം 'dis', 'des' അല്ല.\n• ⭐ PSC ആവർത്തനം: dis- / des- ആശയക്കുഴപ്പമുള്ള spelling (describe vs discriminate) PSC പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. Discrimination based on caste is a crime. (ജാതിയുടെ അടിസ്ഥാനത്തിലുള്ള വിവേചനം കുറ്റകരമാണ്)\n2. Do not discriminate against anyone. (ആരോടും വിവേചനം കാണിക്കരുത്)\n3. The law forbids discrimination. (നിയമം വിവേചനം നിരോധിക്കുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) descrimination — 'dis'-ന് പകരം 'des' എന്ന് എഴുതിയിരിക്കുന്നു; തെറ്റ്.\n• 🪤 PSC Trap: 'describe', 'despite' പോലുള്ള 'des-' വാക്കുകളുടെ ശീലം കാരണം ഈ option ശരിയായി തോന്നും!\n• (C) descremination — 'des' തെറ്റ്, കൂടാതെ 'crim'-ന് പകരം 'crem' — രണ്ട് തെറ്റുകൾ.\n• (D) discremenation — 'dis' ശരിയാണ്, പക്ഷേ 'crimin'-ന് പകരം 'cremen' — തെറ്റായ spelling.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'DISCRIMINATION-ൽ CRIMINAL ഒളിച്ചിരിപ്പുണ്ട്!' — dis-CRIMINA-tion — വിവേചനം ഒരു കുറ്റമാണ് (crime)!\n• ഒരുമിച്ച് പഠിക്കുക: discriminate, criminal, discipline, describe (des-), despair (des-).\n• PSC strategy: spelling options-ൽ ആദ്യം prefix (dis/des) പരിശോധിക്കുക, പിന്നെ മധ്യഭാഗത്തെ vowels. guaranteed mark!"
+      }
+    },
+    {
+      "id": "78-2017-M-Q82",
+      "paperId": "78-2017-M",
+      "questionNumber": 82,
+      "topic": "Antonyms",
+      "questionText": "The opposite of '__innocent__' is:",
+      "optionA": "guilty",
+      "optionB": "poor",
+      "optionC": "rough",
+      "optionD": "proud",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) guilty\n• 'Innocent' എന്നാൽ നിരപരാധിയായ, കുറ്റം ചെയ്യാത്ത.\n• 'Guilty' എന്നാൽ കുറ്റക്കാരനായ, കുറ്റം ചെയ്ത.\n• നിരപരാധി ↔ കുറ്റവാളി — അതുകൊണ്ട് innocent-ന്റെ opposite guilty.\n• കോടതി വിധികളിൽ ഈ ജോഡി സ്ഥിരമായി കേൾക്കാം: 'found guilty' / 'found innocent'.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Innocent (നിരപരാധി) ↔ Guilty (കുറ്റക്കാരൻ).\n• Innocent-ന് 'കളങ്കമില്ലാത്ത, നിഷ്കളങ്കനായ' എന്ന അർത്ഥവുമുണ്ട് (an innocent child).\n• Etymology hint: Latin 'in' (ഇല്ല) + 'nocere' (ദ്രോഹിക്കുക) = ദ്രോഹം ചെയ്യാത്തവൻ.\n• Noun രൂപങ്ങൾ: innocence (നിരപരാധിത്വം) ↔ guilt (കുറ്റബോധം / കുറ്റം).\n• ⭐ PSC ആവർത്തനം: ലളിതമായ antonym ജോഡികൾ (innocent-guilty, ancient-modern) LDC പേപ്പറുകളിൽ സ്ഥിരം.\n• ഉദാഹരണ sentences:\n1. The court found him guilty. (കോടതി അവനെ കുറ്റക്കാരനായി കണ്ടെത്തി)\n2. She proved that she was innocent. (താൻ നിരപരാധിയാണെന്ന് അവൾ തെളിയിച്ചു)\n3. Children have innocent smiles. (കുട്ടികൾക്ക് നിഷ്കളങ്കമായ ചിരിയുണ്ട്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) poor — 'ദരിദ്രൻ' എന്നർത്ഥം; rich-ന്റെ opposite ആണ്, innocent-ന്റേതല്ല.\n• (C) rough — 'പരുക്കൻ' എന്നർത്ഥം; smooth / gentle-ന്റെ opposite.\n• (D) proud — 'അഹങ്കാരിയായ / അഭിമാനമുള്ള' എന്നർത്ഥം; humble-ന്റെ opposite.\n• 🪤 PSC Trap: innocent-ന്റെ 'നിഷ്കളങ്കൻ / സാധു' എന്ന അർത്ഥം ഓർത്ത് proud / rough തിരഞ്ഞെടുക്കാൻ തോന്നാം — പക്ഷേ നേർ വിപരീതം guilty മാത്രം!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'IN-NOCENT = NO-CRIME | GUILTY = GUILT ഉള്ളവൻ' — കോടതിയിലെ രണ്ട് വിധികൾ!\n• ഒരുമിച്ച് പഠിക്കുക: innocent ↔ guilty, humble ↔ proud, rich ↔ poor, smooth ↔ rough.\n• PSC strategy: ഓരോ option-ന്റെയും സ്വന്തം opposite മനസ്സിൽ പറയുക — innocent തിരികെ വരുന്നത് ഏതിൽ എന്ന് നോക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "78-2017-M-Q83",
+      "paperId": "78-2017-M",
+      "questionNumber": 83,
+      "topic": "Words Often Confused",
+      "questionText": "The rider ______ his horse to victory.",
+      "optionA": "road",
+      "optionB": "rode",
+      "optionC": "rod",
+      "optionD": "rid",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) rode\n• 'Ride' (കുതിര / വാഹനം ഓടിക്കുക) എന്ന verb-ന്റെ past tense 'rode' ആണ്.\n• ride → rode → ridden (V1 → V2 → V3).\n• 'കുതിരക്കാരൻ തന്റെ കുതിരയെ വിജയത്തിലേക്ക് ഓടിച്ചു' എന്നർത്ഥം.\n• 'road'-ഉം 'rode'-ഉം ഒരേ പോലെ ഉച്ചരിക്കുന്ന homophones ആണ് — spelling ആണ് വ്യത്യാസം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: RIDE → RODE → RIDDEN (verb) | ROAD = വഴി (noun).\n• Homophones = ഒരേ ഉച്ചാരണം, വ്യത്യസ്ത spelling-ഉം അർത്ഥവും.\n• rod = വടി, കമ്പി (noun) | rid = ഒഴിവാക്കുക (get rid of) — rid-ന്റെ past-ഉം rid തന്നെ.\n• സമാന verbs: write → wrote → written | drive → drove → driven | rise → rose → risen.\n• ⭐ PSC ആവർത്തനം: road/rode, peace/piece, weak/week പോലുള്ള homophones PSC-യിൽ സ്ഥിരം.\n• ഉദാഹരണ sentences:\n1. She rode a bicycle to school. (അവൾ സൈക്കിളിൽ സ്കൂളിൽ പോയി)\n2. This road leads to Kochi. (ഈ റോഡ് കൊച്ചിയിലേക്കാണ്)\n3. We got rid of the old furniture. (ഞങ്ങൾ പഴയ ഫർണിച്ചർ ഒഴിവാക്കി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) road — 'വഴി / റോഡ്' എന്നർത്ഥമുള്ള noun; verb ആയി ഉപയോഗിക്കാനാവില്ല.\n• 🪤 PSC Trap: road-ഉം rode-ഉം ഒരേ പോലെ ഉച്ചരിക്കുന്നതിനാൽ ശബ്ദം കേട്ട് ഉത്തരം ഇടുന്നവരെ വീഴ്ത്താനുള്ള homophone കെണി!\n• (C) rod — 'വടി' എന്നർത്ഥമുള്ള noun; ഇവിടെ ചേരില്ല.\n• (D) rid — 'ഒഴിവാക്കുക' എന്നർത്ഥം; കുതിര ഓടിക്കുക എന്ന അർത്ഥമില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ROAD-ൽ A ഉണ്ട് — A for Asphalt (ടാർ)' | 'RODE-ൽ E ഉണ്ട് — E for Equestrian (കുതിരസവാരി)'!\n• ഒരുമിച്ച് പഠിക്കുക: road/rode/rowed, rain/reign/rein, sail/sale, there/their.\n• PSC strategy: blank-ൽ verb ആണോ noun ആണോ വേണ്ടത് എന്ന് ആദ്യം തീരുമാനിക്കുക — subject-ന് ശേഷം verb (rode). guaranteed mark!"
+      }
+    },
+    {
+      "id": "78-2017-M-Q84",
+      "paperId": "78-2017-M",
+      "questionNumber": 84,
+      "topic": "Subject-Verb Agreement",
+      "questionText": "One of the men ______ reached the top of the mountain.",
+      "optionA": "has",
+      "optionB": "are",
+      "optionC": "were",
+      "optionD": "have",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) has\n• 'One of the men' എന്നതിൽ യഥാർത്ഥ subject 'One' ആണ് — singular.\n• Singular subject-ന് singular auxiliary 'has' വേണം — has reached (present perfect).\n• 'ആ മനുഷ്യരിൽ ഒരാൾ മലയുടെ മുകളിൽ എത്തിയിരിക്കുന്നു' എന്നർത്ഥം.\n• 'reached' (V3) ഉള്ളതിനാൽ has/have + V3 = present perfect ആണ് ഘടന.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: One of the + plural noun + SINGULAR verb (is / was / has).\n• 'of the men' എന്ന phrase verb-നെ ബാധിക്കില്ല — subject 'one' തന്നെ.\n• Each of, Every one of, Neither of, Either of — എല്ലാം singular verb.\n• Present perfect: singular → has + V3 | plural → have + V3.\n• ⭐ PSC ആവർത്തനം: 'One of the ...' agreement — PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിക്കപ്പെട്ട ചോദ്യങ്ങളിൽ ഒന്ന്!\n• ഉദാഹരണ sentences:\n1. One of my friends has gone abroad. (എന്റെ സുഹൃത്തുക്കളിൽ ഒരാൾ വിദേശത്ത് പോയി)\n2. One of the students was absent. (വിദ്യാർത്ഥികളിൽ ഒരാൾ ഹാജരായില്ല)\n3. Each of the girls has a bag. (ഓരോ പെൺകുട്ടിക്കും ഒരു ബാഗുണ്ട്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) are — plural verb; കൂടാതെ 'are reached' passive അർത്ഥം നൽകും — രണ്ട് തരത്തിലും തെറ്റ്.\n• (C) were — plural past; 'were reached' passive ആണ്, കൂടാതെ subject singular ആണ്.\n• (D) have — plural auxiliary; 'men' കണ്ട് plural ഇടുന്നത് തെറ്റ്.\n• 🪤 PSC Trap: verb-ന് തൊട്ടുമുമ്പുള്ള 'men' (plural) കാണിച്ച് have തിരഞ്ഞെടുപ്പിക്കാനുള്ള ക്ലാസിക് കെണി!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ONE-ന് കൂട്ട് HAS — ഒന്നിന് ഒന്ന് മതി!'\n• ഒരുമിച്ച് പഠിക്കുക: one of, each of, every one of, neither of, either of → is / was / has.\n• PSC strategy: 'of the' മുതൽ verb വരെയുള്ള ഭാഗം വിരൽ കൊണ്ട് മറയ്ക്കുക — 'One ___ reached' എന്ന് വായിക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "78-2017-M-Q85",
+      "paperId": "78-2017-M",
+      "questionNumber": 85,
+      "topic": "Question Tags",
+      "questionText": "She has finished her work, ______",
+      "optionA": "hasn't she?",
+      "optionB": "has she?",
+      "optionC": "isn't she?",
+      "optionD": "is she?",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) hasn't she?\n• വാക്യം positive ആണ് — അതുകൊണ്ട് tag negative ആകണം.\n• വാക്യത്തിലെ auxiliary 'has' ആണ് — tag-ലും അതേ auxiliary തന്നെ: has → hasn't.\n• Subject 'she' — tag-ലും 'she'.\n• 'അവൾ ജോലി തീർത്തു, അല്ലേ?' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Positive + has → hasn't + subject? | Negative + hasn't → has + subject?\n• Tag-ൽ എപ്പോഴും വാക്യത്തിലെ അതേ auxiliary ഉപയോഗിക്കണം (has → hasn't, is → isn't, was → wasn't).\n• Tag-ൽ pronoun മാത്രം — noun ഒരിക്കലും വരില്ല.\n• Auxiliary ഇല്ലാത്ത simple present/past-ൽ do/does/did ഉപയോഗിക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: present perfect (has/have) ഉള്ള question tags PSC പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. He has left, hasn't he? (അവൻ പോയി, അല്ലേ?)\n2. They have arrived, haven't they? (അവർ എത്തി, അല്ലേ?)\n3. She hasn't eaten, has she? (അവൾ കഴിച്ചിട്ടില്ല, അല്ലേ?)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) has she? — positive tag ആണ്; positive statement-ന് negative tag വേണം.\n• (C) isn't she? — auxiliary തെറ്റാണ്; വാക്യത്തിൽ 'is' അല്ല, 'has' ആണ്.\n• 🪤 PSC Trap: 'she's finished' എന്ന് ചുരുക്കി കേൾക്കുമ്പോൾ 's = is എന്ന് തെറ്റിദ്ധരിച്ച് 'isn't she' ഇടാൻ തോന്നും — ഇവിടെ 's = has!\n• (D) is she? — auxiliary-യും polarity-യും രണ്ടും തെറ്റ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'വാക്യത്തിലെ സഹായി തന്നെ tag-ലും സഹായി — HAS വന്നാൽ HASN'T'!\n• ഒരുമിച്ച് പഠിക്കുക: has → hasn't, have → haven't, had → hadn't, is → isn't, was → wasn't.\n• PSC strategy: ആദ്യം വാക്യത്തിലെ auxiliary underline ചെയ്യുക, പിന്നെ positive/negative നോക്കുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "78-2017-M-Q86",
+      "paperId": "78-2017-M",
+      "questionNumber": 86,
+      "topic": "Direct and Indirect Speech",
+      "questionText": "He ordered his servant ______",
+      "optionA": "that he go home",
+      "optionB": "to go home",
+      "optionC": "that go home",
+      "optionD": "that he should go home",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) to go home\n• ആജ്ഞ (imperative) indirect speech-ൽ മാറ്റുമ്പോൾ 'to + V1' (infinitive) ഉപയോഗിക്കുന്നു.\n• Direct: He said to his servant, \"Go home.\" → Indirect: He ordered his servant to go home.\n• 'ordered' എന്ന reporting verb ആജ്ഞയെ സൂചിപ്പിക്കുന്നു; അതിന് ശേഷം object (his servant) + to-infinitive.\n• 'അവൻ തന്റെ ജോലിക്കാരനോട് വീട്ടിൽ പോകാൻ ആജ്ഞാപിച്ചു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Imperative → ordered / told / asked / requested + object + TO + V1.\n• Negative imperative: \"Don't go\" → ordered him NOT TO go.\n• Reporting verbs: order / command (ആജ്ഞ), request (അഭ്യർത്ഥന), advise (ഉപദേശം), forbid (വിലക്ക്).\n• Imperative indirect-ൽ 'that' ഉപയോഗിക്കാറില്ല.\n• ⭐ PSC ആവർത്തനം: imperative വാക്യങ്ങളുടെ indirect speech (to + V1) PSC സ്ഥിരമായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. The teacher told us to sit down. (ഇരിക്കാൻ ടീച്ചർ ഞങ്ങളോട് പറഞ്ഞു)\n2. She requested me to help her. (സഹായിക്കാൻ അവൾ എന്നോട് അഭ്യർത്ഥിച്ചു)\n3. Father advised me not to waste time. (സമയം പാഴാക്കരുതെന്ന് അച്ഛൻ ഉപദേശിച്ചു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) that he go home — 'that' + bare verb ഘടന 'ordered someone'-ന് ശേഷം സ്വാഭാവികമല്ല; object ഉള്ളപ്പോൾ to-infinitive വേണം.\n• (C) that go home — subject ഇല്ലാത്ത അപൂർണ്ണ clause; വ്യാകരണപരമായി തെറ്റ്.\n• (D) that he should go home — 'ordered his servant that ...' ഘടന അസ്വാഭാവികമാണ്; 'should' ഉപയോഗം ഉപദേശ ഭാവം നൽകുന്നു.\n• 🪤 PSC Trap: 'that he should' കേൾക്കാൻ ഔപചാരികവും ശരിയുമായി തോന്നും — പക്ഷേ object ഉള്ള ആജ്ഞയ്ക്ക് to + V1 ആണ് നിയമം!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ആജ്ഞ വന്നാൽ TO വരും' — ordered TO, told TO, asked TO!\n• ഒരുമിച്ച് പഠിക്കുക: ordered him to, told him to, asked him to, advised him to, requested him to, forbade him to.\n• PSC strategy: reporting verb ആജ്ഞ/അഭ്യർത്ഥന ആണെങ്കിൽ 'that' ഉള്ള options ഉടനെ വെട്ടുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "78-2017-M-Q87",
+      "paperId": "78-2017-M",
+      "questionNumber": 87,
+      "topic": "Words Often Confused",
+      "questionText": "The leaves ______ as the wind blew.",
+      "optionA": "rustled",
+      "optionB": "hissed",
+      "optionC": "murmured",
+      "optionD": "crackled",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) rustled\n• 'Rustle' എന്നാൽ ഉണങ്ങിയ ഇലകളോ കടലാസോ കാറ്റിൽ ഉലയുമ്പോൾ ഉണ്ടാകുന്ന 'ശര ശര' ശബ്ദം.\n• 'കാറ്റ് വീശിയപ്പോൾ ഇലകൾ ഇളകിയാടി ശബ്ദമുണ്ടാക്കി' എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം.\n• ഇലകളുടെ ശബ്ദത്തിന് English-ൽ ഉപയോഗിക്കുന്ന പ്രത്യേക വാക്കാണ് rustle.\n• ഓരോ വസ്തുവിന്റെയും ശബ്ദത്തിന് പ്രത്യേകം വാക്കുകൾ ഉണ്ട് — അവ ഓർത്തിരിക്കണം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Leaves / Paper → RUSTLE (ഇലകളുടെ ശബ്ദം).\n• മറ്റ് ശബ്ദ വാക്കുകൾ (sounds):\n• snake → hiss (ചീറ്റുക) | fire → crackle (പൊട്ടിത്തെറിക്കുന്ന ശബ്ദം) | stream → murmur (പിറുപിറുക്കുക) | bells → tinkle / ring | thunder → roll / rumble | wind → howl / whistle.\n• ⭐ PSC ആവർത്തനം: മൃഗങ്ങളുടെയും പ്രകൃതിയുടെയും ശബ്ദ വാക്കുകൾ PSC ഇടയ്ക്കിടെ ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. Dry leaves rustled under our feet. (ഉണങ്ങിയ ഇലകൾ കാലിനടിയിൽ ശബ്ദമുണ്ടാക്കി)\n2. The snake hissed at me. (പാമ്പ് എന്നെ നോക്കി ചീറ്റി)\n3. The fire crackled in the hearth. (അടുപ്പിൽ തീ പൊട്ടിത്തെറിച്ച് കത്തി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) hissed — പാമ്പ്, ആവി എന്നിവയുടെ 'ശ്...' എന്ന ശബ്ദം; ഇലകൾക്ക് ചേരില്ല.\n• (C) murmured — അരുവിയുടെയോ ആളുകളുടെയോ പതിഞ്ഞ ശബ്ദം; ഇലകൾക്ക് സാധാരണ ഉപയോഗിക്കാറില്ല.\n• 🪤 PSC Trap: 'murmur' പ്രകൃതിയുടെ മൃദുശബ്ദമായതിനാൽ കാറ്റും ഇലകളുമായി ചേരുമെന്ന് തോന്നിപ്പിക്കുന്ന കെണി!\n• (D) crackled — തീ കത്തുമ്പോഴോ ഉണങ്ങിയ വസ്തുക്കൾ പൊട്ടുമ്പോഴോ ഉള്ള ശബ്ദം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'RUSTLE = 'റസ് റസ്' ഇല ശബ്ദം' — വാക്ക് ഉച്ചരിക്കുമ്പോൾ തന്നെ ഇലകൾ ഇളകുന്നത് കേൾക്കാം!\n• ഒരുമിച്ച് പഠിക്കുക: leaves rustle, snakes hiss, fire crackles, streams murmur, bees buzz, doors creak.\n• PSC strategy: sound-word ചോദ്യത്തിൽ subject (leaves) ആണ് ഉത്തരം തീരുമാനിക്കുന്നത് — subject-ന്റെ ജോഡി ഓർക്കുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "78-2017-M-Q88",
+      "paperId": "78-2017-M",
+      "questionNumber": 88,
+      "topic": "Idioms",
+      "questionText": "A bird in hand is worth two in the:",
+      "optionA": "forest",
+      "optionB": "nest",
+      "optionC": "cave",
+      "optionD": "bush",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) bush\n• പൂർണ്ണ പഴഞ്ചൊല്ല്: 'A bird in the hand is worth two in the bush.'\n• അർത്ഥം: കൈയിലുള്ള ഉറപ്പായ ഒരു ചെറിയ നേട്ടം, കിട്ടുമോ എന്ന് ഉറപ്പില്ലാത്ത വലിയ നേട്ടത്തേക്കാൾ വിലപ്പെട്ടതാണ്.\n• കൈയിലുള്ള ഒരു പക്ഷി, കുറ്റിക്കാട്ടിലുള്ള (പിടിക്കാൻ കഴിയാത്ത) രണ്ട് പക്ഷികളേക്കാൾ നല്ലത്.\n• മലയാള സമാനം: 'കിട്ടാത്ത മുന്തിരി പുളിക്കും' അല്ല — 'ഉള്ളത് കൊണ്ട് ഓണം പോലെ' എന്ന ഭാവത്തോട് അടുത്ത്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: A bird in the HAND is worth two in the BUSH — hand ↔ bush.\n• പഴഞ്ചൊല്ലുകൾ (proverbs) fixed ആണ് — ഒരു വാക്കും മാറ്റാനാവില്ല.\n• സമാന അർത്ഥമുള്ള പ്രയോഗം: 'Better safe than sorry.'\n• Bush = കുറ്റിച്ചെടി / പൊന്ത — പക്ഷികൾ എളുപ്പം ഒളിക്കുന്ന സ്ഥലം.\n• ⭐ PSC ആവർത്തനം: പഴഞ്ചൊല്ലിലെ വിട്ടുപോയ വാക്ക് പൂരിപ്പിക്കുന്ന ചോദ്യം PSC ഇടയ്ക്കിടെ ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. Take the job offer — a bird in the hand is worth two in the bush. (ഈ ജോലി സ്വീകരിക്കൂ — കൈയിലുള്ളതാണ് നല്ലത്)\n2. Don't count your chickens before they are hatched. (മുട്ട വിരിയും മുമ്പ് കോഴിക്കുഞ്ഞുങ്ങളെ എണ്ണരുത്)\n3. Make hay while the sun shines. (അവസരം ഉള്ളപ്പോൾ ഉപയോഗിക്കുക)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) forest — 'കാട്' എന്നർത്ഥം; പക്ഷികളുമായി ബന്ധമുണ്ടെങ്കിലും പഴഞ്ചൊല്ലിലെ വാക്ക് ഇതല്ല.\n• (B) nest — 'കൂട്' എന്നർത്ഥം; പക്ഷികളുടെ സ്ഥലം ആയതിനാൽ ശരിയെന്ന് തോന്നും.\n• 🪤 PSC Trap: 'nest' പക്ഷിയുമായി ഏറ്റവും അടുത്ത ബന്ധമുള്ള വാക്കായതിനാൽ ഊഹിക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണി — പഴഞ്ചൊല്ല് ഓർമ്മയിൽ നിന്ന് മാത്രം!\n• (C) cave — 'ഗുഹ' എന്നർത്ഥം; പക്ഷികളുമായി ബന്ധമില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'HAND-ഉം BUSH-ഉം — രണ്ടിലും H ഉണ്ട്!' — കൈ (hand) vs കുറ്റിക്കാട് (bush).\n• ഒരുമിച്ച് പഠിക്കുക: birds of a feather flock together, the early bird catches the worm, kill two birds with one stone.\n• PSC strategy: പഴഞ്ചൊല്ല് ചോദ്യങ്ങളിൽ ഊഹിക്കരുത് — പ്രധാന പഴഞ്ചൊല്ലുകൾ മുഴുവനായി മനഃപാഠമാക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "78-2017-M-Q89",
+      "paperId": "78-2017-M",
+      "questionNumber": 89,
+      "topic": "Phrasal Verbs",
+      "questionText": "The marriage party ______ at dawn.",
+      "optionA": "put off",
+      "optionB": "set off",
+      "optionC": "set on",
+      "optionD": "set up",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) set off\n• 'Set off' എന്നാൽ യാത്ര പുറപ്പെടുക, യാത്ര ആരംഭിക്കുക.\n• 'വിവാഹസംഘം പുലർച്ചെ യാത്ര പുറപ്പെട്ടു' എന്നാണ് വാക്യത്തിന്റെ അർത്ഥം.\n• 'at dawn' (പുലർച്ചെ) എന്നത് യാത്രയുടെ ആരംഭ സമയം കാണിക്കുന്നു.\n• Synonyms: set out, start, depart, leave.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Set off / Set out = യാത്ര പുറപ്പെടുക.\n• Set-ന്റെ phrasal verb കുടുംബം:\n• set up = സ്ഥാപിക്കുക | set on / set upon = ആക്രമിക്കുക | set aside = മാറ്റിവയ്ക്കുക | set in = ആരംഭിക്കുക (മഴക്കാലം, രോഗം) | set back = പിന്നോട്ടടിക്കുക.\n• Put off = മാറ്റിവയ്ക്കുക (postpone).\n• ⭐ PSC ആവർത്തനം: set off / put off / set up — PSC-യുടെ സ്ഥിരം phrasal verb ചോദ്യങ്ങൾ!\n• ഉദാഹരണ sentences:\n1. We set off early to avoid traffic. (ട്രാഫിക് ഒഴിവാക്കാൻ ഞങ്ങൾ നേരത്തെ പുറപ്പെട്ടു)\n2. The meeting was put off till Monday. (യോഗം തിങ്കളാഴ്ചയിലേക്ക് മാറ്റിവച്ചു)\n3. He set up a new business. (അവൻ ഒരു പുതിയ ബിസിനസ് തുടങ്ങി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) put off — 'മാറ്റിവയ്ക്കുക' എന്നർത്ഥം; object ഇല്ലാതെ ഈ വാക്യത്തിൽ അർത്ഥപൂർണ്ണമല്ല.\n• 🪤 PSC Trap: put off-ഉം set off-ഉം 'off' കൊണ്ട് അവസാനിക്കുന്നതിനാൽ ആശയക്കുഴപ്പം ഉണ്ടാക്കാനുള്ള കെണി!\n• (C) set on — 'ആക്രമിക്കുക' (set on someone) എന്നർത്ഥം; ഇവിടെ ചേരില്ല.\n• (D) set up — 'സ്ഥാപിക്കുക, ക്രമീകരിക്കുക' എന്നർത്ഥം; വിവാഹസംഘം 'set up' ചെയ്യില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'SET OFF = വണ്ടി OFF ആയി സ്റ്റാൻഡിൽ നിന്ന് പുറപ്പെട്ടു!' — യാത്രയുടെ തുടക്കം.\n• ഒരുമിച്ച് പഠിക്കുക: set off, set out, set up, set in, set aside, put off, put on, put up with.\n• PSC strategy: വാക്യത്തിൽ യാത്രാസൂചന (party, journey, at dawn) കണ്ടാൽ set off / set out തിരഞ്ഞെടുക്കുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "78-2017-M-Q90",
+      "paperId": "78-2017-M",
+      "questionNumber": 90,
+      "topic": "Foreign Words and Phrases",
+      "questionText": "The president was specially happy to visit the school because it was his:",
+      "optionA": "sine die",
+      "optionB": "alma mater",
+      "optionC": "bonafide",
+      "optionD": "prima facie",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) alma mater\n• 'Alma mater' ഒരു Latin phrase ആണ് — ഒരാൾ പഠിച്ച സ്കൂൾ / കോളേജ് / സർവകലാശാല.\n• അക്ഷരാർത്ഥം: 'പോഷിപ്പിക്കുന്ന അമ്മ' (nourishing mother) — വിദ്യ നൽകി വളർത്തിയ സ്ഥാപനം.\n• പ്രസിഡന്റ് പഠിച്ച സ്കൂൾ ആയതിനാലാണ് അത് സന്ദർശിക്കാൻ അദ്ദേഹത്തിന് പ്രത്യേക സന്തോഷം തോന്നിയത്.\n• 'പ്രസിഡന്റിന് ആ സ്കൂൾ സന്ദർശിക്കാൻ പ്രത്യേക സന്തോഷമായിരുന്നു, കാരണം അത് അദ്ദേഹത്തിന്റെ മാതൃവിദ്യാലയമായിരുന്നു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: ALMA MATER = പഠിച്ച സ്ഥാപനം (മാതൃവിദ്യാലയം).\n• മറ്റ് പ്രധാന Latin phrases:\n• sine die = അനിശ്ചിതകാലത്തേക്ക് (സഭ പിരിയുമ്പോൾ) | bona fide = യഥാർത്ഥമായ, സത്യസന്ധമായ | prima facie = ഒറ്റനോട്ടത്തിൽ | ad hoc = താൽക്കാലികം | status quo = നിലവിലുള്ള സ്ഥിതി.\n• Etymology hint: Latin 'alma' (പോഷിപ്പിക്കുന്ന) + 'mater' (അമ്മ) — 'maternal' എന്ന വാക്കും 'mater'-ൽ നിന്നാണ്.\n• ⭐ PSC ആവർത്തനം: alma mater, sine die, bona fide, prima facie — PSC foreign phrase ചോദ്യങ്ങളിലെ സ്ഥിരം വാക്കുകൾ!\n• ഉദാഹരണ sentences:\n1. He donated money to his alma mater. (അവൻ പഠിച്ച കോളേജിന് പണം സംഭാവന നൽകി)\n2. The Assembly was adjourned sine die. (നിയമസഭ അനിശ്ചിതകാലത്തേക്ക് പിരിഞ്ഞു)\n3. There is prima facie evidence against him. (അവനെതിരെ ഒറ്റനോട്ടത്തിൽ തെളിവുണ്ട്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) sine die — 'അനിശ്ചിതകാലത്തേക്ക്' എന്നർത്ഥം; സഭാ നടപടികളുമായി ബന്ധപ്പെട്ടത്.\n• (C) bonafide — 'യഥാർത്ഥമായ, സത്യസന്ധമായ' എന്നർത്ഥം (bona fide student = യഥാർത്ഥ വിദ്യാർത്ഥി).\n• 🪤 PSC Trap: 'bona fide student certificate' പോലുള്ള സ്കൂൾ ബന്ധമുള്ള പ്രയോഗം ഓർമ്മിപ്പിച്ച് വീഴ്ത്താനുള്ള കെണി!\n• (D) prima facie — 'ഒറ്റനോട്ടത്തിൽ, പ്രഥമദൃഷ്ട്യാ' എന്നർത്ഥം; നിയമമേഖലയിൽ ഉപയോഗിക്കുന്നു.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ALMA MATER = അമ്മ (MATER = MOTHER) പോലെ വളർത്തിയ സ്കൂൾ'!\n• ഒരുമിച്ച് പഠിക്കുക: alma mater (സ്കൂൾ), bona fide (യഥാർത്ഥം), prima facie (ഒറ്റനോട്ടം), sine die (അനിശ്ചിതകാലം), ad hoc (താൽക്കാലികം).\n• PSC strategy: Latin phrase-ലെ ഒരു വാക്ക് പരിചിതമായ English വാക്കുമായി ബന്ധിപ്പിക്കുക (mater → mother, prima → primary). ഒരിക്കലും miss ആകില്ല!"
+      }
+    }
+  ]
+}

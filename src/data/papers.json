@@ -1904,5 +1904,50 @@
     "medium": "M",
     "year": "2017",
     "answerKeyStatus": "final"
+  },
+  {
+    "id": "90-2017-M",
+    "paperCode": "90/2017 M",
+    "post": "L.D Clerk - Various (By Transfer)",
+    "date": "19-Aug-2017",
+    "medium": "M",
+    "year": "2017",
+    "answerKeyStatus": "final"
+  },
+  {
+    "id": "84-2017-M",
+    "paperCode": "84/2017 M",
+    "post": "L.D Clerk - Various (Pathanamthitta, Palakkad)",
+    "date": "05-Aug-2017",
+    "medium": "M",
+    "year": "2017",
+    "answerKeyStatus": "final"
+  },
+  {
+    "id": "79-2017-M",
+    "paperCode": "79/2017 M",
+    "post": "L.D Clerk - Various (Idk, Alp, Kkd)",
+    "date": "29-Jul-2017",
+    "medium": "M",
+    "year": "2017",
+    "answerKeyStatus": "final"
+  },
+  {
+    "id": "78-2017-M",
+    "paperCode": "78/2017 M",
+    "post": "L.D Clerk - Various (Ernakulam, Kannur)",
+    "date": "15-Jul-2017",
+    "medium": "M",
+    "year": "2017",
+    "answerKeyStatus": "final"
+  },
+  {
+    "id": "77-2017-M",
+    "paperCode": "77/2017 M",
+    "post": "L.D Clerk - Various (Kollam, Thrissur, Kasaragod)",
+    "date": "01-Jul-2017",
+    "medium": "M",
+    "year": "2017",
+    "answerKeyStatus": "final"
   }
 ]
