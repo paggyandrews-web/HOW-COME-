@@ -6,6 +6,7 @@ import Dropdown from '../components/Dropdown'
 import StatusTabs from '../components/StatusTabs'
 import RevisionDots from '../components/RevisionDots'
 import SignupGate from '../components/SignupGate'
+import ShareLinkButton, { paperShareUrl } from '../components/ShareLinkButton'
 import { useAuth } from '../contexts/AuthContext'
 import { usePaperProgress } from '../hooks/usePaperProgress'
 import { STATUS_META, DUE_COLOR, DUE_BG, daysAgo, matchesRevisionBucket, revisionBucket, statusBadgeText } from '../utils/paperStatus'
@@ -153,14 +154,17 @@ export default function Papers() {
                   <div className="font-semibold text-sm leading-snug">
                     {paper.post || paper.filename?.replace('.pdf', '') || paper.id}
                   </div>
-                  {meta && !loading && (
-                    <span
-                      className="text-[10px] font-bold px-2 py-1 rounded-full whitespace-nowrap"
-                      style={{ color: meta.color, background: meta.bg }}
-                    >
-                      {statusBadgeText(prog, meta)}
-                    </span>
-                  )}
+                  <div className="flex items-center gap-1.5 shrink-0">
+                    {meta && !loading && (
+                      <span
+                        className="text-[10px] font-bold px-2 py-1 rounded-full whitespace-nowrap"
+                        style={{ color: meta.color, background: meta.bg }}
+                      >
+                        {statusBadgeText(prog, meta)}
+                      </span>
+                    )}
+                    <ShareLinkButton url={paperShareUrl(`/quiz?paper=${encodeURIComponent(paper.id)}&mode=practice`)} />
+                  </div>
                 </div>
                 {prog?.status === 'completed' && revisionEnabled && revisionStages > 0 && (
                   <div className="mt-1.5">

@@ -6,6 +6,7 @@ import { useAuth } from '../contexts/AuthContext'
 import Confetti from '../components/Confetti'
 import StatusTabs from '../components/StatusTabs'
 import RevisionDots from '../components/RevisionDots'
+import ShareLinkButton, { paperShareUrl } from '../components/ShareLinkButton'
 import { useResults } from '../hooks/useResults'
 import { useBookmarks } from '../hooks/useBookmarks'
 import { useStreak } from '../hooks/useStreak'
@@ -175,7 +176,6 @@ function IntroScreen({ paper, count, onPractice, onExam, onExit }) {
 
 /* ── Paper list ─────────────────────────────────────────────────────── */
 function PaperList({ onStart, onPractice }) {
-  const [copied, setCopied] = useState(null)         // paperId whose link was just copied
   const [confirmPaper, setConfirmPaper] = useState(null)  // paper awaiting "Start exam?" confirmation
   const [status, setStatus] = useState('')
   const counts = useMemo(() => {
@@ -238,8 +238,7 @@ function PaperList({ onStart, onPractice }) {
       </div>
 
       {shownPapers.map(p => {
-        const isDaily = p.type === 'daily'
-        const shareUrl = isDaily ? `https://howcome.in/mock?paper=${p.id}` : null
+        const shareUrl = paperShareUrl(`/mock?paper=${encodeURIComponent(p.id)}`)
         const prog = progress[p.id]
         const meta = prog ? STATUS_META[prog.status] : null
         const due = prog?.dueForRevision
@@ -250,7 +249,8 @@ function PaperList({ onStart, onPractice }) {
              the app looking like the same app. */
           <div key={p.id} className="card rounded-xl p-4 mb-3 flex flex-col gap-3">
             <div className="flex-1 min-w-0">
-              <div className="flex items-center gap-2 flex-wrap">
+              <div className="flex items-start justify-between gap-2">
+              <div className="flex items-center gap-2 flex-wrap min-w-0">
                 <div className="font-semibold text-sm leading-snug">{p.title}</div>
                 {meta && !loading && (
                   <span
@@ -263,6 +263,8 @@ function PaperList({ onStart, onPractice }) {
                 {prog?.status === 'completed' && revisionEnabled && revisionStages > 0 && (
                   <RevisionDots revisionsDone={prog.revisionsDone} due={due} totalStages={revisionStages} />
                 )}
+              </div>
+              <ShareLinkButton url={shareUrl} />
               </div>
               <div className="text-xs mt-1.5 flex flex-wrap gap-x-2 gap-y-1" style={{ color: 'var(--text2)' }}>
                 <span>📝 {counts[p.id] || 0} questions</span>
@@ -310,18 +312,6 @@ function PaperList({ onStart, onPractice }) {
               </button>
             </div>
 
-            {isDaily && (
-              <button
-                onClick={() => {
-                  navigator.clipboard?.writeText(shareUrl)
-                  setCopied(p.id)
-                  setTimeout(() => setCopied(null), 1800)
-                }}
-                className="text-xs rounded-lg py-1.5 cursor-pointer"
-                style={{ background: 'transparent', border: '1px dashed var(--border)', color: copied === p.id ? 'var(--accent)' : 'var(--text2)' }}>
-                {copied === p.id ? '✓ Link copied' : '🔗 Copy share link'}
-              </button>
-            )}
           </div>
         )
       })}

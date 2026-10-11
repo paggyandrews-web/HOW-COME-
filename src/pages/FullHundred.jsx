@@ -1,9 +1,10 @@
 import { useState, useMemo, useCallback, useEffect, useRef } from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useSearchParams } from 'react-router-dom'
 import fullPapers from '../data/fullPapers.json'
 import fullQuestions from '../data/fullQuestions.json'
 import Confetti from '../components/Confetti'
 import StatusTabs from '../components/StatusTabs'
+import ShareLinkButton, { paperShareUrl } from '../components/ShareLinkButton'
 import { useAuth } from '../contexts/AuthContext'
 import { useResults } from '../hooks/useResults'
 import { useStreak } from '../hooks/useStreak'
@@ -227,9 +228,9 @@ function paperGroupKey(id) {
 }
 
 /* ── Paper list ─────────────────────────────────────────────────────── */
-function PaperList({ onStart, onResume }) {
+function PaperList({ onStart, onResume, initialQuery = '' }) {
   const [status, setStatus] = useState('')
-  const [query, setQuery] = useState('')
+  const [query, setQuery] = useState(initialQuery)
   const { user } = useAuth()
   const needsSignup = !user
 
@@ -467,19 +468,29 @@ function PaperList({ onStart, onResume }) {
                   </>
                 )
 
-                return needsSignup ? (
-                  <Link key={p.id} to="/register"
-                    title="Sign up to take Full 100 papers"
-                    className="paper-row rounded-lg px-3 py-2.5 flex items-center gap-2"
-                    style={{ background: 'var(--bg2)', border: '1px solid var(--border)', textDecoration: 'none' }}>
-                    {row}
-                  </Link>
-                ) : (
-                  <button key={p.id} onClick={() => (isResumable ? onResume(p) : onStart(p))}
-                    className="paper-row rounded-lg px-3 py-2.5 flex items-center gap-2 text-left cursor-pointer"
-                    style={{ background: 'var(--bg2)', border: '1px solid var(--border)', touchAction: 'manipulation' }}>
-                    {row}
-                  </button>
+                // Copy-link icon sits beside the row (not inside it) — a button
+                // nested in the row's own button/link would be invalid markup.
+                return (
+                  <div key={p.id} className="flex items-center gap-1.5">
+                    {needsSignup ? (
+                      <Link to="/register"
+                        title="Sign up to take Full 100 papers"
+                        className="paper-row rounded-lg px-3 py-2.5 flex items-center gap-2 flex-1 min-w-0"
+                        style={{ background: 'var(--bg2)', border: '1px solid var(--border)', textDecoration: 'none' }}>
+                        {row}
+                      </Link>
+                    ) : (
+                      <button onClick={() => (isResumable ? onResume(p) : onStart(p))}
+                        className="paper-row rounded-lg px-3 py-2.5 flex items-center gap-2 text-left cursor-pointer flex-1 min-w-0"
+                        style={{ background: 'var(--bg2)', border: '1px solid var(--border)', touchAction: 'manipulation' }}>
+                        {row}
+                      </button>
+                    )}
+                    <ShareLinkButton
+                      url={paperShareUrl(`/full100?paper=${encodeURIComponent(p.id)}`)}
+                      label={`Copy link to ${p.paperCode} (${label})`}
+                    />
+                  </div>
                 )
               })}
             </div>
@@ -945,6 +956,32 @@ export default function FullHundred() {
   const [examInitial, setExamInitial] = useState(null)
   const { saveResult } = useResults()
   const { updateStreak } = useStreak()
+  const { user } = useAuth()
+  const [searchParams] = useSearchParams()
+
+  // Deep link — /full100?paper=58-2026-M from a copied share link. Accepts an
+  // exact paper id, or a bare paper group ("58-2026") which resolves to the
+  // person's Full 100 language preference. Signed in → opens the paper
+  // (instructions screen, or straight back into an unfinished attempt).
+  // Signed out → the list, pre-filtered to that paper, with the sign-up box.
+  const linkedPaper = useMemo(() => {
+    const id = searchParams.get('paper')
+    if (!id) return null
+    const exact = fullPapers.find(p => p.id === id)
+    if (exact) return exact
+    const group = fullPapers.filter(p => paperGroupKey(p.id) === id)
+    if (!group.length) return null
+    const wantEnglish = getFull100LangPref() === 'english'
+    return group.find(p => isEnglishPaper(p) === wantEnglish) || group[0]
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
+
+  useEffect(() => {
+    if (!linkedPaper || !user) return
+    if (draftAttemptedCount(getDraft(linkedPaper.id)) > 0) resumeExam(linkedPaper)
+    else chooseFromList(linkedPaper)
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
 
   const questions = useMemo(() => {
     if (!paper) return []
@@ -1036,5 +1073,11 @@ export default function FullHundred() {
       />
     )
   }
-  return <PaperList onStart={chooseFromList} onResume={resumeExam} />
+  return (
+    <PaperList
+      onStart={chooseFromList}
+      onResume={resumeExam}
+      initialQuery={!user && linkedPaper ? linkedPaper.paperCode : ''}
+    />
+  )
 }
