@@ -16998,5 +16998,385 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) Earliest Time of Access\n• ഇത് ശരിയായ expansion അല്ല; ETA-യ്ക്ക് ഇത്തരം ഒരു അർത്ഥം സ്വീകരിക്കപ്പെട്ടിട്ടില്ല.\n• 🪤 PSC Trap: E-T-A അക്ഷരങ്ങൾക്ക് ചേരുന്ന, എന്നാൽ അർത്ഥമില്ലാത്ത വാക്കുകൾ ചേർത്ത് 'തോന്നലിൽ' ഉത്തരം തിരഞ്ഞെടുക്കുന്നവരെ വീഴ്ത്താൻ.\n\n(C) Estimated Transit Area\n• 'Estimated' ശരിയാണ്, പക്ഷേ 'Transit Area' അല്ല – ETA എന്നത് സമയത്തെയാണ് കുറിക്കുന്നത്, സ്ഥലത്തെ അല്ല.\n• 🪤 PSC Trap: ആദ്യ വാക്ക് ശരിയായതിനാൽ പാതി ശരിയായ option.\n\n(D) Expected Travel Allowance\n• 'Travel Allowance' (TA) എന്ന പദം സർക്കാർ ജോലിയിൽ പരിചിതമാണ്, പക്ഷേ ETA-യുടെ അർത്ഥമല്ല.\n• 🪤 PSC Trap: യാത്ര (travel) എന്ന context-ൽ പരിചിത വാക്കുകൾ ഉപയോഗിച്ച് കുഴപ്പിക്കാൻ.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: ETA = 'എത്താ' – ശബ്ദ സാമ്യം: എപ്പോൾ എത്തും? = Estimated Time of Arrival. 'Arrival' = എത്തിച്ചേരൽ, ഇതാണ് ഉത്തരത്തിന്റെ ഹൃദയം.\n• കുടുംബം: ETA – ETD ജോടി ഒരുമിച്ച് ഓർക്കുക: Arrival vs Departure; ASAP; RSVP.\n• PSC exam strategy: Full-form ചോദ്യത്തിൽ ചുരുക്കെഴുത്തിന്റെ സന്ദർഭം (travel schedules) നോക്കുക. സമയവും എത്തിച്ചേരലും ചേരുന്ന option അതാണ്. ഇങ്ങനെ ചെയ്താൽ തെറ്റാനുള്ള സാധ്യത കുറയും!"
     }
+  },
+  {
+    "id": "HC-DAILY-2026-11-04-Q1",
+    "paperId": "HC-DAILY-2026-11-04",
+    "questionNumber": 1,
+    "topic": "Correction of Sentences",
+    "difficulty": "medium",
+    "questionText": "Choose the option that correctly replaces the section in italics.\nThe teacher, along with her students, __were visiting__ the science museum.",
+    "optionA": "was visiting",
+    "optionB": "visit",
+    "optionC": "are visiting",
+    "optionD": "have been visited",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) was visiting\n\n• ഈ വാക്യത്തിലെ subject \"The teacher\" ഏകവചനമാണ്. \"along with her students\" എന്നത് subject-ന്റെ കൂടെ വരുന്ന ഒരു അധിക phrase മാത്രമാണ്; അത് subject-നെ ബഹുവചനമാക്കുന്നില്ല.\n• അതുകൊണ്ട് ക്രിയയും ഏകവചനം തന്നെ വേണം. ഭൂതകാല continuous ആയതിനാൽ \"was visiting\" ശരി.\n• Real-life ചിന്ത: \"ടീച്ചർ, കുട്ടികളോടൊപ്പം, മ്യൂസിയം സന്ദർശിക്കുകയായിരുന്നു\" — പറയുന്നത് ടീച്ചറെക്കുറിച്ചാണ്; കുട്ടികൾ വെറും കൂട്ടിച്ചേർക്കൽ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: along with / together with / as well as / in addition to / accompanied by = verb ആദ്യത്തെ subject-നോട് agree ചെയ്യും. (and = ബഹുവചനം; with-ഗ്രൂപ്പ് = ആദ്യ subject പോലെ)\n• നിയമം: Subject-നും verb-നും ഇടയിൽ commas-നുള്ളിൽ വരുന്ന ഇത്തരം phrase verb-ന്റെ number മാറ്റില്ല.\n• ഒരേ കുടുംബം: \"with\", \"besides\", \"including\", \"rather than\", \"no less than\".\n• ⭐ PSC ആവർത്തനം: Subject-Verb Agreement / Correction of Sentences-ൽ \"along with\" ഒരു favourite കെണിയാണ്.\n• ഉദാഹരണ sentences:\n1. The captain, along with his players, was welcomed by the crowd.\n2. The mother, as well as her two sons, is coming today.\n3. The manager, together with his assistants, has approved the plan.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) visit\n• \"visit\" ബഹുവചന/base present രൂപമാണ്; ഏകവചന subject-ന് (The teacher) ചേരില്ല, വാക്യം past continuous-ഉം അല്ല.\n• 🪤 PSC Trap: plural subject പോലെ തോന്നിച്ച് base form തിരഞ്ഞെടുപ്പിക്കാൻ.\n\n(C) are visiting\n• \"are\" ബഹുവചന present ആണ്; subject ഏകവചനവും വാക്യം past-ലുമാണ്.\n• 🪤 PSC Trap: \"students\" കണ്ട് ബഹുവചനം തിരഞ്ഞെടുക്കുന്നവരെ വീഴ്ത്താൻ.\n\n(D) have been visited\n• ഇത് passive form ആണ്, അർത്ഥവും തെറ്റ് (\"മ്യൂസിയം സന്ദർശിക്കപ്പെട്ടിരിക്കുന്നു\"); കൂടാതെ \"have\" ബഹുവചനം.\n• 🪤 PSC Trap: സങ്കീർണ്ണമായ form ശരിയെന്ന് തോന്നിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Along with\" = \"വെറും കൂടെ പോകുന്നവർ\" — ഡ്രൈവർ ആദ്യത്തെ subject മാത്രം!\n• Rule family: with-group (along with, together with, as well as) | and = plural | either/or = അടുത്ത subject.\n• PSC exam strategy: subject-നെ കണ്ടെത്തി commas-ലെ phrase മറച്ചുവെക്കുക; ബാക്കി ഭാഗത്ത് ക്രിയ നോക്കിയാൽ മതി — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-11-04-Q2",
+    "paperId": "HC-DAILY-2026-11-04",
+    "questionNumber": 2,
+    "topic": "Degrees of Comparison",
+    "difficulty": "medium",
+    "questionText": "Choose the sentence that expresses the same meaning as:\nMount Everest is the highest peak in the world.",
+    "optionA": "Mount Everest is higher than any other peak in the world.",
+    "optionB": "Mount Everest is higher than any peak in the world.",
+    "optionC": "Mount Everest is as high as any other peak in the world.",
+    "optionD": "Mount Everest is not as high as any other peak in the world.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Mount Everest is higher than any other peak in the world.\n\n• Superlative (\"the highest\") അർത്ഥം comparative-ലേക്ക് മാറ്റുമ്പോൾ \"higher than any other + singular noun\" ആണ് ശരിയായ രൂപം.\n• \"any other\" വേണം, കാരണം Everest സ്വയം ഒരു peak ആണ്; സ്വയം തന്നെ താരതമ്യം ചെയ്യരുത്.\n• അർത്ഥം: എവറസ്റ്റ് ബാക്കി എല്ലാ കൊടുമുടികളെക്കാളും ഉയരമുള്ളതാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Superlative = Comparative + \"than any other\" (+ singular noun) = Positive: \"No other … is so/as … as\".\n• ഒരേ അർത്ഥം മൂന്നു രീതിയിൽ: (1) Everest is the highest peak. (2) Everest is higher than any other peak. (3) No other peak is as high as Everest.\n• \"any other\" ഇല്ലെങ്കിൽ സ്വയം താരതമ്യം ചെയ്യുന്ന യുക്തിരഹിതമായ വാക്യമാകും.\n• ⭐ PSC ആവർത്തനം: Degrees of Comparison-ൽ ഡിഗ്രി മാറ്റുന്ന ചോദ്യങ്ങൾ സ്ഥിരമായി വരുന്നു.\n• ഉദാഹരണ sentences:\n1. Mumbai is the largest city in India = Mumbai is larger than any other city in India.\n2. Kerala is the most literate state = No other state is as literate as Kerala.\n3. Gold is more precious than any other metal.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) …higher than any peak in the world.\n• \"any peak\" എന്നാൽ എവറസ്റ്റ് ഉൾപ്പെടെ എല്ലാം; എവറസ്റ്റ് സ്വയം തന്നെക്കാൾ ഉയരം എന്നാകും — യുക്തിരഹിതം.\n• 🪤 PSC Trap: \"other\" വിട്ടുകളഞ്ഞ് ശരിയെന്ന് തോന്നിക്കാൻ.\n\n(C) …as high as any other peak…\n• \"as…as\" തുല്യത (equal) ആണ് പറയുന്നത്; എവറസ്റ്റ് ഏറ്റവും ഉയരം എന്ന അർത്ഥം പോകും.\n• 🪤 PSC Trap: Positive degree-ന്റെ ഘടന (as…as) കണ്ടു വീഴ്ത്താൻ.\n\n(D) …not as high as any other peak…\n• ഇത് \"ഏറ്റവും ഉയരമുള്ളത്\" എന്ന അർത്ഥത്തിന് വിരുദ്ധമാണ് (എവറസ്റ്റ് മറ്റുള്ളവയ്ക്ക് തുല്യമോ താഴെയോ എന്ന് വരും).\n• 🪤 PSC Trap: Negative + as…as ഘടന (No other…as…as-ന് സമാനം) ദുരുപയോഗം ചെയ്ത് കുഴപ്പിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ഏറ്റവും ഉയരം = മറ്റെല്ലാറ്റിനെക്കാളും (than any OTHER)\". OTHER ഇല്ലെങ്കിൽ തെറ്റ്!\n• Rule family: the + superlative | comparative + than any other | No other + as/so + positive + as.\n• PSC exam strategy: \"higher than any other\" (comparative + than any other) ഘടന ഉള്ള option നോക്കുക. \"as high as any other\" (തുല്യത), \"not as high as any other\" (നിഷേധം) എന്നിവയിലും \"any other\" ഉണ്ട്, പക്ഷേ ശരിയല്ല — അതിനാൽ \"any other\" മാത്രം നോക്കി തീരുമാനിക്കരുത്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-11-04-Q3",
+    "paperId": "HC-DAILY-2026-11-04",
+    "questionNumber": 3,
+    "topic": "Types of Sentences",
+    "difficulty": "medium",
+    "questionText": "Which of the following is a simple sentence?",
+    "optionA": "The children who were playing outside ran in when it rained.",
+    "optionB": "The old man walked slowly to the market and bought some fruit.",
+    "optionC": "He was tired, but he kept working.",
+    "optionD": "If you study hard, you will pass.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) The old man walked slowly to the market and bought some fruit.\n\n• ഈ വാക്യത്തിൽ ഒരു subject (\"The old man\") മാത്രം, അതിന് രണ്ടു ക്രിയ (walked, bought) — ഇതിനെ compound predicate എന്ന് പറയും.\n• ഒരു subject + finite verb(s) ഉള്ള ഒരൊറ്റ clause ആണ് ഉള്ളത്; അതിനാൽ ഇത് Simple sentence.\n• Subordinate clause ഇല്ല, രണ്ടാമത്തെ subject ഇല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Simple = 1 independent clause | Compound = 2+ independent clauses (and/but/or) | Complex = 1 independent + 1+ dependent clause.\n• Dependent clause സൂചനകൾ: who, which, when, although, if, because, since.\n• ഒരു subject-ന് രണ്ട് verb (and കൊണ്ട് ചേർത്ത്) ഉണ്ടെങ്കിലും clause ഒന്നുതന്നെ → Simple.\n• ⭐ PSC ആവർത്തനം: Types of Sentences-ൽ simple/compound/complex തിരിച്ചറിയൽ പതിവാണ്.\n• ഉദാഹരണ sentences:\n1. Simple: She opened the door and walked out.\n2. Compound: She opened the door, and he walked out.\n3. Complex: She walked out when the bell rang.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) The children who were playing outside ran in when it rained.\n• \"who were playing outside\", \"when it rained\" — രണ്ട് dependent clauses; ഇത് Complex sentence.\n• 🪤 PSC Trap: Dependent clause ഉള്ളതിനാൽ ഇത് Complex ആണ്; ഇത് simple ആണെന്ന് തോന്നിക്കുന്ന ദൈർഘ്യം നോക്കി clause എണ്ണാതെ തിരഞ്ഞെടുക്കുന്നവരെ വീഴ്ത്താൻ.\n\n(C) He was tired, but he kept working.\n• \"but\" ചേർത്ത രണ്ട് independent clauses → Compound sentence.\n• 🪤 PSC Trap: ചെറിയ വാക്യം = simple എന്ന് കരുതുന്നവരെ വീഴ്ത്താൻ.\n\n(D) If you study hard, you will pass.\n• \"If you study hard\" dependent clause ഉള്ളതിനാൽ Complex sentence.\n• 🪤 PSC Trap: ചെറിയ വാക്യമായതിനാൽ simple എന്ന് തെറ്റിദ്ധരിപ്പിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Simple = ഒറ്റ ക്ലോസ്, \"ഒറ്റയാൻ\". നീളം നോക്കരുത്, clause എണ്ണുക!\n• Rule family: Simple | Compound (FANBOYS: for, and, nor, but, or, yet, so) | Complex (subordinators).\n• PSC exam strategy: ഓരോ option-ലും subject + verb ജോഡികൾ എണ്ണുക; subordinator ഉണ്ടോ എന്ന് നോക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-11-04-Q4",
+    "paperId": "HC-DAILY-2026-11-04",
+    "questionNumber": 4,
+    "topic": "Parts of Speech",
+    "difficulty": "medium",
+    "questionText": "Identify the part of speech of the word in italics.\n__Since__ he was ill, he stayed at home.",
+    "optionA": "Preposition",
+    "optionB": "Adverb",
+    "optionC": "Conjunction",
+    "optionD": "Pronoun",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Conjunction\n\n• \"Since he was ill, he stayed at home.\" — \"Since\" ഒരു clause (\"he was ill\") ന് മുമ്പ് വന്ന് കാരണം (reason) സൂചിപ്പിക്കുന്നു. ഇത് subordinating conjunction.\n• Preposition-ന് ശേഷം noun/pronoun മാത്രമേ വരൂ; ഇവിടെ പൂർണ്ണ clause (subject + verb) ആണ് വരുന്നത്.\n• \"അവൻ അസുഖമായതിനാൽ വീട്ടിൽ നിന്നു\" — 'ആയതിനാൽ' എന്ന കാരണ-ബന്ധം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ശേഷം clause (S+V) → Conjunction | ശേഷം noun → Preposition | ക്രിയയെ വിശേഷിപ്പിച്ചാൽ → Adverb.\n• \"since\" മൂന്നു ജോലി ചെയ്യും: (1) Preposition: since Monday; (2) Conjunction: since he was ill (reason) / since he left (time); (3) Adverb: He left and has not returned since.\n• അതായത് ഒരേ word, സ്ഥാനം നോക്കി part of speech.\n• ⭐ PSC ആവർത്തനം: ഒരു word പല part of speech ആയി വരുന്ന ചോദ്യങ്ങൾ പതിവ്.\n• ഉദാഹരണ sentences:\n1. Since you are tired, rest now. (Conjunction)\n2. I have known him since 2010. (Preposition)\n3. They moved abroad and I have not seen them since. (Adverb)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) Preposition\n• Preposition-ന് ശേഷം noun വേണം (since 2010). ഇവിടെ \"he was ill\" ഒരു clause ആണ്.\n• 🪤 PSC Trap: \"since Monday\" എന്ന പരിചിത ഉപയോഗം ഓർമ്മിപ്പിച്ച് കുഴപ്പിക്കാൻ.\n\n(B) Adverb\n• Adverb ക്രിയയെ വിശേഷിപ്പിക്കും, clause-നെ ബന്ധിപ്പിക്കില്ല. ഇവിടെ രണ്ട് clause ബന്ധിപ്പിക്കുന്നു.\n• 🪤 PSC Trap: \"ever since\" പോലുള്ള adverb ഉപയോഗം ഓർമ്മിപ്പിക്കാൻ.\n\n(D) Pronoun\n• Noun-ന് പകരം നിൽക്കുന്ന word ആണ് pronoun; \"since\" അങ്ങനെയല്ല.\n• 🪤 PSC Trap: ഒരു വ്യക്തമായ distractor — \"he\" എന്ന pronoun കണ്ട് തെറ്റിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Since-ന് പിന്നാലെ SV വന്നാൽ ബന്ധിപ്പിക്കുന്ന പാലം = Conjunction\"!\n• Rule family: since | for | as | before | after | until (conjunction/preposition ഇരട്ട വേഷം).\n• PSC exam strategy: word-ന് ശേഷമുള്ള ഭാഗം നോക്കുക — noun ആണോ clause ആണോ?"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-11-04-Q5",
+    "paperId": "HC-DAILY-2026-11-04",
+    "questionNumber": 5,
+    "topic": "Infinitive and Gerunds",
+    "difficulty": "medium",
+    "questionText": "Choose the correct option to complete the sentence.\nI could not help __________ at his funny hat.",
+    "optionA": "to laugh",
+    "optionB": "laughing",
+    "optionC": "laugh",
+    "optionD": "to laughing",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) laughing\n\n• \"cannot help\" (can't help) എന്നതിന് ശേഷം gerund (V-ing) ആണ് വരേണ്ടത്. \"ചിരിക്കാതിരിക്കാൻ കഴിഞ്ഞില്ല\" എന്ന അർത്ഥം.\n• അതുകൊണ്ട് \"I could not help laughing at his funny hat.\"\n• Real-life: തമാശ തൊപ്പി കണ്ടാൽ ചിരി അടക്കാൻ പറ്റില്ലല്ലോ!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: cannot help / It is no use / It is worth / look forward to / be used to + V-ing.\n• Gerund (V-ing) ആവശ്യപ്പെടുന്ന ഈ ഫ്രെയ്സുകൾ മനഃപാഠമാക്കുക.\n• \"cannot help\" + V-ing = ചെയ്യാതിരിക്കാൻ കഴിയില്ല (ഉദാ: laughing, crying, smiling).\n• ⭐ PSC ആവർത്തനം: Infinitive and Gerunds-ൽ ഈ ഫ്രെയ്സുകൾ ഏറെ ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. She could not help crying at the sad news.\n2. It is no use waiting for him.\n3. This book is worth reading.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) to laugh\n• \"help\" ശേഷം to-infinitive ഈ ഫ്രെയ്സിൽ വരില്ല. (\"help to do\" എന്നാൽ സഹായിക്കുക എന്ന വേറെ അർത്ഥം.)\n• 🪤 PSC Trap: \"help to do\" പരിചിതം എന്നതിനാൽ തെറ്റിക്കാൻ.\n\n(C) laugh\n• Base form ഇവിടെ ഇല്ല; \"cannot help\" ന് ശേഷം gerund വേണം.\n• 🪤 PSC Trap: modal ശേഷം base verb വരുമെന്ന ശീലം ദുരുപയോഗം ചെയ്യാൻ.\n\n(D) to laughing\n• \"to + V-ing\" (\"look forward to laughing\") ഘടന \"help\" ശേഷം വരില്ല; \"could not help to laughing\" എന്ന് പറയാറില്ല.\n• 🪤 PSC Trap: \"look forward to\"-ന്റെ ഓർമ്മയിൽ വീഴ്ത്താൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Can't HELP\" = \"ചിരി ING ആയി ഒഴുകിപ്പോകും\" → laughING!\n• Rule family: cannot help | cannot but + base verb (I cannot but admire) | feel like + V-ing.\n• PSC exam strategy: \"cannot help\" കണ്ടാൽ ഉടനെ -ing option തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-11-04-Q6",
+    "paperId": "HC-DAILY-2026-11-04",
+    "questionNumber": 6,
+    "topic": "Foreign Words and Phrases",
+    "difficulty": "easy",
+    "questionText": "'Per annum' means",
+    "optionA": "every month",
+    "optionB": "each year",
+    "optionC": "for ever",
+    "optionD": "at once",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) each year\n\n• \"Per annum\" ലാറ്റിൻ phrase ആണ്. per = ഓരോ, annum = വർഷം → \"ഒരു വർഷത്തിൽ / വർഷം തോറും\".\n• ശമ്പളം, പലിശ എന്നിവയിൽ കാണാം: \"5% per annum\" = വർഷത്തിൽ 5 ശതമാനം.\n• Etymology hint: annual, anniversary എന്നിവയിലെ \"ann-\" ഇതേ root (annus = year).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: per = each/for every | annum = year | per annum = each year.\n• ഒരേ കുടുംബം: per capita (ഓരോ വ്യക്തിക്കും) | per diem (ദിവസത്തിൽ) | per cent (നൂറിൽ) | per mensem (മാസത്തിൽ).\n• Latin phrase-കൾ ധനകാര്യ, നിയമ രംഗങ്ങളിൽ വ്യാപകം.\n• ⭐ PSC ആവർത്തനം: Foreign Words and Phrases-ൽ Latin phrase അർത്ഥങ്ങൾ പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. The loan carries interest at 8% per annum.\n2. He earns two lakh rupees per annum.\n3. The per capita income of the state has risen.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) every month\n• Month-ന് Latin \"per mensem\" ആണ്; annum = വർഷം.\n• 🪤 PSC Trap: \"per\" കണ്ടാൽ ഏത് കാലയളവെന്ന് മാറ്റി തെറ്റിക്കാൻ.\n\n(C) for ever\n• \"for ever\" = എന്നെന്നേക്കും; ഈ phrase-ന്റെ അർത്ഥവുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: \"per-\" എന്ന തുടക്കം \"perpetual\" (ശാശ്വതം) പോലുള്ള വാക്കുകളെ ഓർമ്മിപ്പിച്ച് കുഴപ്പിക്കാൻ.\n\n(D) at once\n• \"at once\" = ഉടനെ; ഇതിന് ഈ phrase-മായി ബന്ധമില്ല.\n• 🪤 PSC Trap: വെറുതെ ഒരു ഇംഗ്ലീഷ് phrase ഇട്ട് കുഴപ്പിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ANNUM = ANNUAL\" — annual meeting വർഷത്തിൽ ഒരിക്കൽ!\n• Word family: per capita | per diem | per annum | per cent.\n• PSC exam strategy: Latin phrase-ലെ ഒരു word അറിയാവുന്ന English word-മായി (annual) ബന്ധിപ്പിച്ച് അർത്ഥം ഊഹിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-11-04-Q7",
+    "paperId": "HC-DAILY-2026-11-04",
+    "questionNumber": 7,
+    "topic": "Singular and Plural",
+    "difficulty": "easy",
+    "questionText": "The plural of 'alumnus' is",
+    "optionA": "alumni",
+    "optionB": "alumnuses",
+    "optionC": "alumnae",
+    "optionD": "alumnas",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) alumni\n\n• \"Alumnus\" (ഒരു പൂർവ്വ വിദ്യാർത്ഥി, പുരുഷൻ) ലാറ്റിൻ വാക്കാണ്. Latin വാക്കുകൾ ആയതിനാൽ alumnus → alumni.\n• Latin-ൽ നിന്ന് വന്ന ചില -us നാമങ്ങളുടെ ബഹുവചനം -i ആണ്: alumnus → alumni. ആൺ-പെൺ ഗ്രൂപ്പ് ചേർന്നും \"alumni\" ഉപയോഗിക്കാം.\n• Real-life: \"alumni meet\" = പൂർവ്വ വിദ്യാർത്ഥി സംഗമം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: (പഠിച്ച Latin വാക്കുകൾക്ക്) -us → -i (alumnus → alumni) | -a → -ae (alumna → alumnae) | -um → -a (datum → data) | -is → -es (crisis → crises). എല്ലാ വാക്കുകൾക്കും ബാധകമല്ല.\n• ചില ലാറ്റിൻ വാക്കുകൾ ലാറ്റിൻ plural പിന്തുടരും (എല്ലാം അല്ല: bus → buses, virus → viruses, campus → campuses, census → censuses).\n• ഒരേ കുടുംബം: nucleus → nuclei | stimulus → stimuli | radius → radii | fungus → fungi.\n• ⭐ PSC ആവർത്തനം: Singular and Plural-ൽ ലാറ്റിൻ/ഗ്രീക്ക് plural വളരെ പ്രിയം.\n• ഉദാഹരണ sentences:\n1. The college invited its alumni to the golden jubilee.\n2. Cacti and fungi grow in different conditions.\n3. The syllabi were revised last year.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) alumnuses\n• Latin പദത്തിന് English \"-es\" ചേർക്കുന്നത് സാധാരണ standard അല്ല.\n• 🪤 PSC Trap: സാധാരണ നിയമം (-es) ബലമായി പ്രയോഗിക്കുന്നവരെ വീഴ്ത്താൻ.\n\n(C) alumnae\n• ഇത് \"alumna\" (സ്ത്രീ പൂർവ്വ വിദ്യാർത്ഥി) എന്നതിന്റെ ബഹുവചനം ആണ്.\n• 🪤 PSC Trap: -ae എന്ന Latin plural ആയതിനാൽ ശരിയെന്ന് തോന്നിക്കാൻ.\n\n(D) alumnas\n• \"alumna\" + s; പുരുഷന്മാരെ സൂചിപ്പിക്കുന്ന alumnus-ന്റെ plural അല്ല.\n• 🪤 PSC Trap: -s ചേർക്കുന്ന ലളിത നിയമം ഉപയോഗിക്കാൻ പ്രേരിപ്പിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"US → I\": us ഓടി i ആയി മാറുന്നു! alumnus → alumni.\n• Word family: alumnus/alumni | alumna/alumnae | cactus/cacti | focus/foci.\n• PSC exam strategy: alumnus, nucleus, stimulus, radius പോലുള്ള പഠിച്ച Latin വാക്കുകൾക്ക് -i plural; എന്നാൽ bus, virus, campus, census, bonus പോലുള്ളവയ്ക്ക് -es ആണ് ശരി. വാക്ക് ഏതെന്ന് നോക്കി തീരുമാനിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-11-04-Q8",
+    "paperId": "HC-DAILY-2026-11-04",
+    "questionNumber": 8,
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct synonym of the word in italics.\nThe __querulous__ old man complained about the food, the noise and the weather.",
+    "optionA": "complaining",
+    "optionB": "cheerful",
+    "optionC": "generous",
+    "optionD": "silent",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) complaining\n\n• \"Querulous\" = എപ്പോഴും പരാതി പറയുന്ന, പിറുപിറുക്കുന്ന. വാക്യം തന്നെ സൂചന നൽകുന്നു: ഭക്ഷണം, ബഹളം, കാലാവസ്ഥ — എല്ലാത്തിനും പരാതി.\n• Synonym: complaining, peevish, grumbling, whining.\n• Etymology hint: Latin \"queri\" = to complain (quarrel-ഉം ഇതേ ബന്ധം).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: querulous = QUERI (complain) → പരാതിക്കാരൻ.\n• Context clue method: വാക്യത്തിലെ വിവരണ ഭാഗം (complained about…) നോക്കിയാൽ അർത്ഥം ഊഹിക്കാം.\n• ഒരേ കുടുംബം: peevish | petulant | fretful | cantankerous (വഴക്കാളി).\n• ⭐ PSC ആവർത്തനം: Synonyms ചോദ്യങ്ങളിൽ character/mood വിശേഷണങ്ങൾ പതിവ്.\n• ഉദാഹരണ sentences:\n1. The querulous customer demanded a refund again.\n2. Her querulous voice irritated everyone.\n3. The patient grew querulous in the long wait.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) cheerful\n• സന്തോഷവാൻ — പരാതി പറയുന്ന ആളുടെ വിപരീതം.\n• 🪤 PSC Trap: antonym ഒരു option ആയി ഇട്ട് തെറ്റിക്കുന്ന സാധാരണ രീതി.\n\n(C) generous\n• ഉദാരമനസ്കൻ; പരാതിയുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: പരിചിതമായ ഒരു സ്വഭാവ വിശേഷണം ഇട്ട് ഊഹത്തിൽ വീഴ്ത്താൻ.\n\n(D) silent\n• നിശബ്ദൻ; വാക്യത്തിൽ complaining ഉള്ളതിനാൽ ചേരില്ല.\n• 🪤 PSC Trap: വിപരീത ഭാവം ഇട്ട് ആശയക്കുഴപ്പം സൃഷ്ടിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick (mnemonic മാത്രം, etymology അല്ല): QUERulous → \"QUERY ചോദിച്ച് പരാതി പറയുന്നവൻ\".\n• Word family: peevish | petulant | grumbling | carping.\n• PSC exam strategy: അപരിചിത വാക്ക് വന്നാൽ വാക്യത്തിലെ clue വാക്ക് (complained) കണ്ടെത്തുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-11-04-Q9",
+    "paperId": "HC-DAILY-2026-11-04",
+    "questionNumber": 9,
+    "topic": "Phrasal Verbs",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the phrasal verb in italics.\nVillagers burn neem leaves in the evening to __ward off__ mosquitoes.",
+    "optionA": "keep away",
+    "optionB": "invite",
+    "optionC": "collect",
+    "optionD": "feed",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) keep away\n\n• \"Ward off\" = അകറ്റി നിർത്തുക, പ്രതിരോധിക്കുക. ഗ്രാമീണർ വേപ്പില കത്തിക്കുന്നത് കൊതുകുകളെ അകറ്റാനാണ്.\n• \"ward\" പഴയ English \"guard / protect\" എന്ന അർത്ഥത്തിൽ നിന്ന് (warden, guard-മായി ബന്ധം).\n• Real-life: പുക കൊണ്ട് കൊതുകിനെ ഓടിക്കുന്ന നാടൻ രീതി.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ward off = അകറ്റി നിർത്തുക (അപകടം, രോഗം, ദുരന്തം).\n• Phrasal verb-ന്റെ അർത്ഥം literal അല്ല; മുഴുവൻ phrase-ൽ നിന്ന് മനസ്സിലാക്കണം.\n• ഒരേ കുടുംബം: fend off | keep at bay | stave off | hold off | fight off.\n• ⭐ PSC ആവർത്തനം: Phrasal Verbs ഓരോ പേപ്പറിലും തീർച്ചയായും വരും.\n• ഉദാഹരണ sentences:\n1. She wore a charm to ward off evil.\n2. Vitamin C is believed to ward off colds.\n3. He raised his arm to ward off the blow.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) invite\n• ക്ഷണിക്കുക — ഇതിന് വിപരീതം; നാം കൊതുകിനെ ക്ഷണിക്കാറില്ല.\n• 🪤 PSC Trap: വിപരീതാർത്ഥം option ആക്കുന്ന പതിവ് രീതി.\n\n(C) collect\n• ശേഖരിക്കുക; \"off\" കണ്ടാൽ എടുത്തുമാറ്റൽ എന്ന് തെറ്റിദ്ധരിപ്പിക്കാൻ.\n• 🪤 PSC Trap: \"off\" കണ്ട് എടുത്തുമാറ്റൽ എന്ന ആശയത്തിലേക്ക് നയിക്കാൻ.\n\n(D) feed\n• ഭക്ഷണം നൽകുക; പ്രസക്തിയില്ല.\n• 🪤 PSC Trap: കൊതുക് - രക്തം - ഭക്ഷണം എന്ന ചിന്തയിലേക്ക് നയിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: WARD = WARDEN (കാവൽക്കാരൻ) — കാവൽക്കാരൻ ശത്രുവിനെ OFF ചെയ്യും!\n• Word family: ward off | fend off | stave off | fight off.\n• PSC exam strategy: വാക്യത്തിന്റെ ലക്ഷ്യം (കൊതുകിൽ നിന്ന് രക്ഷ) നോക്കി അർത്ഥം ഊഹിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-11-04-Q10",
+    "paperId": "HC-DAILY-2026-11-04",
+    "questionNumber": 10,
+    "topic": "One Word Substitutes",
+    "difficulty": "medium",
+    "questionText": "Choose the most suitable one-word substitute for the phrase in italics.\nThe patient complained of __the inability to sleep__ for several weeks.",
+    "optionA": "insomnia",
+    "optionB": "hypnosis",
+    "optionC": "somnolence",
+    "optionD": "amnesia",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) insomnia\n\n• \"ഉറങ്ങാൻ കഴിയാത്ത അവസ്ഥ\" = insomnia (ഉറക്കമില്ലായ്മ).\n• Etymology hint: in- (ഇല്ല) + somnus (ഉറക്കം, Latin) → ഉറക്കമില്ലാത്ത അവസ്ഥ.\n• Real-life: രോഗി ആഴ്ചകളായി ഉറങ്ങാൻ കഴിയാതെ പരാതി പറയുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: SOMN- = ഉറക്കം (Latin) | in-somnia = ഉറക്കമില്ലായ്മ.\n• ഒരേ കുടുംബം: somnambulist (ഉറക്കത്തിൽ നടക്കുന്നയാൾ) | somnolent (ഉറക്കം തൂങ്ങുന്ന) | soporific (ഉറക്കം വരുത്തുന്നത്).\n• One-word substitute ചോദ്യങ്ങളിൽ root കണ്ടെത്തി അർത്ഥം ഉറപ്പിക്കാം.\n• ⭐ PSC ആവർത്തനം: One Word Substitutes ചോദ്യങ്ങളിൽ medical/psychology വാക്കുകൾ പതിവ്.\n• ഉദാഹരണ sentences:\n1. Stress often causes insomnia.\n2. He took medicine for chronic insomnia.\n3. Insomnia left her tired all day.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) hypnosis\n• ഉറക്കം പോലുള്ള കൃത്രിമ trance അവസ്ഥ (hypnos = ഉറക്കം, Greek). ഉറക്കമില്ലായ്മ അല്ല.\n• 🪤 PSC Trap: \"ഉറക്കം\" root ഉള്ളതുകൊണ്ട് ശരിയെന്ന് തോന്നിക്കാൻ.\n\n(C) somnolence\n• ഉറക്കം തൂങ്ങൽ, മയക്കം. ഉറക്കത്തിന്റെ ആധിക്യം; ഇല്ലായ്മ അല്ല.\n• 🪤 PSC Trap: ഒരേ root (somn-) ഉള്ളതുകൊണ്ട് കുഴപ്പിക്കാൻ.\n\n(D) amnesia\n• ഓർമ്മക്കുറവ്/ഓർമ്മ നഷ്ടം.\n• 🪤 PSC Trap: \"a-\" ഇല്ലായ്മ prefix ഉള്ളതുകൊണ്ട് ഇല്ലായ്മ ആശയത്തിലേക്ക് ആകർഷിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: IN-SOMNIA = \"ഇൻ-സോമ്നിയ\" — SOMN (ഉറക്കം) NIL → ഉറക്കം പൂജ്യം!\n• Word family: insomnia | somnolence | somnambulist | soporific.\n• PSC exam strategy: വാക്ക് പിരിച്ച് അർത്ഥം ഉറപ്പിക്കുക: in- (ഇല്ലാത്ത) + somn- (ഉറക്കം) = ഉറക്കമില്ലായ്മ."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-11-05-Q1",
+    "paperId": "HC-DAILY-2026-11-05",
+    "questionNumber": 1,
+    "topic": "Tenses",
+    "difficulty": "medium",
+    "questionText": "Choose the correct option to complete the sentence.\nBy next March, my sister __________ in this firm for ten years.",
+    "optionA": "will work",
+    "optionB": "will have been working",
+    "optionC": "has worked",
+    "optionD": "had been working",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) will have been working\n\n• \"By next March\" ഭാവിയിലെ ഒരു സമയപരിധി; \"for ten years\" പ്രവർത്തനത്തിന്റെ ദൈർഘ്യം. ഈ രണ്ടും ചേർന്നാൽ Future Perfect Continuous tense.\n• Formula: will have been + V-ing → \"will have been working\".\n• അർത്ഥം: അടുത്ത മാർച്ചാകുമ്പോൾ എന്റെ സഹോദരി ഈ സ്ഥാപനത്തിൽ പത്തുവർഷമായി ജോലി ചെയ്തുകൊണ്ടിരിക്കും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: By + future time + for + duration → will have been + V-ing (action verbs-ന്; know, own പോലുള്ള stative verbs-ന് will have known).\n• Signal words: by next…, by the time…, for … years/months (ഭാവിയിലെ ഒരു പോയിന്റ് വരെ എത്ര കാലം).\n• Future Perfect: will have + V3 (പൂർത്തിയാകൽ); Future Perfect Continuous: will have been + V-ing (ദൈർഘ്യം).\n• ⭐ PSC ആവർത്തനം: Tenses-ൽ signal-word അടിസ്ഥാനമായ ചോദ്യങ്ങൾ വർഷം തോറും.\n• ഉദാഹരണ sentences:\n1. By June, he will have been teaching here for five years.\n2. By the time you arrive, I will have been waiting for two hours.\n3. By 2030, she will have been living abroad for a decade.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) will work\n• Simple future; ഭാവിയിലെ പോയിന്റ് വരെയുള്ള ദൈർഘ്യം കാണിക്കുന്നില്ല.\n• 🪤 PSC Trap: \"will\" കണ്ട് future എന്ന് മാത്രം നോക്കി തെറ്റിക്കാൻ.\n\n(C) has worked\n• Present perfect; \"next March\" ഭാവികാലസൂചനയോട് ചേരില്ല.\n• 🪤 PSC Trap: \"for ten years\" കണ്ട് present perfect ഓർമ്മിപ്പിക്കാൻ.\n\n(D) had been working\n• Past perfect continuous; ഭൂതകാലത്തെ സൂചിപ്പിക്കുന്നു, \"next March\" ഭാവിയാണ്.\n• 🪤 PSC Trap: \"been working\" ഘടന ശരിയെന്ന് തോന്നിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: BY + ഭാവി തീയതി + FOR + കാലയളവ് = \"will have BEEN V-ing\" — BY ... FOR ... BEEN!\n• Tense family: Future Perfect (will have V3) | Future Perfect Continuous (will have been V-ing).\n• PSC exam strategy: ആദ്യം time marker (by next…) നോക്കി tense തിരഞ്ഞെടുക്കുക, പിന്നെ duration (for) ഉണ്ടോ എന്ന് നോക്കി continuous ഉറപ്പിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-11-05-Q2",
+    "paperId": "HC-DAILY-2026-11-05",
+    "questionNumber": 2,
+    "topic": "Articles",
+    "difficulty": "medium",
+    "questionText": "Choose the correct articles to fill in the blanks.\nMy uncle bought __________ umbrella and __________ unique pen.",
+    "optionA": "a, a",
+    "optionB": "an, a",
+    "optionC": "an, an",
+    "optionD": "a, an",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) an, a\n\n• Article തിരഞ്ഞെടുക്കുന്നത് അക്ഷരം നോക്കിയല്ല, ഉച്ചാരണ ശബ്ദം നോക്കിയാണ്.\n• \"umbrella\" — ആദ്യ ശബ്ദം സ്വരം /ʌ/ → an umbrella.\n• \"unique\" — എഴുതുന്നത് vowel കൊണ്ടാണെങ്കിലും ഉച്ചാരണം /juː/ (യ ശബ്ദം) → a unique pen.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: a/an = SOUND, not letter. സ്വരശബ്ദം → an | വ്യഞ്ജനശബ്ദം (യ, വ ഉൾപ്പെടെ) → a.\n• Vowel letter പക്ഷേ /j/ ശബ്ദം: a university, a unique, a European, a useful, a one-rupee note.\n• Silent h: an hour, an honest man, an heir.\n• ⭐ PSC ആവർത്തനം: Articles-ൽ ശബ്ദ-നിയമം ഏറ്റവും പ്രിയപ്പെട്ട കെണി.\n• ഉദാഹരണ sentences:\n1. She is an MLA and a university professor.\n2. He waited for an hour in a European country.\n3. It was a unique opportunity.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) a, a\n• \"umbrella\" സ്വരശബ്ദത്തിൽ തുടങ്ങുന്നതിനാൽ \"an\" വേണം.\n• 🪤 PSC Trap: ആദ്യത്തേത് തെറ്റാക്കി രണ്ടാമത്തേത് ശരിയാക്കി കാണിക്കൽ.\n\n(C) an, an\n• \"unique\" /j/ ശബ്ദം ആയതിനാൽ \"a\" ആണ്; \"an unique\" തെറ്റ്.\n• 🪤 PSC Trap: \"u\" vowel ആയതിനാൽ \"an\" എന്ന അക്ഷര-നിയമം ഉപയോഗിക്കുന്നവരെ വീഴ്ത്താൻ.\n\n(D) a, an\n• ക്രമം തിരിഞ്ഞുപോയി — ആദ്യത്തേത് \"an\" (umbrella), രണ്ടാമത്തേത് \"a\" (unique) ആണ് ശരി.\n• 🪤 PSC Trap: ക്രമം മാറ്റി ആശയക്കുഴപ്പം ഉണ്ടാക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"U-nique = YOU-nique\" → യ ശബ്ദം = വ്യഞ്ജനം → a. \"U-mbrella = UH\" → സ്വരം → an.\n• Word family: a university | a unit | a union | a one-way street | an hour | an honour.\n• PSC exam strategy: അക്ഷരമല്ല, വാക്ക് ഉറക്കെ ചൊല്ലി ആദ്യ ശബ്ദം പരിശോധിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-11-05-Q3",
+    "paperId": "HC-DAILY-2026-11-05",
+    "questionNumber": 3,
+    "topic": "Question Tags",
+    "difficulty": "medium",
+    "questionText": "Choose the correct Question Tag to complete the sentence.\nShe ought to apologise to the staff, __________?",
+    "optionA": "oughtn't she",
+    "optionB": "doesn't she",
+    "optionC": "isn't she",
+    "optionD": "didn't she",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) oughtn't she\n\n• വാക്യം positive ആണ് (\"She ought to apologise…\"). അതിനാൽ tag negative ആയിരിക്കണം.\n• Main verb \"ought to\" ആയതിനാൽ tag-ലും അതേ modal തന്നെ negative രൂപത്തിൽ: oughtn't she?\n• Subject \"She\" → pronoun \"she\".",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Positive → Negative tag; auxiliary/modal ആവർത്തിക്കുക; subject pronoun ആക്കുക.\n• Auxiliary ഉള്ള വാക്യത്തിൽ ആ auxiliary-യെ തന്നെ negative ആക്കുക (ought → oughtn't).\n• ഒരേ കുടുംബം: used to → didn't she | had better → hadn't she | need → needn't | dare → daren't.\n• ⭐ PSC ആവർത്തനം: Question Tags-ൽ ought/used to/had better പോലുള്ള special verbs പതിവ്.\n• ഉദാഹരണ sentences:\n1. He ought to see a doctor, oughtn't he?\n2. You must finish it today, mustn't you?\n3. They can swim, can't they?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) doesn't she\n• \"does\" ശരിയായ auxiliary അല്ല; ഇവിടെ main verb ought ആണ്.\n• 🪤 PSC Trap: ലളിതമായ present tense tag (doesn't) ശീലം വച്ച് തെറ്റിക്കാൻ.\n\n(C) isn't she\n• \"is\" ആ വാക്യത്തിൽ ഇല്ലാത്ത auxiliary ആണ്.\n• 🪤 PSC Trap: \"She\" കണ്ട് \"isn't she\" എന്ന പതിവ് tag ഓർമ്മിപ്പിക്കാൻ.\n\n(D) didn't she\n• Past tense tag; വാക്യത്തിൽ past verb ഇല്ല.\n• 🪤 PSC Trap: \"apologise\" ക്രിയ നോക്കി do-വർഗ്ഗം തിരഞ്ഞെടുപ്പിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"OUGHT-tag = OUGHT-n't\" — വാക്യത്തിലെ modal തന്നെ negative ആക്കി തിരിച്ചു പറയുക (mirror)!\n• Rule family: modal/auxiliary mirror tag (can't, mustn't, oughtn't, hasn't).\n• PSC exam strategy: വാക്യത്തിലെ auxiliary കണ്ടെത്തി അതേ word negative ആക്കി tag എഴുതുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-11-05-Q4",
+    "paperId": "HC-DAILY-2026-11-05",
+    "questionNumber": 4,
+    "topic": "Prepositions",
+    "difficulty": "medium",
+    "questionText": "Choose the correct preposition to complete the sentence.\nChildren should not indulge __________ junk food every day.",
+    "optionA": "in",
+    "optionB": "on",
+    "optionC": "at",
+    "optionD": "by",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) in\n\n• \"Indulge in\" = (ഒരു ശീലത്തിലോ സുഖത്തിലോ) മുഴുകുക, അമിതമായി ആസ്വദിക്കുക. ഈ പ്രയോഗം fixed collocation ആണ്.\n• \"Children should not indulge in junk food every day\" — കുട്ടികൾ ദിവസവും ജങ്ക് ഫുഡിൽ മുഴുകരുത്.\n• Real-life: ബേക്കറി പലഹാരം ദിവസവും കഴിക്കുന്ന ശീലം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: indulge IN (something) = മുഴുകുക | indulge someone = ഒരാളുടെ ഇഷ്ടം സാധിച്ചുകൊടുക്കുക (preposition ഇല്ല).\n• Verb + preposition ജോഡികൾ മനഃപാഠമാക്കണം; യുക്തി കൊണ്ട് ഊഹിക്കാൻ പറ്റില്ല.\n• ഒരേ കുടുംബം: engage in | participate in | succeed in | believe in | persist in.\n• ⭐ PSC ആവർത്തനം: Prepositions-ൽ fixed collocations ഏറ്റവും വലിയ ഭാഗം.\n• ഉദാഹരണ sentences:\n1. He indulges in daydreaming during class.\n2. Do not indulge in gossip.\n3. She occasionally indulges in a cup of rich coffee.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) on\n• \"indulge on\" എന്ന combination standard അല്ല.\n• 🪤 PSC Trap: \"feed on\", \"depend on\" പോലുള്ള \"on\" ശീലം വച്ച് തെറ്റിക്കാൻ.\n\n(C) at\n• \"indulge at\" ഇല്ല; \"at\" സ്ഥലം/സമയം/ലക്ഷ്യം എന്നിവയ്ക്ക്.\n• 🪤 PSC Trap: \"aim at\", \"laugh at\" ഓർമ്മിപ്പിക്കാൻ.\n\n(D) by\n• \"by\" ഉപകരണം/കാരണം/കർത്താവ് എന്നിവയ്ക്ക്; ഇവിടെ ചേരില്ല.\n• 🪤 PSC Trap: Passive-ലെ \"by\" ഓർമ്മയിൽ വീഴ്ത്താൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Indulge IN\" — ആനന്ദത്തിന്റെ ഉള്ളിലേക്ക് (IN) മുങ്ങുക!\n• Word family: indulge in | engage in | revel in | delight in | dabble in.\n• PSC exam strategy: verb കണ്ടാൽ അതിനോട് ഏറ്റവും സാധാരണമായ preposition ഓർമ്മയിൽ നിന്ന് എടുക്കുക; നാലിൽ നിന്ന് ഊഹിക്കരുത്."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-11-05-Q5",
+    "paperId": "HC-DAILY-2026-11-05",
+    "questionNumber": 5,
+    "topic": "Active and Passive Voice",
+    "difficulty": "medium",
+    "questionText": "Choose the correct passive form of the sentence:\nYou must not park vehicles here.",
+    "optionA": "Vehicles must not be parked here.",
+    "optionB": "Vehicles must not park here.",
+    "optionC": "Vehicles not must be parked here.",
+    "optionD": "Vehicles must be not parked here.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Vehicles must not be parked here.\n\n• Active sentence-ൽ modal \"must not\" ആണ്. Passive-ൽ modal + be + V3 ഘടന: must not + be + parked.\n• Object (\"vehicles\") ഇപ്പോൾ subject ആകും; agent (\"you\") പൊതുവായതിനാൽ ഒഴിവാക്കാം.\n• Active tense/modal ആണ് passive-ലും, മാറ്റമില്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Modal passive = Subject(object) + modal + (not) + be + V3.\n• \"not\" modal-ന് ശേഷം, \"be\"-ന് മുമ്പ്: must NOT be parked.\n• ഉദാ: You must not park → Vehicles must not be parked.\n• ⭐ PSC ആവർത്തനം: Active-Passive-ൽ modal verbs (can, may, must, should) പ്രിയ വിഷയം.\n• ഉദാഹരണ sentences:\n1. You can solve this problem. → This problem can be solved.\n2. They should not waste water. → Water should not be wasted.\n3. We must obey the rules. → The rules must be obeyed.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) Vehicles must not park here.\n• ഇത് active ഘടനയാണ്; \"വാഹനങ്ങൾ പാർക്ക് ചെയ്യരുത്\" — voice മാറിയിട്ടില്ല.\n• 🪤 PSC Trap: Subject മാറ്റിയാൽ മതിയെന്ന് തെറ്റിദ്ധരിപ്പിക്കാൻ.\n\n(C) Vehicles not must be parked here.\n• \"not\" modal-ന് മുമ്പ് വന്നാൽ തെറ്റ്; ശരിയായ സ്ഥാനം modal-ന് ശേഷം.\n• 🪤 PSC Trap: Word order തെറ്റിച്ച് ശരിയെന്ന് തോന്നിക്കാൻ.\n\n(D) Vehicles must be not parked here.\n• \"must be not parked\" വ്യാകരണപരമായി തെറ്റാണ്; ശരിയായ ഘടന \"must not be parked\".\n• 🪤 PSC Trap: \"be\" ശരിയായതുകൊണ്ട് മാത്രം തിരഞ്ഞെടുപ്പിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"MUST-NOT-BE-V3\" — നാല് കണ്ണികൾ: modal, not, be, V3.\n• Rule family: Active tense = Passive tense | modal + be + V3 | have to → has/have to be + V3.\n• PSC exam strategy: option-കളിൽ \"not\"-ന്റെ സ്ഥാനം ആദ്യം നോക്കുക; തെറ്റായ order ഒഴിവാക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-11-05-Q6",
+    "paperId": "HC-DAILY-2026-11-05",
+    "questionNumber": 6,
+    "topic": "Idioms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the idiom in italics.\nDon't believe him; he is only __pulling your leg__.",
+    "optionA": "teasing you in fun",
+    "optionB": "hurting you",
+    "optionC": "helping you",
+    "optionD": "warning you",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) teasing you in fun\n\n• \"Pull someone's leg\" = ഒരാളെ തമാശയ്ക്ക് കളിയാക്കുക, പറ്റിക്കുക (ദോഷമില്ലാതെ).\n• വാക്യം: \"അവനെ വിശ്വസിക്കരുത്; അവൻ തമാശയ്ക്ക് നിന്നെ പറ്റിക്കുകയാണ്.\"\n• Literal ആയി കാല് വലിക്കുക എന്നതല്ല അർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: pull someone's leg = ലഘുവായ തമാശ-പറ്റിക്കൽ.\n• Idiom-ന് literal അർത്ഥം എടുക്കരുത്; മുഴുവൻ phrase-ന്റെയും അർത്ഥം പഠിക്കണം.\n• ഒരേ കുടുംബം: make fun of | poke fun at | tease | have someone on. (take someone for a ride, pull a fast one = ചതിക്കുക; ലഘു തമാശയല്ല.)\n• ⭐ PSC ആവർത്തനം: Idioms ഓരോ പേപ്പറിലും; ശരീരഭാഗങ്ങൾ ഉള്ള idioms പ്രിയം.\n• ഉദാഹരണ sentences:\n1. Stop pulling my leg; I know you are joking.\n2. He was only pulling her leg when he said he had won the lottery.\n3. Are you pulling my leg about the holiday?",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) hurting you\n• Literal ആയി \"കാലിൽ വേദന\" എന്ന ചിന്തയിൽ വീഴ്ത്തുന്ന option.\n• 🪤 PSC Trap: Idiom-ന് literal അർത്ഥം നൽകി കുഴപ്പിക്കാൻ.\n\n(C) helping you\n• Idiom-ന്റെ വിപരീത ഭാവം; ഇവിടെ പറ്റിക്കലാണ്, സഹായമല്ല.\n• 🪤 PSC Trap: \"pull\" = വലിച്ച് സഹായിക്കൽ എന്ന ചിന്തയിലേക്ക് നയിക്കാൻ.\n\n(D) warning you\n• വാക്യത്തിലെ \"Don't believe him\" കണ്ടാൽ warning എന്ന് തോന്നാം; എന്നാൽ idiom-ന്റെ അർത്ഥം അതല്ല.\n• 🪤 PSC Trap: വാക്യത്തിലെ ഭാഗം വച്ച് തെറ്റായ ഊഹത്തിലേക്ക് നയിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: കാൽ വലിച്ച് ഒരാളെ വീഴ്ത്തുന്നതായി സങ്കൽപ്പിക്കുക — ചിരിച്ചു വീഴ്ത്തൽ = leg pull!\n• Idiom family: have someone on | make fun of | poke fun at (തമാശയ്ക്ക് കളിയാക്കൽ). Contrast: pull a fast one | take someone for a ride = ചതിക്കുക.\n• PSC exam strategy: വാക്യത്തിലെ ഭാവം (joking/serious) നോക്കി അർത്ഥം ഉറപ്പിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-11-05-Q7",
+    "paperId": "HC-DAILY-2026-11-05",
+    "questionNumber": 7,
+    "topic": "Antonyms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct antonym of the word in italics.\nDespite the setback, the coach remained __optimistic__ about the final.",
+    "optionA": "hopeful",
+    "optionB": "pessimistic",
+    "optionC": "cheerful",
+    "optionD": "confident",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) pessimistic\n\n• \"Optimistic\" = പ്രതീക്ഷയുള്ള, നല്ലത് സംഭവിക്കുമെന്ന് കരുതുന്ന. വിപരീതം \"pessimistic\" = നിരാശാവാദി, മോശം പ്രതീക്ഷിക്കുന്ന.\n• Etymology hint: optimus (Latin) = best; pessimus = worst.\n• Real-life: തിരിച്ചടി കഴിഞ്ഞിട്ടും കോച്ച് ഫൈനലിൽ പ്രതീക്ഷ വച്ചു — അതിന്റെ വിപരീതം നിരാശ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: optimus (best) → optimistic | pessimus (worst) → pessimistic.\n• Antonym ചോദ്യത്തിൽ synonym-കൾ distractor ആയി വരും.\n• ഒരേ കുടുംബം: hopeful, positive, upbeat (synonyms) | gloomy, negative, despondent (antonyms).\n• ⭐ PSC ആവർത്തനം: Antonyms-ൽ സ്വഭാവ/മനോഭാവ വാക്കുകൾ പ്രിയം.\n• ഉദാഹരണ sentences:\n1. He is optimistic about the result, but his friend is pessimistic.\n2. A pessimistic outlook can reduce confidence.\n3. She stayed optimistic despite the delay.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) hopeful\n• ഇത് optimistic-ന്റെ synonym ആണ്.\n• 🪤 PSC Trap: Antonym ചോദ്യത്തിൽ synonym ഇട്ട് ധൃതി പിടിക്കുന്നവരെ വീഴ്ത്താൻ.\n\n(C) cheerful\n• സന്തോഷവാൻ — optimistic-നോട് അടുത്തത്.\n• 🪤 PSC Trap: പോസിറ്റീവ് ഭാവമുള്ള വാക്ക് ഇട്ട് തെറ്റിക്കാൻ.\n\n(D) confident\n• ആത്മവിശ്വാസമുള്ള — optimistic-ന്റെ അടുത്ത അർത്ഥം.\n• 🪤 PSC Trap: വാക്യത്തിലെ ഫൈനൽ പ്രതീക്ഷയുമായി ചേരുന്ന synonym.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: OPTimistic = OPT for best | PESSimistic = PEST-ആയി കാണുന്നവൻ (മോശം മാത്രം).\n• Word family: optimism/pessimism | optimist/pessimist | optimal.\n• PSC exam strategy: Antonym ചോദ്യം → ശരിയുത്തരം വിപരീതം; മൂന്ന് synonym-കൾ ഒഴിവാക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-11-05-Q8",
+    "paperId": "HC-DAILY-2026-11-05",
+    "questionNumber": 8,
+    "topic": "Spelling",
+    "difficulty": "easy",
+    "questionText": "Which one of the following is spelt correctly?",
+    "optionA": "posthumous",
+    "optionB": "posthumus",
+    "optionC": "postumous",
+    "optionD": "posthumos",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) posthumous\n\n• \"Posthumous\" = മരണശേഷം സംഭവിക്കുന്ന (ഉദാ: posthumous award = മരണാനന്തര ബഹുമതി).\n• Spelling: post + hum + ous → p-o-s-t-h-u-m-o-u-s. \"h\" നിശബ്ദമായി ഇടയിൽ ഉണ്ട്.\n• Etymology hint: Latin postumus = അവസാനം ജനിച്ച (പിതാവിന്റെ മരണശേഷം ജനിച്ച കുട്ടിയെ സൂചിപ്പിച്ച വാക്ക്).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: POST (ശേഷം) + HUM + OUS = posthumous.\n• നിശബ്ദ/ഇടയിലെ \"h\" ഓർക്കുക: post-h-umous.\n• Suffix -ous: ഗുണവിശേഷണം ഉണ്ടാക്കുന്നു (famous, ruinous, posthumous).\n• ⭐ PSC ആവർത്തനം: Spelling-ൽ അപൂർവ്വ അക്ഷരങ്ങൾ ഉള്ള വാക്കുകൾ ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. The poet received a posthumous award.\n2. The novel was published posthumously.\n3. His posthumous fame exceeded his earlier recognition.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) posthumus\n• അവസാനം \"-ous\" വേണം; \"-us\" അല്ല.\n• 🪤 PSC Trap: Latin \"-us\" അവസാനം (postumus) ഓർമ്മിപ്പിച്ച് തെറ്റിക്കാൻ.\n\n(C) postumous\n• \"h\" ഒഴിവാക്കിയ തെറ്റ്.\n• 🪤 PSC Trap: ഉച്ചാരണത്തിൽ \"h\" കേൾക്കാത്തതിനാൽ ഒഴിവാക്കുന്നവരെ വീഴ്ത്താൻ.\n\n(D) posthumos\n• \"-os\" ഗ്രീക്ക് രൂപം; English ഇങ്ങനെ എഴുതില്ല.\n• 🪤 PSC Trap: Greek-style അവസാനം ഇട്ട് ആശയക്കുഴപ്പം ഉണ്ടാക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: POST + HUM + OUS — post-humous; ഇടയിലെ \"h\" മറക്കരുത്!\n• Word family: posthumous | posthumously | posthumous fame.\n• PSC exam strategy: വാക്കിനെ post/hum/ous എന്ന് മൂന്ന് കഷണങ്ങളായി ഓർക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-11-05-Q9",
+    "paperId": "HC-DAILY-2026-11-05",
+    "questionNumber": 9,
+    "topic": "Words Often Confused",
+    "difficulty": "medium",
+    "questionText": "Choose the right word to fill in the blank.\nThe engineers worked hard to __________ a cheaper method of purifying water.",
+    "optionA": "device",
+    "optionB": "devise",
+    "optionC": "deviser",
+    "optionD": "devised",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) devise\n\n• \"Devise\" (ക്രിയ) = ഒരു പദ്ധതി/വഴി ആലോചിച്ച് രൂപപ്പെടുത്തുക. \"to\" ശേഷം base verb വേണം → \"to devise a method\".\n• \"Device\" ഒരു നാമം (ഉപകരണം) ആണ്; ക്രിയയായി ഉപയോഗിക്കാൻ പറ്റില്ല.\n• വാക്യം: എൻജിനീയർമാർ വെള്ളം ശുദ്ധീകരിക്കാൻ വിലകുറഞ്ഞ ഒരു രീതി രൂപപ്പെടുത്താൻ കഠിനമായി പരിശ്രമിച്ചു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: device (noun, C) = ഉപകരണം | devise (verb, S) = രൂപപ്പെടുത്തുക. (noun-ൽ C, verb-ൽ S)\n• ഇതേ പാറ്റേൺ: advice (noun) / advise (verb) | practice (noun) / practise (verb, BrE) | licence / license.\n• Spelling-ൽ c = noun, s = verb എന്ന പാറ്റേൺ ഓർക്കുക.\n• ⭐ PSC ആവർത്തനം: Words Often Confused-ൽ noun-verb ജോഡികൾ വളരെ പതിവ്.\n• ഉദാഹരണ sentences:\n1. The scientist devised a new test.\n2. This device saves electricity.\n3. We must devise a plan to reduce waste.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) device\n• നാമം (ഉപകരണം). \"to device\" എന്ന് ക്രിയ ആകില്ല.\n• 🪤 PSC Trap: ഉച്ചാരണത്തിൽ ഏതാണ്ട് ഒരുപോലെയായതിനാൽ തെറ്റിക്കാൻ.\n\n(C) deviser\n• ഒരാളെ സൂചിപ്പിക്കുന്ന നാമം (രൂപപ്പെടുത്തുന്നയാൾ); \"to\" ശേഷം ക്രിയ വേണം.\n• 🪤 PSC Trap: Real word ആയതിനാൽ ശരിയെന്ന് തോന്നിക്കാൻ.\n\n(D) devised\n• Past form; \"to\" ശേഷം base form വേണം.\n• 🪤 PSC Trap: ശരിയായ വാക്കിന്റെ തെറ്റായ രൂപം നൽകി വീഴ്ത്താൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: noun-ൽ \"c\" (device — ice പോലെ ഒരു വസ്തു), verb-ൽ \"s\" (devise).\n• Word pairs: advice/advise | device/devise | licence/license | practice/practise.\n• PSC exam strategy: ഒഴിവിൽ noun വേണോ verb വേണോ എന്ന് ആദ്യം തീരുമാനിക്കുക; \"to\" ശേഷം verb."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-11-05-Q10",
+    "paperId": "HC-DAILY-2026-11-05",
+    "questionNumber": 10,
+    "topic": "Word Formation",
+    "difficulty": "easy",
+    "questionText": "Which prefix gives the opposite meaning of the word 'legal'?",
+    "optionA": "un-",
+    "optionB": "il-",
+    "optionC": "im-",
+    "optionD": "dis-",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) il-\n\n• \"Legal\"-ന്റെ വിപരീതം \"illegal\" (നിയമവിരുദ്ധം). അതിനാൽ prefix \"il-\".\n• നിയമം: in- എന്ന prefix \"l\" ൽ തുടങ്ങുന്ന Latin വേരുള്ള വാക്കിന് മുമ്പ് il- ആയി മാറും (assimilation) — legal → illegal. എല്ലാ l- വാക്കുകൾക്കും ഇല്ല (lawful → unlawful, likely → unlikely).\n• illegal, illegible, illogical, illiterate എന്നിവ ഇതേ പാറ്റേൺ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: in- + l → il- | in- + m/p/b → im- | in- + r → ir-.\n• ഒരേ കുടുംബം: illegal, illogical, illegible | impossible, immature | irregular, irrelevant.\n• \"un-\", \"dis-\" മറ്റു വാക്കുകൾക്ക് ഉപയോഗിക്കുന്നു (unhappy, disagree).\n• ⭐ PSC ആവർത്തനം: Word Formation-ൽ prefix ചോദ്യങ്ങൾ സ്ഥിരം.\n• ഉദാഹരണ sentences:\n1. Parking here is illegal.\n2. His handwriting is illegible.\n3. The argument is completely illogical.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) un-\n• \"unlegal\" എന്ന വാക്ക് standard അല്ല.\n• 🪤 PSC Trap: \"un-\" ഏറ്റവും പരിചിത prefix ആയതിനാൽ തെറ്റിക്കാൻ.\n\n(C) im-\n• \"im-\" m, p, b എന്നിവയ്ക്ക് മുമ്പ് (impossible); \"l\"-ന് മുമ്പ് ഇല്ല.\n• 🪤 PSC Trap: \"immoral/impossible\" ഓർമ്മയിൽ തെറ്റിക്കാൻ.\n\n(D) dis-\n• \"dislegal\" ഇല്ല; \"dis-\" disagree, dislike എന്നിവയ്ക്ക്.\n• 🪤 PSC Trap: \"dis-\" negative prefix എന്ന പൊതു ധാരണ ഉപയോഗിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"L-L\" ഇരട്ട: il + legal = i-LL-egal — രണ്ട് L ഒരുമിച്ച്!\n• Word family: illegal | illiterate | illegitimate | illogical.\n• PSC exam strategy: Latin വേരുള്ള വാക്കുകൾക്ക് in- → l-ന് മുമ്പ് il-, m/p/b-ന് മുമ്പ് im-, r-ന് മുമ്പ് ir- (legal → illegal, possible → impossible, regular → irregular). ഇംഗ്ലീഷ് വേരുള്ള വാക്കുകൾക്ക് സാധാരണ un- (lawful → unlawful, likely → unlikely). വാക്ക് ഏത് തരമെന്ന് നോക്കുക."
+    }
   }
 ]
