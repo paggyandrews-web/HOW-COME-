@@ -1958,5 +1958,50 @@
     "medium": "M",
     "year": "2017",
     "answerKeyStatus": "final"
+  },
+  {
+    "id": "57-2017-E",
+    "paperCode": "57/2017 E",
+    "post": "Jr. Employment Officer - National Employment Services (Kerala) / Assistant Jailor Gr. I / Supdt., Sub Jail - Jails (NCA - SC, ST)",
+    "date": "20-May-2017",
+    "medium": "E",
+    "year": "2017",
+    "answerKeyStatus": "final"
+  },
+  {
+    "id": "52-2017-M",
+    "paperCode": "52/2017 M",
+    "post": "Women Police Constable (APB) (NCA) - Police",
+    "date": "11-May-2017",
+    "medium": "M",
+    "year": "2017",
+    "answerKeyStatus": "final"
+  },
+  {
+    "id": "50-2017-K",
+    "paperCode": "50/2017 K",
+    "post": "LDC (SR for SC/ST) - Various / LDC / Village Assistant - Land Revenue (SR from differently abled)",
+    "date": "06-May-2017",
+    "medium": "K",
+    "year": "2017",
+    "answerKeyStatus": "final"
+  },
+  {
+    "id": "146-2016-E",
+    "paperCode": "146/2016 E",
+    "post": "Range Forest Officer - Kerala Forest Department",
+    "date": "05-Nov-2016",
+    "medium": "E",
+    "year": "2016",
+    "answerKeyStatus": "final"
+  },
+  {
+    "id": "136-2016-M",
+    "paperCode": "136/2016 M",
+    "post": "L.D Clerk - Kerala State Beverages (Manufacturing & Marketing) Corporation Ltd",
+    "date": "22-Oct-2016",
+    "medium": "M",
+    "year": "2016",
+    "answerKeyStatus": "final"
   }
 ]

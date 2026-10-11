@@ -1,0 +1,373 @@
+{
+  "paper": {
+    "id": "52-2017-M",
+    "paperCode": "52/2017 M",
+    "post": "Women Police Constable (APB) (NCA) - Police",
+    "date": "11-May-2017",
+    "medium": "M",
+    "year": "2017",
+    "answerKeyStatus": "final"
+  },
+  "questions": [
+    {
+      "id": "52-2017-M-Q61",
+      "paperId": "52-2017-M",
+      "questionNumber": 61,
+      "topic": "Prepositions",
+      "questionText": "They had a chat ______ a cup of tea.",
+      "optionA": "with",
+      "optionB": "over",
+      "optionC": "by",
+      "optionD": "to",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) over\n• 'Over a cup of tea / coffee / dinner' = ചായ കുടിച്ചുകൊണ്ട്, ഭക്ഷണം കഴിക്കുന്നതിനിടെ.\n• ഒരു പ്രവൃത്തി (സംസാരം) മറ്റൊരു പ്രവൃത്തിക്കിടെ (ചായകുടി) നടക്കുമ്പോൾ 'over' ഉപയോഗിക്കുന്നു.\n• 'അവർ ഒരു കപ്പ് ചായ കുടിച്ചുകൊണ്ട് സംസാരിച്ചു' എന്നർത്ഥം.\n• ഇതൊരു fixed English പ്രയോഗമാണ് — chat over tea, discuss over lunch.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Talk / chat / discuss + OVER + a meal / a drink (ഭക്ഷണത്തിനിടെ).\n• over lunch, over dinner, over coffee, over a drink — എല്ലാം 'കഴിച്ചുകൊണ്ടിരിക്കെ' എന്ന അർത്ഥം.\n• 'over'-ന് മറ്റ് അർത്ഥങ്ങൾ: മുകളിൽ (over the table), കൂടുതൽ (over 100 people), കുറിച്ച് (quarrel over money).\n• ⭐ PSC ആവർത്തനം: 'over a cup of tea' PSC preposition ചോദ്യങ്ങളിലെ പ്രിയപ്പെട്ട പ്രയോഗമാണ്.\n• ഉദാഹരണ sentences:\n1. We discussed the plan over dinner. (അത്താഴം കഴിക്കുന്നതിനിടെ ഞങ്ങൾ പദ്ധതി ചർച്ച ചെയ്തു)\n2. Let's talk over coffee. (കാപ്പി കുടിച്ചുകൊണ്ട് സംസാരിക്കാം)\n3. The brothers quarrelled over property. (സ്വത്തിനെച്ചൊല്ലി സഹോദരന്മാർ വഴക്കിട്ടു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) with — 'chat with someone' (ഒരാളുമായി സംസാരിക്കുക) ആണ് ശരി; 'chat with a cup of tea' ചായയോട് സംസാരിക്കുന്നു എന്ന വിചിത്ര അർത്ഥം.\n• 🪤 PSC Trap: 'ചായയുടെ കൂടെ' എന്ന മലയാള ചിന്തയിൽ നിന്ന് 'with' തിരഞ്ഞെടുപ്പിക്കാനുള്ള കെണി!\n• (C) by — 'അരികിൽ / വഴി' എന്നർത്ഥം; ഇവിടെ ചേരില്ല.\n• (D) to — ദിശ കാണിക്കുന്നു; 'chat to a cup of tea' അർത്ഥശൂന്യം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ചായക്കപ്പിന്റെ മുകളിലൂടെ (OVER) വാക്കുകൾ പറക്കുന്നു!' — ചായകുടിയും സംസാരവും ഒരുമിച്ച്.\n• ഒരുമിച്ച് പഠിക്കുക: over tea, over lunch, over dinner, over a drink — ഭക്ഷണ സമയത്തെ സംസാരം.\n• PSC strategy: blank-ന് ശേഷം ഭക്ഷണം / പാനീയം വന്നാൽ, മുമ്പ് സംസാരം / ചർച്ച ആണെങ്കിൽ 'over' ഉറപ്പ്. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "52-2017-M-Q62",
+      "paperId": "52-2017-M",
+      "questionNumber": 62,
+      "topic": "Conditionals",
+      "questionText": "If he had informed me about the price hike, ______",
+      "optionA": "I had bought some in advance",
+      "optionB": "I'll buy some in advance",
+      "optionC": "I would have bought some in advance",
+      "optionD": "I bought some in advance",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) I would have bought some in advance\n• If-clause-ൽ 'had informed' (had + V3) — ഇത് third conditional ആണ്.\n• Third conditional-ന്റെ main clause: would have + V3 → would have bought.\n• കഴിഞ്ഞുപോയ, നടക്കാതെ പോയ സാഹചര്യം: അവൻ അറിയിച്ചില്ല, അതുകൊണ്ട് ഞാൻ മുൻകൂട്ടി വാങ്ങിയില്ല.\n• 'വില വർധനയെക്കുറിച്ച് അവൻ എന്നെ അറിയിച്ചിരുന്നെങ്കിൽ, ഞാൻ മുൻകൂട്ടി കുറച്ച് വാങ്ങുമായിരുന്നു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: If + had + V3 → would have + V3 (Third Conditional).\n• First: If + present → will + V1 | Second: If + past → would + V1 | Third: If + had V3 → would have V3.\n• Main clause-ൽ 'had + V3' ഒരിക്കലും വരില്ല — had ഒരു ഭാഗത്ത് മാത്രം.\n• ⭐ PSC ആവർത്തനം: Third conditional PSC-യിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന conditional ആണ്!\n• ഉദാഹരണ sentences:\n1. If you had called, I would have come. (നീ വിളിച്ചിരുന്നെങ്കിൽ ഞാൻ വരുമായിരുന്നു)\n2. If it had not rained, we would have played. (മഴ പെയ്തില്ലായിരുന്നെങ്കിൽ ഞങ്ങൾ കളിക്കുമായിരുന്നു)\n3. If she had studied, she would have passed. (പഠിച്ചിരുന്നെങ്കിൽ അവൾ ജയിക്കുമായിരുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) I had bought — main clause-ൽ past perfect; 'would have' വേണം — രണ്ട് ഭാഗത്തും 'had' വരില്ല.\n• 🪤 PSC Trap: if-clause-ലെ 'had' കണ്ട് main clause-ലും 'had' ഇടാൻ പ്രേരിപ്പിക്കുന്ന കെണി!\n• (B) I'll buy — first conditional രൂപം; 'had informed'-നൊപ്പം ചേരില്ല.\n• (D) I bought — simple past; സങ്കൽപ്പ ഭാവം (would) ഇല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'IF-ൽ HAD, മറുഭാഗത്ത് WOULD HAVE — ഒരു ഭാഗത്ത് മാത്രം HAD!'\n• ഒരുമിച്ച് പഠിക്കുക: had informed → would have bought, had known → would have told, had come → would have met.\n• PSC strategy: if-clause-ൽ had + V3 കണ്ടാൽ options-ൽ 'would have' ഉള്ളത് മാത്രം നോക്കുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "52-2017-M-Q63",
+      "paperId": "52-2017-M",
+      "questionNumber": 63,
+      "topic": "Words Often Confused",
+      "questionText": "'Pilgrims come here, but few stay over night' implies that",
+      "optionA": "All Pilgrims stay over night",
+      "optionB": "Some Pilgrims stay over night",
+      "optionC": "No Pilgrims come here",
+      "optionD": "No Pilgrims stay over night",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) No Pilgrims stay over night\n• PSC-യുടെ final key പ്രകാരം ഉത്തരം (D) ആണ്.\n• 'Few' (a ഇല്ലാതെ) negative അർത്ഥമുള്ള വാക്കാണ് — 'വളരെ കുറച്ച് മാത്രം, ഏതാണ്ട് ആരും ഇല്ല' (hardly any) എന്നർത്ഥം.\n• 'but few stay' — 'വളരെ കുറച്ചുപേർ മാത്രമേ രാത്രി തങ്ങുന്നുള്ളൂ' — ഇതിന്റെ ഊന്നൽ negative ഭാവത്തിലാണ്; അതിനാൽ PSC 'No pilgrims stay' സ്വീകരിച്ചു.\n• 📝 Note: കൃത്യമായി പറഞ്ഞാൽ 'few' = 'ഏതാനും പേർ മാത്രം' ആയതിനാൽ (B) 'Some pilgrims stay' എന്നതും വാദിക്കാവുന്നതാണ്; എന്നാൽ PSC key (D) ആണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: FEW = ഏതാണ്ട് ആരും ഇല്ല (negative) | A FEW = കുറച്ച് പേർ ഉണ്ട് (positive).\n• few / little → negative ഭാവം: Few people came (വളരെ കുറച്ചുപേർ മാത്രം — നിരാശ).\n• a few / a little → positive ഭാവം: A few people came (കുറച്ചുപേർ വന്നു — തൃപ്തി).\n• few / a few → countable nouns (people, books) | little / a little → uncountable (water, money).\n• ⭐ PSC ആവർത്തനം: few / a few / the few വ്യത്യാസം PSC പല രൂപത്തിൽ ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. Few students passed the exam. (വളരെ കുറച്ച് വിദ്യാർത്ഥികൾ മാത്രം ജയിച്ചു — ഏതാണ്ട് ആരും ഇല്ല)\n2. A few students passed the exam. (കുറച്ച് വിദ്യാർത്ഥികൾ ജയിച്ചു)\n3. There is little water in the well. (കിണറ്റിൽ വെള്ളം ഏതാണ്ട് ഇല്ല)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) All Pilgrims stay over night — 'few' എന്നതിന്റെ നേർ വിപരീതം; തീർത്ഥാടകർ എല്ലാവരും തങ്ങുന്നില്ല.\n• (B) Some Pilgrims stay over night — 'a few' (കുറച്ച് പേർ) എന്ന positive അർത്ഥം; 'few'-ന്റെ negative ഊന്നൽ ഇതിൽ ഇല്ലെന്ന് PSC കണക്കാക്കി.\n• 🪤 PSC Trap: few-ഉം a few-ഉം ഒന്നാണെന്ന് കരുതുന്നവർ B തിരഞ്ഞെടുക്കും — PSC ഇവിടെ 'few' = negative എന്ന നിയമമാണ് പരിശോധിക്കുന്നത്!\n• (C) No Pilgrims come here — 'Pilgrims come here' എന്ന് വാക്യം വ്യക്തമായി പറയുന്നു; അതിന് വിരുദ്ധം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'A ഉണ്ടെങ്കിൽ ആശ്വാസം (a few = ഉണ്ട്), A ഇല്ലെങ്കിൽ നിരാശ (few = ഏതാണ്ട് ഇല്ല)!'\n• ഒരുമിച്ച് പഠിക്കുക: few (ഏതാണ്ട് ഇല്ല), a few (കുറച്ച് ഉണ്ട്), the few (ഉള്ള കുറച്ചെല്ലാം), little / a little / the little.\n• PSC strategy: 'few' / 'little' ഒറ്റയ്ക്ക് വന്നാൽ negative ഭാവമുള്ള option ആദ്യം പരിഗണിക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "52-2017-M-Q64",
+      "paperId": "52-2017-M",
+      "questionNumber": 64,
+      "topic": "Prepositions",
+      "questionText": "I haven't seen her ______ the last thirty years.",
+      "optionA": "for",
+      "optionB": "since",
+      "optionC": "to",
+      "optionD": "on",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) for\n• 'the last thirty years' ഒരു കാലദൈർഘ്യം (period of time) ആണ് — 'മുപ്പത് വർഷമായി'.\n• കാലദൈർഘ്യത്തിന് മുമ്പ് 'for' ആണ് ഉപയോഗിക്കുന്നത്.\n• Present perfect (haven't seen) + for + period — സ്ഥിരം ഘടന.\n• 'കഴിഞ്ഞ മുപ്പത് വർഷമായി ഞാൻ അവളെ കണ്ടിട്ടില്ല' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: FOR + കാലദൈർഘ്യം (എത്ര കാലം?) | SINCE + ആരംഭ സമയം (എപ്പോൾ മുതൽ?).\n• for two hours, for ten days, for the last thirty years — കാലദൈർഘ്യം.\n• since Monday, since 2010, since morning, since childhood — ഒരു പ്രത്യേക ആരംഭ ബിന്ദു.\n• 'the last ... years' എന്നത് എപ്പോഴും ഒരു കാലയളവാണ് → for.\n• ⭐ PSC ആവർത്തനം: for / since വ്യത്യാസം PSC-യിൽ ഏറ്റവും കൂടുതൽ ചോദിച്ചിട്ടുള്ള preposition ചോദ്യമാണ്!\n• ഉദാഹരണ sentences:\n1. I have lived here for ten years. (ഞാൻ പത്ത് വർഷമായി ഇവിടെ താമസിക്കുന്നു)\n2. I have lived here since 2015. (2015 മുതൽ ഞാൻ ഇവിടെ താമസിക്കുന്നു)\n3. It has been raining for two hours. (രണ്ട് മണിക്കൂറായി മഴ പെയ്യുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) since — ഒരു ആരംഭ ബിന്ദുവിന് (since 1990) ആണ്; 'the last thirty years' ഒരു കാലയളവാണ്, ബിന്ദുവല്ല.\n• 🪤 PSC Trap: present perfect (haven't seen) കണ്ട് ഉടനെ 'since' ഇടാൻ പ്രേരിപ്പിക്കുന്ന കെണി — 'years' ഒരു ദൈർഘ്യമാണ്!\n• (C) to — ദിശ / അവസാനം കാണിക്കുന്നു; ഇവിടെ ചേരില്ല.\n• (D) on — ദിവസങ്ങൾക്കും തീയതികൾക്കും (on Monday); കാലയളവിന് അല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'FOR = എത്ര നേരം? (FOR-ty minutes) | SINCE = എപ്പോൾ മുതൽ? (SINCE-ന് ഒരു START)'!\n• ഒരുമിച്ച് പഠിക്കുക: for a week, for years, for the last decade | since Sunday, since 1990, since my birth.\n• PSC strategy: blank-ന് ശേഷം സംഖ്യ + കാലയളവ് (thirty years, two hours) വന്നാൽ 'for' ഉറപ്പ്. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "52-2017-M-Q65",
+      "paperId": "52-2017-M",
+      "questionNumber": 65,
+      "topic": "Tenses",
+      "questionText": "The past form of the verb '__stride__' is",
+      "optionA": "strided",
+      "optionB": "strode",
+      "optionC": "stridden",
+      "optionD": "stride",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) strode\n• 'Stride' എന്നാൽ നീണ്ട ചുവടുകളോടെ ആത്മവിശ്വാസത്തോടെ നടക്കുക.\n• ഇതൊരു irregular verb ആണ്: stride → strode → stridden (V1 → V2 → V3).\n• Past form (V2) = strode.\n• 'strided' എന്ന '-ed' രൂപം നിലവിലില്ല — irregular verb ആയതിനാൽ.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: stride – strode – stridden (i → o → idden).\n• ഇതേ രീതിയിലുള്ള irregular verbs:\n• ride – rode – ridden | drive – drove – driven | write – wrote – written | rise – rose – risen | strive – strove – striven.\n• V2 (past) — 'He strode' | V3 (past participle) — 'He has stridden'.\n• ⭐ PSC ആവർത്തനം: irregular verb-ന്റെ V2 / V3 രൂപങ്ങൾ PSC ഇടയ്ക്കിടെ ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. He strode into the room confidently. (അവൻ ആത്മവിശ്വാസത്തോടെ മുറിയിലേക്ക് നടന്നുകയറി)\n2. She rode her bicycle to school. (അവൾ സൈക്കിളിൽ സ്കൂളിൽ പോയി)\n3. He drove the car carefully. (അവൻ ശ്രദ്ധയോടെ കാർ ഓടിച്ചു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) strided — regular verb പോലെ '-ed' ചേർത്ത രൂപം; stride irregular ആയതിനാൽ ഈ രൂപം തെറ്റാണ്.\n• 🪤 PSC Trap: '-ed' ചേർക്കുന്ന സാധാരണ നിയമം ഓർത്ത് 'strided' ഇടാൻ പ്രേരിപ്പിക്കുന്ന കെണി!\n• (C) stridden — ഇത് past participle (V3) ആണ്; has / had-നൊപ്പം മാത്രം ഉപയോഗിക്കുന്നു.\n• (D) stride — ഇത് present form (V1) ആണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'RIDE-RODE-RIDDEN പോലെ STRIDE-STRODE-STRIDDEN — ഒരേ താളം!'\n• ഒരുമിച്ച് പഠിക്കുക: ride, stride, drive, write, rise, strive — ഈ കുടുംബത്തിൽ V2 'o' ആയും V3 '-en' ആയും മാറുന്നു.\n• PSC strategy: past form ചോദിച്ചാൽ V3 (-en) options വെട്ടുക; V2-ൽ സാധാരണ vowel മാറ്റം ഉണ്ടാകും. guaranteed mark!"
+      }
+    },
+    {
+      "id": "52-2017-M-Q66",
+      "paperId": "52-2017-M",
+      "questionNumber": 66,
+      "topic": "Question Tags",
+      "questionText": "Let's submit the projects on time, ______?",
+      "optionA": "do we?",
+      "optionB": "should we?",
+      "optionC": "shouldn't we?",
+      "optionD": "shall we?",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) shall we?\n• 'Let's' (= Let us) കൊണ്ട് തുടങ്ങുന്ന നിർദ്ദേശ വാക്യത്തിന്റെ (suggestion) tag എപ്പോഴും 'shall we?' ആണ്.\n• 'Let's'-ൽ സംസാരിക്കുന്നയാളും ഉൾപ്പെടുന്നതിനാൽ tag-ൽ 'we'.\n• 'നമുക്ക് പ്രോജക്റ്റുകൾ കൃത്യസമയത്ത് സമർപ്പിക്കാം, അല്ലേ?' എന്നർത്ഥം.\n• ഇതൊരു fixed നിയമമാണ് — tense നോക്കേണ്ടതില്ല.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Let's ... → shall we? | Let me / Let him → will you?\n• Imperative (ആജ്ഞ): Open the door → will you? / won't you?\n• Negative imperative: Don't be late → will you?\n• 'Let us' (അനുവാദം ചോദിക്കൽ — 'ഞങ്ങളെ അനുവദിക്കൂ') ആണെങ്കിൽ → will you?\n• ⭐ PSC ആവർത്തനം: 'Let's ... shall we?' — PSC-യിൽ ഏറ്റവും കൂടുതൽ ആവർത്തിച്ച question tag!\n• ഉദാഹരണ sentences:\n1. Let's go home, shall we? (നമുക്ക് വീട്ടിൽ പോകാം, അല്ലേ?)\n2. Let's start the meeting, shall we? (നമുക്ക് യോഗം തുടങ്ങാം, അല്ലേ?)\n3. Let me try, will you? (ഞാൻ ഒന്ന് ശ്രമിക്കട്ടെ?)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) do we? — 'Let's' വാക്യത്തിൽ 'do' auxiliary ഉപയോഗിക്കാറില്ല.\n• (B) should we? — 'should' ഉപദേശം കാണിക്കുന്നു; Let's-ന്റെ fixed tag 'shall' ആണ്.\n• (C) shouldn't we? — negative tag; Let's-ന് negative tag വരില്ല.\n• 🪤 PSC Trap: should / shall ഒരേ പോലെ തോന്നുന്നതിനാൽ 'should we' തിരഞ്ഞെടുപ്പിക്കാനുള്ള കെണി — Let's-ന് SHALL മാത്രം!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'LET'S = നമുക്ക് → SHALL WE = നമ്മൾ ചെയ്യട്ടെ?' — രണ്ടും 'നമ്മൾ'!\n• ഒരുമിച്ച് പഠിക്കുക: Let's → shall we, Let me → will you, Imperative → will you, I am → aren't I.\n• PSC strategy: വാക്യം 'Let's' കൊണ്ട് തുടങ്ങിയാൽ ചിന്തിക്കേണ്ട — 'shall we' ഉടനെ. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "52-2017-M-Q67",
+      "paperId": "52-2017-M",
+      "questionNumber": 67,
+      "topic": "Phrasal Verbs",
+      "questionText": "The students ______ some money for their future purposes.",
+      "optionA": "put aside",
+      "optionB": "put away",
+      "optionC": "put off",
+      "optionD": "put down",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) put aside\n• 'Put aside' എന്നാൽ ഭാവിയിലെ ഒരു ആവശ്യത്തിനായി (പണം / സമയം) മാറ്റിവയ്ക്കുക, സൂക്ഷിച്ചുവയ്ക്കുക.\n• 'for their future purposes' (ഭാവി ആവശ്യങ്ങൾക്കായി) എന്നത് ഈ അർത്ഥത്തിന് കൃത്യമായ സൂചനയാണ്.\n• 'വിദ്യാർത്ഥികൾ ഭാവി ആവശ്യങ്ങൾക്കായി കുറച്ച് പണം മാറ്റിവച്ചു' എന്നർത്ഥം.\n• Synonym: save, set aside.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Put aside / Set aside = ഭാവിക്കായി മാറ്റിവയ്ക്കുക (save).\n• Put-ന്റെ കുടുംബം:\n• put away = സാധനങ്ങൾ എടുത്തുവയ്ക്കുക (അലമാരയിൽ) | put off = മാറ്റിവയ്ക്കുക (postpone) | put down = അടിച്ചമർത്തുക / എഴുതിവയ്ക്കുക | put up with = സഹിക്കുക.\n• ⭐ PSC ആവർത്തനം: 'put' phrasal verbs PSC-യിൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന കുടുംബമാണ്!\n• ഉദാഹരണ sentences:\n1. She puts aside some money every month. (അവൾ എല്ലാ മാസവും കുറച്ച് പണം മാറ്റിവയ്ക്കുന്നു)\n2. Put away your toys. (നിന്റെ കളിപ്പാട്ടങ്ങൾ എടുത്തുവയ്ക്കൂ)\n3. The match was put off due to rain. (മഴ കാരണം കളി മാറ്റിവച്ചു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) put away — സാധനങ്ങൾ യഥാസ്ഥാനത്ത് എടുത്തുവയ്ക്കുക; ചിലപ്പോൾ പണം സമ്പാദിക്കുക എന്നും വരും, പക്ഷേ 'ഭാവി ആവശ്യത്തിന് മാറ്റിവയ്ക്കുക' എന്നതിന് standard പ്രയോഗം put aside ആണ്.\n• 🪤 PSC Trap: put away-ഉം put aside-ഉം അടുത്ത അർത്ഥമുള്ളതിനാൽ ആശയക്കുഴപ്പം ഉണ്ടാക്കുന്ന കെണി!\n• (C) put off — 'മാറ്റിവയ്ക്കുക (സമയം നീട്ടുക)' എന്നർത്ഥം; പണവുമായി ബന്ധമില്ല.\n• (D) put down — 'അടിച്ചമർത്തുക / താഴെ വയ്ക്കുക' എന്നർത്ഥം; ഇവിടെ ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ASIDE = ഒരു വശത്തേക്ക് — പണം ഒരു വശത്ത് ഭാവിക്കായി!'\n• ഒരുമിച്ച് പഠിക്കുക: put aside (മാറ്റിവയ്ക്കുക), put away (എടുത്തുവയ്ക്കുക), put off (നീട്ടിവയ്ക്കുക), put down (അടിച്ചമർത്തുക).\n• PSC strategy: 'for future / for later / for emergency' പോലുള്ള സൂചന കണ്ടാൽ put aside / set aside ഉറപ്പ്. guaranteed mark!"
+      }
+    },
+    {
+      "id": "52-2017-M-Q68",
+      "paperId": "52-2017-M",
+      "questionNumber": 68,
+      "topic": "Prepositions",
+      "questionText": "Alice prefers coffee ______ tea.",
+      "optionA": "than",
+      "optionB": "by",
+      "optionC": "to",
+      "optionD": "of",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) to\n• 'Prefer A to B' = B-യേക്കാൾ A ഇഷ്ടപ്പെടുക — ഇതൊരു fixed ഘടനയാണ്.\n• 'prefer'-നൊപ്പം 'than' ഉപയോഗിക്കാറില്ല; 'to' ആണ് ശരി.\n• 'ആലീസിന് ചായയേക്കാൾ കാപ്പിയാണ് ഇഷ്ടം' എന്നർത്ഥം.\n• 'prefer' ഒരു comparative ഭാവമുള്ള verb ആണെങ്കിലും അത് 'than' എടുക്കുന്നില്ല.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: PREFER + A + TO + B (ഒരിക്കലും than അല്ല!).\n• Latin comparatives-ഉം 'to' എടുക്കുന്നു: superior to, inferior to, senior to, junior to, prior to.\n• എന്നാൽ 'would rather ... than' — I would rather drink coffee than tea.\n• ⭐ PSC ആവർത്തനം: 'prefer to' / 'superior to' — PSC preposition ചോദ്യങ്ങളിലെ ക്ലാസിക് കെണി!\n• ഉദാഹരണ sentences:\n1. I prefer walking to driving. (വണ്ടി ഓടിക്കുന്നതിനേക്കാൾ നടക്കാനാണ് എനിക്ക് ഇഷ്ടം)\n2. He is senior to me. (അവൻ എന്നേക്കാൾ സീനിയറാണ്)\n3. This cloth is superior to that. (ഈ തുണി അതിനേക്കാൾ മികച്ചതാണ്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) than — സാധാരണ comparative-ന് (better than) ശരി; പക്ഷേ 'prefer'-നൊപ്പം ഉപയോഗിക്കില്ല.\n• 🪤 PSC Trap: താരതമ്യം ഉള്ളതിനാൽ 'than' ആണ് ശരിയെന്ന് തോന്നിപ്പിക്കുന്ന ക്ലാസിക് കെണി — prefer-ന് TO മാത്രം!\n• (B) by — 'വഴി / ആൽ' എന്നർത്ഥം; prefer-നൊപ്പം ചേരില്ല.\n• (D) of — ഉടമസ്ഥത കാണിക്കുന്നു; ഇവിടെ അർത്ഥശൂന്യം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'PREFER-ൽ ഒളിഞ്ഞിരിക്കുന്നത് TO — preferTO!' | Latin വാക്കുകൾക്കും (superior, senior) TO.\n• ഒരുമിച്ച് പഠിക്കുക: prefer to, superior to, inferior to, senior to, junior to, prior to, preferable to.\n• PSC strategy: blank-ന് മുമ്പ് prefer / superior / senior കണ്ടാൽ 'than' ഉടനെ വെട്ടുക — 'to' ഉറപ്പ്. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "52-2017-M-Q69",
+      "paperId": "52-2017-M",
+      "questionNumber": 69,
+      "topic": "Parts of Speech",
+      "questionText": "Find out the sentence in which an inchoative verb is used",
+      "optionA": "The old woman is going to the town.",
+      "optionB": "The old woman is watching T.V.",
+      "optionC": "The old woman is searching for her spectacles.",
+      "optionD": "The old woman is getting weaker.",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) The old woman is getting weaker.\n• 'Inchoative verb' എന്നാൽ ഒരു അവസ്ഥയിലേക്കുള്ള മാറ്റം / ആരംഭം (becoming / beginning) കാണിക്കുന്ന verb.\n• 'is getting weaker' = 'ദുർബലയായിക്കൊണ്ടിരിക്കുന്നു' — ഒരു അവസ്ഥയിൽ നിന്ന് മറ്റൊന്നിലേക്കുള്ള മാറ്റം.\n• Latin 'inchoare' = ആരംഭിക്കുക.\n• 'get', 'become', 'grow', 'turn' + adjective — ഇവയാണ് സാധാരണ inchoative verbs.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Inchoative = get / become / grow / turn / go + adjective (അവസ്ഥാമാറ്റം).\n• ഉദാഹരണങ്ങൾ: get old, become rich, grow tall, turn red, go mad, fall ill.\n• ചില verbs സ്വയം inchoative ആണ്: The ice melted (മഞ്ഞ് ഉരുകി), The door opened (വാതിൽ തുറന്നു).\n• ചലനം (going), പ്രവൃത്തി (watching, searching) എന്നിവ അവസ്ഥാമാറ്റമല്ല.\n• ⭐ PSC ആവർത്തനം: verb-ന്റെ തരങ്ങൾ (inchoative, causative, linking) ഇടയ്ക്കിടെ PSC ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. The sky is getting dark. (ആകാശം ഇരുണ്ടുകൊണ്ടിരിക്കുന്നു)\n2. He became angry. (അവന് ദേഷ്യം വന്നു)\n3. The leaves turned yellow. (ഇലകൾ മഞ്ഞയായി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) is going to the town — സ്ഥലത്തേക്കുള്ള ചലനം (motion) മാത്രം; അവസ്ഥാമാറ്റമല്ല.\n• (B) is watching T.V. — ഒരു സാധാരണ പ്രവൃത്തി (action verb); അവസ്ഥ മാറുന്നില്ല.\n• (C) is searching for her spectacles — ഇതും ഒരു action verb; മാറ്റം കാണിക്കുന്നില്ല.\n• 🪤 PSC Trap: എല്ലാ options-ഉം 'is + V-ing' രൂപത്തിൽ — tense നോക്കി ഉത്തരം കണ്ടെത്താനാവില്ല; verb-ന്റെ അർത്ഥം (മാറ്റം) ആണ് സൂചന!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'INCHOATIVE = INCH by INCH മാറുന്നു' — ഓരോ ഇഞ്ചായി ദുർബലമാകുന്നു (getting weaker)!\n• ഒരുമിച്ച് പഠിക്കുക: get weaker, grow older, become famous, turn pale, go bald — എല്ലാം അവസ്ഥാമാറ്റം.\n• PSC strategy: get / become / grow / turn + adjective ഉള്ള വാക്യം കണ്ടെത്തുക — അതാണ് inchoative. guaranteed mark!"
+      }
+    },
+    {
+      "id": "52-2017-M-Q70",
+      "paperId": "52-2017-M",
+      "questionNumber": 70,
+      "topic": "One Word Substitutes",
+      "questionText": "A person who hates woman is called a",
+      "optionA": "misogynist",
+      "optionB": "misogamist",
+      "optionC": "misanthropist",
+      "optionD": "migrant",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) misogynist\n• 'Misogynist' = സ്ത്രീകളെ വെറുക്കുന്നയാൾ.\n• Greek 'miso' (വെറുപ്പ്) + 'gyne' (സ്ത്രീ) = സ്ത്രീവിദ്വേഷി.\n• 'gyne' എന്ന root gynaecology (സ്ത്രീരോഗ ചികിത്സ) എന്ന വാക്കിലും ഉണ്ട്.\n• 'miso / mis' = വെറുപ്പ് — ഈ root ഉള്ള വാക്കുകളെല്ലാം വിദ്വേഷവുമായി ബന്ധപ്പെട്ടതാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: MISO (വെറുപ്പ്) + GYNE (സ്ത്രീ) = Misogynist.\n• 'Miso' കുടുംബം:\n• misogynist = സ്ത്രീവിദ്വേഷി | misogamist = വിവാഹവിദ്വേഷി (gamos = വിവാഹം) | misanthropist = മനുഷ്യവിദ്വേഷി (anthropos = മനുഷ്യൻ) | misandrist = പുരുഷവിദ്വേഷി (andros = പുരുഷൻ) | misologist = വാദവിദ്വേഷി.\n• ⭐ PSC ആവർത്തനം: misogynist / misogamist / misanthropist — ഈ ത്രയം PSC one-word substitute ചോദ്യങ്ങളിൽ വീണ്ടും വീണ്ടും വരുന്നു!\n• ഉദാഹരണ sentences:\n1. A misogynist hates women. (സ്ത്രീവിദ്വേഷി സ്ത്രീകളെ വെറുക്കുന്നു)\n2. A misanthropist avoids all people. (മനുഷ്യവിദ്വേഷി എല്ലാ മനുഷ്യരെയും ഒഴിവാക്കുന്നു)\n3. The old bachelor was a misogamist. (ആ വൃദ്ധ അവിവാഹിതൻ വിവാഹവിദ്വേഷിയായിരുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) misogamist — വിവാഹത്തെ വെറുക്കുന്നയാൾ ('gamos' = വിവാഹം); സ്ത്രീകളെയല്ല.\n• 🪤 PSC Trap: misogynist-ഉം misogamist-ഉം ഏതാണ്ട് ഒരേ spelling — 'gyn' (സ്ത്രീ), 'gam' (വിവാഹം) എന്ന വ്യത്യാസം ശ്രദ്ധിക്കാത്തവർ വീഴും!\n• (C) misanthropist — മനുഷ്യവർഗത്തെ മുഴുവൻ വെറുക്കുന്നയാൾ.\n• (D) migrant — 'കുടിയേറ്റക്കാരൻ' എന്നർത്ഥം; 'mi' എന്ന തുടക്കം കൊണ്ട് മാത്രം ഇട്ട ബന്ധമില്ലാത്ത option.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'GYNaecologist സ്ത്രീകളെ ചികിത്സിക്കുന്നു, misoGYNist സ്ത്രീകളെ വെറുക്കുന്നു' | 'monoGAMy = ഒരു വിവാഹം → misoGAMist = വിവാഹവിദ്വേഷി'!\n• ഒരുമിച്ച് പഠിക്കുക: misogynist (സ്ത്രീ), misandrist (പുരുഷൻ), misogamist (വിവാഹം), misanthropist (മനുഷ്യൻ).\n• PSC strategy: 'miso' വാക്കുകളിൽ രണ്ടാം ഭാഗത്തെ root (gyn / gam / anthrop) കണ്ടെത്തുക — അതാണ് ആരെ വെറുക്കുന്നു എന്ന് പറയുന്നത്. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "52-2017-M-Q71",
+      "paperId": "52-2017-M",
+      "questionNumber": 71,
+      "topic": "Singular and Plural",
+      "questionText": "Which is the singular word among the followings?",
+      "optionA": "bacteria",
+      "optionB": "strata",
+      "optionC": "larva",
+      "optionD": "criteria",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) larva\n• 'Larva' singular ആണ് — ഒരു ലാർവ (കീടത്തിന്റെ പുഴുരൂപം). Plural: larvae.\n• ബാക്കി മൂന്നും Latin / Greek ഉത്ഭവമുള്ള plural രൂപങ്ങളാണ്.\n• bacteria (plural) ← bacterium (singular) | strata ← stratum | criteria ← criterion.\n• Latin-ൽ '-a' ചിലപ്പോൾ singular-ഉം (larva) ചിലപ്പോൾ plural-ഉം (bacteria) ആകാം — അതാണ് ഈ ചോദ്യത്തിന്റെ കെണി.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Latin -UM → -A (bacterium → bacteria) | Greek -ON → -A (criterion → criteria) | Latin -A → -AE (larva → larvae).\n• മറ്റ് ഉദാഹരണങ്ങൾ:\n• datum → data | medium → media | curriculum → curricula | phenomenon → phenomena | formula → formulae | antenna → antennae.\n• ⭐ PSC ആവർത്തനം: Latin / Greek singular-plural ജോഡികൾ PSC-യിൽ വളരെ പ്രിയപ്പെട്ട ചോദ്യമാണ്!\n• ഉദാഹരണ sentences:\n1. A larva hatches from an egg. (മുട്ടയിൽ നിന്ന് ഒരു ലാർവ വിരിയുന്നു)\n2. Some bacteria are useful. (ചില ബാക്ടീരിയകൾ ഉപകാരപ്രദമാണ്)\n3. The criteria for selection are strict. (തിരഞ്ഞെടുപ്പിനുള്ള മാനദണ്ഡങ്ങൾ കർശനമാണ്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) bacteria — plural; singular 'bacterium' ആണ്.\n• (B) strata — plural ('പാളികൾ'); singular 'stratum' ആണ്.\n• (D) criteria — plural ('മാനദണ്ഡങ്ങൾ'); singular 'criterion' ആണ്.\n• 🪤 PSC Trap: നാല് വാക്കുകളും '-a'-ൽ അവസാനിക്കുന്നതിനാൽ എല്ലാം ഒരുപോലെ തോന്നും — ഓരോന്നിന്റെയും singular രൂപം ഓർക്കുന്നവർക്ക് മാത്രം ഉത്തരം കിട്ടും!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'LARVA ഒറ്റയ്ക്ക്, LARVAE കൂട്ടമായി' | 'bacteriUM, stratUM — UM ഒന്ന്, A പലത്'!\n• ഒരുമിച്ച് പഠിക്കുക: bacterium–bacteria, stratum–strata, criterion–criteria, datum–data, larva–larvae, formula–formulae.\n• PSC strategy: '-a'-ൽ അവസാനിക്കുന്ന ഓരോ വാക്കിന്റെയും 'ഒന്ന്' രൂപം മനസ്സിൽ പറഞ്ഞുനോക്കുക — singular രൂപം വേറെ ഇല്ലാത്തതാണ് ഉത്തരം. guaranteed mark!"
+      }
+    },
+    {
+      "id": "52-2017-M-Q72",
+      "paperId": "52-2017-M",
+      "questionNumber": 72,
+      "topic": "Synonyms",
+      "questionText": "The word synonymous with '__conceal__' is",
+      "optionA": "delirious",
+      "optionB": "deliquesce",
+      "optionC": "delineate",
+      "optionD": "delitescence",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) delitescence\n• 'Conceal' എന്നാൽ ഒളിപ്പിക്കുക, മറച്ചുവയ്ക്കുക.\n• 'Delitescence' എന്നാൽ ഒളിഞ്ഞിരിക്കുന്ന അവസ്ഥ, മറഞ്ഞിരിക്കൽ (concealment / latency).\n• Latin 'delitescere' = ഒളിച്ചിരിക്കുക — conceal എന്ന ആശയവുമായി നേരിട്ട് ബന്ധമുള്ള ഏക option ഇതാണ്.\n• (delitescence ഒരു noun ആണ്, conceal ഒരു verb — പക്ഷേ 'ഒളിപ്പിക്കൽ' എന്ന അർത്ഥം പങ്കിടുന്നത് ഇത് മാത്രം.)",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Conceal = Hide = ഒളിപ്പിക്കുക | Delitescence = ഒളിഞ്ഞിരിക്കൽ.\n• Conceal-ന്റെ സാധാരണ synonyms: hide, cover, mask, disguise, cloak.\n• Antonyms: reveal, disclose, expose, show.\n• 'deli-' എന്ന് തുടങ്ങുന്ന നാല് കടുപ്പമുള്ള വാക്കുകൾ ഒരുമിച്ച് ഇട്ട് ആശയക്കുഴപ്പം ഉണ്ടാക്കുന്നതാണ് ഈ ചോദ്യത്തിന്റെ രീതി.\n• ⭐ PSC ആവർത്തനം: conceal / reveal ജോഡി PSC synonym-antonym ചോദ്യങ്ങളിൽ സാധാരണമാണ്.\n• ഉദാഹരണ sentences:\n1. He concealed the truth from his parents. (അവൻ മാതാപിതാക്കളിൽ നിന്ന് സത്യം മറച്ചുവച്ചു)\n2. The thief concealed the gold under the bed. (കള്ളൻ കട്ടിലിനടിയിൽ സ്വർണ്ണം ഒളിപ്പിച്ചു)\n3. Never conceal your mistakes. (നിന്റെ തെറ്റുകൾ ഒരിക്കലും മറച്ചുവയ്ക്കരുത്)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) delirious — 'ഉന്മാദാവസ്ഥയിലുള്ള, പനിയാൽ പിച്ചും പേയും പറയുന്ന' എന്നർത്ഥം.\n• (B) deliquesce — 'അന്തരീക്ഷത്തിലെ ഈർപ്പം വലിച്ചെടുത്ത് ഉരുകുക / ദ്രവിക്കുക' (രസതന്ത്ര പദം).\n• (C) delineate — 'രൂപരേഖ വരയ്ക്കുക, വിശദമായി വിവരിക്കുക' — ഒളിപ്പിക്കുന്നതിന്റെ ഏതാണ്ട് വിപരീത ഭാവം!\n• 🪤 PSC Trap: നാല് options-ഉം 'deli-' എന്ന് തുടങ്ങുന്നു — ഊഹിച്ചെടുക്കാൻ ശ്രമിക്കുന്നവരെ കുഴക്കാനുള്ള കെണി; root അറിയുന്നവർക്ക് മാത്രം ഉത്തരം!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'deLITEscence = LIGHT (വെളിച്ചം) ഇല്ലാതെ ഒളിച്ചിരിക്കൽ!' — വെളിച്ചത്തിൽ നിന്ന് മറഞ്ഞിരിക്കുന്നു.\n• ഒരുമിച്ച് പഠിക്കുക: conceal / hide / delitescence (ഒളിക്കൽ) ↔ reveal / disclose / delineate (വെളിപ്പെടുത്തൽ / വിവരിക്കൽ).\n• PSC strategy: ഒരേ തുടക്കമുള്ള നാല് കടുപ്പമുള്ള വാക്കുകൾ കണ്ടാൽ, അറിയാവുന്നവയുടെ അർത്ഥം ഉപയോഗിച്ച് ഓരോന്നായി വെട്ടുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "52-2017-M-Q73",
+      "paperId": "52-2017-M",
+      "questionNumber": 73,
+      "topic": "One Word Substitutes",
+      "questionText": "The young one of a horse is called",
+      "optionA": "fawn",
+      "optionB": "foal",
+      "optionC": "calf",
+      "optionD": "squab",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) foal\n• കുതിരയുടെ കുഞ്ഞിനെ 'foal' എന്ന് വിളിക്കുന്നു.\n• ആൺകുതിരക്കുട്ടി = colt | പെൺകുതിരക്കുട്ടി = filly — എല്ലാം പൊതുവായി foal.\n• 'കുതിരയുടെ കുഞ്ഞിനെ foal എന്ന് പറയുന്നു' — ഓരോ മൃഗത്തിന്റെയും കുഞ്ഞിന് പ്രത്യേക പേരുണ്ട്.\n• ചോദ്യപേപ്പറിൽ 'youngone' എന്ന് ഒറ്റവാക്കായി അച്ചടിച്ചിരിക്കുന്നു — ഉദ്ദേശിച്ചത് 'young one' ആണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Horse → FOAL | Deer → FAWN | Cow → CALF | Pigeon → SQUAB.\n• മറ്റ് മൃഗക്കുഞ്ഞുങ്ങൾ:\n• dog → puppy | cat → kitten | lion / tiger → cub | sheep → lamb | goat → kid | hen → chick | frog → tadpole | kangaroo → joey | goose → gosling | swan → cygnet.\n• ⭐ PSC ആവർത്തനം: മൃഗക്കുഞ്ഞുങ്ങളുടെ പേരുകൾ PSC-യിൽ വളരെ പതിവായി ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. The mare gave birth to a foal. (പെൺകുതിര ഒരു കുട്ടിയെ പ്രസവിച്ചു)\n2. A fawn followed its mother. (ഒരു മാൻകുട്ടി അമ്മയെ പിന്തുടർന്നു)\n3. The calf is drinking milk. (പശുക്കുട്ടി പാൽ കുടിക്കുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) fawn — മാനിന്റെ കുഞ്ഞ്.\n• (C) calf — പശു, ആന, തിമിംഗലം എന്നിവയുടെ കുഞ്ഞ്.\n• 🪤 PSC Trap: calf ഒന്നിലധികം വലിയ മൃഗങ്ങളുടെ കുഞ്ഞിന് ഉപയോഗിക്കുന്നതിനാൽ കുതിരയ്ക്കും ആണെന്ന് തോന്നിപ്പിക്കുന്ന കെണി!\n• (D) squab — പ്രാവിന്റെ കുഞ്ഞ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'FOAL-ഉം HORSE-ഉം — കുതിരക്കുട്ടി ഓടുമ്പോൾ ഫോൾ ഫോൾ എന്ന ശബ്ദം!' | 'FAWN = Forest-ലെ മാൻ'!\n• ഒരുമിച്ച് പഠിക്കുക: foal (കുതിര), fawn (മാൻ), calf (പശു), cub (സിംഹം), kid (ആട്), lamb (ചെമ്മരിയാട്), squab (പ്രാവ്), cygnet (അരയന്നം).\n• PSC strategy: മൃഗക്കുഞ്ഞുങ്ങളുടെ പേരുകൾ ഒരു പട്ടികയായി മനഃപാഠമാക്കുക — ഊഹിച്ച് ഉത്തരം കിട്ടില്ല. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "52-2017-M-Q74",
+      "paperId": "52-2017-M",
+      "questionNumber": 74,
+      "topic": "Articles",
+      "questionText": "______ lion is the king of the forest.",
+      "optionA": "a",
+      "optionB": "an",
+      "optionC": "the",
+      "optionD": "none of these",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) the\n• ഒരു വർഗ്ഗത്തെ മുഴുവനായി (class / species) പ്രതിനിധീകരിക്കാൻ singular noun-ന് മുമ്പ് 'the' ഉപയോഗിക്കുന്നു.\n• 'The lion' = സിംഹവർഗ്ഗം മുഴുവൻ — ഒരു പ്രത്യേക സിംഹമല്ല.\n• 'സിംഹം കാട്ടിലെ രാജാവാണ്' എന്നർത്ഥം.\n• 'the king' എന്നതും ഒരു അദ്വിതീയ പദവിയായതിനാൽ 'the'.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: THE + singular noun = ആ വർഗ്ഗം മുഴുവൻ (generic use).\n• The cow is a useful animal. (പശു ഉപകാരപ്രദമായ മൃഗമാണ്)\n• The rose is a beautiful flower. (റോസാപ്പൂ മനോഹരമായ പൂവാണ്)\n• The dog is a faithful animal. (നായ വിശ്വസ്തനായ മൃഗമാണ്)\n• എന്നാൽ 'man' (മനുഷ്യവർഗ്ഗം) എന്നതിന് article ഇല്ല: Man is mortal.\n• ⭐ PSC ആവർത്തനം: 'The lion is the king of the forest' PSC article ചോദ്യങ്ങളിലെ ക്ലാസിക് വാക്യമാണ്!",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) a — 'ഏതെങ്കിലും ഒരു സിംഹം' എന്ന അർത്ഥം; ഒരു സിംഹം മാത്രം രാജാവാകുന്നില്ല, വർഗ്ഗം മുഴുവനുമാണ്.\n• (B) an — 'lion' consonant sound-ൽ തുടങ്ങുന്നതിനാൽ 'an' ഒരിക്കലും ചേരില്ല.\n• (D) none of these — singular countable noun (lion)-ന് മുമ്പ് article ഒഴിവാക്കാനാവില്ല.\n• 🪤 PSC Trap: 'Man is mortal' എന്ന നിയമം ഓർത്ത് article വേണ്ട എന്ന് കരുതുന്നവരെ വീഴ്ത്താനുള്ള കെണി — ആ നിയമം 'man'-ന് മാത്രം!",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'THE = THE വർഗ്ഗം മുഴുവൻ — ഒരു സിംഹമല്ല, എല്ലാ സിംഹങ്ങളും!'\n• ഒരുമിച്ച് പഠിക്കുക: The lion is brave, The cow gives milk, The horse is useful — generic 'the'.\n• PSC strategy: വാക്യം ഒരു മൃഗത്തെയോ വസ്തുവിനെയോ കുറിച്ചുള്ള പൊതുസത്യമാണെങ്കിൽ singular noun-ന് 'the' തിരഞ്ഞെടുക്കുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "52-2017-M-Q75",
+      "paperId": "52-2017-M",
+      "questionNumber": 75,
+      "topic": "Antonyms",
+      "questionText": "The antonym of the word '__oblivion__' is",
+      "optionA": "memory",
+      "optionB": "forgetfulness",
+      "optionC": "obligation",
+      "optionD": "omission",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) memory\n• 'Oblivion' എന്നാൽ മറവി, വിസ്മൃതി — പൂർണ്ണമായും മറന്നുപോയ / ആരും ഓർക്കാത്ത അവസ്ഥ.\n• 'Memory' എന്നാൽ ഓർമ്മ — കൃത്യമായ വിപരീതം.\n• മറവി ↔ ഓർമ്മ — അതുകൊണ്ട് oblivion-ന്റെ opposite memory.\n• Adjective രൂപം: oblivious (ശ്രദ്ധിക്കാത്ത, അറിയാത്ത).",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Oblivion (മറവി) ↔ Memory / Remembrance (ഓർമ്മ).\n• Oblivion-ന്റെ synonyms: forgetfulness, obscurity, amnesia.\n• 'Fall into oblivion' = വിസ്മൃതിയിലാകുക (ആരും ഓർക്കാതാകുക).\n• Etymology hint: Latin 'oblivisci' = മറക്കുക.\n• ⭐ PSC ആവർത്തനം: antonym ചോദ്യത്തിൽ synonym (forgetfulness) ഒരു option ആയി ഇടുന്നത് PSC-യുടെ സ്ഥിരം രീതിയാണ്.\n• ഉദാഹരണ sentences:\n1. The old poet fell into oblivion. (ആ പഴയ കവി വിസ്മൃതിയിലാണ്ടു)\n2. She has a good memory. (അവൾക്ക് നല്ല ഓർമ്മശക്തിയുണ്ട്)\n3. He was oblivious to the danger. (അവൻ അപകടം ശ്രദ്ധിച്ചില്ല)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) forgetfulness — 'മറവി' — ഇത് oblivion-ന്റെ synonym ആണ്!\n• 🪤 PSC Trap: antonym ചോദിക്കുമ്പോൾ synonym ഇടുന്ന PSC-യുടെ പ്രിയപ്പെട്ട കെണി — 'opposite' എന്ന് ഉറപ്പിക്കുക!\n• (C) obligation — 'കടപ്പാട്, ബാധ്യത' എന്നർത്ഥം; 'ob-' എന്ന സമാന തുടക്കം കൊണ്ട് മാത്രം ഇട്ട option.\n• (D) omission — 'ഒഴിവാക്കൽ, വിട്ടുപോകൽ' എന്നർത്ഥം; നേർ വിപരീതമല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'OBLIVION = ഓർമ്മയുടെ BLACK HOLE — എല്ലാം വിഴുങ്ങുന്ന മറവി!'\n• ഒരുമിച്ച് പഠിക്കുക: oblivion / amnesia / forgetfulness (മറവി) ↔ memory / remembrance / recollection (ഓർമ്മ).\n• PSC strategy: antonym options-ൽ ചോദ്യവാക്കിന്റെ synonym കണ്ടാൽ ആദ്യം അത് വെട്ടുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "52-2017-M-Q76",
+      "paperId": "52-2017-M",
+      "questionNumber": 76,
+      "topic": "Idioms",
+      "questionText": "'Birds of the same feather flock together' – means",
+      "optionA": "Birds of the same type fly together",
+      "optionB": "Birds of the same colour go together",
+      "optionC": "People of the same sort are found together",
+      "optionD": "None of these",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) People of the same sort are found together\n• ഇതൊരു പഴഞ്ചൊല്ലാണ് (proverb): സമാന സ്വഭാവമോ താൽപര്യമോ ഉള്ള ആളുകൾ ഒരുമിച്ച് കൂട്ടുകൂടുന്നു.\n• പക്ഷികളെക്കുറിച്ചല്ല, മനുഷ്യരെക്കുറിച്ചാണ് ഈ പ്രയോഗം — figurative അർത്ഥം.\n• മലയാളത്തിൽ 'ഒരേ തൂവൽപ്പക്ഷികൾ' / 'ചേരേണ്ടത് ചേരേണ്ടിടത്ത് ചേരും' എന്നതിനോട് സമാനം.\n• (മൂല പഴഞ്ചൊല്ല്: 'Birds of a feather flock together'.)",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Birds of a feather flock together = ഒരേ സ്വഭാവക്കാർ ഒന്നിച്ച് കൂടുന്നു.\n• Proverb-കൾക്ക് literal അർത്ഥമല്ല, ജീവിതപാഠമാണ് ഉള്ളത്.\n• സമാന പ്രയോഗങ്ങൾ: like attracts like (സമാനത സമാനതയെ ആകർഷിക്കുന്നു), a man is known by the company he keeps (കൂട്ടുകെട്ടിലൂടെ ആളെ അറിയാം).\n• ⭐ PSC ആവർത്തനം: പഴഞ്ചൊല്ലുകളുടെ figurative അർത്ഥം PSC ഇടയ്ക്കിടെ ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. The lazy boys always sit together — birds of a feather flock together. (മടിയന്മാർ എപ്പോഴും ഒരുമിച്ചിരിക്കും)\n2. A man is known by the company he keeps. (കൂട്ടുകാരെ നോക്കി ആളെ അറിയാം)\n3. Like attracts like. (സമാനർ പരസ്പരം ആകർഷിക്കുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Birds of the same type fly together — പഴഞ്ചൊല്ലിന്റെ literal അർത്ഥം മാത്രം; ഉദ്ദേശിച്ച പാഠമല്ല.\n• (B) Birds of the same colour go together — 'feather' = നിറം എന്ന literal വ്യാഖ്യാനം; ഇതും തെറ്റ്.\n• 🪤 PSC Trap: A-യും B-യും പക്ഷികളെക്കുറിച്ച് തന്നെ പറയുന്നതിനാൽ ശരിയെന്ന് തോന്നും — പഴഞ്ചൊല്ലുകൾ എപ്പോഴും മനുഷ്യരെക്കുറിച്ചാണ്!\n• (D) None of these — C ശരിയായതിനാൽ ഇത് തെറ്റാണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'പഴഞ്ചൊല്ലിൽ പക്ഷി = മനുഷ്യൻ' — പക്ഷിയെ കണ്ടാൽ മനുഷ്യനെ ഓർക്കുക!\n• ഒരുമിച്ച് പഠിക്കുക: birds of a feather, a man is known by the company he keeps, like attracts like.\n• PSC strategy: proverb ചോദ്യത്തിൽ literal options (birds fly, birds go) ആദ്യം വെട്ടുക — മനുഷ്യരെക്കുറിച്ചുള്ള option തിരഞ്ഞെടുക്കുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "52-2017-M-Q77",
+      "paperId": "52-2017-M",
+      "questionNumber": 77,
+      "topic": "Tenses",
+      "questionText": "The Prime-Minister ______ tomorrow to inaugurate the function.",
+      "optionA": "arrives",
+      "optionB": "arrive",
+      "optionC": "arrived",
+      "optionD": "had arrived",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) arrives\n• ഔദ്യോഗികമായി നിശ്ചയിച്ച ഒരു ഭാവി പരിപാടി (timetable / schedule) പറയാൻ simple present ഉപയോഗിക്കാം.\n• 'tomorrow' ഭാവിയാണെങ്കിലും, പ്രധാനമന്ത്രിയുടെ സന്ദർശനം മുൻകൂട്ടി നിശ്ചയിച്ചതാണ് → arrives.\n• 'The Prime Minister' third person singular ആയതിനാൽ verb-ന് '-s' വേണം.\n• 'ചടങ്ങ് ഉദ്ഘാടനം ചെയ്യാൻ പ്രധാനമന്ത്രി നാളെ എത്തുന്നു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: നിശ്ചയിച്ച ഭാവി പരിപാടി (timetable) → Simple Present.\n• The train leaves at 6 tomorrow. (ട്രെയിൻ നാളെ 6 മണിക്ക് പുറപ്പെടും)\n• The exam starts next Monday. (പരീക്ഷ അടുത്ത തിങ്കളാഴ്ച തുടങ്ങും)\n• Third person singular (he, she, the PM) → V1 + s.\n• ⭐ PSC ആവർത്തനം: 'simple present for future' PSC tense ചോദ്യങ്ങളിൽ ഇടയ്ക്കിടെ വരുന്നു — 'tomorrow' കണ്ട് will തിരയുന്നവർ കുഴങ്ങും!\n• ഉദാഹരണ sentences:\n1. The flight lands at 10 a.m. tomorrow. (വിമാനം നാളെ രാവിലെ 10-ന് ഇറങ്ങും)\n2. The school reopens on June 1. (സ്കൂൾ ജൂൺ 1-ന് തുറക്കും)\n3. The President visits Kerala next week. (രാഷ്ട്രപതി അടുത്ത ആഴ്ച കേരളം സന്ദർശിക്കും)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) arrive — '-s' ഇല്ലാത്ത രൂപം; singular subject (the Prime Minister)-ന് ചേരില്ല.\n• 🪤 PSC Trap: 'will arrive' എന്നതിലെ 'arrive' ഓർമ്മയിൽ വരുന്നതിനാൽ ആകർഷകമായി തോന്നും — പക്ഷേ 'will' ഇല്ലാതെ singular-ന് -s നിർബന്ധം!\n• (C) arrived — past tense; 'tomorrow' എന്ന ഭാവി സമയവുമായി ചേരില്ല.\n• (D) had arrived — past perfect; ഇതും ഭാവിയുമായി ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'TIMETABLE-ൽ എല്ലാം PRESENT — നാളത്തെ ട്രെയിനും ഇന്നത്തെ ഭാഷയിൽ!'\n• ഒരുമിച്ച് പഠിക്കുക: arrives, leaves, starts, begins, opens — schedule / timetable ഭാവിക്ക് simple present.\n• PSC strategy: 'will' option ഇല്ലാത്തപ്പോൾ 'tomorrow' കണ്ടാൽ simple present + s ഉള്ള option തിരഞ്ഞെടുക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "52-2017-M-Q78",
+      "paperId": "52-2017-M",
+      "questionNumber": 78,
+      "topic": "Active and Passive Voice",
+      "questionText": "Begin the sentence with 'The tall tree':\nThe wood cutter chopped down the tall tree.",
+      "optionA": "The tall tree had chopped down by the wood cutter",
+      "optionB": "The tall tree had been chopped down by the wood cutter",
+      "optionC": "The tall tree was chopped down by the wood cutter",
+      "optionD": "The tall tree chopped down the wood cutter",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) The tall tree was chopped down by the wood cutter\n• 'chopped down' simple past tense ആണ്.\n• Simple past passive: was / were + V3 → was chopped down.\n• Object (the tall tree) subject ആയി; subject (the wood cutter) 'by'-ക്ക് ശേഷം.\n• 'ആ ഉയരമുള്ള മരം മരംവെട്ടുകാരനാൽ വെട്ടിവീഴ്ത്തപ്പെട്ടു' എന്നർത്ഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Simple Past Active (V2) → was / were + V3 (Passive).\n• Phrasal verb (chop down) passive-ൽ ഒരുമിച്ച് തന്നെ നിൽക്കും: was chopped down.\n• Active-ലെ tense passive-ലും മാറാൻ പാടില്ല.\n• ⭐ PSC ആവർത്തനം: 'Begin with ...' എന്ന രീതിയിലുള്ള passive ചോദ്യം PSC പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. The house was built by my father. (വീട് എന്റെ അച്ഛൻ പണിതതാണ്)\n2. The fire was put out by the firemen. (തീ അഗ്നിശമനസേന കെടുത്തി)\n3. The meeting was called off by the manager. (മാനേജർ യോഗം റദ്ദാക്കി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) had chopped down — 'been' ഇല്ലാത്തതിനാൽ ഇത് active past perfect ആണ് — 'മരം വെട്ടി' എന്ന അസംബന്ധ അർത്ഥം.\n• (B) had been chopped down — past perfect passive; tense simple past-ൽ നിന്ന് past perfect ആയി മാറി.\n• 🪤 PSC Trap: option B ഔപചാരികമായി ശരിയായ passive ഘടനയാണ് — പക്ഷേ tense മാറിയിരിക്കുന്നു!\n• (D) The tall tree chopped down the wood cutter — subject-object സ്ഥാനം മാറ്റി active ആക്കി; മരം മനുഷ്യനെ വെട്ടി എന്ന വിചിത്ര അർത്ഥം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'CHOPPED (V2) → WAS CHOPPED — ഭൂതകാലത്തിന് WAS മതി, HAD BEEN വേണ്ട!'\n• ഒരുമിച്ച് പഠിക്കുക: chopped → was chopped, cut → was cut, built → was built, broke → was broken.\n• PSC strategy: active verb-ന്റെ tense ആദ്യം കണ്ടെത്തുക; അതേ tense ഉള്ള passive option മാത്രം തിരഞ്ഞെടുക്കുക. guaranteed mark!"
+      }
+    },
+    {
+      "id": "52-2017-M-Q79",
+      "paperId": "52-2017-M",
+      "questionNumber": 79,
+      "topic": "Spelling",
+      "questionText": "Which is the correctly spelt word?",
+      "optionA": "Sunami",
+      "optionB": "Tsunami",
+      "optionC": "Zunami",
+      "optionD": "Zunamy",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) Tsunami\n• ശരിയായ spelling: T-S-U-N-A-M-I.\n• 'Tsunami' ഒരു Japanese വാക്കാണ് — 'tsu' (തുറമുഖം) + 'nami' (തിര) = തുറമുഖത്തെ തിര.\n• ഉച്ചാരണത്തിൽ 'T' ഏതാണ്ട് നിശ്ശബ്ദമാണ് ('സുനാമി'), പക്ഷേ എഴുതുമ്പോൾ T നിർബന്ധം.\n• കടലിനടിയിലെ ഭൂകമ്പം മൂലമുണ്ടാകുന്ന ഭീമൻ തിരമാലയാണ് tsunami.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: TSU + NAMI = Tsunami (T നിശ്ശബ്ദം, പക്ഷേ എഴുതണം!).\n• Japanese ഉത്ഭവമുള്ള മറ്റ് English വാക്കുകൾ: karate, tycoon, kimono, origami, typhoon (ഭാഗികം).\n• നിശ്ശബ്ദ അക്ഷരമുള്ള മറ്റ് വാക്കുകൾ: psychology (p), knife (k), wrist (w), pneumonia (p).\n• ⭐ PSC ആവർത്തനം: നിശ്ശബ്ദ അക്ഷരമുള്ള വാക്കുകളുടെ spelling PSC ഇടയ്ക്കിടെ ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. The 2004 tsunami hit the Kerala coast. (2004-ലെ സുനാമി കേരള തീരത്ത് ആഞ്ഞടിച്ചു)\n2. A tsunami warning was issued. (സുനാമി മുന്നറിയിപ്പ് നൽകി)\n3. Earthquakes under the sea cause tsunamis. (കടലിനടിയിലെ ഭൂകമ്പങ്ങൾ സുനാമിക്ക് കാരണമാകുന്നു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Sunami — ഉച്ചാരണം പോലെ എഴുതി, പക്ഷേ തുടക്കത്തിലെ 'T' വിട്ടുപോയി.\n• 🪤 PSC Trap: 'സുനാമി' എന്ന ഉച്ചാരണം കേട്ട് 'Sunami' എന്ന് എഴുതുന്നവരെ വീഴ്ത്താനുള്ള ക്ലാസിക് കെണി!\n• (C) Zunami — 'Ts'-ന് പകരം 'Z'; തെറ്റായ spelling.\n• (D) Zunamy — 'Z'-ഉം അവസാനം 'y'-ഉം — രണ്ട് തെറ്റുകൾ.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'TSUNAMI-ലെ T = Terrible wave (ഭീകര തിര)!' — T നിശ്ശബ്ദമെങ്കിലും ഭീകരം!\n• ഒരുമിച്ച് പഠിക്കുക: tsunami (T), psychology (P), knowledge (K), pneumonia (P), wreck (W) — നിശ്ശബ്ദ ആദ്യാക്ഷരങ്ങൾ.\n• PSC strategy: spelling ചോദ്യത്തിൽ ഉച്ചാരണത്തെ വിശ്വസിക്കരുത് — നിശ്ശബ്ദ അക്ഷരങ്ങൾ ഓർത്തിരിക്കുക. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "52-2017-M-Q80",
+      "paperId": "52-2017-M",
+      "questionNumber": 80,
+      "topic": "Idioms",
+      "questionText": "The idiomatic expression '__head over heels__' means",
+      "optionA": "intelligent",
+      "optionB": "nonsense",
+      "optionC": "proud",
+      "optionD": "excited",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) excited\n• 'Head over heels' = അതിയായ ആവേശത്തിൽ, പൂർണ്ണമായും (പ്രത്യേകിച്ച് പ്രണയത്തിൽ) മുങ്ങിയ അവസ്ഥ.\n• 'head over heels in love' = തലകുത്തി വീഴുന്നത്ര ഗാഢമായ പ്രണയത്തിൽ.\n• തലയും കാലും തലകീഴായി മറിയുന്നത്ര ആവേശം — അതാണ് ചിത്രം.\n• Options-ൽ ഈ അതിയായ ആവേശ ഭാവത്തോട് ഏറ്റവും അടുത്തത് 'excited' ആണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Head over heels = അതിയായ ആവേശം / ഗാഢ പ്രണയം (completely, excitedly).\n• സാധാരണ പ്രയോഗം: fall head over heels in love (ഗാഢ പ്രണയത്തിൽ വീഴുക).\n• മറ്റൊരു അർത്ഥം: തലകുത്തി മറിയുക (to fall head over heels down the stairs).\n• സമാന idioms: on cloud nine (അതീവ സന്തോഷത്തിൽ), over the moon (ആനന്ദത്തിൽ).\n• ⭐ PSC ആവർത്തനം: വികാരങ്ങളെ സൂചിപ്പിക്കുന്ന idioms (head over heels, over the moon) PSC ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. He fell head over heels in love with her. (അവൻ അവളുമായി ഗാഢ പ്രണയത്തിലായി)\n2. The children were head over heels about the trip. (യാത്രയെക്കുറിച്ച് കുട്ടികൾ അത്യന്തം ആവേശത്തിലായിരുന്നു)\n3. She was over the moon with her results. (ഫലം കണ്ട് അവൾ അതീവ സന്തോഷത്തിലായി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) intelligent — 'ബുദ്ധിയുള്ള' — 'head' (തല / ബുദ്ധി) എന്ന വാക്കിൽ നിന്ന് ഊഹിക്കുന്ന തെറ്റായ അർത്ഥം.\n• 🪤 PSC Trap: 'head' ബുദ്ധിയുമായി ബന്ധപ്പെടുത്തി 'intelligent' തിരഞ്ഞെടുപ്പിക്കാനുള്ള കെണി!\n• (B) nonsense — 'അസംബന്ധം' — 'തലകീഴായ' കാര്യങ്ങൾ എന്ന ചിന്തയിൽ നിന്നുള്ള തെറ്റായ ഊഹം.\n• (C) proud — 'അഹങ്കാരമുള്ള' — 'head held high' എന്ന വേറൊരു idiom-മായി ആശയക്കുഴപ്പം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ആവേശം കൊണ്ട് തലകുത്തി മറിയുന്നു — തല (HEAD) കാലിന് (HEELS) മുകളിലൂടെ!'\n• ഒരുമിച്ച് പഠിക്കുക: head over heels (ആവേശം / പ്രണയം), over the moon (ആനന്ദം), on cloud nine (സന്തോഷം), down in the dumps (വിഷാദം).\n• PSC strategy: idiom ചോദ്യത്തിൽ ഒരു വാക്കിന്റെ മാത്രം അർത്ഥം (head = ബുദ്ധി) നോക്കി ഉത്തരം ഇടരുത് — മുഴുവൻ ചിത്രം ഓർക്കുക. guaranteed mark!"
+      }
+    }
+  ]
+}
