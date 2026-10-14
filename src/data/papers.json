@@ -2084,5 +2084,32 @@
     "medium": "M",
     "year": "2016",
     "answerKeyStatus": "final"
+  },
+  {
+    "id": "059-2016-E",
+    "paperCode": "59/2016 E",
+    "post": "Lower Division Typist / Clerk Typist / Typist Clerk - Various",
+    "date": "30-Apr-2016",
+    "medium": "E",
+    "year": "2016",
+    "answerKeyStatus": "final"
+  },
+  {
+    "id": "057-2016-E",
+    "paperCode": "57/2016 E",
+    "post": "Beat Forest Officer - Forest",
+    "date": "23-Apr-2016",
+    "medium": "E",
+    "year": "2016",
+    "answerKeyStatus": "final"
+  },
+  {
+    "id": "022-2016-E",
+    "paperCode": "22/2016 E",
+    "post": "Computer Assistant Grade II - Govt. Sectt./KPSC/LFAD/Adv. General Office",
+    "date": "05-Feb-2016",
+    "medium": "E",
+    "year": "2016",
+    "answerKeyStatus": "final"
   }
 ]
