@@ -1,6 +1,6 @@
 import { useState, useMemo, useEffect, useRef } from 'react'
 import { useLocation } from 'react-router-dom'
-import exams from '../data/exams.json'
+import { useExams } from '../utils/examFeed'
 import FlipClock from '../components/FlipClock'
 import { useAuth } from '../contexts/AuthContext'
 import { formatExamMode } from '../utils/examMode'
@@ -274,6 +274,8 @@ function ExamRow({ exam, mode, saved, onSave, onRequestRemove, savedCount, highl
 
 export default function Exams() {
   const { pinnedExams: saved, pinExam, unpinExam } = useAuth()
+  // exams.json + the live Google Sheet (see src/utils/examFeed.js)
+  const { exams, ready } = useExams()
   const location = useLocation()
   const [activeTab, setActiveTab] = useState('exam') // 'exam' | 'confirm'
   const [query, setQuery] = useState('')
@@ -284,13 +286,15 @@ export default function Exams() {
   // Read hash target (e.g. /exams#exam-id)
   const hashId = location.hash ? location.hash.slice(1) : null
 
-  // Clean up stale IDs that no longer exist in exams data
+  // Clean up stale IDs that no longer exist in exams data. Waits until the
+  // sheet has loaded, or exams that only exist in the sheet would be unsaved.
   useEffect(() => {
+    if (!ready) return
     const validIds = new Set(exams.map(e => e.id))
     saved.forEach(id => {
       if (!validIds.has(id)) unpinExam(id)
     })
-  }, [])
+  }, [ready, exams])
 
   // Scroll to and highlight the target exam when arriving via hash; also switch to its tab
   useEffect(() => {
@@ -308,7 +312,7 @@ export default function Exams() {
     // Remove highlight after 2 seconds
     const t = setTimeout(() => setHighlightId(null), 2500)
     return () => clearTimeout(t)
-  }, [hashId])
+  }, [hashId, exams])
 
   function handleRemove(id) {
     unpinExam(id)
@@ -323,10 +327,10 @@ export default function Exams() {
   // OPEN (deadline today or later). Once a confirmation closes there's nothing
   // the user can act on, so it's dropped from this tab entirely — the exam
   // itself still lives in the Exam Calendar via its test date.
-  const examCalendar = useMemo(() => exams.filter(e => e.date), [])
+  const examCalendar = useMemo(() => exams.filter(e => e.date), [exams])
   const confirmCalendar = useMemo(
     () => exams.filter(e => e.confirmBy && new Date(e.confirmBy) >= today),
-    [today]
+    [exams, today]
   )
 
   const isConfirmTab = activeTab === 'confirm'
@@ -354,7 +358,7 @@ export default function Exams() {
         )
       })
       .sort((a, b) => new Date(a[dateField]) - new Date(b[dateField]))
-  }, [query, showPast, hashId, activeTab])
+  }, [query, showPast, hashId, activeTab, currentList, saved])
 
   const savedExams = examCalendar.filter(e => saved.includes(e.id))
 
@@ -370,7 +374,7 @@ export default function Exams() {
         (e.scope || '').toLowerCase().includes(q)
       ))
       .sort((a, b) => new Date(a.date) - new Date(b.date))
-  }, [query, saved])
+  }, [query, saved, examCalendar])
   // A cancelled exam is not "upcoming" — it must never be counted or counted down to.
   const upcomingExams = examCalendar.filter(e => !e.cancelled && new Date(e.date) >= today)
 
@@ -506,6 +510,14 @@ export default function Exams() {
           <div className="text-center py-12" style={{ color: 'var(--text2)' }}>
             {isConfirmTab && confirmCalendar.length === 0
               ? 'No exams need confirmation right now.'
+              : !query && !showPast && upcomingExams.length === 0
+              ? (
+                <>
+                  <div className="text-2xl mb-2">📅</div>
+                  <div className="font-medium mb-1" style={{ color: 'var(--text)' }}>New exam dates coming soon</div>
+                  <div className="text-xs">PSC hasn't published the next examination programme yet. We'll add it here as soon as it's out.</div>
+                </>
+              )
               : 'No exams match your search.'}
           </div>
         )}

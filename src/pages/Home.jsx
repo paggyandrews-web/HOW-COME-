@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { useAuth } from '../contexts/AuthContext'
 import papers from '../data/papers.json'
-import exams from '../data/exams.json'
+import { useExams } from '../utils/examFeed'
 import FlipClock from '../components/FlipClock'
 import { useStreak } from '../hooks/useStreak'
 import { formatExamMode } from '../utils/examMode'
@@ -331,6 +331,7 @@ function TelegramBanner() {
 
 export default function Home() {
   const { user, pinnedExams: pinnedIds, pinExam, unpinExam } = useAuth()
+  const { exams } = useExams()
   const navigate = useNavigate()
   const [removeTarget, setRemoveTarget] = useState(null)
   const [streak, setStreak]             = useState(0)
