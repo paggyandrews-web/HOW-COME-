@@ -17,6 +17,8 @@ import android.webkit.WebResourceRequest;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.widget.FrameLayout;
+import android.view.ViewGroup;
 
 public class MainActivity extends Activity {
 
@@ -32,13 +34,22 @@ public class MainActivity extends Activity {
 
         webView = new WebView(this);
         webView.setBackgroundColor(Color.parseColor("#000000"));
-        setContentView(webView);
+
+        // Wrap the WebView in a container and pad the CONTAINER by the system
+        // bars. Padding the WebView itself does not shrink the web viewport,
+        // so position:fixed elements (the bottom nav) ended up hidden behind
+        // the navigation bar.
+        final FrameLayout root = new FrameLayout(this);
+        root.setBackgroundColor(Color.parseColor("#000000"));
+        root.addView(webView, new FrameLayout.LayoutParams(
+                ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT));
+        setContentView(root);
 
         // Android 15 (API 35) enforces edge-to-edge, and Android 16 (API 36)
         // removed the opt-out flag. Without this the page would render beneath
         // the status bar and the gesture/navigation bar, hiding the app header
         // and the bottom nav. Inset the WebView by the system bars instead.
-        webView.setOnApplyWindowInsetsListener(new View.OnApplyWindowInsetsListener() {
+        root.setOnApplyWindowInsetsListener(new View.OnApplyWindowInsetsListener() {
             @Override
             public WindowInsets onApplyWindowInsets(View v, WindowInsets insets) {
                 int left, top, right, bottom;
@@ -53,7 +64,12 @@ public class MainActivity extends Activity {
                     bottom = insets.getSystemWindowInsetBottom();
                 }
                 v.setPadding(left, top, right, bottom);
-                return insets;
+                // Consume the insets so the WebView doesn't add the same
+                // space a second time via CSS env(safe-area-inset-*).
+                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.R) {
+                    return WindowInsets.CONSUMED;
+                }
+                return insets.consumeSystemWindowInsets();
             }
         });
 
