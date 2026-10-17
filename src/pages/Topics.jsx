@@ -4,40 +4,7 @@ import questions from '../data/questions.json'
 import SignupGate from '../components/SignupGate'
 import { useAuth } from '../contexts/AuthContext'
 import { useResults } from '../hooks/useResults'
-
-// Official Kerala PSC English Syllabus — in order
-const GRAMMAR_TOPICS = [
-  { name: 'Types of Sentences',       emoji: '📋' },
-  { name: 'Parts of Speech',          emoji: '🏷️' },
-  { name: 'Subject-Verb Agreement',   emoji: '🤝' },
-  { name: 'Articles',                 emoji: '📰' },
-  { name: 'Auxiliary Verbs',          emoji: '⚙️' },
-  { name: 'Question Tags',            emoji: '❓' },
-  { name: 'Infinitive and Gerunds',   emoji: '📝' },
-  { name: 'Tenses',                   emoji: '⏰' },
-  { name: 'Conditionals',             emoji: '🔀' },
-  { name: 'Prepositions',             emoji: '📍' },
-  { name: 'Correlatives',             emoji: '🔗' },
-  { name: 'Direct and Indirect Speech', emoji: '💬' },
-  { name: 'Active and Passive Voice', emoji: '🔄' },
-  { name: 'Correction of Sentences',  emoji: '✏️' },
-  { name: 'Degrees of Comparison',    emoji: '📊' },
-]
-
-const VOCABULARY_TOPICS = [
-  { name: 'Singular and Plural',        emoji: '👥' },
-  { name: 'Word Formation',             emoji: '🧩' },
-  { name: 'Compound Words',             emoji: '🔤' },
-  { name: 'Synonyms',                   emoji: '🟰' },
-  { name: 'Antonyms',                   emoji: '↔️' },
-  { name: 'Phrasal Verbs',              emoji: '🔧' },
-  { name: 'Foreign Words and Phrases',  emoji: '🌍' },
-  { name: 'One Word Substitutes',       emoji: '💡' },
-  { name: 'Words Often Confused',       emoji: '🤔' },
-  { name: 'Spelling',                   emoji: '🔡' },
-  { name: 'Idioms',                     emoji: '🗣️' },
-  { name: 'Abbreviations',              emoji: '🔠' },
-]
+import { GRAMMAR_TOPICS, VOCABULARY_TOPICS, topicSlug } from '../data/topics'
 
 function TopicCard({ topic, count, practiced = 0 }) {
   const pct = count ? Math.round((practiced / count) * 100) : 0
@@ -64,7 +31,7 @@ function TopicCard({ topic, count, practiced = 0 }) {
       </div>
       <div className="flex gap-2">
         <Link
-          to={'/quiz?topic=' + encodeURIComponent(topic.name) + '&mode=practice'}
+          to={'/topics/' + topicSlug(topic.name)}
           className="btn-solid flex-1 inline-flex items-center justify-center h-9 rounded-full text-[13px] font-semibold"
           style={{ touchAction: 'manipulation', textDecoration: 'none' }}
         >

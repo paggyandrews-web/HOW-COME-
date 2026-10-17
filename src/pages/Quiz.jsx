@@ -655,7 +655,7 @@ function QuizSetup({ onStart, needsSignup }) {
 }
 
 // Result icons for 5 score bands
-function QuizResult({ questions, answers, onRetry, onHome, streakMilestone }) {
+function QuizResult({ questions, answers, onRetry, onHome, streakMilestone, homeLabel = 'New Quiz' }) {
   const [reviewIdx, setReviewIdx] = useState(0)
   const [showConfetti, setShowConfetti] = useState(false)
   const [showFire, setShowFire] = useState(false)
@@ -750,7 +750,7 @@ function QuizResult({ questions, answers, onRetry, onHome, streakMilestone }) {
           </button>
           <button onClick={onHome} className="px-4 py-2 rounded-lg text-sm font-medium"
             style={{ background: 'var(--bg2)', color: 'var(--text)', border: '1px solid var(--border)' }}>
-            New Quiz
+            {homeLabel}
           </button>
           {questions[0]?.correctAnswer && (
             <button
@@ -903,7 +903,13 @@ function QuizResult({ questions, answers, onRetry, onHome, streakMilestone }) {
   )
 }
 
-export default function Quiz() {
+/**
+ * preset  — { questions, mode, secsPerQ }: skip the setup screen and start
+ *           this set straight away (used by the per-topic practice page).
+ * onExit  — called instead of returning to the setup screen (Save & Exit,
+ *           or the result screen's back button) when Quiz is embedded.
+ */
+export default function Quiz({ preset = null, onExit = null, exitLabel = 'New Quiz' } = {}) {
   const [quizState, setQuizState] = useState('setup')
   const [quizData, setQuizData] = useState(null)
   const [current, setCurrent] = useState(0)
@@ -940,6 +946,12 @@ export default function Quiz() {
     const found = questions.find(q => q.id === qid) || modelQuestions.find(q => q.id === qid)
     if (!found) return
     handleStart({ questions: [found], mode: 'browse', secsPerQ: 30 })
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
+
+  // Embedded: start the preset set immediately.
+  useEffect(() => {
+    if (preset) handleStart(preset)
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
@@ -1047,6 +1059,7 @@ export default function Quiz() {
     }
     setStreakMilestone(null)
     setQuizData(null)
+    if (onExit) { onExit(); return }
     setQuizState('setup')
   }
 
@@ -1062,7 +1075,7 @@ export default function Quiz() {
     setShowPalette(false)
   }
 
-  if (quizState === 'setup') return <QuizSetup onStart={handleStart} needsSignup={needsSignup} />
+  if (quizState === 'setup') return preset ? null : <QuizSetup onStart={handleStart} needsSignup={needsSignup} />
 
   if (quizState === 'result') {
     return (
@@ -1070,7 +1083,8 @@ export default function Quiz() {
         questions={quizData.questions}
         answers={answers}
         onRetry={() => { setStreakMilestone(null); handleStart(quizData) }}
-        onHome={() => { setStreakMilestone(null); setQuizState('setup') }}
+        onHome={() => { setStreakMilestone(null); if (onExit) onExit(); else setQuizState('setup') }}
+        homeLabel={exitLabel}
         streakMilestone={streakMilestone}
       />
     )

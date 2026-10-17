@@ -48,6 +48,7 @@ import Home from './pages/Home'
 const Papers = lazy(() => import('./pages/Papers'))
 const Quiz = lazy(() => import('./pages/Quiz'))
 const Topics = lazy(() => import('./pages/Topics'))
+const TopicDetail = lazy(() => import('./pages/TopicDetail'))
 const Exams = lazy(() => import('./pages/Exams'))
 const Login = lazy(() => import('./pages/Login'))
 const Register = lazy(() => import('./pages/Register'))
@@ -194,6 +195,7 @@ function AnimatedRoutes() {
           <Route path="/papers" element={<Papers />} />
           <Route path="/quiz" element={<Quiz />} />
           <Route path="/topics" element={<Topics />} />
+          <Route path="/topics/:slug" element={<TopicDetail />} />
           <Route path="/exams" element={<Exams />} />
           <Route path="/login" element={<Login />} />
           <Route path="/register" element={<Register />} />
