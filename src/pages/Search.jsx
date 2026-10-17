@@ -2,11 +2,60 @@ import { useState, useMemo, useEffect } from 'react'
 import { useSearchParams, Link } from 'react-router-dom'
 import questions from '../data/questions.json'
 import papers from '../data/papers.json'
+import modelQuestions from '../data/modelQuestions.json'
+import modelPapers from '../data/modelPapers.json'
 import SignupGate from '../components/SignupGate'
 import { useAuth } from '../contexts/AuthContext'
 
 const paperMap = {}
 papers.forEach(p => { paperMap[p.id] = p })
+
+// Mock-test questions are searchable too, but only from mocks that are already
+// out (same rule as the Mock page: no drafts, nothing before its publishedAt),
+// and only the questions the mock actually shows (capped by questionCount).
+function isPublished(paper) {
+  if (paper?.status === 'draft') return false
+  if (!paper?.publishedAt) return true
+  return Date.now() >= new Date(paper.publishedAt).getTime()
+}
+
+function liveMockBank() {
+  const live = new Map(modelPapers.filter(isPublished).map(p => [p.id, p]))
+  const byPaper = {}
+  modelQuestions.forEach(q => {
+    if (live.has(q.paperId)) (byPaper[q.paperId] = byPaper[q.paperId] || []).push(q)
+  })
+  const out = []
+  Object.entries(byPaper).forEach(([pid, qs]) => {
+    const paper = live.get(pid)
+    qs.sort((a, b) => (+a.questionNumber || 0) - (+b.questionNumber || 0))
+    out.push(...(paper.questionCount ? qs.slice(0, paper.questionCount) : qs))
+  })
+  return { questions: out, papers: live }
+}
+
+const RESULT_LIMIT = 60
+
+function matches(question, q) {
+  return (
+    question.questionText?.toLowerCase().includes(q) ||
+    question.optionA?.toLowerCase().includes(q) ||
+    question.optionB?.toLowerCase().includes(q) ||
+    question.optionC?.toLowerCase().includes(q) ||
+    question.optionD?.toLowerCase().includes(q) ||
+    question.topic?.toLowerCase().includes(q)
+  )
+}
+
+// Alternate PSC and mock hits so neither source crowds the other out.
+function interleave(a, b, limit) {
+  const out = []
+  for (let i = 0; out.length < limit && (i < a.length || i < b.length); i++) {
+    if (i < a.length) out.push(a[i])
+    if (i < b.length && out.length < limit) out.push(b[i])
+  }
+  return out
+}
 
 function highlight(text, query) {
   if (!text || !query) return text
@@ -38,18 +87,27 @@ export default function Search() {
     }
   }
 
-  const results = useMemo(() => {
+  const mockBank = useMemo(() => liveMockBank(), [])
+  const [source, setSource] = useState('all') // 'all' | 'psc' | 'mock'
+  useEffect(() => { setSource('all') }, [query])
+
+  const hits = useMemo(() => {
     const q = query.trim().toLowerCase()
-    if (q.length < 2) return []
-    return questions.filter(question =>
-      question.questionText?.toLowerCase().includes(q) ||
-      question.optionA?.toLowerCase().includes(q) ||
-      question.optionB?.toLowerCase().includes(q) ||
-      question.optionC?.toLowerCase().includes(q) ||
-      question.optionD?.toLowerCase().includes(q) ||
-      question.topic?.toLowerCase().includes(q)
-    ).slice(0, 60)
-  }, [query])
+    if (q.length < 2) return { psc: [], mock: [] }
+    return {
+      psc: questions.filter(question => matches(question, q)),
+      mock: mockBank.questions.filter(question => matches(question, q)),
+    }
+  }, [query, mockBank])
+
+  const results = useMemo(() => {
+    if (source === 'psc') return hits.psc.slice(0, RESULT_LIMIT)
+    if (source === 'mock') return hits.mock.slice(0, RESULT_LIMIT)
+    return interleave(hits.psc, hits.mock, RESULT_LIMIT)
+  }, [hits, source])
+
+  const totalHits = source === 'psc' ? hits.psc.length : source === 'mock' ? hits.mock.length : hits.psc.length + hits.mock.length
+  const bankSize = questions.length + mockBank.questions.length
 
   // Group results by topic for the "Found in topics" summary
   const topicHits = useMemo(() => {
@@ -82,7 +140,7 @@ export default function Search() {
           value={inputValue}
           onChange={e => setInputValue(e.target.value)}
           onKeyDown={e => e.key === 'Enter' && doSearch()}
-          placeholder={`Search ${questions.length} PSC questions by keyword or topic...`}
+          placeholder={`Search ${bankSize} questions by keyword or topic...`}
           autoFocus
           className="w-full rounded-xl px-4 py-3.5 pr-20 text-sm"
           style={{
@@ -110,10 +168,29 @@ export default function Search() {
       {isSearching && (
         <div className="mb-5">
           <p className="text-sm mb-2" style={{ color: 'var(--text2)' }}>
-            {hasResults
-              ? `${results.length} question${results.length !== 1 ? 's' : ''} found for "${query}"`
+            {totalHits > 0
+              ? `${totalHits} question${totalHits !== 1 ? 's' : ''} found for "${query}"`
               : `No questions found for "${query}"`}
           </p>
+          {hits.psc.length + hits.mock.length > 0 && (
+            <div className="flex flex-wrap gap-2 mb-3" role="tablist" aria-label="Where to search">
+              {[['all', 'All', hits.psc.length + hits.mock.length], ['psc', 'PSC papers', hits.psc.length], ['mock', 'Mock tests', hits.mock.length]].map(([key, label, n]) => {
+                const active = source === key
+                return (
+                  <button key={key} role="tab" aria-selected={active} onClick={() => setSource(key)}
+                    className="h-8 px-3 rounded-full text-xs font-semibold"
+                    style={{
+                      background: active ? 'var(--accent)' : 'transparent',
+                      color: active ? 'var(--accent-text)' : 'var(--text2)',
+                      border: `1px solid ${active ? 'var(--accent)' : 'var(--border)'}`,
+                      touchAction: 'manipulation',
+                    }}>
+                    {label} <span style={{ opacity: 0.75 }}>{n}</span>
+                  </button>
+                )
+              })}
+            </div>
+          )}
           {topicHits.length > 0 && (
             <div className="flex flex-wrap gap-2">
               {topicHits.map(([topic, count]) => (
@@ -143,7 +220,7 @@ export default function Search() {
           <p className="font-semibold text-lg mb-2">Search PSC Questions</p>
           <p className="text-sm mb-6" style={{ color: 'var(--text2)' }}>
             Type any English word, grammar topic, or option text.<br />
-            Searches across all {questions.length} questions from {papers.length} papers.
+            Searches {questions.length} questions from {papers.length} PSC papers and {mockBank.questions.length} from {mockBank.papers.size} mock tests.
           </p>
           <div className="flex flex-wrap gap-2 justify-center">
             {['Tenses', 'Articles', 'Prepositions', 'Conditionals', 'Phrasal Verbs'].map(t => (
@@ -166,7 +243,7 @@ export default function Search() {
       )}
 
       {/* No results */}
-      {isSearching && !hasResults && (
+      {isSearching && totalHits === 0 && (
         <div className="text-center py-12" style={{ color: 'var(--text2)' }}>
           <div className="text-3xl mb-3">😔</div>
           <p className="font-medium">No questions match "{query}"</p>
@@ -178,6 +255,7 @@ export default function Search() {
       <div className="space-y-3">
         {results.map((q, idx) => {
           const paper = paperMap[q.paperId]
+          const mock = paper ? null : mockBank.papers.get(q.paperId)
           const snippet = highlight(q.questionText, query)
           return (
             <div key={q.id} className="card rounded-xl p-4">
@@ -198,6 +276,12 @@ export default function Search() {
                 {paper && (
                   <span className="text-xs" style={{ color: 'var(--text2)' }}>
                     {paper.paperCode} · Q{q.questionNumber}
+                  </span>
+                )}
+                {mock && (
+                  <span className="text-xs" style={{ color: 'var(--text2)' }}>
+                    <span className="font-semibold" style={{ color: 'var(--accent-pink)' }}>Mock</span>{' '}
+                    {mock.title} · Q{q.questionNumber}
                   </span>
                 )}
               </div>
@@ -233,6 +317,20 @@ export default function Search() {
                 >
                   View with Explanation →
                 </Link>
+                {mock ? (
+                <Link
+                  to={`/mock?paper=${q.paperId}`}
+                  className="text-xs px-3 py-1.5 rounded-lg font-medium"
+                  style={{
+                    background: 'var(--bg2)',
+                    color: 'var(--text2)',
+                    border: '1px solid var(--border)',
+                    touchAction: 'manipulation',
+                  }}
+                >
+                  Open this mock test →
+                </Link>
+                ) : (
                 <Link
                   to={`/quiz?paper=${q.paperId}&mode=browse`}
                   className="text-xs px-3 py-1.5 rounded-lg font-medium"
@@ -245,15 +343,16 @@ export default function Search() {
                 >
                   All questions in {q.paperId} →
                 </Link>
+                )}
               </div>
             </div>
           )
         })}
       </div>
 
-      {results.length === 60 && (
+      {totalHits > results.length && (
         <p className="text-xs text-center mt-4" style={{ color: 'var(--text2)' }}>
-          Showing top 60 results. Try a more specific keyword.
+          Showing {results.length} of {totalHits}. Try a more specific keyword.
         </p>
       )}
     </div>
