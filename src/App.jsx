@@ -46,6 +46,7 @@ function HapticFeedback() {
 // questions.json some of these pages import) only loads when actually visited.
 import Home from './pages/Home'
 const Papers = lazy(() => import('./pages/Papers'))
+const PaperDetail = lazy(() => import('./pages/PaperDetail'))
 const Quiz = lazy(() => import('./pages/Quiz'))
 const Topics = lazy(() => import('./pages/Topics'))
 const TopicDetail = lazy(() => import('./pages/TopicDetail'))
@@ -193,6 +194,7 @@ function AnimatedRoutes() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/papers" element={<Papers />} />
+          <Route path="/papers/:paperId" element={<PaperDetail />} />
           <Route path="/quiz" element={<Quiz />} />
           <Route path="/topics" element={<Topics />} />
           <Route path="/topics/:slug" element={<TopicDetail />} />

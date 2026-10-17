@@ -216,7 +216,7 @@ export default function Papers() {
               </div>
               <div className="flex gap-2">
                 <Link
-                  to={`/quiz?paper=${paper.id}&mode=practice`}
+                  to={`/papers/${encodeURIComponent(paper.id)}`}
                   className="btn-solid flex-1 inline-flex items-center justify-center gap-1.5 h-10 rounded-full text-sm font-semibold"
                   style={{ touchAction: 'manipulation', textDecoration: 'none' }}
                 >
