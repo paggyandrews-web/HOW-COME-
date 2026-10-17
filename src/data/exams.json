@@ -4708,13 +4708,12 @@
     "dept": "Kerala State Backward Classes Development Corporation Limited, Travancore Cochin Chemicals Limited",
     "scope": "Statewide",
     "date": "2026-12-01",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III – English & M/T/K, Part IV, VI – English, Part V – M/T/K",
     "admissionFrom": "2026-11-16",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 19780,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 15404
   },
   {
     "id": "dec-02",
@@ -4724,13 +4723,12 @@
     "dept": "Land Use Department",
     "scope": "Statewide",
     "date": "2026-12-02",
-    "mode": "Online / OMR",
+    "time": "09:00",
+    "mode": "Online",
     "medium": "English",
     "admissionFrom": "2026-11-17",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 1609,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 1369
   },
   {
     "id": "dec-03",
@@ -4740,13 +4738,12 @@
     "dept": "Travancore Sugars and Chemicals Limited",
     "scope": "Statewide",
     "date": "2026-12-02",
-    "mode": "Online / OMR",
+    "time": "09:00",
+    "mode": "Online",
     "medium": "English",
     "admissionFrom": "2026-11-17",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 373,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 300
   },
   {
     "id": "dec-04",
@@ -4756,11 +4753,12 @@
     "dept": "KSRTC/ Kerala Livestock Development Board/ State Farming Corporation of Kerala etc.",
     "scope": "Statewide",
     "date": "2026-12-05",
-    "mode": "Online / OMR",
+    "time": "10:30",
+    "mode": "OMR",
     "medium": "Part I, II, III – English & M/T/K, Part IV – English, Part V – M/T/K",
     "admissionFrom": "2026-11-19",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 62919
+    "candidates": 62918
   },
   {
     "id": "dec-05",
@@ -4770,11 +4768,12 @@
     "dept": "Travancore Sugars & Chemicals Limited",
     "scope": "Statewide",
     "date": "2026-12-05",
-    "mode": "Online / OMR",
+    "time": "10:30",
+    "mode": "OMR",
     "medium": "Part I, II, III – English & M/T/K, Part IV – English, Part V – M/T/K",
     "admissionFrom": "2026-11-19",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 27641
+    "candidates": 27640
   },
   {
     "id": "dec-06",
@@ -4782,13 +4781,14 @@
     "catNo": "573/2025",
     "name": "Junior Assistant/ Cashier - Direct Recruitment (Main Exam)",
     "dept": "Local Self Government Department (Electricity Wing Thrissur Corporation)",
-    "scope": "Statewide",
+    "scope": "Thrissur",
     "date": "2026-12-05",
-    "mode": "Online / OMR",
+    "time": "10:30",
+    "mode": "OMR",
     "medium": "Part I, II, III – English & M/T/K, Part IV – English, Part V – M/T/K",
     "admissionFrom": "2026-11-19",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 34039
+    "candidates": 34038
   },
   {
     "id": "dec-07",
@@ -4798,11 +4798,12 @@
     "dept": "Kerala Administrative Tribunal",
     "scope": "Statewide",
     "date": "2026-12-08",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III – English & M/T/K, Part IV, VI – English, Part V – M/T/K",
     "admissionFrom": "2026-11-23",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 38378
+    "candidates": 38377
   },
   {
     "id": "dec-08",
@@ -4812,13 +4813,12 @@
     "dept": "Women and Child Development",
     "scope": "Statewide",
     "date": "2026-12-09",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-11-24",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 10329,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 8876
   },
   {
     "id": "dec-09",
@@ -4828,13 +4828,12 @@
     "dept": "Scheduled Castes Development Department",
     "scope": "Statewide",
     "date": "2026-12-10",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-11-25",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 28997,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 23523
   },
   {
     "id": "dec-10",
@@ -4844,13 +4843,12 @@
     "dept": "Various",
     "scope": "Thiruvananthapuram",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 47,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 35
   },
   {
     "id": "dec-11",
@@ -4860,13 +4858,12 @@
     "dept": "Various",
     "scope": "Alapuzha",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 40,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 34
   },
   {
     "id": "dec-12",
@@ -4876,13 +4873,12 @@
     "dept": "Various",
     "scope": "Idukki",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 30,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 9
   },
   {
     "id": "dec-13",
@@ -4892,13 +4888,12 @@
     "dept": "Various",
     "scope": "Ernakulam",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 75,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 18
   },
   {
     "id": "dec-14",
@@ -4908,13 +4903,12 @@
     "dept": "Kerala Khadi and Village Industries Board",
     "scope": "Statewide",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 6023,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 5038
   },
   {
     "id": "dec-15",
@@ -4924,13 +4918,12 @@
     "dept": "Kerala Tourism Development Corporation Limited",
     "scope": "Statewide",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 5786,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 4792
   },
   {
     "id": "dec-16",
@@ -4940,13 +4933,12 @@
     "dept": "NCC",
     "scope": "Thiruvananthapuram",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 22,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 16
   },
   {
     "id": "dec-17",
@@ -4956,13 +4948,12 @@
     "dept": "NCC/ Sainik Welfare",
     "scope": "Kottayam",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 12,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 4
   },
   {
     "id": "dec-18",
@@ -4972,13 +4963,12 @@
     "dept": "NCC/ Sainik Welfare",
     "scope": "Thiruvananthapuram",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 12,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 3
   },
   {
     "id": "dec-19",
@@ -4988,13 +4978,12 @@
     "dept": "Kerala Co-operative Milk Marketing Federation Limited (KCMMF)",
     "scope": "Statewide",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 3968,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 3161
   },
   {
     "id": "dec-20",
@@ -5004,13 +4993,12 @@
     "dept": "Kerala Co-operative Milk Marketing Federation Limited (KCMMF)",
     "scope": "Statewide",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 1,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 1
   },
   {
     "id": "dec-21",
@@ -5020,13 +5008,12 @@
     "dept": "Various",
     "scope": "Kollam",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 73,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 51
   },
   {
     "id": "dec-22",
@@ -5036,13 +5023,12 @@
     "dept": "Various",
     "scope": "Pathanamthitta",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 155,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 132
   },
   {
     "id": "dec-23",
@@ -5052,13 +5038,12 @@
     "dept": "Various",
     "scope": "Idukki",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 82,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 66
   },
   {
     "id": "dec-24",
@@ -5068,13 +5053,12 @@
     "dept": "NCC/ Sainik Welfare",
     "scope": "Thiruvananthapuram",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 3,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 3
   },
   {
     "id": "dec-25",
@@ -5084,13 +5068,12 @@
     "dept": "NCC/ Sainik Welfare",
     "scope": "Kollam",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 4,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 4
   },
   {
     "id": "dec-26",
@@ -5100,13 +5083,12 @@
     "dept": "NCC/ Sainik Welfare",
     "scope": "Kottayam",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 6,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 2
   },
   {
     "id": "dec-27",
@@ -5116,13 +5098,12 @@
     "dept": "Various",
     "scope": "Thiruvananthapuram",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 5600,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 4828
   },
   {
     "id": "dec-28",
@@ -5132,13 +5113,12 @@
     "dept": "Various",
     "scope": "Kollam",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 1965,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 1658
   },
   {
     "id": "dec-29",
@@ -5148,13 +5128,12 @@
     "dept": "Various",
     "scope": "Pathanamthitta",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 1055,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 908
   },
   {
     "id": "dec-30",
@@ -5164,13 +5143,12 @@
     "dept": "Various",
     "scope": "Alapuzha",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 1647,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 1406
   },
   {
     "id": "dec-31",
@@ -5180,13 +5158,12 @@
     "dept": "Various",
     "scope": "Kottayam",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 1535,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 1359
   },
   {
     "id": "dec-32",
@@ -5196,13 +5173,12 @@
     "dept": "Various",
     "scope": "Idukki",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 1030,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 889
   },
   {
     "id": "dec-33",
@@ -5212,13 +5188,12 @@
     "dept": "Various",
     "scope": "Ernakulam",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 2505,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 2145
   },
   {
     "id": "dec-34",
@@ -5228,13 +5203,12 @@
     "dept": "Various",
     "scope": "Thrissur",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 1853,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 1587
   },
   {
     "id": "dec-35",
@@ -5244,13 +5218,12 @@
     "dept": "Various",
     "scope": "Palakkad",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 1885,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 1604
   },
   {
     "id": "dec-36",
@@ -5260,13 +5233,12 @@
     "dept": "Various",
     "scope": "Malappuram",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 1720,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 1454
   },
   {
     "id": "dec-37",
@@ -5276,13 +5248,12 @@
     "dept": "Various",
     "scope": "Kozhikode",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 2389,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 2068
   },
   {
     "id": "dec-38",
@@ -5292,13 +5263,12 @@
     "dept": "Various",
     "scope": "Wayanad",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 824,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 689
   },
   {
     "id": "dec-39",
@@ -5308,13 +5278,12 @@
     "dept": "Various",
     "scope": "Kannur",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 1607,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 1378
   },
   {
     "id": "dec-40",
@@ -5324,13 +5293,12 @@
     "dept": "Various",
     "scope": "Kasargode",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 674,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 581
   },
   {
     "id": "dec-41",
@@ -5340,13 +5308,12 @@
     "dept": "Various",
     "scope": "Thiruvananthapuram",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 146,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 132
   },
   {
     "id": "dec-42",
@@ -5356,13 +5323,12 @@
     "dept": "Various",
     "scope": "Kollam",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 68,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 64
   },
   {
     "id": "dec-43",
@@ -5372,13 +5338,12 @@
     "dept": "Various",
     "scope": "Pathanamthitta",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 27,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 25
   },
   {
     "id": "dec-44",
@@ -5388,13 +5353,12 @@
     "dept": "Various",
     "scope": "Alapuzha",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 36,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 30
   },
   {
     "id": "dec-45",
@@ -5404,13 +5368,12 @@
     "dept": "Various",
     "scope": "Kottayam",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 45,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 40
   },
   {
     "id": "dec-46",
@@ -5420,13 +5383,12 @@
     "dept": "Various",
     "scope": "Idukki",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 31,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 26
   },
   {
     "id": "dec-47",
@@ -5436,13 +5398,12 @@
     "dept": "Various",
     "scope": "Ernakulam",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 70,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 61
   },
   {
     "id": "dec-48",
@@ -5452,13 +5413,12 @@
     "dept": "Various",
     "scope": "Thrissur",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 36,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 31
   },
   {
     "id": "dec-49",
@@ -5468,13 +5428,12 @@
     "dept": "Various",
     "scope": "Palakkad",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 58,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 53
   },
   {
     "id": "dec-50",
@@ -5484,13 +5443,12 @@
     "dept": "Various",
     "scope": "Malappuram",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 40,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 38
   },
   {
     "id": "dec-51",
@@ -5500,13 +5458,12 @@
     "dept": "Various",
     "scope": "Kozhikode",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 51,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 45
   },
   {
     "id": "dec-52",
@@ -5516,13 +5473,12 @@
     "dept": "Various",
     "scope": "Wayanad",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 28,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 25
   },
   {
     "id": "dec-53",
@@ -5532,13 +5488,12 @@
     "dept": "Various",
     "scope": "Kannur",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 53,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 51
   },
   {
     "id": "dec-54",
@@ -5548,13 +5503,12 @@
     "dept": "Various",
     "scope": "Kasargode",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 14,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 12
   },
   {
     "id": "dec-55",
@@ -5564,13 +5518,12 @@
     "dept": "Various",
     "scope": "Malappuram",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 887,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 787
   },
   {
     "id": "dec-56",
@@ -5580,13 +5533,12 @@
     "dept": "Kerala State Pollution Control Board",
     "scope": "Statewide",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 23840,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 20541
   },
   {
     "id": "dec-57",
@@ -5596,13 +5548,12 @@
     "dept": "Various Govt. Owned Companies/ Corporations/ Boards",
     "scope": "Statewide",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 18145,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 15860
   },
   {
     "id": "dec-58",
@@ -5612,13 +5563,12 @@
     "dept": "Kerala State Backward Classes Development Corporation",
     "scope": "Statewide",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 2871,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 2144
   },
   {
     "id": "dec-59",
@@ -5628,13 +5578,12 @@
     "dept": "Kerala State Pollution Control Board",
     "scope": "Statewide",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 2,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 2
   },
   {
     "id": "dec-60",
@@ -5644,13 +5593,12 @@
     "dept": "Kerala Administrative Tribunal",
     "scope": "Statewide",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 13826,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 12308
   },
   {
     "id": "dec-61",
@@ -5660,13 +5608,12 @@
     "dept": "Various",
     "scope": "Kannur",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 318,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 291
   },
   {
     "id": "dec-62",
@@ -5676,13 +5623,12 @@
     "dept": "Universities in Kerala",
     "scope": "Statewide",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 19043,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 17375
   },
   {
     "id": "dec-63",
@@ -5692,399 +5638,391 @@
     "dept": "Kerala Livestock Development Board Limited",
     "scope": "Statewide",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 5128,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 4545
+  },
+  {
+    "id": "dec-90",
+    "slNo": 64,
+    "catNo": "056/2026",
+    "name": "Private Secretary to Managing Director - Direct Recruitment",
+    "dept": "Kerala State Poultry Development Corporation Limited",
+    "scope": "Statewide",
+    "date": "2026-12-11",
+    "time": "07:00",
+    "mode": "OMR",
+    "medium": "Part I, II, III, V – English; Part IV – M/T/K",
+    "admissionFrom": "2026-11-26",
+    "duration": "1 Hour 30 Minutes",
+    "candidates": 3975
   },
   {
     "id": "dec-64",
-    "slNo": 64,
+    "slNo": 65,
     "catNo": "061/2026",
     "name": "Clerk Typist (Special Recruitment for SC/ST) (SR – Scheduled Caste/Scheduled Tribe)",
     "dept": "Various",
     "scope": "Thrissur",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 2512,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 2304
   },
   {
     "id": "dec-65",
-    "slNo": 65,
+    "slNo": 66,
     "catNo": "084/2026",
     "name": "Computer Assistant Grade II - Direct Recruitment",
     "dept": "Govt. Secretariat/ KPSC/ AGs Office/ Local Fund Audit/ Vigilance Tribunal etc.",
     "scope": "Statewide",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 18622,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 17373
   },
   {
     "id": "dec-66",
-    "slNo": 66,
+    "slNo": 67,
     "catNo": "085/2026",
     "name": "Computer Assistant Grade II - By Transfer",
     "dept": "Govt. Secretariat/ KPSC/ AGs Office/ Local Fund Audit/ Vigilance Tribunal etc.",
     "scope": "Statewide",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 445,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 428
   },
   {
     "id": "dec-67",
-    "slNo": 67,
+    "slNo": 68,
     "catNo": "095/2026",
     "name": "Lower Division Typist (Special Recruitment for SC/ST and ST Only) - Direct Recruitment (SR – Scheduled Caste/Scheduled Tribe)",
     "dept": "Various",
     "scope": "Idukki",
     "date": "2026-12-11",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "Part I, II, III, V – English; Part IV – M/T/K",
     "admissionFrom": "2026-11-26",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 1961,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 1837
   },
   {
     "id": "dec-68",
-    "slNo": 68,
+    "slNo": 69,
     "catNo": "771/2025",
     "name": "Electrician Grade II - Direct Recruitment",
     "dept": "Printing",
     "scope": "Ernakulam",
     "date": "2026-12-15",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-11-30",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 3550,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 2464
   },
   {
     "id": "dec-69",
-    "slNo": 69,
+    "slNo": 70,
     "catNo": "771/2025",
     "name": "Electrician Grade II - Direct Recruitment",
     "dept": "Printing",
     "scope": "Kozhikode",
     "date": "2026-12-15",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-11-30",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 2353,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 1631
   },
   {
     "id": "dec-70",
-    "slNo": 70,
+    "slNo": 71,
     "catNo": "023/2026",
     "name": "Dairy Extension Officer - Direct Recruitment",
     "dept": "Dairy Development",
     "scope": "Statewide",
     "date": "2026-12-15",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-11-30",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 1563,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 1199
   },
   {
     "id": "dec-71",
-    "slNo": 71,
+    "slNo": 72,
     "catNo": "172/2025",
     "name": "Driver Gr.II (LDV) / Driver cum OA (LDV) - Direct Recruitment (NCA – Latin Catholic / Anglo Indian)",
     "dept": "Various",
     "scope": "Malappuram",
     "date": "2026-12-16",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-12-01",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 633,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 470
   },
   {
     "id": "dec-72",
-    "slNo": 72,
+    "slNo": 73,
     "catNo": "173/2025",
     "name": "Driver Gr.II (LDV) / Driver cum OA (LDV) - Direct Recruitment (NCA – Muslim)",
     "dept": "Various",
     "scope": "Wayanad",
     "date": "2026-12-16",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-12-01",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 2448,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 1569
   },
   {
     "id": "dec-73",
-    "slNo": 73,
+    "slNo": 74,
     "catNo": "258/2025",
     "name": "Forest Driver - Direct Recruitment (NCA – Latin Catholic / Anglo Indian)",
     "dept": "Forest and Wild Life",
     "scope": "Kollam",
     "date": "2026-12-16",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-12-01",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 23,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 16
   },
   {
     "id": "dec-74",
-    "slNo": 74,
+    "slNo": 75,
     "catNo": "258/2025",
     "name": "Forest Driver - Direct Recruitment (NCA – Latin Catholic / Anglo Indian)",
     "dept": "Forest and Wild Life",
     "scope": "Thrissur",
     "date": "2026-12-16",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-12-01",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 20,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 13
   },
   {
     "id": "dec-75",
-    "slNo": 75,
+    "slNo": 76,
     "catNo": "259/2025",
     "name": "Forest Driver - Direct Recruitment (NCA – Scheduled Caste)",
     "dept": "Forest and Wild Life",
     "scope": "Kollam",
     "date": "2026-12-16",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-12-01",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 161,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 114
   },
   {
     "id": "dec-76",
-    "slNo": 76,
+    "slNo": 77,
     "catNo": "262/2025",
     "name": "Driver Gr.II (HDV) (Ex-Servicemen Only) - Direct Recruitment (NCA – Muslim)",
     "dept": "NCC/ Sainik Welfare",
     "scope": "Kottayam",
     "date": "2026-12-16",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-12-01",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 9,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 7
   },
   {
     "id": "dec-77",
-    "slNo": 77,
+    "slNo": 78,
     "catNo": "263/2025",
     "name": "Driver Grade II (HDV) / Driver cum Office Attendant (HDV) - Direct Recruitment (NCA – Ezhava/Thiyya/Billava)",
     "dept": "Various (Except NCC Tourism Excise Police SWD and Transport)",
     "scope": "Kottayam",
     "date": "2026-12-16",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-12-01",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 1259,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 930
   },
   {
     "id": "dec-78",
-    "slNo": 78,
+    "slNo": 79,
     "catNo": "406/2025",
     "name": "Driver Gr.II (HDV) (Ex-Servicemen Only) - Direct Recruitment (NCA – Scheduled Caste)",
     "dept": "NCC/ Sainik Welfare",
     "scope": "Kottayam",
     "date": "2026-12-16",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-12-01",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 6,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 1
   },
   {
     "id": "dec-79",
-    "slNo": 79,
+    "slNo": 80,
     "catNo": "407/2025",
     "name": "Driver Gr.II (LDV) / Driver cum OA (LDV) - Direct Recruitment (NCA – Hindu Nadar)",
     "dept": "Various",
     "scope": "Alapuzha",
     "date": "2026-12-16",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-12-01",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 485,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 381
   },
   {
     "id": "dec-80",
-    "slNo": 80,
+    "slNo": 81,
     "catNo": "424/2025",
     "name": "Forest Driver - Direct Recruitment",
     "dept": "Forest and Wild Life",
     "scope": "Malappuram",
     "date": "2026-12-16",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-12-01",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 2170,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 1503
   },
   {
     "id": "dec-81",
-    "slNo": 81,
+    "slNo": 82,
     "catNo": "425/2025",
     "name": "Forest Driver - By Transfer",
     "dept": "Forest and Wild Life",
     "scope": "Malappuram",
     "date": "2026-12-16",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-12-01",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 1,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 1
   },
   {
     "id": "dec-82",
-    "slNo": 82,
+    "slNo": 83,
     "catNo": "787/2025",
     "name": "Driver cum Office Attendant (Medium/Heavy Passenger/Goods Vehicle) - Direct Recruitment (SR – Scheduled Caste/Scheduled Tribe)",
     "dept": "Oil Palm India Limited",
     "scope": "Statewide",
     "date": "2026-12-16",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-12-01",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 1035,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 809
   },
   {
     "id": "dec-83",
-    "slNo": 83,
+    "slNo": 84,
     "catNo": "861/2025",
     "name": "Forest Driver - Direct Recruitment (NCA – Scheduled Caste)",
     "dept": "Forest and Wild Life",
     "scope": "Pathanamthitta",
     "date": "2026-12-16",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-12-01",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 109,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 90
   },
   {
     "id": "dec-84",
-    "slNo": 84,
+    "slNo": 85,
     "catNo": "126/2026",
     "name": "Driver Grade II (LDV) / Driver cum Office Attendant (LDV) - Direct Recruitment (NCA – Viswakarma)",
     "dept": "Various (Except NCC Tourism Excise Police SWD and Transport)",
     "scope": "Kozhikode",
     "date": "2026-12-16",
-    "mode": "Online / OMR",
+    "time": "07:00",
+    "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-12-01",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 659,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 568
   },
   {
     "id": "dec-85",
-    "slNo": 85,
+    "slNo": 86,
     "catNo": "884/2025",
     "name": "Tradesman - Computer Hardware Maintenance - Direct Recruitment",
     "dept": "Technical Education Department",
     "scope": "Statewide",
     "date": "2026-12-17",
-    "mode": "Online / OMR",
+    "time": "08:00",
+    "mode": "Online",
     "medium": "English",
     "admissionFrom": "2026-12-02",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 2538,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 1813
   },
   {
     "id": "dec-86",
-    "slNo": 86,
+    "slNo": 87,
     "catNo": "024/2026",
     "name": "Assistant Manager (Production) Gr. II - Direct Recruitment",
     "dept": "Pharmaceutical Corporation (IM) Kerala Limited",
     "scope": "Statewide",
     "date": "2026-12-17",
-    "mode": "Online / OMR",
+    "time": "08:00",
+    "mode": "Online",
     "medium": "English",
     "admissionFrom": "2026-12-02",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 2157,
-    "confirmBy": "2026-10-11",
-    "confirmTime": "23:59"
+    "candidates": 1663
   },
   {
     "id": "dec-87",
-    "slNo": 87,
+    "slNo": 88,
     "catNo": "382/2025",
     "name": "Junior Assistant/ Cashier/ Assistant Gr. II/ Clerk Gr. I/ Time Keeper Gr. II/ Senior Assistant/ Assistant/ Junior Clerk etc. - Direct Recruitment (Main Exam)",
     "dept": "KSFE/ KSEB/ KMML/ KELTRON/ Malabar Cements/ TTPL/ KAMCO etc.",
     "scope": "Statewide",
     "date": "2026-12-19",
-    "mode": "Online / OMR",
+    "time": "10:30",
+    "mode": "OMR",
     "medium": "Part I, II, III – English & M/T/K, Part IV – English, Part V – M/T/K",
     "admissionFrom": "2026-12-04",
     "duration": "1 Hour 30 Minutes",
-    "candidates": 59707
+    "candidates": 59706
   },
   {
     "id": "dec-88",
-    "slNo": 88,
+    "slNo": 89,
     "catNo": "220/2025",
     "name": "Divisional Accounts Officer (SR – Scheduled Tribe Only) (Main Exam)",
     "dept": "Kerala Water Authority",
@@ -6099,7 +6037,7 @@
   },
   {
     "id": "dec-89",
-    "slNo": 89,
+    "slNo": 90,
     "catNo": "472/2025",
     "name": "Divisional Accounts Officer (NCA – Ezhava/Thiyya/Billava) (Main Exam)",
     "dept": "Kerala Water Authority",
