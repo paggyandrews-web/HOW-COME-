@@ -3,6 +3,7 @@ import { useSearchParams, Link } from 'react-router-dom'
 import questions from '../data/questions.json'
 import papers from '../data/papers.json'
 import modelQuestions from '../data/modelQuestions.json'
+import OmrBubble, { bubbleState } from '../components/OmrBubble'
 import Confetti from '../components/Confetti'
 import Dropdown from '../components/Dropdown'
 import { useResults } from '../hooks/useResults'
@@ -869,8 +870,9 @@ function QuizResult({ questions, answers, onRetry, onHome, streakMilestone }) {
                 icon = <span className="ml-auto shrink-0" style={{ color: '#ef4444' }}>✗</span>
               }
               return (
-                <div key={letter} className="px-3 py-1.5 rounded-lg text-xs flex items-center gap-2" style={style}>
-                  <span>({letter}) {text}</span>{icon}
+                <div key={letter} className="px-2.5 py-1.5 rounded-xl text-xs flex items-center gap-2" style={style}>
+                  <OmrBubble small letter={letter} state={bubbleState({ chosen: userAns === letter, isRight: !!correct && letter === correct, revealed: !!correct })} />
+                  <span>{text}</span>{icon}
                 </div>
               )
             })}
@@ -1169,9 +1171,10 @@ export default function Quiz() {
             <button key={letter}
               onClick={() => handleSelect(letter)}
               disabled={revealed || (isTimed && selected !== null) || timedOut || isBrowse}
-              className={`w-full text-left px-4 py-3 rounded-xl text-sm border-2 transition-all flex items-center gap-2${vibratingOption === letter ? ' vibrate' : ''}`}
+              className={`omr-option w-full px-3.5 py-3 rounded-2xl text-[15px] border${vibratingOption === letter ? ' vibrate' : ''}`}
               style={style}>
-              <span className="font-semibold shrink-0">({letter})</span><span>{text}</span>{icon}
+              <OmrBubble letter={letter} state={bubbleState({ chosen: isSelected, isRight: isCorrect, revealed: showFeedback })} />
+              <span className="leading-snug">{text}</span>{icon}
             </button>
           )
         })}

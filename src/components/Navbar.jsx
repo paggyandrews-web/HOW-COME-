@@ -36,7 +36,6 @@ export default function Navbar() {
   return (
     <nav
       style={{
-        background: 'var(--nav-bg)',
         borderBottom: '1px solid var(--nav-border)',
         position: 'fixed',
         top: 0,
@@ -45,12 +44,13 @@ export default function Navbar() {
         width: '100%',
         paddingTop: 'env(safe-area-inset-top)',
       }}
-      className="z-50"
+      className="z-50 glass-bar"
     >
       <div className="max-w-6xl mx-auto px-4 min-h-14 py-2 flex items-center justify-between">
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2 min-w-0 shrink-0">
-          <img src="/logo.png" alt="HOW COME?" className="h-10 w-10 rounded-full object-contain shrink-0" />
+          <img src="/logo.png" alt="HOW COME?" className="h-10 w-10 rounded-full object-contain shrink-0"
+            style={{ boxShadow: '0 0 0 1px var(--nav-border), 0 0 18px -4px var(--accent-glow)' }} />
           <div className="min-w-0 overflow-hidden">
             <div className="leading-tight whitespace-nowrap overflow-hidden text-ellipsis" style={{ fontFamily: "'Sifonn', sans-serif", fontSize: '1.25rem', letterSpacing: '0.03em' }}>
               <span style={{ color: '#1a9d8e' }}>HOW </span>
@@ -71,8 +71,9 @@ export default function Navbar() {
               to={link.to}
               className="px-1.5 sm:px-2 lg:px-3 py-1 rounded text-sm font-medium transition-colors"
               style={{
-                color: isActive(link.to) ? '#1a9d8e' : '#888888',
-                background: isActive(link.to) ? 'var(--nav-btn)' : 'transparent',
+                color: isActive(link.to) ? 'var(--accent)' : 'var(--nav-inactive)',
+                background: isActive(link.to) ? 'var(--accent-soft)' : 'transparent',
+                borderRadius: 999,
               }}
             >
               {link.label}
@@ -85,7 +86,7 @@ export default function Navbar() {
           {/* Streak badge */}
           {streak > 0 && (
             <div className="flex items-center gap-1 px-2.5 py-1.5 rounded-xl text-sm font-bold"
-              style={{ background: '#1a1000', border: '1px solid rgba(255,107,53,0.3)', color: 'white' }}>
+              style={{ background: 'rgba(255,107,53,0.12)', border: '1px solid rgba(255,107,53,0.35)', color: 'var(--nav-text)', fontVariantNumeric: 'tabular-nums' }}>
               🔥 {streak}
             </div>
           )}
@@ -93,7 +94,7 @@ export default function Navbar() {
           {/* Search icon */}
           <Link to="/search"
             title="Search"
-            className="flex items-center justify-center rounded-lg transition-colors"
+            className="flex items-center justify-center rounded-full transition-colors"
             style={{ background: 'var(--nav-btn)', border: '1px solid var(--nav-border)', color: 'var(--nav-text)', width: 38, height: 38 }}>
             <svg width="17" height="17" viewBox="0 0 24 24" fill="none"
               stroke="currentColor" strokeWidth="2" strokeLinecap="round">
@@ -105,7 +106,7 @@ export default function Navbar() {
           {/* Profile icon */}
           <Link to={user ? '/profile' : '/login'}
             title={user ? 'Profile' : 'Login'}
-            className="flex items-center justify-center rounded-lg transition-colors"
+            className="flex items-center justify-center rounded-full transition-colors"
             style={{ background: 'var(--nav-btn)', border: '1px solid var(--nav-border)', color: 'var(--nav-text)', width: 38, height: 38 }}>
             {user ? (
               <div className="flex items-center justify-center rounded-full font-bold text-sm"

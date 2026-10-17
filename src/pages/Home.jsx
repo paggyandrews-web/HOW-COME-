@@ -154,6 +154,32 @@ function BookmarkIcon({ saved }) {
   )
 }
 
+/* ── OMR answer-sheet stub (hero decoration) ───────────────────────── */
+const STUB_ANSWERS = ['B', 'D', 'A', 'C', 'B']
+function AnswerSheetStub() {
+  return (
+    <div aria-hidden="true"
+      style={{
+        position: 'absolute', top: 18, right: 16,
+        display: 'grid', gap: 6, padding: '10px 10px 11px',
+        borderRadius: 14,
+        background: 'color-mix(in oklab, var(--card) 70%, transparent)',
+        border: '1px dashed var(--border-strong)',
+        transform: 'rotate(4deg)',
+      }}>
+      {STUB_ANSWERS.map((ans, i) => (
+        <div key={i} className="flex items-center gap-1.5">
+          <span style={{ width: 12, fontSize: 9, textAlign: 'right', color: 'var(--text2)', fontVariantNumeric: 'tabular-nums' }}>{i + 61}</span>
+          {['A', 'B', 'C', 'D'].map(l => (
+            <span key={l} className="omr omr-sm" data-state={l === ans ? 'picked' : undefined}
+              style={{ width: 15, height: 15, fontSize: 7.5, borderWidth: 1, transform: 'none' }}>{l}</span>
+          ))}
+        </div>
+      ))}
+    </div>
+  )
+}
+
 /* ── Remove dialog ──────────────────────────────────────────────────── */
 function RemoveDialog({ exam, onConfirm, onCancel }) {
   if (!exam) return null
@@ -300,32 +326,29 @@ function ExamCard({ exam, saved, onSave, onRequestRemove, savedCount }) {
    next thing you see on every Home visit, not just after finishing a quiz. */
 function TelegramBanner() {
   return (
-    <div className="rounded-2xl p-4"
-      style={{
-        background: 'linear-gradient(135deg, #06201d 0%, #041a18 100%)',
-        border: '1px solid rgba(26,157,142,0.4)',
+    <a href={TELEGRAM_URL} target="_blank" rel="noopener noreferrer"
+      className="card rounded-2xl p-3.5 flex items-center gap-3"
+      style={{ textDecoration: 'none', color: 'var(--text)' }}>
+      <div style={{
+        width: 44, height: 44, borderRadius: 14, flexShrink: 0,
+        background: 'var(--accent-soft)', color: 'var(--accent)',
+        display: 'flex', alignItems: 'center', justifyContent: 'center',
       }}>
-      <div className="flex items-center gap-3">
-        <div style={{
-          width: 42, height: 42, borderRadius: 12, flexShrink: 0, fontSize: 20,
-          background: 'rgba(26,157,142,0.14)', border: '1px solid rgba(26,157,142,0.3)',
-          display: 'flex', alignItems: 'center', justifyContent: 'center',
-        }}>📢</div>
-        <div style={{ flex: 1, minWidth: 0 }}>
-          <div className="font-semibold text-sm" style={{ color: 'var(--accent)' }}>
-            PDF notes available on Telegram
-          </div>
-          <div className="text-xs mt-0.5 leading-relaxed" style={{ color: 'rgba(255,255,255,0.6)' }}>
-            Join our channel for free study notes.
-          </div>
-        </div>
-        <a href={TELEGRAM_URL} target="_blank" rel="noopener noreferrer"
-          className="shrink-0 text-center py-2 px-3.5 rounded-xl text-xs font-bold"
-          style={{ background: 'var(--accent)', color: '#fff', textDecoration: 'none', whiteSpace: 'nowrap' }}>
-          Join Now
-        </a>
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+          <path d="M21.5 4.5 2.8 11.7c-.8.3-.8 1.5.1 1.7l4.6 1.3 1.7 5.4c.2.7 1.1.9 1.6.4l2.6-2.4 4.7 3.5c.6.4 1.4.1 1.6-.6l3.1-14.3c.2-.9-.6-1.6-1.3-1.2z"/>
+          <path d="m7.5 14.7 9.7-6.6"/>
+        </svg>
       </div>
-    </div>
+      <div style={{ flex: 1, minWidth: 0 }}>
+        <div className="font-semibold text-[15px] leading-tight">PDF notes on Telegram</div>
+        <div className="text-xs mt-0.5" style={{ color: 'var(--text2)' }}>
+          Join our channel for free study notes.
+        </div>
+      </div>
+      <span className="btn-solid shrink-0 inline-flex items-center h-9 px-4 rounded-full text-xs font-bold">
+        Join
+      </span>
+    </a>
   )
 }
 
@@ -354,68 +377,57 @@ export default function Home() {
   const removeExamData = removeTarget ? exams.find(e => e.id === removeTarget) : null
 
   return (
-    <div className="max-w-2xl mx-auto px-4 py-5 space-y-4">
+    <div className="max-w-2xl mx-auto px-4 py-5 space-y-3.5">
 
-      {/* ── Hero card ─────────────────────────────────────────────── */}
-      <div className="rounded-2xl p-5 relative overflow-hidden"
+      {/* ── Hero ──────────────────────────────────────────────────── */}
+      <section className="card rounded-[28px] p-5 pb-6 relative overflow-hidden"
         style={{
-          background: 'linear-gradient(140deg, #071a2e 0%, #082030 55%, #060e1a 100%)',
-          border: '1px solid rgba(26,157,142,0.22)',
-          minHeight: 158,
+          background: 'radial-gradient(120% 85% at 100% 0%, var(--accent-soft) 0%, transparent 62%), var(--card)',
         }}>
-        <div style={{ position: 'relative', zIndex: 1 }}>
-          <h1 className="font-bold mb-0.5" style={{ fontSize: 22, lineHeight: 1.15 }}>
-            <span style={{ color: 'var(--accent)' }}>HOW </span>
-            <span style={{ color: '#ffffff' }}>COME</span>
-            <span style={{ color: 'var(--accent)' }}>?</span>
-          </h1>
-          <p className="text-sm font-semibold mb-3" style={{ color: 'rgba(0,200,180,0.8)' }}>
+        <AnswerSheetStub />
+        <div style={{ position: 'relative', maxWidth: '62%' }}>
+          <h1 className="display" style={{ fontSize: 'clamp(2rem, 9vw, 2.6rem)', lineHeight: 0.98 }}>
             Foundation to PSC English
+          </h1>
+          <p className="text-sm mt-3 leading-snug" style={{ color: 'var(--text2)' }}>
+            {questionCount != null
+              ? <><strong style={{ color: 'var(--text)', fontWeight: 600 }}>{questionCount.toLocaleString('en-IN')}</strong> real questions from <strong style={{ color: 'var(--text)', fontWeight: 600 }}>{papers.length}</strong> past PSC papers.</>
+              : <>Real questions from <strong style={{ color: 'var(--text)', fontWeight: 600 }}>{papers.length}</strong> past PSC papers.</>}
           </p>
-
-          {/* Stats row */}
-          <div className="flex gap-3 mb-4">
-            <div className="flex-1 rounded-xl px-3 py-2.5 text-center" style={{ background: 'rgba(26,157,142,0.12)', border: '1px solid rgba(26,157,142,0.25)' }}>
-              <div className="font-black text-xl leading-none" style={{ color: 'var(--accent)' }}>{papers.length}</div>
-              <div className="text-xs mt-0.5" style={{ color: 'rgba(255,255,255,0.5)' }}>Question Papers</div>
-            </div>
-            <div className="flex-1 rounded-xl px-3 py-2.5 text-center" style={{ background: 'rgba(26,157,142,0.12)', border: '1px solid rgba(26,157,142,0.25)' }}>
-              <div className="font-black text-xl leading-none" style={{ color: 'var(--accent)' }}>{questionCount ?? '—'}</div>
-              <div className="text-xs mt-0.5" style={{ color: 'rgba(255,255,255,0.5)' }}>Total Questions</div>
-            </div>
-          </div>
-
-          <div className="flex justify-center">
-            <Link to="/quiz"
-              className="inline-flex items-center gap-1 px-5 py-2.5 rounded-xl font-bold text-sm"
-              style={{ background: 'var(--accent)', color: '#fff' }}>
-              Start Quiz →
-            </Link>
-          </div>
         </div>
-      </div>
+        <div className="flex gap-2.5 mt-5" style={{ position: 'relative' }}>
+          <Link to="/quiz" className="btn-solid inline-flex items-center justify-center px-5 h-11 rounded-full font-semibold text-[15px]"
+            style={{ textDecoration: 'none' }}>
+            Start a quiz
+          </Link>
+          <Link to="/papers" className="btn-ghost inline-flex items-center justify-center px-5 h-11 rounded-full font-semibold text-[15px]"
+            style={{ textDecoration: 'none' }}>
+            Past papers
+          </Link>
+        </div>
+      </section>
 
       {/* ── Study Streak card ─────────────────────────────────────── */}
       {streak > 0 && (
-        <div className="rounded-2xl p-4"
+        <div className="card rounded-2xl p-4"
           style={{
-            background: 'linear-gradient(135deg, #160800 0%, #1c0a00 100%)',
-            border: '1px solid rgba(255,107,53,0.22)',
+            background: 'radial-gradient(110% 120% at 0% 50%, rgba(255,107,53,0.14) 0%, transparent 60%), var(--card)',
+            borderColor: 'rgba(255,107,53,0.28)',
           }}>
           <div className="flex items-center gap-4">
             <StreakRing days={streak} />
             <div style={{ flex: 1 }}>
-              <div className="font-black" style={{ fontSize: 22, lineHeight: 1, color: 'white' }}>
-                {streak} {streak === 1 ? 'DAY' : 'DAYS'}
+              <div className="display" style={{ fontSize: 28, lineHeight: 1, color: 'var(--text)' }}>
+                {streak} {streak === 1 ? 'day' : 'days'}
               </div>
-              <div className="text-xs mt-1" style={{ color: 'rgba(255,255,255,0.55)' }}>
+              <div className="text-xs mt-1" style={{ color: 'var(--text2)' }}>
                 {streakTagline(streak)}
               </div>
             </div>
             <div style={{ textAlign: 'right' }}>
               <div className="text-xs font-bold mb-1"
-                style={{ color: 'var(--accent)', letterSpacing: '0.06em' }}>STUDY STREAK</div>
-              <div className="text-xs mb-2" style={{ color: 'rgba(255,255,255,0.35)' }}>
+                style={{ color: 'var(--accent)' }}>Study streak</div>
+              <div className="text-xs mb-2" style={{ color: 'var(--text2)' }}>
                 Don't break it!
               </div>
               <StreakDots days={streak} />
@@ -453,14 +465,17 @@ export default function Home() {
       )}
 
       {pinnedExams.length === 0 && (
-        <div className="card rounded-xl p-5 text-center">
-          <div className="text-2xl mb-2">🔖</div>
-          <p className="text-sm font-medium mb-1">No exams saved yet</p>
+        <div className="rounded-2xl p-5 text-center" style={{ border: '1.5px dashed var(--border-strong)' }}>
+          <div className="mx-auto mb-3 flex items-center justify-center"
+            style={{ width: 44, height: 44, borderRadius: '50%', background: 'var(--accent-soft)' }}>
+            <BookmarkIcon saved={false} />
+          </div>
+          <p className="text-[15px] font-semibold mb-1">No exams saved yet</p>
           <p className="text-xs mb-3" style={{ color: 'var(--text2)' }}>
             Bookmark upcoming exams to track their countdowns here.
           </p>
           <Link to="/exams" className="text-sm font-medium" style={{ color: 'var(--accent)' }}>
-            Browse Upcoming Exams →
+            Browse upcoming exams
           </Link>
         </div>
       )}

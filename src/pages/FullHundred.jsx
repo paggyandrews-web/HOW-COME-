@@ -1,4 +1,5 @@
 import { useState, useMemo, useCallback, useEffect, useRef } from 'react'
+import OmrBubble, { bubbleState } from '../components/OmrBubble'
 import { Link, useSearchParams } from 'react-router-dom'
 import fullPapers from '../data/fullPapers.json'
 import fullQuestions from '../data/fullQuestions.json'
@@ -720,10 +721,10 @@ function ExamScreen({ paper, questions, onSubmit, initial }) {
             else if (revealed && chosen) { bg = 'rgba(239,68,68,0.12)'; bd = '#ef4444'; lc = '#ef4444' }
             return (
               <button key={letter} onClick={() => select(letter)} disabled={revealed || isDeleted}
-                className="text-left rounded-lg px-3 py-2.5 text-sm flex gap-2"
+                className="omr-option rounded-2xl px-3.5 py-3 text-[15px]"
                 style={{ background: bg, border: '1px solid ' + bd, color: 'var(--text)', cursor: (revealed || isDeleted) ? 'default' : 'pointer' }}>
-                <span className="font-bold shrink-0" style={{ color: lc }}>({letter})</span>
-                <span>{renderWithUnderlines(q['option' + letter])}</span>
+                <OmrBubble letter={letter} state={bubbleState({ chosen, isRight, revealed })} />
+                <span className="leading-snug">{renderWithUnderlines(q['option' + letter])}</span>
                 {revealed && isRight && <span className="ml-auto shrink-0" style={{ color: 'var(--accent-green)' }}>✓</span>}
                 {revealed && chosen && !isRight && <span className="ml-auto shrink-0" style={{ color: '#ef4444' }}>✗</span>}
               </button>
@@ -920,15 +921,12 @@ function ResultScreen({ paper, questions, answers, timeTaken, onRetake, onExit }
                 const isCorrect = q.correctAnswer === letter
                 const isChosen = chosen === letter
                 return (
-                  <div key={letter} className="rounded-lg px-3 py-2 text-sm flex gap-2"
+                  <div key={letter} className="rounded-xl px-3 py-2 text-sm flex items-center gap-2.5"
                     style={{
                       background: isCorrect ? 'rgba(34,197,94,0.12)' : isChosen ? 'rgba(239,68,68,0.12)' : 'var(--bg2)',
                       border: '1px solid ' + (isCorrect ? 'var(--accent-green)' : isChosen ? '#ef4444' : 'var(--border)'),
                     }}>
-                    <span className="font-bold shrink-0"
-                      style={{ color: isCorrect ? 'var(--accent-green)' : isChosen ? '#ef4444' : 'var(--text2)' }}>
-                      ({letter})
-                    </span>
+                    <OmrBubble small letter={letter} state={bubbleState({ chosen: isChosen, isRight: isCorrect, revealed: true })} />
                     <span>{renderWithUnderlines(q['option' + letter])}</span>
                     {isCorrect && <span className="ml-auto shrink-0" style={{ color: 'var(--accent-green)' }}>✓</span>}
                     {isChosen && !isCorrect && <span className="ml-auto shrink-0" style={{ color: '#ef4444' }}>✗</span>}

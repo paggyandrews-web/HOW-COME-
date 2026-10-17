@@ -1,4 +1,5 @@
 import { useState, useEffect, useMemo, useRef, useCallback } from 'react'
+import OmrBubble, { bubbleState } from '../components/OmrBubble'
 import { Link, useSearchParams } from 'react-router-dom'
 import modelPapers from '../data/modelPapers.json'
 import modelQuestions from '../data/modelQuestions.json'
@@ -294,21 +295,15 @@ function PaperList({ onStart, onPractice }) {
             <div className="flex gap-2">
               <button
                 onClick={() => onPractice(p)}
-                className="flex-1 text-center py-2 rounded-xl text-xs font-bold cursor-pointer"
-                style={{
-                  background: 'var(--accent)', color: 'var(--accent-text)',
-                  border: '2px solid var(--accent)', touchAction: 'manipulation',
-                }}>
-                ✏️ Practice
+                className="btn-solid flex-1 inline-flex items-center justify-center gap-1.5 h-10 rounded-full text-sm font-semibold cursor-pointer"
+                style={{ touchAction: 'manipulation', textDecoration: 'none' }}>
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg> Practice
               </button>
               <button
                 onClick={() => setConfirmPaper(p)}
-                className="flex-1 text-center py-2 rounded-xl text-xs font-bold cursor-pointer"
-                style={{
-                  background: 'transparent', color: 'var(--accent)',
-                  border: '2px solid var(--accent)', touchAction: 'manipulation',
-                }}>
-                ⏱️ Timed
+                className="btn-ghost flex-1 inline-flex items-center justify-center gap-1.5 h-10 rounded-full text-sm font-semibold cursor-pointer"
+                style={{ touchAction: 'manipulation', textDecoration: 'none' }}>
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2 2"/><path d="M10 2h4"/></svg> Timed
               </button>
             </div>
 
@@ -518,15 +513,15 @@ function ExamScreen({ paper, questions, onSubmit, practice = false }) {
             else if (revealed && chosen) { bg = 'rgba(239,68,68,0.12)'; bd = '#ef4444'; lc = '#ef4444' }
             return (
               <button key={letter} onClick={() => select(letter)} disabled={revealed}
-                className="text-left rounded-lg px-3 py-2.5 text-sm flex gap-2"
+                className="omr-option rounded-2xl px-3.5 py-3 text-[15px]"
                 style={{
                   background: bg,
                   border: '1px solid ' + bd,
                   color: 'var(--text)',
                   cursor: revealed ? 'default' : 'pointer',
                 }}>
-                <span className="font-bold shrink-0" style={{ color: lc }}>({letter})</span>
-                <span>{q['option' + letter]}</span>
+                <OmrBubble letter={letter} state={bubbleState({ chosen, isRight, revealed })} />
+                <span className="leading-snug">{q['option' + letter]}</span>
                 {revealed && isRight && <span className="ml-auto shrink-0" style={{ color: 'var(--accent-green)' }}>✓</span>}
                 {revealed && chosen && !isRight && <span className="ml-auto shrink-0" style={{ color: '#ef4444' }}>✗</span>}
               </button>
@@ -834,15 +829,12 @@ function ResultScreen({ paper, questions, answers, timeTaken, onRetake, onExit, 
                 const isCorrect = q.correctAnswer === letter
                 const isChosen = chosen === letter
                 return (
-                  <div key={letter} className="rounded-lg px-3 py-2 text-sm flex gap-2"
+                  <div key={letter} className="rounded-xl px-3 py-2 text-sm flex items-center gap-2.5"
                     style={{
                       background: isCorrect ? 'rgba(34,197,94,0.12)' : isChosen ? 'rgba(239,68,68,0.12)' : 'var(--bg2)',
                       border: '1px solid ' + (isCorrect ? 'var(--accent-green)' : isChosen ? '#ef4444' : 'var(--border)'),
                     }}>
-                    <span className="font-bold shrink-0"
-                      style={{ color: isCorrect ? 'var(--accent-green)' : isChosen ? '#ef4444' : 'var(--text2)' }}>
-                      ({letter})
-                    </span>
+                    <OmrBubble small letter={letter} state={bubbleState({ chosen: isChosen, isRight: isCorrect, revealed: true })} />
                     <span>{q['option' + letter]}</span>
                     {isCorrect && <span className="ml-auto shrink-0" style={{ color: 'var(--accent-green)' }}>✓</span>}
                     {isChosen && !isCorrect && <span className="ml-auto shrink-0" style={{ color: '#ef4444' }}>✗</span>}

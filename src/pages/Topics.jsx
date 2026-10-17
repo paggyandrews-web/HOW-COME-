@@ -65,15 +65,15 @@ function TopicCard({ topic, count, practiced = 0 }) {
       <div className="flex gap-2">
         <Link
           to={'/quiz?topic=' + encodeURIComponent(topic.name) + '&mode=practice'}
-          className="flex-1 text-center py-1.5 rounded-lg text-xs font-semibold"
-          style={{ background: 'var(--accent)', color: 'var(--accent-text)', touchAction: 'manipulation' }}
+          className="btn-solid flex-1 inline-flex items-center justify-center h-9 rounded-full text-[13px] font-semibold"
+          style={{ touchAction: 'manipulation', textDecoration: 'none' }}
         >
           Practice
         </Link>
         <Link
           to={'/quiz?topic=' + encodeURIComponent(topic.name) + '&mode=timed'}
-          className="flex-1 text-center py-1.5 rounded-lg text-xs font-medium"
-          style={{ background: 'var(--bg2)', color: 'var(--text)', border: '1px solid var(--border)', touchAction: 'manipulation' }}
+          className="btn-ghost flex-1 inline-flex items-center justify-center h-9 rounded-full text-[13px] font-semibold"
+          style={{ touchAction: 'manipulation', textDecoration: 'none' }}
         >
           Timed
         </Link>

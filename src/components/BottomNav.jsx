@@ -6,7 +6,7 @@ const navItems = [
     to: '/',
     label: 'Home',
     icon: (
-      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+      <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
         <path d="M3 9.5L12 3l9 6.5V20a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V9.5z"/>
         <path d="M9 21V12h6v9"/>
       </svg>
@@ -16,7 +16,7 @@ const navItems = [
     to: '/papers',
     label: 'Papers',
     icon: (
-      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+      <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
         <rect x="4" y="2" width="12" height="18" rx="2"/>
         <path d="M8 6h6M8 10h6M8 14h4"/>
         <path d="M14 2v4h4l2 2v14a2 2 0 0 1-2 2H6"/>
@@ -27,7 +27,7 @@ const navItems = [
     to: '/topics',
     label: 'Topics',
     icon: (
-      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+      <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
         <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/>
         <line x1="7" y1="7" x2="7.01" y2="7"/>
       </svg>
@@ -37,7 +37,7 @@ const navItems = [
     to: '/quiz',
     label: 'Quiz',
     icon: (
-      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+      <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
         <circle cx="12" cy="12" r="9"/>
         <line x1="12" y1="8" x2="12" y2="12"/>
         <line x1="12" y1="16" x2="12.01" y2="16"/>
@@ -48,7 +48,7 @@ const navItems = [
     to: '/mock',
     label: 'Mock',
     icon: (
-      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+      <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
         <circle cx="12" cy="12" r="9"/>
         <polyline points="12 7 12 12 15.5 14"/>
       </svg>
@@ -58,7 +58,7 @@ const navItems = [
     to: '/full100',
     label: 'Full 100',
     icon: (
-      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+      <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
         <path d="M6 2h9l5 5v13a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2z"/>
         <path d="M15 2v5h5"/>
         <path d="M8 13h8M8 17h5"/>
@@ -69,7 +69,7 @@ const navItems = [
     to: '/exams',
     label: 'Exams',
     icon: (
-      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+      <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
         <rect x="3" y="4" width="18" height="18" rx="2"/>
         <line x1="16" y1="2" x2="16" y2="6"/>
         <line x1="8" y1="2" x2="8" y2="6"/>
@@ -95,42 +95,40 @@ export default function BottomNav() {
 
   return (
     <nav
-      className="sm:hidden fixed bottom-0 left-0 right-0 z-50"
+      aria-label="Main"
+      className="sm:hidden fixed z-50 dock"
       style={{
-        background: 'var(--surface)',
-        borderTop: '1px solid var(--border)',
-        paddingBottom: 'env(safe-area-inset-bottom)',
+        left: 10,
+        right: 10,
+        bottom: 'calc(env(safe-area-inset-bottom) + 8px)',
+        borderRadius: 24,
       }}
     >
-      <div className="flex items-stretch">
+      <div className="flex items-stretch px-1">
         {items.map(item => {
           const active = isActive(item.to)
           return (
             <Link
               key={item.to}
               to={item.to}
-              className="flex-1 flex flex-col items-center justify-center py-2 gap-0.5"
+              aria-current={active ? 'page' : undefined}
+              className="dock-item flex-1 flex flex-col items-center justify-center gap-0.5"
               style={{
                 color: active ? 'var(--accent)' : 'var(--nav-inactive)',
                 textDecoration: 'none',
-                position: 'relative',
-                minHeight: 56,
+                minHeight: 58,
+                minWidth: 0,
               }}
             >
-              {item.icon}
-              <span style={{ fontSize: 9, fontWeight: active ? 700 : 500, letterSpacing: '0.01em' }}>
+              <span className="dock-icon">{item.icon}</span>
+              <span style={{
+                fontSize: 10,
+                fontWeight: active ? 700 : 500,
+                fontStretch: '88%',
+                whiteSpace: 'nowrap',
+              }}>
                 {item.label}
               </span>
-              {active && (
-                <span style={{
-                  position: 'absolute',
-                  bottom: 4,
-                  width: 4,
-                  height: 4,
-                  borderRadius: '50%',
-                  background: 'var(--accent)',
-                }}/>
-              )}
             </Link>
           )
         })}

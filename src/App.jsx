@@ -105,17 +105,17 @@ function ScrollButton() {
         position: 'fixed',
         left: '50%',
         transform: 'translateX(-50%)',
-        bottom: 'calc(72px + env(safe-area-inset-bottom) + 10px)',
+        bottom: 'calc(env(safe-area-inset-bottom) + 80px)',
         width: 38,
         height: 38,
         borderRadius: '50%',
         background: 'var(--accent)',
         border: 'none',
-        color: '#fff',
+        color: 'var(--accent-text)',
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
-        boxShadow: '0 2px 12px rgba(26,157,142,0.45)',
+        boxShadow: '0 6px 18px -4px var(--accent-glow)',
         cursor: 'pointer',
         zIndex: 40,
         opacity: visible ? 1 : 0,
@@ -222,7 +222,7 @@ export default function App() {
             <div
               style={{
                 paddingTop: 'calc(72px + env(safe-area-inset-top))',
-                paddingBottom: 'calc(64px + env(safe-area-inset-bottom))',
+                paddingBottom: 'calc(88px + env(safe-area-inset-bottom))',
               }}
               className="sm:pb-0"
             >

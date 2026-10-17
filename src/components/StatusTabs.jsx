@@ -26,10 +26,10 @@ export default function StatusTabs({ value, onChange, counts, loading }) {
             role="tab"
             aria-selected={active}
             onClick={() => onChange(active ? '' : key)}
-            className="rounded-lg px-3 py-2 text-xs font-bold flex items-center gap-1.5"
+            className="rounded-full pl-2.5 pr-3 h-8 text-xs font-semibold flex items-center gap-1.5"
             style={{
               background: active ? meta.bg : 'transparent',
-              border: `1.5px solid ${active ? meta.color : 'var(--border)'}`,
+              border: `1px solid ${active ? meta.color : 'var(--border)'}`,
               color: active ? meta.color : 'var(--text2)',
               cursor: 'pointer',
               touchAction: 'manipulation',
@@ -37,10 +37,10 @@ export default function StatusTabs({ value, onChange, counts, loading }) {
           >
             <span
               aria-hidden="true"
-              style={{ width: 7, height: 7, borderRadius: '50%', background: meta.color, flexShrink: 0 }}
+              style={{ width: 9, height: 9, borderRadius: '50%', flexShrink: 0, background: active ? meta.color : 'transparent', border: `1.5px solid ${meta.color}` }}
             />
             {meta.label}
-            {!loading && count != null && <span style={{ opacity: 0.75 }}>({count})</span>}
+            {!loading && count != null && <span style={{ opacity: 0.7, fontVariantNumeric: 'tabular-nums' }}>{count}</span>}
           </button>
         )
       })}

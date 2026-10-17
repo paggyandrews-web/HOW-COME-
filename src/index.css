@@ -1,4 +1,5 @@
 @import url('https://fonts.cdnfonts.com/css/sifonn');
+@import '@fontsource-variable/anek-malayalam/standard.css';
 
 @tailwind base;
 @tailwind components;
@@ -160,8 +161,46 @@
   --scheme: light;
 }
 
-[data-theme="white"] .card:hover {
-  box-shadow: 0 4px 16px rgba(15,127,115,0.12), 0 16px 40px rgba(15,23,42,0.06);
+
+/* ── Derived surface tokens ──
+   Every dark theme keeps its pure-black page, but cards, inputs and the
+   chrome pick up a faint tint of that theme's accent, so Pink feels pink and
+   Moss feels green without anyone hand-picking greys. Browsers without
+   color-mix() simply keep the flat values above. */
+:root {
+  --hairline-hi: rgba(255,255,255,0.045);
+  --lift: 0 1px 2px rgba(0,0,0,0.5);
+  --border-strong: #333333;
+  --accent-glow: rgba(26,157,142,0.35);
+  --accent-soft: rgba(26,157,142,0.14);
+  --ok: #22c55e;
+  --bad: #ef4444;
+  --dock-bg: rgba(14,14,14,0.82);
+  --bar-bg: rgba(0,0,0,0.72);
+}
+:root:not([data-theme="white"]) {
+  --card: color-mix(in oklab, var(--accent) 5%, #0c0c0c);
+  --surface: color-mix(in oklab, var(--accent) 5%, #0c0c0c);
+  --bg2: color-mix(in oklab, var(--accent) 8%, #121212);
+  --border: color-mix(in oklab, var(--accent) 14%, #1f1f1f);
+  --border-strong: color-mix(in oklab, var(--accent) 35%, #2a2a2a);
+  --accent-glow: color-mix(in oklab, var(--accent) 40%, transparent);
+  --accent-soft: color-mix(in oklab, var(--accent) 15%, transparent);
+  --nav-btn: color-mix(in oklab, var(--accent) 7%, #101010);
+  --nav-border: color-mix(in oklab, var(--accent) 12%, #1c1c1c);
+  --input-bg: color-mix(in oklab, var(--accent) 6%, #0e0e0e);
+  --dock-bg: color-mix(in oklab, color-mix(in oklab, var(--accent) 8%, #0e0e0e) 84%, transparent);
+}
+[data-theme="white"] {
+  --hairline-hi: rgba(255,255,255,0.9);
+  --lift: 0 1px 2px rgba(15,23,42,0.05), 0 6px 20px -8px rgba(15,23,42,0.10);
+  --border-strong: #b8c7c5;
+  --accent-glow: rgba(15,127,115,0.28);
+  --accent-soft: rgba(15,127,115,0.10);
+  --ok: #16a34a;
+  --bad: #dc2626;
+  --dock-bg: rgba(255,255,255,0.86);
+  --bar-bg: rgba(246,248,248,0.78);
 }
 
 /* Disable pull-to-refresh (and the rubber-band overscroll glow) on mobile.
@@ -183,8 +222,24 @@ body {
   background-color: var(--bg);
   color: var(--text);
   transition: background-color 0.2s, color 0.2s;
-  font-family: system-ui, -apple-system, sans-serif;
+  /* Anek Malayalam: one variable family drawn for both Latin and Malayalam,
+     so English questions and Malayalam explanations share one voice. */
+  font-family: 'Anek Malayalam Variable', system-ui, -apple-system, sans-serif;
+  font-stretch: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
+
+/* Page titles: the condensed cut of the same family, set tight. */
+h1, .display {
+  font-stretch: 78%;
+  font-weight: 700;
+  letter-spacing: -0.005em;
+  line-height: 1.05;
+}
+h1.text-2xl, h1.text-xl { font-size: 1.85rem; }
+h2 { font-stretch: 88%; letter-spacing: 0; }
 
 /* Hide native scrollbar — replaced by custom ScrollIndicator */
 ::-webkit-scrollbar { width: 0; background: transparent; }
@@ -193,63 +248,11 @@ body {
 .card {
   background: var(--card);
   border: 1px solid var(--border);
-  box-shadow: 0 1px 4px rgba(0,0,0,0.06), 0 4px 16px rgba(0,0,0,0.04);
-  transition: box-shadow 0.25s ease, transform 0.25s ease;
+  box-shadow: inset 0 1px 0 var(--hairline-hi), var(--lift);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
-
-.card:hover {
-  box-shadow: 0 4px 16px rgba(0,0,0,0.1), 0 16px 40px rgba(0,0,0,0.07);
-  transform: translateY(-2px);
-}
-
-[data-theme="howcome"] .card,
-[data-theme="black"] .card {
-  box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
-}
-
-[data-theme="howcome"] .card:hover,
-[data-theme="black"] .card:hover {
-  box-shadow: 0 4px 16px rgba(26,157,142,0.15), 0 16px 40px rgba(0,0,0,0.35);
-}
-
-[data-theme="pink"] .card {
-  box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
-}
-
-[data-theme="pink"] .card:hover {
-  box-shadow: 0 4px 16px rgba(242,159,255,0.2), 0 16px 40px rgba(0,0,0,0.35);
-}
-
-[data-theme="wine"] .card {
-  box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
-}
-
-[data-theme="wine"] .card:hover {
-  box-shadow: 0 4px 16px rgba(150,50,95,0.2), 0 16px 40px rgba(0,0,0,0.35);
-}
-
-[data-theme="mauve"] .card {
-  box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
-}
-
-[data-theme="mauve"] .card:hover {
-  box-shadow: 0 4px 16px rgba(114,89,128,0.2), 0 16px 40px rgba(0,0,0,0.35);
-}
-
-[data-theme="moss"] .card {
-  box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
-}
-
-[data-theme="moss"] .card:hover {
-  box-shadow: 0 4px 16px rgba(149,163,34,0.2), 0 16px 40px rgba(0,0,0,0.35);
-}
-
-[data-theme="cyan"] .card {
-  box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
-}
-
-[data-theme="cyan"] .card:hover {
-  box-shadow: 0 4px 16px rgba(0,252,254,0.2), 0 16px 40px rgba(0,0,0,0.35);
+@media (hover: hover) {
+  .card:hover { border-color: var(--border-strong); }
 }
 
 /* ── Compact paper-language row (Full 100 list) ── */
@@ -276,7 +279,7 @@ body {
 .btn-primary:hover {
   background: var(--accent-hover);
   transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(37,99,235,0.35);
+  box-shadow: 0 6px 18px var(--accent-glow);
 }
 .btn-primary:active { transform: translateY(0); }
 
@@ -462,25 +465,6 @@ select option {
   color: var(--nav-text);
 }
 
-/* ── Mobile: disable card hover-lift on touch devices ── */
-@media (hover: none) {
-  .card:hover {
-    transform: none;
-    box-shadow: 0 1px 4px rgba(0,0,0,0.06), 0 4px 16px rgba(0,0,0,0.04);
-  }
-  [data-theme="howcome"] .card:hover,
-  [data-theme="black"] .card:hover {
-    box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
-  }
-  [data-theme="pink"] .card:hover,
-  [data-theme="wine"] .card:hover,
-  [data-theme="mauve"] .card:hover,
-  [data-theme="moss"] .card:hover,
-  [data-theme="cyan"] .card:hover {
-    box-shadow: 0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
-  }
-}
-
 /* ── Copy-link icon on paper cards (components/ShareLinkButton.jsx) ── */
 .share-link-btn {
   display: inline-flex;
@@ -521,4 +505,100 @@ select option {
 @keyframes share-bubble-in {
   from { opacity: 0; transform: translateY(4px); }
   to { opacity: 1; transform: translateY(0); }
+}
+
+/* ══ OMR bubbles ════════════════════════════════════════════════════
+   The signature of the app: answer letters drawn like the bubbles on a
+   PSC OMR sheet. Empty ring until you choose; choosing shades it in, the
+   way you'd fill it with a ballpoint in the exam hall. */
+.omr {
+  --omr-ring: var(--text2);
+  --omr-fill: transparent;
+  --omr-ink: var(--text2);
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  border: 1.5px solid var(--omr-ring);
+  background: var(--omr-fill);
+  color: var(--omr-ink);
+  font-size: 12px;
+  font-weight: 700;
+  font-stretch: 90%;
+  line-height: 1;
+  transition: background-color 0.18s ease, border-color 0.18s ease, color 0.18s ease, transform 0.22s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+.omr[data-state="picked"] { --omr-ring: var(--accent); --omr-fill: var(--accent); --omr-ink: var(--accent-text); transform: scale(1.06); }
+.omr[data-state="right"]  { --omr-ring: var(--ok);  --omr-fill: var(--ok);  --omr-ink: #fff; }
+.omr[data-state="wrong"]  { --omr-ring: var(--bad); --omr-fill: var(--bad); --omr-ink: #fff; }
+.omr[data-state="muted"]  { opacity: 0.55; }
+.omr-sm { width: 20px; height: 20px; font-size: 10px; border-width: 1.25px; }
+
+/* Option rows that carry a bubble */
+.omr-option {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-align: left;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+  transition: border-color 0.18s ease, background-color 0.18s ease, transform 0.12s ease;
+}
+.omr-option:not(:disabled):active { transform: scale(0.985); }
+@media (hover: hover) {
+  .omr-option:not(:disabled):hover .omr:not([data-state]) { --omr-ring: var(--accent); --omr-ink: var(--accent); }
+}
+
+/* ══ Chrome: frosted top bar + floating dock ═══════════════════════ */
+.glass-bar {
+  background: var(--bar-bg);
+  -webkit-backdrop-filter: saturate(160%) blur(18px);
+  backdrop-filter: saturate(160%) blur(18px);
+}
+.dock {
+  background: var(--dock-bg);
+  -webkit-backdrop-filter: saturate(160%) blur(20px);
+  backdrop-filter: saturate(160%) blur(20px);
+  border: 1px solid var(--border);
+  box-shadow: inset 0 1px 0 var(--hairline-hi), 0 10px 30px -10px rgba(0,0,0,0.6);
+}
+.dock-item { -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
+.dock-icon {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 30px;
+  border-radius: 999px;
+  transition: background-color 0.22s ease, color 0.22s ease;
+}
+.dock-item[aria-current="page"] .dock-icon { background: var(--accent-soft); }
+.dock-item:active .dock-icon { transform: scale(0.92); }
+
+/* Primary / secondary action buttons */
+.btn-solid {
+  background: var(--accent);
+  color: var(--accent-text);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.18), 0 6px 16px -6px var(--accent-glow);
+  transition: transform 0.12s ease, box-shadow 0.2s ease, filter 0.2s ease;
+}
+.btn-solid:active { transform: scale(0.97); }
+@media (hover: hover) { .btn-solid:hover { filter: brightness(1.08); } }
+.btn-ghost {
+  background: transparent;
+  color: var(--accent);
+  border: 1.5px solid var(--border-strong);
+  transition: transform 0.12s ease, border-color 0.2s ease, background-color 0.2s ease;
+}
+.btn-ghost:active { transform: scale(0.97); }
+@media (hover: hover) { .btn-ghost:hover { border-color: var(--accent); background: var(--accent-soft); } }
+
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 8px; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
 }
