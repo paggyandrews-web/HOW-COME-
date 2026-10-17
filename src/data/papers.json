@@ -2121,5 +2121,16 @@
     "year": "2026",
     "categoryCode": "454/2025",
     "answerKeyStatus": "provisional"
+  },
+  {
+    "id": "92-2026-M",
+    "paperCode": "92/2026 M",
+    "post": "Village Field Assistant - Direct Recruitment",
+    "dept": "Revenue",
+    "date": "17-Oct-2026",
+    "medium": "M",
+    "year": "2026",
+    "categoryCode": "571/2025",
+    "answerKeyStatus": ""
   }
 ]

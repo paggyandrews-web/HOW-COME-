@@ -175,8 +175,8 @@ export default function Papers() {
                   {paper.date && <span>📅 {paper.date}</span>}
                   <span>·</span>
                   <span>{qCount} questions</span>
-                  <span>·</span>
-                  {paper.answerKeyStatus === 'provisional' ? (
+                  {paper.answerKeyStatus && <span>·</span>}
+                  {!paper.answerKeyStatus ? null : paper.answerKeyStatus === 'provisional' ? (
                     <span
                       className="text-[10px] font-bold px-1.5 py-0.5 rounded-full whitespace-nowrap"
                       style={{ color: '#b45309', background: 'rgba(245,158,11,0.18)' }}
