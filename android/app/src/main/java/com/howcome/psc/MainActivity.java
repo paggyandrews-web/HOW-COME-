@@ -118,11 +118,40 @@ public class MainActivity extends Activity {
 
         webView.setWebChromeClient(new WebChromeClient());
 
-        if (savedInstanceState != null) {
+        String deepLink = getDeepLink(getIntent());
+        if (deepLink != null) {
+            webView.loadUrl(deepLink);
+        } else if (savedInstanceState != null) {
             webView.restoreState(savedInstanceState);
         } else {
             webView.loadUrl(URL);
         }
+    }
+
+    // App already running in the background and the user taps another shared
+    // link (launchMode="singleTask" routes it here instead of a new window).
+    @Override
+    protected void onNewIntent(Intent intent) {
+        super.onNewIntent(intent);
+        setIntent(intent);
+        String deepLink = getDeepLink(intent);
+        if (deepLink != null && webView != null) {
+            webView.loadUrl(deepLink);
+        }
+    }
+
+    // Returns the tapped how-come.vercel.app URL, or null for a normal launch.
+    private String getDeepLink(Intent intent) {
+        if (intent == null || !Intent.ACTION_VIEW.equals(intent.getAction())) {
+            return null;
+        }
+        Uri data = intent.getData();
+        if (data == null) return null;
+        if (!"https".equals(data.getScheme())
+                || !"how-come.vercel.app".equals(data.getHost())) {
+            return null;
+        }
+        return data.toString();
     }
 
     @Override
