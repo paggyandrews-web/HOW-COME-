@@ -1857,7 +1857,7 @@
     "medium": "M",
     "year": "2026",
     "categoryCode": "427/2025,436/2025,466/2025,504/2025,572/2025,574/2025,673/2025,674/2025",
-    "answerKeyStatus": "provisional"
+    "answerKeyStatus": "final"
   },
   {
     "id": "160-2024-E",
@@ -2131,6 +2131,27 @@
     "medium": "M",
     "year": "2026",
     "categoryCode": "571/2025",
-    "answerKeyStatus": ""
+    "answerKeyStatus": "provisional"
+  },
+  {
+    "id": "93-2026-M",
+    "paperCode": "93/2026 M",
+    "post": "Special Branch Assistant - SBCID (Kerala Police Service)",
+    "date": "28-Oct-2026",
+    "medium": "M",
+    "year": "2026",
+    "categoryCode": "017/2025",
+    "answerKeyStatus": "provisional"
+  },
+  {
+    "id": "94-2026-M",
+    "paperCode": "94/2026 M",
+    "post": "Village Field Assistant (KLM, EKM, PKD, KNR)",
+    "dept": "Revenue",
+    "date": "31-Oct-2026",
+    "medium": "M",
+    "year": "2026",
+    "categoryCode": "571/2025",
+    "answerKeyStatus": "provisional"
   }
 ]
