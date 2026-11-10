@@ -3736,11 +3736,12 @@
     "dept": "Social Justice",
     "scope": "Statewide",
     "date": "2026-11-03",
+    "time": "08:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-10-19",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 1219
+    "candidates": 1219,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-02",
@@ -3750,11 +3751,12 @@
     "dept": "Govt. Secretariat / KPSC / Local Fund / Kerala Legislature Secretariat",
     "scope": "Statewide",
     "date": "2026-11-03",
+    "time": "08:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-10-19",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 2780
+    "candidates": 2780,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-03",
@@ -3764,11 +3766,12 @@
     "dept": "Various",
     "scope": "Thiruvananthapuram",
     "date": "2026-11-03",
+    "time": "08:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-10-19",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 414
+    "candidates": 414,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-04",
@@ -3778,11 +3781,12 @@
     "dept": "Various",
     "scope": "Kollam",
     "date": "2026-11-03",
+    "time": "08:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-10-19",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 67
+    "candidates": 67,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-05",
@@ -3792,11 +3796,12 @@
     "dept": "Various",
     "scope": "Alapuzha",
     "date": "2026-11-03",
+    "time": "08:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-10-19",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 63
+    "candidates": 63,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-06",
@@ -3806,11 +3811,12 @@
     "dept": "Various",
     "scope": "Ernakulam",
     "date": "2026-11-03",
+    "time": "08:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-10-19",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 164
+    "candidates": 164,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-07",
@@ -3820,11 +3826,12 @@
     "dept": "Various",
     "scope": "Thrissur",
     "date": "2026-11-03",
+    "time": "08:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-10-19",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 79
+    "candidates": 79,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-08",
@@ -3834,11 +3841,12 @@
     "dept": "Various",
     "scope": "Palakkad",
     "date": "2026-11-03",
+    "time": "08:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-10-19",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 136
+    "candidates": 136,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-09",
@@ -3848,11 +3856,12 @@
     "dept": "Various",
     "scope": "Malappuram",
     "date": "2026-11-03",
+    "time": "08:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-10-19",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 53
+    "candidates": 53,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-10",
@@ -3862,11 +3871,12 @@
     "dept": "Various",
     "scope": "Kozhikode",
     "date": "2026-11-03",
+    "time": "08:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-10-19",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 74
+    "candidates": 74,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-11",
@@ -3876,11 +3886,12 @@
     "dept": "Various",
     "scope": "Wayanad",
     "date": "2026-11-03",
+    "time": "08:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-10-19",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 32
+    "candidates": 32,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-12",
@@ -3890,11 +3901,12 @@
     "dept": "Various",
     "scope": "Kannur",
     "date": "2026-11-03",
+    "time": "08:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-10-19",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 37
+    "candidates": 37,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-13",
@@ -3904,11 +3916,12 @@
     "dept": "Various",
     "scope": "Kasargode",
     "date": "2026-11-03",
+    "time": "08:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-10-19",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 32
+    "candidates": 32,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-14",
@@ -3918,11 +3931,12 @@
     "dept": "Kerala Collegiate Education (Music Colleges)",
     "scope": "Statewide",
     "date": "2026-11-04",
+    "time": "09:30",
     "mode": "Online",
     "medium": "English",
     "admissionFrom": "2026-10-19",
-    "duration": "1 Hour 30 Minutes for each paper",
-    "candidates": 22
+    "candidates": 22,
+    "duration": "1 Hour 30 Minutes for each paper"
   },
   {
     "id": "nov-15",
@@ -3932,11 +3946,12 @@
     "dept": "Drugs Control",
     "scope": "Statewide",
     "date": "2026-11-04",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-10-19",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 13643
+    "candidates": 13643,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-16",
@@ -3946,11 +3961,12 @@
     "dept": "Kerala State Industrial Enterprises Ltd",
     "scope": "Statewide",
     "date": "2026-11-05",
+    "time": "08:00",
     "mode": "Online",
     "medium": "Part I, II, III – English & M/T/K; Part IV & VI – English; Part V – M/T/K",
     "admissionFrom": "2026-10-19",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 3563
+    "candidates": 3563,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-17",
@@ -3960,11 +3976,12 @@
     "dept": "Soil Survey and Soil Conservation",
     "scope": "Statewide",
     "date": "2026-11-06",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-10-22",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 12976
+    "candidates": 12976,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-18",
@@ -3974,11 +3991,12 @@
     "dept": "Irrigation",
     "scope": "Statewide",
     "date": "2026-11-10",
+    "time": "08:00",
     "mode": "Online",
     "medium": "English",
     "admissionFrom": "2026-10-26",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 3474
+    "candidates": 3474,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-19",
@@ -3988,11 +4006,12 @@
     "dept": "Prisons and Correctional Services",
     "scope": "Statewide",
     "date": "2026-11-11",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "Part I, II, III & VI – English & M/T/K; Part IV – English; Part V – M/T/K",
     "admissionFrom": "2026-10-27",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 21041
+    "candidates": 21041,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-20",
@@ -4002,11 +4021,12 @@
     "dept": "Prisons and Correctional Services",
     "scope": "Statewide",
     "date": "2026-11-11",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "Part I, II, III & VI – English & M/T/K; Part IV – English; Part V – M/T/K",
     "admissionFrom": "2026-10-27",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 39
+    "candidates": 39,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-21",
@@ -4016,11 +4036,12 @@
     "dept": "Prisons and Correctional Services",
     "scope": "Statewide",
     "date": "2026-11-11",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "Part I, II, III & VI – English & M/T/K; Part IV – English; Part V – M/T/K",
     "admissionFrom": "2026-10-27",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 262
+    "candidates": 262,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-22",
@@ -4030,11 +4051,12 @@
     "dept": "Kerala State Co-operative Coir Marketing Federation Limited (COIRFED)",
     "scope": "Statewide",
     "date": "2026-11-12",
+    "time": "09:00",
     "mode": "Online",
     "medium": "English",
     "admissionFrom": "2026-10-28",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 23
+    "candidates": 23,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-23",
@@ -4060,11 +4082,12 @@
     "dept": "Rehabilitation Plantations Limited",
     "scope": "Statewide",
     "date": "2026-11-12",
+    "time": "09:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-10-28",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 230
+    "candidates": 230,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-25",
@@ -4074,11 +4097,12 @@
     "dept": "Information and Public Relations",
     "scope": "Statewide",
     "date": "2026-11-12",
+    "time": "09:00",
     "mode": "Online",
     "medium": "Part I, II, III, V, VI – M/T/K; Part IV – English",
     "admissionFrom": "2026-10-28",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 10
+    "candidates": 10,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-26",
@@ -4088,11 +4112,12 @@
     "dept": "Health Services",
     "scope": "Statewide",
     "date": "2026-11-12",
+    "time": "09:00",
     "mode": "Online",
     "medium": "English",
     "admissionFrom": "2026-10-28",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 974
+    "candidates": 974,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-27",
@@ -4102,11 +4127,12 @@
     "dept": "Excise",
     "scope": "Statewide",
     "date": "2026-11-17",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "Part I, II, III & VI – English & M/T/K; Part IV – English; Part V – M/T/K",
     "admissionFrom": "2026-11-02",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 28156
+    "candidates": 28156,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-28",
@@ -4116,11 +4142,12 @@
     "dept": "Excise",
     "scope": "Statewide",
     "date": "2026-11-17",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "Part I, II, III & VI – English & M/T/K; Part IV – English; Part V – M/T/K",
     "admissionFrom": "2026-11-02",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 394
+    "candidates": 394,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-29",
@@ -4130,11 +4157,12 @@
     "dept": "Technical Education Department",
     "scope": "Statewide",
     "date": "2026-11-18",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-11-03",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 6110
+    "candidates": 6110,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-30",
@@ -4144,11 +4172,12 @@
     "dept": "Insurance Medical Services",
     "scope": "Kannur",
     "date": "2026-11-19",
+    "time": "08:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-11-04",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 942
+    "candidates": 942,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-31",
@@ -4158,11 +4187,12 @@
     "dept": "General Education",
     "scope": "Thiruvananthapuram",
     "date": "2026-11-19",
+    "time": "08:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-11-04",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 123
+    "candidates": 123,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-32",
@@ -4172,11 +4202,12 @@
     "dept": "General Education",
     "scope": "Pathanamthitta",
     "date": "2026-11-19",
+    "time": "08:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-11-04",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 34
+    "candidates": 34,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-33",
@@ -4186,11 +4217,12 @@
     "dept": "General Education",
     "scope": "Ernakulam",
     "date": "2026-11-19",
+    "time": "08:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-11-04",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 101
+    "candidates": 101,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-34",
@@ -4200,11 +4232,12 @@
     "dept": "General Education",
     "scope": "Malappuram",
     "date": "2026-11-19",
+    "time": "08:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-11-04",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 315
+    "candidates": 315,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-35",
@@ -4214,11 +4247,12 @@
     "dept": "General Education",
     "scope": "Kozhikode",
     "date": "2026-11-19",
+    "time": "08:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-11-04",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 199
+    "candidates": 199,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-36",
@@ -4228,11 +4262,12 @@
     "dept": "General Education",
     "scope": "Kasargode",
     "date": "2026-11-19",
+    "time": "08:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-11-04",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 66
+    "candidates": 66,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-37",
@@ -4242,11 +4277,12 @@
     "dept": "General Education",
     "scope": "Palakkad",
     "date": "2026-11-19",
+    "time": "08:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-11-04",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 6
+    "candidates": 6,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-38",
@@ -4256,11 +4292,12 @@
     "dept": "General Education",
     "scope": "Kannur",
     "date": "2026-11-19",
+    "time": "08:00",
     "mode": "Online",
     "medium": "M/T/K",
     "admissionFrom": "2026-11-04",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 17
+    "candidates": 17,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-39",
@@ -4270,11 +4307,12 @@
     "dept": "Legal Metrology",
     "scope": "Statewide",
     "date": "2026-11-21",
+    "time": "13:30",
     "mode": "OMR",
     "medium": "Part I, II, III, V, VI – M/T/K; Part IV – English",
     "admissionFrom": "2026-11-06",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 6755
+    "candidates": 6755,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-40",
@@ -4284,11 +4322,12 @@
     "dept": "Legal Metrology",
     "scope": "Statewide",
     "date": "2026-11-21",
+    "time": "13:30",
     "mode": "OMR",
     "medium": "Part I, II, III, V, VI – M/T/K; Part IV – English",
     "admissionFrom": "2026-11-06",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 188405
+    "candidates": 188405,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-41",
@@ -4314,11 +4353,12 @@
     "dept": "Kerala State Backward Classes Development Corporation",
     "scope": "Statewide",
     "date": "2026-11-24",
+    "time": "09:00",
     "mode": "Online",
     "medium": "English",
     "admissionFrom": "2026-11-09",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 252
+    "candidates": 252,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-43",
@@ -4328,11 +4368,12 @@
     "dept": "Printing",
     "scope": "Ernakulam",
     "date": "2026-11-24",
+    "time": "09:00",
     "mode": "Online",
     "medium": "English",
     "admissionFrom": "2026-11-09",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 614
+    "candidates": 614,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-44",
@@ -4342,11 +4383,12 @@
     "dept": "Printing",
     "scope": "Wayanad",
     "date": "2026-11-24",
+    "time": "09:00",
     "mode": "Online",
     "medium": "English",
     "admissionFrom": "2026-11-09",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 194
+    "candidates": 194,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-45",
@@ -4356,11 +4398,12 @@
     "dept": "Printing",
     "scope": "Kannur",
     "date": "2026-11-24",
+    "time": "09:00",
     "mode": "Online",
     "medium": "English",
     "admissionFrom": "2026-11-09",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 178
+    "candidates": 178,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-46",
@@ -4370,11 +4413,12 @@
     "dept": "Kerala Police",
     "scope": "Statewide",
     "date": "2026-11-25",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-11-10",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 10
+    "candidates": 10,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-47",
@@ -4384,11 +4428,12 @@
     "dept": "Kerala Police",
     "scope": "Statewide",
     "date": "2026-11-25",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-11-10",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 6
+    "candidates": 6,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-48",
@@ -4398,11 +4443,12 @@
     "dept": "Kerala Police",
     "scope": "Statewide",
     "date": "2026-11-25",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-11-10",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 3
+    "candidates": 3,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-49",
@@ -4412,11 +4458,12 @@
     "dept": "Kerala Police",
     "scope": "Statewide",
     "date": "2026-11-25",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-11-10",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 2
+    "candidates": 2,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-50",
@@ -4426,11 +4473,12 @@
     "dept": "Kerala Police",
     "scope": "Statewide",
     "date": "2026-11-25",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-11-10",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 2
+    "candidates": 2,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-51",
@@ -4440,11 +4488,12 @@
     "dept": "Kerala Police",
     "scope": "Statewide",
     "date": "2026-11-25",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-11-10",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 7
+    "candidates": 7,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-52",
@@ -4454,11 +4503,12 @@
     "dept": "Kerala Police",
     "scope": "Statewide",
     "date": "2026-11-25",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-11-10",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 2
+    "candidates": 2,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-53",
@@ -4468,11 +4518,12 @@
     "dept": "Kerala Police",
     "scope": "Statewide",
     "date": "2026-11-25",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-11-10",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 16091
+    "candidates": 16091,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-54",
@@ -4482,11 +4533,12 @@
     "dept": "Kerala Police",
     "scope": "Statewide",
     "date": "2026-11-25",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "M/T/K",
     "admissionFrom": "2026-11-10",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 100
+    "candidates": 100,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-55",
@@ -4496,11 +4548,12 @@
     "dept": "Agriculture Development and Farmers' Welfare Department",
     "scope": "Alapuzha",
     "date": "2026-11-26",
+    "time": "09:00",
     "mode": "Online",
     "medium": "English",
     "admissionFrom": "2026-11-11",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 311
+    "candidates": 311,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-56",
@@ -4510,11 +4563,12 @@
     "dept": "Agriculture Development and Farmers' Welfare Department",
     "scope": "Palakkad",
     "date": "2026-11-26",
+    "time": "09:00",
     "mode": "Online",
     "medium": "English",
     "admissionFrom": "2026-11-11",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 166
+    "candidates": 166,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-57",
@@ -4524,11 +4578,12 @@
     "dept": "Agriculture Development and Farmers' Welfare Department",
     "scope": "Kozhikode",
     "date": "2026-11-26",
+    "time": "09:00",
     "mode": "Online",
     "medium": "English",
     "admissionFrom": "2026-11-11",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 109
+    "candidates": 109,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-58",
@@ -4538,11 +4593,12 @@
     "dept": "Agriculture Development and Farmers' Welfare Department",
     "scope": "Kasargode",
     "date": "2026-11-26",
+    "time": "09:00",
     "mode": "Online",
     "medium": "English",
     "admissionFrom": "2026-11-11",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 42
+    "candidates": 42,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-59",
@@ -4552,11 +4608,12 @@
     "dept": "Ayurveda Medical Education",
     "scope": "Thiruvananthapuram",
     "date": "2026-11-27",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-11-12",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 2685
+    "candidates": 2685,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-60",
@@ -4566,11 +4623,12 @@
     "dept": "Health Services",
     "scope": "Kozhikode",
     "date": "2026-11-27",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-11-12",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 38
+    "candidates": 38,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-61",
@@ -4580,11 +4638,12 @@
     "dept": "Health Services",
     "scope": "Thrissur",
     "date": "2026-11-27",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-11-12",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 450
+    "candidates": 450,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-62",
@@ -4594,11 +4653,12 @@
     "dept": "Health Services",
     "scope": "Statewide",
     "date": "2026-11-27",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-11-12",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 25
+    "candidates": 25,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-63",
@@ -4608,11 +4668,12 @@
     "dept": "Health Services",
     "scope": "Statewide",
     "date": "2026-11-27",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-11-12",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 24
+    "candidates": 24,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-64",
@@ -4638,11 +4699,12 @@
     "dept": "Insurance Medical Services",
     "scope": "Kottayam",
     "date": "2026-11-27",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-11-12",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 1551
+    "candidates": 1551,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-66",
@@ -4652,11 +4714,12 @@
     "dept": "Insurance Medical Services",
     "scope": "Thrissur",
     "date": "2026-11-27",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-11-12",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 1530
+    "candidates": 1530,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-67",
@@ -4666,11 +4729,12 @@
     "dept": "Oil Palm India Ltd",
     "scope": "Statewide",
     "date": "2026-11-27",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-11-12",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 471
+    "candidates": 471,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-68",
@@ -4680,11 +4744,12 @@
     "dept": "Homoeopathy",
     "scope": "Statewide",
     "date": "2026-11-27",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-11-12",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 4483
+    "candidates": 4483,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "nov-69",
@@ -4694,11 +4759,12 @@
     "dept": "Medical Education",
     "scope": "Statewide",
     "date": "2026-11-27",
+    "time": "07:00",
     "mode": "OMR",
     "medium": "English",
     "admissionFrom": "2026-11-12",
-    "duration": "1 Hour 30 Minutes",
-    "candidates": 25
+    "candidates": 25,
+    "duration": "1 Hour 30 Minutes"
   },
   {
     "id": "dec-01",
