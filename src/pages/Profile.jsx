@@ -328,10 +328,10 @@ export default function Profile() {
           <div className="text-xs mb-3" style={{ color: 'var(--text2)' }}>
             What pops up when you get an answer right. Tap one to preview it.
           </div>
-          <div className="flex gap-2">
+          <div className="grid grid-cols-3 gap-2">
             {CELEBRATION_OPTIONS.map(o => (
               <button key={o.id} onClick={() => chooseCelebration(o.id)} title={o.title}
-                className="flex-1 py-2 rounded-lg text-sm font-medium"
+                className="py-2 rounded-lg text-sm font-medium"
                 style={{
                   background: celebration === o.id ? 'var(--accent)' : 'var(--bg2)',
                   color: celebration === o.id ? 'var(--accent-text)' : 'var(--text)',

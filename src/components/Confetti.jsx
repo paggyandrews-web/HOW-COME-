@@ -94,7 +94,7 @@ function drawEmber(ctx, p) {
  *                                  confetti, reserved for streak milestones.
  *                                  'answer' plays the person's chosen
  *                                  correct-answer celebration (Settings):
- *                                  Christmas, Diwali or confetti.
+ *                                  Christmas, Diwali, Onam, Vishu or confetti.
  *
  * Haptic + sound feedback only fires for tier="big" or variant="fire" —
  * routine per-answer confetti already gets a tap-vibration from the answer
@@ -129,7 +129,7 @@ export default function Confetti({ active, tier = 'normal', variant = 'confetti'
     }
 
     const pick = variant === 'answer' ? getCelebrationPref() : null
-    if (pick === 'christmas' || pick === 'diwali') {
+    if (pick && pick !== 'confetti') {
       const stop = startFireworks(canvas, ctx, { theme: pick })
       return () => {
         stop()
