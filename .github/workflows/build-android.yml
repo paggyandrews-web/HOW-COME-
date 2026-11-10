@@ -3,6 +3,10 @@ name: Build HOW COME? WebView APK
 on:
   workflow_dispatch:
 
+# Needed so the last step can create the GitHub Release with the APK.
+permissions:
+  contents: write
+
 jobs:
   build:
     name: Build, Sign and Release APK

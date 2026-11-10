@@ -103,6 +103,12 @@ public class MainActivity extends Activity {
                 if (url.startsWith("https://how-come.vercel.app")) {
                     return false;
                 }
+                // Links to the public domain (howcome.in) stay inside the app.
+                String inApp = toAppUrl(uri);
+                if (inApp != null) {
+                    view.loadUrl(inApp);
+                    return true;
+                }
                 // External link (e.g. the PSC Thulasi confirmation portal) —
                 // hand it off to the device's own browser instead of silently
                 // swallowing the navigation.
@@ -140,18 +146,27 @@ public class MainActivity extends Activity {
         }
     }
 
-    // Returns the tapped how-come.vercel.app URL, or null for a normal launch.
+    // Returns the URL to open for a tapped link, or null for a normal launch.
     private String getDeepLink(Intent intent) {
         if (intent == null || !Intent.ACTION_VIEW.equals(intent.getAction())) {
             return null;
         }
-        Uri data = intent.getData();
-        if (data == null) return null;
-        if (!"https".equals(data.getScheme())
-                || !"how-come.vercel.app".equals(data.getHost())) {
+        return toAppUrl(intent.getData());
+    }
+
+    // Shared links use the public domain (https://howcome.in/papers/...), but
+    // the app runs on how-come.vercel.app — where the user's login and saved
+    // progress live. Open the same page on the app's own domain.
+    private static String toAppUrl(Uri data) {
+        if (data == null || !"https".equals(data.getScheme())) return null;
+        String host = data.getHost();
+        if (host == null) return null;
+        if (!host.equals("how-come.vercel.app")
+                && !host.equals("howcome.in")
+                && !host.equals("www.howcome.in")) {
             return null;
         }
-        return data.toString();
+        return data.buildUpon().authority("how-come.vercel.app").build().toString();
     }
 
     @Override

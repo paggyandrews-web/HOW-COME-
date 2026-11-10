@@ -24,16 +24,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
 
-            <!-- Android App Links: tapping a how-come.vercel.app link (e.g. a
+            <!-- Android App Links: tapping a howcome.in / how-come.vercel.app link (e.g. a
                  question paper shared on Telegram) opens it inside this app
                  instead of a browser. Verified via
-                 https://how-come.vercel.app/.well-known/assetlinks.json -->
+                 /.well-known/assetlinks.json on both domains -->
             <intent-filter android:autoVerify="true">
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
                 <data android:scheme="https" />
                 <data android:host="how-come.vercel.app" />
+                <data android:host="howcome.in" />
             </intent-filter>
         </activity>
 
