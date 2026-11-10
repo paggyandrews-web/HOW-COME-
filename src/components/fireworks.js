@@ -5,8 +5,9 @@
 // Two themes:
 //   'diwali'    — multicolour round sparks
 //   'christmas' — two crackers that burst into baubles, shiny stars, candy
-//                 canes and gift boxes; Santa flies up in his sleigh beside
-//                 them; red tinsel garlands drop in from the top
+//                 canes and gift boxes
+//                 (Santa's sleigh and top garlands are still available via
+//                 santa: true / garlands: true on a theme, but are off)
 //   'onam'      — bursts open like a pookalam: rings of petals (yellow
 //                 inside, orange / red / purple outside), petals drifting down
 //   'vishu'     — golden crackers with kani-konna flowers falling
@@ -29,8 +30,6 @@ const THEMES = {
     spark: 'ornaments',
     rockets_n: 2,
     fall: null,
-    santa: true,
-    garlands: true,
   },
   onam: {
     rockets: ['#ff8c00', '#f4b400', '#d7263d'],
