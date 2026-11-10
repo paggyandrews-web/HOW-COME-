@@ -4,8 +4,9 @@
 //
 // Two themes:
 //   'diwali'    — multicolour round sparks
-//   'christmas' — one big cracker that bursts into baubles, shiny stars,
-//                 candy canes and gift boxes, with snowflakes drifting down
+//   'christmas' — two crackers that burst into baubles, shiny stars, candy
+//                 canes and gift boxes; Santa flies up in his sleigh beside
+//                 them; red tinsel garlands drop in from the top
 //   'onam'      — bursts open like a pookalam: rings of petals (yellow
 //                 inside, orange / red / purple outside), petals drifting down
 //   'vishu'     — golden crackers with kani-konna flowers falling
@@ -26,8 +27,10 @@ const THEMES = {
     sparks: ['#e63946', '#ff4d5e', '#2a9d58', '#3cc46f', '#f4b400', '#ffd54a'],
     glitter: '#ffd54a',
     spark: 'ornaments',
-    rockets_n: 1,
-    fall: 'snow',
+    rockets_n: 2,
+    fall: null,
+    santa: true,
+    garlands: true,
   },
   onam: {
     rockets: ['#ff8c00', '#f4b400', '#d7263d'],
@@ -184,6 +187,115 @@ function ornament(ctx, o, alpha, t) {
   ctx.restore()
 }
 
+// ── Santa in his sleigh (drawn facing right, origin at the sleigh centre) ──
+function santaSleigh(ctx, u, wave) {
+  // runner
+  ctx.strokeStyle = '#d4a017'; ctx.lineWidth = 2.4 * u; ctx.lineCap = 'round'
+  ctx.beginPath()
+  ctx.moveTo(-20 * u, 13 * u); ctx.lineTo(16 * u, 13 * u)
+  ctx.quadraticCurveTo(26 * u, 13 * u, 24 * u, 4 * u)
+  ctx.moveTo(-10 * u, 7 * u); ctx.lineTo(-10 * u, 13 * u)
+  ctx.moveTo(8 * u, 7 * u); ctx.lineTo(8 * u, 13 * u)
+  ctx.stroke()
+  // Santa (sits behind the sleigh front)
+  // body
+  ctx.fillStyle = '#d62828'
+  ctx.beginPath(); ctx.ellipse(-3 * u, -6 * u, 9 * u, 10 * u, 0, 0, Math.PI * 2); ctx.fill()
+  // waving arm
+  ctx.save()
+  ctx.translate(2 * u, -11 * u); ctx.rotate(-0.9 + wave * 0.5)
+  ctx.fillStyle = '#d62828'
+  ctx.fillRect(0, -2.6 * u, 11 * u, 5.2 * u)
+  ctx.fillStyle = '#ffffff'; ctx.fillRect(9 * u, -3 * u, 2.2 * u, 6 * u)
+  ctx.fillStyle = '#1b1b1b'
+  ctx.beginPath(); ctx.arc(13.5 * u, 0, 2.8 * u, 0, Math.PI * 2); ctx.fill()
+  ctx.restore()
+  // face
+  ctx.fillStyle = '#f5c6a0'
+  ctx.beginPath(); ctx.arc(-2 * u, -20 * u, 6 * u, 0, Math.PI * 2); ctx.fill()
+  // beard
+  ctx.fillStyle = '#ffffff'
+  ctx.beginPath()
+  ctx.moveTo(-8 * u, -20 * u)
+  ctx.quadraticCurveTo(-7 * u, -8 * u, -1 * u, -9 * u)
+  ctx.quadraticCurveTo(5 * u, -10 * u, 4.5 * u, -19 * u)
+  ctx.quadraticCurveTo(-2 * u, -15 * u, -8 * u, -20 * u)
+  ctx.fill()
+  // eye + nose
+  ctx.fillStyle = '#1b1b1b'
+  ctx.beginPath(); ctx.arc(1 * u, -21.5 * u, 0.9 * u, 0, Math.PI * 2); ctx.fill()
+  ctx.fillStyle = '#e88b7a'
+  ctx.beginPath(); ctx.arc(3.6 * u, -19.5 * u, 1.4 * u, 0, Math.PI * 2); ctx.fill()
+  // hat, flopping back
+  ctx.fillStyle = '#d62828'
+  ctx.beginPath()
+  ctx.moveTo(-8.5 * u, -23 * u)
+  ctx.quadraticCurveTo(-4 * u, -35 * u, -15 * u, -33 * u)
+  ctx.lineTo(4.5 * u, -24 * u)
+  ctx.closePath(); ctx.fill()
+  ctx.fillStyle = '#ffffff'
+  ctx.beginPath(); ctx.arc(-15.5 * u, -33 * u, 2.6 * u, 0, Math.PI * 2); ctx.fill()
+  ctx.beginPath(); ctx.ellipse(-2 * u, -24 * u, 7.5 * u, 2.4 * u, -0.1, 0, Math.PI * 2); ctx.fill()
+  // sleigh body (in front of Santa)
+  const g = ctx.createLinearGradient(0, -4 * u, 0, 10 * u)
+  g.addColorStop(0, '#e63946'); g.addColorStop(1, '#a4161a')
+  ctx.fillStyle = g
+  ctx.beginPath()
+  ctx.moveTo(-22 * u, -6 * u)
+  ctx.quadraticCurveTo(-20 * u, 9 * u, -6 * u, 9 * u)
+  ctx.lineTo(14 * u, 9 * u)
+  ctx.quadraticCurveTo(22 * u, 6 * u, 21 * u, -4 * u)
+  ctx.quadraticCurveTo(18 * u, 0, 12 * u, 0)
+  ctx.lineTo(-12 * u, 0)
+  ctx.quadraticCurveTo(-16 * u, -1 * u, -22 * u, -6 * u)
+  ctx.fill()
+  ctx.strokeStyle = '#d4a017'; ctx.lineWidth = 1.6 * u
+  ctx.beginPath(); ctx.moveTo(-17 * u, 4 * u); ctx.lineTo(15 * u, 4 * u); ctx.stroke()
+  // sack of gifts poking out the back
+  ctx.fillStyle = '#7a4a2a'
+  ctx.beginPath(); ctx.ellipse(-17 * u, -8 * u, 6 * u, 7 * u, -0.3, 0, Math.PI * 2); ctx.fill()
+  ctx.fillStyle = '#2a9d58'; ctx.fillRect(-20 * u, -18 * u, 6 * u, 6 * u)
+  ctx.fillStyle = '#f4d35e'; ctx.fillRect(-17.6 * u, -18 * u, 1.2 * u, 6 * u)
+}
+
+// ── Red tinsel garland swag between two points, sagging in the middle ──
+function garland(ctx, x0, x1, y, sag, u, t) {
+  const pts = []
+  const N = 34
+  for (let i = 0; i <= N; i++) {
+    const f = i / N
+    pts.push([x0 + (x1 - x0) * f, y + sag * 4 * f * (1 - f)])
+  }
+  // fluffy tinsel: a thick core plus short fringe strands
+  ctx.lineCap = 'round'
+  ctx.strokeStyle = '#b5121b'; ctx.lineWidth = 9 * u
+  ctx.beginPath(); pts.forEach(([x, yy], i) => (i ? ctx.lineTo(x, yy) : ctx.moveTo(x, yy))); ctx.stroke()
+  ctx.lineWidth = 1.6 * u
+  for (let i = 0; i < pts.length - 1; i++) {
+    const [x, yy] = pts[i]
+    for (let k = 0; k < 3; k++) {
+      const a = (i * 2.399 + k * 2.1) % (Math.PI * 2)
+      const L = (5 + ((i * 7 + k * 3) % 4)) * u
+      ctx.strokeStyle = (i + k) % 3 === 0 ? '#ff6b6b' : (i + k) % 3 === 1 ? '#e63946' : '#ff9aa2'
+      ctx.beginPath(); ctx.moveTo(x, yy); ctx.lineTo(x + Math.cos(a) * L, yy + Math.sin(a) * L); ctx.stroke()
+    }
+  }
+  // shimmer highlights travelling along the garland
+  ctx.fillStyle = '#ffd6d6'
+  for (let i = 0; i < pts.length; i += 4) {
+    const tw = 0.5 + 0.5 * Math.sin(t * 0.012 + i)
+    ctx.globalAlpha *= 1
+    ctx.beginPath(); ctx.arc(pts[i][0], pts[i][1] - 2 * u, 1.3 * u * tw, 0, Math.PI * 2); ctx.fill()
+  }
+  // gold bead at the lowest point, with a tiny bauble hanging off it
+  const mid = pts[N / 2]
+  ctx.strokeStyle = '#d4a017'; ctx.lineWidth = 1.2 * u
+  ctx.beginPath(); ctx.moveTo(mid[0], mid[1]); ctx.lineTo(mid[0], mid[1] + 10 * u); ctx.stroke()
+  ctx.save(); ctx.translate(mid[0], mid[1] + 17 * u)
+  bauble(ctx, 6 * u, '#d4a017')
+  ctx.restore()
+}
+
 // A single flower petal, pointed along its direction of travel
 function petal(ctx, x, y, r, color, alpha, rot) {
   if (alpha <= 0.01) return
@@ -239,10 +351,27 @@ export function startFireworks(canvas, ctx, { rockets: rocketsOpt, theme = 'diwa
   const W = canvas.width, H = canvas.height
   const unit = Math.min(W, H) / 400            // scales sizes to the screen
 
+  // Santa takes off from the bottom-left and flies up past the top-right
+  const santa = T.santa ? {
+    sx: W * rand(0.08, 0.18), sy: H + 40 * unit,
+    ex: W * rand(0.82, 0.95), ey: -110 * unit,
+    trail: [], dur: 1800,
+  } : null
+
+  // Garland swags drop in from above the top edge and bounce into place
+  const swags = []
+  if (T.garlands) {
+    const n = W > 700 ? 4 : 3
+    const span = W / n
+    for (let i = 0; i < n; i++) {
+      swags.push({ x0: i * span - 6 * unit, x1: (i + 1) * span + 6 * unit, sag: rand(26, 36) * unit, delay: i * 70 })
+    }
+  }
+
   // Snowflakes fall from above the top edge for the length of the show
   const flakes = []
   if (T.fall) {
-    const n = Math.round((T.fall === 'snow' ? 14 : 10) + W / (T.fall === 'snow' ? 40 : 55))
+    const n = Math.round((T.fall === 'snow' ? 8 : 10) + W / (T.fall === 'snow' ? 60 : 55))
     for (let i = 0; i < n; i++) {
       flakes.push({
         x: rand(0, W), y: rand(-H * 0.12, H * 0.1),
@@ -318,7 +447,7 @@ export function startFireworks(canvas, ctx, { rockets: rocketsOpt, theme = 'diwa
         if (T.spark === 'ornaments') {
           // One burst of ornaments, flung out in a ring, then tumbling down
           const kinds = ['bauble', 'bauble', 'bauble', 'star', 'star', 'star', 'cane', 'cane', 'gift']
-          const n = Math.round(16 + W / 65)
+          const n = Math.round(11 + W / 90)
           for (let k = 0; k < n; k++) {
             const ang = (k / n) * Math.PI * 2 + rand(-0.2, 0.2)
             const sp = rand(4, 10) * unit
@@ -421,6 +550,57 @@ export function startFireworks(canvas, ctx, { rockets: rocketsOpt, theme = 'diwa
         } else {
           glowDot(ctx, s.x, s.y, s.r * (1 - p * 0.4), s.color, fade * twinkle)
         }
+      }
+    }
+
+    // Garlands: drop in with a springy bounce, sway gently, fade at the end
+    const SHOW_END = 2050
+    for (const g of swags) {
+      const gt = t - g.delay
+      if (gt < 0) { alive = true; continue }
+      if (gt > SHOW_END) continue
+      alive = true
+      const d = Math.min(1, gt / 520)
+      // spring: overshoots slightly then settles
+      const spring = 1 - Math.exp(-6 * d) * Math.cos(9 * d)
+      const y = -95 * unit + (95 + 6) * unit * spring
+      const sway = Math.sin(gt * 0.004 + g.x0) * 3 * unit
+      const fade = gt > SHOW_END - 350 ? (SHOW_END - gt) / 350 : 1
+      ctx.save(); ctx.globalAlpha = fade
+      garland(ctx, g.x0, g.x1, y, g.sag + sway, unit, gt)
+      ctx.restore()
+    }
+
+    // Santa flies up alongside the crackers, leaving a gold sparkle trail
+    if (santa) {
+      for (const d of santa.trail) {
+        d.age += dt
+        const a = 1 - d.age / d.life
+        if (a > 0) { alive = true; glowDot(ctx, d.x, d.y, d.r, d.color, a) }
+      }
+      if (t < santa.dur) {
+        alive = true
+        const p = t / santa.dur
+        const e = p < 0.5 ? 2 * p * p : 1 - Math.pow(-2 * p + 2, 2) / 2   // ease in-out
+        const x = santa.sx + (santa.ex - santa.sx) * e + Math.sin(p * 9) * 6 * unit
+        const y = santa.sy + (santa.ey - santa.sy) * e
+        const dx = santa.ex - santa.sx, dy = santa.ey - santa.sy
+        const heading = Math.atan2(dy, dx) * 0.55                          // nose up, but not vertical
+        santa.emit = (santa.emit || 0) + dt * 2
+        for (; santa.emit >= 1; santa.emit--) {
+          santa.trail.push({
+            x: x - Math.cos(heading) * 44 * unit + rand(-5, 5) * unit,
+            y: y - Math.sin(heading) * 44 * unit + 20 * unit + rand(-5, 5) * unit,
+            r: rand(1.8, 3.4) * unit, age: 0, life: rand(16, 30),
+            color: pick(['#ffd54a', '#fff3a0', '#ffc400']),
+          })
+        }
+        ctx.save()
+        ctx.translate(x, y); ctx.rotate(heading)
+        const sc = 2.1
+        ctx.scale(sc, sc)
+        santaSleigh(ctx, unit, Math.sin(t * 0.018))
+        ctx.restore()
       }
     }
 

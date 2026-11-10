@@ -4,7 +4,7 @@
 const STORAGE_KEY = 'cs-celebration'
 
 export const CELEBRATION_OPTIONS = [
-  { id: 'christmas', label: '🎄 Christmas', title: 'One cracker that bursts into baubles, stars, candy canes and gifts, with falling snow' },
+  { id: 'christmas', label: '🎄 Christmas', title: 'One cracker that bursts into baubles, stars, candy canes and gifts,' },
   { id: 'diwali', label: '🎆 Diwali', title: 'Colourful crackers that burst into sparks' },
   { id: 'onam', label: '🌸 Onam', title: 'Crackers that open like a pookalam, with petals drifting down' },
   { id: 'vishu', label: '🌼 Vishu', title: 'Golden crackers with kani-konna flowers falling' },
