@@ -7,6 +7,8 @@ import { isVibrationEnabled, setVibrationEnabled, tap } from '../utils/haptics'
 import { isSoundEnabled, setSoundEnabled, playChime } from '../utils/sound'
 import { enablePushNotifications, getNotificationPermission, isPushSupported } from '../utils/notifications'
 import { FULL100_LANG_OPTIONS, getFull100LangPref, setFull100LangPref } from '../utils/full100Lang'
+import { CELEBRATION_OPTIONS, getCelebrationPref, setCelebrationPref } from '../utils/celebration'
+import Confetti from '../components/Confetti'
 import {
   REVISION_GAP_OPTIONS, DEFAULT_REVISION_GAPS,
   getRevisionGapsPref, setRevisionGapsPref, cumulativeRevisionDays, activeRevisionStages,
@@ -173,12 +175,15 @@ export default function Profile() {
   const [vibration, setVibration] = useState(true)
   const [sound, setSound] = useState(true)
   const [full100Lang, setFull100Lang] = useState('both')
+  const [celebration, setCelebration] = useState('christmas')
+  const [celebrationPreview, setCelebrationPreview] = useState(0)
   const [revisionGaps, setRevisionGaps] = useState(DEFAULT_REVISION_GAPS)
   const [revisionEnabled, setRevisionEnabled] = useState(true)
   useEffect(() => {
     setVibration(isVibrationEnabled())
     setSound(isSoundEnabled())
     setFull100Lang(getFull100LangPref())
+    setCelebration(getCelebrationPref())
     setRevisionGaps(getRevisionGapsPref())
     setRevisionEnabled(isRevisionScheduleEnabled())
   }, [])
@@ -210,6 +215,14 @@ export default function Profile() {
     setSoundEnabled(next)
     setSound(next)
     if (next) playChime('normal') // little confirmation chime
+  }
+
+  // Picking a celebration plays it once as a preview. The counter re-keys
+  // the Confetti component so tapping the same option again replays it.
+  function chooseCelebration(next) {
+    setCelebrationPref(next)
+    setCelebration(next)
+    setCelebrationPreview(n => n + 1)
   }
 
   function chooseFull100Lang(next) {
@@ -309,6 +322,29 @@ export default function Profile() {
           checked={sound}
           onChange={toggleSound}
         />
+
+        <div className="py-3" style={{ borderBottom: '1px solid var(--border)' }}>
+          <div className="text-sm font-medium mb-0.5">Correct-answer celebration</div>
+          <div className="text-xs mb-3" style={{ color: 'var(--text2)' }}>
+            What pops up when you get an answer right. Tap one to preview it.
+          </div>
+          <div className="flex gap-2">
+            {CELEBRATION_OPTIONS.map(o => (
+              <button key={o.id} onClick={() => chooseCelebration(o.id)} title={o.title}
+                className="flex-1 py-2 rounded-lg text-sm font-medium"
+                style={{
+                  background: celebration === o.id ? 'var(--accent)' : 'var(--bg2)',
+                  color: celebration === o.id ? 'var(--accent-text)' : 'var(--text)',
+                  border: '1px solid ' + (celebration === o.id ? 'var(--accent)' : 'var(--border)'),
+                }}>
+                {o.label}
+              </button>
+            ))}
+          </div>
+          {celebrationPreview > 0 && (
+            <Confetti key={celebrationPreview} active variant="answer" />
+          )}
+        </div>
 
         {pushPermission !== 'unsupported' && (
           <div className="flex items-center justify-between gap-3 py-3"

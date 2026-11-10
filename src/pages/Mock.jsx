@@ -454,13 +454,13 @@ function ExamScreen({ paper, questions, onSubmit, practice = false }) {
     if (practice && letter === q.correctAnswer) {
       setShowConfetti(true)
       playChime('normal')
-      setTimeout(() => setShowConfetti(false), 2000)
+      setTimeout(() => setShowConfetti(false), 2200)
     }
   }
 
   return (
     <div className="max-w-3xl mx-auto px-4 py-4 pb-28">
-      <Confetti active={showConfetti} variant="fireworks" />
+      <Confetti active={showConfetti} variant="answer" />
       {/* Header: timer + progress */}
       <div className="flex items-center justify-between mb-3 sticky top-14 z-10 rounded-lg px-3 py-2"
         style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>

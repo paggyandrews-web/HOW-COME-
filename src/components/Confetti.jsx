@@ -2,6 +2,7 @@ import { useEffect, useRef } from 'react'
 import { playChime } from '../utils/sound'
 import { isVibrationEnabled } from '../utils/haptics'
 import { startFireworks } from './fireworks'
+import { getCelebrationPref } from '../utils/celebration'
 
 const COLORS = ['#ff6b6b', '#ffd93d', '#6bcb77', '#4d96ff', '#ff922b', '#cc5de8', '#20c997']
 const GOLD_COLORS = ['#ffd700', '#ffc107', '#ffab00', '#fff176', '#ff6b6b', '#4d96ff']
@@ -91,8 +92,9 @@ function drawEmber(ctx, p) {
  *   variant ('confetti'|'fire'|'fireworks')
  *                               — 'fire' renders drifting embers instead of
  *                                  confetti, reserved for streak milestones.
- *                                  'fireworks' shoots rockets that pop into
- *                                  sparks, used for a correct answer.
+ *                                  'answer' plays the person's chosen
+ *                                  correct-answer celebration (Settings):
+ *                                  Christmas, Diwali or confetti.
  *
  * Haptic + sound feedback only fires for tier="big" or variant="fire" —
  * routine per-answer confetti already gets a tap-vibration from the answer
@@ -126,8 +128,9 @@ export default function Confetti({ active, tier = 'normal', variant = 'confetti'
       playChime('normal')
     }
 
-    if (variant === 'fireworks') {
-      const stop = startFireworks(canvas, ctx)
+    const pick = variant === 'answer' ? getCelebrationPref() : null
+    if (pick === 'christmas' || pick === 'diwali') {
+      const stop = startFireworks(canvas, ctx, { theme: pick })
       return () => {
         stop()
         ctx.clearRect(0, 0, canvas.width, canvas.height)
