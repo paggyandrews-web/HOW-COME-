@@ -4,8 +4,8 @@
 //
 // Two themes:
 //   'diwali'    — multicolour round sparks
-//   'christmas' — red / green / gold rockets that pop into little stars,
-//                 with snowflakes drifting down from the top
+//   'christmas' — one big cracker that bursts into baubles, shiny stars,
+//                 candy canes and gift boxes, with snowflakes drifting down
 //   'onam'      — bursts open like a pookalam: rings of petals (yellow
 //                 inside, orange / red / purple outside), petals drifting down
 //   'vishu'     — golden crackers with kani-konna flowers falling
@@ -25,7 +25,8 @@ const THEMES = {
     rockets: ['#e63946', '#2a9d58', '#f4b400'],
     sparks: ['#e63946', '#ff4d5e', '#2a9d58', '#3cc46f', '#f4b400', '#ffd54a'],
     glitter: '#ffd54a',
-    spark: 'star',
+    spark: 'ornaments',
+    rockets_n: 1,
     fall: 'snow',
   },
   onam: {
@@ -97,6 +98,92 @@ function snowflake(ctx, x, y, r, alpha, rot) {
   ctx.restore()
 }
 
+// ── Christmas ornaments ──
+const BAUBLE_COLORS = ['#e63946', '#2a9d58', '#1f6feb', '#c0392b', '#8e44ad', '#f4b400']
+const GIFT_COLORS = [['#e63946', '#f4d35e'], ['#2a9d58', '#f4d35e'], ['#1f6feb', '#ffffff'], ['#f4b400', '#e63946']]
+
+function bauble(ctx, r, color) {
+  // hanging loop + gold cap
+  ctx.strokeStyle = '#b8860b'; ctx.lineWidth = Math.max(1, r * 0.12)
+  ctx.beginPath(); ctx.arc(0, -r * 1.22, r * 0.2, 0, Math.PI * 2); ctx.stroke()
+  ctx.fillStyle = '#d4a017'
+  ctx.fillRect(-r * 0.32, -r * 1.12, r * 0.64, r * 0.3)
+  // shiny ball
+  const g = ctx.createRadialGradient(-r * 0.35, -r * 0.35, r * 0.1, 0, 0, r)
+  g.addColorStop(0, '#ffffff'); g.addColorStop(0.25, color); g.addColorStop(1, color)
+  ctx.fillStyle = g
+  ctx.beginPath(); ctx.arc(0, 0, r, 0, Math.PI * 2); ctx.fill()
+  ctx.strokeStyle = 'rgba(0,0,0,0.18)'; ctx.lineWidth = Math.max(0.8, r * 0.08); ctx.stroke()
+  // a band of gold across the middle
+  ctx.strokeStyle = 'rgba(255,215,90,0.85)'; ctx.lineWidth = r * 0.16
+  ctx.beginPath(); ctx.ellipse(0, r * 0.1, r * 0.97, r * 0.28, 0, 0.15, Math.PI - 0.15); ctx.stroke()
+}
+
+function shinyStar(ctx, r, glint) {
+  ctx.beginPath()
+  for (let i = 0; i < 10; i++) {
+    const a = (i * Math.PI) / 5 - Math.PI / 2
+    const rr = i % 2 === 0 ? r * 1.25 : r * 0.52
+    const px = Math.cos(a) * rr, py = Math.sin(a) * rr
+    if (i === 0) ctx.moveTo(px, py); else ctx.lineTo(px, py)
+  }
+  ctx.closePath()
+  const g = ctx.createLinearGradient(-r, -r, r, r)
+  g.addColorStop(0, '#fff3a0'); g.addColorStop(0.5, '#ffc400'); g.addColorStop(1, '#e09b00')
+  ctx.fillStyle = g; ctx.fill()
+  ctx.strokeStyle = '#c47f00'; ctx.lineWidth = Math.max(0.8, r * 0.08); ctx.stroke()
+  // twinkling four-ray glint
+  if (glint > 0.05) {
+    ctx.globalAlpha *= glint
+    ctx.strokeStyle = '#ffffff'; ctx.lineWidth = Math.max(1, r * 0.12); ctx.lineCap = 'round'
+    const L = r * 1.6
+    ctx.beginPath(); ctx.moveTo(-L, 0); ctx.lineTo(L, 0); ctx.moveTo(0, -L); ctx.lineTo(0, L); ctx.stroke()
+  }
+}
+
+function candyCane(ctx, r) {
+  const w = r * 0.42
+  const path = () => {
+    ctx.beginPath()
+    ctx.moveTo(r * 0.3, r * 1.3)
+    ctx.lineTo(r * 0.3, -r * 0.45)
+    ctx.arc(-r * 0.25, -r * 0.45, r * 0.55, 0, Math.PI, true)
+    ctx.lineTo(-r * 0.8, -r * 0.15)
+  }
+  ctx.lineCap = 'round'
+  path(); ctx.strokeStyle = 'rgba(0,0,0,0.2)'; ctx.lineWidth = w + Math.max(1, r * 0.1); ctx.stroke()
+  path(); ctx.strokeStyle = '#ffffff'; ctx.lineWidth = w; ctx.stroke()
+  ctx.setLineDash([r * 0.32, r * 0.32])
+  path(); ctx.strokeStyle = '#e63946'; ctx.lineWidth = w; ctx.lineCap = 'butt'; ctx.stroke()
+  ctx.setLineDash([])
+}
+
+function gift(ctx, r, [box, ribbon]) {
+  const s = r * 0.9
+  ctx.fillStyle = box
+  ctx.fillRect(-s, -s * 0.7, s * 2, s * 1.7)
+  ctx.strokeStyle = 'rgba(0,0,0,0.2)'; ctx.lineWidth = Math.max(0.8, r * 0.08)
+  ctx.strokeRect(-s, -s * 0.7, s * 2, s * 1.7)
+  ctx.fillStyle = ribbon
+  ctx.fillRect(-s * 0.18, -s * 0.7, s * 0.36, s * 1.7)
+  ctx.fillRect(-s, s * 0.05, s * 2, s * 0.3)
+  // bow
+  ctx.beginPath(); ctx.ellipse(-s * 0.35, -s * 0.85, s * 0.35, s * 0.2, -0.5, 0, Math.PI * 2); ctx.fill()
+  ctx.beginPath(); ctx.ellipse(s * 0.35, -s * 0.85, s * 0.35, s * 0.2, 0.5, 0, Math.PI * 2); ctx.fill()
+}
+
+function ornament(ctx, o, alpha, t) {
+  if (alpha <= 0.01) return
+  ctx.save()
+  ctx.translate(o.x, o.y); ctx.rotate(o.rot)
+  ctx.globalAlpha = alpha
+  if (o.kind === 'bauble') bauble(ctx, o.r, o.color)
+  else if (o.kind === 'star') shinyStar(ctx, o.r, Math.max(0, Math.sin(t * 0.012 + o.ph)))
+  else if (o.kind === 'cane') candyCane(ctx, o.r)
+  else gift(ctx, o.r, o.gift)
+  ctx.restore()
+}
+
 // A single flower petal, pointed along its direction of travel
 function petal(ctx, x, y, r, color, alpha, rot) {
   if (alpha <= 0.01) return
@@ -145,8 +232,9 @@ function glowDot(ctx, x, y, r, color, alpha) {
   ctx.beginPath(); ctx.arc(x, y, r, 0, Math.PI * 2); ctx.fill()
 }
 
-export function startFireworks(canvas, ctx, { rockets: rocketCount = 3, theme = 'diwali' } = {}) {
+export function startFireworks(canvas, ctx, { rockets: rocketsOpt, theme = 'diwali' } = {}) {
   const T = THEMES[theme] || THEMES.diwali
+  const rocketCount = rocketsOpt || T.rockets_n || 3
   const ROCKET_COLORS = T.rockets, SPARK_COLORS = T.sparks
   const W = canvas.width, H = canvas.height
   const unit = Math.min(W, H) / 400            // scales sizes to the screen
@@ -169,11 +257,11 @@ export function startFireworks(canvas, ctx, { rockets: rocketCount = 3, theme = 
   for (let i = 0; i < rocketCount; i++) {
     // Spread the pops across the width so they don't stack on each other
     const slot = (i + 0.5) / rocketCount
-    const tx = W * (slot + rand(-0.1, 0.1))
-    const ty = H * rand(0.2, 0.42)
+    const tx = W * (slot + rand(-0.1, 0.1) / rocketCount)
+    const ty = rocketCount === 1 ? H * rand(0.3, 0.36) : H * rand(0.2, 0.42)
     rockets.push({
       delay: i * 90 + rand(0, 40),
-      sx: tx + rand(-0.22, 0.22) * W, sy: H + 10,
+      sx: tx + rand(-0.22, 0.22) * W / rocketCount, sy: H + 10,
       tx, ty,
       color: ROCKET_COLORS[(i + Math.floor(Math.random() * ROCKET_COLORS.length)) % ROCKET_COLORS.length],
       trail: [], sparks: null,
@@ -221,13 +309,38 @@ export function startFireworks(canvas, ctx, { rockets: rocketCount = 3, theme = 
             color: Math.random() < 0.3 ? T.glitter : r.color,
           })
         }
-        glowDot(ctx, x, y, 3.6 * unit, r.color, 1)
+        glowDot(ctx, x, y, (rocketCount === 1 ? 5.5 : 3.6) * unit, r.color, 1)
         continue
       }
 
       if (!r.sparks) {
         r.sparks = []
-        if (T.rings) {
+        if (T.spark === 'ornaments') {
+          // One burst of ornaments, flung out in a ring, then tumbling down
+          const kinds = ['bauble', 'bauble', 'bauble', 'star', 'star', 'star', 'cane', 'cane', 'gift']
+          const n = Math.round(16 + W / 65)
+          for (let k = 0; k < n; k++) {
+            const ang = (k / n) * Math.PI * 2 + rand(-0.2, 0.2)
+            const sp = rand(4, 10) * unit
+            const kind = kinds[k % kinds.length]
+            r.sparks.push({
+              ornament: true, kind,
+              x: r.tx, y: r.ty, vx: Math.cos(ang) * sp, vy: Math.sin(ang) * sp - 1.5 * unit,
+              r: (kind === 'star' ? rand(9.5, 13) : kind === 'cane' ? rand(12, 15.5) : rand(10, 13.5)) * unit,
+              rot: kind === 'bauble' ? rand(-0.4, 0.4) : rand(0, 6), spin: rand(-0.08, 0.08),
+              ph: rand(0, 6), color: pick(BAUBLE_COLORS), gift: pick(GIFT_COLORS),
+            })
+          }
+          // plus a sprinkle of gold glitter
+          for (let k = 0; k < 26; k++) {
+            const ang = rand(0, Math.PI * 2), sp = rand(2, 7) * unit
+            r.sparks.push({
+              x: r.tx, y: r.ty, vx: Math.cos(ang) * sp, vy: Math.sin(ang) * sp,
+              r: rand(1.6, 3) * unit, ph: rand(0, 6), life: rand(0.6, 1),
+              color: pick(['#ffd54a', '#ffffff', '#ffc400']),
+            })
+          }
+        } else if (T.rings) {
           // Pookalam: two neat rings of petals, inner and outer
           const rings = [[14, 2.6, 3.2], [22, 5.6, 6.4]]
           rings.forEach(([n, lo, hi], ri) => {
@@ -262,7 +375,7 @@ export function startFireworks(canvas, ctx, { rockets: rocketCount = 3, theme = 
       if (bt < 180) {
         alive = true
         const a = 1 - bt / 180
-        const rad = (30 + 70 * (bt / 180)) * unit
+        const rad = (30 + 70 * (bt / 180)) * unit * (rocketCount === 1 ? 1.5 : 1)
         const g = ctx.createRadialGradient(r.tx, r.ty, 0, r.tx, r.ty, rad)
         g.addColorStop(0, `rgba(255,236,170,${0.95 * a})`)
         g.addColorStop(0.3, `rgba(255,200,90,${0.5 * a})`)
@@ -273,6 +386,21 @@ export function startFireworks(canvas, ctx, { rockets: rocketCount = 3, theme = 
       }
 
       for (const s of r.sparks) {
+        if (s.ornament) {
+          const ORN_MS = 1500
+          if (bt >= ORN_MS) continue
+          alive = true
+          const drag = Math.pow(0.95, dt)
+          s.vx *= drag; s.vy = s.vy * drag + 0.22 * unit * dt   // flung out, then fall
+          s.x += s.vx * dt; s.y += s.vy * dt
+          s.rot += s.spin * dt
+          const p = bt / ORN_MS
+          const pop = Math.min(1, bt / 120)                       // grow in from the burst
+          s._r0 = s._r0 || s.r
+          const o = { ...s, r: s._r0 * (0.4 + 0.6 * pop) }
+          ornament(ctx, o, p < 0.65 ? 1 : 1 - (p - 0.65) / 0.35, bt)
+          continue
+        }
         const lifeMs = SPARK_MS * s.life
         if (bt >= lifeMs) continue
         alive = true
