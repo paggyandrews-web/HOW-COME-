@@ -1113,7 +1113,7 @@ export default function Quiz({ preset = null, onExit = null, exitLabel = 'New Qu
 
   return (
     <div className="max-w-2xl mx-auto px-4 py-6">
-      <Confetti active={showConfetti} />
+      <Confetti active={showConfetti} variant="fireworks" />
       {/* Header */}
       <div className="flex items-center justify-between gap-2 mb-3 text-sm sticky top-14 z-10 rounded-lg px-3 py-2 flex-wrap"
         style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>

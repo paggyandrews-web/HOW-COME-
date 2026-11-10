@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'react'
 import { playChime } from '../utils/sound'
 import { isVibrationEnabled } from '../utils/haptics'
+import { startFireworks } from './fireworks'
 
 const COLORS = ['#ff6b6b', '#ffd93d', '#6bcb77', '#4d96ff', '#ff922b', '#cc5de8', '#20c997']
 const GOLD_COLORS = ['#ffd700', '#ffc107', '#ffab00', '#fff176', '#ff6b6b', '#4d96ff']
@@ -87,8 +88,11 @@ function drawEmber(ctx, p) {
  *   active  (bool)              — set to true to fire the burst.
  *   tier    ('normal' | 'big')  — 'big' = more particles, faster, gold-tinted.
  *                                  Used for standout wins (perfect score, milestone).
- *   variant ('confetti'|'fire') — 'fire' renders drifting embers instead of
+ *   variant ('confetti'|'fire'|'fireworks')
+ *                               — 'fire' renders drifting embers instead of
  *                                  confetti, reserved for streak milestones.
+ *                                  'fireworks' shoots rockets that pop into
+ *                                  sparks, used for a correct answer.
  *
  * Haptic + sound feedback only fires for tier="big" or variant="fire" —
  * routine per-answer confetti already gets a tap-vibration from the answer
@@ -120,6 +124,14 @@ export default function Confetti({ active, tier = 'normal', variant = 'confetti'
     } else {
       if (navigator.vibrate && isVibrationEnabled()) navigator.vibrate(20)
       playChime('normal')
+    }
+
+    if (variant === 'fireworks') {
+      const stop = startFireworks(canvas, ctx)
+      return () => {
+        stop()
+        ctx.clearRect(0, 0, canvas.width, canvas.height)
+      }
     }
 
     let particles = []
