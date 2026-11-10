@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { useNavigate, Link } from 'react-router-dom'
+import { useNavigate, useLocation, Link } from 'react-router-dom'
 import { useAuth } from '../contexts/AuthContext'
 
 const KERALA_DISTRICTS = [
@@ -11,6 +11,8 @@ const KERALA_DISTRICTS = [
 export default function Login() {
   const { login } = useAuth()
   const navigate = useNavigate()
+  // Set by SignupGate / sign-up prompts — return to the page they came from.
+  const from = useLocation().state?.from || '/'
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
   const [error, setError] = useState('')
@@ -22,7 +24,7 @@ export default function Login() {
     setLoading(true)
     try {
       await login(email, password)
-      navigate('/')
+      navigate(from, { replace: true })
     } catch (err) {
       setError('Invalid email or password.')
     }
@@ -75,7 +77,7 @@ export default function Login() {
 
         <p className="text-sm text-center mt-4" style={{ color: 'var(--text2)' }}>
           Don't have an account?{' '}
-          <Link to="/register" style={{ color: 'var(--accent)' }} className="font-medium">Register</Link>
+          <Link to="/register" state={{ from }} style={{ color: 'var(--accent)' }} className="font-medium">Register</Link>
         </p>
       </div>
     </div>

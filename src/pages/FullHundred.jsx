@@ -1,6 +1,6 @@
 import { useState, useMemo, useCallback, useEffect, useRef } from 'react'
 import OmrBubble, { bubbleState } from '../components/OmrBubble'
-import { Link, useSearchParams } from 'react-router-dom'
+import { Link, useSearchParams, useLocation } from 'react-router-dom'
 import fullPapers from '../data/fullPapers.json'
 import fullQuestions from '../data/fullQuestions.json'
 import Confetti from '../components/Confetti'
@@ -234,6 +234,8 @@ function PaperList({ onStart, onResume, initialQuery = '' }) {
   const [query, setQuery] = useState(initialQuery)
   const { user } = useAuth()
   const needsSignup = !user
+  const location = useLocation()
+  const from = location.pathname + location.search
 
   // Profile → Settings → "Full 100 language". Read once per mount — this
   // page remounts fresh whenever you navigate back to it, same as drafts
@@ -392,13 +394,13 @@ function PaperList({ onStart, onResume, initialQuery = '' }) {
             These are scored, timed attempts and your progress is saved to your profile —
             that needs an account.
           </div>
-          <Link to="/register"
+          <Link to="/register" state={{ from }}
             className="inline-block w-full py-2.5 rounded-xl font-semibold text-sm"
             style={{ background: 'var(--accent)', color: 'var(--accent-text)', textDecoration: 'none' }}>
             Sign Up →
           </Link>
           <div className="text-xs mt-2">
-            <Link to="/login" style={{ color: 'var(--accent)' }}>Already have an account? Log in</Link>
+            <Link to="/login" state={{ from }} style={{ color: 'var(--accent)' }}>Already have an account? Log in</Link>
           </div>
         </div>
       )}
@@ -474,7 +476,7 @@ function PaperList({ onStart, onResume, initialQuery = '' }) {
                 return (
                   <div key={p.id} className="flex items-center gap-1.5">
                     {needsSignup ? (
-                      <Link to="/register"
+                      <Link to="/register" state={{ from }}
                         title="Sign up to take Full 100 papers"
                         className="paper-row rounded-lg px-3 py-2.5 flex items-center gap-2 flex-1 min-w-0"
                         style={{ background: 'var(--bg2)', border: '1px solid var(--border)', textDecoration: 'none' }}>

@@ -1,5 +1,6 @@
 import { useState, useEffect, useMemo } from 'react'
 import { useSearchParams, Link } from 'react-router-dom'
+import SignupGate from '../components/SignupGate'
 import questions from '../data/questions.json'
 import papers from '../data/papers.json'
 import modelQuestions from '../data/modelQuestions.json'
@@ -939,7 +940,7 @@ export default function Quiz({ preset = null, onExit = null, exitLabel = 'New Qu
   // shared link — e.g. a Telegram poll pointing at one model question).
   // Checks the regular PSC question bank first, then the model-paper bank,
   // so both /quiz?questionId=176-2025-M-Q81 and
-  // /quiz?questionId=HC-DAILY-2026-08-01-Q5 work as public, ungated deep links.
+  // /quiz?questionId=HC-DAILY-2026-08-01-Q5 work as deep links (signed-in users only).
   useEffect(() => {
     const qid = searchParams.get('questionId')
     if (!qid) return
@@ -1073,6 +1074,15 @@ export default function Quiz({ preset = null, onExit = null, exitLabel = 'New Qu
     setTimedOut(false)
     setTimeLeft(secsPerQ)
     setShowPalette(false)
+  }
+
+  if (needsSignup && !preset) {
+    return (
+      <SignupGate
+        title="Sign up to practice questions"
+        subtitle="Quizzes and shared questions need a free account."
+      />
+    )
   }
 
   if (quizState === 'setup') return preset ? null : <QuizSetup onStart={handleStart} needsSignup={needsSignup} />

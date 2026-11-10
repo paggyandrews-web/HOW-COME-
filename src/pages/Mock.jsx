@@ -1,6 +1,7 @@
 import { useState, useEffect, useMemo, useRef, useCallback } from 'react'
 import OmrBubble, { bubbleState } from '../components/OmrBubble'
 import { Link, useSearchParams } from 'react-router-dom'
+import SignupGate from '../components/SignupGate'
 import modelPapers from '../data/modelPapers.json'
 import modelQuestions from '../data/modelQuestions.json'
 import { useAuth } from '../contexts/AuthContext'
@@ -943,6 +944,15 @@ export default function Mock() {
       // daily practice was Mock/Full 100 instead of Quiz mode).
       updateStreak()
     }
+  }
+
+  if (!user) {
+    return (
+      <SignupGate
+        title="Sign up to take mock tests"
+        subtitle="Daily mock tests with Malayalam explanations need a free account."
+      />
+    )
   }
 
   if (stage === 'intro' && paper) {

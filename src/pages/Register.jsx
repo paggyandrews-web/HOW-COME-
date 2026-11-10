@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { useNavigate, Link } from 'react-router-dom'
+import { useNavigate, useLocation, Link } from 'react-router-dom'
 import { useAuth } from '../contexts/AuthContext'
 import { useTheme } from '../contexts/ThemeContext'
 import Dropdown from '../components/Dropdown'
@@ -68,6 +68,8 @@ export default function Register() {
   const { signup } = useAuth()
   const { setTheme } = useTheme()
   const navigate = useNavigate()
+  // Set by SignupGate / sign-up prompts — return to the page they came from.
+  const from = useLocation().state?.from || '/'
 
   const [form, setForm] = useState({ name: '', email: '', mobile: '', password: '', district: '', gender: '' })
   const [error, setError] = useState('')
@@ -98,7 +100,7 @@ export default function Register() {
     try {
       await signup(form.email, form.password, form.name, form.district, form.mobile)
       setTheme('black')
-      navigate('/')
+      navigate(from, { replace: true })
     } catch (err) {
       setError(err.message || 'Registration failed. Try again.')
     }
@@ -254,7 +256,7 @@ export default function Register() {
 
         <p className="text-sm text-center mt-4" style={{ color: 'var(--text2)' }}>
           Already have an account?{' '}
-          <Link to="/login" style={{ color: 'var(--accent)' }} className="font-medium">Sign in</Link>
+          <Link to="/login" state={{ from }} style={{ color: 'var(--accent)' }} className="font-medium">Sign in</Link>
         </p>
       </div>
     </div>

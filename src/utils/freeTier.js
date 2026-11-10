@@ -1,9 +1,10 @@
 // ── Access rules ──
-// Quizzes and Full 100 require an account (enforced where each page checks
-// `user` from useAuth), but there is currently no paid tier — everything a
-// signed-up user can reach is unlocked. Mock tests and the exam calendar
-// need no account at all (enforced in Mock.jsx / Exams.jsx).
+// Every feature needs an account EXCEPT the exam calendar (Exams.jsx) and the
+// Home / Profile / Login / Register pages. Signed-out visitors get the
+// SignupGate (or an inline sign-up box on Full 100). Sign-up links carry
+// `state.from`, so after signing up the person lands back on the page they
+// opened (e.g. a paper link shared on Telegram).
 //
-// A real paid cutoff may be introduced later once a date is decided — when
-// that happens, reintroduce a dated gate here rather than hardcoding a date
-// in any page.
+// There is currently no paid tier — everything a signed-up user can reach is
+// unlocked. If a paid cutoff is introduced later, add a dated gate here rather
+// than hardcoding a date in any page.
