@@ -2,7 +2,6 @@ import { useEffect, useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import papers from '../data/papers.json'
 import Quiz from '../pages/Quiz'
-import OmrBubble from './OmrBubble'
 import { useAuth } from '../contexts/AuthContext'
 import { useResults } from '../hooks/useResults'
 
@@ -15,8 +14,9 @@ import { useResults } from '../hooks/useResults'
  *   title      page heading (node)      subtitle  line under it (node)
  *   backTo     link target              backLabel link text
  *   exitLabel  result-screen button that returns here
- *   rowMeta    q => string shown under each question (paper, Q number…)
  *   wholeSet   optional label for a "practice everything in order" button
+ *   fullRounds true → no "questions per round" picker; a round is every
+ *              question not yet attempted (used for whole papers)
  */
 
 export const PAPER_BY_ID = Object.fromEntries(papers.map(p => [p.id, p]))
@@ -29,29 +29,9 @@ export function paperTime(paperId) {
   return m ? new Date(+m[3], MONTHS[m[2]] ?? 0, +m[1]).getTime() : 0
 }
 
-function previewText(text) {
-  return (text || '')
-    .replace(/__([^_\n]+?)__/g, '$1')   // __underlined__ markers, not ____ blanks
-    .replace(/~~/g, '')
-    .replace(/([:.?!])\s*\n\s*/g, '$1 ')
-    .replace(/\s*\n\s*/g, ' · ')
-    .trim()
-}
-
-function ago(iso) {
-  if (!iso) return ''
-  const days = Math.floor((Date.now() - new Date(iso).getTime()) / 86400000)
-  if (days <= 0) return 'today'
-  if (days === 1) return 'yesterday'
-  if (days < 30) return `${days} days ago`
-  const months = Math.floor(days / 30)
-  return months === 1 ? 'a month ago' : `${months} months ago`
-}
-
 const COUNT_OPTIONS = [10, 20, 50]
-const PAGE = 40
 
-export default function PracticeSet({ pool, title, subtitle, backTo, backLabel, exitLabel, rowMeta, wholeSet }) {
+export default function PracticeSet({ pool, title, subtitle, backTo, backLabel, exitLabel, wholeSet, fullRounds = false }) {
   const { user } = useAuth()
   const { getAllResults, getLastOutcomes } = useResults()
 
@@ -59,7 +39,6 @@ export default function PracticeSet({ pool, title, subtitle, backTo, backLabel, 
   const [tab, setTab] = useState('new')           // 'new' | 'done'
   const [doneFilter, setDoneFilter] = useState('all') // 'all' | 'wrong' | 'right'
   const [count, setCount] = useState(10)
-  const [shown, setShown] = useState(PAGE)
   const [session, setSession] = useState(null)    // { questions, mode, secsPerQ } while practicing
 
   function loadOutcomes() {
@@ -88,8 +67,6 @@ export default function PracticeSet({ pool, title, subtitle, backTo, backLabel, 
     return { fresh, wrong, right, attempted: [...wrong, ...right].sort(byRecent) }
   }, [pool, outcomes])
 
-  useEffect(() => { setShown(PAGE) }, [tab, doneFilter])
-
   function start(list) {
     if (!list.length) return
     window.scrollTo(0, 0)
@@ -112,9 +89,8 @@ export default function PracticeSet({ pool, title, subtitle, backTo, backLabel, 
   const list = tab === 'new'
     ? fresh
     : doneFilter === 'wrong' ? wrong : doneFilter === 'right' ? right : attempted
-  const visible = list.slice(0, shown)
   const pct = n => (total ? (n / total) * 100 : 0)
-  const takeN = count === 'all' ? fresh.length : Math.min(count, fresh.length)
+  const takeN = fullRounds || count === 'all' ? fresh.length : Math.min(count, fresh.length)
 
   return (
     <div className="max-w-2xl mx-auto px-4 py-5">
@@ -185,7 +161,7 @@ export default function PracticeSet({ pool, title, subtitle, backTo, backLabel, 
       {/* ── Actions ──────────────────────────────────────────── */}
       {!loading && tab === 'new' && fresh.length > 0 && (
         <div className="mt-4">
-          {fresh.length > COUNT_OPTIONS[0] && <div className="flex items-center gap-2 mb-2.5 flex-wrap">
+          {!fullRounds && fresh.length > COUNT_OPTIONS[0] && <div className="flex items-center gap-2 mb-2.5 flex-wrap">
             <span className="text-xs" style={{ color: 'var(--text2)' }}>Questions per round</span>
             {[...COUNT_OPTIONS.filter(n => n < fresh.length), 'all'].map(n => {
               const active = count === n || (n === 'all' && count !== 'all' && count >= fresh.length)
@@ -231,10 +207,8 @@ export default function PracticeSet({ pool, title, subtitle, backTo, backLabel, 
         </button>
       )}
 
-      {/* ── List ─────────────────────────────────────────────── */}
+      {/* ── Empty states (questions are never listed — no previews before practicing) ── */}
       <div className="mt-5">
-        {loading && [0, 1, 2, 3].map(i => <div key={i} className="skeleton h-16 mb-2" style={{ borderRadius: 16 }} />)}
-
         {!loading && list.length === 0 && (
           <div className="rounded-2xl p-6 text-center" style={{ border: '1.5px dashed var(--border-strong)' }}>
             {tab === 'new' ? (
@@ -255,44 +229,6 @@ export default function PracticeSet({ pool, title, subtitle, backTo, backLabel, 
           </div>
         )}
 
-        {!loading && visible.length > 0 && (
-          <p className="text-xs mb-2" style={{ color: 'var(--text2)' }}>
-            Tap a question to start practicing from it.
-          </p>
-        )}
-
-        <ul className="space-y-2">
-          {!loading && visible.map((q, i) => {
-            const o = outcomes[q.id]
-            return (
-              <li key={q.id}>
-                <button onClick={() => start(list.slice(i))}
-                  className="omr-option card w-full rounded-2xl px-3.5 py-3 text-left"
-                  style={{ alignItems: 'flex-start' }}>
-                  <OmrBubble small
-                    letter={o ? (o.correct ? '✓' : '✗') : ''}
-                    state={o ? (o.correct ? 'right' : 'wrong') : undefined} />
-                  <span className="min-w-0 flex-1">
-                    <span className="block text-sm leading-snug line-clamp-2" style={{ color: 'var(--text)' }}>
-                      {previewText(q.questionText)}
-                    </span>
-                    <span className="block text-xs mt-1" style={{ color: 'var(--text2)' }}>
-                      {rowMeta(q)}
-                      {o ? `, ${o.correct ? 'right' : 'wrong'} ${ago(o.date)}` : ''}
-                    </span>
-                  </span>
-                </button>
-              </li>
-            )
-          })}
-        </ul>
-
-        {!loading && list.length > shown && (
-          <button onClick={() => setShown(s => s + PAGE)}
-            className="btn-ghost w-full h-11 rounded-full text-sm font-semibold mt-3">
-            Show {Math.min(PAGE, list.length - shown)} more
-          </button>
-        )}
       </div>
     </div>
   )

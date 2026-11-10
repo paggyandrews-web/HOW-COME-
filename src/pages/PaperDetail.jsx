@@ -43,9 +43,9 @@ export default function PaperDetail() {
       backLabel="All papers"
       exitLabel="Back to this paper"
       wholeSet="Practice the whole paper in order"
+      fullRounds
       title={<h1 className="display" style={{ fontSize: '1.6rem', lineHeight: 1.1 }}>{paper.post}</h1>}
       subtitle={`${paper.paperCode}${paper.date ? `, held on ${paper.date}` : ''} — ${pool.length} English questions`}
-      rowMeta={q => `Q${q.questionNumber || ''}${q.topic ? ` — ${q.topic}` : ''}`}
     />
   )
 }

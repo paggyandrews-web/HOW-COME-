@@ -2,7 +2,7 @@ import { useMemo } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import questions from '../data/questions.json'
 import SignupGate from '../components/SignupGate'
-import PracticeSet, { PAPER_BY_ID, paperTime } from '../components/PracticeSet'
+import PracticeSet, { paperTime } from '../components/PracticeSet'
 import { useAuth } from '../contexts/AuthContext'
 import { topicFromSlug, isDeletedByPsc } from '../data/topics'
 
@@ -50,10 +50,6 @@ export default function TopicDetail() {
         </h1>
       }
       subtitle={`${pool.length} past PSC questions in this topic`}
-      rowMeta={q => {
-        const paper = PAPER_BY_ID[q.paperId]
-        return `${paper?.paperCode || q.paperId}${q.questionNumber ? ` Q${q.questionNumber}` : ''}${paper?.post ? ` — ${paper.post}` : ''}`
-      }}
     />
   )
 }
