@@ -6,6 +6,9 @@
 //   'diwali'    — multicolour round sparks
 //   'christmas' — red / green / gold rockets that pop into little stars,
 //                 with snowflakes drifting down from the top
+//   'onam'      — bursts open like a pookalam: rings of petals (yellow
+//                 inside, orange / red / purple outside), petals drifting down
+//   'vishu'     — golden crackers with kani-konna flowers falling
 //
 // Time-based (not frame-based), so it runs at the same speed on 60 Hz and
 // 120 Hz phones and always finishes in about 1.5 seconds.
@@ -15,17 +18,35 @@ const THEMES = {
     rockets: ['#ffd93d', '#ff4fa3', '#ff922b', '#6bcb77', '#4d96ff', '#ff6b6b'],
     sparks: ['#ffd93d', '#ff4fa3', '#ff922b', '#6bcb77', '#4d96ff', '#ff6b6b', '#cc5de8', '#ffc94d'],
     glitter: '#ffc94d',
-    stars: false,
-    snow: false,
+    spark: 'dot',
+    fall: null,
   },
   christmas: {
     rockets: ['#e63946', '#2a9d58', '#f4b400'],
     sparks: ['#e63946', '#ff4d5e', '#2a9d58', '#3cc46f', '#f4b400', '#ffd54a'],
     glitter: '#ffd54a',
-    stars: true,
-    snow: true,
+    spark: 'star',
+    fall: 'snow',
+  },
+  onam: {
+    rockets: ['#ff8c00', '#f4b400', '#d7263d'],
+    sparks: ['#ffc300', '#ff8c00', '#d7263d', '#9b4dca'],
+    // pookalam rings: inner ring, outer ring
+    rings: [['#ffd000', '#ffb300'], ['#ff7a00', '#d7263d', '#9b4dca']],
+    glitter: '#ffc300',
+    spark: 'petal',
+    fall: 'petals',
+  },
+  vishu: {
+    rockets: ['#f4b400', '#ff9f1c', '#ffd000'],
+    sparks: ['#ffd000', '#f4b400', '#ffe066', '#ff9f1c', '#ff6b35'],
+    glitter: '#ffe066',
+    spark: 'dot',
+    fall: 'konna',
   },
 }
+
+const FALL_PETAL_COLORS = ['#ffc300', '#ff8c00', '#d7263d', '#9b4dca', '#ffb300']
 
 const RISE_MS = 430      // launch → pop
 const SPARK_MS = 950     // how long the sparks live after the pop
@@ -76,6 +97,45 @@ function snowflake(ctx, x, y, r, alpha, rot) {
   ctx.restore()
 }
 
+// A single flower petal, pointed along its direction of travel
+function petal(ctx, x, y, r, color, alpha, rot) {
+  if (alpha <= 0.01) return
+  ctx.save()
+  ctx.translate(x, y); ctx.rotate(rot)
+  ctx.globalAlpha = alpha
+  ctx.fillStyle = color
+  ctx.beginPath()
+  ctx.moveTo(-r * 1.5, 0)
+  ctx.quadraticCurveTo(0, -r * 0.95, r * 1.5, 0)
+  ctx.quadraticCurveTo(0, r * 0.95, -r * 1.5, 0)
+  ctx.fill()
+  ctx.globalAlpha = alpha * 0.45
+  ctx.strokeStyle = 'rgba(120,40,0,0.6)'
+  ctx.lineWidth = Math.max(0.6, r * 0.15)
+  ctx.beginPath(); ctx.moveTo(-r * 1.2, 0); ctx.lineTo(r * 1.2, 0); ctx.stroke()
+  ctx.restore()
+}
+
+// Kani-konna (golden shower) flower: five round yellow petals, orange heart
+function konna(ctx, x, y, r, alpha, rot) {
+  if (alpha <= 0.01) return
+  ctx.save()
+  ctx.translate(x, y); ctx.rotate(rot)
+  ctx.globalAlpha = alpha
+  ctx.fillStyle = '#ffd000'
+  ctx.strokeStyle = '#d99a00'
+  ctx.lineWidth = Math.max(0.6, r * 0.12)
+  for (let i = 0; i < 5; i++) {
+    const a = (i * 2 * Math.PI) / 5
+    ctx.beginPath()
+    ctx.ellipse(Math.cos(a) * r * 0.62, Math.sin(a) * r * 0.62, r * 0.55, r * 0.42, a, 0, Math.PI * 2)
+    ctx.fill(); ctx.stroke()
+  }
+  ctx.fillStyle = '#e67e00'
+  ctx.beginPath(); ctx.arc(0, 0, r * 0.3, 0, Math.PI * 2); ctx.fill()
+  ctx.restore()
+}
+
 function glowDot(ctx, x, y, r, color, alpha) {
   if (alpha <= 0.01) return
   ctx.globalAlpha = alpha * 0.35
@@ -93,14 +153,15 @@ export function startFireworks(canvas, ctx, { rockets: rocketCount = 3, theme = 
 
   // Snowflakes fall from above the top edge for the length of the show
   const flakes = []
-  if (T.snow) {
-    const n = Math.round(14 + W / 40)
+  if (T.fall) {
+    const n = Math.round((T.fall === 'snow' ? 14 : 10) + W / (T.fall === 'snow' ? 40 : 55))
     for (let i = 0; i < n; i++) {
       flakes.push({
         x: rand(0, W), y: rand(-H * 0.12, H * 0.1),
         vy: rand(3.2, 5.6) * unit, sway: rand(0.6, 1.6) * unit, ph: rand(0, 6),
         r: rand(5.5, 10) * unit, rot: rand(0, 6), spin: rand(-0.04, 0.04),
         delay: rand(0, 300),
+        color: pick(FALL_PETAL_COLORS),
       })
     }
   }
@@ -166,16 +227,33 @@ export function startFireworks(canvas, ctx, { rockets: rocketCount = 3, theme = 
 
       if (!r.sparks) {
         r.sparks = []
-        const n = T.stars ? 34 : 60
-        for (let k = 0; k < n; k++) {
-          const ang = (k / n) * Math.PI * 2 + rand(-0.15, 0.15)
-          const sp = rand(2.2, 7.5) * unit
-          r.sparks.push({
-            x: r.tx, y: r.ty, vx: Math.cos(ang) * sp, vy: Math.sin(ang) * sp,
-            r: (T.stars ? rand(2.6, 4.4) : rand(1.8, 3.6)) * unit, ph: rand(0, 6), life: rand(0.65, 1),
-            rot: rand(0, 6), spin: rand(-0.15, 0.15),
-            color: Math.random() < 0.55 ? r.color : pick(SPARK_COLORS),
+        if (T.rings) {
+          // Pookalam: two neat rings of petals, inner and outer
+          const rings = [[14, 2.6, 3.2], [22, 5.6, 6.4]]
+          rings.forEach(([n, lo, hi], ri) => {
+            const off = rand(0, Math.PI)
+            for (let k = 0; k < n; k++) {
+              const ang = off + (k / n) * Math.PI * 2
+              const sp = rand(lo, hi) * unit
+              r.sparks.push({
+                x: r.tx, y: r.ty, vx: Math.cos(ang) * sp, vy: Math.sin(ang) * sp,
+                r: (ri ? rand(2.8, 3.6) : rand(2.4, 3)) * unit, ph: rand(0, 6), life: rand(0.8, 1),
+                color: pick(T.rings[ri]),
+              })
+            }
           })
+        } else {
+          const n = T.spark === 'star' ? 34 : 60
+          for (let k = 0; k < n; k++) {
+            const ang = (k / n) * Math.PI * 2 + rand(-0.15, 0.15)
+            const sp = rand(2.2, 7.5) * unit
+            r.sparks.push({
+              x: r.tx, y: r.ty, vx: Math.cos(ang) * sp, vy: Math.sin(ang) * sp,
+              r: (T.spark === 'star' ? rand(2.6, 4.4) : rand(1.8, 3.6)) * unit, ph: rand(0, 6), life: rand(0.65, 1),
+              rot: rand(0, 6), spin: rand(-0.15, 0.15),
+              color: Math.random() < 0.55 ? r.color : pick(SPARK_COLORS),
+            })
+          }
         }
       }
 
@@ -205,9 +283,13 @@ export function startFireworks(canvas, ctx, { rockets: rocketCount = 3, theme = 
         const p = bt / lifeMs
         const fade = p < 0.5 ? 1 : 1 - (p - 0.5) / 0.5
         const twinkle = 0.65 + 0.35 * Math.sin(bt * 0.03 + s.ph)
-        if (T.stars) {
+        if (T.spark === 'star') {
           s.rot += s.spin * dt
           glowStar(ctx, s.x, s.y, s.r * (1 - p * 0.35), s.color, fade * twinkle, s.rot)
+        } else if (T.spark === 'petal') {
+          // petals don't twinkle; they point the way they fly and tumble as they slow
+          const heading = Math.atan2(s.vy, s.vx)
+          petal(ctx, s.x, s.y, s.r * (1 - p * 0.25), s.color, fade, heading + p * 1.2)
         } else {
           glowDot(ctx, s.x, s.y, s.r * (1 - p * 0.4), s.color, fade * twinkle)
         }
@@ -225,7 +307,10 @@ export function startFireworks(canvas, ctx, { rockets: rocketCount = 3, theme = 
       const x = f.x + Math.sin(ft * 0.004 + f.ph) * f.sway * 8
       const fadeIn = Math.min(1, ft / 200)
       const fadeOut = ft > END - 350 ? (END - ft) / 350 : 1
-      snowflake(ctx, x, f.y, f.r, 0.9 * fadeIn * fadeOut, f.rot)
+      const a = 0.9 * fadeIn * fadeOut
+      if (T.fall === 'snow') snowflake(ctx, x, f.y, f.r, a, f.rot)
+      else if (T.fall === 'konna') konna(ctx, x, f.y, f.r * 0.85, a, f.rot)
+      else petal(ctx, x, f.y, f.r * 0.6, f.color, a, f.rot * 3)
     }
 
     ctx.restore()

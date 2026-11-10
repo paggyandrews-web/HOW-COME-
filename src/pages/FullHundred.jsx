@@ -662,7 +662,7 @@ function ExamScreen({ paper, questions, onSubmit, initial }) {
     setAnswers(a => ({ ...a, [current]: letter }))
     if (letter === q.correctAnswer) {
       setShowConfetti(true)
-      setTimeout(() => setShowConfetti(false), 2200)
+      setTimeout(() => setShowConfetti(false), 2500)
     }
   }
 

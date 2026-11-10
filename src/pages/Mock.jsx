@@ -454,7 +454,7 @@ function ExamScreen({ paper, questions, onSubmit, practice = false }) {
     if (practice && letter === q.correctAnswer) {
       setShowConfetti(true)
       playChime('normal')
-      setTimeout(() => setShowConfetti(false), 2200)
+      setTimeout(() => setShowConfetti(false), 2500)
     }
   }
 
