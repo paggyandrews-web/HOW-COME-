@@ -2229,5 +2229,16 @@
     "year": "2024",
     "categoryCode": "571/2023",
     "answerKeyStatus": "final"
+  },
+  {
+    "id": "95-2026-M",
+    "paperCode": "95/2026 M",
+    "post": "Assistant Jailor Grade I/Superintendent Sub Jail/Supervisor Open Prison",
+    "dept": "Prisons and Correctional Services",
+    "date": "11-Nov-2026",
+    "medium": "M",
+    "year": "2026",
+    "categoryCode": "451/2025,452/2025,453/2025",
+    "answerKeyStatus": "provisional"
   }
 ]

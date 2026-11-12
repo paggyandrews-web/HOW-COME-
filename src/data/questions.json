@@ -55312,5 +55312,185 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) The, the — രണ്ട് articles മാത്രം; വാക്യത്തിൽ മൂന്ന് സ്ഥലത്ത് article വേണം.\n• 'use that has been made' എന്ന specific ഭാഗത്തിന് മുമ്പുള്ള 'the' വിട്ടുപോയി.\n• 🪤 PSC Trap: എണ്ണം നോക്കാതെ article തരം മാത്രം നോക്കുന്നവരെ കുടുക്കാൻ.\n\n• (B) A, the, the — 'a time we live' എന്നത് തെറ്റാണ്.\n• 'we live' എന്ന വിശദീകരണം ഉള്ളതിനാൽ time specific ആണ് → the.\n• 🪤 PSC Trap: 'once upon a time' പോലുള്ള പ്രയോഗങ്ങൾ ഓർമ്മയുള്ളവരെ കുഴക്കാൻ.\n\n• (D) A, the — എണ്ണവും തരവും തെറ്റ്; രണ്ട് തെറ്റുകൾ ഒന്നിച്ച്.\n• 🪤 PSC Trap: വെറുതെ എണ്ണം തികയ്ക്കാനുള്ള option.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'പിന്നാലെ വിശദീകരണം വന്നാൽ മുന്നിൽ THE വരും!' — time (we live), number (of years), use (that has been made).\n• ഒരുമിച്ച് പഠിക്കുക: the number of + singular verb | a number of + plural verb | the + noun + of / that / which.\n• PSC strategy: ആദ്യം വാക്യത്തിൽ article വേണ്ട സ്ഥലങ്ങൾ എണ്ണുക — എണ്ണം തെറ്റിയ options ഉടൻ വെട്ടാം. പിന്നെ a/the തീരുമാനിക്കുക. Guaranteed mark!"
     }
+  },
+  {
+    "id": "95-2026-M-Q81",
+    "paperId": "95-2026-M",
+    "questionNumber": 81,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Consider the following statements\n(i) Every one of the candidates was interviewed.\n(ii) Each of the candidates were interviewed.\n(iii) Every candidates was interviewed.\nWhich of the above is/are grammatically correct?",
+    "optionA": "(i) only",
+    "optionB": "(ii) only",
+    "optionC": "(i) and (iii) only",
+    "optionD": "(i), (ii) and (iii)",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) (i) only\n\n• (i) 'Every one of the candidates was interviewed.' — ഇവിടെ യഥാർത്ഥ subject 'Every one' ആണ്, 'candidates' അല്ല. 'Every one' എന്നാൽ 'ഓരോരുത്തരും' — ഓരോ ആളെയും ഒറ്റയ്ക്ക് എടുക്കുന്നതിനാൽ singular verb 'was' ശരിയാണ്.\n• (ii) 'Each of the candidates were interviewed.' — 'Each of' എപ്പോഴും singular verb ആണ് എടുക്കുന്നത്; 'were' തെറ്റ്, 'was' വേണം.\n• (iii) 'Every candidates was interviewed.' — 'Every'-ക്ക് ശേഷം singular noun മാത്രമേ വരൂ. 'Every candidates' തെറ്റാണ്; 'Every candidate was interviewed' എന്നാണ് ശരി.\n• അതുകൊണ്ട് മൂന്നിൽ (i) മാത്രമാണ് ശരി.\n• ⚠️ ശ്രദ്ധിക്കുക: PSC-യുടെ Provisional Answer Key (11-Nov-2026) ഈ ചോദ്യത്തിന് (C) (i) and (iii) only എന്നാണ് നൽകിയിരിക്കുന്നത്. പക്ഷേ grammar നിയമപ്രകാരം 'Every candidates' ഒരിക്കലും ശരിയാകില്ല — Final Answer Key-യിൽ ഇത് (A) ആയി തിരുത്താൻ നല്ല സാധ്യതയുണ്ട്. Final key വന്നശേഷം ഉറപ്പാക്കുക.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Every / Each + singular noun + singular verb | Each of / Every one of + plural noun + singular verb\n• 'Every' ഒരു determiner ആണ് — അതിന് ശേഷം നേരിട്ട് singular noun തന്നെ വരണം: every boy, every candidate.\n• 'Each of', 'Every one of', 'Either of', 'Neither of', 'One of' — ഇവയ്ക്ക് ശേഷം plural noun വരും, പക്ഷേ verb singular ആയിരിക്കും.\n• കാരണം: verb-നെ നിയന്ത്രിക്കുന്നത് 'of'-ന് മുമ്പുള്ള വാക്കാണ് (each / every one / one), 'of'-ന് ശേഷമുള്ള plural noun അല്ല.\n• ⭐ PSC ആവർത്തനം: 'Each of the ... has/was', 'One of the boys is', 'Every student has' — Subject-Verb Agreement-ൽ PSC ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന pattern ഇതാണ്!\n• ഉദാഹരണ sentences:\n1. Every student has a library card. (ഓരോ വിദ്യാർഥിക്കും ലൈബ്രറി കാർഡുണ്ട്.)\n2. Each of the players was given a medal. (കളിക്കാരിൽ ഓരോരുത്തർക്കും മെഡൽ നൽകി.)\n3. Every one of the windows is broken. (ജനലുകളിൽ ഓരോന്നും പൊട്ടിയിരിക്കുന്നു.)\n• ഓർക്കുക: 'of'-ന് ശേഷം എത്ര വലിയ plural noun വന്നാലും, മുന്നിലുള്ള each / every one ആണ് വാക്യത്തിന്റെ യജമാനൻ — അതുകൊണ്ട് verb എപ്പോഴും ഏകവചനത്തിൽ തന്നെ നിൽക്കും.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) (ii) only\n• 'Each of the candidates were' എന്ന വാക്യത്തിൽ verb 'were' plural ആണ്.\n• 'Each of' എപ്പോഴും singular verb ആവശ്യപ്പെടുന്നു — അതുകൊണ്ട് (ii) തെറ്റാണ്.\n• 🪤 PSC Trap: verb-ന് തൊട്ടുമുമ്പ് 'candidates' എന്ന plural noun കാണുമ്പോൾ 'were' ആണ് ശരി എന്ന് തോന്നും — ഇതാണ് കെണി!\n\n(C) (i) and (iii) only\n• (i) ശരിയാണ്, പക്ഷേ (iii) 'Every candidates' തെറ്റാണ്.\n• 'Every'-ക്ക് ശേഷം plural noun വരില്ല — 'Every candidate' എന്നാണ് വേണ്ടത്.\n• 🪤 PSC Trap: verb 'was' singular ആയതിനാൽ (iii) ശരിയെന്ന് തോന്നും; noun-ലെ 's' ശ്രദ്ധിക്കാത്തവർ ഇവിടെ വീഴും. (Provisional key ഈ option ആണ് നൽകിയത് — പക്ഷേ grammar പ്രകാരം ഇത് നിലനിൽക്കില്ല.)\n\n(D) (i), (ii) and (iii)\n• (ii)-ഉം (iii)-ഉം തെറ്റായതിനാൽ 'മൂന്നും ശരി' എന്നത് പറ്റില്ല.\n• 🪤 PSC Trap: മൂന്ന് വാക്യങ്ങളും ഏകദേശം ഒരുപോലെ തോന്നുന്നതിനാൽ 'എല്ലാം ശരി' എടുക്കാൻ പ്രലോഭനം ഉണ്ടാകും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Every-ക്ക് ഒരാൾ മതി!' — Every എന്ന വാക്കിന് പിന്നാലെ എപ്പോഴും ഒരാൾ മാത്രം (singular noun). 'Of' കണ്ടാൽ മുന്നിലേക്ക് നോക്കൂ, പിന്നിലേക്കല്ല!\n• ഒരുമിച്ച് പഠിക്കേണ്ട family: each, every, either, neither, everyone, one of, each of, every one of → എല്ലാം singular verb.\n• PSC strategy: statement ചോദ്യങ്ങളിൽ ഓരോ വാക്യത്തിലും രണ്ട് കാര്യം നോക്കുക — (1) determiner-ന് ശേഷമുള്ള noun singular ആണോ, (2) verb singular ആണോ. ഒന്ന് തെറ്റിയാൽ ആ statement തള്ളുക. ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "95-2026-M-Q82",
+    "paperId": "95-2026-M",
+    "questionNumber": 82,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Choose the sentence that is grammatically correct",
+    "optionA": "Each of the proposals have been carefully examined before the committee reached its decision.",
+    "optionB": "Each of the proposals has been carefully examined before the committee reached its decision.",
+    "optionC": "Each of the proposals have been carefully examined before the committee have reached its decision",
+    "optionD": "Each of the proposals has been carefully examined before the committee have reached its decision.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Each of the proposals has been carefully examined before the committee reached its decision.\n\n• ഈ വാക്യത്തിൽ രണ്ട് verb-ഉം ശരിയായിരിക്കണം — main clause-ലേതും 'before' clause-ലേതും.\n• Subject 'Each of the proposals' — 'Each' ആണ് യഥാർത്ഥ subject, അതുകൊണ്ട് singular verb 'has been' വേണം.\n• 'the committee reached its decision' — committee ഒരു സംഘമായി ഒറ്റ തീരുമാനം എടുത്തു; 'its' എന്ന singular pronoun ഉള്ളതിനാൽ verb-ഉം singular ആകണം, കഴിഞ്ഞ സംഭവമായതിനാൽ simple past 'reached'.\n• (B)-യിൽ മാത്രമാണ് രണ്ട് verb-ഉം ശരിയായി വരുന്നത്. (കൂടുതൽ കൃത്യമായി 'had been examined' എന്നും പറയാം, പക്ഷേ തന്നിരിക്കുന്ന options-ൽ ഏറ്റവും ശരി (B) ആണ്.)",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Each of + plural noun → singular verb (has / is / was)\n• Collective noun (committee, team, jury, family) ഒരു യൂണിറ്റായി പ്രവർത്തിക്കുമ്പോൾ singular verb-ഉം singular pronoun 'its'-ഉം എടുക്കുന്നു.\n• Pronoun-ഉം verb-ഉം ഒരേ number-ൽ ആയിരിക്കണം — 'its' ഉപയോഗിച്ചിട്ട് 'have reached' എന്ന് പറയുന്നത് പൊരുത്തക്കേടാണ്.\n• 'before' clause-ൽ കഴിഞ്ഞ സംഭവം പറയുമ്പോൾ simple past ('reached') ആണ് സ്വാഭാവികം.\n• ⭐ PSC ആവർത്തനം: 'Each of the ... has', 'The committee has / its' — രണ്ടും ഒരേ ചോദ്യത്തിൽ ചേർത്ത് ചോദിക്കുന്നത് PSC-യുടെ പുതിയ രീതിയാണ്.\n• ഉദാഹരണ sentences:\n1. Each of the answers has been checked.\n2. The jury has given its verdict.\n3. The team was happy with its performance.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) Each of the proposals have been ...\n• 'have been' plural verb ആണ്; 'Each of'-ന് ഇത് പറ്റില്ല.\n• 'reached' ശരിയാണെങ്കിലും ആദ്യ ഭാഗത്തെ തെറ്റ് കാരണം വാക്യം മുഴുവൻ തെറ്റാകുന്നു.\n• 🪤 PSC Trap: verb-ന് തൊട്ടുമുമ്പുള്ള 'proposals' കണ്ട് plural verb ഇടാൻ തോന്നിപ്പിക്കുന്ന കെണി.\n\n(C) ... have been ... committee have reached ...\n• രണ്ട് സ്ഥലത്തും plural verb — രണ്ടും തെറ്റാണ്.\n• 'its decision' എന്ന singular pronoun-ഉം 'have reached'-ഉം തമ്മിൽ പൊരുത്തമില്ല.\n• 🪤 PSC Trap: 'committee = പല അംഗങ്ങൾ' എന്ന് ചിന്തിക്കുന്നവരെ വീഴ്ത്താനുള്ള option.\n\n(D) ... has been ... committee have reached ...\n• ആദ്യ ഭാഗം ശരി, പക്ഷേ 'committee have reached its decision' എന്ന ഭാഗം തെറ്റാണ്.\n• 'its' singular ആയതിനാൽ verb-ഉം singular ആകണം; കൂടാതെ കഴിഞ്ഞ സംഭവത്തിന് 'reached' ആണ് വേണ്ടത്.\n• 🪤 PSC Trap: പകുതി ശരിയായ option — ആദ്യ ഭാഗം മാത്രം നോക്കി ഉത്തരം എടുക്കുന്നവരെ പിടിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Each = ഓരോന്ന് = ഒന്ന്' → ഒന്ന് ആണെങ്കിൽ verb-ഉം ഒന്ന് (singular)! Committee-ക്ക് 'its' കണ്ടാൽ അത് ഒറ്റ ശരീരം — verb-ഉം singular.\n• ഒരുമിച്ച് പഠിക്കേണ്ട collective nouns: committee, team, jury, family, government, audience, army.\n• PSC strategy: നാല് options-ഉം ഏതാണ്ട് ഒരുപോലെയാണെങ്കിൽ, വ്യത്യാസമുള്ള വാക്കുകൾ മാത്രം (has/have, reached/have reached) അടയാളപ്പെടുത്തി ഓരോന്നും വെവ്വേറെ പരിശോധിക്കുക. രണ്ടും ശരിയായ option മാത്രം എടുക്കുക — ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "95-2026-M-Q83",
+    "paperId": "95-2026-M",
+    "questionNumber": 83,
+    "topic": "Question Tags",
+    "questionText": "Choose the correct question tag.\nEveryone has submitted the assignment, ________?",
+    "optionA": "haven’t they?",
+    "optionB": "has he?",
+    "optionC": "hasn’t everyone?",
+    "optionD": "didn’t they?",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) haven’t they?\n\n• 'Everyone' grammar-ൽ singular ആണ് (Everyone has submitted), പക്ഷേ question tag-ൽ ഇതിനെ സൂചിപ്പിക്കാൻ pronoun 'they' ആണ് ഉപയോഗിക്കുന്നത്.\n• 'they' വന്നാൽ auxiliary verb-ഉം അതിന് ചേരുന്നതാകണം — 'has' മാറി 'have' ആകും.\n• Main sentence positive ആയതിനാൽ tag negative ആകണം: haven’t they?\n• 'എല്ലാവരും assignment സമർപ്പിച്ചു, അല്ലേ?' എന്നർഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Everyone / Everybody / Someone / Nobody → tag-ൽ 'they' + plural auxiliary\n• Positive statement → negative tag; negative statement → positive tag.\n• Main sentence-ലെ auxiliary (has) തന്നെ tag-ൽ ആവർത്തിക്കണം — 'they'-യോട് ചേരാൻ അത് 'have' ആയി മാറും.\n• Nothing / Everything / Something → tag-ൽ 'it' ആണ് വരുന്നത്.\n• ⭐ PSC ആവർത്തനം: Everyone / Nobody / Somebody tag ചോദ്യങ്ങൾ PSC-യുടെ സ്ഥിരം favourite ആണ്!\n• ഉദാഹരണ sentences:\n1. Everybody likes ice cream, don’t they? (എല്ലാവർക്കും ഐസ്ക്രീം ഇഷ്ടമാണ്, അല്ലേ?)\n2. Nobody called me, did they? (ആരും എന്നെ വിളിച്ചില്ല, ഉവ്വോ? — 'Nobody' negative ആയതിനാൽ tag positive.)\n3. Someone has taken my pen, haven’t they? (ആരോ എന്റെ പേന എടുത്തിട്ടുണ്ട്, അല്ലേ?)\n4. Everything is fine, isn’t it? (എല്ലാം ശരിയാണ്, അല്ലേ? — വസ്തുക്കൾക്ക് 'it'.)\n• ചുരുക്കത്തിൽ: ആളുകളെ സൂചിപ്പിക്കുന്ന indefinite pronoun-കൾക്ക് tag-ൽ എപ്പോഴും 'they', വസ്തുക്കളെ സൂചിപ്പിക്കുന്നവയ്ക്ക് 'it' — ഇതാണ് മുഴുവൻ രഹസ്യം.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) has he?\n• Positive statement-ന് positive tag കൊടുത്തിരിക്കുന്നു — അത് നിയമത്തിന് എതിരാണ്.\n• 'Everyone'-നെ 'he' എന്ന് സൂചിപ്പിക്കുന്നതും പതിവില്ല; 'they' ആണ് ശരി.\n• 🪤 PSC Trap: 'Everyone has' കണ്ട് singular 'he' + 'has' ഇടാൻ തോന്നിപ്പിക്കുന്നു.\n\n(C) hasn’t everyone?\n• Question tag-ൽ എപ്പോഴും pronoun ആണ് വരേണ്ടത്; subject അതേപടി ആവർത്തിക്കില്ല.\n• 'hasn’t everyone' എന്നത് ഇംഗ്ലീഷിൽ സ്വാഭാവികമല്ല.\n• 🪤 PSC Trap: main sentence-ലെ subject അതേപടി tag-ൽ ഇടുന്നത് ശരിയാണെന്ന് തോന്നിപ്പിക്കാൻ.\n\n(D) didn’t they?\n• Main sentence-ലെ auxiliary 'has' (present perfect) ആണ്; 'did' (simple past) ഇവിടെ ചേരില്ല.\n• 🪤 PSC Trap: 'submitted' എന്ന past form കണ്ട് 'did' ഇടാൻ പ്രലോഭിപ്പിക്കുന്നു — പക്ഷേ നോക്കേണ്ടത് auxiliary 'has' ആണ്!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Every-ONE ആണെങ്കിലും tag-ൽ എല്ലാവരും — THEY!' Everyone = എല്ലാവരും = they.\n• ഒരുമിച്ച് പഠിക്കേണ്ടത്: everyone, everybody, someone, somebody, no one, nobody → they | everything, nothing, something → it.\n• PSC strategy: tag ചോദ്യം കണ്ടാൽ മൂന്ന് പടി — (1) auxiliary കണ്ടെത്തുക (has), (2) വാക്യം positive ആണോ negative ആണോ എന്ന് നോക്കുക, (3) ശരിയായ pronoun ഇടുക. Main verb-ന്റെ form (submitted) കണ്ട് വഞ്ചിക്കപ്പെടരുത് — guaranteed mark!"
+    }
+  },
+  {
+    "id": "95-2026-M-Q84",
+    "paperId": "95-2026-M",
+    "questionNumber": 84,
+    "topic": "Conditionals",
+    "questionText": "Which sentence is grammatically correct?",
+    "optionA": "If I was the Chairperson, I would postpone the meeting.",
+    "optionB": "If I were the Chairperson, I would postpone the meeting.",
+    "optionC": "If I am the Chairperson, I would postpone the meeting.",
+    "optionD": "If I had been the Chairperson, I will postpone the meeting.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) If I were the Chairperson, I would postpone the meeting.\n\n• ഇത് ഒരു സാങ്കൽപ്പിക സാഹചര്യമാണ് — ഞാൻ ഇപ്പോൾ Chairperson അല്ല, പക്ഷേ ആയിരുന്നെങ്കിൽ എന്ത് ചെയ്യും എന്നാണ് പറയുന്നത്.\n• ഇത്തരം Second Conditional-ൽ (unreal present) എല്ലാ subject-നും 'were' ആണ് ഉപയോഗിക്കുന്നത് — I were, he were, she were.\n• Formula: If + past (were) → would + V1 (would postpone). രണ്ട് ഭാഗവും കൃത്യമായി ചേരുന്നത് (B)-യിൽ മാത്രം.\n• 'ഞാൻ Chairperson ആയിരുന്നെങ്കിൽ, meeting മാറ്റിവയ്ക്കുമായിരുന്നു' എന്നർഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: If + Past (were) → would + V1 (Second Conditional)\n• സങ്കൽപ്പം / ആഗ്രഹം / അസാധ്യമായ കാര്യം പറയുമ്പോൾ 'was' അല്ല, 'were' ആണ് ശരി — ഇതിനെ subjunctive 'were' എന്ന് പറയുന്നു.\n• First Conditional: If + present → will + V1 (നടക്കാൻ സാധ്യതയുള്ള കാര്യം).\n• Third Conditional: If + had + V3 → would have + V3 (കഴിഞ്ഞുപോയ, നടക്കാത്ത കാര്യം).\n• ⭐ PSC ആവർത്തനം: 'If I were a bird', 'If I were you' — 'were' ചോദ്യം PSC വർഷങ്ങളായി ആവർത്തിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. If I were rich, I would buy a house. (ഞാൻ പണക്കാരനായിരുന്നെങ്കിൽ ഒരു വീട് വാങ്ങുമായിരുന്നു.)\n2. If she were here, she would help us. (അവൾ ഇവിടെ ഉണ്ടായിരുന്നെങ്കിൽ നമ്മളെ സഹായിക്കുമായിരുന്നു.)\n3. If it rains, we will stay at home. (First — മഴ പെയ്താൽ ഞങ്ങൾ വീട്ടിലിരിക്കും.)\n4. If he had studied, he would have passed. (Third — അവൻ പഠിച്ചിരുന്നെങ്കിൽ ജയിക്കുമായിരുന്നു.)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) If I was the Chairperson, ...\n• സംസാര ഭാഷയിൽ ചിലർ 'was' പറയാറുണ്ടെങ്കിലും formal / exam grammar-ൽ സാങ്കൽപ്പിക സാഹചര്യത്തിന് 'were' ആണ് ശരി.\n• 🪤 PSC Trap: 'I was' സാധാരണ വാക്യങ്ങളിൽ ശരിയായതിനാൽ ഇതും ശരിയാണെന്ന് തോന്നും — ഏറ്റവും അപകടകരമായ കെണി ഇതാണ്!\n\n(C) If I am the Chairperson, I would ...\n• 'am' (present) + 'would' (Second Conditional) — രണ്ട് conditional-കൾ തമ്മിൽ കലർത്തിയിരിക്കുന്നു.\n• 'If I am' ആണെങ്കിൽ 'I will' ആണ് വേണ്ടത്.\n• 🪤 PSC Trap: tense കലർപ്പ് ശ്രദ്ധിക്കാത്തവരെ പിടിക്കാൻ.\n\n(D) If I had been the Chairperson, I will ...\n• 'had been' (Third Conditional) കൂടെ 'will' ഒരിക്കലും വരില്ല — 'would have postponed' വേണം.\n• 🪤 PSC Trap: 'had been' കണ്ട് ഉയർന്ന നിലവാരമുള്ള grammar ആണെന്ന് തെറ്റിദ്ധരിപ്പിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'സ്വപ്നത്തിൽ എല്ലാവരും WERE!' — സങ്കൽപ്പമാണെങ്കിൽ I / he / she / it — എല്ലാവർക്കും 'were'. 'If I were you' എന്നത് ഒരു പാട്ടുപോലെ മനസ്സിൽ വയ്ക്കൂ.\n• Conditional family ഒരുമിച്ച്: If + V1 → will | If + V2 (were) → would | If + had V3 → would have V3.\n• PSC strategy: If ചോദ്യം കണ്ടാൽ ആദ്യം രണ്ടാം ഭാഗത്തെ verb നോക്കുക (will / would / would have) — അതിനനുസരിച്ച് If ഭാഗം ചേരുന്നുണ്ടോ എന്ന് ഒത്തുനോക്കുക. ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "95-2026-M-Q85",
+    "paperId": "95-2026-M",
+    "questionNumber": 85,
+    "topic": "Infinitive and Gerunds",
+    "questionText": "Choose the sentence in which the gerund is correctly used.",
+    "optionA": "I look forward to receive your reply.",
+    "optionB": "I look forward to receiving your reply.",
+    "optionC": "I look forward for receiving your reply.",
+    "optionD": "I look forward receiving your reply.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) I look forward to receiving your reply.\n\n• 'look forward to' എന്നതിലെ 'to' infinitive-ന്റെ 'to' അല്ല — ഇത് ഒരു preposition ആണ്.\n• Preposition-ന് ശേഷം verb വരുമ്പോൾ അത് -ing form (gerund) ആയിരിക്കണം → 'to receiving'.\n• 'നിങ്ങളുടെ മറുപടി ലഭിക്കാൻ ഞാൻ ആകാംക്ഷയോടെ കാത്തിരിക്കുന്നു' എന്നർഥം — ഔദ്യോഗിക കത്തുകളിൽ സ്ഥിരമായി കാണുന്ന വാക്യമാണിത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Preposition 'to' + V-ing (gerund)\n• ചില phrase-കളിൽ 'to' preposition ആയി വരുന്നു — അവയ്ക്ക് ശേഷം V1 അല്ല, V-ing വേണം.\n• ഈ family ഒരുമിച്ച് ഓർക്കുക: look forward to, be used to, get used to, object to, with a view to, be accustomed to, confess to.\n• ⭐ PSC ആവർത്തനം: 'look forward to + ing', 'used to + ing', 'with a view to + ing' — PSC Gerund ചോദ്യങ്ങളിലെ സ്ഥിരം താരങ്ങൾ!\n• ഉദാഹരണ sentences:\n1. We look forward to meeting you. (നിങ്ങളെ കാണാൻ ഞങ്ങൾ ആകാംക്ഷയോടെ കാത്തിരിക്കുന്നു.)\n2. She is used to working late. (വൈകിയും ജോലി ചെയ്യുന്നത് അവൾക്ക് ശീലമാണ്.)\n3. He went to Delhi with a view to getting a job. (ജോലി നേടുക എന്ന ലക്ഷ്യത്തോടെ അവൻ ഡൽഹിയിലേക്ക് പോയി.)\n• ശ്രദ്ധിക്കുക: 'used to + V1' (പണ്ട് ചെയ്തിരുന്ന ശീലം — I used to play) എന്നതും 'be used to + V-ing' (ഇപ്പോൾ ശീലമായ കാര്യം — I am used to playing) എന്നതും രണ്ടും വ്യത്യസ്തമാണ്; PSC ഈ വ്യത്യാസം പലപ്പോഴും ചോദിക്കും.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) I look forward to receive your reply.\n• 'to' കണ്ട് V1 (receive) ഇട്ടിരിക്കുന്നു — ഇത് infinitive ആണെന്ന് തെറ്റിദ്ധരിച്ചതാണ്.\n• 🪤 PSC Trap: 'to + V1' എന്ന സാധാരണ ശീലം മുതലെടുത്താണ് ഈ കെണി — ഏറ്റവും കൂടുതൽ പേർ വീഴുന്ന option!\n\n(C) I look forward for receiving your reply.\n• 'look forward' എന്ന phrasal verb-ന്റെ preposition 'to' ആണ്, 'for' അല്ല.\n• 🪤 PSC Trap: 'wait for' എന്നതുമായി കലർത്തി 'for' ശരിയാണെന്ന് തോന്നിപ്പിക്കാൻ.\n\n(D) I look forward receiving your reply.\n• Preposition 'to' പൂർണമായി ഒഴിവാക്കിയിരിക്കുന്നു — 'look forward' ഒറ്റയ്ക്ക് object എടുക്കില്ല.\n• 🪤 PSC Trap: gerund ശരിയായതിനാൽ മുഴുവൻ ശരിയാണെന്ന് തോന്നും; preposition ഇല്ലാത്തത് ശ്രദ്ധിക്കാതെ പോകും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Look forward TO — ING-ലേക്ക് നോക്കൂ!' — ഭാവിയിലേക്ക് നോക്കുമ്പോൾ കാണുന്നത് -ing മാത്രം. പരീക്ഷണം: 'to'-ന് ശേഷം 'it' ഇട്ടുനോക്കൂ — 'I look forward to it' ശരിയാണെങ്കിൽ ആ 'to' preposition ആണ് → V-ing വേണം.\n• ഒരുമിച്ച് പഠിക്കേണ്ടത്: look forward to, be used to, object to, with a view to, be accustomed to.\n• PSC strategy: 'to' കണ്ട ഉടനെ V1 ഇടരുത് — ആദ്യം ആ phrase ഈ family-യിൽ പെട്ടതാണോ എന്ന് നോക്കുക. ഇത് ഓർത്തിരുന്നാൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "95-2026-M-Q86",
+    "paperId": "95-2026-M",
+    "questionNumber": 86,
+    "topic": "Active and Passive Voice",
+    "questionText": "Choose the correct passive form.\nPeople believe that climate change will affect every country.",
+    "optionA": "Climate change is believed affecting every country.",
+    "optionB": "It is believed climate change will affect every country.",
+    "optionC": "Climate change is believed to affect every country.",
+    "optionD": "Climate change has believed to affect every country.",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Climate change is believed to affect every country.\n\n• 'People believe that ...' പോലുള്ള വാക്യങ്ങൾക്ക് രണ്ട് passive രൂപമുണ്ട്:\n1. It is believed that climate change will affect every country.\n2. Climate change is believed to affect every country.\n• രണ്ടാം രൂപത്തിൽ that-clause-ലെ subject (climate change) വാക്യത്തിന്റെ തുടക്കത്തിലേക്ക് വരും, verb 'to + V1' (to affect) ആയി മാറും.\n• 'believe' present tense ആയതിനാൽ passive-ലും 'is believed' — tense മാറുന്നില്ല.\n• Options-ൽ ഈ നിയമം പൂർണമായി പാലിക്കുന്നത് (C) മാത്രമാണ്.\n• 'കാലാവസ്ഥാ വ്യതിയാനം എല്ലാ രാജ്യങ്ങളെയും ബാധിക്കുമെന്ന് വിശ്വസിക്കപ്പെടുന്നു' എന്നർഥം — പത്രവാർത്തകളിലും ഔദ്യോഗിക റിപ്പോർട്ടുകളിലും സ്ഥിരമായി കാണുന്ന ഘടനയാണിത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: People + believe/say + that + S + V → S + is + believed/said + to + V1\n• അല്ലെങ്കിൽ: It + is + believed/said + that + clause ('that' ഉൾപ്പെടുത്തുന്നതാണ് പരീക്ഷയിൽ സുരക്ഷിതം).\n• Active tense = Passive tense ALWAYS — 'believe' (present) → 'is believed'.\n• 'People', 'they' പോലുള്ള പൊതുവായ subject-കൾ passive-ൽ 'by people' എന്ന് ചേർക്കാറില്ല.\n• ⭐ PSC ആവർത്തനം: 'It is said that ...' / '... is said to be ...' — reporting verb passive PSC-യുടെ പുതിയ പ്രിയ pattern ആണ്.\n• ഉദാഹരണ sentences:\n1. People say that he is honest. → He is said to be honest. (അവൻ സത്യസന്ധനാണെന്ന് പറയപ്പെടുന്നു.)\n2. They think that the thief has escaped. → The thief is thought to have escaped. (കള്ളൻ രക്ഷപ്പെട്ടുവെന്ന് കരുതപ്പെടുന്നു — കഴിഞ്ഞ സംഭവമായതിനാൽ 'to have + V3'.)\n3. People believe that the house is haunted. → It is believed that the house is haunted. (ആ വീട്ടിൽ പ്രേതമുണ്ടെന്ന് വിശ്വസിക്കപ്പെടുന്നു.)\n• ഓർക്കുക: that-clause-ലെ സംഭവം ഇപ്പോഴോ ഭാവിയിലോ ആണെങ്കിൽ 'to + V1', കഴിഞ്ഞുപോയതാണെങ്കിൽ 'to have + V3' — ഈ ചെറിയ വ്യത്യാസം മനസ്സിലാക്കിയാൽ ഈ ചോദ്യം ഒരിക്കലും തെറ്റില്ല.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) Climate change is believed affecting every country.\n• 'is believed'-ന് ശേഷം 'to + V1' വേണം; -ing form (affecting) ഈ ഘടനയിൽ വരില്ല.\n• 🪤 PSC Trap: -ing form കണ്ട് ശരിയെന്ന് തോന്നിപ്പിക്കാൻ.\n\n(B) It is believed climate change will affect every country.\n• 'It is believed' ഘടന ശരിയാണ്, പക്ഷേ 'that' ഒഴിവാക്കിയിരിക്കുന്നു — formal grammar-ൽ 'It is believed THAT ...' ആണ് പൂർണ രൂപം.\n• 🪤 PSC Trap: ഏറ്റവും അടുത്ത് നിൽക്കുന്ന option — 'that' ഇല്ലാത്തത് ശ്രദ്ധിക്കാത്തവർ ഇത് എടുക്കും. Options-ൽ ഏറ്റവും കൃത്യം (C) ആണ്.\n\n(D) Climate change has believed to affect every country.\n• 'has believed' active രൂപമാണ് — passive-ന് 'be + V3' (is believed) വേണം; tense-ഉം present perfect ആയി മാറിപ്പോയി.\n• 🪤 PSC Trap: V3 (believed) കണ്ടാൽ passive ആയി എന്ന് കരുതുന്നവരെ പിടിക്കാൻ — 'be' verb ഇല്ലെങ്കിൽ passive ഇല്ല!",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'THAT പോയാൽ TO വരും!' — that-clause ഒഴിവാക്കി subject-നെ മുന്നിലെത്തിച്ചാൽ verb 'to + V1' ആകും: is believed TO affect.\n• ഒരുമിച്ച് പഠിക്കേണ്ട reporting verbs: say, believe, think, know, report, expect → is said to / is believed to / is known to.\n• PSC strategy: passive options-ൽ മൂന്ന് കാര്യം നോക്കുക — (1) 'be' + V3 ഉണ്ടോ, (2) tense active-ലേതു തന്നെയാണോ, (3) 'to + V1' അല്ലെങ്കിൽ 'It ... that' ഘടന പൂർണമാണോ. മൂന്നും ശരിയായ option എടുക്കൂ — ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "95-2026-M-Q87",
+    "paperId": "95-2026-M",
+    "questionNumber": 87,
+    "topic": "One Word Substitutes",
+    "questionText": "Choose the correct one-word substitute.\nOne who is appointed to investigate complaints against public authorities.",
+    "optionA": "Arbitrator",
+    "optionB": "Ombudsman",
+    "optionC": "Mediator",
+    "optionD": "Adjudicator",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Ombudsman\n\n• പൊതു അധികാരികൾക്ക് (സർക്കാർ ഉദ്യോഗസ്ഥർ, സ്ഥാപനങ്ങൾ) എതിരെയുള്ള പരാതികൾ അന്വേഷിക്കാൻ നിയമിക്കപ്പെട്ട ഉദ്യോഗസ്ഥനാണ് Ombudsman.\n• ഇന്ത്യയിലെ Lokpal, കേരളത്തിലെ Lok Ayukta എന്നിവ Ombudsman സ്ഥാപനങ്ങളുടെ ഉദാഹരണങ്ങളാണ്; Banking Ombudsman ബാങ്കുകൾക്കെതിരെയുള്ള പരാതികൾ കേൾക്കുന്നു.\n• Etymology: Swedish ഭാഷയിൽ നിന്നാണ് ഈ വാക്ക് — 'ombud' = പ്രതിനിധി. ജനങ്ങളുടെ പ്രതിനിധിയായി അധികാരികളെ ചോദ്യം ചെയ്യുന്നയാൾ!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Ombudsman = പൊതു അധികാരികൾക്കെതിരെയുള്ള പരാതി അന്വേഷിക്കുന്നയാൾ\n• One Word Substitute ചോദ്യങ്ങളിൽ നിർവചനത്തിലെ പ്രധാന വാക്ക് കണ്ടെത്തുക — ഇവിടെ 'complaints against public authorities' ആണ് നിർണായകം.\n• തർക്കം / പരാതി കൈകാര്യം ചെയ്യുന്നവരുടെ family: Arbitrator, Mediator, Adjudicator, Ombudsman, Umpire — ഓരോന്നിനും പ്രത്യേക ജോലിയുണ്ട്.\n• Etymology hint: Ombudsman → Swedish 'ombud' (പ്രതിനിധി); 1809-ൽ സ്വീഡൻ ആണ് ആദ്യമായി ഈ പദവി സൃഷ്ടിച്ചത്.\n• ⭐ PSC ആവർത്തനം: Ombudsman, Lokpal, Lok Ayukta — English-ലും GK-യിലും PSC ചോദിക്കുന്ന വാക്ക്!\n• ഉദാഹരണ sentences:\n1. The ombudsman investigated the complaint against the municipality.\n2. You can approach the Banking Ombudsman if the bank ignores your complaint.\n3. The Lokpal acts as an ombudsman at the national level.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) Arbitrator\n• രണ്ട് കക്ഷികൾ തമ്മിലുള്ള തർക്കത്തിൽ ഇരുവരും അംഗീകരിക്കുന്ന, തീരുമാനം പറയാൻ അധികാരമുള്ള മൂന്നാമത്തെ ആൾ.\n• പൊതു അധികാരികൾക്കെതിരെയുള്ള പരാതി അന്വേഷണം ഇയാളുടെ ജോലിയല്ല.\n• 🪤 PSC Trap: 'തർക്കം / പരാതി' എന്ന പൊതുവായ ബന്ധം കൊണ്ട് ശരിയെന്ന് തോന്നിപ്പിക്കുന്നു.\n\n(C) Mediator\n• ഇരുകക്ഷികളെയും സംസാരിപ്പിച്ച് ഒത്തുതീർപ്പിലെത്തിക്കാൻ സഹായിക്കുന്നയാൾ — ഇയാൾക്ക് വിധി പറയാൻ അധികാരമില്ല.\n• 🪤 PSC Trap: Arbitrator-ഉം Mediator-ഉം തമ്മിലുള്ള ആശയക്കുഴപ്പം മുതലെടുക്കുന്നു.\n\n(D) Adjudicator\n• ഒരു കേസിൽ / തർക്കത്തിൽ ഔദ്യോഗികമായി വിധി പ്രസ്താവിക്കുന്നയാൾ (ജഡ്ജിയെപ്പോലെ).\n• അന്വേഷണം അല്ല, വിധി നിർണയമാണ് ഇയാളുടെ ജോലി.\n• 🪤 PSC Trap: 'judge' എന്ന അർഥസാമ്യം കൊണ്ട് കുഴക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'OMBUDSMAN = OMBUD (പ്രതിനിധി) + MAN' — ജനങ്ങളുടെ പ്രതിനിധി, സർക്കാരിനെതിരെ പരാതി കേൾക്കുന്നയാൾ. Lokpal = ഇന്ത്യയുടെ Ombudsman എന്ന് ഓർത്താൽ മതി!\n• ഒരുമിച്ച് പഠിക്കേണ്ടത്: Arbitrator (വിധി പറയുന്ന മധ്യസ്ഥൻ) | Mediator (ഒത്തുതീർപ്പിന് സഹായി) | Adjudicator (ഔദ്യോഗിക വിധികർത്താവ്) | Ombudsman (അധികാരികൾക്കെതിരെ പരാതി അന്വേഷകൻ).\n• PSC strategy: നിർവചനത്തിൽ 'public authorities / government / officials' കണ്ടാൽ കണ്ണടച്ച് Ombudsman! Guaranteed mark!"
+    }
+  },
+  {
+    "id": "95-2026-M-Q88",
+    "paperId": "95-2026-M",
+    "questionNumber": 88,
+    "topic": "Antonyms",
+    "questionText": "Choose the word opposite in meaning to MITIGATE.",
+    "optionA": "Intensify",
+    "optionB": "Alleviate",
+    "optionC": "Moderate",
+    "optionD": "Relieve",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Intensify\n\n• 'Mitigate' എന്നാൽ ഒരു വേദനയുടെയോ ദോഷത്തിന്റെയോ പ്രശ്നത്തിന്റെയോ തീവ്രത കുറയ്ക്കുക / ലഘൂകരിക്കുക എന്നർഥം.\n• 'Intensify' എന്നാൽ തീവ്രത കൂട്ടുക / ശക്തമാക്കുക — അതായത് mitigate-ന്റെ നേർ വിപരീതം.\n• ഉദാഹരണം: മരങ്ങൾ മലിനീകരണത്തിന്റെ ദോഷം കുറയ്ക്കുന്നു (mitigate) ✕ പുക മലിനീകരണം കൂട്ടുന്നു (intensify).\n• Etymology: Latin 'mitis' = മൃദുവായ → mitigate = മൃദുവാക്കുക.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Mitigate = കുറയ്ക്കുക ✕ Intensify / Aggravate / Worsen = കൂട്ടുക\n• Mitigate-ന്റെ synonyms: alleviate, moderate, relieve, lessen, ease, soften.\n• Antonym ചോദ്യങ്ങളിൽ ബാക്കി മൂന്ന് options പലപ്പോഴും synonyms ആയിരിക്കും — അവയെ ഒഴിവാക്കിയാൽ ഉത്തരം തനിയെ കിട്ടും.\n• Etymology hint: Latin 'mitis' (മൃദുവായ) + 'agere' (ആക്കുക) → 'മൃദുവാക്കുക'.\n• ⭐ PSC ആവർത്തനം: mitigate, alleviate, aggravate — ഈ മൂന്ന് വാക്കുകൾ synonym / antonym ആയി PSC മാറിമാറി ചോദിക്കുന്നു!\n• ഉദാഹരണ sentences:\n1. The government took steps to mitigate the flood damage. (പ്രളയനാശം കുറയ്ക്കാൻ സർക്കാർ നടപടികൾ സ്വീകരിച്ചു.)\n2. The medicine alleviated his pain. (മരുന്ന് അവന്റെ വേദന കുറച്ചു.)\n3. The heavy rain intensified the crisis. (കനത്ത മഴ പ്രതിസന്ധി രൂക്ഷമാക്കി.)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) Alleviate\n• വേദനയോ ദുരിതമോ ലഘൂകരിക്കുക — ഇത് mitigate-ന്റെ synonym ആണ്, antonym അല്ല.\n• 🪤 PSC Trap: ചോദ്യം 'opposite' ആണെന്ന് മറന്ന് സമാന അർഥം തിരയുന്നവരെ വീഴ്ത്താൻ.\n\n(C) Moderate\n• മിതപ്പെടുത്തുക / തീവ്രത കുറയ്ക്കുക — ഇതും mitigate-ന് സമാനമായ അർഥമാണ്.\n• 🪤 PSC Trap: 'moderate' എന്ന adjective-ന്റെ (ഇടത്തരം) അർഥം ഓർത്ത് ആശയക്കുഴപ്പം ഉണ്ടാക്കാൻ.\n\n(D) Relieve\n• ആശ്വാസം നൽകുക / ഭാരം കുറയ്ക്കുക — വീണ്ടും ഒരു synonym.\n• 🪤 PSC Trap: മൂന്ന് synonyms ഒരുമിച്ച് നിരത്തി കുഴപ്പിക്കുന്ന പഴയ antonym തന്ത്രം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'MITIGATE = MITI (മിതം) + GATE' — മിതമാക്കാൻ ഗേറ്റ് അടയ്ക്കുന്നു, ദോഷം അകത്തേക്ക് വരുന്നത് കുറയുന്നു! വിപരീതം — INTENSIFY = INTENSE ആക്കുക.\n• Word family: mitigate, alleviate, assuage, allay (കുറയ്ക്കുക) ✕ aggravate, intensify, exacerbate, worsen (കൂട്ടുക).\n• PSC strategy: Antonym ചോദ്യത്തിൽ മൂന്ന് options ഒരേ അർഥമാണെങ്കിൽ, വേറിട്ടു നിൽക്കുന്ന 'odd one out' ആണ് ഉത്തരം. ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "95-2026-M-Q89",
+    "paperId": "95-2026-M",
+    "questionNumber": 89,
+    "topic": "Idioms",
+    "questionText": "The idiom ‘to read between the lines’ means",
+    "optionA": "to read quickly",
+    "optionB": "to infer an unstated meaning",
+    "optionC": "to read silently",
+    "optionD": "to read repeatedly",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) to infer an unstated meaning\n\n• 'Read between the lines' എന്നാൽ വാക്കുകളിൽ നേരിട്ട് പറയാത്ത, ഒളിഞ്ഞിരിക്കുന്ന അർഥം മനസ്സിലാക്കുക എന്നാണ്.\n• അക്ഷരാർഥത്തിൽ 'വരികൾക്കിടയിൽ വായിക്കുക' — അതായത് എഴുതിയതിനപ്പുറം എഴുത്തുകാരന്റെ ഉദ്ദേശ്യം ഊഹിച്ചെടുക്കുക.\n• 'Infer' = സൂചനകളിൽ നിന്ന് നിഗമനത്തിലെത്തുക; 'unstated' = പറയാത്ത.\n• ഉദാഹരണം: അദ്ദേഹത്തിന്റെ കത്ത് സൗഹൃദപരമായിരുന്നു, പക്ഷേ വരികൾക്കിടയിൽ വായിച്ചാൽ അദ്ദേഹം അസന്തുഷ്ടനാണെന്ന് മനസ്സിലാകും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Read between the lines = പറയാത്ത അർഥം കണ്ടെത്തുക\n• Idiom-ന്റെ അർഥം അതിലെ ഓരോ വാക്കിന്റെയും അക്ഷരാർഥമല്ല — മൊത്തത്തിലുള്ള ആലങ്കാരിക അർഥമാണ്.\n• 'Read' ഉള്ള idioms ഒരുമിച്ച്: read between the lines (ഒളിഞ്ഞ അർഥം), read someone like a book (മനസ്സ് വായിക്കുക), read the riot act (കർശനമായി താക്കീത് ചെയ്യുക).\n• ⭐ PSC ആവർത്തനം: Idiom ചോദ്യങ്ങൾ മിക്കവാറും എല്ലാ PSC English section-ലും ഒന്നെങ്കിലും ഉറപ്പായി വരും!\n• ഉദാഹരണ sentences:\n1. Reading between the lines, I realised she wanted to quit.\n2. The report says little, but you can read between the lines.\n3. He never said he was angry, but I could read between the lines.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) to read quickly\n• വേഗത്തിൽ ഓടിച്ചു വായിക്കുക എന്നതിന് 'skim' എന്നാണ് പറയുന്നത്.\n• 🪤 PSC Trap: 'read' എന്ന വാക്ക് ഉള്ളതുകൊണ്ട് അക്ഷരാർഥത്തിലേക്ക് നയിക്കാൻ.\n\n(C) to read silently\n• ശബ്ദമില്ലാതെ മനസ്സിൽ വായിക്കുക — ഇതൊരു idiom അല്ല, വെറും സാധാരണ പ്രവൃത്തി.\n• 🪤 PSC Trap: 'വരികൾക്കിടയിൽ' എന്നതിനെ നിശ്ശബ്ദതയുമായി ബന്ധിപ്പിച്ച് ചിന്തിപ്പിക്കാൻ.\n\n(D) to read repeatedly\n• വീണ്ടും വീണ്ടും വായിക്കുക — ഇതിനും ഒളിഞ്ഞ അർഥം കണ്ടെത്തലുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'സൂക്ഷ്മമായി വായിക്കുക' എന്ന ആശയത്തോട് അടുത്തുനിൽക്കുന്നതിനാൽ ചിലർ ഇത് തിരഞ്ഞെടുക്കും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: രണ്ട് വരികൾക്കിടയിലെ ശൂന്യമായ വെള്ള ഭാഗം സങ്കൽപ്പിക്കുക — അവിടെ ഒന്നും എഴുതിയിട്ടില്ല, പക്ഷേ ബുദ്ധിയുള്ളവർ അവിടെ ഒരു രഹസ്യ സന്ദേശം 'വായിക്കും'! ആ വെള്ള സ്ഥലം = പറയാത്ത അർഥം.\n• ഒരുമിച്ച് പഠിക്കേണ്ട idioms: read between the lines, beat around the bush, take with a pinch of salt, hit the nail on the head.\n• PSC strategy: Idiom options-ൽ അക്ഷരാർഥമുള്ളവ (quickly, silently, repeatedly) ആദ്യം വെട്ടുക — ആലങ്കാരിക അർഥമുള്ളതാണ് മിക്കവാറും ഉത്തരം. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "95-2026-M-Q90",
+    "paperId": "95-2026-M",
+    "questionNumber": 90,
+    "topic": "Foreign Words and Phrases",
+    "questionText": "Choose the correct meaning of the foreign expression __de facto__.",
+    "optionA": "According to law",
+    "optionB": "In good faith",
+    "optionC": "In anticipation",
+    "optionD": "Existing in fact though not legally recognised",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) Existing in fact though not legally recognised\n\n• 'De facto' ഒരു Latin പ്രയോഗമാണ് — അർഥം 'യഥാർഥത്തിൽ / പ്രായോഗികമായി'.\n• നിയമപരമായ അംഗീകാരം ഇല്ലെങ്കിലും യഥാർഥത്തിൽ നിലനിൽക്കുന്ന / പ്രവർത്തിക്കുന്ന ഒന്നിനെയാണ് ഇത് സൂചിപ്പിക്കുന്നത്.\n• ഉദാഹരണം: ഔദ്യോഗിക പദവി ഇല്ലെങ്കിലും എല്ലാ തീരുമാനങ്ങളും എടുക്കുന്നയാൾ ആ സംഘത്തിന്റെ 'de facto leader' ആണ്.\n• Etymology: Latin 'de' = നിന്ന് + 'facto' = വസ്തുത → 'വസ്തുതയിൽ നിന്ന്'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: De facto = യഥാർഥത്തിൽ ✕ De jure = നിയമപ്രകാരം\n• ഈ രണ്ട് Latin പ്രയോഗങ്ങളും ഒരു ജോഡിയായി പഠിക്കണം — PSC ഇവ തമ്മിൽ മാറ്റി ചോദിക്കും.\n• മറ്റ് Latin പ്രയോഗങ്ങൾ: bona fide (ആത്മാർഥമായ), ad hoc (ഒരു പ്രത്യേക ആവശ്യത്തിന് മാത്രം), status quo (നിലവിലെ അവസ്ഥ), suo motu (സ്വമേധയാ), ex officio (പദവിയുടെ അടിസ്ഥാനത്തിൽ).\n• ⭐ PSC ആവർത്തനം: de facto / de jure / bona fide / ad hoc — Foreign Words ചോദ്യങ്ങളിലെ സ്ഥിരം മുൻനിരക്കാർ!\n• ഉദാഹരണ sentences:\n1. English is the de facto language of business there.\n2. He became the de facto ruler after the king fell ill.\n3. The country is the de jure owner of the island, but another nation has de facto control.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) According to law\n• ഇത് 'de jure' എന്ന Latin പ്രയോഗത്തിന്റെ അർഥമാണ് — de facto-യുടെ നേർ വിപരീതം!\n• 🪤 PSC Trap: de facto / de jure ജോഡിയെ തമ്മിൽ മാറ്റിവെച്ച് കുഴപ്പിക്കുന്ന ഏറ്റവും വലിയ കെണി.\n\n(B) In good faith\n• ഇത് 'bona fide' എന്ന Latin പ്രയോഗത്തിന്റെ അർഥം — ആത്മാർഥതയോടെ, വഞ്ചനയില്ലാതെ.\n• 🪤 PSC Trap: മറ്റൊരു പരിചിത Latin പ്രയോഗത്തിന്റെ അർഥം option ആക്കി വെച്ചിരിക്കുന്നു.\n\n(C) In anticipation\n• മുൻകൂട്ടി കണ്ട് / പ്രതീക്ഷയോടെ — ഇതിന് de facto-യുമായി ഒരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: 'de' എന്ന prefix 'മുൻപ്' എന്ന അർഥത്തിലാണെന്ന് തെറ്റിദ്ധരിക്കുന്നവരെ പിടിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'FACTO = FACT (സത്യം), JURE = JURY (നിയമം / കോടതി)' — De facto = സത്യത്തിൽ ഉള്ളത്; De jure = കോടതി / നിയമം അംഗീകരിച്ചത്.\n• ഒരുമിച്ച് പഠിക്കേണ്ട Latin family: de facto, de jure, bona fide, ad hoc, status quo, suo motu, ex officio, prima facie.\n• PSC strategy: Foreign phrase ചോദ്യത്തിൽ മറ്റ് Latin പ്രയോഗങ്ങളുടെ അർഥങ്ങളാണ് പലപ്പോഴും തെറ്റായ options ആയി വരുന്നത് — ഓരോ option-ഉം ഏത് പ്രയോഗത്തിന്റേതാണെന്ന് തിരിച്ചറിഞ്ഞാൽ ഉത്തരം ഉറപ്പ്!"
+    }
   }
 ]
