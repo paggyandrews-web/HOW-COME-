@@ -54682,5 +54682,635 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) None, the — singular countable noun ആയ 'trip'-നു മുമ്പ് article ഒഴിവാക്കാനാവില്ല; 'the expensive one' എന്നാൽ നേരത്തേ പറഞ്ഞ ഒരു പ്രത്യേക വിലകൂടിയ യാത്ര എന്ന് അർഥം മാറും.\n• (C) A, the — 'A trip to Switzerland' എന്നു തുടങ്ങാം; പക്ഷേ രണ്ടാം ഭാഗത്തെ 'the expensive one' ഇവിടെ ചേരില്ല — പുതിയ വിവരം നൽകുമ്പോൾ 'an' വേണം.\n• 🪤 PSC Trap: ആദ്യ blank-ൽ a-യും the-യും രണ്ടും സാധ്യമാണെന്നു തോന്നും; രണ്ടാമത്തെ blank ആണ് ഉത്തരം തീരുമാനിക്കുന്നത്.\n• (D) The, none — 'was expensive one' എന്നാകും; 'one' എന്ന singular pronoun-നു മുമ്പ് article ഇല്ലാതെ പറ്റില്ല.",
       "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'അറിയാവുന്നതിന് THE, ഒന്നിന് A / AN, സ്വരത്തിനു മുന്നിൽ AN' — expensive-ലെ 'എ' ശബ്ദം കേട്ടാൽ an ഉറപ്പ്.\n• ഒരുമിച്ചു പഠിക്കാം: an expensive one, an easy one, an old one, an interesting one | a cheap one, a good one, a useful one, a one-day trip.\n• PSC strategy: രണ്ടു blank ഉള്ള ചോദ്യത്തിൽ ഉറപ്പുള്ള blank ആദ്യം പരിഹരിക്കുക (ഇവിടെ 'an expensive'); അതോടെ ഒരു option മാത്രം ബാക്കിയാകും. ഒരിക്കലും miss ആകില്ല!"
     }
+  },
+  {
+    "id": "138-2025-E-Q11",
+    "paperId": "138-2025-E",
+    "questionNumber": 11,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Choose the pronoun that best fits :\nEach of the boys must bring ____________ own lunch.",
+    "optionA": "their",
+    "optionB": "his",
+    "optionC": "them",
+    "optionD": "hers",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) his\n\n• 'Each' എന്ന വാക്കിന് 'ഓരോരുത്തനും' എന്നാണ് അർത്ഥം — ഒരു കൂട്ടത്തിലെ ഓരോ ആളെയും ഒറ്റയ്ക്കൊറ്റയ്ക്ക് എടുക്കുന്നു. അതുകൊണ്ട് 'Each' എപ്പോഴും singular ആണ്.\n• Subject singular ആയതിനാൽ അതിനെ സൂചിപ്പിക്കുന്ന pronoun-ഉം singular ആകണം.\n• 'boys' ആൺകുട്ടികൾ ആയതിനാൽ masculine singular ആയ 'his' തന്നെ ചേരും.\n• 'ആൺകുട്ടികളിൽ ഓരോരുത്തനും അവനവന്റെ ഉച്ചഭക്ഷണം കൊണ്ടുവരണം' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Each / Every / Either / Neither + of + plural noun → singular verb + singular pronoun!\n• 'of the boys' എന്ന plural ഭാഗം കണ്ട് കുഴങ്ങരുത് — യഥാർത്ഥ subject 'Each' ആണ്, 'boys' അല്ല.\n• ഇതേ കുടുംബം: each, every, everyone, everybody, anyone, nobody, someone — എല്ലാം singular.\n• ⭐ PSC ആവർത്തനം: 'Each of the + plural noun' എന്ന ഘടന pronoun-ഉം verb-ഉം ചോദിക്കാൻ PSC വീണ്ടും വീണ്ടും ഉപയോഗിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. Each of the girls has done her homework. (പെൺകുട്ടികൾ → her)\n2. Every student must carry his identity card.\n3. Neither of the boys has finished his work.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) their — ഇത് plural pronoun ആണ് ('അവരുടെ').\n• 'Each' singular ആയതിനാൽ ഇവിടെ plural pronoun ചേരില്ല.\n• 🪤 PSC Trap: 'boys' എന്ന plural വാക്ക് തൊട്ടടുത്ത് ഉള്ളതുകൊണ്ട് 'their' ശരിയാണെന്ന് തോന്നിപ്പിക്കാനാണ് ഈ option. സംസാരഭാഷയിൽ 'their' കേൾക്കാറുണ്ടെങ്കിലും PSC നോക്കുന്നത് formal grammar ആണ്.\n\n• (C) them — ഇത് objective case ആണ് ('അവരെ'), possessive അല്ല.\n• 'own lunch' എന്നതിന് മുമ്പ് ഉടമസ്ഥത കാണിക്കുന്ന വാക്കാണ് വേണ്ടത്.\n• 🪤 PSC Trap: plural ആശയക്കുഴപ്പം ഉള്ളവരെ വീഴ്ത്താൻ.\n\n• (D) hers — ഇത് feminine possessive pronoun ആണ്, ഒറ്റയ്ക്ക് നിൽക്കുന്ന രൂപം.\n• 'boys' ആൺകുട്ടികൾ ആയതിനാൽ feminine ചേരില്ല; കൂടാതെ noun-ന് മുമ്പ് 'hers' വരില്ല, 'her' ആണ് വരേണ്ടത്.\n• 🪤 PSC Trap: singular ആണല്ലോ എന്ന് മാത്രം നോക്കുന്നവരെ കുടുക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Each = ഓരോ ഒരാൾ' — 'ഒരാൾ' എന്ന് മനസ്സിൽ പറഞ്ഞാൽ singular ആണെന്ന് ഒരിക്കലും മറക്കില്ല!\n• ഒരുമിച്ച് പഠിക്കുക: Each / Every / Either / Neither / Everyone / Nobody → his/her, has, is, was.\n• PSC strategy: 'of the' കണ്ടാൽ അതിന് മുമ്പുള്ള വാക്ക് നോക്കുക — അതാണ് യഥാർത്ഥ subject. പിന്നെ gender നോക്കി his/her തിരഞ്ഞെടുക്കുക. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "138-2025-E-Q12",
+    "paperId": "138-2025-E",
+    "questionNumber": 12,
+    "topic": "Parts of Speech",
+    "questionText": "Which of the following is NOT a possessive pronoun?",
+    "optionA": "Yours",
+    "optionB": "His",
+    "optionC": "Our",
+    "optionD": "Theirs",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Our\n\n• 'Our' എന്നത് possessive pronoun അല്ല, possessive adjective ആണ് (determiner എന്നും പറയും).\n• 'Our' ഒറ്റയ്ക്ക് നിൽക്കില്ല — അതിന് ശേഷം ഒരു noun നിർബന്ധമായും വേണം: our house, our teacher.\n• Possessive pronoun noun-ന് പകരം ഒറ്റയ്ക്ക് നിൽക്കും: 'This house is ours.' — ഇവിടെ 'ours' ആണ് pronoun.\n• അതുകൊണ്ട് കൂട്ടത്തിൽ ഒറ്റയ്ക്ക് നിൽക്കാൻ കഴിയാത്തത് 'Our' മാത്രം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Noun കൂടെ വേണം → possessive adjective | ഒറ്റയ്ക്ക് നിൽക്കും → possessive pronoun.\n• Possessive adjectives: my, your, his, her, its, our, their.\n• Possessive pronouns: mine, yours, his, hers, its, ours, theirs.\n• 'his' രണ്ട് കൂട്ടത്തിലും വരും — 'his book' (adjective), 'The book is his' (pronoun).\n• ⭐ PSC ആവർത്തനം: 'NOT a possessive pronoun' / 'possessive adjective ഏത്' — ഈ ചോദ്യം വിവിധ രൂപങ്ങളിൽ PSC ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. This is our car. → This car is ours.\n2. That is your pen. → That pen is yours.\n3. It is their land. → The land is theirs.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Yours — 'നിങ്ങളുടേത്' എന്നർത്ഥം; ഇത് ഒറ്റയ്ക്ക് നിൽക്കുന്ന യഥാർത്ഥ possessive pronoun ആണ്.\n• 'The choice is yours.' — ശേഷം noun ആവശ്യമില്ല.\n• 🪤 PSC Trap: '-s' ൽ അവസാനിക്കുന്നതിനാൽ plural ആണോ എന്ന് സംശയം തോന്നിപ്പിക്കാൻ.\n\n• (B) His — 'അവന്റേത്'. 'The bag is his.' എന്ന് ഒറ്റയ്ക്ക് നിൽക്കാൻ കഴിയുന്നതിനാൽ ഇതും possessive pronoun ആണ്.\n• 🪤 PSC Trap: 'his book' എന്ന adjective ഉപയോഗം ഓർത്ത് ഇത് തിരഞ്ഞെടുക്കുന്നവരെ കുടുക്കാൻ. രണ്ട് രൂപവും ഒന്നായതിനാലാണ് ഇത് pronoun ആയി കണക്കാക്കുന്നത്.\n\n• (D) Theirs — 'അവരുടേത്'; ഒറ്റയ്ക്ക് നിൽക്കുന്ന possessive pronoun.\n• 🪤 PSC Trap: 'their'-ഉം 'theirs'-ഉം തമ്മിലുള്ള വ്യത്യാസം അറിയാത്തവരെ വീഴ്ത്താൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'S ഉള്ളവൻ ഒറ്റയ്ക്ക് നടക്കും!' — yours, hers, ours, theirs (s ഉണ്ട്) → pronoun. my, your, our, their (s ഇല്ല) → noun-ന്റെ കൈ പിടിച്ചേ നടക്കൂ.\n• Pair ആയി പഠിക്കുക: my–mine, your–yours, her–hers, our–ours, their–theirs, his–his.\n• PSC strategy: ഓരോ option-ഉം 'This book is ___' എന്ന വാക്യത്തിൽ ഇട്ട് നോക്കുക. 'This book is our' ശരിയല്ലാത്തതിനാൽ ഉത്തരം ഉടൻ കിട്ടും!"
+    }
+  },
+  {
+    "id": "138-2025-E-Q13",
+    "paperId": "138-2025-E",
+    "questionNumber": 13,
+    "topic": "Active and Passive Voice",
+    "questionText": "Choose the passive form of the sentence :\nThe company will launch a new product.",
+    "optionA": "A new product was launched by the company",
+    "optionB": "A new product has been launched by the company",
+    "optionC": "A new product will be launched by the company",
+    "optionD": "The company launched a new product",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) A new product will be launched by the company\n\n• Active വാക്യം Simple Future tense-ൽ ആണ് ('will launch').\n• Voice മാറ്റുമ്പോൾ tense ഒരിക്കലും മാറരുത് — അതിനാൽ passive-ഉം Simple Future-ൽ തന്നെ വേണം.\n• Simple Future passive രൂപം: will + be + V3 → 'will be launched'.\n• Object ആയ 'a new product' passive-ൽ subject ആകുന്നു; 'the company' 'by' ചേർത്ത് അവസാനത്തിലേക്ക് പോകുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Active tense = Passive tense ALWAYS! will + V1 → will + be + V3.\n• പടികൾ: Object-നെ മുന്നിലേക്ക് കൊണ്ടുവരിക → tense അനുസരിച്ച് be രൂപം ചേർക്കുക → main verb V3 ആക്കുക → by + subject.\n• Future tense കുടുംബം: will write → will be written; will have written → will have been written.\n• ⭐ PSC ആവർത്തനം: Active-Passive മാറ്റം മിക്കവാറും എല്ലാ PSC English section-ലും ഉണ്ടാകും — tense തെറ്റിച്ച options ആണ് സ്ഥിരം കെണി.\n• ഉദാഹരണ sentences:\n1. She will sing a song. → A song will be sung by her.\n2. They will build a bridge. → A bridge will be built by them.\n3. The teacher will check the papers. → The papers will be checked by the teacher.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) was launched — ഇത് Simple Past passive ആണ്.\n• Active future ആയതിനാൽ past രൂപം tense മാറ്റലാണ് — തെറ്റ്.\n• 🪤 PSC Trap: passive ഘടന ശരിയായതിനാൽ ശ്രദ്ധിക്കാതെ തിരഞ്ഞെടുക്കാൻ സാധ്യത.\n\n• (B) has been launched — ഇത് Present Perfect passive ആണ്.\n• Tense വീണ്ടും മാറി; 'will' എവിടെയും ഇല്ല.\n• 🪤 PSC Trap: 'been' കണ്ടാൽ passive ആണെന്ന് മാത്രം നോക്കുന്നവരെ കുടുക്കാൻ.\n\n• (D) The company launched a new product — ഇത് passive അല്ല, Simple Past active ആണ്.\n• Subject അതേപടി; verb-ന്റെ tense മാത്രം മാറി.\n• 🪤 PSC Trap: ചോദ്യത്തിലെ വാക്യവുമായി സാമ്യം ഉള്ളതുകൊണ്ട് ധൃതിയിൽ ഉള്ളവർ വീഴും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Voice മാറും, കാലം മാറില്ല!' — Will കണ്ടാൽ will be, Is കണ്ടാൽ is being/is, Has കണ്ടാൽ has been.\n• Modal കുടുംബം ഒരുമിച്ച് പഠിക്കുക: will / shall / can / may / must + be + V3.\n• PSC strategy: ആദ്യം active-ലെ helping verb കണ്ടെത്തുക; അതേ helping verb ഉള്ള option മാത്രം നോക്കുക. 4-ൽ 3 options ഉടൻ ഒഴിവാകും!"
+    }
+  },
+  {
+    "id": "138-2025-E-Q14",
+    "paperId": "138-2025-E",
+    "questionNumber": 14,
+    "topic": "Infinitive and Gerunds",
+    "questionText": "In which sentence is the gerund the object of the verb? (~~deleted by psc~~)",
+    "optionA": "Sleeping is his favourite pastime",
+    "optionB": "I love eating apples",
+    "optionC": "Eating is his hobby",
+    "optionD": "He loves accumulating wealth",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: PSC ഈ ചോദ്യം Final Answer Key-ൽ ഒഴിവാക്കി (deleted)\n\n• കാരണം ലളിതമാണ് — ഈ ചോദ്യത്തിന് രണ്ട് ശരിയുത്തരങ്ങൾ ഉണ്ട്: (B)-ഉം (D)-ഉം.\n• (B) I love eating apples — 'love' എന്ന verb-ന്റെ object ആണ് 'eating' ('എന്ത് ഇഷ്ടമാണ്? → തിന്നുന്നത്').\n• (D) He loves accumulating wealth — 'loves' എന്ന verb-ന്റെ object ആണ് 'accumulating' ('സമ്പത്ത് കൂട്ടിവയ്ക്കുന്നത്').\n• ഒരു ചോദ്യത്തിന് ഒന്നിലധികം ശരിയുത്തരം വന്നതിനാൽ PSC ഇത് റദ്ദാക്കി. ഇവിടെ (B) ആണ് അടയാളപ്പെടുത്തിയിരിക്കുന്നത്, പക്ഷേ (D)-ഉം ഒരുപോലെ ശരിയാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Verb-ന് മുമ്പ് gerund → subject | Verb-ന് ശേഷം gerund → object.\n• Gerund എന്നത് V-ing രൂപം noun ആയി പ്രവർത്തിക്കുന്നതാണ് — അതിനാൽ ഒരു noun ചെയ്യുന്ന എല്ലാ ജോലിയും അത് ചെയ്യും.\n• Gerund-ന്റെ റോളുകൾ: subject, object of verb, object of preposition, complement.\n• ⭐ PSC ആവർത്തനം: gerund subject ആണോ object ആണോ എന്ന് തിരിച്ചറിയാൻ PSC ചോദിക്കാറുണ്ട് — verb എവിടെ എന്ന് നോക്കിയാൽ മതി.\n• ഉദാഹരണ sentences:\n1. Swimming is good exercise. (subject)\n2. She enjoys reading novels. (object of verb)\n3. He is fond of singing. (object of preposition)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Sleeping is his favourite pastime — ഇവിടെ 'Sleeping' വാക്യത്തിന്റെ തുടക്കത്തിൽ, verb 'is'-ന് മുമ്പ്.\n• അതുകൊണ്ട് ഇത് subject ആണ്, object അല്ല.\n• 🪤 PSC Trap: വാക്യത്തിലെ ആദ്യ V-ing കണ്ട് gerund ഉണ്ടല്ലോ എന്ന് ധൃതിയിൽ തിരഞ്ഞെടുക്കുന്നവരെ കുടുക്കാൻ.\n\n• (C) Eating is his hobby — 'Eating' വീണ്ടും 'is'-ന് മുമ്പ്; ഇതും subject ആണ്.\n• 🪤 PSC Trap: (B)-യിലെ 'eating' എന്ന അതേ വാക്ക് ഇവിടെയും ഉള്ളതിനാൽ ആശയക്കുഴപ്പം ഉണ്ടാക്കാൻ.\n\n• ശ്രദ്ധിക്കുക: (D) തെറ്റായ option അല്ല — അത് (B) പോലെ തന്നെ ശരിയാണ്. ഇതാണ് ചോദ്യം റദ്ദാക്കാൻ കാരണം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'മുന്നിൽ നിന്നാൽ നേതാവ് (subject), പിന്നിൽ നിന്നാൽ അനുയായി (object)!' — gerund verb-ന് മുന്നിലോ പിന്നിലോ എന്ന് മാത്രം നോക്കുക.\n• ഒരുമിച്ച് പഠിക്കുക: gerund എടുക്കുന്ന verbs — enjoy, love, avoid, finish, mind, stop, keep.\n• PSC strategy: രണ്ട് options ഒരുപോലെ ശരിയായി തോന്നിയാൽ ഭയപ്പെടേണ്ട — ചിലപ്പോൾ ചോദ്യം തന്നെ തെറ്റായിരിക്കും, ഇതുപോലെ PSC പിന്നീട് റദ്ദാക്കും. ഒന്ന് തിരഞ്ഞെടുത്ത് അടുത്ത ചോദ്യത്തിലേക്ക് നീങ്ങുക."
+    }
+  },
+  {
+    "id": "138-2025-E-Q15",
+    "paperId": "138-2025-E",
+    "questionNumber": 15,
+    "topic": "Tenses",
+    "questionText": "The candidate ____________ speaking for ten minutes.",
+    "optionA": "had",
+    "optionB": "had been",
+    "optionC": "was",
+    "optionD": "is",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) had been\n\n• 'for ten minutes' എന്നത് ഒരു കാലയളവ് (duration) കാണിക്കുന്നു — ഒരു പ്രവൃത്തി കുറച്ച് നേരം തുടർന്നുകൊണ്ടിരുന്നു.\n• 'speaking' എന്ന -ing രൂപത്തോടൊപ്പം duration വരുമ്പോൾ Perfect Continuous tense ആണ് വേണ്ടത്.\n• Options-ൽ ലഭ്യമായ Perfect Continuous രൂപം 'had been' മാത്രം → Past Perfect Continuous.\n• 'ആ ഉദ്യോഗാർത്ഥി പത്ത് മിനിറ്റായി സംസാരിച്ചുകൊണ്ടിരിക്കുകയായിരുന്നു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: for / since + -ing → Perfect Continuous (has/have been / had been + V-ing).\n• Past Perfect Continuous: had + been + V-ing — ഭൂതകാലത്തിലെ ഒരു നിശ്ചിത സമയം വരെ തുടർന്ന പ്രവൃത്തി.\n• Present Perfect Continuous: has/have + been + V-ing — ഇപ്പോഴും തുടരുന്ന പ്രവൃത്തി.\n• ⭐ PSC ആവർത്തനം: 'for + duration' ഉള്ള blank ചോദ്യങ്ങൾ PSC-യുടെ ഇഷ്ട വിഭവമാണ്!\n• ഉദാഹരണ sentences:\n1. She had been waiting for an hour when the bus came.\n2. They had been playing since morning.\n3. I have been studying for two hours.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) had — 'had speaking' എന്ന ഘടന ഇംഗ്ലീഷിൽ ഇല്ല.\n• 'had'-ന് ശേഷം V3 (had spoken) ആണ് വരേണ്ടത്, -ing അല്ല.\n• 🪤 PSC Trap: 'had been'-ന്റെ പാതി മാത്രം നൽകി, 'had' കണ്ടാൽ perfect ആണല്ലോ എന്ന് തോന്നിപ്പിക്കാൻ.\n\n• (C) was — 'was speaking' Past Continuous ആണ്; വ്യാകരണപരമായി ശരിയായ ഘടനയാണ്.\n• പക്ഷേ 'for ten minutes' എന്ന duration-നോടൊപ്പം Perfect Continuous ആണ് ഏറ്റവും അനുയോജ്യം.\n• 🪤 PSC Trap: ഏറ്റവും ശക്തമായ കെണി ഇതാണ് — 'was speaking' കേൾക്കാൻ സുഖമുള്ളതിനാൽ പലരും ഇതിൽ വീഴും.\n\n• (D) is — 'is speaking' Present Continuous ആണ്; ഇത് ഇപ്പോൾ നടക്കുന്നത് മാത്രം കാണിക്കുന്നു.\n• 'for ten minutes' പോലുള്ള duration-നോടൊപ്പം Present Continuous ഉപയോഗിക്കില്ല.\n• 🪤 PSC Trap: ലളിതമായ രൂപം കണ്ട് ധൃതിയിൽ തിരഞ്ഞെടുക്കുന്നവരെ വീഴ്ത്താൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'For / Since കണ്ടാൽ BEEN വിളിക്കൂ!' — duration + -ing = been + -ing.\n• ഒരുമിച്ച് പഠിക്കുക: has been / have been / had been / will have been + V-ing.\n• PSC strategy: Blank-ന് ശേഷം -ing ഉണ്ടോ, വാക്യത്തിൽ for/since ഉണ്ടോ എന്ന് നോക്കുക. രണ്ടും ഉണ്ടെങ്കിൽ 'been' ഉള്ള option തിരഞ്ഞെടുക്കുക — guaranteed mark!"
+    }
+  },
+  {
+    "id": "138-2025-E-Q16",
+    "paperId": "138-2025-E",
+    "questionNumber": 16,
+    "topic": "Tenses",
+    "questionText": "Which form is the past participle of “bid” (in the sense of offering a price)?",
+    "optionA": "bade",
+    "optionB": "bidded",
+    "optionC": "bid",
+    "optionD": "bidden",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) bid\n\n• 'bid' എന്ന verb-ന് രണ്ട് അർത്ഥങ്ങൾ ഉണ്ട്, രണ്ടിനും വ്യത്യസ്ത രൂപങ്ങളും.\n• ലേലത്തിൽ വില പറയുക (offer a price) എന്ന അർത്ഥത്തിൽ മൂന്ന് രൂപവും ഒന്നുതന്നെ: bid – bid – bid.\n• ചോദ്യം തന്നെ 'offering a price' എന്ന അർത്ഥം വ്യക്തമാക്കിയിട്ടുണ്ട് — അതിനാൽ past participle 'bid'.\n• ഉദാഹരണം: He has bid ten lakh rupees for the land.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: വില പറയുക → bid–bid–bid | ആജ്ഞാപിക്കുക / ആശംസിക്കുക → bid–bade–bidden.\n• ചില irregular verbs-ന് മൂന്ന് രൂപവും ഒന്നാണ്: cut, put, hit, cost, set, bid (വില പറയുക).\n• 'bade', 'bidden' എന്നിവ പഴയ ഇംഗ്ലീഷ് ശൈലിയിൽ 'ആജ്ഞാപിക്കുക', 'വിട പറയുക' എന്ന അർത്ഥത്തിൽ മാത്രം.\n• ⭐ PSC ആവർത്തനം: ഒന്നിലധികം അർത്ഥമുള്ള verbs-ന്റെ രൂപങ്ങൾ (hang–hanged/hung, lie–lay/lied, bid) PSC ഇടയ്ക്കിടെ ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. She bid 500 rupees for the painting. (വില പറഞ്ഞു)\n2. The company has bid for the contract. (ടെൻഡർ നൽകി)\n3. He bade farewell to his friends. (വിട പറഞ്ഞു — പഴയ ശൈലി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) bade — ഇത് 'ആജ്ഞാപിക്കുക / ആശംസിക്കുക' എന്ന അർത്ഥത്തിലെ past tense ആണ്, past participle പോലുമല്ല.\n• വില പറയുക എന്ന അർത്ഥത്തിന് ഇത് ചേരില്ല.\n• 🪤 PSC Trap: 'bade farewell' എന്ന പ്രസിദ്ധ പ്രയോഗം ഓർമ്മയുള്ളവരെ വീഴ്ത്താൻ.\n\n• (B) bidded — ഇംഗ്ലീഷിൽ ഇങ്ങനെ ഒരു വാക്കില്ല.\n• Regular verb പോലെ '-ed' ചേർത്ത് ഉണ്ടാക്കിയ തെറ്റായ രൂപമാണിത്.\n• 🪤 PSC Trap: എല്ലാ verbs-ഉം -ed എടുക്കും എന്ന് കരുതുന്നവരെ കുടുക്കാൻ.\n\n• (D) bidden — ഇത് 'ആജ്ഞാപിക്കുക' എന്ന അർത്ഥത്തിലെ past participle ആണ്.\n• ചോദ്യം വ്യക്തമാക്കിയ 'offering a price' എന്ന അർത്ഥത്തിന് ഇത് ചേരില്ല.\n• 🪤 PSC Trap: past participle-ന് '-en' വേണം (written, spoken) എന്ന ശീലം ഉപയോഗിച്ച് കുടുക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ലേലത്തിൽ ലാഭം വേണം, അതുകൊണ്ട് വാക്ക് ചുരുക്കും — bid, bid, bid!' പണത്തിന്റെ കാര്യത്തിൽ ഒരു മാറ്റവുമില്ല.\n• ഒരുമിച്ച് പഠിക്കുക (മൂന്ന് രൂപവും ഒന്ന്): bid, cut, put, hit, cost, set, shut, let, hurt, burst.\n• PSC strategy: ചോദ്യത്തിൽ അർത്ഥം ബ്രാക്കറ്റിൽ കൊടുത്തിട്ടുണ്ടെങ്കിൽ അതാണ് താക്കോൽ — അർത്ഥം മാറുമ്പോൾ രൂപവും മാറും എന്ന് ഓർക്കുക."
+    }
+  },
+  {
+    "id": "138-2025-E-Q17",
+    "paperId": "138-2025-E",
+    "questionNumber": 17,
+    "topic": "Parts of Speech",
+    "questionText": "What type of adverb is in the sentence:\nI have __never__ been to Paris.",
+    "optionA": "Adverb of place",
+    "optionB": "Adverb of frequency",
+    "optionC": "Adverb of time",
+    "optionD": "Adverb of manner",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Adverb of time\n\n• PSC-യുടെ Final Answer Key അനുസരിച്ച് ഉത്തരം 'Adverb of time' ആണ്.\n• 'never' എന്നതിന്റെ അർത്ഥം 'ഒരിക്കലും / ഒരു സമയത്തും ഇല്ല' (at no time) എന്നാണ് — പ്രവൃത്തി നടന്ന സമയത്തെക്കുറിച്ചാണ് അത് പറയുന്നത്.\n• Traditional grammar-ൽ (Wren & Martin പോലുള്ള പുസ്തകങ്ങളിൽ) frequency adverbs-നെ adverbs of time-ന്റെ ഒരു ഉപവിഭാഗമായി കാണാറുണ്ട് — ഇതാണ് PSC സ്വീകരിച്ചത്.\n• 'ഞാൻ ഒരിക്കലും പാരിസിൽ പോയിട്ടില്ല' എന്നർത്ഥം — ജീവിതത്തിലെ ഒരു സമയത്തും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: എപ്പോൾ? → time | എവിടെ? → place | എങ്ങനെ? → manner | എത്ര തവണ? → frequency.\n• Adverbs of time: now, then, today, soon, already, before, ever, never, yet.\n• Adverbs of frequency: always, often, sometimes, seldom, rarely, never — പല പുസ്തകങ്ങളിലും ഇവ time കുടുംബത്തിൽ തന്നെ.\n• ⭐ PSC ആവർത്തനം: adverb-ന്റെ തരം തിരിച്ചറിയൽ PSC-യിൽ ഇടയ്ക്കിടെ വരും; 'never', 'ever', 'already' പോലുള്ളവയ്ക്ക് PSC time തന്നെയാണ് പരിഗണിച്ചത്.\n• ഉദാഹരണ sentences:\n1. I have never seen a tiger. (ഒരു സമയത്തും — time)\n2. He came yesterday. (എപ്പോൾ — time)\n3. She often visits her grandmother. (എത്ര തവണ — frequency)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Adverb of place — 'എവിടെ' എന്ന ചോദ്യത്തിന് ഉത്തരം നൽകുന്നു: here, there, everywhere.\n• വാക്യത്തിൽ 'Paris' ഒരു സ്ഥലമാണ്, പക്ഷേ അത് noun ആണ്, adverb അല്ല.\n• 🪤 PSC Trap: സ്ഥലപ്പേര് കണ്ട് place എന്ന് തിരഞ്ഞെടുക്കാൻ പ്രലോഭിപ്പിക്കുന്നു.\n\n• (B) Adverb of frequency — 'എത്ര തവണ' എന്ന് കാണിക്കുന്നു.\n• ആധുനിക grammar പുസ്തകങ്ങൾ 'never'-നെ frequency ആയി കാണാറുണ്ട്, പക്ഷേ PSC Final Key ഇത് സ്വീകരിച്ചില്ല.\n• 🪤 PSC Trap: ഇതാണ് ഈ ചോദ്യത്തിലെ ഏറ്റവും വലിയ ആശയക്കുഴപ്പം — PSC-യിൽ traditional വർഗീകരണം ആണ് പിന്തുടരുന്നത് എന്ന് ഓർക്കുക.\n\n• (D) Adverb of manner — 'എങ്ങനെ' എന്ന് കാണിക്കുന്നു: slowly, carefully, well.\n• 'never' പ്രവൃത്തി ചെയ്ത രീതി പറയുന്നില്ല.\n• 🪤 PSC Trap: വെറുതെ എണ്ണം തികയ്ക്കാൻ വെച്ച option.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NEVER = No time EVER' — വാക്കിനുള്ളിൽ തന്നെ 'ever' (എപ്പോഴെങ്കിലും) ഒളിച്ചിരിപ്പുണ്ട്; അതുകൊണ്ട് PSC-ക്ക് ഇത് time adverb!\n• ഒരുമിച്ച് പഠിക്കുക: ever, never, already, yet, just, before, lately — Perfect tense-നോടൊപ്പം വരുന്ന time adverbs.\n• PSC strategy: time-ഉം frequency-ഉം ഒരുമിച്ച് options-ൽ വന്നാൽ PSC traditional grammar (Wren & Martin) ആണ് പിന്തുടരുന്നത് എന്ന് ഓർക്കുക."
+    }
+  },
+  {
+    "id": "138-2025-E-Q18",
+    "paperId": "138-2025-E",
+    "questionNumber": 18,
+    "topic": "Articles",
+    "questionText": "Which sentence uses “the” correctly?",
+    "optionA": "I saw the sun rising in the morning",
+    "optionB": "She is the intelligent girl",
+    "optionC": "We went to the home",
+    "optionD": "The water is tasteless",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) I saw the sun rising in the morning\n\n• ലോകത്ത് ഒന്നു മാത്രം ഉള്ള വസ്തുക്കൾക്ക് മുമ്പ് 'the' നിർബന്ധമാണ് — the sun, the moon, the earth, the sky.\n• 'in the morning' എന്നതും ഉറച്ച പ്രയോഗമാണ് — ദിവസത്തിന്റെ ഭാഗങ്ങൾക്ക് 'the' ചേർക്കും.\n• അതുകൊണ്ട് ഈ വാക്യത്തിലെ രണ്ട് 'the'-ഉം ശരിയായ സ്ഥാനത്താണ്.\n• 'രാവിലെ സൂര്യൻ ഉദിക്കുന്നത് ഞാൻ കണ്ടു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ഒന്നേ ഉള്ളൂ (unique) → THE! the sun, the moon, the earth, the sky, the world.\n• Definite article 'the' പ്രത്യേകമായ, ഇതിനകം അറിയാവുന്ന ഒന്നിനെ സൂചിപ്പിക്കുന്നു.\n• 'the' ചേർക്കാത്ത സന്ദർഭങ്ങൾ: go home, go to bed, go to school (പഠിക്കാൻ), പൊതുവായ uncountable nouns (water, milk, gold).\n• ⭐ PSC ആവർത്തനം: 'the sun', 'go home', 'the Ganga', 'the Himalayas' — ഈ നിയമങ്ങൾ PSC ആവർത്തിച്ച് ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. The moon shines at night.\n2. The earth moves round the sun.\n3. He went home early. (home-ന് മുമ്പ് 'to the' ഇല്ല)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) She is the intelligent girl — ഇവിടെ ഒരു പ്രത്യേക പെൺകുട്ടിയെ ചൂണ്ടിക്കാട്ടുന്നില്ല, ഒരു വിശേഷണം മാത്രം.\n• 'ഒരു ബുദ്ധിമതിയായ പെൺകുട്ടി' എന്ന അർത്ഥത്തിന് 'an intelligent girl' ആണ് ശരി.\n• 🪤 PSC Trap: 'the most intelligent girl' (superlative) എന്ന ശരിയായ രൂപം ഓർമ്മയുള്ളവരെ കുഴക്കാൻ.\n\n• (C) We went to the home — 'home' സ്വന്തം വീട് എന്ന അർത്ഥത്തിൽ 'go home' എന്നാണ് പറയുക; 'to the' ആവശ്യമില്ല.\n• 🪤 PSC Trap: 'went to the school / the market' എന്ന രീതി കണ്ട് ഇതും ശരിയെന്ന് തോന്നിപ്പിക്കാൻ.\n\n• (D) The water is tasteless — പൊതുവായി വെള്ളത്തെക്കുറിച്ച് പറയുമ്പോൾ 'Water is tasteless.' എന്നാണ് ശരി.\n• Uncountable noun പൊതുസത്യം പറയുമ്പോൾ article വേണ്ട.\n• 🪤 PSC Trap: 'the water in this glass' പോലെ പ്രത്യേക വെള്ളം ആണെങ്കിൽ the ശരിയാകുമെന്നതിനാൽ ആശയക്കുഴപ്പം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ആകാശത്ത് ഒന്നേ ഉള്ളൂ, അതുകൊണ്ട് THE വേണം!' — the sun, the moon, the sky, the stars.\n• ഒരുമിച്ച് പഠിക്കുക: the ചേർക്കുന്നവ (the sun, the Ganga, the Bible, the Himalayas) | ചേർക്കാത്തവ (go home, water, gold, Mount Everest).\n• PSC strategy: പൊതുസത്യം (general truth) പറയുന്ന uncountable noun-ന് മുമ്പ് the കണ്ടാൽ സംശയിക്കുക; unique വസ്തുവിന് മുമ്പ് the കണ്ടാൽ ഉറപ്പിക്കുക!"
+    }
+  },
+  {
+    "id": "138-2025-E-Q19",
+    "paperId": "138-2025-E",
+    "questionNumber": 19,
+    "topic": "Prepositions",
+    "questionText": "He was commended ____________ his bravery during the rescue.",
+    "optionA": "for",
+    "optionB": "of",
+    "optionC": "about",
+    "optionD": "with",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) for\n\n• 'commend' എന്നാൽ 'പ്രശംസിക്കുക / അഭിനന്ദിക്കുക' എന്നർത്ഥം.\n• ഒരാളെ എന്തിനെങ്കിലും വേണ്ടി പ്രശംസിക്കുമ്പോൾ കാരണം കാണിക്കാൻ 'for' ആണ് ഉപയോഗിക്കുക: commend somebody for something.\n• 'രക്ഷാപ്രവർത്തനത്തിനിടെ കാണിച്ച ധൈര്യത്തിന് അദ്ദേഹത്തെ പ്രശംസിച്ചു' എന്നർത്ഥം.\n• Latin 'commendare' — 'ഏൽപ്പിക്കുക, ശുപാർശ ചെയ്യുക' എന്നതിൽ നിന്നാണ് ഈ വാക്ക് വന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: പ്രശംസ / ശിക്ഷ / നന്ദി + കാരണം → FOR!\n• ഇതേ കുടുംബം: praise for, thank for, reward for, blame for, punish for, famous for, apologise for.\n• ശ്രദ്ധിക്കുക: congratulate ON (for അല്ല!) — ഇത് PSC-യുടെ സ്ഥിരം കെണിയാണ്.\n• ⭐ PSC ആവർത്തനം: verb + preposition കൂട്ടുകെട്ടുകൾ (fixed collocations) PSC English-ൽ എല്ലാ വർഷവും വരുന്നു.\n• ഉദാഹരണ sentences:\n1. The teacher praised him for his honesty.\n2. She was rewarded for her hard work.\n3. Thank you for your help.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) of — 'ഉടമസ്ഥത / ഭാഗം' കാണിക്കുന്ന preposition ആണ്.\n• 'commended of' എന്ന പ്രയോഗം ഇംഗ്ലീഷിൽ ഇല്ല.\n• 🪤 PSC Trap: 'accused of', 'proud of' പോലുള്ള പ്രയോഗങ്ങൾ ഓർമ്മയിൽ ഉള്ളവരെ കുഴക്കാൻ.\n\n• (C) about — 'ഒന്നിനെക്കുറിച്ച്' എന്ന വിഷയം കാണിക്കുന്നു: talk about, think about.\n• പ്രശംസയുടെ കാരണം കാണിക്കാൻ ഇത് ചേരില്ല.\n• 🪤 PSC Trap: 'അവന്റെ ധൈര്യത്തെക്കുറിച്ച്' എന്ന് മലയാളത്തിൽ ചിന്തിച്ച് വിവർത്തനം ചെയ്യുന്നവരെ കുടുക്കാൻ.\n\n• (D) with — 'കൂടെ / ഉപകരണം കൊണ്ട്' എന്ന് കാണിക്കുന്നു: cut with a knife, go with him.\n• പ്രശംസയുടെ കാരണം കാണിക്കാൻ 'with' ഉപയോഗിക്കില്ല.\n• 🪤 PSC Trap: 'presented with an award' എന്ന പ്രയോഗവുമായി ബന്ധപ്പെടുത്തി തെറ്റിദ്ധരിപ്പിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'FOR = എന്തിന്?' — 'എന്തിനാണ് പ്രശംസിച്ചത്?' എന്ന് ചോദിച്ചാൽ ഉത്തരം 'for his bravery'.\n• ഒരുമിച്ച് പഠിക്കുക: commend / praise / thank / reward / blame / punish + FOR | congratulate + ON | accuse + OF.\n• PSC strategy: Preposition ചോദ്യങ്ങളിൽ മലയാളത്തിൽ നിന്ന് വിവർത്തനം ചെയ്യരുത് — verb-ന്റെ കൂടെ സ്ഥിരമായി വരുന്ന preposition ആണ് മനഃപാഠമാക്കേണ്ടത്. ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "138-2025-E-Q20",
+    "paperId": "138-2025-E",
+    "questionNumber": 20,
+    "topic": "Spelling",
+    "questionText": "Unscramble the letters : “RALNE”. What is the correct word?",
+    "optionA": "Learn",
+    "optionB": "Renal",
+    "optionC": "Realn",
+    "optionD": "Neral",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Learn\n\n• R, A, L, N, E എന്നീ അഞ്ച് അക്ഷരങ്ങൾ ശരിയായി ക്രമീകരിച്ചാൽ കിട്ടുന്ന ഏറ്റവും സാധാരണ വാക്ക് 'LEARN' ആണ്.\n• 'Learn' = 'പഠിക്കുക' — എല്ലാവർക്കും അറിയാവുന്ന ദൈനംദിന വാക്ക്.\n• അക്ഷരം ഒത്തുനോക്കുക: L-E-A-R-N → R ✓ A ✓ L ✓ N ✓ E ✓ — ഒന്നും കൂടുതലോ കുറവോ ഇല്ല.\n• PSC Final Answer Key-ഉം ഉത്തരമായി (A) Learn തന്നെ സ്ഥിരീകരിച്ചു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Unscramble = അക്ഷരങ്ങൾ എണ്ണുക → ഓരോന്നും ഒത്തുനോക്കുക → അർത്ഥമുള്ള സാധാരണ വാക്ക് തിരഞ്ഞെടുക്കുക.\n• ഇത്തരം ചോദ്യങ്ങളിൽ ഒരേ അക്ഷരങ്ങൾ കൊണ്ട് ഒന്നിലധികം വാക്കുകൾ (anagrams) ഉണ്ടാകാം.\n• അങ്ങനെ വന്നാൽ ഏറ്റവും സാധാരണമായ, പൊതു ഉപയോഗത്തിലുള്ള വാക്കാണ് PSC ഉദ്ദേശിക്കുന്നത്.\n• ⭐ PSC ആവർത്തനം: അക്ഷരം കുഴഞ്ഞ വാക്ക് ശരിയാക്കുന്ന ചോദ്യങ്ങൾ spelling വിഭാഗത്തിൽ പുതിയ രീതിയായി വരുന്നു.\n• ഉദാഹരണങ്ങൾ:\n1. TSELIN → LISTEN (കേൾക്കുക) / SILENT (നിശ്ശബ്ദം) — anagram ജോഡി\n2. RAHET → HEART (ഹൃദയം) / EARTH (ഭൂമി)\n3. LAPEN → PLANE / PANEL",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) Renal — ഇതും ഒരു യഥാർത്ഥ ഇംഗ്ലീഷ് വാക്കാണ്: 'വൃക്കയെ സംബന്ധിച്ച' (renal failure = വൃക്ക തകരാർ).\n• പക്ഷേ ഇതൊരു medical technical term ആണ്; സാധാരണ ഉദ്ദേശിക്കുന്ന ഉത്തരം 'Learn' ആണ്.\n• 🪤 PSC Trap: ഏറ്റവും ബുദ്ധിപരമായ കെണി! അക്ഷരങ്ങൾ എല്ലാം ശരിയായതിനാൽ ഇതിലും പലരും വീഴും. Final Key 'Learn' ആണ് ശരിയായി എടുത്തത്.\n\n• (C) Realn — അക്ഷരങ്ങൾ ശരി, പക്ഷേ അർത്ഥമുള്ള വാക്കല്ല.\n• 🪤 PSC Trap: 'Real' എന്ന വാക്ക് കാണാൻ കഴിയുന്നതിനാൽ ശരിയെന്ന് തോന്നിപ്പിക്കാൻ.\n\n• (D) Neral — ഇതും നിഘണ്ടുവിൽ ഇല്ലാത്ത വാക്ക്.\n• 🪤 PSC Trap: 'Neural', 'General' പോലുള്ള വാക്കുകളുടെ ശബ്ദസാമ്യം ഉപയോഗിച്ച് കുഴക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'LEARN-ൽ EAR (ചെവി) ഉണ്ട്!' — പഠിക്കാൻ ചെവി വേണം: L + EAR + N.\n• Anagram ജോഡികൾ ഒരുമിച്ച് പഠിക്കുക: learn–renal, listen–silent, heart–earth, night–thing, fried–fired.\n• PSC strategy: ആദ്യം അർത്ഥമില്ലാത്ത options വെട്ടുക. രണ്ട് യഥാർത്ഥ വാക്കുകൾ ബാക്കി വന്നാൽ ഏറ്റവും സാധാരണമായ ദൈനംദിന വാക്ക് തിരഞ്ഞെടുക്കുക — guaranteed mark!"
+    }
+  },
+  {
+    "id": "50-2025-E-Q16",
+    "paperId": "50-2025-E",
+    "questionNumber": 16,
+    "topic": "Singular and Plural",
+    "questionText": "Identify the singular noun in the below sentence:\nThe child plays in the park every evening. (~~deleted by psc~~)",
+    "optionA": "child",
+    "optionB": "plays",
+    "optionC": "park",
+    "optionD": "evening",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: PSC ഈ ചോദ്യം Final Answer Key-ൽ ഒഴിവാക്കി (deleted)\n\n• കാരണം വ്യക്തമാണ് — ഈ വാക്യത്തിൽ ഒന്നല്ല, മൂന്ന് singular nouns ഉണ്ട്: child, park, evening.\n• 'child' (കുട്ടി), 'park' (പാർക്ക്), 'evening' (സായാഹ്നം) — മൂന്നും ഒറ്റ എണ്ണത്തെ സൂചിപ്പിക്കുന്ന nouns ആണ്.\n• ഒരു ചോദ്യത്തിന് മൂന്ന് ശരിയുത്തരം വന്നതിനാൽ PSC ഇത് റദ്ദാക്കി.\n• ഇവിടെ (A) child അടയാളപ്പെടുത്തിയിരിക്കുന്നു, പക്ഷേ (C)-ഉം (D)-ഉം ഒരുപോലെ ശരിയാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: ഒന്ന് മാത്രം → singular noun | ഒന്നിലധികം → plural noun.\n• Noun എന്നത് ആൾ, സ്ഥലം, വസ്തു, സമയം എന്നിവയുടെ പേരാണ് — child (ആൾ), park (സ്ഥലം), evening (സമയം).\n• Verb-ന് ശേഷം വരുന്ന '-s' (plays) noun-ന്റെ plural അല്ല — അത് third person singular verb രൂപമാണ്. ഇത് പലരെയും കുഴക്കുന്ന കാര്യമാണ്.\n• ⭐ PSC ആവർത്തനം: noun തിരിച്ചറിയൽ, singular/plural രൂപങ്ങൾ എന്നിവ PSC-യിൽ ഇടയ്ക്കിടെ വരും.\n• ഉദാഹരണ sentences:\n1. The boy reads a book. (boy, book — രണ്ടും singular nouns)\n2. The birds sing in the morning. (birds — plural, morning — singular)\n3. My sister lives in a village. (sister, village — singular nouns)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) plays — ഇത് noun അല്ല, verb ആണ് ('കളിക്കുന്നു').\n• '-s' കണ്ടാൽ plural noun ആണെന്ന് തോന്നുമെങ്കിലും ഇത് singular subject-നോടൊപ്പം വരുന്ന verb രൂപമാണ്.\n• 🪤 PSC Trap: '-s' ഉള്ള വാക്കുകളെല്ലാം plural ആണെന്ന് കരുതുന്നവരെ കുടുക്കാൻ.\n\n• ശ്രദ്ധിക്കുക: (C) park, (D) evening എന്നിവ തെറ്റായ options അല്ല — രണ്ടും child പോലെ തന്നെ singular nouns ആണ്.\n• ഈ ഒന്നിലധികം ശരിയുത്തരങ്ങളാണ് ചോദ്യം റദ്ദാക്കാൻ കാരണമായത്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Noun = പേര്, Verb = പണി!' — 'plays' പണിയാണ്, പേരല്ല. അതുകൊണ്ട് അത് ആദ്യമേ വെട്ടുക.\n• ഒരുമിച്ച് പഠിക്കുക: noun-ന്റെ '-s' (books, boys) vs verb-ന്റെ '-s' (reads, plays) — ഇവ തമ്മിലുള്ള വ്യത്യാസം.\n• PSC strategy: ഒന്നിലധികം ഉത്തരം ശരിയായി തോന്നിയാൽ പരിഭ്രമിക്കേണ്ട — ചോദ്യം തന്നെ തെറ്റായിരിക്കാം, PSC പിന്നീട് റദ്ദാക്കും. ഒന്ന് തിരഞ്ഞെടുത്ത് മുന്നോട്ട് പോകുക."
+    }
+  },
+  {
+    "id": "50-2025-E-Q17",
+    "paperId": "50-2025-E",
+    "questionNumber": 17,
+    "topic": "Singular and Plural",
+    "questionText": "Choose the correct plural form of the word \"goose\":",
+    "optionA": "gooses",
+    "optionB": "goosies",
+    "optionC": "geese",
+    "optionD": "goosen",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) geese\n\n• 'goose' (വാത്ത) എന്ന വാക്ക് irregular plural എടുക്കുന്ന noun ആണ്.\n• ഇതിന് '-s' ചേർക്കില്ല; പകരം ഉള്ളിലെ സ്വരം (vowel) മാറുന്നു: oo → ee.\n• goose → geese, ഒരു വാത്ത → പല വാത്തകൾ.\n• പഴയ ഇംഗ്ലീഷിൽ നിന്ന് (Old English) വന്ന ഈ സ്വരമാറ്റ രീതിയെ vowel change plural എന്ന് പറയുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: oo → ee, a → e — ചില nouns-ന്റെ plural ഉള്ളിലെ സ്വരം മാറ്റിയാണ് ഉണ്ടാക്കുന്നത്!\n• ഇതേ കുടുംബം: foot → feet, tooth → teeth, man → men, woman → women, mouse → mice, louse → lice.\n• ശ്രദ്ധിക്കുക: goose → geese ആണെങ്കിലും mongoose → mongooses ആണ് (mongooses ശരി, mongeese തെറ്റ്).\n• ⭐ PSC ആവർത്തനം: irregular plurals (geese, mice, oxen, children) PSC-യുടെ സ്ഥിരം ചോദ്യമാണ്.\n• ഉദാഹരണ sentences:\n1. The geese are swimming in the pond. (വാത്തകൾ കുളത്തിൽ നീന്തുന്നു)\n2. My feet are tired. (എന്റെ കാലുകൾ ക്ഷീണിച്ചു)\n3. The cat caught two mice. (പൂച്ച രണ്ട് എലികളെ പിടിച്ചു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) gooses — സാധാരണ നിയമം പോലെ '-s' ചേർത്തുണ്ടാക്കിയ തെറ്റായ രൂപം.\n• 'goose' irregular noun ആയതിനാൽ '-s' ചേരില്ല.\n• 🪤 PSC Trap: എല്ലാ nouns-ഉം '-s' എടുക്കും എന്ന് കരുതുന്നവരെ വീഴ്ത്താൻ.\n\n• (B) goosies — ഇംഗ്ലീഷിൽ ഇല്ലാത്ത, കെട്ടിച്ചമച്ച രൂപം.\n• 🪤 PSC Trap: 'baby → babies' പോലെ '-ies' നിയമം ഓർമ്മയുള്ളവരെ കുഴക്കാൻ.\n\n• (D) goosen — ഇതും തെറ്റായ രൂപം.\n• 🪤 PSC Trap: 'ox → oxen', 'child → children' പോലെ '-en' plural ഓർമ്മയിൽ ഉള്ളവരെ കുടുക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Goose-ന് feet ഉണ്ട്, teeth ഇല്ല!' — goose, foot, tooth: മൂന്നിലും oo → ee. Geese, feet, teeth.\n• ഒരുമിച്ച് പഠിക്കുക: geese, feet, teeth, mice, lice, men, women, oxen, children.\n• PSC strategy: Plural ചോദ്യത്തിൽ സാധാരണ '-s' option ഉണ്ടെങ്കിൽ ആദ്യം സംശയിക്കുക — PSC ചോദിക്കുന്നത് മിക്കവാറും irregular രൂപമായിരിക്കും. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "50-2025-E-Q18",
+    "paperId": "50-2025-E",
+    "questionNumber": 18,
+    "topic": "Auxiliary Verbs",
+    "questionText": "Which of the following is an auxiliary verb?",
+    "optionA": "Run",
+    "optionB": "Will",
+    "optionC": "Happy",
+    "optionD": "Quickly",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Will\n\n• Auxiliary verb എന്നാൽ main verb-നെ സഹായിക്കുന്ന helping verb ആണ്.\n• 'Will' ഒറ്റയ്ക്ക് പൂർണ്ണ അർത്ഥം നൽകില്ല; main verb-നോടൊപ്പം വന്ന് ഭാവികാലം (future) കാണിക്കുന്നു: will go, will come.\n• 'Will' ഒരു modal auxiliary ആണ് — സാധ്യത, ഉദ്ദേശ്യം, ഭാവി എന്നിവ പ്രകടിപ്പിക്കുന്നു.\n• ഉദാഹരണം: I will help you. — 'ഞാൻ നിന്നെ സഹായിക്കും'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Auxiliary + Main verb = പൂർണ്ണ verb phrase (will + go, is + going, has + gone).\n• Auxiliary verbs രണ്ട് തരമുണ്ട് — ഒറ്റയ്ക്കും main verb ആയി വരാൻ കഴിയുന്ന primary auxiliaries, എപ്പോഴും സഹായി മാത്രമായ modals.\n• Primary auxiliaries: be, have, do — ഇവ tense, voice എന്നിവ ഉണ്ടാക്കാൻ സഹായിക്കുന്നു.\n• Modal auxiliaries: will, shall, can, may, must — ഇവ സാധ്യത, കഴിവ്, അനുവാദം, നിർബന്ധം എന്നിവ കാണിക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: auxiliary verb തിരിച്ചറിയൽ, modal-ന്റെ അർത്ഥം എന്നിവ PSC പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. She will come tomorrow. (അവൾ നാളെ വരും — will)\n2. They are playing cricket. (അവർ കളിക്കുകയാണ് — are)\n3. He has finished his work. (അവൻ ജോലി തീർത്തു — has)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Run — 'ഓടുക' എന്നർത്ഥം; ഇത് main verb (lexical verb) ആണ്.\n• സ്വന്തമായി പൂർണ്ണ പ്രവൃത്തി കാണിക്കുന്നതിനാൽ ഇത് helping verb അല്ല.\n• 🪤 PSC Trap: verb ആണല്ലോ എന്ന് മാത്രം നോക്കി തിരഞ്ഞെടുക്കുന്നവരെ കുടുക്കാൻ.\n\n• (C) Happy — 'സന്തോഷമുള്ള' എന്നർത്ഥം; ഇത് adjective ആണ്.\n• 🪤 PSC Trap: 'is happy' എന്ന പ്രയോഗം ഓർത്ത് ആശയക്കുഴപ്പം ഉണ്ടാക്കാൻ — അവിടെ auxiliary 'is' ആണ്, 'happy' അല്ല.\n\n• (D) Quickly — 'വേഗത്തിൽ' എന്നർത്ഥം; ഇത് adverb of manner ആണ്.\n• 🪤 PSC Trap: '-ly' അവസാനമുള്ള adverb-നെ verb-മായി ബന്ധപ്പെടുത്തി കുഴക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Auxiliary = Assistant!' — main verb ബോസ് ആണ്, auxiliary അതിന്റെ സഹായി. 'Will' ഒറ്റയ്ക്ക് പണി ചെയ്യില്ല, ബോസിനൊപ്പം മാത്രം.\n• ഒരുമിച്ച് പഠിക്കുക: Be–Have–Do (primary) + Will, Shall, Can, May, Must (modals).\n• PSC strategy: Options-ൽ adjective, adverb എന്നിവ ആദ്യം വെട്ടുക; ബാക്കിയുള്ളതിൽ 'ഇതിന് ശേഷം മറ്റൊരു verb വേണോ?' എന്ന് ചോദിക്കുക. വേണമെങ്കിൽ അതാണ് auxiliary!"
+    }
+  },
+  {
+    "id": "50-2025-E-Q19",
+    "paperId": "50-2025-E",
+    "questionNumber": 19,
+    "topic": "Tenses",
+    "questionText": "Identify the past perfect tense in the sentence:",
+    "optionA": "She finished her work early.",
+    "optionB": "He had already left when I arrived.",
+    "optionC": "They are playing football.",
+    "optionD": "I will call you later.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) He had already left when I arrived.\n\n• Past Perfect tense-ന്റെ ഘടന: had + V3 → ഇവിടെ 'had left'.\n• ഭൂതകാലത്തിലെ രണ്ട് സംഭവങ്ങളിൽ ആദ്യം നടന്നതിനെ കാണിക്കാനാണ് Past Perfect ഉപയോഗിക്കുന്നത്.\n• ആദ്യം അവൻ പോയി (had left), പിന്നെ ഞാൻ എത്തി (arrived — Simple Past).\n• 'ഞാൻ എത്തിയപ്പോഴേക്കും അവൻ പോയിക്കഴിഞ്ഞിരുന്നു' എന്നർത്ഥം. 'already' എന്ന signal word-ഉം ഇത് ഉറപ്പിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Past Perfect = had + V3 (ആദ്യ സംഭവം) + Simple Past (രണ്ടാം സംഭവം).\n• Signal words: already, before, after, by the time, when, until.\n• 'had' എല്ലാ subject-നും ഒരുപോലെ — I had, he had, they had.\n• ⭐ PSC ആവർത്തനം: 'had + V3' ഉള്ള വാക്യം തിരിച്ചറിയൽ, 'before/after' വാക്യങ്ങളിലെ tense എന്നിവ PSC സ്ഥിരം ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. The train had left before we reached the station. (ഞങ്ങൾ എത്തുംമുമ്പ് ട്രെയിൻ പോയിരുന്നു)\n2. She had finished her dinner when I called. (ഞാൻ വിളിച്ചപ്പോൾ അവൾ അത്താഴം കഴിച്ചിരുന്നു)\n3. They had never seen snow until last year. (കഴിഞ്ഞ വർഷം വരെ അവർ മഞ്ഞ് കണ്ടിരുന്നില്ല)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) She finished her work early. — 'finished' Simple Past tense ആണ്.\n• 'had' ഇല്ലാത്തതിനാൽ ഇത് Past Perfect അല്ല.\n• 🪤 PSC Trap: ഭൂതകാലം ആയതുകൊണ്ട് ധൃതിയിൽ ഇത് തിരഞ്ഞെടുക്കാൻ സാധ്യത.\n\n• (C) They are playing football. — 'are playing' Present Continuous ആണ്.\n• ഇപ്പോൾ നടക്കുന്ന പ്രവൃത്തി കാണിക്കുന്നു.\n• 🪤 PSC Trap: tense തിരിച്ചറിയൽ ദുർബലമായവരെ കുഴക്കാൻ.\n\n• (D) I will call you later. — 'will call' Simple Future ആണ്.\n• 🪤 PSC Trap: എണ്ണം തികയ്ക്കാനുള്ള option — ഭാവികാലം Past Perfect ആകാൻ ഒരിക്കലും സാധ്യമല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'HAD = ഭൂതകാലത്തിന്റെ ഭൂതകാലം!' — രണ്ട് past സംഭവങ്ങളിൽ പഴയതിന് had + V3.\n• ഒരുമിച്ച് പഠിക്കുക: has/have + V3 (Present Perfect), had + V3 (Past Perfect), will have + V3 (Future Perfect).\n• PSC strategy: Past Perfect ചോദ്യത്തിൽ 'had + V3' ഉള്ള option മാത്രം തിരയുക — 4 options-ൽ ഒന്നിൽ മാത്രമേ അത് കാണൂ. ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "50-2025-E-Q20",
+    "paperId": "50-2025-E",
+    "questionNumber": 20,
+    "topic": "Parts of Speech",
+    "questionText": "Which sentence correctly uses a possessive pronoun?",
+    "optionA": "This book is mine.",
+    "optionB": "The cat licks it tail.",
+    "optionC": "Hers is a beautiful painting.",
+    "optionD": "Both (A) and (C)",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) Both (A) and (C)\n\n• (A) 'This book is mine.' — 'mine' ('എന്റേത്') ഒറ്റയ്ക്ക് നിൽക്കുന്ന possessive pronoun ആണ്; ശരിയായ ഉപയോഗം.\n• (C) 'Hers is a beautiful painting.' — 'Hers' ('അവളുടേത്') subject സ്ഥാനത്ത് വന്ന possessive pronoun ആണ്; ഇതും ശരി.\n• Possessive pronoun noun-ന് പകരം ഒറ്റയ്ക്ക് നിൽക്കും — subject ആയോ complement ആയോ വരാം.\n• രണ്ട് വാക്യങ്ങളും ശരിയായതിനാൽ 'Both (A) and (C)' ആണ് ഉത്തരം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: mine, yours, his, hers, ours, theirs → noun ആവശ്യമില്ല, ഒറ്റയ്ക്ക് നിൽക്കും!\n• Possessive adjective (my, your, her, its, our, their) noun-ന് മുമ്പ് മാത്രമേ വരൂ.\n• 'its' ആണ് ശരിയായ possessive; 'it's' എന്നത് 'it is' എന്നതിന്റെ ചുരുക്കമാണ്.\n• ⭐ PSC ആവർത്തനം: possessive pronoun vs possessive adjective, its vs it's — PSC ഇത് പലതവണ ചോദിച്ചിട്ടുണ്ട്.\n• ഉദാഹരണ sentences:\n1. The red car is ours. (ചുവന്ന കാർ ഞങ്ങളുടേതാണ്)\n2. Yours is the best answer. (നിന്റേതാണ് ഏറ്റവും നല്ല ഉത്തരം)\n3. The dog wagged its tail. (നായ അതിന്റെ വാൽ ആട്ടി — its)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) മാത്രം — വാക്യം ശരിയാണ്, പക്ഷേ (C)-ഉം ശരിയായതിനാൽ ഒറ്റയ്ക്ക് പൂർണ്ണ ഉത്തരമല്ല.\n• 🪤 PSC Trap: ആദ്യം കാണുന്ന ശരി option-ൽ തന്നെ നിർത്തുന്നവരെ കുടുക്കാൻ.\n\n• (B) The cat licks it tail. — ഇത് തെറ്റാണ്; 'it' ഉടമസ്ഥത കാണിക്കില്ല.\n• ശരിയായ രൂപം: 'The cat licks its tail.' (പൂച്ച അതിന്റെ വാൽ നക്കുന്നു)\n• 🪤 PSC Trap: it / its / it's തമ്മിലുള്ള ആശയക്കുഴപ്പം ഉപയോഗിക്കാൻ.\n\n• (C) മാത്രം — 'Hers' subject സ്ഥാനത്ത് വന്നതിനാൽ അസാധാരണമായി തോന്നിയേക്കാം, പക്ഷേ ശരിയാണ്. എങ്കിലും (A)-ഉം ശരിയായതിനാൽ ഒറ്റയ്ക്ക് പോരാ.\n• 🪤 PSC Trap: വാക്യത്തിന്റെ തുടക്കത്തിലെ 'Hers' കണ്ട് തെറ്റാണെന്ന് കരുതി (A) മാത്രം എടുക്കാൻ പ്രേരിപ്പിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Both option കണ്ടാൽ ബാക്കി രണ്ടും പരിശോധിക്കൂ!' — രണ്ടും ശരിയെങ്കിൽ Both തന്നെ.\n• ഒരുമിച്ച് പഠിക്കുക: my–mine, your–yours, her–hers, our–ours, their–theirs, its (ഒരേ രൂപം).\n• PSC strategy: 'Both (A) and (C)' പോലുള്ള option ഉള്ളപ്പോൾ ഓരോ വാക്യവും ഒറ്റയ്ക്ക് പരിശോധിക്കുക. ഒന്ന് തെറ്റാണെങ്കിൽ Both ഒഴിവാക്കുക. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "50-2025-E-Q21",
+    "paperId": "50-2025-E",
+    "questionNumber": 21,
+    "topic": "Spelling",
+    "questionText": "Find the correctly spelled word:",
+    "optionA": "Recieve",
+    "optionB": "Definately",
+    "optionC": "Accommodate",
+    "optionD": "Ocassion",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Accommodate\n\n• 'Accommodate' = 'താമസസൗകര്യം നൽകുക / ഉൾക്കൊള്ളുക' എന്നർത്ഥം.\n• ഈ വാക്കിൽ 'c' രണ്ടെണ്ണവും 'm' രണ്ടെണ്ണവും ഉണ്ട്: ac-com-mo-date.\n• Latin 'accommodare' (ac + com + modus = അളവിനനുസരിച്ച് ഒരുക്കുക) എന്നതിൽ നിന്നാണ് ഈ വാക്ക് വന്നത്.\n• ലോകത്തിൽ ഏറ്റവും കൂടുതൽ തെറ്റിച്ച് എഴുതുന്ന വാക്കുകളിൽ ഒന്നാണിത് — അതുകൊണ്ടാണ് PSC-ക്ക് ഇത് പ്രിയം!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Accommodate = 2 C + 2 M! (ac-COM-MO-date)\n• 'i before e, except after c' നിയമം: receive, ceiling, deceive (c-ക്ക് ശേഷം ei) | believe, piece (മറ്റിടങ്ങളിൽ ie).\n• 'definite' എന്ന root-ൽ നിന്നാണ് definitely വരുന്നത് — 'finite' എന്ന വാക്ക് ഉള്ളിൽ ഉണ്ട്, 'ate' ഇല്ല.\n• ⭐ PSC ആവർത്തനം: accommodate, receive, definitely, occasion, necessary, embarrass — PSC spelling ചോദ്യങ്ങളിലെ സ്ഥിരം താരങ്ങൾ!\n• ഉദാഹരണ sentences:\n1. The hotel can accommodate 200 guests. (ഹോട്ടലിൽ 200 അതിഥികൾക്ക് താമസിക്കാം)\n2. I received your letter yesterday. (ഇന്നലെ നിന്റെ കത്ത് കിട്ടി)\n3. It was a special occasion for us. (ഞങ്ങൾക്ക് അതൊരു പ്രത്യേക അവസരമായിരുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Recieve — ശരിയായ spelling 'Receive' ആണ് ('സ്വീകരിക്കുക').\n• 'c'-ക്ക് ശേഷം 'ei' വരണം, 'ie' അല്ല.\n• 🪤 PSC Trap: 'believe', 'achieve' എന്നിവയിലെ 'ie' ഓർമ്മയുള്ളവരെ വീഴ്ത്താൻ.\n\n• (B) Definately — ശരിയായ spelling 'Definitely' ആണ് ('തീർച്ചയായും').\n• 'definite + ly' — ഉള്ളിൽ 'ate' അല്ല, 'ite' ആണ്.\n• 🪤 PSC Trap: ഉച്ചാരണം അനുസരിച്ച് എഴുതുന്നവരെ കുടുക്കാൻ.\n\n• (D) Ocassion — ശരിയായ spelling 'Occasion' ആണ് ('അവസരം').\n• ഇതിൽ 'c' രണ്ട്, 's' ഒന്ന് മാത്രം: oc-ca-sion.\n• 🪤 PSC Trap: accommodate-ലെ ഇരട്ട അക്ഷരം കണ്ടവരെ, അക്ഷരം തെറ്റായ സ്ഥലത്ത് ഇരട്ടിപ്പിച്ച് കുഴക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Accommodate-ൽ രണ്ട് Cot-ഉം രണ്ട് Mattress-ഉം ഉണ്ട്!' — 2 C, 2 M. ഹോട്ടൽ മുറിയിൽ രണ്ട് കട്ടിലും രണ്ട് മെത്തയും!\n• ഒരുമിച്ച് പഠിക്കുക: accommodate (cc, mm), occasion (cc, s), necessary (c, ss), embarrass (rr, ss), committee (mm, tt, ee).\n• PSC strategy: Spelling ചോദ്യത്തിൽ ഇരട്ട അക്ഷരങ്ങൾ ആദ്യം പരിശോധിക്കുക, പിന്നെ ie/ei. ഭൂരിഭാഗം തെറ്റുകളും ഈ രണ്ടിടത്താണ്!"
+    }
+  },
+  {
+    "id": "50-2025-E-Q22",
+    "paperId": "50-2025-E",
+    "questionNumber": 22,
+    "topic": "Parts of Speech",
+    "questionText": "Identify the countable noun from the list:",
+    "optionA": "Water",
+    "optionB": "Rice",
+    "optionC": "Chair",
+    "optionD": "Happiness",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Chair\n\n• Countable noun എന്നാൽ ഒന്ന്, രണ്ട്, മൂന്ന് എന്ന് എണ്ണാൻ കഴിയുന്ന noun ആണ്.\n• 'Chair' (കസേര) എണ്ണാം: one chair, two chairs, ten chairs.\n• Countable nouns-ന് singular-ഉം plural-ഉം ഉണ്ട്; 'a/an' ചേർക്കാം — a chair.\n• ബാക്കി മൂന്നും എണ്ണാൻ കഴിയാത്ത uncountable nouns ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: എണ്ണാം + plural ഉണ്ട് + a/an ചേരും → Countable | എണ്ണാൻ പറ്റില്ല → Uncountable.\n• Uncountable nouns: ദ്രാവകങ്ങൾ (water, milk), ധാന്യപ്പൊടികൾ (rice, sugar, sand), ആശയങ്ങൾ (happiness, advice, information).\n• Uncountable nouns എണ്ണാൻ ഒരു അളവ് വാക്ക് ചേർക്കണം: a glass of water, a bag of rice, a piece of advice.\n• ⭐ PSC ആവർത്തനം: countable / uncountable തിരിച്ചറിയൽ, 'informations', 'advices' പോലുള്ള തെറ്റുകൾ PSC സ്ഥിരം ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. There are four chairs in the room. (മുറിയിൽ നാല് കസേരകൾ ഉണ്ട്)\n2. Please give me a glass of water. (ഒരു ഗ്ലാസ് വെള്ളം തരൂ)\n3. He bought two kilos of rice. (അവൻ രണ്ട് കിലോ അരി വാങ്ങി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Water — 'വെള്ളം'; ദ്രാവകമായതിനാൽ എണ്ണാൻ കഴിയില്ല — uncountable.\n• 'two waters' എന്ന് സാധാരണ പറയില്ല; 'two glasses of water' എന്ന് പറയണം.\n• 🪤 PSC Trap: ഗ്ലാസുകളായി എണ്ണാമല്ലോ എന്ന് ചിന്തിപ്പിക്കാൻ.\n\n• (B) Rice — 'അരി'; ഓരോ അരിമണിയും എണ്ണാറില്ല — uncountable.\n• 🪤 PSC Trap: മണികൾ ഉണ്ടല്ലോ എന്ന് കരുതി എണ്ണാമെന്ന് തോന്നിപ്പിക്കുന്ന ഏറ്റവും വലിയ കെണി!\n\n• (D) Happiness — 'സന്തോഷം'; ഒരു വികാരം / ആശയം (abstract noun) ആയതിനാൽ എണ്ണാൻ കഴിയില്ല.\n• 🪤 PSC Trap: abstract noun-നെക്കുറിച്ച് ധാരണ കുറവുള്ളവരെ കുഴക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'കൈ കൊണ്ട് ഒന്ന്, രണ്ട് എന്ന് തൊട്ട് എണ്ണാമോ?' — കസേര എണ്ണാം, വെള്ളവും അരിയും സന്തോഷവും പറ്റില്ല.\n• ഒരുമിച്ച് പഠിക്കുക (uncountable): water, milk, rice, sugar, sand, money, advice, information, furniture, luggage, happiness.\n• PSC strategy: 'a ___' എന്ന് മുന്നിൽ ചേർത്ത് നോക്കുക — 'a chair' ശരി, 'a water', 'a rice' തെറ്റ്. ഉടൻ ഉത്തരം കിട്ടും!"
+    }
+  },
+  {
+    "id": "50-2025-E-Q23",
+    "paperId": "50-2025-E",
+    "questionNumber": 23,
+    "topic": "Direct and Indirect Speech",
+    "questionText": "Choose the correct form of reported speech:\nHe said, \"I am reading a book\".",
+    "optionA": "He said he is reading a book.",
+    "optionB": "He said that he was reading a book.",
+    "optionC": "He said he read a book.",
+    "optionD": "He says he was reading a book.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) He said that he was reading a book.\n\n• Reporting verb 'said' Past tense-ൽ ആയതിനാൽ reported speech-ൽ tense ഒരു പടി പിന്നോട്ട് പോകണം (backshift).\n• 'am reading' (Present Continuous) → 'was reading' (Past Continuous).\n• 'I' എന്ന pronoun സംസാരിച്ച ആളിനെ (He) സൂചിപ്പിക്കുന്നതിനാൽ 'he' ആയി മാറുന്നു.\n• Inverted commas നീക്കി 'that' എന്ന conjunction ചേർക്കുന്നു.\n• 'താൻ ഒരു പുസ്തകം വായിക്കുകയാണെന്ന് അവൻ പറഞ്ഞു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: said (past) → tense ഒരു പടി പിന്നോട്ട്! am/is → was, are → were, will → would.\n• Backshift: ഓരോ present tense-ഉം അതിന്റെ past രൂപത്തിലേക്ക് മാറുന്നു — Present Continuous ആണെങ്കിൽ Past Continuous, Present Perfect ആണെങ്കിൽ Past Perfect.\n• Reporting verb Present tense-ൽ ആണെങ്കിൽ (says) reported ഭാഗത്തെ tense മാറ്റേണ്ടതില്ല.\n• പൊതുസത്യങ്ങൾ (സൂര്യൻ കിഴക്ക് ഉദിക്കുന്നു പോലുള്ളവ) ആണെങ്കിലും tense മാറ്റില്ല.\n• ⭐ PSC ആവർത്തനം: Direct-Indirect മാറ്റം PSC English-ലെ ഏറ്റവും പതിവ് ചോദ്യങ്ങളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. She said, \"I am happy.\" → She said that she was happy. (അവൾ സന്തോഷവതിയാണെന്ന് പറഞ്ഞു)\n2. They said, \"We are playing.\" → They said that they were playing. (അവർ കളിക്കുകയാണെന്ന് പറഞ്ഞു)\n3. He said, \"I will come.\" → He said that he would come. (അവൻ വരുമെന്ന് പറഞ്ഞു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) He said he is reading a book. — Reporting verb past ആയിട്ടും tense മാറ്റിയില്ല ('is' തന്നെ).\n• Backshift നിയമം തെറ്റിച്ചു.\n• 🪤 PSC Trap: pronoun മാത്രം മാറ്റി tense മറക്കുന്നവരെ കുടുക്കാൻ.\n\n• (C) He said he read a book. — 'read' Simple Past ആണ്; Continuous ('-ing') അർത്ഥം നഷ്ടപ്പെട്ടു.\n• Present Continuous → Past Continuous ആകണം, Simple Past അല്ല.\n• 🪤 PSC Trap: past ആക്കിയല്ലോ എന്ന് മാത്രം നോക്കുന്നവരെ വീഴ്ത്താൻ.\n\n• (D) He says he was reading a book. — Reporting verb 'said' 'says' ആയി മാറ്റി; ഇത് അനുവദനീയമല്ല.\n• Reporting verb-ന്റെ tense ഒരിക്കലും മാറ്റരുത്.\n• 🪤 PSC Trap: reported ഭാഗം ശരിയായതിനാൽ ശ്രദ്ധിക്കാതെ തിരഞ്ഞെടുക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Said പറഞ്ഞാൽ ഒരു പടി പിന്നോട്ട്!' — ഓരോ helping verb-ഉം അതിന്റെ past രൂപത്തിലേക്ക്: am→was, will→would, can→could.\n• ഒരുമിച്ച് പഠിക്കുക: tense backshift + pronoun മാറ്റം + time words (now→then, today→that day, tomorrow→the next day).\n• PSC strategy: മൂന്ന് കാര്യം ഒന്നിച്ച് പരിശോധിക്കുക — reporting verb മാറിയോ, tense പിന്നോട്ട് പോയോ, pronoun ശരിയായോ. മൂന്നും ശരിയായ option മാത്രം തിരഞ്ഞെടുക്കുക!"
+    }
+  },
+  {
+    "id": "50-2025-E-Q24",
+    "paperId": "50-2025-E",
+    "questionNumber": 24,
+    "topic": "Active and Passive Voice",
+    "questionText": "Select the correct sentence in active voice:",
+    "optionA": "The letter was written by John.",
+    "optionB": "The cake was eaten by the children.",
+    "optionC": "The teacher explains the lesson.",
+    "optionD": "The door was opened by the guard.",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) The teacher explains the lesson.\n\n• Active voice-ൽ പ്രവൃത്തി ചെയ്യുന്ന ആൾ (doer) തന്നെയാണ് subject.\n• ഇവിടെ 'The teacher' (അധ്യാപകൻ) ആണ് പഠിപ്പിക്കുന്നത് — അദ്ദേഹം തന്നെ subject സ്ഥാനത്ത്.\n• Verb 'explains' നേരിട്ടുള്ള Simple Present രൂപം; 'be + V3' ഘടന ഇല്ല.\n• 'അധ്യാപകൻ പാഠം വിശദീകരിക്കുന്നു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Doer + Verb + Object → Active | Object + be + V3 + by + Doer → Passive.\n• Passive-ന്റെ അടയാളങ്ങൾ: was/were/is/are/been + V3, പിന്നെ 'by' + doer.\n• Active വാക്യം കൂടുതൽ നേരിട്ടുള്ളതും ശക്തവുമാണ്; ചെയ്യുന്ന ആളിന് ഊന്നൽ നൽകുന്നു.\n• ⭐ PSC ആവർത്തനം: active / passive തിരിച്ചറിയൽ, ഒന്നിൽ നിന്ന് മറ്റൊന്നിലേക്ക് മാറ്റൽ — PSC-യിൽ എല്ലായ്പ്പോഴും.\n• ഉദാഹരണ sentences:\n1. The boy kicks the ball. (Active — കുട്ടി പന്ത് തട്ടുന്നു)\n2. The ball is kicked by the boy. (Passive — പന്ത് കുട്ടിയാൽ തട്ടപ്പെടുന്നു)\n3. Mother cooks food. (Active — അമ്മ ഭക്ഷണം പാകം ചെയ്യുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) The letter was written by John. — 'was written by' എന്ന ഘടന passive voice ആണ്.\n• ചെയ്ത ആളായ John 'by'-ക്ക് ശേഷം പോയി.\n• 🪤 PSC Trap: ശരിയായ വ്യാകരണമുള്ള വാക്യമായതിനാൽ 'correct sentence' എന്ന് കണ്ട് തിരഞ്ഞെടുക്കാൻ.\n\n• (B) The cake was eaten by the children. — 'was eaten by' — ഇതും passive.\n• 🪤 PSC Trap: മൂന്ന് passive വാക്യങ്ങൾ ഒരേ രീതിയിൽ നൽകി ഒറ്റയാനെ കണ്ടെത്താൻ പ്രേരിപ്പിക്കുന്നു.\n\n• (D) The door was opened by the guard. — 'was opened by' — passive voice.\n• 🪤 PSC Trap: 'guard' ആണ് തുറന്നത് എന്നതിനാൽ doer ഉണ്ടല്ലോ എന്ന് കരുതി ആശയക്കുഴപ്പം ഉണ്ടാക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: '\"by\" കണ്ടാൽ Bye പറയൂ!' — 'by + doer' ഉള്ള വാക്യങ്ങൾ passive ആണ്, active ചോദിക്കുമ്പോൾ അവയോട് ബൈ പറയുക.\n• ഒരുമിച്ച് പഠിക്കുക: passive അടയാളങ്ങൾ — is/are/was/were/been/being + V3.\n• PSC strategy: 'Odd one out' പോലെ ചിന്തിക്കുക — മൂന്നെണ്ണം ഒരേ ഘടനയിലാണെങ്കിൽ വ്യത്യസ്തമായ ഒന്നാണ് ഉത്തരം. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "50-2025-E-Q25",
+    "paperId": "50-2025-E",
+    "questionNumber": 25,
+    "topic": "Phrasal Verbs",
+    "questionText": "Choose the correct phrasal verb to complete the sentence:\nThe firemen were able to _______ the fire before it spread.",
+    "optionA": "put up",
+    "optionB": "put out",
+    "optionC": "put on",
+    "optionD": "put down",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) put out\n\n• 'put out' = 'കെടുത്തുക' (extinguish) — തീ, മെഴുകുതിരി, സിഗരറ്റ് എന്നിവ കെടുത്താൻ ഉപയോഗിക്കുന്നു.\n• 'തീ പടരുന്നതിന് മുമ്പ് അഗ്നിശമന സേനാംഗങ്ങൾക്ക് അത് കെടുത്താൻ കഴിഞ്ഞു' എന്നർത്ഥം.\n• Fire എന്ന വാക്കുമായി സ്ഥിരമായി ചേരുന്ന phrasal verb ആണ് 'put out'.\n• Phrasal verb-ന്റെ അർത്ഥം വാക്കുകൾ ഓരോന്നായി നോക്കിയാൽ കിട്ടില്ല — മൊത്തത്തിൽ ഓർക്കണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: put out = കെടുത്തുക | put on = ധരിക്കുക | put up = താമസിക്കുക / സഹിക്കുക (with) | put down = അടിച്ചമർത്തുക.\n• 'put' കുടുംബം: put off = മാറ്റിവയ്ക്കുക, put up with = സഹിക്കുക, put across = വ്യക്തമായി അവതരിപ്പിക്കുക.\n• Phrasal verb-ന്റെ അർത്ഥം context-ൽ നിന്ന് തിരിച്ചറിയുക — ഇവിടെ 'fire' ആണ് താക്കോൽ.\n• ⭐ PSC ആവർത്തനം: 'put', 'take', 'give', 'look', 'call' എന്നിവയുടെ phrasal verbs PSC-യുടെ ഏറ്റവും ഇഷ്ട വിഷയം!\n• ഉദാഹരണ sentences:\n1. Please put out the candle before sleeping. (ഉറങ്ങുംമുമ്പ് മെഴുകുതിരി കെടുത്തൂ)\n2. She put on her new saree. (അവൾ പുതിയ സാരി ധരിച്ചു)\n3. The meeting was put off till Monday. (യോഗം തിങ്കളാഴ്ചയിലേക്ക് മാറ്റിവച്ചു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) put up — 'താമസിക്കുക' (put up at a hotel) അല്ലെങ്കിൽ 'ഉയർത്തുക / സ്ഥാപിക്കുക' (put up a tent).\n• തീ കെടുത്തുന്നതുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'put up with' (സഹിക്കുക) എന്ന പ്രസിദ്ധ പ്രയോഗം ഓർമ്മയുള്ളവരെ കുഴക്കാൻ.\n\n• (C) put on — 'ധരിക്കുക' (put on a shirt) അല്ലെങ്കിൽ 'ഓൺ ചെയ്യുക' (put on the light).\n• തീ കെടുത്തുന്നതിന്റെ നേർ വിപരീതം പോലെയാണ് ഇതിന്റെ അർത്ഥം.\n• 🪤 PSC Trap: 'on / out' എന്ന വിപരീത ജോഡി ഉപയോഗിച്ച് ആശയക്കുഴപ്പം ഉണ്ടാക്കാൻ.\n\n• (D) put down — 'അടിച്ചമർത്തുക' (put down a revolt) അല്ലെങ്കിൽ 'എഴുതിവയ്ക്കുക'.\n• 🪤 PSC Trap: കലാപം 'അമർത്തുന്നത്' പോലെ തീയും 'അമർത്താം' എന്ന് തോന്നിപ്പിക്കാൻ — പക്ഷേ തീയ്ക്ക് 'put out' മാത്രം.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'തീ OUT ആക്കി!' — ക്രിക്കറ്റിൽ batsman out ആകുന്നതുപോലെ തീയും out ആകുന്നു = put out.\n• ഒരുമിച്ച് പഠിക്കുക: put out (കെടുത്തുക), put on (ധരിക്കുക), put off (മാറ്റിവയ്ക്കുക), put up with (സഹിക്കുക), put down (അടിച്ചമർത്തുക).\n• PSC strategy: Phrasal verb blank-ൽ വാക്യത്തിലെ പ്രധാന noun (ഇവിടെ 'fire') കണ്ടെത്തുക — അതിനോട് ചേരുന്ന ജോഡി മാത്രം തിരഞ്ഞെടുക്കുക. ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "50-2025-E-Q26",
+    "paperId": "50-2025-E",
+    "questionNumber": 26,
+    "topic": "Parts of Speech",
+    "questionText": "Which sentence contains an adjective?",
+    "optionA": "She drives carefully.",
+    "optionB": "The tall building is visible from here.",
+    "optionC": "He wrote a letter.",
+    "optionD": "They arrived early.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) The tall building is visible from here.\n\n• Adjective എന്നാൽ noun-നെ വിശേഷിപ്പിക്കുന്ന വാക്കാണ് — അതിന്റെ ഗുണം, വലിപ്പം, നിറം എന്നിവ പറയുന്നു.\n• 'tall' (ഉയരമുള്ള) എന്ന വാക്ക് 'building' എന്ന noun-നെ വിശേഷിപ്പിക്കുന്നു.\n• കൂടാതെ 'visible' (കാണാവുന്ന) എന്നതും 'is'-ന് ശേഷം വരുന്ന adjective ആണ് (predicative adjective).\n• 'ഉയരമുള്ള കെട്ടിടം ഇവിടെ നിന്ന് കാണാം' എന്നർത്ഥം — ഈ വാക്യത്തിൽ രണ്ട് adjectives ഉണ്ട്!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Noun-നെ വിശേഷിപ്പിക്കുന്നു → Adjective | Verb-നെ വിശേഷിപ്പിക്കുന്നു → Adverb.\n• Adjective രണ്ട് സ്ഥാനത്ത് വരാം: noun-ന് മുമ്പ് (a tall building) അല്ലെങ്കിൽ be verb-ന് ശേഷം (the building is tall).\n• Adjective 'എങ്ങനെയുള്ള?', 'ഏത്?', 'എത്ര?' എന്ന ചോദ്യങ്ങൾക്ക് ഉത്തരം നൽകുന്നു.\n• ⭐ PSC ആവർത്തനം: adjective vs adverb തിരിച്ചറിയൽ PSC പതിവായി ചോദിക്കുന്നു — '-ly' ഉള്ള വാക്കുകളാണ് സ്ഥിരം കെണി.\n• ഉദാഹരണ sentences:\n1. She has a beautiful voice. (beautiful — voice-നെ വിശേഷിപ്പിക്കുന്നു)\n2. The sky is blue. (blue — be verb-ന് ശേഷം)\n3. He bought three new books. (three, new — books-നെ വിശേഷിപ്പിക്കുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) She drives carefully. — 'carefully' (ശ്രദ്ധയോടെ) adverb of manner ആണ്.\n• അത് 'drives' എന്ന verb-നെയാണ് വിശേഷിപ്പിക്കുന്നത്, noun-നെ അല്ല.\n• 🪤 PSC Trap: 'careful' എന്ന adjective-ൽ നിന്ന് വന്നതിനാൽ adjective ആണെന്ന് തോന്നിപ്പിക്കാൻ.\n\n• (C) He wrote a letter. — ഇതിൽ pronoun, verb, article, noun മാത്രമേ ഉള്ളൂ.\n• 'a' ചിലപ്പോൾ adjective ആയി പഴയ grammar-ൽ കണക്കാക്കാറുണ്ടെങ്കിലും ഇവിടെ അത് article ആണ്.\n• 🪤 PSC Trap: വിശേഷണം ഇല്ലാത്ത ലളിതമായ വാക്യം നൽകി ശ്രദ്ധ തെറ്റിക്കാൻ.\n\n• (D) They arrived early. — 'early' ഇവിടെ 'arrived' എന്ന verb-നെ വിശേഷിപ്പിക്കുന്ന adverb of time ആണ്.\n• 🪤 PSC Trap: 'an early train' എന്നതിൽ 'early' adjective ആണ്; അതുകൊണ്ട് ഇവിടെയും adjective എന്ന് തെറ്റിദ്ധരിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Adjective = Noun-ന്റെ ആഭരണം, Adverb = Verb-ന്റെ ആഭരണം!' — ആരെയാണ് അലങ്കരിക്കുന്നതെന്ന് നോക്കുക.\n• ഒരുമിച്ച് പഠിക്കുക: careful (adj) – carefully (adv), quick – quickly, early (രണ്ടും ആകാം), fast (രണ്ടും ആകാം).\n• PSC strategy: ഓരോ വാക്യത്തിലും noun കണ്ടെത്തുക, പിന്നെ അതിന് തൊട്ടുമുമ്പോ 'is'-ന് ശേഷമോ വിശേഷണ വാക്കുണ്ടോ എന്ന് നോക്കുക. ഉണ്ടെങ്കിൽ അതാണ് ഉത്തരം!"
+    }
+  },
+  {
+    "id": "50-2025-E-Q27",
+    "paperId": "50-2025-E",
+    "questionNumber": 27,
+    "topic": "Tenses",
+    "questionText": "Identify the irregular verb from the options:",
+    "optionA": "Walk",
+    "optionB": "Buy",
+    "optionC": "Laugh",
+    "optionD": "Talk",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Buy\n\n• Irregular verb എന്നാൽ past tense-ഉം past participle-ഉം '-ed' ചേർത്ത് ഉണ്ടാക്കാത്ത verb ആണ്.\n• 'Buy' (വാങ്ങുക) → bought → bought. 'buyed' എന്ന് പറയില്ല.\n• ബാക്കി മൂന്നും '-ed' ചേർക്കുന്ന regular verbs ആണ്: walked, laughed, talked.\n• 'ഞാൻ ഇന്നലെ ഒരു പുസ്തകം വാങ്ങി' = I bought a book yesterday.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: V1 + ed = V2 = V3 → Regular | രൂപം മാറുന്നു → Irregular.\n• 'ought' കുടുംബം (ഒരുമിച്ച് ഓർക്കാൻ): buy–bought, bring–brought, think–thought, fight–fought, seek–sought.\n• 'aught' കുടുംബം: teach–taught, catch–caught.\n• ⭐ PSC ആവർത്തനം: irregular verb തിരിച്ചറിയൽ, V2/V3 രൂപങ്ങൾ എന്നിവ PSC-യിൽ ഇടയ്ക്കിടെ വരും.\n• ഉദാഹരണ sentences:\n1. She bought a new phone. (അവൾ പുതിയ ഫോൺ വാങ്ങി)\n2. He brought his friend to the party. (അവൻ സുഹൃത്തിനെ പാർട്ടിക്ക് കൊണ്ടുവന്നു)\n3. I thought you were busy. (നീ തിരക്കിലാണെന്ന് ഞാൻ കരുതി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Walk — 'നടക്കുക'; walk → walked → walked. '-ed' ചേർക്കുന്നതിനാൽ regular verb.\n• 🪤 PSC Trap: ദൈനംദിന വാക്കായതിനാൽ ശ്രദ്ധിക്കാതെ തിരഞ്ഞെടുക്കാൻ.\n\n• (C) Laugh — 'ചിരിക്കുക'; laugh → laughed → laughed. ഇതും regular.\n• 'gh' എന്ന അസാധാരണ spelling കണ്ട് irregular ആണെന്ന് തോന്നിയേക്കാം.\n• 🪤 PSC Trap: spelling വിചിത്രമായതിനാൽ verb-ഉം വിചിത്രം ആണെന്ന് കരുതുന്നവരെ കുടുക്കാൻ.\n\n• (D) Talk — 'സംസാരിക്കുക'; talk → talked → talked. Regular verb.\n• 🪤 PSC Trap: 'walk'-ഉമായി ശബ്ദസാമ്യം ഉള്ള വാക്ക് നൽകി എണ്ണം കൂട്ടാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Buy ചെയ്താൽ Bought ആകും, Buyed അല്ല!' — കടയിൽ പോയി വാങ്ങിയാൽ ബില്ലിൽ 'bought' എന്നേ എഴുതൂ.\n• ഒരുമിച്ച് പഠിക്കുക: ought കുടുംബം — bought, brought, thought, fought, sought | aught — taught, caught.\n• PSC strategy: ഓരോ option-ന്റെയും past രൂപം മനസ്സിൽ പറഞ്ഞുനോക്കുക — '-ed' ചേരാത്തതാണ് irregular. 10 സെക്കൻഡിൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "50-2025-E-Q28",
+    "paperId": "50-2025-E",
+    "questionNumber": 28,
+    "topic": "Prepositions",
+    "questionText": "Choose the correct sentence using a preposition:",
+    "optionA": "He is waiting since two hours.",
+    "optionB": "She was angry on me.",
+    "optionC": "I am interested in learning French.",
+    "optionD": "They are married with five years.",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) I am interested in learning French.\n\n• 'interested' എന്ന adjective-ന് ശേഷം എപ്പോഴും 'in' ആണ് വരുന്നത് — interested in something.\n• 'in' എന്ന preposition-ന് ശേഷം verb വരുമ്പോൾ അത് gerund (-ing) ആകണം → 'in learning'.\n• 'എനിക്ക് ഫ്രഞ്ച് പഠിക്കാൻ താൽപ്പര്യമുണ്ട്' എന്നർത്ഥം.\n• വാക്യത്തിലെ preposition-ഉം gerund-ഉം രണ്ടും ശരിയായ സ്ഥാനത്താണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: interested IN, angry WITH (ആളോട്) / AT (കാര്യത്തോട്), FOR + കാലയളവ്, SINCE + തുടക്ക സമയം.\n• for / since വ്യത്യാസം: for two hours (എത്ര നേരം), since 9 o'clock (എപ്പോൾ മുതൽ).\n• 'married FOR five years' (അഞ്ച് വർഷമായി വിവാഹിതർ), 'married TO someone' (ഒരാളെ വിവാഹം കഴിച്ചു).\n• ⭐ PSC ആവർത്തനം: angry with, interested in, since/for — ഈ ജോഡികൾ PSC ആവർത്തിച്ച് ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. She is interested in music. (അവൾക്ക് സംഗീതത്തിൽ താൽപ്പര്യമുണ്ട്)\n2. Father was angry with me. (അച്ഛന് എന്നോട് ദേഷ്യം വന്നു)\n3. I have been waiting for two hours. (രണ്ട് മണിക്കൂറായി ഞാൻ കാത്തിരിക്കുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) He is waiting since two hours. — 'two hours' ഒരു കാലയളവ് ആയതിനാൽ 'for' വേണം, 'since' അല്ല.\n• കൂടാതെ tense-ഉം Present Perfect Continuous ആകണം: 'He has been waiting for two hours.'\n• 🪤 PSC Trap: ഇന്ത്യൻ ഇംഗ്ലീഷിലെ ഏറ്റവും സാധാരണ തെറ്റ് — 'since two hours' കേട്ട് ശീലമായവരെ കുടുക്കാൻ.\n\n• (B) She was angry on me. — ആളോട് ദേഷ്യപ്പെടുമ്പോൾ 'angry with' ആണ് ശരി.\n• ശരിയായ രൂപം: 'She was angry with me.'\n• 🪤 PSC Trap: മലയാളത്തിലെ 'എന്റെ മേൽ ദേഷ്യം' എന്ന് നേരിട്ട് വിവർത്തനം ചെയ്യുന്നവരെ വീഴ്ത്താൻ.\n\n• (D) They are married with five years. — കാലയളവിന് 'for' ആണ് ശരി.\n• ശരിയായ രൂപം: 'They have been married for five years.'\n• 🪤 PSC Trap: 'married with children' (കുട്ടികളുള്ള വിവാഹിതർ) എന്ന പ്രയോഗം കേട്ടവരെ കുഴക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'FOR = എത്ര നേരം, SINCE = എപ്പോൾ മുതൽ' — 'for two hours', 'since Monday'. 'Angry WITH' — ദേഷ്യം ആളിനോട് കൂടെ (with)!\n• ഒരുമിച്ച് പഠിക്കുക: interested in, angry with, good at, afraid of, married to, depend on, insist on.\n• PSC strategy: Preposition ചോദ്യത്തിൽ മലയാളത്തിൽ നിന്ന് നേരിട്ട് വിവർത്തനം ചെയ്യരുത് — ഉറച്ച ജോഡികൾ (fixed collocations) മനഃപാഠമാക്കുക. ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "50-2025-E-Q29",
+    "paperId": "50-2025-E",
+    "questionNumber": 29,
+    "topic": "Idioms",
+    "questionText": "Identify the sentence with a correctly used idiom:",
+    "optionA": "She hit the roof when she heard the news.",
+    "optionB": "He pulled my leg literally.",
+    "optionC": "The exam was a piece of cake, but I failed.",
+    "optionD": "I am feeling under the sky today.",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) She hit the roof when she heard the news.\n\n• 'hit the roof' = 'പെട്ടെന്ന് അതിയായി ദേഷ്യപ്പെടുക' എന്ന idiom ആണ്.\n• വാർത്ത കേട്ടപ്പോൾ അവൾക്ക് കടുത്ത ദേഷ്യം വന്നു — അർത്ഥവും സന്ദർഭവും ഒന്നിച്ച് ചേരുന്നു.\n• ദേഷ്യം കൊണ്ട് ചാടി മേൽക്കൂരയിൽ തല ഇടിക്കുന്ന ഒരു ചിത്രം മനസ്സിൽ കാണൂ — അതാണ് ഈ idiom-ന്റെ ഉത്ഭവം.\n• Idiom-ന്റെ അർത്ഥം അക്ഷരാർത്ഥത്തിലല്ല, ആലങ്കാരികമായാണ് എടുക്കേണ്ടത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Idiom = ആലങ്കാരിക അർത്ഥം + ചേരുന്ന സന്ദർഭം. അക്ഷരാർത്ഥം എടുക്കരുത്!\n• ദേഷ്യം കുടുംബം: hit the roof, hit the ceiling, blow one's top, fly off the handle, see red.\n• Idiom-ന്റെ വാക്കുകൾ മാറ്റാൻ പാടില്ല — 'under the weather' എന്നതിനെ 'under the sky' ആക്കിയാൽ അർത്ഥം നഷ്ടമാകും.\n• ⭐ PSC ആവർത്തനം: idiom-ന്റെ അർത്ഥം, ശരിയായ ഉപയോഗം — PSC എല്ലാ പരീക്ഷയിലും ഒരെണ്ണമെങ്കിലും ചോദിക്കും.\n• ഉദാഹരണ sentences:\n1. Father hit the roof when he saw my marks. (മാർക്ക് കണ്ട് അച്ഛന് ഭയങ്കര ദേഷ്യം വന്നു)\n2. Don't worry, I was just pulling your leg. (പേടിക്കേണ്ട, ഞാൻ വെറുതെ കളിയാക്കിയതാണ്)\n3. I am feeling under the weather today. (ഇന്ന് എനിക്ക് സുഖമില്ല)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) He pulled my leg literally. — 'pull someone's leg' = 'കളിയാക്കുക' എന്ന idiom ആണ്.\n• 'literally' (അക്ഷരാർത്ഥത്തിൽ) ചേർത്തതോടെ idiom-ന്റെ ആലങ്കാരിക അർത്ഥം നഷ്ടപ്പെട്ടു — അവൻ ശരിക്കും കാല് പിടിച്ചുവലിച്ചു എന്നാകും.\n• 🪤 PSC Trap: idiom ശരിയായതിനാൽ 'literally' എന്ന വാക്ക് ശ്രദ്ധിക്കാതെ തിരഞ്ഞെടുക്കാൻ.\n\n• (C) The exam was a piece of cake, but I failed. — 'a piece of cake' = 'വളരെ എളുപ്പം'.\n• പരീക്ഷ എളുപ്പമായിട്ടും തോറ്റു എന്നത് യുക്തിക്ക് ചേരുന്നില്ല — സന്ദർഭം തെറ്റാണ്.\n• 🪤 PSC Trap: idiom-ന്റെ രൂപം ശരിയായതിനാൽ അർത്ഥവും സന്ദർഭവും ഒത്തുനോക്കാത്തവരെ വീഴ്ത്താൻ.\n\n• (D) I am feeling under the sky today. — ഇങ്ങനെ ഒരു idiom ഇല്ല.\n• ശരിയായ idiom 'under the weather' (സുഖമില്ലാതെ) ആണ്.\n• 🪤 PSC Trap: യഥാർത്ഥ idiom-ന്റെ ഒരു വാക്ക് മാറ്റി കള്ള idiom ഉണ്ടാക്കി കുഴക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ദേഷ്യം വന്നാൽ മേൽക്കൂര തകരും — hit the roof!' ദേഷ്യം കൊണ്ട് ചാടുന്ന ഒരാളെ ചിത്രീകരിക്കുക.\n• ഒരുമിച്ച് പഠിക്കുക: hit the roof (ദേഷ്യം), pull one's leg (കളിയാക്കൽ), piece of cake (എളുപ്പം), under the weather (അസുഖം), once in a blue moon (വല്ലപ്പോഴും).\n• PSC strategy: Idiom ചോദ്യത്തിൽ രണ്ട് കാര്യം പരിശോധിക്കുക — idiom-ന്റെ വാക്കുകൾ ശരിയാണോ, അർത്ഥം വാക്യത്തിലെ സന്ദർഭവുമായി ചേരുന്നുണ്ടോ. രണ്ടും ശരിയായത് മാത്രം ഉത്തരം!"
+    }
+  },
+  {
+    "id": "50-2025-E-Q30",
+    "paperId": "50-2025-E",
+    "questionNumber": 30,
+    "topic": "Correction of Sentences",
+    "questionText": "Choose the correctly jumbled sentence:",
+    "optionA": "Always park the in evening I.",
+    "optionB": "In the park, I always walk in the evening.",
+    "optionC": "Evening in I the park walk always.",
+    "optionD": "Walk in evening always the I park.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) In the park, I always walk in the evening.\n\n• ചോദ്യം ആവശ്യപ്പെടുന്നത് കുഴഞ്ഞ വാക്കുകൾ ശരിയായ ക്രമത്തിൽ അടുക്കിയ വാക്യമാണ്.\n• (B)-ൽ മാത്രമാണ് ഇംഗ്ലീഷ് വാക്യഘടന (word order) ശരിയായിരിക്കുന്നത്.\n• ഘടന: [സ്ഥലം] In the park, + [Subject] I + [Adverb of frequency] always + [Verb] walk + [സമയം] in the evening.\n• 'പാർക്കിൽ, ഞാൻ എന്നും വൈകുന്നേരം നടക്കാറുണ്ട്' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Subject + Verb + Object + Place + Time (S-V-O-P-T)!\n• Adverb of frequency (always, often, never) main verb-ന് തൊട്ടുമുമ്പ് വരും: I always walk.\n• സ്ഥലം കാണിക്കുന്ന phrase ഊന്നലിനായി വാക്യത്തിന്റെ തുടക്കത്തിലും കൊണ്ടുവരാം, അപ്പോൾ ശേഷം comma ഇടും.\n• ⭐ PSC ആവർത്തനം: jumbled sentence / ശരിയായ word order ചോദ്യങ്ങൾ PSC-യിൽ ഇടയ്ക്കിടെ വരുന്നു.\n• ഉദാഹരണ sentences:\n1. I always walk in the park in the evening. (സാധാരണ ക്രമം)\n2. She often reads books at night. (അവൾ പലപ്പോഴും രാത്രി പുസ്തകം വായിക്കും)\n3. In the morning, we go to church. (രാവിലെ ഞങ്ങൾ പള്ളിയിൽ പോകും)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Always park the in evening I. — subject 'I' അവസാനത്തിൽ, 'the in' എന്ന അർത്ഥമില്ലാത്ത ക്രമം.\n• Verb 'walk' പോലുമില്ല — 'park' തെറ്റായി verb പോലെ നിൽക്കുന്നു.\n• 🪤 PSC Trap: 'Always' കൊണ്ട് തുടങ്ങുന്ന imperative പോലെ തോന്നിപ്പിക്കാൻ.\n\n• (C) Evening in I the park walk always. — വാക്കുകൾ എല്ലാം ഉണ്ട്, പക്ഷേ ക്രമം പൂർണ്ണമായും കുഴഞ്ഞിരിക്കുന്നു.\n• Preposition 'in' noun-ന് ശേഷം, subject നടുവിൽ — ഘടന തകർന്നു.\n• 🪤 PSC Trap: എല്ലാ വാക്കുകളും ഉള്ളതിനാൽ ശരിയാണെന്ന് തെറ്റിദ്ധരിക്കാൻ.\n\n• (D) Walk in evening always the I park. — Verb തുടക്കത്തിൽ, article 'the' subject-ന് മുമ്പ്.\n• 🪤 PSC Trap: 'Walk in evening' എന്ന ഭാഗം ശരിയായി തോന്നുന്നതിനാൽ കുഴക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'SVOPT — Sita Visited Our Palace Today!' Subject, Verb, Object, Place, Time.\n• ഒരുമിച്ച് പഠിക്കുക: frequency adverbs-ന്റെ സ്ഥാനം — verb-ന് മുമ്പ് (I always walk), 'be'-ക്ക് ശേഷം (He is always late).\n• PSC strategy: ഓരോ option-ഉം ഉറക്കെ വായിച്ചുനോക്കുക — അർത്ഥം മനസ്സിലാകുന്ന ഒരേയൊരു വാക്യമാണ് ഉത്തരം. 5 സെക്കൻഡിൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "155-2024-M-Q81",
+    "paperId": "155-2024-M",
+    "questionNumber": 81,
+    "topic": "Subject-Verb Agreement",
+    "questionText": "Fill in the blank space:\nNeither food nor water –––––––––– to be found there.",
+    "optionA": "were",
+    "optionB": "have",
+    "optionC": "was",
+    "optionD": "none of the above",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) was\n\n• 'Neither ... nor' ഉപയോഗിക്കുമ്പോൾ verb തൊട്ടടുത്തുള്ള subject-നോട് യോജിക്കണം — ഇതിനെ proximity rule എന്ന് പറയുന്നു.\n• ഇവിടെ verb-ന് തൊട്ടടുത്ത subject 'water' ആണ് — അത് singular ആയ uncountable noun.\n• അതുകൊണ്ട് singular verb 'was' തന്നെ വേണം.\n• 'food'-ഉം 'water'-ഉം രണ്ടും singular ആയതിനാൽ ഏതുവിധത്തിൽ നോക്കിയാലും 'was' ഉറപ്പ്.\n• 'അവിടെ ഭക്ഷണമോ വെള്ളമോ കാണാനുണ്ടായിരുന്നില്ല' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Neither A nor B / Either A or B → verb B-യോട് (അടുത്തുള്ളതിനോട്) യോജിക്കും!\n• Neither + nor ഒരു correlative ജോഡിയാണ്; രണ്ട് കാര്യങ്ങളെയും ഒരുപോലെ നിഷേധിക്കുന്നു.\n• അടുത്തുള്ള subject plural ആണെങ്കിൽ plural verb: Neither the teacher nor the students were present.\n• ⭐ PSC ആവർത്തനം: neither–nor, either–or, not only–but also എന്നിവയുടെ verb agreement PSC ആവർത്തിച്ച് ചോദിക്കുന്നു.\n• 'and' കൊണ്ട് ചേർത്ത രണ്ട് subjects എപ്പോഴും plural ആകും, പക്ഷേ neither–nor അങ്ങനെയല്ല — അത് ഓരോന്നിനെയും വെവ്വേറെയാണ് എടുക്കുന്നത്.\n• ഉദാഹരണ sentences:\n1. Neither Ravi nor his friends were at home. (രവിയോ കൂട്ടുകാരോ വീട്ടിലുണ്ടായിരുന്നില്ല — friends plural → were)\n2. Either you or he is responsible. (നീയോ അവനോ ആണ് ഉത്തരവാദി — he singular → is)\n3. Neither the boys nor the girl has come. (ആൺകുട്ടികളോ ആ പെൺകുട്ടിയോ വന്നില്ല — girl singular → has)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) were — ഇത് plural verb ആണ്.\n• രണ്ട് കാര്യങ്ങൾ (food, water) ഉള്ളതുകൊണ്ട് plural വേണമെന്ന് തോന്നിയേക്കാം, പക്ഷേ neither–nor 'and' പോലെ രണ്ടിനെയും കൂട്ടിച്ചേർക്കുന്നില്ല.\n• 🪤 PSC Trap: 'A and B → plural' എന്ന നിയമം neither–nor-ൽ പ്രയോഗിക്കുന്നവരെ വീഴ്ത്താനുള്ള പ്രധാന കെണി!\n\n• (B) have — 'have to be found' എന്ന് ചേർത്താൽ 'കണ്ടെത്തേണ്ടതുണ്ട്' എന്ന അർത്ഥമാകും; സന്ദർഭത്തിന് ചേരില്ല.\n• കൂടാതെ 'have' plural രൂപമാണ്; singular subject-ന് 'has' ആണ് വേണ്ടത്.\n• 🪤 PSC Trap: 'have to' എന്ന സാധാരണ പ്രയോഗം ഓർമ്മിപ്പിച്ച് കുഴക്കാൻ.\n\n• (D) none of the above — ശരിയുത്തരം (was) options-ൽ ഉള്ളതിനാൽ ഇത് തെറ്റ്.\n• 🪤 PSC Trap: സംശയം ഉള്ളവരെ 'none' തിരഞ്ഞെടുക്കാൻ പ്രേരിപ്പിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'അയൽക്കാരനെ നോക്കൂ!' — neither–nor, either–or വാക്യങ്ങളിൽ verb എപ്പോഴും തൊട്ടടുത്തുള്ള അയൽക്കാരനെ (nearest subject) അനുസരിക്കും.\n• ഒരുമിച്ച് പഠിക്കുക: neither–nor, either–or, not only–but also → അടുത്തതിനോട് | both–and → എപ്പോഴും plural.\n• PSC strategy: Blank-ന് തൊട്ടുമുമ്പുള്ള noun singular ആണോ plural ആണോ എന്ന് മാത്രം നോക്കുക. 5 സെക്കൻഡിൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "155-2024-M-Q82",
+    "paperId": "155-2024-M",
+    "questionNumber": 82,
+    "topic": "Synonyms",
+    "questionText": "Locate the synonym of __sesquipedalian__ from the following:",
+    "optionA": "Short tempered",
+    "optionB": "Using pompous language",
+    "optionC": "One who loves cycling",
+    "optionD": "One who writes lengthy poem",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Using pompous language\n\n• 'Sesquipedalian' എന്നാൽ നീളമുള്ള, കടുകട്ടിയായ വാക്കുകൾ ഉപയോഗിക്കുന്ന — ആഡംബരം കാണിക്കുന്ന ഭാഷ എന്നർത്ഥം.\n• 'Pompous language' എന്നാൽ പൊങ്ങച്ചം നിറഞ്ഞ, വലിയ വാക്കുകൾ കൊണ്ടുള്ള ഭാഷ — അർത്ഥം ഒന്നുതന്നെ.\n• Latin 'sesqui' (ഒന്നര) + 'pedalis' (അടി നീളം) → 'ഒന്നര അടി നീളമുള്ള വാക്കുകൾ'!\n• റോമൻ കവി Horace ആണ് ഈ പ്രയോഗം ആദ്യം ഉപയോഗിച്ചത് — നീണ്ട വാക്കുകൾ കൊണ്ട് സംസാരിക്കുന്നവരെ കളിയാക്കാൻ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Sesquipedalian = നീണ്ട വാക്ക് പ്രേമി = pompous / bombastic / verbose language.\n• Synonym എന്നാൽ ഒരേ അർത്ഥമുള്ള വാക്ക്; ഇവിടെ ഒറ്റവാക്കിന്റെ അർത്ഥം വിശദീകരിക്കുന്ന phrase ആണ് ഉത്തരം.\n• ബന്ധപ്പെട്ട വാക്കുകൾ: bombastic (ആഡംബര ഭാഷ), grandiloquent (വാചാടോപം), verbose (അമിത വാചാലത).\n• ⭐ PSC ആവർത്തനം: അസാധാരണമായ നീണ്ട വാക്കുകളുടെ അർത്ഥം PSC-യുടെ ഉയർന്ന തല പരീക്ഷകളിൽ (Secretary, Officer തസ്തികകൾ) പതിവാണ്.\n• Etymology hint: sesqui = 1½ (sesquicentennial = 150-ാം വാർഷികം), ped = കാൽ/അടി (pedestrian, pedal).\n• ഉദാഹരണ sentences:\n1. The professor's sesquipedalian speech confused the students. (പ്രൊഫസറുടെ കടുകട്ടി പ്രസംഗം കുട്ടികളെ കുഴക്കി)\n2. Avoid sesquipedalian words in a simple letter. (ലളിതമായ കത്തിൽ നീണ്ട വാക്കുകൾ ഒഴിവാക്കുക)\n3. His sesquipedalian style made the book hard to read. (ആഡംബര ശൈലി പുസ്തകം വായിക്കാൻ പ്രയാസമാക്കി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) Short tempered — 'പെട്ടെന്ന് ദേഷ്യം വരുന്ന' എന്നർത്ഥം; ഇതിന് ഒറ്റവാക്ക് 'irascible' ആണ്.\n• Sesquipedalian-മായി ഒരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: അപരിചിതമായ വാക്ക് കണ്ട് പരിഭ്രമിക്കുന്നവരെ ഏതെങ്കിലും വ്യക്തിസ്വഭാവം തിരഞ്ഞെടുപ്പിക്കാൻ.\n\n• (C) One who loves cycling — 'pedal' എന്ന ഭാഗം കണ്ട് സൈക്കിൾ എന്ന് ബന്ധിപ്പിക്കാൻ വച്ച option.\n• 'pedal' ഇവിടെ 'അടി നീളം' എന്ന അർത്ഥത്തിലാണ്, സൈക്കിൾ പെഡൽ അല്ല.\n• 🪤 PSC Trap: ഏറ്റവും ബുദ്ധിപരമായ കെണി! വാക്കിന്റെ ഭാഗം കണ്ട് ഊഹിക്കുന്നവരെ കൃത്യമായി വീഴ്ത്തും.\n\n• (D) One who writes lengthy poem — 'നീളം' എന്ന ആശയം ഉള്ളതിനാൽ അടുത്തതായി തോന്നും.\n• പക്ഷേ sesquipedalian നീണ്ട വാക്കുകളെക്കുറിച്ചാണ്, നീണ്ട കവിതയെക്കുറിച്ചല്ല.\n• 🪤 PSC Trap: 'നീളം' എന്ന പകുതി അർത്ഥം അറിയുന്നവരെ കുടുക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Sesquipedalian എന്ന വാക്ക് തന്നെ ഒരു sesquipedalian വാക്കാണ്!' — ഈ നീണ്ട വാക്ക് ഉച്ചരിക്കുമ്പോൾ തന്നെ നീണ്ട വാക്കുകളെ ഓർക്കും.\n• ഒരുമിച്ച് പഠിക്കുക: sesquipedalian, bombastic, grandiloquent, verbose, pompous — എല്ലാം 'ആഡംബര / അമിത ഭാഷ' കുടുംബം.\n• PSC strategy: വാക്കിന്റെ ഒരു ഭാഗം (pedal, cycle) നോക്കി ഊഹിക്കരുത് — Latin root (sesqui = ഒന്നര, ped = അടി) ഓർക്കുക. ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "155-2024-M-Q83",
+    "paperId": "155-2024-M",
+    "questionNumber": 83,
+    "topic": "Antonyms",
+    "questionText": "Antonym of __clockwise__ is:",
+    "optionA": "none of the above",
+    "optionB": "inclockwise",
+    "optionC": "counter clockwise",
+    "optionD": "unclockwise",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) counter clockwise\n\n• 'Clockwise' = ഘടികാര സൂചി കറങ്ങുന്ന ദിശയിൽ (ഇടത്തുനിന്ന് വലത്തോട്ട് മുകളിലൂടെ).\n• 'Counter clockwise' = ഘടികാര സൂചിയുടെ എതിർദിശയിൽ — കൃത്യമായ വിപരീതപദം.\n• 'counter' എന്ന prefix-ന് 'എതിരെ' എന്നാണ് അർത്ഥം (counter-attack = പ്രത്യാക്രമണം).\n• ബ്രിട്ടീഷ് ഇംഗ്ലീഷിൽ ഇതിനെ 'anticlockwise' എന്നും പറയും — രണ്ടും ശരിയാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Clockwise ↔ Counterclockwise (American) / Anticlockwise (British).\n• Antonym ഉണ്ടാക്കാൻ എല്ലാ വാക്കിനും un-, in- ചേർക്കാനാവില്ല — ഓരോ വാക്കിനും സ്വന്തം prefix ഉണ്ട്.\n• 'counter-' / 'anti-' = എതിർ: counteract, counterpart, antisocial, antibody.\n• ⭐ PSC ആവർത്തനം: തെറ്റായ prefix (un-, in-, dis-) ചേർത്ത വ്യാജ antonyms options ആയി നൽകുന്നത് PSC-യുടെ സ്ഥിരം രീതിയാണ്.\n• ഉദാഹരണ sentences:\n1. Turn the key clockwise to lock the door. (വാതിൽ പൂട്ടാൻ താക്കോൽ വലത്തോട്ട് തിരിക്കുക)\n2. Turn the cap counter clockwise to open the bottle. (കുപ്പി തുറക്കാൻ അടപ്പ് ഇടത്തോട്ട് തിരിക്കുക)\n3. Devotees walk around the temple clockwise. (ഭക്തർ ക്ഷേത്രം വലംവയ്ക്കുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) none of the above — ശരിയായ antonym (counter clockwise) options-ൽ ഉള്ളതിനാൽ ഇത് തെറ്റ്.\n• 🪤 PSC Trap: 'anticlockwise' കാണാതെ വരുമ്പോൾ 'none' എടുക്കാൻ പ്രലോഭിപ്പിക്കുന്നു.\n\n• (B) inclockwise — ഇംഗ്ലീഷിൽ ഇങ്ങനെ ഒരു വാക്കില്ല.\n• 'in-' prefix 'incorrect', 'invisible' പോലുള്ള വാക്കുകൾക്ക് മാത്രം.\n• 🪤 PSC Trap: 'in-' ചേർത്ത് antonym ഉണ്ടാക്കുന്ന ശീലമുള്ളവരെ കുടുക്കാൻ.\n\n• (D) unclockwise — ഇതും ഇല്ലാത്ത വാക്ക്.\n• 'un-' prefix 'unhappy', 'unable' പോലുള്ളവയ്ക്ക് മാത്രം.\n• 🪤 PSC Trap: ഏറ്റവും സാധാരണമായ negative prefix 'un-' ആയതിനാൽ ശരിയെന്ന് തോന്നിപ്പിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Counter = കൗണ്ടർ അറ്റാക്ക്!' — എതിർ ദിശയിലേക്ക് തിരിച്ചടിക്കുന്നു. Anti = എതിർ (antivirus വൈറസിന് എതിർ).\n• ഒരുമിച്ച് പഠിക്കുക: clockwise ↔ anticlockwise/counterclockwise, upstream ↔ downstream, inward ↔ outward.\n• PSC strategy: Antonym options-ൽ un-/in- ചേർത്ത അപരിചിത വാക്കുകൾ കണ്ടാൽ അവ നിഘണ്ടുവിൽ ഉണ്ടോ എന്ന് ചിന്തിക്കുക — ഇല്ലാത്ത വാക്കുകൾ ആദ്യം വെട്ടുക!"
+    }
+  },
+  {
+    "id": "155-2024-M-Q84",
+    "paperId": "155-2024-M",
+    "questionNumber": 84,
+    "topic": "Spelling",
+    "questionText": "Identify the correct spelling?",
+    "optionA": "inverterate",
+    "optionB": "invertarate",
+    "optionC": "invetarate",
+    "optionD": "inveterate",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) inveterate\n\n• 'Inveterate' എന്നാൽ 'വളരെക്കാലമായി ഉറച്ചുപോയ, മാറ്റാൻ കഴിയാത്ത (ശീലം)' എന്നർത്ഥം — an inveterate liar (സ്ഥിരം നുണയൻ).\n• Spelling ഭാഗങ്ങളായി: in-VET-er-ate. 'vet' എന്ന ഭാഗത്തിന് ശേഷം 'r' ഇല്ല.\n• Latin 'inveteratus' — 'vetus' (പഴയ) എന്ന root-ൽ നിന്ന്. 'veteran' (പരിചയസമ്പന്നൻ, പഴയ ആൾ) എന്ന വാക്കും ഇതേ കുടുംബം!\n• അതുകൊണ്ട് 'veteran' എന്ന് എഴുതുന്നതുപോലെ 'inveterate'-ലും 'vete' വരും.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: in + VETER + ate = inveterate (veteran-ലെ 'veter' അതേപടി!)\n• Etymology hint: Latin 'vetus' = പഴയ → veteran, inveterate, veterinary (മൃഗഡോക്ടർ — പഴയ കാലത്ത് 'പ്രായമായ മൃഗങ്ങൾ' എന്നതിൽ നിന്ന്).\n• '-ate' ൽ അവസാനിക്കുന്ന adjectives: inveterate, considerate, moderate, desperate.\n• ⭐ PSC ആവർത്തനം: 'r' തെറ്റായ സ്ഥലത്ത് ചേർത്ത options നൽകുന്നത് PSC spelling ചോദ്യങ്ങളിലെ പതിവ് രീതി.\n• ഉദാഹരണ sentences:\n1. He is an inveterate smoker. (അവൻ ഒരു സ്ഥിരം പുകവലിക്കാരനാണ്)\n2. She is an inveterate traveller. (അവൾ യാത്രയെ ജീവനാക്കിയവളാണ്)\n3. Corruption has become an inveterate problem. (അഴിമതി വേരുറച്ച ഒരു പ്രശ്നമായി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) inverterate — 'invert' (തലകീഴാക്കുക) എന്ന വാക്കുമായി കൂട്ടിക്കുഴച്ച് 'r' അധികം ചേർത്തു.\n• 🪤 PSC Trap: 'invert', 'inverter' എന്നീ പരിചിത വാക്കുകൾ ഓർമ്മിപ്പിച്ച് കുഴക്കാൻ.\n\n• (B) invertarate — 'r' അധികം + 'e'-ക്ക് പകരം 'a' — രണ്ട് തെറ്റുകൾ.\n• 🪤 PSC Trap: ഉച്ചാരണം അനുസരിച്ച് എഴുതുന്നവരെ വീഴ്ത്താൻ.\n\n• (C) invetarate — 'r' ഇല്ല, പക്ഷേ 'vete'-ക്ക് പകരം 'veta' എന്ന് എഴുതി.\n• 🪤 PSC Trap: ശരിയോട് ഏറ്റവും അടുത്ത option — ഒരൊറ്റ അക്ഷരം മാത്രം വ്യത്യാസം! ശ്രദ്ധയോടെ നോക്കാത്തവർ ഇതിൽ വീഴും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Inveterate = In + Veteran!' — ഒരു veteran പട്ടാളക്കാരന്റെ പഴയ ശീലങ്ങൾ മാറില്ല. Veteran-ന്റെ 'veter' അതേപടി എടുത്താൽ spelling ഒരിക്കലും തെറ്റില്ല.\n• ഒരുമിച്ച് പഠിക്കുക (vetus കുടുംബം): veteran, inveterate, veterinary.\n• PSC strategy: ശരിയോട് അടുത്ത രണ്ട് options ഉണ്ടെങ്കിൽ അക്ഷരം അക്ഷരമായി താരതമ്യം ചെയ്യുക; root word (veteran) ഓർത്താൽ guaranteed mark!"
+    }
+  },
+  {
+    "id": "155-2024-M-Q85",
+    "paperId": "155-2024-M",
+    "questionNumber": 85,
+    "topic": "Idioms",
+    "questionText": "Identify the meaning of the italicized words.\nHe will never __set the Thames on fire__.",
+    "optionA": "achieve something unusually good",
+    "optionB": "think deeply",
+    "optionC": "get ruined",
+    "optionD": "None of the above",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) achieve something unusually good\n\n• 'Set the Thames on fire' = 'അസാധാരണമായ, എല്ലാവരെയും അത്ഭുതപ്പെടുത്തുന്ന എന്തെങ്കിലും നേട്ടം കൈവരിക്കുക' എന്ന idiom.\n• Thames ലണ്ടനിലെ നദിയാണ് — ഒരു നദിക്ക് തീ കൊളുത്തുക അസാധ്യമായ കാര്യമാണ്; അത്രയും വലിയ നേട്ടം എന്ന് സൂചന.\n• 'He will never set the Thames on fire' = 'അവൻ ഒരിക്കലും വലിയ നേട്ടമൊന്നും ഉണ്ടാക്കാൻ പോകുന്നില്ല' എന്നർത്ഥം.\n• ഈ idiom മിക്കവാറും negative വാക്യങ്ങളിലാണ് (never, won't) ഉപയോഗിക്കുന്നത് — ഒരാൾ ശരാശരിക്കാരനാണ് എന്ന് പറയാൻ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Set the Thames on fire = do something remarkable (ശ്രദ്ധേയ നേട്ടം).\n• Idiom-ന്റെ അർത്ഥം അക്ഷരാർത്ഥത്തിൽ എടുക്കരുത് — നദിക്ക് തീ കൊളുത്തുന്നതല്ല, അസാധാരണ നേട്ടമാണ് ഉദ്ദേശിക്കുന്നത്.\n• ഇതേ കുടുംബം: set the world on fire (ലോകത്തെ അത്ഭുതപ്പെടുത്തുക), make a mark (മുദ്ര പതിപ്പിക്കുക), steal the show (എല്ലാവരുടെയും ശ്രദ്ധ പിടിച്ചുപറ്റുക).\n• ⭐ PSC ആവർത്തനം: 'set the Thames on fire' PSC-യിൽ പലതവണ ചോദിച്ച ക്ലാസിക് idiom ആണ്!\n• ഉദാഹരണ sentences:\n1. He is a nice boy, but he will never set the Thames on fire. (നല്ല പയ്യൻ, പക്ഷേ വലിയ നേട്ടമൊന്നും ഉണ്ടാക്കില്ല)\n2. Her first novel did not set the Thames on fire. (അവളുടെ ആദ്യ നോവൽ വലിയ ചലനമുണ്ടാക്കിയില്ല)\n3. Nobody expected him to set the Thames on fire. (അവൻ അത്ഭുതം കാണിക്കുമെന്ന് ആരും പ്രതീക്ഷിച്ചില്ല)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) think deeply — 'ആഴത്തിൽ ചിന്തിക്കുക'; ഇതിന് ചേരുന്ന idioms 'rack one's brains', 'mull over' എന്നിവയാണ്.\n• 🪤 PSC Trap: ബുദ്ധിയുമായി ബന്ധമുള്ള ഒരു അർത്ഥം നൽകി 'മിടുക്കൻ അല്ല' എന്ന ആശയവുമായി കൂട്ടിക്കുഴയ്ക്കാൻ.\n\n• (C) get ruined — 'നശിക്കുക'; 'fire' (തീ) എന്ന വാക്ക് കണ്ട് നാശം എന്ന് ഊഹിക്കാൻ വച്ച option.\n• 🪤 PSC Trap: idiom-ലെ ഒരു വാക്ക് നോക്കി അക്ഷരാർത്ഥം ഊഹിക്കുന്നവരെ വീഴ്ത്താൻ — തീ = നാശം എന്ന ചിന്ത!\n\n• (D) None of the above — ശരിയായ അർത്ഥം (A)-ൽ ഉള്ളതിനാൽ ഇത് തെറ്റ്.\n• 🪤 PSC Trap: വാക്യത്തിലെ 'never' കാരണം negative അർത്ഥം വേണമെന്ന് കരുതി ആശയക്കുഴപ്പത്തിലാകുന്നവരെ ലക്ഷ്യമിടുന്നു. Idiom-ന്റെ അർത്ഥം positive ആണ്; 'never' വാക്യത്തിന്റേതാണ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'നദിക്ക് തീ കൊളുത്തുന്നവൻ = സൂപ്പർ ഹീറോ!' — Thames നദിയിൽ തീ കൊളുത്താൻ കഴിയുന്നവൻ അസാധാരണക്കാരൻ ആയിരിക്കും.\n• ഒരുമിച്ച് പഠിക്കുക: set the Thames on fire (വലിയ നേട്ടം), a feather in one's cap (അഭിമാന നേട്ടം), cut no ice (സ്വാധീനമില്ല), run of the mill (സാധാരണം).\n• PSC strategy: Idiom ചോദ്യത്തിൽ 'never/not' പോലുള്ള വാക്കുകൾ idiom-ന്റെ ഭാഗമാണോ വാക്യത്തിന്റേതാണോ എന്ന് വേർതിരിക്കുക — ചോദിക്കുന്നത് italic ഭാഗത്തിന്റെ അർത്ഥം മാത്രം!"
+    }
+  },
+  {
+    "id": "155-2024-M-Q86",
+    "paperId": "155-2024-M",
+    "questionNumber": 86,
+    "topic": "Question Tags",
+    "questionText": "Add proper question tag from the following options.\nNone of those customers were happy, ––––––––––?",
+    "optionA": "hasn't it?",
+    "optionB": "isn't it?",
+    "optionC": "weren't they?",
+    "optionD": "were they?",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) were they?\n\n• 'None' എന്ന വാക്കിന് negative അർത്ഥമാണ് — 'ആരും ... ഇല്ല'. അതുകൊണ്ട് വാക്യം negative ആണ്.\n• Negative വാക്യത്തിന് positive question tag വേണം → 'were' (not ഇല്ലാതെ).\n• 'customers' ആളുകളെ സൂചിപ്പിക്കുന്ന plural ആയതിനാൽ tag-ലെ pronoun 'they' ആകണം.\n• Main verb 'were' ആയതിനാൽ tag-ലും അതേ helping verb → 'were they?'\n• 'ആ ഉപഭോക്താക്കളിൽ ആരും സന്തുഷ്ടരായിരുന്നില്ല, അല്ലേ?' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Positive → Negative tag | Negative → Positive tag. None / No one / Nobody / Never / Hardly / Few = Negative!\n• Tag-ൽ main clause-ലെ അതേ helping verb ആവർത്തിക്കും (were → were).\n• None, nobody, everyone, somebody (ആളുകൾ) → tag-ൽ 'they' വരും. വസ്തുക്കളെ സൂചിപ്പിക്കുന്ന nothing, everything → 'it'.\n• ⭐ PSC ആവർത്തനം: 'not' ഇല്ലാതെ negative ആകുന്ന വാക്കുകൾ (none, hardly, seldom, few) ഉള്ള question tag PSC-യുടെ സ്ഥിരം ചോദ്യം!\n• ഉദാഹരണ sentences:\n1. Nobody came to the party, did they? (ആരും പാർട്ടിക്ക് വന്നില്ല, അല്ലേ?)\n2. He hardly works, does he? (അവൻ കഷ്ടിച്ചേ ജോലി ചെയ്യൂ, അല്ലേ?)\n3. Everyone was present, weren't they? (എല്ലാവരും ഹാജരായിരുന്നു, അല്ലേ?)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) hasn't it? — main verb 'were' ആണ്, 'has' അല്ല; കൂടാതെ 'it' customers-നെ സൂചിപ്പിക്കില്ല.\n• Negative tag കൂടി ആയതിനാൽ മൂന്ന് തെറ്റുകൾ.\n• 🪤 PSC Trap: ബന്ധമില്ലാത്ത helping verb നൽകി ശ്രദ്ധ തെറ്റിക്കാൻ.\n\n• (B) isn't it? — 'isn't it' എല്ലാ വാക്യത്തിനും ചേരും എന്ന ഇന്ത്യൻ ഇംഗ്ലീഷ് ശീലം ഉപയോഗിക്കുന്ന കെണി.\n• Tense (was/were), pronoun (they), negative/positive — ഒന്നും ചേരുന്നില്ല.\n• 🪤 PSC Trap: സംസാരഭാഷയിലെ 'isn't it?' ശീലം ഉള്ളവരെ വീഴ്ത്താൻ.\n\n• (C) weren't they? — helping verb-ഉം pronoun-ഉം ശരി, പക്ഷേ negative tag ആണ്.\n• 'None' കാരണം വാക്യം ഇതിനകം negative ആയതിനാൽ positive tag വേണം.\n• 🪤 PSC Trap: ഏറ്റവും ശക്തമായ കെണി! വാക്യത്തിൽ 'not' കാണാത്തതിനാൽ positive ആണെന്ന് കരുതി negative tag ഇടുന്നവർ വീഴും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'None = No One = ഇല്ല!' — None-ൽ 'No' ഒളിച്ചിരിപ്പുണ്ട്. No കണ്ടാൽ tag-ൽ not വേണ്ട.\n• ഒരുമിച്ച് പഠിക്കുക (not ഇല്ലാത്ത negatives): none, nobody, no one, nothing, never, hardly, scarcely, seldom, few, little.\n• PSC strategy: Tag ചോദ്യത്തിൽ മൂന്ന് പരിശോധന — (1) വാക്യം negative ആണോ? (2) helping verb ഏത്? (3) subject-ന് പകരം ഏത് pronoun? മൂന്നും ചേരുന്ന option മാത്രം. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "155-2024-M-Q87",
+    "paperId": "155-2024-M",
+    "questionNumber": 87,
+    "topic": "Direct and Indirect Speech",
+    "questionText": "Convert the following statement into indirect speech.\nHe said, “Let us wait for the award”.",
+    "optionA": "He proposed that they should wait for the award",
+    "optionB": "He tells us to wait for the award",
+    "optionC": "He tells him to wait for the award",
+    "optionD": "He proposes that he should wait for the award",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) He proposed that they should wait for the award\n\n• 'Let us' കൊണ്ട് തുടങ്ങുന്ന വാക്യം ഒരു നിർദ്ദേശം (suggestion / proposal) ആണ് — 'നമുക്ക് ... ചെയ്യാം'.\n• Indirect speech-ൽ 'said' → 'proposed / suggested' ആയി മാറും, ശേഷം 'that + subject + should + V1'.\n• 'us' (നമ്മൾ) എന്നതിൽ സംസാരിക്കുന്ന ആളും കേൾക്കുന്നവരും ഉൾപ്പെടുന്നതിനാൽ 'they' ആയി മാറുന്നു.\n• Reporting verb past ആയതിനാൽ 'proposed' (past) തന്നെ വേണം.\n• 'അവാർഡിനായി കാത്തിരിക്കാമെന്ന് അവൻ നിർദ്ദേശിച്ചു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: said, \"Let us + V1\" → proposed / suggested + that + they/we + should + V1.\n• 'Let' വാക്യത്തിന്റെ അർത്ഥം അനുസരിച്ച് reporting verb മാറും:\n  - നിർദ്ദേശം (Let us go) → proposed / suggested that ... should\n  - അനുവാദം (Let me go) → requested / asked ... to let him go\n• Reporting verb-ന്റെ tense ഒരിക്കലും മാറ്റരുത് — said (past) ആണെങ്കിൽ പകരം വരുന്ന verb-ഉം past തന്നെ (proposed).\n• 'us' എന്നതിൽ സംസാരിക്കുന്നവനും കേൾക്കുന്നവരും ഉൾപ്പെടുന്നതിനാൽ indirect-ൽ അത് 'they' അല്ലെങ്കിൽ 'we' ആകും.\n• ⭐ PSC ആവർത്തനം: 'Let us' വാക്യങ്ങളുടെ indirect speech PSC-യിൽ പലതവണ വന്നിട്ടുണ്ട് — proposed/suggested + should ആണ് താക്കോൽ.\n• ഉദാഹരണ sentences:\n1. She said, \"Let us go to the cinema.\" → She suggested that they should go to the cinema. (സിനിമയ്ക്ക് പോകാമെന്ന് അവൾ നിർദ്ദേശിച്ചു)\n2. He said, \"Let us start the work.\" → He proposed that they should start the work. (ജോലി തുടങ്ങാമെന്ന് അവൻ നിർദ്ദേശിച്ചു)\n3. The boy said, \"Let me go home.\" → The boy requested to be allowed to go home. (വീട്ടിൽ പോകാൻ അനുവദിക്കണമെന്ന് അവൻ അപേക്ഷിച്ചു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (B) He tells us to wait for the award — reporting verb 'said' 'tells' (present) ആയി മാറി; ഇത് അനുവദനീയമല്ല.\n• 'us' അതേപടി നിലനിർത്തി, 'should' ഇല്ല — ഇതൊരു കൽപന പോലെയായി.\n• 🪤 PSC Trap: 'tell + to' എന്ന imperative ഘടന ഓർമ്മയുള്ളവരെ കുഴക്കാൻ.\n\n• (C) He tells him to wait for the award — tense മാറി, 'us' തെറ്റായി 'him' ആയി.\n• നിർദ്ദേശം കൽപനയായി മാറി; അർത്ഥവും നഷ്ടപ്പെട്ടു.\n• 🪤 PSC Trap: pronoun മാറ്റം തെറ്റിച്ചവരെ വീഴ്ത്താൻ.\n\n• (D) He proposes that he should wait for the award — 'proposes' present tense ആണ്; reporting verb past ആകണം.\n• 'us' (കൂട്ടം) 'he' (ഒരാൾ) ആയി മാറി — അർത്ഥം തെറ്റി.\n• 🪤 PSC Trap: 'proposes ... should' ഘടന ശരിയായതിനാൽ ഏറ്റവും അടുത്ത കെണി! tense-ഉം pronoun-ഉം ശ്രദ്ധിക്കുക.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Let us = നമുക്ക്... → Proposal വരും, Should കൂടെ വരും!' — 'Let us' കേട്ടാൽ ഒരു മീറ്റിംഗിലെ proposal ഓർക്കുക.\n• ഒരുമിച്ച് പഠിക്കുക: 'Let us' (നിർദ്ദേശം) → proposed/suggested that ... should | 'Let me' (അനുവാദം ചോദിക്കൽ) → requested ... to let | 'Let him' (അനുവദിക്കൽ) → said that he might.\n• PSC strategy: 'Let us' indirect ചോദ്യത്തിൽ 'proposed/suggested' + past + 'they should' — ഈ മൂന്നും ഉള്ള option മാത്രം നോക്കുക. ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "155-2024-M-Q88",
+    "paperId": "155-2024-M",
+    "questionNumber": 88,
+    "topic": "Prepositions",
+    "questionText": "Choose the correct preposition from the following.\nThe public are cautioned –––––––––– pickpockets.",
+    "optionA": "of",
+    "optionB": "against",
+    "optionC": "on",
+    "optionD": "about",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) against\n\n• 'caution' എന്നാൽ 'മുന്നറിയിപ്പ് നൽകുക' — ഒരു അപകടത്തിൽ നിന്ന് സൂക്ഷിക്കാൻ പറയുക.\n• ഒരു അപകടത്തിനെതിരെ മുന്നറിയിപ്പ് നൽകുമ്പോൾ 'caution against' എന്നാണ് ഉറച്ച പ്രയോഗം.\n• 'പോക്കറ്റടിക്കാരെ സൂക്ഷിക്കണമെന്ന് പൊതുജനങ്ങൾക്ക് മുന്നറിയിപ്പ് നൽകുന്നു' എന്നർത്ഥം.\n• ബസ് സ്റ്റാൻഡിലും റെയിൽവേ സ്റ്റേഷനിലും കാണുന്ന ബോർഡ് ഓർക്കുക — 'Beware of pickpockets'!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: caution AGAINST / warn AGAINST (അപകടം) | warn OF / ABOUT (വിവരം) | beware OF.\n• 'against' = എതിരെ — അപകടത്തിൽ നിന്ന് സംരക്ഷിക്കുന്ന ആശയം ഉള്ള verbs-ന് ശേഷം വരും.\n• ഇതേ കുടുംബം: protect against, guard against, insure against, vaccinate against.\n• ⭐ PSC ആവർത്തനം: 'cautioned against pickpockets' PSC-യിൽ ആവർത്തിച്ച് വന്ന ക്ലാസിക് വാക്യമാണ്!\n• ഉദാഹരണ sentences:\n1. The doctor cautioned him against smoking. (പുകവലിക്കെതിരെ ഡോക്ടർ മുന്നറിയിപ്പ് നൽകി)\n2. Parents warned the children against swimming in the river. (പുഴയിൽ നീന്തരുതെന്ന് മാതാപിതാക്കൾ മുന്നറിയിപ്പ് നൽകി)\n3. This vaccine protects us against polio. (ഈ വാക്സിൻ പോളിയോയിൽ നിന്ന് സംരക്ഷിക്കുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) of — 'beware of pickpockets' എന്ന് പറയാം, പക്ഷേ 'cautioned of' സാധാരണമല്ല.\n• Verb 'caution' ആയതിനാൽ 'against' ആണ് ചേരുക.\n• 🪤 PSC Trap: 'Beware of pickpockets' എന്ന ബോർഡ് ഓർമ്മയുള്ളവരെ കൃത്യമായി വീഴ്ത്താനുള്ള കെണി!\n\n• (C) on — 'on' ഇവിടെ ഒരർത്ഥവും നൽകുന്നില്ല.\n• 🪤 PSC Trap: ഏതെങ്കിലും preposition ഊഹിക്കുന്നവർക്കായി വച്ച option.\n\n• (D) about — 'cautioned about the weather' പോലെ ഒരു വിഷയത്തെക്കുറിച്ച് പറയുമ്പോൾ ഉപയോഗിക്കാം.\n• പക്ഷേ ആളുകളിൽ നിന്നുള്ള അപകടത്തിന് (pickpockets) 'against' ആണ് ശരിയായ, formal പ്രയോഗം.\n• 🪤 PSC Trap: 'warn about' എന്ന പ്രയോഗവുമായി ആശയക്കുഴപ്പം ഉണ്ടാക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'പോക്കറ്റടിക്കാർക്ക് AGAINST ആയി നിൽക്കൂ!' — അപകടത്തിനെതിരെ = against. Beware OF, but caution AGAINST.\n• ഒരുമിച്ച് പഠിക്കുക: caution against, warn against, guard against, protect against, beware of.\n• PSC strategy: verb-ൽ 'സംരക്ഷണം / മുന്നറിയിപ്പ്' എന്ന ആശയം ഉണ്ടെങ്കിൽ 'against' ആദ്യം പരിഗണിക്കുക. Guaranteed mark!"
+    }
+  },
+  {
+    "id": "155-2024-M-Q89",
+    "paperId": "155-2024-M",
+    "questionNumber": 89,
+    "topic": "Infinitive and Gerunds",
+    "questionText": "Combine the sentences using infinitive:\nI speak the truth. I am not afraid of it.",
+    "optionA": "None of the above",
+    "optionB": "I am not afraid of speaking the truth",
+    "optionC": "I speak the truth as I am not afraid of it",
+    "optionD": "I am not afraid to speak the truth",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) I am not afraid to speak the truth\n\n• ചോദ്യം ആവശ്യപ്പെടുന്നത് infinitive ഉപയോഗിച്ച് രണ്ട് വാക്യങ്ങൾ ഒന്നാക്കാനാണ്.\n• Infinitive എന്നാൽ 'to + V1' — ഇവിടെ 'to speak'.\n• 'afraid to + V1' എന്ന ഘടനയിൽ രണ്ട് ആശയങ്ങളും ഒറ്റ വാക്യത്തിൽ വന്നു: സത്യം പറയുന്നു + അതിൽ ഭയമില്ല.\n• 'സത്യം പറയാൻ എനിക്ക് ഭയമില്ല' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Infinitive = to + V1 | Gerund = V-ing | Conjunction = as / because / and.\n• Infinitive ഉപയോഗിച്ച് ചേർക്കുമ്പോൾ ഒരു വാക്യത്തിലെ verb 'to + V1' ആയി മാറും; ആവർത്തിക്കുന്ന pronoun ('it') ഒഴിവാകും.\n• 'afraid' രണ്ട് ഘടനയും എടുക്കും: afraid to do (infinitive), afraid of doing (gerund) — ചോദ്യം ഏത് ആവശ്യപ്പെടുന്നോ അതാണ് ഉത്തരം.\n• ⭐ PSC ആവർത്തനം: 'combine using infinitive / gerund / participle' എന്ന synthesis ചോദ്യങ്ങൾ PSC-യിൽ പതിവാണ്.\n• ഉദാഹരണ sentences:\n1. He went to the market. He wanted to buy vegetables. → He went to the market to buy vegetables. (പച്ചക്കറി വാങ്ങാൻ മാർക്കറ്റിൽ പോയി)\n2. She has some letters. She must write them. → She has some letters to write. (അവൾക്ക് എഴുതാൻ കത്തുകളുണ്ട്)\n3. I was glad. I met my old friend. → I was glad to meet my old friend. (പഴയ സുഹൃത്തിനെ കണ്ടതിൽ സന്തോഷം)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) None of the above — infinitive ഉപയോഗിച്ചുള്ള ശരിയായ വാക്യം (D)-ൽ ഉള്ളതിനാൽ ഇത് തെറ്റ്.\n• 🪤 PSC Trap: സംശയം തോന്നുന്നവരെ 'none' എടുപ്പിക്കാൻ.\n\n• (B) I am not afraid of speaking the truth — വ്യാകരണപരമായി ശരിയായ വാക്യമാണ്.\n• പക്ഷേ 'speaking' gerund ആണ്, infinitive അല്ല — ചോദ്യത്തിന്റെ നിബന്ധന പാലിക്കുന്നില്ല.\n• 🪤 PSC Trap: ഏറ്റവും ശക്തമായ കെണി! വാക്യം ശരിയാണ്, പക്ഷേ ചോദിച്ച രീതിയല്ല. ചോദ്യം ശ്രദ്ധയോടെ വായിക്കാത്തവർ ഇതിൽ വീഴും.\n\n• (C) I speak the truth as I am not afraid of it — 'as' എന്ന conjunction കൊണ്ട് ചേർത്തു; infinitive ഇല്ല.\n• 🪤 PSC Trap: രണ്ട് വാക്യങ്ങൾ ഒന്നായല്ലോ എന്ന് മാത്രം നോക്കുന്നവരെ കുടുക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Infinitive-ന് TO എന്ന ടിക്കറ്റ് വേണം!' — 'to' ഇല്ലാത്ത option-ൽ infinitive ഇല്ല.\n• ഒരുമിച്ച് പഠിക്കുക: using infinitive → to + V1 | using gerund → V-ing | using participle → V-ing / V3 + comma.\n• PSC strategy: Synthesis ചോദ്യത്തിൽ ആദ്യം 'using ___' എന്ന നിബന്ധന വായിക്കുക. ആ ഘടന ഉള്ള option മാത്രം തിരഞ്ഞെടുക്കുക — ശരിയായ മറ്റ് വാക്യങ്ങളിൽ വീഴരുത്!"
+    }
+  },
+  {
+    "id": "155-2024-M-Q90",
+    "paperId": "155-2024-M",
+    "questionNumber": 90,
+    "topic": "Articles",
+    "questionText": "Insert articles where necessary:\n___ time we live ought not to be computed by ___ number of years, but by ___ use that has been made of them.",
+    "optionA": "The, the",
+    "optionB": "A, the, the",
+    "optionC": "The, the, the",
+    "optionD": "A, the",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) The, the, the\n\n• ശരിയായ വാക്യം: 'The time we live ought not to be computed by the number of years, but by the use that has been made of them.'\n• 'The time' — 'we live' എന്ന ഭാഗം ഏത് സമയം എന്ന് വ്യക്തമാക്കുന്നതിനാൽ ഇത് specific → the.\n• 'the number of years' — 'the number of' എന്നത് ഉറച്ച പ്രയോഗം (എണ്ണം എന്ന അർത്ഥത്തിൽ).\n• 'the use' — 'that has been made of them' എന്ന ഭാഗം ഏത് ഉപയോഗം എന്ന് നിർവചിക്കുന്നതിനാൽ specific → the.\n• 'ജീവിച്ച കാലം വർഷങ്ങളുടെ എണ്ണം കൊണ്ടല്ല, അവ എങ്ങനെ ഉപയോഗിച്ചു എന്നതുകൊണ്ടാണ് കണക്കാക്കേണ്ടത്' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Noun + (that / which / of / who ...) വിശദീകരണം → THE! വിശദീകരണം noun-നെ specific ആക്കുന്നു.\n• 'the number of' (എണ്ണം → singular verb) vs 'a number of' (പല → plural verb): The number of students is 50. A number of students are absent.\n• Uncountable noun (time, use) പൊതുവായി പറയുമ്പോൾ article വേണ്ട; പക്ഷേ ഒരു clause കൊണ്ട് വ്യക്തമാക്കിയാൽ 'the' വേണം.\n• ⭐ PSC ആവർത്തനം: ഒരു വാക്യത്തിൽ ഒന്നിലധികം blanks നൽകി articles ചോദിക്കുന്നത് PSC-യുടെ പതിവ് രീതി.\n• ഉദാഹരണ sentences:\n1. The book that you gave me is interesting. (നീ തന്ന പുസ്തകം — specific)\n2. The number of cars is increasing. (കാറുകളുടെ എണ്ണം കൂടുന്നു)\n3. The water in this well is pure. (ഈ കിണറ്റിലെ വെള്ളം — specific)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n• (A) The, the — രണ്ട് articles മാത്രം; വാക്യത്തിൽ മൂന്ന് സ്ഥലത്ത് article വേണം.\n• 'use that has been made' എന്ന specific ഭാഗത്തിന് മുമ്പുള്ള 'the' വിട്ടുപോയി.\n• 🪤 PSC Trap: എണ്ണം നോക്കാതെ article തരം മാത്രം നോക്കുന്നവരെ കുടുക്കാൻ.\n\n• (B) A, the, the — 'a time we live' എന്നത് തെറ്റാണ്.\n• 'we live' എന്ന വിശദീകരണം ഉള്ളതിനാൽ time specific ആണ് → the.\n• 🪤 PSC Trap: 'once upon a time' പോലുള്ള പ്രയോഗങ്ങൾ ഓർമ്മയുള്ളവരെ കുഴക്കാൻ.\n\n• (D) A, the — എണ്ണവും തരവും തെറ്റ്; രണ്ട് തെറ്റുകൾ ഒന്നിച്ച്.\n• 🪤 PSC Trap: വെറുതെ എണ്ണം തികയ്ക്കാനുള്ള option.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'പിന്നാലെ വിശദീകരണം വന്നാൽ മുന്നിൽ THE വരും!' — time (we live), number (of years), use (that has been made).\n• ഒരുമിച്ച് പഠിക്കുക: the number of + singular verb | a number of + plural verb | the + noun + of / that / which.\n• PSC strategy: ആദ്യം വാക്യത്തിൽ article വേണ്ട സ്ഥലങ്ങൾ എണ്ണുക — എണ്ണം തെറ്റിയ options ഉടൻ വെട്ടാം. പിന്നെ a/the തീരുമാനിക്കുക. Guaranteed mark!"
+    }
   }
 ]

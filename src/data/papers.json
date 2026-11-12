@@ -2197,5 +2197,37 @@
     "year": "2026",
     "categoryCode": "271/2025",
     "answerKeyStatus": "final"
+  },
+  {
+    "id": "138-2025-E",
+    "paperCode": "138/2025 E",
+    "post": "Divisional Accounts Officer",
+    "dept": "Kerala State Electricity Board",
+    "date": "29-Oct-2025",
+    "medium": "E",
+    "year": "2025",
+    "categoryCode": "191/2024",
+    "answerKeyStatus": "final"
+  },
+  {
+    "id": "50-2025-E",
+    "paperCode": "50/2025 E",
+    "post": "Divisional Accountant / Divisional Accounts Officer - Preliminary",
+    "date": "10-May-2025",
+    "medium": "E",
+    "year": "2025",
+    "categoryCode": "261/2024, 344/2024, 345/2024, 346/2024, 723/2024, 724/2024, 725/2024, 771/2024",
+    "answerKeyStatus": "final"
+  },
+  {
+    "id": "155-2024-M",
+    "paperCode": "155/2024 M",
+    "post": "Secretary, Local Self Government Institutions",
+    "dept": "Local Self Government",
+    "date": "09-Nov-2024",
+    "medium": "M",
+    "year": "2024",
+    "categoryCode": "571/2023",
+    "answerKeyStatus": "final"
   }
 ]
