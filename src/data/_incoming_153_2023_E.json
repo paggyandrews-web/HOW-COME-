@@ -1,0 +1,195 @@
+{
+  "paper": {
+    "id": "153-2023-E",
+    "paperCode": "153/2023 E",
+    "post": "Cashier (General Category), Cashier (Society Category), Field Officer (General Category) (Kerala State Co-operative Marketing Federation Ltd), Junior Assistant, Junior Assistant (Society Category) Part II (Kerala Co-operative Milk Marketing Federation Ltd)",
+    "dept": "Kerala State Co-operative Marketing Federation / Kerala Co-operative Milk Marketing Federation",
+    "date": "18-Aug-2023",
+    "medium": "E",
+    "year": "2023",
+    "categoryCode": "307/2021, 308/2021, 363/2021, 467/2021, 468/2021",
+    "answerKeyStatus": "final"
+  },
+  "questions": [
+    {
+      "id": "153-2023-E-Q91",
+      "paperId": "153-2023-E",
+      "questionNumber": 91,
+      "topic": "Active and Passive Voice",
+      "questionText": "Correct passive form of the sentence:\nShe asked me several questions.",
+      "optionA": "Several questions asked me by her",
+      "optionB": "I were asked several questions",
+      "optionC": "I was asked several questions",
+      "optionD": "Several questions are asked by her",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) I was asked several questions\n\n• 'She asked me several questions' എന്ന വാക്യത്തിൽ രണ്ട് object ഉണ്ട് — 'me' (ആളെ സൂചിപ്പിക്കുന്ന indirect object), 'several questions' (കാര്യത്തെ സൂചിപ്പിക്കുന്ന direct object).\n• ആളിനെ (me → I) subject ആക്കി passive ഉണ്ടാക്കുന്നതാണ് ഏറ്റവും സ്വാഭാവികമായ രീതി.\n• 'asked' എന്നത് Simple Past ആണ് — അതുകൊണ്ട് passive-ലും Simple Past തന്നെ വേണം: was/were + V3.\n• 'I' എന്ന subject-നൊപ്പം 'was' ആണ് വരിക → 'I was asked several questions.' 'അവൾ എന്നോട് പല ചോദ്യങ്ങൾ ചോദിച്ചു' എന്ന അർഥം അതേപടി നിൽക്കുന്നു.",
+        "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Simple Past Active → was/were + V3 (Passive). Active-ന്റെ tense = Passive-ന്റെ tense, എപ്പോഴും!\n• രണ്ട് object ഉള്ള verb-കൾ (ask, give, tell, show, offer, teach) — ഏത് object-നെ വേണമെങ്കിലും subject ആക്കാം; പക്ഷേ ആളിനെ subject ആക്കുന്നതാണ് കൂടുതൽ സ്വാഭാവികം.\n• Subject മാറുമ്പോൾ pronoun-ഉം മാറും: me → I, him → he, her → she, us → we, them → they.\n• 'I' എന്നതിന് Past tense-ൽ 'was' ആണ് — 'I were' എന്നത് ഇവിടെ തെറ്റാണ്.\n• ⭐ PSC ആവർത്തനം: രണ്ട് object ഉള്ള Active → Passive ചോദ്യങ്ങൾ PSC സ്ഥിരമായി ചോദിക്കാറുണ്ട്!\n• ഉദാഹരണ sentences:\n1. He gave me a book. → I was given a book (by him). (എനിക്ക് ഒരു പുസ്തകം നൽകപ്പെട്ടു)\n2. The teacher taught us grammar. → We were taught grammar. (ഞങ്ങളെ വ്യാകരണം പഠിപ്പിക്കപ്പെട്ടു)\n3. They offered her a job. → She was offered a job. (അവൾക്ക് ഒരു ജോലി വാഗ്ദാനം ചെയ്യപ്പെട്ടു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) Several questions asked me by her\n• ഇതിൽ 'was/were' എന്ന helping verb ഇല്ല — 'asked' മാത്രം വെച്ചാൽ passive ആകില്ല.\n• ശരിയായ രൂപം 'Several questions were asked of me by her' എന്നാണ് വരേണ്ടത്.\n• 🪤 PSC Trap: വാക്കുകളുടെ ക്രമം മാത്രം മാറ്റി passive ആയെന്ന് തോന്നിപ്പിക്കുന്ന കെണി!\n\n(B) I were asked several questions\n• Tense ശരിയാണ്, പക്ഷേ 'I' എന്ന subject-നൊപ്പം Past tense-ൽ 'were' പറ്റില്ല.\n• 🪤 PSC Trap: Subject-Verb agreement ശ്രദ്ധിക്കാത്തവരെ വീഴ്ത്താനുള്ള ഓപ്ഷൻ.\n\n(D) Several questions are asked by her\n• 'are asked' എന്നത് Simple Present passive ആണ് — original വാക്യം Past tense ആണ്.\n• 🪤 PSC Trap: Tense മാറ്റുന്നത് passive-ലെ ഏറ്റവും സാധാരണ തെറ്റാണ്; 'me' എന്ന object-ഉം ഇതിൽ കാണാതായി.",
+        "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Tense തൊടരുത്, Object-നെ തലപ്പത്ത് ഇരുത്തൂ!' — passive-ൽ tense ഒരിക്കലും മാറില്ല, object subject ആകും.\n• രണ്ട് object എടുക്കുന്ന verb family ഒരുമിച്ച് പഠിക്കൂ: ask, give, tell, show, offer, teach, send, lend.\n• PSC strategy: ആദ്യം original verb-ന്റെ tense കണ്ടുപിടിക്കുക (asked = Simple Past). എന്നിട്ട് was/were + V3 ഇല്ലാത്തതും tense മാറിയതുമായ options വെട്ടിക്കളയൂ — ബാക്കി ഒന്നിൽ subject-verb agreement നോക്കിയാൽ ഉത്തരം guaranteed!"
+      }
+    },
+    {
+      "id": "153-2023-E-Q92",
+      "paperId": "153-2023-E",
+      "questionNumber": 92,
+      "topic": "One Word Substitutes",
+      "questionText": "Plutomania is :",
+      "optionA": "Mania for money",
+      "optionB": "Mania for power",
+      "optionC": "Mania for technology",
+      "optionD": "Mania of exaggerating to an abnormal extent",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) Mania for money\n\n• 'Plutomania' എന്നാൽ പണത്തോടും സമ്പത്തിനോടുമുള്ള അമിതമായ ആർത്തി / ഭ്രാന്ത് എന്നാണ് അർഥം.\n• Greek ഭാഷയിലെ 'ploutos' (സമ്പത്ത്) + 'mania' (ഭ്രാന്ത്) ചേർന്നാണ് ഈ വാക്ക് ഉണ്ടായത്.\n• ഗ്രീക്ക് പുരാണത്തിലെ സമ്പത്തിന്റെ ദേവനാണ് 'Plutus' — ആ പേര് ഓർത്താൽ അർഥം ഉടനെ കിട്ടും.\n• 'Plutocracy' (സമ്പന്നരുടെ ഭരണം) എന്ന വാക്കിലും ഇതേ root ആണ് ഉള്ളത്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: PLUTO = പണം (wealth) → Plutomania = പണഭ്രാന്ത്.\n• '-mania' എന്ന suffix ചേർന്നാൽ 'എന്തിനോടെങ്കിലുമുള്ള അമിതമായ ആസക്തി / ഭ്രാന്ത്' എന്നർഥം.\n• '-mania' word family: Kleptomania (മോഷ്ടിക്കാനുള്ള ഭ്രാന്ത്), Megalomania (അധികാരത്തോടുള്ള / സ്വന്തം മഹത്വത്തെക്കുറിച്ചുള്ള ഭ്രാന്ത്), Bibliomania (പുസ്തകങ്ങളോടുള്ള ഭ്രാന്ത്), Pyromania (തീയിടാനുള്ള ഭ്രാന്ത്), Mythomania (അതിശയോക്തിയോടെ കള്ളം പറയാനുള്ള ഭ്രാന്ത്).\n• Etymology hint: Greek 'ploutos' = സമ്പത്ത്; 'plutocrat' = പണം കൊണ്ട് അധികാരം നേടുന്നയാൾ.\n• ⭐ PSC ആവർത്തനം: '-mania', '-phobia', '-cracy' എന്നിവയിൽ നിന്നുള്ള one word ചോദ്യങ്ങൾ PSC ഇഷ്ടപ്പെടുന്നവയാണ്!\n• ഉദാഹരണ sentences:\n1. His plutomania made him neglect his family.\n2. A kleptomaniac steals things he does not even need.\n3. The dictator suffered from megalomania.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) Mania for power\n• അധികാരത്തോടുള്ള ഭ്രാന്തിന് 'Megalomania' എന്ന വാക്കാണ് ഉപയോഗിക്കുക.\n• 🪤 PSC Trap: പണവും അധികാരവും പലപ്പോഴും ഒരുമിച്ച് ചിന്തിക്കുന്നതുകൊണ്ട് ഇത് ശരിയാണെന്ന് തോന്നാം; 'plutocracy' ഓർക്കുന്നവർ അധികാരം എന്ന് തെറ്റിദ്ധരിക്കാം.\n\n(C) Mania for technology\n• സാങ്കേതികവിദ്യയോടുള്ള അമിത താൽപര്യത്തിന് 'technomania' എന്നാണ് പറയുക — Pluto-യുമായി ഒരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: വെറും filler ഓപ്ഷൻ, root അറിയാത്തവർക്ക് ഊഹിക്കാൻ വെച്ചത്.\n\n(D) Mania of exaggerating to an abnormal extent\n• അതിശയോക്തിയോടെ കഥ മെനയുന്ന സ്വഭാവത്തിന് 'Mythomania' എന്നാണ് പറയുന്നത്.\n• 🪤 PSC Trap: നീളമുള്ള, 'ശാസ്ത്രീയം' പോലെ തോന്നുന്ന ഓപ്ഷൻ കണ്ട് പലരും വീഴും!",
+        "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Pluto ഗ്രഹം ദൂരെയാണ്, പക്ഷേ Plutus ദേവൻ പോക്കറ്റിലാണ്!' — Plutus = സമ്പത്തിന്റെ ദേവൻ → Plutomania = പണഭ്രാന്ത്.\n• Mania family ഒരുമിച്ച് പഠിക്കൂ: Pluto (പണം), Klepto (മോഷണം), Megalo (അധികാരം/മഹത്വം), Biblio (പുസ്തകം), Pyro (തീ), Mytho (കള്ളക്കഥ).\n• PSC strategy: '-mania' / '-phobia' ചോദ്യം കണ്ടാൽ ആദ്യ ഭാഗത്തിന്റെ Greek/Latin root-ന് അർഥം കണ്ടുപിടിക്കുക — root അറിഞ്ഞാൽ ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "153-2023-E-Q93",
+      "paperId": "153-2023-E",
+      "questionNumber": 93,
+      "topic": "Correction of Sentences",
+      "questionText": "Correct the sentence :\nHe told that he was not well.",
+      "optionA": "He told to me that he was not well",
+      "optionB": "He told me that he was not well",
+      "optionC": "He said me that he was not well",
+      "optionD": "He told me he was not well",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) He told me that he was not well\n\n• 'Tell' എന്ന verb-ന് എപ്പോഴും ആരോട് പറഞ്ഞു എന്ന് കാണിക്കുന്ന ഒരു object വേണം — 'told me', 'told her', 'told them'.\n• Original വാക്യത്തിൽ ('He told that...') ആ object ഇല്ല — അതാണ് തെറ്റ്.\n• 'Told' കഴിഞ്ഞ് നേരിട്ട് object വരണം, ഇടയിൽ 'to' പാടില്ല → 'He told me that he was not well.'\n• 'സുഖമില്ലെന്ന് അവൻ എന്നോട് പറഞ്ഞു' എന്ന അർഥം പൂർണമായും ശരിയായ formal രൂപത്തിൽ ഇപ്പോൾ ഉണ്ട്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: TELL + ആൾ (object) | SAY + കാര്യം / SAY TO + ആൾ\n• Tell → object നിർബന്ധം, 'to' വേണ്ട: told me / told him / told the class.\n• Say → object നേരിട്ട് വരില്ല; ആളെ പറയണമെങ്കിൽ 'to' വേണം: said that..., said to me that...\n• Reported speech-ൽ 'that' ചേർക്കുന്നതാണ് formal-ഉം പരീക്ഷയ്ക്ക് ഏറ്റവും സുരക്ഷിതവുമായ രൂപം.\n• ⭐ PSC ആവർത്തനം: say / tell ഉപയോഗത്തിലെ തെറ്റ് Correction of Sentences-ൽ PSC-യുടെ സ്ഥിരം ചോദ്യമാണ്!\n• ഉദാഹരണ sentences:\n1. She told us that the bus was late.\n2. He said that he was tired.\n3. Ravi said to me that he would come.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) He told to me that he was not well\n• 'Told' കഴിഞ്ഞ് 'to' ചേർക്കുന്നത് തെറ്റാണ് — tell-ന് നേരിട്ട് object വരണം.\n• 🪤 PSC Trap: 'said to me' എന്ന ശീലം tell-ലേക്ക് കൊണ്ടുവരുന്നവരെ വീഴ്ത്താനുള്ള കെണി!\n\n(C) He said me that he was not well\n• 'Say' എന്ന verb-ന് നേരിട്ട് object (me) വരില്ല — 'said to me' എന്ന് വേണം.\n• 🪤 PSC Trap: Malayalam-ൽ 'എന്നോട് പറഞ്ഞു' എന്ന് ചിന്തിച്ച് 'said me' എഴുതുന്ന സാധാരണ തെറ്റ്.\n\n(D) He told me he was not well\n• സംസാരഭാഷയിൽ 'that' ഒഴിവാക്കുന്നത് അനുവദനീയമാണ്, പക്ഷേ formal ആയ പൂർണരൂപം 'that' ഉള്ളതാണ്.\n• 🪤 PSC Trap: ഇതും ഏകദേശം ശരിയായി തോന്നും — രണ്ടും കണ്ടാൽ 'that' ഉള്ള പൂർണരൂപം തിരഞ്ഞെടുക്കുക; PSC Final Answer Key (B) ആണ്.",
+        "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'TELL-ന് ആളിനെ വേണം, SAY-ക്ക് വാക്കിനെ വേണം!' — tell someone, say something.\n• Rule family ഒരുമിച്ച്: tell / inform / remind (ആൾ നേരിട്ട്) vs say / explain / suggest (ആളിന് മുമ്പ് 'to').\n• PSC strategy: 'said me', 'told to me' ഈ രണ്ട് രൂപങ്ങൾ കണ്ടാൽ ഉടനെ വെട്ടുക. ബാക്കി രണ്ടെണ്ണത്തിൽ 'that' ഉള്ള formal രൂപം എടുത്താൽ guaranteed mark!"
+      }
+    },
+    {
+      "id": "153-2023-E-Q94",
+      "paperId": "153-2023-E",
+      "questionNumber": 94,
+      "topic": "One Word Substitutes",
+      "questionText": "Supply the one word for:\n__make pleasant and unexpected discoveries entirely by chance__",
+      "optionA": "Stupendity",
+      "optionB": "Stipendiary",
+      "optionC": "Serendipity",
+      "optionD": "Senerous",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) Serendipity\n\n• 'Serendipity' എന്നാൽ തിരയാതെ, തികച്ചും യാദൃച്ഛികമായി സന്തോഷകരമായ ഒരു കണ്ടെത്തൽ നടത്തുന്നത് എന്നാണ് അർഥം.\n• ഉദാ: Alexander Fleming അബദ്ധത്തിൽ penicillin കണ്ടെത്തിയത് — ശാസ്ത്രലോകത്തെ ഏറ്റവും പ്രശസ്തമായ serendipity!\n• Etymology: 1754-ൽ Horace Walpole എന്ന എഴുത്തുകാരൻ 'The Three Princes of Serendip' എന്ന കഥയിൽ നിന്ന് ഉണ്ടാക്കിയ വാക്കാണിത്. 'Serendip' എന്നത് ശ്രീലങ്കയുടെ പഴയ പേരാണ്.\n• ആ കഥയിലെ രാജകുമാരന്മാർ യാത്രയിൽ യാദൃച്ഛികമായി പല കാര്യങ്ങളും കണ്ടെത്തുന്നു — അതാണ് ഈ വാക്കിന്റെ ആത്മാവ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Serendipity = Lucky Accident (ഭാഗ്യമുള്ള യാദൃച്ഛിക കണ്ടെത്തൽ).\n• Adjective രൂപം 'serendipitous' (യാദൃച്ഛികമായി ഭാഗ്യം കൊണ്ടുവന്ന) എന്നാണ്.\n• കഥകളിൽ നിന്നും വ്യക്തികളിൽ നിന്നും ഉണ്ടായ വാക്കുകൾ (eponyms) കൂട്ടമായി പഠിക്കൂ: serendipity, utopia, quixotic, boycott, chauvinism.\n• Etymology hint: 'Serendip' (Sri Lanka-യുടെ പഴയ പേര്) + '-ity' → serendipity.\n• ⭐ PSC ആവർത്തനം: Serendipity, Utopia, Euthanasia പോലുള്ള 'കഥയുള്ള വാക്കുകൾ' One Word Substitutes-ൽ വീണ്ടും വീണ്ടും വരാറുണ്ട്!\n• ഉദാഹരണ sentences:\n1. Finding my old friend at the airport was pure serendipity. (വിമാനത്താവളത്തിൽ പഴയ കൂട്ടുകാരനെ കണ്ടത് തികച്ചും യാദൃച്ഛികം)\n2. The discovery of penicillin was a case of serendipity. (പെൻസിലിൻ കണ്ടെത്തിയത് യാദൃച്ഛികമായാണ്)\n3. It was a serendipitous meeting that changed his career. (അവിചാരിതമായ ആ കൂടിക്കാഴ്ച അവന്റെ ജീവിതം മാറ്റി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) Stupendity\n• ഇംഗ്ലീഷിൽ ഇങ്ങനെ ഒരു standard വാക്കില്ല — 'stupendous' (അതിഗംഭീരമായ) എന്നതിനോട് സാമ്യമുള്ള വ്യാജരൂപം മാത്രം.\n• 🪤 PSC Trap: 'S' കൊണ്ട് തുടങ്ങുന്ന, കേൾക്കാൻ സമാനമായ വാക്ക് വെച്ച് കുഴക്കാനുള്ള ശ്രമം.\n\n(B) Stipendiary\n• 'Stipend' (ശമ്പളം / സ്കോളർഷിപ്പ് തുക) ലഭിക്കുന്നയാൾ എന്നാണ് അർഥം — ഉദാ: stipendiary magistrate.\n• 🪤 PSC Trap: Serendipity-യുടെ ശബ്ദം പോലെ തോന്നിക്കുന്ന ഒരു യഥാർഥ വാക്ക് — അർഥം അറിയാത്തവർ വീഴും.\n\n(D) Senerous\n• ഇത് ഒരു യഥാർഥ ഇംഗ്ലീഷ് വാക്കല്ല — 'generous' എന്നതിന്റെ വക്രീകരിച്ച രൂപം.\n• 🪤 PSC Trap: ശബ്ദസാമ്യം കൊണ്ട് മാത്രം ഊഹിക്കുന്നവരെ പിടിക്കാനുള്ള കെണി.",
+        "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'SEREN-DIP-ity — Serendip (ശ്രീലങ്ക) യാത്രയിൽ കടലിൽ DIP ചെയ്തപ്പോൾ മുത്ത് കിട്ടി!' — തിരയാതെ കിട്ടിയ നിധി = serendipity.\n• Eponym word family ഒരുമിച്ച്: serendipity, utopia (സങ്കൽപ സ്വർഗം), quixotic (അപ്രായോഗിക ആദർശവാദി), boycott (ബഹിഷ്കരണം).\n• PSC strategy: One word ചോദ്യത്തിൽ 'by chance', 'unexpected', 'pleasant' പോലുള്ള keywords കണ്ടാൽ serendipity മനസ്സിൽ വരണം. നിലവിലില്ലാത്ത വ്യാജവാക്കുകൾ ആദ്യം വെട്ടിക്കളയൂ!"
+      }
+    },
+    {
+      "id": "153-2023-E-Q95",
+      "paperId": "153-2023-E",
+      "questionNumber": 95,
+      "topic": "Subject-Verb Agreement",
+      "questionText": "Two hundred and eighty kilos ____________ enough for a month.",
+      "optionA": "are",
+      "optionB": "was",
+      "optionC": "is",
+      "optionD": "were",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) is\n\n• 'Two hundred and eighty kilos' കാണാൻ plural ആണെങ്കിലും, ഇവിടെ അത് ഒരു മൊത്തം അളവിനെ (one total quantity) ആണ് സൂചിപ്പിക്കുന്നത്.\n• അളവ്, ഭാരം, ദൂരം, പണം, സമയം എന്നിവ ഒറ്റ യൂണിറ്റായി കാണുമ്പോൾ singular verb ആണ് വേണ്ടത്.\n• 'ഒരു മാസത്തേക്ക് 280 കിലോ മതിയാകും' — ഇവിടെ ഓരോ കിലോയെയും വേറെ വേറെ എണ്ണുന്നില്ല, മൊത്തം അളവിനെക്കുറിച്ചാണ് പറയുന്നത്.\n• പൊതുവായ ഒരു സത്യം / പ്രസ്താവന ആയതിനാൽ Present tense 'is' ആണ് ഏറ്റവും അനുയോജ്യം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Amount (ഭാരം / ദൂരം / പണം / സമയം) as ONE unit → Singular verb.\n• Plural രൂപത്തിലുള്ള അളവുകൾ മൊത്തമായി പറയുമ്പോൾ singular verb എടുക്കും.\n• ഓരോ യൂണിറ്റിനെയും വേറെ വേറെ കാണുമ്പോൾ മാത്രം plural verb വരും.\n• ⭐ PSC ആവർത്തനം: 'Ten kilometres is...', 'Five hundred rupees is...' — ഈ മാതൃക Subject-Verb Agreement-ൽ PSC-യുടെ പ്രിയപ്പെട്ട ചോദ്യമാണ്!\n• ഉദാഹരണ sentences:\n1. Ten kilometres is a long distance to walk.\n2. Five thousand rupees is a big amount for him.\n3. Three hours is enough to finish the work.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) are\n• 'Kilos' എന്ന plural വാക്ക് കണ്ട് plural verb ഇടാൻ തോന്നും — പക്ഷേ ഇവിടെ അത് ഒരു മൊത്തം അളവാണ്.\n• 🪤 PSC Trap: '-s' കണ്ടാൽ ഉടനെ plural verb ഇടുന്നവരെ വീഴ്ത്താനുള്ള പ്രധാന കെണി!\n\n(B) was\n• Singular ആണ്, പക്ഷേ Past tense ആണ് — ഇത് പൊതുവായ ഒരു പ്രസ്താവനയാണ്, കഴിഞ്ഞുപോയ സംഭവമല്ല.\n• 🪤 PSC Trap: Singular എന്ന നിയമം അറിയുന്നവരെ tense കൊണ്ട് കുഴക്കാനുള്ള ഓപ്ഷൻ.\n\n(D) were\n• Plural-ഉം Past-ഉം — രണ്ട് രീതിയിലും ഇവിടെ ചേരില്ല.\n• 🪤 PSC Trap: രണ്ട് തെറ്റുകൾ ഒരുമിച്ചുള്ള ഓപ്ഷൻ — എളുപ്പം വെട്ടിക്കളയാം.",
+        "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ചാക്കിൽ കെട്ടിയാൽ ഒരു ചാക്ക്!' — 280 കിലോ അരി ഒരു ചാക്കിൽ കെട്ടിയാൽ അത് ഒരു സാധനമാണ് → 'is'.\n• Rule family ഒരുമിച്ച്: weight (kilos), distance (kilometres), money (rupees), time (hours/years) — മൊത്തമായി പറഞ്ഞാൽ എല്ലാം singular.\n• PSC strategy: Subject-ൽ സംഖ്യ + അളവ് യൂണിറ്റും ശേഷം 'enough / a lot / too much' പോലുള്ള വാക്കുകളും കണ്ടാൽ singular verb ഉറപ്പ്. പിന്നെ tense മാത്രം നോക്കിയാൽ മതി — ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "153-2023-E-Q96",
+      "paperId": "153-2023-E",
+      "questionNumber": 96,
+      "topic": "Word Formation",
+      "questionText": "____________ is an anagram from the word 'violence'.",
+      "optionA": "they see",
+      "optionB": "war",
+      "optionC": "nice love",
+      "optionD": "brutality",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) nice love\n\n• Anagram എന്നാൽ ഒരു വാക്കിലെ അക്ഷരങ്ങൾ എല്ലാം ഒന്നുപോലും കൂട്ടാതെയും കുറയ്ക്കാതെയും പുനഃക്രമീകരിച്ച് ഉണ്ടാക്കുന്ന പുതിയ വാക്ക് / വാക്യം ആണ്.\n• VIOLENCE = V, I, O, L, E, N, C, E (8 അക്ഷരങ്ങൾ).\n• NICE LOVE = N, I, C, E, L, O, V, E — അതേ 8 അക്ഷരങ്ങൾ, അതേ എണ്ണത്തിൽ!\n• അർഥം നോക്കേണ്ടതില്ല; അക്ഷരങ്ങൾ മാത്രം ഒത്തുനോക്കിയാൽ മതി — 'violence' ന്റെ നേർ വിപരീത അർഥമുള്ള 'nice love' ആണ് ഇതിലെ രസം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Anagram = അതേ അക്ഷരങ്ങൾ + അതേ എണ്ണം + പുതിയ ക്രമം.\n• ഓരോ അക്ഷരവും എത്ര തവണ വരുന്നു എന്ന് എണ്ണി ഒത്തുനോക്കണം (violence-ൽ 'E' രണ്ട് തവണ).\n• അർഥത്തിന് പ്രസക്തിയില്ല — synonym അല്ല, അക്ഷരക്കളിയാണ് anagram.\n• Etymology hint: Greek 'ana' (വീണ്ടും / പിന്നോട്ട്) + 'gramma' (അക്ഷരം) = അക്ഷരങ്ങൾ വീണ്ടും ക്രമീകരിക്കൽ.\n• ⭐ PSC ആവർത്തനം: Anagram ചോദ്യങ്ങൾ അപൂർവമാണെങ്കിലും വന്നാൽ ഏറ്റവും എളുപ്പമുള്ള മാർക്ക് ആണ്!\n• ഉദാഹരണ sentences:\n1. LISTEN is an anagram of SILENT.\n2. EARTH is an anagram of HEART.\n3. DORMITORY is an anagram of DIRTY ROOM.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) they see\n• T, H, Y, S എന്നീ അക്ഷരങ്ങൾ 'violence'-ൽ ഇല്ല.\n• 🪤 PSC Trap: 'They see = The eyes' എന്ന പ്രശസ്ത anagram ഓർമിപ്പിച്ച് കുഴക്കാനുള്ള ഓപ്ഷൻ!\n\n(B) war\n• 'Violence'-നോട് അർഥത്തിൽ ബന്ധമുണ്ട്, പക്ഷേ W, A, R എന്നീ അക്ഷരങ്ങൾ ആ വാക്കിൽ ഇല്ല.\n• 🪤 PSC Trap: അർഥം നോക്കി ഉത്തരം എഴുതുന്നവരെ വീഴ്ത്താനുള്ള കെണി.\n\n(D) brutality\n• 'Violence'-ന്റെ synonym ആണ് — anagram അല്ല; അക്ഷരങ്ങൾ പൂർണമായും വ്യത്യസ്തം.\n• 🪤 PSC Trap: Synonym-ഉം anagram-ഉം തമ്മിൽ തെറ്റിദ്ധരിക്കുന്നവർക്കായി വെച്ച ഓപ്ഷൻ.",
+        "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'VIOLENCE-ന്റെ ഉള്ളിൽ ഒളിച്ചിരിക്കുന്നത് NICE LOVE!' — അക്രമത്തിന്റെ ഉള്ളിൽ സ്നേഹം — ഈ വിരോധാഭാസം ഓർത്താൽ മറക്കില്ല.\n• പ്രശസ്ത anagram family ഒരുമിച്ച്: listen–silent, heart–earth, the eyes–they see, dormitory–dirty room, astronomer–moon starer.\n• PSC strategy: Anagram ചോദ്യത്തിൽ അർഥം ഒരിക്കലും നോക്കരുത്. ആദ്യം അക്ഷരങ്ങളുടെ എണ്ണം നോക്കുക (8 vs 8), എന്നിട്ട് ഓരോ അക്ഷരവും ടിക്ക് ചെയ്യുക — 30 സെക്കൻഡിൽ guaranteed mark!"
+      }
+    },
+    {
+      "id": "153-2023-E-Q97",
+      "paperId": "153-2023-E",
+      "questionNumber": 97,
+      "topic": "Tenses",
+      "questionText": "Fill in the blank space with the right verb form.\nHe ____________ (study) English recently.",
+      "optionA": "had studied",
+      "optionB": "has studying",
+      "optionC": "studies",
+      "optionD": "has been studying",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) has been studying\n\n• 'Recently' (ഈയിടെയായി) എന്ന signal word ഭൂതകാലവും വർത്തമാനകാലവും തമ്മിൽ ബന്ധിപ്പിക്കുന്നു — Present Perfect കുടുംബത്തിലെ tense ആണ് വേണ്ടത്.\n• ഈയിടെ തുടങ്ങിയതും ഇപ്പോഴും തുടരുന്നതുമായ പ്രവൃത്തിയാണ് പഠനം — അതുകൊണ്ട് Present Perfect Continuous: has/have + been + V-ing.\n• 'He' third person singular ആയതിനാൽ 'has' → 'He has been studying English recently.'\n• 'ഈയിടെയായി അവൻ ഇംഗ്ലീഷ് പഠിച്ചുകൊണ്ടിരിക്കുകയാണ്' എന്ന അർഥം കൃത്യമായി കിട്ടുന്നു.",
+        "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Present Perfect Continuous = has/have + been + V-ing (ഭൂതകാലത്ത് തുടങ്ങി, ഇപ്പോഴും തുടരുന്നത്).\n• Signal words: recently, lately, since, for, all day, these days — ഇവ കണ്ടാൽ Present Perfect / Present Perfect Continuous ചിന്തിക്കുക.\n• 'Has' കഴിഞ്ഞ് നേരിട്ട് V-ing വരില്ല — ഇടയിൽ 'been' നിർബന്ധം.\n• ⭐ PSC ആവർത്തനം: Signal word നോക്കി tense കണ്ടുപിടിക്കുന്ന ചോദ്യങ്ങൾ PSC-യിലെ ഏറ്റവും സ്ഥിരമായ ചോദ്യങ്ങളിൽ ഒന്നാണ്!\n• ഉദാഹരണ sentences:\n1. She has been working here since 2020.\n2. They have been playing for two hours.\n3. I have been feeling tired lately.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) had studied\n• Past Perfect ആണ് — ഭൂതകാലത്തിലെ രണ്ട് സംഭവങ്ങളിൽ ആദ്യം നടന്നതിനെ കാണിക്കാനാണ് ഉപയോഗിക്കുക.\n• 🪤 PSC Trap: 'Recently' കണ്ട് 'കഴിഞ്ഞുപോയ കാര്യം' എന്ന് ചിന്തിക്കുന്നവർ ഇത് എടുക്കും.\n\n(B) has studying\n• Grammar പ്രകാരം ഈ രൂപം നിലവിലില്ല — 'has' കഴിഞ്ഞ് V-ing ഇടാൻ 'been' വേണം.\n• 🪤 PSC Trap: 'been' ഒഴിവാക്കിയ അപൂർണ രൂപം; വേഗത്തിൽ വായിക്കുന്നവർ വീഴും.\n\n(C) studies\n• Simple Present ആണ് — ശീലങ്ങൾക്കും പൊതുസത്യങ്ങൾക്കും ആണ് ഉപയോഗിക്കുക; 'recently'-യുമായി ചേരില്ല.\n• 🪤 PSC Trap: 'He' കണ്ട് '-s' ചേർത്ത രൂപം ശരിയെന്ന് തോന്നിക്കാനുള്ള ഓപ്ഷൻ.",
+        "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Recently, Lately, Since, For — ഈ നാല് പേരും HAS BEEN-ന്റെ കൂട്ടുകാർ!'\n• Tense family ഒരുമിച്ച്: has + V3 (Present Perfect), has been + V-ing (Present Perfect Continuous), had + V3 (Past Perfect).\n• PSC strategy: Tense ചോദ്യത്തിൽ ആദ്യം signal word കണ്ടുപിടിക്കുക. അതിനുശേഷം grammar പ്രകാരം നിലവിലില്ലാത്ത രൂപങ്ങൾ ('has studying') വെട്ടിക്കളയുക — ഉത്തരം ഇത് ഓർത്തിരുന്നാൽ കൈയിൽ!"
+      }
+    },
+    {
+      "id": "153-2023-E-Q98",
+      "paperId": "153-2023-E",
+      "questionNumber": 98,
+      "topic": "Idioms",
+      "questionText": "What is the meaning of the expression __to be in the red__?",
+      "optionA": "to be rich",
+      "optionB": "have no money in one's bank account",
+      "optionC": "to be in red dress",
+      "optionD": "to be insulted",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) have no money in one's bank account\n\n• 'To be in the red' എന്നാൽ നഷ്ടത്തിലോ കടത്തിലോ ആയിരിക്കുക, അക്കൗണ്ടിൽ പണമില്ലാതിരിക്കുക എന്നാണ് അർഥം.\n• പണ്ട് കണക്കുപുസ്തകങ്ങളിൽ (accounts) നഷ്ടവും കടവും ചുവന്ന മഷിയിലും ലാഭം കറുത്ത മഷിയിലും ആണ് എഴുതിയിരുന്നത് — അതിൽ നിന്നാണ് ഈ idiom ഉണ്ടായത്.\n• ഉദാ: 'The company has been in the red for three years' = 'മൂന്ന് വർഷമായി കമ്പനി നഷ്ടത്തിലാണ്.'\n• Cashier / Co-operative പരീക്ഷയിൽ ഈ ബാങ്കിങ് idiom വന്നത് വളരെ സ്വാഭാവികമാണ്!",
+        "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: IN THE RED = നഷ്ടം / കടം 🔴 | IN THE BLACK = ലാഭം / സുരക്ഷിതം ⚫\n• Idiom-ന്റെ അർഥം അക്ഷരാർഥത്തിൽ എടുക്കരുത് — ചുവന്ന നിറവുമായി നേരിട്ട് ബന്ധമില്ല, കണക്കുപുസ്തകത്തിലെ മഷിയുമായാണ് ബന്ധം.\n• Money idiom family: in the red (കടത്തിൽ), in the black (ലാഭത്തിൽ), hard up (പണത്തിന് ഞെരുക്കം), make both ends meet (വരവും ചെലവും ഒപ്പിക്കുക), broke (കാശില്ലാതെ).\n• ⭐ PSC ആവർത്തനം: നിറങ്ങളുള്ള idioms (in the red, red tape, red-letter day, black sheep, white elephant) PSC-യുടെ പ്രിയപ്പെട്ടവയാണ്!\n• ഉദാഹരണ sentences:\n1. My account is in the red this month.\n2. After the flood, many farmers were in the red.\n3. The firm is finally back in the black.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) to be rich\n• ഇത് നേർ വിപരീത അർഥമാണ് — സമ്പന്നരെക്കുറിച്ച് പറയാൻ 'in the black' / 'rolling in money' എന്നാണ് പറയുക.\n• 🪤 PSC Trap: Opposite meaning ഓപ്ഷനായി വെക്കുന്നത് PSC-യുടെ സ്ഥിരം രീതി!\n\n(C) to be in red dress\n• ഇത് അക്ഷരാർഥം മാത്രമാണ് — idiom-ന് നിറമുള്ള വസ്ത്രവുമായി ഒരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: 'red' എന്ന വാക്ക് കണ്ട് literal ആയി ചിന്തിക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണി.\n\n(D) to be insulted\n• ചുവപ്പ് = ദേഷ്യം / നാണക്കേട് എന്ന ബന്ധം കൊണ്ട് തോന്നാം; പക്ഷേ ഈ idiom-ന് ആ അർഥമില്ല. നാണം കൊണ്ട് മുഖം ചുവക്കുന്നതിന് 'red-faced' എന്നാണ് പറയുക.\n• 🪤 PSC Trap: നിറവും വികാരവും ബന്ധിപ്പിക്കുന്നവർക്കായി വെച്ച ഓപ്ഷൻ.",
+        "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ബാങ്ക് statement-ൽ ചുവപ്പ് കണ്ടാൽ പേടിക്കണം!' — 🔴 Red = Danger = കടം; ⚫ Black = Safe = ലാഭം.\n• Colour idiom family ഒരുമിച്ച്: in the red (കടം), red tape (ചുവപ്പുനാട / അനാവശ്യ നടപടിക്രമം), red-letter day (ഓർമിക്കത്തക്ക ദിവസം), white elephant (ചെലവേറിയ ഉപയോഗശൂന്യ വസ്തു), black sheep (കുടുംബത്തിലെ ദുഷ്പേരുകാരൻ).\n• PSC strategy: Idiom ചോദ്യത്തിൽ literal meaning (red dress) ഉള്ള ഓപ്ഷൻ ആദ്യം വെട്ടുക. പിന്നെ opposite meaning ശ്രദ്ധിക്കുക — ബാക്കി വരുന്നതാണ് ഉത്തരം!"
+      }
+    },
+    {
+      "id": "153-2023-E-Q99",
+      "paperId": "153-2023-E",
+      "questionNumber": 99,
+      "topic": "Question Tags",
+      "questionText": "Question tag for the sentence:\nDon't shout, ____________?",
+      "optionA": "Do you",
+      "optionB": "Can you",
+      "optionC": "Will you",
+      "optionD": "Won't you",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) Will you\n\n• 'Don't shout' ഒരു imperative sentence ആണ് — ഒരു ആജ്ഞയോ അപേക്ഷയോ ആണ്.\n• Imperative വാക്യങ്ങൾക്ക് സാധാരണയായി 'will you?' എന്ന question tag ആണ് വരുന്നത്.\n• പ്രത്യേകിച്ച് negative imperative ('Don't...') വാക്യങ്ങൾക്ക് 'will you?' മാത്രമാണ് ശരിയായ tag — 'won't you' വരില്ല.\n• 'ഒച്ചവെക്കരുത്, കേട്ടോ?' എന്ന മൃദുവായ അപേക്ഷയുടെ ഭാവമാണ് ഈ tag നൽകുന്നത്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Imperative (ആജ്ഞ) → will you? | Let's → shall we?\n• Positive imperative: 'Shut the door, will you?' — ഇവിടെ ചിലപ്പോൾ 'won't you?' / 'can you?' എന്നും വരാം, പക്ഷേ പരീക്ഷയിൽ ഏറ്റവും സുരക്ഷിതം 'will you?' തന്നെ.\n• Negative imperative: 'Don't be late, will you?' — ഇവിടെ 'will you?' മാത്രം.\n• Let's കൊണ്ട് തുടങ്ങുന്ന വാക്യങ്ങൾ: 'Let's go, shall we?'\n• ⭐ PSC ആവർത്തനം: Imperative, Let's, I am എന്നീ special question tags PSC എല്ലാ വർഷവും ചോദിക്കാറുണ്ട്!\n• ഉദാഹരണ sentences:\n1. Don't make a noise, will you? (ശബ്ദമുണ്ടാക്കരുത്, കേട്ടോ?)\n2. Please help me, will you? (എന്നെ ഒന്ന് സഹായിക്കാമോ?)\n3. Let's start the work, shall we? (നമുക്ക് പണി തുടങ്ങാം, അല്ലേ?)\n• ഓർക്കുക: ആജ്ഞാവാക്യത്തിൽ subject ആയ 'you' മറഞ്ഞിരിക്കുന്നു — അതുകൊണ്ടാണ് tag-ൽ 'you' വരുന്നത്.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) Do you\n• 'Don't' കണ്ട് 'do' കൊണ്ട് tag ഉണ്ടാക്കാൻ തോന്നും — പക്ഷേ imperative-ൽ 'do you?' വരില്ല.\n• 🪤 PSC Trap: സാധാരണ statement-ന്റെ നിയമം (don't → do) imperative-ലേക്ക് പ്രയോഗിക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണി!\n\n(B) Can you\n• Positive imperative-ൽ ചിലപ്പോൾ 'can you?' വരാം, പക്ഷേ negative imperative-ൽ ഒരിക്കലുമില്ല.\n• 🪤 PSC Trap: അപേക്ഷയുടെ ഭാവമുള്ളതുകൊണ്ട് ശരിയാണെന്ന് തോന്നിക്കും.\n\n(D) Won't you\n• Negative imperative-ന് negative tag ചേരില്ല — 'Don't shout, won't you?' എന്നത് തെറ്റാണ്.\n• 🪤 PSC Trap: 'Positive വാക്യം → negative tag' എന്ന സാധാരണ നിയമം ഓർത്ത് കുഴയുന്നവർക്കായി.",
+        "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ആജ്ഞ കൊടുത്താൽ WILL-നോട് ചോദിക്കൂ, കൂട്ടുകൂടാൻ (Let's) വിളിച്ചാൽ SHALL-നോട്!'\n• Special tag family ഒരുമിച്ച്: Imperative → will you? | Let's → shall we? | I am → aren't I? | Nobody / Nothing → positive tag.\n• PSC strategy: വാക്യം verb-ൽ (V1) അല്ലെങ്കിൽ 'Don't'-ൽ തുടങ്ങിയാൽ, subject ഇല്ലെങ്കിൽ, അത് imperative ആണ് → കണ്ണടച്ച് 'will you?' — guaranteed mark!"
+      }
+    },
+    {
+      "id": "153-2023-E-Q100",
+      "paperId": "153-2023-E",
+      "questionNumber": 100,
+      "topic": "Direct and Indirect Speech",
+      "questionText": "Supply the reported speech of the sentence:\nThe Captain said to his men, \"Don't allow the enemy to get across.\"",
+      "optionA": "The captain requested that the enemy should not get across",
+      "optionB": "The captain ordered his men not to allow the enemy to get across",
+      "optionC": "The captain ordered not to allow the enemy to get across",
+      "optionD": "The captain ordered to allow his enemy to get across",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) The captain ordered not to allow the enemy to get across (PSC Final Answer Key പ്രകാരം)\n\n• ⚠️ ശ്രദ്ധിക്കുക: PSC-യുടെ Provisional Answer Key-യിൽ ഉത്തരം (B) ആയിരുന്നു; Final Answer Key-യിൽ ഇത് (C) ആയി മാറ്റി. ആപ്പിൽ ഔദ്യോഗിക Final Key ആണ് നൽകിയിരിക്കുന്നത്.\n• Direct speech ഒരു ആജ്ഞ (imperative) ആണ് — 'Don't allow...'. ക്യാപ്റ്റൻ സൈനികരോട് പറയുന്നതിനാൽ reporting verb 'ordered' ആകുന്നു.\n• Negative imperative ആയതിനാൽ 'Don't + V1' എന്നത് 'not to + V1' ആയി മാറുന്നു → 'not to allow'.\n• (C)-യിൽ ഈ രണ്ട് പ്രധാന മാറ്റങ്ങളും (ordered + not to allow) ഉണ്ട്. പക്ഷേ grammar പുസ്തകങ്ങളിലെ പൂർണ രൂപത്തിൽ 'ordered' കഴിഞ്ഞ് ആരോട് എന്ന object ('his men') കൂടി വരും — അതാണ് (B).",
+        "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: said to + ആൾ + \"V1...\" → ordered / told / requested + ആൾ + to + V1 | \"Don't + V1\" → not to + V1\n• അതായത്, ആജ്ഞാവാക്യം റിപ്പോർട്ട് ചെയ്യുമ്പോൾ 'said to' മാറ്റി ഭാവത്തിന് ചേരുന്ന verb ഇടുന്നു, ഉദ്ധരണിയിലെ verb-ന് മുമ്പ് 'to' ചേർക്കുന്നു.\n• Reporting verb തിരഞ്ഞെടുക്കുന്നത് ഭാവം നോക്കിയാണ്: ആജ്ഞ → ordered / commanded; അപേക്ഷ ('please') → requested; ഉപദേശം → advised.\n• Inverted commas-ഉം 'that'-ഉം ഒഴിവാക്കി 'to + V1' (infinitive) ഉപയോഗിക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: Imperative sentence-ന്റെ reported speech ('ordered ... not to') PSC-യിൽ വീണ്ടും വീണ്ടും വരുന്ന ചോദ്യമാണ്!\n• ഉദാഹരണ sentences:\n1. The teacher said to the boys, \"Don't make a noise.\" → The teacher ordered the boys not to make a noise. (ആജ്ഞ → ordered; Don't → not to)\n2. He said to me, \"Please wait here.\" → He requested me to wait there. ('please' ഉള്ളതുകൊണ്ട് requested; here → there ആയി മാറി)\n3. Mother said to me, \"Don't go out in the rain.\" → Mother advised me not to go out in the rain. (ഉപദേശത്തിന്റെ ഭാവം → advised)\n• ശ്രദ്ധിക്കുക: എല്ലാ ഉദാഹരണങ്ങളിലും reporting verb കഴിഞ്ഞ് ആരോടാണോ പറഞ്ഞത് ആ ആൾ (object) നേരിട്ട് വരുന്നു; 'that' വരുന്നില്ല.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) The captain requested that the enemy should not get across\n• 'Requested' അപേക്ഷയ്ക്കുള്ള verb ആണ് — ഇത് ഒരു സൈനിക ആജ്ഞയാണ്. കൂടാതെ ആശയം തന്നെ മാറി; ശത്രുവിനോട് അപേക്ഷിക്കുന്നത് പോലെയായി.\n• 🪤 PSC Trap: 'should not' ഉള്ളതുകൊണ്ട് negative ആശയം നിലനിൽക്കുന്നു എന്ന് തോന്നിക്കും.\n\n(B) The captain ordered his men not to allow the enemy to get across\n• Grammar പുസ്തകങ്ങളിലെ മാതൃക പ്രകാരം ഇത് പൂർണമായ രൂപമാണ്; Provisional Key-യിലും ഇതായിരുന്നു ഉത്തരം.\n• എന്നാൽ PSC Final Answer Key (C) ആണ് അംഗീകരിച്ചത് — അതുകൊണ്ട് ഈ ചോദ്യത്തിന് ഔദ്യോഗികമായി (B) മാർക്ക് നേടുന്നില്ല.\n• 🪤 PSC Trap: ഇവിടെ കെണി ഒന്നുമില്ല — Final Key-യിലെ ഈ മാറ്റം ചർച്ചാവിഷയമാണ്. ഇനി വരുന്ന പരീക്ഷകളിൽ object ഉള്ള (B) മാതൃക തന്നെ ഓർക്കുന്നതാണ് സുരക്ഷിതം.\n\n(D) The captain ordered to allow his enemy to get across\n• 'not' ഒഴിവാക്കിയതോടെ അർഥം പൂർണമായും വിപരീതമായി — ശത്രുവിനെ കടത്തിവിടാൻ ആജ്ഞാപിച്ചതുപോലെയായി!\n• 🪤 PSC Trap: Negative imperative-ലെ 'not' വിട്ടുപോകുന്നവരെ പിടിക്കാനുള്ള ഓപ്ഷൻ.",
+        "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'DON'T പോയി NOT TO വരും!' — Don't allow → not to allow. ആജ്ഞ = ORDERED, അപേക്ഷ = REQUESTED.\n• Reporting verb family ഒരുമിച്ച്: ordered / commanded (ആജ്ഞ), requested / begged (അപേക്ഷ), advised (ഉപദേശം), forbade (വിലക്ക്).\n• PSC strategy: Imperative reported speech ചോദ്യത്തിൽ ആദ്യം 'not' നഷ്ടപ്പെട്ടതും reporting verb തെറ്റിയതുമായ options വെട്ടുക. എന്നിട്ട് 'ordered + ആൾ + not to + V1' മാതൃക തിരയുക — ഇത് ഓർത്തിരുന്നാൽ മിക്കവാറും എല്ലാ ചോദ്യത്തിനും ഉത്തരം കിട്ടും!"
+      }
+    }
+  ]
+}

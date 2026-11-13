@@ -2240,5 +2240,16 @@
     "year": "2026",
     "categoryCode": "451/2025,452/2025,453/2025",
     "answerKeyStatus": "provisional"
+  },
+  {
+    "id": "153-2023-E",
+    "paperCode": "153/2023 E",
+    "post": "Cashier (General Category), Cashier (Society Category), Field Officer (General Category) (Kerala State Co-operative Marketing Federation Ltd), Junior Assistant, Junior Assistant (Society Category) Part II (Kerala Co-operative Milk Marketing Federation Ltd)",
+    "dept": "Kerala State Co-operative Marketing Federation / Kerala Co-operative Milk Marketing Federation",
+    "date": "18-Aug-2023",
+    "medium": "E",
+    "year": "2023",
+    "categoryCode": "307/2021, 308/2021, 363/2021, 467/2021, 468/2021",
+    "answerKeyStatus": "final"
   }
 ]
