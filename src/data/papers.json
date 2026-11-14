@@ -2251,5 +2251,27 @@
     "year": "2023",
     "categoryCode": "307/2021, 308/2021, 363/2021, 467/2021, 468/2021",
     "answerKeyStatus": "final"
+  },
+  {
+    "id": "101-2024-E",
+    "paperCode": "101/2024",
+    "post": "Computer Operator (Factories and Boilers)",
+    "dept": "Factories and Boilers",
+    "date": "05-Aug-2024",
+    "medium": "E",
+    "year": "2024",
+    "categoryCode": "244/2023",
+    "answerKeyStatus": "final"
+  },
+  {
+    "id": "115-2024-E",
+    "paperCode": "115/2024",
+    "post": "Reporter Gr. II (Malayalam) (Legislature Secretariat)",
+    "dept": "Legislature Secretariat",
+    "date": "27-Aug-2024",
+    "medium": "E",
+    "year": "2024",
+    "categoryCode": "638/2023",
+    "answerKeyStatus": "final"
   }
 ]

@@ -1,0 +1,195 @@
+{
+  "paper": {
+    "id": "101-2024-E",
+    "paperCode": "101/2024",
+    "post": "Computer Operator (Factories and Boilers)",
+    "dept": "Factories and Boilers",
+    "date": "05-Aug-2024",
+    "medium": "E",
+    "year": "2024",
+    "categoryCode": "244/2023",
+    "answerKeyStatus": "final"
+  },
+  "questions": [
+    {
+      "id": "101-2024-E-Q51",
+      "paperId": "101-2024-E",
+      "questionNumber": 51,
+      "topic": "Parts of Speech",
+      "questionText": "He drives the car very —————.",
+      "optionA": "Fast",
+      "optionB": "Rapid",
+      "optionC": "Fastly",
+      "optionD": "Quick",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) Fast\n• 'drives' എന്ന verb എങ്ങനെ ചെയ്യുന്നു എന്ന് പറയാൻ ഒരു adverb വേണം — 'വളരെ വേഗത്തിൽ ഓടിക്കുന്നു' എന്നർഥം.\n• 'fast' എന്ന വാക്ക് adjective ആയും adverb ആയും ഒരേ രൂപത്തിൽ തന്നെ ഉപയോഗിക്കാം — '-ly' ചേർക്കേണ്ട ആവശ്യമില്ല.\n• 'അവൻ വളരെ വേഗത്തിൽ കാർ ഓടിക്കുന്നു' — ഇതാണ് വാക്യത്തിന്റെ അർഥം.\n• PSC-യുടെ ഇഷ്ട ചോദ്യമാണിത്: 'fastly' എന്നൊരു വാക്ക് ഇംഗ്ലീഷിൽ ഇല്ലേയില്ല!",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Verb-നെ വിശേഷിപ്പിക്കാൻ adverb — പക്ഷേ fast, hard, late, early എന്നിവയ്ക്ക് '-ly' വേണ്ട!\n• സാധാരണയായി adjective + ly = adverb ആകും (quick → quickly, rapid → rapidly). എന്നാൽ ചില വാക്കുകൾക്ക് adjective-ഉം adverb-ഉം ഒരേ രൂപമാണ്.\n• ഒരേ രൂപമുള്ള കുടുംബം: fast, hard, late, early, straight, high, low.\n• ⭐ PSC ആവർത്തനം: 'fastly' എന്ന തെറ്റായ രൂപം option-ൽ വെച്ച് PSC പലതവണ കുട്ടികളെ കുഴക്കിയിട്ടുണ്ട്.\n• ശ്രദ്ധിക്കുക: hard (കഠിനമായി) ≠ hardly (കഷ്ടിച്ച്); late (വൈകി) ≠ lately (അടുത്തിടെ) — '-ly' ചേർത്താൽ അർഥം തന്നെ മാറും!\n• ഉദാഹരണ sentences:\n1. She runs fast. (വേഗത്തിൽ ഓടുന്നു)\n2. He works hard. (കഠിനമായി അധ്വാനിക്കുന്നു)\n3. The train arrived late. (ട്രെയിൻ വൈകിയെത്തി)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) Rapid — ഇതൊരു adjective മാത്രമാണ്; verb-നെ വിശേഷിപ്പിക്കാൻ 'rapidly' എന്ന് വേണം. 'very rapid' ഇവിടെ ചേരില്ല.\n• (C) Fastly — ഇങ്ങനെയൊരു വാക്ക് ഇംഗ്ലീഷിൽ ഇല്ല!\n• 🪤 PSC Trap: '-ly ചേർത്താൽ adverb' എന്ന നിയമം കണ്ണടച്ച് പ്രയോഗിക്കുന്നവരെ വീഴ്ത്താനുള്ള കെണിയാണ് 'fastly'.\n• (D) Quick — ഇതും adjective ആണ്; adverb രൂപം 'quickly' ആണ്. 'drives very quick' എന്നത് ശരിയായ ഇംഗ്ലീഷ് അല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'FAST-ന് ഒരിക്കലും LY വാൽ ഇല്ല — വേഗക്കാരന് വാൽ എന്തിന്?' 🚗\n• ഒരുമിച്ച് പഠിക്കേണ്ട കുടുംബം: fast, hard, late, early, straight — adjective-ഉം adverb-ഉം ഒരേ രൂപം.\n• PSC strategy: blank verb-ന് ശേഷമാണെങ്കിൽ adverb തിരയുക; options-ൽ 'fastly' കണ്ടാൽ ഉടനെ വെട്ടിക്കളയുക — guaranteed mark!"
+      }
+    },
+    {
+      "id": "101-2024-E-Q52",
+      "paperId": "101-2024-E",
+      "questionNumber": 52,
+      "topic": "Singular and Plural",
+      "questionText": "They shifted all their —————— in a single day.",
+      "optionA": "furnitures",
+      "optionB": "furniture",
+      "optionC": "furnishing",
+      "optionD": "equipments",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) furniture\n• 'furniture' എന്നത് uncountable noun ആണ് — എണ്ണാൻ കഴിയാത്ത, ഒരു കൂട്ടമായി കാണുന്ന വസ്തു. അതിന് plural രൂപമില്ല.\n• 'all their furniture' — 'അവരുടെ എല്ലാ ഫർണിച്ചറുകളും' എന്ന് മലയാളത്തിൽ ബഹുവചനമായി പറഞ്ഞാലും ഇംഗ്ലീഷിൽ 'furniture' തന്നെ.\n• 'അവർ ഒറ്റ ദിവസം കൊണ്ട് എല്ലാ ഫർണിച്ചറും മാറ്റി' എന്നാണ് അർഥം.\n• എണ്ണം പറയണമെങ്കിൽ 'pieces of furniture' എന്ന് പറയണം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Uncountable noun + s = തെറ്റ്! (furnitures ✗, informations ✗, equipments ✗)\n• Uncountable noun-കൾക്ക് 'a/an' ഉം plural '-s' ഉം വരില്ല; അവയ്‌ക്കൊപ്പം singular verb ആണ് വരുന്നത്.\n• ഈ കുടുംബം: furniture, information, equipment, luggage, baggage, advice, news, scenery, machinery, poetry.\n• ⭐ PSC ആവർത്തനം: furniture, information, luggage, advice — ഈ നാലു വാക്കുകൾ PSC സ്ഥിരമായി ചോദിക്കുന്നവയാണ്.\n• എണ്ണം വേണമെങ്കിൽ: a piece of furniture, a piece of advice, an item of news.\n• ഉദാഹരണ sentences:\n1. The furniture in this room is new. (ഈ മുറിയിലെ ഫർണിച്ചർ പുതിയതാണ് — singular verb 'is' ശ്രദ്ധിക്കുക)\n2. He gave me some useful advice. (അവൻ എനിക്ക് ചില നല്ല ഉപദേശങ്ങൾ തന്നു — 'advices' എന്ന് പറയില്ല)\n3. All the equipment was checked. (എല്ലാ ഉപകരണങ്ങളും പരിശോധിച്ചു — 'was' singular ആണ്)\n• ഓർക്കുക: മലയാളത്തിൽ ബഹുവചനം പറഞ്ഞാലും ഇംഗ്ലീഷിൽ ഈ വാക്കുകൾ എപ്പോഴും ഏകവചന രൂപത്തിൽ തന്നെ നിൽക്കും.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) furnitures — uncountable noun-ന് '-s' ചേർക്കാനാകില്ല; ഇംഗ്ലീഷിൽ ഇങ്ങനെയൊരു രൂപമില്ല.\n• 🪤 PSC Trap: 'all their' കണ്ടാൽ plural വേണമെന്ന് തോന്നിപ്പിക്കാനാണ് 'furnitures' വെച്ചിരിക്കുന്നത്.\n• (C) furnishing — വീട്ടിലെ കർട്ടൻ, കാർപെറ്റ് പോലുള്ള അലങ്കാര സാധനങ്ങളെ ഉദ്ദേശിക്കുമ്പോൾ 'furnishings' എന്ന് plural ആയാണ് സാധാരണ ഉപയോഗം; 'all their furnishing' ഇവിടെ ചേരില്ല.\n• (D) equipments — 'equipment' ഉം uncountable ആണ്; 'equipments' എന്നതും തെറ്റായ രൂപമാണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'FILE-A-N' — Furniture, Information, Luggage, Equipment, Advice, News — ഈ സംഘത്തിന് ഒരിക്കലും 'S' വാൽ ഇല്ല!\n• ഒരുമിച്ച് പഠിക്കേണ്ടവ: furniture, equipment, luggage, baggage, information, advice, scenery, machinery.\n• PSC strategy: options-ൽ '-s' ചേർത്ത uncountable noun കണ്ടാൽ അത് ആദ്യം തന്നെ ഒഴിവാക്കുക — ബാക്കിയുള്ളതിൽ നിന്ന് ശരിയുത്തരം എളുപ്പം കിട്ടും!"
+      }
+    },
+    {
+      "id": "101-2024-E-Q53",
+      "paperId": "101-2024-E",
+      "questionNumber": 53,
+      "topic": "Question Tags",
+      "questionText": "Choose the correct Question Tag to complete the sentence.\nPlease pass the rice, ——————?",
+      "optionA": "should you",
+      "optionB": "did you",
+      "optionC": "may you",
+      "optionD": "will you",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) will you\n• 'Please pass the rice' ഒരു imperative sentence ആണ് — ഒരു അഭ്യർഥന അല്ലെങ്കിൽ കല്പന.\n• Imperative-ന് ശേഷമുള്ള question tag സാധാരണയായി 'will you?' ആണ്.\n• 'ദയവായി ചോറ് ഒന്ന് എടുത്തുതരാമോ?' എന്ന വിനീതമായ അഭ്യർഥനയാണിത്.\n• 'Please' ചേർന്നതുകൊണ്ട് tag മാറില്ല — 'will you?' തന്നെ.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Imperative (കല്പന/അഭ്യർഥന) → will you? / won't you? | Let's → shall we?\n• സാധാരണ question tag-ൽ positive വാക്യത്തിന് negative tag വരും. എന്നാൽ imperative-ന് ഈ നിയമമല്ല — 'will you?' ആണ് ഏറ്റവും സുരക്ഷിതം.\n• Negative imperative (Don't ...) → എപ്പോഴും 'will you?' മാത്രം.\n• ⭐ PSC ആവർത്തനം: 'Let's go, shall we?', 'Shut the door, will you?', 'Don't be late, will you?' — PSC ഇവ മാറിമാറി ചോദിക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n1. Close the window, will you? (ജനൽ ഒന്ന് അടയ്ക്കാമോ?)\n2. Don't make a noise, will you? (ഒച്ചയുണ്ടാക്കരുതേ — negative ആണെങ്കിലും tag 'will you')\n3. Let's start the work, shall we? (നമുക്ക് ജോലി തുടങ്ങാം, അല്ലേ?)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) should you — 'should' ഒരു ഉപദേശമോ കടമയോ ആണ് കാണിക്കുന്നത്; അഭ്യർഥനയ്ക്ക് tag ആയി ഇത് ഉപയോഗിക്കാറില്ല.\n• (B) did you — ഇത് past tense tag ആണ്; വാക്യം ഇപ്പോഴത്തെ ഒരു അഭ്യർഥനയാണ്, ഭൂതകാലമല്ല.\n• 🪤 PSC Trap: 'did' കണ്ട് tense ഓർമിക്കാതെ ചിലർ തെരഞ്ഞെടുക്കും — വാക്യത്തിൽ ഒരു auxiliary-യും ഇല്ലാത്തതിനാൽ 'do/did' വേണമെന്ന് തെറ്റായി ചിന്തിക്കാൻ ഇടയാക്കുന്ന കെണി.\n• (C) may you — 'may' അനുവാദം ചോദിക്കാനാണ്; 'may you?' എന്ന tag ഇംഗ്ലീഷിൽ ഉപയോഗിക്കാറില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ആജ്ഞ കൊടുത്താൽ WILL ചോദിക്കും, കൂട്ടുകാരെ വിളിച്ചാൽ (Let's) SHALL ചോദിക്കും!'\n• ഒരുമിച്ച് പഠിക്കേണ്ട കുടുംബം: Imperative → will you? | Let's → shall we? | I am → aren't I? | Nobody/None → positive tag.\n• PSC strategy: വാക്യം verb-ൽ (Pass, Close, Open, Don't...) തുടങ്ങുന്നുവെങ്കിൽ കണ്ണുമടച്ച് 'will you?' തെരഞ്ഞെടുക്കാം — ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "101-2024-E-Q54",
+      "paperId": "101-2024-E",
+      "questionNumber": 54,
+      "topic": "Spelling",
+      "questionText": "The word that is correctly spelled is :",
+      "optionA": "Blasfemous",
+      "optionB": "Blasphemous",
+      "optionC": "Blasmefaous",
+      "optionD": "Blasephmous",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) Blasphemous\n• 'Blasphemous' എന്നാൽ ദൈവനിന്ദാപരമായ, പവിത്രമായതിനെ അപമാനിക്കുന്ന എന്നർഥം.\n• ഈ വാക്കിൽ 'f' ശബ്ദം എഴുതുന്നത് 'ph' ഉപയോഗിച്ചാണ് — ഗ്രീക്ക് ഉത്ഭവമുള്ള വാക്കുകളുടെ സ്വഭാവമാണിത്.\n• ഉത്ഭവം: ഗ്രീക്ക് 'blasphemein' (ദുഷിച്ച് സംസാരിക്കുക) — അതിൽ നിന്ന് blaspheme → blasphemy → blasphemous.\n• ശരിയായ ക്രമം: BLAS + PHEM + OUS.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: ഗ്രീക്ക് ഉത്ഭവമുള്ള വാക്കുകളിൽ 'f' ശബ്ദം = 'ph' (phone, photo, philosophy, blasphemy).\n• വാക്കിനെ ഭാഗങ്ങളായി മുറിച്ച് പഠിക്കുക: blas-phem-ous. മൂല വാക്ക് 'blaspheme' (ക്രിയ), നാമം 'blasphemy'.\n• ഇതേ 'ph' കുടുംബം: phrase, physics, pharmacy, emphasis, phenomenon, sphere, graph.\n• ⭐ PSC ആവർത്തനം: 'ph/f' മാറ്റിയെഴുതിയ option-കൾ PSC spelling ചോദ്യങ്ങളിൽ പതിവായി കാണാം.\n• Etymology hint: ഗ്രീക്ക് 'blas' (ദോഷം) + 'pheme' (സംസാരം) → 'ദോഷകരമായ സംസാരം'.\n• ഉദാഹരണ sentences:\n1. His blasphemous remarks angered the believers.\n2. Blasphemy is a crime in some countries.\n3. Do not blaspheme in a place of worship.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Blasfemous — ഉച്ചാരണം കേട്ട് 'f' എഴുതിയതാണ്; ഗ്രീക്ക് വാക്കിൽ 'ph' ആണ് വേണ്ടത്.\n• 🪤 PSC Trap: കേൾക്കുന്നതുപോലെ എഴുതുന്നവരെ വീഴ്ത്താനുള്ള ഏറ്റവും അപകടകാരിയായ option ഇതാണ് — ശബ്ദം ഒന്നുതന്നെ, spelling വ്യത്യസ്തം!\n• (C) Blasmefaous — അക്ഷരങ്ങൾ (m, e, f, a) ആകെ കുഴച്ചുമറിച്ച രൂപം; 'phem' എന്ന ഭാഗം തന്നെ ഇല്ല.\n• (D) Blasephmous — 'e' യും 'ph' ഉം സ്ഥാനം മാറിപ്പോയി; ശരിയായത് 'phem' ആണ്, 'ephm' അല്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'BLAS-PHEM-OUS — ഫോണിലെ (PHone) PH ആണ് ഇതിലും!' 📱 ദൈവനിന്ദ ഫോണിൽ പറഞ്ഞാലും 'PH' തന്നെ.\n• ഒരുമിച്ച് പഠിക്കേണ്ട കുടുംബം: blaspheme, blasphemy, blasphemous | phrase, emphasis, phenomenon, pharmacy.\n• PSC strategy: spelling ചോദ്യത്തിൽ വാക്കിനെ മൂന്ന് ഭാഗമായി മുറിച്ച് (blas-phem-ous) ഓരോ option-ഉം ഒത്തുനോക്കുക — guaranteed mark!"
+      }
+    },
+    {
+      "id": "101-2024-E-Q55",
+      "paperId": "101-2024-E",
+      "questionNumber": 55,
+      "topic": "Subject-Verb Agreement",
+      "questionText": "My friend and my brother —————— studying in my college.",
+      "optionA": "are",
+      "optionB": "will",
+      "optionC": "is",
+      "optionD": "may",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) are\n• 'My friend' ഉം 'my brother' ഉം രണ്ട് വ്യത്യസ്ത ആളുകളാണ് — 'and' കൊണ്ട് ചേർത്താൽ subject plural ആകും.\n• Plural subject-ന് plural verb 'are' വേണം.\n• 'studying' എന്ന -ing രൂപത്തിന് മുമ്പ് 'be' verb (is/are) വേണം — present continuous tense.\n• 'എന്റെ സുഹൃത്തും എന്റെ സഹോദരനും എന്റെ കോളേജിൽ പഠിക്കുന്നു' എന്നർഥം.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: A + and + B (രണ്ടുപേർ) = plural verb (are/were/have).\n• എന്നാൽ രണ്ടും ഒരാളെത്തന്നെ സൂചിപ്പിക്കുമ്പോൾ singular: 'My friend and guide is here' (ഒരാൾ തന്നെ സുഹൃത്തും വഴികാട്ടിയും). ഇവിടെ രണ്ടാമതും 'my' ചേർത്തിട്ടുള്ളതിനാൽ രണ്ടുപേർ ആണെന്ന് ഉറപ്പ്.\n• 'with, along with, as well as' കൊണ്ട് ചേർത്താൽ ആദ്യ subject അനുസരിച്ചാണ് verb.\n• ⭐ PSC ആവർത്തനം: 'and' കൊണ്ട് ചേർന്ന subject, 'as well as', 'either...or' — subject-verb agreement-ൽ PSC-യുടെ സ്ഥിരം ചോദ്യങ്ങൾ.\n• ഉദാഹരണ sentences:\n1. Ravi and Sita are good friends.\n2. The teacher and the students were present.\n3. My father and my uncle have arrived.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) will — 'will studying' എന്ന രൂപം വ്യാകരണപരമായി തെറ്റാണ്; will-ന് ശേഷം 'be studying' വേണം.\n• (C) is — singular verb ആണ്; രണ്ടുപേർ ചേർന്ന plural subject-ന് ഇത് ചേരില്ല.\n• 🪤 PSC Trap: blank-ന് തൊട്ടുമുമ്പ് 'my brother' (singular) ഉള്ളതുകൊണ്ട് 'is' ശരിയാണെന്ന് തോന്നിപ്പിക്കാനുള്ള കെണി — മുഴുവൻ subject നോക്കണം!\n• (D) may — 'may studying' എന്നതും തെറ്റ്; may-ന് ശേഷം verb-ന്റെ base form ('may study') വേണം.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ഒന്നും ഒന്നും ചേർന്നാൽ രണ്ട് — AND വന്നാൽ ARE!' (1 + 1 = 2 → plural)\n• ഒരുമിച്ച് പഠിക്കേണ്ട നിയമങ്ങൾ: and → plural | as well as / with → ആദ്യ subject | either...or / neither...nor → അടുത്തുള്ള subject.\n• PSC strategy: blank-ന് തൊട്ടടുത്തുള്ള വാക്ക് മാത്രം നോക്കരുത്; verb-ന് മുമ്പുള്ള മുഴുവൻ subject-ഉം ഒരുമിച്ച് വായിക്കുക — ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "101-2024-E-Q56",
+      "paperId": "101-2024-E",
+      "questionNumber": 56,
+      "topic": "Tenses",
+      "questionText": "Next week we —————— our examinations.",
+      "optionA": "will had",
+      "optionB": "would had",
+      "optionC": "are having",
+      "optionD": "were having",
+      "correctAnswer": "C",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (C) are having\n• 'Next week' ഭാവികാലത്തെ സൂചിപ്പിക്കുന്നു. ഉറപ്പിച്ചു തീരുമാനിച്ച (fixed) ഭാവി പരിപാടികൾ പറയാൻ present continuous tense ഉപയോഗിക്കാം.\n• പരീക്ഷ ഒരു timetable അനുസരിച്ച് മുൻകൂട്ടി നിശ്ചയിച്ച കാര്യമായതിനാൽ 'are having' ഏറ്റവും ചേരുന്നു.\n• 'അടുത്തയാഴ്ച ഞങ്ങൾക്ക് പരീക്ഷയുണ്ട്' എന്നർഥം.\n• ബാക്കിയുള്ള options എല്ലാം വ്യാകരണപരമായി തെറ്റാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Fixed future plan = am/is/are + V-ing (+ future time word).\n• ഭാവി സൂചിപ്പിക്കുന്ന വാക്കുകൾ: tomorrow, next week, next month, tonight, this evening.\n• Modal (will/would) ന് ശേഷം എപ്പോഴും verb-ന്റെ base form (V1) മാത്രമേ വരൂ — will have ✓, will had ✗.\n• ⭐ PSC ആവർത്തനം: 'present continuous for future' ഉം 'modal + V1' നിയമവും PSC ഇടയ്ക്കിടെ ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. I am meeting the doctor tomorrow. (നാളെ ഡോക്ടറെ കാണാൻ നേരത്തെ തീരുമാനിച്ചിട്ടുണ്ട്)\n2. They are leaving for Delhi tonight. (ഇന്ന് രാത്രി ഡൽഹിക്ക് പോകാൻ ടിക്കറ്റ് എടുത്തുകഴിഞ്ഞു)\n3. She is getting married next month. (അടുത്ത മാസം അവളുടെ വിവാഹം ഉറപ്പിച്ചിരിക്കുന്നു)\n• ശ്രദ്ധിക്കുക: എല്ലാ ഉദാഹരണങ്ങളിലും പരിപാടി മുൻകൂട്ടി ഉറപ്പിച്ചതാണ് — അതുകൊണ്ടാണ് -ing രൂപം ഭാവിക്ക് ഉപയോഗിക്കുന്നത്.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) will had — 'will'-ന് ശേഷം past form 'had' വരാൻ പാടില്ല; 'will have' ആണ് ശരിയായ രൂപം.\n• 🪤 PSC Trap: 'will' കണ്ട് future ആണെന്ന് ഉറപ്പിച്ച് തിടുക്കത്തിൽ തെരഞ്ഞെടുക്കുന്നവരെ വീഴ്ത്താനാണ് ഈ option.\n• (B) would had — ഇതും തെറ്റ്; 'would' ന് ശേഷവും base form ('would have') വേണം.\n• (D) were having — past continuous ആണ്; 'next week' എന്ന ഭാവികാല വാക്കുമായി ഇത് ചേരില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ഡയറിയിൽ എഴുതിവെച്ച പരിപാടി = -ING!' 📅 (I am flying to Dubai tomorrow).\n• ഒരുമിച്ച് പഠിക്കേണ്ട ഭാവി രൂപങ്ങൾ: will + V1 | be going to + V1 | am/is/are + V-ing | Simple present (timetable: The train leaves at 6).\n• PSC strategy: modal-ന് ശേഷം 'had/was/went' പോലുള്ള past form കണ്ടാൽ അത് ഉടനെ വെട്ടുക; പിന്നെ time word-മായി ചേരുന്ന tense തിരഞ്ഞെടുക്കുക — guaranteed mark!"
+      }
+    },
+    {
+      "id": "101-2024-E-Q57",
+      "paperId": "101-2024-E",
+      "questionNumber": 57,
+      "topic": "Antonyms",
+      "questionText": "A suitable antonym for the word “Obnoxious” is:",
+      "optionA": "Unpalatable",
+      "optionB": "Pleasant",
+      "optionC": "Detestable",
+      "optionD": "Revolting",
+      "correctAnswer": "B",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (B) Pleasant\n• 'Obnoxious' എന്നാൽ അങ്ങേയറ്റം അരോചകമായ, വെറുപ്പുളവാക്കുന്ന, സഹിക്കാൻ പറ്റാത്ത എന്നർഥം.\n• അതിന്റെ വിപരീതം 'Pleasant' — സന്തോഷം നൽകുന്ന, ഇഷ്ടം തോന്നിക്കുന്ന.\n• ഉത്ഭവം: ലാറ്റിൻ 'obnoxius' — ദോഷത്തിന് വിധേയമായ (noxa = ദോഷം). 'noxious' (ദോഷകരമായ) എന്ന വാക്കുമായി ബന്ധമുണ്ട്.\n• ബാക്കിയുള്ള മൂന്ന് options-ഉം obnoxious-ന്റെ synonyms ആണ് — അതാണ് ഈ ചോദ്യത്തിന്റെ രഹസ്യം!",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Antonym = വിപരീത അർഥം. Options-ൽ ഒരേ അർഥമുള്ള മൂന്നെണ്ണം കണ്ടാൽ, ബാക്കിയുള്ള ഒറ്റയാനാണ് ഉത്തരം!\n• Obnoxious-ന്റെ synonyms: offensive, detestable, revolting, repulsive, nasty, unpleasant.\n• Obnoxious-ന്റെ antonyms: pleasant, agreeable, delightful, charming, likeable.\n• ⭐ PSC ആവർത്തനം: 'Obnoxious', 'noxious', 'odious' — ഈ വാക്കുകൾ synonym/antonym ചോദ്യങ്ങളിൽ PSC പതിവായി ചോദിക്കുന്നു.\n• Etymology hint: ലാറ്റിൻ 'noxa' (ദോഷം) → noxious, obnoxious, innocuous (ദോഷമില്ലാത്ത).\n• ഉദാഹരണ sentences:\n1. His obnoxious behaviour annoyed everyone. (അവന്റെ അരോചകമായ പെരുമാറ്റം എല്ലാവരെയും ശല്യപ്പെടുത്തി)\n2. We had a pleasant evening by the sea. (കടൽത്തീരത്ത് ഞങ്ങൾക്ക് സന്തോഷകരമായ ഒരു സന്ധ്യ കിട്ടി)\n3. The obnoxious smell made us leave the room. (അസഹ്യമായ ദുർഗന്ധം കാരണം ഞങ്ങൾ മുറി വിട്ടു)",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Unpalatable — രുചിക്കാത്ത, അംഗീകരിക്കാൻ പ്രയാസമുള്ള എന്നർഥം; obnoxious-നോട് സമാനമായ അർഥം — antonym അല്ല.\n• (C) Detestable — വെറുക്കപ്പെടേണ്ട എന്നർഥം; ഇത് synonym ആണ്.\n• (D) Revolting — അറപ്പുളവാക്കുന്ന എന്നർഥം; ഇതും synonym തന്നെ.\n• 🪤 PSC Trap: antonym ചോദിക്കുമ്പോൾ synonyms-ന്റെ ഒരു കൂട്ടം വെച്ച്, 'ഇത് ഈ വാക്കുമായി ബന്ധമുള്ളതാണല്ലോ' എന്ന് തോന്നിപ്പിച്ച് തെറ്റിക്കുന്നതാണ് PSC-യുടെ പ്രിയപ്പെട്ട കെണി.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'OB-NOX-ious = ഓക്കാനം വരുത്തുന്ന NOX!' 🤢 — noxious gas പോലെ അസഹ്യമായത്; വിപരീതം Pleasant 😊.\n• ഒരുമിച്ച് പഠിക്കേണ്ട കുടുംബം: noxious (ദോഷകരം), obnoxious (അരോചകം), innocuous (നിരുപദ്രവം), odious (വെറുക്കപ്പെട്ട).\n• PSC strategy: antonym ചോദ്യത്തിൽ ആദ്യം options-നെ 'നല്ലത്/ചീത്ത' എന്ന് രണ്ടായി തരംതിരിക്കുക — ചോദ്യവാക്കിന്റെ എതിർ ഗ്രൂപ്പിലുള്ളതാണ് ഉത്തരം. ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "101-2024-E-Q58",
+      "paperId": "101-2024-E",
+      "questionNumber": 58,
+      "topic": "Prepositions",
+      "questionText": "She divided the money —————— her two children.",
+      "optionA": "between",
+      "optionB": "among",
+      "optionC": "amongst",
+      "optionD": "besides",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) between\n• 'her two children' — രണ്ടുപേർ മാത്രം. രണ്ടുപേർക്കിടയിൽ വിഭജിക്കുമ്പോൾ 'between' ഉപയോഗിക്കണം.\n• 'അവൾ പണം തന്റെ രണ്ട് മക്കൾക്കിടയിൽ വീതിച്ചു' എന്നർഥം.\n• 'two' എന്ന വാക്കാണ് ഇവിടെ ഏറ്റവും വലിയ സൂചന (clue).\n• 'divide between' എന്നത് ഇംഗ്ലീഷിലെ ഒരു സാധാരണ ഉപയോഗവുമാണ്.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: രണ്ട് → BETWEEN | രണ്ടിലധികം → AMONG/AMONGST.\n• Between — രണ്ടുപേർക്കോ രണ്ട് വസ്തുക്കൾക്കോ ഇടയിൽ (between you and me).\n• Among / Amongst — മൂന്നോ അതിലധികമോ ആളുകൾക്കിടയിൽ, ഒരു കൂട്ടത്തിനിടയിൽ. 'Amongst' പഴയ/ഔപചാരിക രൂപമാണ്, അർഥം ഒന്നുതന്നെ.\n• ⭐ PSC ആവർത്തനം: between/among എന്നത് prepositions-ൽ PSC ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന ജോഡികളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. The property was divided between the two brothers.\n2. The sweets were distributed among the students.\n3. There is a secret between you and me.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) among — മൂന്നോ അതിലധികമോ ആളുകൾക്ക് മാത്രം; ഇവിടെ രണ്ട് മക്കളേ ഉള്ളൂ.\n• (C) amongst — 'among' ന്റെ തന്നെ മറ്റൊരു രൂപം; അതുകൊണ്ട് ഇതും രണ്ടുപേർക്ക് ചേരില്ല.\n• 🪤 PSC Trap: 'divide' കേട്ടാൽ പലർക്ക് 'among' ആണ് ആദ്യം മനസ്സിൽ വരുന്നത് — 'two' എന്ന വാക്ക് ശ്രദ്ധിക്കാത്തവരെ വീഴ്ത്താനുള്ള കെണി.\n• (D) besides — 'കൂടാതെ, പുറമേ' എന്നർഥം (Besides English, he knows Hindi); വിഭജനവുമായി ഒരു ബന്ധവുമില്ല.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'BeTWeen-ൽ TWo ഉണ്ട്!' — between എന്ന വാക്കിനുള്ളിൽ തന്നെ 'tw' (two) ഒളിച്ചിരിക്കുന്നു. 👫\n• ഒരുമിച്ച് പഠിക്കേണ്ടവ: between/among | beside (അരികിൽ) / besides (കൂടാതെ) | in/into | since/for.\n• PSC strategy: blank-ന് ശേഷം എണ്ണം (two, both, three, all) നോക്കുക — രണ്ടാണെങ്കിൽ between, കൂട്ടമാണെങ്കിൽ among. Guaranteed mark!"
+      }
+    },
+    {
+      "id": "101-2024-E-Q59",
+      "paperId": "101-2024-E",
+      "questionNumber": 59,
+      "topic": "Active and Passive Voice",
+      "questionText": "Which is the most appropriate passive form of the sentence, “Nobody invited me”?",
+      "optionA": "Nobody has invited me",
+      "optionB": "Nobody was invited by me",
+      "optionC": "I was not invited by nobody",
+      "optionD": "I was not invited by anybody",
+      "correctAnswer": "D",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (D) I was not invited by anybody\n• Active വാക്യത്തിലെ object 'me' passive-ൽ subject 'I' ആയി മാറുന്നു.\n• 'invited' simple past ആയതിനാൽ passive-ൽ 'was + invited' (was + V3) വരുന്നു.\n• 'Nobody' passive-ൽ 'not ... by anybody' ആയി മാറുന്നു — negative അർഥം 'not' വഴി വാക്യത്തിൽ നിലനിർത്തുന്നു.\n• 'ആരും എന്നെ ക്ഷണിച്ചില്ല' എന്ന അർഥം അതേപടി നിലനിൽക്കുന്നു.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Nobody / No one + V → ... not + passive verb + by anybody.\n• Active tense = Passive tense എപ്പോഴും! Simple past (invited) → was/were + V3.\n• Object subject ആകുമ്പോൾ pronoun രൂപം മാറും: me → I, him → he, them → they, us → we.\n• ഇംഗ്ലീഷിൽ double negative (not + nobody) പാടില്ല — ഒരു negative മാത്രം മതി.\n• ⭐ PSC ആവർത്തനം: 'Nobody/No one' ഉള്ള passive ചോദ്യങ്ങൾ PSC വീണ്ടും വീണ്ടും ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. No one helped him. → He was not helped by anyone. (ആരും അവനെ സഹായിച്ചില്ല)\n2. Nobody saw the thief. → The thief was not seen by anybody. (കള്ളനെ ആരും കണ്ടില്ല)\n3. Nobody has broken the glass. → The glass has not been broken by anybody. (ഗ്ലാസ് ആരും പൊട്ടിച്ചിട്ടില്ല — present perfect അതേപടി നിലനിൽക്കുന്നു)\n• ഓർക്കുക: passive-ലേക്ക് മാറ്റുമ്പോൾ അർഥവും tense-ഉം ഒരിക്കലും മാറരുത്; വാക്യഘടന മാത്രമേ മാറാവൂ.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Nobody has invited me — ഇത് passive അല്ല, active തന്നെ; tense-ഉം present perfect ആയി മാറിപ്പോയി.\n• (B) Nobody was invited by me — അർഥം പൂർണമായും തിരിഞ്ഞുപോയി: 'ഞാൻ ആരെയും ക്ഷണിച്ചില്ല' എന്നായി.\n• (C) I was not invited by nobody — 'not' ഉം 'nobody' ഉം ഒരുമിച്ച് = double negative; ഇംഗ്ലീഷിൽ ഇത് തെറ്റാണ്.\n• 🪤 PSC Trap: 'Nobody' അതേപടി നിലനിർത്തിയാൽ മതിയെന്ന് കരുതുന്നവരെ വീഴ്ത്താനാണ് option (C) — നിർമിതി ശരിപോലെ തോന്നും, പക്ഷേ double negative ആണ്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'NOBODY passive-ലേക്ക് വരുമ്പോൾ രണ്ടായി പിളരും — NOT + ANYBODY!' ✂️\n• ഒരുമിച്ച് പഠിക്കേണ്ട കുടുംബം: Nobody → not ... by anybody | No one → not ... by anyone | Never → never + passive.\n• PSC strategy: passive ചോദ്യത്തിൽ ആദ്യം tense ഒത്തുനോക്കുക (past → was/were), പിന്നെ double negative ഉള്ള option വെട്ടുക — ഒരിക്കലും miss ആകില്ല!"
+      }
+    },
+    {
+      "id": "101-2024-E-Q60",
+      "paperId": "101-2024-E",
+      "questionNumber": 60,
+      "topic": "Foreign Words and Phrases",
+      "questionText": "The most suitable meaning of the word “Carte Blanche” is :",
+      "optionA": "Unlimited authority",
+      "optionB": "Restricted access",
+      "optionC": "Existing condition",
+      "optionD": "Established fact",
+      "correctAnswer": "A",
+      "explanation": {
+        "correct": "✅ ശരിയുത്തരം: (A) Unlimited authority\n• 'Carte Blanche' ഒരു ഫ്രഞ്ച് പ്രയോഗമാണ് — അക്ഷരാർഥം 'ശൂന്യമായ കടലാസ്' (carte = card/paper, blanche = white).\n• ഒരു ഒപ്പിട്ട ശൂന്യ കടലാസ് കൊടുത്ത്, 'ഇഷ്ടമുള്ളതെന്തും എഴുതിക്കോളൂ' എന്ന് പറയുന്നതുപോലെ — പൂർണ സ്വാതന്ത്ര്യം, പരിധിയില്ലാത്ത അധികാരം.\n• 'The manager was given carte blanche to hire staff' — ഇഷ്ടം പോലെ ജീവനക്കാരെ നിയമിക്കാൻ പൂർണ അധികാരം കിട്ടി എന്നർഥം.\n• ഉച്ചാരണം: 'കാർട്ട് ബ്ലാൻഷ്'.",
+        "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Carte Blanche = blank paper = full freedom / unlimited authority.\n• ഇംഗ്ലീഷിൽ അതേപടി ഉപയോഗിക്കുന്ന വിദേശ പ്രയോഗങ്ങളുടെ അർഥം PSC നേരിട്ട് ചോദിക്കാറുണ്ട്.\n• ഇതേ കുടുംബം: status quo (നിലവിലെ അവസ്ഥ), fait accompli (ഇനി മാറ്റാനാകാത്ത, നടന്നുകഴിഞ്ഞ കാര്യം), bona fide (യഥാർഥമായ), ad hoc (താൽക്കാലികമായ), vice versa (തിരിച്ചും).\n• ⭐ PSC ആവർത്തനം: carte blanche, status quo, fait accompli, bona fide — PSC-യുടെ സ്ഥിരം വിദേശ പ്രയോഗങ്ങൾ.\n• Etymology hint: ഫ്രഞ്ച് 'carte' (കാർഡ്) + 'blanche' (വെള്ള) — 'blank' എന്ന ഇംഗ്ലീഷ് വാക്കും ഇതേ കുടുംബത്തിൽ നിന്നാണ്.\n• ഉദാഹരണ sentences:\n1. The committee gave him carte blanche to plan the event.\n2. Parents should not give children carte blanche with money.\n3. The new CEO was given carte blanche to reorganise the company.",
+        "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) Restricted access — 'പരിമിതമായ പ്രവേശനം'; carte blanche-ന്റെ നേരെ വിപരീതമായ അർഥം.\n• 🪤 PSC Trap: വിപരീത അർഥം തന്നെ option ആയി വെച്ച് കുഴപ്പിക്കുന്നതാണ് PSC രീതി.\n• (C) Existing condition — 'നിലവിലുള്ള അവസ്ഥ'; ഇത് 'status quo' എന്ന ലാറ്റിൻ പ്രയോഗത്തിന്റെ അർഥമാണ്.\n• (D) Established fact — 'സ്ഥാപിതമായ, നടന്നുകഴിഞ്ഞ വസ്തുത'; ഇത് 'fait accompli' എന്ന ഫ്രഞ്ച് പ്രയോഗത്തിന്റെ അർഥത്തോട് അടുത്താണ്.\n• മറ്റു വിദേശ പ്രയോഗങ്ങളുടെ അർഥങ്ങൾ ഇടകലർത്തി വെച്ചാണ് PSC ഈ ചോദ്യം ഒരുക്കിയിരിക്കുന്നത്.",
+        "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'CARTE BLANCHE = ഒപ്പിട്ട BLANK ചെക്ക്!' 📝 — തുക എത്രയും എഴുതാം, അതായത് പരിധിയില്ലാത്ത അധികാരം.\n• ഒരുമിച്ച് പഠിക്കേണ്ടവ: carte blanche (പൂർണ അധികാരം), status quo (നിലവിലെ അവസ്ഥ), fait accompli (നടന്നുകഴിഞ്ഞ കാര്യം), bona fide (യഥാർഥം), ad hoc (താൽക്കാലികം).\n• PSC strategy: വിദേശ പ്രയോഗത്തിന്റെ options-ൽ മറ്റു പ്രയോഗങ്ങളുടെ അർഥങ്ങൾ ഒളിഞ്ഞിരിക്കും — കുടുംബമായി പഠിച്ചാൽ ഓരോന്നും തിരിച്ചറിഞ്ഞ് വെട്ടാം. Guaranteed mark!"
+      }
+    }
+  ]
+}
