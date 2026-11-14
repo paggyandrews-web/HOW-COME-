@@ -4,7 +4,7 @@ import questions from '../data/questions.json'
 import SignupGate from '../components/SignupGate'
 import { useAuth } from '../contexts/AuthContext'
 import { useResults } from '../hooks/useResults'
-import { GRAMMAR_TOPICS, VOCABULARY_TOPICS, topicSlug } from '../data/topics'
+import { GRAMMAR_TOPICS, VOCABULARY_TOPICS, topicSlug, subtopicsOf } from '../data/topics'
 
 function TopicCard({ topic, count, practiced = 0 }) {
   const pct = count ? Math.round((practiced / count) * 100) : 0
@@ -22,7 +22,10 @@ function TopicCard({ topic, count, practiced = 0 }) {
       </div>
       <div>
         <div className="flex justify-between text-[11px] mb-1" style={{ color: 'var(--text2)' }}>
-          <span>{practiced}/{count} practiced</span>
+          <span>
+            {practiced}/{count} practiced
+            {subtopicsOf(topic.name).length > 0 && ` · ${subtopicsOf(topic.name).length} subtopics`}
+          </span>
           <span>{pct}%</span>
         </div>
         <div className="w-full rounded-full h-1.5" style={{ background: 'var(--bg2)' }}>

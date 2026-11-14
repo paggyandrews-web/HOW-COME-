@@ -17,6 +17,8 @@ import { useResults } from '../hooks/useResults'
  *   wholeSet   optional label for a "practice everything in order" button
  *   fullRounds true → no "questions per round" picker; a round is every
  *              question not yet attempted (used for whole papers)
+ *   footer     optional (outcomes) => node, shown below the actions — used by
+ *              topic pages to list their subtopics. outcomes is null while loading.
  */
 
 export const PAPER_BY_ID = Object.fromEntries(papers.map(p => [p.id, p]))
@@ -31,7 +33,7 @@ export function paperTime(paperId) {
 
 const COUNT_OPTIONS = [10, 20, 50]
 
-export default function PracticeSet({ pool, title, subtitle, backTo, backLabel, exitLabel, wholeSet, fullRounds = false }) {
+export default function PracticeSet({ pool, title, subtitle, backTo, backLabel, exitLabel, wholeSet, fullRounds = false, footer }) {
   const { user } = useAuth()
   const { getAllResults, getLastOutcomes } = useResults()
 
@@ -230,6 +232,8 @@ export default function PracticeSet({ pool, title, subtitle, backTo, backLabel, 
         )}
 
       </div>
+
+      {footer && footer(outcomes)}
     </div>
   )
 }

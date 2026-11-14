@@ -3,27 +3,38 @@ import { Link, useParams } from 'react-router-dom'
 import questions from '../data/questions.json'
 import SignupGate from '../components/SignupGate'
 import PracticeSet, { paperTime } from '../components/PracticeSet'
+import SubtopicList from '../components/SubtopicList'
 import { useAuth } from '../contexts/AuthContext'
-import { topicFromSlug, isDeletedByPsc } from '../data/topics'
+import { topicFromSlug, subtopicsOf, subtopicFromSlug, isDeletedByPsc } from '../data/topics'
 
 export default function TopicDetail() {
-  const { slug } = useParams()
+  const { slug, sub } = useParams()
   const topic = topicFromSlug(slug)
+  const subtopic = topic && sub ? subtopicFromSlug(topic.name, sub) : null
   const { user } = useAuth()
 
   // Every usable question in this topic, newest exam first.
-  const pool = useMemo(() => {
+  const topicPool = useMemo(() => {
     if (!topic) return []
     return questions
       .filter(q => q.topic === topic.name && !isDeletedByPsc(q))
       .sort((a, b) => paperTime(b.paperId) - paperTime(a.paperId) || (a.questionNumber || 0) - (b.questionNumber || 0))
   }, [topic])
 
-  if (!topic) {
+  const pool = useMemo(
+    () => (subtopic ? topicPool.filter(q => q.subtopic === subtopic) : topicPool),
+    [topicPool, subtopic]
+  )
+
+  if (!topic || (sub && !subtopic)) {
     return (
       <div className="max-w-2xl mx-auto px-4 py-12 text-center">
-        <p className="text-sm mb-3" style={{ color: 'var(--text2)' }}>This topic doesn't exist.</p>
-        <Link to="/topics" style={{ color: 'var(--accent)' }}>See all topics</Link>
+        <p className="text-sm mb-3" style={{ color: 'var(--text2)' }}>
+          {topic ? "This subtopic doesn't exist." : "This topic doesn't exist."}
+        </p>
+        <Link to={topic ? '/topics/' + slug : '/topics'} style={{ color: 'var(--accent)' }}>
+          {topic ? `See all of ${topic.name}` : 'See all topics'}
+        </Link>
       </div>
     )
   }
@@ -37,8 +48,32 @@ export default function TopicDetail() {
     )
   }
 
+  if (subtopic) {
+    return (
+      <PracticeSet
+        key={sub}
+        pool={pool}
+        backTo={'/topics/' + slug}
+        backLabel={topic.name}
+        exitLabel={`Back to ${subtopic}`}
+        title={
+          <>
+            <p className="text-xs font-semibold uppercase tracking-wide mb-1 flex items-center gap-1.5" style={{ color: 'var(--accent)' }}>
+              <span aria-hidden="true">{topic.emoji}</span>{topic.name}
+            </p>
+            <h1 className="display text-2xl">{subtopic}</h1>
+          </>
+        }
+        subtitle={`${pool.length} past PSC ${pool.length === 1 ? 'question' : 'questions'} in this subtopic`}
+      />
+    )
+  }
+
+  const subs = subtopicsOf(topic.name)
+
   return (
     <PracticeSet
+      key="all"
       pool={pool}
       backTo="/topics"
       backLabel="All topics"
@@ -50,6 +85,7 @@ export default function TopicDetail() {
         </h1>
       }
       subtitle={`${pool.length} past PSC questions in this topic`}
+      footer={subs.length ? outcomes => <SubtopicList slug={slug} subs={subs} pool={pool} outcomes={outcomes} /> : undefined}
     />
   )
 }

@@ -198,6 +198,7 @@ function AnimatedRoutes() {
           <Route path="/quiz" element={<Quiz />} />
           <Route path="/topics" element={<Topics />} />
           <Route path="/topics/:slug" element={<TopicDetail />} />
+          <Route path="/topics/:slug/:sub" element={<TopicDetail />} />
           <Route path="/exams" element={<Exams />} />
           <Route path="/login" element={<Login />} />
           <Route path="/register" element={<Register />} />
