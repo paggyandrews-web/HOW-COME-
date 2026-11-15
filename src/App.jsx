@@ -5,6 +5,7 @@ import { ThemeProvider } from './contexts/ThemeContext'
 import { AuthProvider } from './contexts/AuthContext'
 import Navbar from './components/Navbar'
 import BottomNav from './components/BottomNav'
+import UpdateBanner from './components/UpdateBanner'
 import { tap } from './utils/haptics'
 import { listenForForegroundMessages } from './utils/notifications'
 
@@ -222,6 +223,7 @@ export default function App() {
           <div style={{ minHeight: '100vh', background: 'var(--bg)', color: 'var(--text)' }}>
             <HapticFeedback />
             <PushToast />
+            <UpdateBanner />
             <ScrollToTop />
             <Navbar />
             <div

@@ -1,5 +1,5 @@
 // HOW COME? Service Worker
-const CACHE_NAME = 'howcome-v2';
+const CACHE_NAME = 'howcome-v3';
 const STATIC_ASSETS = [
   '/',
   '/index.html',
@@ -35,13 +35,23 @@ self.addEventListener('fetch', event => {
   // Skip non-GET and cross-origin requests
   if (request.method !== 'GET' || url.origin !== self.location.origin) return;
 
+  // Update checks (UpdateBanner) must always reach the network
+  if (url.searchParams.has('__update_check')) return;
+
   // Network-first for HTML (always get fresh app shell)
   if (request.mode === 'navigate') {
     event.respondWith(
       fetch(request)
         .then(response => {
-          const clone = response.clone();
-          caches.open(CACHE_NAME).then(cache => cache.put(request, clone));
+          if (response.ok) {
+            const clone = response.clone();
+            const shell = response.clone();
+            caches.open(CACHE_NAME).then(cache => {
+              cache.put(request, clone);
+              // keep the offline fallback current, not the copy from install day
+              cache.put('/index.html', shell);
+            });
+          }
           return response;
         })
         .catch(() => caches.match('/index.html'))
