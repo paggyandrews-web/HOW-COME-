@@ -1,5 +1,5 @@
 import { useState, useMemo, useEffect } from 'react'
-import { useSearchParams, Link } from 'react-router-dom'
+import { useSearchParams, useLocation, Link } from 'react-router-dom'
 import questions from '../data/questions.json'
 import papers from '../data/papers.json'
 import modelQuestions from '../data/modelQuestions.json'
@@ -35,6 +35,13 @@ function liveMockBank() {
 }
 
 const RESULT_LIMIT = 60
+const SCROLL_KEY = 'search-scroll'
+
+// Remember where the user was in the results list before opening a question,
+// so coming back lands on the same spot instead of the top of the page.
+function rememberScroll(searchKey) {
+  try { sessionStorage.setItem(SCROLL_KEY, JSON.stringify({ key: searchKey, y: window.scrollY })) } catch { /* ignore */ }
+}
 
 function matches(question, q) {
   return (
@@ -69,6 +76,7 @@ function highlight(text, query) {
 export default function Search() {
   const { user } = useAuth()
   const [params, setParams] = useSearchParams()
+  const location = useLocation()
   const [query, setQuery] = useState(params.get('q') || '')
   const [inputValue, setInputValue] = useState(params.get('q') || '')
 
@@ -88,8 +96,13 @@ export default function Search() {
   }
 
   const mockBank = useMemo(() => liveMockBank(), [])
-  const [source, setSource] = useState('all') // 'all' | 'psc' | 'mock'
-  useEffect(() => { setSource('all') }, [query])
+  // Filter lives in the URL (?src=psc|mock) so it survives going to an
+  // explanation and coming back.
+  const source = ['psc', 'mock'].includes(params.get('src')) ? params.get('src') : 'all'
+  function setSource(next) {
+    const q = params.get('q') || ''
+    setParams(next === 'all' ? { q } : { q, src: next }, { replace: true })
+  }
 
   const hits = useMemo(() => {
     const q = query.trim().toLowerCase()
@@ -120,6 +133,17 @@ export default function Search() {
 
   const isSearching = query.trim().length >= 2
   const hasResults = results.length > 0
+
+  // Restore the scroll position saved when a result was opened.
+  useEffect(() => {
+    if (!hasResults) return
+    let saved = null
+    try { saved = JSON.parse(sessionStorage.getItem(SCROLL_KEY) || 'null') } catch { /* ignore */ }
+    if (!saved || saved.key !== location.search) return
+    sessionStorage.removeItem(SCROLL_KEY)
+    const id = setTimeout(() => window.scrollTo(0, saved.y), 80)
+    return () => clearTimeout(id)
+  }, [hasResults, location.search])
 
   if (!user) {
     return (
@@ -312,6 +336,8 @@ export default function Search() {
               <div className="flex gap-2 flex-wrap">
                 <Link
                   to={`/quiz?questionId=${q.id}`}
+                  state={{ fromSearch: location.search }}
+                  onClick={() => rememberScroll(location.search)}
                   className="text-xs px-3 py-1.5 rounded-lg font-semibold"
                   style={{ background: 'var(--accent)', color: 'var(--accent-text)', touchAction: 'manipulation' }}
                 >
@@ -320,6 +346,7 @@ export default function Search() {
                 {mock ? (
                 <Link
                   to={`/mock?paper=${q.paperId}`}
+                  onClick={() => rememberScroll(location.search)}
                   className="text-xs px-3 py-1.5 rounded-lg font-medium"
                   style={{
                     background: 'var(--bg2)',
@@ -333,6 +360,8 @@ export default function Search() {
                 ) : (
                 <Link
                   to={`/quiz?paper=${q.paperId}&mode=browse`}
+                  state={{ fromSearch: location.search }}
+                  onClick={() => rememberScroll(location.search)}
                   className="text-xs px-3 py-1.5 rounded-lg font-medium"
                   style={{
                     background: 'var(--bg2)',

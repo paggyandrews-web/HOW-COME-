@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo } from 'react'
-import { useSearchParams, Link } from 'react-router-dom'
+import { useSearchParams, useLocation, useNavigate, Link } from 'react-router-dom'
 import SignupGate from '../components/SignupGate'
 import questions from '../data/questions.json'
 import papers from '../data/papers.json'
@@ -928,6 +928,17 @@ export default function Quiz({ preset = null, onExit = null, exitLabel = 'New Qu
   const { updateStreak } = useStreak()
   const { user } = useAuth()
   const [searchParams] = useSearchParams()
+  const location = useLocation()
+  const navigate = useNavigate()
+  // Set when the user arrived here from a Search result card.
+  const fromSearch = typeof location.state?.fromSearch === 'string' ? location.state.fromSearch : null
+
+  function backToSearch() {
+    // Prefer a real history step back so the results page comes back exactly
+    // as it was; fall back to rebuilding the URL if there's no history entry.
+    if ((window.history.state?.idx ?? 0) > 0) navigate(-1)
+    else navigate(`/search${fromSearch || ''}`)
+  }
 
   const needsSignup = !user
 
@@ -1085,7 +1096,24 @@ export default function Quiz({ preset = null, onExit = null, exitLabel = 'New Qu
     )
   }
 
-  if (quizState === 'setup') return preset ? null : <QuizSetup onStart={handleStart} needsSignup={needsSignup} />
+  const backToSearchBtn = fromSearch !== null && (
+    <button onClick={backToSearch}
+      className="mb-3 text-sm font-semibold px-3 py-1.5 rounded-lg"
+      style={{ color: 'var(--accent)', border: '1px solid var(--border)', background: 'var(--surface)', touchAction: 'manipulation' }}>
+      ← Back to search results
+    </button>
+  )
+
+  if (quizState === 'setup') {
+    if (preset) return null
+    if (fromSearch === null) return <QuizSetup onStart={handleStart} needsSignup={needsSignup} />
+    return (
+      <>
+        <div className="max-w-2xl mx-auto px-4 pt-6">{backToSearchBtn}</div>
+        <QuizSetup onStart={handleStart} needsSignup={needsSignup} />
+      </>
+    )
+  }
 
   if (quizState === 'result') {
     return (
@@ -1114,6 +1142,7 @@ export default function Quiz({ preset = null, onExit = null, exitLabel = 'New Qu
   return (
     <div className="max-w-2xl mx-auto px-4 py-6">
       <Confetti active={showConfetti} variant="answer" />
+      {backToSearchBtn}
       {/* Header */}
       <div className="flex items-center justify-between gap-2 mb-3 text-sm sticky top-14 z-10 rounded-lg px-3 py-2 flex-wrap"
         style={{ background: 'var(--surface)', border: '1px solid var(--border)' }}>

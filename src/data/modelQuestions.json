@@ -22128,5 +22128,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) dissapointment\n• 'dis'-ൽ ഇരട്ട 's', 'appoint'-ൽ ഒറ്റ 'p' — രണ്ടും തിരിഞ്ഞുപോയി.\n• 🪤 PSC Trap: dissatisfy പോലുള്ള വാക്കുകളുടെ ഇരട്ട 's' ഓർമ്മ വരുത്തൽ — ഏറ്റവും സാധാരണ തെറ്റ്!\n\n(C) disapointment\n• 'appoint'-ലെ ഇരട്ട 'p' ഒറ്റയാക്കി — തെറ്റ്.\n• 🪤 PSC Trap: ഉച്ചാരണത്തിൽ ഒരു 'p' മാത്രം കേൾക്കുന്നതിനാൽ.\n\n(D) dissappointment\n• 'dis'-ൽ അനാവശ്യമായ ഇരട്ട 's' — 'appoint' 's'-ൽ തുടങ്ങുന്നില്ലല്ലോ.\n• 🪤 PSC Trap: ഇരട്ട അക്ഷരങ്ങൾ എല്ലായിടത്തും ഇട്ടാൽ സുരക്ഷിതമാണെന്ന തോന്നൽ.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"DIS + APPOINTMENT — ഡോക്ടറുടെ APPOINTMENT കിട്ടാതെ വന്നാൽ DISAPPOINTMENT!\" — appointment-ന്റെ spelling അതേപടി, മുന്നിൽ 'dis' മാത്രം.\n• Prefix spelling family: dis + appear = disappear, dis + satisfy = dissatisfy, mis + spell = misspell, un + necessary = unnecessary.\n• PSC exam strategy: വാക്കിനെ prefix + root ആയി മുറിക്കുക; root word-ന്റെ spelling അറിയാമെങ്കിൽ ഉത്തരം ഉറപ്പ്."
     }
+  },
+  {
+    "id": "HC-DAILY-2026-12-01-Q1",
+    "paperId": "HC-DAILY-2026-12-01",
+    "questionNumber": 1,
+    "topic": "Active and Passive Voice",
+    "difficulty": "medium",
+    "questionText": "Change into Passive voice.\nThe villagers looked after the injured eagle.",
+    "optionA": "The injured eagle was looked by the villagers.",
+    "optionB": "The injured eagle was looked after by the villagers.",
+    "optionC": "The injured eagle has been looked after by the villagers.",
+    "optionD": "The injured eagle was being looked after by the villagers.",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) The injured eagle was looked after by the villagers.\n\n• 'look after' എന്നത് ഒരു phrasal verb ആണ് — \"പരിചരിക്കുക, നോക്കിക്കൊള്ളുക\" എന്നർഥം. 'look' ഉം 'after' ഉം ചേർന്നാണ് ഈ അർഥം വരുന്നത്.\n• Active sentence simple past-ൽ ആണ് (looked). അതുകൊണ്ട് passive-ൽ was/were + V3 വേണം → 'was looked after'.\n• Passive ആക്കുമ്പോൾ 'after' ഒഴിവാക്കിയാൽ അർഥം തന്നെ മാറും — 'was looked' എന്നാൽ \"നോക്കപ്പെട്ടു\" മാത്രം, പരിചരിച്ചു എന്നല്ല.\n• അതുകൊണ്ട് preposition-ഉം ചേർത്ത് 'was looked after by the villagers' — ഇതാണ് ശരി.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Phrasal verb-ന്റെ passive = be + V3 + preposition + by + agent (preposition ഒരിക്കലും കളയരുത്!)\n• Active-ലെ tense തന്നെ passive-ലും വേണം — simple past ➜ was/were + V3.\n• ഇത്തരം verbs: look after, laugh at, take care of, send for, look into, run over, put off.\n• ⭐ PSC ആവർത്തനം: Passive voice-ൽ tense ചോദ്യങ്ങൾ പതിവായി വരുന്നു; phrasal verb passive ആണ് പുതിയ ട്രെൻഡ് trap.\n• ഉദാഹരണ sentences:\n  1. The children laughed at the clown. ➜ The clown was laughed at by the children.\n  2. The doctor sent for the nurse. ➜ The nurse was sent for by the doctor.\n  3. The police are looking into the matter. ➜ The matter is being looked into by the police.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) The injured eagle was looked by the villagers.\n• Tense ശരിയാണ്, പക്ഷേ 'after' കാണാനില്ല.\n• 'look after' ന്റെ അർഥം (പരിചരിക്കുക) ഇതോടെ നഷ്ടപ്പെടുന്നു.\n• 🪤 PSC Trap: Tense മാത്രം നോക്കി ഉത്തരം എഴുതുന്നവരെ പിടിക്കാൻ preposition മാത്രം ഒഴിവാക്കി.\n\n(C) The injured eagle has been looked after by the villagers.\n• ഇത് present perfect passive ആണ്.\n• Active simple past ആയതിനാൽ tense മാറ്റാൻ പാടില്ല.\n• 🪤 PSC Trap: 'after' ശരിയായി വന്നതുകൊണ്ട് ശരിയെന്ന് തോന്നും — tense ആണ് പ്രശ്നം.\n\n(D) The injured eagle was being looked after by the villagers.\n• ഇത് past continuous passive ആണ് (was being + V3).\n• Active 'was looking after' ആയിരുന്നെങ്കിൽ മാത്രമേ ഇത് ശരിയാകൂ.\n• 🪤 PSC Trap: 'was' കണ്ട് simple past ആണെന്ന് തെറ്റിദ്ധരിപ്പിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Verb-ന്റെ വാൽ (preposition) മുറിക്കരുത്!\" — look after-ലെ 'after' വാലാണ്; വാൽ ഇല്ലാതെ verb പൂർണ്ണമാവില്ല.\n• Rule family: laughed at ➜ was laughed at, looked into ➜ was looked into, ran over ➜ was run over.\n• PSC exam strategy: ആദ്യം tense ഉറപ്പാക്കുക (2 options ഒഴിവാകും), പിന്നെ preposition ഉണ്ടോ എന്ന് നോക്കുക — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-12-01-Q2",
+    "paperId": "HC-DAILY-2026-12-01",
+    "questionNumber": 2,
+    "topic": "Direct and Indirect Speech",
+    "difficulty": "easy",
+    "questionText": "Report the following sentence.\nArjun said to his grandmother, \"Good morning.\"",
+    "optionA": "Arjun said his grandmother good morning.",
+    "optionB": "Arjun told his grandmother that good morning.",
+    "optionC": "Arjun wished his grandmother good morning.",
+    "optionD": "Arjun wished to his grandmother that it was a good morning.",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Arjun wished his grandmother good morning.\n\n• \"Good morning\" ഒരു ആശംസ (greeting) ആണ് — ഒരു statement അല്ല.\n• ആശംസകൾ indirect speech-ലേക്ക് മാറ്റുമ്പോൾ 'said to' മാറ്റി 'wished' എന്ന reporting verb ഉപയോഗിക്കുന്നു.\n• 'wished' കഴിഞ്ഞ് നേരെ object (his grandmother) + greeting (good morning) — 'that' ഉം 'to' ഉം വേണ്ട.\n• അർജുൻ മുത്തശ്ശിക്ക് സുപ്രഭാതം ആശംസിച്ചു — ഇതാണ് അർഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Good morning / Good night / Happy birthday ➜ wished + object + greeting\n• Greeting-കൾക്ക് 'that' conjunction ചേർക്കില്ല.\n• Good-bye ആണെങ്കിൽ 'bade (him) good-bye' എന്നും പറയാം.\n• ഇതേ കുടുംബം: \"Thank you\" ➜ thanked, \"Congratulations\" ➜ congratulated, \"Sorry\" ➜ apologised.\n• ⭐ PSC ആവർത്തനം: Reporting verb മാറ്റം (wished, thanked, exclaimed, requested) PSC-ക്ക് പ്രിയപ്പെട്ട ചോദ്യമാണ്.\n• ഉദാഹരണ sentences:\n  1. She said to me, \"Good night.\" ➜ She wished me good night.\n  2. They said to Ravi, \"Happy birthday!\" ➜ They wished Ravi a happy birthday.\n  3. He said to us, \"Thank you.\" ➜ He thanked us.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) Arjun said his grandmother good morning.\n• 'said' ന് ശേഷം നേരിട്ട് person (object) വരില്ല — 'said to' വേണം.\n• Greeting-ന് 'said' തന്നെ ഉചിതമായ reporting verb അല്ല.\n• 🪤 PSC Trap: Direct speech-ലെ 'said to' യിൽ നിന്ന് 'to' മാത്രം മാറ്റി എളുപ്പ വഴി കാണിക്കുന്നു.\n\n(B) Arjun told his grandmother that good morning.\n• 'that' ന് ശേഷം ഒരു പൂർണ്ണ clause (subject + verb) വേണം; 'good morning' clause അല്ല.\n• 🪤 PSC Trap: Statement-ന്റെ നിയമം (told + that) greeting-ലും പ്രയോഗിക്കാൻ പ്രലോഭിപ്പിക്കുന്നു.\n\n(D) Arjun wished to his grandmother that it was a good morning.\n• Greeting report ചെയ്യുമ്പോൾ 'wished' കഴിഞ്ഞ് person-ന് മുൻപ് 'to' ചേർക്കില്ല — wished his grandmother, not wished to his grandmother. ('wished to learn' പോലെ verb-ന് മുൻപുള്ള 'to' വേറെ കാര്യമാണ്.)\n• \"അതൊരു നല്ല പ്രഭാതമാണെന്ന്\" എന്ന് അർഥവും മാറിപ്പോയി — ആശംസ ഒരു വിവരണമായി.\n• 🪤 PSC Trap: 'wished' കണ്ട് ഉടൻ tick ചെയ്യുന്നവരെ പിടിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"ആശംസയ്ക്ക് wish, നന്ദിക്ക് thank, ക്ഷമയ്ക്ക് apologise\" — വാക്ക് കേട്ടാൽ verb ഓർമ്മ വരണം.\n• Rule family: wished, bade, thanked, congratulated, greeted.\n• PSC exam strategy: Direct speech-ൽ Good morning / Thank you പോലുള്ള formula കണ്ടാൽ 'that' ഉള്ള options ആദ്യം വെട്ടുക — എളുപ്പം ഒഴിവാക്കാം."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-12-01-Q3",
+    "paperId": "HC-DAILY-2026-12-01",
+    "questionNumber": 3,
+    "topic": "Prepositions",
+    "difficulty": "medium",
+    "questionText": "Fill in the blank with the correct preposition.\nThe new clerk is not yet conversant ____________ the computerised filing system.",
+    "optionA": "to",
+    "optionB": "with",
+    "optionC": "on",
+    "optionD": "at",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) with\n\n• 'conversant' എന്നാൽ \"നല്ല പരിചയമുള്ള, നന്നായി അറിയാവുന്ന\" എന്നർഥം.\n• ഈ adjective-ന്റെ സ്ഥിര കൂട്ടുകാരൻ (fixed collocation) 'with' ആണ് — conversant with something.\n• പുതിയ ക്ലർക്കിന് കമ്പ്യൂട്ടർ ഫയലിംഗ് സംവിധാനവുമായി ഇതുവരെ പരിചയം വന്നിട്ടില്ല — ഇതാണ് വാക്യത്തിന്റെ അർഥം.\n• Etymology hint: Latin 'conversari' = \"ഒരാളുടെ കൂടെ ജീവിക്കുക/ഇടപഴകുക\" — കൂടെ = with!",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Familiar / Acquainted / Conversant ➜ WITH\n• ചില adjectives-ന് ഒരു നിശ്ചിത preposition മാത്രമേ ചേരൂ — ഇത് കാണാതെ പഠിക്കേണ്ടതാണ്.\n• 'familiar to' എന്നും ഉണ്ട് (The face is familiar to me), പക്ഷേ conversant-ന് ആ രൂപമില്ല. (ഭാഷകളുടെ കാര്യത്തിൽ 'conversant in French' എന്നും കാണാം — എന്നാൽ ഇവിടെ options-ൽ അതില്ല.)\n• ⭐ PSC ആവർത്തനം: Fixed preposition (collocation) ചോദ്യങ്ങൾ PSC paper-കളിൽ പതിവായി വരുന്നു.\n• ഉദാഹരണ sentences:\n  1. A good lawyer must be conversant with the latest judgements.\n  2. Are you familiar with this software?\n  3. She is well acquainted with the local customs.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) to\n• 'conversant to' എന്ന പ്രയോഗം English-ൽ ഇല്ല.\n• 🪤 PSC Trap: 'familiar to' പോലുള്ള പ്രയോഗങ്ങൾ ഓർത്ത് 'to' തിരഞ്ഞെടുക്കാൻ പ്രലോഭിപ്പിക്കുന്നു.\n\n(C) on\n• 'on' ഒരു വിഷയത്തെക്കുറിച്ച് പറയാൻ (a book on history) ആണ്; conversant-ന് ചേരില്ല.\n• 🪤 PSC Trap: \"ഫയലിംഗ് സംവിധാനത്തെക്കുറിച്ച്\" എന്ന Malayalam ചിന്തയിൽ 'on' ശരിയെന്ന് തോന്നും.\n\n(D) at\n• 'at' സ്ഥലത്തിനോ കഴിവിനോ (good at maths) ആണ്.\n• 🪤 PSC Trap: 'good at' ഓർമ്മ വന്ന് skill-ന് 'at' എന്ന് ചിന്തിക്കുന്നവർക്ക്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Con-VERSE-ant = കൂടെ സംസാരിക്കുന്നയാൾ\" — ആരുടെ കൂടെ? WITH!\n• Word family: conversant with, familiar with, acquainted with, at home with.\n• PSC exam strategy: Collocation ചോദ്യത്തിൽ Malayalam-ൽ translate ചെയ്ത് preposition ഊഹിക്കരുത് — adjective + preposition ജോഡികൾ list ആയി പഠിക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-12-01-Q4",
+    "paperId": "HC-DAILY-2026-12-01",
+    "questionNumber": 4,
+    "topic": "Correlatives",
+    "difficulty": "easy",
+    "questionText": "Choose the correct word to complete the correlative pair.\nThis year's paddy harvest was not so good ____________ last year's.",
+    "optionA": "than",
+    "optionB": "that",
+    "optionC": "as",
+    "optionD": "so",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) as\n\n• 'not so ... as' എന്നത് ഒരു correlative ജോഡിയാണ് — \"അത്രയും ... അല്ല\" എന്ന് താരതമ്യം ചെയ്യാൻ.\n• ഈ വർഷത്തെ നെല്ല് വിളവ് കഴിഞ്ഞ വർഷത്തെ അത്രയും നല്ലതായിരുന്നില്ല — ഇതാണ് അർഥം.\n• വാക്യത്തിൽ 'so good' ഉണ്ട് (positive degree); അതിന്റെ ജോഡി 'as' മാത്രമാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: as + adj + as (positive) | not so/as + adj + as (negative) | comparative (-er/more) + than\n• 'so ... as' സാധാരണയായി negative വാക്യങ്ങളിൽ മാത്രം — not so good as.\n• Degrees of comparison-ൽ 'than' വരണമെങ്കിൽ മുന്നിൽ comparative degree (better, taller, more beautiful) വേണം.\n• Correlative/idiom ആയി 'than' വരുന്നവ: No sooner ... than, rather than, other than.\n• ⭐ PSC ആവർത്തനം: as...as / so...as / than — Correlatives-ലും Degrees of Comparison-ലും ഒരുപോലെ വരുന്ന ചോദ്യം.\n• ഉദാഹരണ sentences:\n  1. Kochi is not so cold as Munnar.\n  2. My bag is as heavy as yours.\n  3. This road is not so busy as the highway.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) than\n• താരതമ്യത്തിൽ 'than' comparative degree-ന്റെ കൂടെയാണ് വരുന്നത് — 'not better than last year's'. (No sooner ... than പോലുള്ള ജോഡികൾ വേറെ.)\n• 'so good than' എന്നത് തെറ്റായ ഘടനയാണ്.\n• 🪤 PSC Trap: താരതമ്യം കണ്ടാൽ ഉടൻ 'than' എഴുതാനുള്ള ശീലത്തെ ലക്ഷ്യം വയ്ക്കുന്നു.\n\n(B) that\n• 'so ... that' ഫലം (result) പറയാനാണ് — 'so good that everyone was happy'.\n• ഇവിടെ ഫലമല്ല, താരതമ്യമാണ്; 'that' ന് ശേഷം ഒരു clause-ഉം ഇല്ല.\n• 🪤 PSC Trap: 'so ... that' എന്ന പരിചിത ജോഡി ഓർമ്മ വരുത്താൻ.\n\n(D) so\n• 'so good so' എന്ന ജോഡി English-ൽ ഇല്ല.\n• 🪤 PSC Trap: വാക്യത്തിലെ 'so' ആവർത്തിച്ച് കാണിച്ച് confuse ചെയ്യാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"AS-ന്റെ ഇരട്ട സഹോദരൻ AS; SO-യ്ക്ക് താരതമ്യത്തിൽ കൂട്ടും AS\" — so good AS, as good AS.\n• Rule family: as...as, not so...as, so...that, such...that, the more...the better.\n• PSC exam strategy: 'so + adjective' കഴിഞ്ഞ് താരതമ്യമാണെങ്കിൽ 'as'; ഫലം (ഒരു clause) വരുന്നുണ്ടെങ്കിൽ 'that'; adjective comparative (better) ആണെങ്കിൽ 'than'."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-12-01-Q5",
+    "paperId": "HC-DAILY-2026-12-01",
+    "questionNumber": 5,
+    "topic": "Auxiliary Verbs",
+    "difficulty": "easy",
+    "questionText": "Fill in the blank with the most suitable auxiliary.\n\"____________ you succeed in all your future endeavours!\" said the teacher to the outgoing students.",
+    "optionA": "Can",
+    "optionB": "Shall",
+    "optionC": "Will",
+    "optionD": "May",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) May\n\n• വാക്യത്തിന്റെ അവസാനം '!' ഉണ്ട് — ഇത് ഒരു ചോദ്യമല്ല, ഒരു ആശംസ/അനുഗ്രഹമാണ്.\n• ആശംസയോ പ്രാർഥനയോ പ്രകടിപ്പിക്കാൻ വാക്യത്തിന്റെ തുടക്കത്തിൽ 'May' ഉപയോഗിക്കുന്നു.\n• \"നിങ്ങളുടെ ഭാവി സംരംഭങ്ങളിലെല്ലാം നിങ്ങൾ വിജയിക്കട്ടെ!\" — ഇതാണ് teacher പറഞ്ഞത്.\n• ഇത്തരം വാക്യങ്ങളെ optative sentence എന്ന് വിളിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: May + subject + V1 + ! = ആശംസ / അനുഗ്രഹം (Optative)\n• 'May' ന് മൂന്ന് പ്രധാന ഉപയോഗങ്ങൾ: അനുവാദം (May I come in?), സാധ്യത (It may rain), ആശംസ (May God bless you!).\n• Modals-ൽ ആശംസയുടെ അർഥം നൽകുന്നത് 'May' മാത്രമാണ് — can/will/shall ഈ അർഥം നൽകില്ല.\n• ⭐ PSC ആവർത്തനം: Modal auxiliaries-ന്റെ ഉപയോഗവും Types of Sentences-ലെ optative-ഉം ചേർന്ന് വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. May God bless you!\n  2. May you have a happy married life!\n  3. May our country prosper!",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) Can\n• 'Can you succeed...' എന്നത് കഴിവിനെക്കുറിച്ചുള്ള ചോദ്യമാണ് — \"നിനക്ക് വിജയിക്കാൻ കഴിയുമോ?\"\n• ആശംസയുടെ '!' ഇതിന് ചേരില്ല.\n• 🪤 PSC Trap: Malayalam-ൽ \"വിജയിക്കാൻ കഴിയട്ടെ\" എന്ന് ചിന്തിച്ചാൽ 'can' ശരിയെന്ന് തോന്നും.\n\n(B) Shall\n• 'Shall you succeed...' ഭാവിയെക്കുറിച്ചുള്ള ചോദ്യരൂപം; ആശംസയല്ല.\n• 🪤 PSC Trap: Formal ആയി തോന്നുന്ന modal കൊടുത്ത് ആശയക്കുഴപ്പം ഉണ്ടാക്കുന്നു.\n\n(C) Will\n• 'Will you succeed...' വെറും ഭാവി ചോദ്യം — \"നീ വിജയിക്കുമോ?\"\n• 🪤 PSC Trap: 'future endeavours' എന്ന ഭാവി സൂചന കണ്ട് 'will' തിരഞ്ഞെടുക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"May = മംഗളം\" — രണ്ടും 'മ'യിൽ തുടങ്ങുന്നു; ആശംസ കണ്ടാൽ May!\n• Rule family: May (wish), Long live (wish), Would that... (wish), If only... (wish).\n• PSC exam strategy: Auxiliary options ഉള്ള ചോദ്യത്തിൽ blank വാക്യത്തിന്റെ തുടക്കത്തിലും അവസാനം '!' ഉം ആണെങ്കിൽ 'May' — ആശംസയാണോ എന്ന് ഒന്ന് ഉറപ്പാക്കിയാൽ മതി!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-12-01-Q6",
+    "paperId": "HC-DAILY-2026-12-01",
+    "questionNumber": 6,
+    "topic": "Idioms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the idiom in italics.\nAfter the argument over the parking space, Meera __gave her neighbour the cold shoulder__ for weeks.",
+    "optionA": "deliberately ignored her and treated her in an unfriendly way",
+    "optionB": "offered her help and sympathy",
+    "optionC": "served her a meal that had gone cold",
+    "optionD": "complained about her to the police",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) deliberately ignored her and treated her in an unfriendly way\n\n• 'give someone the cold shoulder' എന്നാൽ ഒരാളെ മനഃപൂർവ്വം അവഗണിക്കുക, തണുപ്പൻ മട്ടിൽ പെരുമാറുക എന്നർഥം.\n• പാർക്കിംഗ് സ്ഥലത്തെച്ചൊല്ലിയുള്ള വഴക്കിന് ശേഷം മീര ആഴ്ചകളോളം അയൽക്കാരിയോട് മിണ്ടാതെ, മുഖം തിരിച്ചു നടന്നു — ഇതാണ് സന്ദർഭം.\n• 'argument' എന്ന വാക്ക് തന്നെ ഒരു നെഗറ്റീവ് പെരുമാറ്റത്തിന്റെ സൂചന നൽകുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: cold shoulder = മനഃപൂർവ്വമായ അവഗണന (deliberate coldness)\n• Idioms-ന്റെ അർഥം വാക്കുകളുടെ നേർ അർഥത്തിൽ നിന്ന് വ്യത്യസ്തമാണ് — 'cold' എന്നാൽ ഇവിടെ താപനിലയല്ല, സ്നേഹമില്ലായ്മയാണ്.\n• ഇതേ കുടുംബം: turn a deaf ear (കേട്ടില്ലെന്ന് നടിക്കുക), give someone a wide berth (ഒഴിഞ്ഞുമാറുക).\n• ⭐ PSC ആവർത്തനം: Idioms PSC English section-ൽ പതിവായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. After the quarrel, Anu gave her classmate the cold shoulder.\n  2. The new employee was given the cold shoulder by his colleagues.\n  3. Don't give him the cold shoulder; he has already apologised.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) offered her help and sympathy\n• ഇത് idiom-ന്റെ നേർ വിപരീത അർഥമാണ് — സ്നേഹത്തോടെ സഹായിക്കുക.\n• 🪤 PSC Trap: വിപരീത അർഥം option ആയി നൽകുന്നത് PSC-യുടെ സ്ഥിരം രീതിയാണ്.\n\n(C) served her a meal that had gone cold\n• ഇത് 'cold' എന്ന വാക്കിന്റെ അക്ഷരാർഥം മാത്രം.\n• 🪤 PSC Trap: Idiom-നെ literal ആയി വായിക്കുന്നവരെ പിടിക്കാൻ.\n\n(D) complained about her to the police\n• സന്ദർഭത്തിൽ ഇതിന് ഒരു സൂചനയുമില്ല; idiom-ന് ഈ അർഥമില്ല.\n• 🪤 PSC Trap: 'argument' കണ്ട് ഗൗരവമുള്ള നടപടി ഊഹിക്കാൻ പ്രലോഭിപ്പിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: ഒരാൾക്ക് നേരെ \"തണുത്ത തോൾ\" തിരിച്ചു കാണിക്കുന്നത് ഒന്ന് മനസ്സിൽ കാണൂ — മുഖം കാണിക്കാതെ തിരിഞ്ഞു നിൽക്കുന്നു = അവഗണന!\n• Idiom family: cold shoulder, cold feet (അവസാന നിമിഷം പരിഭ്രമിച്ച് പിന്മാറുക), in cold blood (ക്രൂരമായി), cold war.\n• PSC exam strategy: Idiom ചോദ്യത്തിൽ literal അർഥം വരുന്ന option ആദ്യം ഒഴിവാക്കുക; പിന്നെ വാക്യത്തിന്റെ mood (positive/negative) നോക്കി തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-12-01-Q7",
+    "paperId": "HC-DAILY-2026-12-01",
+    "questionNumber": 7,
+    "topic": "Words Often Confused",
+    "difficulty": "medium",
+    "questionText": "Choose the correct word to fill in the blank.\nBeing a careful investor, Anil is ____________ to put all his savings into a single company.",
+    "optionA": "loathe",
+    "optionB": "loath",
+    "optionC": "lathe",
+    "optionD": "lath",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) loath\n\n• 'loath' (adjective) = \"മടിയുള്ള, താൽപര്യമില്ലാത്ത\" (unwilling) എന്നർഥം.\n• 'is ____ to put' — 'be' verb-ന് ശേഷം adjective-ഉം അതിന് ശേഷം 'to + V1' ഉം വരുന്ന ഘടന. 'loath to do something' ആണ് ശരിയായ പ്രയോഗം.\n• ശ്രദ്ധയുള്ള നിക്ഷേപകനായ അനിൽ തന്റെ സമ്പാദ്യം മുഴുവൻ ഒരു കമ്പനിയിൽ ഇടാൻ മടിക്കുന്നു — ഇതാണ് അർഥം.\n• ഉച്ചാരണം: loath (ലോത്ത്) — 'th' ശബ്ദം 'think' ലെപോലെ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: be + LOATH + to V1 (adjective, മടി) | LOATHE + object (verb, വെറുക്കുക)\n• loath ➜ adjective; loathe ➜ verb (I loathe cruelty = എനിക്ക് ക്രൂരത വെറുപ്പാണ്).\n• loathe-ന്റെ ഉച്ചാരണം 'ലോദ്' — 'th' ശബ്ദം 'this' ലെപോലെ; അവസാനത്തെ 'e' ആണ് verb-നെ തിരിച്ചറിയാനുള്ള അടയാളം.\n• ⭐ PSC ആവർത്തനം: Words Often Confused ജോഡികൾ (breath/breathe, cloth/clothe, loath/loathe) PSC-ക്ക് പ്രിയപ്പെട്ടതാണ്.\n• ഉദാഹരണ sentences:\n  1. The old man was loath to leave his ancestral home.\n  2. Most children loathe bitter medicine.\n  3. She was loath to admit her mistake.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) loathe\n• ഇതൊരു verb ആണ് — \"അതിയായി വെറുക്കുക\".\n• 'is loathe to put' എന്നത് വ്യാകരണപരമായി തെറ്റാണ്; 'is' ന് ശേഷം ഇവിടെ adjective വേണം.\n• 🪤 PSC Trap: അക്ഷരത്തിൽ ഒരു 'e' മാത്രം വ്യത്യാസം — ഏറ്റവും അപകടകരമായ distractor.\n\n(C) lathe\n• 'lathe' = ലെയ്ത്ത് യന്ത്രം (മരമോ ലോഹമോ കറക്കി രൂപപ്പെടുത്തുന്ന machine) — noun.\n• അർഥം തീരെ ചേരില്ല.\n• 🪤 PSC Trap: Spelling സാമ്യം ഉപയോഗിച്ച് വേഗത്തിൽ വായിക്കുന്നവരെ കുഴപ്പിക്കാൻ.\n\n(D) lath\n• 'lath' = ചുമരിലോ മേൽക്കൂരയിലോ ഉപയോഗിക്കുന്ന നേർത്ത മരപ്പട്ടിക — noun.\n• 🪤 PSC Trap: 'loath' നോട് ശബ്ദസാമ്യമുള്ള മറ്റൊരു വാക്ക്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"loathE-യിലെ E = Enemy (ശത്രു) — ശത്രുവിനെ വെറുക്കും (verb). E ഇല്ലാത്ത loath = മടി (adjective).\"\n• Word family (th / the ജോഡി): breath (n) – breathe (v), cloth (n) – clothe (v), bath (n) – bathe (v), loath (adj) – loathe (v).\n• PSC exam strategy: Blank-ന് മുൻപ് is/was/am ഉം ശേഷം 'to' ഉം ഉണ്ടെങ്കിൽ adjective രൂപം (loath) തിരഞ്ഞെടുക്കുക."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-12-01-Q8",
+    "paperId": "HC-DAILY-2026-12-01",
+    "questionNumber": 8,
+    "topic": "Word Formation",
+    "difficulty": "easy",
+    "questionText": "The feminine gender of 'colt' is ____________.",
+    "optionA": "heifer",
+    "optionB": "doe",
+    "optionC": "filly",
+    "optionD": "hen",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) filly\n\n• 'colt' = കുട്ടി ആൺകുതിര (young male horse).\n• അതിന്റെ feminine രൂപം 'filly' = കുട്ടി പെൺകുതിര (young female horse).\n• പ്രായമായ കുതിരകൾക്ക്: stallion (ആൺ) – mare (പെൺ). കുട്ടിക്കുതിരകൾക്ക്: colt (ആൺ) – filly (പെൺ).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Horse family — stallion ↔ mare (adult), colt ↔ filly (young), foal = ഏത് കുട്ടിക്കുതിരയും.\n• ചില നാമങ്ങൾക്ക് feminine രൂപം '-ess' ചേർത്തല്ല, തികച്ചും വ്യത്യസ്തമായ വാക്കാണ് (different word).\n• മറ്റ് ജോഡികൾ: bull – cow, ram – ewe, cock – hen, fox – vixen, gander – goose, drake – duck.\n• ⭐ PSC ആവർത്തനം: Animal gender (masculine/feminine) ചോദ്യങ്ങൾ PSC-യിൽ ഇടയ്ക്കിടെ വരുന്നു.\n• ഉദാഹരണ sentences:\n  1. The colt and the filly were grazing beside their mother.\n  2. The farmer sold the young filly at the fair.\n  3. A colt grows into a stallion, and a filly grows into a mare.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) heifer\n• 'heifer' = ഇതുവരെ പ്രസവിച്ചിട്ടില്ലാത്ത ഇളം പശു — കന്നുകാലി കുടുംബം.\n• 🪤 PSC Trap: ഇതും ഒരു 'young female' വാക്കാണ്, പക്ഷേ മൃഗം വേറെ.\n\n(B) doe\n• 'doe' = പെൺമാൻ / പെൺമുയൽ (ആൺ: buck/stag).\n• 🪤 PSC Trap: പരിചിതമായ feminine വാക്ക് കൊടുത്ത് ആശയക്കുഴപ്പം ഉണ്ടാക്കുന്നു.\n\n(D) hen\n• 'hen' = പിടക്കോഴി (ആൺ: cock).\n• 🪤 PSC Trap: ഏറ്റവും സാധാരണമായ feminine വാക്ക് — വേഗത്തിൽ tick ചെയ്യാൻ പ്രലോഭിപ്പിക്കുന്നു.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"Colt-ന്റെ Cute Filly\" — C & F കുട്ടിക്കുതിരകൾ; S & M (Stallion & Mare) മുതിർന്നവർ.\n• Word family: foal (കുട്ടി), colt, filly, stallion, mare, pony.\n• PSC exam strategy: Gender ചോദ്യത്തിൽ ആദ്യം മൃഗം ഏതാണെന്ന് ഉറപ്പിക്കുക; മറ്റ് മൃഗങ്ങളുടെ feminine വാക്കുകൾ ഉടൻ വെട്ടിക്കളയാം."
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-12-01-Q9",
+    "paperId": "HC-DAILY-2026-12-01",
+    "questionNumber": 9,
+    "topic": "Compound Words",
+    "difficulty": "easy",
+    "questionText": "Identify the compound word from the options given below.",
+    "optionA": "friendship",
+    "optionB": "earthquake",
+    "optionC": "dangerous",
+    "optionD": "enlarge",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) earthquake\n\n• 'earthquake' = earth (ഭൂമി) + quake (വിറയ്ക്കുക) — രണ്ട് സ്വതന്ത്ര വാക്കുകൾ ചേർന്ന് ഒരു പുതിയ വാക്ക് (ഭൂകമ്പം).\n• രണ്ട് ഭാഗങ്ങൾക്കും ഒറ്റയ്ക്ക് നിൽക്കുമ്പോഴും അർഥമുണ്ട് — ഇതാണ് compound word-ന്റെ അടയാളം.\n• മറ്റ് options-ൽ ഒരു വാക്കിനോട് prefix/suffix ചേർത്തിരിക്കുന്നു — അവ derived words ആണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Free word + Free word = Compound | Word + prefix/suffix = Derived\n• Compound words മൂന്ന് തരത്തിൽ എഴുതാം: closed (earthquake), hyphenated (mother-in-law), open (post office).\n• -ship, -ous, -ness, -ly, -ful പോലുള്ള suffixes-ഉം en-, un-, dis- പോലുള്ള prefixes-ഉം ഒറ്റയ്ക്ക് വാക്കുകളല്ല.\n• ⭐ PSC ആവർത്തനം: \"Which is a compound word?\" എന്ന ചോദ്യം പല രൂപത്തിൽ ആവർത്തിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. The earthquake damaged several buildings.\n  2. We waited at the bus stop near the railway station.\n  3. My brother-in-law works as a firefighter.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) friendship\n• friend + suffix '-ship' (അവസ്ഥ/ബന്ധം) — derived noun.\n• '-ship' ഒറ്റയ്ക്ക് ഇവിടെ 'കപ്പൽ' എന്ന അർഥത്തിലല്ല; ഇത് ഒരു suffix ആണ്.\n• 🪤 PSC Trap: 'ship' ഒരു സ്വതന്ത്ര വാക്കായി തോന്നിപ്പിച്ച് compound ആണെന്ന് തെറ്റിദ്ധരിപ്പിക്കുന്നു.\n\n(C) dangerous\n• danger + suffix '-ous' (adjective ഉണ്ടാക്കുന്നു) — derived adjective.\n• 🪤 PSC Trap: നീളമുള്ള വാക്ക് കണ്ട് രണ്ട് വാക്കുകൾ ചേർന്നതാണെന്ന് ഊഹിക്കാൻ.\n\n(D) enlarge\n• prefix 'en-' + large — derived verb (\"വലുതാക്കുക\").\n• 🪤 PSC Trap: 'large' എന്ന സ്വതന്ത്ര വാക്ക് ഉള്ളതുകൊണ്ട് compound ആണെന്ന് തോന്നും; പക്ഷേ 'en' ഒറ്റയ്ക്ക് വാക്കല്ല.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: \"രണ്ടായി മുറിച്ചു നോക്കൂ — രണ്ട് കഷണവും ഡിക്ഷണറിയിൽ ഉണ്ടെങ്കിൽ Compound!\" earth ✔ quake ✔.\n• Word family: earthquake, earthworm, earthbound, landslide, rainfall, sunrise.\n• PSC exam strategy: ഓരോ option-ലും -ness, -ly, -ous, -ship, -ful, en-, un- പോലുള്ള ഭാഗങ്ങൾ suffix/prefix ആയാണോ വരുന്നതെന്ന് നോക്കി വെട്ടുക — പക്ഷേ butterfly, warship, firefly പോലുള്ള യഥാർഥ compounds ശ്രദ്ധിക്കുക!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-12-01-Q10",
+    "paperId": "HC-DAILY-2026-12-01",
+    "questionNumber": 10,
+    "topic": "Abbreviations",
+    "difficulty": "easy",
+    "questionText": "In elections, the abbreviation 'NOTA' stands for",
+    "optionA": "Not Of The Applicants",
+    "optionB": "No Option To Accept",
+    "optionC": "None Of The Above",
+    "optionD": "Name Of The Authority",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) None Of The Above\n\n• NOTA = None Of The Above — \"മുകളിൽ പറഞ്ഞവരിൽ ആരുമല്ല\".\n• തിരഞ്ഞെടുപ്പിൽ മത്സരിക്കുന്ന ഒരു സ്ഥാനാർഥിയെയും ഇഷ്ടമല്ലെങ്കിൽ വോട്ടർക്ക് EVM-ൽ ഈ ബട്ടൺ അമർത്താം.\n• ഇന്ത്യയിൽ 2013-ലെ സുപ്രീം കോടതി വിധിയെ തുടർന്നാണ് NOTA ഓപ്ഷൻ നിലവിൽ വന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: N-O-T-A = None Of The Above (ballot-ലെ അവസാന ഓപ്ഷൻ)\n• ഓരോ അക്ഷരവും ഒരു വാക്കിന്റെ ആദ്യാക്ഷരമാണ്; ഒരു വാക്കായി ഉച്ചരിക്കുന്നതിനാൽ (നോട്ട) ഇത് ഒരു acronym കൂടിയാണ്.\n• Election-ബന്ധമുള്ള മറ്റ് abbreviations: EVM (Electronic Voting Machine), VVPAT (Voter Verifiable Paper Audit Trail), ECI (Election Commission of India).\n• ⭐ PSC ആവർത്തനം: Current affairs-ബന്ധമുള്ള abbreviations PSC-യിൽ സ്ഥിരമായി ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n  1. Many voters pressed the NOTA button in that constituency.\n  2. NOTA appears as the last option on the EVM.\n  3. The EVM is now used together with VVPAT in elections.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) Not Of The Applicants\n• NOTA-യുടെ അക്ഷരങ്ങളോട് യോജിക്കുന്നു, പക്ഷേ ഇത് യഥാർഥ രൂപമല്ല; തിരഞ്ഞെടുപ്പിൽ 'applicants' അല്ല, 'candidates' ആണ്.\n• 🪤 PSC Trap: അക്ഷരങ്ങൾ ഒത്തുവരുന്ന വ്യാജ expansion.\n\n(B) No Option To Accept\n• കേൾക്കാൻ അർഥമുള്ളതായി തോന്നുന്ന, എന്നാൽ നിലവിലില്ലാത്ത expansion.\n• 🪤 PSC Trap: \"ആരെയും സ്വീകരിക്കാനില്ല\" എന്ന ആശയവുമായി സാമ്യമുള്ളതിനാൽ ആകർഷിക്കും.\n\n(D) Name Of The Authority\n• Election-മായി ബന്ധമില്ലാത്ത expansion.\n• 🪤 PSC Trap: Official-ആയി തോന്നുന്ന വാക്കുകൾ കൊണ്ട് confuse ചെയ്യാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Ballot paper-ൽ എല്ലാ പേരുകൾക്കും താഴെ (Above-ന് താഴെ) — \"None Of The Above\"!\n• Abbreviation family: NOTA, EVM, VVPAT, ECI, MLA, MP.\n• PSC exam strategy: അക്ഷരങ്ങൾ എല്ലാ options-ലും ഒത്തുവരും — അതുകൊണ്ട് യഥാർഥ ഉപയോഗ സന്ദർഭം (election) ഓർത്ത് ഉത്തരം ഉറപ്പിക്കുക."
+    }
   }
 ]
