@@ -2120,7 +2120,7 @@
     "medium": "M",
     "year": "2026",
     "categoryCode": "454/2025",
-    "answerKeyStatus": "provisional"
+    "answerKeyStatus": "final"
   },
   {
     "id": "92-2026-M",
@@ -2273,5 +2273,15 @@
     "year": "2024",
     "categoryCode": "638/2023",
     "answerKeyStatus": "final"
+  },
+  {
+    "id": "096-2026-M",
+    "paperCode": "096/2026 M",
+    "post": "Excise Inspector",
+    "date": "17-Nov-2026",
+    "medium": "M",
+    "year": "2026",
+    "categoryCode": "187/2025,188/2025",
+    "answerKeyStatus": "provisional"
   }
 ]
