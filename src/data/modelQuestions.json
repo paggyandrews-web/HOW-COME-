@@ -22318,5 +22318,195 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) Not Of The Applicants\n• NOTA-യുടെ അക്ഷരങ്ങളോട് യോജിക്കുന്നു, പക്ഷേ ഇത് യഥാർഥ രൂപമല്ല; തിരഞ്ഞെടുപ്പിൽ 'applicants' അല്ല, 'candidates' ആണ്.\n• 🪤 PSC Trap: അക്ഷരങ്ങൾ ഒത്തുവരുന്ന വ്യാജ expansion.\n\n(B) No Option To Accept\n• കേൾക്കാൻ അർഥമുള്ളതായി തോന്നുന്ന, എന്നാൽ നിലവിലില്ലാത്ത expansion.\n• 🪤 PSC Trap: \"ആരെയും സ്വീകരിക്കാനില്ല\" എന്ന ആശയവുമായി സാമ്യമുള്ളതിനാൽ ആകർഷിക്കും.\n\n(D) Name Of The Authority\n• Election-മായി ബന്ധമില്ലാത്ത expansion.\n• 🪤 PSC Trap: Official-ആയി തോന്നുന്ന വാക്കുകൾ കൊണ്ട് confuse ചെയ്യാൻ.",
       "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: Ballot paper-ൽ എല്ലാ പേരുകൾക്കും താഴെ (Above-ന് താഴെ) — \"None Of The Above\"!\n• Abbreviation family: NOTA, EVM, VVPAT, ECI, MLA, MP.\n• PSC exam strategy: അക്ഷരങ്ങൾ എല്ലാ options-ലും ഒത്തുവരും — അതുകൊണ്ട് യഥാർഥ ഉപയോഗ സന്ദർഭം (election) ഓർത്ത് ഉത്തരം ഉറപ്പിക്കുക."
     }
+  },
+  {
+    "id": "HC-DAILY-2026-12-02-Q1",
+    "paperId": "HC-DAILY-2026-12-02",
+    "questionNumber": 1,
+    "topic": "Correction of Sentences",
+    "difficulty": "hard",
+    "questionText": "Identify the part of the sentence that contains an error.\nThe reason the match was cancelled / is because / the ground was flooded.",
+    "optionA": "The reason the match was cancelled",
+    "optionB": "is because",
+    "optionC": "the ground was flooded",
+    "optionD": "No error",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) is because\n\n• 'The reason ... is because' എന്നത് ഒരേ ആശയം രണ്ടുതവണ പറയലാണ് (redundancy). 'reason' എന്ന വാക്കിൽ തന്നെ 'കാരണം' എന്ന അർഥമുണ്ട്; അതിനൊപ്പം 'because' കൂടി ചേർക്കുമ്പോൾ 'കാരണം ... കാരണമാണ്' എന്നു പറയുന്നതുപോലെ ആകും.\n• ശരിയായ രൂപം: The reason the match was cancelled is that the ground was flooded.\n• 'The reason ... is' കഴിഞ്ഞ് 'that' clause ആണ് വേണ്ടത് — ഇതാണ് standard (prescriptive) grammar, PSC പിന്തുടരുന്നതും ഇതുതന്നെ.\n• സംസാരഭാഷയിൽ ചിലർ 'is because' പറയാറുണ്ടെങ്കിലും exam-ൽ ഇത് തെറ്റായാണ് കണക്കാക്കുന്നത്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: The reason (that/why) ... is THAT ... — ഒരിക്കലും 'is because' അല്ല.\n• 'Reason' ഉം 'because' ഉം ഒരുമിച്ചു വരുന്നത് redundancy (അനാവശ്യ ആവർത്തനം) ആണ്. ഒന്നുകിൽ 'The reason ... is that ...' എന്നെഴുതുക, അല്ലെങ്കിൽ 'reason' ഒഴിവാക്കി 'The match was cancelled because ...' എന്നെഴുതുക.\n• ഇതേ കുടുംബത്തിലെ മറ്റു redundancy തെറ്റുകൾ: return back, repeat again, revert back, cousin brother.\n• ⭐ PSC ആവർത്തനം: 'Spot the error' ചോദ്യങ്ങളിൽ redundancy ഒരു പ്രിയപ്പെട്ട trap ആണ്.\n• ഉദാഹരണ sentences:\n  1. The reason he was late is that he missed the bus.\n  2. The reason for the delay was that the bridge was closed.\n  3. The shop was closed because the owner was ill. ('reason' ഇല്ലാത്തതിനാൽ ഇവിടെ 'because' ശരി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) The reason the match was cancelled\n• 'reason' കഴിഞ്ഞ് 'that' അല്ലെങ്കിൽ 'why' ഒഴിവാക്കുന്നത് തികച്ചും ശരിയാണ് — The reason (that/why) the match was cancelled.\n• ഈ ഭാഗത്ത് തെറ്റൊന്നുമില്ല.\n• 🪤 PSC Trap: 'why' കാണാത്തതുകൊണ്ട് എന്തോ കുറവുണ്ടെന്ന് തോന്നിപ്പിക്കാൻ.\n\n(C) the ground was flooded\n• Simple Past Passive — 'was cancelled' എന്ന tense-നോട് നന്നായി ചേർന്നുപോകുന്നു. ശരിയായ ഭാഗം.\n• 🪤 PSC Trap: Passive voice കാണുമ്പോൾ തെറ്റാണെന്ന് സംശയിക്കുന്നവരെ കുടുക്കാൻ.\n\n(D) No error\n• Sentence-ൽ 'is because' എന്ന redundancy തെറ്റ് ഉള്ളതുകൊണ്ട് 'No error' ശരിയല്ല.\n• 🪤 PSC Trap: ദിവസവും കേട്ടുപരിചയമുള്ള രൂപമായതിനാൽ sentence ശരിയാണെന്ന് തോന്നും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Reason-ഉം Because-ഉം ഒരേ വീട്ടിൽ താമസിക്കില്ല!' — രണ്ടിനും 'കാരണം' എന്ന ഒരേ അർഥമാണ്, ഒന്നു മാത്രം മതി.\n• Redundancy family ഒരുമിച്ച് പഠിക്കുക: return back ❌ → return ✅, repeat again ❌ → repeat ✅, the reason is because ❌ → the reason is that ✅.\n• PSC exam strategy: 'Spot the error' ചോദ്യത്തിൽ ആദ്യം Subject-Verb Agreement, tense എന്നിവ നോക്കുക; അവയിൽ തെറ്റില്ലെങ്കിൽ ഒരേ അർഥം രണ്ടുതവണ വരുന്നുണ്ടോ എന്നു നോക്കുക — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-12-02-Q2",
+    "paperId": "HC-DAILY-2026-12-02",
+    "questionNumber": 2,
+    "topic": "Degrees of Comparison",
+    "difficulty": "medium",
+    "questionText": "Change the following sentence into the Superlative Degree without changing its meaning:\nVery few towns in Kerala are as old as Kodungallur.",
+    "optionA": "Kodungallur is the oldest town in Kerala.",
+    "optionB": "Kodungallur is older than any other town in Kerala.",
+    "optionC": "Kodungallur is one of the oldest towns in Kerala.",
+    "optionD": "Kodungallur is one of the oldest town in Kerala.",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) Kodungallur is one of the oldest towns in Kerala.\n\n• 'Very few towns in Kerala are as old as Kodungallur' എന്നതിന്റെ അർഥം: കൊടുങ്ങല്ലൂരിനോളം പഴക്കമുള്ള പട്ടണങ്ങൾ കേരളത്തിൽ വളരെ കുറച്ചേ ഉള്ളൂ — പക്ഷേ ചിലതുണ്ട്.\n• അതായത് കൊടുങ്ങല്ലൂർ 'ഏറ്റവും പഴയത്' അല്ല, 'ഏറ്റവും പഴയവയിൽ ഒന്ന്' ആണ്.\n• Superlative-ലേക്ക് മാറ്റുമ്പോൾ: one of the + superlative + plural noun → one of the oldest towns.\n• അർഥം മാറാതെ degree മാത്രം മാറ്റണം — അതാണ് ഈ ചോദ്യത്തിന്റെ കാതൽ.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Very few Xs are as ADJ as Y (Positive) = Y is ADJ-er than most other Xs (Comparative) = Y is one of the ADJ-est Xs (Superlative)\n• 'Very few' വരുമ്പോൾ superlative-ൽ 'one of the' നിർബന്ധം. 'No other X is as ADJ as Y' വരുമ്പോൾ മാത്രമാണ് 'Y is the ADJ-est X' (ഒന്നു മാത്രം).\n• 'One of the' കഴിഞ്ഞുള്ള noun എപ്പോഴും plural ആയിരിക്കണം.\n• ⭐ PSC ആവർത്തനം: Degree transformation ചോദ്യങ്ങളിൽ 'No other' ഉം 'Very few' ഉം മാറിമാറി വരാറുണ്ട് — രണ്ടിന്റെയും വ്യത്യാസം നിർബന്ധമായും അറിയണം.\n• ഉദാഹരണ sentences:\n  1. Very few students are as hardworking as Anu. → Anu is one of the most hardworking students.\n  2. No other student is as hardworking as Anu. → Anu is the most hardworking student.\n  3. Very few rivers in Kerala are as long as the Bharathapuzha. → The Bharathapuzha is one of the longest rivers in Kerala.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) Kodungallur is the oldest town in Kerala.\n• ഇത് 'No other town in Kerala is as old as Kodungallur' എന്നതിന്റെ superlative ആണ് — കൊടുങ്ങല്ലൂർ മാത്രമാണ് ഏറ്റവും പഴയത് എന്നാണ് അർഥം.\n• 'Very few' നൽകുന്ന അർഥം (മറ്റു ചിലതും ഉണ്ട്) ഇവിടെ നഷ്ടമാകുന്നു.\n• 🪤 PSC Trap: 'Superlative' എന്നു കേൾക്കുമ്പോൾ നേരെ 'the oldest' എഴുതാനുള്ള തിടുക്കം.\n\n(B) Kodungallur is older than any other town in Kerala.\n• ഇത് Comparative degree ആണ്, Superlative അല്ല.\n• മാത്രമല്ല, ഇതും 'ഏറ്റവും പഴയത്' എന്ന അർഥം തന്നെയാണ് നൽകുന്നത് — meaning മാറുന്നു.\n• 🪤 PSC Trap: 'than any other' എന്ന പരിചിതമായ pattern കണ്ട് തിരഞ്ഞെടുക്കാൻ.\n\n(D) Kodungallur is one of the oldest town in Kerala.\n• Structure ശരിയാണ്, പക്ഷേ 'one of the' കഴിഞ്ഞ് singular 'town' ആണ് വന്നിരിക്കുന്നത്.\n• 'One of the' + plural noun ആണ് നിയമം → towns.\n• 🪤 PSC Trap: Option C-യുമായി ഒരു അക്ഷരം (s) മാത്രം വ്യത്യാസം — ശ്രദ്ധയില്ലാതെ വായിക്കുന്നവരെ കുടുക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Very few → one of the …-est' — 'very few' കണ്ടാൽ 'one of the + superlative' ഓർക്കുക; 'No other' കണ്ടാൽ 'the ONLY one' ഓർക്കുക.\n• Degree family ഒരുമിച്ച് പഠിക്കുക: No other ... as ... as / ...-er than any other / the ...-est (ഒരു കൂട്ടം); Very few ... as ... as / ...-er than most other / one of the ...-est (മറ്റൊരു കൂട്ടം).\n• PSC exam strategy: ആദ്യം meaning check ചെയ്യുക (ഒന്നു മാത്രമോ, പലതിൽ ഒന്നോ?), പിന്നെ noun singular ആണോ plural ആണോ എന്നു നോക്കുക — ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-12-02-Q3",
+    "paperId": "HC-DAILY-2026-12-02",
+    "questionNumber": 3,
+    "topic": "Types of Sentences",
+    "difficulty": "medium",
+    "questionText": "Change the following sentence into an Assertive sentence:\nWho would not be moved by such kindness?",
+    "optionA": "Everyone would be moved by such kindness.",
+    "optionB": "No one would be moved by such kindness.",
+    "optionC": "Everyone would not be moved by such kindness.",
+    "optionD": "Would everyone be moved by such kindness?",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Everyone would be moved by such kindness.\n\n• 'Who would not be moved by such kindness?' ഒരു rhetorical question ആണ് — ഉത്തരം പ്രതീക്ഷിക്കാതെ, ഒരു സത്യം ഊന്നിപ്പറയാനുള്ള ചോദ്യം.\n• 'ഇത്തരം ദയ കണ്ടാൽ ആരുടെ മനസ്സാണ് അലിയാത്തത്?' എന്നു ചോദിക്കുമ്പോൾ ഉദ്ദേശിക്കുന്നത്: 'എല്ലാവരുടെയും മനസ്സലിയും' എന്നാണ്.\n• Negative ചോദ്യം (would NOT) → Positive statement (Everyone would).\n• Assertive sentence ആകുമ്പോൾ question mark മാറി full stop വരണം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Who + not ...? → Everyone / Everybody + positive verb | Who + positive ...? → No one / Nobody + verb\n• Rhetorical question-ന്റെ ഉത്തരം അതിനകത്തു തന്നെയുണ്ട് — negative ചോദ്യത്തിന് positive ഉത്തരം, positive ചോദ്യത്തിന് negative ഉത്തരം.\n• 'Who' മാറി 'Everyone' subject ആകുന്നു, 'not' ഒഴിവാകുന്നു; question mark മാറി full stop വരും.\n• ⭐ PSC ആവർത്തനം: 'Types of Sentences' topic-ൽ interrogative ↔ assertive transformation പതിവായി വരാറുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. Who does not love his motherland? → Everyone loves his motherland.\n  2. Who can trust a liar? → No one can trust a liar.\n  3. Is there anyone who would refuse such an offer? → No one would refuse such an offer.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) No one would be moved by such kindness.\n• ഇത് മൂലവാക്യത്തിന്റെ നേർവിപരീത അർഥമാണ് — 'ആരുടെയും മനസ്സലിയില്ല'.\n• Positive ചോദ്യമായ 'Who would be moved ...?' എന്നതിന്റെ assertive രൂപമാണ് ഇത്.\n• 🪤 PSC Trap: 'Who' കാണുമ്പോൾ യാന്ത്രികമായി 'No one' എഴുതുന്ന ശീലം.\n\n(C) Everyone would not be moved by such kindness.\n• 'Everyone ... not' എന്നത് 'എല്ലാവരുടെയും മനസ്സലിയില്ല' (not everyone) എന്ന അവ്യക്തമായ അർഥം നൽകുന്നു.\n• മൂലവാക്യത്തിലെ 'not' അതേപടി നിലനിർത്തിയതാണ് തെറ്റ് — negative question-ന്റെ assertive രൂപം positive ആയിരിക്കണം.\n• 🪤 PSC Trap: വാക്കുകൾ മാറ്റാതെ ക്രമം മാത്രം മാറ്റിയാൽ മതി എന്നു കരുതുന്നവരെ കുടുക്കാൻ.\n\n(D) Would everyone be moved by such kindness?\n• ഇത് ഇപ്പോഴും question (interrogative) തന്നെയാണ് — assertive അല്ല.\n• 🪤 PSC Trap: 'Everyone' എന്ന ശരിയായ വാക്ക് കണ്ട്, sentence type ശ്രദ്ധിക്കാതെ തിരഞ്ഞെടുക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'ചോദ്യത്തിൽ NOT ഉണ്ടെങ്കിൽ ഉത്തരത്തിൽ NOT ഇല്ല!' — negative rhetorical question എപ്പോഴും ശക്തമായ positive statement ആയി മാറും.\n• Sentence types family: Assertive (.), Interrogative (?), Imperative (കൽപന), Exclamatory (!) — ഓരോന്നിന്റെയും transformation ഒരുമിച്ച് പഠിക്കുക.\n• PSC exam strategy: ആദ്യം question mark ഉള്ള option ഒഴിവാക്കുക, പിന്നെ meaning മൂലവാക്യത്തോട് ഒത്തുപോകുന്നുണ്ടോ എന്നു നോക്കുക — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-12-02-Q4",
+    "paperId": "HC-DAILY-2026-12-02",
+    "questionNumber": 4,
+    "topic": "Parts of Speech",
+    "difficulty": "medium",
+    "questionText": "Identify the part of speech of the word in italics.\nAthletes train hard every season to __better__ their own records.",
+    "optionA": "Adjective",
+    "optionB": "Adverb",
+    "optionC": "Noun",
+    "optionD": "Verb",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) Verb\n\n• ഈ sentence-ൽ 'better' എന്നതിന്റെ അർഥം 'മെച്ചപ്പെടുത്തുക / മറികടക്കുക' (to improve on) എന്നാണ്.\n• 'to better' — ഇവിടത്തെ 'to' infinitive marker ആണ്; അതിനു ശേഷം വരുന്നത് verb-ന്റെ base form ആണ്.\n• 'their own records' ആണ് ഈ verb-ന്റെ object — 'എന്തിനെ മെച്ചപ്പെടുത്തുന്നു? → സ്വന്തം റെക്കോർഡുകളെ'.\n• ഒരു വാക്കിന്റെ part of speech തീരുമാനിക്കുന്നത് sentence-ൽ അത് ചെയ്യുന്ന ജോലിയാണ്, വാക്ക് മാത്രം നോക്കിയല്ല.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: infinitive marker 'to' + WORD + object → WORD = Verb (to ഒരു preposition ആണെങ്കിൽ ഈ നിയമം ബാധകമല്ല — kind to young children-ൽ young = Adjective)\n• ഒരേ വാക്ക് പല parts of speech ആകാം — sentence-ലെ function ആണ് തീരുമാനിക്കുന്നത്.\n• 'better' ന്റെ നാലു വേഷങ്ങൾ:\n  – Adjective: This plan is better. (noun-നെ വിശേഷിപ്പിക്കുന്നു)\n  – Adverb: She sings better now. (verb-നെ വിശേഷിപ്പിക്കുന്നു)\n  – Verb: He wants to better his score. (പ്രവൃത്തി)\n  – Noun: Respect your betters. (തന്നെക്കാൾ ഉയർന്നവർ)\n• ⭐ PSC ആവർത്തനം: fast, round, light, back, better പോലുള്ള 'പല വേഷം കെട്ടുന്ന' വാക്കുകൾ PSC-ക്ക് വളരെ ഇഷ്ടമാണ്.\n• ഉദാഹരണ sentences:\n  1. The new coach helped the team better its performance. (Verb)\n  2. Your handwriting is better than mine. (Adjective)\n  3. You should know better than to argue with him. (Adverb)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) Adjective\n• 'better' adjective ആകുന്നത് ഒരു noun-നെ വിശേഷിപ്പിക്കുമ്പോഴാണ് (a better plan, This road is better).\n• ഇവിടെ ഒരു noun-നെയും വിശേഷിപ്പിക്കുന്നില്ല; 'records' എന്ന object ഉള്ള ഒരു പ്രവൃത്തിയാണ്.\n• 🪤 PSC Trap: 'good – better – best' എന്ന comparison ഓർമ്മ വരുന്നതുകൊണ്ട് ഉടനെ adjective എന്നു തോന്നും.\n\n(B) Adverb\n• Adverb ആകുന്നത് മറ്റൊരു verb-നെ വിശേഷിപ്പിക്കുമ്പോഴാണ് (She dances better now).\n• ഇവിടെ 'better' തന്നെയാണ് പ്രവൃത്തി; മറ്റൊരു verb-നെ വിശേഷിപ്പിക്കുന്നില്ല.\n• 🪤 PSC Trap: 'train hard' എന്ന adverb തൊട്ടടുത്ത് ഉള്ളതുകൊണ്ട് ആശയക്കുഴപ്പം ഉണ്ടാക്കാൻ.\n\n(C) Noun\n• Noun ആയി ('one's betters' = തന്നെക്കാൾ ഉയർന്നവർ) സാധാരണ plural രൂപത്തിൽ, മുന്നിൽ possessive-ഓടു കൂടിയാണ് വരുന്നത്.\n• 'to better their own records' എന്നതിൽ noun-ന് സ്ഥാനമില്ല.\n• 🪤 PSC Trap: 'to' കഴിഞ്ഞ് noun വരാം (go to school) എന്ന ഓർമ്മ കൊണ്ട് കുടുക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'വാക്ക് നോക്കല്ലേ, ജോലി നോക്കൂ!' — ഒരു വാക്ക് sentence-ൽ എന്തു ചെയ്യുന്നു എന്നതാണ് part of speech.\n• Multi-role word family ഒരുമിച്ച് പഠിക്കുക: better, fast, light, round, back, well, down — ഓരോന്നിനും verb / adjective / adverb / noun ഉദാഹരണം എഴുതി വയ്ക്കുക.\n• PSC exam strategy: underline ചെയ്ത വാക്കിന്റെ തൊട്ടുമുൻപും പിൻപും നോക്കുക — infinitive 'to' + വാക്ക് + object ഉണ്ടെങ്കിൽ അത് Verb തന്നെ!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-12-02-Q5",
+    "paperId": "HC-DAILY-2026-12-02",
+    "questionNumber": 5,
+    "topic": "Infinitive and Gerunds",
+    "difficulty": "medium",
+    "questionText": "Choose the correct option to complete the sentence.\nThis old Malayalam film is worth __________ again.",
+    "optionA": "watching",
+    "optionB": "to watch",
+    "optionC": "watch",
+    "optionD": "to watching",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) watching\n\n• 'worth' എന്ന വാക്കിനു ശേഷം verb വരുമ്പോൾ അത് എപ്പോഴും gerund (-ing form) ആയിരിക്കണം.\n• 'This film is worth watching' = 'ഈ സിനിമ കാണാൻ യോഗ്യമാണ് / കാണേണ്ടതു തന്നെ'.\n• 'worth' ഇവിടെ ഒരു preposition പോലെ പ്രവർത്തിക്കുന്നു — preposition-നു ശേഷം verb വന്നാൽ -ing രൂപമാണ് വേണ്ടത്.\n• മലയാളത്തിൽ 'കാണാൻ' എന്നു ചിന്തിക്കുന്നതുകൊണ്ട് 'to watch' എന്നെഴുതാൻ തോന്നും — അതാണ് ഇവിടത്തെ കെണി.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: worth + V-ing (ഒരിക്കലും worth + to + V1 അല്ല)\n• Gerund വേണ്ട മറ്റു expressions: It's no use + V-ing, can't help + V-ing, look forward to + V-ing, be used to + V-ing, busy + V-ing.\n• 'worth' കഴിഞ്ഞ് noun-ഉം വരാം: The book is worth the price.\n• ⭐ PSC ആവർത്തനം: Infinitive vs Gerund ചോദ്യങ്ങളിൽ ഇത്തരം fixed expressions പതിവായി വരുന്നു.\n• ഉദാഹരണ sentences:\n  1. The Athirappilly waterfall is worth visiting during the monsoon.\n  2. His advice is worth listening to.\n  3. It is not worth arguing over such a small matter.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(B) to watch\n• 'worth to watch' എന്ന രൂപം standard English-ൽ ഇല്ല — വളരെ സാധാരണമായ ഒരു തെറ്റാണിത്.\n• 'worth' നു ശേഷം infinitive വരില്ല.\n• 🪤 PSC Trap: 'കാണാൻ' എന്ന മലയാളം ചിന്ത നേരിട്ട് 'to watch' ആക്കി മാറ്റുന്ന ശീലത്തെയാണ് ലക്ഷ്യം വയ്ക്കുന്നത്.\n\n(C) watch\n• Bare infinitive (V1) 'worth' നു ശേഷം വരില്ല; make, let പോലുള്ള verbs-നു ശേഷമാണ് bare infinitive വരുന്നത്.\n• 🪤 PSC Trap: make / let pattern ഓർമ്മയിലുള്ളവരെ കുടുക്കാൻ.\n\n(D) to watching\n• 'to' + V-ing വരുന്നത് 'to' ഒരു preposition ആയ ഇടങ്ങളിൽ മാത്രം (look forward to, be used to, object to).\n• 'worth' ന്റെ കൂടെ 'to' ആവശ്യമില്ല — രണ്ടു രൂപങ്ങൾ കൂട്ടിക്കലർത്തിയ തെറ്റാണിത്.\n• 🪤 PSC Trap: 'look forward to watching' പോലുള്ള pattern ഓർമ്മയിലുള്ളവർക്ക് ശരിയാണെന്ന് തോന്നും.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'Worth-ന് ING എന്ന വില!' — worth (വില) കഴിഞ്ഞാൽ എപ്പോഴും -ing കൊടുക്കുക.\n• Gerund family ഒരുമിച്ച് പഠിക്കുക: worth, no use, can't help, busy, look forward to, be used to, object to — ഇവയ്ക്കെല്ലാം ശേഷം -ing.\n• PSC exam strategy: blank-നു തൊട്ടുമുൻപുള്ള വാക്ക് ഒരു fixed expression ആണോ എന്ന് ആദ്യം നോക്കുക — ഉത്തരം അവിടെത്തന്നെയുണ്ട്!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-12-02-Q6",
+    "paperId": "HC-DAILY-2026-12-02",
+    "questionNumber": 6,
+    "topic": "Foreign Words and Phrases",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the foreign phrase in italics.\nThe young poet published her first collection under a __nom de plume__.",
+    "optionA": "a famous publishing house",
+    "optionB": "a style of handwriting",
+    "optionC": "an assumed name used by a writer",
+    "optionD": "a literary award",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) an assumed name used by a writer\n\n• 'Nom de plume' എന്നാൽ എഴുത്തുകാർ സ്വന്തം പേരിനു പകരം ഉപയോഗിക്കുന്ന തൂലികാനാമം (pen name / pseudonym).\n• വാക്കർഥം: nom = പേര്, de = ന്റെ, plume = തൂവൽ (പണ്ട് തൂവൽ ആയിരുന്നു പേന) → 'പേനയുടെ പേര്'.\n• മലയാളത്തിൽ തന്നെ നല്ല ഉദാഹരണങ്ങൾ: പി. സി. കുട്ടികൃഷ്ണൻ 'ഉറൂബ്' എന്ന പേരിലും എം. കെ. മേനോൻ 'വിലാസിനി' എന്ന പേരിലുമാണ് എഴുതിയത്.\n• Sentence-ലെ 'published her first collection under a ...' എന്ന context-ഉം ഈ അർഥം ഉറപ്പിക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Nom de plume = Pen name = Pseudonym = തൂലികാനാമം\n• ഈ phrase French വാക്കുകൾ കൊണ്ടുള്ളതാണെങ്കിലും പ്രചാരം നേടിയത് English-ലാണ് (French-ൽ സാധാരണ 'pseudonyme' എന്നാണ് പറയുക).\n• ബന്ധപ്പെട്ട വാക്കുകൾ: alias (മറുപേര്), incognito (വേഷം മാറി, തിരിച്ചറിയപ്പെടാതെ), anonymous (പേരില്ലാതെ).\n• ⭐ PSC ആവർത്തനം: French / Latin phrases-ന്റെ അർഥം PSC സ്ഥിരമായി ചോദിക്കാറുണ്ട് — tête-à-tête, faux pas, coup d'état എന്നിവ ഇതേ family.\n• ഉദാഹരണ sentences:\n  1. Mark Twain was the nom de plume of Samuel Clemens.\n  2. 'Uroob' was the nom de plume of P. C. Kuttikrishnan.\n  3. She preferred to write under a nom de plume to protect her privacy.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) a famous publishing house\n• പ്രസിദ്ധീകരണ സ്ഥാപനത്തിന് ഈ phrase-മായി ബന്ധമില്ല.\n• 🪤 PSC Trap: sentence-ൽ 'published' എന്ന വാക്കുള്ളതുകൊണ്ട് publishing-മായി ബന്ധിപ്പിക്കാൻ.\n\n(B) a style of handwriting\n• കൈയക്ഷര ശൈലിക്ക് 'calligraphy' എന്നാണ് പറയുക.\n• 🪤 PSC Trap: 'plume' = പേന എന്നറിയാവുന്നവർ 'പേന കൊണ്ടുള്ള എഴുത്തുരീതി' എന്നു തെറ്റിദ്ധരിക്കാൻ — ഏറ്റവും അപകടകരമായ distractor.\n\n(D) a literary award\n• സാഹിത്യ പുരസ്കാരവുമായി ഈ phrase-ന് ഒരു ബന്ധവുമില്ല.\n• 🪤 PSC Trap: 'poet', 'collection' എന്നീ സാഹിത്യ വാക്കുകൾ കണ്ട് ഊഹിക്കുന്നവരെ കുടുക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'NOM = NAME, PLUME = PEN → PEN NAME' — രണ്ടു വാക്കും പിരിച്ചാൽ അർഥം കിട്ടും.\n• Name family ഒരുമിച്ച് പഠിക്കുക: nom de plume / pseudonym (എഴുത്തുകാരന്റെ പേര്), alias (മറുപേര്), sobriquet / nickname (ഇരട്ടപ്പേര്), anonymous (പേരില്ലാത്ത).\n• PSC exam strategy: Foreign phrase കണ്ടാൽ ഓരോ വാക്കും പിരിച്ച് അർഥം ഊഹിക്കുക, പിന്നെ sentence context-മായി ഒത്തുനോക്കുക — guaranteed mark!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-12-02-Q7",
+    "paperId": "HC-DAILY-2026-12-02",
+    "questionNumber": 7,
+    "topic": "Singular and Plural",
+    "difficulty": "hard",
+    "questionText": "Choose the correct option to complete the sentence.\nThe second edition of the textbook corrected all the __________ found in the first printing.",
+    "optionA": "erratum",
+    "optionB": "errata",
+    "optionC": "erratums",
+    "optionD": "erratas",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) errata\n\n• 'Erratum' എന്ന Latin വാക്കിന്റെ അർഥം: അച്ചടിയിലോ എഴുത്തിലോ വന്ന ഒരു തെറ്റ്.\n• അതിന്റെ plural രൂപം 'errata' ആണ് (Latin -um → -a നിയമം).\n• Sentence-ൽ 'all the' ഉള്ളതുകൊണ്ട് plural noun നിർബന്ധം → all the errata.\n• Latin മൂലം: errare = തെറ്റുക, വഴിതെറ്റുക ('error' എന്ന വാക്കും ഇവിടെനിന്നാണ്).",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Latin -um → -a (erratum → errata)\n• ഇതേ family: datum → data, medium → media, bacterium → bacteria, stratum → strata, ovum → ova.\n• ശ്രദ്ധിക്കുക: പുസ്തകത്തിൽ ചേർക്കുന്ന 'തെറ്റുതിരുത്തൽ പട്ടിക'യെ ചിലപ്പോൾ ഒരൊറ്റ യൂണിറ്റായി 'an errata sheet' എന്നു പറയാറുണ്ട്; പക്ഷേ തെറ്റുകളെത്തന്നെ പറയുമ്പോൾ errata = erratum-ന്റെ plural.\n• ⭐ PSC ആവർത്തനം: Latin / Greek plurals (criteria, phenomena, data, bacteria) PSC-യിൽ ആവർത്തിച്ചുവരുന്ന topic ആണ്.\n• ഉദാഹരണ sentences:\n  1. There is only one erratum on page 12.\n  2. The editor listed all the errata at the end of the book.\n  3. The bacteria multiplied quickly in the warm water. (bacterium → bacteria)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) erratum\n• ഇത് singular രൂപമാണ് (ഒരു തെറ്റ്).\n• 'all the' കഴിഞ്ഞ് singular countable noun വരില്ല.\n• 🪤 PSC Trap: ശരിയായ വാക്കു തന്നെ, പക്ഷേ തെറ്റായ number — വാക്ക് പരിചയമുള്ളവരെ കുടുക്കാൻ.\n\n(C) erratums\n• '-s' ചേർത്ത ഈ രൂപം standard English-ൽ ഇല്ല.\n• 🪤 PSC Trap: എല്ലാ noun-നും '-s' ചേർത്താൽ plural ആകും എന്ന സാമാന്യ നിയമം പ്രയോഗിക്കുന്നവരെ കുടുക്കാൻ.\n\n(D) erratas\n• 'Errata' ഇതിനകം plural ആണ്; അതിനോട് വീണ്ടും '-s' ചേർക്കുന്നത് double plural ആണ്.\n• (ഒന്നിലധികം 'തെറ്റുതിരുത്തൽ പട്ടികകൾ' എന്ന അപൂർവ അർഥത്തിൽ മാത്രമാണ് ചില dictionaries ഇത് കാണിക്കുന്നത് — ഇവിടെ പറയുന്നത് തെറ്റുകളെക്കുറിച്ചാണ്, പട്ടികകളെക്കുറിച്ചല്ല.)\n• 🪤 PSC Trap: 'data' ക്കു പകരം 'datas' എഴുതുന്ന അതേ തെറ്റ്.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'UM പോയാൽ A വരും!' — erratum, datum, medium, bacterium → errata, data, media, bacteria.\n• Classical plural families ഒരുമിച്ച് പഠിക്കുക: -um → -a, -us → -i (nucleus → nuclei), -is → -es (crisis → crises), -on → -a (phenomenon → phenomena).\n• PSC exam strategy: Blank-നു മുൻപ് 'all the / many / these' പോലുള്ള plural signal ഉണ്ടോ എന്നു നോക്കുക; ഉണ്ടെങ്കിൽ Latin plural തിരഞ്ഞെടുക്കുക — '-s' ചേർത്ത വ്യാജ രൂപങ്ങൾ ഒഴിവാക്കുക!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-12-02-Q8",
+    "paperId": "HC-DAILY-2026-12-02",
+    "questionNumber": 8,
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "questionText": "Choose the correct synonym of the word in italics.\nThe __belligerent__ shopkeeper shouted at every customer who asked for a discount.",
+    "optionA": "timid",
+    "optionB": "generous",
+    "optionC": "cheerful",
+    "optionD": "hostile",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) hostile\n\n• 'Belligerent' എന്നാൽ ശത്രുതാ മനോഭാവത്തോടെ, വഴക്കിനും തർക്കത്തിനും തയ്യാറായി നിൽക്കുന്ന — 'കലഹപ്രിയൻ' എന്ന സ്വഭാവം.\n• 'Hostile' എന്നതിനും 'ശത്രുതാപരമായ, എതിർപ്പുള്ള' എന്ന അതേ അർഥമാണ്.\n• Sentence-ലെ clue: 'shouted at every customer' — ഓരോ ഉപഭോക്താവിനോടും ആക്രോശിക്കുന്ന കടക്കാരൻ, അതായത് hostile.\n• Latin മൂലം: bellum = യുദ്ധം + gerere = നടത്തുക → 'യുദ്ധം നടത്തുന്ന'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Belligerent = hostile = aggressive = combative ≠ peaceful / timid\n• 'bell-' (Latin bellum = യുദ്ധം) എന്ന root ഉള്ള വാക്കുകൾ യുദ്ധവും വഴക്കുമായി ബന്ധപ്പെട്ടവയാണ്: bellicose (യുദ്ധക്കൊതിയുള്ള), antebellum (യുദ്ധത്തിനു മുൻപുള്ള), rebel (കലാപകാരി).\n• 'Belligerent' ന് 'യുദ്ധത്തിൽ ഏർപ്പെട്ടിരിക്കുന്ന (രാജ്യം)' എന്ന അർഥവുമുണ്ട് — the belligerent nations.\n• ⭐ PSC ആവർത്തനം: Synonym ചോദ്യങ്ങളിൽ PSC ഒരു antonym-നെ (ഇവിടെ timid) wrong option ആയി ചേർക്കാറുണ്ട്.\n• ഉദാഹരണ sentences:\n  1. The belligerent fan was removed from the stadium.\n  2. His tone became belligerent when he lost the argument.\n  3. The two belligerent nations finally signed a peace treaty.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) timid\n• Timid = ഭീരുവായ, പേടിയുള്ള, ധൈര്യമില്ലാത്ത.\n• ഇത് belligerent-ന്റെ ഏതാണ്ട് വിപരീത അർഥമാണ് — എല്ലാവരോടും ആക്രോശിക്കുന്ന ഒരാൾ timid ആകില്ല.\n• 🪤 PSC Trap: Synonym ചോദ്യത്തിൽ antonym ചേർക്കുന്ന PSC-യുടെ പ്രിയപ്പെട്ട തന്ത്രം.\n\n(B) generous\n• Generous = ഉദാരമനസ്കനായ, എളുപ്പം കൊടുക്കുന്ന.\n• Discount ചോദിച്ചവരോട് ആക്രോശിക്കുന്ന കടക്കാരൻ generous അല്ല.\n• 🪤 PSC Trap: 'discount' എന്ന വാക്ക് കണ്ട് ഉദാരതയുമായി ബന്ധിപ്പിക്കാൻ.\n\n(C) cheerful\n• Cheerful = സന്തോഷവാനായ, പ്രസന്നനായ.\n• Sentence-ലെ ദേഷ്യഭാവവുമായി ഒട്ടും ചേരില്ല.\n• 🪤 PSC Trap: അർഥം അറിയാത്തവർ ഊഹിച്ച് ഒരു positive വാക്ക് തിരഞ്ഞെടുക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'BELL അടിച്ചാൽ യുദ്ധം തുടങ്ങും!' — BELL-igerent = യുദ്ധ മനോഭാവം.\n• Word family ഒരുമിച്ച്: belligerent, bellicose, pugnacious, combative, quarrelsome (എല്ലാം വഴക്കാളി) ↔ peaceable, docile, meek (ശാന്തർ).\n• PSC exam strategy: അർഥം അറിയില്ലെങ്കിൽ sentence-ലെ clue (shouted) ഉപയോഗിക്കുക; പിന്നെ antonym ആയ option ആദ്യം ഒഴിവാക്കുക!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-12-02-Q9",
+    "paperId": "HC-DAILY-2026-12-02",
+    "questionNumber": 9,
+    "topic": "Phrasal Verbs",
+    "difficulty": "medium",
+    "questionText": "Choose the correct meaning of the phrasal verb in italics.\nThe minister skilfully __fended off__ the reporters' awkward questions.",
+    "optionA": "answered in great detail",
+    "optionB": "welcomed warmly",
+    "optionC": "avoided or turned aside",
+    "optionD": "wrote down carefully",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) avoided or turned aside\n\n• 'Fend off' എന്നാൽ ഒരു ആക്രമണത്തെയോ ചോദ്യത്തെയോ പ്രശ്നത്തെയോ തന്നിൽ തട്ടാതെ തടുത്തുമാറ്റുക / ഒഴിഞ്ഞുമാറുക.\n• ഇവിടെ മന്ത്രി റിപ്പോർട്ടർമാരുടെ അസുഖകരമായ ചോദ്യങ്ങൾക്ക് നേരിട്ട് ഉത്തരം നൽകാതെ സമർഥമായി ഒഴിഞ്ഞുമാറി.\n• Clue words: 'skilfully' (സമർഥമായി), 'awkward questions' (അസുഖകരമായ ചോദ്യങ്ങൾ) — ഒഴിഞ്ഞുമാറലിന്റെ ചിത്രം.\n• 'Fend' എന്ന വാക്ക് 'defend' ന്റെ ചുരുക്കരൂപത്തിൽ നിന്നാണ് വന്നത് — 'പ്രതിരോധിക്കുക'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Fend off = ward off = deflect = parry (തടുത്തുമാറ്റുക)\n• Phrasal verb-ന്റെ അർഥം വാക്കുകളുടെ നേർ അർഥമല്ല (literal അല്ല), idiomatic ആണ്.\n• 'fend' ന്റെ മറ്റൊരു phrasal verb: fend for oneself = സ്വന്തം കാര്യം സ്വയം നോക്കുക.\n• 'off' ചേർന്ന മറ്റു phrasal verbs: ward off (തടയുക), stave off (തൽക്കാലം തടഞ്ഞുനിർത്തുക), call off (റദ്ദാക്കുക), put off (മാറ്റിവയ്ക്കുക).\n• ⭐ PSC ആവർത്തനം: Phrasal verb ചോദ്യങ്ങൾ മിക്കവാറും എല്ലാ PSC paper-ലും ഉണ്ട്.\n• ഉദാഹരണ sentences:\n  1. The villagers fended off the wild elephant with fire torches.\n  2. The goalkeeper fended off three powerful shots.\n  3. After her parents moved abroad, she had to fend for herself.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) answered in great detail\n• ഇത് fend off-ന്റെ നേർവിപരീതമാണ് — ചോദ്യങ്ങളെ നേരിട്ട് സ്വീകരിച്ച് വിശദമായി ഉത്തരം നൽകുക.\n• 🪤 PSC Trap: 'questions' എന്ന വാക്ക് കണ്ട് 'ഉത്തരം നൽകി' എന്ന് സ്വാഭാവികമായി ഊഹിക്കാൻ.\n\n(B) welcomed warmly\n• 'Awkward questions' ആരും സന്തോഷത്തോടെ സ്വാഗതം ചെയ്യില്ല; 'skilfully' എന്ന വാക്കുമായും ഇത് ചേരില്ല.\n• 🪤 PSC Trap: ഒരു positive അർഥം നൽകി ആശയക്കുഴപ്പം ഉണ്ടാക്കാൻ.\n\n(D) wrote down carefully\n• എഴുതിയെടുക്കുന്നതിന് 'note down / jot down' എന്നാണ് പറയുക.\n• 🪤 PSC Trap: reporters, questions എന്നീ വാക്കുകൾ കണ്ട് 'കുറിച്ചെടുത്തു' എന്ന് ഊഹിക്കുന്നവരെ കുടുക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'deFEND-ൽ നിന്ന് FEND' — fend off = defend ചെയ്ത് അകറ്റിനിർത്തുക.\n• Word family: fend off, ward off, stave off (എല്ലാം 'തടഞ്ഞ് അകറ്റുക') ↔ fend for oneself (സ്വയം കാര്യം നോക്കുക).\n• PSC exam strategy: Phrasal verb-ന്റെ അർഥം അറിയില്ലെങ്കിൽ sentence-ലെ adverb (skilfully) നോക്കുക — അത് ഉത്തരത്തിലേക്ക് വഴികാട്ടും!"
+    }
+  },
+  {
+    "id": "HC-DAILY-2026-12-02-Q10",
+    "paperId": "HC-DAILY-2026-12-02",
+    "questionNumber": 10,
+    "topic": "One Word Substitutes",
+    "difficulty": "medium",
+    "questionText": "Choose the most suitable one-word substitute for the phrase in italics.\nHer __habit of putting off important work until the last moment__ cost her the scholarship.",
+    "optionA": "precipitation",
+    "optionB": "procrastination",
+    "optionC": "prevarication",
+    "optionD": "premonition",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) procrastination\n\n• 'Procrastination' = ചെയ്യേണ്ട കാര്യങ്ങൾ അവസാന നിമിഷം വരെ നീട്ടിവയ്ക്കുന്ന ശീലം — 'നാളെ ചെയ്യാം' മനോഭാവം.\n• Latin മൂലം: pro = മുന്നോട്ട് + crastinus = നാളെയുടേത് (cras = നാളെ) → 'നാളേക്ക് മാറ്റിവയ്ക്കൽ'.\n• പകരം വച്ചാൽ: 'Her procrastination cost her the scholarship.' — sentence ശരിയായി വായിക്കാം.\n• Verb: procrastinate; ആ ശീലമുള്ളയാൾ: procrastinator.",
+      "rule": "📌 വ്യാകരണ നിയമം\n\n• 🔑 Quick Formula: Procrastinate = put off work (ജോലി നീട്ടിവയ്ക്കുക) | Prevaricate = speak evasively (ഒഴിഞ്ഞുമാറി സംസാരിക്കുക)\n• One word substitute ചോദ്യത്തിൽ phrase-ന്റെ ഓരോ ഭാഗവും (habit + putting off + work) ഉത്തരവുമായി ഒത്തുനോക്കണം.\n• 'pre- / pro-' ൽ തുടങ്ങുന്ന ഒരുപോലെ തോന്നുന്ന വാക്കുകൾ PSC ബോധപൂർവം ഒന്നിച്ചു വയ്ക്കുന്നു — ഓരോന്നിന്റെയും root അറിയുക.\n• ⭐ PSC ആവർത്തനം: One Word Substitutes മിക്കവാറും എല്ലാ English section-ലും ഉറപ്പായും വരും.\n• ഉദാഹരണ sentences:\n  1. Procrastination is the thief of time.\n  2. Stop procrastinating and start revising for the exam.\n  3. The witness began to prevaricate when the lawyer asked about the money.",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n\n(A) precipitation\n• Precipitation = മഴ, മഞ്ഞ് തുടങ്ങിയവ പെയ്യൽ; അല്ലെങ്കിൽ ആലോചനയില്ലാതെ തിടുക്കത്തിൽ പ്രവർത്തിക്കൽ.\n• തിടുക്കം നീട്ടിവയ്ക്കലിന്റെ നേർവിപരീതമാണ്.\n• 🪤 PSC Trap: 'pr-' ൽ തുടങ്ങുന്ന, നീളമുള്ള, സമാന ശബ്ദമുള്ള വാക്ക്.\n\n(C) prevarication\n• Prevarication = നേരിട്ട് ഉത്തരം നൽകാതെ ഒഴിഞ്ഞുമാറി സംസാരിക്കൽ / സത്യം മറച്ചുവയ്ക്കൽ.\n• ചിലർ ഇത് 'delay' എന്ന അർഥത്തിൽ തെറ്റായി ഉപയോഗിക്കാറുണ്ട്; പക്ഷേ ഇതിന്റെ കാതലായ അർഥം സംസാരത്തിലെ ഒഴിഞ്ഞുമാറലാണ്, ജോലി നീട്ടിവയ്ക്കലല്ല.\n• 🪤 PSC Trap: procrastination-മായി ഏറ്റവും കൂടുതൽ ആശയക്കുഴപ്പമുണ്ടാക്കുന്ന വാക്ക് — ഏറ്റവും അപകടകരമായ distractor.\n\n(D) premonition\n• Premonition = എന്തോ (പലപ്പോഴും മോശമായത്) സംഭവിക്കാൻ പോകുന്നു എന്ന മുൻകൂട്ടിയുള്ള തോന്നൽ.\n• ശീലവുമായോ ജോലിയുമായോ ബന്ധമില്ല.\n• 🪤 PSC Trap: 'pre-' (മുൻപ്) കണ്ട് സമയവുമായി ബന്ധിപ്പിക്കാൻ.",
+      "tip": "💡 HOW COME Tip\n\n• 🧠 Memory trick: 'CRAS = നാളെ' → pro-CRAS-tination = എല്ലാം നാളേക്ക്!\n• Look-alike family ഒരുമിച്ച് പഠിക്കുക: procrastinate (നീട്ടിവയ്ക്കുക), prevaricate (ഒഴിഞ്ഞുമാറി സംസാരിക്കുക), precipitate (തിടുക്കം കാട്ടുക), premonition (മുൻതോന്നൽ).\n• PSC exam strategy: 'pre / pro' വാക്കുകൾ നിരന്നുവന്നാൽ root വഴി ഓരോന്നും ഒഴിവാക്കുക — ഉത്തരം ഉറപ്പായും കിട്ടും!"
+    }
   }
 ]
