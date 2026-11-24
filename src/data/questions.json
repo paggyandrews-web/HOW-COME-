@@ -58368,5 +58368,191 @@
       "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Fleeting — 'പെട്ടെന്ന് കടന്നുപോകുന്ന' എന്നർത്ഥം; ഇത് ephemeral-ന്റെ synonym ആണ്, antonym അല്ല.\n• (B) Temporary — 'താൽക്കാലികമായ'; ഇതും ephemeral-ന്റെ അതേ അർത്ഥമുള്ള വാക്കാണ്.\n• (C) Transitory — 'നിലനിൽക്കാത്ത, കടന്നുപോകുന്ന'; ഇതും synonym ആണ്.\n• 🪤 PSC Trap: മൂന്ന് synonym-കൾ ഒരുമിച്ച് കൊടുത്ത് 'antonym' എന്ന ചോദ്യവാക്ക് മറക്കുന്നവരെ കുഴപ്പിക്കുന്നു — ചോദ്യം synonym ആണോ antonym ആണോ എന്ന് എപ്പോഴും രണ്ടുതവണ വായിക്കുക!",
       "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'E-PHEMERAL = ഒരു DAY മാത്രം!' — 'hemera' = day എന്നോർക്കുക; ഒരു ദിവസം കഴിഞ്ഞാൽ തീരുന്നത് ephemeral, എന്നും നിലനിൽക്കുന്നത് permanent.\n• ഒരുമിച്ച് പഠിക്കാൻ: ephemeral / transient / fleeting / transitory (ക്ഷണികം) ↔ permanent / eternal / perpetual / everlasting (സ്ഥിരം).\n• PSC strategy: നാല് option-ൽ മൂന്നെണ്ണം ഒരേ അർത്ഥമുള്ളതാണെങ്കിൽ, വ്യത്യസ്തമായ ഒറ്റയാനാണ് antonym ഉത്തരം — 'odd one out' രീതി. ഒരിക്കലും miss ആകില്ല!"
     }
+  },
+  {
+    "id": "098-2026-M-Q71",
+    "paperId": "098-2026-M",
+    "questionNumber": 71,
+    "topic": "Tenses",
+    "subtopic": "Past Perfect",
+    "questionText": "Yesterday, She _________ (go) home only after she _______ (finish) her work.",
+    "optionA": "went, finished",
+    "optionB": "gone, finished",
+    "optionC": "went, had finished",
+    "optionD": "gone, had finished",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) went, had finished\n• ഭൂതകാലത്തിൽ രണ്ട് സംഭവങ്ങൾ നടന്നു — ആദ്യം ജോലി തീർത്തു, പിന്നെ വീട്ടിൽ പോയി.\n• ആദ്യം നടന്ന സംഭവത്തിന് Past Perfect (had + V3) വേണം → 'had finished'.\n• പിന്നീട് നടന്ന സംഭവത്തിന് Simple Past (V2) മതി → 'went'.\n• 'Yesterday' എന്ന signal word കാണുമ്പോൾ തന്നെ ഇത് ഭൂതകാല വാക്യമാണെന്ന് ഉറപ്പിക്കാം.\n• 'only after' എന്ന പ്രയോഗം 'ജോലി തീർത്തതിനു ശേഷം മാത്രം' എന്ന് സംഭവങ്ങളുടെ ക്രമം വ്യക്തമാക്കുന്നു.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: ആദ്യം നടന്നത് → had + V3 | പിന്നീട് നടന്നത് → V2\n• ഭൂതകാലത്തിലെ രണ്ട് പ്രവൃത്തികളിൽ കൂടുതൽ പഴയതിനെ കാണിക്കാനാണ് Past Perfect ഉപയോഗിക്കുന്നത്.\n• after, before, when, by the time, already — ഈ വാക്കുകൾ കണ്ടാൽ Past Perfect വേണോ എന്ന് പരിശോധിക്കണം.\n• 'after' ഉള്ള clause-ൽ had + V3; മറ്റേ clause-ൽ V2.\n• 'before' ഉള്ളപ്പോൾ നേരെ തിരിച്ച്: before-ന് മുമ്പുള്ള ഭാഗത്ത് had + V3, before-ന് ശേഷം V2.\n• ⭐ PSC ആവർത്തനം: Past Perfect + Simple Past ജോഡി ചോദ്യങ്ങൾ PSC-യിൽ വളരെ കൂടുതലായി വരുന്നു.\n• ഉദാഹരണ sentences:\n1. The train had left before we reached the station. (ഞങ്ങൾ എത്തുന്നതിനു മുമ്പ് ട്രെയിൻ പോയിരുന്നു)\n2. He went out after he had eaten his lunch. (ഊണ് കഴിച്ചതിനു ശേഷം അവൻ പുറത്തുപോയി)\n3. When I reached home, my mother had cooked dinner. (ഞാൻ എത്തുമ്പോഴേക്കും അമ്മ അത്താഴം തയ്യാറാക്കിയിരുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) went, finished\n• രണ്ടും Simple Past ആയതിനാൽ ഏത് ആദ്യം നടന്നു എന്ന ക്രമം വ്യക്തമാകുന്നില്ല.\n• 🪤 PSC Trap: സംസാരഭാഷയിൽ ഇത് കേൾക്കാറുണ്ട്; പക്ഷേ PSC ചോദിക്കുന്നത് Past Perfect-ന്റെ ശരിയായ ഉപയോഗമാണ്.\n\n• (B) gone, finished\n• 'gone' എന്നത് V3 ആണ്; have/has/had ഇല്ലാതെ ഒറ്റയ്ക്ക് പ്രധാന ക്രിയയായി ഉപയോഗിക്കാനാവില്ല.\n• 🪤 PSC Trap: 'She gone home' — V2/V3 ആശയക്കുഴപ്പമുള്ളവരെ വീഴ്ത്താനുള്ള കെണി.\n\n• (D) gone, had finished\n• രണ്ടാം ഭാഗം ശരിയാണ്, പക്ഷേ ആദ്യ ഭാഗത്തെ 'gone' സഹായക്രിയയില്ലാതെ തെറ്റാണ്.\n• 🪤 PSC Trap: പകുതി ശരിയായ option — 'had finished' കണ്ട് ഉടനെ tick ചെയ്യുന്നവർക്കുള്ള കെണി!",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'പഴയതിന് had, പുതിയതിന് V2' — 'had' എന്നാൽ 'അതിനു മുമ്പേ കഴിഞ്ഞിരുന്നു' എന്ന് ഓർക്കുക.\n• ഒരുമിച്ച് പഠിക്കേണ്ടവ: after / before / when / by the time / no sooner…than — എല്ലാം Past Perfect-ന്റെ കൂട്ടുകാർ.\n• PSC strategy: രണ്ട് blank ഉള്ള tense ചോദ്യത്തിൽ ആദ്യം ഏത് സംഭവം ആദ്യം നടന്നു എന്ന് കണ്ടെത്തുക; അതിന് had + V3 കൊടുക്കുക, ബാക്കിക്ക് V2. guaranteed mark!"
+    }
+  },
+  {
+    "id": "098-2026-M-Q72",
+    "paperId": "098-2026-M",
+    "questionNumber": 72,
+    "topic": "Conditionals",
+    "subtopic": "Second Conditional",
+    "questionText": "If I were a snail, I _________ (move forward).",
+    "optionA": "would move forward",
+    "optionB": "would move forwarded",
+    "optionC": "will move forward",
+    "optionD": "move forward",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) would move forward\n• 'If I were a snail' — ഞാൻ ഒരു ഒച്ചായിരുന്നെങ്കിൽ! ഇത് ഒരിക്കലും സംഭവിക്കാത്ത ഒരു സാങ്കൽപ്പിക അവസ്ഥയാണ്.\n• ഇത്തരം സാങ്കൽപ്പിക അവസ്ഥയ്ക്ക് Second Conditional ആണ് ഉപയോഗിക്കുന്നത്.\n• If-clause-ൽ past form (were) വന്നാൽ പ്രധാന ഭാഗത്ത് would + V1 വേണം → 'would move forward'.\n• 'ഞാൻ ഒരു ഒച്ചായിരുന്നെങ്കിൽ ഞാൻ മുന്നോട്ട് നീങ്ങുമായിരുന്നു' എന്നർത്ഥം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: If + V2 (were) → would + V1\n• Second Conditional സാങ്കൽപ്പികമോ അസാധ്യമോ ആയ ഇപ്പോഴത്തെ അവസ്ഥകളെ കാണിക്കുന്നു.\n• ഈ conditional-ൽ എല്ലാ subject-നും 'were' ആണ് ശരി — If I were, If he were, If she were.\n• Conditional കുടുംബം:\n• First: If + V1 → will + V1 (സാധ്യതയുള്ളത്)\n• Second: If + V2 → would + V1 (സാങ്കൽപ്പികം)\n• Third: If + had + V3 → would have + V3 (കഴിഞ്ഞുപോയ അവസരം)\n• ⭐ PSC ആവർത്തനം: 'If I were a bird / a king / you' എന്ന മാതൃകയിലുള്ള ചോദ്യങ്ങൾ PSC സ്ഥിരം ചോദിക്കുന്നു.\n• ഉദാഹരണ sentences:\n1. If I were a bird, I would fly to my village. (ഞാൻ ഒരു പക്ഷിയായിരുന്നെങ്കിൽ ഗ്രാമത്തിലേക്ക് പറക്കുമായിരുന്നു)\n2. If he were rich, he would help the poor. (അവൻ പണക്കാരനായിരുന്നെങ്കിൽ ദരിദ്രരെ സഹായിക്കുമായിരുന്നു)\n3. If I were you, I would accept the offer. (ഞാൻ നിന്റെ സ്ഥാനത്തായിരുന്നെങ്കിൽ ആ വാഗ്ദാനം സ്വീകരിക്കുമായിരുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) would move forwarded\n• 'would'-ന് ശേഷം എപ്പോഴും base form (V1) മാത്രമേ വരൂ; 'moved' പോലും പാടില്ല.\n• ഇവിടെ 'forwarded' എന്ന് -ed ചേർത്തത് തികച്ചും അർത്ഥമില്ലാത്ത രൂപമാണ്.\n• 🪤 PSC Trap: 'would' കണ്ട് ശരിയെന്ന് കരുതി tick ചെയ്യുന്നവരെ പിടിക്കാനുള്ള കെണി.\n\n• (C) will move forward\n• 'will' First Conditional-ന്റേതാണ് — If + V1 (am/is) ഉള്ളപ്പോൾ മാത്രം.\n• 'were' ഉള്ള വാക്യത്തിൽ 'will' ചേരില്ല.\n• 🪤 PSC Trap: First, Second conditional തമ്മിൽ കലർത്തുന്നവർക്കുള്ള കെണി.\n\n• (D) move forward\n• 'would' ഇല്ലാതെ സാങ്കൽപ്പിക ഫലം പ്രകടിപ്പിക്കാനാവില്ല.\n• 🪤 PSC Trap: ലളിതമായി തോന്നുന്ന രൂപം — പക്ഷേ conditional-ന്റെ ഘടന ഇതിലില്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Were കണ്ടാൽ Would വരും' — W-W ജോഡി! If I were… → I would…\n• ഒരുമിച്ച് പഠിക്കേണ്ടവ: If I were you, If I were a bird, I wish I were, as if he were — എല്ലാം സാങ്കൽപ്പിക 'were'.\n• PSC strategy: Conditional ചോദ്യത്തിൽ ആദ്യം If-clause-ലെ ക്രിയ നോക്കുക — V1 ആണെങ്കിൽ will, V2/were ആണെങ്കിൽ would, had + V3 ആണെങ്കിൽ would have + V3. ഒരിക്കലും miss ആകില്ല!"
+    }
+  },
+  {
+    "id": "098-2026-M-Q73",
+    "paperId": "098-2026-M",
+    "questionNumber": 73,
+    "topic": "Direct and Indirect Speech",
+    "subtopic": "Statements",
+    "questionText": "Ram said, \"I went home\". Change into reported speech:\n(i) Ram said that he went home\n(ii) Ram said that he gone home\n(iii) Ram said that he had gone home",
+    "optionA": "Only (i) & (ii)",
+    "optionB": "Only (i) & (iii)",
+    "optionC": "Only (ii) & (iii)",
+    "optionD": "All of the above ((i), (ii) & (iii))",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Only (i) & (iii)\n• Reporting verb 'said' ഭൂതകാലത്തിൽ ആയതിനാൽ ഉദ്ധരണിയിലെ tense ഒരു പടി പിന്നോട്ട് മാറും (backshift).\n• Simple Past 'went' → Past Perfect 'had gone' — അതുകൊണ്ട് (iii) 'Ram said that he had gone home' പൂർണ്ണമായും ശരി.\n• (i) 'Ram said that he went home' — ആധുനിക English-ൽ സംഭവങ്ങളുടെ ക്രമം വ്യക്തമാണെങ്കിൽ Simple Past മാറ്റാതെ നിലനിർത്താം; ഈ മാറ്റം നിർബന്ധമല്ലാത്ത (optional) ഒന്നായാണ് കണക്കാക്കുന്നത്. PSC answer key-യും ഇത് അംഗീകരിച്ചിട്ടുണ്ട്.\n• 'I' → 'he' എന്ന pronoun മാറ്റം രണ്ടിലും ശരിയായി ചെയ്തിട്ടുണ്ട്.\n• (ii) 'he gone home' — സഹായക്രിയയില്ലാത്ത V3 ആയതിനാൽ തെറ്റ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Reporting verb ഭൂതകാലത്തിൽ ആണെങ്കിൽ → tense ഒരു പടി പിന്നോട്ട് (backshift)\n• Backshift പട്ടിക:\n• Simple Present → Simple Past (go → went)\n• Present Continuous → Past Continuous (is going → was going)\n• Present Perfect → Past Perfect (has gone → had gone)\n• Simple Past → Past Perfect (went → had gone) — ഈ മാറ്റം ആധുനിക ഉപയോഗത്തിൽ നിർബന്ധമല്ല\n• Pronoun മാറ്റം: I → he/she, my → his/her, we → they.\n• 'said'-ന് ശേഷം 'that' ചേർക്കുന്നു; ഉദ്ധരണചിഹ്നങ്ങൾ ഒഴിവാക്കുന്നു.\n• ⭐ PSC ആവർത്തനം: പ്രസ്താവനകളുടെ reported speech, പ്രത്യേകിച്ച് tense backshift, PSC-യിലെ ഏറ്റവും സ്ഥിരം ചോദ്യങ്ങളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. She said, \"I am tired.\" → She said that she was tired. (അവൾ ക്ഷീണിതയാണെന്ന് പറഞ്ഞു)\n2. He said, \"I have finished the work.\" → He said that he had finished the work. (ജോലി തീർത്തുവെന്ന് അവൻ പറഞ്ഞു)\n3. Anu said, \"I bought a new pen.\" → Anu said that she had bought a new pen. (പുതിയ പേന വാങ്ങിയെന്ന് അനു പറഞ്ഞു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Only (i) & (ii)\n• (ii) 'he gone home' — have/has/had ഇല്ലാതെ 'gone' ഒറ്റയ്ക്ക് നിൽക്കില്ല; വ്യാകരണപരമായി തെറ്റ്.\n• കൂടാതെ ഏറ്റവും ശരിയായ (iii) ഇതിൽ ഇല്ല.\n• 🪤 PSC Trap: (ii) 'had' വിട്ടുപോയ ഒരു പകുതി-backshift രൂപമാണ്.\n\n• (C) Only (ii) & (iii)\n• (iii) ശരിയാണ്, പക്ഷേ (ii) തെറ്റാണ്.\n• 🪤 PSC Trap: (iii)-ലെ 'had gone' കണ്ട് (ii)-ലെ 'gone' ഉം ശരിയെന്ന് തെറ്റിദ്ധരിപ്പിക്കാനുള്ള ശ്രമം.\n\n• (D) All of the above\n• (ii) തെറ്റായതിനാൽ 'എല്ലാം ശരി' എന്ന option നിലനിൽക്കില്ല.\n• 🪤 PSC Trap: ഉറപ്പില്ലാത്തവർ 'All of the above' എടുക്കാൻ സാധ്യതയുണ്ട് — ഒരു തെറ്റ് മതി ഇത് ഒഴിവാക്കാൻ!",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Said പിന്നോട്ട് നടത്തും' — said കണ്ടാൽ ഓരോ tense-ഉം ഒരു പടി പിന്നോട്ട്: is → was, went → had gone.\n• ഒരുമിച്ച് പഠിക്കേണ്ടവ: will → would, can → could, may → might, shall → should — modal-കളുടെ backshift.\n• PSC strategy: (i), (ii), (iii) മാതൃകയിലുള്ള ചോദ്യങ്ങളിൽ ആദ്യം വ്യക്തമായും തെറ്റായ വാക്യം കണ്ടെത്തുക (ഇവിടെ 'he gone'). അത് ഉൾപ്പെടുന്ന options എല്ലാം വെട്ടുക — ഉത്തരം തനിയെ തെളിയും!"
+    }
+  },
+  {
+    "id": "098-2026-M-Q74",
+    "paperId": "098-2026-M",
+    "questionNumber": 74,
+    "topic": "Spelling",
+    "questionText": "Find out the correctly spelt word:",
+    "optionA": "Ettiquete",
+    "optionB": "Etiquette",
+    "optionC": "Etiqette",
+    "optionD": "Ettiqete",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) Etiquette\n• 'Etiquette' എന്നാൽ 'മര്യാദ, സാമൂഹിക പെരുമാറ്റ നിയമങ്ങൾ' എന്നർത്ഥം.\n• ശരിയായ spelling: E-T-I-Q-U-E-T-T-E — തുടക്കത്തിൽ ഒരു T, അവസാനത്തിൽ രണ്ട് T.\n• French ഭാഷയിൽ നിന്നാണ് ഈ വാക്ക് വന്നത് — അതുകൊണ്ടാണ് '-quette' എന്ന French അവസാനം.\n• ഉച്ചാരണം: 'എറ്റിക്കെറ്റ്'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: ETI + QUE + TTE → Etiquette (ഒരു T മുന്നിൽ, രണ്ട് T പിന്നിൽ)\n• French വാക്കുകളിലെ '-ette' അവസാനം എപ്പോഴും ഇരട്ട T എടുക്കും.\n• French '-que' (ക് ശബ്ദം) കുടുംബം: etiquette, boutique, unique, technique, cheque, antique.\n• '-ette' കുടുംബം: cigarette, silhouette, cassette, palette, roulette.\n• Etymology hint: French 'étiquette' — ആദ്യം 'ലേബൽ, ടിക്കറ്റ്' എന്നായിരുന്നു അർത്ഥം; രാജസദസ്സിൽ പെരുമാറ്റച്ചട്ടങ്ങൾ എഴുതിയ കാർഡുകളിൽ നിന്നാണ് 'മര്യാദ' എന്ന അർത്ഥം വന്നത്.\n• ⭐ PSC ആവർത്തനം: French ഉത്ഭവമുള്ള വാക്കുകളുടെ spelling PSC-യുടെ പ്രിയപ്പെട്ട വിഷയമാണ്.\n• ഉദാഹരണ sentences:\n1. Table etiquette is important at formal dinners. (ഔപചാരിക വിരുന്നുകളിൽ ഭക്ഷണമര്യാദ പ്രധാനമാണ്)\n2. He was praised for his good etiquette. (നല്ല പെരുമാറ്റത്തിന് അവൻ പ്രശംസിക്കപ്പെട്ടു)\n3. Office etiquette demands punctuality. (കൃത്യനിഷ്ഠ ഓഫീസ് മര്യാദയുടെ ഭാഗമാണ്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Ettiquete\n• തുടക്കത്തിൽ രണ്ട് T വേണ്ട; അവസാനത്തിൽ ഒരു T കുറവുമാണ്.\n• 🪤 PSC Trap: ഇരട്ട അക്ഷരത്തിന്റെ സ്ഥാനം നേരെ തിരിച്ചിട്ട രൂപം.\n\n• (C) Etiqette\n• 'q'-ന് ശേഷമുള്ള 'u' കാണാനില്ല; അവസാനം ഒരു T മാത്രം.\n• English-ൽ 'q'-ന് ശേഷം മിക്കവാറും എപ്പോഴും 'u' വരും.\n• 🪤 PSC Trap: ഉച്ചാരണം കേട്ട് എഴുതുന്നവർക്കുള്ള കെണി.\n\n• (D) Ettiqete\n• തുടക്കത്തിൽ ഇരട്ട T, 'u' ഇല്ല, അവസാനം ഒരു T — മൂന്ന് തെറ്റുകൾ ഒന്നിച്ച്.\n• 🪤 PSC Trap: ഒറ്റനോട്ടത്തിൽ പരിചിതമായി തോന്നിക്കാനുള്ള രൂപം.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Etiquette-ൽ ഒരു ചായ (T) മുന്നിൽ, രണ്ട് ചായ (TT) പിന്നിൽ — അതാണ് ആതിഥേയ മര്യാദ!' ☕\n• ഒരുമിച്ച് പഠിക്കേണ്ടവ: etiquette, questionnaire, bureaucracy, rendezvous, connoisseur — PSC-യുടെ French spelling കൂട്ടം.\n• PSC strategy: Spelling ചോദ്യത്തിൽ ആദ്യം ഇരട്ട അക്ഷരം എവിടെ എന്ന് നോക്കുക, പിന്നെ q-ന് ശേഷം u ഉണ്ടോ എന്ന് നോക്കുക. ഈ രണ്ട് പരിശോധനയിൽ ഉത്തരം കിട്ടും!"
+    }
+  },
+  {
+    "id": "098-2026-M-Q75",
+    "paperId": "098-2026-M",
+    "questionNumber": 75,
+    "topic": "Infinitive and Gerunds",
+    "subtopic": "To-Infinitive",
+    "questionText": "I need __________ some milk from the shop.\nFill in the blanks using appropriate phrasal verb.",
+    "optionA": "get along with",
+    "optionB": "get over",
+    "optionC": "to get",
+    "optionD": "get through",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) to get\n• 'I need to get some milk' — 'എനിക്ക് കടയിൽ നിന്ന് കുറച്ച് പാൽ വാങ്ങണം' എന്നർത്ഥം.\n• 'need' എന്ന ക്രിയയ്ക്ക് ശേഷം മറ്റൊരു പ്രവൃത്തി വരുമ്പോൾ to-infinitive (to + V1) വേണം.\n• ഇവിടെ 'get' എന്നതിന് 'വാങ്ങുക, കൊണ്ടുവരിക' എന്ന അർത്ഥമാണ്.\n• ചോദ്യത്തിൽ 'phrasal verb' എന്ന് പറയുന്നുണ്ടെങ്കിലും, മറ്റ് options-ലെ phrasal verbs ഒന്നും അർത്ഥത്തിന് ചേരുന്നില്ല — ഘടനയും അർത്ഥവും ശരിയാകുന്നത് 'to get' മാത്രം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: need / want / decide / hope / plan + to + V1\n• ചില ക്രിയകൾക്ക് ശേഷം അടുത്ത ക്രിയ എപ്പോഴും to-infinitive രൂപത്തിൽ വരും.\n• To-infinitive എടുക്കുന്നവ: need, want, wish, hope, decide, plan, agree, refuse, promise, expect.\n• Gerund (-ing) എടുക്കുന്നവ: enjoy, avoid, finish, mind, keep, practise — ഇവ വേർതിരിച്ച് ഓർക്കണം.\n• 'need' modal ആയി വരുമ്പോൾ (negative/question-ൽ) 'to' ഇല്ലാതെയും വരാം: You needn't go.\n• ⭐ PSC ആവർത്തനം: ക്രിയയ്ക്ക് ശേഷം to-infinitive വേണോ gerund വേണോ എന്ന തിരഞ്ഞെടുപ്പ് PSC-യിൽ സ്ഥിരമായി വരുന്നു.\n• ഉദാഹരണ sentences:\n1. I need to buy a new pen. (എനിക്ക് ഒരു പുതിയ പേന വാങ്ങണം)\n2. She wants to become a doctor. (അവൾക്ക് ഡോക്ടർ ആകണം)\n3. They decided to leave early. (നേരത്തെ പോകാൻ അവർ തീരുമാനിച്ചു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) get along with\n• 'ഒരാളുമായി നല്ല ബന്ധത്തിൽ കഴിയുക, ഒത്തുപോകുക' എന്നർത്ഥം — I get along with my neighbours.\n• പാലുമായി 'ഒത്തുപോകുക' എന്നത് അർത്ഥശൂന്യം; കൂടാതെ need-ന് ശേഷം 'to' ഇല്ല.\n• 🪤 PSC Trap: 'get' ഉള്ള phrasal verb കണ്ട് ആകർഷിക്കപ്പെടുന്നവർക്കുള്ള കെണി.\n\n• (B) get over\n• 'രോഗം, ദുഃഖം തുടങ്ങിയവയിൽ നിന്ന് മോചനം നേടുക' എന്നർത്ഥം — She got over her illness.\n• പാൽ വാങ്ങുന്ന സന്ദർഭത്തിന് തീരെ ചേരില്ല.\n• 🪤 PSC Trap: പരിചിതമായ phrasal verb ആയതിനാൽ ഉറപ്പില്ലാതെ tick ചെയ്യാൻ തോന്നും.\n\n• (D) get through\n• 'പരീക്ഷ ജയിക്കുക, ബുദ്ധിമുട്ട് തരണം ചെയ്യുക' എന്നർത്ഥം — He got through the exam.\n• ഈ വാക്യത്തിന്റെ അർത്ഥവുമായി ബന്ധമില്ല.\n• 🪤 PSC Trap: 'phrasal verb' എന്ന നിർദ്ദേശം കണ്ട് ഏതെങ്കിലും phrasal verb തന്നെ വേണമെന്ന് കരുതുന്നവർക്കുള്ള കെണി.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ആവശ്യം (need) വന്നാൽ To-വിലേക്ക് ഓടണം!' — need to go, need to eat, need to get.\n• GET കുടുംബം ഒരുമിച്ച് പഠിക്കുക: get along with (ഒത്തുപോകുക), get over (മോചനം നേടുക), get through (വിജയിക്കുക), get on (മുന്നേറുക), get rid of (ഒഴിവാക്കുക).\n• PSC strategy: ചോദ്യത്തിലെ നിർദ്ദേശത്തേക്കാൾ വാക്യത്തിന്റെ അർത്ഥത്തെയും ഘടനയെയും വിശ്വസിക്കുക. ഓരോ option-ഉം blank-ൽ വെച്ച് മനസ്സിൽ വായിച്ചുനോക്കൂ — ശരിയായത് സ്വാഭാവികമായി തോന്നും!"
+    }
+  },
+  {
+    "id": "098-2026-M-Q76",
+    "paperId": "098-2026-M",
+    "questionNumber": 76,
+    "topic": "Idioms",
+    "questionText": "The contractor ________ on the new office building, resulting in collapsed roof.",
+    "optionA": "Pros and cons",
+    "optionB": "under the weather",
+    "optionC": "Hit the sack",
+    "optionD": "cut corners",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) cut corners\n• 'Cut corners' എന്നാൽ 'പണമോ സമയമോ ലാഭിക്കാൻ എളുപ്പവഴി സ്വീകരിച്ച് ജോലി മോശമായി ചെയ്യുക' എന്നർത്ഥം.\n• കരാറുകാരൻ ചെലവ് കുറയ്ക്കാൻ നിലവാരം കുറഞ്ഞ രീതിയിൽ പണിതു — അതിന്റെ ഫലമായി മേൽക്കൂര തകർന്നു.\n• 'resulting in collapsed roof' എന്ന ഭാഗമാണ് ഉത്തരത്തിലേക്കുള്ള സൂചന — ഒരു മോശം പ്രവൃത്തിയുടെ ഫലം.\n• Blank-ൽ ഒരു ക്രിയ വേണം; options-ൽ ക്രിയയായി ഉപയോഗിക്കാവുന്നതും അർത്ഥം ചേരുന്നതും 'cut corners' മാത്രം.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Cut corners = ചെലവ് ചുരുക്കാൻ നിലവാരം കുറയ്ക്കുക\n• Idiom-ന്റെ അർത്ഥം അതിലെ വാക്കുകളുടെ നേരിട്ടുള്ള അർത്ഥമല്ല — ആലങ്കാരിക അർത്ഥമാണ്.\n• ഈ ചോദ്യത്തിലെ idiom കൂട്ടം:\n• Pros and cons — ഗുണദോഷങ്ങൾ\n• Under the weather — സുഖമില്ലാത്ത അവസ്ഥ\n• Hit the sack — ഉറങ്ങാൻ പോകുക\n• Cut corners — എളുപ്പവഴി സ്വീകരിച്ച് ജോലി മോശമാക്കുക\n• Etymology hint: വളവിലെത്തുമ്പോൾ മൂല (corner) മുറിച്ച് കുറുക്കുവഴി ഓടുന്ന ഓട്ടക്കാരന്റെ ചിത്രത്തിൽ നിന്നാണ് ഈ idiom വന്നത്.\n• ⭐ PSC ആവർത്തനം: ദൈനംദിന idioms സന്ദർഭത്തിൽ നിന്ന് തിരിച്ചറിയുന്ന ചോദ്യങ്ങൾ PSC-യിൽ കൂടിവരുന്നു.\n• ഉദാഹരണ sentences:\n1. Don't cut corners when it comes to safety. (സുരക്ഷയുടെ കാര്യത്തിൽ എളുപ്പവഴി നോക്കരുത്)\n2. The company cut corners to save money. (പണം ലാഭിക്കാൻ കമ്പനി നിലവാരം കുറച്ചു)\n3. Good doctors never cut corners. (നല്ല ഡോക്ടർമാർ ഒരിക്കലും ജോലിയിൽ ഉഴപ്പില്ല)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Pros and cons\n• 'ഒരു കാര്യത്തിന്റെ ഗുണങ്ങളും ദോഷങ്ങളും' എന്നർത്ഥം — ഇതൊരു noun phrase ആണ്, ക്രിയയല്ല.\n• 'The contractor pros and cons' എന്ന് പറയാനാവില്ല.\n• 🪤 PSC Trap: ഏറ്റവും പരിചിതമായ പ്രയോഗം ആയതിനാൽ ആദ്യം കണ്ണിൽപ്പെടും.\n\n• (B) under the weather\n• 'സുഖമില്ലാതിരിക്കുക, ക്ഷീണം തോന്നുക' എന്നർത്ഥം — I'm feeling under the weather today.\n• 'is/was' ഇല്ലാതെ ഇവിടെ ചേരില്ല; മേൽക്കൂര തകരുന്നതുമായി ബന്ധവുമില്ല.\n• 🪤 PSC Trap: 'weather' കണ്ട് കെട്ടിടം/കാലാവസ്ഥ ബന്ധം തോന്നിപ്പിക്കാനുള്ള കെണി.\n\n• (C) Hit the sack\n• 'ഉറങ്ങാൻ കിടക്കുക' എന്നർത്ഥം — I'm tired; I'll hit the sack early.\n• കരാറുകാരൻ ഉറങ്ങിയതുകൊണ്ട് മേൽക്കൂര തകരില്ല!\n• 🪤 PSC Trap: 'Hit' എന്ന വാക്ക് തകർച്ചയുമായി ബന്ധിപ്പിക്കാൻ തോന്നിക്കുന്ന കെണി.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'മൂല മുറിച്ചാൽ മേൽക്കൂര വീഴും!' — മൂലകൾ മുറിച്ച് പണിത കെട്ടിടം ഒരു ദിവസം തകരും എന്ന ചിത്രം മനസ്സിൽ വെക്കുക.\n• ഒരുമിച്ച് പഠിക്കേണ്ടവ: cut corners, cut a sorry figure (മോശം പ്രകടനം), cut no ice (ഫലമില്ലാതിരിക്കുക), cut to the chase (നേരെ കാര്യത്തിലേക്ക് വരിക).\n• PSC strategy: Idiom blank ചോദ്യത്തിൽ വാക്യത്തിലെ ഫലം/കാരണം സൂചിപ്പിക്കുന്ന ഭാഗം (ഇവിടെ 'resulting in collapsed roof') കണ്ടെത്തുക; പിന്നെ blank-ൽ വ്യാകരണപരമായി ചേരുന്ന (ക്രിയയാണോ നാമമാണോ) idiom തിരഞ്ഞെടുക്കുക!"
+    }
+  },
+  {
+    "id": "098-2026-M-Q77",
+    "paperId": "098-2026-M",
+    "questionNumber": 77,
+    "topic": "Subject-Verb Agreement",
+    "subtopic": "Basic Agreement",
+    "questionText": "Find out the correct sentence or sentences:\n(i) She lives in London\n(ii) They lives in London\n(iii) We live in London",
+    "optionA": "Only (i) & (iii)",
+    "optionB": "Only (i) & (ii)",
+    "optionC": "Only (i)",
+    "optionD": "Only (ii) & (iii)",
+    "correctAnswer": "A",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (A) Only (i) & (iii)\n• (i) 'She lives in London' — She എന്നത് third person singular ആയതിനാൽ ക്രിയയ്ക്ക് -s വേണം → 'lives' ശരി.\n• (iii) 'We live in London' — We എന്നത് plural ആയതിനാൽ ക്രിയയ്ക്ക് -s വേണ്ട → 'live' ശരി.\n• (ii) 'They lives in London' — They plural ആണ്; 'lives' എന്ന singular രൂപം ചേരില്ല. ശരിയായ രൂപം: They live in London.\n• Subject ഏകവചനമാണോ ബഹുവചനമാണോ എന്നതനുസരിച്ച് ക്രിയ മാറുന്നതാണ് Subject-Verb Agreement.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: He / She / It / ഒരു പേര് + V1-s | I / We / You / They + V1\n• Simple Present tense-ൽ third person singular subject-ന് മാത്രമേ ക്രിയയിൽ -s/-es ചേർക്കൂ.\n• ബാക്കി എല്ലാ subject-കൾക്കും (I, we, you, they, plural nouns) ക്രിയയുടെ base form മതി.\n• ഓർക്കുക: നാമത്തിന് -s ചേർത്താൽ ബഹുവചനം, ക്രിയയ്ക്ക് -s ചേർത്താൽ ഏകവചനം! (The boys play / The boy plays)\n• ⭐ PSC ആവർത്തനം: Subject-Verb Agreement PSC English-ൽ ഏറ്റവും കൂടുതൽ ചോദിക്കുന്ന topic-കളിൽ ഒന്നാണ്.\n• ഉദാഹരണ sentences:\n1. He works in a bank. (അവൻ ഒരു ബാങ്കിൽ ജോലി ചെയ്യുന്നു)\n2. They work in a bank. (അവർ ഒരു ബാങ്കിൽ ജോലി ചെയ്യുന്നു)\n3. My sister teaches English. (എന്റെ സഹോദരി English പഠിപ്പിക്കുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (B) Only (i) & (ii)\n• (ii) 'They lives' തെറ്റാണ്; ശരിയായ (iii) ഒഴിവാക്കിയിരിക്കുന്നു.\n• 🪤 PSC Trap: 'lives' എന്ന ഒരേ ക്രിയ രണ്ടിലും കണ്ട് രണ്ടും ശരിയെന്ന് തോന്നിപ്പിക്കാനുള്ള കെണി.\n\n• (C) Only (i)\n• (i) ശരിയാണ്, പക്ഷേ (iii) 'We live' ഉം ശരിയാണ് — അതിനെ ഒഴിവാക്കിയത് തെറ്റ്.\n• 🪤 PSC Trap: 'live'-ന് -s ഇല്ലാത്തത് തെറ്റാണെന്ന് തെറ്റിദ്ധരിക്കുന്നവർക്കുള്ള കെണി.\n\n• (D) Only (ii) & (iii)\n• (ii) തെറ്റ്, (i) ശരിയായിട്ടും ഒഴിവാക്കി — രണ്ട് തെറ്റുകൾ.\n• 🪤 PSC Trap: ബഹുവചന subject-കൾ ഒന്നിച്ച് ഗ്രൂപ്പ് ചെയ്യുന്നവരെ വീഴ്ത്താനുള്ള option.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ഒരാൾക്ക് ഒരു S' — subject ഒരാൾ മാത്രം (he/she/it) ആണെങ്കിൽ ക്രിയയ്ക്ക് S എന്ന സമ്മാനം; പലരാണെങ്കിൽ S ഇല്ല!\n• ഒരുമിച്ച് പഠിക്കേണ്ടവ: has/have, is/are, was/were, does/do — ഏകവചന/ബഹുവചന ജോഡികൾ.\n• PSC strategy: (i), (ii), (iii) ചോദ്യങ്ങളിൽ ഓരോ വാക്യത്തിനും നേരെ ✓/✗ ഇടുക; എന്നിട്ട് ✓ കിട്ടിയവയുടെ കൂട്ടം options-ൽ തിരയുക. guaranteed mark!"
+    }
+  },
+  {
+    "id": "098-2026-M-Q78",
+    "paperId": "098-2026-M",
+    "questionNumber": 78,
+    "topic": "Active and Passive Voice",
+    "subtopic": "Continuous Tenses",
+    "questionText": "Change into passive voice:\n\"Sona is baking a cake\"",
+    "optionA": "A cake is baked by Sona",
+    "optionB": "A cake is being baked by Sona",
+    "optionC": "Sona baked a cake",
+    "optionD": "Sona has baked a cake",
+    "correctAnswer": "B",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (B) A cake is being baked by Sona\n• 'Sona is baking a cake' — ഇത് Present Continuous tense ആണ് (is + V-ing).\n• Active voice-ലെ tense തന്നെ passive voice-ലും നിലനിൽക്കണം — അതുകൊണ്ട് passive-ഉം Present Continuous തന്നെ.\n• Present Continuous passive: is/am/are + being + V3 → 'is being baked'.\n• Object 'a cake' subject ആയി മുന്നിലേക്ക് വരുന്നു; 'Sona' by-ക്ക് ശേഷം പിന്നിലേക്ക് പോകുന്നു.\n• 'സോന ഒരു കേക്ക് ഉണ്ടാക്കിക്കൊണ്ടിരിക്കുന്നു' → 'സോനയാൽ ഒരു കേക്ക് ഉണ്ടാക്കപ്പെട്ടുകൊണ്ടിരിക്കുന്നു'.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Active tense = Passive tense ALWAYS | Continuous-ൽ 'being' നിർബന്ധം\n• ഓരോ tense-ന്റെയും passive രൂപം:\n• Present Continuous: is/am/are + being + V3 (is being baked)\n• Past Continuous: was/were + being + V3 (was being baked)\n• Simple Present: is/am/are + V3 (is baked)\n• Present Perfect: has/have + been + V3 (has been baked)\n• Passive-ലേക്ക് മാറ്റുമ്പോൾ object മുന്നിലേക്കും subject 'by'-ക്ക് ശേഷം പിന്നിലേക്കും പോകും.\n• ⭐ PSC ആവർത്തനം: Continuous tense-ന്റെ passive ('being' ഉള്ളത്) PSC ആവർത്തിച്ച് ചോദിക്കുന്നു — മിക്കപ്പോഴും 'is baked' എന്ന കെണിയോടൊപ്പം.\n• ഉദാഹരണ sentences:\n1. She is making tea. → Tea is being made by her. (അവളാൽ ചായ ഉണ്ടാക്കപ്പെട്ടുകൊണ്ടിരിക്കുന്നു)\n2. They were building a bridge. → A bridge was being built by them. (അവരാൽ ഒരു പാലം പണിയപ്പെട്ടുകൊണ്ടിരുന്നു)\n3. The boys are playing football. → Football is being played by the boys. (കുട്ടികളാൽ ഫുട്ബോൾ കളിക്കപ്പെട്ടുകൊണ്ടിരിക്കുന്നു)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) A cake is baked by Sona\n• ഇത് Simple Present-ന്റെ passive ആണ് — 'Sona bakes a cake' എന്നതിന്റേത്.\n• 'being' വിട്ടുപോയതിനാൽ tense തന്നെ മാറിപ്പോയി.\n• 🪤 PSC Trap: ഏറ്റവും അടുത്ത് നിൽക്കുന്ന option — 'being' ശ്രദ്ധിക്കാത്തവരെ വീഴ്ത്തും!\n\n• (C) Sona baked a cake\n• ഇത് active voice-ൽ തന്നെയാണ്, Simple Past tense-ൽ.\n• Voice-ഉം tense-ഉം രണ്ടും മാറിപ്പോയി.\n• 🪤 PSC Trap: Passive എന്നാൽ ഭൂതകാലം എന്ന് തെറ്റിദ്ധരിക്കുന്നവർക്കുള്ള കെണി.\n\n• (D) Sona has baked a cake\n• ഇതും active voice ആണ്, Present Perfect tense-ൽ.\n• 🪤 PSC Trap: വ്യാകരണപരമായി ശരിയായ വാക്യമാണ്, പക്ഷേ ചോദിച്ച മാറ്റം ഇതല്ല.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'ING കണ്ടാൽ BEING' — active-ൽ -ing ഉണ്ടെങ്കിൽ passive-ൽ being + V3 ഉറപ്പ്!\n• ഒരുമിച്ച് പഠിക്കേണ്ടവ: Perfect-ൽ 'been' (has been baked), Continuous-ൽ 'being' (is being baked), Modal-ൽ 'be' (will be baked) — be/being/been ത്രയം.\n• PSC strategy: Passive ചോദ്യത്തിൽ ആദ്യം active-ന്റെ tense കണ്ടെത്തുക. പിന്നെ ആ tense-ന്റെ formula ഉള്ള option മാത്രം നോക്കുക — active voice-ൽ തന്നെ നിൽക്കുന്ന options ഉടനെ വെട്ടുക!"
+    }
+  },
+  {
+    "id": "098-2026-M-Q79",
+    "paperId": "098-2026-M",
+    "questionNumber": 79,
+    "topic": "Foreign Words and Phrases",
+    "questionText": "The word \"entrepreneur\" is originated from the French word _______.",
+    "optionA": "entreprendar",
+    "optionB": "entreprend",
+    "optionC": "entreprendre",
+    "optionD": "entreprenda",
+    "correctAnswer": "C",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (C) entreprendre\n• 'Entrepreneur' എന്ന English വാക്ക് French ക്രിയയായ 'entreprendre' എന്നതിൽ നിന്നാണ് വന്നത്.\n• 'entreprendre' എന്നാൽ 'ഏറ്റെടുക്കുക, ഒരു സംരംഭം തുടങ്ങുക' (to undertake) എന്നർത്ഥം.\n• അങ്ങനെ 'entrepreneur' = 'റിസ്ക് ഏറ്റെടുത്ത് ഒരു ബിസിനസ് തുടങ്ങുന്ന ആൾ', അതായത് സംരംഭകൻ.\n• French ക്രിയകൾ പലതും '-re' എന്ന അവസാനത്തോടെയാണ് വരുന്നത് — prendre, vendre, entreprendre.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: entre (ഇടയിൽ) + prendre (എടുക്കുക) = entreprendre (ഏറ്റെടുക്കുക) → entrepreneur (ഏറ്റെടുക്കുന്നവൻ)\n• French വാക്കിന്റെ '-eur' അവസാനം 'ചെയ്യുന്നയാൾ' എന്ന് സൂചിപ്പിക്കുന്നു (English-ലെ -er പോലെ).\n• '-eur' കുടുംബം: entrepreneur, connoisseur, amateur, chauffeur, saboteur, raconteur.\n• Etymology hint: Latin 'prehendere' (പിടിക്കുക) → French 'prendre' → English-ലെ apprehend, comprehend, enterprise. 'Enterprise' എന്ന വാക്കും ഇതേ കുടുംബത്തിലുള്ളതാണ്.\n• ⭐ PSC ആവർത്തനം: വാക്കുകളുടെ ഉത്ഭവം ചോദിക്കുന്ന ചോദ്യങ്ങൾ PSC-യിൽ ഇടയ്ക്കിടെ വരുന്നു.\n• ഉദാഹരണ sentences:\n1. Kerala encourages young entrepreneurs through its start-up mission. (സ്റ്റാർട്ടപ്പ് മിഷനിലൂടെ കേരളം യുവസംരംഭകരെ പ്രോത്സാഹിപ്പിക്കുന്നു)\n2. She is a successful entrepreneur. (അവൾ ഒരു വിജയിയായ സംരംഭകയാണ്)\n3. The enterprise was started by two friends. (രണ്ട് സുഹൃത്തുക്കൾ ചേർന്നാണ് ആ സംരംഭം തുടങ്ങിയത്)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) entreprendar\n• '-ar' എന്ന അവസാനം Spanish ക്രിയകളുടേതാണ്; French-ൽ ഇങ്ങനെയൊരു വാക്കില്ല.\n• 🪤 PSC Trap: ശരിയായ വാക്കിനോട് വളരെ സാമ്യമുള്ള കൃത്രിമ രൂപം.\n\n• (B) entreprend\n• 'entreprendre' എന്ന ക്രിയയുടെ ഒരു രൂപഭേദം മാത്രമാണ് (il entreprend = അവൻ ഏറ്റെടുക്കുന്നു); മൂലരൂപം അല്ല.\n• 🪤 PSC Trap: അവസാനത്തെ '-re' മുറിച്ചുകളഞ്ഞ് ചുരുക്കിയ രൂപം — ശ്രദ്ധക്കുറവുള്ളവരെ പിടിക്കും.\n\n• (D) entreprenda\n• '-a' എന്ന അവസാനം French ക്രിയയുടെ അടിസ്ഥാനരൂപത്തിന് ഇല്ല.\n• 🪤 PSC Trap: Italian/Spanish വാക്ക് പോലെ തോന്നിക്കുന്ന കൃത്രിമ രൂപം.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Enterprise തുടങ്ങുന്നവൻ Entrepreneur' — enterprise എന്ന പരിചിതമായ വാക്കിലെ 'prise' ഓർത്താൽ 'prendre' (എടുക്കുക) മനസ്സിൽ വരും.\n• ഒരുമിച്ച് പഠിക്കേണ്ട French വാക്കുകൾ: bourgeois, rendezvous, connoisseur, entrepreneur, etiquette, coup d'état.\n• PSC strategy: ഉത്ഭവം ചോദിക്കുന്ന ചോദ്യത്തിൽ വാക്കിന്റെ അവസാന അക്ഷരങ്ങൾ ശ്രദ്ധിക്കുക — French ക്രിയകൾ -er, -ir, -re എന്നിവയിൽ അവസാനിക്കും. '-ar', '-a' കണ്ടാൽ ഉടനെ വെട്ടാം!"
+    }
+  },
+  {
+    "id": "098-2026-M-Q80",
+    "paperId": "098-2026-M",
+    "questionNumber": 80,
+    "topic": "One Word Substitutes",
+    "questionText": "One who offers one's services is known as ________.",
+    "optionA": "Optimist",
+    "optionB": "Theist",
+    "optionC": "Novice",
+    "optionD": "Volunteer",
+    "correctAnswer": "D",
+    "explanation": {
+      "correct": "✅ ശരിയുത്തരം: (D) Volunteer\n• 'Volunteer' എന്നാൽ 'പ്രതിഫലം പ്രതീക്ഷിക്കാതെ സ്വന്തം ഇഷ്ടപ്രകാരം സേവനം ചെയ്യാൻ മുന്നോട്ട് വരുന്ന ആൾ' — സന്നദ്ധ പ്രവർത്തകൻ.\n• 'One who offers one's services' എന്ന നിർവചനത്തിന് കൃത്യമായി ചേരുന്നത് ഇതാണ്.\n• പ്രളയകാലത്ത് കേരളത്തിൽ രക്ഷാപ്രവർത്തനത്തിന് ഇറങ്ങിയ സന്നദ്ധ പ്രവർത്തകരെ ഓർക്കുക — അവരാണ് volunteers.\n• Etymology: Latin 'voluntas' — 'ഇഷ്ടം, മനസ്സ്' എന്നർത്ഥം; 'voluntary' എന്ന വാക്കും ഇതിൽ നിന്നാണ്.",
+      "rule": "📌 വ്യാകരണ നിയമം\n• 🔑 Quick Formula: Volunteer = സ്വമനസ്സാലെ സേവനം ചെയ്യുന്നവൻ (voluntas = ഇഷ്ടം)\n• One Word Substitute ചോദ്യങ്ങളിൽ നിർവചനത്തിലെ പ്രധാന ആശയം (ഇവിടെ 'offers services') കണ്ടെത്തി അതിന് ചേരുന്ന വാക്ക് തിരഞ്ഞെടുക്കുക.\n• ബന്ധപ്പെട്ട വാക്കുകൾ:\n• Optimist — എല്ലാത്തിലും നല്ലത് കാണുന്നവൻ | Pessimist — എല്ലാത്തിലും മോശം കാണുന്നവൻ\n• Theist — ദൈവത്തിൽ വിശ്വസിക്കുന്നവൻ | Atheist — വിശ്വസിക്കാത്തവൻ\n• Novice — ഒരു മേഖലയിലെ തുടക്കക്കാരൻ\n• ⭐ PSC ആവർത്തനം: വ്യക്തികളെ സൂചിപ്പിക്കുന്ന one word substitutes PSC-യിൽ എല്ലാ വർഷവും വരുന്നു.\n• ഉദാഹരണ sentences:\n1. Many volunteers helped during the flood. (പ്രളയസമയത്ത് നിരവധി സന്നദ്ധ പ്രവർത്തകർ സഹായിച്ചു)\n2. She volunteered to teach poor children. (പാവപ്പെട്ട കുട്ടികളെ പഠിപ്പിക്കാൻ അവൾ സ്വയം മുന്നോട്ട് വന്നു)\n3. The NSS volunteers cleaned the beach. (NSS സന്നദ്ധ പ്രവർത്തകർ കടൽത്തീരം വൃത്തിയാക്കി)",
+      "wrong": "❌ തെറ്റായ ഉത്തരങ്ങൾ\n• (A) Optimist\n• 'എല്ലാ കാര്യത്തിലും നല്ലതു മാത്രം പ്രതീക്ഷിക്കുന്ന ശുഭാപ്തിവിശ്വാസി' എന്നർത്ഥം.\n• സേവനം ചെയ്യുന്നതുമായി ബന്ധമില്ല — മനോഭാവത്തെയാണ് ഇത് സൂചിപ്പിക്കുന്നത്.\n• 🪤 PSC Trap: നല്ല അർത്ഥമുള്ള വാക്കായതിനാൽ 'നല്ല മനുഷ്യൻ' എന്ന് തോന്നിപ്പിക്കും.\n\n• (B) Theist\n• 'ദൈവത്തിൽ വിശ്വസിക്കുന്ന ആൾ' എന്നർത്ഥം (Greek 'theos' = ദൈവം).\n• സേവനവുമായി ഇതിന് ബന്ധമില്ല.\n• 🪤 PSC Trap: സേവനത്തെ മതവിശ്വാസവുമായി ബന്ധിപ്പിക്കുന്നവരെ വീഴ്ത്താനുള്ള option.\n\n• (C) Novice\n• 'ഒരു ജോലിയിലോ മേഖലയിലോ പുതുതായി വന്ന തുടക്കക്കാരൻ' എന്നർത്ഥം.\n• പരിചയക്കുറവാണ് ഇത് കാണിക്കുന്നത്, സേവനമനോഭാവമല്ല.\n• 🪤 PSC Trap: പുതിയ volunteer-ഉം ഒരു തുടക്കക്കാരനാകാം എന്ന തോന്നൽ ഉണ്ടാക്കുന്ന കെണി.",
+      "tip": "💡 HOW COME Tip\n• 🧠 Memory trick: 'Volunteer-ലെ VOL = Voluntary = സ്വമനസ്സാലെ' — ആരും നിർബന്ധിക്കാതെ മുന്നോട്ട് വരുന്നവൻ!\n• ഒരുമിച്ച് പഠിക്കേണ്ടവ: Philanthropist (മനുഷ്യസ്നേഹി), Altruist (പരോപകാരി), Volunteer (സന്നദ്ധസേവകൻ), Mercenary (പണത്തിനു വേണ്ടി മാത്രം സേവിക്കുന്നവൻ).\n• PSC strategy: One word ചോദ്യത്തിൽ ഓരോ option-ന്റെയും അർത്ഥം ഒറ്റവാക്കിൽ മനസ്സിൽ പറയുക; നിർവചനവുമായി ഒത്തുപോകുന്നത് മാത്രം നിൽക്കും. ഒരിക്കലും miss ആകില്ല!"
+    }
   }
 ]

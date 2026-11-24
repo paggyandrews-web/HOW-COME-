@@ -2283,5 +2283,15 @@
     "year": "2026",
     "categoryCode": "187/2025,188/2025",
     "answerKeyStatus": "provisional"
+  },
+  {
+    "id": "098-2026-M",
+    "paperCode": "098/2026 M",
+    "post": "Inspecting Assistant - Legal Metrology",
+    "date": "21-Nov-2026",
+    "medium": "M",
+    "year": "2026",
+    "categoryCode": "647/2025,883/2025",
+    "answerKeyStatus": "provisional"
   }
 ]
