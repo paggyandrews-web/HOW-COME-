@@ -23,7 +23,7 @@ import android.view.ViewGroup;
 public class MainActivity extends Activity {
 
     private WebView webView;
-    private static final String URL = "https://how-come.vercel.app/";
+    private static final String URL = "https://howcome.in/";
 
     @SuppressLint("SetJavaScriptEnabled")
     @Override
@@ -100,10 +100,11 @@ public class MainActivity extends Activity {
             public boolean shouldOverrideUrlLoading(WebView view, WebResourceRequest request) {
                 Uri uri = request.getUrl();
                 String url = uri.toString();
-                if (url.startsWith("https://how-come.vercel.app")) {
+                if (url.startsWith("https://howcome.in")) {
                     return false;
                 }
-                // Links to the public domain (howcome.in) stay inside the app.
+                // Links to www.howcome.in or the old how-come.vercel.app address stay
+                // inside the app (opened on howcome.in).
                 String inApp = toAppUrl(uri);
                 if (inApp != null) {
                     view.loadUrl(inApp);
@@ -154,9 +155,9 @@ public class MainActivity extends Activity {
         return toAppUrl(intent.getData());
     }
 
-    // Shared links use the public domain (https://howcome.in/papers/...), but
-    // the app runs on how-come.vercel.app — where the user's login and saved
-    // progress live. Open the same page on the app's own domain.
+    // The app runs on howcome.in (hosted on Cloudflare). Older shared links may
+    // still use how-come.vercel.app or www.howcome.in — open the same page on
+    // howcome.in, where the user's login lives.
     private static String toAppUrl(Uri data) {
         if (data == null || !"https".equals(data.getScheme())) return null;
         String host = data.getHost();
@@ -166,7 +167,7 @@ public class MainActivity extends Activity {
                 && !host.equals("www.howcome.in")) {
             return null;
         }
-        return data.buildUpon().authority("how-come.vercel.app").build().toString();
+        return data.buildUpon().authority("howcome.in").build().toString();
     }
 
     @Override
